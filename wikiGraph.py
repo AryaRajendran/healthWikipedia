@@ -20,8 +20,9 @@ with open(categoryLinksFile, 'rb') as f:
         G.add_edge(row[0], row[1])
 	    #G.add_edge(row[1], row[0])
 
-print "Dijkstra"
-path = nx.all_pairs_dijkstra_path(G)
+print "Floyd-Warshall"
+#path = nx.all_pairs_dijkstra_path(G)
+path = all_pairs_shortest_path_length(G)
 
 #print G.nodes()
 #print path
@@ -41,7 +42,7 @@ with open(pageFile, 'rb') as f:
             
 
             if tcat in path[cat]:
-                dist = len(path[cat][tcat])
+                dist = int(path[cat][tcat])
 
                 #print "Page ", page, " cat = ", cat, " catDest = ", tcat, " dist = ", dist
                 if page not in mapPageCat:
