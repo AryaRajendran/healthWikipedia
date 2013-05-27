@@ -1,8 +1,9 @@
 import networkx as nx
 import csv
 
-categoryLinksFile = "categoryToCategory.csv"
-pageFile = "pageToCategory.csv"
+prefix = "small."
+categoryLinksFile = prefix+"categoryToCategory.csv"
+pageFile = prefix+"pageToCategory.csv"
 
 topCategories = ["Category:Agriculture", "Category:Arts", "Category:Belief", "Category:Business", "Category:Chronology", "Category:Culture", "Category:Education", "Category:Environment", "Category:Geography", "Category:Health", "Category:History", "Category:Humanities", "Category:Language", "Category:Law", "Category:Life", "Category:Mathematics", "Category:Medicine", "Category:Nature", "Category:People", "Category:Politics", "Category:Science", "Category:Society", "Category:Sports", "Category:Technology"]
 mapPageCat = {}
@@ -52,8 +53,15 @@ with open(pageFile, 'rb') as f:
                     if dist < smallestDist:
                         mapPageCat[page] = (tcat, dist)
 
-print "Printing Map:"
-for (k,v) in mapPageCat.iteritems():
-    print "Page: ", k, " Category: ", v
+
+
+with open(prefix + "healthPages.txt", "w") as f:
+
+    print "Printing Map:"
+    for (k,v) in mapPageCat.iteritems():
+        print "Page: ", k, " Category: ", v
+        if v[0] == "Category:Health":
+            f.write(k + '\n' )
+
 
 

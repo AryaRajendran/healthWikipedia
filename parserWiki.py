@@ -3,19 +3,21 @@ import xml.etree.ElementTree as ET
 import re
 import csv
 
+prefix="small."
+
 # categoryToCategory.csv contains all links among two categories
-categoryLinksFile = "categoryToCategory.csv"
+categoryLinksFile = prefix + "categoryToCategory.csv"
 catCSV = open(categoryLinksFile, 'wb')
 catWriter = csv.writer(catCSV, delimiter=',', quoting=csv.QUOTE_ALL, quotechar ='"', escapechar='\\', doublequote=False)
 
 # pageToCategory.csv describes all the categories that a page belongs
-pageFile = "pageToCategory.csv"
+pageFile = prefix + "pageToCategory.csv"
 pageCSV = open(pageFile, 'wb')
 pageWriter = csv.writer(pageCSV, delimiter=',', quoting=csv.QUOTE_ALL, quotechar ='"', escapechar='\\', doublequote=False)
 
 #filename="simplewiki-20130501-pages-articles-multistream.xml.bz2"
-#filename="small-simplewiki-20130501-pages-articles.xml.bz2"
-filename="enwiki-20130503-pages-articles-multistream.xml.bz2"
+filename="small-simplewiki-20130501-pages-articles.xml.bz2"
+#filename="enwiki-20130503-pages-articles-multistream.xml.bz2"
 
 
 #print "Started..."
