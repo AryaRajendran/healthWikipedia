@@ -1,5 +1,6 @@
 import bz2
-import xml.etree.ElementTree as ET 
+#import xml.etree.ElementTree as ET 
+from lxml import etree
 import re
 import csv
 
@@ -25,19 +26,25 @@ wikifile = bz2.BZ2File(filename)
 
 #print "Parsing tree..."
 tree = ET.parse(wikifile)
+root = etree.iterparse( MYFILE, tag='page')
 
 #print "Printing root..."
-root = tree.getroot()
+#root = tree.getroot()
 #print "Tag - ", root.tag,  "att ", root.attrib
 
+def fast_iter(context, func):
+    # http://www.ibm.com/developerworks/xml/library/x-hiperfparse/
+    # Author: Liza Daly
+    for event, elem in context:
+        func(elem)
+        elem.clear()
+        while elem.getprevious() is not None:
+            del elem.getparent()[0]
+    del context
 
-#for page in root.findall('{http://www.mediawiki.org/xml/export-0.8/}title'):
-#	print "tag - ", page.tag, " att ", page.attrib
-
-for child in root:
-    #print "tag - ", child.tag, " att ", child.attrib
-    title = child.find('title')
-    text = child.find('revision/text')
+def process_element(elem):
+    title = elem.xpath('title/text()')
+    text = elem.xpath('revision/text/text()')
 
     #print "Title = ", title
     if title is not None:
@@ -64,6 +71,9 @@ for child in root:
                 catWriter.writerow([inLink, "Category:"+outLink])
             else:
                 pageWriter.writerow([inLink, "Category:"+outLink])
+
+
+fast_iter(root,process_element)
 
 #print "Closing..."
 wikifile.close()

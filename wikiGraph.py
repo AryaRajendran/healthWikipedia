@@ -1,7 +1,7 @@
 import networkx as nx
 import csv
 
-prefix = "small."
+prefix = "simple."
 categoryLinksFile = prefix+"categoryToCategory.csv"
 pageFile = prefix+"pageToCategory.csv"
 
@@ -56,12 +56,12 @@ with open(pageFile, 'rb') as f:
 
 
 
-with open(prefix + "healthPages.txt", "w") as f:
+with open(prefix + "medicinePages.txt", "w") as f:
 
     print "Printing Map:"
     for (k,v) in mapPageCat.iteritems():
         print "Page: ", k, " Category: ", v
-        if v[0] == "Category:Health":
+        if v[0] == "Category:Medicine":
             f.write(k + '\n' )
 
 
