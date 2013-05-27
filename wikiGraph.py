@@ -22,7 +22,7 @@ with open(categoryLinksFile, 'rb') as f:
 
 print "Floyd-Warshall"
 #path = nx.all_pairs_dijkstra_path(G)
-path = all_pairs_shortest_path_length(G)
+path = nx.all_pairs_shortest_path_length(G)
 
 #print G.nodes()
 #print path
