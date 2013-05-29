@@ -1,10 +1,8 @@
-import bz2
 import xml.etree.ElementTree as ET 
 #from lxml import etree
-import re
-import csv
+import re, csv, sys, bz2
 
-prefix="en."
+prefix= sys.argv[1] + "."
 
 # categoryToCategory.csv contains all links among two categories
 categoryLinksFile = prefix + "categoryToCategory.csv"
@@ -16,9 +14,12 @@ pageFile = prefix + "pageToCategory.csv"
 pageCSV = open(pageFile, 'wb')
 pageWriter = csv.writer(pageCSV, delimiter=',', quoting=csv.QUOTE_ALL, quotechar ='"', escapechar='\\', doublequote=False)
 
-#filename="simplewiki-20130501-pages-articles-multistream.xml.bz2"
-#filename="small-simplewiki-20130501-pages-articles.xml.bz2"
-filename="enwiki-20130503-pages-articles-multistream.xml.bz2"
+if prefix == "en.":
+  filename="enwiki-20130503-pages-articles-multistream.xml.bz2"
+elif prefix == "simple.":
+  filename="simplewiki-20130501-pages-articles-multistream.xml.bz2"
+elif prefix == "small":
+  filename="small-simplewiki-20130501-pages-articles.xml.bz2"
 
 #print "Started..."
 #print "Reading file...%s" % (filename)
