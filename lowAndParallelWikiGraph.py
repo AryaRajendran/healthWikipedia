@@ -3,7 +3,8 @@ import csv, sys, time
 #import pp
 from scoop import futures
 
-prefix = "simple."
+prefix = sys.argv[1] + "."
+
 categoryLinksFile = prefix+"categoryToCategory.csv"
 pageFile = prefix+"pageToCategory.csv"
 
