@@ -1,6 +1,6 @@
 import bz2
-#import xml.etree.ElementTree as ET 
-from lxml import etree
+import xml.etree.ElementTree as ET 
+#from lxml import etree
 import re
 import csv
 
@@ -25,55 +25,95 @@ filename="enwiki-20130503-pages-articles-multistream.xml.bz2"
 wikifile = bz2.BZ2File(filename)
 
 #print "Parsing tree..."
-tree = ET.parse(wikifile)
-root = etree.iterparse( MYFILE, tag='page')
+root = ET.iterparse(wikifile)
+#root = etree.iterparse( MYFILE, tag='page')
 
 #print "Printing root..."
 #root = tree.getroot()
 #print "Tag - ", root.tag,  "att ", root.attrib
 
 def fast_iter(context, func):
-    # http://www.ibm.com/developerworks/xml/library/x-hiperfparse/
-    # Author: Liza Daly
+    
+    hasPage, hasTitle, hasText = False, False, False
+    title = None
+    text = None
     for event, elem in context:
-        func(elem)
-        elem.clear()
-        while elem.getprevious() is not None:
-            del elem.getparent()[0]
+        #print elem, " hasPage = ", hasPage
+
+        if elem.tag == 'page':
+            hasPage = True
+            elem.clear()
+            #print "Page"
+
+        elif elem.tag == 'title' and hasPage == True:
+            hasTitle = True
+            title = elem
+            #print "Title"
+
+        elif elem.tag == 'text' and hasPage == True:
+            hasText = True
+            text = elem
+            #print "Text"
+        else:
+            elem.clear()
+
+        if hasPage and hasTitle and hasText:
+            hasPage, hasTitle, hasText = False, False, False
+            func(title, text)
+            title.clear()
+            text.clear()
+
+        #elem.clear()
+        #while elem.getprevious() is not None:
+        #del elem.getparent()[0]
     del context
 
-def process_element(elem):
-    title = elem.xpath('title/text()')
-    text = elem.xpath('revision/text/text()')
+def process_element(title, text):
+    #title = elem.xpath('title/text()')
+    #text = elem.xpath('revision/text/text()')
+ 
+    inLink = title.text.encode('utf-8').strip()
+    inLink = inLink.replace("\t","")
+    inLink = inLink.replace("\t","")
+    inLink = inLink.replace("<200e>","")
+    inLink = inLink.replace("\xe2\x80\x8e","")
+    
+    #print "Going to process ", inLink, text.text
 
-    #print "Title = ", title
-    if title is not None:
-        #print title.text
-        wikiText = text.text
-        listOfRelatedCats = re.findall("\[\[Category:(.*)\]\]", unicode(wikiText))
-        for outCat in listOfRelatedCats:
-            #print "Category - " , cat		
-            #print title.text, "\t", cat
-            inLink = title.text.encode('utf-8').strip()
-            inLink = inLink.replace("\t","")
-            inLink = inLink.replace("\t","")
-            inLink = inLink.replace("<200e>","")
-            inLink = inLink.replace("\xe2\x80\x8e","")
+    #print title.text
+    wikiText = text.text
+    listOfRelatedCats = re.findall("\[\[Category:(.*)\]\]", unicode(wikiText))
+    outCats = []
+    for outCat in listOfRelatedCats:
+        #print "Category - " , cat		
+        #print title.text, "\t", cat
+        inLink = inLink.replace("\t","")
+        inLink = inLink.replace("\t","")
+        inLink = inLink.replace("<200e>","")
+        inLink = inLink.replace("\xe2\x80\x8e","")
 
-            outLink = outCat.encode('utf-8').split("|")[0].strip()
-            outLink = outLink.replace("]","")
-            outLink = outLink.replace("[","")
-            outLink = outLink.replace("\xe2\x80\x8e","")
+        outLink = outCat.encode('utf-8').split("|")[0].strip()
+        outLink = outLink.replace("]","")
+        outLink = outLink.replace("[","")
+        outLink = outLink.replace("\xe2\x80\x8e","")
 
-            outLink = outLink.replace("<200e>","")
+        outLink = outLink.replace("<200e>","")
+        
+        #store category
+        outCats.append( "Category:"+outLink)
+     
+    if len(outCats) == 0:
+        #Wikipedia article alone...
+        return
 
-            if "Category:" in inLink:
-                catWriter.writerow([inLink, "Category:"+outLink])
-            else:
-                pageWriter.writerow([inLink, "Category:"+outLink])
+    if "Category:" in inLink:
+        catWriter.writerow([inLink] + outCats)
+    else:
+        pageWriter.writerow([inLink] + outCats)
 
+    #print "Element processed:" + inLink
 
-fast_iter(root,process_element)
+fast_iter(root, process_element)
 
 #print "Closing..."
 wikifile.close()

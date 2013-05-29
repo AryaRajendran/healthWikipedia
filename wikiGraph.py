@@ -1,7 +1,7 @@
 import networkx as nx
 import csv
 
-prefix = "simple."
+prefix = "en."
 categoryLinksFile = prefix+"categoryToCategory.csv"
 pageFile = prefix+"pageToCategory.csv"
 
@@ -22,7 +22,10 @@ with open(categoryLinksFile, 'rb') as f:
 
 print "Floyd-Warshall"
 #path = nx.all_pairs_dijkstra_path(G)
-path = nx.all_pairs_shortest_path_length(G)
+#path = nx.all_pairs_shortest_path_length(G)
+#path = nx.floyd_warshall(G)
+path = nx.floyd_warshall_predecessor_and_distance(G)
+
 
 #print G.nodes()
 #print path
