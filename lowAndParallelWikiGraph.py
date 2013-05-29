@@ -10,7 +10,7 @@ pageFile = prefix+"pageToCategory.csv"
 #outFile = open(prefix + "medicineAndHealthPages.txt", "w")
 #categoriesTarget = ["Category:Medicine", "Category:Health"]
 outFile = open(prefix + "medicineAndHealthPages.txt", "w")
-categoriesTarget = ["Category:Medicine", "Category:Health", "Category:Nature", "Category:Life", "Category:Science"]
+categoriesTarget = ["Category:Medicine", "Category:Health"]
 
 
 if prefix == "simple.":
@@ -42,7 +42,7 @@ def process(methodIn):
 
     #print "Page === ", page, " map = ", mapPageCats
     smallestDist = 100000
-    chooseCats = []
+    chooseCats = set()
     
     for cat in mapPageCats:
         if cat not in nodes:
@@ -59,17 +59,19 @@ def process(methodIn):
                 continue
 
             if len(chooseCats) == 0:
-                chooseCats = [tcat]
+                chooseCats.clear()
+                chooseCats.add(tcat)
                 smallestDist = dist
             
             elif dist < smallestDist:
                 smallestDist = dist
-                chooseCats = [tcat]
+                chooseCats.clear()
+                chooseCats.add(tcat)
 
             elif dist == smallestDist:
-                chooseCats.append(tcat)
+                chooseCats.add(tcat)
 
-    print "Final decision --- Page: ", page, " Category: ", chooseCats
+    #print "Final decision --- Page: ", page, " Category: ", chooseCats
     for chooseCat in chooseCats:
         if chooseCat in categoriesTarget:
             return page
@@ -97,7 +99,7 @@ if __name__ == "__main__":
             cats = row[1:]
 
             counter += 1
-            print "Processing line " , counter
+            print "Processing line " , counter, " : ", page
 
             input = (page, cats) # , G, nodes, topCategories, categoriesTarget)
             inputs.append(input)
@@ -121,5 +123,4 @@ if __name__ == "__main__":
             if page is not None:
                 outFile.write(page + '\n' )
                 outFile.flush()    
-
 

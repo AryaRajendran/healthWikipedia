@@ -6,7 +6,7 @@ numberOfPages = 4458427 / 5
 pagesCounter = 0
 part = str(sys.argv[1])
 
-prefix = "bla."
+prefix = "simple."
 categoryLinksFile = prefix+"categoryToCategory.csv"
 pageFile = prefix+"pageToCategory.csv"
 
@@ -14,7 +14,7 @@ pageFile = prefix+"pageToCategory.csv"
 #categoriesTarget = ["Category:Medicine", "Category:Health"]
 
 outFile = open(prefix + "medicineAndHealthPages.txt", "w")
-categoriesTarget = ["Category:Medicine", "Category:Health", "Category:Nature", "Category:Life", "Category:Science"]
+categoriesTarget = ["Category:Medicine", "Category:Health"]
 
 
 #TOP CATEGORIES FOR ENGLISH
@@ -31,9 +31,10 @@ with open(categoryLinksFile, 'rb') as f:
     reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_ALL, quotechar ='"', escapechar='\\', doublequote=False)
     for row in reader:
         G.add_node(row[0])
-        G.add_node(row[1])
-        G.add_edge(row[0], row[1])
-	    #G.add_edge(row[1], row[0])
+        for cat in row[1:]:
+            G.add_node(cat)
+            G.add_edge(row[0], cat)
+            #G.add_edge(cat, row[0])
 
 nodes = G.nodes()
 
@@ -47,11 +48,9 @@ nodes = G.nodes()
 
 def process(page, mapPageCats):
 
-    print "Processed ", 100.0 * pagesCounter / numberOfPages
-
     #print "PAge === ", page, " map = ", mapPageCats
     smallestDist = 100000
-    chooseCat = None
+    chooseCats = set()
     
     for cat in mapPageCats:
         if cat not in nodes:
@@ -63,48 +62,39 @@ def process(page, mapPageCats):
             try:
                 dist = nx.shortest_path_length(G, source=cat, target=tcat)
             except nx.NetworkXNoPath:
-                dist = 0
+                continue
+            except nx.NetworkXError:
+                continue
 
-            if dist > 0:
-            #if tcat in path:
-            #    dist = int(path[tcat])
+            if len(chooseCats) == 0:
+                chooseCats.clear()
+                chooseCats.add(tcat)
+                smallestDist = dist
+            
+            elif dist < smallestDist:
+                smallestDist = dist
+                chooseCats.clear()
+                chooseCats.add(tcat)
 
-            #print "Page ", page, " cat = ", cat, " catDest = ", tcat, " dist = ", dist
-                if chooseCat == None:
-                    chooseCat = tcat
-                    smallestDist = dist
-                
-                #TODO: add treatment for same distance categories
-                elif dist < smallestDist:
-                    smallestDist = dist
-                    chooseCat = tcat
-        
-    print "Final decision --- Page: ", page, " Category: ", chooseCat
-    if chooseCat in categoriesTarget:
-        outFile.write(page + '\n' )
-        outFile.flush()
+            elif dist == smallestDist:
+                chooseCats.add(tcat)
+
+    print "Final decision --- Page: ", page, " Category: ", chooseCats
+    for chooseCat in chooseCats:
+        if chooseCat in categoriesTarget:
+            outFile.write(page + '\n' )
+            outFile.flush()
+            break
 
 
 print "Generating categories for each page"
 with open(pageFile, 'rb') as f:
     reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_ALL, quotechar ='"', escapechar='\\', doublequote=False)
-    (page, cat) = reader.next()
-
-    mapPageCats = [cat]
-    previousPage = page
-
+    
     #TODO: fix error where the category name ends with "
-    for (page, cat) in reader:
+    for row in reader:
         
-        #print " p = ", page, " c = ", cat
-        if page == previousPage:
-            mapPageCats.append(cat)
-        else:
-            pagesCounter += 1
-            process(previousPage, mapPageCats)
-
-            mapPageCats = []
-            mapPageCats.append(cat)
-            previousPage = page
-
+        print "Processed ", 100.0 * pagesCounter / numberOfPages
+        pagesCounter += 1
+        process(row[0], row[1:])
 
