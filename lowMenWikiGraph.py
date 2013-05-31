@@ -6,7 +6,7 @@ numberOfPages = 4458427 / 5
 pagesCounter = 0
 part = str(sys.argv[1])
 
-prefix = "simple."
+prefix = "bla."
 categoryLinksFile = prefix+"categoryToCategory.csv"
 pageFile = prefix+"pageToCategory.csv"
 
