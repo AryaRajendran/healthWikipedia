@@ -54,6 +54,10 @@ def process(methodIn):
         for tcat in topCategories:
             try:
                 dist = networkx.shortest_path_length(G, source=cat, target=tcat)
+                #wholePath = networkx.shortest_path(G, source=cat, target=tcat)
+                #dist = len(wholePath)
+                #print "Whole Path - from ", cat, " to ", tcat, " dist: ", dist, "----", wholePath, "\n"
+
             except networkx.NetworkXNoPath:
                 continue
             except networkx.NetworkXError:
@@ -72,7 +76,7 @@ def process(methodIn):
             elif dist == smallestDist:
                 chooseCats.add(tcat)
 
-    #print "Final decision --- Page: ", page, " Category: ", chooseCats
+    print "Final decision --- Page: ", page, " Category: ", chooseCats
     for chooseCat in chooseCats:
         if chooseCat in categoriesTarget:
             return page
