@@ -1,11 +1,12 @@
-import bz2
+import bz2, re, csv, sys
 import xml.etree.ElementTree as ET 
-import re
-import csv
 
-prefix="simple"
+inFile = sys.argv[1]
+
+prefix= inFile.split(".",1)[0]
 outDir = prefix + "wiki"
-inFile = prefix + ".medicineAndHealthPages.txt"
+print "Using prefix = ", prefix
+
 
 targetTitles = []
 
@@ -76,7 +77,6 @@ def process_element(wikititle, text):
     if title in targetTitles:
         if title.startswith("Template:"):
             return
-
         
         if text.text is None:
             print "TEXT IS NONE: ", title
@@ -86,6 +86,7 @@ def process_element(wikititle, text):
         wikiText = text.text.encode('utf-8')
 
         title = title.replace(" ","_")
+        title = title.replace("/","_")
         outFileName = outDir + "/" + title + "." + prefix
         with open(outFileName, "w") as f:
             f.write(wikiText)
