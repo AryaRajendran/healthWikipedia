@@ -1,0 +1,49 @@
+# a mini test grammar for the generator
+
+genTest
+
+<toolset>
+def doMult(node):
+	(a,b) = node
+	node.value = a.value * b.value
+
+def doAdd(node):
+	(a,b) = node
+	node.value = a.value + b.value
+
+def formatResult(node):
+	node.value = "%.3f" % node.value
+<definition>
+# constants
+	SPACE		: ' '							: drop
+	SPACING		: SPACE*						: drop
+	DOT			: "."
+	MINUS		: "-"
+	PLUS		: "+"							: drop
+	ADD			: PLUS
+	_ADD_		: SPACING ADD SPACING			: drop
+	MULT		: "*"
+	_MULT_		: SPACING MULT SPACING			: drop
+	DIGIT		: [0..9]
+	SIGN		: PLUS / MINUS
+	SIGN_		: SIGN SPACING
+	LPAREN		: "("							: drop
+	RPAREN		: ")"							: drop
+
+# operand
+	digits		: DIGIT+
+	integer		: SIGN_? digits
+	real		: integer (DOT digits)?
+	number		: real / integer				: join toFloat
+	group		: LPAREN operation RPAREN		: liftNode
+	operand 	: group / number
+
+# operation
+	mult		: operand _MULT_ (mult/operand)	: @ doMult
+	addOp		: mult / operand
+	add			: addOp _ADD_  (add/addOp)		: @ doAdd
+	operation	: add / mult					: @
+	foo			: ("a"/"b"){3}
+	bar			: [1..9]{3}
+	baz			: '1'{3}
+	result		: operation / operand			: formatResult
