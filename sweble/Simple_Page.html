@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Simple Page</title>
+	<style type="text/css">
+		<!--
+			/**
+			 * Copyright 2011 The Open Source Research Group,
+			 *                University of Erlangen-Nürnberg
+			 *
+			 * Licensed under the Apache License, Version 2.0 (the "License");
+			 * you may not use this file except in compliance with the License.
+			 * You may obtain a copy of the License at
+			 *
+			 *     http://www.apache.org/licenses/LICENSE-2.0
+			 *
+			 * Unless required by applicable law or agreed to in writing, software
+			 * distributed under the License is distributed on an "AS IS" BASIS,
+			 * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+			 * See the License for the specific language governing permissions and
+			 * limitations under the License.
+			 */
+			
+			/******************************************************************************* 
+			 * Default CSS styles for HtmlPrinters
+			 ******************************************************************************/
+			h1,h2,h3,h4,h5,h6 {
+				background: none repeat scroll 0 0 transparent;
+				border-bottom: 1px solid #AAAAAA;
+				color: black;
+				font-weight: normal;
+				margin: 0;
+				padding-bottom: 0.17em;
+				width: auto;
+				text-align: left;
+			}
+			
+			h1,h2 {
+				margin-bottom: 0.6em;
+			}
+			
+			h3,h4,h5,h6 {
+				border-bottom: medium none;
+				font-weight: bold;
+			}
+			
+			h3,h4,h5 {
+				margin-bottom: 0.3em;
+			}
+			
+			h1 {
+				font-size: 188%;
+			}
+			
+			h2 {
+				font-size: 150%;
+			}
+			
+			h3 {
+				font-size: 132%;
+			}
+			
+			p {
+				line-height: 1.5em;
+				margin: 0.4em 0 0.5em;
+				/* DEBUG: */
+				border: 1px solid silver;
+				margin: 1px;
+			}
+			
+			pre {
+				padding: 1em;
+				border: 1px dashed #2F6FAB;
+				color: black;
+				background-color: #F9F9F9;
+				line-height: 1.1em;
+				font-family: monospace, "Courier New";
+			}
+			
+			.content {
+				line-height: 1.5em;
+				color: black;
+				font-family: sans-serif;
+			}
+			
+			.article-heading {
+				font-size: 1.6em;
+				line-height: 1.2em;
+				margin-bottom: 0.1em;
+				margin-top: 0;
+				padding-bottom: 0;
+				padding-top: 0;
+			}
+			
+			.article-content {
+				line-height: 1.5em;
+				position: relative;
+				width: 100%;
+				font-size: 0.8em;
+			}
+			
+			.section {
+				padding-top: 0.5em;
+				/* DEBUG: */
+				border-left: 2px solid #FF6633;
+				padding-top: 0;
+				padding-left: 1em;
+				margin-top: 1em;
+				margin-bottom: 1em;
+			}
+			
+			/******************************************************************************* 
+			 * Images 
+			 ******************************************************************************/
+			div.thumb {
+				background-color: transparent;
+				border-color: white;
+				border-style: solid;
+				margin-bottom: 0.5em;
+				max-width: 234px;
+			}
+			
+			div.thumbinner {
+				background-color: #F9F9F9;
+				border: 1px solid #CCCCCC;
+				font-size: 94%;
+				overflow: hidden;
+				padding: 3px !important;
+				text-align: center;
+			}
+			
+			img.thumbimage {
+				border: 1px solid #CCCCCC;
+				max-width: 220px;
+				max-height: 225px;
+			}
+			
+			img.plainimage {
+				max-width: 220px;
+				max-height: 225px;
+			}
+			
+			div.thumbcaption {
+				border: medium none;
+				font-size: 94%;
+				line-height: 1.4em;
+				padding: 3px !important;
+				text-align: left;
+			}
+			
+			div.tright {
+				border-width: 0.5em 0 0.8em 1.4em;
+				clear: right;
+				float: right;
+			}
+			
+			div.tleft {
+				border-width: 0.5em 1.4em 0.8em 0;
+				clear: left;
+				float: left;
+				margin-right: 0.5em;
+			}
+			
+			img.thumbborder {
+				border: 1px solid #DDDDDD;
+			}
+			
+			/******************************************************************************* 
+			 * Misc 
+			 ******************************************************************************/
+			.illegal {
+				color: #CC3300;
+				font-weight: normal;
+			}
+			
+			.redirect {
+				color: #FFCC00;
+				font-weight: normal;
+			}
+			
+			.magic-word {
+				color: #9900CC;
+				font-weight: bold;
+			}
+			
+			/******************************************************************************* 
+			 * Tables 
+			 ******************************************************************************/
+			table {
+				font-size: 100%;
+				color: black;
+				background-color: white;
+			}
+			
+			fieldset table {
+				background: none;
+			}
+			
+			table.wikitable {
+				background: none repeat scroll 0 0 #F9F9F9;
+				border: 1px solid #AAAAAA;
+				border-collapse: collapse;
+				margin: 1em 1em 1em 0;
+			}
+			
+			.wikitable th,.wikitable td {
+				border: 1px solid #AAAAAA;
+				padding: 0.2em;
+			}
+			
+			.wikitable th {
+				background: none repeat scroll 0 0 #F2F2F2;
+				text-align: center;
+			}
+			
+			.wikitable caption {
+				font-weight: bold;
+			}
+			
+			table.collapsed tr.collapsable {
+				display: none;
+			}
+			
+			/******************************************************************************* 
+			 * Debug 
+			 ******************************************************************************/
+			.unknown-node {
+				color: #FFBBBB;
+				font-weight: normal;
+			}
+			/******************************************************************************* 
+			 * End of file 
+			 ******************************************************************************/
+		-->
+	</style>
+	</head>
+	<body>
+<div class="content">
+	<h1 class="article-heading">Simple Page</h1>
+	<div class="article-content">
+		<p>
+			<span class="unknown-node">{{Infobox Anatomy |...}}</span>
+
+
+
+		</p>
+		<p>
+			<span class="unknown-node">ImageLink</span>
+<b>Zoonosis</b> (<a href="adjective">adj</a>: <i>zoonotic</i>) is a <a href="disease">disease</a> spread from <a href="animal">animals</a> to <a href="human">humans</a>.
+
+
+		</p>
+		<div class="section">
+			<h2> Common things </h2>
+			<div class="section-body">
+				
+
+				<p>
+					The condition has many forms, but generally the following is true:
+
+				</p>
+				<ul>
+					<li> People may get muscular seizures or convulsions.</li>
+					<li> People lose control over their body. Feces may be released in the process. They may fall to the floor and hurt themselves when they are standing or walking.</li>
+					<li> People may become unconscious.</li>
+					<li> Those affected usually are not aware of the seizure going on. People may not remember or know what happened to them.</li>
+				</ul>
+				
+
+
+			</div>
+		</div>
+		<div class="section">
+			<h2> Famous people with epilepsy </h2>
+			<div class="section-body">
+				
+
+				<p>
+					<span class="unknown-node">&lt;gallery></span>
+
+
+				</p>
+				<p>
+					Image:Gaius_Julius_Caesar_(100-44_BC).JPG|Caius <a href="Julius Caesar">Julius Caesar</a>
+Image:Jacques-Louis_David_017.jpg|<a href="Napoleon Bonaparte">Napoleon Bonaparte</a>
+Image:Pius ix.jpg|<a href="Pope Pius IX">Pope Pius IX</a>
+Image:Dostoevsky 1872.jpg|<a href="Fjodor Dostoevski">Fjodor Dostoevski</a>
+Image:Rudi.jpg|<a href="Rudi Dutschke">Rudi Dutschke, Student leader</a>
+File:George Gershwin 1937.jpg|<a href="George Gershwin">George Gershwin</a>
+File:Lenin.jpg|<a href="Vladimir Lenin">Vladimir Lenin</a>
+File:Prince by jimieye.jpg|<a href="Prince (musician)">Prince</a>
+<span class="unknown-node">&lt;/gallery></span>
+
+
+				</p>
+				<p>
+					The following table lists chemicals that had previously been classified as vitamins, as well as the earlier names of vitamins that later became part of the B-complex. 
+
+				</p>
+				<table class="wikitable" style="margin: 1em auto 1em auto">
+					<th>
+						<p>
+							 Previous name<span class="unknown-node">&lt;ref ...>...&lt;/ref></span><span class="unknown-node">&lt;ref ...>...&lt;/ref></span>
+
+						</p>
+					</th>
+					<th>
+						<p>
+							 Chemical name<span class="unknown-node">&lt;ref .../></span><span class="unknown-node">&lt;ref .../></span>
+
+						</p>
+					</th>
+					<th>
+						<p>
+							 Reason for name change<span class="unknown-node">&lt;ref .../></span>
+
+						</p>
+					</th>
+					<tr>
+						<td>
+							<p>
+								 <a href="B vitamin complex">Vitamin B<sub>4</sub></a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Adenine">Adenine</a> 
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 No longer classified as a vitamin
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 <a href="B vitamin complex">Vitamin B<sub>8</sub></a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Adenylic acid">Adenylic acid</a> 
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 No longer classified as a vitamin
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 <a href="Vitamin F">Vitamin F</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Essential fatty acid">Essential fatty acids</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 Needed in large quantities (does<br /> not fit the definition of a vitamin).
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 <a href="Vitamin G">Vitamin G</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Riboflavin">Riboflavin</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 Reclassified as <a href="B vitamin complex">Vitamin B<sub>2</sub></a>
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 <a href="Vitamin H">Vitamin H</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Biotin">Biotin</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 Reclassified as <a href="B vitamin complex">Vitamin B<sub>7</sub></a>
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 <a href="Vitamin J">Vitamin J</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Catechol">Catechol</a>, <a href="Flavin">Flavin</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 No longer classified as a vitamin
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 Vitamin L<sub>1</sub><span class="unknown-node">&lt;ref ...>...&lt;/ref></span>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Anthranilic acid">Anthranilic acid</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 No longer classified as a vitamin
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 Vitamin L<sub>2</sub><span class="unknown-node">&lt;ref .../></span>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Adenylthiomethylpentose">Adenylthiomethylpentose</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 No longer classified as a vitamin
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 <a href="Vitamin M">Vitamin M</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Folic acid">Folic acid</a>  
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 Reclassified as <a href="B vitamin complex">Vitamin B<sub>9</sub></a>
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 Vitamin O 
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Carnitine">Carnitine</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 No longer classified as a vitamin
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 <a href="Vitamin P">Vitamin P</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Flavonoids">Flavonoids</a> 
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 No longer classified as a vitamin
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 <a href="Vitamin PP">Vitamin PP</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="Niacin">Niacin</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 Reclassified as <a href="B vitamin complex">Vitamin B<sub>3</sub></a> 
+
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p>
+								 <a href="Vitamin U">Vitamin U</a> 
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 <a href="S-Methylmethionine">S-Methylmethionine</a>
+
+							</p>
+						</td>
+						<td>
+							<p>
+								 No longer classified as a vitamin
+
+							</p>
+						</td>
+					</tr>
+
+				</table>
+				
+
+
+
+
+
+			</div>
+		</div>
+		<div class="section">
+			<h2>References</h2>
+			<div class="section-body">
+				
+
+				<p>
+					<span class="unknown-node">{{reflist}}</span>
+
+
+				</p>
+				<p>
+					<span class="unknown-node">{{medicine-stub}}</span>
+<a href="Category:Diseases">Category:Diseases</a>
+
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+	</body>
+</html>
