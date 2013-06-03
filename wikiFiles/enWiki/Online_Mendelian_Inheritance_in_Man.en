@@ -1,0 +1,39 @@
+'''Online Mendelian Inheritance in Man''' ('''OMIM''') is a [[database]] that catalogues all the known [[disease]]s with a [[genetic disorder|genetic component]], and — when possible — links them to the relevant [[genes]] in the [[human genome]] and provides references for further research and tools for genomic analysis of a catalogued gene.<ref name="Hamosh">{{cite pmid|15608251}}</ref>  OMIM is one of the databases housed in the U.S. [[National Center for Biotechnology Information]] (NCBI) and included in its search menus.<ref name="urlNational Center for Biotechnology Information">{{cite web |url=http://www.ncbi.nlm.nih.gov/ |title=National Center for Biotechnology Information |format= |work= |accessdate=2011-04-20}}</ref>
+
+== Versions ==
+Mendelian Inheritance in Man was started in the early 1960s<ref name="urlOMIM Help">{{cite web |url=http://www.omim.org/help/about |title=OMIM Help |format= |work= |accessdate=2011-04-20}}</ref> and is available as a book currently in its 12th edition.<ref>{{cite book | last = McKusick | first = VA | title = Mendelian Inheritance in Man; A Catalog of Human Genes and Genetic Disorders | location = Baltimore, Maryland | publisher = [[Johns Hopkins University Press]] | year = 1998 | isbn = 0-8018-5742-2}}</ref> The [[online]] version, OMIM, has been available since 1987,<ref>{{cite pmid|8423603}}</ref> moved to the World Wide Web by NCBI in 1995,<ref name="urlOMIM Help" /> and in 2004 contained more than 15,000 records.<ref name="Hamosh"/>
+
+== Collection process and use ==
+The information in OMIM was collected and processed from its inception under the leadership of Dr. [[Victor A. McKusick]] at [[Johns Hopkins University]], assisted by a team of [[science]] writers and editors. Relevant articles are identified, discussed and written up in the relevant entries in the MIM database.
+
+The database has been used as a resource for locating literature relevant to inherited conditions.<ref>{{cite pmid|8911353}}</ref>
+
+== The MIM code ==
+Every disease and [[gene]] is assigned a six digit number of which the first number classifies the method of inheritance.
+
+If the initial digit is 1, the trait is deemed [[autosomal dominant]]; if 2, [[autosomal recessive]]; if 3, [[X-linked]]. Wherever a trait defined in this dictionary has a MIM number, the number from the 12th edition of MIM, is given in square brackets with or without an asterisk (asterisks indicate that the mode of inheritance is known; a number symbol (#) before an entry number means that the phenotype can be caused by mutation in any of two or more genes) as appropriate e.g., [[Pelizaeus-Merzbacher disease]] [MIM #312080] is an X-linked recessive disorder.
+
+'''Range of MIM codes''': '''Method of inheritance'''<ref name="urlOMIM Help">{{cite web |url=http://www.omim.org/help/faq |title=OMIM Help |format= |work= |accessdate=2011-04-18}}</ref>
+* 100000–299999: [[Autosomal]] [[locus (genetics)|loci]] or [[phenotypes]] (created before May 15, 1994)
+* 300000–399999: [[X-linked]] [[locus (genetics)|loci]] or [[phenotypes]]
+* 400000–499999: [[Y-linked]] [[locus (genetics)|loci]] or [[phenotypes]]
+* 500000–599999: [[Mitochondria]]l [[locus (genetics)|loci]] or [[phenotypes]]
+* 600000–above : [[Autosomal]] [[locus (genetics)|loci]] or [[phenotypes]] (created after May 15, 1994)
+
+These codes have been used in the medical literature to provide a unified index to genetic diseases.<ref>{{cite pmid|8592332}}</ref>
+
+== See also ==
+* [[Comparative Toxicogenomics Database]], a database that integrates chemicals and genes with human diseases, including OMIM data.
+* [[DECIPHER]], a database of chromosomal imbalance and associated phenotype in humans, using [[Ensembl]] resources.
+* [[Medical classification]]
+* [[Mendelian inheritance]]
+* [[Online Mendelian Inheritance in Animals]]
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* [http://www.omim.org OMIM home page]
+
+[[Category:Biological databases]]
+[[Category:Diagnosis classification]]

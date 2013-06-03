@@ -1,0 +1,155 @@
+{{Chembox
+| verifiedrevid = 476996956
+| verifiedrevid
+|   Name = Boron trifluoride
+|   ImageFileL1 = Boron-trifluoride-2D-dimensions.png
+|   ImageSizeL1 = 130px
+|   ImageNameL1 = Boron trifluoride in 2D
+|   ImageFileR1 = Boron-trifluoride-3D-vdW.png
+|   ImageSizeR1 = 120px
+|   ImageNameR1 = Boron trifluoride in 3D
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6116
+| InChI = 1/BF3/c2-1(3)4
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 33093
+| SMILES = FB(F)F
+| InChIKey = WTEOIRVLGSZEPR-UHFFFAOYAW
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/BF3/c2-1(3)4
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WTEOIRVLGSZEPR-UHFFFAOYSA-N
+| CASNo = 7637-07-2
+|    CASNo_Ref = {{cascite|correct|CAS}}
+|   CASNo1 = 13319-75-0
+|   CASNo1_Comment = (dihydrate)
+|   PubChem = 6356
+|   EINECS = 231-569-5
+|   RTECS = ED2275000
+|   UNNumber = Compressed: [[List of UN Numbers 1001 to 1100|1008]].<!-- <br />''Complex with acetic acid: ''[[List of UN Numbers 1701 to 1800|1742]].<br/>''Complex with propionic acid: ''[[List of UN Numbers 1701 to 1800|1743]].<br/>''Boron trifuoride diethyl etherate: ''[[List of UN Numbers 2601 to 2700|2604]].<br/>''Boron trifluoride dimethyl etherate: ''[[List of UN Numbers 2901 to 3000|2965]].--><br/>Boron trifluoride dihydrate: [[List of UN Numbers 2801 to 2900|2851]].
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = BF<sub>3</sub>
+|   MolarMass = 67.82 g/mol (anhydrous) <br /> 103.837 g/mol (dihydrate)
+|   Appearance = colorless gas (anhydrous) <br /> colorless liquid (dihydrate)
+|   Density = 0.00276 g/cm<sup>3</sup> (anhydrous gas) <br /> 1.64 g/cm<sup>3</sup> (dihydrate)
+|   SolubleOther = soluble in [[benzene]], [[toluene]], [[hexane]], [[chloroform]] and [[methylene chloride]]
+|   Solubility = exothermic decomposition <ref>www.nap.edu/openbook.php?record_id=4911&page=266</ref> (anhydrous)<br />very soluble (dihydrate)
+|   MeltingPt = −126.8 °C, 146.4 K
+|   BoilingPt = −100.3 °C, 172.9 K
+|   Crit Temp = −12.3 °C, 260.9 K
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS =
+|   EUClass = Very toxic ('''T+''')<br/>Corrosive ('''C''')
+|   Reference = <ref>{{CLP Regulation|index=005-001-00-X|page=341}}</ref><ref>{{PGCH-ref|id=0062|name=Boron trifluoride}}.</ref>
+|   EUIndex = 005-001-00-X
+|   MSDS = {{ICSC-small|0231}}
+|   GHSPictograms =  {{GHS exclamation mark|Press. Gas}}{{GHS06|Acute Tox. 2}}{{GHS05|Skin Corr. 1A}}
+|   GHSSignalWord = DANGER
+|   HPhrases = {{H-phrases|330|314}} <ref group="note">Within the European Union, the following additional hazard statement (EUH014) must also be displayed on labelling: Reacts violently with water.</ref>
+|   RPhrases = {{R14}}, {{R26}}, {{R35}}
+|   SPhrases = {{S1/2}}, {{S9}}, {{S26}}, {{S28}}, {{S36/37/39}}, {{S45}}
+|   NFPA-H = 4
+|   NFPA-F = 0
+|   NFPA-R = 1
+|   NFPA-O = W
+|   FlashPt = 4 °C
+  }}
+| Section8 = {{Chembox Related
+|   OtherCpds = [[Boron trichloride]]<br />[[Boron tribromide]]<br />[[Boron triiodide]]<br/>[[Boron monofluoride]]<br />[[Aluminium fluoride]]<br />[[Gallium(III) fluoride]]<br />[[Indium(III) fluoride]]<br />[[Thallium(III) fluoride]]
+  }}
+}}
+
+'''Boron trifluoride''' is the [[inorganic compound]] with the [[chemical formula|formula]]  BF<sub>3</sub>.  This pungent colourless [[toxic]] gas forms white fumes in moist air.  It is a useful [[Lewis acid]] and a versatile building block for other [[boron]] compounds.
+
+==Structure and bonding==
+The geometry of a  [[molecule]] of BF<sub>3</sub> is [[trigonal planar]].  Its D<sub>3h</sub> [[symmetry group|symmetry]] conforms with the prediction of [[VSEPR theory]].  The molecule has no dipole moment by virtue of its high symmetry.  The molecule is [[isoelectronic]] with the carbonate anion, CO<sub>3</sub><sup>2−</sup>. 
+
+BF<sub>3</sub> is commonly referred to as "[[electron deficiency|electron deficient]]," a description that is reinforced by its [[exothermic]] reactivity toward [[Lewis base]]s.
+
+In the boron trihalides, BX<sub>3</sub>, the length of the B-F bonds (1.30 Å) is shorter than would be expected for single bonds,<ref name=greenwood>{{Greenwood&Earnshaw2nd}}</ref> and this shortness may indicate stronger B-X [[pi bond|π-bonding]] in the fluoride.  A facile explanation invokes the symmetry-allowed overlap of a p orbital on the boron atom with the in-phase combination of the three similarly oriented p orbitals on fluorine atoms.<ref name = greenwood/>
+
+[[File:Boron-trifluoride-pi-bonding-2D.png|100px|Boron trifluoride pi bonding diagram]]
+
+==Synthesis and handling==
+BF<sub>3</sub> is manufactured by the reaction of boron oxides with [[hydrogen fluoride]]:
+:B<sub>2</sub>O<sub>3</sub>  +  6 HF  →  2 BF<sub>3</sub>  +  3 H<sub>2</sub>O
+Typically the HF is produced ''in situ'' from sulfuric acid and [[fluorite]] (CaF<sub>2</sub>).<ref>{{cite book | author = Holleman, A. F.; Wiberg, E. | title = Inorganic Chemistry | publisher = Academic Press | location = San Diego | year = 2001 | isbn = 0-12-352651-5 }}</ref> Approximately 2300-4500 tonnes of boron trifluoride are produced every year.<ref name=Ullmann>{{Ullmann | title = Boron Compounds | doi = 10.1002/14356007.a04_309 | author = Brotherton, R. J.; Weber, C. J.; Guibert, C. R.; Little, J. L. }}</ref>
+
+On a laboratory scale, BF<sub>3</sub> is produced by the thermal decomposition of diazonium salts:<ref>{{ OrgSynth | author = Flood, D. T. | title = Fluorobenzene | year = 1933 | volume = 13 | pages = 46 | collvol = 2 | collvolpages = 295 | prep = CV2P0295 }}</ref>
+:PhN<sub>2</sub>BF<sub>4</sub>  →  [[Fluorobenzene|PhF]]  +  BF<sub>3</sub>  +  [[nitrogen|N<sub>2</sub>]]
+
+Anhydrous boron trifluoride has a [[boiling point]] of &minus;100.3 C and a critical temperature of &minus;12.3 C, so that it can be stored as a refrigerated liquid only between those temperatures. Storage or transport vessels should be designed to withstand internal pressure, since a refrigeration system failure could cause pressures to rise to the critical pressure of 49.85 bar (4.985 MPa).<ref>{{cite book | editor = Yaws, C. L. | title = Chemical Properties Handbook | publisher = McGraw-Hill | year = 1999 | page = 25 }}</ref> 
+
+Boron trifluoride is corrosive. Suitable metals for equipment handling boron trifluoride include [[stainless steel]], [[monel]], and [[hastelloy]]. In presence of moisture it corrodes steel, including stainless steel. It reacts with [[polyamide]]s. [[Polytetrafluoroethylene]], [[polychlorotrifluoroethylene]], [[polyvinylidene fluoride]], and [[polypropylene]] show satisfactory resistance. The [[grease (lubricant)#Laboratory grease|grease]] used in the equipment should be [[fluorocarbon]] based, as boron trifluoride reacts with the hydrocarbon-based ones.<ref>{{cite web | publisher = [[Air Liquide]] | url = http://encyclopedia.airliquide.com/encyclopedia.asp?GasID=68 | work = Gas Encyclopedia | title = Boron trifluoride }}</ref>
+
+==Reactions==
+Unlike the aluminium and gallium trihalides, the boron trihalides are all monomeric.  They undergo rapid halide exchange reactions:
+:BF<sub>3</sub>  +  [[boron trichloride|BCl<sub>3</sub>]]  →  BF<sub>2</sub>Cl  +  BCl<sub>2</sub>F
+Because of the facility of this exchange process, the mixed halides cannot be obtained in pure form.
+
+Boron trifluoride is a versatile Lewis acid that forms [[adduct]]s with such [[Lewis base]]s as [[fluoride]] and [[ether]]s:
+:[[Caesium fluoride|CsF]]  +  BF<sub>3</sub>  →  CsBF<sub>4</sub>
+:[[Diethyl ether|O(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>]]  +  BF<sub>3</sub>  →  BF<sub>3</sub>O(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>
+
+[[Tetrafluoroborate]] salts are commonly employed as [[non-coordinating anion]]s.  The adduct with [[diethyl ether]], '''boron trifluoride diethyl etherate''' or just '''boron trifluoride etherate''' (BF<sub>3</sub> · O(Et)<sub>2</sub>) is a conveniently handled [[liquid]] and consequently is a widely encountered as a laboratory source of BF<sub>3</sub>. It is stable as a solution in ether, but not stoichiometrically. Another common adduct is the adduct with [[dimethyl sulfide]] (BF<sub>3</sub> · S(Me)<sub>2</sub>), which can be handled as a neat liquid.
+
+===Comparative Lewis acidity===
+All three lighter boron trihalides, BX<sub>3</sub> (X = F, Cl, Br) form stable adducts with common Lewis bases.  Their relative Lewis acidities can be evaluated in terms of the relative exothermicities of the adduct-forming reaction. Such measurements have revealed the following sequence for the Lewis acidity:
+
+:BF<sub>3</sub> < BCl<sub>3</sub> < BBr<sub>3</sub> (strongest Lewis acid)
+
+This trend is commonly attributed to the degree of [[pi bond|π-bonding]] in the planar boron trihalide that would be lost upon pyramidalization of the BX<sub>3</sub> molecule.<ref>{{Cotton&Wilkinson6th }}</ref> which follows this trend:
+
+:BF<sub>3</sub> > BCl<sub>3</sub> > BBr<sub>3</sub> (most easily pyramidalized)
+
+The criteria for evaluating the relative strength of [[pi bond|π-bonding]] are not clear, however.<ref name = greenwood/> One suggestion is that the F atom is small compared to the larger Cl and Br atoms, and the lone pair electron in p<sub>z</sub> of F is readily and easily donated and overlapped to empty p<sub>z</sub> orbital of boron. As a result, the pi donation of F is greater than that of Cl or Br. 
+
+In an alternative explanation, the low Lewis acidity for BF<sub>3</sub> is attributed to the relative weakness of the bond in the adducts F<sub>3</sub>B-L.<ref>{{cite journal | author =  Boorman, P. M.; Potts, D. | title = Group V Chalcogenide Complexes of Boron Trihalides | journal = [[Canadian Journal of Chemistry]] | year = 1974 | volume = 52 | issue = 11 | pages = 2016–2020 | doi = 10.1139/v74-291 }}</ref><ref>{{cite journal | author = Brinck, T.; Murray, J. S.; Politzer, P. | title = A Computational Analysis of the Bonding in Boron Trifluoride and Boron Trichloride and their Complexes with Ammonia | journal = [[Inorganic Chemistry]] | year = 1993 | volume = 32 | issue = 12 | pages = 2622–2625 | doi = 10.1021/ic00064a008 }}</ref>
+
+===Hydrolysis===
+Boron trifluoride reacts with water to give [[boric acid]] and [[fluoroboric acid]]. The reaction commences with the formation of the aquo adduct, H<sub>2</sub>O-BF<sub>3</sub>, which then loses HF that gives fluoboric acid with boron trifluoride.<ref>{{cite journal | author = Wamser, C. A. | title = Equilibria in the System Boron Trifluoride–Water at 25° | journal = [[Journal of the American Chemical Society]] | year = 1951 | volume = 73 | issue = 1 | pages = 409–416 | doi = 10.1021/ja01145a134 }}</ref>
+
+:4 BF<sub>3</sub>  +  3 H<sub>2</sub>O  →  3 HBF<sub>4</sub>  +  "B(OH)<sub>3</sub>"
+
+The heavier trihalides do not undergo analogous reactions, possibly the lower stability of the tetrahedral ions BX<sub>4</sub><sup>-</sup> (X = Cl, Br).  Because of the high acidity of fluoroboric acid, the fluoroborate ion can be used to isolate particularly electrophilic cations, such as [[diazonium]] ions, that are otherwise difficult to isolate as solids. {{see also | tetrafluoroborate}}
+
+==Uses==
+Boron trifluoride is most importantly used as a reagent in [[organic chemistry]], typically as a Lewis acid. Examples:<ref name=Ullmann/><ref>{{cite encyclopedia | author = Heaney, H. | title = Boron Trifluoride | encyclopedia = [[Encyclopedia of Reagents for Organic Synthesis]] | year = 2001 | doi = 10.1002/047084289X.rb250 | isbn = 0-471-93623-5 }}</ref>
+* initiates [[polymerisation]] reactions of [[saturation (chemistry)|unsaturated]] [[chemical compounds|compounds]] such as [[polyether]]s 
+* as a catalyst in some [[isomerization]], [[alkylation]], [[esterification]], [[Condensation reaction|condensation]], [[Mukaiyama aldol addition]], and other reactions<ref name=Honeywell>{{cite web | publisher = [[Honeywell]] | url = http://www51.honeywell.com/sm/bf3/applications.html | title = Boron Trifluoride (BF<sub>3</sub>) Applications }}</ref>
+
+===Niche uses===
+* applied as [[dopant]] in [[ion implantation]]
+* [[p-type semiconductor|p-type]] dopant for [[epitaxial]]ly grown [[silicon]]
+* used in sensitive [[neutron]] detectors in [[ionization chamber]]s and devices to monitor radiation levels in the [[Earth's atmosphere]]
+* in [[fumigation]]
+* as a [[flux (metallurgy)|flux]] for [[soldering]] magnesium
+* to prepare [[diborane]]<ref name=Honeywell/>
+
+==Discovery==
+Boron trifluoride was discovered in 1808 by [[Joseph Louis Gay-Lussac]] and [[Louis Jacques Thénard]], who were trying to isolate "fluoric acid" (i.e., [[hydrofluoric acid]]) by combining [[calcium fluoride]] with vitrified [[boric acid]].  The resulting vapours failed to etch glass, so they named it ''fluoboric gas''.<ref>{{cite journal | author = Gay-Lussac, J. L.; Thénard, L. J. | title = Sur l’acide fluorique | journal = Annales de Chimie | volume = 69 | year = 1809 | pages = 204–220 }}</ref><ref>{{cite journal | author = Gay-Lussac, J. L.; Thénard, L. J. | title = Des propriétés de l’acide fluorique et sur-tout de son action sur le métal de la potasse | journal = Mémoires de Physique et de Chimie de la Société d’Arcueil | volume = 2 | year = 1809 | pages = 317–331 | url = http://books.google.com/books?id=Nl87AAAAcAAJ&pg=PA317 }}</ref>
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web | url = http://www.osha.gov/dts/chemicalsampling/data/CH_221700.html | title = Safety and Health Topics: Boron Trifluoride | publisher = OSHA }}
+* {{cite web | url = http://www.cdc.gov/niosh/ipcsneng/neng0231.html | title = BORON TRIFLUORIDE ICSC: 0231 | work = International Chemical Safety Cards | publisher = CDC }} 
+* {{cite web | url = http://www.npi.gov.au/substances/boron/index.html | work = National Pollutant Inventory | title = Boron & Compounds: Overview | publisher = Australian Government }}
+* {{cite web | url = http://www.npi.gov.au/substances/fluoride-compounds/index.html | work = National Pollutant Inventory | title = Fluoride Compounds: Overview | publisher = Australian Government }}
+* {{cite web | url = http://webbook.nist.gov/cgi/cbook.cgi?ID=C7637072 | title = Boron trifluoride | work = WebBook | publisher = NIST }}
+* {{cite web | url = http://www51.honeywell.com/sm/bf3/applications.html | title = Boron Trifluoride (BF<sub>3</sub>) Applications | publisher = Honeywell }}
+
+{{Boron compounds}}
+
+{{DEFAULTSORT:Boron Trifluoride}}
+[[Category:Fluorides]]
+[[Category:Boron compounds]]
+
+[[Category:Boron halides]]

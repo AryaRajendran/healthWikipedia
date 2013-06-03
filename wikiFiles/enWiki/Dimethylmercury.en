@@ -1,0 +1,113 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460790372
+| ImageFile = Dimethylmercury2.png
+| ImageFile_Ref = {{Chemboximage|correct|??}}
+| ImageSize = 150
+| ImageName = Skeletal formula of dimethylmercury with all explicit hydrogen added
+| ImageFile1 = Dimethyl-mercury-3D-vdW.png
+| ImageFile1_Ref = {{Chemboximage|correct|??}}
+| ImageSize1 = 150
+| IamgeName1 = Spacefill model of dimethylmercury
+| IUPACName = Dimethylmercury<ref>{{Cite web|title=dimethyl mercury - Compound Summary|url=http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11645&loc=ec_rcs#x291|work=PubChem Compound|publisher=National Center for Biotechnology Information|accessdate=10 March 2012|location=USA|date=16 September 2004|at=Identification and Related Records}}</ref>
+| OtherNames = Dimethyl mercury{{Citation needed|date=March 2012}}
+| Section1 = {{Chembox Identifiers
+|  CASNo = 593-74-8
+|  CASNo_Ref = {{cascite|changed|??}}
+|  PubChem = 11645
+|  PubChem_Ref = {{Pubchemcite|correct|Pubchem}}
+|  ChemSpiderID = 11155
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+|  UNII = C60TQU15XY
+|  UNII_Ref = {{fdacite|correct|FDA}}
+|  EINECS = 209-805-3
+|  UNNumber = 3383
+|  MeSHName = dimethyl+mercury
+|  ChEBI = 30786
+|  ChEBI_Ref = {{ebicite|changed|EBI}}
+|  RTECS = OW3010000
+|  Beilstein = 3600205
+|  Gmelin = 25889
+|  SMILES = C[Hg]C
+|  StdInChI = 1S/2CH3.Hg/h2*1H3;
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+|  StdInChIKey = ATZBPOVXVPIOMR-UHFFFAOYSA-N
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+}}
+| Section2 = {{Chembox Properties
+|  Formula = {{Chem|HgC|2|H|6}}
+|  MolarMass = 230.66 g mol<sup>-1</sup>
+|  ExactMass = 232.017575796 g mol<sup>-1</sup>
+|  Appearance = Colorless liquid
+|  Density = 2.961 g mL<sup>−1</sup>
+|  MeltingPtC = -43
+|  BoilingPtCL = 93
+|  BoilingPtCH = 94
+|  RefractIndex = 1.543
+}}
+| Section3 = {{Chembox Thermochemistry
+|  DeltaHf = 57.9–65.7 kJ mol<sup>−1</sup>
+}}
+| Section4 = {{Chembox Hazards
+|  GHSPictograms = {{GHS skull and crossbones}}{{GHS health hazard}}{{GHS environment}}
+|  GHSSignalWord = '''DANGER'''
+|  HPhrases = {{H-phrases|300|310|330|373|410}}
+|  PPhrases = {{P-phrases|260|264|273|280|284|301+310}}
+|  EUIndex = 080-007-00-3
+|  EUClass = {{Hazchem T+}} {{Hazchem N}}
+|  RPhrases = {{R26/27/28}}, {{R33}}, {{R50/53}}
+|  SPhrases = {{S1/2}}, {{S13}}, {{S28}}, {{S36}}, {{S45}}
+|  NFPA-H = 4
+|  NFPA-F = 4
+|  NFPA-R = 1
+|  FlashPt = 5 °C
+}}
+}}
+'''Dimethylmercury''' (([[Carbon|C]][[Hydrogen|H]]<sub>3</sub>)<sub>2</sub>[[Mercury (element)|Hg]]) is an [[organomercury compound]]. This colorless liquid is one of the strongest known [[neurotoxin]]s. It is described as having a slightly sweet smell, although inhaling enough vapor to detect its odor would be hazardous.
+
+==Synthesis, structure, reactions==
+The compound was one of the earliest [[organometallic complex]]es reported, reflecting its considerable stability.  It is formed by treating [[sodium amalgam]] with [[methyl]] [[halide]]s:
+: Hg + 2 Na + 2 [[Methyl iodide|CH<sub>3</sub>I]] → Hg(CH<sub>3</sub>)<sub>2</sub> + 2 [[Sodium iodide|NaI]]
+It can also be obtained by [[alkylation]] of [[Mercury(II) chloride|mercuric chloride]] with [[methyllithium]]:
+: HgCl<sub>2</sub> + 2 LiCH<sub>3</sub> → Hg(CH<sub>3</sub>)<sub>2</sub> + 2 [[Lithium chloride|LiCl]]
+The molecule adopts a linear structure with Hg-C bond lengths of 2.083 Å.<ref>{{ cite book | author = Holleman, A. F.; Wiberg, E. | title = Inorganic Chemistry | publisher = Academic Press | location = San Diego | year = 2001 | isbn = 0-12-352651-5 }}</ref>
+
+===Reactions===
+The most striking feature of the compound is its nonreactivity toward water, whereas the corresponding [[organocadmium]] and [[organozinc]] compounds hydrolyze rapidly.  The difference reflects the low affinity of Hg(II) for oxygen ligands. The compound reacts with mercuric chloride to give the mixed chloro-methyl compound:
+: (CH<sub>3</sub>)<sub>2</sub>Hg  +  HgCl<sub>2</sub>  →   2 CH<sub>3</sub>HgCl
+Whereas dimethylmercury is a [[volatile liquids|volatile liquid]], CH<sub>3</sub>HgCl is a [[crystalline solid]].
+
+==Use==
+Dimethylmercury has almost no applications because of the risks involved.  In [[toxicology]], it was formerly used as a reference toxin. It has also been used to calibrate [[NMR spectroscopy|NMR]] instruments for detection of mercury, although less toxic mercury salts are preferred.<ref>{{ cite web | url = http://www.chem.northwestern.edu/~ohallo/HgNMRStandards/ | title = <sup>199</sup>Hg Standards | date = 1998-03-10 | author = O'Halloran, T. V.; Singer, C. P. | publisher = Northwestern University | accessdate = 2012-05-24 }}</ref><ref>{{ cite web | title = {Hg) Mercury NMR | author = Hoffman, R. | date = 2011-08-01 | url = http://chem.ch.huji.ac.il/nmr/techniques/1d/row6/hg.html | publisher = The Hebrew University | location = Jerusalem | accessdate = 2012-05-24 }}</ref><ref>{{ cite web | url = http://orise.orau.gov/files/reacts/aoo-course-handouts/Module-6-Terrorism-by-Fear-and-Uncertainty-Delayed-Toxic-Syndromes.pdf | format = pdf | title = Delayed Toxic Syndromes | work = Terrorism by Fear and Uncertainty | publisher = ORAU }}</ref>
+
+==Safety==
+Dimethylmercury is extremely toxic and dangerous to handle. Absorption of doses as low as 0.1 [[millilitre|mL]] has proven fatal.<ref name="osha_SHIB">{{ cite web | url = http://www.osha.gov/dts/hib/hib_data/hib19980309.html | title = OSHA Safety Hazard Information Bulletin on Dimethylmercury | publisher = OSHA | work = Safety and Health Information Bulletins (SHIBs), 1997-1998 | date = 1991-02-15 }}</ref> The risks are enhanced because of the high [[vapor pressure]] of the liquid.
+
+Dimethylmercury passes through [[latex]], [[polyvinyl chloride|PVC]], [[butyl rubber|butyl]], and [[neoprene]] rapidly (within seconds) and is absorbed through the [[skin]]. Therefore, most laboratory gloves do not provide adequate protection from it, and the only safe precaution is to handle dimethylmercury while wearing highly resistant laminated gloves underneath long-cuffed neoprene or other heavy-duty gloves. A long face shield and work under a fume hood are also indicated.<ref name="osha_SHIB" /><ref>{{ cite web | author = Cotton, S. | url = http://www.chm.bris.ac.uk/motm/dimethylmercury/dmmh.htm | title = Dimethylmercury and Mercury Poisoning. The Karen Wetterhahn story | work =  Molecule of the Month | date = October 2003 | publisher = Bristol University }}</ref>
+
+Dimethylmercury crosses the [[blood–brain barrier]] easily, probably owing to formation of a [[Coordination complex|complex]] with [[cysteine]]. It is eliminated from the organism slowly, and therefore has a tendency to [[bioaccumulate]]. The symptoms of [[Mercury poisoning|poisoning]] may be delayed by months, possibly too late for effective treatment.
+
+The toxicity of dimethylmercury was highlighted with the death of the inorganic chemist [[Karen Wetterhahn]] of Dartmouth College in 1997, months after spilling no more than a few drops of this compound on her [[latex glove|latex-gloved]] hand.<ref name="osha_SHIB" />
+
+==See also==
+* [[Diethylmercury]]
+* [[Karen Wetterhahn]]
+* [[Mercury poisoning]]
+* [[Minamata disease]]
+* [[Methylmercury]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.atsdr.cdc.gov/tfacts46.html ATSDR - ToxFAQs: Mercury]
+* [http://www.atsdr.cdc.gov/toxprofiles/phs46.html ATSDR - Public Health Statement: Mercury]
+* [http://www.atsdr.cdc.gov/alerts/970626.html ATSDR - ALERT! Patterns of Metallic Mercury Exposure, 6/26/97]
+* [http://www.atsdr.cdc.gov/MHMI/mmg46.html ATSDR - MMG: Mercury]
+* [http://www.atsdr.cdc.gov/toxprofiles/tp46.html ATSDR - Toxicological Profile: Mercury]
+* [http://www.npi.gov.au/database/substance-info/profiles/53.html National Pollutant Inventory - Mercury and compounds Fact Sheet]
+{{Mercury compounds}}
+
+[[Category:Neurotoxins]]
+[[Category:Organomercury compounds]]

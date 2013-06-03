@@ -1,0 +1,83 @@
+{{PBB|geneid=3565}}
+{{Infobox protein family
+| Symbol = IL4
+| Name = Interleukin 4
+| image = PDB 1itm EBI.jpg
+| width = 
+| caption = analysis of the solution structure of human interleukin 4 determined by heteronuclear three-dimensional nuclear magnetic resonance techniques
+| Pfam = PF00727
+| Pfam_clan = CL0053 
+| InterPro = IPR002354
+| SMART = 
+| PROSITE = PDOC00655
+| MEROPS = 
+| SCOP = 2int
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+'''Interleukin 4''', abbreviated '''IL-4''', is a [[cytokine]] that induces differentiation of naive helper T cells ([[Th0 cell]]s) to [[Th2 cell]]s. Upon activation by IL-4, Th2 cells subsequently produce additional IL-4. The cell that initially produces IL-4, thus inducing Th0 differentiation, has not been identified, but recent studies suggest that basophils may be the effector cell.<ref>{{cite journal |author=Sokol, C.L., Barton, G.M., Farr, A.G. & Medzhitov, R. |title=A mechanism for the initiation of allergen-induced T helper type 2 responses |journal=Nat Immunol |volume=9 |pages=310–318 |year=2008 |pmid=18300366 |doi=10.1038/ni1558 |issue=3}}</ref> It is closely related and has functions similar to [[Interleukin 13]].
+
+Its receptor is the [[Interleukin-4 receptor]].
+
+==Functions==
+It has many biological roles, including the stimulation of activated [[B-cell]] and [[T-cell]] [[cell growth|proliferation]], and the differentiation B cells into Plasma Cells.
+
+It is a key regulator in [[humoral immunity|humoral]] and [[adaptive immunity]].  
+
+IL-4 induces B-cell [[class switching]] to [[IgE]], and up-regulates [[MHC class II]] production. It also induces B cell class switching to IgG4.
+
+IL-4 decreases the production of Th1 cells, macrophages, IFN-gamma, and dendritic cell IL-12.
+
+Overproduction of IL-4 is associated with [[allergies]].<ref name="pmid9392697">{{cite journal | author = Hershey GK, Friedrich MF, Esswein LA, Thomas ML, Chatila TA | title = The association of atopy with a gain-of-function mutation in the alpha subunit of the interleukin-4 receptor | journal = N. Engl. J. Med. | volume = 337 | issue = 24 | pages = 1720–5 | year = 1997 | month = December | pmid = 9392697 | doi = 10.1056/NEJM199712113372403 | laysummary = http://www.eurekalert.org/pub_releases/1997-12/WUSo-SISG-101297.php | laysource = eurekalert.org }}</ref>
+
+===In inflammation and wound repair===
+[[Macrophage#Fixed_macrophages|Tissue macrophages]] play an important role in chronic [[inflammation]] and [[wound repair]]. The presence of IL-4 in extravascular tissues promotes alternative activation of macrophages into M2 cells and inhibits classical activation of macrophages into M1 cells. An increase in repair macrophages (M2) is coupled with secretion of [[Interleukin 10|IL-10]] and [[Transforming growth factor beta|TGF-β]] that result in a diminution of pathological inflammation. Release of [[arginase]], [[proline]], polyaminases and TGF-β by the activated M2 cell is tied with wound repair and [[fibrosis]].<ref name="isbn1-4160-3121-9">{{cite book | author = Jon Aster, Vinay Kumar, Abul K. Abbas; Nelson Fausto | authorlink = | editor = | others = | title = Robbins & Cotran Pathologic Basis of Disease | edition = 8th | language = | publisher = Saunders | location = Philadelphia | year = 2009 | origyear = | page = 54 | quote = | isbn = 1-4160-3121-9 | oclc = | doi = | url = | accessdate = }}</ref>
+
+== Clinical significance ==
+
+IL-4 also has been shown to drive [[mitogenesis]], [[cellular differentiation|dedifferentiation]], and [[metastasis]] in [[rhabdomyosarcoma]].<ref name="pmid21536546">{{cite journal | author = Hosoyama T, Aslam MI, Abraham J, Prajapati SI, Nishijo K, Michalek JE, Zarzabal LA, Nelon LD, Guttridge DC, Rubin BP, Keller C | title = IL-4R Drives Dedifferentiation, Mitogenesis, and Metastasis in Rhabdomyosarcoma | journal = Clin Cancer Res | volume = 17 | issue = 9 | pages = 2757–2766 | year = 2011 | month = May | pmid = 21536546 | doi = 10.1158/1078-0432.CCR-10-3445 | pmc = 3087179 }}</ref>
+
+==Structure==
+
+IL-4 has a compact, globular [[protein folding|fold]] (similar to other [[cytokines]]), stabilised by 3 [[disulphide bonds]].<ref name="pmid1993171">{{cite journal | author = Carr C, Aykent S, Kimack NM, Levine AD | title = Disulfide assignments in recombinant mouse and human interleukin 4 | journal = Biochemistry | volume = 30 | issue = 6 | pages = 1515–23 | year = 1991 | month = February | pmid = 1993171 | doi = 10.1021/bi00220a011| url = }}</ref> One half of the structure is dominated by a 4 [[alpha-helix]] bundle with a left-handed twist.<ref name="pmid1400355">{{cite journal | author = Walter MR, Cook WJ, Zhao BG, Cameron RP, Ealick SE, Walter RL, Reichert P, Nagabhushan TL, Trotta PP, Bugg CE | title = Crystal structure of recombinant human interleukin-4 | journal = J. Biol. Chem. | volume = 267 | issue = 28 | pages = 20371–6 | year = 1992 | month = October | pmid = 1400355 | doi = | url = }}</ref> The helices are [[anti-parallel]], with 2 overhand connections, which fall into a 2-stranded anti-parallel [[beta-sheet]].<ref name="pmid1400355" />
+
+==History==
+This cytokine was co-discovered by Maureen Howard and William Paul<ref>{{cite journal |author=Howard M, Paul WE |title=Interleukins for B lymphocytes |journal=Lymphokine Res. |volume=1 |issue=1 |pages=1–4 |year=1982 |pmid=6985399 |doi=}}</ref> and by Dr. [[Ellen Vitetta]] and her research group in 1982.  
+
+The [[nucleotide]] sequence for human IL-4 was isolated four years later confirming its similarity to a mouse protein called B-cell stimulatory factor-1 (BCSF-1).<ref>{{cite journal |author=Yokota T et al. |title=Isolation and characterization of a human interleukin cDNA clone, homologous to mouse B-cell stimulatory factor 1, that expresses B-cell- and T-cell-stimulating activities |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=83 |issue=16 |pages=5894–8 |year=1986 |pmid=3016727 |doi=10.1073/pnas.83.16.5894 |pmc=386403}}</ref>
+
+==See also==
+* [[STAT6]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin | 2}}
+*{{cite journal  | author=Apte SH, Baz A, Kelso A, Kienzle N |title=Interferon-gamma and interleukin-4 reciprocally regulate CD8 expression in CD8+ T cells |journal=Proc Natl Acad Sci U S A. |volume=105 |issue= 45 |pages= 17475–80 |year= 2008 |pmid= 18988742 |doi= 10.1073/pnas.0809549105  | pmc=2580749 }}
+*{{cite journal  | author=Kay AB, Barata L, Meng Q, ''et al.'' |title=Eosinophils and eosinophil-associated cytokines in allergic inflammation |journal=Int. Arch. Allergy Immunol. |volume=113 |issue= 1–3 |pages= 196–9 |year= 1997 |pmid= 9130521 |doi=10.1159/000237545  }}
+*{{cite journal  | author=Marone G, Florio G, Petraroli A, de Paulis A |title=Dysregulation of the IgE/Fc epsilon RI network in HIV-1 infection |journal=J. Allergy Clin. Immunol. |volume=107 |issue= 1 |pages= 22–30 |year= 2001 |pmid= 11149986 |doi=10.1067/mai.2001.111589  }}
+*{{cite journal  | author=Marone G, Florio G, Triggiani M, ''et al.'' |title=Mechanisms of IgE elevation in HIV-1 infection |journal=Crit. Rev. Immunol. |volume=20 |issue= 6 |pages= 477–96 |year= 2001 |pmid= 11396683 |doi=  }}
+*{{cite journal  | author=Maeda S, Yanagihara Y |title=[Inflammatory cytokines (IL-4, IL-5 and IL-13)] |journal=Nippon Rinsho |volume=59 |issue= 10 |pages= 1894–9 |year= 2001 |pmid= 11676128 |doi=  }}
+*{{cite journal  | author=Izuhara K, Arima K, Yasunaga S |title=IL-4 and IL-13: their pathological roles in allergic diseases and their potential in developing new therapies |journal=Current drug targets. Inflammation and allergy |volume=1 |issue= 3 |pages= 263–9 |year= 2003 |pmid= 14561191 |doi=10.2174/1568010023344661  }}
+*{{cite journal  | author=Copeland KF |title=Modulation of HIV-1 transcription by cytokines and chemokines |journal=Mini reviews in medicinal chemistry |volume=5 |issue= 12 |pages= 1093–101 |year= 2006 |pmid= 16375755 |doi=10.2174/138955705774933383  }}
+*{{cite journal  | author=Olver S, Apte S, Baz A, Kienzle N |title=The duplicitous effects of interleukin 4 on tumour immunity: how can the same cytokine improve or impair control of tumour growth? |journal=Tissue Antigens |volume=69 |issue= 4 |pages= 293–8 |year= 2007 |pmid= 17389011 |doi= 10.1111/j.1399-0039.2007.00831.x }}
+*{{cite journal  | author= Sokol CL, Chu NQ, Shuang Yu, Simone Nish, Terri Laufer & Ruslan Medzhitov |title=Basophils function as antigen-presenting cells for an allergen-induced T helper type 2 response |journal=Nature Immunology |volume= 10 |issue= 7|pages= 713–720 |year= 2009 |pmid= 19465907 |doi= 10.1038/ni.1738  | pmc= 3252751 }}
+* {{cite journal | author = Sokol CL, Chu NQ, Yu S, Nish SA, Laufer TM, Medzhitov R | title = Basophils function as antigen-presenting cells for an allergen-induced T helper type 2 response | journal = Nat. Immunol. | volume = 10 | issue = 7 | pages = 713–20 | year = 2009 | month = July | pmid = 19465907 | doi = 10.1038/ni.1738 | url = | pmc = 3252751 }}
+{{refend}}
+
+==External links==
+* {{MeshName|Interleukin-4}}
+* [http://antibody-antibodies.com/product37896-search-Interleukin_4_%28IL_4%29,_13.5kD,_Mouse,_recombinant.html Interleukin-4 from Gentaur] at [[Gentaur]]
+* [http://arginine.chem.cornell.edu/Structures/IL4.html Recombinant Human Interleukin-4] from [[Cornell University]]
+* [http://www.hon.ch/Library/Theme/Allergy/Glossary/il4.html Interleukin-4 from Allergy Glossary] at [[Health On the Net Foundation]]
+
+{{PDB Gallery|geneid=3565}}
+{{interleukins}}
+{{immunology-stub}}
+{{InterPro content|IPR002354}}
+
+[[Category:Protein domains]]

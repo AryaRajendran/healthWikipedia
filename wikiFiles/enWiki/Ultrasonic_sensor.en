@@ -1,0 +1,58 @@
+'''Ultrasonic sensors''' (also known as '''transceivers''' when they both send and receive, but more generally called transducers) work on a principle similar to [[radar]] or [[sonar]] '''which''' evaluate attributes of a target by interpreting the echoes from radio or sound waves respectively. Ultrasonic sensors generate high frequency sound waves and evaluate the echo which is received back by the sensor. Sensors calculate the time interval between sending the signal and receiving the echo to determine the distance to an object.
+
+This technology can be used for measuring: wind speed and direction ([[anemometer]]), tank or channel level, and speed through air or water. For measuring speed or direction a device uses multiple detectors and calculates the speed from the relative distances to particulates in the air or water. To measure tank or channel level, the sensor measures the distance to the surface of the fluid. Further applications include: [[humidifier]]s, [[sonar]], [[medical ultrasonography]], [[burglar alarms]] and [[non-destructive testing]].
+
+Systems typically use a transducer which generates sound waves in the ultrasonic range, above 18,000 hertz, by turning electrical energy into sound, then upon receiving the echo turn the sound waves into electrical energy which can be measured and displayed.
+
+The technology is limited by the shapes of surfaces and the density or consistency of the material. Foam, in particular, can distort surface level readings.<ref name="Ultrasonic Flow Meters and Foam">[http://www.openchannelflow.com/blog/article/the-heady-problem-of-foam-in-flumes-and-weirs Ultrasonic Flow Meters and Foam], Openchannelflow.com</ref>
+
+==Transducers==
+[[Image:Soundfield_Water_4MHz_TransducerRadius5mm.png|thumb|right|Sound field of a non focusing 4&nbsp;MHz ultrasonic transducer with a near field length of N&nbsp;=&nbsp;67&nbsp;mm in water. The plot shows the sound pressure at a logarithmic db-scale.]]
+
+[[Image: Soundfield_Water_4MHz_TransducerRadius5mm_Focus30mm.png|thumb|right|Sound pressure field of the same ultrasonic transducer (4&nbsp;MHz, N&nbsp;=&nbsp;67&nbsp;mm) with the transducer surface having a spherical curvature with the curvature radius R&nbsp;=&nbsp;30&nbsp;mm]]
+
+An ultrasonic transducer is a device that converts energy into [[ultrasound]], or sound waves above the normal range of human hearing. While technically a [[dog whistle]] is an ultrasonic transducer that converts mechanical energy in the form of air pressure into ultrasonic sound waves, the term is more apt to be used to refer to [[Piezoelectricity|piezoelectric transducer]]s that convert electrical energy into sound. Piezoelectric crystals have the property of changing size when a [[voltage]] is applied, thus applying an [[alternating current]] (AC) across them causes them to oscillate at very high frequencies, thus producing very high frequency sound waves.
+
+The location at which a transducer focuses the sound can be determined by the active transducer area and shape, the ultrasound frequency, and the sound velocity of the propagation medium.
+
+The example shows the sound fields of an unfocused and a focusing ultrasonic transducer in water.
+
+Since piezoelectric crystals generate a voltage when force is applied to them, the same crystal can be used as an ultrasonic detector. Some systems use separate transmitter and receiver components while others combine both in a single piezoelectric transceiver.
+
+Non-piezoelectric principles are also used in construction of ultrasound transmitters. [[magnetostriction|Magnetostrictive]] materials slightly change size when exposed to a  magnetic field; such materials can be used to make transducers. A [[Microphone#Condenser_microphone|capacitor microphone]] uses a thin plate which moves in response to ultrasound waves; changes in the electric field around the plate convert sound signals to electric currents, which can be amplified.
+
+== Use in medicine ==
+Medical ultrasonic transducers (probes) come in a variety of different shapes and sizes for use in making pictures of different parts of the body. The transducer may be passed over the surface of the body or inserted into a [[body opening]] such as the [[rectum]] or [[vagina]]. Clinicians who perform ultrasound-guided procedures often use a [[probe positioning system]] to hold the ultrasonic transducer.
+
+Air detection sensors are used in various roles. Non-invasive air detection capabilities in the most critical applications where the safety of a patient is mandatory. Many of the variables, which can affect performance of amplitude or continuous wave based sensing systems, are eliminated or greatly reduced, thus yielding accurate and repeatable detection. The principle behind the technology is that the transmit signal consists of short bursts of ultrasonic energy. After each burst, the electronics looks for a return signal within a small window of time corresponding to the time it takes for the energy to pass through the vessel. Only signals received during this period will qualify for additional signal processing.
+
+== Use in industry ==
+Ultrasonic sensors are used to detect the presence of targets and to measure the distance to targets in many [[automatic factory | automated factories]] and process plants. Sensors with an on or off digital output are available for detecting the presence of objects, and sensors with an analog output which varies proportionally to the sensor to target separation distance are commercially available. They can be used to sense the edge of material as part of a [[Web-guiding_systems|web guiding]] system
+
+Ultrasonic sensors are gaining popularity in a number of uses including ultrasonic people detection and assisting in autonomous UAV navigation.
+
+Because ultrasonic sensors use sound rather than light for detection, they work in applications where [[photoelectric sensor]]s may not. Ultrasonics are a great solution for clear object detection, clear label detection<ref>[http://www.labelsensors.com/choose/labelSensorTypes.html LabelSensors.com]</ref> and for liquid level measurement, applications that photoelectrics struggle with because of target translucence. Target color and/or reflectivity don't affect ultrasonic sensors which can operate reliably in high-glare environments.<ref>[http://www.bannerengineering.com/training/faq.php?faqID=34&div=1 Ultrasonics Basics (Banner Engineering)]</ref>
+
+Other types of transducers are used in commercially available ultrasonic cleaning devices. An ultrasonic transducer is affixed to a stainless steel pan which is filled with a solvent (frequently water or [[isopropanol]]) and a square wave is applied to it, imparting vibrational energy on the liquid.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.cs.brown.edu/people/tld/courses/cs148/02/sonar.html Ultrasonic Acoustic Sensing] Brown University
+*[http://www.lbl.gov/Science-Articles/Archive/EETD-papersensor-Ridgway.html Laser Ultrasonic Sensor Streamlines Papermaking Process], Lawrence Berkeley Lab, Dan Krotz
+*[http://www.silverwinguk.com/en/technical%20pdfs/ultrasonics_vol1.htm Ultrasonic Flaw Detection for Technicians], Chapter 2, 3rd ed., 2004 by J. C. Drury (~5 pages)
+*[http://www.emant.com/index.php?tid=100011 Measure distance using the ultrasonic sensor] 
+*[http://www.ultratechnology.se Ultra Technology] More uniform fibre distribution in paper with [[ultrasonics]] in the paper machine wet end.
+*[http://www.cancer.gov/dictionary?CdrID=367430 Ultrasound transducer] entry in the public domain NCI Dictionary of Cancer Terms
+*[http://www.explorecircuits.com/circuit/cir_ultrasonic_transmitter_receiver.htm Ultrasonic Transmitter and Receiver circuit diagram]
+*[http://www.bannerengineering.com/en-US/products/8/Sensors/30/Ultrasonic Ultrasonic Sensors for Industry]
+*[http://www.automation.siemens.com/w1/process-instrumentation-ultrasonic-4930.htm Siemens Ultrasonic Level Measurement]
+*[http://www.bjultrasonic.com/ultrasonic-technical-info/ultrasonic-transducer-technical/ Ultrasonic Transducer Technical Info]
+*[http://www.sensorsmag.com/sensors/acoustic-ultrasound/choosing-ultrasonic-sensor-proximity-or-distance-measurement-825 Choosing an Ultrasonic Sensor for Proximity or Distance Measurement] Sensors Magazine.
+*[http://www.transducer.co.nz Transducer Info Center].
+*[http://www.maxbotix.com Outdoor Ultrasonic Sensors] 
+[[Category:Ultrasound]]
+[[Category:Sensors]]
+
+[[de:Ultraschall#Erzeugung und Registrierung der Ultraschallwellen]]

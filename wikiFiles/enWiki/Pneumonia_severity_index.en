@@ -1,0 +1,357 @@
+The '''[[pneumonia]] severity index [PSI]''' or '''PORT Score''' is a clinical prediction rule that [[medicine|medical practitioners]] can use to calculate the probability of [[morbidity]] and [[death|mortality]] among patients with [[community acquired pneumonia]].<ref name="pmid8995086">{{cite journal | doi = 10.1056/NEJM199701233360402 | last1 = Fine | first1 = MJ | last2 = Auble | first2 = TE | last3 = Yealy | first3 = DM | last4 = Hanusa | first4 = BH | last5 = Weissfeld | first5 = LA | last6 = Singer | first6 = DE | last7 = Coley | first7 = CM | last8 = Marrie | first8 = TJ | last9 = Kapoor | first9 = WN. ''et al.'' | author-separator =, | author-name-separator= | year = 1997 | month = Jan | title = A prediction rule to identify low-risk patients with community-acquired pneumonia | url = | journal = N Engl J Med | volume = 336 | issue = 4| pages = 243–250 | pmid = 8995086 | display-authors = 9 }}</ref>
+
+Despite sometimes being used to predict the need for hospitalization in people with pneumonia,<ref name="WilliamsFlanders2007">{{cite book|author1=Mark Williams|author2=Scott A. Flanders|author3=Winthrop F. Whitcomb|title=Comprehensive hospital medicine: an evidence based approach|url=http://books.google.com/books?id=emOHDDYLpi4C&pg=PA273|accessdate=11 November 2010|date=28 September 2007|publisher=Elsevier Health Sciences|isbn=978-1-4160-0223-9|pages=273–}}</ref> the PORT score was not developed to do so and should not be used in that way.{{Citation needed|date=November 2010}} Mortality prediction is similar to that when using [[CURB-65]].<ref name="pmid20729231">{{cite journal |author=Chalmers JD |title=Severity assessment tools for predicting mortality in hospitalised patients with community-acquired pneumonia. Systematic review and meta-analysis |journal=Thorax |volume=65 |issue=10 |pages=878–83 |year=2010 |month=October |pmid=20729231 |doi=10.1136/thx.2009.133280 |url=http://thorax.bmj.com/cgi/pmidlookup?view=long&pmid=20729231 |author-separator=, |author2=Singanayagam A |author3=Akram AR |display-authors=3 |last4=Mandal |first4=P. |last5=Short |first5=P. M. |last6=Choudhury |first6=G. |last7=Wood |first7=V. |last8=Hill |first8=A. T.}}</ref>
+
+==Development of the PSI==
+The rule uses [[demographics]] (whether someone is older, and is male or female), the coexistence of co-morbid illnesses, findings on [[physical examination]] and [[vital signs]], and essential laboratory findings.  This study demonstrated that patients could be stratified into five risk categories, Risk Classes I-V, and that these classes could be used to predict 30-day survival.
+
+==Data Source for Derivation & Validation==
+The rule was derived then validated with data from 38,000 patients from the MedisGroup Cohort Study for 1989, comprising 1 year of data from 257 hospitals across the US who used the MedisGroup patient outcome tracking software built and serviced by Mediqual Systems ([[Cardinal Health]]). One significant caveat to the data source was that patients who were discharged home or transferred from the MedisGroup hospitals could not be followed at the 30-day mark, and were therefore assumed to be "alive" at that time.  Further validation was performed with the Pneumonia Patient Outcomes Research Team [PORT] (1991) cohort study.  This categorization method has been replicated by others<ref name="pmid15808136">{{cite journal |author=Aujesky D |title=Prospective comparison of three validated prediction rules for prognosis in community-acquired pneumonia |journal=Am. J. Med. |volume=118 |issue=4 |pages=384–92 |year=2005 |pmid=15808136 |doi=10.1016/j.amjmed.2005.01.006 |author-separator=, |author2=Auble TE |author3=Yealy DM |display-authors=3 |last4=Stone |first4=R |last5=Obrosky |first5=D |last6=Meehan |first6=T |last7=Graff |first7=L |last8=Fine |first8=J |last9=Fine |first9=M}}</ref> and is comparable to the [[CURB-65]] in predicting mortality.<ref name="pmid15808136"/>
+
+==Usage & Application of the PSI==
+The purpose of the PSI is to classify the severity of a patient's pneumonia to determine the amount of resources to be allocated for care.  Most commonly, the PSI scoring system has been used to decide whether patients with pneumonia can be treated as outpatients or as (hospitalized) inpatients. A '''Risk Class I''' pneumonia patient can be sent home on oral antibiotics. A '''Risk Class II-III''' pneumonia patient may be sent home with IV antibiotics or treated and monitored for 24 hours in hospital.  Patients with '''Risk Class IV-V''' pneumonia patient should be hospitalized for treatment.
+
+==The PSI Algorithm==
+
+The PSI Algorithm is detailed below.  An [http://pda.ahrq.gov/clinic/psi/psicalc.asp online, automated PSI calculator] is available on the US [[AHRQ]] website.
+
+{| class="wikitable"  border="3"
+|-   valign="bottom"
+|style="font-size:12pt;font-weight:bold" width="400" height="16" colspan="4" | Step 1: Stratify to Risk Class I vs. Risk Classes II-V
+|-   valign="bottom"
+|style="font-weight:bold" height="9" |
+|style="font-weight:bold" colspan="3" | Presence of:
+|-   valign="bottom"
+| height="9" |
+ |
+ | Over 50 years of age
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+ |
+ | Altered mental status
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+ |
+ | Pulse ≥125/minute
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+ |
+ | Respiratory rate >30/minute
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+ |
+ | Systolic blood pressure <90&nbsp;mm Hg
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+ |
+ | Temperature <35°C or ≥40°C
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+|style="font-weight:bold" colspan="3" | History of:
+|-   valign="bottom"
+| height="9" |
+ |
+ | Neoplastic disease
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+ |
+ | Congestive heart failure
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+ |
+ | Cerebrovascular disease
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+ |
+ | Renal disease
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+ |
+ | Liver disease
+ | Yes/No
+|-   valign="bottom"
+| height="9" |
+ |
+ |
+ |
+|- style="background-color:#C0C0C0"  valign="bottom"
+| height="9" |
+ |
+ | If any "Yes", then proceed to Step 2
+ |
+|- style="background-color:#C0C0C0"  valign="bottom"
+| height="9" |
+ |
+ | If all "No" then assign to '''Risk Class I'''
+ |
+|-   valign="bottom"
+| height="9" |
+ |
+ |
+ |
+|-   valign="bottom"
+|style="font-size:12pt;font-weight:bold" height="16" colspan="4" | Step 2: Stratify to Risk Class II vs III vs IV vs V
+|-   valign="bottom"
+| height="9" |
+|style="font-weight:bold" colspan="2"  | Demographics
+|style="font-weight:bold" | Points Assigned
+|-   valign="bottom"
+| height="9" |
+ |
+ | If Male
+ | +Age (yr)
+|-   valign="bottom"
+| height="9" |
+ |
+ | If Female
+ | +Age (yr) - 10
+|-   valign="bottom"
+| height="9" |
+ |
+ | Nursing home resident
+ | +10
+|-   valign="bottom"
+| height="9" |
+|style="font-weight:bold" colspan="3" | Comorbidity
+|-   valign="bottom"
+| height="9" |
+ |
+ | Neoplastic disease
+ | +30
+|-   valign="bottom"
+| height="9" |
+ |
+ | Liver disease
+ | +20
+|-   valign="bottom"
+| height="9" |
+ |
+ | Congestive heart failure
+ | +10
+|-   valign="bottom"
+| height="9" |
+ |
+ | Cerebrovascular disease
+ | +10
+|-   valign="bottom"
+| height="9" |
+ |
+ | Renal disease
+ | +10
+|-   valign="bottom"
+| height="9" |
+|style="font-weight:bold" colspan="3" | Physical Exam Findings
+|-   valign="bottom"
+| height="9" |
+ |
+ | Altered mental status
+ | +20
+|-   valign="bottom"
+| height="9" |
+ |
+ | Pulse ≥125/minute
+ | +20
+|-   valign="bottom"
+| height="9" |
+ |
+ | Respiratory rate >30/minute
+ | +20
+|-   valign="bottom"
+| height="9" |
+ |
+ | Systolic blood pressure <90&nbsp;mm Hg
+ | +15
+|-   valign="bottom"
+| height="9" |
+ |
+ | Temperature <35°C or ≥40°C
+ | +10
+|-   valign="bottom"
+| height="9" |
+|style="font-weight:bold" colspan="3" | Lab and Radiographic Findings
+|-   valign="bottom"
+| height="9" |
+ |
+ | Arterial pH <7.35
+ | +30
+|-   valign="bottom"
+| height="9" |
+ |
+ | Blood urea nitrogen ≥30&nbsp;mg/dl (9&nbsp;mmol/liter)
+ | +20
+|-   valign="bottom"
+| height="9" |
+ |
+ | Sodium <130&nbsp;mmol/liter
+ | +20
+|-   valign="bottom"
+| height="9" |
+ |
+ | Glucose ≥250&nbsp;mg/dl (14&nbsp;mmol/liter)
+ | +10
+|-   valign="bottom"
+| height="9" |
+ |
+ | Hematocrit <30%
+ | +10
+|-   valign="bottom"
+| height="9" |
+ |
+ | Partial pressure of arterial O2 <60mmHg
+ | +10
+|-   valign="bottom"
+| height="9" |
+ |
+ | Pleural effusion
+ | +10
+|-   valign="bottom"
+| height="9" |
+ |
+ |
+ |
+|- style="background-color:#C0C0C0"  valign="bottom"
+| height="9" |
+ |
+ | ∑ <70 = '''Risk Class II'''
+ |
+|- style="background-color:#C0C0C0"  valign="bottom"
+| height="9" |
+ |
+ | ∑ 71-90 = '''Risk Class III'''
+ |
+|- style="background-color:#C0C0C0"  valign="bottom"
+| height="9" |
+ |
+ | ∑ 91-130 = '''Risk Class IV'''
+ |
+|- style="background-color:#C0C0C0"  valign="bottom"
+| height="9" |
+ |
+ | ∑ >130 = '''Risk Class V'''
+ |
+|}
+
+==PSI Derivation and Validation Data==
+{| class="wikitable" <hiddentext>generated with [[:de:Wikipedia:Helferlein/VBA-Macro for EXCEL tableconversion]] V1.7<\hiddentext>
+|- style="font-size:12pt"
+| width="74" height="16"  valign="bottom" |
+|style="font-weight:bold" width="52" colspan="4" align="center" valign="bottom" | Medisgroup Study (1989)
+|style="font-weight:bold" width="52" colspan="6" align="center" valign="bottom" | PORT Validation Study (1991) Cohort
+|-   valign="bottom"
+|style="font-size:12pt" height="16" |
+|style="font-size:11pt;font-weight:bold" colspan="2" | Derivation Cohort
+|style="font-size:11pt;font-weight:bold" colspan="2"| Validation Cohort
+|style="font-size:11pt;font-weight:bold" colspan="2"| Inpatients
+|style="font-size:11pt;font-weight:bold" colspan="2"| Outpatients
+|style="font-size:11pt;font-weight:bold" colspan="2"| All Patients
+|- style="font-weight:bold"  valign="bottom"
+|style="background-color:#C0C0C0" height="15" | Risk Class
+ | no. of pts
+|style="background-color:#CCFFCC" | % died
+ | no. of pts
+|style="background-color:#CCFFCC" | % died
+ | no. of pts
+|style="background-color:#CCFFCC" | % died
+ | no. of pts
+|style="background-color:#CCFFCC" | % died
+ | no. of pts
+|style="background-color:#CCFFCC" | % died
+|-   valign="bottom"
+|style="background-color:#C0C0C0;font-weight:bold" height="15" |  I
+ |  1,372
+|style="background-color:#CCFFCC" |  0.4
+ |  3,034
+|style="background-color:#CCFFCC" |  0.1
+ |  185
+|style="background-color:#CCFFCC" |  0.5
+ |  587
+|style="background-color:#CCFFCC" |  0.0
+ |  772
+|style="background-color:#CCFFCC" |  0.1
+|-   valign="bottom"
+|style="background-color:#C0C0C0;font-weight:bold" height="15" |  II (<70)
+ |  2,412
+|style="background-color:#CCFFCC" |  0.7
+ |  5,778
+|style="background-color:#CCFFCC" |  0.6
+ |  233
+|style="background-color:#CCFFCC" |  0.9
+ |  244
+|style="background-color:#CCFFCC" |  0.4
+ |  477
+|style="background-color:#CCFFCC" |  0.6
+|-   valign="bottom"
+|style="background-color:#C0C0C0;font-weight:bold" height="15" |  III (71–90)
+ |  2,632
+|style="background-color:#CCFFCC" |  2.8
+ |  6,790
+|style="background-color:#CCFFCC" |  2.8
+ |  254
+|style="background-color:#CCFFCC" |  1.2
+ |  72
+|style="background-color:#CCFFCC" |  0.0
+ |  326
+|style="background-color:#CCFFCC" |  0.9
+|-   valign="bottom"
+|style="background-color:#C0C0C0;font-weight:bold" height="15" |  IV (91–130)
+ |  4,697
+|style="background-color:#CCFFCC" |  8.5
+ |  13,104
+|style="background-color:#CCFFCC" |  8.2
+ |  446
+|style="background-color:#CCFFCC" |  9.0
+ |  40
+|style="background-color:#CCFFCC" |  12.5
+ |  486
+|style="background-color:#CCFFCC" |  9.3
+|-   valign="bottom"
+|style="background-color:#C0C0C0;font-weight:bold" height="15" |  V (>130)
+ |  3,086
+|style="background-color:#CCFFCC" |  31.1
+ |  9,333
+|style="background-color:#CCFFCC" |  29.2
+ |  225
+|style="background-color:#CCFFCC" |  27.1
+ |  1
+|style="background-color:#CCFFCC" |  0.0
+ |  226
+|style="background-color:#CCFFCC" |  27.0
+|-   valign="bottom"
+|style="font-weight:bold" height="15" |  Total
+ |  '''14,199'''
+ |  10.2
+ | '''38,039'''
+ |  10.6
+ |  '''1343'''
+ |  8.0
+ |  '''944'''
+ |  0.6
+ |  '''2287'''
+ |  5.2
+|}
+Note: % Died refers to 30-day mortality.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.ahrq.gov/clinic/pneuclin.htm Pneumonia: New Prediction Model Proves Promising]
+*[http://pda.ahrq.gov/clinic/psi/psicalc.asp Pneumonia Severity Index Calculator]
+*[http://www.mdcalc.com/capneumoniarisk Community-Acquired Pneumonia Mortality Risk for Adults (Pneumonia Patient Outcomes Research Team - PORT) Score Calculator]
+*[http://content.nejm.org/cgi/content/full/347/25/2039/F1 Figure 1, Halm E, Teirstein A. Management of Community-Acquired Pneumonia. NEJM 2002 347 (25): 2039]
+
+{{Respiratory system procedures}}
+
+{{DEFAULTSORT:Pneumonia Severity Index}}
+[[Category:Pneumonia]]
+[[Category:Medical signs]]

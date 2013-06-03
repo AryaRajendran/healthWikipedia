@@ -1,0 +1,71 @@
+Many organisms have [[metabolic pathway]]s to synthesize and break down [[purine]]s.
+
+==Biosynthesis==
+[[Image:Nucleotides syn1.png|thumb|float|400px|<div style="border-width: 0px; border-bottom: 1px solid black; text-align: left;">'''The synthesis of IMP'''.</div>The color scheme is as follows: <span style="font-weight: bold;"><span style="color: blue;">enzymes</span>, <span style="color: rgb(219,155,36);">coenzymes</span>, <span style="color: rgb(151,149,45);">substrate names</span>, <span style="color: rgb(227,13,196);">metal ions</span>, <span style="color: rgb(128,0,0);">inorganic molecules</span> </span>]]
+
+Purines are biologically synthesized as [[nucleotide]]s and in particular as ribotides, i.e. bases attached to [[ribose 5-phosphate]]. A key regulatory step is the production of 5-phospho-α-<small>D</small>-ribosyl 1-pyrophosphate ([[PRPP]]) by [[PRPP synthetase]], which is activated by [[inorganic phosphate]] and inactivated by purine ribonucleotides. It is not the committed step to purine synthesis because PRPP is also used in pyrimidine synthesis and salvage pathways. The first committed step is the reaction of PRPP, [[glutamine]] and water to [[5'-phosphoribosylamine]], [[glutamate]], and [[pyrophosphate]] - catalyzed by pyrophosphate amidotransferase, which is activated by PRPP and inhibited by AMP, GMP and IMP.
+
+Both [[adenine]] and [[guanine]] are derived from the nucleotide [[inosine monophosphate]] (IMP), which is the first compound in the pathway to have a completely formed purine ring system.
+
+Inosine monophosphate is synthesized on a pre-existing ribose-phosphate through a complex pathway (as shown in the figure on the right). The source of the [[carbon]] and [[nitrogen]] atoms of the purine ring, 5 and 4 respectively, come from multiple sources. The amino acid [[glycine]] contributes all its carbon (2) and nitrogen (1) atoms, with additional nitrogen atoms from glutamine (2) and [[aspartic acid]] (1), and additional carbon atoms from [[formyl group]]s (2), which are transferred from the [[coenzyme]] [[tetrahydrofolate]] as [[10-formyltetrahydrofolate]], and a carbon atom from [[bicarbonate]] (1). Formyl groups build carbon-2 and carbon-8 in the purine ring system, which are the ones acting as bridges between two nitrogen atoms. 
+
+===GMP===
+* [[IMP dehydrogenase]] converts [[Inosine monophosphate|IMP]] into [[Xanthosine monophosphate|XMP]]
+* [[GMP synthase]] converts XMP into [[guanine monophosphate|GMP]]
+* [[GMP reductase]] converts GMP back into IMP
+
+===AMP===
+* [[adenylosuccinate synthase]] converts IMP to [[adenylosuccinate]]
+* [[adenylosuccinate lyase]] converts adenylosuccinate into [[Adenosine monophosphate|AMP]]
+* [[AMP deaminase]] converts AMP back into IMP
+
+==Degradation==
+Purines are metabolised by several [[enzyme]]s:
+
+===Guanine===
+* A [[nuclease]] frees the [[nucleotide]]
+* A [[nucleotidase]] creates [[guanosine]]
+* [[Purine nucleoside phosphorylase]] converts [[guanosine]] to [[guanine]]
+* [[Guanase]] converts guanine to [[xanthine]]
+* [[Xanthine oxidase]] (a form of xanthine oxidoreductase) catalyzes the [[oxidation]] of xanthine to [[uric acid]]
+
+===Adenine===
+* A [[nuclease]] frees the [[nucleotide]]
+** A [[nucleotidase]] creates [[adenosine]], then [[adenosine deaminase]] creates [[inosine]]
+** Alternatively, [[AMP deaminase]] creates [[inosinic acid]], then a [[nucleotidase]] creates [[inosine]]
+* [[Purine nucleoside phosphorylase]] acts upon inosine to create [[hypoxanthine]]
+* [[Xanthine oxidoreductase]] catalyzes the biotransformation of hypoxanthine to xanthine
+* [[Xanthine oxidoreductase]] acts upon xanthine to create [[uric acid]]
+
+==Salvage==
+Purines from turnover of nucleic acids (or from food) can also be salvaged and reused in new nucleotides. 
+
+* The enzyme [[adenine phosphoribosyltransferase]] (APRT) salvages [[adenine]]. 
+* The enzyme [[hypoxanthine-guanine phosphoribosyltransferase]] (HGPRT) salvages [[guanine]] and [[hypoxanthine]]. (Genetic deficiency of HGPRT causes [[Lesch-Nyhan syndrome]].)
+
+==Disorders==
+When a defective gene causes gaps to appear in the metabolic recycling process for purines and pyrimidines, these chemicals are not metabolised properly, and adults or children can suffer from any one of twenty-eight hereditary disorders, possibly some more as yet unknown. Symptoms can include [[gout]], anaemia, epilepsy, delayed development, deafness, compulsive self-biting, kidney failure or stones, or loss of immunity.
+
+==Pharmacotherapy==
+Modulation of purine metabolism has pharmacotherapeutic value.
+
+''Purine synthesis inhibitors'' inhibit the proliferation of cells, especially [[leukocytes]].  These inhibitors include [[azathioprine]], an immunosuppressant used in [[organ transplant]]ation, [[autoimmune disease]] such as [[rheumatoid arthritis]] or inflammatory bowel disease such as [[Crohn's disease]] and [[ulcerative colitis]].
+
+[[Mycophenolate mofetil]] is an immunosuppressant drug used to prevent rejection in organ transplantation; it inhibits purine synthesis by blocking inositol monophosphate dehydrogenase.
+Also [[Methotrexate]] indirectly inhibits purine synthesis by blocking the metabolism of [[folic acid]] (it is an inhibitor of the [[Dihydrofolate reductase]]).
+
+Allopurinol is a drug that inhibits the enzyme xanthine oxidoreductase and, thus, lowers the level of uric acid in the body. This may be useful in the treatment of gout, which is a disease caused by excess uric acid, forming crystals in joints.
+
+==External links==
+* [http://themedicalbiochemistrypage.org/ The Medical Biochemistry Page]
+* [http://www.genome.jp/kegg/pathway/map/map00230.html Purine metabolism - Reference pathway]
+* [http://www.pumpa.org.uk PUMPA: Purine Metabolic Patients’ Association]
+
+{{Protein metabolism}}
+{{Nucleotide metabolism}}
+{{Nucleotide metabolism intermediates}}
+{{Inborn errors of purine-pyrimidine metabolism}}
+
+[[Category:Purines]]
+[[Category:Metabolic pathways]]
+[[Category:Biochemistry]]

@@ -1,0 +1,446 @@
+'''Medical image computing (MIC)''' is an interdisciplinary field at the intersection of [[computer science]], [[electrical engineering]], [[physics]], [[mathematics]] and [[medicine]]. This field develops computational and mathematical methods for solving problems pertaining to medical images and their use for biomedical research and clinical care. 
+
+The main goal of MIC is to extract clinically relevant information or knowledge from medical images. While closely related to the field of [[medical imaging]], MIC focuses on the computational analysis of the images, not their acquisition. The methods can be grouped into several broad categories: [[#Segmentation|image segmentation]], [[#Registration|image registration]], [[#Image-based Physiological Modelling|image-based physiological modeling]], and others.
+
+== Data Forms ==
+
+Medical image computing typically operates on uniformly sampled data with regular x-y-z spatial spacing (images in 2D and volumes in 3D, generically referred to as images). At each sample point, data is commonly represented in integral form such as signed and unsigned short (16-bit), although forms from unsigned char (8-bit) to 32-bit float are not uncommon. The particular meaning of the data at the sample point depends on modality: for example a [[X-ray computed tomography|CT acquisition]] collects radiodensity values, while a [[Magnetic resonance imaging|MRI acquisition]] may collect T1 or T2-weighted images. Longitudinal, time-varying acquisitions may or may not acquire images with regular time steps. Fan-like images due to modalities such as [[High-intensity focused ultrasound|curved-array ultrasound]] are also common and require different representational and algorithmic techniques to process. Other data forms include sheared images due to [http://www.impactscan.org/slides/techniquesandtechnology/img19.html gantry tilt] during acquisition; and [[Unstructured grid|unstructured meshes]], such as hexahedral and tetrahedral forms, which are used in advanced [[Biomechanics|biomechanical analysis]] (e.g., tissue deformation, vascular transport, bone implants).
+
+== Segmentation ==
+
+[[File:MeningiomaMRISegmentation.png|thumb|A [[MRI#T1-weighted MRI|T1 weighted MR]] image of the brain of a patient with a meningioma after injection of a [[MRI contrast agent]] (top left), and the same image with the result of an interactive segmentation overlaid in green (3D model of the segmentation on the top right, axial and coronal views at the bottom).]]
+
+Segmentation is the process of partitioning an image into different segments. In medical imaging, these segments often correspond to different tissue classes, [[organs]], pathologies, or other biologically relevant structures. Medical image segmentation is made difficult by low contrast, noise, and other imaging ambiguities. Although there are many [[Segmentation (image processing)|computer vision techniques for image segmentation]], some have been adapted specifically for medical image computing. Below is a sampling of techniques within this field; the implementation relies on the expertise that clinicians can provide.
+
+* '''Atlas-Based Segmentation''': For many applications, a clinical expert can manually label several images; segmenting unseen images is a matter of extrapolating from these manually labeled training images. Methods of this style are typically referred to as atlas-based segmentation methods. Parametric atlas methods typically combine these training images into a single atlas image,<ref name="Gee-1993" /> while nonparametric atlas methods typically use all of the training images separately.<ref name="Sabuncu-2010" /> Atlas-based methods usually require the use of [[#Registration|image registration]] in order to align the atlas image or images to a new, unseen image.
+
+* '''Shape-Based Segmentation''': Many methods parametrize a template shape for a given structure, often relying on control points along the boundary. The entire shape is then deformed to match a new image. Two of the most common shape-based techniques are Active Shape Models <ref name="Cootes-Taylor-1995" /> and Active Appearance Models.<ref name="Cootes-2001" /> These methods have been very influential, and have given rise to similar models.
+
+*'''Interactive Segmentation''': Interactive methods are useful when clinicians can provide some information, such as a seed region or rough outline of the region to segment. An algorithm can then iteratively refine such a segmentation, with or without guidance from the clinician. Manual segmentation, using tools such as a paint brush to explicitly define the tissue class of each pixel, remains the gold standard for many imaging applications. Recently, principles from feedback [[control theory]] have been incorporated into segmentation, which give the user much greater flexibility and allow for the automatic correction of errors.<ref name="feedback-2011" />
+
+== Registration ==
+[[File:CT-PET.jpg|thumb|CT image (left), PET image (center) and overlay of both (right) after correct registration.]]
+
+[[Image registration]] is a process that searches for the correct alignment of images.<ref name="Brown-1992"/><ref name="maintz-1998" /><ref name="hajnal-2001" /><ref name="Zitova-2003" /> In the simplest case, two images are aligned. Typically, one image is treated as the target image and the other is treated as a source image; the source image is transformed to match the target image. The [[Mathematical optimization|optimization procedure]] updates the transformation of the source image based on a similarity value that evaluates the current quality of the alignment. This iterative procedure is repeated until a (local) optimum is found. An example is the registration of CT and PET images to combine structural and metabolic information (see figure).
+
+Image registration is used in a variety of medical applications:
+* Studying temporal changes. [[Longitudinal studies]] acquire images over several months or years to study long-term processes, such as disease progression. [[Time series]] correspond to images acquired within the same session (seconds or minutes). They can be used to study cognitive processes, heart deformations and respiration.
+* Combining complementary information from different [[Medical imaging|imaging modalities]]. An example is the fusion of anatomical and functional information. Since the size and shape of structures vary across modalities, it is more challenging to evaluate the alignment quality. This has led to the use of similarity measures such as [[mutual information]].<ref name="pluim-2003"/>
+* Characterizing a population of subjects. In contrast to intra-subject registration, a one-to-one mapping may not exist between subjects, depending on the structural variability of the organ of interest. Inter-subject registration is required for atlas construction in computational anatomy.<ref name="grenander-1998"/> Here, the objective is to statistically model the anatomy of organs across subjects.
+
+There are several important considerations when performing image registration:
+* The [[Transformation geometry|transformation model]]. Common choices are [[Rigid transformation|rigid]], [[Affine transformation|affine]], and [[Deformation (engineering)|deformable]] transformation models. [[B-spline]] and [[thin plate spline]] models are commonly used for parameterized transformation fields. Non-parametric or dense deformation fields carry a displacement vector at every grid location; this necessitates additional [[Regularization (mathematics)|regularization]] constraints. A specific class of deformation fields are [[diffeomorphisms]], which are invertible transformations with a smooth inverse.
+* The similarity metric. A distance or similarity function is used to quantify the registration quality. This similarity can be calculated either on the original images or on features extracted from the images. Common similarity measures are sum of squared distances (SSD), [[correlation coefficient]]{{disambiguation needed|date=February 2013}}, and [[mutual information]]. The choice of similarity measure depends on whether the images are from the same modality; the acquisition noise can also play a role in this decision. For example, SSD is the optimal similarity measure for images of the same modality with [[Gaussian noise]].<ref name="viola-1995"/> However, the image statistics in ultrasound are significantly different to Gaussian noise, leading to the introduction of ultrasound specific similarity measures.<ref name="wachinger-2011"/> Multi-modal registration requires a more sophisticated similarity measure; alternatively, a different image representation can be used, such as structural representations.<ref name="wachinger-2012"/>
+* The [[Mathematical optimization|optimization procedure]]. Either [[continuous optimization|continuous]] or [[discrete optimization]] is performed. For continuous optimization, [[Gradient method|gradient-based optimization]] techniques are applied to improve the convergence speed.
+
+== Visualization ==
+[[File:Visualization of Medical Imaging.png|thumb|300px|Volume rendering (left), axial cross-section (right top), and sagittal cross-section (right bottom) of a CT image of a subject with multiple nodular lesions (white line) in the lung.]]
+
+Visualization plays several key roles in Medical Image Computing. Methods from [[scientific visualization]] are used to understand and communicate about medical images, which are inherently spatial-temporal. [[Data visualization]] and [[data analysis]] are used on unstructured data forms, for example when evaluating statistical measures derived during algorithmic processing. [[Interactive visualization|Direct interaction]] with data, a key feature of the visualization process, is used to perform visual queries about data, annotate images, guide segmentation and registration processes, and control the visual representation of data (by controlling lighting rendering properties and viewing parameters). Visualization is used both for initial exploration and for conveying intermediate and final results of analyses.
+
+The figure "Visualization of Medical Imaging" illustrates several types of visualization: 1. the display of cross-sections as gray scale images; 2. reformatted views of gray scale images (the sagittal view in this example has a different orientation than the original direction of the image acquisition; and 3. A [[Volume rendering|3D volume rendering]] of the same data. The nodular lesion is clearly visible in the different presentations and has been annotated with a white line.
+
+== Atlases ==
+Medical images can vary significantly across individuals due to people having organs of different shapes and sizes. Therefore, representing medical images to account for this variability is crucial. A popular approach to represent medical images is through the use of one or more atlases. Here, an atlas refers to a specific model for a population of images with parameters that are learned from a training dataset.<ref name="decraene_et_al" /><ref name="twining_et_al" />
+
+The simplest example of an atlas is a mean intensity image, commonly referred to as a template. However, an atlas can also include richer information, such as local image statistics and the probability that a particular spatial location has a certain label. New medical images, which are not used during training, can be mapped to an atlas, which has been tailored to the specific application, such as [[#Segmentation|segmentation]] and [[#Group Analysis|group analysis]]. Mapping an image to an atlas usually involves [[#Registration|registering]] the image and the atlas. This deformation can be used to address variability in medical images.
+
+=== Single Template ===
+The simplest approach is to model medical images as deformed versions of a single template image. For example, anatomical MRI brain scans are often mapped to the MNI template <ref name="mni_template" /> as to represent all the brain scans in common coordinates. The main drawback of a single-template approach is that if there are significant differences between the template and a given test image, then there may not be a good way to map one onto the other. For example, an anatomical MRI brain scan of a patient with severe brain abnormalities (i.e., a tumor or surgical procedure), may not easily map to the MNI template.
+
+=== Multiple Templates ===
+Rather than relying on a single template, multiple templates can be used. The idea is to represent an image as a deformed version of one of the templates. For example, there could be one template for a healthy population and one template for a diseased population. However, in many applications, it is not clear how many templates are needed. A simple albeit computationally expensive way to deal with this is to have every image in a training dataset be a template image and thus every new image encountered is compared against every image in the training dataset. A more recent approach automatically finds the number of templates needed.<ref name="icluster" />
+
+== Statistical Analysis ==
+Statistical methods combine the medical imaging field with modern [[Computer Vision]], [[Machine Learning]] and [[Pattern Recognition]]. Over the last decade, several large datasets have been made publicly available (see for example ADNI, 1000 functional Connectomes Project), in part due to collaboration between various institutes and research centers. This increase in data size calls for new algorithms that can mine and detect subtle changes in the images to address clinical questions. Such clinical questions are very diverse and include group analysis, imaging biomarkers, disease phenotyping and longitudinal studies.
+
+=== Group Analysis ===
+In the Group Analysis, the objective is to detect and quantize abnormalities induced by a disease by comparing the images of two or more cohorts. Usually one of these cohorts consist of normal (control) subjects, and the other one consists of abnormal patients. Variation caused by the disease can manifest itself as abnormal deformation of anatomy (see [[Voxel-based morphometry]]). For example, shrinkage of sub-cortical tissues such as the [[Hippocampus]] in brain may be linked to [[Alzheimer's disease]]. Additionally, changes in biochemical (functional) activity can be observed using imaging modalities such as [[Positron Emission Tomography]].
+
+The comparison between groups is usually conducted on the [[voxel]] level. Hence, the most popular pre-processing pipeline, particularly in [[neuroimaging]], transforms all of the images in a dataset to a common coordinate frame via ([[#Registration|Medical Image Registration]]) in order to maintain correspondence between voxels. Given this voxel-wise correspondence, the most common [[Frequentist]] method is to extract a statistic for each voxel (for example, the mean voxel intensity for each group) and perform [[statistical hypothesis testing]] to evaluate whether a null hypothesis is or is not supported. The null hypothesis typically assumes that the two cohorts are drawn from the same distribution, and hence, should have the same statistical properties (for example, the mean values of two groups are equal for a particular voxel). Since medical images contain large numbers of voxels, the issue of [[multiple comparison]] needs to be addressed,.<ref name="Ashburner2000" /><ref name="Davat2004" /> There are also [[Bayesian inference|Bayesian]] approaches to tackle group analysis problem.<ref name="Friston2002" />
+
+=== Classification ===
+Although group analysis can quantify the general effects of a pathology on an anatomy and function, it does not provide subject level measures, and hence cannot be used as biomarkers for diagnosis (see Imaging Biomarkers). Clinicians, on the other hand, are often interested in early diagnosis of the pathology (i.e. classification,<ref name="Yong2008" /><ref name="remi2011" />) and in learning the progression of a disease (i.e. regression <ref name="wang2011" />). From methodological point of view, current techniques varies from applying standard machine learning algorithms to medical imaging datasets (e.g. [[Support Vector Machine]] <ref name="benoit2009" />), to developing new approaches adapted for the needs of the field.<ref name="batman2012" /> The main difficulties are as follows:
+
+* Small sample size ([[Curse of Dimensionality]]): a large medical imaging dataset contains hundreds to thousands of images, whereas the number of voxels in a typical volumetric image can easily go beyond millions. A remedy to this problem is to reduce the number of features in an informative sense (see [[dimensionality reduction]]). Several unsupervised and semi-/supervised,<ref name="batman2012" /><ref name="Fung2007" /><ref name="chaves2009" /><ref name="liu2004" /> approaches have been proposed to address this issue.
+
+* Interpretability: A good generalization accuracy is not always the primary objective, as clinicians would like to understand which parts of anatomy are affected by the disease. Therefore, interpretability of the results is very important; methods that ignore the image structure are not favored. Alternative methods based on [[feature selection]] have been proposed,.<ref name="Fung2007" /><ref name="chaves2009" /><ref name="liu2004" />
+
+=== Clustering ===
+Image-based pattern classification methods typically assume that the neurological effects of a disease are distinct and well defined. This may not always be the case. For a number of medical conditions, the patient populations are highly heterogeneous, and further categorization into sub-conditions has not been established. Additionally, some diseases (e.g., [[Autism Spectrum Disorder]] (ASD), [[Schizophrenia]], [[Mild cognitive impairment]] (MCI)) can be characterized by a continuous or nearly-continuous spectra from mild cognitive impairment to very pronounced pathological changes. To facilitate image-based analysis of heterogeneous disorders, methodological alternatives to pattern classification have been developed. These techniques borrow ideas from high-dimensional clustering <ref name="filip2011" /> and high-dimensional pattern-regression to cluster a given population into homogeneous sub-populations. The goal is to provide a better quantitative understanding of the disease within each sub-population.
+
+=== Shape Analysis ===
+[[Statistical shape analysis|Shape Analysis]] is the field of Medical Image Computing that studies [[geometry|geometrical]] properties of structures obtained from different [[Medical imaging#Imaging technology|imaging modalities]]. Shape analysis recently become of increasing interest to the medical community due to its potential to precisely locate [[Morphology (biology)|morphological]] changes between different populations of structures, i.e. healthy vs pathological, female vs male, young vs elderly. Shape Analysis includes two main steps: shape correspondence and statistical analysis.
+
+* Shape correspondence is the methodology that computes correspondent locations between geometric shapes represented by triangle meshes, contours, point sets or volumetric images. Obviously definition of correspondence will influence directly the analysis. Among the different options for correspondence frameworks we can find: Anatomical correspondence, manual landmarks, functional correspondence (i.e. in brain morphometry locus responsible for same neuronal functionality), geometry correspondence, (for image volumes) intensity similarity, etc.
+
+* Statistical analysis will provide measurements of structural change at correspondent locations.
+
+=== Longitudinal Studies ===
+
+== Image-based Physiological Modelling ==
+
+Traditionally, medical image computing has seen to address the quantification and fusion of structural or functional information available at the point and time of image acquisition. In this regard, it can be seen as quantitative sensing of the underlying anatomical, physical or physiological processes. However, over the last few years, there has been a growing interest in the predictive assessment of disease or therapy course. Image-based modelling, be it of biomechanical or physiological nature, can therefore extend the possibilities of image computing from a descriptive to a predictive angle.
+
+According to the [http://www.europhysiome.org/roadmap STEP research roadmap] <ref>J. W. Fenner, B. Brook, G. Clapworthy, P. V. Coveney, V. Feipel, H. Gregersen, D. R. Hose, P. Kohl, P. Lawford, K. M. McCormack, D. Pinney, S. R. Thomas, S. Van Sint Jan, S. Waters, and M. Viceconti, “The EuroPhysiome, STEP and a roadmap for the virtual physiological human,” Philos. Trans. A Math. Phys. Eng. Sci., vol. 366, no. 1878, pp. 2979–2999, Sep. 2008.</ref> the [[Virtual Physiological Human]] (VPH) is a methodological and technological framework that, once established, will enable the investigation of the human body as a single complex system. Underlying the VPH concept, the International Union for Physiological Sciences (IUPS) has been sponsoring the [[Physiome|IUPS Physiome Project]] for more than a decade,.<ref>J. B. Bassingthwaighte, “Strategies for the Physiome Project,” Ann. Biomed. Eng., vol. 28, no. 8, pp. 1043–1058, Aug. 2000.</ref><ref>[3] P. J. Hunter and T. K. Borg, “Integration from proteins to organs: The Physiome Project,” Nat. Rev.Mol. Cell Biol., vol. 4, no. 3, pp. 237–243, Mar. 2003.</ref> This is a worldwide public domain effort to provide a computational framework for understanding human physiology. It aims at developing integrative models at all levels of biological organization, from genes to the whole organisms via gene regulatory networks, protein pathways, integrative cell functions, and tissue and whole organ structure/function relations. Such an approach aims at transforming current practice in medicine and underpins a new era of computational medicine.<ref>R. L.Winslow, N. Trayanova, D. Geman, and M. I. Miller, “Computational medicine: Translating models to clinical care,” Sci. Trans. Med., vol. 4, no. 158, pp. 158rv11–158rv11, Oct. 2012.</ref> 
+
+In this context, medical imaging and image computing play, and will continue to play, an increasingly important role as they provide systems and methods to image, quantify and fuse both structural and functional information about the human being in vivo. These two broad research areas include the transformation of generic computational models to represent specific subjects, thus paving the way for personalized computational models.<ref>N. Ayache, J.-P. Boissel, S. Brunak, G. Clapworthy, G. Lonsdale, J. Fingberg, A. F. Frangi,G.Deco, P. J. Hunter, P.Nielsen,M.Halstead, D. R. Hose, I. Magnin, F. Martin-Sanchez, P. Sloot, J. Kaandorp, A. Hoekstra, S. Van Sint Jan, and M. Viceconti, “Towards virtual physiological human: Multilevel modelling and simulation of the human anatomy and physiology,” Directorate General INFSO & Directorate General JRC, White paper, 2005 [Online]. Available: http://ec.europa.eu/information_society/activities/health/docs/events/barcelona2005/ec-vph-white-paper2005nov.pdf</ref>  Individualization of generic computational models through imaging can be realized in three complementary directions: 
+* definition of the subject-specific computational domain (anatomy) and related subdomains (tissue types);  
+* definition of boundary and initial conditions from (dynamic and/or functional) imaging; and  
+* characterization of structural and functional tissue properties. 
+
+In addition, imaging also plays a pivotal role in the evaluation and validation of such models both in humans and in animal models, and in the translation of models to the clinical setting with both diagnostic and therapeutic applications. In this specific context, molecular, biological, and pre-clinical imaging render additional data and understanding of basic structure and function in molecules, cells, tissues and animal models that may be transferred to human physiology where appropriate.
+
+The applications of image-based VPH/Physiome models in basic and clinical domains are vast. Broadly speaking, they promise to become new ''virtual imaging techniques''. Effectively more, often non-observable, parameters will be imaged ''in silico'' based on the integration of observable but sometimes sparse and inconsistent multimodal images and physiological measurements. Computational models will serve to engender interpretation of the measurements in a way compliant with the underlying biophysical, biochemical or biological laws of the physiological or pathophysiological processes under investigation. Ultimately, such investigative tools and systems will help our understanding of disease processes, the natural history of disease evolution, and the influence on the course of a disease of pharmacological and/or interventional therapeutic procedures.
+
+Cross-fertilization between imaging and modelling goes beyond interpretation of measurements in a way consistent with physiology. Image-based patient-specific modelling, combined with models of medical devices and pharmacological therapies, opens the way to predictive imaging whereby one will be able to understand, plan and optimize such interventions ''in silico''.
+
+== Mathematical Methods in Medical Imaging ==
+A number of sophisticated mathematical methods have entered medical imaging, and have already been
+implemented in various software packages. These include approaches based on [[partial differential equations]] (PDEs) and curvature driven flows for enhancement, segmentation, and registration. Since they employ PDEs, the methods are amenable to parallelization and implementation on GPGPUs. A number of these techniques have been inspired from ideas in [[optimal control]]. Accordingly, very recently ideas from control have recently made their way into interactive methods, especially segmentation. Moreover, because of noise and the need for statistical estimation techniques for more dynamically changing imagery, the [[Kalman filter]] and [[particle filter]] have come into use. A survey of these methods with an extensive list of references may be found in.<ref name="mathematical-2006"/>
+
+==Modality Specific Computing==
+
+Some imaging modalities provide very specialized information. The resulting images cannot be treated as regular scalar images and give rise to new sub-areas of Medical Image Computing. Examples include [[#Diffusion MRI|diffusion MRI]],
+[[#Functional MRI|functional MRI]] and others.
+
+===Diffusion MRI===
+[[File:DiffusionMRI glyphs.png|thumb|right|A mid-axial slice of the ICBM diffusion tensor image template. Each voxel's value is a tensor represented here by an ellipsoid. Color denotes principal orientation: red = left-right, blue=inferior-superior, green = posterior-anterior]]
+
+[[Diffusion MRI]] is a structural [[magnetic resonance imaging]] modality that allows measurement of the diffusion process of molecules. Diffusion is measured by applying a gradient pulse to a magnetic field along a particular direction. In a typical acquisition, a set of uniformly distributed gradient directions is used to create a set of diffusion weighted volumes. In addition, an unweighted volume is acquired under the same magnetic field without application of a gradient pulse. As each acquisition is associated with multiple volumes, [[diffusion MRI]] has created a variety of unique challenges in medical image computing.
+
+In medicine, there are two major computational goals in [[diffusion MRI]]:
+* Estimation of local tissue properties, such as diffusivity;
+* Estimation of local directions and global pathways of diffusion.
+
+The [[Diffusion tensor imaging|diffusion tensor]],<ref name="Basser-1994"/> a 3 &times; 3 symmetric [[positive-definite matrix]], offers a straightforward solution to both of these goals. It is proportional to the covariance matrix of a Normally distributed local diffusion profile and, thus, the dominant eigenvector of this matrix is the principal direction of local diffusion. Due to the simplicity of this model, a maximum likelihood estimate of the diffusion tensor can be found by simply solving a system of linear equations at each location independently. However, as the volume is assumed to contain contiguous tissue fibers, it may be preferable to estimate the volume of diffusion tensors in its entirety by imposing regualarity conditions on the underlying field of tensors.<ref name="Fillard-2007"/> Scalar values can be extracted from the diffusion tensor, such as the [[fractional anisotropy]], mean, axial and radial diffusivities, which ''indirectly'' measure tissue properties such as the dysmyelination of axonal fibers <ref name="Song-2002"/> or the presence of edema.<ref name="Barzo-1997"/> Standard scalar image computing methods, such as registration and segmentation, can be applied directly to volumes of such scalar values. However, to fully exploit the information in the diffusion tensor, these methods have been adapted to account for tensor valued volumes when performing registration <ref name="Alexander-2001"/><ref name="Cao-2006"/> and segmentation.<ref name="Wang-2005"/><ref name="Pichon-2008"/>
+
+Given the principal direction of diffusion at each location in the volume, it is possible to estimate the global pathways of diffusion through a process known as [[tractography]].<ref name="Mori-1999"/> However, due to the relatively low resolution of [[diffusion MRI]], many of these pathways may cross, kiss or fan at a single location. In this situation, the single principal direction of the [[Diffusion tensor imaging|diffusion tensor]] is not an appropriate model for the local diffusion distribution. The most common solution to this problem is to estimate multiple directions of local diffusion using more complex models. These include mixtures of diffusion tensors,<ref name="Tuch-2002"/> Q-ball imaging,<ref name="Tuch-2004"/> diffusion spectrum imaging <ref name="Wedeen-2005"/> and fiber orientation distribution functions,<ref name="Jansons-2003"/><ref name="Tournier-2004"/> which typically require [[Diffusion MRI#HARDI: High-angular-resolution diffusion imaging and Q-ball vector analysis|HARDI]] acquisition with a large number of gradient directions. As with the diffusion tensor, volumes valued with these complex models require special treatment when applying image computing methods, such as [[Image registration|registration]] <ref name="Geng-2009"/><ref name="Yap-2011"/><ref name="Zhang-2012"/> and segmentation.<ref name="Descoteaux-2007"/>
+
+=== Functional MRI ===
+[[Fmri|Functional magnetic resonance imaging (fMRI)]] is a medical imaging modality that indirectly measures neural activity by observing the local [[hemodynamic response|hemodynamics]], or blood oxygen level dependent signal (BOLD). fMRI data offers a range of insights, and can be roughly divided into two categories:
+
+* '''Task related fMRI''' is acquired as the subject is performing a sequence of timed experimental conditions. In block-design experiments, the conditions are present for short periods of time (e.g., 10 seconds) and are alternated with periods of rest. Event-related experiments rely on a random sequence of stimuli and use a single time point to denote each condition. The standard approach to analyze task related fMRI is the [[general linear model]] (GLM) <ref name="friston-1995"/>
+
+* '''Resting state fMRI''' is acquired in the absence of any experimental task. Typically, the objective is to study the intrinsic network structure of the brain. Observations made during rest have also been linked to specific cognitive processes such as encoding or reflection. Most studies of resting state fMRI focus on low frequency fluctuations of the fMRI signal (LF-BOLD). Seminal discoveries include the [[default network]],<ref name="buckner-2008"/> a comprehensive cortical parcellation,<ref name="yeo-2011"/> and the linking of network characteristics to behavioral parameters.
+
+There is a rich set of methodology used to analyze functional neuroimaging data, and there is often no consensus regarding the ''best'' method. Instead, researchers approach each problem independently and select a suitable model/algorithm. In this context there is a relatively active exchange among [[neuroscience]], [[computational biology]], [[statistics]], and [[machine learning]] communities. Prominent approaches include
+
+* '''Massive univariate approaches''' that probe individual voxels in the imaging data for a relationship to the experiment condition. The prime approach is the [[general linear model]] (GLM) <ref name="friston-1995"/>
+
+* '''Multivariate- and classifier based approaches''', often referred to as multi voxel pattern analysis or multi-variate pattern analysis probe the data for global and potentially distributed responses to an experimental condition. Early approaches used [[Support vector machine|support vector machines (SVM)]] to study responses to visual stimuli.<ref name="haxby-2001"/> Recently, alternative pattern recognition algorithms have been explored, such as [[random forest]] based gini contrast <ref name="langs-2011-gini"/> or sparse regression and dictionary learning <ref name="varoquaux-2011"/>
+
+* '''Functional connectivity analysis''' studies the intrinsic network structure of the brain, including the interactions between regions. The majority of such studies focus on resting state data to parcelate the brain <ref name="yeo-2011"/> or to find correlates to behavioral measures.<ref name="heuvel-2009"/> Task specific data can be used to study causal relationships among brain regions (e.g., dynamic causal mapping (DCM) <ref name="friston-2003"/>).
+
+When working with large cohorts of subjects, the normalization (registration) of individual subjects into a common reference frame is crucial. A body of work and tools exist to perform normalization based on anatomy ([[FMRIB Software Library|FSL]], [[FreeSurfer]], [[Statistical parametric mapping|SPM]]). Alignment taking spatial variability across subjects into account is a more recent line of work. Examples are the alignment of the cortex based on fMRI signal correlation,<ref name="sabuncu-2010-alignment"/> the alignment based on the global functional connectivity structure both in task-, or resting state data,<ref name="langs-2011"/> and the alignment based on stimulus specific activation profiles of individual voxels.<ref name="haxby-2011"/>
+
+== Software ==
+Software for medical image computing is a complex combination of systems providing IO, visualization and interaction, user interface, data management and computation. Typically system architectures are layered to serve algorithm developers, application developers, and users. The bottom layers are often libraries and/or toolkits which provide base computational capabilities; while the top layers are specialized applications which address specific medical problems, diseases, or body systems.
+
+===Toolkits, Libraries and Enabling Technologies===
+* [[VTK|Visualization Toolkit (VTK)]]
+* [[Insight Segmentation and Registration Toolkit|Insight Segmentation and Registration Toolkit (ITK)]]
+* [http://www.commontk.org/index.php/Main_Page The Common Toolkit (CTK)]
+* [http://teem.sourceforge.net/ Teem]
+* [http://dicom.offis.de/dcmtk.php.en DCMTK]
+
+===Image database software===
+* [http://xnat.org/ XNAT]
+* [http://www3.imperial.ac.uk/bioinfsupport/resources/software/mridb MRIdb] <ref name="woodbridge-2013"/>
+* [http://www.dcm4che.org/ dcm4chee]
+* [[OsiriX]]
+
+===Integration Software===
+* [[Python (programming language)|Python]]
+* [[Qt (framework)|Qt]]
+* [http://www.midasplatform.org/ Midas]
+* [[CMake]]
+
+===General-Purpose Applications===
+* [[3DSlicer|3D Slicer]]
+* [[ITK-SNAP]]
+* [[GIMIAS]]
+* [[ImageJ]]
+* [http://med.inria.fr medInria]
+* [[ParaView]]
+
+===Brain Imaging===
+* [[Freesurfer]]
+* [[FMRIB Software Library|FMRIB Software Library (FSL)]]
+* [[Statistical parametric mapping|Statistical Parametric Mapping (SPM)]]
+
+===Shape Analysis===
+*[[SPHARM-PDM]]
+
+===Infant Imaging===
+*[http://www.med.unc.edu/bric/ideagroup/free-softwares/libra-longitudinal-infant-brain-processing-package iBeat]
+
+== Journals that Publish Articles on Medical Image Computing ==
+* [http://www.journals.elsevier.com/medical-image-analysis/ Medical Image Analysis (MedIA)] ; also the official journal of the [http://www.miccai.org MICCAI] Society, a premier conference for medical image computing
+* [http://www.ieee-tmi.org IEEE Transactions on Medical Imaging (IEEE TMI)]
+* [http://www.medphys.org Medical Physics]
+* [http://www.siimweb.org/index.cfm?id=70 Journal of Digital Imaging (JDI)] ; the official journal of the [http://www.siimweb.org Society of Imaging Informatics]
+* [http://www.journals.elsevier.com/computerized-medical-imaging-and-graphics/ Computerized Medical Imaging and Graphics]
+
+in addition the following journals occasionally publish articles describing methods and specific clinical applications of medical image computing or modality specific medical image computing
+* [http://radiology.rsna.org Radiology] the official journal of the [http://www.rsna.org Radiological Society of North America]
+* [http://www.journals.elsevier.com/neuroimage/ NeuroImage]
+* [http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2586 Journal of Magnetic Resonance Imaging (JMRI)]
+* [http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2594 Magnetic Resonance in Medicine (MRM)]
+* [http://journals.lww.com/jcat/pages/default.aspx Journal of Computer Assisted Tomography (JCAT)]
+
+== Additional Notes ==
+
+Medical Image Computing is also related to the field of [[Computer Vision]]. An international society, the [http://www.miccai.org/PastProceedings MICCAI society] represents the field and organizes an annual conference and associated workshops. Proceedings for this conference are published by Springer in the Lecture Notes in Computer Science series.<ref>{{cite book|doi=10.1007/BFb0056181|volume=1496|year=1998|title=Lecture Notes in Computer Science}}</ref> In 2000, N. Ayache and J. Duncan reviewed the state of the field.<ref>{{cite journal | title=Medical image analysis: Progress over two decades and the challenges ahead | author=JS Duncan, N Ayache | journal=Pattern Analysis and Machine Intelligence|doi=10.1109/34.824822 | year=2000 | volume=22 | page=85}}</ref>
+
+==References==
+{{reflist|
+refs=
+<ref name="Brown-1992">
+{{cite journal| author=Lisa Gottesfeld Brown| title=A survey of image registration techniques| journal=ACM Computing Surveys (CSUR)|volume=24  | issue=4 | pages=325–376| year=1992}}
+</ref>
+
+<ref name="woodbridge-2013">
+{{cite journal| author=M. Woodbridge, G Fagiolo, DP O'Regan | title=MRIdb: Medical Image Management for Biobank Research | journal=Journal of Digital Imaging |doi=10.1007/s10278-013-9604-9 | year=2013}}
+</ref>
+
+<ref name="Zitova-2003">
+{{cite journal | author = Barbara Zitová, Jan Flusser | title=Image registration methods: a survey | journal=Image Vision Comput. | volume=21| issue=11 | pages=977–1000 | year=2003}}
+</ref>
+
+<ref name="maintz-1998">
+{{cite journal | author=J. Maintz and M. Viergever | title=A survey of medical image registration | journal=Medical Image Analysis | pages=1–36 | year=1998}}
+</ref>
+
+<ref name="hajnal-2001">
+{{cite book | author=J. Hajnal, D. Hawkes, and D. Hill | title=Medical Image Registration | publisher=CRC Press | place=Baton Rouge, Florida| year=2001}}
+</ref>
+
+<ref name="pluim-2003">
+{{cite journal | author=J. P. W. Pluim, J. B. A. Maintz, and M. A. Viergever| title=Mutual information based registration of medical images: A survey | journal=IEEE Trans. Med. Imaging |  22(8):986–1004, year=2003}}
+</ref>
+
+<ref name="grenander-1998">
+{{cite journal | author=Grenander, Ulf and Miller, Michael I. | title=Computational anatomy: an emerging discipline | journal=Q. Appl. Math. | year=1998 | volume=LVI | number=4 | pages=617–694}}
+</ref>
+
+<ref name="wachinger-2012">
+{{cite journal | author=C. Wachinger, N. Navab | title=Entropy and Laplacian images: structural representations for multi-modal registration | journal=Medical Image Analysis | year=2012 | volume=16 | issue=1 | pages=1–17}}
+</ref>
+
+<ref name="wachinger-2011">
+{{cite journal | author=C. Wachinger, T. Klein, N. Navab | title=Locally adaptive Nakagami-based ultrasound similarity measures | journal=Ultrasonics | year=2011 | volume=52| issue=4 | pages=547–554}}
+</ref>
+
+<ref name="viola-1995">
+{{cite thesis | author=P. A. Viola | title=Alignment by Maximization of Mutual Information | institute=Massachusetts Institute of Technology | year= 1995}}
+</ref>
+
+<ref name="Ashburner2000">
+{{cite journal| author=J. Ashburner and K.J. Friston| title=Voxel-Based Morphometry -- The Methods. | journal=NeuroImage | year=2000 | pages=805–821 }}
+</ref>
+
+<ref name="Friston2002">
+{{cite journal| author=K.J. Friston, W.D. Penny, C. Phillips, S.J. Kiebel, G. Hinton, and J. Ashburner | title= Classical and Bayesian Inference in Neuroimaging: Theory. | journal=NeuroImage | pages=465–483 | year = 2002.  }}
+</ref>
+
+<ref name="Davat2004">
+{{cite journal| author=C. Davatzikos | title=Why voxel-based morphometric analysis should be used with great caution when characterizing group differences, | journal=NeuroImage | pages=17–20 | year = 2004.  }}
+</ref>
+
+<ref name="Yong2008">
+{{cite journal| author=Yong Fan, Nematollah Batmanghelich, Chris M. Clark, Christos Davatzikos, the Alzheimer’s Disease Neuroimaging Initiative, Spatial patterns of brain atrophy in MCI patients, identified via high-dimensional pattern classification, predict subsequent cognitive decline.  | journal=NeuroImage | volume = 39 | number = 4| pages=1731–1743 | year = 2008.  }}
+</ref>
+
+<ref name="remi2011">
+{{cite journal| author=Rémi Cuingnet and Emilie Gerardin and Jérôme Tessieras and Guillaume Auzias and Stéphane Lehéricy and Marie-Odile Habert and Marie Chupin and Habib Benali and Olivier Colliot| title=The Alzheimer's Disease Neuroimaging Initiative, Automatic classification of patients with Alzheimer's disease from structural MRI: A comparison of ten methods using the ADNI database| volume=56| number= 2| year= 2011 |  pages=766–781  }}
+</ref>
+
+<ref name="wang2011">
+{{cite journal| author=Y. Wang and Y. Fan and P. Bhatt P and C. Davatzikos | title=High-dimensional pattern regression using machine learning: from medical images to continuous clinical variables | journal=Neuroimage | year=2010 | volume=50 | number = 4 | pages=1519–35  }}
+</ref>
+
+<ref name="benoit2009">
+{{cite journal| author=Benoît Magnin and Lilia Mesrob and Serge Kinkingnéhun and Mélanie Pélégrini-Issac and Olivier Colliot and Marie Sarazin and Bruno Dubois and Stéphane Lehéricy and Habib Benali | title=Support vector machine-based classification of Alzheimer’s disease from whole-brain anatomical MRI| journal= Neuroradiology | volume=51 |  number=2 | year = 2009 | pages = 73–83  }}
+</ref>
+
+<ref name="batman2012">
+{{cite journal| author=N.K. Batmanghelich and B. Taskar and C. Davatzikos | title=Generative-discriminative basis learning for medical imaging. | journal= IEEE Trans Med Imaging | year=2012 | volume=31 | number = 1| pages= 51–69  }}
+</ref>
+
+<ref name="Fung2007">
+{{cite journal| author=Glenn Fung and Jonathan Stoeckel | title= SVM feature selection for classification of SPECT images of Alzheimer's disease using spatial information | journal= Knowledge and Information Systems | volume =  11 |  number = 2| year = 2007 | pages = 243–258 }}
+</ref>
+
+<ref name="chaves2009">
+{{cite journal| author = R. Chaves and J. Ramírez and J.M. Górriz and M. López and D. Salas-Gonzalez and I. Álvarez and F. Segovia | title=SVM-based computer-aided diagnosis of the Alzheimer's disease using t-test NMSE feature selection with feature correlation weighting | journal=Neuroscience Letters | volume=461| number=3| year=2009 | pages= 293–297}}
+</ref>
+
+<ref name="liu2004">
+{{cite journal| author = yanxi liu and leonid teverovskiy and owen carmichael and ron kikinis and martha shenton and cameron s. carter and v. andrew stenger and simon davis and howard aizenstein and james t. becker | title=discriminative mr image feature analysis for automatic schizophrenia and alzheimer’s disease classification | journal= medical image computing and computer-assisted intervention – miccai | year = 2004}}
+</ref>
+
+<ref name="filip2011">
+{{cite journal| author=R. Filipovych and S. M. Resnick and C. Davatzikos | title= Semi-supervised cluster analysis of imaging data | journal= Neuroimage | volume= 54 | number = 3 | year = 2011 | pages= 2185–2197}}
+</ref>
+
+<ref name="decraene_et_al">
+{{cite journal| author=M. De Craene and A. B. d Aische and B. Macq and S. K. Warfield| title=Multi-subject registration for unbiased statistical atlas construction | journal= Proceedings of Medical Image Computing and Computer-Assisted Intervention 2004}}
+</ref>
+
+<ref name="twining_et_al">
+{{cite journal| author=C. J. Twining and T. Cootes and S. Marsland and V. Petrovic and R. Schestowitz and C. Taylor| title=A unified information-theoretic approach to groupwise non-rigid registration and model building | journal= Proceedings of Information Processing in Medical Imaging 2005}}
+</ref>
+
+<ref name="mni_template">
+{{cite web| title=The MNI brain and the Talairach atlas | url=http://imaging.mrc-cbu.cam.ac.uk/imaging/MniTalairach}}
+</ref>
+
+<ref name="icluster">
+{{cite journal| author=M. Sabuncu and S. K. Balci and M. E. Shenton and P. Golland | title=Image-driven Population Analysis through Mixture Modeling | journal=IEEE Transactions in Medical Imaging | volume=28 | number=9 | year=2009 | pages=1473–1487}}
+</ref>
+
+<ref name="Sabuncu-2010">
+{{cite journal | author = MR Sabuncu, BT Yeo, K Van Leemput, B Fischl, P Golland | title = A Generative Model for Image Segmentation Based on Label Fusion | journal = IEEE Transactions on Medical Imaging | volume = 29 | issue = 10 | pages = 1714–1729 | date = June 2010 | doi = 10.1109/TMI.2010.2050897}}
+</ref>
+
+<ref name="Cootes-Taylor-1995">
+{{cite journal | title=Active shape models-their training and application | author= Cootes TF, Taylor CJ, Cooper DH, and Graham J | journal = Computer vision and image understanding | volume = 61 | number = 1 | pages=38–59 | year = 1995 |  publisher = San Diego: Academic Press, c1995- }}
+</ref>
+
+<ref name="Cootes-2001">
+{{cite journal| title = Active appearance models | author = Cootes, T.F. and Edwards, G.J. and Taylor, C.J. | journal=Pattern Analysis and Machine Intelligence, IEEE Transactions on | volume=23 |  number=6 |  pages=681–685 | year=2001 | publisher=IEEE }}
+</ref>
+
+<ref name="Gee-1993">
+{{cite journal| author=J Gee, M Reivich, R Bajcsy | title=Elastically Deforming a Three-Dimensional Atlas to Match Anatomical Brain Images | journal = Journal of Computer Assisted Tomography | volume = 17 | issue = 1 | year = 1993 | pages = 225–236 }}
+</ref>
+
+<ref name="Basser-1994">
+{{cite journal | author = P Basser, J Mattiello, D LeBihan | title = MR diffusion tensor spectroscopy, imaging | journal = Biophysical Journal | volume = 66 | issue = 1 | pages = 259–267 | date = January 1994 | doi = 10.1.1.162.2887}}
+</ref>
+
+<ref name="Song-2002">
+{{cite journal | author = S-K Song, S-W Sun, M Ramsbottom, C Cheng, J Russell, A Cross | title = Dysmyelination Revealed through MRI as Increased Radial (but Unchanged Axial) Diffusion of Water | journal = NeuroImage | volume = 13 | issue = 3 | pages = 1429–1436 | date = November 2002 | doi = 10.1006/nimg.2002.1267}}
+</ref>
+
+<ref name="Barzo-1997">
+{{cite journal | author = P Barzo, A Marmarou, P Fatouros, K Hayasaki, F Corwin | title =Contribution of vasogenic and cellular edema to traumatic brain swelling measured by diffusion-weighted imaging  | journal = Journal of Neurosurgery | volume = 87 | issue = 6 | pages = 900–907 | date = December 1997 | doi =10.3171/jns.1997.87.6.0900 }}
+</ref>
+
+<ref name="Alexander-2001">
+{{cite journal | author = D Alexander, C Pierpaoli, P Basser | title = Spatial transformation of diffusion tensor magnetic resonance images | journal = IEEE Transactions on Medical Imaging | volume = 20 | issue = 11 | pages = 1131–1139 | date = January 2001 | doi = 10.1.1.162.2954}}
+</ref>
+
+<ref name="Cao-2006">
+{{cite conference | author = Y Cao, M Miller, S Mori, R Winslow, L Younes | title = Diffeomorphic Matching of Diffusion Tensor Images | booktitle = Proceedings of IEEE Computer Society Conference on Computer Vision, Pattern Recognition (CVPR), Workshop on Mathematical Methods in Biomedical Image Analysis (MMBIA 2006) | pages 67-67 |  date = June 2006 | location = New York | doi = 10.1109/CVPRW.2006.65 }}
+</ref>
+
+<ref name="Wang-2005">
+{{cite journal | ref Wang2005 | author = Z Wang, B Vemuri | title = DTI segmentation using an information theoretic tensor dissimilarity measure | journal = IEEE Transactions on Medical Imaging | volume = 24 | issue = 10 | pages = 1267–1277 | date = October 2005 | doi = 10.1109/TMI.2005.854516}}
+</ref>
+
+<ref name="Fillard-2007">
+{{cite journal | author = P Fillard, X Pennec, V Arsigny, N Ayache | title = Clinical DT-MRI estimation, smoothing,, fiber tracking with log-Euclidean metrics | journal = IEEE Transactions on Medical Imaging | volume = 26 | issue = 11 | pages = 1472–1482 | date = November 2007 | doi = 10.1109/TMI.2007.899173}}
+</ref>
+
+<ref name="Mori-1999">
+{{cite journal | author=S Mori, B Crain, V Chacko, P van Zijl | title=Three-dimensional tracking of axonal projections in the brain by magnetic resonance imaging | journal = Annals of Neurology | volume = 45 | issue = 2 | pages = 265–269 | date = February 1999 | doi = 10.1002/1531-8249(199902)45:2<265::AID-ANA21>3.0.CO;2-3 | pmid=9989633}}
+</ref>
+
+<ref name="Tuch-2002">
+{{cite journal | author=D Tuch, T Reese, M Wiegell, N Makris, J Belliveau, V Wedeen | title=High angular resolution diffusion imaging reveals intravoxel white matter fiber heterogeneity | journal = Magnetic Resonance in Medicine | volume = 48 | issue = 4 | pages = 577–582 | date = October 2002 | doi = 10.1.1.162.2345}}
+</ref>
+
+<ref name="Tuch-2004">
+{{cite journal | author = D Tuch | title = Q-ball imaging | journal = Magnetic Resonance in Medicine | volume = 52 | issue = 6 | pages = 1358–1372 | date = December 2004 | doi =10.1002/mrm.20279 | pmid=15562495}}
+</ref>
+
+<ref name="Wedeen-2005">
+{{cite journal | author=V Wedeen, P Hagmann, W-Y Tseng, T Reese | title = Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging | journal = Magnetic Resonance in Medicine | volume = 64 | issue = 6 | pages = 1377–1386 | date = December 2005 | doi = 10.1002/mrm.20642 | pmid=16247738}}
+</ref>
+
+<ref name="Jansons-2003">
+{{cite conference | author=K Jansons, D Alexander | title = Persistent angular structure: new insights from diffusion magnetic resonance imaging data | booktitle = Proceedings of Information Processing in Medical Imaging (IPMI) 2003, LNCS 2732 | pages = 672–683 | date = July 2003 | doi =10.1007/978-3-540-45087-0_56}}
+</ref>
+
+<ref name="Tournier-2004">
+{{cite journal | author=J-D Tournier, F Calamante, D Gadian, A Connelly | title =Direct estimation of the fiber orientation density function from diffusion-weighted MRI data using spherical deconvolution | journal = NeuroImage | volume = 23 | pages = 1176–1185 | year = 2007 | doi =10.1016/j.neuroimage.2004.07.037 }}
+</ref>
+
+<ref name="Geng-2009">
+{{cite conference | author = X Geng, T Ross, W Zhan, H Gu, Y-P Chao, C-P Lin, G Christensen, N Schuff, Y Yang | title = Diffusion MRI Registration Using Orientation Distribution Functions | booktitle = Proceedings of Information Processing in Medical Imaging (IPMI) 2009, LNCS 5636 | date = July 2009 | volume = 21 | pages = 626–637 | doi = 10.1007/978-3-642-02498-6_52}}
+</ref>
+
+<ref name="Yap-2011">
+{{cite journal | author = P-T Yap, Y Chen, H An, Y Yang, J Gilmore, W Lin, D Shen | title = SPHERE: SPherical Harmonic Elastic REgistration of HARDI data | journal = NeuroImage | volume = 55 | issue = 2 | pages = 545–556 | year 2011 | doi = 10.1016/j.neuroimage.2010.12.015}}
+</ref>
+
+<ref name="Zhang-2012">
+{{cite conference | author = P Zhang, M Niethammer, D Shen, P-T Yap | title = Large Deformation Diffeomorphic Registration of Diffusion-Weighted Images | booktitle = Proceedings of Medical Image Computing and Computer-Assisted Intervention (MICCAI) | year = 2012}}
+</ref>
+
+<ref name="Descoteaux-2007">
+{{cite conference | author = M Descoteaux, R Deriche | title = Segmentation of Q-Ball Images Using Statistical Surface Evolution | booktitle = Proceedings of Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2007, LNCS 4792 | pages = 769–776 | date = September 2007 | doi = 10.1007/978-3-540-75759-7_93}}
+</ref>
+
+<ref name="langs-2011">
+{{cite conference | author = Langs, G., Lashkari, D., Sweet, A., Tie, Y., Rigolo, L., Golby, A. J., and Golland, P. | title= Learning an atlas of a cognitive process in its functional geometry | booktitle=Inf Process Med Imaging | Volume=22| pages=135–46 | year=2011}}
+</ref>
+
+<ref name="haxby-2001">
+{{cite journal | author = J. V. Haxby, M. I. Gobbini, M. L. Furey, A. Ishai, J. L. Schouten, and P. Pietrini | title=Distributed and overlapping representations of faces and objects in ventral temporal cortex | journal=Science. | volume=293| issue=5539 | pages=2425–30 | year=2001}}
+</ref>
+
+<ref name="haxby-2011">
+{{cite journal | author = Haxby, J. V., Guntupalli, J. S., Connolly, A. C., Halchenko, Y. O., Conroy, B. R., Gobbini, M. I., Hanke, M., and Ramadge, P. J. | title= A common, high-dimensional model of the representational space in human ventral temporal cortex | journal=Neuron | volume=72| issue=2 | pages=404–416 | year=2011}}
+</ref>
+
+<ref name="langs-2011-gini">
+{{cite journal | author = Langs, G., Menze, B. H., Lashkari, D., and Golland, P. | title= Detecting stable distributed patterns of brain activation using Gini contrast | journal=NeuroImage | volume=56| issue=2 | pages=497–507 | year=2011}}
+</ref>
+
+<ref name="friston-2003">
+{{cite journal | author = Friston, K. | title= Dynamic causal modelling | journal=Neuroimage | volume=19| issue=4 | pages=1273–1302 | year=2003}}
+</ref>
+
+<ref name="friston-1995">
+{{cite journal | author = Friston, K., Holmes, A., Worsley, K., Poline, J., Frith, C., Frackowiak, R., and others | title= Statistical parametric maps in functional imaging: a general linear approach | journal=Hum Brain Mapp | volume=2| issue=4 | pages=189–210 | year=1995}}
+</ref>
+
+<ref name="sabuncu-2010-alignment">
+{{cite journal | author = Sabuncu, M. R., Singer, B. D., Conroy, B., Bryan, R. E., Ramadge, P. J., and Haxby, J. V. | title= Function-based Intersubject Alignment of Human Cortical Anatomy | journal=Cerebral Cortex | volume=20| issue=1 | pages=130–140 | year=2010}}
+</ref>
+
+<ref name="yeo-2011">
+{{cite journal | author = Yeo, B. T. T., Krienen, F. M., Sepulcre, J., Sabuncu, M. R., Lashkari, D., Hollinshead, M., Roffman, J. L., Smoller, J. W., Zöllei, L., Polimeni, J. R., Fischl, B., Liu, H., and Buckner, R. L. | title= The organization of the human cerebral cortex estimated by intrinsic functional connectivity | journal=J Neurophysiol | volume=106| issue=3 | pages=1125–65 | year=2011}}
+</ref>
+
+<ref name="buckner-2008">
+{{cite journal | author = Buckner, R. L., Andrews-Hanna, J. R., and Schacter, D. L. | title= The brain's default network: anatomy, function, and relevance to disease | journal=Ann N Y Acad Sci | volume=1124| issue= | pages=1–38 | year=2008}}
+</ref>
+
+<ref name="varoquaux-2011">
+{{cite conference | author = Varoquaux, G., Gramfort, A., Pedregosa, F., Michel, V., and Thirion, B. | title= Multi-subject dictionary learning to segment an atlas of brain spontaneous activity | booktitle=Inf Process Med Imaging | Volume=22| Issue= | pages=562–73 | year=2011}}
+</ref>
+
+<ref name="heuvel-2009">
+{{cite journal | author = van den Heuvel, M. P., Stam, C. J., Kahn, R. S., and Hulshoff Pol, H. E. | title= Efficiency of functional brain networks and intellectual performance | journal=J Neurosci | volume=29| issue=23 | pages=7619–24 | year=2009}}
+</ref>
+
+<ref name="mathematical-2006">
+{{cite journal | author = Angenent, S., Pichon, E., and Tannenbaum, A. | title= Mathematical methods in medical image processing | journal=Bulletin of the AMS | volume=43 | issue=3 | pages=365–396 | year=2006}}
+</ref>
+
+<ref name="feedback-2011">
+{{cite journal | author = Karasev, P., Kolesov I., Chudy, K. Vela, P., and Tannenbaum, A. | title=Interactive MRI segmentation with controlled active vision | journal=Proceedings of the Conference on Decision and Control | year=2011}}
+</ref>
+
+<ref name="Pichon-2008">
+{{cite journal | author = Melonakos, J., Pichon, E., Angenent, S., and Tannenbaum, A. | title=Finsler active contours| journal=IEEE Trans. PAMI | volume=30 | issue=3 | pages=412–423 |year=2008}}
+</ref>
+}}
+
+[[Category:Medical technology]]
+[[Category:Medical imaging]]
+[[Category:Health informatics]]

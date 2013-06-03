@@ -1,0 +1,57 @@
+{{Technical|date=September 2010}}
+
+There is an established practice of using the [[electrical conductance]] of blood ([[Pv loop experiments|PV loops]]) in heart [[Ventricle (heart)|ventricles]] to determine the instantaneous volume of the ventricle. This technique involves inserting a tetra-polar catheter into the ventricle and measuring conductance. This measured conductance is a combination of blood and muscle and various techniques are used to identify the blood conductance from the total measured conductance. Blood conductance can then be converted to volume using a linear (Baan) or a non-linear (Wei) relationship that relates conductance to volume.
+
+== Traditional conductance technology ==
+
+This approach is based in the idea that the total conductance, G, of a fluid between two electrodes is a function of the fluid's conductivity (reciprocal of resistivity) and volume.
+
+In [[cardiology]], a tetra-polar [[catheter]] is inserted into the ventricle and a constant current (I) is applied across the two outer [[electrodes]]. This generates an electrical field within the ventricle and the two inner electrodes measure a [[voltage]] generated due to the electric field. This measured voltage (V) is used to determine conductance through a modified version of [[Ohm's Law]]. Conductance (G) is the reciprocal of resistance (R) which changes the standard Ohm's equation from V=IR to V=I/G.
+
+Conductance is then related to blood volume though Baan's equation<ref name=Baan>{{cite journal|last=Baan|first=J|coauthors=Jong TT, Kerkhof PL, Moene RJ, van Dijk AD, van der Velde ET, Koops J.|title=Continuous stroke volume and cardiac output from intra-ventricular dimensions obtained with impedance catheter.|journal=Cardiovasc Res.|year=1981|month=June|volume=15|issue=6|pages=328-34|pmid=7296590|url=http://www.ncbi.nlm.nih.gov/pubmed/7296590}}</ref>. When used in cardiology, the electric field generated is not limited to the blood (the fluid of interest) but also penetrates the heart wall, giving rise to additional conductance often called "parallel conductance" or "muscle conductance", G<sub>m</sub> which must be removed.
+
+Various techniques have been attempted to remove the G<sub>m</sub> contribution with varying degrees of success. The most common method is the [[hypertonic saline]] technique which involves injecting a bolus of hypertonic saline into the ventricle to alter blood conductivity without affecting the surrounding muscle. Another less commonly used technique involves evacuating the ventricle of blood and measuring muscle conductance alone with a conductance catheter. Clearly both techniques are unreliable, somewhat invasive and fail to account for the continuous variation in G<sub>m</sub> over the [[cardiac cycle]]<ref>{{Cite journal|title=Conductance, admittance, and hypertonic saline: should we take ventricular volume measurements with a grain of salt? |author=Krenz M |url=http://www.scisense.com/downloads/AJP%20Editorial.pdf |doi=10.1152/japplphysiol.01089.2009 |journal=Journal of Applied Physiology|volume=107|pages=1683–4 |year=2009 | pmid = 19797683|issue=6 }}</ref>.
+
+== Improved admittance technology ==
+
+The [[Admittance]] technique is an improvement over the [[Electrical conductance|Conductance]] technique for the real-time removal of muscle conductance G<sub>m</sub>. Blood and muscle respond very differently to alternating (AC) electrical currents. Blood is purely resistive while muscle has both resistive and capacitive properties. The fixed charges in muscle cells create a significant [[Electrical reactance|reactance]] that causes a phase shift (time delay) in the measured signal, relative to the excitation signal. Admittance technology uses this phase shift to determine the instantaneous muscle conductance and remove it from the total measured conductance.
+
+=== Removal of G<sub>m</sub> ===
+The total Admittance (Y), of the blood filled ventricle is given by Y = G<sub>b</sub> + G<sub>m</sub> + iωC<sub>m</sub> where
+* G<sub>b</sub> is the measured conductance of the blood (the desired signal)
+* G<sub>m</sub> is the measured conductance of the cardiac muscle (unwanted signal)
+* C<sub>m</sub> is the measured [[capacitance]] of the cardiac muscle
+* ω is the [[angular frequency]] of the excitation signal
+
+The signals G<sub>m</sub> and C<sub>m</sub> are both properties of cardiac muscle and vary in a fixed ratio. Thus the ratio of G<sub>m</sub> to C<sub>m</sub> is equal to the ratio of muscle conductivity (σ) to muscle [[permittivity]] (ε). The ratio σ/ε is the constant of proportionality. Although both σ and ε are functions of the health of the heart tissue, they are relatively constant for short periods of time.
+
+Using this proportionality, one can rewrite the equation for G<sub>m</sub> as G<sub>m</sub> = (σ/ε)C<sub>m</sub>
+
+Note that the imaginary component of Y depends only on the amount of muscle in the field of the catheter. This makes it easy to isolate by measuring the phase shift, φ, of the measured signal:<br />
+cos(φ) = (G<sub>b</sub> + G<sub>m</sub>)/Y<br />
+sin(φ) = ωC<sub>m</sub>/Y<br />
+Hence, C<sub>m</sub> = Y.sin(φ)/ω<br />
+also, G<sub>m</sub> = (σ/ε)C<sub>m</sub>
+
+Thus, blood conductance is determined as G<sub>b</sub> = Y.cos(φ) - G<sub>m</sub>
+
+Wei's equations can be applied to this calculated blood conductance G<sub>b</sub> to obtain blood volume<ref>{{Cite journal|title=Nonlinear conductance-volume relationship for murine conductance catheter measurement system |author=Chia-Ling Wei; Valvano JW; Feldman MD; Pearce JA |journal=IEEE Transactions on Biomedical Engineering |volume=52 |issue=10 |doi=10.1109/TBME.2005.856029|pmid=16235651 |year=2005 |pages=1654–61 }}</ref>. Unlike Baan's equation, Wei's equation takes into account the non-linear nature of the [[electrical field]] and the dynamic nature of the [[cardiac cycle]] to give a more accurate representation of the blood volume<ref>{{Cite journal|author=Porterfield JE, Kottam ATG, Raghavan K, Escobedo D, Jenkins JT, Larson ER, Treviño RJ, Valvano JW, Pearce JA, Feldman MD|title=Dynamic correction for parallel conductance, GP, and gain factor, α, in invasive murine left ventricular volume measurements |journal=Journal of Applied Physiology |volume=107 |issue=6 |pages=1693–1703 |date=August 20, 2009|pmid=19696357|pmc=2793194 |doi=10.1152/japplphysiol.91322.2008}}</ref>.
+
+== Experimental results ==
+Admittance technique involves the measurement of both phase angle and total conductance in the ventricle. Thus, it is possible to  observe how the parallel conductance (muscle conductance) varies throughout the cardiac cycle. A plot showing both the blood and muscle contribution are shown in the figure.
+
+[[image:Blood and Muscle Conductance.jpg|full|500px||This plot of blood and muscle conductance shows how the parallel conductance due to muscle varies over the cardiac cycle.]]
+
+==References==
+{{Reflist}}
+
+*{{Cite journal|title=Volume Catheter Parallel Conductance Varies Between End-Systole and End-Diastole
+|author=Chia-Ling Wei; Valvano JW; Feldman MD; Pearce JA |journal=IEEE Transactions on Biomedical Engineering |volume=54 |issue=8 |doi=10.1109/TBME.2007.890732|pmid=17694869 |year=2007 |pages=1480–9 }}
+*{{Cite journal|url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T8S-4TY9MNS-1&_user=10&_coverDate=04%2F30%2F2009&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_searchStrId=1419842240&_rerunOrigin=google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=2dc1e67c0d5fb6d0ca8fcc886efab3de.html |author=Clarka JE, Kottamb A, Motterlinic R, Marber MS
+|title=Measuring left ventricular function in the normal, infarcted and CORM-3-preconditioned mouse heart using complex admittance-derived pressure volume loops |journal=Journal of Pharmacological and Toxicological Methods |volume=59 |issue=2 |date=March–April 2009|pmid=19059354 |pages=94–9 |doi=10.1016/j.vascn.2008.10.007 }}
+*{{Cite patent|inventor=Marc D. Feldman; Jonathan W. Valvano; John A. Pearce; Chia-Ling Wei |url=http://www.faqs.org/patents/app/20080234588 |title=Method and Apparatus for Determining Cardiac Performance in a Patient with a Conductance Catheter |year=2008 }} (patent application)
+
+{{Cardiovascular physiology}}
+
+{{DEFAULTSORT:Admittance And Conductance In Cardiac Performance}}
+[[Category:Cardiology]]

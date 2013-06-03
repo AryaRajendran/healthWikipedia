@@ -1,0 +1,57 @@
+The '''Pocock boundary''' is a method for determine whether to stop a [[clinical trial]] prematurely. The typical [[clinical trial]] compares two groups of patients. One group are given a [[placebo]] or conventional treatment, while the other group of patients are given the treatment that is being tested. The investigators running the clinical trial will wish to stop the trial early for ethical reasons if the treatment group clearly shows evidence of benefit.  In other words, "when early results proved so promising it was no longer fair to keep patients on the older drugs for comparison, without giving them the opportunity to change."<ref>{{cite news|author=Hall C|title=Heart attacks may be cut by half|newspaper=Daily Telegraph|date=5 September 2005|page=1|url=http://www.telegraph.co.uk/news/uknews/1497648/Heart-attacks-may-be-cut-by-half.html}}</ref>
+
+The concept was introduced by the medical statistician [[Stuart Pocock]] in 1977. The many reasons underlying when to stop a clinical trial for benefit were discussed in an editorial from his hand in 2005.<ref>
+{{cite journal|doi=10.1001/jama.294.17.2228|author=Pocock S|authorlink=Stuart Pocock|title=When (not) to stop a clinical trial for benefit|journal=JAMA|year=2005|volume=294|issue=17|pages=2228&ndash;2230|url=http://jama.ama-assn.org/cgi/content/full/294/17/2228|pmid=16264167}}</ref>
+
+==Details==
+The Pocock boundary<ref>{{cite journal |doi=10.1093/biomet/64.2.191 |author=Pocock SJ |authorlink=Stuart Pocock |title=Group sequential methods in the design and analysis of clinical trials |journal=Biometrika |year=1977 |volume=64 |issue=2 |pages=191&ndash;9 |jstor=2335684}}</ref> gives a [[p-value|''p''-value]] threshold for each interim analysis which guides the data monitoring committee on whether to stop the trial.  The boundary used depends on the number of interim analyses.
+
+{| class="wikitable"
+|+List of ''p''-values used at each interim analysis, assuming the overall ''p''-value for the trial is 0.05
+|-
+! Number of planned analyses
+! Interim analysis
+! ''p''-value threshold
+|- style="background: lightgrey;"
+| 2 || 1 || 0.0294
+|- style="background: lightgrey"
+|  || 2 (final) || 0.0294
+|-
+| 3 || 1 || 0.0221
+|-
+|  || 2 || 0.0221
+|-
+|  || 3 (final) || 0.0221
+|- style="background: lightgrey"
+| 4 || 1 || 0.0182
+|- style="background: lightgrey"
+|  || 2 || 0.0182
+|- style="background: lightgrey"
+|  || 3 || 0.0182
+|- style="background: lightgrey"
+|  || 4 (final) || 0.0182
+|-
+| 5 || 1 || 0.0158
+|-
+|  || 2 || 0.0158
+|-
+|  || 3 || 0.0158
+|-
+|  || 4 || 0.0158
+|-
+|  || 5 (final) || 0.0158
+|}
+
+The Pocock boundary is simple to use in that the ''p''-value threshold is  the same at each interim analysis.  The disadvantages are that the number of interim analyses must be fixed at the start and it is not possible under this scheme to add analyses after the trial has started.  Another disadvantage is that investigators and readers frequently do not understand how the ''p''-values are reported: for example, if there are five interim analyses planned, but the trial is stopped after the third interim analysis because the ''p''-value was 0.01, then the overall ''p''-value for the trial is still reported as &lt;0.05 and not as 0.01.<ref>{{cite journal |journal=Lancet |volume=365 |issue=9471 |pages=1657&ndash;1661
+|year=2005 |doi=10.1016/S0140-6736(05)66516-6 |title=Multiplicity in randomised trials II: subgroup and interim analyses |author=Schulz KF, Grimes DA |url=http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)66516-6/abstract |pmid=15885299}}</ref>
+
+==See also==
+*[[Haybittle–Peto boundary]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Statistical methods]]
+[[Category:Sequential experiments]]
+[[Category:Clinical research]]
+[[Category:Design of experiments]]

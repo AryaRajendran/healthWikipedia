@@ -1,0 +1,95 @@
+[[Image:Ssvsds.jpg|frame|right|Single-strand and double-strand DNA damage potentionally caused by genotoxins]]
+
+In [[genetics]], '''genotoxicity''' describes the [[property]] of chemical agents that damages the genetic information within a cell causing [[mutations]], which may lead to [[cancer]]. While genotoxicity is often confused with mutagenicity, it is important to note that all mutagens are genotoxic, however, not all genotoxic substances are mutagenic. The alteration can have direct or indirect effects on the DNA: the induction of mutations, mistimed event activation, and direct DNA damage leading to mutations. The permanent, hereditary changes can affect either [[somatic cells]] of the organism or [[germ cells]] to be passed on to future generations.<ref name="genotoxicity.carcinogenicity">{{cite web |url=http://www.basf.com/group/corporate/alternatives/en/microsites/alternatives/methods-in-use/genotocity |title=Genotoxicity and Carcinogenicity |last=Kolle |first=Susanne |date=2012-06-01 |publisher=BASF The Chemical Company |accessdate=2013-03-16}}</ref> Cells prevent expression of the genotoxic mutation by either [[DNA repair]] or [[apoptosis]]; however, the damage may not always be fixed leading to [[mutagenesis]].
+
+To [[bioassay|assay]] for genotoxic molecules, researchers assay for DNA damage in cells exposed to the toxic substrates. This DNA damage can be in the form of single and double strand breaks, loss of excision repair, cross-linking, alkali-labile sites, point mutations, and structural and numerical chromosomal aberrations.<ref name="genotoxicity">{{cite web |url=http://alttox.org/ttrc/existing-alternatives/genotoxicity.html |title=Genotoxicity: Validated Non-animal Alternatives |date=2011-06-20 |publisher=AltTox.org |accessdate=2013-03-16}}</ref> The compromised integrity of the genetic material has been known to cause cancer. Consequently, many sophisticated techniques including Ames Assay, ''in vitro'' and ''in vivo'' Toxicology Tests, and Comet Assay have been developed to assess the chemicals' potential to cause DNA damage that may lead to cancer.
+
+==Mechanisms==
+[[File:Transitions-transversions-v3.png|thumb|right|300px|Definition of [[Transition (genetics)|transitions]] and [[transversion]]s. They are a common mutation caused by genotoxic compounds.]]
+
+The genotoxic substances induce damage to the genetic material in the cells through interactions with the DNA sequence and structure.  For example, the transition metal [[chromium]] interacts with DNA in its high-valent oxidation state so to incur DNA lesions leading to [[carcinogenesis]].  The metastable oxidation state Cr(V) is achieved through reductive activation.  The researchers performed an experiment to study the interaction between DNA with the carcinogenic chromium by using a Cr(V)-Salen complex at the specific oxidation state.<ref name=Sugden>{{cite journal|author=Sugden, Kent D.|year=2001|url=http://pubs.acs.org/doi/abs/10.1021/tx010088%2B|title=Direct Oxidation of Guanine and 7,8-Dihydro-8-oxoguanine in DNA by a High-Valent Chromium Complex: A Possible Mechanism for Chromate Genotoxicty|journal=Chemical Research in Toxicology|accessdate=2013-04-04}}</ref>  The interaction was specific to the [[guanine]] nucleotide in the genetic sequence.  In order to narrow the interaction between the Cr(V)-Salen complex with the guanine base, the researchers modified the bases to 8-oxo-G so to have site specific oxidation.  The reaction between the two molecules caused DNA lesions; the two lesions observed at the modified base site were guanidinohydantoin and spiroiminodihydantoin.  To further analyze the site of lesion, it was observed that polymerase stopped at the site and [[adenine]] was inappropriately incorporated into the DNA sequence opposite of the 8-oxo-G base.  Therefore, these lesions predominately contain G-->T [[transversions]].  High-valent chromium is seen to act as a carcinogen as researchers found that "the mechanism of damage and base oxidation products for the interaction between high-valent chromium and DNA...  are relevant to ''in vivo'' formation of DNA damage leading to cancer in chromate-exposed human populations."<ref name="Sugden"/>  Consequently, it shows how high-valent chromium can act as a carcinogen with 8-oxo-G forming [[xenobiotics]].<ref name="Sugden"/>
+
+Another example of a genotoxic substance causing DNA damage are [[pyrrolizidine alkaloids]] (PAs).  These substances are found mainly in plant species and are poisonous to animals, including humans; about half of them have been identified as genotoxic and many as tumorigenic.  The researchers concluded from testing that when metabolically activated, "PAs produce DNA adducts, DNA cross-linking, DNA breaks, sister chromatid exchange, micronuclei, chromosomal aberrations, gene mutations, and chromosome mutations ''in vivo'' and ''in vitro''."<ref name=Chen>{{cite journal|author=Chen, Tao|date=January 2010|url=http://onlinelibrary.wiley.com/doi/10.1002/jat.1504/abstract|title=Genotoxicity of Pyrrolizidine|journal=Applied Toxicology|accessdate=2013-04-04}}</ref>  The most common mutation within the genes ares G:C --> T:A tranversions and tandem base substitution. The pyrrolizidine alkaloids are mutagenic ''in vivo'' and ''in vitro'' and, therefore, responsible for the carcinogenesis prominently in the liver.<ref name="Chen"/>  [[Comfrey]] is an example of a plant species that contains fourteen different PAs.  The active metabolites interact with DNA to cause DNA damage, mutation induction, and cancer development in liver [[endothelium|endothelial cells]] and [[hepatocytes]].  The researchers discovered in the end that the "comfrey is mutagenic in liver, and PA contained in comfrey appear to be responsible for comfrey-induced toxicity and tumor induction,".<ref name=Mei>{{cite journal|author=Mei, Nan|year=2010|url=http://www.tandfonline.com/doi/abs/10.1080/10937404.2010.509013|title=Metabolism, Genotoxicity, and Carcinogenicity of Comfrey|journal=Journal of Toxicology and Environmental Health|accessdate=2013-04-04}}</ref>
+
+==Test Techniques==
+
+The purpose of genotoxicity testing is to determine if a substrate will influence genetic material or may cause cancer.  They can be performed in bacterial, yeast, and mammalian cells.<ref name="genotoxicity" />  With the knowledge from the tests, one can control early development of vulnerable organisms to genotoxic substances.<ref name="genotoxicity.carcinogenicity" />
+
+===Bacterial Reverse Mutation Assay===
+{{See also|Ames test}}
+The Bacterial Reverse Mutation Assay, also known as the [[ames test|Ames Assay]], is used in laboratories to test for gene mutation.  The techniques uses many different bacterial strains in order to compare the different changes in the genetic material.  The result of the test detects the majority of genotoxic [[carcinogens]] and genetic changes; the types of mutations detected are [[frameshift mutation|frame shifts]] and base substitutions.<ref name="genotoxicity.testing">{{cite web |url=http://www.pharmatek.com/pdf/PTEKU/Apr172008.pdf |title=Genotoxicity Testing for Pharmaceuticals Current and Emerging Practices |last=Furman |first=Grace |date=2008-04-17 |publisher=Paracelsus, Inc. |accessdate=2013-03-16}}</ref>
+
+[[Image:Ames test.svg|500px|right|thumb|Ames test procedure to test for gene mutations present in the various bacterial strains]]
+
+===''in vitro'' Toxicology Testing===
+The purpose of ''[[in vitro]]'' testing is to determine whether a substrate, product, or environmental factor induces genetic damages.  One technique is cytogenetic assays in different mammalian cells.<ref name="genotoxicity.testing" />  The types of [[chromosome abnormality|aberrations]] detected in cells affected by a genotoxic material are chromatid and chromosome gaps, chromosome breaks, chromatid deletions, fragmentation, translocation, complex rearrangements, and many more. The [[clastogen]]ic or [[aneugen]]ic effects from the genotoxic damage will cause an increase in frequency of structural or numerical aberrations of the genetic materia.<ref name="genotoxicity.testing" />  This is similar to the [[micronucleus test]] and chromosome aberration assay, which detect structural and numerical chromosomal aberrations in mammalian cells.<ref name="genotoxicity.carcinogenicity" />
+
+In a specific mammalian tissue, one can perform a mouse [[lymphoma]] TK+/- assay to test for changes in the genetic material.<ref name="genotoxicity.testing" />  Gene mutations are commonly point mutations, altering only one base within the genetic sequence to alter the ensuing transcript and amino acid sequence; these point mutations include base substitutions, deletions, frame-shifts, and rearrangements.  Also, the [[chromosome|chromosomes']] integrity may be altered through chromosome loss and clastogenic [[lesions]] causing multiple gene and multilocus deletions.  The specific type of damage is determined by the size of the colonies, distinguishing between genetic mutations (mutagens) and chromosomal aberrations (clastogens).<ref name="genotoxicity.testing" />  
+
+Lastly, the [[SOS Chromotest|SOS/umu assay test]] evaluates the ability of the substance to induce DNA damage; it is based on the alterations in the induction of the SOS response due to DNA damage.  The benefits of this technique are that it is a fast and simple method and convenient for numerous substances.  Such technique is performed on water and wastewater in the environment.<ref name="invitro.genotoxicitytesting">{{cite web |url=http://www.nib.si/eng/index.php/storitve-in-oprema/testi-genotoksinosti-in-vitro.html |title=In Vitro Genotoxicity Testing |last=Končar |first=Helena |year=2011 |publisher= National Institute of Biology |accessdate=2013-03-16}}</ref>
+
+[[Image:Genotoxic Damage.png|500px|right|thumb|Overview of the use of the SOS response for genotoxicity testing]]
+
+===''in vivo'' Testing===
+The purpose for ''[[in vivo]]'' testing is to determine the potential of DNA damage that can affect chromosomal structure or disturb the [[mitotic spindle|mitotic apparatus]] that changes chromosome number; the factors that could influence the genotoxicity are ADME and DNA repair.  It can also detect genotoxic agents missed in ''in vitro'' tests.  The positive result of induced chromosomal damage is an increase in frequency of micronucelated PCEs.<ref name="genotoxicity.testing" />  A [[micronucleus]] is a small structure separate from the nucleus containing nuclear DNA arisen from DNA fragments or whole chromosomes that were not incorporated in the daughter cell during mitosis.  Causes for this structure are mitotic loss of acentric chromosomal fragments (clastogenicity), mechanical problems from chromosomal breakage and exchange, mitotic loss of chromosomes (aneugenicity), and apoptosis.  The micronucleus test ''in vivo'' is similar to the ''in vitro'' one because it tests for structural and numerical chromosomal aberrations in mammalian cells, especially in rats' blood cells.<ref name="genotoxicity.testing" />
+
+===Comet Assay===
+{{See also|Comet assay}}
+[[Comet assay]]s are one of the most common tests for genotoxicity. The technique involves lysing cells using detergents and salts. The DNA released from the lysed cell is electrophoresed in an agarose gel under neutral pH conditions. Cells containing DNA with an increased number of double stranded breaks will migrate more quickly to the anode. This technique is advantageous in that it detects low levels of DNA damage, only requires a very small number of cells, is cheaper than many techniques, easy to execute, and quickly displays results. However, it does not identify the mechanism underlying the genotoxic effect nor the exact chemical or chemical component causing the breaks.<ref name="Tice">{{cite journal|author=Tice, R.R.|year=2000|url=http://cometassayindia.org/COMET%20ASSAY%20GUIDELINES.pdf|title=Single Cell Gel/Comet Assay: Guidelines for In Vitro and In Vivo Genetic Toxicology Testing|journal=Environmental and Molecular Mutagenesis|accessdate=2013-04-04}}</ref>
+
+==Cancer==
+
+Genotoxic effects such as deletions, breaks and/or rearrangements can lead to cancer if the damage does not immediately lead to cell death. Regions sensitive to breakage, called [[fragile sites]], may result from genotoxic agents (such as pesticides). Some chemicals have the ability to induce fragile sites in regions of the chromosome where [[oncogenes]] are present which could lead to carcinogenic effects. In keeping with this finding, occupational exposure to some mixtures of pesticides are positively correlated with increased genotoxic damage in the exposed individuals. DNA damage is not uniform in its severity across populations because Individuals vary in their ability to activate or detoxify genotoxic substances, which leads to variability in the incidence of cancer among individuals. The difference in ability to detoxify certain compounds is due to individuals’ inherited [[polymorphism (biology)|polymorphisms]] of genes involved in the metabolism of the chemical. Differences may also be attributed to individual variation in efficiency of DNA repair mechanisms<ref name=Bolognesi>{{cite journal|author=Bolognesi, Claudia|date=June 2003|url=http://www.sciencedirect.com/science/article/pii/S1383574203000152|title= Genotoxicity of pesticides: A review of human biomonitoring studies|journal=Mutation Research|accessdate=2013-04-04}}</ref> 
+
+The [[metabolism]] of some chemicals results in the production of [[reactive oxygen species]] which is a possible mechanism of genotoxicity. This is seen in the metabolism of [[arsenic]] which produces [[hydroxyl radicals]], which are known to cause genotoxic effects.<ref name=Liu>{{cite journal|author=Liu, Su X.|date=December 2000|url=http://www.pnas.org/content/98/4/1643.short|title= Induction of oxyradicals by arsenic: Implication for mechanism of genotoxicity|journal=Proceedings of the National Academy of Sciences of the United States|accessdate=2013-04-04}}</ref>  Similarly, ROS have been implicated in genotoxicity caused by particles and fibers. Genotoxicity of nonfibrous and fibrous particles is characterized by high production of ROS from [[white blood cell|inflammatory cells]].<ref name=Schins>{{cite journal|author=Schins, Roel P.F.|year=2002|url=http://informahealthcare.com/doi/abs/10.1080/089583701753338631|title=Mechanisms of Genotoxicity of Particles and Fibers|journal=Inhalation Toxicology|accessdate=2013-04-04}}</ref>
+
+[[File:Normal cancer cell division from NIH-2.svg|thumb|When normal cells are damaged beyond repair, they are eliminated by [[apoptosis]] (A). Cancer cells avoid apoptosis and continue to multiply in an unregulated manner (B).]]
+
+===Genotoxic Chemotherapy===
+
+Genotoxic Chemotherapy is the treatment of cancer with the use of one or more genotoxic drugs. The treatment is traditionally part of [[Chemotherapy regimen|standardized regime]].By utilizing the destructive properties of genotoxins treatments aims to induce DNA damage into cancer cells. Any damage done to a cancer is passed on to descendent cancer cells as [[cell growth|proliferation]] continues. If this damage is severe enough it will induce cells to undergo [[apoptosis]].<ref name="Genotoxic Drugs">{{cite web |url=http://www.cancerquest.org/genotoxic-chemotherapy-drugs.html  |title=Genotoxic Drugs|last=Walsh |first=Declan |date=2011-11-18 |publisher=Cancerquest.org |accessdate=2013-03-16}}</ref>
+
+====Risks====
+
+A drawback of treatment is that many genotoxic drugs are effective on cancerous cells and normal cells alike. Selectivity of a particular drug's action is based on the sensitivity of the cells themselves.  So while rapidly dividing cancer cells are particularly sensitive to many drug treatments, oftentimes normal functioning cells are effected.<ref name="Genotoxic Drugs"/>
+ 
+
+Another risk of treatment is that in addition to being genotoxic many of the drugs are also [[mutagenic]] and [[Cytotoxicity|cytotoxic]]. So the effects of these drugs are not limited to just DNA damage. In addition, some of these drugs that are meant to treat cancers are also [[Carcinogenic|carcinogens]] themselves, raising the risk of secondary cancers, such as [[leukemia]].<ref name="Genotoxic Drugs"/>
+
+====Different Treatments====
+This table depicts different genotoxic-based cancer treatments along with examples.<ref name="Genotoxic Drugs"/>
+
+{| class="wikitable"
+|-
+! Treatment !! Mechanism !! Examples
+|-
+| [[Alkylating agent]]s || interfere with DNA replication and transcription by modifying DNA bases. || [[Busulfan]], [[Carmustine]], [[Mechlorethamine]]
+|-
+| [[Intercalating agent]]s || interfere with DNA replication and transcription by wedging themselves into the spaces in between DNA's nucelotides || [[Daunorubicin]], [[Doxorubicin]], [[Epirubicin]]
+|-
+| [[Enzyme inhibitor]]s || inhibit enzymes that are crucial to DNA replication || [[Decitabine]], [[Etoposide]], [[Irinotecan]]
+|}
+
+==See also==
+* [[Mutagen]]
+* [[Mutagenesis]]
+* [[Cancer]]
+* [[Carcinogen]]
+* [[Carcinogenesis]]
+* [[Carcinogenicity]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite journal | author = Jha AN, Cheung VV, Foulkes ME, Hill SJ, Depledge MH | title = Detection of genotoxins in the marine environment: adoption and evaluation of an integrated approach using the embryo-larval stages of the marine mussel, Mytilus edulis | journal = Mutat. Res. | volume = 464 | issue = 2 | pages = 213–28 | year = 2000 | month = January | pmid = 10648908 | doi = }}
+* {{cite journal | author = Sigel A, Sigel H, Sigel RK | title = Metal ions in toxicology: effects, interactions, interdependencies | journal = Met Ions Life Sci | volume = 8 | issue = | pages = vii–viii | year = 2011 | pmid = 21473373 | doi = | url = }}
+* {{cite book | editor = Sigel R, Sigel ; Sigel H | title = Metal Ions in Toxicology: Effects, Interactions, Interdependencies (Metal Ions in Life Sciences) | publisher = Royal Society of Chemistry | location = Cambridge, Eng | year = 2011 | pages = | isbn = 1-84973-091-1 | chapter = Chapter 13. Genotoxicity of metal ions: chemical insights | author = Bal W, Protas AM, Kasprzak KS | doi = 10.1039/9781849732116-00319 | series=Metal Ions in Life Sciences | volume = 8 }}
+*{{cite journal | author = Smith MT | title = The mechanism of benzene-induced leukemia: a hypothesis and speculations on the causes of leukemia | journal = Environ. Health Perspect. | volume = 104 Suppl 6 | issue = | pages = 1219–25 | year = 1996 | month = December | pmid = 9118896 | pmc = 1469721 | doi = }}
+{{refend}}
+
+{{Genotoxicity}}
+
+[[Category:Mutation]]
+[[Category:Carcinogenesis]]

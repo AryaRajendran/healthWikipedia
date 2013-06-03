@@ -1,0 +1,84 @@
+'''Neural facilitation''', also known as '''paired pulse facilitation''' (PPF), is a phenomenon in [[neuroscience]] in which postsynaptic potentials (PSPs) ([[End-plate potential|EPPs]] or [[Excitatory postsynaptic potential|EPSPs]]) evoked by an impulse are increased when that impulse closely follows a prior impulse. PPF is thus a form of short-term [[synaptic plasticity]]. The mechanisms underlying neural facilitation are exclusively pre-synaptic; broadly speaking, PPF arises due to increased presynaptic Ca<sup>2+</sup> concentration leading to a greater release of neurotransmitter-containing [[synaptic vesicle]]s.<ref name = Zucker>{{cite journal | last1=Zucker | first1=Robert S. | last2=Regehr| first2= Wade G. |title=Short-Term Synaptic Plasticity | journal=Annu. Rev. Physiol. | volume=64 | year=2002 | pages=355–405 | doi=10.1146/annurev.physiol.64.092501.114547 | pmid=11826273 }}</ref> Neural facilitation may be involved in several neuronal tasks, including simple learning, information processing,<ref>{{cite journal| last1 = Fortune | first1 = Eric S. | last2=Rose | first2 = Gary J. |title= Short-term synaptic plasticity as a temporal filter|journal=Trends in Neurosciences|year=2001|volume = 24 | issue= 7 |pages=381–385}}</ref> and sound-source localization.<ref name="SynapticComputation">{{cite journal| last = Abbot | first = LF | coauthors=Regehr, WG|title=Synaptic Computation|journal=Nature|year=2004|issue=431|pages=796–803}}</ref>
+
+==Mechanisms==
+
+===Overview===
+
+Ca<sup>2+</sup> plays a significant role in transmitting signals at [[chemical synapses]]. [[Voltage-dependent calcium channel|Voltage-gated Ca<sup>2+</sup> channels]] are located within the presynaptic terminal. When an [[action potential]] invades the presynaptic membrane, these channels open and Ca<sup>2+</sup> enters. A higher concentration of Ca<sup>2+</sup> enables [[synaptic vesicles]] to fuse to the presynaptic membrane and release their contents ([[neurotransmitters]]) into the [[synaptic cleft]] to ultimately contact receptors in the postsynaptic membrane. The amount of neurotransmitter released is correlated with the amount of Ca<sup>2+</sup> influx. Therefore, short-term facilitation (STF) results from a build up of Ca<sup>2+</sup> within the [[presynaptic terminal]] when action potentials propagate close together in time.<ref name = Purves>{{cite book | last = Purves | first = Dale | last2 = Augustine | first2 = George J. | last3 = Fitzpatrick | first3 = David | last4 = Hall | first4 = William C. | last5 = LaMantia | first5 = Anthony-Samuel | last6 = While | first6 = Leonard E. | title = Neuroscience | publisher = Sinauer Associates, Inc. | edition = Fifth| year = 2012 | location = Sunderland, MA | isbn = 978-0-87893-695-3}}</ref>
+
+===Experimental evidence===
+Early experiments by Del Castillo & Katz in 1954 and Dudel & Kuffler in 1968 showed that facilitation was possible at the neuromuscular junction even if transmitter release does not occur, indicating that facilitation is an exclusively presynaptic phenomenon.<ref>{{cite journal | last1=Del Castillo | first1=J | last2=Katz | first2=B | title=Statistical factors involved in neuromuscular facilitation and depression | journal=J. Physiol. | volume=124 | year=1954 | pages=574–585 | pmid=13175200 | issue=3 | pmc=1366293 }}</ref><ref>{{cite journal | last1=Dudel | first1=J | last2=Kuffler | first2=SW | title=Mechanism of facilitation at the crayfish neuromuscular junction | journal=J. Physiol. | volume=155 | year=1968 | pages=530–542 | pmid=13724751 | pmc=1359873 | issue=3 }}</ref>
+
+Katz and Miledi proposed the '''residual Ca<sup>2+</sup> hypothesis.''' They attributed the increase in neurotransmitter release to residual or accumulated Ca<sup>2+</sup> ("active calcium") within the axon membrane that remains attached to the membrane's inner surface.<ref name = katz>{{Citation | last1=Katz | first1=B | last2=Miledi | first2=R | title=The role of calcium in neuromuscular facilitation | journal=J. Physiol. | volume=195 | year=1968 | pages=481–492 | pmid=4296699 | issue=2 | pmc=1351674}}</ref> Katz and Miledi manipulated the Ca<sup>2+</sup> concentration within the presynaptic membrane to determine whether or not residual Ca<sup>2+</sup> remaining within the terminal after the first impulse caused an increase in neurotransmitter release following the second stimulus. 
+
+During the first nerve impulse, Ca<sup>2+</sup> concentration was either significantly below or nearing that of the second impulse. When Ca<sup>2+</sup>concentration was approaching that of the second impulse, facilitation was increased. In this first experiment, stimuli were presented in intervals of 100&nbsp;ms between the first and second stimuli. An absolute [[refractory period]] was reached when intervals were about 10&nbsp;ms apart. 
+
+To examine facilitation during shorter intervals, Katz and Miledi directly applied brief [[depolarizing]] stimuli to nerve endings. When increasing the depolarizing stimulus from 1-2&nbsp;ms, neurotransmitter release greatly increased due to accumulation of active Ca<sup>2+</sup>. Therefore, the degree of facilitation depends on the amount of active Ca<sup>2+</sup>, which is determined by the reduction in Ca<sup>2+</sup> conductance over time as well as the amount of  removed from axon terminals after the first stimulus. Facilitation is greatest when the impulses are closest together because Ca<sup>2+</sup> conductance would not return to baseline prior to the second stimulus. Therefore, both Ca<sup>2+</sup> conductance and accumulated Ca<sup>2+</sup>  would be greater for the second impulse when presented shortly after the first. 
+
+In the [[Calyx of Held]] synapse, short term facilitation (STF) has been shown to result from the binding of residual Ca<sup>2+</sup> to neuronal Ca<sup>2+</sup> sensor 1 (NCS1). Conversely, STF has been shown to decrease when Ca<sup>2+</sup> chelators are added to the synapse (causing [[chelation]]) which reduce residual Ca<sup>2+</sup>. Therefore, "active Ca<sup>2+</sup>" plays a significant role in neural facilitation.<ref name=Xu>{{Citation | last1=Jianhua  | first1=Xu | last2=Liming | first2= He| last3=Ling-Gang | first3= Wu | title=Role of Ca2+ channels in short-term synaptic plasticity | journal=Science Direct | volume=17 | year=2007 | pages=352–359 | doi=10.1016/j.conb.2007.04.005}}</ref>
+
+==Relation to other forms of short-term synaptic plasticity==
+
+=== Augmentation and Potentiation ===
+Short-term synaptic enhancement is often differentiated into categories of '''facilitation''', '''[[synaptic augmentation|augmentation]]''', and '''[[post-tetanic potentiation|potentiation]]''' (also referred to as '''post-tetanic potentiation''' or '''PTP''').<ref name = Zucker /><ref>{{cite journal
+ | last = Thomson
+ | first = Alex M.
+ | title = Facilitation augmentation and potentiation at central synapses
+ | journal = Trends in Neuroscience
+ | issue = 23
+ | pages = 305–312
+ | year = 2000}}</ref> These three processes are often differentiated by their time scales: facilitation usually lasts for tens of milliseconds, while augmentation acts on a time scale on the order of seconds and potentiation has a time course of tens of seconds to minutes. All three effects increase the probability of neurotransmitter release from the presynaptic membrane, but the underlying mechanism is different for each. Paired-pulse facilitation is caused by the presence of residual Ca<sup>2+</sup>, augmentation likely arises due to increased action of the presynaptic protein munc-13, and post-tetanic potentiation is mediated by presynaptic activation of protein kinases.<ref name = Purves /> The type of synaptic enhancement seen in a given cell is also related to variant dynamics of Ca<sup>2+</sup> removal, which is in turn dependent upon the type of stimuli; a single action potential leads to facilitation, while a short tetanus generally causes augmentation and a longer tetanus leads to potentiation.<ref name = Zucker />
+
+=== Short-term depression (STD) ===
+Short-term depression (STD) operates in the opposite direction of facilitation, decreasing the amplitude of PSPs. STD occurs due to a decrease in the readily releasable pool of vesicles (RRP) as a result of frequent stimulation. The inactivation of presynaptic Ca<sup>2+</sup> channels after repeated action potentials also contributes to STD.<ref name=Xu /> Depression and facilitation interact to create short-term plastic changes within neurons, and this interaction is called the '''dual-process theory of plasticity'''. Basic models present these effects as additive, with the sum creating the net plastic change (facilitation - depression = net change). However, it has been shown that depression occurs earlier on in the stimulus-response pathway than facilitation, and therefore plays into the expression of facilitation.<ref>{{cite journal|last=Prescott|first=Steven|title=Interactions between Depression and Facilitation within Neural Networks: Updating the Dual-Process Theory of Plasticity|journal=Learning & Memory|year=2012|month=May|volume=19|issue=5|pages=446–466|doi=10.1101/lm.5.6.446|accessdate=20 April 2012}}</ref> Many synapses exhibit properties of both facilitation and depression. In general, however, synapses with low initial probability of vesicle release are more likely to exhibit facilitation, and synapses with high probability of initial vesicle release are more likely to exhibit depression.<ref name = "SynapticComputation" />
+
+==Relation to information transmission==
+
+===Synaptic filtering===
+Because the probability of vesicle release is activity-dependent, synapses can act as dynamic filters for information transmission.<ref name="SynapticComputation" /> Synapses with a low initial probability of vesicle release act as [[high-pass filters]]: because the release probability is low, a higher-frequency signal is needed to trigger release, and the synapse thus selectively responds to high-frequency signals. Likewise, synapses with high initial release probabilities serve as [[low-pass filters]], responding to lower-frequency signals. Synapses with an intermediate probability of release act as [[band-pass filters]] that selectively respond to a specific range of frequencies. These filtering characteristics may be affected by a variety of factors, including both PPD and PPF, as well as chemical [[neuromodulator]]s. In particular, because synapses with low release probabilities are more likely to experience facilitation than depression, high-pass filters are often converted to band-pass filters. Likewise, because synapses with high initial release probabilities are more likely to undergo depression than facilitation, it is common for low-pass filters to become band-pass filters, as well. Neuromodulators, meanwhile, may affect these short-term plasticities. In synapses with intermediate release probabilities, properties of the individual synapse will determine how the synapse changes in response to stimuli. These changes in filtration affect information transmission and encoding in response to repeated stimuli.<ref name = "SynapticComputation" />
+
+===Sound-source localization===
+In humans, [[sound localization]] is primarily accomplished using information about how the intensity and timing of a sound vary between each ear. Neuronal computations involving these interaurual intensity differences (IIDs) and [[interaural time difference]]s (ITDs) are typically carried out in different pathways in the brain.<ref name=macleod>{{cite journal| last = MacLeod | first = KM | title= Short-term synaptic plasticity and intensity coding |journal= Hearing Research|year=2011|issue=279|pages=13–21}}</ref> Short-term plasticity likely assists in differentiating between these two pathways: short-term facilitation dominates in intensity pathways, while short-term depression dominates in temporal pathways. These different types of short-term plasticity allow for different kinds of information filtration, thus contributing to the division of the two kinds of information into distinct processing streams.
+
+The filtering capabilities of short-term plasticity may also assist with encoding information related to amplitude modulation.<ref name = macleod /> Short-term depression can dynamically adjust the gain on high-frequency inputs, and may thus allow for an expanded high-frequency range for AM. A mixture of facilitation and depression may also assist in AM coding by leading to rate filtering.
+
+==See also==
+*[[Long-term potentiation]]
+*[[Synaptic plasticity]]
+*[[Neuroplasticity]]
+*[[Post-tetanic potentiation]]
+*[[Sensitization]]
+*[[Synaptic augmentation]]
+
+==References==
+
+{{reflist}}
+
+==Further reading==
+*{{Citation
+ | last1=Johnston
+ | first1=Daniel
+ | last2=Wu
+ | first2= Samuel
+ | title=Foundations of Cellular Neurophysiology
+ | year=1995
+}}.
+
+*{{cite book
+ | last1 = Kandel
+ | first1 = Eric
+ | last2 = Schwartz
+ | first2 = James
+ | last3 = Jessell
+ | first3 = Thomas M.
+ | title = Principles of Neuroscience
+ | publisher = McGraw-Hill
+ | edition = Fourth
+ | year = 2000
+ | pages = 1247–1253
+ | isbn = 0-8385-7701-6 }}
+
+[[Category:Neuroscience]]
+[[Category:Neurophysiology]]
+
+[[de:Bahnung]]

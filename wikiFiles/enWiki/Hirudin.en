@@ -1,0 +1,46 @@
+[[Image:Hirudin in complex with thrombin.png|thumb|250px|Structure of Hirudin in complex with [[Thrombin]].<ref>{{PDB|4HTC}}</ref>]]
+{{Infobox protein family
+| Symbol = Hirudin
+| Name = Hirudin
+| image = PDB 1dwc EBI.jpg
+| width = 
+| caption = crystallographic analysis at 3.0-angstroms resolution of the binding to human thrombin of four active site-directed inhibitors
+| Pfam = PF00713
+| Pfam_clan =  
+| InterPro = IPR000429
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 4htc
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+'''Hirudin''' is a naturally occurring [[peptide]] in the [[salivary gland]]s of medicinal [[leech]]es (such as ''[[Hirudo medicinalis]]'') that has a blood [[anticoagulant]] property. This is fundamental for the leeches’ alimentary habit of [[hematophagy]], since it keeps the blood flowing after the initial [[phlebotomy]] performed by the worm on the host’s skin.
+
+==Structure==
+During his years in [[Birmingham]] and [[Edinburgh]], [[John Berry Haycraft]] had been actively engaged in research and published papers on the coagulation of blood, and in 1884, he discovered that the leech secreted a powerful anticoagulant, which he named hirudin, although it was not isolated until the 1950s, nor its structure fully determined until 1976. Full length hirudin is made up of 65 amino acids. These amino acids are organised into a compact N-terminal domain containing three [[disulfide bonds]] and a C-terminal domain that is completely disordered when the protein is [[protein complex|un-complexed]] in solution.<ref>{{cite journal | author = Folkers PJM, Clore GM. ''et al.'' | title = Solution structure of recombinant hirudin and the Lys-47-Glu mutant: a nuclear magnetic resonance and hybrid distance geometry-dynamical simulated annealing study | journal = Biochemistry | year=1989 | volume=28 | pages=2601–2617 | issue=6 | pmid = 2567183 | doi = 10.1021/bi00432a038}}</ref><ref>{{cite journal | author = Haruyama H. and Wuthrich K. | title = Conformation of recombinant desulfatohirudin in aqueous solution determined by nuclear magnetic resonance | journal = Biochemistry | year=1989 | volume=28 | pages=4301–4312 | issue=10 | pmid = 2765488 | doi = 10.1021/bi00436a027}}</ref> [[Amino acid residue]]s 1-3 form a parallel beta- strand with residues 214-217 of [[thrombin]], the [[nitrogen]] [[atom]] of residue 1 making a [[hydrogen bond]] with the [[Serine|Ser]]-195 O gamma atom of the [[catalytic]] site. The C-terminal domain makes numerous [[electrostatic]] interactions with an [[anion]]-binding [[exosite]] of thrombin, while the last five residues are in a [[helical]] [[turn (biochemistry)|loop]] that forms many [[hydrophobic]] contacts.<ref name="pmid2374926">{{cite journal | author = Rydel TJ, Ravichandran KG, Tulinsky A, Bode W, Huber R, Roitsch C, Fenton JW | title = The structure of a complex of recombinant hirudin and human alpha-thrombin | journal = Science | volume = 249 | issue = 4966 | pages = 277–80 | year = 1990 | month = July | pmid = 2374926 | doi = 10.1126/science.2374926| url = }}</ref> Natural hirudin contains a mixture of various [[protein isoform|isoforms]] of the protein. However, [[Recombinant DNA|recombinant]] techniques can be used to produce [[wikt:homogeneous|homogeneous]] preparations of hirudin.<ref name=Rydell>{{cite journal | author = Rydell TJ, Tulinsky A. ''et al.'' | title = Refined structure of the Hirudin-Thrombin complex | journal = J. Mol. Biol. | year=1991 | volume=221 | pages=583–601 | issue=2 | pmid = 1920434 | doi = 10.1016/0022-2836(91)80074-5}}</ref>
+
+==Biological activity==
+A key event in the final stages of [[blood coagulation]] is the conversion of [[fibrinogen]] into [[fibrin]] by the [[serine protease]] enzyme [[thrombin]].<ref>{{cite journal | author = Fenton JW 2nd, Ofosu SA ''et al.'' | title = Thrombin and antithrombotics | journal = Semin Thromb Hemost | year=1998 | volume=24 | pages=87–91 | issue=2 | pmid = 9579630 | doi = 10.1055/s-2007-995828}}</ref> Thrombin is produced from [[prothrombin]], by the action of an enzyme, prothrombinase (Factor Xa along with Factor Va as a cofactor), in the final states of coagulation. Fibrin is then cross linked by factor XIII (Fibrin Stabilizing Factor) to form a [[blood clot]]. The principal [[Enzyme inhibitor|inhibitor]] of [[thrombin]] in normal blood circulation is [[antithrombin]].<ref name=Rydell/> Similar to antithrombin III, the anticoagulatant activity of hirudin is based on its ability to inhibit the procoagulant activity of [[thrombin]].  
+
+Hirudin is the most potent natural inhibitor of thrombin. Unlike antithrombin, hirudin binds to and inhibits only the activity of thrombin, with a specific activity on fibrinogen.<ref name=Rydell/> Therefore, hirudin prevents or dissolves the formation of clots and [[thrombus|thrombi]] (i.e., it has a [[thrombolysis|thrombolytic activity]]), and has therapeutic value in [[blood diseases|blood coagulation disorder]]s, in the treatment of [[skin]] [[hematoma]]s and of superficial [[varicose vein]]s, either as an injectable or a topical application cream. In some aspects, hirudin has advantages over more commonly used anticoagulants and thrombolytics, such as [[heparin]], as it does not interfere with the biological activity of other [[serum protein]]s, and can also act on [[protein complex|complexed]] thrombin.
+
+It is difficult to extract large amounts of hirudin from natural sources, so a method for producing and purifying this protein using [[Recombinant DNA|recombinant]] [[biotechnology]] has been developed. This has led to the development and marketing of a number of hirudin-based anticoagulant pharmaceutical products, such as [[lepirudin]] (Refludan), hirudin derived from ''[[Hansenula]]'' (Thrombexx, Extrauma) and desirudin (Revasc/Iprivask). Several other [[direct thrombin inhibitor]]s are derived chemically from hirudin.
+
+==See also==
+* [[Hirudotherapy]]
+* [[Discovery and Development of Direct Thrombin Inhibitors]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://leech.agromedic.com AgroMedic - Leech Farming,Medicinal Leeches,Malaysia Leeches(Hirudinaria Manillensis)]
+
+{{Antithrombotics}}
+
+[[Category:Direct thrombin inhibitors]]
+[[Category:Peptides]]

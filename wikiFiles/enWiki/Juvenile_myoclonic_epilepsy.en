@@ -1,0 +1,98 @@
+{{Infobox disease|
+  Name           = Juvenile myoclonic epilepsy |
+  Image          = |
+  Caption        = |
+  DiseasesDB     = 32202 |
+  ICD10          = {{ICD10|G|40|3|G|40}} |
+  ICD9           = {{ICD9|345.1}} |
+  ICDO           = |
+  OMIM           = 606904 |
+  OMIM_mult      = {{OMIM2|254770}} {{OMIM2|604827}} {{OMIM2|608816}} |
+  MedlinePlus    = |
+  eMedicineSubj  = neuro |
+  eMedicineTopic = 416 |
+  MeshID         = D020190 |
+}}
+'''Juvenile myoclonic epilepsy''' (JME), also known as Janz syndrome, is a fairly common form of [[idiopathic generalized epilepsy]], representing 5-10% of all epilepsies. This disorder typically first manifests itself between the ages of 12 and 18 with [[myoclonus]] occurring early in the morning. Most patients also have [[tonic-clonic seizure]]s and many also have [[absence seizure]]s. Linkage studies have demonstrated at least 6 loci for JME, 4 with known causative genes. 
+Most of these genes are [[ion channel]]s with the one non-ion channel gene having been shown to affect ion channel currents.{{citation needed (lead)|date=August 2012}}
+
+==Signs and symptoms==
+Signs of JME are [[myoclonus]] occurring early in the morning. This rarely results in patients falling, but rather dropping objects. Attacks of myoclonia are more common in the arms than the legs. Other [[seizure types]] such as generalized tonic-clonic and absence seizures can also occur.  Patients often report quick jerking movements in the morning that results in knocking over objects such as their morning orange juice.  Clusters of myoclonics can lead to absence seizures, and clusters of absence seizures can lead to generalized tonic-clonic seizures.  The onset of symptoms is generally around age 10-16 although some patients can present in their 20s or even early 30s.  The myoclonic jerks generally precede the generalized tonic-clonic seizures by several months.  Some patients never get generalized tonic-clonic seizures (GTCs).  Sleep deprivation is a major factor in triggering GTCs.  College students often present with a GTC after "pulling an all-nighter."  Patients with JME generally do not have other neurological problems.
+
+==Pathophysiology==
+===CACNB4===
+[[CACNB4]] encodes a [[calcium channel]] β subunit. [[Calcium_channel#.CE.B2_subunit|&beta; subunits]] are important regulators of calcium channel current amplitude, voltage dependence, and also regulate channel trafficking. The β<sub>4</sub> isoform encoded by CACNB4 is most prevalent in the [[cerebellum]]. In mice, a naturally occurring null mutation leads to the "lethargic" phenotype, which is similar to JME. There are at least two mutations in the β<sub>4</sub> subunit associated with JME, C104F and R482X. When wild-type α<sub>1A</sub> and β<sub>4</sub> subunits are expressed in [[oocytes]] they produce large [[barium|Ba<sup>2+</sup>]] currents that inactivate slowly. Incorporation of either of the mutant β<sub>4</sub> subunit into channels instead of wild-type subunits produces currents that are larger by 30-40%. The R482X mutation also increases the rate of fast inactivation of the channel. Since these effects are subtle, it is believed that they are contributory rather than completely causative for JME.<ref name="Escayg_2000">{{cite journal | author = Escayg A, De Waard M, Lee D, Bichet D, Wolf P, Mayer T, Johnston J, Baloh R, Sander T, Meisler M | title = Coding and noncoding variation of the human calcium-channel beta4-subunit gene CACNB4 in patients with idiopathic generalized epilepsy and episodic ataxia | journal = Am J Hum Genet | volume = 66 | issue = 5 | pages = 1531–1539 | year = 2000 | pmid = 10762541 | doi = 10.1086/302909 | pmc = 1378014}}</ref>
+
+===GABRA1===
+[[GABRA1]] encodes an α subunit of the [[GABA A receptor]], which encodes one of the major inhibitory neurotransmitter receptors. There is one known mutation in this gene that is associated with JME, A322D, which is located in the third segment of the protein. Expression of the α<sub>1</sub>β<sub>2</sub>γ<sub>2</sub> combination of subunits in [[HEK 293]] cells produces 6-fold greater current than similar subunits compositions containing mutant α<sub>1</sub> subunits. The mutation also results in greatly decreased sensitivity in the receptor for activation by [[GABA]].<ref name="Cossette_2002">{{cite journal | author = Cossette P, Liu L, Brisebois K, Dong H, Lortie A, Vanasse M, Saint-Hilaire J, Carmant L, Verner A, Lu W, Wang Y, Rouleau G | title = Mutation of GABRA1 in an autosomal dominant form of juvenile myoclonic epilepsy | journal = Nat Genet | volume = 31 | issue = 2 | pages = 184–189 | year = 2002 | pmid = 11992121 | doi = 10.1038/ng885}}</ref> This combination of mutant containing receptors also activates far more slowly than wild-type containing receptors. Although originally not reported to result in altered protein trafficking, more recent study has indicated that the A322D mutation reduced α<sub>1</sub> subunit trafficking to the membrane by >90%. Heterozygous expression of wild-type and mutant subunits produces current approximately 50% the size of wild-type due to this altered trafficking.<ref name="Gallagher_2004">{{cite journal | author = Gallagher M, Song L, Arain F, Macdonald R | title = The juvenile myoclonic epilepsy GABA(A) receptor alpha1 subunit mutation A322D produces asymmetrical, subunit position-dependent reduction of heterozygous receptor currents and alpha1 subunit protein expression | journal = J Neurosci | volume = 24 | issue = 24 | pages = 5570–5578 | year = 2004 | pmid = 15201329 | doi = 10.1523/JNEUROSCI.1301-04.2004}}</ref><ref name="Krampfl_2005">{{cite journal | author = Krampfl K, Maljevic S, Cossette P, Ziegler E, Rouleau G, Lerche H, Bufler J | title = Molecular analysis of the A322D mutation in the GABA receptor alpha-subunit causing juvenile myoclonic epilepsy | journal = Eur J Neurosci | volume = 22 | issue = 1 | pages = 10–20 | year = 2005 | pmid = 16029191 | doi = 10.1111/j.1460-9568.2005.04168.x}}</ref>
+
+===CLCN2===
+The [[CLCN2]] gene encodes a [[chloride channel]] that is heavily expressed in brain regions inhibited by [[GABA]]. It is believed to be important in maintaining a proper [[chloride]] [[reversal potential]] needed in inhibitory neurotransmission by GABA. There are three known mutations in CLCN2 associated with JME, M200fsX231, 74_117del, and G715E. Neither the M200fsX231 nor the 74_117del mutation yield current when expressed in cells. Since these channels are responsible for the removal of intracellular chloride, these mutations are expected to lead to increased chloride concentrations and, thus, altered chloride reversal potential (E<sub>Cl</sub>). As chloride is conducted through the normally inhibitory GABA receptors, this alteration in E<sub>Cl</sub> may lead to either decreased GABAergic currents or GABAergic currents that are actually excitatory. The G715E mutation, on the other hand, produces normal sized currents but has altered voltage dependent activation. For this mutant, activation occurs at more positive potentials compared to wild-type channels. This may cause increased neuronal excitability.{{cn|date=March 2013}}<!-- pmid 12612585  was retracted -->
+
+===GABRD===
+[[GABRD]] encodes the δ subunit of the [[GABA receptor]], which is a subunit yielding receptors which do not [[Desensitization (medicine)|desensitize]] and are localized outside of the [[synapse]]. There are three mutations in this gene associated with JME, E177A, R220C, and R220H, all located in the N-terminus of the protein. The last of these mutations is also present in normal controls. Receptors containing the E177A mutation have greatly decreased current compared to wild-type. This is not the case for the R220C mutation but is similar to the R220H mutation, though to a lesser extent than the E177A mutation.<ref name="Dibbens_2004">{{cite journal | author = Dibbens L, Feng H, Richards M, Harkin L, Hodgson B, Scott D, Jenkins M, Petrou S, Sutherland G, Scheffer I, Berkovic S, Macdonald R, Mulley J | title = GABRD encoding a protein for extra- or peri-synaptic GABAA receptors is a susceptibility locus for generalized epilepsies | journal = Hum Mol Genet | volume = 13 | issue = 13 | pages = 1315–1319 | year = 2004 | pmid = 15115768 | doi = 10.1093/hmg/ddh146}}</ref> More recent study has found that the E177A mutant also has greatly decreased [[Desensitization (medicine)|desensitization]] compared to wild-type receptors. Receptors containing only E177A or R220H mutants, versus heterozygotes, had significantly decreased surface expression compared to wild-type or heterozygotic receptors. These mutants also have decreased single-channel open times compared to wild-type.<ref name="Feng_2006">{{cite journal | author = Feng H, Kang J, Song L, Dibbens L, Mulley J, Macdonald R | title = Delta subunit susceptibility variants E177A and R220H associated with complex epilepsy alter channel gating and surface expression of alpha4beta2delta GABAA receptors | journal = J Neurosci | volume = 26 | issue = 5 | pages = 1499–1506 | year = 2006 | pmid = 16452673 | doi = 10.1523/JNEUROSCI.2913-05.2006}}</ref> It should be noted, however, that these mutations are very rare as causes of JME.<ref name="Lenzen_2005">{{cite journal | author = Lenzen K, Heils A, Lorenz S, Hempelmann A, Sander T | title = Association analysis of the Arg220His variation of the human gene encoding the GABA delta subunit with idiopathic generalized epilepsy | journal = Epilepsy Res | volume = 65 | issue = 1–2 | pages = 53–57 | year = 2005 | pmid = 16023832 | doi = 10.1016/j.eplepsyres.2005.04.005}}</ref>
+
+===EFHC1===
+The final known associated gene is [[EFHC1]], which is poorly understood. EFHC1 has three DM10 domains (themselves of unknown function) and an EF hand motif, which is known to bind intracellular [[calcium]]. EFHC1 is expressed in many tissues, including the brain, where it is localized to the [[soma]] and [[dendrite]]s of neurons, particularly the [[hippocampus|hippocampal CA1]] region, pyramidal neurons in the [[cerebral cortex]], and [[Purkinje cell]]s in the [[cerebellum]]. There are 5 mutations in EFHC1 associated with JME; D210N, F229L, D253Y, P77T and R221H. The last two mutations were originally detected as a pair in the same individual. EFHC1 seems to be involved in [[programmed cell death]] as EFHC1 transfected cells have a higher rate of [[apoptosis]]. This rate is decreased by the double mutations P77T + R221H. Wild-type EFHC1 increased the R-type [[calcium channel]] currents in transfected cells. This stimulation is decreased by JME associated mutations. Because of this, programmed cell death is decreased and the pruning of unwanted neurons may be hampered.<ref name="Suzuki_2004">{{cite journal | author = Suzuki T, Delgado-Escueta A, Aguan K, Alonso M, Shi J, Hara Y, Nishida M, Numata T, Medina M, Takeuchi T, Morita R, Bai D, Ganesh S, Sugimoto Y, Inazawa J, Bailey J, Ochoa A, Jara-Prado A, Rasmussen A, Ramos-Peek J, Cordova S, Rubio-Donnadieu F, Inoue Y, Osawa M, Kaneko S, Oguni H, Mori Y, Yamakawa K | title = Mutations in EFHC1 cause juvenile myoclonic epilepsy | journal = Nat Genet | volume = 36 | issue = 8 | pages = 842–849 | year = 2004 | pmid = 15258581 | doi = 10.1038/ng1393}}</ref><ref name="Suzuki_2005">{{cite journal | author = Suzuki T, Delgado-Escueta A, Alonso M, Morita R, Okamura N, Sugimoto Y, Bai D, Medina M, Bailey J, Rasmussen A, Ramos-Peek J, Cordova S, Rubio-Donnadieu F, Ochoa A, Jara-Prado A, Inazawa J, Yamakawa K | title = Mutation analyses of genes on 6p12-p11 in patients with juvenile myoclonic epilepsy | journal = Neurosci Lett | volume = 405 | issue = 1–2 | pages = 126–131 | year = 2006 | pmid = 16876319 | doi = 10.1016/j.neulet.2006.06.038}}</ref> As with some other loci, mutations in EFHC1 is not a common loci for JME. More recently, R221H has been found without P77T in one JME kindred.<ref name="Ma_2006">{{cite journal | author = | title = Mutations in the GABRA1 and EFHC1 genes are rare in familial juvenile myoclonic epilepsy | journal = Epilepsy Res | volume = 71| issue = 2–3| pages = 129–134| year = 2006| pmid = 16839746 | last1 = Ma | first1 = S | last2 = Blair | first2 = MA | last3 = Abou-Khalil | first3 = B | last4 = Lagrange | first4 = AH | last5 = Gurnett | first5 = CA | last6 = Hedera | first6 = P | doi = 10.1016/j.eplepsyres.2006.06.001}}</ref>
+
+===Other loci===
+There is also evidence linking a gene or genes on chromosome 15 (15q14) as well as the [[BRD2]] gene on chromosome 6 (6p21)<ref>{{cite journal | last1 = Pal | first1 = D. | last2 = Evgrafov | first2 = O. | last3 = Tabares | first3 = P. | last4 = Zhang | first4 = F. | last5 = Durner | first5 = M. | year = 2003 | last6 = Greenberg | first6 = DA| title = BRD2 (RING3) Is a Probable Major Susceptibility Gene for Common Juvenile Myoclonic Epilepsy | url = http://geneticsofepilepsy.org/wp-content/uploads/2009/01/identifiction-of-brd2-as-epilepsy-gene.pdf | format = PDF | pages = 261–270 | journal = Am. J. Hum. Genet | volume = 73 | issue = 2| page = |pmid=12830434 | pmc = 1180366 | doi = 10.1086/377006 }}</ref> to JME. Causative genes in this region, however, have not been shown.
+
+=== Relation to other rare disorders ===
+Until recently, the medical literature did not indicate a connection among many [[genetic disorder]]s, both [[Syndrome|genetic syndromes]] and [[Disease|genetic diseases]], that are now being found to be related.  As a result of new genetic research, some of these are, in fact, highly related in their [[genotype|root cause]] despite the widely-varying set of medical [[phenotype|symptoms]] that are clinically visible in the [[Disorder (medicine)|disorders]].  This [[emergence|emerging]] class of diseases are called [[ciliopathy|ciliopathies]].  The underlying cause may be a dysfunctional molecular mechanism in the primary [[cilia]] structures of the [[Cell (biology)|cell]], [[organelle]]s which are present in many cellular types throughout the [[human]] body.  The cilia defects adversely affect "numerous critical developmental signaling pathways" essential to cellular development and thus offer a plausible hypothesis for the often [[pleiotropic|multi-symptom]] nature of a large set of syndromes and diseases.  Known ciliopathies include [[primary ciliary dyskinesia]], [[Bardet-Biedl syndrome]], [[polycystic kidney disease|polycystic kidney]] and [[polycystic liver disease|liver disease]], [[nephronophthisis]], [[Alstrom syndrome]], [[Meckel-Gruber syndrome]] and some forms of [[retinopathy|retinal degeneration]].<ref>{{cite journal
+  | last = Badano
+  | first = Jose L.
+  | authorlink =
+  | coauthors = Norimasa Mitsuma, Phil L. Beales, Nicholas Katsanis
+  | title = The Ciliopathies : An Emerging Class of Human Genetic Disorders
+  | journal = Annual Review of Genomics and Human Genetics
+  | volume = 7
+  | issue =
+  | pages = 125–148
+  | publisher =
+  | location =
+  | date = September 2006
+  | url = http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.genom.7.080505.115610
+  | doi = 10.1146/annurev.genom.7.080505.115610
+  | id =
+  | accessdate = 2008-06-15
+  | pmid = 16722803}}</ref>  It has been suggested that juvenile myoclonic epilepsy may be a [[ciliopathy]].<ref>{{cite journal
+  | last = Delgado-Escueta
+  | first = Antonio V.
+  | authorlink =
+  | coauthors =
+  | title = Advances in Genetics of Juvenile Myoclonic Epilepsies
+  | journal = Epilepsy Currents : Reviews and Critical Analysis
+  | volume = 7
+  | issue = 3
+  | pages = 61–67
+  | publisher =
+  | location =
+  | date = May 2007
+  | doi = 10.1111/j.1535-7511.2007.00171.x
+  | id =
+  | pmid = 17520076
+  | pmc = 1874323 }}</ref>
+
+==Diagnosis==
+Diagnosis is typically made based on patient history.  The physical examination should be normal. [[EEG]] recordings are also sometimes used as confirmation.  The EEG generally shows a very characteristic pattern with generalized 3–4&nbsp;Hz polyspike and slow wave discharges.  These discharges are often provoked by photic stimulation (blinking lights) and sometimes hyperventilation.
+
+"If the diagnosis is suspected and the awake EEG is normal, a sleep-deprived EEG must be obtained, because this may be the only time the abnormality is present."  <ref>{{cite web | url=
+http://professionals.epilepsy.com/page/epilepsy_juvenilemyoclonic.html | title=Juvenile myoclonic | publisher=Epilepsy therapy project| accessdate=2012-03-21}}</ref>
+
+==Treatment/Management==
+{{main|epilepsy}}
+The most effective anti-epileptic medication for JME is [[valproic acid]] (Depakote).  However many physicians may not start with valproic acid due to the risk of adverse effects especially in young women.  A higher incidence of cleft lip/palate has been reported in pregnant woman on valproic acid.  [[Lamotrigine]], [[levetiracetam]], [[topiramate]], [[zonisamide]] are often used first.  [[Carbamazepine]] may aggravate primary generalized seizure disorders such as JME.  Treatment is lifelong.  Patients should be warned to avoid sleep deprivation.
+
+==See also==
+* [[Progressive myoclonus epilepsies]]
+* [[Spinal muscular atrophy with progressive myoclonic epilepsy]]
+
+== References ==
+{{Reflist|2}}
+
+{{Seizures and epilepsy}}
+
+{{DEFAULTSORT:Juvenile Myoclonic Epilepsy}}
+[[Category:Channelopathy]]
+[[Category:Epilepsy types]]

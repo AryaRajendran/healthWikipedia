@@ -1,0 +1,40 @@
+{{missing|the origin of the term "crash cart"|date=March 2013}}<br />
+
+[[File:Crash Cart.jpg|thumbnail|A crash cart at the John D. Dingell VA Medical Center in [[Detroit|Detroit, Michigan]].]]
+
+A '''crash cart''' or '''code cart''' ('''crash trolley''' in UK medical jargon) is a set of trays/drawers/shelves on wheels used in hospitals  for transportation and dispensing of emergency medication/equipment at site of medical/surgical emergency for life support protocols ([[Advanced cardiac life support|ACLS]]/[[Advanced life support|ALS]]) to potentially save someone's life.
+
+The contents off a crash cart vary from hospital to hospital, but typically contain the tools and drugs needed to treat a person in or near [[cardiac arrest]]. These include but are not limited to:
+*Monitor/[[defibrillator]]s, suction devices, and Bag Valve Masks (BVMs) of different sizes
+*Advanced Cardiac Life Support (ACLS) drugs such as [[epinephrine]], [[atropine]], [[amiodarone]], [[lidocaine]], [[sodium bicarbonate]], [[dopamine]], and [[vasopressin]]
+*First line drugs for treatment of common problems such as: [[adenosine]], [[dextrose]], [[diazepam]] or [[midazolam]], epinephrine for IM use, [[naloxone]], [[nitroglycerin]], and others
+*Drugs for rapid sequence intubation: [[Succinylcholine]] or another [[paralytic]], and a [[sedative]] such as [[etomidate]] or midazolam; [[endotracheal tube]]s and other [[intubation|intubating]] equipment
+*Drugs for peripheral and central venous access
+*Pediatric equipment (common pediatric drugs, intubation equipment, etc.)
+*Other drugs and equipment as chosen by the facility
+
+Hospitals typically have internal [[intercom]] codes used for situations when someone has suffered a [[cardiac arrest]] or a similar potentially fatal condition outside of the emergency room or intensive care unit (where such conditions already happen frequently and do not require special announcements).  When such codes are given, hospital staff and volunteers are expected to clear the corridors, and to direct visitors to stand aside as the crash cart and a team of physicians and nurses may come through at any moment. (''See'' [[Code Blue (emergency code)|Code Blue]].)
+
+== History in the United States==
+The first cardiac crash cart was created in 1962 at Bethany Medical Center in [[Kansas City, Kansas]], home to the first Cardiac Care Unit in the country.<ref name=colby>Colby, William H. ''Unplugged: Reclaiming Our Right to Die in America''</ref> The first crash cart was fabricated by one of the doctor's fathers. It contained an [[bag valve mask|Ambu bag]], defibrillator paddles, a bed board and endotracheal tubes.<ref name=colby />
+
+== In computing==
+In the computer industry, the term '''crash cart''' is used, by analogy to its original meaning in medicine, to mean a cart that can be connected to a [[server (computing)|server]] that is malfunctioning so badly that remote access to it is impossible, the intention being to "resuscitate" the server to the point where remote administration works again.  Crash carts most commonly include a keyboard, mouse, and monitor, because most servers in a modern high-density environment don't have user input/output devices.
+
+The phrase, as applied to computing, was coined independently from its usage in a medical context.{{citation needed|date=August 2009}} The term "crash" has long been used to describe computer systems failures which require or placement of a computer monitor, keyboard and other peripherals on a rolling "cart" leads rather obviously to the resulting phrase.
+
+Crash carts are a method of last resort in data centers which employ various forms of [[out-of-band management]].  In those cases it is used for equipment which does not support the requisite [[out-of-band infrastructure]] (OOBI) features or in cases where the OOBI devices (concentrators, switches, terminal servers, etc.) or services themselves have failed.
+
+The term "crash cart" can also refer to a bootable removable medium containing an operating system and any relevant software used to recover computer equipment (such as a server or [[Personal computer|PC]]) from a state of failure. This is done when such recovery is not possible using the computer's existing operating system and software. Crash carts in this sense are historically [[Magnetic tape data storage|tape cartridges]] ("carts") or more recently, external or removable [[Hard disk drive|hard drives]].
+
+== References==
+;Notes
+{{reflist}}
+
+== External links ==
+*[http://www.ucdmc.ucdavis.edu/cne/resources/clinical_skills_refresher/crash_cart/ 360-degree view of a crash cart and all its contents]
+*[http://www.outpatientsurgery.net/resources/forms/2004/pdf/OutpatientSurgeryMagazine_0410_crashCart.pdf Crash Cart Inventory Checklist] (PDF)
+
+{{DEFAULTSORT:Crash Cart}}
+[[Category:Medical equipment]]
+[[Category:Out-of-band management]]

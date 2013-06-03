@@ -1,0 +1,47 @@
+'''Piscivorin''' is a component of [[snake venom]] secreted by the [[Agkistrodon piscivorus|Eastern Cottonmouth]] (''Agkistrodon piscivorus piscivorus'').<ref name="Yama2003" >{{cite journal |first1=Yasuo |last1=Yamazaki |first2=Fumiko |last2=Hyodo |first3=Takashi |last3=Morita |title=Wide distribution of cysteine-rich secretory proteins in snake venoms: Isolation and cloning of novel snake venom cysteine-rich secretory proteins |journal=Archives of Biochemistry and Biophysics |volume=412 |issue=1 |pages=133–41 |year=2003 |pmid=12646276 |doi=10.1016/S0003-9861(03)00028-6}}</ref> It is a member of the [[cysteine-rich secretory protein]] (CRISP) family, which blocks voltage-dependent [[calcium channels]].
+
+== Etymology ==
+The name of piscivorin comes from the snake species name piscivorus, which is derived from the Latin words ''pisces'' and ''vorare'', meaning 'fish' and 'to devour' respectively.
+
+== Source ==
+Piscivorin is produced in the venom glands of the [[Agkistrodon piscivorus|Eastern Cottonmouth]] snake (''Agkistrodon piscivorus piscivorus''), which populates the Eastern United States.<ref>Campbell, J.A., & Lamar, W. W. (2004). ''The Venomous Reptiles of the Western Hemisphere''. Ithaca and London:Comstock Publishing Associates. Vol. II, p. 271.</ref>  Typically, crude venom from the Eastern Cottonmouth contains approximately 1.25% of piscivorin.<ref name="Yama2003"></ref><ref name="Yama2004">{{cite journal |first1=Yasuo |last1=Yamazaki |first2=Takashi |last2=Morita |title=Structure and function of snake venom cysteine-rich secretory proteins |journal=Toxicon |volume=44 |issue=3 |pages=227–31 |year=2004 |pmid=15302528 |doi=10.1016/j.toxicon.2004.05.023}}</ref>
+
+== Biochemistry ==
+Piscivorin belongs to the cysteine-rich secretory protein (CRISP) family, which are secreted as single-chain proteins with molecular masses between 20 and 30 kDa. They display significant amino acid sequence homology. Sixteen cysteine residues, forming 8 disulfide bonds, are strictly conserved in CRISPs.<ref>{{cite journal |first1=Min |last1=Guo |first2=Maikun |last2=Teng |first3=Liwen |last3=Niu |first4=Qun |last4=Liu |first5=Qingqiu |last5=Huang |first6=Quan |last6=Hao |title=Crystal Structure of the Cysteine-rich Secretory Protein Stecrisp Reveals That the Cysteine-rich Domain Has a K+ Channel Inhibitor-like Fold |journal=Journal of Biological Chemistry |volume=280 |issue=13 |pages=12405–12 |year=2004 |pmid=15596436 |doi=10.1074/jbc.M413566200}}</ref>  Ten of these cysteine residues are clustered into the C-terminal part of the protein.<ref name="Yama2004"></ref>
+
+The molecular mass of piscivorin is 24.842 kDa. The nucleotide sequence of piscivorin cDNA spans 1323 bp, containing an open reading frame of 240 codons.<ref name="Yama2004"></ref>
+
+Piscivorin has the following amino acid sequence.<ref>{{cite web |url=http://www.uniprot.org/uniprot/Q7ZTA0 |title=Piscivorin|date=2010 |accessdate=27 October 2010 |publisher=UniProt Consortium}}</ref>
+
+{| class="wikitable"
+|-
+| <small>10</small> || <small>20</small> || <small>30</small> || <small>40</small> || <small>50</small> || <small>60</small>
+|-
+| <small>MIAFIVLPIL</small> || <small>AAVLQQSSGS</small> || <small>VDFDSESPRK</small> || <small>PEIQNQIVDL</small> || <small>HNSLRRSVNP</small> || <small>TASNMLKMEW</small>
+|-
+| <small>70</small> || <small>80</small> || <small>90</small> || <small>100</small> || <small>110</small> || <small>120</small>
+|-
+| <small>YPEAAANAER</small> || <small>WAYRCIESHS</small> || <small>PRNSRVLGGI</small> || <small>KCGENIYMSS</small> || <small>IPIKWTEIIH</small> || <small>AWHGENKNFK</small>
+|-
+| <small>130</small> || <small>140</small> || <small>150</small> || <small>160</small> || <small>170</small> || <small>180</small>
+|-
+| <small>YGIGADPPNA</small> || <small>VIGHFTQIVW</small> || <small>YKSYLVGCAA</small> ||<small> AYCPSSEYSY</small> || <small>FYVCQYCPAG</small> || <small>NIIGKIATPY</small>
+|-
+| <small>190</small> || <small>200</small> || <small>210</small> || <small>220</small>|| <small>230</small>|| <small>240</small>
+|-
+| <small>KSGPPCGDCP </small> || <small>SACVNGLCTN</small>|| <small>PCTKEDKYTN</small> || <small>CKSLVQQYGC</small>|| <small>QDKQMQSECS</small> || <small>AICFCQNKII</small>
+|}
+
+== Target and mode of action ==
+Piscivorin reduces high potassium-evoked smooth muscle contraction, but does not inhibit [[caffeine]]-stimulated contraction of smooth muscle.<ref name="Yama2004" /> Since caffeine normally causes contraction through the release of Ca<sup>2+</sup> from the sarcoplasmic reticulum, this differential effect indicates that piscivorin is an [[L-type calcium channel]] blocker. At a concentration of 1 μM, its effect on depolarization-induced smooth muscle contraction is weaker than of the related CRISP family toxins [[ablomin]], [[triflin]] or [[latisemin]]. A sequence comparison of piscivorin and other CRISP family proteins suggests that the Glu186 residue is the crucial site for the blocking of the calcium channels.<ref name="Yama2003"></ref><ref name="Yama2004"></ref>
+
+Unlike some other CRISP family proteins, piscivorin does not block [[cyclic nucleotide-gated channels]].<ref name="Yama2003"></ref>
+
+== References ==
+{{ISBN|date=October 2010}}
+{{reflist|2}}
+
+{{Toxins}}
+
+[[Category:Vertebrate toxins]]
+[[Category:Ion channel toxins]]

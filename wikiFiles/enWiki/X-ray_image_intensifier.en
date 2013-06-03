@@ -1,0 +1,191 @@
+{{Multiple issues
+|refimprove=June 2010
+|prose=June 2010
+|advert=June 2010
+|fancruft=June 2010
+}}
+An '''x-ray image intensifier''' (XRII), is an imaging component which converts x-rays into a visible image. 
+
+The term [[image intensifier]] refers to a specific component of an x-ray imaging system, which allows low intensity x-rays to be converted to a visible light output. The device contains a low absorbency/scatter input window, typically aluminum, input fluorescent screen, photocathode, electron optics, output fluorescent screen and output window. These parts are all mounted in a high vacuum environment within glass or more recently, metal/ceramic. It allows the viewer to more easily see the structure of the object being imaged than past fluorescent screens. The X-ray II requires lower dose rates due to more efficient conversion of x-ray quanta to visible light. This device was originally introduced in 1948.<ref>{{cite book|last=Krestel|first=Erich|title=Imaging Systems for Medical Diagnostics|year=1990|publisher=Siemens Aktiengesellschaft|location=Berlin and Munich|isbn=3-8009-1564-2|pages=318–327}}</ref>
+
+Viewing of the output was via mirrors and optical systems until the adaption of television systems in the 1960s. Additionally, the output was able to be captured on systems with a 100mm cut film camera using pulsed outputs from an x-ray tube similar to a normal radiographic exposure; the difference being the II rather than a film screen cassette provided the image for the film to record. 
+
+The input screens range from 15–57&nbsp;cm, with the 23&nbsp;cm, 33&nbsp;cm and 40&nbsp;cm being among the most common. Within each image intensifier, the actual field size can be changed using the voltages applied to the internal electron optics to achieve magnification and reduced viewing size. For example, the 23&nbsp;cm commonly used in cardiac applications can be set to a format of 23, 17, and 13&nbsp;cm. Because the output screen remains fixed in size, the output appears to "magnify" the input image.
+
+==Clinical applications==
+Modern imaging systems will use the image intensifier as the source of images supplied to a storage system. 
+
+*As a fixed piece of equipment in a dedicated screening room
+*Mobile equipment for use in an [[operating theatre]]
+[[File:Philips II.jpg|thumb|right|Fixed X-ray image intensifier]]
+
+==Components==
+*C-arm (encompasses the actual X-ray source and image intensifier)
+*Table
+*Fluoroscopic exposure and program controls
+*Post processing software
+*Viewing monitors
+
+===Permanent/Fixed Fluoroscopic Systems===
+There are two main configurations of permanently installed fluoroscopic systems. 
+One class commonly utilizes a radiolucent patient examination table with an under-table mounted tube and an imaging system mounted over the table, while the other is commonly referred to as a C-arm system used where greater flexibility in the examination process is needed such as neuro or cardiac imaging. 
+
+Modern imaging systems on both configurations are limited in capability only by the desired features the users will want. All frame rates, storage (local or PACS), image capture devices etc. are now far lower in cost than before, software configurable and based on COTS components for all but the camera/II or flat panel devices. 
+
+The non-C-arm based systems are used in most X-ray departments as 'screening rooms'. The types of investigations for which this machine can be used for is vast, including:
+*Barium studies (swallows, meals, enemas)
+*Endoscopy studies ([[Endoscopic retrograde cholangiopancreatography|ERCP]]) (Some sites will opt for a portable C-arm system for this)
+*Fertility studies ([[Hysterosalpingography|HSG]])
+
+The C-arm systems are commonly used for studies requiring the maximum positional flexibility such as: 
+*Angiography studies (peripheral, central and cerebral)
+*Therapeutic studies (Line placements i.e. ''Permacath''/''Hickman'', transjugular biopsies, TIPS stent, embolisations)
+*Cardiac studies ([[PTCA]])
+*Orthopedic procedures (ORIF, DHS, MUA, spinal work) - again generally using a portable C-arm maximum flexibility in positional use. There are very few permanently installed C-arms in an O.R. setting.The workflow seldom justifies this sort of dedication of one O.R. or Permanent C-arm
+
+==Mobile Fluoroscopic System AKA "portable C-arm"==
+===General configuration and range of movements===
+
+A mobile image intensifier generally consists of two units, the X-ray generator and image system on a portable imaging system (C-arm) and the workstation unit used to store and manipulate the images. The imaging system unit can perform a variety of movements that allow for use in a variety of surgical procedures such as cardiology, orthopedics and urology. This unit provides the appropriate structure to mount an image intensifier and an X-ray tube with a beam limiting device positioned directly opposite from and aligned centrally to each other. 
+
+The C-arm is capable of many movements:
+*Horizontal travel: about 200&nbsp;mm
+*Orbital travel: about 115 degrees
+*Motorized vertical travel: 460&nbsp;mm
+*Wig-wag about +/-12&nbsp;cm (entire C-arm and Image Intensifier)
+*C-arm rotation about the horizontal axis +/- 210 degrees
+
+The X-ray generator, dose control system and collimator controls are usually housed in the chassis on which the C-arm is mounted. All of the control systems are closed loop systems which are directed by the master controller initial program settings. The master controller generally is found in the work station. User controls on the C-arm allow the operator to modify the operation of the system while in use. I.e. format size, slot collimator position, dose rate etc.  
+
+The Imaging system must be compact and lightweight to allow easy positioning with adequate space to work around and a wide range of motion while yet remaining inflexible enough so as to avoid misalignment due to flexion caused by the mass of the X-ray tube or Image system assemblies.
+
+===Workstation unit===
+
+Much of the operation of the machine is from the workstation unit.  This has the following features:
+*Various handles for movement and positioning
+*Power switch and exposure switch
+*Cable hanger
+*Brake pedal
+*Controls for radiographic and fluoroscopic settings
+*Various interconnect cables
+*Hard disk and optical disk writer/rewriter
+*DVD R/RW
+*[[Picture archiving and communication system|PACS]] system connection allowing access to patient information, annotation,
+*Advanced image quality enhancement software such as noise reduction, zoom control
+*Ability to save and swap images between monitors
+*Contrast and brightness controls
+*May have one or dual 17&nbsp;inch or larger monitors
+*Advanced image processing such as noise reduction
+
+===Types of X-ray tube===
+
+Two types of X-ray tube may be fitted, fixed anode or rotating anode.
+Typical features of fixed anode tubes include:
+*Typical anode heat capacity load  30,000 - 50,000 heat units
+*Single or dual focused anode, with 0.5 by 0.5&nbsp;mm focal spot for fluroscopic applications and
+1.8 by 1.8&nbsp;mm focal spot size for radiographic applications.
+*The angle on the anode target of about 12 degrees.
+Typical features of rotating anode tubes include:
+*0.3&nbsp;mm focal spot for better image detail
+*Typical anode heat rating of 300 000 heat units for longer exposure times
+*Allows for a longer tube life
+
+The housing also has a heat storage limitation, typically 1200-1250kHU
+
+<ref>OEC-DIASONICS, series 9400, date: 12/1991</ref><ref>Product Brochure, Philips Medical Systems</ref>
+
+===Electronic capabilities===
+
+The images can be manipulated in many ways on the computer screen.
+Examples of this are:
+*Cine loop replay-  Allows review of a dynamic scene without extra dose
+*Cine Loop editing-  Shorter loops can be made over review of a dynamic scene
+*16 Picture overview-  For quick overview.
+*Zoom-  Fast magnification.
+*Relative stenosis measurement- Can measure the distance of two vessels for vasuclar procedures.
+*Test Annotation- To label all images
+
+===Generator and range of exposures===
+
+Modern systems use a digital high frequency generator with typically 20,000 cycles per second.  The range of kVp settings may be from 40kV to 120kV.  The tube current is typically 0.1mA to 6mA for fluoroscopy examinations. For radiographic mode the mA is fixed at about 20mA to 60mA.  mAs values vary from 0.16 to 160 for radiographic application.  The electronic timer varies from 0.1sec to 4.0sec for radiographic exposures.
+
+===Image intensifiers, size and features===
+
+They may be fitted with a range of different types of image intensifiers; typically 16&nbsp;cm or 22&nbsp;cm.
+
+Typical specifications for a 16&nbsp;cm intensifier are:
+
+*Maximum resolution is 44 lp/cm at the centre of the screen.
+*[[Anti-scatter grid]] of 8:1, focused at 90&nbsp;cm.
+*Removable cassette holder that is mounted on the image intensifier and holds a 24X30 film.
+*Rotation 360 degrees
+
+Typical specifications for a 22&nbsp;cm intensifier are:
+
+*Resolution is 44 lp/cm at the centre of the screen.
+*Magnification mode - allows a maximum resolution of 51 lp/cm at the centre of the screen
+*Stationary anti-scatter grid 10:1, focused at 90&nbsp;cm.
+*Removable cassette holder that is mounted on the image intensifier and holds a 24X30 film.
+*Rotation 360 degrees
+
+===Flat panel detectors - image intensifier replacement===
+
+Flat Detectors are an alternative to Image Intensifiers. They are currently offered on imaging systems manufactured by Liebel-Flarsheim (Direct Digital Imaging System), Ziehm Imaging, Siemens, GE, [[Medtronic]] (The "O-arm" System), FujiFilm Japan and [[Philips Healthcare]] The Flat Detector (FD) will replace the Image Intensifier. The advantages of this technology include: lower patient dose and increased image quality because the X-rays are always pulsed, and no deterioration of the image quality over time.
+
+===Type of TV camera and coupling to II===
+
+Older machines may have a vidicon type pickup tube, with direct fiber-optic coupling to the image intensifier.  Modern machines may have a CCD camera.
+
+===Radiation safety features===
+
+*Last image hold, "freezing" the screen and availing for examining the screen without exposing the patient to unnecessary radiation.<ref>[http://www.walterrobinson.com/images/Walt_PPT/ppt_pres/sld044.htm walterrobinson.com > Last Image Hold Feature] Retrieved on April 3, 2010</ref>
+*Pulsed fluroscopy
+*Single pulse fluroscopy mode
+*Manual mode in order to reduce dose (ALARA)
+*Fluoroscopy timer warning
+*Movement of image intensifier can allow the operator to reduce distance between patient and X-ray source, so therefore reducing dose to patient.
+*Beam limitation devices to minimize beam area
+
+===Special features===
+
+*Real time viewing
+*Remote control keypad
+*Removable cassette holder, for both fluroscopy and plain film images
+*Contrast correction
+*Zoom
+*Edge enhancement
+*Digital subtraction
+*Wheels fitted with cable deflectors
+
+===3D imaging===
+
+Some imaging systems using either image intensifiers or flat panel detectors are capable of taking images in multiple planes that can be used to reconstruct a 3D volume of the patient anatomy. This capability is typically used for surgical navigation. It can also be helpful for surgeons who want to check the placement of implanted devices in the patient, such as spinal screws.
+See:
+*[[Medtronic]] ("O-arm" System)
+*[[Ziehm Imaging]]
+*[[Siemens Healthcare]]
+*[[Philips_healthcare#Healthcare_products|Philips Healthcare]]
+
+===Potential safety issues===
+
+Failure of the X-ray beam collimation may lead to primary beam X-ray exposure outside of the selected image intensifier input area. This would result in image degradation. Light generated outside the area of the image intensifier input at magnification causes additional loss of contrast of the image with increased noise. Additionally, unnecessary additional dose to the patient would result. If the C-arm or fittings are damaged, the X-ray tube and intensifier may become misaligned resulting in image degradation or loss, as well as presenting a potential injury to staff and patient if the structural integrity of the C-arm or mounted components are compromised.
+
+==Technical capabilities==
+
+Image intensifiers are usually set up for two purposes.  For either plain fluoroscopy or [[digital subtraction angiography]] (DSA).  All image intensifiers are set up with software capable of adjusting settings to suit different user requirements, depending on the procedure and body area being imaged.  In simple flouroscopy for example, imaging of the throat would not require the same amount of exposure as that of the abdomen.  And on DSA capable models, preset programs are available which enables the user to decide a rate of how many images or frames per second are acquired.
+
+==Future developments==
+{{Unreferenced section|date=April 2011}}
+*Flat panel
+*Dual head
+*Low dose Imaging
+*Flat detector currently offered by Ziehm Imaging and Philips Medical. The flat detector will replace the image intensifier. The advantages of this technology include lower patient dose and increased image quality because the X-rays are always pulsed.
+
+==References==
+{{Reflist|2}}
+
+{{DEFAULTSORT:X-Ray Image Intensifier}}
+[[Category:X-rays|Image]]
+[[Category:Radiography]]
+[[Category:X-ray instrumentation|Image]]
+[[Category:Medical imaging]]

@@ -1,0 +1,33 @@
+'''Nitrogen washout''' (or '''Fowler's method''') is a test for measuring [[Dead space (physiology)|dead space]] in the lung during a [[Respiratory system|respiratory cycle]], as well as some parameters related to the closure of airways.
+
+==Procedure==
+A nitrogen washout can be performed with a single nitrogen breath, or multiple ones. 
+Both tests use similar tools, both can estimate [[functional residual capacity]] and the degree of nonuniformity of gas distribution in the lungs, but the multiple-breath test more accurately measures
+absolute lung volumes.<ref>{{cite doi|10.1183/09031936.97.10092174}} [http://erj.ersjournals.com/content/10/9/2174.full.pdf]</ref> The following describes a single-breath nitrogen test:
+
+A subject takes a breath of 100% oxygen and exhales through a one-way valve measuring nitrogen content and volume. A plot of the nitrogen concentration (as a % of total gas) vs. expired volume is obtained by increasing the nitrogen concentration from zero to the percentage of nitrogen in the [[alveoli]]. The nitrogen concentration is initially zero because the subject is exhaling the dead space oxygen they just breathed in (does not participate in alveolar exchange), and climbs as alveolar air mixes with the dead space air. The dead space can be determined from this curve by drawing a vertical line down the curve such that the areas below the curve (left of the line) and above the curve (right of the line) area equal.
+
+Most people with a normal distribution of airways resistances will reduce their expired end-tidal nitrogen concentrations to less than 2.5% within seven minutes.  Individuals with high resistance in their airways can take longer than seven minutes to remove all the nitrogen.
+
+==Parameters==
+A nitrogen washout can obtain the following parameters:
+*Closing volume (CV); the amount of air remaining in the lungs when the flow from the lower sections of the lungs becomes severely reduced or halts altogether during expiration as the small airways begin to close.<ref>[http://medical-dictionary.thefreedictionary.com/closing+volume thefreedictionary.com > closing volume] Citing: The American Heritage Medical Dictionary Copyright 2007 and Mosby's Medical Dictionary, 8th edition. 2009</ref>
+*Closing capacity (CC), which equals CV + ([[total lung capacity|TLC]] - [[vital capacity|VC]]), with VC taken from the curve acquired from the nitrogen washout test.<ref name=hedenström2009>Interpretation model - compendium at Uppsala Academic Hospital. By H. Hedenström. 2009-02-04</ref> As a reference, it should be 70% to 130% of what is the average value in the population,<ref name=uppsala/> which, in turn, may vary with geographic location.
+*Mean slope of the alveolar plateau (phase III). It should be less than 175% of population average.<ref name=uppsala>LUNGFUNKTION - Practice compendium for semester 6. Department of Medical Sciences, Clinical Physiology, Academic Hospital, Uppsala, Sweden. Retrieved 2010.</ref>
+
+Also, from those values, additional parameters can be calculated:
+*CV/[[vital capacity|VC]] ratio
+*CC/[[total lung capacity|TLC]] ratio
+Both of the above should be less than 125% of population average.<ref name=uppsala/>
+
+==References==
+{{reflist}}
+
+==External links==
+*Fowler's method in {{cite book|title=Physiology|publisher=Lippincott Williams & Wilkins|location=Philadelphia, PA|isbn=0683306030|url=http://books.google.co.uk/books?id=C_dd8JEJgVwC&pg=PA202&lpg=PA202&dq=fowler%27s+method+%22dead+space%22&source=web&ots=3LGdr-gf-p&sig=X9SeYMpXB37b7pB1V4W5xRC1Sq0&redir_esc=y#v=onepage&q=fowler's%20method%20%22dead%20space%22&f=false|edition=4th}}
+
+{{Respiratory physiology}}
+[[Category:Medical tests]]
+[[Category:Pulmonary function testing]]
+[[Category:Respiratory therapy]]
+{{science-stub}}

@@ -1,0 +1,59 @@
+{{Orphan|date=December 2011}}
+
+[[Image:HFOV 3100A.jpg|thumb|right]]
+The '''SensorMedics High Frequency Oscillatory Ventilator''' is a patented [[high-frequency ventilation|high-frequency]] (>150 [[Respiratory rate|R<sub>f</sub>]]) [[mechanical ventilator]] by [[Cardinal Health]].<ref name="pmid19499589">{{cite journal| author=Messier SE, Digeronimo RJ, Gillette RK| title=Comparison of the Sensormedics 3100A and Bronchotron transporter in a neonatal piglet ARDS model. | journal=Pediatr Pulmonol | year= 2009 | volume= 44 | issue= 7 | pages= 693–700 | pmid=19499589 | doi=10.1002/ppul.21041 | pmc= | url= }}</ref>  The 3100A model was approved for use in the [[United States]] by the [[Food and Drug Administration]] in 1991 for neonatal application for the treatment of all forms of respiratory failure; then subsequently approved in 1995 for Pediatric Application, with no upper “weight limit”, for treating selected patients failing conventional ventilation.  The High-frequency oscillatory ventilator
+
+==3100A==
+The 3100A model is used for infants and children under 35 kilograms (<35&nbsp;kg).<ref name="pmid21037502">{{cite journal| author=Custer JW, Ahmed A, Kaczka DW, Mulreany DG, Hager DN, Simon BA et al.| title=In vitro performance comparison of the Sensormedics 3100A and B high-frequency oscillatory ventilators. | journal=Pediatr Crit Care Med | year= 2011 | volume= 12 | issue= 4 | pages= e176-80 | pmid=21037502 | doi=10.1097/PCC.0b013e3181fe3028 | pmc= | url= }}</ref>
+
+==3100B==
+The 3100B model is used for all other people greater than 35 kilograms (>35&nbsp;kg).<ref name="pmid21037502"/>
+
+==Controls and settings==
+===Bias flow===
+'''Bias flow''' - Adjusting Bias Flow will affect mean P<sub>aw</sub>.  Lowering bias flow may decrease work of breathing and facilitate weaning.
+;Typical ranges
+*Premature 8-15 LPM
+*Nearterm 10-20 LPM
+*Small child 15-25 LPM
+*Large Child 20-30 LPM
+
+===Adjust===
+'''Adjust''' - Sets the mean airway pressure.  This control directly affects lung volume and oxygenation.
+;Typical ranges
+*Initial setting is slightly higher than was observed during conventional ventilation.
+
+===Power===
+Piston displacement is controlled by the '''power''' setting. Power changes ventilation and thereby changes blood PaCO2 levels.
+;Typical values
+*Start with a power of 2.0 and adjust for chest wiggle to umbilicus
+
+===Inspiratory time %===
+'''T<sub>i%</sub>''' is the percentage of time allotted for inspiration.  Once this value is set, it is rarely changed.
+;Typical values
+*33% is recommended by the manufacturer for almost all applications.
+*up to 50% is recommended in situations where lung recruitment is necessary.
+
+===Frequency===
+'''Frequency''' (R<sub>f</sub>) is the number of breaths in one second, expressed in hertz (hz).  One hertz is equal to 60 breaths per minute. (R<sub>f</sub>) 
+;Typical values and ranges
+*The smaller the patient, the higher the frequency.
+*The larger the patient, the lower the frequency.
+
+;Changes in frequency
+*Decrease in frequency = increased [[tidal volume]].
+*Increase in frequency = decreased [[tidal volume]].
+
+==Problems==
+Since neither the 3100A or the 3100B measure actual tidal volumes, it is impossible to wean with precision;<ref name="pmid9308072">{{cite journal| author=Scott CJ, McGeorge AD, Hancock SW| title=Failure of adequate ventilation using Sensormedics 3100A High Frequency Oscillatory Ventilator. | journal=Paediatr Anaesth | year= 1997 | volume= 7 | issue= 5 | pages= 432 | pmid=9308072 | doi= | pmc= | url= }}</ref> some clinicians find this to be problematic in the application of oscillatory ventilation.<ref name="pmid9308072"/>
+
+==References==
+<references/>
+
+[[Category:Mechanical ventilation]]
+[[Category:Respiratory therapy]]
+[[Category:Medical equipment]]
+[[Category:Pulmonology]]
+
+
+{{medical-equipment-stub}}

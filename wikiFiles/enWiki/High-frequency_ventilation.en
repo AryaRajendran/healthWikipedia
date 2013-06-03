@@ -1,0 +1,138 @@
+{{Interventions infobox |
+  Name        = High frequency ventilation|
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9unlinked = |
+  MeshID      = D006612 |
+  OPS301      = |
+  OtherCodes  = |
+}}
+'''High frequency ventilation''' is a type of [[mechanical ventilation]] which utilizes a respiratory rate greater than 4 times the normal value.<ref name="pmid13174467">{{cite journal| author=BRISCOE WA, FORSTER RE, COMROE JH| title=Alveolar ventilation at very low tidal volumes. | journal=J Appl Physiol | year= 1954 | volume= 7 | issue= 1 | pages= 27–30 | pmid=13174467 | doi= | pmc= | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=13174467  }} </ref> (>150 (V<sub>f</sub>) breaths per minute) and very small [[tidal volume]]s.<ref name=krishan>{{cite journal |author=Krishnan JA, Brower RG |title=High-frequency ventilation for acute lung injury and ARDS |journal=Chest |volume=118 |issue=3 |pages=795–807 |year=2000 |pmid=10988205 |doi=10.1378/chest.118.3.795 | url=http://www.chestjournal.org/cgi/content/full/118/3/795}}</ref><ref name="pmid2510975">{{cite journal |author=Standiford TJ, Morganroth ML |title=High-frequency ventilation |journal=Chest |volume=96 |issue=6 |pages=1380–9 |year=1989 |month=December |pmid=2510975}}</ref>  High frequency ventilation is thought to reduce [[ventilator-associated lung injury]] (VALI), especially in the context of [[ARDS]] and [[acute lung injury]].<ref name=krishan/> This is commonly referred to as '''lung protective ventilation'''.<ref name="pmid16507163">{{cite journal |author=Bollen CW, Uiterwaal CS, van Vught AJ |title=Systematic review of determinants of mortality in high frequency oscillatory ventilation in acute respiratory distress syndrome |journal=Crit Care |volume=10 |issue=1 |pages=R34 |year=2006 |month=February |pmid=16507163 |pmc=1550858 |doi=10.1186/cc4824 |url=http://ccforum.com/content/10/1/R34}}</ref> There are different flavors of '''High frequency ventilation'''.<ref name=krishan/> Each type has its own unique advantages and disadvantages. The types of HFV are characterized by the delivery system and the type of exhalation phase. 
+
+High frequency ventilation may be used alone, or in combination with conventional mechanical ventilation. In general, those devices that need conventional mechanical ventilation do not produce the same lung protective effects as those that can operate without tidal breathing. Specifications and capabilities will vary depending on the device manufacturer.
+
+==High frequency ventilation (passive)==
+===High frequency jet ventilation===
+[[File:Drawing of air movement in alveoli during jet ventilation, HFV-P.png|thumb|Drawing of air movement in alveoli during jet ventilation, HFV-P]]
+[[File:Inhaled Nitric Oxide (iNO) Delivery with High-frequency Jet Ventilation (HFJV).jpg|thumb|Inhaled nitric oxide (iNO) delivery with high-frequency jet ventilation]]
+High frequency jet ventilation (HFJV) is provided by the [[Bunnell Incorporated|Bunnell]] Life Pulse High-Frequency Ventilator.  HFJV employs an endotracheal tube adaptor in place for the normal 15&nbsp;mm ET tube adaptor. A high pressure "jet" of gas flows out of the adaptor and into the airway. This jet of gas occurs for a very brief duration, about 0.02 seconds, and at high frequency: 4-11 hertz. Tidal volumes ≤ 1 ml/Kg are used during HFJV. This combination of small tidal volumes delivered for very short periods of time creates the lowest possible distal airway and alveolar pressures produced by a mechanical ventilator. Exhalation is passive. Jet ventilators utilize various I:E ratios—between 1:1.1 and 1:12—to help achieve optimal exhalation. Conventional mechanical breaths are sometimes used to aid in reinflating the lung. Optimal PEEP is used to maintain alveolar inflation and promote ventilation-to-perfusion matching. Jet ventilation has been shown to reduce ventilator induced lung injury by as much as 20%.  Usage of high frequency jet ventilation is recommended in neonates and adults with severe lung injury.<ref name="D. P. Schuster, M. Klain & J. V. Snyder 1982 625–630">{{Cite journal | author = D. P. Schuster, M. Klain & J. V. Snyder | title = Comparison of high frequency jet ventilation to conventional ventilation during severe acute respiratory failure in humans | journal = [[Critical care medicine]] | volume = 10 | issue = 10 | pages = 625–630 | year = 1982 | month = October | pmid = 6749433}}</ref>
+
+==== Indications for use ====
+The Bunnell Life Pulse High-Frequency Ventilator is indicated for use in ventilating critically ill infants with [[pulmonary interstitial emphysema]] (PIE). Infants studied ranged in birth weight from 750 to 3529 grams and in [[gestation age]] from 24 to 41 weeks.
+
+The Bunnell Life Pulse High-Frequency Ventilator is also indicated for use in ventilating
+critically ill infants with [[Infant respiratory distress syndrome|respiratory distress syndrome]] (RDS) complicated by pulmonary air leaks who are, in the opinion of their physicians, failing on [[conventional ventilation]]. Infants of this description studied ranged in birth weight from 600 to 3660 grams and in [[gestational age]] from 24 to 38 weeks.
+
+==== Adverse effects ====
+The adverse side effects noted during the use of high-frequency ventilation include those
+commonly found during the use of conventional positive pressure ventilators. These adverse effects include:
+* [[Pneumothorax]]
+* [[Pneumopericardium]]
+* [[Pneumoperitoneum]]
+* [[Pneumomediastinum]]
+* [[Pulmonary interstitial emphysema]]
+* [[Intraventricular hemorrhage]]
+* [[Necrotizing tracheobronchitis]]
+* [[Bronchopulmonary dysplasia]]
+
+==== Contraindications ====
+High-frequency jet ventilation is contraindicated in patients requiring tracheal tubes smaller than 2.5 mm ID.
+
+==== Settings and parameters ====
+===== Peak inspiratory pressure (PIP) =====
+The peak inspiratory pressure (P<sub>IP</sub>) window displays the average P<sub>IP</sub>. During startup a P<sub>IP</sub> sample is taken with every inhalation cycle and is averaged with all other samples taken over the most recent ten-second period. After regular operation begins, samples are averaged over the most recent twenty-second period.
+
+===== ΔP (Delta P) =====
+The value displayed in the Δ<sub>P</sub> (pressure difference) window represents the difference between the P<sub>IP</sub> value and the PEEP value.
+
+:<math>\Delta p = P_{IP} - P_{EEP}</math>
+
+===== Servo pressure =====
+The servo pressure display indicates the amount of pressure the machine must generate
+internally in order to achieve the P<sub>IP</sub> appearing in the servo-display.  Its value can range from 0—20 psi (0—137.9 [[kPa]]).  If the P<sub>IP</sub> sensed or approximated at the distal tip of the tracheal tube deviates from the desired P<sub>IP</sub>, the machine automatically generates more or less internal pressure in an attempt to compensate for the change. The servo-pressure display keeps the [[respiratory therapist|operator]] informed.
+
+The servo display is a general clinical indicator of changes in the [[Pulmonary compliance|compliance]] or [[Airway resistance|resistance]] of the patient's lungs, as well as loss of lung volume due to tension [[pneumothorax]].
+
+===High frequency percussive ventilation===
+'''HFPV''' — High frequency percussive ventilation combines HFV plus time cycled, pressure-limited controlled mechanical ventilation (i.e., pressure control ventilation, PCV).
+
+===High frequency positive pressure ventilation===
+'''HFPPV''' — High frequency positive pressure ventilation is rarely used anymore, having been replaced by high frequency jet, oscillatory and percussive types of ventilation. HFPPV is delivered through the [[endotracheal tube]] using a conventional ventilator whose frequency is set near its upper limits.  HFPV began to be used in selected centres in the 1980s. It is a hybrid of conventional [[mechanical ventilation]] and high-frequency oscillatory ventilation.  It has been used to salvage patients with persistent [[hypoxemia]] when on conventional mechanical ventilation or, in some cases, used as a primary modality of ventilatory support from the start.<ref name="pmid16860628">{{cite journal |author=Eastman A, Holland D, Higgins J, Smith B, Delagarza J, Olson C, Brakenridge S, Foteh K, Friese R |title=High-frequency percussive ventilation improves oxygenation in trauma patients with acute respiratory distress syndrome: a retrospective review |journal=American Journal of Surgery |volume=192 |issue=2 |pages=191–5 |year=2006 |month=August |pmid=16860628 |doi=10.1016/j.amjsurg.2006.01.021 |url=http://linkinghub.elsevier.com/retrieve/pii/S0002-9610(06)00052-3 |accessdate=2009-06-04}}</ref><ref name="pmid">{{cite journal |author=Rimensberger PC |title=ICU cornerstone: high frequency ventilation is here to stay |journal=Critical Care (London, England) |volume=7 |issue=5 |pages=342–4 |year=2003 |month=October |pmid=12974963 |pmc=270713 |doi=10.1186/cc2327 |url=http://ccforum.com/content/7/5/342}}</ref>
+
+===High frequency flow interruption===
+'''HFFI''' — High Frequency Flow Interruption is similar to high frequency jet ventilation but the gas control mechanism is different. Frequently a rotating bar or ball with a small opening is placed in the path of a high pressure gas. As the bar or ball rotates and the opening lines-up with the gas flow, a small, brief pulse of gas is allowed to enter the airway. Frequencies for HFFI are typically limited to maximum of about 15 hertz.
+
+==High frequency ventilation (active)==
+'''High frequency ventilation (active)''' — HFV-A is notable for the active exhalation mechanic included.  Active exhalation means a negative pressure is applied to force volume out of the lungs.
+
+===High frequency oscillatory ventilation===
+[[Image:HFOV 3100A.jpg|thumb|Sensormedics 3100a Oscillatory ventilator]]
+[[File:Oscillator 3100A 2012 diagram.jpg|thumb|Details of a patient circuit]]
+High frequency oscillatory ventilation was first described in 1972<ref name="pmid5045565">{{cite journal| author=Lunkenheimer PP, Rafflenbeul W, Keller H, Frank I, Dickhut HH, Fuhrmann C| title=Application of transtracheal pressure oscillations as a modification of "diffusing respiration". | journal=Br J Anaesth | year= 1972 | volume= 44 | issue= 6 | pages= 627 | pmid=5045565 | doi= | pmc= | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=5045565  }} </ref> and is used in neonates and adult patient populations to reduce lung injury, or to prevent further lung injury.<ref>{{Cite journal | author = P. Fort, C. Farmer, J. Westerman, J. Johannigman, W. Beninati, S. Dolan, S. Derdak | title = High-frequency oscillatory ventilation for adult respiratory distress syndrome--a pilot study | journal = [[Critical care medicine]] | volume = 25 | issue = 6 | pages = 937—–947 | year = 1997 | month = June | pmid = 9201044 }}</ref> HFOV is characterized by high respiratory rates between 3.5 to 15 [[hertz]] (210 - 900 breaths per minute) and having both inhalation and exhalation maintained by active pressures.  The rates used vary widely depending upon patient size, age, and disease process.  In HFOV the pressure oscillates around the constant distending pressure (equivalent to mean airway pressure [MAP]) which in effect is the same as [[positive end-expiratory pressure]] (PEEP). Thus gas is pushed into the lung during inspiration, and then pulled out during expiration. HFOV generates very low tidal volumes that are generally less than the dead space of the lung.  Tidal volume is dependent on endotracheal tube size, power and frequency. Different mechanisms (direct bulk flow - convective, Taylorian dispersion, Pendelluft effect, asymmetrical velocity profiles, cardiogenic mixing and molecular diffusion) of gas transfer are believed to come into play in HFOV compared to normal mechanical ventilation. It is often used in patients who have refractory hypoxemia that cannot be corrected by normal mechanical ventilation such as is the case in the following disease processes: severe ARDS, ALI and other oxygenation diffusion issues.  In some neonatal patients HFOV may be used as the first-line ventilator due to the high susceptibility of the premature infant to lung injury from conventional ventilation.
+
+=== Breath delivery ===
+The vibrations are created by an electromagnetic valve that controls a piston. The resulting vibrations are similar to those produced by a stereo speaker. The height of the vibrational wave is the amplitude. Higher amplitudes create greater pressure fluctuations which move more gas with each vibration. The number of vibrations per minute is the frequency. One Hertz equals 60 cycles per minute. The higher amplitudes at lower frequencies will cause the greatest fluctuation in pressure and move the most gas.	
+
+Altering the % inspiratory time (T<sub>%i</sub>) changes the proportion of the time in which the vibration or sound wave is above the baseline versus below it. Increasing the % Inspiratory Time will also increase the volume of gas moved or tidal volume. Decreasing the frequency, increasing the amplitude, and increasing the % inspiratory time will all increase tidal volume and eliminate CO<sub>2</sub>. Increasing the tidal volume will also tend to increase the mean airway pressure.
+
+====Settings and measurements====
+===== Bias flow ===== 
+The bias flow controls and indicates the rate of continuous flow of humidified blended gas through the patient circuit.  The control knob is a 15-turn pneumatic valve which increases flow as it is turned.
+
+===== Mean pressure adjust ===== 
+The mean pressure adjust setting adjusts the mean airway pressure (P<sub>AW</sub>) by controlling the resistance of the airway pressure control valve.  The mean airway pressure will change and requires the mean pressure adjust to be adjusted when the following settings are changed:
+* Frequency (Hertz)
+* % Inspiratory time
+* Power and Δ<sub>p</sub> change
+* Piston centering
+
+During high frequency oscillatory ventilation (HFOV), P<sub>AW</sub> is the primary variable affecting oxygenation and is set independent of other variables on the oscillator. Because distal airway pressure changes during HFOV are minimal,<ref name="pmid2235135">{{cite journal | author = Gerstmann DR, Fouke JM, Winter DC, Taylor AF, deLemos RA | title = Proximal, tracheal, and alveolar pressures during high-frequency oscillatory ventilation in a normal rabbit model | journal = [[Pediatric Research]] | volume = 28 | issue = 4 | pages = 367–73 | year = 1990 | month = October | pmid = 2235135 | doi = | url = | issn = }}</ref><ref name="pmid18996228">{{cite journal | author = Easley RB, Lancaster CT, Fuld MK, ''et al.'' | title = Total and regional lung volume changes during high-frequency oscillatory ventilation (HFOV) of the normal lung | journal = [[Respiratory Physiology & Neurobiology]] | volume = 165 | issue = 1 | pages = 54–60 | year = 2009 | month = January | pmid = 18996228 | pmc = 2637463 | doi = 10.1016/j.resp.2008.10.010 | url = http://linkinghub.elsevier.com/retrieve/pii/S1569-9048(08)00281-4 | issn = }}</ref> the P<sub>AW</sub> during HFOV can be viewed in a manner similar to the [[Peak end-expiratory pressure|PEEP]] level in conventional ventilation.<ref name="pmid22096349">{{cite journal | author = Ono K, Koizumi T, Nakagawa R, Yoshikawa S, Otagiri T | title = Comparisons of different mean airway pressure settings during high-frequency oscillation in inflammatory response to oleic acid-induced lung injury in rabbits | journal = [[Journal of inflammation Research]] | volume = 2 | issue = | pages = 21–8 | year = 2009 | pmid = 22096349 | pmc = 3218723 | doi = | url = | issn = }}</ref> The optimal P<sub>AW</sub> can be considered as a compromise between maximal lung recruitment and minimal overdistention.
+
+===== Mean pressure limit =====
+[[File:Drawing of air movement during high frequency oscillation ventilation.png|thumb|Drawing of air movement during high frequency oscillation ventilation]]
+The mean pressure limit controls the limit above which proximal P<sub>AW</sub> cannot be increased by setting the control pressure of the pressure limit valve.  The mean pressure limit range is 10-45 cmH<sub>2</sub>O.
+
+===== ΔP and amplitude=====
+[[File:HFOV Tidal volume versus power setting.jpg|thumb|Tidal volume versus power setting]]
+The power setting is set as amplitude to establish a measured change of pressure (ΔP).  Amplitude/Power is a setting which determines the amount of power that is driving the oscillator piston forward and backward resulting in an air volume ([[tidal volume]]) displacement.  The effect of the amplitude on the ΔP that it is changed by the displacement of the oscillator piston and hence the oscillatory pressure (ΔP).  The power setting interacts with P<sub>AW</sub> conditions existing within the patient circuit to produce the resulting ΔP.
+
+===== % Inspiratory time =====
+The percent of inspiratory time is a setting which determines the percent of cycle time the piston is traveling toward (or at its final inspiratory position).  The inspiratory percent range is 30—50%.
+
+===== Frequency =====
+[[File:HFOV Tidal volume versus frequency hz.jpg|thumb|Tidal volume versus frequency in Hertz]]
+The frequency setting is measured in hertz (hz).  The control knob is a 10-turn clockwise-increasing potentiometer covering a range of 3 Hz to 15 Hz.  The set frequency is displayed on a digital meter on the face of the ventilator.  One Hertz is (-/+5%) equal to 1 breath per second, or 60 breaths per minute (e.g, 10 Hz = 600 breaths per minute).  Changes in
+frequency are inversely proportional to the amplitude and thus delivered [[tidal volume]].
+
+;Breaths per minute (f):
+:<math>f = Hz \cdot 60_{seconds}</math>
+
+===== Oscillation trough pressure =====
+Oscillation trough pressure is the pressure existing within the HFOV circuit during the ventilators negative deflection.
+:<math>OTP = MAP - (AMP/3)</math>
+
+== Adverse effects ==
+The adverse side effects noted during the use of high-frequency ventilation include those
+commonly found during the use of conventional positive pressure ventilators. These adverse effects include:
+* [[Pneumothorax]]
+* [[Pneumopericardium]]
+* [[Pneumoperitoneum]]
+* [[Pneumomediastinum]]
+* [[Pulmonary interstitial emphysema]]
+* [[Intraventricular hemorrhage]]
+* [[Necrotizing tracheobronchitis]]
+* [[Bronchopulmonary dysplasia]]
+
+== See also ==
+* [[Mechanical ventilation]]
+* [[Respiratory therapy]]
+
+== References ==
+<references/>
+{{Mechanical ventilation}}
+[[Category:Respiratory therapy]]
+[[Category:Pulmonology]]
+[[Category:Mechanical ventilation]]
+
+[[fr:Ventilation oscillatoire à haute fréquence]]

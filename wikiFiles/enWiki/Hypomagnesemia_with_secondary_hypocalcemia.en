@@ -1,0 +1,257 @@
+{{Infobox disease |
+  Name           = Hypomagnesemia with secondary hypocalcemia |
+  Image          = |
+  Caption        = |
+  DiseasesDB     = |
+  ICD10          = |
+  ICD9           = |
+  ICDO           = |
+  OMIM           = 602014 |
+  MedlinePlus    = |
+  eMedicineSubj  = |
+  eMedicineTopic = |
+  MeshID         = |
+}}
+'''Hypomagnesemia with secondary hypocalcemia''' (HSH) is an [[autosomal recessive]] genetic disorder affecting [[intestine|intestinal]] [[magnesium]] absorption. Decreased intestinal magnesium reabsorption and the resulting decrease in serum magnesium levels is believed to cause lowered [[parathyroid hormone]] (PTH) output by the [[parathyroid gland]]. This results in decreased PTH and decreased serum [[calcium]] levels (hypocalcemia). This manifests in [[convulsions]] and [[spasm]]s in early infancy which, if left untreated, can lead to [[mental retardation]] or death. HSH is caused by mutations in the [[TRPM6]] gene.
+
+==Diagnosis==
+Diagnosis typically occurs during the first 6 months of life due to characteristic neurological symptoms. These symptoms include [[muscle spasm]]s, [[tetany]], and [[seizure]]s. Laboratory testing indicates hypomagnesemia (decreased serum magnesium levels), hypocalcemia (decreased serum calcium levels), and little to no measurable [[parathyroid hormone]] levels. Diagnosis is confirmed with these symptoms and can be further solidified with genetic [[sequencing]] of the TRPM6 gene.
+
+==Pathophysiology==
+HSH is caused by decreased intestinal magnesium reabsorption through TRPM6 channels. When expressed in cells, TRPM6 produces outwardly rectifying currents with the outward portion composed of [[sodium|Na<sup>+</sup>]] ions and the inward portion of divalent cations (particularly magnesium and calcium). Inward flow of sodium ions is blocked by extracellular divalent cations. Increased intracellular magnesium concentrations also decrease current through TRPM6 channels. There are currently more than 30 known mutations in TRPM6 that are associated with HSH and these mutations are spreading throughout the gene (table 1). Of the eight HSH mutations that have been tested, none have shown to produce whole-cell current. The S141L mutation, one of the few missense mutations, has been of particular interest to researchers. They have found that it prevents coassembly with TRPM7 (and presumably other TRPM6 subunits) and lacks the ability to traffic to the membrane. Whether other mutants are able to traffic properly to the surface or coassemble has not yet been further studied.
+
+While the hypomagnesemia in patients with HSH is a direct result of TRPM6 mutations, hypocalcemia is an indirect, secondary result. [[Parathyroid gland]] secretion of [[parathyroid hormone|PTH]] can be altered by changes in serum magnesium levels. The decreased serum magnesium levels seen in HSH result in decreased PTH secretion. PTH, in turn, controls the availability of serum calcium. Decreasing PTH levels cause a decrease in calcium availability in serum and, thus, the neurological symptoms of HSH.
+
+{| class="wikitable"
+|+'''Table 1.''' TRPM6 mutations associated with hypomagnesemia with secondary hypocalcemia
+! colspan="2" | Mutation
+! rowspan="2" style="vertical-align:bottom;" | Location
+! rowspan="2" style="vertical-align:bottom;" | Functional?
+! rowspan="2" style="vertical-align:bottom;" | Reference
+|-
+![[Nucleotide]]
+![[Amino Acid]]
+|-
+!c.C166T
+!R56X
+|N-terminus
+|
+|<ref name="Walder_2002">{{cite journal | author = Walder R, Landau D, Meyer P, Shalev H, Tsolia M, Borochowitz Z, Boettger M, Beck G, Englehardt R, Carmi R, Sheffield V | title = Mutation of TRPM6 causes familial hypomagnesemia with secondary hypocalcemia. | journal = Nat Genet | volume = 31 | issue = 2 | pages = 171–4 | year = 2002 | pmid = 12032570 | doi = 10.1038/ng901}}</ref>
+|-
+!c.C422T
+!S141L
+|N-terminus
+|style="background: red;" | No
+|<ref name="Schlingmann_2002">{{cite journal | author = Schlingmann K, Weber S, Peters M, Niemann Nejsum L, Vitzthum H, Klingel K, Kratz M, Haddad E, Ristoff E, Dinour D, Syrrou M, Nielsen S, Sassen M, Waldegger S, Seyberth H, Konrad M | title = Hypomagnesemia with secondary hypocalcemia is caused by mutations in TRPM6, a new member of the TRPM gene family. | journal = Nat Genet | volume = 31 | issue = 2 | pages = 166–70 | year = 2002 | pmid = 12032568 | doi = 10.1038/ng889}}</ref><sup>,</sup><ref name="Chubanov_2004">{{cite journal | author = Chubanov V, Waldegger S, Mederos y Schnitzler M, Vitzthum H, Sassen M, Seyberth H, Konrad M, Gudermann T | title = Disruption of TRPM6/TRPM7 complex formation by a mutation in the TRPM6 gene causes hypomagnesemia with secondary hypocalcemia | journal = Proc Natl Acad Sci USA | volume = 101 | issue = 9 | pages = 2894–9 | year = 2004 | pmid = 14976260 | doi = 10.1073/pnas.0305252101 | pmc = 365716}}</ref><sup>,</sup><ref name="Schlingmann_2005">{{cite journal | author = Schlingmann K, Sassen M, Weber S, Pechmann U, Kusch K, Pelken L, Lotan D, Syrrou M, Prebble J, Cole D, Metzger D, Rahman S, Tajima T, Shu S, Waldegger S, Seyberth H, Konrad M | title = Novel TRPM6 mutations in 21 families with primary hypomagnesemia and secondary hypocalcemia | journal = J Am Soc Nephrol | volume = 16 | issue = 10 | pages = 3061–9 | year = 2005 | pmid = 16107578 | doi = 10.1681/ASN.2004110989}}</ref><sup>,</sup><ref name="Li_2006">{{cite journal | author = Li M, Jiang J, Yue L | title = Functional Characterization of Homo- and Heteromeric Channel Kinases TRPM6 and TRPM7 | journal = J Gen Physiol | volume = 127 | issue = 5 | pages = 525–37 | year = 2006 | pmid = 16636202 | doi = 10.1085/jgp.200609502 | pmc = 2151519}}</ref>
+|-
+!c.G469T
+!E157X
+|N-terminus
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!c.T521G
+!I174R
+|N-terminus
+|
+|<ref name="Jalkanen_2006">{{cite journal | author = Jalkanen R, Pronicka E, Tyynismaa H, Hanauer A, Walder R, Alitalo T | title = Genetic background of HSH in three Polish families and a patient with an X;9 translocation | journal = Eur J Hum Genet | volume = 14 | issue = 1 | pages = 55–62 | year = 2006 | pmid = 16267500 | doi = 10.1038/sj.ejhg.5201515}}</ref>
+|-
+!c.668delA
+!D223fsX263
+|N-terminus
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!c.1010+5G→C
+!Splicing
+|N-terminus
+|
+|<ref name="Walder_2002"/>
+|-
+!c.A1060C
+!T354P
+|N-terminus
+|
+|<ref name="Jalkanen_2006"/>
+|-
+!c.1134+5G→A
+!Splicing
+|N-terminus
+|
+|<ref name="Jalkanen_2006"/>
+|-
+!c.1208-1G→A
+!Splicing
+|N-terminus
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!c.1280delA
+!H427fsX429
+|N-terminus
+|style="background: red;" | No
+|<ref name="Schlingmann_2002"/><sup>,</sup><ref name="Schlingmann_2005"/>
+|-
+!c.1308+1G→A
+!Splicing
+|N-terminus
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!c.C1437A
+!Y479X
+|N-terminus
+|
+|<ref name="Jalkanen_2006"/>
+|-
+!c.C1450T
+!R484X
+|N-terminus
+|
+|<ref name="Walder_2002"/>
+|-
+!c.C1769G
+!S590X
+|N-terminus
+| style="background: red;" | No
+|<ref name="Schlingmann_2002"/><sup>,</sup><ref name="Schlingmann_2005"/><sup>,</sup><ref name="Voets_2004">{{cite journal | author = Voets T, Nilius B, Hoefs S, van der Kemp A, Droogmans G, Bindels R, Hoenderop J | title = TRPM6 forms the Mg2+ influx channel involved in intestinal and renal Mg2+ absorption | journal = J Biol Chem | volume = 279 | issue = 1 | pages = 19–25 | year = 2004 | pmid = 14576148 | doi = 10.1074/jbc.M311201200}}</ref>
+|-
+!c.del1796-1797
+!P599fsX609
+|N-terminus
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!c.2009+1G→A
+!Splicing
+|N-terminus
+|
+|<ref name="Walder_2002"/><sup>,</sup><ref name="Jalkanen_2006"/>
+|-
+!c.G2120A
+!C707Y
+|N-terminus
+|
+|<ref name="Jalkanen_2006"/>
+|-
+!c.2207delG
+!R736fsX737
+|N-terminus
+| style="background: red;" | No
+|<ref name="Schlingmann_2002"/><sup>,</sup><ref name="Schlingmann_2005"/><sup>,</sup><ref name="Voets_2004"/>
+|-
+!c.2537-2A→T
+!Splicing
+|N-terminus
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!c.2667+1G→A
+!Splicing
+|
+|
+|<ref name="Schlingmann_2002"/><sup>,</sup><ref name="Schlingmann_2005"/>
+|-
+!c.C2782T
+!R928X
+|M3
+|style="background: red;" | No
+|<ref name="Schlingmann_2005"/>
+|-
+!c.del Ex 21
+!
+|M4
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!c.Del2831-2832insG
+!I944fsX959
+|M4-M5
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!c.3209-68A→G
+!Splicing
+|
+|
+|<ref name="Walder_2002"/>
+|-
+!c.del Ex 22 + 23
+!
+|M5-6
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!C.3537-1G→A
+!Splicing
+|
+|
+|<ref name="Schlingmann_2002"/><sup>,</sup><ref name="Schlingmann_2005"/>
+|-
+!c.3779-91del
+!Q1260fsX1283
+|C-terminus
+|
+|<ref name="Schlingmann_2002"/><sup>,</sup><ref name="Schlingmann_2005"/>
+|-
+!c.del Ex 25 - 27
+!
+|C-terminus
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!c.del Ex 26
+!Y1533X
+|C-terminus
+|style="background: red;" | No
+|<ref name="Schlingmann_2005"/>
+|-
+!c.5017-18delT
+!L1673fsX1675
+|C-terminus
+|style="background: red;" | No
+|<ref name="Schlingmann_2005"/>
+|-
+!c.del Ex 31 + 32
+!
+|C-terminus
+|style="background: red;" | No
+|<ref name="Schlingmann_2005"/>
+|-
+!c.5057+2T→C
+!Splicing
+|C-terminus
+|
+|<ref name="Schlingmann_2005"/>
+|-
+!c.A5775G
+!Splicing
+|C-terminus
+|
+|<ref name="Schlingmann_2005"/>
+|}
+
+==Treatment==
+Treatment of HSH involves administration of high doses of magnesium salts. These salts may be taken orally or otherwise (e.g. subcutaneously). This treatment works by increasing magnesium absorption through the non-TRPM6 mediated [[paracellular]] uptake pathways. This treatment must be continued throughout life.
+
+==History==
+HSH was originally believed to be an [[X-linked]] disorder due to the preponderance of affected males. With the finding that mutations in TRPM6 (on [[chromosome 9]]) are causative for the disorder this is no longer the case. Of recent interest, however, is the characterization of a patient with symptoms similar to HSH who has a translocation of the [[chromosome 9|chromosomes 9]] and [[X chromosome|X]].<ref name="Jalkanen_2006"/>
+
+==See also==
+*[[Bartter's syndrome]]
+*[[Gitelman syndrome]]
+*[[Hypomagnesemia]]
+*[[Hypocalcemia]]
+
+==References==
+* {{cite journal | author = Konrad M, Schlingmann K, Gudermann T | title = Insights into the molecular nature of magnesium homeostasis | journal = Am J Physiol Renal Physiol | volume = 286 | issue = 4 | pages = F599–605 | year = 2004 | pmid = 15001450 | doi = 10.1152/ajprenal.00312.2003}}
+
+==Footnotes==
+{{Reflist|2}}
+
+{{DEFAULTSORT:Hypomagnesemia With Secondary Hypocalcemia}}
+[[Category:Nephrology]]
+[[Category:Pediatrics]]
+[[Category:Channelopathy]]
+[[Category:Calcium]]
+[[Category:Magnesium]]

@@ -1,0 +1,118 @@
+The '''Anatomical Therapeutic Chemical (ATC) Classification System''' is used for the [[taxonomic classification|classification]] of [[Medication|drug]]s. It is controlled by the [[World Health Organization|WHO]] Collaborating Centre for Drug Statistics Methodology (WHOCC), and was first published in 1976.<ref>{{cite web|url=http://www.whocc.no/atc_ddd_methodology/history/|publisher=WHO Collaborating Centre for Drug Statistics Methodology|title=ATC/DDD Methodology: History}}</ref>
+
+This [[Pharmaceutical codes|pharmaceutical coding system]] divides drugs into different groups according to the organ or system on which they act and/or their [[medicine|therapeutic]] and [[chemical classification|chemical characteristics]]. Each bottom-level ATC code stands for a pharmaceutically used substance, or a combination of substances, in a single indication (or use). This means that one drug can have more than one code: [[acetylsalicylic acid]] (aspirin), for example, has {{ATC|A01|AD05}} as a drug for local [[mouth|oral]] treatment, {{ATC|B01|AC06}} as a [[platelet inhibitor]], and {{ATC|N02|BA01}} as an [[analgesic]] and [[antipyretic]]. On the other hand, several different brands share the same code if they have the same active substance and indications.
+
+== Classification ==
+In this system, drugs are classified into groups at 5 different levels:<ref>{{cite web|url=http://www.whocc.no/atc/structure_and_principles/|publisher=WHO Collaborating Centre for Drug Statistics Methodology|title=ATC: Structure and principles}}</ref>
+
+=== First level ===
+The first level of the code indicates the anatomical main group and consists of one letter. There are 14 main groups:<ref>{{cite web|url=http://www.whocc.no/atc_ddd_index/|publisher=WHO Collaborating Centre for Drug Statistics Methodology|title=ATC/DDD Index}}</ref>
+
+{| class="wikitable"
+|-
+!Code
+!Contents
+|- style="background:#fd6"
+| '''[[ATC code A|A]]'''
+| [[Alimentary tract]] and [[metabolism]]
+|- style="background:MistyRose"
+| '''[[ATC code B|B]]'''
+| [[Blood]] and [[haematopoiesis|blood forming organs]]
+|- style="background:MistyRose"
+| '''[[ATC code C|C]]'''
+| [[Cardiovascular system]]
+|- style="background:Linen"
+| '''[[ATC code D|D]]'''
+| [[Dermatological]]s
+|- style="background:#beb"
+| '''[[ATC code G|G]]'''
+| [[Genito-urinary system]] and [[sex hormone]]s
+|- style="background:#efefef"
+| '''[[ATC code H|H]]'''
+| Systemic [[hormonal]] preparations, excluding sex hormones and insulins
+|- style="background:PowderBlue"
+| '''[[ATC code J|J]]'''
+| [[Antiinfective]]s for systemic use
+|- style="background:Plum"
+| '''[[ATC code L|L]]'''
+| [[Antineoplastic]] and [[immunomodulator|immunomodulating]] agents
+|- style="background:Linen"
+| '''[[ATC code M|M]]'''
+| [[Musculo-skeletal system]]
+|- style="background:LightYellow"
+| '''[[ATC code N|N]]'''
+| [[Nervous system]]
+|- style="background:PowderBlue"
+| '''[[ATC code P|P]]'''
+| [[Antiparasitic]] products, [[insecticide]]s and [[insect repellent|repellent]]s
+|- style="background:MistyRose"
+| '''[[ATC code R|R]]'''
+| [[Respiratory system]]
+|- style="background:LightYellow"
+| '''[[ATC code S|S]]'''
+| [[Sensory organ]]s
+|- style="background:#ccf"
+| '''[[ATC code V|V]]'''
+| Various
+|}
+
+=== Second level ===
+The second level of the code indicates the therapeutic main group and consists of two digits.
+
+''Example'': [[ATC code C03|C'''03''']] [[Diuretic]]s
+
+=== Third level ===
+The third level of the code indicates the therapeutic/pharmacological subgroup and consists of one letter.
+
+''Example'': C03'''C''' High-ceiling diuretics
+
+=== Fourth level ===
+The fourth level of the code indicates the chemical/therapeutic/pharmacological subgroup and consists of one letter.
+
+''Example'': C03C'''A''' [[Sulfonamide (medicine)|Sulfonamide]]s
+
+=== Fifth level ===
+The fifth level of the code indicates the chemical substance and consists of two digits.
+
+''Example'': C03CA'''01''' [[Furosemide]]
+
+=== ATCvet ===
+The ''Anatomical Therapeutic Chemical Classification System for veterinary medicinal products'' (ATCvet) is used to classify [[veterinary]] drugs. ATCvet codes can be created by placing the letter Q in front of the ATC code of most human medications. For example, furosemide for veterinary use has the code '''Q'''C03CA01.
+
+Some codes are used exclusively for veterinary drugs, such as ''[[ATCvet code QI|QI]] Immunologicals'', ''[[ATCvet code QJ51|QJ51]] Antibacterials for intramammary use'' or ''QN05AX90 [[amperozide]]''.<ref>{{cite web|url=http://www.whocc.no/atcvet/atcvet_classification_system/general_principles/|publisher=WHO Collaborating Centre for Drug Statistics Methodology|title=ATCvet classification system: General principles}}</ref>
+
+== Defined daily dose ==
+{{main|Defined daily dose}}
+The ATC system also includes defined daily doses (DDDs) for many drugs. This is a measurement of drug consumption based on the usual daily dose for a given drug. According to the definition, "[t]he DDD is the assumed average maintenance dose per day for a drug used for its main indication in adults."<ref>{{cite web|url=http://www.whocc.no/ddd/definition_and_general_considera/|publisher=WHO Collaborating Centre for Drug Statistics Methodology|title=DDD: Definition and general considerations}}</ref>
+
+==National adaptations==
+National issues of the ATC classification, such as the [[Germany|German]] ''Anatomisch-therapeutisch-chemische Klassifikation mit Tagesdosen'', may include additional codes and DDDs not present in the WHO version.<ref>{{cite web|url=http://www.dimdi.de/static/de/klassi/atcddd/atc-gesetze.htm|publisher=Deutsches Institut für Medizinische Dokumentation und Information|title=ATC-Klassifikation mit DDD: Gesetzlicher Hintergrund|language=German}}</ref>
+
+== See also ==
+* [[Classification of Pharmaco-Therapeutic Referrals]] (CPR)
+* [[Family medicine]] / [[Family practice]]
+* [[General practice]]
+* [[ICD-10]] International Classification of Diseases
+* [[International Classification of Primary Care]] (ICPC-2) / [[ICPC-2 PLUS]]
+*[[Medical classification]]
+* [[Pharmaceutical care]]
+* [[Pharmacist]] / [[Pharmacy]]
+* [[Pharmacotherapy]]
+* [[Primary care]]
+* [[Referral (medicine)]]
+* [[RxNorm]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{cite web|url=http://www.whocc.no/|title= WHOCC Homepage|publisher=WHO Collaborating Centre for Drug Statistics Methodology}}
+* {{cite web|url=http://sydney.edu.au/medicine/fmrc/atc/|title=ATC: Introduction|publisher=Family Medicine Research Centre, [[University of Sydney]]}}
+
+{{Major Drug Groups}}
+{{Medical classification}}
+
+[[Category:Drugs]]
+[[Category:ATC codes| ]]
+[[Category:Drugs by target organ system| ]]
+[[Category:Pharmacological classification systems]]

@@ -1,0 +1,96 @@
+{{DISPLAYTITLE:''N''-Methyl-<small>D</small>-aspartic acid}}
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 312363528
+| Name = ''N''-Methyl-<small>D</small>-aspartic acid
+| ImageFile = NMDA.svg
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageSize = 160
+| ImageName = Stereo, skeletal formula of N-methyl-D-aspartic acid
+| ImageFile1 = NMDA2.png
+| ImageFile1_Ref = {{chemboximage|correct|??}}
+| ImageSize1 = 160
+| ImageName1 = Ball and stick model of N-methyl-D-aspartic acid
+| ImageFile2 = NMDA spacefill.png
+| ImageFile2_Ref = {{chemboximage|correct|??}}
+| ImageSize2 = 160
+| ImageName2 = Spacefill model of N-methyl-D-aspartic acid
+| IUPACName = (2''R'')-2-(Methylamino)butanedioic acid<ref>{{cite web|title=N-Methylaspartate - Compound Summary|url=http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=22880&loc=ec_rcs|work=PubChem Compound|publisher=National Center for Biotechnology Information|accessdate=9 January 2012|location=USA|date=24 June 2005|at=Identification}}</ref>
+| OtherNames = ''N''-Methylaspartate; ''N''-Methyl-<small>D</small>-aspartate; NMDA
+| Section1 = {{chembox Identifiers
+|  CASNo = 6384-92-5
+|  CASNo_Ref = {{cascite|correct|??}}
+|  PubChem = 22880
+|  PubChem_Ref = {{pubchemcite|correct|pubchem}}
+|  ChemSpiderID = 21436
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+|  KEGG = C12269
+|  KEGG_Ref = {{keggcite|correct|kegg}}
+|  MeSHName = N-Methylaspartate
+|  ChEBI = 31882
+|  ChEBI_Ref = {{ebicite|correct|EBI}}
+|  ChEMBL = 291278
+|  ChEMBL_Ref = {{ebicite|correct|EBI}}
+|  RTECS = CI9457000
+|  Beilstein = 1724431
+|  SMILES = CN[C@H](Cc(:[o]):[o])c(:[o]):[o]
+|  SMILES1 = CN[C@H](CC(O)=O)C(O)=O
+|  StdInChI = 1 S/C5H9NO4/c1-6-3(5(9)10)2-4(7)8/h3,6H,2H2,1H3,(H,7,8)(H,9,10)/t3-/m1/s1
+|  StdInChI_Ref = {{chemspidercite|correct|chemspider}}
+|  StdInChIKey = HOKKHZGPKSLGJE-GSVOUGTGSA-N
+|  StdInChI_Ref = {{chemspidercite|correct|chemspider}}
+}}
+| Section2 = {{chembox Properties
+|  C = 5
+|  H = 9
+|  N = 1
+|  O = 4
+|  Appearance = White, opaque crystals
+|  Odor = Odorless
+|  MeltingPtCL = 189
+|  MeltingPtCH = 190
+|  LogP = 1.39
+|  pKa = 2.206
+|  pKb = 11.791
+}}
+| Section3 = {{chembox Hazards
+|  SPhrases = {{S22}}, {{S24/25}}
+|  LD50 = 137 mg kg<sup>−1</sup> (intraperitoneal, mouse)
+}}
+| Section4 = {{chembox Related
+|  Function = amino acid derivatives
+|  OtherFunctn = {{unbulleted list|[[Sarcosine]]|[[Dimethylglycine]]|[[beta-Methylamino-L-alanine|''beta''-Methylamine-<small>L</small>-alanine]]}}
+|  OtherCpds = [[Dimethylacetamide]]
+}}
+}}
+
+'''''N''-Methyl-<small>D</small>-aspartic acid''' or '''''N''-Methyl-<small>D</small>-aspartate''' ('''NMDA''') is an [[amino acid]] derivative which acts as a specific [[agonist]] at the [[NMDA receptor]] mimicking the action of [[glutamate]], the [[neurotransmitter]] which normally acts at that receptor. Unlike glutamate, NMDA only binds to and regulates the NMDA receptor and has no effect on other glutamate receptors (such as those for [[AMPA]] and [[kainate]]).  NMDA receptors are particularly important when they become overactive during [[withdrawal]] from [[alcohol]] as this causes symptoms such as [[Psychomotor agitation|agitation]] and, sometimes, epileptiform [[seizures]].
+
+==Biological function==
+NMDA is a water-soluble synthetic substance that is not normally found in biological tissue. It was first synthesized in 1960s. NMDA is an [[excitotoxin]] (it kills nerve cells by over-exciting them); this trait has applications in behavioral neuroscience research. The body of work utilizing this technique falls under the term "lesion studies." Researchers apply NMDA to specific regions of an (animal) subject's brain or spinal cord and subsequently test for the behavior of interest, such as [[Operant conditioning|operant behavior]]. If the behavior is compromised, it suggests the destroyed tissue was part of a brain region that made an important contribution to the normal expression of that behavior.
+
+However, in lower quantities NMDA is not neurotoxic. In fact, normal operation of the NMDA receptor allows individuals to respond to excitatory stimuli through the interrelated functioning of NMDA receptors, glutamate, and dopamine.
+
+Therefore the action of [[glutamate]] specifically through NMDA receptors can be investigated by injecting small quantities of NMDA into a certain region in the brain: for example, injection of NMDA in a [[brainstem]] region induces involuntary [[animal locomotion|locomotion]] in cats and rats.
+
+The mechanism of stimulating NMDA receptor is a specific agonist-binding to its NR2 subunits, and then a non-specific cation channel is opened, which can allow the passage of Ca<sup>2+</sup> and Na<sup>+</sup> into the cell and K<sup>+</sup> out of the cell. The [[excitatory postsynaptic potential]] (EPSP) produced by activation of an NMDA receptor also increases the concentration of Ca<sup>2+</sup> in the cell. The Ca<sup>2+</sup> can in turn function as a second messenger in various signaling pathways.<ref>{{cite journal|last=Dingledine|first=R|coauthors=Borges K|title=The glutamate receptor ion channels|journal=Pharmacol Rev.|year=1999|month=Mar|volume=51|issue=1|pages=7–61|pmid=10049997}}</ref><ref>{{cite journal|last=Liu|first=Y|coauthors=Zhang J|title=Recent development in NMDA receptors|journal=Chin Med J (Engl)|year=2000|month=Oct|volume=113|issue=10|pages=948–56|pmid=11775847}}</ref><ref>{{cite journal|last=Cull-Candy|first=S|coauthors=Brickley S|title=NMDA receptor subunits: diversity, development and disease|journal=Curr Opin Neurobiol.|year=2001|month=Jun|volume=11|issue=3|pages=327–35|pmid=11399431|doi=10.1016/S0959-4388(00)00215-4}}</ref><ref>{{cite journal|last=Paoletti|first=P|coauthors=Neyton J|title=NMDA receptor subunits: function and pharmacology|journal=Curr Opin Pharmacol.|year=2007|month=Feb|volume=7|issue=1|pages=39–47|pmid=17088105|doi=10.1016/j.coph.2006.08.011}}</ref> This process is modulated by a number of endogenous and exogenous compounds and play a key role in a wide range of physiological (e.g. memory) and pathological processes (e.g. excitotoxicity).
+[[File:Activated NMDAR.svg|thumb|left|NMDA receptor activated]]{{clear-left}}
+
+==Antagonists==
+{{main|NMDA receptor antagonist}}
+
+Examples of [[Receptor antagonist|antagonists]] of the NMDA receptor are [[APV (NMDAR antagonist)|APV]], [[Amantadine]], [[dextromethorphan]] (DXM), [[ketamine]], [[phencyclidine]] (PCP), [[riluzole]], [[memantine]], and [[kynurenic acid]]; the latter is the only known endogenous antagonist. They are commonly referred to as [[NMDA receptor antagonist]]s.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{citation | first1 = Jeffrey C. | last1 = Watkins | first2 = David E. | last2 = Jane | title = The glutamate story | journal = Br. J. Pharmacol. | volume = 147 | issue = Suppl.&nbsp;1 | pages = S100–8 | year = 2006 | pmid = 16402093 | doi = 10.1038/sj.bjp.0706444 | pmc=1760733}}
+* {{citation | first1 = Mathias-Costa | last1 = Blaise | first2 = Ramanathan | last2 = Sowdhamini | first3 = Metpally Raghu Prasad | last3 = Rao | first4 = Nithyananda | last4 = Pradhan | title = Evolutionary trace analysis of ionotropic glutamate receptor sequences and modeling the interactions of agonists with different NMDA receptor subunits | journal = J. Mol. Model. | year = 2004 | volume=10 | issue = 5-6 | pages=305–16 | doi = 10.1007/s00894-004-0196-7 | pmid=15597199}}
+
+{{glutamate_receptor_ligands}}
+
+{{DEFAULTSORT:Methyl-D-Aspartic Acid, N-}}
+[[Category:Neurotransmitters]]
+[[Category:Dicarboxylic acids]]
+[[Category:Amino acid derivatives]]

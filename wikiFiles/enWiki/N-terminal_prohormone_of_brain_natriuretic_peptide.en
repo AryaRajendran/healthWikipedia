@@ -1,0 +1,74 @@
+{{protein
+| Name = [[Brain natriuretic peptide|natriuretic peptide B]]
+| caption = 
+| image = 
+| width = 
+| HGNCid = 7940
+| Symbol = [[Brain natriuretic peptide|NPPB]]
+| AltSymbols = 
+| EntrezGene = 4879
+| OMIM = 600295
+| RefSeq = NM_002521
+| UniProt = P16860
+| PDB = 
+| ECnumber = 
+| Chromosome = 1
+| Arm = p
+| Band = 36.2
+| LocusSupplementaryData = 
+}}
+The '''N-terminal prohormone of brain natriuretic peptide''' ('''NT-proBNP''') is a 76 amino acid [[N-terminal]] fragment of [[brain natriuretic peptide]].
+
+Both BNP and NT-proBNP levels in the blood are used for screening, diagnosis of acute [[congestive heart failure]] (CHF) and may be useful to establish prognosis in heart failure, as both markers are typically higher in patients with worse outcome.<ref name="pmid14872150">{{cite journal | author = Bhalla V, Willis S, Maisel AS | title = B-type natriuretic peptide: the level and the drug--partners in the diagnosis of congestive heart failure | journal = Congest Heart Fail | volume = 10 | issue = 1 Suppl 1 | pages = 3–27 | year = 2004 | pmid = 14872150 | doi = 10.1111/j.1527-5299.2004.03310.x }}</ref> The plasma concentrations of both BNP and NT-proBNP are also typically increased in patients with asymptomatic or symptomatic left ventricular dysfunction and is associated with coronary artery diasese and myocardial ischemia. <ref name="pmid15389242">{{cite journal | author = Atisha D, Bhalla MA, Morrison LK, Felicio L, Clopton P, Gardetto N, Kazanegra R, Chiu A, Maisel AS | title = A prospective study in search of an optimal B-natriuretic peptide level to screen patients for cardiac dysfunction | journal = Am. Heart J. | volume = 148 | issue = 3 | pages = 518–23 | year = 2004 | month = September | pmid = 15389242 | doi = 10.1016/j.ahj.2004.03.014 }}</ref><ref name="pmid12020494">{{cite journal | author = Nakamura T, Sakamoto K, Yamano T, Kikkawa M, Zen K, Hikosaka T, Kubota T, Azuma A, Nishimura T | title = Increased plasma brain natriuretic peptide level as a guide for silent myocardial ischemia in patients with non-obstructive hypertrophic cardiomyopathy | journal = J. Am. Coll. Cardiol. | volume = 39 | issue = 10 | pages = 1657–63 | year = 2002 | month = May | pmid = 12020494 | doi = }}</ref><ref name="pmid10995414">{{cite journal | author = Talwar S, Squire IB, Downie PF, Davies JE, Ng LL | title = Plasma N terminal pro-brain natriuretic peptide and cardiotrophin 1 are raised in unstable angina | journal = Heart | volume = 84 | issue = 4 | pages = 421–4 | year = 2000 | month = October | pmid = 10995414 | pmc = 1729429 | doi =  }}</ref><ref name="pmid17062957">{{cite journal | author = Kim H, Yang DH, Park Y, Han J, Lee H, Kang H, Park HS, Cho Y, Chae SC, Jun JE, Park WH | title = Incremental prognostic value of C-reactive protein and N-terminal proB-type natriuretic peptide in acute coronary syndrome | journal = Circ. J. | volume = 70 | issue = 11 | pages = 1379–84 | year = 2006 | month = November | pmid = 17062957 | doi = }}</ref><ref name="pmid23070682">{{cite journal | author = Ruwald MH, Goetze JP, Bech J, Nielsen OW, Madsen BK, Nielsen LB, Mouridsen M, Ruwald AC, Madsen JK, Pedersen S | title = NT-ProBNP Independently Predicts Long-Term Mortality in Patients Admitted for Coronary Angiography | journal = Angiology | volume = | issue = | pages = | year = 2012 | month = October | pmid = 23070682 | doi = 10.1177/0003319712462758 }}</ref>
+{{-}}
+==Blood levels==
+{|class="wikitable" align="right"
+ !colspan=4| '''[[Reference ranges for blood tests#Interpretation|Upper limit (95th percentile) of blood ranges]]<br> for NT-proBNP in healthy people'''
+ |-
+ ! Sex !! Age !! Limit <br>in [[Mass concentration (chemistry)|pg/mL]]
+ |-
+ |rowspan=5| Male || < 45 yrs || 90<ref name=uiowa>[http://www.medicine.uiowa.edu/path_handbook/handbook/test2621.html The University of Iowa (UIHC) > Department of Pathology > LABORATORY SERVICES HANDBOOK > N-terminal-pro-BNP] Showing 95th percentiles. Epic Lab Code: LAB649. Updated: 10/27/2009</ref>
+ |-
+ | 45-59 yrs || 140<ref name=uiowa/>
+ |-
+ | 55-64 yrs || 180<ref name=uiowa/>
+ |-
+ | 65-74 yrs || 230<ref name=uiowa/>
+ |-
+ | > 75 yrs || 850<ref name=uiowa/>
+ |-
+ |rowspan=5| Females || < 45 yrs || 180<ref name=uiowa/>
+ |-
+ | 45-54 yrs || 190<ref name=uiowa/>
+ |-
+ | 55-64 yrs || 230<ref name=uiowa/>
+ |-
+ | 65-74 yrs || 350<ref name=uiowa/>
+ |-
+ | > 75 yrs || 620<ref name=uiowa/>
+ |}
+{|class="wikitable" align="left"
+! Interpretation !! Age !! Range
+|-
+|rowspan=2| [[Congestive heart failure]] likely || [[less than|<]]75years || [[more than|>]] 125 pg/mL<ref name="Lee_2009">{{cite book | author = Lee MA | title = Basic Skills in Interpreting Laboratory Data | publisher = Amer Soc of Health System | location = | year = 2009 | pages = | isbn = 1-58528-180-8 | url = http://books.google.se/books?id=AUSIRcV_as0C&pg=PA220 | page = 220 }}</ref>
+|-
+| >75 years || >450pg/mL<ref name="Lee_2009"/>
+|}
+There is no level of BNP that perfectly separates patients with and without heart failure.<ref name="pmid12124404">{{cite journal | author = Maisel AS, Krishnaswamy P, Nowak RM, McCord J, Hollander JE, Duc P, Omland T, Storrow AB, Abraham WT, Wu AH, Clopton P, Steg PG, Westheim A, Knudsen CW, Perez A, Kazanegra R, Herrmann HC, McCullough PA | title = Rapid measurement of B-type natriuretic peptide in the emergency diagnosis of heart failure | journal = N. Engl. J. Med. | volume = 347 | issue = 3 | pages = 161–7 | year = 2002 | month = July | pmid = 12124404 | doi = 10.1056/NEJMoa020233 }}</ref> 
+
+In screening for [[congenital heart disease]] in pediatric patients, an NT-proBNP cut-off value of 91 pg/mL could differentiate an [[acyanotic heart disease]] (ACNHD) patient from a healthy patient with a [[sensitivity and specificity|sensitivity]] of 84% and [[sensitivity and specificity|specificity]] of 42%.<ref name=Moses2011/> On the other hand, an NT-proBNP cut-off value of 318 pg/mL is more appropriate in differing patients with [[congenital nonspherocytic hemolytic disease]] (CNHD) from healthy patients, with 94% sensitivity and 97% specificity.<ref name=Moses2011/> An NT-proBNP value of 408 pg/mL has been estimated to be 83% sensitive and 57% specific in differentiating patients with ACNHD from patients with CNHD<ref name=Moses2011>{{cite journal | author = Moses EJ, Mokhtar SAI, Hamzah A, Abdullah BS, Yusoff NM | title = Usefulness of N-Terminal-Pro-B-Type Natriuretic Peptide as a Screening Tool for Identifying Pediatric Patients With Congenital Heart Disease | journal = Laboratory Medicine | year=2011 | volume = 42 | issue = 2 | pages = 75–80 | doi = 10.1309/LMW0U87COTHXGELF }}</ref>
+
+==Test usage in a clinical setting==
+===Canada===
+While discussed in Canadian medical journals in the mid to late 2000's,<ref name="pmid17324304">{{cite journal | author = Murray H, Cload B, Collier CP, Sivilotti ML | title = Potential impact of N-terminal pro-BNP testing on the emergency department evaluation of acute dyspnea | journal = CJEM | volume = 8 | issue = 4 | pages = 251–8 | year = 2006 | month = July | pmid = 17324304 | doi = | url = http://www.cjem-online.ca/sites/default/files/pg251.pdf }}</ref> the test is not widely used. It was only approved for use in [[Alberta]] in February 2012.<ref name="urlB-type Natriuretic Peptide (BNP) & NT-proBNP Test Implementation">{{cite web | url = http://www.albertahealthservices.ca/6388.asp | title = B-type Natriuretic Peptide (BNP) & NT-proBNP Test Implementation | publisher = Alberta Health Services | work = | accessdate = 3 January 2013 }}</ref>
+
+==See also==
+*[[Brain natriuretic peptide]]
+
+==References==
+{{reflist}}
+
+{{medicine-stub}}
+
+[[Category:Biomarkers]]
+[[Category:Peptide hormones]]

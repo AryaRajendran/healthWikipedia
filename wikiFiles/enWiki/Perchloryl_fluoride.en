@@ -1,0 +1,102 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 476997852
+|   Name = Perchloryl fluoride
+|   ImageFileL1 = Perchloryl-fluoride-2D.png
+|   ImageSizeL1 = 120px
+|   ImageNameL1 = Perchloryl fluoride
+|   ImageFileR1 = Perchloryl-fluoride-3D-vdW.png
+|   ImageSizeR1 = 120px
+|   ImageName1 = Perchloryl fluoride
+|   IUPACName = Perchloryl fluoride
+|   OtherNames = Chlorine oxyfluoride, Perchlorofluoride, Chlorine fluorine oxide, Trioxychlorofluoride, Perchloric acid fluoride
+| Section1 = {{Chembox Identifiers
+|   SMILES = FCl(=O)(=O)=O
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 22680
+| InChI = 1/ClFO3/c2-1(3,4)5
+| InChIKey = XHFXMNZYIKFCPN-UHFFFAOYAO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/ClFO3/c2-1(3,4)5
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XHFXMNZYIKFCPN-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo = 7616-94-6
+| PubChem = 24258
+| RTECS = SD1925000
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = ClFO<sub>3<sub>
+|   MolarMass = 102.4496 g/mol
+|   Appearance = Colorless gas
+|   Odor = sweet odor
+|   Density = 1.4 g/cm<sup>3</sup>
+|   Solubility = 0.06 g/100 ml (20 °C)
+|   MeltingPtC = −147.8
+|   BoilingPtC = −46.7
+|   pKa = 
+|   pKb = 
+|   Viscosity = 3.91 x 10<sup>-3</sup> Pa.s (@ melting point)
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = Tetrahedral<ref name="emeleus1976"/>{{rp|373}}
+|   Dipole =
+  }}
+| Section4 = {{Chembox Thermochemistry
+|   DeltaHf = −5.7<ref name="emeleus1976">{{cite book | title = Advances in inorganic chemistry and radiochemistry, Volume 18 | author1 = [[Harry Julius Emeléus]] | author2 = A. G. Sharpe | publisher = Academic Press | year = 1976 | isbn = 0-12-023618-4 }}</ref>{{rp|380}}
+|   DeltaHc = 
+|   Entropy = 
+|   HeatCapacity = }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS =
+|   MainHazards = Corrosive, oxidizing, toxic
+|   FlashPt = 
+|   RPhrases = 
+|   SPhrases = 
+|   NFPA-H = 3
+|   NFPA-F = 2
+|   NFPA-R = 3
+|   NFPA-O = OX
+|   TLV = 3 ppm
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions =
+|   OtherCations =
+|   OtherCpds = 
+  }}
+}}
+'''Perchloryl fluoride'''<ref>{{cite web | url = http://webbook.nist.gov/cgi/cbook.cgi?ID=C7616946 | title = Perchloryl fluoride | author = Chemical Science and Technology Laboratory | publisher = National Institute of Standards and Technology | accessdate = 2009-11-28 }}</ref> is a reactive gas with the [[chemical formula]] {{chem|FClO|3}}. It has a characteristic sweet odor<ref name="ledgard2007"/> that resembles gasoline and kerosene. It is toxic and is a powerful [[oxidizing agent|oxidizing]] and [[fluorinating agent]]. It is the [[acid halide|acid fluoride]] of [[perchloric acid]].
+
+In spite of its small enthalpy of formation (Δ''H''<sub>f</sub><sup><s>O</s></sup> = −5.7), it is kinetically stable, decomposing only at 400&nbsp;°C.<ref name="emeleus1976"/>{{rp|380}} It is quite reactive towards reducing agents and anions, however, with the chlorine atom acting as an [[electrophile]].<ref name="emeleus1976"/>{{rp|382}} It reacts explosively with reducing agents such as [[amide]]s, metals, [[hydride]]s, etc.<ref name="ledgard2007">{{cite book | title = The Preparatory Manual of Explosives | author = Jared Ledgard | edition = 3rd | publisher = Lulu.com | year = 2007 | isbn = 0-615-14290-7 | page = 77 }}</ref>
+
+==Synthesis and chemistry==
+
+Perchloryl fluoride is produced primarily by the fluorination of [[perchlorate]]s. [[Antimony pentafluoride]] is a commonly-used fluorinating agent:<ref name="emeleus1976"/>{{rp|372-373}}
+
+:{{chem|ClO|4|-}} + 3 HF + 2 {{chem|SbF|5}} &rarr; {{chem|FClO|3}} + {{chem|H|3|O|+}} + 2 {{chem|SbF|6|-}}
+
+{{chem|FClO|3}} reacts with [[alcohol]]s to produce [[alkyl]] perchlorates, which are extremely shock-sensitive explosives.<ref name="kirsch2004"/> Using [[Friedel-Crafts catalyst]]s, it can be used for introducing the {{chem|–ClO|3}} group into aromatic rings via [[electrophilic aromatic substitution]].<ref>{{cite book | title = Electrophilic halogenation: reaction pathways involving attack by electrophilic halogens on unsaturated compounds | author = Peter Bernard David De la Mare | publisher = CUP Archive | year = 1976 | isbn = 0-521-29014-7 | page = 63 }}</ref>
+
+==Applications==
+
+Perchloryl fluoride is used in organic chemistry as a mild fluorinating agent.<ref name="emeleus1976"/>{{rp|383}} It was the first industrially-relevant [[electrophile|electrophilic]] fluorinating agent, used since the 1960s for producing fluorinated [[steroid]]s.<ref name="kirsch2004">{{cite book | title = Modern fluoroorganic chemistry: synthesis, reactivity, applications | author = Peer Kirsch | publisher = Wiley-VCH | year = 2004 | isbn = 3-527-30691-9 | page = 74 }}</ref>
+
+Perchloryl fluoride was investigated as a high performance [[liquid rocket fuel]] oxidizer.<ref name="sullivan2001">{{cite book | title = Clinical environmental health and toxic exposures | author1 = John Burke Sullivan | author2 = Gary R. Krieger | edition = 2nd | publisher = Lippincott Williams &amp; Wilkins | year = 2001 | isbn = 0-683-08027-X | page = 969 }}</ref> In comparison with [[chlorine pentafluoride]] and [[bromine pentafluoride]], it has significantly lower [[specific impulse]], but does not tend to corrode tanks. It does not require cryogenic storage.
+
+It can also be used in [[Photoelectric flame photometer|flame photometry]] as an excitation source.<ref>{{cite doi|10.1366/000370258774615483}}</ref>
+
+==Safety==
+
+Perchloryl fluoride is toxic, with a [[Threshold Limit Value|TLV]] of 3 [[Parts per million|ppm]]. It is a strong lung- and eye-irritant capable of producing burns on exposed skin. Its [[IDLH]] level is 385 ppm. Symptoms of exposure include dizziness, headaches, [[syncope (medicine)|syncope]], and [[cyanosis]]. Exposure to toxic levels causes severe respiratory tract inflammation and [[pulmonary edema]].<ref name="sullivan2001"/>
+
+==References==
+{{reflist}}
+
+{{Chlorine compounds}}
+
+{{DEFAULTSORT:Perchloryl Fluoride}}
+[[Category:Inorganic chlorine compounds]]
+[[Category:Oxohalides]]
+[[Category:Rocket oxidizers]]
+[[Category:Fluorinating agents]]
+[[Category:Perchloryl compounds]]

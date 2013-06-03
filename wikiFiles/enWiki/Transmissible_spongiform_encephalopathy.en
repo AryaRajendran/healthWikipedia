@@ -1,0 +1,366 @@
+{{Infobox disease 
+ | Name            = Transmissible spongiform encephalopathy 
+ | Image           = 
+ | Caption         = 
+ | DiseasesDB      = 25165 
+ | ICD10           = {{ICD10|A|81||a|80}} 
+ | ICD9            = {{ICD9|046}} 
+ | ICDO            = 
+ | OMIM            = 
+ | MedlinePlus     = 
+ | eMedicineSubj   = neuro 
+ | eMedicineTopic  = 662 
+ | MeshID          = D017096 
+}}
+'''Transmissible spongiform encephalopathies''' ('''TSE'''s), also known as '''prion diseases''', are a group of progressive conditions ([[encephalopathy|encephalopathies]]) that affect the [[brain]] and [[nervous system]] of many [[animal]]s, including [[human]]s. According to the most widespread hypothesis they are transmitted by [[prion]]s, though some other data suggest an involvement of a ''[[Spiroplasma]]'' infection.<ref>{{cite journal|journal=J Med Microbiol.|year=2007|volume=56|issue=9|pages=1235–1242|title=''Spiroplasma'' spp. from transmissible spongiform encephalopathy brains or ticks induce spongiform encephalopathy in ruminants |author=Bastian FO, Sanders DE, Forbes WA, Hagius SD, Walker JV, Henk WG, Enright FM, Elzer PH|pmid=17761489|doi=10.1099/jmm.0.47159-0}}</ref> Mental and physical abilities deteriorate and a myriad of tiny holes appear in the [[Cerebral cortex|cortex]] causing it to appear like a sponge (hence '''spongiform''') when brain tissue obtained at [[autopsy]] is examined under a [[microscope]]. The disorders cause impairment of brain function, including memory changes, personality changes and problems with movement that worsen over time. Prion diseases of humans include classic [[Creutzfeldt–Jakob disease]], new variant Creutzfeldt–Jakob disease (nvCJD, a human disorder related to [[Bovine spongiform encephalopathy]]), [[Gerstmann–Sträussler–Scheinker syndrome]], [[fatal familial insomnia]] and [[kuru (disease)|kuru]]. These conditions form a spectrum of diseases with overlapping signs and symptoms.
+
+Unlike other kinds of infectious disease which are spread by [[microbe]]s, the infectious agent in TSEs is a specific [[protein]] called [[prion]] protein. Misshaped prion proteins carry the disease between individuals and cause deterioration of the [[brain]]. TSEs are unique diseases in that their [[etiology (medicine)|aetiology]] may be genetic, sporadic or infectious via ingestion of infected foodstuffs and via [[Iatrogenesis|iatrogenic]] means (e.g. blood transfusion).<ref>{{cite journal | author=Brown P, Preece M, Brandel JP, Sato T, McShane L, Zerr I, Fletcher A, Will RG, Pocchiari M, Cashman NR, d'Aignaux JH, Cervenakova L, Fradkin J, Schonberger LB, Collins SJ | title=Iatrogenic Creutzfeldt-Jakob disease at the millennium | journal=Neurology | year=2000 | pages=1075–81 | volume=55 | issue=8  | pmid=11071481}}</ref> Most TSEs are sporadic and occur in an animal with no prion protein mutation. Inherited TSE occurs in animals carrying a rare [[mutation|mutant]] prion [[allele]], which expresses prion proteins that contort by themselves into the disease-causing [[protein structure|conformation]]. Transmission occurs when healthy animals consume tainted tissues from others with the disease. In recent times a type of TSE called [[bovine spongiform encephalopathy]] (BSE) spread in [[cattle]] in an epidemic fashion. This occurred because cattle were fed the processed remains of other cattle, a practice now banned in many countries. The epidemic could have begun with just one cow with sporadic disease.    
+
+Prions cannot be transmitted through the air or through touching or most other forms of casual contact. However, they may be transmitted through contact with infected tissue, body fluids, or contaminated medical instruments. Normal [[Sterilization (microbiology)|sterilization]] procedures such as boiling or irradiating materials fail to render prions non-infective.
+
+==Classification==
+
+{| class="wikitable"
+|+ Known spongiform encephalopathies
+|-
+! [http://www.ncbi.nlm.nih.gov/ICTVdb/ ICTVdb] Code
+! Disease name
+! Natural host
+! Prion name
+! PrP [[isoform]]
+|-
+! colspan="5" {| Non-human [[mammal]]s
+|-
+| [http://www.ncbi.nlm.nih.gov/ICTVdb/ICTVdB/90.001.0.01.001.htm 90.001.0.01.001.] 
+| [[Scrapie]]
+| [[Sheep]] and [[goat]]s
+| Scrapie prion
+| OvPrP<sup>Sc</sup>
+|-
+| 90.001.0.01.002. 
+| [[Transmissible mink encephalopathy]] (TME)
+| [[Mink]]
+| TME prion
+| MkPrP<sup>Sc</sup>
+|-
+| 90.001.0.01.003. 
+| [[Chronic wasting disease]] (CWD)
+| [[Elk]], [[White-tailed deer]], [[Mule Deer]] and [[Red Deer]]
+| CWD prion
+| MDePrP<sup>Sc</sup>
+|-
+| 90.001.0.01.004. 
+| [[Bovine spongiform encephalopathy]] (BSE)<br>commonly known as "Mad Cow Disease"
+| [[Cattle]]
+| BSE prion
+| BovPrP<sup>Sc</sup>
+|-
+| 90.001.0.01.005. 
+| [[Feline spongiform encephalopathy]] (FSE)
+| [[Cats]]
+| FSE prion
+| FePrP<sup>Sc</sup>
+|-
+| 90.001.0.01.006. 
+| [[Exotic ungulate encephalopathy]] (EUE)
+| [[Nyala]] and [[Greater Kudu|greater kudu]]
+| EUE prion
+| NyaPrP<sup>Sc</sup>
+|-
+! colspan="5" {| Human diseases
+|-
+| 90.001.0.01.007. 
+| [[Kuru (disease)|Kuru]]
+| rowspan="5" {| [[Human]]s
+| Kuru prion
+| rowspan="5" {| HuPrP<sup>Sc</sup>
+|-
+| 90.001.0.01.008. 
+| [[Creutzfeldt-Jakob disease]] (CJD)
+| CJD prion
+|-
+|
+| (New) Variant Creutzfeldt-Jakob disease (vCJD, nvCJD)
+| vCJD prion<ref>Believed to be identical to the BSE prion.</ref>
+|-
+| 90.001.0.01.009. 
+| [[Gerstmann-Sträussler-Scheinker syndrome]] (GSS)
+| GSS prion
+|-
+| 90.001.0.01.010. 
+| [[Fatal familial insomnia]] (FFI)
+| FFI prion
+|}
+
+==History==
+In the 5th century [[BCE]], [[Hippocrates]] described a disease like TSE in cattle and sheep, which he believed also occurred in man.<ref>{{cite journal
+| last        = 
+| first       = 
+|date=June 2005
+| title       = Sacred disease of our times: failure of the infectious disease model of spongiform encephalopathy
+| journal     = Clin Invest Med
+| issue       = 3
+| url         = http://works.bepress.com/cgi/viewcontent.cgi?article=1009&context=vivianmcalister#page=6
+| accessdate  = 2011-06-20
+| pmid        = 16021982
+| volume        = 28
+| pages        = 101–4
+| last1        = McAlister
+| first1        = V
+}}
+</ref> [[Publius Flavius Vegetius Renatus]] records cases of a disease with similar characteristics in the 4th and 5th century AD.<ref>[[Digesta Artis Mulomedicinae]], [[Publius Flavius Vegetius Renatus]]</ref> In 1755, an outbreak of scrapie was discussed in the British House of Commons and may have been present in Britain for some time before that.<ref>{{cite journal
+| author = Brown P, Bradley R
+| title = 1755 and all that: a historical primer of transmissible spongiform encephalopathy 
+| journal = BMJ
+| volume = 317
+| issue = 7174
+| pages = 1688–92 
+| year = 1998
+| month = December
+| pmid = 9857129
+| doi = 10.1136/bmj.317.7174.1688
+| pmc = 1114482 
+}}</ref> Although there were unsupported claims in 1759 that the disease was contagious, it was generally thought to be due to inbreeding and countermeasures appeared to be successful. Early 20th century experiments failed to show transmission of scrapie between animals, until extraordinary measures were taken such as the intra-ocular injection of infected nervous tissue. No direct link between scrapie and disease in man was suspected then or has been found since. TSE was first described in man by [[Alfons Maria Jakob]] in the 1921.<ref>{{cite journal
+| author = Katscher F.
+| title = It's Jakob's disease, not Creutzfeldt's  
+| journal = Nature
+| volume = 393
+| issue = 6680
+| pages = 11
+| year = 1998
+| month = May
+| pmid = 9590681
+| bibcode = 1998Natur.393Q..11K
+| doi = 10.1038/29862 
+}}</ref> [[Daniel Carleton Gajdusek]]'s discovery that Kuru was transmitted by cannibalism accompanied by the finding of scrapie-like lesions in the brains of Kuru victims strongly suggested an infectious basis to TSE.<ref>{{cite journal
+| author = Gajdusek DC
+| title = Unconventional viruses and the origin and disappearance of kuru   
+| journal = Science
+| volume = 197
+| issue = 4307
+| pages =  943–60
+| year =  1977
+| month = Sep
+| pmid = 142303
+| bibcode = 1977Sci...197..943C
+| doi = 10.1126/science.197.4307.943  
+}}</ref>  The priority given the search for a viral infectious agent almost cost [[Stanley Prusiner]] tenure when his research showed that a protein transferred the disease.<ref>{{cite journal
+| author = Prusiner S.
+| title = Autobiography   
+| journal = Nobel Prize in Physiology or Medicine 1997
+| url         = http://www.nobelprize.org/nobel_prizes/medicine/laureates/1997/prusiner-autobio.html
+| accessdate  = 2011-11-20 
+}}</ref> A paradigm shift to a non-nucleic infectious entity was required when the results were validated with an explanation of how a [[prion]] protein might transmit spongiform encephalopathy.<ref>{{cite journal
+| author = Collins SJ, Lawson VA, Masters CL. 
+| title = Transmissible spongiform encephalopathies    
+| journal = Lancet
+| volume = 363
+| issue = 9204
+| pages =  51–61
+| year =  2004
+| month = Jan
+| pmid = 14723996
+| doi = 10.1016/S0140-6736(03)15171-9   
+}}</ref> It wasn't until 1988 that the neuropathology of spongiform encephalopathy was properly described in cows.<ref>{{cite journal
+| author = Hope J, Reekie LJ, Hunter N, Multhaup G, Beyreuther K, White H, Scott AC, Stack MJ, Dawson M, Wells GA. 
+| title = Fibrils from brains of cows with new cattle disease contain scrapie-associated protein
+| journal = Nature
+| volume = 336
+| issue = 6197
+| pages =  390–2
+| year =  1988
+| month = Nov
+| pmid = 2904126
+| bibcode = 1988Natur.336..390H
+| last2 = Reekie
+| last3 = Hunter
+| last4 = Multhaup
+| last5 = Beyreuther
+| last6 = White
+| last7 = Scott
+| last8 = Stack
+| last9 = Dawson
+| doi = 10.1038/336390a0   
+}}</ref> The alarming amplification of [[Bovine spongiform encephalopathy|BSE]] in the British cattle herd heightened fear of transmission to humans and reinforced the belief in the infectious nature of TSE. This was confirmed with the identification of a Kuru like disease, called new variant [[Creutzfeldt–Jakob disease]], in humans exposed to [[Bovine spongiform encephalopathy|BSE]].<ref>{{cite journal
+| author = Will RG, Ironside JW, Zeidler M, Cousens SN, Estibeiro K, Alperovitch A, Poser S, Pocchiari M, Hofman A, Smith PG. 
+| title = A new variant of Creutzfeldt-Jakob disease in the UK    
+| journal = Lancet
+| volume = 347
+| issue = 9006
+| pages =  921–5
+| year =  1996
+| month = April
+| pmid = 8598754
+| doi = 10.1016/S0140-6736(96)91412-9   
+}}</ref> Although the infectious disease model of TSE has been questioned in favour of a [[prion]] transplantation model which explains why cannibalism favours transmission,<ref>{{cite journal
+| last        = McAlister
+| first       = V
+|date=June 2005
+| title       = Sacred disease of our times: failure of the infectious disease model of spongiform encephalopathy
+| journal     = Clin Invest Med
+| issue       = 3
+| url         = http://works.bepress.com/cgi/viewcontent.cgi?article=1009&context=vivianmcalister
+| accessdate  = 2011-06-20
+| pmid        = 16021982
+| volume        = 28
+| pages        = 101–4
+}}
+</ref> the search for a viral agent is being continued in some laboratories.<ref name="Manuelidis2007">{{cite journal
+| author = Manuelidis L, Yu ZX, Barquero N, Banquero N, Mullins B
+| title = Cells infected with scrapie and Creutzfeldt-Jakob disease agents produce intracellular 25-nm virus-like particles
+| journal = Proceedings of the National Academy of Sciences of the United States of America
+| volume = 104
+| issue = 6
+| pages = 1965–70
+| year = 2007
+| month = February
+| pmid = 17267596
+| pmc = 1794316
+| doi = 10.1073/pnas.0610999104
+|bibcode = 2007PNAS..104.1965M }}</ref>
+
+==Features of TSE==
+The degenerative tissue damage caused by human prion diseases (CJD, GSS, and kuru) is characterised by four features: spongiform change, [[neuron]]al loss, [[astrocytosis]] and [[amyloid]] plaque formation. These features are shared with prion diseases in animals, and the recognition of these similarities prompted the first attempts to transmit a human prion disease (kuru) to a [[primate]] in 1966, followed by CJD in 1968 and GSS in 1981. These neuropathological features have formed the basis of the [[histology|histological]] diagnosis of human prion diseases for many years, although it was recognized that these changes are enormously variable both from case to case and within the [[central nervous system]] in individual cases.<ref>{{cite journal | author=Jeffrey M, Goodbrand IA, Goodsir CM | title=Pathology of the transmissible spongiform encephalopathies with special emphasis on ultrastructure | journal=Micron | year=1995 | pages=277–98 | volume=26 | issue=3  | pmid=7788281 | doi=10.1016/0968-4328(95)00004-N}}</ref>
+
+The clinical signs in humans vary, but commonly include personality changes, psychiatric problems such as [[Clinical depression|depression]], lack of coordination, and/or an unsteady gait ([[ataxia]]). Patients also may experience involuntary jerking movements called [[myoclonus]], unusual sensations, [[insomnia]], confusion, or memory problems. In the later stages of the disease, patients have severe mental impairment ([[dementia]]) and lose the ability to move or speak.<ref>{{cite journal | author=Collinge J | title=Prion diseases of humans and animals: their causes and molecular basis | journal=Annu Rev Neurosci | year=2001 | pages=519–50 | volume=24  | pmid=11283320 | doi=10.1146/annurev.neuro.24.1.519}}</ref> 
+
+Early neuropathological reports on human prion diseases suffered from a confusion of nomenclature, in which the significance of the diagnostic feature of spongiform change was occasionally overlooked. The subsequent demonstration that human prion diseases were transmissible reinforced the importance of spongiform change as a diagnostic feature, reflected in the use of the term "spongiform encephalopathy" for this group of disorders.
+
+Prions appear to be most infectious when in direct contact with affected tissues.  For example, Creutzfeldt-Jakob disease has been transmitted to patients taking injections of [[growth hormone]] harvested from human [[pituitary gland]]s, from cadaver dura allografts and from instruments used for [[brain surgery]] (Brown, 2000) (prions can survive the "[[autoclave]]" sterilization process used for most surgical instruments).  It is also believed{{By whom|date=April 2012}} that dietary consumption of affected animals can cause prions to accumulate slowly, especially when [[cannibalism]] or similar practices allow the proteins to accumulate over more than one generation. An example is [[kuru (disease)|kuru]], which reached epidemic proportions in the mid 20th century in the [[Fore (people)|Fore]] people of [[Papua New Guinea]], who used to consume their dead as a funerary ritual.<ref>{{cite journal | author=Collins S, McLean CA, Masters CL | title=Gerstmann-Straussler-Scheinker syndrome, fatal familial insomnia, and kuru: a review of these less common human transmissible spongiform encephalopathies | journal=J Clin Neurosci | year=2001 | pages=387–97 | volume=8 | issue=5  | pmid=11535002 | doi=10.1054/jocn.2001.0919}}</ref> Laws in developed countries now ban the use of [[rendering (industrial)|rendered]] [[ruminant]] proteins in ruminant feed as a precaution against the spread of prion infection in cattle and other ruminants.
+
+Note that not all [[encephalopathy|encephalopathies]] are caused by prions, as in the cases of [[Progressive multifocal leukoencephalopathy|PML]] (caused by the [[JC virus]]), [[CADASIL]] (caused by abnormal NOTCH3 protein activity), and [[Krabbe disease]] (caused by a deficiency of the [[enzyme]] galactosylceramidase). [[Toxic leukoencephalopathy|Progressive Spongiform Leukoencephalopathy]](PSL) -- which is a spongiform encephalopathy—is also probably not caused by a prion, although the adulterant which causes it among [[heroin]] smokers has not yet been identified.<ref>{{cite web |url=http://www.hafci.org/infoline/enu/heroin.htm |title=hafci.org |accessdate=2007-12-02 |work=}} {{Dead link|date=September 2010|bot=H3llBot}}</ref><ref name="pmid10563626">{{cite journal |author=Kriegstein AR, Shungu DC, Millar WS, ''et al.'' |title=Leukoencephalopathy and raised brain lactate from heroin vapor inhalation ("chasing the dragon") |journal=Neurology |volume=53 |issue=8 |pages=1765–73 |year=1999 |pmid=10563626 |doi=}}</ref><ref name="pmid9308333">{{cite journal |author=Chang YJ, Tsai CH, Chen CJ |title=Leukoencephalopathy after inhalation of heroin vapor |journal=J. Formos. Med. Assoc. |volume=96 |issue=9 |pages=758–60 |year=1997 |pmid=9308333 |doi=}}</ref><ref name="pmid11965173">{{cite journal |author=Koussa S, Zabad R, Rizk T, Tamraz J, Nasnas R, Chemaly R |title=[Vacuolar leucoencephalopathy induced by heroin: 4 cases] |language=French |journal=Rev. Neurol. (Paris) |volume=158 |issue=2 |pages=177–82 |year=2002 |pmid=11965173 |doi=}}</ref> This, combined with the highly variable nature of prion disease pathology, is why a prion disease cannot be diagnosed based solely on a patient's symptoms.
+
+==Genetics==
+Mutations in the [[PRNP]] [[gene]] cause prion disease. Familial forms of prion disease are caused by inherited mutations in the PRNP gene. Only a small percentage of all cases of prion disease run in families, however. Most cases of prion disease are sporadic, which means they occur in people without any known risk factors or gene mutations. Rarely, prion diseases also can be transmitted by exposure to prion-contaminated tissues or other biological materials obtained from individuals with prion disease.
+
+The PRNP gene provides the instructions to make a protein called the [[prion protein]] (PrP). Normally, this protein may be involved in transporting copper into cells. It may also be involved in protecting brain cells and helping them communicate. 24{{citation needed|date=September 2010}} Point-[[Mutation]]s in this gene cause cells to produce an abnormal form of the prion protein, known as PrP<sup>Sc</sup>. This abnormal protein builds up in the brain and destroys nerve cells, resulting in the signs and symptoms of prion disease.
+
+Familial forms of prion disease are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the altered gene from one affected parent.
+
+In some people, familial forms of prion disease are caused by a new mutation in the PRNP gene. Although such people most likely do not have an affected parent, they can pass the genetic change to their children.
+
+==Competing hypotheses==
+===Protein-only hypothesis===
+Protein could be the infectious agent, inducing its own replication by causing conformational change of normal cellular PrP<sup>C</sup> into PrP<sup>Sc</sup>. Evidence for this theory:
+:*infectivity titre correlates with PrP<sup>Sc</sup> levels. However, this is disputed.<ref>{{cite journal
+| author = Barron RM, Campbell SL, King D, ''et al.''
+| title = High titers of transmissible spongiform encephalopathy infectivity associated with extremely low levels of PrPSc in vivo
+| journal = The Journal of Biological Chemistry
+| volume = 282
+| issue = 49
+| pages = 35878–86
+| year = 2007
+| month = December
+| pmid = 17923484
+| doi = 10.1074/jbc.M704329200
+}}</ref>
+:*PrP<sup>Sc</sup> is an isomer of PrP<sup>C</sup>
+:*Denaturing PrP removes infectivity<ref>{{cite journal
+| author = Supattapone S, Wille H, Uyechi L, ''et al.''
+| title = Branched Polyamines Cure Prion-Infected Neuroblastoma Cells
+| journal = Journal of Virology
+| volume = 75
+| issue = 7
+| pages = 3453–61
+| year = 2001
+| month = April
+| pmid = 11238871
+| pmc = 114138
+| doi = 10.1128/JVI.75.7.3453-3461.2001
+}}</ref>
+;*PrP-null mice cannot be infected<ref>{{cite journal
+| author = Sakudo A, Lee DC, Saeki K, ''et al.''
+| title = Impairment of superoxide dismutase activation by N-terminally truncated prion protein (PrP) in PrP-deficient neuronal cell line
+| journal = Biochemical and Biophysical Research Communications
+| volume = 308
+| issue = 3
+| pages = 660–7
+| year = 2003
+| month = August
+| pmid = 12914801
+| doi = 10.1016/S0006-291X(03)01459-1
+}}</ref>
+;*PrP<sup>C</sup> knockout in mice following innoculation with PrP<sup>Sc</Sup> reverses early spongeosis and behavioural defecits, halts further disease progression and increases life-span <ref>{{cite journal 
+| author = Mallucci G, Dickinson A, Lineham J, ''et al.''
+| title = Depleting Neuronal PrP in Prion Infection Prevents Disease and Reverses Spongiosis
+| journal = Science
+| volume = 302
+| issue = 5646
+| pages = 871–874
+| year = 2003
+| month = October
+| pmid = 14593181
+| doi = 10.1126/science.1090187
+}}</ref>
+
+===Multi-component hypothesis===
+While not containing a nucleic acid genome, prions may be composed of more than just a protein. Purified PrP<sup>C</sup> appears unable to convert to the infectious PrP<sup>Sc</sup> form, unless other components are added, such as RNA and lipids.<ref name= "minimal prion">{{cite journal |author=Deleault NR, Harris BT, Rees JR, Supattapone S |title=Formation of native prions from minimal components in vitro |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=104 |issue=23 |pages=9741–6 |year=2007 |month=June |pmid=17535913 |pmc=1887554 |doi=10.1073/pnas.0702662104 |url=|bibcode = 2007PNAS..104.9741D }}</ref>  These other components, termed cofactors, may form part of the infectious prion, or they may serve as catalysts for the replication of a protein-only prion.
+
+===Viral hypothesis===
+This hypothesis postulates that an infectious viral agent is the cause of the disease. Evidence for this hypothesis is as follows:
+:*Incubation time is comparable to a [[lentivirus]]
+:*Strain variation of different isolates of PrP<sup>Sc</sup><ref>{{cite journal
+| author = Bruce ME
+| title = TSE strain variation
+| journal = British Medical Bulletin
+| volume = 66
+| pages = 99–108
+| year = 2003
+| pmid = 14522852
+| doi = 10.1093/bmb/66.1.99
+}}</ref>
+:*An increasing titre of PrP<sup>Sc</sup> as the disease progresses suggests a replicating agent.
+
+This hypothesis is largely discredited{{Citation needed|date=May 2008}}, as no infectious, non-human nucleic acid has ever been isolated from the disease. It is largely based on the fact that infectious agents have previously been viral in origin, preferring this as more plausible than the infectious protein hypothesis.
+
+==Epidemiology==
+These spontaneous disorders in humans are very rare, affecting only about one person per million worldwide each year. However, transmissible TSEs can reach epidemic proportions, as was seen in the UK BSE outbreak of the 80s and 90s. It is very hard to map the spread of the disease due to the difficulty of identifying individual strains of the prions. This means that if animals start to show the disease after an outbreak on a nearby farm, you cannot show that it is the same strain affecting both, suggesting transmission, or that the second outbreak came from a completely different source.
+
+==Possible cure or vaccine and diagnosis==
+
+There continues to be a very practical problem with diagnosis of prion diseases, including BSE and CJD. They have an incubation period of months to decades during which there are no symptoms, even though the pathway of converting the normal brain PrP protein into the toxic, disease-related PrP
+Sc form has started. At present, there is virtually no way to detect PrP<sup>Sc</sup> reliably except by examining the brain  using neuropathological and immunohistochemical methods after death. Accumulation of the abnormally folded PrP<sup>Sc</sup>  form of the PrP protein is a characteristic of the disease, but it is present at very low levels in easily accessible body fluids like blood or urine. Researchers have tried to develop methods to measure PrP<sup>Sc</sup>, but there are still no fully accepted methods for use in materials such as blood. 
+
+In 2010, A team from New York described detection of PrP<sup>Sc</sup> even when initially present at only one part in a hundred thousand million (10<sup>−11</sup>) in brain tissue. The method combines amplification with a novel technology called [[Surround Optical Fiber Immunoassay (SOFIA)]] and some specific antibodies against PrP<sup>Sc</sup>. After amplifying and then concentrating any PrP<sup>Sc</sup>, the samples are labelled with a fluorescent dye using an antibody for specificity and then finally loaded into a micro-capillary tube. This tube is placed in a specially constructed apparatus so that it is totally surrounded by optical fibres to capture all light emitted once the dye is excited using a laser. The technique allowed detection of PrP<sup>Sc</sup> after many fewer cycles of conversion than others have achieved, substantially reducing the possibility of artefacts, as well as speeding up the assay. The researchers also tested their method on blood samples from apparently healthy sheep that went on to develop scrapie. The animals’ brains were analysed once any symptoms became apparent. The researchers could therefore compare results from brain tissue and blood taken once the animals exhibited symptoms of the diseases, with blood obtained earlier in the animals’ lives, and from uninfected animals. The results showed very clearly that PrP<sup>Sc</sup> could be detected in the blood of animals long before the symptoms appeared.<ref>{{cite journal |title=Detecting Prions in Blood |journal=Microbiology Today. |pages=195 |year=2010 |month=August |url= https://www.sgm.ac.uk/pubs/micro_today/pdf/081010.pdf |accessdate=2011-08-21}}</ref><ref>{{cite web | url = http://www.bionosis.com/news/Bionosis%20PrioNet%20Poster.pdf | title = SOFIA: An Assay Platform for Ultrasensitive Detection of PrP<sup>Sc</sup> in Brain and Blood | publisher =  SUNY Downstate Medical Center | authorlink = Rubenstein, R., et al. | accessdate = 2011-08-19}}</ref>
+
+Recent research from the [[University of Toronto]] and [[Caprion Pharmaceuticals]] has discovered one possible avenue which might lead to quicker diagnosis, a vaccine or possibly even treatment for prion diseases.  The abnormally folded proteins which cause the disease have been found to expose a [[side chain]] of amino acids which the properly folded protein does not expose.  [[Antibodies]] specifically coded to this side chain amino acid sequence have been found to stimulate an immune response to the abnormal prions and leave the normal proteins intact.<ref name="titleResearchers Discover Possible Diagnosis, Treatment, Vaccine For Mad Cow, Prion Diseases">{{cite journal
+| author = Paramithiotis E, Pinard M, Lawton T, ''et al.''
+| title = A prion protein epitope selective for the pathologically misfolded conformation
+| journal = Nature Medicine
+| volume = 9
+| issue = 7
+| pages = 893–9
+| year = 2003
+| month = July
+| pmid = 12778138
+| doi = 10.1038/nm883
+| laysummary = http://www.sciencedaily.com/releases/2003/06/030602025719.htm
+| laysource = ScienceDaily
+| laydate = 2003-06-02
+}}</ref>
+
+Another idea involves using custom [[peptide]] sequences.  Since some research suggests prions aggregate by forming beta barrel structures, work done ''in vitro'' has shown that peptides made up of beta barrel-incompatible [[amino acid]]s can help break up accumulations of prion.  <!-- find link to article -->
+Yet a third idea concerns [[gene therapy|genetic therapy]], whereby the [[gene]] for encoding protease-resistant protein is considered to be an error in several species, and therefore something to be inhibited.
+
+== See also ==
+* [[Proteopathy]]
+* [[Prion]]
+
+== Further reading ==
+*''Deadly Feasts: The "Prion" Controversy and the Public's Health'',<ref>''Deadly Feasts: The "Prion" Controversy and the Public's Health'', Richard Rhodes, 1998, Touchstone, ISBN 0-684-84425-7</ref> by [[Richard Rhodes]]
+*''The Pathological Protein: Mad Cow, Chronic Wasting, and Other Deadly Prion Diseases'', Phillip Yam, 2003, Springer, ISBN 0-387-95508-9
+*''The Family That Couldn't Sleep'' by D. T. Max provides a history of prion diseases.
+
+==References==
+*''This entry incorporates public domain text originally from the National Institute of Neurological Disorders and Stroke, [[National Institutes of Health]] [http://www.ninds.nih.gov/health_and_medical/disorders/tse.htm] and the [[U.S. National Library of Medicine]] [http://ghr.nlm.nih.gov/condition=priondisease]''
+
+{{reflist}}
+
+==External links==
+*{{DMOZ|Health/Animal/Conditions_and_Diseases/Transmissible_Spongiform_Encephalopathy/}}
+
+{{Prion diseases}}
+
+[[Category:Transmissible spongiform encephalopathies]]
+[[Category:Cannibalism]]
+[[Category:Viral infections of the central nervous system]]

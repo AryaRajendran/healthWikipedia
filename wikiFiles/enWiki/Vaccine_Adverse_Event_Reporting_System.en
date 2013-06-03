@@ -1,0 +1,33 @@
+The '''Vaccine Adverse Event Reporting System''' is a [[United States]] program for vaccine safety, co-managed by the [[Centers for Disease Control and Prevention]] (CDC) and the [[Food and Drug Administration]] (FDA). VAERS is a post-marketing safety surveillance program, collecting information about adverse events (possible side effects) that occur after administration of vaccines. VAERS has several limitations, including unverified reports, underreporting, inconsistent data quality, and absence of an unvaccinated [[control group]].<ref name=Woo/>
+
+==Origins==
+The program is an outgrowth of the 1986 [[National Childhood Vaccine Injury Act]] (NCVIA), which requires health care providers to report: 
+*Any event listed by the vaccine manufacturer as a contraindication to subsequent doses of the vaccine. 
+*Any event listed in the Reportable Events Table that occurs within the specified time period after vaccination. The data are stored electronically by the CDC in the [[Vaccine Safety Datalink]] (VSD).
+
+VAERS was established in 1990, and is managed jointly by the FDA and the CDC.<ref name=Woo/> It is meant to act as a sort of "early warning system"—a way for physicians and researchers to identify possible unforeseen reactions or side effects of vaccination for further study.
+
+==Operation==
+Each year the VAERS receives 10,000–20,000 reports of adverse events following immunization. Higher-priority uses of the data include reports of death and other serious adverse events, recognizing and detecting adverse effects, and finding unexpected adverse events involving new vaccines. The VAERS data are also used to monitor known reactions to vaccines and for vaccine lot surveillance. Like other spontaneous reporting systems, VAERS has several limitations, including underreporting, unverified reports, inconsistent data quality, absence of a control group that is not vaccinated, and inadequate data about the number of people vaccinated. Although [[data mining]] techniques such as [[empirical Bayes]] methods can be used to improve the quality of data analysis, even with these techniques the VAERS data do not establish whether a vaccine caused an adverse event.<ref name=Woo>{{cite journal |author= Woo EJ, Ball R, Burwen DR, Braun MM |title= Effects of stratification on data mining in the US Vaccine Adverse Event Reporting System (VAERS) |journal= Drug Saf |volume=31 |issue=8 |pages=667–74 |year=2008 |pmid=18636785 |doi= 10.2165/00002018-200831080-00003}}</ref>
+
+==Use in research and litigation==
+Many medical researchers make use of VAERS to study the effects of vaccination. VAERS warns researchers using its database that the data should not be used in isolation to draw conclusions about cause and effect.<ref>{{cite web|title=VAERS Data|url=https://vaers.hhs.gov/data/index|publisher=VAERS}}</ref> Nonetheless, data from VAERS has been used in vaccine litigation to support the claim that vaccines cause autism.
+
+Litigation related to vaccines and autism has led to an increase in VAERS reports filed by plaintiff's attorneys. A 2006 article in ''[[Pediatrics (journal)|Pediatrics]]'' found that most VAERS reports related to [[thimerosal]], and many related to [[autism]], were filed in connection with litigation, leading the authors to caution that inappropriate reliance on VAERS data may be a source of bias.<ref>{{cite journal |journal=Pediatrics |date=2006 |volume=117 |issue=2 |pages=387–90 |title= Vaccine adverse event reporting system reporting source: a possible source of bias in longitudinal studies |author= Goodman MJ, Nordin J |pmid=16452357 |url=http://pediatrics.aappublications.org/cgi/content/full/117/2/387 |doi= 10.1542/peds.2004-2687}}</ref> The study's lead author stated: "Lawyers are manipulating this system to show increases [in vaccine-related adverse events] that are based on litigation, not health research."<ref name="offit">{{cite book| author= Offit PA | title = [[Autism's False Prophets: Bad Science, Risky Medicine, and the Search for a Cure]] | publisher = [[Columbia University Press]] | year = 2008 | isbn = 978-0-231-14636-4 | location = New York | authorlink = Paul Offit}}</ref> [[Paul Offit]], chief of infectious disease at [[Children's Hospital of Philadelphia]], wrote:
+<blockquote>Public health officials were disappointed to learn that reports of autism to VAERS weren't coming from parents, doctors, nurses, or nurse practitioners; they were coming from personal-injury lawyers... For the lawyers, VAERS reports hadn't been a self-fulfilling prophecy; they'd been a self-generated prophecy.<ref name="offit"/></blockquote>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://vaers.hhs.gov/ vaers.hhs.gov] - Vaccine Adverse Event Reporting System (official website). This also contains instructions for downloading the VAERS data.
+*[http://www.fda.gov/BiologicsBloodVaccines/SafetyAvailability/ReportaProblem/VaccineAdverseEvents/default.htm Vaccine Adverse Event Report System (VAERS) Overview], FDA
+*[http://wonder.cdc.gov/vaers.html VAERS request] for searching the database
+*Galindo, Belkys M., et al.[http://www.medicc.org/mediccreview/index.php?issue=19&id=237&a=vahtml "Vaccine-Related Adverse Events in Cuban Children"], 1999–2008. ''MEDICC Review''. 2012;14(1):38–43.
+{{Vaccines}}
+
+[[Category:Vaccination-related organizations]]
+[[Category:Food and Drug Administration]]
+[[Category:Centers for Disease Control and Prevention]]
+[[Category:Public safety]]
+[[Category:Drug safety]]

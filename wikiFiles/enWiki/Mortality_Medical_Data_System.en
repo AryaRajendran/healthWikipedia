@@ -1,0 +1,38 @@
+The '''Mortality Medical Data System (MMDS)''' is used to automate the entry, classification, and retrieval of cause-of-death information reported on [[death certificate]]s throughout the [[United States]] and in many other countries.  The [[National Center for Health Statistics]] (NCHS) began the system's development in 1967.
+
+The system has facilitated the standardization of mortality information within the United States, and [[#ACME|ACME]] has become the de facto international standard for the automated selection of the '''underlying cause of death''' from multiple conditions listed on a death certificate. (Johansson & Westerling 2002:302)
+
+==System Components==
+
+The MMDS system consists of the following components, and is itself part of the [http://www.cdc.gov/nchs/nvss.htm National Vital Statistics System].
+
+===MICAR===
+
+There are two '''Mortality Medical Indexing, Classification, and Retrieval''' components.
+* SuperMICAR automates the MICAR data entry process. This program is designed as an enhancement of the earlier PC-MICAR Data Entry program. Super-MICAR is designed to automatically encode cause-of-death data into numeric entity reference numbers.
+* MICAR200 automates the multiple cause coding rules and assigns [[ICD|''International Statistical Classification of Diseases and Related Health Problems'']] (ICD) codes to each numeric entity reference number.
+
+===ACME===
+ <!-- This section is linked from [[Acme]] -->
+The '''Automated Classification of Medical Entities''' program automates the underlying cause-of-death coding rules. The input to ACME is the multiple cause-of-death codes ([[ICD]]) assigned to each entity (e.g., disease condition, accident, or injury) listed on cause-of-death certifications, preserving the location and order as reported by the certifier. ACME then applies the [[World Health Organization]] (WHO) rules to the [[ICD]] codes and selects an underlying cause of death.  ACME has become the de facto international standard for the automated selection of the underlying cause of death. (Johansson & Westerling 2002:302)
+
+===TRANSAX===
+
+The '''TRANSlation of Axis''' program converts the ACME output data into fixed format and translates the data into a more desirable statistical form using the linkage provisions of the [[ICD]]. TRANSAX creates the data necessary for person-based tabulations by translating the axis of classification from an entity basis to a record basis.
+
+==See also==
+* [[Vital statistics]]
+* [[Nosology]]
+* [[International Statistical Classification of Diseases and Related Health Problems]]
+
+==References==
+* [http://www.cdc.gov/nchs/about/major/dvs/about.htm About the Mortality Medical Data System]
+* {{Citation | surname1=Johansson | given1=L. A. | surname2=Westerling | given2=R. | title=Comparing hospital discharge records with death certificates: Can the differences be explained? | journal=Journal of Epidemiology and Community Health |volume=56 | year=2002 | pages=301–308 | url=http://jech.bmj.com/cgi/content/full/56/4/301 }}
+* [http://www.cdc.gov/nchs/nvss.htm U.S. National Vital Statistics System]
+
+[[Category:Health software]]
+[[Category:Nosology]]
+[[Category:Population]]
+[[Category:Demography]]
+[[Category:United States Department of Health and Human Services]]
+[[Category:Centers for Disease Control and Prevention]]

@@ -1,0 +1,73 @@
+[[Image:SinusRhythmLabels.svg|thumb|Schematic representation of normal [[ECG]] trace ''([[sinus rhythm]]),'' with waves, segments, and intervals labeled.]]
+In [[cardiology]], the '''QT interval''' is a measure of the time between the start of the '''Q wave''' and the end of the '''T wave''' in the heart's [[Electrical conduction system of the heart|electrical cycle]]. In general, the QT interval represents electrical depolarization and repolarization of the left and right ventricles. A lengthened QT interval is a biomarker for ventricular tachyarrhythmias like [[torsades de pointes]] and a risk factor for sudden death.
+
+==Correction for heart rate==
+The QT interval is dependent on the [[heart rate]] in an obvious way (the faster the heart rate the shorter the QT interval) and may be adjusted to improve the detection of patients at increased risk of ventricular arrhythmia. Modern computer-based ECG machines can easily calculate a corrected QT (QTc), but this correction may not aid in the detection of patients at increased risk of arrhythmia. There are a number of different correction formulas.
+
+The standard clinical correction is to use ''Bazett's formula'',<ref name="Bazett-1920">{{cite journal | author=Bazett HC. | title=An analysis of the time-relations of electrocardiograms | journal=Heart | year=1920 | issue=7 | pages=353–370}}</ref> named after [[physiologist]] Bazett, calculating the heart rate-corrected QT interval '''QT<sub>B</sub>'''.
+
+Bazett's formula is as follows:
+
+<math>QT_B = {QT \over \sqrt{RR}}</math>
+
+where '''QT<sub>B</sub>''' is the QT interval corrected for heart rate, and '''RR''' is the interval from the onset of one [[QRS complex]] to the onset of the next QRS complex, ''measured in seconds'', often derived from the heart rate (HR) as 60/HR (here '''QT''' is measured in milliseconds).  However, this nonlinear formula, obtained from data in only 39 young men, is not accurate, and over-corrects at high heart rates and under-corrects at low heart rates.<ref name="low heart rates">{{cite journal | author=Salvi V, Karnad DR, Panicker GK, Kothari S. | title=Update on the evaluation of a new drug for effects on cardiac repolarization in humans: issues in early drug development| journal=Br J Pharmacol.| year = 2010 | volume=159 | issue=1 | pages=34–48 | pmid=19775279 | doi=10.1111/j.1476-5381.2009.00427.x | pmc=2823350}}</ref>
+
+[[Louis Sigurd Fridericia|Fridericia]]<ref name="Fridericia-1920">{{cite journal | author=Fridericia LS | title=The duration of systole in the electrocardiogram of normal subjects and of patients with heart disease | journal=Acta Medica Scandinavica | year=1920 | issue=53 | pages=469–486}}</ref> has published an alternative correction formula using the cube-root of RR.
+
+<math>QT_F = {QT \over \sqrt[3]{RR}}</math>
+
+There are several other methods as well. For example a regression-based approach that had been developed by Sagie et al.,<ref name="Sagie-1992">{{cite journal | author=Sagie A, Larson MG, Goldberg RJ, Bengston JR, Levy D | title=An improved method for adjusting the QT interval for heart rate (the Framingham Heart Study) | journal=Am J Cardiol | year = 1992 | volume=70 | issue=7 | pages=797–801 | doi=10.1016/0002-9149(92)90562-D | pmid=1519533}}</ref> as follows:
+
+<math>QT_{LC} = {QT + 0.154(1 - RR)}</math>
+
+[[File:QT interval corrected for heart rate.png|thumb|400px|Upper limit of normal QT interval, corrected for heart rate according to ''Bazett's formula'',<ref name="Bazett-1920"/> Fridericia's formula<ref name="Fridericia-1920"/> and subtracting 0.02s from QT for every 10bpm increase in heart rate.<ref name=Yanowitz/> Up to 0.42s (≤420ms) is chosen as normal QTc of QT<sub>B</sub> and QT<sub>F</sub> in this diagram.]]
+
+Definitions of "normal" QTc vary among being equal to or less than 0.40 s (≤400ms),<ref name=Yanowitz>[http://library.med.utah.edu/kw/ecg/ecg_outline/Lesson3/index.html Lesson III. Characteristics of the Normal ECG] Frank G. Yanowitz, MD. Professor of Medicine. University of Utah School of Medicine. Retrieved on Mars 23, 2010</ref> 0.41s (≤410ms),<ref>[http://www.meddean.luc.edu/lumen/MedEd/MEDICINE/skills/ekg/les1prnt.htm Loyola University Chicago Stritch School of Medicine > Medicine I] By Matthew Fitz, M.D. Retrieved on Mars 23, 2010</ref> 0.42s (≤420ms)<ref>[http://www.ecglibrary.com/norm.html ecglibrary.com > A normal adult 12-lead ECG] Retrieved on Mars 23, 2010</ref> or 0.44s (≤440ms).<ref>[http://www.cvphysiology.com/Arrhythmias/A009.htm Image for Cardiovascular Physiology Concepts > Electrocardiogram (EKG, ECG)] By Richard E Klabunde PhD</ref> For risk of [[sudden cardiac death]], "Borderline QTc" in males is 431-450 ms, and in females 451-470 ms. An "abnormal" QTc in males is a QTc above 450 ms, and in females, above 470 ms.<ref>[http://www.medscape.com/viewarticle/522879 medscape.com > QTc Prolongation and Risk of Sudden Cardiac Death: Is the Debate Over?] February 3, 2006</ref>
+
+If there is not a very high or low heart rate, the upper limits of QT can roughly be estimated by taking QT=QTc at a heart rate of 60 beats per minute (bpm), and subtracting 0.02s from QT for every 10&nbsp;bpm increase in heart rate. For example, taking normal QTc ≤ 0.42s, QT would be expected to be 0.42s or less at a heart rate of 60&nbsp;bpm. For a heart rate of 70&nbsp;bpm, QT would roughly be expected to be equal to or below 0.40s. Likewise, for 80&nbsp;bpm, QT would roughly be expected to be equal to or below 0.38s.<ref name=Yanowitz/>
+
+==Measurement==
+The QT interval is an important ECG parameter and the identification of ECGs with long QT syndrome is of clinical importance. Considering the required standards for precision, the measurement of QT interval is subjective.<ref name=" subjective">{{cite journal | author= Panicker GK, Karnad DR, Joshi R, Shetty S, Vyas N, Kothari S, Narula D | title= Z-score for benchmarking reader competence in a central ECG laboratory| journal= Ann Noninvasive Electrocardiol | year=2009 | issue=14(1) | pages=19–25 | pmid=19149789 | volume= 14 | doi= 10.1111/j.1542-474X.2008.00269.x}}</ref> This is because the end of the T wave is not always clearly defined and usually merges gradually with the baseline. QT interval in an ECG complex can be measured manually by different methods such as the threshold method, in which the end of the T wave is determined by the point at which the component of the T wave merges with the isoelectric baseline or the tangent method, in which the end of the T wave is determined by the intersection of a line extrapolated from the isoelectric baseline and the tangent line, which touches the terminal part of the T wave at the point of maximum downslope.<ref name=" tangent method ">{{cite journal | author= Panicker GK, Karnad DR, Natekar M, Kothari S, Narula D, Lokhandwala Y | title= Intra- and interreader variability in QT interval measurement by tangent and threshold methods in a central electrocardiogram laboratory| journal= J Electrocardiol | year=2009 | issue=42(4) | pages=348–52 | pmid=19261293 | volume= 42 | doi= 10.1016/j.jelectrocard.2009.01.003}}</ref> 
+
+With the increased availability of digital ECGs with simultaneous 12-channel recording, QT measurement may also be done by the 'superimposed median beat' method. In the superimposed median beat method, a median ECG complex is constructed for each of the 12 leads. The 12 median beats are superimposed on each other and the QT interval is measured either from the earliest onset of the Q wave to the latest offset of the T wave or from the point of maximum convergence for the Q wave onset to the T wave offset...<ref name=" offset">{{cite journal | author= Salvi V, Karnad DR, Panicker GK, Natekar M, Hingorani P, Kerkar V, Ramasamy A, de Vries M, Zumbrunnen T, Kothari S, Narula D | title= Comparison of 5 methods of QT interval measurements on electrocardiograms from a thorough QT/QTc study: effect on assay sensitivity and categorical outliers| journal= J Electrocardiol | year=2011 | issue=44(2) | pages=96–104 | pmid=21238976 | volume= 44 | doi= 10.1016/j.jelectrocard.2010.11.010}}</ref>
+
+==Abnormal intervals==
+If abnormally prolonged or shortened, there is a risk of developing [[Ventricle (heart)|ventricular]] [[arrhythmia]]s.
+
+===Genetic causes===
+An abnormal prolonged QT interval could be due to [[Long QT syndrome]], whereas an abnormal shortened QT interval could be due to [[Short QT syndrome]].
+
+The length of the interval was found to associate with variations in [[NOS1AP]] gene.<ref name="pmid16648850">{{cite journal |author=Arking DE, Pfeufer A, Post W, Kao WH, Newton-Cheh C, Ikeda M, West K, Kashuk C, Akyol M, Perz S, Jalilzadeh S, Illig T, Gieger C, Guo CY, Larson MG, Wichmann HE, Marbán E, O'Donnell CJ, Hirschhorn JN, Kääb S, Spooner PM, Meitinger T, Chakravarti A |title=A common genetic variant in the NOS1 regulator NOS1AP modulates cardiac repolarization |journal=[[Nat. Genet.]] |volume=38 |issue=6 |pages=644–51 |year=2006 |month=June |pmid=16648850 |doi=10.1038/ng1790}}</ref>
+
+===Due to adverse drug reactions===
+Prolongation of the QT interval may be due to an [[adverse drug reaction]].<ref name="pimdpending">{{cite journal |author=Leitch A, McGinness P, Wallbridge D |title=Calculate the QT interval in patients taking drugs for dementia |journal=BMJ |volume=335 |issue=7619 |pages=557 |year=2007 |month=September |pmid=17855324 |pmc=1976518 |doi=10.1136/bmj.39020.710602.47}}</ref> Many drugs such as [[haloperidol]],<ref>{{cite web |url=http://www.fda.gov/cder/drug/InfoSheets/HCP/haloperidol.htm |title=Information for Healthcare Professionals: Haloperidol (marketed as Haldol, Haldol Decanoate and Haldol Lactate) |accessdate=2007-09-18 |work= |archiveurl = http://web.archive.org/web/20071011025019/http://www.fda.gov/cder/drug/InfoSheets/HCP/haloperidol.htm <!-- Bot retrieved archive --> |archivedate = 2007-10-11}}</ref> [[vemurafenib]], and [[ziprasidone]], and [[methadone]]<ref>{{cite web|last=Haigney|first=Mark|title=Cardiotoxicity of methadone|url=http://www.dhp.virginia.gov/dhp_programs/pmp/docs/May2010/HaigneyCardiotoxicMethadone5-1-10.pdf|work=Director of Cardiology|accessdate=21 February 2013|language=English|format=.pdf}}</ref> can prolong the QT interval. Some antiarrhythmic drugs, like [[amiodarone]] or [[sotalol]] work by getting a pharmacological QT prolongation. Additionally, some second generation of antihistamines, such as [[astemizole]], have this effect. Additionally, alcohol in high blood concentrations prolong the QT interval.<ref>Willy Aasebø, Jan Erikssen, Jørgen Jonsbu and Knut Stavem. ECG changes in patients with acute ethanol intoxication. Scand Cardiovasc J, 41 (2) 79-84 (2007)</ref> A possible interaction between [[selective serotonin reuptake inhibitor]]s and [[thiazide]] diuretics is associated with QT prolongation.<ref>N. P. Tatonetti, P. P. Ye, R. Daneshjou, R. B. Altman, Data-Driven Prediction of Drug Effects and Interactions. Sci. Transl. Med. 4, 125ra31 (2012).</ref>
+
+===Due to pathological conditions===
+[[Hypothyroidism]], a condition of low function of the [[thyroid]] gland, can give QT prolongation at the [[electrocardiogram]].  Acute hypocalcemia causes prolongation of the QT interval, which may lead to ventricular dysrhythmias.
+
+A shortened QT can be associated with [[hypercalcemia]].<ref>[http://www.clevelandclinicmeded.com/medicalpubs/diseasemanagement/endocrinology/hypercalcemia/ Hypercalcemia]</ref>
+
+===Use in drug studies for FDA approval===
+Since 2005, the FDA and European regulators have required that nearly all new molecular entities are evaluated in a Thorough QT (TQT) study to determine a drug's effect on the QT interval.<ref>http://www.fda.gov/downloads/RegulatoryInformation/Guidances/UCM129357.pdf</ref> The TQT study serves to assess the potential arrhythmia liability of a drug.  Traditionally, the QT interval has been evaluated by having individual human reader measure approximately nine cardiac beats per clinical timepoint.  However, a number of recent drug approvals have used a highly automated approach, blending automated software algorithms with expert human readers reviewing a portion of the cardiac beats, to enable the assessment of significantly more beats per timepoint in order to improve precision and reduce cost.<ref>[http://appliedclinicaltrialsonline.findpharma.com/appliedclinicaltrials/News/iCardiac-Applies-Automated-Approach-to-Thorough-QT/ArticleStandard/Article/detail/560528?contextCategoryId=44906&ref=25 iCardiac Applies Automated Approach to Thorough QT Study for a Leading Pharmaceutical Company - Applied Clinical Trials]</ref> As the pharmaceutical industry has gained experience in performing TQT studies, it has also become evident that traditional QT correction formulas such as QT<sub>F</sub>, QT<sub>B</sub>, and QT<sub>LC</sub> may not always be suitable for evaluation of drugs impacting autonomic tone.<ref>http://thew-project.org/document/2009%20THEW%20meeting/Garnett.pdf</ref>  Current efforts are underway by industry and regulators to consider alternative methods to help evaluate QT liability in drugs affecting autonomic tone, such as QT beat-to-beat and Holter-bin methodologies.<ref>http://thew-project.org/document/FDA%20CPI%20project.pdf</ref>
+
+==See also==
+* [[Electrocardiogram]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.biopharmnet.com/cardiac.html Cardiac safety section in the Biopharmaceutical network]
+
+{{Cardiovascular physiology}}
+
+{{DEFAULTSORT:Qt Interval}}
+[[Category:Cardiac electrophysiology]]
+
+[[de:Elektrokardiogramm]]
+[[fr:Électrocardiographie]]
+[[he:אלקטרוקרדיוגרם]]
+[[lb:Elektrokardiogramm]]
+[[nl:Elektrocardiogram]]
+[[pl:Elektrokardiogram]]
+[[sv:EKG]]

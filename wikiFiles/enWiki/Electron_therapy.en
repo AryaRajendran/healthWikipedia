@@ -1,0 +1,35 @@
+{{Interventions infobox |
+  Name        = {{PAGENAME}} |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9unlinked = {{ICD9proc|92.25}} |
+  MeshID      = |
+  OPS301      = |
+  OtherCodes  = |
+}}
+'''Electron therapy''' or Electron Beam Therapy (EBT) is a kind of [[external beam radiotherapy]] where [[electrons]] are directed to a [[tumor]] site.
+
+==Equipment==
+Electron beam therapy is performed using a medical [[linear accelerator]]. The same device can also be used to produce high energy photon beams. When electrons are required, the x-ray target is retracted out of the beam and the electron beam is [[Collimator|collimated]] with a piece of apparatus known as an applicator or an additional collimating insert, constructed from a low melting point alloy.
+
+==Properties==
+[[Image:DoseDepthCurves.svg|thumb|300px|Note the rapid falloff for 4 MeV electron compared to X rays.]]
+
+Electron beams have a finite range, after which dose falls off rapidly. Therefore they spare deeper healthy tissue. The depth of the treatment is selected by the appropriate energy.
+
+==Indications==
+Electron beam therapy is used in the treatment of superficial tumors like cancer of skin regions, or total skin (e.g. [[mycosis_fungoides]]), diseases of the limbs (e.g. [[melanoma]] and [[lymphoma]]), nodal irradiation, and it may also be used to boost the radiation dose to the surgical bed after [[mastectomy]] or [[lumpectomy]]. For deeper regions [[IOERT|intraoperative electron radiation therapy]] might be applied.
+
+==References==
+* Eric E. Klein: "Electron-Beam Therapy: Dosimetry, Planning, and Techniques" in: Edward C. Halperin, Carlos A. Perez, Luther W. Brady (ed.): ''Perez and Brady's Principles and Practice of Radiation Oncology'', 5th. edition, 2008
+
+==See also==
+* Intraoperative Electron Radiation Therapy (IOERT) [[IOERT]]
+* External beam radiotherapy (EBRT) [[EBRT]]
+
+{{Radiation oncology}}
+{{DEFAULTSORT:Electron Therapy}}
+[[Category:Electron beams in medical applications| ]]
+[[Category:Medical physics]]
+[[Category:Radiation therapy]]

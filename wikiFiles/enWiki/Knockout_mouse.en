@@ -1,0 +1,77 @@
+A '''knockout mouse''' is a [[genetic engineering|genetically engineered]] [[house mouse|mouse]] in which researchers have inactivated, or "knocked out," an existing [[gene]] by replacing it or disrupting it with an artificial piece of [[DNA]]. The loss of gene activity often causes changes in a mouse's [[phenotype]], which includes appearance, behavior and other observable physical and biochemical characteristics.
+
+Knockout mice are important [[animal model]]s for studying the role of genes which have been [[sequencing|sequenced]] but whose functions have not been determined. By causing a specific gene to be inactive in the mouse, and observing any differences from normal behaviour or physiology, researchers can infer its probable function.
+
+Mice are currently the most closely related [[model organism|laboratory animal species]] to [[human]]s for which the knockout technique can easily be applied. They are widely used in knockout experiments, especially those investigating genetic questions that relate to [[human physiology]]. [[Gene knockout]] in [[brown rat|rats]] is much harder and has only been possible since 2003.<ref>[http://www.nature.com/news/1998/030512/full/news030512-17.html naturenews, 19 May 2003]</ref><ref>[http://molpharm.wisc.edu/Faculty/fac_pages/gould/Pub12754522.pdf Y Zan et al., Production of knockout rats using ENU mutagenesis and a yeast-based screening assay, Nat. Biotechnol. (2003).]</ref>
+
+The first recorded knockout mouse was created by [[Mario Capecchi|Mario R. Capecchi]], [[Martin Evans]] and [[Oliver Smithies]] in 1989, for which they were awarded the 2007 [[Nobel Prize]] [[Nobel Prize in Physiology or Medicine|in Physiology or Medicine]].  Aspects of the technology for generating knockout mice, and the mice themselves have been [[patent]]ed in many countries by private companies.
+
+==Use==
+[[File:Knockout Mice5006-300.jpg|thumb|left|A laboratory mouse in which a gene affecting hair growth has been knocked out (left), is shown next to a normal lab mouse.]]
+Knocking out the activity of a gene provides information about what that gene normally does. Humans share many genes with mice. Consequently, observing the characteristics of knockout mice gives researchers information that can be used to better understand how a similar gene may cause or contribute to disease in humans.
+
+Examples of research in which knockout mice have been useful include studying and modeling different kinds of [[cancer]], [[obesity]], [[heart disease]], [[diabetes mellitus|diabetes]], [[arthritis]], [[substance abuse]], [[anxiety]], [[ageing|aging]] and [[Parkinson's disease]]. Knockout mice also offer a biological and scientific context in which drugs and other therapies can be developed and tested.
+
+Millions of knockout mice are used in experiments each year.<ref name="genome.gov">[http://www.genome.gov/10005834 genome.gov | Background on Mouse as a Model Organism<!-- Bot generated title -->]</ref>
+
+==Strains==
+[[File:Knockoutmouse80-72.jpg|thumb|A knockout mouse (left) that is a model for obesity, compared with a normal mouse.]]
+There are several thousand different strains of knockout mice.<ref name="genome.gov"/>
+Many mouse models are named after the gene that has been inactivated. For example, the [[p53]] knockout mouse is named after the [[P53|p53 gene]] which codes for a protein that normally suppresses the growth of tumours by arresting [[cell division]] and/or inducing apoptosis. Humans born with mutations that deactivate the p53 gene suffer from [[Li-Fraumeni syndrome]], a condition that dramatically increases the risk of developing bone cancers, [[breast cancer]] and blood cancers at an early age. Other mouse models are named, often with creative flair, according to their physical characteristics or behaviours.
+
+==Procedure==
+[[File:Knockout mouse production 2.svg|thumb|right|566px|The procedure for making mixed-gentotype blastocyst.]]
+
+[[File:Knockout mouse breeding scheme.svg|thumb|right|300px|Breeding scheme for producing knockout mice. Blastocysts containing cells, that are both wildtype and knockout cells, are injected into the [[uterus]] of a foster mother. This produces offspring that are either wildtype and coloured the same colour as the blastocyst donor (grey) or chimera (mixed) and partially knocked out. The chimera mice are crossed with a normal wildtype mouse (grey). This produces offspring that are either white and heterozygous for the knocked out gene or grey and wildtype. White heterozygous mice can subsequently be crossed to produce mice that are homozygous for the knocked out gene.]]
+
+There are several variations to the procedure of producing knockout mice; the following is a typical example.
+
+#The gene to be knocked out is isolated from a mouse [[library (biology)|gene library]]. Then a new [[Nucleic acid sequence|DNA sequence]] is engineered which is very similar to the original gene and its immediate neighbour sequence, except that it is changed sufficiently to make the gene inoperable. Usually, the new sequence is also given a [[marker gene]], a gene that normal mice don't have and that confers resistance to a certain toxic agent or that produces an observable change (e.g. colour or fluorescence).
+#[[Stem cell]]s are isolated from a mouse [[blastocyst]] (a very young [[embryo]]) and grown ''[[in vitro]]''. For this example, we will take stem cells from a white mouse.
+#The new sequence from step 1 is introduced into the stem cells from step 2 by [[electroporation]]. The natural process of [[homologous recombination]] means some of the electroporated stem cells will incorporate the new sequence with the knocked-out gene into their [[chromosome]]s in place of the original gene. The chances of a successful recombination event are relatively low, so the majority of altered cells will have the new sequence in only one of the two relevant chromosomes - they are said to be [[zygosity|heterozygous]].
+#The stem cells that incorporated the knocked-out gene are isolated from the unaltered cells using the marker gene from step 1.  For example, the unaltered cells can be killed using a toxic agent to which the altered cells are resistant.
+#The knocked-out stem cells from step 4 are inserted into a mouse [[blastocyst]]. For this example, we use blastocysts from a grey mouse. The blastocysts now contain two types of stem cells: the original ones (from the grey mouse), and the knocked-out cells (from the white mouse). These blastocysts are then implanted into the [[uterus]] of female mice, where they develop.  The newborn mice will therefore be [[Chimera (genetics)#Chimeras in research|chimera]]s: some parts of their bodies result from the original stem cells, other parts from the knocked-out stem cells. Their fur will show patches of white and grey, with white patches derived from the knocked-out stem cells and grey patches from the recipient blastocyst.
+#Some of the newborn chimera mice will have [[gonad]]s derived from knocked-out stem cells, and will therefore produce eggs or sperm containing the knocked-out gene.  When these chimera mice are crossbred with others of the wild type, some of their offspring will have one copy of the knocked-out gene in all their cells.  These mice will be entirely white and are not chimeras, however they are still heterozygous.
+#When these heterozygous offspring are interbred, some of their offspring will inherit the knocked-out gene from both parents; they carry no functional copy of the original gene (i.e. they are [[zygosity|homozygous]] for that allele).
+
+A detailed explanation of how knockout (KO) mice are created is located at the website of the [[Nobel Prize in Physiology or Medicine]] 2007.<ref>[http://www.nobelprize.org/nobel_prizes/medicine/laureates/2007/advanced.html The Nobel Prize in Physiology or Medicine 2007]</ref>
+
+==Limitations==
+The National Institutes of Health discusses some important limitations of this technique.<ref>http://www.genome.gov/12514551</ref>
+<blockquote>
+While knockout mouse technology represents a valuable research tool, some important limitations exist. About 15 percent of gene knockouts are developmentally lethal, which means that the genetically altered embryos cannot grow into adult mice. This problem is often overcome through the use of [[mutation|conditional mutations]].  The lack of adult mice limits studies to [[Embryogenesis|embryonic development]] and often makes it more difficult to determine a gene's function in relation to [[Health|human health]]. In some instances, the gene may serve a different function in adults than in developing embryos.
+</blockquote>
+<blockquote>
+Knocking out a gene also may fail to produce an observable change in a mouse or may even produce different characteristics from those observed in humans in which the same gene is inactivated. For example, mutations in the p53 gene are associated with more than half of human cancers and often lead to tumours in a particular set of tissues. However, when the p53 gene is knocked out in mice, the animals develop tumours in a different array of tissues.
+</blockquote>
+
+There is variability in the whole procedure depending largely on the strain from which the stem cells have been derived. Generally cells derived from strain 129 are used. This specific strain is not suitable for many experiments (e.g., behavioural), so it is very common to [[backcrossing|backcross]] the offspring to other strains. Some genomic loci have been proven very difficult to knock out. Reasons might be the presence of repetitive sequences, extensive [[DNA methylation]], or [[heterochromatin]]. The confounding presence of neighbouring 129 genes on the knockout segment of genetic material has been dubbed the "flanking-gene effect".<ref name="pmid8723200">{{cite journal |author=[[Robert Gerlai|Gerlai R]] |title=Gene-targeting studies of mammalian behavior: is it the mutation or the background genotype? |journal=[[Trends (journals)|Trends in Neurosciences]] |volume=19 |issue=5 |pages=177–81 |year=1996 |month=May |pmid=8723200 |doi= 10.1016/S0166-2236(96)20020-7|url=http://linkinghub.elsevier.com/retrieve/pii/S0166223696200207 |accessdate=2010-03-07}}</ref> Methods and guidelines to deal with this problem have been proposed.<ref name="pmid12079755">{{cite journal |author=Wolfer DP, [[Wim Crusio|Crusio WE]], Lipp HP |title=Knockout mice: simple solutions to the problems of genetic background and flanking genes |journal=Trends in Neurosciences |volume=25 |issue=7 |pages=336–40 |year=2002 |month=July |pmid=12079755 |doi= 10.1016/S0166-2236(02)02192-6|url=http://linkinghub.elsevier.com/retrieve/pii/S0166223602021926 |accessdate=2010-03-07}}</ref><ref name="pmid18778401">{{cite journal |author=Crusio WE, Goldowitz D, Holmes A, Wolfer D |title=Standards for the publication of mouse mutant studies |journal=[[Genes, Brain and Behavior|Genes, Brain, and Behavior]] |volume=8 |issue=1 |pages=1–4 |year=2009 |month=February |pmid=18778401 |doi=10.1111/j.1601-183X.2008.00438.x |url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=1601-1848&date=2009&volume=8&issue=1&spage=1 |accessdate=2010-03-07}}</ref>
+
+Another limitation is that conventional (i.e. non-conditional) knockout mice develop in the absence of the gene being investigated. At times, loss of activity during development may mask the role of the gene in the adult state, especially if the gene is involved in numerous processes spanning development. Conditional/inducible mutation approaches are then required that first allow the mouse to develop and mature normally prior to ablation of the gene of interest.
+
+Another serious limitation is a lack of evolutive adaptations in knockout model that might occur in wild type animals after they naturally mutate. For instance, erythrocyte-specific coexpression of [[GLUT1]] with stomatin constitutes a compensatory mechanism in mammals that are unable to synthesize [[vitamin C]].<ref>{{cite journal|last=Montel-Hagen|first=Amélie|title=Erythrocyte Glut1 triggers dehydroascorbic acid uptake in mammals unable to synthesize vitamin C|journal=Cell|date=21|year=2008|month=March|volume=132|issue=6|pages=1039–1048|pmid=18358815|doi=10.1016/j.cell.2008.01.042|last2=Kinet|first2=Sandrina|last3=Manel|first3=Nicolas|last4=Mongellaz|first4=Cédric|last5=Prohaska|first5=Rainer|last6=Battini|first6=Jean-Luc|last7=Delaunay|first7=Jean|last8=Sitbon|first8=Marc|last9=Taylor|first9=Naomi}}</ref>
+
+== See also ==
+* [[Genetically modified organism]]
+* [[Genetics]]
+* [[Humouse]]
+* [[International Knockout Mouse Consortium]]
+* [[Knockout moss]]
+* [[Oncomouse]]
+
+==References==
+{{Reflist|2}}
+
+== External links ==
+* [http://www.tigm.org Texas A&M Institute for Genomic Medicine (TIGM)] - The web site for ordering ES cells and mice generated by TIGM
+* [http://www.knockoutmice.org/ Creating Knockout Mice for Targeting Vector from Knockout Mice Research(KMR)] - A website for ordering embryonic stem cells,targeting vectors and transgenic mice generated by KMR.
+* [http://www.scq.ubc.ca/?p=264 Studying Gene Function: Creating Knockout Mice] - a review from the Science Creative Quarterly
+* [http://www.knockoutmouse.org The Knock Out Mouse Project (KOMP) Data Coordination website] - The public interface for information on the status of the genes included in the KOMP initiative.
+* [http://www.komp.org The Knock Out Mouse Project (KOMP) Repository website]- The web site for ordering ES cells, vectors, and mice generated by the KOMP project
+* [http://www.informatics.jax.org Mouse Genome Informatics (MGI) website] - community model organism database for the laboratory mouse
+*[http://www.bio.davidson.edu/courses/genomics/method/homolrecomb.html#KO Homologous Recombination Method (and Knockout Mouse)]
+{{Genetic engineering}}
+
+[[Category:Genetically modified organisms]]
+[[Category:Mice]]
+[[Category:Animal testing]]

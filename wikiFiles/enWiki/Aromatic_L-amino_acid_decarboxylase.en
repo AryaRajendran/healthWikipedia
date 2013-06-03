@@ -1,0 +1,67 @@
+{{enzyme
+| Name = aromatic-L-amino-acid decarboxylase
+| EC_number = 4.1.1.28
+| CAS_number = 9042-64-2 
+| IUBMB_EC_number = 4/1/1/28
+| GO_code = 0004058
+| image = DOPA decarboxylase dimer 1JS3.png
+| width = 
+| caption = Ribbon diagram of a [[domestic pig]] DOPA decarboxylase [[protein dimer|dimer]].<ref name="pmid11685243">{{PDB|1JS3}}; {{cite journal | author = Burkhard P, Dominici P, Borri-Voltattorni C, Jansonius JN, Malashkevich VN | title = Structural insight into Parkinson's disease treatment from drug-inhibited DOPA decarboxylase | journal = Nat. Struct. Biol. | volume = 8 | issue = 11 | pages = 963–7 | year = 2001 | month = November | pmid = 11685243 | doi = 10.1038/nsb1101-963 | url = | issn = }}</ref>
+}}
+{{protein
+| Name = DOPA decarboxylase (aromatic <small>L</small>-amino acid decarboxylase)
+| caption = 
+| image = 
+| width = 250
+| HGNCid = 2719
+| Symbol = DDC
+| AltSymbols =
+| EntrezGene = 1644
+| OMIM = 107930
+| RefSeq = NM_000790
+| UniProt = P20711
+| PDB =
+| ECnumber = 4.1.1.28
+| Chromosome = 7
+| Arm = p
+| Band = 11
+| LocusSupplementaryData =
+}}
+'''Aromatic L-amino acid decarboxylase''' ({{EC number|4.1.1.28}}, synonyms: '''DOPA decarboxylase''', '''[[tryptophan]] [[decarboxylase]]''', '''5-hydroxytryptophan decarboxylase''', '''AAAD''') is a [[lyase]] [[enzyme]].
+
+==Reactions==
+It catalyzes several different [[decarboxylation]] reactions:
+* [[L-DOPA]] to [[dopamine]] - a [[neurotransmitter]]
+* [[5-HTP]] to [[serotonin]] (5-HT) - also a neurotransmitter
+* [[tryptophan]] to [[tryptamine]] - a precursor to many [[alkaloids]] found in plants and animals
+
+The enzyme uses [[pyridoxal phosphate]], the active form of vitamin B6, as a [[cofactor (biochemistry)|cofactor]].
+
+==As a rate-limiting step==
+In normal [[dopamine]] and [[serotonin]] (5-HT) neurotransmitter synthesis, AAAD is not the [[rate-limiting step]] in either reaction. However, AAAD becomes the rate-limiting step of dopamine synthesis in patients treated with [[L-DOPA]] (such as in [[Parkinson's Disease]]), and the rate-limiting step of serotonin synthesis in people treated with [[5-HTP]] (such as in mild [[Clinical depression|depression]] or [[dysthymia]]).  AAAD is inhibited by [[Carbidopa]] outside of the [[blood brain barrier]] to inhibit the premature conversion of [[L-DOPA]] to [[Dopamine]] in the treatment of [[Parkinson's]].
+
+AAAD is the rate-limiting enzyme in the formation of [[biogenic]] [[trace amine]]s.
+
+<center>
+[[Image:Catecholamines biosynthesis.svg|300px|[[dopamine]]]]&nbsp;&nbsp;&nbsp;[[Image:Serotonin biosynthesis.svg|350px|[[serotonin]]]]
+</center>
+
+== Interactive pathway map ==
+{{NicotineDopaminergicActivity_WP1602|highlight=Dopa_decarboxylase}}
+
+== Genetics ==
+The [[gene]] encoding the enzyme is referred to as ''DDC'' and located on [[chromosome 7]] in humans.<ref>{{Cite journal| author = Lisa J. Scherer, John D. McPherson, John J. Wasmuth and J. Lawrence Marsh| title = Human dopa decarboxylase: Localization to human chromosome 7p11 and characterization of hepatic cDNAs| journal = [[Genomics (journal)|Genomics]]| volume = 13| issue = 2| month = June| year = 1992| pages = 469&ndash;471| doi = 10.1016/0888-7543(92)90275-W | pmid = 1612608}}</ref> [[Single nucleotide polymorphism]]s and other gene variations have been investigated in relation to [[neuropsychiatric disorder]]s, e.g., a one-base pair deletion at &ndash;601 and a four-base pair deletion at 722&ndash;725 in [[exon]] 1 in relation to [[bipolar disorder]]<ref>{{Cite journal| author = A. D. Borglum, T. G. Bruun, T. E. Kjeldsen, H. Ewald, O. Mors, G. Kirov, C. Russ, B. Freeman, D. A. Collier & T. A. Kruse| title = Two novel variants in the DOPA decarboxylase gene: association with bipolar affective disorder| journal = [[Molecular Psychiatry]]| volume = 4| issue = 6| pages = 545–541| year = 1999| month = November| pmid = 10578236| doi = 10.1038/sj.mp.4000559}}</ref> and [[autism]]. No direct correlation between gene variation and autism was found. <ref>{{Cite journal| author = Marlene B. Lauritsen, Anders D. Borglum, Catalina Betancur, Anne Philippe, Torben A. Kruse, Marion Leboyer & Henrik Ewald| title = Investigation of two variants in the DOPA decarboxylase gene in patients with autism| journal = [[American Journal of Medical Genetics]]| volume = 114| issue = 4| pages = 466–460| year = 2002| month = May| doi = 10.1002/ajmg.10379| pmid = 11992572}} </ref>
+
+==See also==
+* [[Aromatic amino acids]]
+* [[Histidine decarboxylase]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MeshName|Aromatic-L-Amino-Acid+Decarboxylases}}
+
+{{Carbon-carbon lyases}}
+{{Neurotransmitter metabolism enzymes}}
+[[Category:EC 4.1.1]]

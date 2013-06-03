@@ -1,0 +1,90 @@
+{{for|computer aid in other medical fields|Clinical decision support system}}
+In radiology, '''computer-aided detection (CADe)''', also called '''computer-aided diagnosis (CADx)''', are procedures in medicine that assist doctors in the interpretation of medical images. Imaging techniques in [[X-ray]], [[MRI]], and [[Ultrasound]] diagnostics yield a great deal of information, which the radiologist has to analyze and evaluate comprehensively in a short time. CAD systems help scan digital images, ''e.g.'' from computed tomography, for typical appearances and to highlight conspicuous sections, such as possible diseases.
+
+CAD is a relatively young [[interdisciplinary]] technology combining elements of [[artificial intelligence]] and digital image processing with [[radiology|radiological]] image processing. A typical application is the detection of a tumor. For instance, some hospitals use CAD to support preventive medical check-ups in [[mammography]] (diagnosis of breast cancer), the detection of polyps in the colon, and [[lung cancer]].
+
+==Overview==
+Computer-aided detection (CADe) systems are usually confined to marking conspicuous structures and sections. Computer-aided diagnosis (CADx) systems evaluate the conspicuous structures. For example, in mammography CAD highlights micro calcification clusters and hyperdense structures in the soft tissue. This allows the radiologist to draw conclusions about the condition of the pathology. Another application is CADq, which quantifies, e.g., the size of a tumor or the tumor's behavior in contrast medium uptake. [[Computer-aided simple triage|Computer-aided simple triage (CAST)]] is another type of CAD, which performs a fully automatic initial interpretation and [[triage]] of studies into some meaningful categories (e.g. negative and positive). [[Computer-aided simple triage|CAST]] is particularly applicable in emergency diagnostic imaging, where a prompt diagnosis of critical, life threatening condition is required.
+
+At the present stage of the technology, CAD cannot and may not substitute the doctor, but rather plays a supporting role. The doctor (generally a radiologist) is always responsible for the final interpretation of a medical image.
+
+== Computer-aided diagnosis topics ==
+===Methodology===
+CAD is fundamentally based on highly complex [[pattern recognition]]. X-ray images are scanned for suspicious structures. Normally a few thousand images are required to optimize the algorithm. Digital image data are copied to a CAD server in a [[DICOM]]-format and are prepared and analyzed in several steps.
+
+''1. Preprocessing'' for
+* Reduction of artifacts (bugs in images)
+* Image noise reduction
+* Leveling (harmonization) of image quality for clearing the image's different basic conditions e.g. different exposure parameter.
+
+''2. Segmentation'' for
+* Differentiation of different structures in the image, e.g. heart, lung, ribcage, possible round lesions
+* Matching with anatomic databank
+
+''3. Structure/ROI (Region of Interest) Analyze''
+Every detected region is analyzed individually for special characteristics:
+* Compactness
+* Form, size and location
+* Reference to close-by structures / ROIs
+* Average greylevel value analyze within a ROI
+* Proportion of greylevels to border of the structure inside the ROI
+
+''4. Evaluation / classification''
+After the structure is analyzed, every ROI is evaluated individually (scoring) for the probability of a TP. Therefore the procedures are:
+* Nearest-Neighbor Rule
+* Minimum distance classifier
+* Cascade Classifier
+* Bayesian Classifier
+* Multilayer perception
+* Radial basis function network (RBF)
+* SVM
+
+If the detected structures have reached a certain threshold level, they are highlighted in the image for the radiologist. Depending on the CAD system these markings can be permanently or temporary saved. The latter's advantage is that only the markings which are approved by the radiologist are saved. False hits should not be saved, because an examination at a later date becomes more difficult then.
+
+===Sensitivity and specificity===
+CAD systems seek to highlight suspicious structures. Today's CAD systems cannot detect 100% of pathological changes. The hit rate ([[Sensitivity and specificity#Sensitivity|sensitivity]]) can be up to 90% depending on system and application.<ref>T. Wollenweber, B. Janke, A. Teichmann, M. Freund: ''Korrelation zwischen histologischem Befund und einem Computer-assistierten Detektionssystem (CAD) für die Mammografie.'' Geburtsh Frauenheilk 2007; 67: 135-141 {{doi|10.1055/s-2006-955983}}</ref>
+A correct hit is termed a True Positive (TP), while the incorrect marking of healthy sections constitutes a False Positive (FP). The less FPs indicated, the higher the [[Sensitivity and specificity#Specificity|specificity]] is. A low specificity reduces the acceptance of the CAD system because the user has to identify all of these wrong hits. The FP-rate in lung overview examinations (CAD Chest) could be reduced to 2 per examination. In other segments (''e.g.'' CT lung examinations) the FP-rate could be 25 or more. In [[Computer-aided simple triage|CAST]] systems the FP rate must be extremely low (less than 1 per examination) to allow a meaningful study [[triage]].
+
+===Absolute detection rate===
+The absolute detection rate of the radiologist is an alternative metric to sensitivity and specificity. Overall, results of clinical trials about sensitivity, specificity, and the absolute detection rate can vary markedly. Each study result depends on its basic conditions and has to be evaluated on those terms. The following facts have a strong influence:
+* Retrospective or prospective design
+* Quality of the used images
+* Condition of the x-ray examination
+* Radiologist's experience and education
+* Type of lesion
+* Size of the considered lesion
+
+==Applications==
+CAD is used in the diagnosis of [[breast cancer]], [[lung cancer]], [[colon cancer]], [[prostate cancer]], [[bone metastases]], [[coronary artery disease]] and [[congenital heart defect]].
+
+===Breast cancer===
+CAD is used in screening [[mammography]] (X-ray examination of the female breast). Screening mammography is used for the early detection of breast cancer. CAD is especially established in US and the Netherlands and is used in addition to human evaluation, usually by a [[radiologist]]. The first CAD system for mammography was developed in a research project at the University of Chicago. Today it is commercially offered by iCAD and [[Hologic]]. There are currently some non-commercial projects being developed, such as Ashita Project, a gradient-based screening software by [[Alan Hshieh]], as well. However, while achieving high sensitivities, CAD systems tend to have very low specificity and the benefits of using CAD remain uncertain. Some studies suggest a positive impact on mammography screening programs,<ref>Fiona J. Gilbert, F.R.C.R., Susan M. Astley, Ph.D., Maureen G.C. Gillan, Ph.D., Olorunsola F. Agbaje, Ph.D., Matthew G. Wallis, F.R.C.R., Jonathan James, F.R.C.R., Caroline R.M. Boggis, F.R.C.R., Stephen W. Duffy, M.Sc., for the CADET II Group (2008). Single Reading with Computer-Aided Detection for Screening Mammography, ''The New England Journal of Medicine'', Volume 359:1675-1684 [http://content.nejm.org/cgi/reprint/359/16/1675.pdf Full text]</ref><ref>Effect of Computer-Aided Detection on Independent Double Reading of Paired Screen-Film and Full-Field Digital Screening Mammograms Per Skaane, Ashwini Kshirsagar, Sandra Stapleton, Kari Young and Ronald A. Castellino</ref> but others show no improvement.<ref>Taylor P, Champness J, Given-Wilson R, Johnston K, Potts H (2005). Impact of computer-aided detection prompts on the sensitivity and specificity of screening mammography. ''Health Technology Assessment'' '''9'''(6), 1-70.</ref><ref>Fenton JJ, Taplin SH, Carney PA, Abraham L, Sickles EA, D'Orsi C ''et al.'' Influence of computer-aided detection on performance of screening mammography. ''N Engl J Med'' 2007 April 5;'''356'''(14):1399-409. [http://content.nejm.org/cgi/reprint/356/14/1399.pdf Full text]</ref> A 2008 systematic review on computer-aided detection in screening mammography concluded that CAD does not have a significant effect on cancer detection rate, but does undesirably increase recall rate (''i.e.'' the rate of false positives). However, it noted considerable heterogeneity in the impact on recall rate across studies.<ref>Taylor P, Potts HWW (2008). Computer aids and human second reading as interventions in screening mammography: Two systematic reviews to compare effects on cancer detection and recall rate. ''European Journal of Cancer''. {{doi|10.1016/j.ejca.2008.02.016}} [http://eprints.ucl.ac.uk/5173/ Full text]</ref>
+
+Procedures to evaluate mammography based on [[magnetic resonance imaging]] exist too.
+
+===Lung cancer (bronchial carcinoma)===
+In the diagnosis of lung cancer, [[computed tomography]] with special three-dimensional CAD systems are established and considered as gold standard.{{Citation needed|date=December 2009}} At this a volumetric dataset with up to 3,000 single images is prepared and analyzed. Round lesions ([[lung cancer]], metastases and benign changes) from 1&nbsp;mm are detectable. Today all well-known vendors of medical systems offer corresponding solutions.
+
+Early detection of lung cancer is valuable. The 5-year-survival-rate of lung cancer has stagnated in the last 30 years and is now at approximately just 15%. Lung cancer takes more victims than breast cancer, prostate cancer and colon cancer together. This is due to the asymptomatic growth of this cancer. In the majority of cases it is too late for a successful therapy if the patient develops first symptoms (''e.g.'' chronic croakiness or hemoptysis). But if the lung cancer is detected early (mostly by chance), there is a survival rate at 47% according to the American Cancer Society.<ref>http://www.cancer.org/downloads/CRI/6976.00.pdf</ref>
+At the same time the standard x-ray-examination of the lung is the most frequently x-ray examination with a 50% share. Indeed the random detection of lung cancer in the early stage (stage 1) in the x-ray image is difficult. It is a fact that round lesions vary from 5–10&nbsp;mm are easily overlooked.<ref>Wu N, Gamsu G, Czum J, Held B, Thakur R, Nicola G: ''Detection of small pulmonary nodules using direct digital radiography and picture archiving and communication systems.'' J Thorac Imaging. 2006 Mar;21(1):27-31. PMID 16538152</ref>
+The routine application of CAD Chest Systems may help to detect small changes without initial suspicion. [[Philips]] was the first vendor to present a CAD for early detection of round lung lesions on x-ray images.<ref>[http://www.medical.philips.com/main/products/xray/products/radiography/cad_chest xLNA (x-Ray Lung Nodule Assessment)]</ref>
+
+===Colon cancer===
+CAD is available for detection of [[colorectal polyp]]s in the [[colon (anatomy)|colon]]. Polyps are small growths that arise from the inner lining of the colon. CAD detects the polyps by identifying their characteristic "bump-like" shape. To avoid excessive false positives, CAD ignores the normal colon wall, including the [[haustra]]l folds. In early clinical trials, CAD helped radiologists find more polyps in the colon than they found prior to using CAD.<ref>Petrick N, Haider M, Summers RM, Yeshwant SC, Brown L, Iuliano EM, Louie A, Choi JR, Pickhardt PJ. CT colonography with computer-aided detection as a second reader: observer performance study. ''Radiology'' 2008 Jan;246(1):148-56. Erratum in: Radiology. 2008 Aug;248(2):704. PMID 18096536</ref><ref>Halligan S, Altman DG, Mallett S, Taylor SA, Burling D, Roddie M, Honeyfield L, McQuillan J, Amin H, Dehmeshki J. Computed tomographic colonography: assessment of radiologist performance with and without computer-aided detection. ''Gastroenterology'' 2006 Dec;131(6):1690-9. Epub 2006 Oct 1. PMID 17087934</ref>
+
+===Coronary artery disease===
+CAD is available for the automatic detection of significant (causing more than 50% [[stenosis]]) [[coronary artery disease]] in coronary CT angiography (CCTA) studies. A low false positives rate (60-70% specificity per patient)<ref>E. Arnoldi, M. Gebregziabher, U. J. Schoepf, R. Goldenberg, L. Ramos-Duran, P. L. Zwerner, K. Nikolaou, M. F. Reiser, P. Costello and C. Thilo, Automated computer-aided stenosis detection at coronary CT angiography: initial experience, European Radiology, 20(5):1160-7, May 2010 PMID 19890640</ref><ref>E. J. Halpern, D. J. Halpern, Diagnosis of coronary stenosis with CT angiography: comparison of automated computer diagnosis with expert readings, Academic Radiology, 18(3):324-33, Mar 2011 PMID 21215663</ref><ref>Kang KW, Chang HJ, Shim H, Kim YJ, Choi BW, Yang WI, Shim JY, Ha J, Chung N., Feasibility of an automatic computer-assisted algorithm for the detection of significant coronary artery disease in patients presenting with acute chest pain., Eur J Radiol, 81(4):e640-6, Apr 2012, PMID 22304980</ref>allows using it as a [[Computer-aided simple triage|computer-aided simple triage (CAST)]] tool distinguishing between positive and negative studies and yielding a preliminary report. This, for example, can be used for chest pain patients' triage in an emergency setting.
+
+===Congenital heart defect===
+Early detection of pathology can be the difference between life and death. CADe can be done by [[auscultation]] with a digital stethoscope and specialized software, also known as [[Computer-aided auscultation]]. Murmurs, irregular heart sounds, caused by blood flowing through a defective heart, can be detected with high sensitivity and specificity. [[Computer-aided auscultation]] is sensitive to external noise and bodily sounds and requires an almost silent environment to function accurately.
+
+===Nuclear medicine===
+CADx is available for nuclear medicine images. Commercial CADx systems for the diagnosis of bone metastases in whole-body bone scans and coronary artery disease in myocardial perfusion images exist.<ref>[http://www.exini.com EXINI Diagnostics]</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Health sciences]]
+[[Category:Medical technology]]
+[[Category:Radiology]]
+[[Category:Health informatics]]

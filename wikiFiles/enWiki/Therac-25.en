@@ -1,0 +1,83 @@
+The '''Therac-25''' was a [[Radiation therapy|radiation therapy machine]] produced by [[Atomic Energy of Canada Limited]] (AECL) after the [[Therac-6]] and [[Therac-20]] units (the earlier units had been produced in partnership with [[Compagnie General Radiographique|CGR]] of [[France]]).
+{| class=infobox 
+!colspan=2|Therac 25 user interface <ref name="Leveson">[http://sunnyday.mit.edu/papers/therac.pdf Medical Devices: The Therac-25] Nancy Leveson, [[University of Washington]]</ref>
+|-
+| 
+ <span style="font-size:100%;">
+ PATIENT NAME   : JOHN DOE
+ TREATMENT MODE : FIX     BEAM TYPE: X     ENERGY (MeV): 25
+ 
+                           ACTUAL     PRESCRIBED
+     UNIT RATE/MINUTE          0            200
+     [[Monitor unit|MONITOR UNITS]]         50  50           200
+     TIME (MIN)             0.27           1.00
+ 
+ GANTRY ROTATION (DEG)       0.0              0     VERIFIED
+ [[Collimator|COLLIMATOR]] ROTATION (DEG) 359.2            359     VERIFIED
+ COLLIMATOR X (CM)          14.2           14.3     VERIFIED
+ COLLIMATOR Y (CM)          27.2           27.3     VERIFIED
+ WEDGE NUMBER                  1              1     VERIFIED
+ ACCESSORY NUMBER              0              0     VERIFIED
+ 
+ DATE   : 84-OCT-26   SYSTEM : BEAM READY   OP.MODE: TREAT AUTO
+ TIME   : 12:55. 8    TREAT  : TREAT PAUSE           X-RAY 173777
+ OPR ID : T25VO2-RO3  REASON : OPERATOR     COMMAND:
+ </span>
+|}
+It was involved in at least six accidents between 1985 and 1987, in which patients were given massive [[radiation poisoning|overdoses of radiation]], approximately 100 times the intended dose.<ref name="baase"><cite id=refBaase2008>Baase, S (2008). "A Gift of Fire", Pearson Prentice Hall.</cite></ref>{{rp|425}} These accidents highlighted the dangers of software [[control system|control]] of safety-critical systems, and they have become a standard case study in [[health informatics]] and [[software engineering]].
+
+== Problem description ==
+The machine offered two modes of [[radiation therapy]]:
+* Direct [[electron beam|electron-beam]] therapy, which delivered low doses of high-energy (5 [[Electronvolt|MeV]] to 25 MeV) electrons over short periods of time;
+* [[Megavoltage X-rays|Megavolt X-ray]] therapy, which delivered [[X-ray]]s produced by colliding high-energy (25 MeV) electrons into a "target". 
+
+When operating in direct electron-beam therapy mode, a low-powered electron beam was emitted directly from the machine, then spread to safe concentration using scanning magnets. When operating in megavolt X-ray mode, the machine was designed to rotate four components into the path of the electron beam: a target, which converted the electron beam into X-rays; a flattening filter, which spread the beam out over a larger area; a set of movable blocks (also called a [[collimator]]), which shaped the X-ray beam; and an X-ray ion chamber, which measured the strength of the beam.
+
+The accidents occurred when the high-power electron beam was activated instead of the intended low power beam, and without the beam spreader plate rotated into place.  Previous models had hardware interlocks in place to prevent this, but Therac-25 had removed them, depending instead on software interlocks for safety. The software interlock could fail due to a [[race condition]]. The defect was as follows: a one-byte counter in a testing routine frequently overflowed; if an operator provided manual input to the machine at the precise moment that this counter overflowed, the interlock would fail.<ref>http://courses.cs.vt.edu/~cs3604/lib/Therac_25/Therac_1.html</ref>
+
+The high-powered electron beam struck the patients with approximately 100 times the intended dose of radiation, delivering a potentially lethal dose of [[beta radiation]].  The feeling was described by patient Ray Cox as "an intense electric shock", causing him to scream and run out of the treatment room.<ref name="Phasers_On_Stun_pp11-16">Set Phasers On Stun - Design and Human Error, Steven Casey, pp. 11-16</ref> Several days later, [[radiation burn]]s appeared and the patients showed the symptoms of radiation poisoning. In three cases, the injured patients later died from [[radiation poisoning]].
+
+== Root causes ==
+A commission concluded<ref name="Leveson" /> that the primary reason should be attributed to the bad software design and development practices, and not explicitly to several coding errors that were found. In particular, the software was designed so that it was realistically impossible to test it in a clean [[automated testing|automated]] way.
+
+Researchers who investigated the accidents found several contributing causes. These included the following ''institutional'' causes:
+* AECL did not have the software code independently [[code review|reviewed]].
+* AECL did not consider the design of the software during its assessment of how the machine might produce the desired results and what failure modes existed. These form parts of the general techniques known as [[reliability modeling]] and [[risk management]].
+* The system noticed that something was wrong and halted the X-ray beam, but merely displayed the word "MALFUNCTION" followed by a number from 1 to 64. The user manual did not explain or even address the error codes, so the operator pressed the P key to override the warning and proceed anyway.
+* AECL personnel, as well as machine operators, initially did not believe complaints. This was likely due to overconfidence.<ref name="baase"/>{{rp|428}}
+* AECL had never tested the Therac-25 with the combination of software and hardware until it was assembled at the hospital.
+
+The researchers also found several ''[[engineering]]'' issues:
+* The failure only occurred when a particular nonstandard sequence of keystrokes was entered on the [[VT-100]] terminal which controlled the [[PDP-11]] computer: an "X" to (erroneously) select 25MV photon mode followed by "cursor up", "E" to (correctly) select 25 MeV Electron mode, then "Enter", all within eight seconds.<ref name="Leveson" /> This sequence of keystrokes was improbable, and so the problem did not occur very often and went unnoticed for a long time.<ref name="Phasers_On_Stun_pp11-16"/>
+* The design did not have any hardware [[Interlock (engineering)|interlocks]] to prevent the electron-beam from operating in its high-energy mode without the target in place.
+* The engineer had [[code reuse|reused]] software from older models. These models had hardware interlocks that masked their software defects. Those hardware safeties had no way of reporting that they had been triggered, so there was no indication of the existence of faulty software commands.
+* The hardware provided no way for the software to verify that sensors were working correctly (see ''[[open-loop controller]]''). The table-position system was the first implicated in Therac-25's failures; the manufacturer revised it with redundant switches to cross-check their operation.
+* The equipment control [[process (computing)|task]] did not properly [[Mutual exclusion|synchronize]] with the operator interface task, so that [[race condition]]s occurred if the operator changed the setup too quickly. This was missed during testing, since it took some practice before operators were able to work quickly enough to trigger this [[failure mode]].
+* The software set a [[flag (computing)|flag variable]] by incrementing it, rather than by setting it to a fixed non-zero value. Occasionally an [[arithmetic overflow]] occurred, causing the flag to return to zero and the software to bypass safety checks.
+
+The software was written in [[assembly language]] that might require more attention for testing and good design. However the choice of language by itself is not listed as a primary cause in the report. The machine also used its own operating system.
+
+Leveson notes that a lesson to be drawn from the incident is to not assume that reused software is safe: 
+"A naive assumption is often made that reusing software or using commercial off-the-shelf software will increase safety because the software will have been exercised extensively. Reusing software modules does not guarantee safety in the new system to which they are transferred..."<ref name="Leveson" /> In response to incidents like those associated with Therac-25, the [[IEC 62304]] standard, which introduces development life cycle standards for medical device software and specific guidance on using [[Soup (Software of Unknown Pedigree)|software of unknown pedigree]], was created.<ref name="emdt">{{cite journal |url=http://www.emdt.co.uk/article/developing-medical-device-software-iso-62304 |title=Developing Medical Device Software to IEC 62304 |last=Hall |first=Ken |work=EMDT - European Medical Device Technology |date=June 1, 2010 |accessdate=2012-12-11}}</ref>
+
+== See also ==
+* [[Software bug]]
+* [[Nuclear and radiation accidents]]
+* [[IEC 62304]]
+
+== Notes ==
+{{reflist|2}}
+
+== External links ==
+* [http://sunnyday.mit.edu/papers/therac.pdf The Therac-25 Accidents (PDF)], by [[Nancy G. Leveson]] (the 1995 update of the IEEE Computer article mentioned below)
+* [http://www.computer.org/portal/site/computer/menuitem.eb7d70008ce52e4b0ef1bd108bcd45f3/index.jsp?&pName=computer_level1&path=computer/homepage/misc/Leveson&file=index.xml&xsl=article.xsl& Leveson, Nancy G., and Turner, Clark S. (July 1993). "An Investigation of the Therac-25 Accidents," ''Computer'' (IEEE), ''26''(7):18-41.] (login required)
+* [http://web.archive.org/web/20071212183729/http://neptune.netcomp.monash.edu.au/cpe9001/assets/readings/www_uguelph_ca_~tgallagh_~tgallagh.html Short summary of the Therac-25 Accidents]
+
+{{Nuclear Technology}}
+
+[[Category:Software bugs]]
+[[Category:Health disasters]]
+[[Category:Nuclear medicine]]
+[[Category:Health disasters in Canada]]
+[[Category:Health informatics]]
+[[Category:Engineering failures]]

@@ -1,0 +1,69 @@
+{{chembox
+| verifiedrevid = 464204835
+|Reference = <ref name="safety">{{cite web|url=http://www.itcilo.it/english/actrav/telearn/osh/ic/732116.htm|title=Phosmet Safety Card|accessdate=2006-08-06}}</ref>
+| ImageFile = Phosmet.png
+| ImageSize = 200px
+| ImageAlt = Skeletal formula
+| ImageFile1 = Phosmet-3D-balls.png
+| ImageSize1 = 220
+| ImageAlt1 = Ball-and-stick model
+|IUPACName=2-(Dimethoxyphosphinothioylthiomethyl)isoindoline-1,3-dione
+|OtherNames=Fosmet<br />Decemthion<br />Imidathion<br />Phthalophos  
+|Section1= {{Chembox Identifiers
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 12367
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = VN04LI540Y
+| InChI = 1/C11H12NO4PS2/c1-15-17(18,16-2)19-7-12-10(13)8-5-3-4-6-9(8)11(12)14/h3-6H,7H2,1-2H3
+| InChIKey = LMNZTLDVJIUSHT-UHFFFAOYAV
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H12NO4PS2/c1-15-17(18,16-2)19-7-12-10(13)8-5-3-4-6-9(8)11(12)14/h3-6H,7H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LMNZTLDVJIUSHT-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo=732-11-6
+|  PubChem=12901
+|  ATCvet = yes
+|  ATCCode_prefix = P53
+|  ATCCode_suffix = AF06
+|  ATC_Supplemental = {{ATCvet|P53|BB03}}
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C18756
+|  ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 38786
+| SMILES = O=C2c1ccccc1C(=O)N2CSP(=S)(OC)OC
+}}
+|Section2= {{Chembox Properties
+|  C=11|H=12|N=1|O=4|P=1|S=2
+|  MolarMass=317.323
+|  Appearance=White to off-white crystals
+|  Density=1.03 g/cm<small>3</small>
+|  MeltingPtC= 72
+|  BoilingPt=Decomposes at >100 °C 
+|  Solubility=
+  }}
+|Section3= {{Chembox Hazards
+|  MainHazards=
+|  FlashPt=
+|  Autoignition=
+  }}
+}}
+
+'''Phosmet''' is a [[phthalimide]]-derived, non-systemic, [[organophosphate]] [[insecticide]] used on plants and animals. It is mainly used on apple trees for control of [[codling moth]], though it is also used on a wide range of fruit crops, ornamentals, and vines for the control of aphids, suckers, mites, and fruit flies.<ref name="Toxicology">{{cite web|url=http://extoxnet.orst.edu/pips/phosmet.htm|title=Toxicology of Phosmet|accessdate=2006-08-06|format=Webpage}}</ref>
+
+==Safety==
+Phosmet is on the US Emergency Planning [[List of Extremely Hazardous Substances]].  It is [[Pesticide toxicity to bees|highly toxic to bees]].<ref name="Toxicology" />
+
+[[Mark Purdey]] has made the controversial suggestion that phosmet may have played a key role in the epidemic of [[bovine spongiform encephalopathy]] (BSE).<ref>{{cite journal |author=Purdey M |title=High-dose exposure to systemic phosmet insecticide modifies the phosphatidylinositol anchor on the prion protein: the origins of new variant transmissible spongiform encephalopathies? |journal=Med. Hypotheses |volume=50 |issue=2 |pages=91–111 |year=1998 |pmid=9572563 |doi=10.1016/S0306-9877(98)90194-3}}</ref>
+
+A 2010 study found that each 10-fold increase in urinary concentration of organophosphate metabolites was associated with a 55% to 72% increase in the odds of [[ADHD]] in children.<ref>http://www.medscape.com/viewarticle/721892</ref>
+
+==References==
+{{reflist}}
+
+{{insecticides}}
+{{Cholinergics}}
+
+[[Category:Organophosphate insecticides]]
+[[Category:Phthalimides]]
+[[Category:Phosphorodithioates]]

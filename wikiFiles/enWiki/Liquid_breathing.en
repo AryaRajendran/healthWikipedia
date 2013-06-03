@@ -1,0 +1,395 @@
+{{Multiple issues|
+{{technical|date=August 2009}}
+{{expert-subject|date=March 2010}}
+}}
+{{Interventions infobox |
+  Name        = Liquid breathing |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9unlinked = |
+  MeshID      = D021061 |
+  OPS301      = |
+  OtherCodes  = |
+}}
+
+'''Liquid breathing''' is a form of [[Respiration (physiology)|respiration]] in which a normally air-breathing organism breathes an [[oxygen]]-rich [[liquid]] (such as a [[perfluorocarbon]]), rather than breathing [[air]].
+
+Perfluorochemical ([[perfluorocarbon]]) molecules have very different structures that impart different physical properties such as respiratory gas solubility, density, viscosity, vapor pressure, and lipid solubility.<ref name="ReferenceA">{{Cite journal 
+| last1 = Shaffer | first1 = Thomas H. 
+| last2 = Wolfson | first2 = Marla R. 
+| last3 = Clark | first3 = Leland C. 
+| doi = 10.1002/ppul.1950140208 
+| title = Liquid ventilation 
+| journal = Pediatric Pulmonology 
+| volume = 14 
+| issue = 2 
+| pages = 102–109 
+| year = 1992 
+| month = October
+| pmid =  1437347
+}}</ref> Thus, it is critical to select the appropriate PFC for a specific biomedical application, such as liquid ventilation, drug delivery, blood substitutes, etc. The physical properties of PFC liquids vary substantially; however, the one common property is their high solubility for respiratory gases. In fact, these liquids carry more [[oxygen]] and [[carbon dioxide]] than blood.<ref name="Gabrielet">{{Cite journal 
+| last1 = Gabriel | first1 = J. L. 
+| last2 = Miller Jr | first2 = T. F. 
+| last3 = Wolfson | first3 = M. R. 
+| last4 = Shaffer | first4 = T. H. 
+| title = Quantitative structure-activity relationships of perfluorinated hetero-hydrocarbons as potential respiratory media: application to oxygen solubility, partition coefficient, viscosity, vapor pressure, and density 
+| journal = ASAIO journal (American Society for Artificial Internal Organs : 1992) 
+| volume = 42 
+| issue = 6 
+| pages = 968–973 
+| year = 1996 
+| pmid = 8959271
+| url = http://journals.lww.com/asaiojournal/Abstract/1996/42060/Quantitative_Structure_Activity_Relationships_of.9.aspx
+}}</ref>
+
+{{multiple image
+| footer    = Computer models of three perfluorochemical molecules used for biomedical applications and for liquid ventilation studies: a) [[FC-75]], b) [[perflubron]], and c) [[perfluorodecalin]].
+| align     = center
+| image1    = FC-75 Molecule.png
+| width1    = {{#expr: (150 * 204 / 288) round 0}}
+| image2    = Perflubron Molecule.png
+| width2    = {{#expr: (150 * 288 / 189) round 0}}
+| image3    = Perfluorodecalin molecule.png
+| width3    = {{#expr: (150 * 288 / 216) round 0}}
+}}
+
+In theory, liquid breathing could assist in the treatment of patients with severe [[human lung|pulmonary]] or [[human heart|cardiac]] trauma, especially in pediatric cases. Liquid breathing has also been proposed for use in deep [[Underwater diving|diving]]<ref name=kylstra>{{cite book |title=The Feasibility of Liquid Breathing in Man. |author=Kylstra JA |year=1977 |volume=Report to the US Office of Naval Research |publisher=Duke University |location=Durham, NC |url=http://archive.rubicon-foundation.org/4257 |accessdate=2008-05-05 }}</ref><ref>{{cite web |url=http://davidszondy.com/future/underwater/menfish.htm |title=menfish |accessdate=2008-05-17 |work=}}</ref> and [[Human spaceflight|space travel]].<ref>{{cite web |url=http://www.experiencefestival.com/a/Liquid_breathing_-_Medical_uses/id/1580110 |title=Liquid Breathing - Medical uses |accessdate=2008-05-17 |format= |work=}}</ref> Despite some recent advances in liquid ventilation, a standard mode of application has not been established yet.
+
+Liquid breathing is sometimes called "fluid breathing", but this can be misleading, as normal atmospheric [[air]] is also a [[fluid]].
+
+{| class="wikitable" style="float:right;"
+|+ Physicochemical properties (37 °C at 1 atm) of 18 perfluorochemical liquids used for biomedical applications. This table characterizes the most significant physical properties related to systemic physiology and their range of properties.
+|-
+| Gas solubility || 
+|-
+| <span style="color:red;">Oxygen</span> || 33-66 mL / 100 mL PFC
+|-
+| <span style="color:blue;">Carbon dioxide</span> || 140-166 mL / 100 mL PFC
+|-
+| Vapor pressure || 0.2-400 torr
+|-
+| Density || 1.58-2.0 g/mL
+|-
+| Viscosity || 0.8-8.0 cS
+|}
+
+==Approaches==
+
+Because liquid breathing is still a highly experimental technique, there are several proposed approaches.
+
+===Total liquid ventilation===
+
+Although total liquid ventilation (TLV) with completely liquid-filled lungs can be beneficial,<ref>Wolfson et al. Multicenter comparative study of conventional mechanical gas ventilation to tidal liquid ventilation in oleic acid injured sheep 54(3):236-269, 2008.</ref> the complex liquid-filled tube system required is a disadvantage compared to gas ventilation — the system must incorporate a [[membrane oxygenator]], heater, and pumps to deliver to, and remove from the lungs [[tidal volume]] [[aliquots]] of conditioned [[perfluorocarbon]] (PFC). One research group led by Thomas H. Shaffer has maintained that with the use of [[microprocessor]]s and new technology, it is possible to maintain better control of respiratory variables such as liquid [[functional residual capacity]] and tidal volume during TLV than with gas ventilation.<ref name="ReferenceA"/><ref>Cox CA, Stavis RL. Wolfson MR, Shaffer TH: Long-term tidal liquid ventilation in premature lambs: Physiologic, biochemical and histological correlates.  Biol. Neonate 84:232-242, 2003.</ref><ref>Libros R, CM Philips, MR Wolfson, and TH Shaffer: A perfluorochemical loss/restoration (L/R) system for tidal liquid ventilation. Biomed Instrum & Technol. 34(5): 351-360, 2000.</ref><ref>Heckman, JL, J Hoffman, TH Shaffer, and MR Wolfson: Software for real-time control of a tidal liquid ventilator. Biomedical  Instrumentation & Technology 33(3):268-276, 1999.</ref> Consequently, the total liquid ventilation necessitates a dedicated [[liquid ventilator]] similar to a [[medical ventilator]] except that it uses a breatheable liquid. Many prototypes are used for [[animal experimentation]]s, but experts recommend continued development of a [[liquid ventilator]] toward clinical applications.<ref>{{cite journal | author  =  Maria Laura Costantino, Philippe Micheau, Thomas H. Shaffer, Stefano Tredici, Maria R. Wolfson
+| title =  Clinical Design Functions:  Round table discussions on bioengineering of liquid ventilators
+| journal  =  Asaio J. | volume =  55 | issue  =  3 | year  =  2009 | pages  =  206–8 | url       =  http://journals.lww.com/asaiojournal/Abstract/2009/05000/Clinical_Design_Functions__Round_Table_Discussions.4.aspx | doi  =  10.1097/MAT.0b013e318199c167 | pmid  =  19282746}}</ref>
+
+===Partial liquid ventilation===
+
+In contrast, partial liquid ventilation (PLV) is a technique in which a PFC is instilled into the lung to a volume approximating [[functional residual capacity]] (approximately 40% of [[Lung volumes|total lung capacity]] (TLC)). [[mechanical ventilation|Conventional mechanical ventilation]] delivers [[tidal volume]] breaths on top of it. This mode of liquid ventilation currently seems technologically more feasible than total liquid ventilation, because PLV could utilise technology currently in place in many [[neonatal intensive-care unit]]s (NICU) worldwide.
+
+The influence of PLV on oxygenation, carbon dioxide removal and lung mechanics has been investigated in several [[animal studies]] using different models of lung injury.<ref>{{cite journal
+| title = Survival of mammals breathing organic liquids equilibrated with oxygen at atmospheric pressure
+| last = Clark
+| first = Leland C.
+| authorlink = Leland Clark
+| last2 = Gollan
+| first2 = F.
+| journal = Science
+| year = 1966
+| volume = 152
+| pages = 1755–6
+| doi = 10.1126/science.152.3730.1755
+| pmid = 5938414
+| issue = 3730
+}}</ref> Clinical applications of PLV have been reported in patients with [[acute respiratory distress syndrome]] (ARDS), [[meconium aspiration syndrome]], [[congenital diaphragmatic hernia]] and [[respiratory distress syndrome]] (RDS) of [[neonate]]s.  In order to correctly and effectively conduct PLV, it is essential to
+# properly dose a patient to a specific lung volume (10-15 ml/kg) to recruit alveolar volume and
+# redose the lung with PFC liquid (1-2 ml/kg/h) to oppose PFC [[evaporation]] from the lung.
+If PFC liquid is not maintained in the lung, PLV can not effectively protect the lung from biophysical forces associated with the gas ventilator.
+
+New application modes for PFC have been developed.<ref>"<cite>A significant positive step was the use of PFC-associated gas exchange, now termed partial liquid ventilation (PLV).</cite>" {{cite journal|title= Perfluorocarbon Enhanced Gas Exchange|author= Hlastala, Michael P. and Jennifer E. Souders| journal=American Journal of Respiratory and Critical Care Medicine|date=  July 1, 2001 |volume= 164|pages=1–2|url=http://ajrccm.atsjournals.org/cgi/content/full/164/1/1/|pmid= 11435228|issue= 1}}</ref>
+
+Partial liquid ventilation (PLV) involves filling the lungs with a fluid.   This fluid is perfluorocarbon, also called Liquivent or Perflubron.  The liquid has some unique properties.  It has a very low surface tension, similar to surfactant, a substance that is produced in your lungs and prevents the alveoli from collapsing and sticking together during exhalation.  It also has a high density, oxygen readily diffuses through it, and it may have some anti-inflammatory properties.  In PLV, the lungs are filled with the liquid, the patient is then ventilated with a conventional ventilator using a protective lung ventilation strategy.   This is called partial liquid ventilation.   The hope is that the liquid will help the transport of oxygen to parts of the lung that are flooded and filled with debris, help remove this debris and open up more alveoli improving lung function.  The study of PLV involves comparison to protocolized ventilator strategy designed to minimize lung damage.<ref name="Hirschl et al">{{cite journal |last1=Hirschl |first1=Ronald B. |last2=Pranikoff |first2=Thomas |last3=Wise |first3=Constance |last4=Overbeck |first4=Michael C. |last5=Gauger |first5=Paul |last6=Schreiner |first6=Robert J. |last7=Dechert |first7=Ronald |last8=Bartlett |first8=Robert H. |year=1996 |title=Initial Experience With Partial Liquid Ventilation in Adult Patients With the Acute Respiratory Distress Syndrome |journal=[[Journal of the American Medical Association|The Journal of the American Medical Association (JAMA)]] |volume=275 |issue=5 |pages=383–389 |location=Chicago, IL, USA |publisher=[[American Medical Association]] |issn=1538-3598 |oclc=1124917 |doi=10.1001/jama.1996.03530290053037 |lccn=82643544}}</ref><ref name="Verbrugge">{{cite journal |last1=Verbrugge |first1=S.J.C. |last2=Lachmann |first2=B. |date=September 1, 1997 |title=Partial liquid ventilation |journal=[http://www.ersj.org.uk European Respiratory Journal] |volume=10 |issue=9 |pages=1937–1939 |location=Lausanne, Switzerland |publisher=[[European Respiratory Society]] |issn=0903-1936 |oclc=488545732 |doi=10.1183/09031936.97.10091937 |url=http://www.ersj.org.uk/content/10/9/1937.full.pdf}} (editorial)</ref>
+
+===PFC vapor===
+
+[[Vaporization]] of [[perfluorohexane]] with two [[anesthetic vaporizer]]s calibrated for perfluorohexane has been shown to improve [[gas exchange]] in [[oleic acid]]-induced lung injury in sheep.<ref>"<cite>Vaporization is a new application technique for perfluorocarbon that significantly improved oxygenation and pulmonary function in oleic acid-induced lung injury.</cite>"
+{{cite journal
+| title=Vaporized perfluorocarbon improves oxygenation and pulmonary function in an ovine model of acute respiratory distress syndrome
+| author=Bleyl JU
+| journal=Anesthesiology
+| year=1999
+| volume=91
+| pages=340–2
+| doi=10.1097/00000542-199908000-00021
+| pmid=10443610
+| issue=2
+| author-separator=,
+| display-authors=1
+| last2=Ragaller
+| first2=Maximilian
+| last3=Tscho
+| first3=Uwe
+| last4=Regner
+| first4=Mike
+| last5=Kanzow
+| first5=Maria
+| last6=Hubler
+| first6=Matthias
+| last7=Rasche
+| first7=Stefan
+| last8=Albrecht
+| first8=Michael
+}}</ref>
+
+Predominantly PFCs with high [[vapor pressure]] are suitable for vaporization.
+
+===Aerosol-PFC===
+
+With [[aerosolized]] [[perfluorooctane]], significant improvement of oxygenation and pulmonary
+mechanics was shown in adult sheep with [[oleic acid]]-induced lung injury.
+
+In [[surfactant]]-[[wikt:depleted|depleted]] [[Domestic pig|piglet]]s, persistent improvement of gas exchange and lung mechanics was demonstrated with Aerosol-PFC.<ref>{{Cite journal 
+| last1 = Kandler | first1 = Michael A. 
+| last2 = Von Der Hardt | first2 = Katharina 
+| last3 = Schoof | first3 = Ellen 
+| last4 = Dötsch | first4 = Jörg R.
+| last5 = Rascher | first5 = Wolfgang 
+| title = Persistent Improvement of Gas Exchange and Lung Mechanics by Aerosolized Perfluorocarbon 
+| journal = American Journal of Respiratory and Critical Care Medicine 
+| volume = 164 
+| issue = 1 
+| pages = 31–35 
+| year = 2001 
+| pmid = 11435235
+| quote = Aerosolized perfluorocarbon improved pulmonary gas exchange and lung mechanics as effectively as PLV did in surfactant-depleted piglets, and the improvement was sustained longer. <!-- from the abstract -->
+}}</ref>
+The aerosol device is of decisive importance for the efficacy of PFC aerosolization, as aerosolization of [[PF5080]] (a less purified [[FC77]]) has been shown to be ineffective using a different aerosol device in surfactant-depleted rabbits. Partial liquid ventilation and Aerosol-PFC reduced pulmonary [[inflammatory response]].<ref>{{Cite journal 
+| last1 = Von Der Hardt | first1 = Katharina 
+| last2 = Schoof | first2 = Ellen 
+| last3 = Kandler | first3 = Michael A. 
+| last4 = Dötsch | first4 = Jörg R. 
+| last5 = Rascher | first5 = Wolfgang 
+| title = Aerosolized Perfluorocarbon Suppresses Early Pulmonary Inflammatory Response in a Surfactant-Depleted Piglet Model 
+| doi = 10.1203/00006450-200202000-00009 
+| journal = Pediatric Research 
+| volume = 51 
+| issue = 2 
+| pages = 177–182 
+| year = 2002 
+| pmid = 11809911
+| quote = In a surfactant-depleted piglet model, aerosol therapy with perfluorocarbon but not LV-PLV reduces the initial pulmonary inflammatory reaction at least as potently as PLV at FRC volume. <!-- from the abstract -->
+}}</ref>
+
+==Proposed uses==
+
+===Diving===
+
+Gas pressure increases with depth, rising 1 [[Bar (unit)|bar]] ({{convert|14.5|psi|kPa|abbr=on}}) every 10 meters to over 1,000 bar at the bottom of the [[Mariana Trench]]. Diving becomes more dangerous as depth increases, and deep diving presents [[Diving hazards and precautions|many hazards]]. All surface-breathing animals are subject to [[decompression sickness]], including [[aquatic mammal]]s<ref name="Lippsett">
+{{cite journal
+|last=Lippsett
+|first=Lonny
+|title=Even Sperm Whales Get the Bends
+|journal=Oceanus
+|volume=44
+|issue=1
+|publisher=Woods Hole Oceanographic Institution
+|date=5 April 2005
+|url=http://www.whoi.edu/oceanus/viewArticle.do?id=4720
+|archiveurl=http://www.webcitation.org/5riSCNFYt
+|archivedate=3 August 2010
+|accessdate=3 August 2010
+|unused_data=Woods Hole, Massachusetts
+}}</ref> and [[free-diving]] humans (see [[Taravana|''taravana'']]). Breathing at depth can cause [[nitrogen narcosis]] and [[oxygen toxicity]]. Holding the breath while ascending after breathing at depth can cause [[air embolism]]s, [[Pulmonary barotrauma|burst lung]], and [[Pneumothorax|collapsed lung]].
+
+Special [[Breathing gas|breathing gas mixes]] such as [[Trimix (breathing gas)|trimix]] or [[heliox]] ameliorate the risk of [[decompression illness]] but do not eliminate it. Heliox further eliminates the risk of nitrogen narcosis but introduces the risk of [[High pressure nervous syndrome|helium tremors]] below 500 feet (152 meters). [[Atmospheric diving suit]]s maintain body and breathing pressure at 1 bar, eliminating most of the hazards of descending, ascending, and breathing at depth. However, the rigid suits are bulky, clumsy, and very expensive.
+
+Liquid breathing offers a third option,<ref name=kylstra/><ref>{{cite journal |author=Kylstra JA |title=Liquid breathing |journal=Undersea Biomed Res |volume=1 |issue=3 |pages=259–69 |year=1974 |month=September |pmid=4619862 |url=http://archive.rubicon-foundation.org/2665 |accessdate=2008-05-05 }}</ref> promising the mobility available with flexible dive suits and the reduced risks of rigid suits. With liquid in the lungs, the pressure within the diver's lungs could accommodate changes in the pressure of the surrounding water without the huge gas partial pressure exposures required when the lungs are filled with gas. Liquid breathing would not result in the saturation of body tissues with high pressure nitrogen or helium that occurs with the use of non-liquids, thus would reduce or remove the need for slow [[decompression (diving)|decompression]].
+
+A significant problem, however, arises from the high [[viscosity]] of the liquid and the corresponding reduction in its ability to remove CO<sub>2</sub>.<ref name=kylstra/><ref name=matthews>{{cite journal |author=Matthews WH, Kylstra JA |title=A fluorocarbon emulsion with a high solubility for CO<sub>2</sub> |journal=Undersea Biomed Res |volume=3 |issue=2 |pages=113–20 |year=1976 |month=June |pmid=951821 |doi= |url=http://archive.rubicon-foundation.org/2764 |accessdate=2008-05-05 }}</ref> All uses of liquid breathing for diving must involve total liquid ventilation (see above). Total liquid ventilation, however, has difficulty moving enough liquid to carry away CO<sub>2</sub>, because no matter how great the total pressure is, the amount of partial CO<sub>2</sub> gas pressure available to dissolve CO<sub>2</sub> into the breathing liquid can never be much more than the pressure at which CO<sub>2</sub> exists in the blood (about 40&nbsp;mm of mercury ([[Torr]])).<ref name=matthews/>
+
+At these pressures, most fluorocarbon liquids require about 70 mL/kg minute-ventilation volumes of liquid (about 5 L/min for a 70&nbsp;kg adult) to remove enough CO<sub>2</sub> for normal resting metabolism.<ref>{{cite journal | author = Miyamoto Y., Mikami T. | year = 1976 | title = Maximum capacity of ventilation and efficiency of gas exchange during liquid breathing in guinea pigs | url = | journal = Jpn. J. Physiol | volume = 26 | issue = 6| pages = 603–618 | pmid = 1030748 | doi = 10.2170/jjphysiol.26.603 }}</ref> This is a great deal of fluid to move, particularly as liquids are generally more viscous than gases, (for example water is about 850 times the viscosity of air<ref name=Sherwood2005>{{Cite book | last1 = Sherwood | first1 = Lauralee | last2 = Klandorf | first2 = Hillar | last3 = Yancey | first3 = Paul H. | year = 2005 | title = Animal Physiology: From Genes to Organisms | isbn = 0-534-55404-0 | publisher = Thomson/Brooks/Cole | location = Southbank, Victoria, Australia | oclc = 224468651 | unused_data = ISBN status = May be invalid - please double check}}</ref>). Any increase in the diver's metabolic activity also increases CO<sub>2</sub> production and the breathing rate, which is already at the limits of realistic flow rates in liquid breathing.<ref name=kylstra/><ref>Koen, P. A.; Wolfson, M. R.; Shaffer, T. H. (1988). "Fluorocarbon ventilation: maximal expiratory flows and CO<sub>2</sub> elimination". ''Pediatr Res.'' '''24''': 291–296. PMID 3145482.</ref><ref>{{cite journal |author=Matthews WH, Balzer RH, Shelburne JD, Pratt PC, Kylstra JA |title=Steady-state gas exchange in normothermic, anesthetized, liquid-ventilated dogs |journal=Undersea Biomed Res |volume=5 |issue=4 |pages=341–54 |year=1978 |month=December |pmid=153624 |url=http://archive.rubicon-foundation.org/2818 |accessdate=2008-05-05 }}</ref> It seems unlikely that a person would move 10 liters/min of fluorocarbon liquid without assistance from a mechanical ventilator, so "free breathing" may be unlikely.
+
+===Medical treatment===
+
+[[Image:Perflubron and gentamicin molecules.png|thumb|Computer-generated model of perflubron and gentamicin molecules in liquid suspension for pulmonary administration]] The most promising area for the use of liquid ventilation is in the field of [[Pediatrics|pediatric medicine]].<ref>{{cite journal |last=Wolfson |last2=et al. |title=Perfluorochemical rescue after surfactant treatment: Effect of perflubron dose and ventilatory frequency |journal=[[Journal of Applied Physiology|J Appl Physiol.]] |volume=84 |issue=2 |pages=624–640 |year=1998 |url=http://www.jappl.org/content/84/2/624.short |pmid=9475875 |first1=MR |first2=NE |last3=Roache |first3=RF |last4=Dechadarevian |first4=JP |last5=Friss |first5=HE |last6=Rubenstein |first6=SD |last7=Shaffer |first7=TH }}</ref><ref>{{Cite journal 
+| last1 = Stavis | first1 = Robert L. 
+| last2 = Wolfson | first2 = Marla R. 
+| last3 = Cox | first3 = Cynthia 
+| last4 = Kechner | first4 = Nancy 
+| last5 = Shaffer | first5 = Thomas H. 
+| title = Physiologic, Biochemical, and Histologic Correlates Associated with Tidal Liquid Ventilation 
+| doi = 10.1203/00006450-199801000-00020 
+| journal = Pediatric Research 
+| volume = 43 
+| issue = 1 
+| pages = 132–138 
+| year = 1998
+
+| month = January 
+| pmid =  9432124
+}}</ref><ref>{{Cite journal 
+
+| last1 = Wolfson | first1 = Marla R. 
+| last2 = Shaffer | first2 = Thomas H. 
+| doi = 10.1016/j.prrv.2005.03.010 
+| title = Pulmonary applications of perfluorochemical liquids: Ventilation and beyond 
+| journal = Paediatric Respiratory Reviews 
+| volume = 6 
+| issue = 2 
+| pages = 117–127 
+| year = 2005 
+
+| month = June
+| pmid =  15911457
+| pmc = http://cryoeuro.eu:8080/download/attachments/425990/LVandBeyondSchaffer.pdf
+}}</ref> The first medical use of liquid breathing was treatment of premature babies<ref>{{cite journal |last=Greenspan |last2=et al. |title=Liquid ventilation of preterm baby |journal=[[Lancet (journal)|Lancet]] |volume=2 |issue=8671 |pages=1095 |year=1989 |pmid=2572810 |doi=10.1016/S0140-6736(89)91101-X |first1=Jays. |first2=Marlar. |last3=David Rubenstein |first3=S. |last4=Shaffer |first4=Thomash. }}</ref><ref>Greenspan et al. Liquid ventilation of human neonates. J Pediatr. 117(1): 106-11, 1990.</ref><ref>Leach et al. Partial liquid ventilation with perflubron in premature infants with severe respiratory distress: The LiquiVent Study Group. N Engl J Med. 12; 335(11): 761-7, 1996.</ref><ref>Greenspan et al. Partial liquid ventilation in critically ill infants receiving extracorporeal life support. Philadelphia Liquid Ventilation Consortium Pediatrics 99(1): E2, 1997.</ref> and adults with [[Acute respiratory distress syndrome|acute respiratory distress syndrome (ARDS)]] in the 1990s. Liquid breathing was used in clinical trials after the development by Alliance Pharmaceuticals of the [[fluorocarbon|fluorochemical]] perfluorooctyl bromide, or [[perflubron]] for short. Current methods of [[positive pressure ventilation|positive-pressure ventilation]] can contribute to the development of lung disease in [[neonatal medicine|pre-term neonates]], leading to diseases such as [[bronchopulmonary dysplasia]]. Liquid ventilation removes many of the high pressure gradients responsible for this damage. Furthermore, [[perfluorocarbon]]s have been demonstrated to reduce lung inflammation,<ref>Brunelli et al. Perfluorochemical liquids enhance delivery of superoxide dismutase to the lungs of juvenile rabbits Pediatr Res 60(1):65-70, 2006.</ref><ref>Perfluorochemical liquids modulate cell-mediated inflammatory responses Crit Care Med. 29(9): 1731-7, 2001.</ref><ref>{{Cite journal 
+| last1 = Ramesh Babu | first1 = Polani B. 
+| last2 = Chidekel | first2 = Aaron 
+| last3 = Shaffer | first3 = Thomas H. 
+| doi = 10.1097/01.PCC.0000154944.67042.4F 
+| title = Hyperoxia-induced changes in human airway epithelial cells: The protective effect of perflubron 
+| journal = Pediatric Critical Care Medicine 
+| volume = 6 
+| issue = 2 
+| pages = 188–194 
+| year = 2005 
+
+| month = March
+| pmid = 15730607 
+}}</ref> improve [[ventilation-perfusion mismatch]] and to provide a novel route for the [[pulmonary administration of drugs]].<ref>Brunelli et al.</ref><ref>{{Cite journal 
+| last1 = Cox | first1 = Cynthia A. 
+| last2 = Cullen | first2 = Aaron B. 
+| last3 = Wolfson | first3 = Marla R. 
+| last4 = Shaffer | first4 = Thomas H. 
+| title = Intratracheal administration of perfluorochemical-gentamicin suspension: A comparison to intravenous administration in normal and injured lungs 
+| doi = 10.1002/ppul.1100 
+| journal = Pediatric Pulmonology 
+| volume = 32 
+| issue = 2 
+| pages = 142–151 
+| year = 2001 
+| month = August
+| pmid = 11477731
+}}</ref><ref>{{Cite journal 
+| last1 = Fox | first1 = William W. 
+| last2 = Weis | first2 = Carla M. 
+| last3 = Cox | first3 = Cynthia 
+| last4 = Farina | first4 = Clotilde 
+| last5 = Drott | first5 = Henr 
+| last6 = Wolfson | first6 = Marla R. 
+| last7 = Shaffer | first7 = Thomas H. 
+| title = Pulmonary administration of gentamicin during liquid ventilation in a newborn lamb lung injury model 
+| journal = Pediatrics 
+| volume = 100 
+| issue = 5 
+| pages = E5 
+| year = 1997 
+| month = November
+| pmid = 9346999
+}}</ref>
+
+In order to explore drug delivery techniques that would be useful for both partial and total liquid ventilation, more recent studies have focused on PFC drug delivery using a nanocrystal suspension. The first image is a computer model of a PFC liquid (perflubron) combined with gentamicin molecules.
+
+The second image shows experimental results comparing both plasma and tissue levels of gentamicin after an intratracheal (IT) and intravenous (IV) dose of 5&nbsp;mg/kg in a newborn lamb during gas ventilation. Note that the plasma levels of the IV dose greatly exceed the levels of the IT dose over the 4 hour study period; whereas, the lung tissue levels of gentamicin when delivered by an intratracheal (IT) suspension, uniformly exceed the intravenous (IV) delivery approach after 4 hours. Thus, the IT approach allows more effective delivery of the drug to the target organ while maintaining a safer level systemically. Both images represent the in-vivo time course over 4 hours. Numerous studies have now demonstrated the effectiveness of PFC liquids as a delivery vehicle to the lungs.<ref>Wolfson MR, Greenspan JS, Shaffer TH. Pulmonary adminis¬tration of vasoactive substances by perfluorochemical ventilation. Pediatrics. 1996;97(4):449-455.</ref><ref>Kimless Garber DB, Wolfson MR, Carlsson C, Shaffer TH. Halothane administration during liquid ventila¬tion. Respir Med. 1997;91(5):255-262.</ref><ref>Zelinka MA, Wolfson MR, Calligaro I, Rubenstein SD, Greenspan JS, Shaffer TH. A comparison of intratracheal and intravenous administration of gentamicin during liquid ventilation. Eur J Pediatr. 1997;156(5):401-404.</ref><ref>Lisby DA, Ballard PL, Fox WW, Wolfson MR, Shaffer TH, Gonzales LW. Enhanced distribution of adenovirus-mediated gene transfer to lung parenchyma by perfluorochemical liquid. Hum Gene Ther. 1997;8(8):919-928.</ref><ref>Fox WW, Weis CM, Cox C, Farina C, Drott H, Wolfson MR, Shaffer TH. Pulmonary administration of gentamicin during liquid ventilation in a newborn lamb lung injury model. Pediatrics. 1997;100(5):E5.</ref><ref>Cullen AB, Cox CA, Hipp SJ, Wolfson MR, Shaffer TH. Intra-tracheal delivery strategy of gentamicin with partial liquid ventilation. Respir Med. 1999;93(11):770-778.</ref><ref>Cox CA, Cullen AB, Wolfson MR, Shaffer TH. Intratracheal administration of perfluorochemical-gentamicin suspension: a comparison to intravenous administration in normal and injured lungs. Pediatr Pulmonol. 2001;32(2):142-151.</ref><ref>Chappell SE, Wolfson MR, Shaffer TH. A comparison of surfactant delivery with conventional mechanical ventilation and partial liquid ventilation in meconium aspiration injury. Respir Med. 2001;95(7):612-617.</ref><ref>Brunelli L, Hamilton E, Davis JM, Koo HC, Joseph A, Kazzaz JA, Wolfson MR, Shaffer TH. Perfluorochemical liquids enhance delivery of superoxide dismutase to the lungs of juvenile rabbits. Pediatr Res. 2006;60(1):65-70.</ref><ref>Constantino ML, Shaffer TH, Wauer RR, Rudiger M. The 5th European Symposium on Perfluorocarbon (PFC) Application. ASAIO J. 2006;52(4):483-494.</ref>[[Image:Gentamicin levels.png|thumb|Comparison of IT and IV administration of gentamicin.]]
+
+Clinical trials with premature infants, children and adults were conducted. Since the safety of the procedure and the effectiveness were apparent from an early stage, the US [[Food and Drug Administration]] (FDA) gave the product "fast track" status (meaning an accelerated review of the product, designed to get it to the public as quickly as is safely possible) due to its life-saving potential. Clinical trials showed that using perflubron with ordinary [[medical ventilator|ventilators]] improved outcomes as much as using [[High Frequency Ventilation|high frequency oscillating ventilation]] (HFOV).  But because perflubron was not better than HFOV, the FDA did not approve perflubron, and Alliance is no longer pursuing the partial liquid ventilation application.  Whether perflubron would improve outcomes when used with HFOV or has fewer long-term consequences than HFOV remains an open question.
+
+In 1996 [[Mike Darwin]] and Dr. Steven B. Harris proposed using cold liquid ventilation with perfluorocarbon to quickly lower the body temperature of victims of [[cardiac arrest]] and other brain trauma to allow the brain to better recover.<ref>
+{{cite journal
+| author=Darwin, M. G.
+| title=Liquid Ventilation: A Bypass on The Way to Bypass
+| journal=BPI Tech Briefs
+| year=1996
+| volume=19
+| url=http://www.cryocare.org/index.cgi?subdir=bpi&url=tech19.txt
+}}</ref>
+The technology came to be called gas/liquid ventilation (GLV), and was shown able to achieve a cooling rate of 0.5 °[[Celsius|C]] per minute in large animals.<ref>
+{{cite journal
+| author=Harris, S. B.
+| title=Rapid (0.5°C/min) minimally invasive induction of hypothermia using cold perfluorochemical lung lavage in dogs
+| journal=Resusciation
+| year=2001
+| volume=50
+| pages=189–204
+| doi=10.1016/S0300-9572(01)00333-1
+| pmid=11719148
+| issue=2
+| display-authors=1
+| last2=Darwin
+| first2=Michael G.
+| last3=Russell
+| first3=Sandra R.
+| last4=O'Farrell
+| first4=Joan M.
+| last5=Fletcher
+| first5=Mike
+| last6=Wowk
+| first6=Brian
+}}</ref> It has not yet been tried in humans.
+
+Most recently, hypothermic brain protection has been associated with rapid brain cooling. In this regard, a new therapeutic approach is the use of intranasal perfluorochemical spray for preferential brain cooling.<ref>Wolfson et al. Intranasal perfluorochemical spray for preferential brain cooling in sheep. Neurocrit Care. 8(3): 437-47, 2008.</ref> The nasopharyngeal (NP) approach is unique for brain cooling due to anatomic proximity to the cerebral circulation and arteries. Based on preclinical studies in adult sheep, it was shown that independent of region, brain cooling was faster during NP-perfluorochemical versus conventional whole body cooling with cooling blankets. To date, there have been four human studies including a completed randomized intra-arrest study (200 patients).<ref>Castrén M, Nordberg P, Svensson L, et al. Intra-arrest transnasal evaporative cooling: a randomized, prehospital, multicenter study (PRINCE: Pre-ROSC IntraNasal Cooling Effectiveness). Circulation. 2010 Aug 17;122(7):729-36. Epub 2010 Aug 2.</ref><ref>Busch HJ, Eichwede F, Födisch M, et al. Safety and feasibility of nasopharyngeal evaporative cooling in the emergency department setting in survivors of cardiac arrest. Resuscitation. 2010 Aug;81(8):943-9. Epub 2010 Jun 2.</ref> Results clearly demonstrated that prehospital intra-arrest transnasal cooling is safe, feasible and is associated with an improvement in cooling time.
+
+===Space travel===
+
+Liquid immersion provides a way to reduce the physical stress of [[G force]]s. Forces applied to fluids are distributed as omnidirectional pressures. Because liquids cannot be practically compressed, they do not change density under high acceleration such as performed in aerial maneuvers or space travel. A person immersed in liquid of the same density as [[Biological tissue|tissue]] has acceleration forces distributed around the body, rather than applied at a single point such as a seat or harness straps. This principle is used in a new type of [[G-suit]] called the Libelle G-suit, which allows aircraft pilots to remain conscious and functioning at more than 10 G acceleration by surrounding them with water in a rigid suit.
+
+Acceleration protection by liquid immersion is limited by the differential density of body tissues and immersion fluid, limiting the utility of this method to about 15 to 20 G.<ref>
+{{cite book
+| title = Textbook of Medical Physiology, 7th Ed., Aviation, Space, and Deep Sea Diving Physiology
+| last = Guyton
+| first = Arthur C.
+| publisher = W. B. Saunders Company
+| year = 1986
+| page = 533
+}}</ref>
+Extending acceleration protection beyond 20 G requires filling the lungs with fluid of density similar to water. An astronaut totally immersed in liquid, with liquid inside all body cavities, will feel little effect from extreme G forces because the forces on a liquid are distributed equally, and in all directions simultaneously. However effects will be felt because of density differences between different body tissues, so an upper acceleration limit still exists.
+
+Liquid breathing for acceleration protection may never be practical because of the difficulty of finding a suitable breathing medium of similar density to water that is compatible with lung tissue. [[Perfluorocarbon]] fluids are twice as dense as water, hence unsuitable for this application.<ref name="Gabrielet" />
+
+==Examples in fiction==
+{{Refimprove section|date=January 2013}}
+
+* [[Joe Haldeman]]'s 1975 novel ''[[The Forever War]]'' describes liquid immersion and breathing in great detail as a key technology to allow space travel and combat with acceleration up to 50 G.
+* In ''[[The Lost Symbol]]'' by [[Dan Brown]], Robert Langdon (the protagonist) is completely submerged in breathable liquid mixed with hallucination agents and sedatives as a torture technique by Mal'akh (the antagonist). He goes through a [[near death experience]] when he inhales the liquid and [[Drowning#Unconsciousness|blacks out]], losing control over his body, but is soon revived.
+* The [[James Cameron]] film ''[[The Abyss]]'' features a character using liquid breathing to dive thousands of feet without compressing. ''The Abyss'' also features a scene with a rat submerged in and breathing fluorocarbon liquid, filmed in real life.<ref>{{cite journal |first=Aljean |last=Harmetz |url=http://www.nytimes.com/1989/08/06/movies/film-the-abyss-a-foray-into-deep-waters.html |title='The Abyss': A Foray Into Deep Waters |newspaper=[[New York Times]] |date=August 6, 1989 }}</ref>
+* In the [[anime]] ''[[Neon Genesis Evangelion]]'', the cockpits of the titular [[Mecha]] are filled with a fictional oxygenated liquid called LCL which helps to dampen impacts on the pilot in battle and helps him to better psychically-synchronize with his biomechanical vehicle.  However, the pilots are able to see through it, hear and speak normally as if it were air, things humans are incapable of doing in aqueous media.
+* The aliens in the [[Gerry Anderson]] [[UFO series]] use liquid-breathing spacesuits.
+* [[Hal Clement]]'s 1973 novel ''Ocean on Top'' portrays a small underwater civilization living in a 'bubble' of oxygenated fluid denser than seawater.
+* In an episode of the [[Adult Swim]] cartoon series ''[[Metalocalypse]]'', the other members of the band submerge guitarist Toki in a "liquid oxygen isolation chamber" while recording an album in the [[Mariana Trench]].
+* In an episode of the [[Syfy]] Channel show ''[[Eureka (U.S. TV series)|Eureka]]'', Sheriff Jack Carter is submerged in a tank of "oxygen rich [[plasma (physics)|plasma]]" to be cured of the effects of a scientific accident.
+* In the movies ''[[Mission to Mars]]'' and [[Event Horizon (film)|''Event Horizon'']], a character is depicted as being immersed in apparent breathable fluid before a high-acceleration launch.
+* In season 1, episode 13 of ''[[Seven Days (TV series)|Seven Days]]'' chrononaut Frank Parker is seen breathing a hyper-oxygenated [[perfluorocarbon]] liquid that is pumped through a sealed full body suit that he is wearing. This suit and liquid combination allow him to board a Russian submarine through open ocean at a depth of almost 1000 feet.  Upon boarding the submarine he removes his helmet, expels the liquid from his lungs and is able to breathe air again.
+* [[Ben Bova]]'s novel ''[[Jupiter (novel)|Jupiter]]'' features a craft in which the crew are suspended in a breathable liquid that allows them to survive in the high pressure environment of [[Jupiter]]'s atmosphere.
+* The novel [[Horus Heresy (novels)#book9|''Mechanicum'']] by [[Graham McNeill]], Book&nbsp;9 in the ''Horus Heresy'' book series, describes physically crippled {{em|Titan}} (gigantic war machine) pilots encased in nutrient fluid tanks. This allows them to continue operating beyond the limits normally imposed by the body.<ref>{{cite book|ref=harv|last=McNeill|first=Graham|year=2008|title=Mechanicum: war comes to Mars|type=print|format=mass market paperback|others=Cover art & illustration by Neil Roberts; map by Adrian Wood|series=Horus Heresy {{interp|book series}}|volume=9|publisher=[[Black Library]]|location=[[Nottingham, UK]]|edition=1st UK|pages=64, 149|isbn=978-1-84416-664-0|authorlink=Graham McNeill}} The {{em|amniotic}} tanks are referenced in several other places in the novel.</ref>
+* In the classic PC [[turn-based strategy]] game ''[[X-COM: Terror from the Deep]]'', "Aquanauts" fighting deep ocean conditions breathe a dense oxygen-carrying fluid.
+*In the ''[[Star Trek: The Next Generation]]'' novel ''[[The Children of Hamlin]]'' the crew of the [[USS Enterprise (NCC-1701-D)|''Enterprise''-D]] encounter an alien race whose ships contain a breathable liquid environment.
+*In season 1 episode 10 of ''[[seaQuest DSV]]'' ("The Regulator"), a rogue genius was anathema because of his theory of "cyclical evolution" which involved mammals returning to the sea. He tried to place artificial gills on apes and mice so they could breathe underwater.<ref>http://www.imdb.com/title/tt0696951/</ref>
+
+==See also==
+* [[Artificial gills (human)]]
+* [[Breathing gas]]
+* [[Liquid ventilator]]
+* [[Mechanical ventilation]]
+
+==References==
+{{reflist|30em}}
+<!--
+LINK NO LONGER WORKING
+Text taken, with permission, from ''[http://web.archive.org/web/20050318045848/http://www.scienceweb.org/movies/abyss.html Fluid Breathing]'', and afterwards edited.
+-->
+
+==External links==
+* [http://web.archive.org/web/20080119132718/http://www.skyaid.org/Skyaid+Org/Medical/Heart_Cool_Oxygen.htm Here, Breathe This Liquid], from ''[[Discover Magazine]]''
+* [http://www.rd.com/living-healthy/miracle-girl-makes-medical-history-for-premature-babies/article26938.html Miracle Girl], from ''[[Reader's Digest]]''
+
+{{DEFAULTSORT:Liquid breathing}}
+[[Category:Liquids]]
+[[Category:Underwater diving procedures]]
+[[Category:Diving equipment]]
+[[Category:Respiration]]
+[[Category:University at Buffalo, The State University of New York]]
+[[Category:Medical procedures]]
+[[Category:Respiratory system procedures]]
+
+[[fr:Ventilation liquidienne]]

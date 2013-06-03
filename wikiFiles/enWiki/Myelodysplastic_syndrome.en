@@ -1,0 +1,281 @@
+{{Infobox disease
+ | Name            = Myelodysplastic syndrome |
+ | Image           = |
+ | Caption         = |
+ | DiseasesDB      = 8604|
+ | ICD10           = {{ICD10|D|46||d|37}} |
+ | ICD9            = {{ICD9|238.7}} |
+ | ICDO            = 9980/0-{{ICDO|9989|3}} |
+ | OMIM            = |
+ | MedlinePlus     = |
+ | eMedicineSubj   = med |
+ | eMedicineTopic  = 2695 |
+ | eMedicine_mult  = {{eMedicine2|ped|1527}} |
+ | MeshID          = D009190
+}}
+
+The '''myelodysplastic syndromes''' (MDS, formerly known as '''preleukemia''') are a diverse collection of [[hematology|hematological]] (blood-related) medical conditions that involve ineffective production (or [[dysplasia]]) of the [[myeloid]] class of blood cells.<ref>{{DorlandsDict|eight/000104509|myelodysplastic syndrome}}</ref>
+
+Patients with MDS often develop severe [[anemia]] and require frequent [[blood transfusion]]s.  In most cases, the disease worsens and the patient develops [[cytopenia]]s (low blood counts) caused by progressive [[bone marrow]] failure. 
+
+The outlook in MDS is poor, and most patients will progress within a few months to refractory [[acute myeloid leukemia]]. The median survival varies from years to months. <ref name="Harrison's"/> 
+
+The myelodysplastic syndromes are all disorders of the [[hematopoietic stem cell|stem cell]] in the bone marrow.  In MDS, [[hematopoiesis]] (blood production) is disorderly and ineffective.  The number and quality of blood-forming cells decline irreversibly, further impairing blood production.
+
+==Classification.==
+===French-American-British (FAB) classification===
+In 1974 and 1975, a group of pathologists from France, the US, and Britain produced the first widely used classification of these diseases. This [[French-American-British classification]] was published in 1976,<ref name="pmid188440">{{cite journal |author=Bennett JM, Catovsky D, Daniel MT, ''et al.'' |title=Proposals for the classification of the acute leukaemias. French-American-British (FAB) co-operative group |journal=Br. J. Haematol. |volume=33 |issue=4 |pages=451–8 |year=1976 |month=August |pmid=188440 |doi= 10.1111/j.1365-2141.1976.tb03563.x|url=}}</ref> and revised in 1982.  Cases were classified into five categories: ([[ICD-O]] codes are provided where available)
+
+{| class="wikitable"
+|-
+! [[ICD-O]]
+! Name
+! Description
+|-
+| {{ICDO|9980|3}}
+| '''[[Refractory anemia]]''' (RA)
+| characterized by less than 5% primitive blood cells ([[myeloblasts]]) in the bone marrow and pathological abnormalities primarily seen in red cell precursors
+|-
+| {{ICDO|9982|3}}
+| '''[[Refractory anemia with ringed sideroblasts]]''' (RARS)
+| also characterized by less than 5% myeloblasts in the bone marrow, but distinguished by the presence of 15% or greater red cell precursors in the marrow being abnormal iron-stuffed cells called "ringed sideroblasts"
+|-
+| {{ICDO|9983|3}}
+| '''[[Refractory anemia with excess blasts]]''' (RAEB)
+| characterized by 5-20% myeloblasts in the marrow
+|-
+| {{ICDO|9984|3}}
+| '''[[Refractory anemia with excess blasts in transformation]]''' (RAEB-T)
+| characterized by 21-30% myeloblasts in the marrow (>30% blasts is defined as [[acute myeloid leukemia]])
+|-
+| {{ICDO|9945|3}}
+| '''[[Chronic myelomonocytic leukemia]]''' (CMML), not to be confused with [[chronic myelogenous leukemia]] or CML
+| characterized by less than 20% myeloblasts in the bone marrow and greater than 1*10<sup>9</sup>/L [[monocytes]] (a type of white blood cell) circulating in the peripheral blood.
+|}
+
+A table comparing these is available from the Cleveland Clinic.<ref name="urlTable 1: French-American-British (FAB) Classification of MDS">{{cite web |url=http://www.clevelandclinicmeded.com/diseasemanagement/hematology/myelo/table1.htm |title=Table 1: French-American-British (FAB) Classification of MDS |work= |accessdate=}}</ref>
+
+The best prognosis is seen with refractory anemia with ringed sideroblasts and refractory anemia, where some non-transplant patients live more than a decade (the average is on the order of three to five years, although long-term remission is possible if a bone marrow transplant is successful).  The worst outlook is with RAEB-T, where the mean life expectancy is less than 1 year.  About one quarter of patients develop overt leukemia.  The others die of complications of low blood count or unrelated disease.  The ''International Prognostic Scoring System'' is another tool for determining the prognosis of MDS, published in ''Blood'' in 1997.<ref>{{cite journal | author=Greenberg P, Cox C, LeBeau MM, Fenaux P, Morel P, Sanz G, Sanz M, Vallespi T, Hamblin T, Oscier D, Ohyashiki K, Toyama K, Aul C, Mufti G, Bennett J | title=International scoring system for evaluating prognosis in myelodysplastic syndromes | journal=Blood | year=1997 | pages=2079–88 | volume=89 | issue=6  | pmid=9058730}}</ref>  This system takes into account the percentage of blasts in the marrow, cytogenetics, and number of cytopenias.
+
+The FAB classification was used by pathologists and clinicians for almost 20 years.
+
+===World Health Organization===
+In the late 1990s a group of pathologists and clinicians working under the [[World Health Organization]] (WHO) modified this classification, introducing several new disease categories and eliminating others. Most recently the WHO has evolved a new classification scheme (2008) which is based more on genetic findings. However, morphology of the cells in the peripheral blood, bone marrow aspirate, and bone marrow biopsy is still the screening test used in order to decide which classification is best and which cytogenetic aberrations may be related.
+
+The list of dysplastic syndromes under the new WHO system includes:
+{| class="wikitable"
+|-
+! Old system
+! New system
+|-
+| '''[[Refractory_anemia#Refractory_anemia|Refractory anemia]]''' (RA)
+| Refractory [[cytopenia]] with unilineage dysplasia (Refractory anemia, [[Refractory neutropenia]], and [[Refractory thrombocytopenia]])
+|-
+| '''[[Refractory anemia with ringed sideroblasts]]''' (RARS)
+| Refractory anemia with ring sideroblasts (RARS)<BR><BR>Refractory anemia with ring sideroblasts - thrombocytosis (RARS-t) (provisional entity) which is in essence a [[myelodysplastic/myeloproliferative disorder]] and usually has a [[JAK2]] mutation (janus kinase) - New WHO classification 2008
+|-
+|
+| [[Refractory cytopenia with multilineage dysplasia]] (RCMD) includes the subset Refractory cytopenia with multilineage dysplasia and ring sideroblasts (RCMD-RS). RCMD includes patients with pathological changes not restricted to red cells (i.e., prominent white cell precursor and platelet precursor (megakaryocyte) dysplasia.
+|-
+| '''[[Refractory anemia with excess blasts]]''' (RAEB)
+| Refractory anemia with excess blasts I and II. RAEB was divided into *RAEB-I (5-9% blasts) and RAEB-II (10-19%) blasts, which has a poorer prognosis than RAEB-I.  [[Auer rods]] may be seen in RAEB-II which may be difficult to distinguish from acute myeloid leukemia.
+|-
+| '''[[Refractory anemia with excess blasts in transformation]]''' (RAEB-T)
+| The category of RAEB-T was eliminated; such patients are now considered to have acute leukemia.  5q- syndrome, typically seen in older women with normal or high platelet counts and isolated deletions of the long arm of chromosome 5 in bone marrow cells, was added to the classification.
+|-
+| '''[[Chronic myelomonocytic leukemia]]''' (CMML)
+| CMML was removed from the myelodysplastic syndromes and put in a new category of [[myelodysplastic-myeloproliferative]] overlap syndromes.
+|-
+|
+| [[5q- syndrome]]
+|-
+|
+| Myelodysplasia unclassifiable (seen in those cases of megakaryocyte dysplasia with fibrosis and others)
+|-
+|
+| [[Refractory cytopenia of childhood]] (dysplasia in childhood) - New WHO classification 2008
+|}
+
+Not all physicians concur with this reclassification, because the underlying pathology of the diseases is not well understood.
+
+=== Myelodysplastic syndrome unclassified ===
+WHO proposed criteria for diagnosis and classification of MDS apply to most cases. However, occasional cases are difficult to classify into defined categories because of one or more unusual features:
+I- Rare cases with less than 5% blast will present with [[auer rod]]s. These cases usually have the features of RAMD.
+II- Occasionally cases of MDS present with isolated neutropenia or thrombocytopenia without anemia and with dysplastic changes confined to the single lineage. The term refractory neutropenia and refractory thrombocytopenia have sometimes used to describe these cases. A diagnosis of MDS in patients with neutropenia or thromobocytopenia without anemia should be made with caution.
+III- Patients with RA or RAEB occasionally present with leukocytosis or thrombocytosis instead of usual cytopenia.
+
+== Signs and symptoms ==
+[[File:Tumor Myelodysplastic Spleen.JPG|thumb|Enlarged spleen due to myelodysplastic syndrome; CT scan coronal section. Spleen in red, left kidney in green.]]
+The median age at diagnosis of a MDS is between 60 and 75 years; a few patients are younger than 50; MDS diagnoses are rare in children. Males are slightly more commonly affected than females. Signs and symptoms are nonspecific and generally related to the blood cytopenias:
+* [[Anemia]] (low [[red blood cell|RBC]] count or reduced [[hemoglobin]]) —chronic tiredness, shortness of breath, chilled sensation, sometimes chest pain
+* [[Neutropenia]] (low neutrophil count) —increased susceptibility to [[infection]]
+* [[Thrombocytopenia]] (low platelet count) —increased susceptibility to [[bleeding]] and [[ecchymosis]] (bruising), as well as subcutaneous [[hemorrhage|hemorrhaging]] resulting in [[purpura]] or [[petechia]]<ref>Myelodysplastic Syndrome. The Leukemia & Lymphoma Society. White Plains, NY. 2001. p 24. Retrieved 05-12-2008.</ref>
+
+Many individuals are asymptomatic, and blood cytopenia or other problems are identified as a part of a routine blood count:
+* [[neutropenia]], [[anemia]] and [[thrombocytopenia]] (low cell counts of white and red blood cells, and platelets, respectively);
+* [[splenomegaly]] or rarely [[hepatomegaly]];
+* abnormal granules in cells, abnormal nuclear shape and size; and/or
+* [[chromosome|chromosomal]] abnormalities, including [[chromosomal translocation]]s and abnormal chromosome number.
+
+Although there is some risk for developing [[acute myelogenous leukemia]], about 50% of deaths occur as a result of bleeding or infection.  Leukemia that occurs as a result of myelodysplasia is notoriously resistant to treatment.
+
+==Pathophysiology==
+MDS is caused by environmental exposures such as radiation and [[benzene]]; other risk factors have been reported inconsistently. Secondary MDS occurs as a late toxicity of cancer treatment, usually with a combination of radiation and the radiomimetic alkylating agents such as [[busulfan]], [[nitrosourea]], or [[procarbazine]] (with a latent period of 5 to 7 years) or the [[DNA topoisomerase inhibitor]]s (2 years). Both [[acquired aplastic anemia]] following immunosuppressive treatment and [[Fanconi's anemia]] can evolve into MDS.
+
+MDS is thought to arise from [[mutation]]s in the [[hematopoietic stem cell|multi-potent bone marrow stem cell]], but the specific defects responsible for these diseases remain poorly understood.  [[Cellular differentiation|Differentiation]] of blood precursor cells is impaired, and there is a significant increase in levels of [[apoptosis|apoptotic]] cell death in bone marrow cells. Clonal expansion of the abnormal cells results in the production of cells which have lost the ability to differentiate. If the overall percentage of bone marrow [[myeloblast]]s rises over a particular cutoff (20% for [[Myelodysplastic#World Health Organization|WHO]] and 30% for [[Myelodysplastic#French-American-British (FAB) classification|FAB]]) then transformation to [[acute myelogenous leukemia]] (AML) is said to have occurred. The progression of MDS to AML is a good example of the ''[[Knudson hypothesis|multi-step theory of carcinogenesis]]'' in which a series of mutations occur in an initially normal cell and transform it into a [[cancer]] cell.
+
+While recognition of leukemic transformation was historically important (see [[Myelodysplastic#History|History]]), a significant proportion of the [[morbidity]] and [[death|mortality]] attributable to MDS results not from transformation to AML but rather from the cytopenias seen in all MDS patients. While anemia is the most common [[cytopenia]] in MDS patients, given the ready availability of [[blood transfusion]] MDS patients rarely suffer injury from severe anemia. However, if an MDS patient is fortunate enough to suffer nothing more than anemia over several years, they then risk [[iron overload#Secondary haemochromatosis|iron overload]]. The two most serious complications in MDS patients resulting from their [[cytopenia]]s are bleeding (due to lack of [[platelet]]s) or infection (due to lack of [[white blood cell]]s).  Long-term, transfusion of [[packed red blood cells]] leads to iron overload.
+
+===Genetics===
+The recognition of [[epigenetic]] changes in [[DNA]] structure in MDS has explained the success of two of three commercially available medications approved by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) to treat MDS.   Proper [[DNA methylation]] is critical in the regulation of proliferation genes, and the loss of DNA methylation control can lead to uncontrolled cell growth, and cytopenias.  The recently approved  [[DNA methyltransferase inhibitors]] take advantage of this mechanism by creating a more orderly DNA methylation profile in the [[hematopoietic stem cell]] [[Cell nucleus|nucleus]], and thereby restore normal blood counts and retard the progression of MDS to [[acute leukemia]].
+
+Some authors have proposed that the loss of [[mitochondrial]] function over time leads to the accumulation of [[DNA mutations]] in hematopoietic stem cells, and this accounts for the increased incidence of MDS in older patients.  Researchers point to the accumulation of mitochondrial [[iron]] deposits in the [[ringed sideroblast]] as evidence of [[mitochondrial]] dysfunction in MDS.<ref name="pmid12406866">{{cite journal |author=Cazzola M, Invernizzi R, Bergamaschi G, ''et al.'' |title=Mitochondrial ferritin expression in erythroid cells from patients with sideroblastic anemia |journal=Blood |volume=101 |issue=5 |pages=1996–2000 |year=2003 |pmid=12406866 |doi=10.1182/blood-2002-07-2006}}</ref>
+
+===5q- syndrome===
+Since at least 1974, the deletion in the long arm of [[chromosome 5]] has been associated with dysplastic abnormalities of hematopoietic stem cells.<ref name="pmid3552346">{{cite journal |author=Bunn HF |title=5q- and disordered haematopoiesis |journal=Clinics in haematology |volume=15 |issue=4 |pages=1023–35 |year=1986 |pmid=3552346 |doi=}}</ref><ref name="pmid4421285">{{cite journal |author=Van den Berghe H, Cassiman JJ, David G, Fryns JP, Michaux JL, Sokal G |title=Distinct haematological disorder with deletion of long arm of no. 5 chromosome |journal=Nature |volume=251 |issue=5474 |pages=437–8 |year=1974 |pmid=4421285 |doi=10.1038/251437a0}}</ref>  By 2005, it was recognized that [[Lenalidomide]] was effective in MDS patients with the [[5q- syndrome]],<ref name="pmid15703420">{{cite journal |author=List A, Kurtin S, Roe DJ, ''et al.'' |title=Efficacy of lenalidomide in myelodysplastic syndromes |journal=N. Engl. J. Med. |volume=352 |issue=6 |pages=549–57 |year=2005 |pmid=15703420 |doi=10.1056/NEJMoa041668}}</ref> and in December 2005, the US FDA approved the drug for this indication. Patients with isolated 5q-, low IPSS risk, and transfusion dependence respond best to lenalidomide. Typically, prognosis for these patients is favorable, with 63 months median survival. Lenalidomide has dual action: by lowering the malignant clone number in patients with 5q-, and by inducing better differentiation of healthy erythroid cells, as seen in patients without 5q deletion.
+
+===Splicing factor mutations===
+
+Mutations in splicing factors have been found in 40-80% of cases with myelodysplastic syndrome, particularly in those with ringed sideroblasts.<ref name=Rozovski2012>Rozovski U, Keating M, Estrov Z (2012) The significance of spliceosome mutations in chronic lymphocytic leukemia. Leuk Lymphoma </ref>
+
+==Diagnosis==
+MDS must be [[differential diagnosis|differentiated]] from [[anemia]], [[thrombocytopenia]], and/or [[leukopenia]]. Usually, the elimination of other causes of these [[cytopenias]], along with a [[dysplastic]] bone marrow, is required to diagnose a myelodysplastic syndrome.
+
+[[File:Hypogranular neutrophil with a pseudo-Pelger-Huet nucleus in MDS.jpg|thumb|Blood smear from an adult female with a myelodysplastic syndrome related to radiotherapy and chemotherapy for Hodgkin disease. A hypogranular neutrophil with a pseudo-Pelger-Huet nucleus is shown. The red blood cells show marked poikilocytosis, in part related to post-splenectomy status. (Wright-Giemsa stain).]]
+A typical investigation includes:
+* [[Full blood count]] and examination of [[blood film]]. The blood film morphology can provide clues about [[hemolytic anemia]], clumping of the [[platelets]] leading to spurious [[thrombocytopenia]], or [[leukemia]].
+* Blood tests to eliminate other common causes of [[cytopenias]], such as [[Lupus erythematosus|lupus]], [[hepatitis]], [[vitamin B12|B<sub>12</sub>]], [[folate]], or other [[vitamin]] deficiencies, [[renal failure]] or [[heart failure]], [[HIV]], [[hemolytic anemia]], [[monoclonal gammopathy]]. Age-appropriate [[cancer screening]] should be considered for all [[anemic]] patients.
+* [[Bone marrow examination]] by a [[hematopathologist]]. This is required to establish the diagnosis, since all hematopathologists consider dysplastic marrow the key feature of myelodysplasia.
+* [[Cytogenetics]] or chromosomal studies. This is ideally performed on the bone marrow aspirate. Conventional cytogenetics requires a fresh specimen, since live cells are induced to enter [[metaphase]] to enhance [[chromosomal]] staining. Alternatively, [[Virtual Karyotype|virtual karyotyping]] can be done for MDS,<ref>Gondek LP, Tiu R, O'Keefe CL, Sekeres MA, Theil KS, Maciejewski JP. Chromosomal lesions and uniparental disomy detected by SNP arrays in MDS, MDS/MPD, and MDS-derived AML. Blood. 2008 Feb 1;111(3):1534-42.</ref> which uses computational tools to construct the karyogram from disrupted DNA. Virtual karyotyping does not require cell culture and has dramatically higher resolution than conventional cytogenetics, but cannot detect balanced translocations.
+* [[Flow cytometry]] is helpful to establish the presence of any [[lymphoproliferative]] disorder in the marrow.
+
+Anemia dominates the early course. Most symptomatic patients complain of the gradual onset of fatigue and weakness, [[dyspnea]], and [[pallor]], but at least half the patients are asymptomatic and their MDS is discovered only incidentally on routine blood counts. Previous chemotherapy or radiation exposure is an important historic fact. Fever and weight loss should point to a myeloproliferative rather than myelodysplastic process. Children with [[Down syndrome]] are susceptible to MDS, and a family history may indicate a hereditary form of [[sideroblastic anemia]] or [[Fanconi anemia]].
+
+The average age at diagnosis for MDS is about 65 years, but pediatric cases have been reported. Some patients have a history of exposure to chemotherapy (especially alkylating agents such as [[melphalan]], [[cyclophosphamide]], [[busulfan]], and [[chlorambucil]]) or [[radiation]] (therapeutic or accidental), or both (e.g., at the time of stem cell transplantation for another disease). Workers in some industries with heavy exposure to hydrocarbons such as the petroleum industry have a slightly higher risk of contracting the disease than the general population. Males are slightly more frequently affected than females. [[Xylene]] and benzene exposure has been associated with myelodysplasia. [[Vietnam veteran]]s exposed to [[Agent Orange]] are at risk of developing MDS. [http://jco.ascopubs.org/content/29/4/428.full A 2010 study] by the [[American Society of Clinical Oncology]] suggests a link between the development of MDS "in atomic bomb survivors 40 to 60 years after radiation exposure" (in this case, referring to people who were in close proximity to the dropping of the atomic bomb in Hiroshima and Nagasaki during World War II). 
+
+The features generally used to define a MDS are: blood cytopenias; ineffective hematopoiesis; dyserythropoiesis; dysgranulopoiesis; dysmegakaropoiesis and increased myeloblast.
+
+Dysplasia can affect all three lineages seen in the bone marrow. The best way to diagnose dysplasia is by morphology and special stains (PAS) used on the bone marrow aspirate and peripheral blood smear. Dysplasia in the myeloid series is defined by:
+*Granulocytic series
+*# Hypersegmented neutrophils (also seen in Vit B<sub>12</sub>/Folate deficiency)
+*# Hyposegmented neutrophils (Pseudo-Pelger Huet)
+*# Hypogranular neutrophils or pseudo Chediak Higashi large granules
+*# Auer rods - automatically RAEB II (if blast count <5% in the peripheral blood and <10% in the bone marrow aspirate) also note Auer rods may be seen in mature neutrophils in AML with translocation t(8;21)
+*# Dimorphic granules (basophilic and eosinophilic granules) within eosinophils
+* Erythroid series
+*# Binucleated erythroid percursors and karyorrhexis
+*# Erythroid nuclear budding
+*# Erythroid nuclear strings or internuclear bridging (also seen in congenital dyserythropoietic anemias)
+*# Loss of E-cadherin in normoblasts is a sign of aberrancy
+*# PAS (globular in vacuoles or diffuse cytoplasmic staining) within erythroid precursors in the bone marrow aspirate (has no bearing on paraffin fixed bone marrow biopsy).  Note: One can see PAS vacuolar positivity in L1 and L2 blasts (AFB classification; the L1 and L2 nomenclature is not used in the WHO classification)
+*# Ringed sideroblasts seen on Prussian blue iron stain (10 or more iron granules encircling 1/3 or more of the nucleus and >15% ringed sideroblasts when counted amongst red cell precursors)
+* Megakaryocytic series (can be the most subjective)
+*# Hyposegmented nuclear features in platelet producing megakaryocytes (lack of lobation)
+*# Hypersegmented (osteoclastic appearing) megakaryocytes
+*# Ballooning of the platelets (seen with interference contrast microscopy)
+
+Other stains can help in special cases (PAS and napthol ASD chloroacetate esterase positivity) in eosinophils is a marker of abnormality seen in chronic eosinophilic leukemia and is a sign of aberrancy.
+
+On the bone marrow biopsy high grade dysplasia (RAEB-I and RAEB-II) may show atypical localization of immature precursors (ALIPs) which are islands of immature precursors cells (myeloblasts and promyelcytes) localized to the center of intertrabecular space rather than adjacent to the trabeculae or surrounding arterioles. This morphology can be difficult to recognize from treated leukemia and recovering immature normal marrow elements. Also topographic alteration of the nucleated erythroid cells can be seen in early myelodysplasia (RA and RARS), where normoblasts are seen next to bony trabeculae instead of forming normal interstitially placed erythroid islands.
+
+Myelodysplasia is a diagnosis of exclusion and must be made after proper determination of iron stores, [[vitamin]] deficiencies, and nutrient deficiencies are ruled out. Also congenital diseases such as [[congenital dyserythropoietic anemia]] (CDA I through IV) has been recognized, [[Sideroblastic anemia|Pearson's syndrome (sideroblastic anemia)]], [[Jordans anomaly]] - vacuolization in all cell lines may be seen in [[Chanarin-Dorfman syndrome]], ALA (aminolevulinic acid) enzyme deficiency, and other more esoteric enzyme deficiencies are known to give a pseudomyelodysplastic picture in one of the cell lines, however, all three cell lines are never morphologically dysplastic in these entities with the exception of chloramphenicol, arsenic toxicity and other poisons.
+
+All of these conditions are characterized by abnormalities in the production of one or more of the cellular components of blood ([[red blood cell|red cell]]s, [[white blood cell|white cell]]s other than [[lymphocyte]]s and [[platelets]] or their progenitor cells, [[megakaryocyte]]s).
+
+==Management==
+The goals of therapy are to control symptoms, improve quality of life, improve overall survival, and decrease progression to [[acute myelogenous leukemia]] (AML).
+
+The IPSS scoring<ref>[http://www.marrowforums.org/mds.html MDS - Myelodysplastic Syndromes]</ref> system can help [[triage]] patients for more aggressive treatment (i.e. [[bone marrow transplant]]) as well as help determine the best timing of this therapy.<ref>{{cite journal | author=Cutler CS, Lee SJ, Greenberg P, Deeg HJ, Perez WS, Anasetti C, Bolwell BJ, Cairo MS, Gale RP, Klein JP, Lazarus HM, Liesveld JL, McCarthy PL, Milone GA, Rizzo JD, Schultz KR, Trigg ME, Keating A, Weisdorf DJ, Antin JH, Horowitz MM | title=A decision analysis of allogeneic bone marrow transplantation for the myelodysplastic syndromes: delayed transplantation for low-risk myelodysplasia is associated with improved outcome. | journal=Blood | year=2004 | pages=579–85 | volume=104 | issue=2  | pmid=15039286 | doi=10.1182/blood-2004-01-0338}}</ref>  Supportive care with blood product support and hematopoeitic growth factors (e.g. [[erythropoietin]]) is the mainstay of therapy. The regulatory environment for the use of erythropoietins is evolving, according to a recent [[Medicare (United States)|US Medicare]] [[National coverage determination]]. No comment on the use of hematopoeitic growth factors for MDS was made in that document.<ref>{{cite web |url=http://www.cms.hhs.gov/mcd/viewdecisionmemo.asp?id=203 |title=Centers for Medicare & Medicaid Services |accessdate=2007-10-29 |format= |work=}}</ref>
+
+Three agents have been approved by the [[U.S. Food and Drug Administration]] (FDA) for the treatment of MDS:
+# [[5-azacytidine]]: 21 month median survival<ref name="pmid10694544">{{cite journal |author=Wijermans P, Lübbert M, Verhoef G, ''et al.'' |title=Low-dose 5-aza-2'-deoxycytidine, a DNA hypomethylating agent, for the treatment of high-risk myelodysplastic syndrome: a multicenter phase II study in elderly patients |journal=J. Clin. Oncol. |volume=18 |issue=5 |pages=956–62 |year=2000 |pmid=10694544 |doi=}}</ref><ref name="pmid11529854">{{cite journal |author=Lübbert M, Wijermans P, Kunzmann R, ''et al.'' |title=Cytogenetic responses in high-risk myelodysplastic syndrome following low-dose treatment with the DNA methylation inhibitor 5-aza-2'-deoxycytidine |journal=Br. J. Haematol. |volume=114 |issue=2 |pages=349–57 |year=2001 |pmid=11529854|doi=10.1046/j.1365-2141.2001.02933.x}}</ref><ref name="pmid12011120">{{cite journal |author=Silverman LR, Demakos EP, Peterson BL, ''et al.'' |title=Randomized controlled trial of azacitidine in patients with the myelodysplastic syndrome: a study of the cancer and leukemia group B |journal=J. Clin. Oncol. |volume=20 |issue=10 |pages=2429–40 |year=2002 |pmid=12011120|doi=10.1200/JCO.2002.04.117}}</ref><ref name="pmid16921040">{{cite journal |author=Silverman LR, McKenzie DR, Peterson BL, ''et al.'' |title=Further analysis of trials with azacitidine in patients with myelodysplastic syndrome: studies 8421, 8921, and 9221 by the Cancer and Leukemia Group B |journal=J. Clin. Oncol. |volume=24 |issue=24 |pages=3895–903 |year=2006 |pmid=16921040 |doi=10.1200/JCO.2005.05.4346}}</ref>
+#[[Decitabine]]: Complete response rate reported as high as 43%. A phase I study has shown efficacy in AML when decitabine is combined with [[valproic acid]].<ref name="pmid17133405">{{cite journal |author=Kantarjian HM, O'Brien S, Shan J, ''et al.'' |title=Update of the decitabine experience in higher risk myelodysplastic syndrome and analysis of prognostic factors associated with outcome |journal=Cancer |volume=109 |issue=2 |pages=265–73 |year=2007 |pmid=17133405 |doi=10.1002/cncr.22376}}</ref><ref name="pmid16532500">{{cite journal |author=Kantarjian H, Issa JP, Rosenfeld CS, ''et al.'' |title=Decitabine improves patient outcomes in myelodysplastic syndromes: results of a phase III randomized study |journal=Cancer |volume=106 |issue=8 |pages=1794–803 |year=2006 |pmid=16532500 |doi=10.1002/cncr.21792}}</ref><ref name="pmid16882708">{{cite journal |author=Kantarjian H, Oki Y, Garcia-Manero G, ''et al.'' |title=Results of a randomized study of 3 schedules of low-dose decitabine in higher-risk myelodysplastic syndrome and chronic myelomonocytic leukemia |journal=Blood |volume=109 |issue=1 |pages=52–7 |year=2007 |pmid=16882708 |doi=10.1182/blood-2006-05-021162}}</ref><ref name="pmid17679729">{{cite journal |author=Blum W, Klisovic RB, Hackanson B, ''et al.'' |title=Phase I study of decitabine alone or in combination with valproic acid in acute myeloid leukemia |journal=J. Clin. Oncol. |volume=25 |issue=25 |pages=3884–91 |year=2007 |pmid=17679729 |doi=10.1200/JCO.2006.09.4169}}</ref>
+# [[Lenalidomide]]: Effective in reducing red blood cell transfusion requirement in patients with the chromosome 5q deletion subtype of MDS<ref name="pmid17021321">{{cite journal |author=List A, Dewald G, Bennett J, ''et al.'' |title=Lenalidomide in the myelodysplastic syndrome with chromosome 5q deletion |journal=N. Engl. J. Med. |volume=355 |issue=14 |pages=1456–65 |year=2006 |pmid=17021321 |doi=10.1056/NEJMoa061292}}</ref>
+
+[[Chemotherapy]] with the [[DNA methylation|hypomethylating agents]] 5-azacytidine and decitabine has been shown to decrease blood transfusion requirements and to retard the progression of MDS to AML. Lenalidomide was approved by the FDA in December 2005 only for use in the [[5q- syndrome]]. In the United States, treatment of MDS with lenalidomide costs about US$9,200 per month.<ref name="pmid16625140">{{cite journal |author= |title=Lenalidomide (Revlimid) for anemia of myelodysplastic syndrome |journal=The Medical letter on drugs and therapeutics |volume=48 |issue=1232 |pages=31–2 |year=2006 |pmid=16625140 |doi=}}</ref>
+
+[[Stem cell transplantation]], particularly in younger patients (i.e. less than 40 years of age), more severely affected patients, offers the potential for curative therapy. Success of bone marrow transplantation has been found to correlate with severity of MDS as determined by the IPSS score, with patients having a more favorable IPSS score tending to have a more favorable outcome with transplantation.<ref>{{cite journal |author=Oosterveld M, Wittebol S, Lemmens W, Kiemeney B, Catik A, Muus P, Schattenberg A, de Witte T |title=The impact of intensive antileukaemic treatment strategies on prognosis of myelodysplastic syndrome patients aged less than 61 years according to International Prognostic Scoring System risk groups |journal=Br J Haematol |volume=123 |issue=1 |pages=81–9 |year=2003 |pmid=14510946 |doi=10.1046/j.1365-2141.2003.04544.x}}</ref>
+
+[[Iron overload]] in MDS, red blood cell (RBC) [[transfusions]] are a major part of the supportive care for anemic MDS patients. Although the specific therapies patients receive may alleviate the RBC transfusion need, many MDS patients may not respond to these treatments and may develop iron overload as well as its consequences.
+
+Patients requiring relatively large numbers of RBC transfusions have experienced adverse effect of chronic iron overload on liver, heart, endocrine functions. It is possible that this organ dysfunction may result from iron overload in patients with MDS and that transfusional iron overload might be a contributor to increased sickness and death in early stage MDS.
+
+For patients requiring many RBC transfusions, [[serum ferritin]] levels, number of RBC transfusions received, and associated organ dysfunction (heart, liver, and pancreas) should be monitored to determine iron levels. Monitoring serum ferritin may also be useful, aiming to decrease ferritin levels to <1000 mcg/L.
+
+There are currently two iron [[Chelation|chelators]] available in the US, [[deferoxamine]] (Desferal) for IV use and [[deferasirox]] (Exjade) for oral use. These options now provide potentially useful drugs for treating this iron overload problem. A third chelating agent is available in Europe, [[deferiprone]] for oral use, but not available in the US.
+
+[[Clinical trials]] in the MDS are ongoing with iron chelating agents to address the question of whether iron chelation alters the natural history of patients with MDS who are transfusion dependent. Reversal of some of the consequences of iron overload in MDS by iron chelation therapy have been shown.
+
+Both the MDS Foundation and the [[National Comprehensive Cancer Network]] MDS Guidelines Panel have recommended that chelation therapy be considered to decrease iron overload in selected MDS patients. Evidence also suggest there is a potential value to iron chelation in patients who then undergo a stem cell transplant.
+
+Although deferasirox is generally well tolerated (other than episodes of gastrointestinal distress and kidney dysfunction in some patients), recently a safety warning by the FDA and Novartis was added to deferasirox treatment guidelines. Following post-marketing use of deferasirox, there were rare cases of acute [[kidney failure]] or liver failure, some resulting in death. Due to this, it is recommended that patients be closely monitored on deferasirox therapy prior to the start of therapy and regularly thereafter.
+
+Currently{{Citation needed|date=April 2011}}, a large international Phase III clinical trial is ongoing comparing treatment of deferasirox to placebo, which should help to establish the clinical value of deferasirox in iron- overloaded MDS patients.
+
+== Prognosis ==
+The outlook in MDS is poor, and most patients will progress within a few months to refractory [[acute myeloid leukemia]] The median survival varies from years to months, depending on type. Stem cell transplantation offers cure, with survival rates of 50% at 3 years, although older patients do badly. <ref name="Harrison's"> {{cite book|author=Kasper, Dennis L; Braunwald, Eugene; Fauci, Anthony; et al.|title=Harrison's Principles of Internal Medicine |edition=16th |publisher=McGraw-Hill|location=New York|year=2005|pages=625 |isbn=0-07-139140-1}}</ref>
+
+'''Indicators of a good prognosis'''
+Younger age; normal or moderately reduced neutrophil or platelet counts; low blast counts in the bone marrow(<20%) and no blasts in the blood; no Auer rods; ringed sideroblasts; normal karyotypes of mixed karyotypes without complex chromosome abnormalities and in vitro marrow culture- non leukemic growth pattern.
+
+'''Indicators of a poor prognosis'''
+Advanced age; Severe neutropenia or thrombocytopenia ; high blast count in the bone marrow (20-29%) or blasts in the blood;
+Auer rods; absence of ringed sideroblasts; abnormal localization or immature granulocyte precursors in bone marrow section
+all or mostly abnormal karyotypes or complex marrow chromosome abnormalities and in vitro bone emarrow culture-leukemic growth pattern.
+
+'''Prognosis and karyotype'''
+Good: Normal, -Y, del(5q), del(20q) <br>
+Intermediate or variable: +8, other single or double anomalies <br>
+Poor; Complex (>3 chromosomal aberrations); chromosome 7 anomalies <br>
+<ref name="pmid10691865">{{cite journal |author= Solé E et al | title=Incidence, characterization and prognostic significance of chromosomal abnormalities in 640 patients with primary myelodysplastic syndromes|journal=British Journal of Haematology|volume=108|pages=346–356|year=2000|pmid=10691865|doi=10.1046/j.1365-2141.2000.01868.x |issue= 2}}</ref>
+
+The [[International Prognostic Scoring System]] (IPSS) is the most commonly used tool in MDS to predict long-term outcome.<ref>{{cite journal | author = Greenberg  ''et al.'' | year = 1997 | title = International Scoring System for Evaluating Prognosis in Myelodysplastic Syndromes | url = | journal = Blood | volume = 89 | issue = | pages = 2079–2088 }}</ref>
+
+Cytogenetic abnormalities can be detected by conventional cytogenetics, a FISH panel for MDS, or [[Virtual Karyotype]].
+
+==Epidemiology==
+The exact number of people with MDS is not known because it can go undiagnosed and there is no mandated tracking of the syndrome. Some estimates are on the order of 10,000 to 20,000 new cases each year in the [[United States]] alone. The incidence is probably increasing as the age of the population increases, and some authors propose that the incidence in patients over 70 may be as high as 15 cases per 100,000 per year.<ref name="pmid11503953">{{cite journal |author=Aul C, Giagounidis A, Germing U |title=Epidemiological features of myelodysplastic syndromes: results from regional cancer surveys and hospital-based statistics |journal=Int. J. Hematol. |volume=73 |issue=4 |pages=405–10 |year=2001 |pmid=11503953 |doi=10.1007/BF02994001}}</ref>
+
+==History==
+Since the early 20th century it began to be recognized that some people with [[acute myelogenous leukemia]] had a preceding period of [[anemia]] and abnormal [[blood cell]] production.  These conditions were lumped with other diseases under the term "refractory anemia".  The first description of "preleukemia" as a specific entity was published in 1953 by Block ''et al.''<ref>{{cite journal | pmid = 13052490 | volume=152 | issue=11 | title=Preleukemic acute human leukemia | year=1953 | month=July | author=Block M, Jacobson LO, Bethard WF | journal=J Am Med Assoc | pages=1018–28}}</ref>  The early identification, characterization and classification of this disorder were problematical, and the syndrome went by many names until the 1976 FAB classification was published and popularized the term MDS.
+
+==Famous patients==
+Famous patients with MDS include:
+* [[Astrophysicist]] [[Carl Sagan]]
+* Nobel Chemistry Prize winner [[Alan MacDiarmid]]
+* writers [[Susan Sontag]] and [[Nora Ephron]]
+* writer [[Roald Dahl]]
+* jazz musicians [[Michael Brecker]], [[Joe Farrell]] and [[Paul Motian]]
+* actress [[Nina Foch]]
+* firearms executive [[Val Forgett]]
+* [[United States Congress|United States Congressmen]] [[Joe Moakley]] and [[Bob Matsui]]
+* actor [[Pat Hingle]]
+* actor [[Larry Hagman]]
+* singer and comedienne [[Fran Allison]]
+* radio personality [[J.P. McCarthy]]
+* Danish theoretical physicist [[Per Bak]]
+* first [[Scripps National Spelling Bee|National Spelling Bee]] winner [[Frank Neuhauser]]
+* Good Morning America host [[Robin Roberts (newscaster)|Robin Roberts]]
+* actor [[Amrish Puri]] (known most notably as the sacrificing high priest, [[List_of_Indiana_Jones_characters#Mola_Ram|Mola Ram]] in [[Indiana Jones and the Temple of Doom]])<ref>{{cite news|title=Film Villian Amrish Puri Dies|url=http://www.washingtonpost.com/wp-dyn/articles/A5381-2005Jan12.html|accessdate=1/14/2013|newspaper=The Washington Post|date=1/13/2005}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* ''[http://www.ncbi.nlm.nih.gov:80/books/bv.fcgi?rid=cmed.chapter.32804 Cancer Medicine]''. Online textbook. Chapter by Lewis R. Silverman on Myelodysplastic Syndrome.
+* [http://www.mayoclinic.com/print/myelodysplastic-syndromes/DS00596/DSECTION=all&METHOD=print Myelodysplastic syndromes]. Comprehensive article at [[Mayo Clinic]]
+* [http://www.aamds.org/aplastic/disease_information/myelodysplastic_synd/] Aplastic Anemia & MDS International Foundation] information about MDS
+* "MDS Explained," Parts [http://www.youtube.com/watch?v=fPye7q6Nt6w&feature=channel 1], [http://www.youtube.com/watch?v=AlNpsjzD44o&feature=channel 2], and [http://www.youtube.com/watch?v=BVzGou1kpdw&feature=channel 3] (video presentations)
+* [http://www.clevelandclinicmeded.com/medicalpubs/diseasemanagement/hematology-oncology/chronic-myeloproliferative-disorders/ Chronic Myeloproliferative Disorders]. Comprehensive chapter from Cleveland Clinic
+* Iwanaga, Masako, et. al. 2010. ''[http://jco.ascopubs.org/content/29/4/428.full Risk of Myelodysplastic Syndromes in People Exposed to Ionizing Radiation: A Retrospective Cohort Study of Nagasaki Atomic Bomb Survivors]''. American Society of Clinical Oncology.
+
+==See also==
+*[[Myeloproliferative syndrome]]
+*[[Acute myeloid leukemia]]
+*[[Chloroma]]
+
+{{Myeloid malignancy}}
+
+{{DEFAULTSORT:Myelodysplastic Syndrome}}
+[[Category:Myeloid neoplasia]]
+[[Category:Syndromes]]

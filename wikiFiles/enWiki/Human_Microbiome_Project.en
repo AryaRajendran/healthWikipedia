@@ -1,0 +1,92 @@
+[[File:Human Microbiome Project logo.jpg|right|]]
+The '''Human Microbiome Project''' ('''HMP''') is a United States [[National Institutes of Health]] initiative with the goal of identifying and characterizing the [[microorganisms]] which are found in association with both healthy and diseased humans (the [[Human microbiome]]). Launched in 2008,<ref>{{cite web|title=Human Microbiome Project: Diversity of Human Microbes Greater Than Previously Predicted|url=http://www.sciencedaily.com/releases/2010/05/100520141214.htm|publisher=ScienceDaily|accessdate=8 March 2012}}</ref> it is a five-year project, best characterized as a feasibility study, and has a total budget of $115 million. The ultimate goal of this and similar [[NIH]]-sponsored [[microbiome]] projects is to test how changes in the human microbiome are associated with human health or disease. This topic is currently not well understood.
+
+Important components of the Human Microbiome Project will be culture-independent methods of microbial [[community ecology|community]] characterization, such as [[metagenomics]] (which provides a broad genetic perspective on a single microbial community), as well as extensive [[whole genome sequencing]] (which provides a "deep" genetic perspective on certain aspects of a given microbial community, ''i.e.'' of individual bacterial species). The latter will serve as reference [[genomics|genomic sequences]] — 3000 such sequences of individual bacterial isolates are currently planned — for comparison purposes during subsequent metagenomic analysis. The [[microbiology]] of five body sites will be emphasized: [[oral microbiology|oral]], [[Skin flora|skin]], [[vaginal flora|vaginal]], [[gut flora|gut]], and [[nasal cavity|nasal]]/[[lung]]. The project also is financing deep sequencing of bacterial [[16S ribosomal RNA|16S rRNA]] sequences amplified by [[polymerase chain reaction]] from human subjects.<ref>{{cite web|title=Human Microbiome Project|url=http://commonfund.nih.gov/hmp/|publisher=The NIH Common Fund|accessdate=8 March 2012}}</ref>
+
+== Introduction ==
+[[File:Skin Microbiome20169-300.jpg|thumb|Depiction of the human body and bacteria that predominate]]
+Total microbial [[cell (biology)|cells]] found in association with humans may exceed the total number of cells making up the [[human body]] by a factor of ten-to-one. The total number of genes associated with the human microbiome could exceed the total number of human genes by a factor of 100-to-one. Many of these organisms have not been successfully [[microbiological culture|cultured]], identified, or otherwise characterized. Organisms expected to be found in the human microbiome, however, may generally be categorized as [[bacteria]] (the majority), members of [[Domain (biology)|domain]] [[Archaea]], [[yeasts]], and [[protozoa|single-celled eukaryotes]] as well as various [[helminth]] [[parasitism|parasites]] and [[virus]]es, the latter including viruses that infect the cellular microbiome organisms (e.g., [[bacteriophages]], the viruses of bacteria).
+
+<blockquote>
+The HMP will address some of the most inspiring, vexing and fundamental scientific questions today. Importantly, it also has the potential to break down the artificial barriers between medical microbiology and environmental microbiology. It is hoped that the HMP will not only identify new ways to determine health and predisposition to diseases but also define the parameters needed to design, implement and monitor strategies for intentionally manipulating the human microbiota, to optimize its performance in the context of an individual's physiology.<ref name=TurnbaughLey2007>{{cite doi|10.1038/nature06244|noedit}}</ref>
+</blockquote>
+
+The HMP has been described as "a logical conceptual and experimental extension of the [[Human Genome Project]]."<ref name=TurnbaughLey2007/> In 2007 the Human Microbiome Project was listed on the NIH Roadmap for Medical Research<ref>{{cite web|title=About the NIH Roadmap|url=http://commonfund.nih.gov/aboutroadmap.aspx|publisher=The NIH Common Fund|accessdate=8 March 2012}}</ref> as one of the ''New Pathways to Discovery''. Organized characterization of the human microbiome is also being done internationally under the auspices of the International Human Microbiome Consortium.<ref>{{cite web|title=The International Human Microbiome Consortium|url=http://www.human-microbiome.org/|accessdate=8 March 2012}}</ref>   The [[Canadian Institutes of Health Research]], through the CIHR Institute of Infection and Immunity, is leading the Canadian Microbiome Initiative<ref>{{cite web|title=Canadian Microbiome Initiative|url=http://www.cihr-irsc.gc.ca/e/39939.html|publisher=Canadian Institutes of Health Research|accessdate=8 March 2012}}</ref>  to develop a coordinated and focused research effort to analyze and characterize the microbes that colonize the human body and its potential alteration during chronic disease states.
+
+==Goals==
+The HMP includes the following goals:<ref>{{cite web|title=Human Microbiome Project / Program Initiatives|url=http://commonfund.nih.gov/hmp/initiatives.aspx#resources|publisher=The NIH Common Fund|accessdate=8 March 2012}}</ref> 
+* To develop a reference set of microbial genome sequences and to perform preliminary characterization of the human microbiome
+* To explore the relationship between disease and changes in the human microbiome
+* To develop new technologies and tools for computational analysis
+* To establish a resource repository
+* To study the ethical, legal, and social implications of human microbiome research
+
+==Achievements==
+The impact to date of the Human Microbiome Project may be partially assessed by examination of research sponsored by the HMP. Over 190 peer-reviewed publications are listed on the HMP website from June 2009 through August 2012.<ref>{{cite web|title=Human Microbiome Project / Science Publications|url=http://commonfund.nih.gov/hmp/publications.aspx|publisher=The NIH Common Fund|accessdate=8 March 2012}}</ref> 
+ 
+Major categories of work funded by HMP include:
+* Development of new database systems allowing efficient organization, storage, access, search and annotation of massive amounts of data. These include IMG, the [[Integrated Microbial Genomes System|Integrated Microbial Genomes]] database and comparative analysis system;<ref name="MarkowitzChen2012a">{{Cite pmid|22194640|noedit}}</ref> IMG/M, a related system that integrates metagenome data sets with isolate microbial genomes from the IMG system;<ref name="MarkowitzChen2012b">{{Cite pmid|22086953|noedit}}</ref> [[CharProtDB]], a database of experimentally characterized protein annotations;<ref name="RichterDodson2012">{{Cite pmid|22140108|noedit}}</ref> and the [[Genomes OnLine Database]] (GOLD), for monitoring the status of genomic and metagenomic projects worldwide and their associated metadata.<ref name="PaganiLiolios2012">{{Cite pmid|22135293|noedit}}</ref>
+* Development of tools for comparative analysis that facilitate the recognition of common patterns, major themes and trends in complex data sets. These include RAPSearch2, a fast and memory-efficient protein similarity search tool for next-generation sequencing data;<ref name="ZhaoTangYe">{{Cite pmid|22039206|noedit}}</ref> Boulder ALignment Editor (ALE), a web-based RNA alignment tool;<ref name="StombaughWidm2011">{{Cite pmid|21546392|noedit}}</ref> WebMGA, a customizable web server for fast metagenomic sequence analysis;<ref name="WuZhuFu2011">{{Cite pmid|21899761|noedit}}</ref> and DNACLUST, a tool for accurate and efficient clustering of phylogenetic marker genes<ref name="GhodsiLiu2011">{{Cite pmid|21718538|noedit}}</ref>
+* Development of new methods and systems for assembly of massive sequence data sets. No single assembly algorithm addresses all the known problems of assembling short-length sequences,<ref name="YaoYeGao2012">{{Cite pmid|22025481|noedit}}</ref> so next-generation assembly programs such as AMOS<ref name="TreangenSomm2011">{{Cite pmid|21400694|noedit}}</ref> are modular, offering a wide range of tools for assembly. Novel algorithms have been developed for improving the quality and utility of draft genome sequences.<ref name="KorenMiller2010">{{Cite pmid|20831800|noedit}}</ref>
+* Assembly of a catalog of sequenced reference genomes of pure bacterial strains from multiple body sites, against which metagenomic results can be compared. The original goal of 600 genomes has been far surpassed; the current goal is for 3000 genomes to be in this reference catalog, sequenced to at least a high-quality draft stage. {{As of|2012|03}}, 742 genomes have been cataloged.<ref>{{cite web|title=Human Microbiome Project / Reference Genomes Data |url=http://www.hmpdacc.org/HMRGD/|publisher=Data Analysis and Coordination Center (DACC) for the National Institutes of Health (NIH)|accessdate=8 March 2012}}</ref>
+* Establishment of the Data Analysis and Coordination Center (DACC),<ref>{{cite web|title=Data Analysis and Coordination Center (DACC)|url=http://hmpdacc.org/|publisher=National Institutes of Health (NIH) Common Fund|accessdate=11 March 2012}}</ref> which serves as the central repository for all HMP data.
+* Various studies exploring legal and ethical issues associated with whole genome sequencing research.<ref name="SchwabGligorov2011">{{Cite pmid|22047127|noedit}}</ref><ref name="McGuireLupski2011">{{Cite pmid|22047112|noedit}}</ref><ref name="AzzouniBaumrin2011">{{Cite pmid|20381895|noedit}}</ref><ref name="SharpAchkar2009">{{Cite pmid|19343022|noedit}}</ref>
+    
+Developments funded by HMP include:
+* New predictive methods for identifying active transcription factor binding sites.<ref name="CuellarBuske2012">{{Cite pmid|22072382|noedit}}</ref>
+* Identification, on the basis of bioinformatic evidence, of a widely distributed, ribosomally produced electron carrier precursor<ref name="Haft2011">{{Cite pmid|21223593|noedit}}</ref>
+* Time-lapse "moving pictures" of the human microbiome.<ref name="CaporasoLauber2011">{{Cite pmid|21624126|noedit}}</ref>
+* Identification of unique adaptations adopted by segmented filamentous bacteria (SFB) in their role as gut commensals.<ref name="SczesnakSegata2011">{{Cite pmid|21925113|noedit}}</ref> SFB are medically important because they stimulate [[T helper 17 cell]]s, thought to play a key role in [[autoimmune disease]].
+* Identification of factors distinguishing the microbiota of healthy and diseased gut.<ref name="BallalGallini2011">{{Cite pmid|21314883|noedit}}</ref>
+* Identification of a hitherto unrecognized dominant role of [[Verrucomicrobia]] in soil bacterial communities.<ref name="BergmannBates2011">{{Cite pmid|22267877|noedit}}</ref>
+* Identification of factors determining the virulence potential of ''Gardnerella vaginalis'' strains in [[vaginosis]].<ref name="YeomanYildirim2010">{{Cite pmid|20865041|noedit}}</ref>
+* Identification of a link between oral microbiota and atherosclerosis.<ref>{{Cite pmid|20937873|noedit}}</ref>
+* Demonstration that pathogenic species of ''Neisseria'' involved in meningitis, septicemia, and sexually transmitted disease exchange virulence factors with commensal species.<ref>{{Cite pmid|20676376|noedit}}</ref>
+
+==Milestones==
+
+===Reference database established===
+On 13 June 2012, a major milestone of the Human Microbiome Project (HMP) was announced by the [[NIH]] director [[Francis Collins]].<ref name=hmpdata>{{Cite web |url=http://www.nih.gov/news/health/jun2012/nhgri-13.htm |title=NIH Human Microbiome Project defines normal bacterial makeup of the body |publisher=NIH News |date=13 June 2012}}</ref> The announcement was accompanied with a series of coordinated articles published in [[Nature (journal)|Nature]] <ref>{{cite journal|last=The Human Microbiome Project Consortium|title=A framework for human microbiome research |journal=Nature |volume=486 |issue=7402 |pages=215–221 |year=2012 |doi=10.1038/nature11209 |url=http://www.nature.com/nature/journal/v486/n7402/full/nature11209.html|first1=Barbara A.|last2=Nelson|first2=Karen E.|last3=Pop|first3=Mihai|last4=Creasy|first4=Heather H.|last5=Giglio|first5=Michelle G.|last6=Huttenhower|first6=Curtis|last7=Gevers|first7=Dirk|last8=Petrosino|first8=Joseph F.|last9=Abubucker|first9=Sahar|pmid=22699610|pmc=3377744 }}</ref><ref>{{cite journal |last=The Human Microbiome Project Consortium |title=Structure, function and diversity of the healthy human microbiome |journal=Nature |volume=486 |issue=7402 |pages=207–214 |year=2012 |doi=10.1038/nature11234 |url=http://www.nature.com/nature/journal/v486/n7402/full/nature11234.html |first1=Curtis |last2=Gevers |first2=Dirk |last3=Knight |first3=Rob |last4=Abubucker |first4=Sahar |last5=Badger |first5=Jonathan H. |last6=Chinwalla |first6=Asif T. |last7=Creasy |first7=Heather H. |last8=Earl |first8=Ashlee M. |last9=Fitzgerald |first9=Michael G. |pmid=22699609 }}</ref> and several journals in the [[Public Library of Science]] (PLoS) on the same day. By mapping the normal microbial make-up of healthy humans using genome sequencing techniques, the researchers of the HMP have created a reference database and the boundaries of normal microbial variation in humans. <ref>[http://www.plos.org/media/press/2012/PLoS_%20HMP_Collection_Manuscript_Summaries.pdf Manuscript Summaries]</ref>  
+
+From 242 healthy U.S. volunteers, more than 5,000 samples were collected from tissues from 15 (men) to 18 (women) body sites such as mouth, nose, skin, lower intestine (stool) and vagina. All the DNA, human and microbial, were analyzed with DNA sequencing machines. The microbial genome data were extracted by identifying the bacterial specific ribosomal RNA, [[16S ribosomal RNA|16S rRNA]]. The researchers calculated that more than 10,000 microbial species occupy the human ecosystem and they have identified 81 – 99% of the [[genera]]. In addition to establishing the human microbiome reference database, the HMP project also discovered several "surprises", which include:
+
+*Microbes contribute more genes responsible for human survival than humans' own genes. It is estimated that bacterial protein-coding genes are 360 times more abundant than human genes.
+*Microbial metabolic activities; for example, digestion of fats; are not always provided by the same bacterial species. The presence of the activities seems to matter more.
+*Components of the human microbiome change over time, affected by a patient disease state and medication. However, the microbiome eventually returns to a state of equilibrium, even the composition of bacterial types has changed.
+
+===Clinical application===
+Among the first clinical applications utilizing the HMP data, as reported in several PLoS papers, the researchers found a shift to less species diversity in vaginal microbiome of pregnant women in preparation for birth, and high viral DNA load in the nasal microbiome of children with unexplained fevers.  Other studies using the HMP data and techniques include role of microbiome in various diseases in the digestive tract, skin, reproductive organs and childhood disorders.<ref name=hmpdata/>
+
+==References==
+{{reflist|2}}
+
+== Related entries ==
+{{Div col|cols=3}}
+* [[Environmental microbiology]]
+* [[Genome project]]
+* [[Genomics]]
+* [[Gut flora]]
+* [[Human microbiome]]
+* [[Medical microbiology]]
+* [[Metagenomics]]
+* [[Microbial ecology]]
+* [[Microflora]]
+* [[Multigenomic organism]]
+* [[Oral microbiology]]
+* [[Skin flora]]
+* [[Superorganism]]
+* [[Vaginal flora]]
+{{Div col end}}
+
+== External links ==
+*[http://nihroadmap.nih.gov/hmp/ Human Microbiome Project]
+*[http://hmpdacc.org/ Data Analysis and Coordination Center]
+*[http://www.cihr.ca/e/39939.html The CIHR Canadian Microbiome Initiative]
+*[http://www.human-microbiome.org The International Human Microbiome Consortium]
+*[http://biosingularity.wordpress.com/2006/06/04/scientists-publishes-first-human-microbiome-analysis/ 2006, Lay summary of colon microbiome study] ([http://www.sciencemag.org/cgi/content/abstract/312/5778/1355 the actual study: Gill et al., 2006])
+*Olivia Judson [http://judson.blogs.nytimes.com/2009/07/21/microbes-r-us/ Microbes ‘R’ Us] ''New York Times'' 22 July 2009
+*Gina Kolata [http://www.nytimes.com/2012/06/14/health/human-microbiome-project-decodes-our-100-trillion-good-bacteria.html?pagewanted=all/In Good Health? Thank Your 100 Trillion Bacteria] ''New York Times'' 13 June 2012
+[[Category:Microbiomes]]
+[[Category:Bacteriology]]
+[[Category:Human genome projects]]
+[[Category:Environmental microbiology]]

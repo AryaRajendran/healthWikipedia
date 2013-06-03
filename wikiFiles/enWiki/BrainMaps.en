@@ -1,0 +1,30 @@
+[[Image:Brainmaps.jpg|thumb|200px|Screenshot of BrainMaps Atlas Viewer of labeled monkey brain]]
+'''BrainMaps''' is an [[NIH]]-funded interactive zoomable high-resolution digital brain atlas and [[virtual microscopy| virtual microscope]] that is based on more than 20 million megapixels (60 terabytes) of scanned images of serial sections of both primate and non-primate [[brain]]s and that is integrated with a high-speed [[database]] for querying and retrieving data about brain structure and function over the internet.     [[Image:Brainmaps4.jpg|thumb|200px|Datasets as a function of species at BrainMaps]] Currently featured are complete brain atlas datasets for [[Macaca mulatta]], [[Chlorocebus aethiops]], [[Felis silvestris catus]], [[Mus musculus]], [[Rattus norvegicus]], and [[Tyto alba]]. 
+
+BrainMaps uses multiresolution image formats for representing massive brain images, and a dHTML/Javascript front-end user interface for image navigation, both similar to the way that [[Google Maps]] works for geospatial data.
+
+[[Image:Brainmaps3.jpg|thumb|200px|Massive brain images are formatted as multiresolution image pyramids, enabling rapid navigation by loading small image tiles instead of the entire image]]
+
+BrainMaps is one of the most massive online neuroscience databases and image repositories and features the highest-resolution whole brain atlas ever constructed.<ref>{{cite journal | last = Mikula | first = S | coauthors = Trotts I, Stone JM, Jones EG | date = 2007 | title = Internet-Enabled High-Resolution Brain Mapping and Virtual Microscopy | journal = NeuroImage | pmid = 17229579 | volume = 35 | issue = 1 | pages = 9–15 | doi = 10.1016/j.neuroimage.2006.11.053 | pmc = 1890021 }}</ref><ref>{{cite journal | last = Mikula | first = S | coauthors = Stone JM, Jones EG | date = 2008 | title = BrainMaps.org - Interactive High-Resolution Digital Brain Atlases and Virtual Microscopy | journal = Brains Minds Media | pmid = 19129928 | volume = 3 | pages = bmm1426 | pmc = 2614326 }}</ref>  
+
+Extensions to interactive 3-dimensional visualization have been developed through [[OpenGL]]-based desktop applications. <ref>{{cite journal | last = Trotts | first = I | coauthors = Mikula S, Jones EG | date = 2007 | title = Interactive Visualization of Multiresolution Image Stacks in 3D | journal = NeuroImage | pmid = 17336095 | volume = 35 | issue = 3 | pages = 1038–43 | doi = 10.1016/j.neuroimage.2007.01.013 | pmc = 2492583 }}</ref>   Freely available image analysis tools enable end-users to datamine online images at the sub-neuronal level.   BrainMaps has been used in both research <ref>{{cite journal | last = Mikula | first = S | coauthors = Manger PR, Jones EG | date = 2007 | title = The thalamus of the monotremes: cyto- and myeloarchitecture and chemical neuroanatomy | journal = Philos Trans R Soc Lond B Biol Sci | pmid = 17553780 | doi = 10.1098/rstb.2007.2133 | volume = 1 | pages = 2415–40 | issue = 1502 | pmc = 2606803 }}</ref><ref>{{cite journal | last = Mikula | first = S | coauthors = Parrish SK, Trimmer JS, Jones EG | date = 2009 | title = Complete 3-D visualization of primate striosomes by KChIP1 immunostaining | journal = J Comp Neurol | pmid = 19350670 | volume = 514 | issue = 5 | pages = 507–17 | doi = 10.1002/cne.22051 | pmc = 2737266 }}</ref> and [http://ect.downstate.edu/cortex_exercise/ didactic] settings.
+
+The project is led by [[Ted Jones (neuroscientist)|Ted Jones]] and [[Shawn Mikula]] at the [[University of California, Davis]] .
+
+==See also==
+* [[List of neuroscience databases]]
+
+==References==
+<div class="references-small"><references/></div>
+
+==External links==
+* [http://brainmaps.org BrainMaps.org]
+* [http://www.sciencemag.org/cgi/content/summary/311/5768/1685e?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&fulltext=brainmaps&searchid=1&FIRSTINDEX=0&resourcetype=HWCIT BrainMaps featured in ''Science'' Magazine]
+* [http://discovermagazine.com/2007/aug/unsolved-brain-mysteries BrainMaps images featured in ''Discover'' Magazine article, "10 Unsolved Mysteries Of The Brain"]
+* [http://brainmaps.org/index.php?p=publications BrainMaps-related Publications]
+
+
+
+
+
+[[Category:Online databases]]

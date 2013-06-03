@@ -1,0 +1,115 @@
+[[File:Melanoma infiltrating the brain.jpg|thumb|The ability to invade surrounding tissue is a hallmark of cancer]]
+"'''The Hallmarks of Cancer'''"<ref>{{cite journal |author=Hanahan D, Weinberg RA |title=The Hallmarks of Cancer |journal=Cell |volume=100 |issue=1 |pages=57–70 |year=2000 |month=January |pmid=10647931 |doi= 10.1016/S0092-8674(00)81683-9|url=}}</ref> is a seminal<ref name="sciencedaily">{{cite news | url= http://www.sciencedaily.com/releases/2011/03/110316113057.htm | title =Scientists Revisit 'Hallmarks of Cancer' | work =Science Daily | date =16 March 2011 | accessdate=2011-04-04}}</ref><ref>{{cite web | url=http://www.thenakedscientists.com/HTML/content/interviews/interview/1476/ | title =The Hallmarks of Cancer | work= Science Interviews |  date =November 2010 | accessdate=2011-04-04}}</ref> [[peer-reviewed]] article published in the journal ''[[Cell (journal)|Cell]]'' in January 2000 by US cancer researchers [[Douglas Hanahan]] and [[Robert Weinberg]].
+
+The authors believe that the complexity of cancer can be reduced to a small number of underlying principles. The paper argues that all [[cancer]]s share six common traits ("hallmarks") that govern the transformation of normal cells to cancer (malignant or tumor) cells. 
+
+Those hallmarks are: (1) cancer cells stimulate their own growth; (2) they resist inhibitory signals that might otherwise stop their growth; (3) they resist their own programmed cell death  ([[apoptosis]]); (4) they stimulate the growth of blood vessels to supply nutrients to tumors ([[angiogenesis]]); (5) they can multiply forever; and (6) they invade local tissue and spread to distant sites ([[metastasis]]).
+
+By November 2010, the paper had been referenced over 15,000 times by other research papers, and was downloaded 20,000 times a year between 2004 and 2007.<ref name=crukblog>[http://scienceblog.cancerresearchuk.org/2010/11/10/ncri-conference-the-hallmarks-of-cancer/ Hallmarks of Cancer, Cancer Research UK Science Update blog, Nov 2010]</ref>{{Self-published inline|date=April 2011}}  As of March 2011 it was ''Cell'''s most cited article.<ref name="sciencedaily"/>
+
+In 2011, Weinberg and Hanahan proposed 4 new hallmarks: (1) abnormal metabolic pathways; (2) evading the immune system; (3) chromosome abnormalities and unstable DNA; and (4) inflammation.<ref name=hanrahan2011>{{cite pmid|21376230}}</ref>
+
+== List of hallmarks ==
+[[File:Signal transduction v1.png|thumb|[[Signalling pathway]]s are deregulated in cancer. Hanahan and Weinberg compared the signalling pathways to electronic circuits where transistors are replace by proteins. The prototypical Ras pathway starts with an extracellular signal from growth factors (such as TGF-α). Other major extracellular signals are anti-growth factors (such as TGF-β), death factors (such as FASL), cytokines (such as IL-3/6)and survival factors (such as IGF1). Proteins inside the cell control the cell cycle, monitor for DNA damage and other abnormalities, and trigger cell suicide (apoptosis). Hanahan and Weinberg's signal pathway illustration is 
+at Cell 100:59<ref>[http://www.sciencedirect.com/science?_ob=MiamiCaptionURL&_method=retrieve&_udi=B6WSN-4195FC1-5&_image=fig2&_ba=2&_rdoc=1&_fmt=full&_orig=na&_issn=00928674&_pii=S0092867400816839&view=full&_acct=C000228598&_version=1&_urlVersion=0&_userid=10&md5=8a5d01ad7c944932873e1fd92e894a25 Cell 100:59]</ref>]]
+
+Cancer cells have defects in the control mechanisms that govern how often they divide, and in the feedback systems that regulate these control mechanisms (i.e. defects in [[homeostasis]]). 
+
+Normal cells grow and divide, but have many controls on that growth. They only grow when stimulated by growth factors. If they are damaged, a molecular brake stops them from dividing until they are repaired. If they can't be repaired, they commit cell suicide (apoptosis). They can only divide a limited number of times. They are part of a tissue structure, and remain where they belong. They need a blood supply to grow. 
+
+All these mechanisms must be overcome in order for a cell to develop into a cancer. Each mechanism is controlled by several proteins. A critical proteins must be damaged in each of those mechanisms. These proteins are damaged when the DNA sequence of their genes is damaged through acquired or somatic [[mutations]] (mutations that are not inherited but occur after conception). This occurs in a series of steps, which Hanahan and Weinberg call hallmarks.
+
+===Self-sufficiency in growth signals===
+:[[Cancer cells]] do not need stimulation from external signals (in the form of [[growth factors]]) to multiply.
+
+Normal cells require external growth signals (growth factors) to grow and divide. These signals are transmitted through receptors that pass through the cell membrane. When the growth signals are absent, they stop growing. 
+
+Cancer cells can grow and divide without external growth signals. Some cancer cells can generate their own growth signals. For example, glioblastomas can produce their own platelet-derived growth factor (PDGF), and sarcomas can produce their own tumor growth factor α (TGF-α). 
+
+Receptors themselves can be overexpressed. For example, the epidermal growth factor receptor (EGF-R/''erbB'') is overexpressed in stomach, brain and breast cancers, while the HER2/''neu'' receptor is overexpressed in stomach and breast cancer. Or, mutated receptors can send signals without any growth factors at all.
+
+===Insensitivity to anti-growth signals===
+:Cancer cells are generally resistant to growth-preventing signals from their neighbours.
+
+[[Image:Cell Cycle 2-2.svg|thumb|right|The cell cycle clock. 
+Cells don't divide in G<sub>0</sub>. They prepare for division by entering G<sub>1</sub>. Then they enter S (synthesis), where they synthesize protein for division. The transition from G<sub>1</sub> to S is a checkpoint. If the cell's DNA is damaged, or it is expressing oncogenes or other inappropriate proteins, the checkpoint proteins, such as pRB, will interrupt the checkpoint until the damage is repaired. If the damage can't be repaired, the cell will commit suicide. But if pRB itself is damaged, the damaged cell will continue to divide — one of the hallmarks of cancer.]]
+
+[[Image:Hallmarks of cancer.svg|thumb|right|Hallmarks of cancer.]]
+
+The growth of normal cells is kept under control by growth inhibitors in the surrounding environment, in the extracellular matrix and on the surfaces of neighboring cells. These inhibitors act on the cell cycle clock, by interrupting cell division (mitosis) in the interphase. 
+
+Ultimately, the growth inhibitor signals are funneled through the downstream retinoblastoma protein (pRB), which prevents the inappropriate transition from (G<sub>1</sub>) to S. If pRB is damaged through a mutation in its gene, or by interference from human papillomavirus, the cell can divide uncontrollably, which can lead to cervical cancer.
+
+===Evading apoptosis===
+:''[[Apoptosis]]'' is a form of [[programmed cell death]] (cell suicide), the mechanism by which cells are programmed to die  in the event they become damaged. Cancer cells characteristically are able to bypass this mechanism.
+
+Apoptosis can be triggered by an overexpressed oncogene, and this may be the primary means by which such mutant cells are continually removed. Conversely, cancer cells must overcome apoptosis to progress. 
+
+The apoptotic machinery can be divided into sensors, which monitor the cell for abnormal behavior, and effectors, which cause apoptosis. 
+
+The sensors include survival signals and their receptors, which monitor the cell for DNA damage, oncogene overexpression, and low oxygen (hypoxia). They monitor survival signals from the cell matrix and neighboring cells. 
+
+Sensors include IGF-1/IGF2 and their receptor IGF-1R; and IL-3 and its receptor. 
+
+The effectors include FAS ligand and its receptor, and TNF-α and its receptor. 
+
+The p53 tumor suppressor protein elicits apoptosis in response to DNA damage, and is a major mechanism of cancer control. In order for cancer to progress, it must overcome p53, and p53 is mutated in >50% of cancers.
+
+===Limitless reproductive potential===
+:Non-cancer cells die after a [[Hayflick limit|certain number of divisions]]. Cancer cells escape this limit and are apparently capable of indefinite growth and division ([[Biological immortality|immortality]]). But those immortal cells have damaged chromosomes, which can become cancerous. 
+
+Mammalian cells have an intrinsic program, the [[Hayflick limit]], that limits their multiplication to about 60-70 doublings, at which point they reach a stage of senescence. 
+
+This limit can be overcome by disabling their pRB and p53 tumor suppressor proteins, which allows them to continue doubling until they reach a stage called crisis, with apoptosis, karyotypic disarray, and the occasional (10<sup>−7</sup>) emergence of an immortalized cell that can double without limit. Most tumor cells are immortalized. 
+
+The counting device for cell doublings is the telomere, which loses DNA at the tips of every chromosome during each cell cycle. Many cancers involve the upregulation of telomerase, the enzyme that maintains telomeres.
+
+===Sustained angiogenesis===
+:''[[Angiogenesis]]'' is the process by which new blood vessels are formed. Cancer cells appear to be able to kickstart this process, ensuring that such cells receive a continual supply of oxygen and other nutrients.
+
+Cancer cells initially lack angiogenic ability, limiting their ability to expand. In order to progress, they must develop a blood supply. Angiogenesis is balanced by inducers and inhibitors. 
+
+Inducers include vascular endothelial growth factor (VEGF) and acetic and basic fibroblast growth factor (FGF 1/2), which bind to transmembrane tyrosine kinase receptors displayed on endothelial cells. An inhibitor is thrombospondin-1, which binds to CD36. Thrombospondin-1 is regulated by p53, so loss of p53 can allow angiogenesis. 
+
+Angiogenesis is involved in the growth of cervix, breast and melanoma tumors. 
+
+Anti-VEGF antibodies slowed the growth of tumors in mice. So this and other anti-angiogenesis compounds are under investigation as drugs to treat cancer.
+
+===Tissue invasion and metastasis===
+:Cancer cells can break away from their site or [[Organ (anatomy)|organ]] of origin to invade surrounding tissue and spread (''[[metastasis|metastasize]]'') to distant body parts.
+
+Primary tumor masses spawn "pioneer cells" that invade adjacent tissues, and may then travel to distant sites, and establish metastases. 
+
+The newly formed metastases arise as amalgams of cancer cells and normal supporting cells conscripted from the host tissue. 
+
+Metastatic cells must mimic normal cell-cell interactions, through cell-cell adhesion molecules (CAMs) and integrins. N-CAM is normally adhesive, suppressing metastases, but it becomes altered and allows metastases in Wilm's tumor, neuroblastoma, and small cell lung cancer, and its expression is reduced in invasive pancreatic and colorectal cancers. 
+
+E-cadherin, which is expressed on epithelial cells, transmits antigrowth signals. E-cadherin is therefore a widely acting suppressor of invasion and metastasis by epithelial cells, which must be overcome by cancer cells to progress. 
+
+Integrins display substrate preferences, and changes in integrins are displayed by migrating cells. 
+
+Matrix-degrading proteases are also necessary to facilitate invasion into stroma, across blood vessel walls, and through noral epithelial cell layers.
+
+== Updates - 2010 ==
+In his 2010 NCRI conference talk, Hanahan proposed four new hallmarks:
+
+;Deregulated metabolism
+:Most cancer cells use abnormal [[metabolic pathways]] to generate energy, a fact appreciated since the early twentieth century with the postulation of the [[Warburg hypothesis]],<ref>O. Warburg, K. Posener, E. Negelein: "Ueber den Stoffwechsel der Tumoren" ''Biochemische Zeitschrift'', '''152''', pp. 319–344, 1924. (German). Reprinted in English in the book ''On metabolism of tumors'' by O. Warburg, Publisher: Constable, London, 1930.</ref> but only now gaining renewed research interest.<ref>{{cite journal|title=Targeting tumour metabolism|journal=Nature Reviews Drug Discovery|volume=9|issue=7|year=2010|pages=503–504|issn=1474-1776|pmid=20592733|doi=10.1038/nrd3215}}</ref>
+;Evading the immune system
+:Cancer cells appear to be invisible to the body’s [[immune system]].
+;Unstable DNA
+:Cancer cells generally have severe [[chromosomal abnormalities]], which worsen as the disease progresses.
+;Inflammation
+:Recent discoveries have highlighted the role of local chronic [[inflammation]] in inducing many types of cancer.
+
+== Criticisms ==
+An article in ''[[Nature Reviews Cancer]]'' in 2010 pointed out that five of the 'hallmarks' were also characteristic of [[benign tumour]]s.<ref name="Lazebnik">{{cite journal |author=Lazebnik Y |title=What are the hallmarks of cancer? |journal=Nat. Rev. Cancer |volume=10 |issue=4 |pages=232–3 |year=2010 |month=April |pmid=20355252 |doi= 10.1038/nrc2827|url=}}</ref> The only hallmark of malignant disease was its ability to invade and [[metastasis|metastasize]].<ref name="Lazebnik" />
+
+== References ==
+{{Reflist}}
+{{Use dmy dates|date=April 2011}}
+
+{{DEFAULTSORT:Hallmarks of Cancer, The}}
+[[Category:2000 works]]
+[[Category:Oncology]]
+[[Category:Academic journal articles]]

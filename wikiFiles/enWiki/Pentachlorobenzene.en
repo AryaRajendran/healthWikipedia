@@ -1,0 +1,66 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 387918414
+|ImageFile=Pentachlorobenzene.svg
+|ImageSize=150px
+|IUPACName=1,2,3,4,5-Pentachlorobenzene
+|OtherNames=PeCB
+|Section1={{Chembox Identifiers
+|  CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo= 608-93-5
+|  PubChem= 11855
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 44628
+|  SMILES= C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl
+|  EINECS = 602-074-00-5 
+|  RTECS = DA6640000
+  }}
+|Section2={{Chembox Properties
+|  C=6|H=1|Cl=5
+|  Appearance=White or colorless crystals
+|  Density=1.8 g/cm<sup>3</sup><ref name=inchem>[http://www.inchem.org/documents/icsc/icsc/eics0531.htm Pentachlorobenzene Safety Card], [[International Programme on Chemical Safety]]</ref>
+|  MeltingPt=86 °C<ref name=inchem/>
+|  BoilingPt=275-277 °C<ref name=inchem/>
+|  Solubility=0.68 mg/L<ref name=Shen>{{cite journal | title = Compilation, evaluation, and selection of physical-chemical property data for organochlorine pesticides | journal = J. Chem Eng. Data | volume = 50 | issue = 3 | pages = 742–768 | author = Shen, L., Wania, F., Lei, Y. D., Teixeira, C., Muir, D. C. G., Bidleman, T. F. | year = 2005 | doi = 10.1021/je049693f}}</ref>
+  }}
+|Section3={{Chembox Hazards
+|  MainHazards=
+|  FlashPt=
+|  Autoignition=
+|  LD50 = rat: 1080 mg/kg<ref name=epa>[http://www.epa.gov/waste/hazard/wastemin/minimize/factshts/pentchlb.pdf Pentachlorobenzene Fact Sheet], [[U.S. Environmental Protection Agency]]</ref><br>mouse: 1175 mg/kg<ref name=epa/>
+|  RPhrases = {{R11}} {{R22}} {{R50/53}}
+|  SPhrases = {{S2}} {{S41}} {{S46}} {{S50}} {{S60}} {{S61}}
+  }}
+}}
+
+'''Pentachlorobenzene''' (PeCB) is a chemical compound with the molecular formula C<sub>6</sub>HCl<sub>5</sub> which is a [[chlorine|chlorinated]] [[aromaticity|aromatic]] [[hydrocarbon]].  It consists of a [[benzene]] ring substituted with five chlorine atoms.  PeCB was once used industrially for a variety of uses, but because of environmental concerns there are currently no large scale uses of PeCB.<ref name=eurochlor>[http://www.eurochlor.org/upload/documents/document260.pdf Pentachlorobenzene – Sources, environmental fate and risk characterization], Robert E. Bailey, EuroChlor, July 2007</ref>
+
+==Production==
+
+PeCB can be produced as a byproduct of the manufacture of [[carbon tetrachloride]] and benzene.  It is extracted by [[distillation]] and [[crystallization]]. The direct production of pure PeCB is not practical because of the simultaneous production of other chlorinated compounds. Since PeCB is generally produced in small quantities in the chlorination of benzene, it is also contained in other chlorobenzenes ([[dichlorobenzene]]s, [[trichlorobenzene]]s, etc.)
+
+Today, a majority of the PeCB released into the environment is a result of backyard trash burning and municipal waste incineration.<ref name=eurochlor/>
+
+==Uses==
+
+PeCB was used as an intermediate in the manufacture of pesticides, particularly the [[fungicide]] [[pentachloronitrobenzene]].<ref name=epa/> Pentachloronitrobenzene is now made by
+the chlorination of [[nitrobenzene]] in order to avoid the use of PeCB.<ref name=eurochlor/>
+
+PeCB was a component of a mixture of chlorobenzenes added to products containing [[polychlorinated biphenyl]]s in order to reduce [[viscosity]].<ref name=eurochlor/>  PeCB has also been used as a fire retardant.<ref name=epa/>
+
+==Safety and regulation==
+PeCB is a [[persistent organic pollutant]], allowing an accumulation in the food chain.<ref name=inchem/><ref name=eurochlor/> Consequently, pentachlorobenzene was added in 2009 to the list of chemical compounds covered by the [[Stockholm Convention]], an international treaty which restricts the production and use of persistent organic pollutants.<ref>[http://chm.pops.int/Convention/Media/Pressreleases/COP4Geneva9May2009/tabid/542/language/en-US/Default.aspx Governments unite to step-up reduction on global DDT reliance and add nine new chemicals under international treaty], Stockholm Convention on Persistent Organic Pollutants, 9 May 2009</ref><ref>[http://www.thedailygreen.com/environmental-news/latest/toxic-chemicals-47101403 Adding the 'Nasty Nine' to the 'Dirty Dozen'], thedailygreen.com</ref>  PeCB has been banned in the European Union since 2002.
+
+PeCB is very toxic to aquatic organisms, and decomposes on heating or on burning with the formation of toxic, corrosive fumes including [[hydrogen chloride]].<ref name=inchem/> Combustion of PeCB may also result in the formation of [[polychlorinated dibenzodioxins]] ("dioxins") and [[polychlorinated dibenzofuran]]s.
+
+==See also==
+*[[Chlorobenzene]]
+*[[Dichlorobenzene]]
+*[[Trichlorobenzene]]
+*[[Hexachlorobenzene]]
+
+==References==
+{{reflist}}
+
+[[Category:Organochlorides]]
+[[Category:Persistent Organic Pollutants under the Stockholm Convention]]

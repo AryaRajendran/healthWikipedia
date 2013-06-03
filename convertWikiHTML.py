@@ -7,6 +7,7 @@ def convertFromWikiToHTML(infile):
 
     print "Converting from Wiki to HTML: ", infile
 
+    #print "Loading dependences."
     # get the parser
     preprocessorGrammar = file("mediaWikiDependences/preprocessor.pijnu").read()
     makeParser(preprocessorGrammar)
@@ -54,15 +55,19 @@ def convertFromWikiToHTML(infile):
 #|}
 #""",'3e': '3<sup>e</sup>'}
 
+    #print "Importing preprocessor parser."
     from preprocessor import make_parser
     preprocessor = make_parser(templates)
 
-    from html import make_parser
-    parser = make_parser(allowed_tags, allowed_autoclose_tags, allowed_parameters, interwiki, namespaces)
+    #print "Importing html parser."
+    from html import make_html_parser
+    parser = make_html_parser(allowed_tags, allowed_autoclose_tags, allowed_parameters, interwiki, namespaces)
+    
     #from text import make_parser
     #parser = make_parser()
 
     # import the source in a utf-8 string
+    #print "Importing codecs."
     import codecs
     fileObj = codecs.open(infile, "r", "utf-8")
     source = fileObj.read()
@@ -72,14 +77,18 @@ def convertFromWikiToHTML(infile):
     if source[-1] != '\n':
       source += '\n'
 
+    #print "Processing text"
     preprocessed_text = preprocessor.parse(source)
+    #print "Parsing tree"
     tree = parser.parse(preprocessed_text.leaves())
 
     #output = """<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
     #<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
     #head><title>Test!</title></head>""" + tree.leaves() + "</html>"
+    #print "Take output"
     output = tree.leaves()
 
+    #print "Encode utf8 and Returns"
     return output.encode('UTF-8')
     #file("article.htm", "w").write(output.encode('UTF-8'))
     #file("article.txt", "w").write(output.encode('UTF-8'))

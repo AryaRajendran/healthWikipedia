@@ -1,0 +1,60 @@
+The '''Pearl Index''', also called the '''Pearl rate''', is the most common technique used in [[clinical trials]] for reporting the effectiveness of a [[birth control]] method. 
+
+
+==Calculation and usage==
+<math>\mbox{Pearl-Index} = \frac{\mbox{Number of Pregnancies} \cdot 12} {\mbox{Number of Women}  \cdot \mbox{Number of Months}} \cdot 100</math>
+
+Three kinds of information are needed to calculate a Pearl Index for a particular study:
+* The total number months or cycles of exposure by women in the study.
+* The number of pregnancies.
+* The reason for leaving the study (pregnancy or other reason).
+
+There are two calculation methods for determining the Pearl Index:
+
+In the first method, the relative number of pregnancies in the study is divided by the number of months of exposure, and then multiplied by 1200.
+
+In the second method, the number of pregnancies in the study is divided by the number of [[menstrual cycle]]s experienced by women in the study, and then multiplied by 1300.  1300 instead of 1200 is used on the basis that the length of the average menstrual cycle is 28 days, or 13 cycles per year.
+
+The Pearl Index is sometimes used as a statistical estimation of the number of [[unintended pregnancy|unintended pregnancies]] in 100 woman-years of exposure (e.g. 100 women over one year of use, or 10 women over 10 years). It is also sometimes used to compare birth control methods, a lower Pearl index representing a lower chance of getting unintentionally pregnant.
+
+Usually two Pearl Indexes are published from studies of birth control methods: 
+* '''Actual use''' Pearl Index, which includes all pregnancies in a study and all months (or cycles) of exposure.
+* '''Perfect use''' or '''Method''' Pearl Index, which includes only pregnancies that resulted from correct and consistent use of the method, and only includes months or cycles in which the method was correctly and consistently used.
+
+==History==
+The index was introduced by [[Raymond Pearl]] in 1933.<ref name=Pearl>{{cite journal| author=Pearl, Raymond| title=Factors in human fertility and their statistical evaluation | journal = Lancet | volume= 222 |pages=607–611 |year=1933 | doi = 10.1016/S0140-6736(01)18648-4| issue=5741 }}</ref>  It has remained popular for over seventy years, in large part because of the simplicity of the calculation.
+
+==Criticisms==
+Like all measures of birth control effectiveness, the Pearl Index is a calculation based on the observations of a given sample population. Thus studies of different populations using the same contraceptive will yield different values for the index.  The culture and demographics of the population being studied, and the instruction technique used to teach the method, have significant effects on its failure rate.<ref name=Trussel1990>{{cite journal | author= Trussell J | title= A guide to interpreting contraceptive efficacy studies | journal= Obstetrics and Gynecology | year= 1990 | volume= 76 |  pages= 558–567 | pmid=2199875 | issue= 3 Pt 2 | author-separator= , | author2= Hatcher RA | author3= Cates W | display-authors= 3 | last4= Stewart | first4= FH | last5= Kost | first5= K }}</ref><ref name=Trussel1991>{{cite journal | author= Trussell J | title= Methodological pitfalls in the analysis of contraceptive failure | journal=Statistics in medicine | year=1991 | volume=10 | pages=201–220 | pmid= 2052800  | doi = 10.1002/sim.4780100206 | issue= 2}}</ref>
+
+The Pearl Index has unique shortcomings, however.  It assumes a constant failure rate over time.  That is an incorrect assumption for two reasons: first, the most fertile couples will get pregnant first.  Couples remaining later in the study are, on average, of lower fertility.  Second, most birth control methods have better effectiveness in more experienced users.  The longer a couple is in the study, the better they are at using the method.  So the longer the study length, the lower the Pearl Index will be - and comparisons of Pearl Indexes from studies of different lengths cannot be accurate.
+
+The Pearl Index also provides no information on factors other than accidental pregnancy which may influence effectiveness calculations, such as:
+* Dissatisfaction with the method
+* Trying to achieve pregnancy
+* Medical side effects
+* Being lost to follow-up
+
+A common misperception is that the highest possible Pearl Index is 100 - i.e. 100% of women in the study conceive in the first year.  However, if all the women in the study conceived in the first month, the study would yield a Pearl Index of 1200 or 1300.  The Pearl Index is only accurate as a statistical estimation of per-year risk of pregnancy if the pregnancy rate in the study was very low.
+
+In 1966, two birth control statisticians advocated abandonment of the Pearl Index:<ref name=Sheps1966>{{cite journal | author= Sheps MC | title= Characteristics of a ratio used to estimate failure rates: occurrences per person year of exposure | journal=Biometrics | year= 1966 | volume= 22 |  pages= 310–321 | pmid=5961447  | doi = 10.2307/2528521 | issue= 2 | publisher= Biometrics, Vol. 22, No. 2 | jstor= 2528521}}</ref><ref name=Potter1966>{{cite journal | author= Potter RG | title= Application of life table techniques to measurement of contraceptive effectiveness | journal=Demography | year=1966 | volume=3 | issue=2 | pages= 297–304 | doi = 10.2307/2060159 | publisher= Demography, Vol. 3, No. 2 | jstor=2060159 | pmid= 21318704}}</ref>
+:''[The Pearl Index] does not serve as an estimator of any quantity of interest, and comparisons between groups may be impossible to interpret... The superiority of life table methods or other estimators that do not assume a constant hazard rate seems clear.''<!--
+ --><ref>{{cite book | first=John | last=Kippley | coauthors=Sheila Kippley | year=1996 | title=The Art of Natural Family Planning | edition=4th addition | publisher=The Couple to Couple League | location=Cincinnati, OH | isbn=0-926412-13-2 | pages=140–141 }}, which cites:<br></ref>
+
+==Selected Pearl Index Values==
+{{main|Comparison of birth control methods}}
+
+==Footnotes==
+<references/>
+
+==See also==
+* [[Decrement table]]
+* [[Life table]]
+
+{{Birth control methods}}
+
+[[Category:Birth control]]
+
+[[Category:Demography]]
+[[Category:Methods of birth control]]
+[[Category:Clinical research]]

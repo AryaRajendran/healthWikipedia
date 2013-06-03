@@ -1,0 +1,44 @@
+'''Penetrance''' in [[genetics]] is the proportion of individuals carrying a particular variant of a [[gene]] ([[allele]] or [[genotype]]) that also express an associated trait ([[phenotype]]). In [[medical genetics]], the penetrance of a disease-causing mutation is the proportion of individuals with the mutation who exhibit clinical symptoms. For example, if a [[mutation]] in the gene responsible for a particular [[autosomal dominant]] disorder has 95% penetrance, then 95% of those with the mutation will develop the disease, while 5% will not.
+
+Common examples used to show degrees of penetrance are often highly penetrant. There are several reasons for this:
+
+*Highly penetrant alleles, and highly heritable symptoms, are easier to demonstrate, because if the allele is present, the phenotype is generally expressed. Mendelian genetic concepts such as [[recessivity|recessiveness]], [[dominance (genetics)|dominance]], and [[co-dominance]] are fairly simple additions to this principle.
+*Alleles which are highly penetrant are more likely to be noticed by clinicians and geneticists, and alleles for symptoms which are highly heritable are more likely to be inferred to exist, and then are more easily tracked down.
+
+== Associated terminology ==
+* '''complete penetrance'''. The allele is said to have complete penetrance if all individuals who have the disease-causing mutation have clinical symptoms of the disease. 
+* '''highly penetrant'''. If an allele is highly penetrant, then the trait it produces will almost always be apparent in an individual carrying the allele. 
+* '''incomplete penetrance''' or '''reduced penetrance'''. Penetrance is said to be reduced or incomplete when some individuals fail to express the trait, even though they carry the allele.  
+* '''low penetrance'''. An allele with low penetrance will only sometimes produce the symptom or trait with which it has been associated at a detectable level. In cases of low penetrance, it is difficult to distinguish environmental from genetic factors.
+
+== Determination ==
+
+Penetrance can be difficult to determine reliably, even for genetic diseases that are caused by a single polymorphic allele. For many hereditary diseases, the onset of symptoms is age related, and is affected by environmental codeterminants such as nutrition and smoking, as well as genetic cofactors and [[epigenetic]] regulation of expression:
+
+* '''Age-related cumulative frequency'''. Penetrance is often expressed as a frequency, determined cumulatively, at different ages. For example, [[multiple endocrine neoplasia]] 1 (MEN 1), a hereditary disorder characterized by [[parathyroid]] hyperplasia and [[pancreatic]] islet-cell and [[pituitary]] adenomas, is caused by a mutation in the menin gene on human chromosome 11q13. In one study the age-related penetrance of MEN1 was 7% by age 10 but increased to nearly 100% by age 60.<ref>{{cite journal | date=Feb 1998 | title=Characterization of mutations in patients with multiple endocrine neoplasia type 1 | journal = American Journal of Human Genetics | volume=62 | issue=2 | pages=232–44 | author = Bessett JH ''et al''. | pmid=9463336 | doi=10.1086/301729 | pmc=1376903 }}</ref> 
+* '''Environmental modifiers'''. Penetrance may be expressed as a frequency at a given age, or determined cumulatively at different ages, depending on environmental modifiers. For example, several studies of [[BRCA1]] and [[BRCA2]] mutations, associated with an elevated risk of [[breast cancer|breast]] and [[ovarian cancer]] in women, have examined associations with environmental and behavioral modifiers such as pregnancies, history of breast feeding, smoking, diet, and so forth. 
+* '''Genetic modifiers'''. Penetrance at a given allele may be [[polygenic]], modified by the presence or absence of polymorphic alleles at other gene loci. [[Genetic association|Genome association studies]] may assess the influence of such variants on the penetrance of an allele.<ref>{{cite journal | date=2008-02-19 | title=Use of association studies to define genetic modifiers of breast cancer risk in BRCA1 and BRCA2 mutation carriers | journal=Familial Cancer | publisher=Springer Netherlands | volume=7 | issue=3 | pages=233–244 | first = David J. | last=Hughes | issn=1573-7292 | pmid=18283561 | doi=10.1007/s10689-008-9181-0 }}</ref>
+* '''Epigenetic regulation'''. Example ... genomic [[imprinting]] by the paternal or maternal allele.
+
+=== Ascertainment bias ===
+
+For hereditary [[hemochromatosis]], a disease caused by excess intestinal iron absorption, the degree of penetrance has been a subject of controversy for many years and illustrates the challenges facing investigators seeking a quantitative measure of penetrance. Individuals who are [[homozygote]]s for the C282YA allele of the [[HFE gene]] are at risk for developing lethal concentrations of iron, particularly in the liver.  Typically patients develop clinical disease in late-middle age.<ref>{{cite journal | date=2003-05-01 | title=Penetrance in hereditary hemochromatosis: The HFE Cys282Tyr mutation as a necessary but not sufﬁcient cause of clinical hereditary hemochromatosis | journal = Blood | volume=101 | issue=9 | pages=3347–3350 | first = Ernest | last=Beutler | pmid=12707220 | doi=10.1182/blood-2002-06-1747 }}</ref> 
+
+Determining the penetrance of the C282Y allele can be influenced by when, in the course of a lifetime, homozygotes are evaluated by the medical community. Many of those afflicted do not seek treatment until symptoms are advanced, and with age-related conditions, some individuals die first of other causes. This dilemma is known as an [[ascertainment bias]]. There can be a bias favoring only the ascertainment of the most severely affected, or there can be a bias in the other direction, deeming that a homozygote is ''affected'' with the disease if they simply have elevated blood iron levels, but no physiological evidence of organ disease such as [[cirrhosis]].  Thus a consensus definition of what constitutes the presence of a phenotype is essential for determining the penetrance of an allele.<ref>{{cite journal | date=2008-01-17 | title=Iron-Overload–Related Disease in HFE Hereditary Hemochromatosis | journal = New England Journal of Medicine | volume=358 | issue=3 | pages=221–230 | author = KJ Allen, LC Gurrin, CC Constantine, ''et al''. | pmid=18199861 | doi=10.1056/NEJMoa073286 }}</ref> 
+
+=== Attributable risk ===
+
+For alleles with incomplete penetrance, the penetrance of the allele is not the same as the [[attributable risk]]. For example, many alleles have been shown, through association studies, to cause some form of cancer, often with low penetrance. But cases of the cancer would arise even without the presence of the allele. Attributable risk is that proportion of total risk which can be attributed to the presence of the allele.
+
+=== Polygenic traits ===
+
+Most biological traits (such as height or intelligence in humans) are multifactorial, influenced by many genes as well as environmental conditions and [[epigenetic]] expression.  Only a statistical measure of association is possible with such [[polygenic]] traits.
+
+==See also==
+
+*[[Expressivity]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Genetics]]

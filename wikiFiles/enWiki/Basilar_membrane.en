@@ -1,0 +1,88 @@
+{{Infobox Anatomy |
+  Name         = Basilar membrane |
+  Latin        = lamina basilaris ductus cochlearis |
+  GraySubject  = 232 |
+  GrayPage     = 1056 |
+  Image        =Organ_of_corti.svg |
+  Caption      =Section through [[organ of corti]], showing basilar membrane |
+  Image2        = Cochlea-crosssection.svg|
+  Caption2      = Cross section of the cochlea. |
+  Precursor    = |
+  System       = |
+  Artery       = |
+  Vein         = |
+  Nerve        = |
+  Lymph        = |
+  MeshName     = Basilar+membrane |
+  MeshNumber   = A09.246.631.246.125 |
+  DorlandsPre  = l_02 |
+  DorlandsSuf  = 12475936 |
+}}
+The '''basilar membrane''' within the [[cochlea]] of the [[inner ear]] is a stiff structural element that separates two liquid-filled tubes that run along the coil of the cochlea, the [[scala media]] and the [[scala tympani]] (see figure).
+
+==Function==
+
+[[File:Cochlea Traveling Wave.png|right|thumb|250px|Sinusoidal drive through the oval window (top) causes a traveling wave of fluid–membrane motion.  A modeled snapshot of fluid streamlines is shown.   The wavelength is long compared to the duct height near the base, in what is called the long-wave region, and short (0.5 to 1.0 mm in typical observations<ref>{{cite journal|last=Shera|first=Christopher A.|title=Laser amplification with a twist: Traveling-wave propagation and gain functions from throughout the cochlea|journal=Journal of the Acoustical Society of America|year=2007|volume=122|issue=5|pages=2738–2758|url=http://asadl.org/jasa/resource/1/jasman/v122/i5/p2738_s1|accessdate=13 April 2013}}</ref><ref>{{cite journal|last=Robles|first=L.|coauthors=Ruggero, M. A.|title=Mechanics of the mammalian cochlea|journal=Physiological Reviews|year=2001|volume=81|issue=3|pages=1305–1352|url=http://physrev.physiology.org/content/81/3/1305.short|accessdate=13 April 2013}}</ref>) near the place where the displacement and velocity are maximized, just before cutoff, in the short-wave region.]]
+
+=== Endolymph/perilymph separation ===
+
+The fluids in these two tubes, the [[endolymph]] and the [[perilymph]] are very different chemically, biochemically, and electrically. Therefore they are kept strictly separated. This separation is the main function of [[Reissner's membrane]] (between [[scala vestibuli]] and scala media), and it is also the function of tissue held by the basilar membrane such as the inner and outer sulcus cells (shown in yellow) and the reticular lamina of the organ of Corti (shown in magenta). For the organ of Corti the basilar membrane is permeable to perilymph. Here the border between endolymph and perilymph occurs at the reticular lamina, the endolymph side of the organ of Corti.<ref>Salt, A.N., Konishi, T., 1986. The cochlear fluids: Perilymph and endolymph. In: Altschuler, R.A., Hoffman, D.W., Bobbin, R.P. (Eds.), Neurobiology of Hearing: The Cochlea. Raven Press, New York, pp. 109-122</ref>
+
+===A ''base'' for the sensory cells===
+
+The basilar membrane is also the ''base'' for the sensory cells of hearing, the hair cells that are equipped with [[Stereocilia (inner ear)|"Stereocilia"]]. There are approximately 15,000 hair cells in each human ear (see figure). This function as base of the sensory cells gave the ''basilar'' membrane its name, and it is again present in all land vertebrates. Due to its location, the basilar membrane places the hair cells in a position where they are adjacent to both the endolymph and the perilymph, which is a precondition of hair cell function.
+
+===Frequency dispersion===
+
+A third, evolutionarily younger, function of the basilar membrane is strongly developed in the cochlea of most mammalian species and weakly developed in some bird species:<ref>
+Fritzsch B: The water-to-land transition: Evolution of the tetrapod basilar papilla; middle ear, and auditory nuclei. In: {{cite book |author=Douglas B. Webster, Richard R. Fay, Arthur N. Popper, editors |title=The Evolutionary biology of hearing |publisher=Springer-Verlag |location=Berlin |year=1992 |pages=351–375 |isbn=0-387-97588-8 |oclc= |doi=}}
+</ref>
+the [[dispersion relation|dispersion]] of incoming sound waves to separate frequencies spatially. In brief, the membrane is tapered and it is stiffer at one end than at the other. Furthermore, sound waves travelling to the far, "floppier" end of the basilar membrane have to travel through a longer fluid column than sound waves travelling to the nearer, stiffer end. Each part of the basilar membrane, together with the surrounding fluid, can therefore be thought of as a "mass-spring" system with different resonant properties: high stiffness and low mass, hence high resonant frequencies at the near end, and low stiffness and high mass, hence low resonant frequencies, at the far end.  <ref> {{cite book |author=Schnupp J., Nelken I., King A.|title=Auditory Neuroscience |publisher=MIT Press |location=Cambridge MA |year=2011 |pages= |isbn=0-262-11318-X |oclc= |doi=}}
+</ref> This causes sound input of a certain frequency to vibrate some locations of the membrane more than other locations. As shown in experiments by Nobel Prize laureate [[Georg von Békésy]], high frequencies lead to maximum vibrations at the basal end of the cochlear coil, where the membrane is narrow and stiff, and low frequencies lead to maximum vibrations at the apical end of the cochlear coil, where the membrane is wider and more compliant. This "place–frequency map" can be described quantitatively by the [[Greenwood function]] and its variants.
+
+Sound-driven vibrations travel as waves along this membrane, along which, in humans, lie about 3,500 [[inner hair cell]]s spaced in a single row. Each cell is attached to a tiny triangular frame. The 'hairs' are minute processes on the end of the cell, which are very sensitive to movement. When the vibration of the membrane rocks the triangular frames, the hairs on the cells are repeatedly displaced, and that produce streams of corresponding pulses in the nerve fibers, which are transmitted to the auditory pathway.<ref>
+{{Cite document
+  | last = Beament
+  | first = James
+  | title = How We Hear Music: the Relationship Between Music and the Hearing  Mechanism
+  | place = Woodbridge
+  | publisher = Boydell Press
+  | year = 2001
+  | page = 97
+  | postscript = <!--None-->}}</ref> 
+The [[outer hair cell]]s feed back energy to amplify the traveling wave, by up to 65 dB at some locations.<ref>
+ {{cite journal |author=Nilsen KE, Russell IJ |title=Timing of cochlear feedback: spatial and temporal representation of a tone across the basilar membrane |journal=Nat. Neurosci. |volume=2 |issue=7 |pages=642–8 |year=1999 |pmid=10404197 |doi=10.1038/10197}}
+</ref><ref>
+ {{cite journal |author=Nilsen KE, Russell IJ |title=The spatial and temporal representation of a tone on the guinea pig basilar membrane |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=97 |issue=22 |pages=11751–8 |year=2000 |pmid=11050205 |doi=10.1073/pnas.97.22.11751 |pmc=34345}}
+</ref>
+
+==Anatomy==
+
+The basilar membrane is a pseudo-resonant structure<ref>M. Holmes and J. D. Cole, "Pseudoresonance in the cochlea, ' in: ''Mechanics of Hearing'', E. de Boer and M. A. Viergever (editors), Proceedings of the IUTAM/ICA Symposium, Delft (1983), pp. 45-52.</ref> that, like strings on an instrument, varies in width and stiffness. The "string" of the basilar membrane is not a set of parallel strings, as in a guitar, but a long structure that has different properties (width, stiffness, mass, damping, and the dimensions of the ducts that it couples to) at different points along its length. The motion of the basilar membrane is generally described as a traveling wave.<ref>{{cite book | title = Compression: From Cochlea to Cochlear Implants | author = Richard R. Fay, Arthur N. Popper, and Sid P. Bacon | publisher = Springer | year = 2004 | isbn = 0-387-00496-3 | url = http://books.google.com/?id=4Z5mV_qhB5kC&pg=PA4&dq=traveling-wave++%22basilar+membrane%22 }}</ref>  The parameters of the membrane at a given point along its length determine its characteristic frequency (CF), the frequency at which it is most sensitive to sound vibrations. The Basilar membrane is widest (0.42–0.65&nbsp;mm) and least stiff at the apex of the cochlea, and narrowest (0.08–0.16&nbsp;mm) and most stiff at the base.<ref>Oghalai JS. The cochlear amplifier: augmentation of the traveling wave within the inner ear. ''Current Opinion in Otolaryngology & Head & Neck Surgery''. 12(5):431-8, 2004</ref> High-frequency sounds localize near the base of the cochlea (near the round and oval windows), while low-frequency sounds localize near the apex.
+
+==Additional images==
+<gallery>
+ File:Gray928.png|Diagrammatic longitudinal section of the cochlea.
+ File:Gray929.png|Floor of cochlear duct.
+ File:Gray930.png|Spiral limbus and basilar membrane.
+ File:Gray931.png|Section through the spiral organ of Corti (magnified)
+ File:Gray932.png|The [[reticular membrane]] and subjacent structures.
+</gallery>
+
+==See also==
+[[Deiters cells]]
+==References==
+
+{{reflist}}
+
+== External links ==
+* [http://auditoryneuroscience.com/?q=ear '''Auditory Neuroscience | The Ear''' several animations showing basilar membrane motion under various stimulus conditions]
+* [http://www.iurc.montp.inserm.fr/cric/audition/english/cochlea/fcochlea.htm '''Functional anatomy of the inner ear:''' plenty of images, animations, and very concise functional explanations]
+* [http://sites.google.com/site/nowwehaveyourattention/ '''Basilar Membrane Simulator''' Video and Scripts to Simulate the Basilar Membrane]
+* [http://labspace.open.ac.uk/mod/resource/view.php?id=415643 '''The role of the basilar membrane in sound reception''': good explanation and diagrams]
+
+{{Auditory system}}
+
+{{DEFAULTSORT:Basilar Membrane}}
+[[Category:Auditory system]]
+[[Category:Ear]]

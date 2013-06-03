@@ -1,0 +1,78 @@
+'''Resource-based relative value scale''' ('''RBRVS''') is a [[Model (abstract)|schema]] used to determine how much money medical providers should be paid. It is partially used by [[Medicare (United States)|Medicare]] in the [[United States]] and by nearly all [[Health maintenance organization]]s (HMOs).
+
+RBRVS assigns [[medical procedure|procedure]]s performed by a [[physician]] or other medical provider a ''[[relative value]]'' which is adjusted by geographic region (so a procedure performed in [[Manhattan]] is ''[[Value (economics)|worth]]'' more than a procedure performed in [[Dallas, Texas|Dallas]]). This value is then multiplied by a fixed ''[[Conversion of units|conversion factor]],'' which changes annually, to determine the amount of payment.
+
+RBRVS determines prices based on three separate factors: physician work (52%), practice expense (44%), and malpractice expense (4%).<ref>Percentages are average percentage contributions of each factor, as computed by the [[Government Accountability Office]] in 2005, as per reference.</ref><ref name="GAO-05-119">''Medicare physician fees geographic adjustment indices are valid in design, but data and methods need refinement.'' Washington, DC: [[Government Accountability Office]], March 2005. (Publication no. GAO-05-119.)</ref>
+
+== Example ==
+For example, in 2005, a generic 99213 [[Current Procedural Terminology]] (CPT) code was worth 1.39 [[Relative Value Units]], or RVUs.  Adjusted for [[New Jersey|North Jersey]], it was worth 1.57 RVUs.  Using the 2005 Conversion Factor of $37.90, Medicare paid 1.57 * $37.90 for each 99213 performed, or $59.50.  Most [[Specialty (medicine)|specialties]] charge 200–400% of Medicare rates for their procedures and collect between 50–80% of those charges, after contractual adjustments and [[write-off]]s.{{Citation needed|date=February 2013}}
+
+== Criticism ==
+The RBRVS system has been criticized on a number of grounds:
+* Paying based on ''effort'' rather than ''effect'' skews incentives, leading to overuse of complicated procedures without consideration for outcomes.<ref name="slate">{{Cite web
+|title=The Fix Is In: The hidden public-private cartel that sets health care prices.
+|first=Darshak
+|last=Sanghavi
+|publisher=[[Slate.com]]
+|date=2009-09-02
+|url=http://www.slate.com/id/2227082/
+|ref=harv
+|postscript=<!--None-->}}</ref> Contrast with [[evidence-based medicine]] (EBM), which is based on outcomes.
+*:According to this critique, RBRVS misaligns incentives: because the medical value to the patient of a service is not included in how much is paid for the service, there is no financial incentive to help the patient, nor to minimize costs. Rather, payment is partly based on difficulty of the service (the "physician work" component), and thus a profit-maximizing physician is incentivized to provide maximally complicated services, with no consideration for effectiveness.
+*:One effect attributed to RBRVS is a lack of [[primary care physician]]s (PCPs) at the expense of specialists – because specialist services require more effort and specialized training, they are paid more highly, incentivizing physicians to specialize, leading to a lack of PCPs.
+* The [[Specialty Society Relative Value Scale Update Committee]] (RUC) is largely privately run, an example of [[regulatory capture]].<ref name="slate"/>
+* RUC is secretive, with the meetings being closed to the public and uninvited observers.<ref name="slate"/><ref>{{Harv|Goodson|2007}}</ref>
+* The data are effectively copyrighted by the AMA, but its use is required by statute.
+*:Although the RBRVS system is mandated by the [[Centers for Medicare and Medicaid Services]] (CMS) and the data for it appears in the [[Federal Register]], the [[American Medical Association]] (AMA) maintains that their copyright of the [[Current Procedural Terminology|CPT]] allows them to charge a license fee to anyone who wishes to associate RVU values with CPT codes.  The AMA receives approximately $70 million annually from these fees, making them reluctant to allow the free distribution of tools and data that might help physicians calculate their fees accurately and fairly.
+
+==History==
+
+RBRVS was created at [[Harvard University]] in their national RBRVS study from December 1985 and published on September 29, 1988. [[William Hsiao]] was the principal investigator who organized a multi-disciplinary team of researchers, which included statisticians, physicians, economists and measurement specialists, to develop the RBRVS.
+
+In 1988 the results were submitted to the Health Care Financing Administration (today CMS) to be used in the American Medicare system. In December of the following year, President [[George H. W. Bush]] signed into law the [[Omnibus Budget Reconciliation Act of 1989]], switching Medicare to an RBRVS payment schedule. This took effect on January 1, 1992. Starting in 1991, the AMA has updated RBRVS continually. As of May 2003, over 3500 corrections have been submitted to CMS.
+
+== Procedure ==
+=== Committees ===
+Physicians [[Medical billing (United States)|bill]] their services using [[procedure codes]] developed by a seventeen member committee known as the CPT Editorial Panel.  The AMA nominates eleven of the members while the remaining seats are nominated by the [[Blue Cross and Blue Shield Association]], the [[America’s Health Insurance Plans|Health Insurance Association of America]], CMS, and the [[American Hospital Association]]. The CPT Committee issues new codes twice each year.  
+
+A separate committee, the Specialty Society Relative Value Scale Update Committee (RUC),<ref name="LittleKnown">{{cite news |title=The Little-Known Decision-Makers for Medicare Physicans Fees |author=[[Uwe Reinhardt]] |newspaper=[[The New York Times]] |date=December 10, 2010 |url=http://economix.blogs.nytimes.com/2010/12/10/the-little-known-decision-makers-for-medicare-physicans-fees/ |accessdate=July 6, 2011}}</ref> meets three times a year to set new values,<ref name="PrescribesFees">{{cite news |title=Physician Panel Prescribes the Fees Paid by Medicare |author=Anna Wilde Mathews and Tom McGinty |newspaper=[[The Wall Street Journal]] |date=October 26, 2010 |url=http://online.wsj.com/article/SB10001424052748704657304575540440173772102.html |accessdate=July 7, 2011}}</ref> determines the Relative Value Units (RVUs) for each new code, and revalues all existing codes at least once every five years.  The RUC has 29 members, 23 of whom are appointed by major national medical societies.  The six remaining seats are held by the Chair (an AMA appointee), an AMA representative, a representative from the CPT Editorial Panel, a representative from the [[American Osteopathic Association]], a representative from the Health Care Professions Advisory Committee and a representative from the Practice Expense Review Committee. Anyone who attends its meetings must sign a confidentiality agreement.
+
+=== Price setting ===
+The RBRVS for each CPT code is determined using three separate factors: physician work, practice expense, and [[Medical malpractice|malpractice]] expense.
+The average relative weights of these are: physician work (52%), practice expense (44%), malpractice expense (4%).<ref name="GAO-05-119" />
+A method to determine the physician work value was the primary contribution made by the Hsiao study.  The RUC examines each new code to determine a relative value by comparing the physician work of the new code to the physician work involved in existing codes.
+
+The practice expense, determined by the Practice Expense Review Committee, consists of the direct expenses related to supplies and non-physician labor used in providing the service, and the [[wiktionary:pro rata|pro rata]] cost of the [[Medical equipment|equipment]] used.  In addition, there is an amount included for the indirect expenses.
+
+In the development of the RBRVS, the physician work (including the physician's time, mental effort, technical skill, judgment, stress and an amortization of the [[Medical education|physician's education]]), the practice expense and the malpractice expense are factored into the result.  The calculation of the fee includes a geographic adjustment.  The RBRVS does not include adjustments for outcomes, quality of service, severity, or demand.
+
+==See also==
+*[[Medicare Sustainable Growth Rate]]
+*[[Evaluation and Management Coding]]
+
+== References ==
+{{Reflist}}
+* {{cite journal | doi=10.1056/NEJM198809293191330 | author=Hsiao | title=Results and policy implications of the resource-based relative-value study | journal=New England Journal of Medicine | date=29 September 1988| volume=319 | issue=13 | pages=881–888 | url=http://content.nejm.org/cgi/content/abstract/319/13/881 | ref=harv  | pmid = 3045557 | author-separator=, | author2=W. C. | display-authors=2 | last3=Dunn | first3=Daniel | last4=Becker | first4=Edmund R. | last5=Denicola | first5=Margaret | last6=Ketcham | first6=Thomas R. }}
+* {{cite journal | doi=10.1056/NEJM198809293191305 | author=Hsiao | title=Estimating physicians' work for a resource-based relative-value scale | journal=New England Journal of Medicine | date=29 September 1988| volume=319 | issue=13 | pages=835–841 | url=http://content.nejm.org/cgi/content/abstract/319/13/835 | ref=harv  | pmid = 3412414 | author-separator=, | author2=W. C. | display-authors=2 | last3=Yntema | first3=Douwe | last4=Becker | first4=Edmund R. }}
+* {{cite journal
+|last=Goodson
+|first=John D.
+|title=Unintended Consequences of Resource-Based Relative Value Scale Reimbursement
+|url=http://jama.ama-assn.org/cgi/content/extract/298/19/2308
+|journal=[[Journal of the American Medical Association]]
+|year=2007
+|volume=298
+|pages=2308–2310
+|doi=10.1001/jama.298.19.2308
+|issue=19
+|pmid=18029836
+|ref=harv
+}}
+
+== External links ==
+* [http://bphc.hrsa.gov/chc/simis/CHC_MISGlossary.asp?returnpage=%3C%25=ReturnPageTemp%25#R RBRVS entry] in glossary of terms on the [http://www.hrsa.gov/ hrsa.gov] website (broken)
+* [http://www.cms.hhs.gov/PhysicianFeeSched/ Physician Fee Schedule Calculations] from Center for Medicaid and Medicare Services website (broken)
+* [http://www.aardvarkforms.com/AMA-Medicare-RBRVS-The-Physicians-Guide-p-16372.html Medicare RBRVS: The Physicians' Guide] - a print publication giving details on Medicare's use of RBRVS
+*[http://online.wsj.com/article/SB10001424052748704657304575540440173772102.html?mod=WSJ_hp_MIDDLENexttoWhatsNewsThird  "Physician Panel Prescribes the Fees Paid by Medicare," The Wall Street Journal, October 26, 2010]
+
+[[Category:Medicare and Medicaid (United States)]]

@@ -1,0 +1,161 @@
+{{Infobox SCC
+  |case-name= Canada v. GlaxoSmithKline Inc.
+  |full-case-name=Her Majesty the Queen v. GlaxoSmithKline Inc.
+  |heard-date=13 January 2012
+  |decided-date=18 October 2012
+  |citations= 2012 SCC 52
+  |docket= 33874
+  |history=Appeal from {{cite CanLII|litigants=GlaxoSmithKline Inc. v. Canada|link=|year=2010|source=fca|num=201|pinpoint=|parallelcite=2010 DTC 7053|date=2010-07-26|courtname=|juris=}}, setting aside {{cite CanLII|litigants=GlaxoSmithKline Inc. v. The Queen|link=|year=2008|source=tcc|num=324|pinpoint=|parallelcite=2008 DTC 3957|date=2008-05-30|courtname=|juris=}}
+  |subsequent=
+  |ruling= Appeal and cross-appeal dismissed.
+  |ratio=  Under ITA s. 69(2), the price established in a non-arm’s length transfer pricing transaction is to be redetermined as if it were between parties dealing at [[arm’s length principle|arm’s length]], and such an exercise may take into account transactions other than the purchasing transactions.
+  |chief-justice= [[Beverley McLachlin|McLachlin C.J.]]
+  |puisne-justices= [[Marie Deschamps|Deschamps]], [[Rosalie Abella|Abella]], [[Marshall Rothstein|Rothstein]], [[Thomas Albert Cromwell|Cromwell]], [[Michael Moldaver|Moldaver]], and [[Andromache Karakatsanis|Karakatsanis]] JJ.
+  |Unanimous= [[Marshall Rothstein|Rothstein J.]]
+  |Majority=
+  |JoinMajority=
+  |Concurrence=
+  |JoinConcurrence=
+  |Concurrence/Dissent=
+  |JoinConcurrence/Dissent=
+  |Dissent=
+  |JoinDissent=
+  |NotParticipating=
+  |LawsApplied= [http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html ''Income Tax Act'' (Canada)]
+}}
+
+'''''Canada v. GlaxoSmithKline Inc.'''''<ref>{{lexum-scc|2012|52}}</ref> is the first ruling of the [[Supreme Court of Canada]] that deals with issues involving [[transfer pricing]] and how they are treated under the ''Income Tax Act'' of [[Canada]] ("ITA").
+
+==Background==
+[[File:Ranitidine-A-3D-balls.png|thumb|left|Molecular structure of [[ranitidine]]]]
+In 1976, a predecessor of [[GlaxoSmithKline]] ("GSK") discovered the drug [[ranitidine]], which was approved for sale in Canada in 1981 and marketed as Zantac. Ranitidine's primary manufacture was conducted by related companies located in the United Kingdom and Singapore, and it was subsequently sold to Adechsa SA, another related company located in Switzerland, for further sale to other group companies and unrelated distributors at prices dictated by the parent company.<ref>Appellant's factum at SCC, par. 9{{endash}}11</ref>
+
+In addition, the following intercompany agreements were entered into by Glaxo Canada:
+
+:* in 1972, a Consultancy Agreement with Glaxo Group Limited covering services and intangibles provided to Glaxo Canada in exchange for a 5% royalty<ref>Appellant's factum at SCC, par. 8</ref>
+:* in 1983, a Supply Agreement with Adechsa for the purchase of ranitidine<ref>Appellant's factum at SCC, par. 12</ref>
+:* an amendment to the 1972 agreement, to cover services and intangibles relating to Zantac<ref>Appellant's factum at SCC, par. 14</ref>
+:* in 1988, a Licence Agreement with Glaxo Group Limited that replaced the 1972 agreement, and which covered various services and intangibles, in exchange for a 6% royalty on the net sales of drugs<ref>Appellant's factum at SCC, par. 15</ref>
+
+During its taxation years from 1990 to 1993, Glaxo deducted and remitted [[withholding tax]] with respect to royalty payments it made to Glaxo Group Limited under the 1988 agreement, but not with respect to payments to Adechsa under the 1983 agreement, which were considered fully deductible as [[cost of goods sold]].<ref>Appellant's factum at SCC, par. 17</ref>
+
+By 1990, [[generic drug]] manufacturers such as [[Apotex]] and [[Novopharm]] were able to acquire ranitidine on the open market at prices significantly less than Glaxo Canada was paying under its 1983 agreement.<ref>Appellant's factum at SCC, par. 19</ref> The [[Minister of National Revenue]] subsequently reassessed Glaxo Canada's 1990{{endash}}1993 taxation years under:
+
+:* s. 69(2),<ref>replaced in 1998 by the current [http://laws-lois.justice.gc.ca/eng/acts/I-3.3/page-393.html#h-150 ITA s. 247(2)(a) and (c)]</ref> which applied where a taxpayer is not dealing at arm's length with a non-resident and pays an amount greater than the amount "that would have been reasonable in the circumstances if the non-resident person and the taxpayer had been dealing at arm's length". In such a case, the transfer price is deemed to be the reasonable amount determined on an arm's length basis.<ref>Appellant's factum at SCC, par. 20</ref>
+:* s. 56(2),<ref>[http://laws-lois.justice.gc.ca/eng/acts/I-3.3/page-62.html#h-18 ITA s. 56(2)]</ref> which resulted in a deemed dividend to Adechsa, and its assessment for withholding tax under Part XIII of the ''ITA''.
+
+Glaxo Canada subsequently appealed the reassessments to the [[Tax Court of Canada]].
+
+==The courts below==
+===Tax Court of Canada===
+On 30 May 2008, the TCC allowed the appeals, ordering the s. 69(2) and Part XIII assessments to be returned to the Minister for reassessment with respect to a minor pricing adjustment. Otherwise, the approach used in arriving at the assessments was considered to be correct. [[Gerald J. Rip|Rip A.C.J.]] (as he then was) identified the key issues in the case as:<ref>''GlaxoSmithKline'' (TCC), par. 70</ref>
+
+#whether the Supply Agreement and the Licence Agreement should be considered together to determine a reasonable transfer price
+#the meaning of the phrase "reasonable in the circumstances" in s. 69(2)
+#the impact of the differences in Glaxo's [[good manufacturing practice]]s and [[Occupational safety and health|health, safety and environmental standard]]s on the comparability of the ranitidine purchased by the appellant with that purchased by the generic companies
+
+He ruled that the [[Transfer pricing#Comparable uncontrolled price|comparable uncontrolled price]] method was the preferred approach to use to establish the arm's length transfer price, subject to adjustment for the issues in dispute.<ref>''GlaxoSmithKline'' (TCC), par. 71</ref> He also ruled that the Part XIII assessments for withholding tax were essentially correct, but subject to a minor pricing adjustment with respect to the drug's granulation.<ref>''GlaxoSmithKline'' (TCC), par. 176</ref>
+
+===Federal Court of Appeal===
+The TCC ruling was set aside by the [[Federal Court of Appeal (Canada)|Federal Court of Appeal]] on 26 July 2010. In his ruling [[Marc Nadon|Nadon J.A.]] stated that the trial judge had erred in the following respects:
+
+:* concluding that the Licence Agreement and Supply Agreement were to be considered independently of one another within the context of ''Singleton v. Canada''<ref>''Singleton v. Canada'', 2001 SCC 61, [2001] 2 SCR 1046  {{lexum-scc|2001|61}}</ref><ref>''GlaxoSmithKline'' (FCA), par. 65</ref>
+:* misunderstanding the s. 69(2) test of what is "reasonable in the circumstances"<ref name = "par69">''GlaxoSmithKline'' (FCA), par. 69</ref>
+
+The ''Singleton'' test applied to a different part of the Act under different circumstances,<ref>''GlaxoSmithKline'' (FCA), par. 66{{endash}}68</ref> and the consideration of what is reasonable must be governed by the standard noted in ''Gabco Limited v. Minister of National Revenue'',<ref>''Gabco Limited v. Minister of National Revenue'', 68 D.T.C. 5210 (Ex.Cr.), as endorsed by the FCA in {{cite CanLII|litigants=Petro-Canada v. The Queen|link=|year=2004|source=fca|num=158|pinpoint=|parallelcite=58 DTC 6329, [2004] 3 CTC 156|date=2004-04-23|courtname=|juris=}}</ref> where Cattanach J. stated:
+
+{{Quotation|
+It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business considerations of the appellant in mind.<ref name = "par69"></ref>
+}}
+[[File:price trans-comp ext-small.jpg|thumb|175px|Transfer Pricing with a Competitive External Market]]
+Nadon J.A. subsequently listed the following "circumstances" of what could be considered as reasonable in the case at bar:<ref>''GlaxoSmithKline'' (FCA), par. 79</ref>
+
+#Glaxo Group owned the Zantac trademark and would own it even if the appellant was an arm’s length licensee.
+#Zantac commanded a premium over generic ranitidine drugs.
+#Glaxo Group owned the ranitidine patent and would have owned it even if the appellant had been in an arm’s length relationship.
+#Without the License Agreement, the appellant would not have been in a position to use the ranitidine patent and the Zantac trademark. 
+
+Consequently, in those circumstances, the only possibility open to the appellant would have been to enter the generic market where the cost of entry into that market would likely have been high, considering that both Apotex and Novopharm were already well placed and positioned. Without the License Agreement, the appellant would not have had access to the portfolio of other patented and trademarked products to which it had access under the License Agreement.
+
+The appeal was allowed with costs, setting aside the Tax Court’s decision, and the matter was returned to the trial judge for rehearing and reconsideration of the matter in the light of the FCA's reasons.
+
+An appeal by the Crown on the reversal, and cross-appeal by GSK with respect to the case being returned to the TCC for rehearing, were subsequently made to the [[Supreme Court of Canada]], which heard the case on 13 January 2012.<ref>{{Cite web|author = Julius Melnitzer|title = The Queen v. GlaxoSmithKline: SCC reserves on critical transfer pricing appeal|url = http://business.financialpost.com/2012/01/13/the-queen-v-glaxosmithkline-scc-reserves-on-critical-transfer-pricing-appeal/|publisher = ''[[Financial Post]]''|date = 2012-01-13|accessdate = 2012-10-17}}</ref><ref>[http://www.scc-csc.gc.ca/case-dossier/cms-sgd/webcast-webdiffusion-eng.aspx?33874 Webcast of SCC hearing]</ref>
+
+==Arguments before the SCC==
+
+===The appeal===
+
+The Crown argued that applying a “reasonable in the circumstances” test, as the FCA did, does not fulfil the conditions of section 69(2), as a price that may be reasonable is not necessarily an arm‟s-length price.<ref>Appellant's factum at SCC, par. 30{{endash}}34</ref> According to the Crown, only those circumstances that would be relevant to parties bargaining at arm‟s length for a particular good should be considered in the analysis,<ref>Appellant's factum at SCC, par. 35{{endash}}49</ref> which it asserted was supported by the SCC's rulings in ''Singleton'' and ''Shell Canada Ltd. v. Canada''.<ref>''Shell Canada Ltd. v. Canada'', [1999] 3 SCR 622, 1999 CanLII 647 (SCC)  {{lexum-scc2|1999|3|622|647}}</ref> In its view, other circumstances, such as Glaxo Canada‟s status as a distributor of Zantac, were irrelevant to the consideration of the price paid for ranitidine.<ref>Appellant's factum at SCC, par. 50{{endash}}92</ref>
+
+In response to questions from the Justices about the meaning of "reasonable circumstances" in s. 69(2), the Crown submitted that:
+
+:* the phrase was intended to consider only the “economically relevant circumstances” pertaining to the specific transaction in question, in accordance with the ''[[OECD]] Transfer Pricing Guidelines''<ref>for current version, see {{Cite web|title = Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations|url = http://www.oecd.org/ctp/transferpricing/transferpricingguidelinesformultinationalenterprisesandtaxadministrations.htm|publisher = [[OECD]]|accessdate = 2012-10-17}}</ref>
+:* s. 69(2) did not allow consideration of “the whole deal”
+
+As to questions as to whether a hypothetical independent licensee entering into a similar arrangement with Glaxo could be reeassessed in the same manner, the Crown responded that such a licensee could be reassessed as not “dealing at arm‟s length” if it was tied into a set price and had no ability to bargain.
+
+In its submission, GSK concurred with the FCA ruling with respect to the inclusion of the License Agreement in determining reasonable circumstances.<ref>Respondent's factum at SCC, par. 41{{endash}}44</ref> S. 69(2) should therefore be presumed to situate the parties at arm's length, ultimately asking, "Would they do the deal?"<ref>Respondent's factum at SCC, par. 45{{endash}}60</ref> As to questions posed on whether the price paid for ranitidine was a bundled price for tangible and intangible property{{emdash}}thus potentially triggering liability for withholding tax{{emdash}}GSK contended that the situation was analogous to luxury brands such as [[Rolex]] and [[Porsche]]. While there are undoubtedly components of intellectual property embedded in the price of the tangible good, it is not Canadian law or practice to segregate and separately tax the discrete elements.
+
+As to the applicability of the [[OECD]] guidelines, GSK stated that there was no dispute between the parties that the issue in question is solely the price of the tangible good rather than its characterization.<ref>Respondent's factum at SCC, par. 90{{endash}}99</ref>
+
+===The cross-appeal===
+
+In its cross-appeal, GSK submitted that it had demolished the Minister's reassessment by demonstrating that the theory at the heart of the liability determined by the Minister was wrong, and therefore the reassessment must be set aside.<ref>Respondent's factum at SCC, par. 100{{endash}}125</ref> To a question posed as to whether the onus was still on the taxpayer to prove that it did not overpay for ranitidine (as the lower courts had not yet addressed the issue), GSK responded that, once it had demolished the Crown's basis for reassessment, the onus shifted to the Crown to show that Glaxo had paid too much.
+
+In reply, the Crown contended that GSK did not demolish the reassessment, and therefore it remained valid and open for reconsideration by the TCC.<ref>Appellant's factum at SCC, par. 100{{endash}}109</ref> To the question of whether, if the case were to be sent back to the TCC, any other issue could be argued, the Crown stated that the argument would remain essentially the same, as the generic comparable prices comprised the only available information to support arm's-length prices for ranitidine.
+
+==Decision by the SCC==
+[[File:ON-CourSupreme 20090606-164356 panoramique.jpg|thumb|left|Panoramic view of [[Supreme Court of Canada]] audience chamber]]
+In a unanimous decision by [[Marshall Rothstein|Rothstein J.]], the appeal and cross-appeal were dismissed.
+
+===The appeal===
+
+While s. 69(2) does not state what is a "reasonable amount", the OECD guidelines do provide commentary and methodology pertaining to the issue of transfer pricing. However, the test of any set of transactions or prices ultimately must be determined according to s. 69(2).<ref>''GlaxoSmithKline'' (SCC), par. 20</ref>
+
+:* The trial judge erred in relying on ''Singleton'' and ''Shell Canada'' for requiring a transaction-by-transaction approach, but s. 69(2) only requires that the price established in a non-arm’s length transfer pricing transaction is to be redetermined as if it were between parties dealing at arm’s length.  If the circumstances require, transactions other than the purchasing transactions must be taken into account to determine whether the actual price was or was not greater than the amount that would have been reasonable had the parties been dealing at arm’s length.<ref>''GlaxoSmithKline'' (SCC), par. 38</ref>
+:* The OECD Guidelines state that a proper application of the arm’s length principle requires that regard be had for the “economically relevant characteristics” of the arm’s length and non-arm’s length circumstances to ensure they are “sufficiently comparable”.<ref>''GlaxoSmithKline'' (SCC), par. 42</ref>
+:* Considering the Licence and Supply agreements together offers a realistic picture of the profits of Glaxo Canada.  It cannot be irrelevant that Glaxo Canada’s function was primarily as a secondary manufacturer and marketer.  It did not originate new products and the intellectual property rights associated with them.  Nor did it undertake the investment and risk involved with originating new products.  Nor did it have the other risks and investment costs which Glaxo Group undertook under the Licence Agreement.  The prices paid by Glaxo Canada to Adechsa were a payment for a bundle of at least some rights and benefits under the Licence Agreement and product under the Supply Agreement.<ref>''GlaxoSmithKline'' (SCC), par. 52</ref>
+
+
+It was also noted that the issue as to whether the purchase price includes compensation for intellectual property rights granted to Glaxo Canada had not been specifically argued before the SCC, and could still trigger potential further liability for Part XIII withholding tax. It may still be raised during the subsequent rehearing at the TCC.<ref>''GlaxoSmithKline'' (SCC), par. 57</ref>
+
+The following further guidance was given with respect to the forthcoming redetermination by the trial judge:<ref>''GlaxoSmithKline'' (SCC), par. 61{{endash}}64</ref>
+
+#In determining what constitutes a "reasonable amount" under s. 69(2), even the OECD guidelines concede that “transfer pricing is not an exact science”. As long as a transfer price is within what the court determines is a reasonable range, the requirements of the section should be satisfied.
+#While assessment of the evidence is a matter for the trial judge, the respective roles and functions of Glaxo Canada and the Glaxo Group should be kept in mind. Whether or not compensation for intellectual property rights is justified in this particular case, is a matter for determination by the Tax Court judge.
+#Prices between parties dealing at arm’s length will be established having regard to the independent interests of each party to the transaction, and an appropriate determination under the arm’s length test of s. 69(2) should reflect these realities.
+#In this case there is some evidence that indicates that arm’s length distributors have found it in their interest to acquire ranitidine from a Glaxo Group supplier, rather than from generic sources.  This suggests that higher-than-generic transfer prices are justified and are not necessarily greater than a reasonable amount under s. 69(2).
+
+===The cross-appeal===
+
+The assessments were based on two assumptions:<ref>''GlaxoSmithKline'' (SCC), par. 70</ref>
+
+:* the Appellant paid Adechsa, with whom it was not dealing at arm’s length, a price for ranitidine which was greater than the amount that would have been reasonable in the circumstances if the Appellant and Adechsa had been dealing at arm’s length
+:* any amounts paid by the appellant to Adechsa over and above the prices paid by other Canadian pharmaceutical companies were not for the supply of ranitidine
+
+Only the second could be characterized as having been demolished, but if Glaxo had been successful in establishing that the prices it paid were reasonable, the first would have been demolished as well. As [[Claire L'Heureux-Dubé|L’Heureux-Dubé]] J. had stated in ''Hickman Motors Ltd. v. Canada'', the taxpayer’s burden is to “‘demolish’ the exact assumptions made by the Minister but no more”.<ref>''Hickman Motors Ltd. v. Canada'', [1997] 2 S.C.R. 336  {{lexum-scc2|1997|2|336|357}}</ref><ref>''GlaxoSmithKline'' (SCC), par. 72</ref>
+
+
+As Glaxo had previously conceded at the FCA that the court could determine what was the reasonable amount, it was within the FCA's discretion to remit the question to the TCC for that very determination. Accordingly, that aspect of the FCA's ruling was upheld.<ref>''GlaxoSmithKline'' (SCC), par. 76</ref>
+
+==Impact==
+
+There has been little jurisprudence on [[transfer pricing]] in Canada, and, being the first time this area had been addressed by the SCC, the judgment was greatly anticipated, not just in Canada,<ref>{{Cite web|title = Tax Alert - Canada: Supreme Court of Canada hears the ''GlaxoSmithKline'' case|url = http://www.ey.com/Publication/vwLUAssets/Tax_Alert_2012_No_01/$FILE/TaxAlert2012No01.pdf|publisher = [[Ernst & Young LLP]]|date = 2012-01-16|accessdate = 2012-10-17}}</ref><ref>{{Cite web|title = GlaxoSmithKline Transfer Pricing Decision - What's at Stake?|url = http://www.kpmg.com/ca/en/issuesandinsights/articlespublications/global-tax-adviser/pages/glaxosmithkline%20transfer%20pricing%20decision%20-%20what%27s%20at%20stake.aspx|publisher = [[KPMG LLP]]|date = 2012-09-11|accessdate = 2012-10-17}}</ref> but worldwide.<ref>{{Cite web|title = The Arm’s Length Standard in the Real World: The Federal Court of Appeals Decision in GlaxoSmithKline Inc.|url = http://www.bakermckenzie.com/RRCanadaArmsLengthStandardNov10/|publisher = [[Baker & McKenzie]]|date = November 2010|accessdate = 2012-10-17}}</ref><ref>{{Cite web|title = GlaxoSmithKline Inc v The Queen|url = http://moorestephensresources.com.au/articles/386/1/GlaxoSmithKline-Inc-v-The-Queen/Page1.html|publisher = Moore Stephens|date = 2010-08-11|accessdate = 2012-10-18}}</ref> While many [[tax professional]]s welcomed the SCC endorsement of a "business reality test", others had been expecting more specific guidance.<ref>{{Cite web|author = Drew Hasselback|title = Supreme Court of Canada adopts broad test on transfer pricing|url = http://business.financialpost.com/2012/10/18/supreme-court-of-canada-adopts-broad-test-on-transfer-pricing/|publisher = ''[[Financial Post]]''|date = 2012-01-18|accessdate = 2012-10-19}}</ref> There was also speculation that the time may be ripe for the Crown and GSK to reach a settlement, rather than spend more time in pursuing a rehearing at the TCC.<ref>{{Cite web|title = Tax Alert - Canada: Supreme Court of Canada sends GlaxoSmithKline transfer pricing case back to the Tax Court of Canada|url = http://www.ey.com/Publication/vwLUAssets/Tax_Alert_2012_No_44/$FILE/TaxAlert2012No44.pdf|publisher = [[Ernst & Young LLP]]|date = 2012-10-19|accessdate = 2012-10-19}}</ref>
+
+The SCC's statement that an arm's-length price can fall within an acceptable range of prices has also been seen as significant, and consistent with the 2010 OECD transfer pricing guidelines, as it appears to be contrary to the long-standing policy of the [[Canada Revenue Agency]] to express a preference for unweighted yearly averages of comparators’ pricing in such circumstances.<ref>{{Cite web|author = Jonathan Crangle|title = Transfer Pricing: Supreme Court of Canada upholds Federal Court of Appeal in Canada v GlaxoSmithKline Inc.|url = http://www.taxchambers.ca/transfer-pricing-supreme-court-of-canada-upholds-federal-court-of-appeal-in-canada-v-glaxosmithkline-inc/|publisher = Tax Chambers|date = 2012-10-18|accessdate = 2012-10-24}}</ref> In addition, the SCC's guidance to the TCC strongly suggests that Canadian courts must keep an eye on the bigger picture in making their transfer pricing determinations, and the determination of arm’s-length pricing is quite distinct from the narrower concept of [[fair market value]].<ref>{{Cite web|title = Canada’s Supreme Court Releases First Transfer Pricing Decision in GlaxoSmithKline|url = http://www.osler.com/NewsResources/Canadas-Supreme-Court-Releases-First-Transfer-Pricing-Decision-in-GlaxoSmithKline/|publisher = [[Osler, Hoskin & Harcourt]]|date = 2012-10-19|accessdate = 2012-10-28}}</ref>
+
+When s. 69(2) was reenacted as s. 247(2)(a) and (c) in 1998, the test as to what was reasonable "in the circumstances" was removed. However, it has been contended that the quoted words are implicit in the comparative exercise mandated by the explicit adoption of the arm’s-length principle in subsection 247(2).<ref>{{Cite web|author = John J. Tobin|title = Canada’s Top Court Speaks on Transfer Pricing|url = http://www.torys.com/Publications/Pages/TX2012-3_Canadas_Top_Court_Speaks_on_Transfer_Pricing.aspx|publisher = [[Torys LLP]]|date = 2012-10-19|accessdate = 2012-10-21}}</ref> It should be noted that s. 247 also contains a recharacterization rule at s. 247(2)(b) and (d) that has yet to be assessed in the Canadian courts.<ref>{{cite journal |last1= Bloom|first1= Brian|last2= Vincent|first2= François |year= 2012|title= Respecting the Dualistic Nature of Canada’s Two Transfer Pricing Rules: A Tax Policy and Legal Analysis|journal= Tax Management Transfer Pricing Report|volume= 21|issue= 7|pages= S-3{{endash}}S-20|publisher= |doi= |url= http://www.dwpv.com/~/media/Files/PDF/Article-Transfer-Pricing-Report.ashx|accessdate=2012-10-19}}</ref>
+
+== References ==
+{{Reflist|3}}
+
+==Further reading==
+
+* {{Cite web|title = Appellant's factum (redacted) at the Supreme Court of Canada|url = http://www.scc-csc.gc.ca/factums-memoires/33874/FM010_Appellant_Her-Majesty-the-Queen_Redacted.pdf}}
+* {{Cite web|title = Respondent's factum (redacted) at the Supreme Court of Canada|url = http://www.scc-csc.gc.ca/factums-memoires/33874/FM020_Respondent_Glaxoxmithkline-Inc_Redacted.pdf}}
+
+
+{{GlaxoSmithKline}}
+[[Category:Supreme Court of Canada cases]]
+[[Category:Taxation in Canada]]
+[[Category:2012 in Canadian case law]]

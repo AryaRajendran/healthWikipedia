@@ -1,0 +1,116 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 459436942
+| IUPAC_name = 1-{[5-(4-nitrophenyl)-2-furyl]methylideneamino}<br>imidazolidine-2,4-dione
+| image = Dantrolene Tanaka et al.svg
+
+<!--Clinical data-->
+| tradename = Dantrium
+| Drugs.com = {{drugs.com|monograph|dantrium}}
+| pregnancy_US = C
+| legal_status =  
+| routes_of_administration = Oral, [[intravenous therapy|intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 70%
+| protein_bound =  
+| metabolism = Liver
+| elimination_half-life =  
+| excretion = Biliary, [[kidney|renal]]
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 7261-97-4
+| ATC_prefix = M03
+| ATC_suffix = CA01
+| ATC_supplemental =  
+| PubChem = 2952
+| IUPHAR_ligand = 4172
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB01219
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2847
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F64QU97QCR
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D02347
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4317
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201288
+
+<!--Chemical data-->
+ | C=14 | H=10 | N=4 | O=5 
+| molecular_weight = 314.253 g/mol
+| smiles = [O-][N+](=O)c3ccc(c2oc(C=NN1C(=O)NC(=O)C1)cc2)cc3
+| InChI = 1/C14H10N4O5/c19-13-8-17(14(20)16-13)15-7-11-5-6-12(23-11)9-1-3-10(4-2-9)18(21)22/h1-7H,8H2,(H,16,19,20)
+| InChIKey = OZOMQRBLCMDCEG-UHFFFAOYAA
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H10N4O5/c19-13-8-17(14(20)16-13)15-7-11-5-6-12(23-11)9-1-3-10(4-2-9)18(21)22/h1-7H,8H2,(H,16,19,20)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OZOMQRBLCMDCEG-UHFFFAOYSA-N
+}}
+'''Dantrolene sodium''' is a [[muscle relaxant]] that acts by abolishing [[excitation-contraction coupling]] in [[skeletal muscle|muscle cells]], probably by action on the [[ryanodine receptor]]. It is the only specific and effective treatment for [[malignant hyperthermia]], a rare, life-threatening disorder triggered by [[general anesthesia]]. It is also used in the management of [[neuroleptic malignant syndrome]], muscle [[spasticity]] (e.g. after [[stroke]]s, in [[paraplegia]], [[cerebral palsy]], or patients with [[multiple sclerosis]]), [[MDMA|3,4-methylenedioxymethamphetamine ("ecstasy")]] intoxication, [[serotonin syndrome]], and [[2,4-Dinitrophenol|2,4-dinitrophenol]] poisoning.<ref name=Krause/> It is marketed by JHP Pharmaceuticals LLC as Dantrium (in North America) and Dantrolen (Europe).
+
+==History==
+Dantrolene was first described in the scientific literature in 1967, as one of several [[hydantoin]] derivatives proposed as a new class of muscle relaxant.<ref>{{cite journal |author=Snyder HR, Davis CS, Bickerton RK, Halliday RP |title=1-[(5-arylfurfurylidene)amino]hydantoins. A new class of muscle relaxants |journal=J Med Chem |volume=10 |issue=5 |pages=807–10 |year=1967 |month=September |pmid=6048486 |doi=10.1021/jm00317a011}}</ref> Dantrolene underwent extensive further development, and its action on [[skeletal muscle]] was described in detail in 1973.<ref>{{cite journal |author=Ellis KO, Castellion AW, Honkomp LJ, Wessels FL, Carpenter JE, Halliday RP |title=Dantrolene, a direct acting skeletal muscle relaxant |journal=J Pharm Sci |volume=62 |issue=6 |pages=948–51 |year=1973 |month=June |pmid=4712630 |doi=10.1002/jps.2600620619}}</ref>
+
+Dantrolene was widely used in the management of [[spasticity]] before its efficacy in treating malignant hyperthermia was discovered by South African anesthesiologist Gaisford Harrison and reported in a landmark 1975 article published in the ''[[British Journal of Anaesthesia]]''.<ref name=Harrison>{{cite journal |author=Harrison GG |title=Control of the malignant hyperpyrexic syndrome in MHS swine by dantrolene sodium |journal=Br J Anaesth |volume=47 |issue=1 |pages=62–5 |year=1975 |month=January |pmid=1148076 |doi=10.1093/bja/47.1.62}} A reprint of the article, which became a "Citation Classic", is available in ''Br J Anaesth'' '''81''' (4): 626–9. PMID 9924249 (free full text).</ref> Harrison experimentally induced malignant hyperthermia with [[halothane]] anesthesia in genetically susceptible [[pig]]s, and obtained a 87.5% survival rate, where seven of his eight experiments survived after [[intravenous therapy|intravenous]] administration of dantrolene; only one animal died during the course of the study. The efficacy of dantrolene in humans was later confirmed in a large, multicenter study published in 1982,<ref>{{cite journal |author=Kolb ME, Horne ML, Martz R |title=Dantrolene in human malignant hyperthermia |journal=Anesthesiology |volume=56 |issue=4 |pages=254–62 |year=1982 |month=April |pmid=7039419 |doi=10.1097/00000542-198204000-00005}}</ref> and confirmed epidemiologically in 1993.<ref>{{cite journal |author=Strazis KP, Fox AW |title= Malignant hyperthermia: review of published cases | journal = Anesth Analg |volume=77 |issue=3 |pages=297–304 | year=1993 | month=March}}</ref> Before dantrolene, the only available treatment for malignant hyperthermia was [[procaine]], which was associated with a 60% mortality rate in animal models.<ref name=Harrison/>
+
+==Contraindications==
+Oral dantrolene cannot be used in people with:{{citation needed|date=March 2008}}
+* pre-existing liver disease
+* compromised lung function
+* severe cardiovascular impairment
+* known hypersensitivity to dantrolene
+* pediatric patients under five years of age
+* whenever good muscular balance/strength is needed to maintain an upright position, motoric function, or proper neuromuscular balance
+
+If the indication is a [[medical emergency]], such as malignant hyperthermia, the only significant contraindication is hypersensitivity.{{citation needed|date=March 2008}}
+
+===Pregnancy and breastfeeding===
+If needed in pregnancy, adequate human studies are lacking, therefore the drug should be given in pregnant women only if clearly indicated. It may cause hypotonia in the newborn if given closely before delivery.<ref name=Krause/>
+
+Dantrolene should not be given to breastfeeding mothers. If a treatment is necessary, breastfeeding should be terminated.{{citation needed|date=March 2008}}
+
+==Adverse effects==
+[[Central nervous system]] [[adverse drug reaction|side effect]]s are quite frequently noted and encompass speech and visual disturbances, mental depression and confusion, hallucinations, headache, insomnia and exacerbation or precipitation of seizures, and increased nervousness. Infrequent cases of respiratory depression or a feeling of suffocation have been observed. Dantrolene often causes sedation severe enough to incapacitate the patient to drive or operate machinery.
+
+Gastrointestinal effects include bad taste, anorexia, nausea, vomiting, abdominal cramps, and diarrhea.
+
+Hepatic side effects may be seen either as asymptomatic elevation of [[liver enzyme]]s and/or bilirubin or, most severe, as fatal and nonfatal [[hepatitis]]. The risk of hepatitis is associated with the duration of treatment and the daily dose. In patients treated for hyperthermia, no liver toxicity has been observed so far.
+
+[[Pleural effusion]] with pericarditis (oral treatment only), rare cases of [[bone marrow]] damage, diffuse [[myalgia]]s, backache, dermatologic reactions, transient cardiovascular reactions, and [[crystalluria]] have additionally been seen.  Muscle weakness may persist for several days following treatment.
+
+==Mutagenicity and carcinogenity==
+Dantrolene gave positive results in animal high dose studies (with and without enzymatic activation) regarding mutagenicity and carcinogenity. No evidence for human mutagenicity and carcinogenity has been found during the long years of clinical experience.{{citation needed|date=March 2008}}
+
+==Mechanism of action==
+Dantrolene depresses [[excitation-contraction coupling]] in [[skeletal muscle]] by [[binding (molecular)|binding]] to the [[ryanodine receptor]], and decreasing free [[intracellular]] [[calcium]] concentration.<ref name=Krause/>
+
+==Chemistry==
+[[File:Azumolene.svg|thumb|[[Skeletal formula]] of azumolene. The bromine atom replacing the nitro group found in dantrolene may be seen at left.]]
+Chemically it is a [[hydantoin]] derivative, but does not exhibit antiepileptic activity like other hydantoin derivates such as [[phenytoin]].<ref name=Krause>{{cite journal |author=Krause T, Gerbershagen MU, Fiege M, Weisshorn R, Wappler F |title=Dantrolene&nbsp;– a review of its pharmacology, therapeutic use and new developments |journal=Anaesthesia |volume=59 |issue=4 |pages=364–73 |year=2004 |pmid=15023108 |doi=10.1111/j.1365-2044.2004.03658.x | url=http://www.blackwell-synergy.com/doi/full/10.1111/j.1365-2044.2004.03658.x}}</ref>
+
+The poor water [[solubility]] of dantrolene leads to certain difficulties in its use.<ref name=Krause/><ref name=Sudo>{{cite journal |author=Sudo RT, Carmo PL, Trachez MM, Zapata-Sudo G |title=Effects of azumolene on normal and malignant hyperthermia-susceptible skeletal muscle |journal=Basic Clin Pharmacol Toxicol |volume=102 |issue=3 |pages=308–16 |year=2008 |month=March |pmid=18047479 |doi=10.1111/j.1742-7843.2007.00156.x}}</ref> A more water-soluble [[analog (chemistry)|analog]] of dantrolene, [[azumolene]], is under development for similar indications.<ref name=Sudo/> Azumolene has a [[bromine]] residue instead of the [[nitro compound|nitro]] group found in dantrolene, and is 30 times more water-soluble.<ref name=Krause/>
+
+==Drug interactions==
+Dantrolene may interact with the following drugs:<ref name=Epocrates>{{cite web |url=https://online.epocrates.com/u/104574/dantrolene |title=Dantrolene Drug Interactions |publisher=Epocrates |work=Epocrates Online |year=2008}} Retrieved on December 31, 2008.</ref>
+* [[Calcium channel blocker]]s of the [[diltiazem]]/[[verapamil]] type: Intravenous treatment with dantrolene and concomitant calcium channel blocker treatment may lead to severe cardiovascular collapse, arrhythmias, myocardial depressions, and hyperkalemia.
+* [[Neuromuscular nondepolarizing agent|Nondepolarizing]] [[neuromuscular-blocking drug|neuromuscular blocking agents]], such as [[vecuronium]] bromide: Neuromuscular blockade is potentiated.
+* CNS [[depressant]]s: Sedative action is potentiated. [[Benzodiazepine]]s may also cause additive muscle weakness.
+* [[Combined oral contraceptive pill|Combined oral contraceptive]]s and [[hormone replacement therapy (menopause)|hormone replacement therapy]] with [[estrogen]]s may enhance liver toxicity of dantrolene, particularly in women over 35 years of age.
+
+==References==
+{{reflist}}
+
+==External links==
+* http://www.kompendium.ch/MonographieTxt.aspx?lang=de&MonType=fi Swiss Drug Compendium on oral Dantrolene (German)
+
+{{Muscle relaxants}}
+
+[[Category:Muscle relaxants]]
+[[Category:Furans]]
+[[Category:Hydantoins]]
+[[Category:Nitrobenzenes]]

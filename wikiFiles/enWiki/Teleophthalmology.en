@@ -1,0 +1,389 @@
+[[File:HealthyEyeFundus.jpg|thumbnail|right|Healthy eye fundus viewed through a retinal camera]][[File:MacularDegenerationFundus.jpg|thumbnail|right|Retinal image with signs of macular degeneration]]
+'''Teleophthalmology''' is a branch of [[telemedicine]] that delivers eye care through digital medical equipment and telecommunications technology. Today, applications of teleophthalmology encompass access to eye specialists for patients in remote areas, ophthalmic disease screening, diagnosis and monitoring; as well as distant learning.<ref name=Yogesan2006>{{Cite book
+| publisher = Springer Berlin Heidelberg
+| isbn = 9783642258107  3642258107  9783642258091  3642258093
+| last = Goldschmidt
+| first = LP
+| others = K Yogesan, J Cuadros (eds.)
+| title = Digital Teleretinal Screening Teleophthalmology in Practice
+| location = Berlin, Heidelberg
+| year = 2012
+}}</ref>
+
+Teleophthalmology enables health professionals to take ocular images and attend to patients who have limited access to ocular health care. These images allow the [[ophthalmologist]], health care professionals and researchers to carry out the aforementioned applications. The required equipment includes a camera that can take ocular images and a computer terminal with network capabilities, which can transfer the images. There has been a significant increase in teleophthalmology research over the past decade. However, differences in health information exchange standards, data security, liability issues, and cost of equipment are other major challenges in teleophthalmology.
+
+==Implementation==
+Although ocular photography has been present since the early 1980s, the transfer of digital images from one location to another for assessment is a relatively recent phenomenon. The rise of digital imaging in the early 1990s allowed ophthalmologists to capture images and store them on computers for future assessment. The advent of the Internet allowed for the digital transfer of these ocular images from one location to another. 
+
+Current teleophthalmological solutions are generally focused on a particular eye problem, such as [[diabetic retinopathy]],<ref name=Boucher2005>{{Cite journal
+| doi = 10.1016/S0008-4182(05)80091-2
+| issn = 0008-4182
+| volume = 40
+| issue = 6
+| pages = 734–742
+| last = Boucher
+| first = Marie C
+| coauthors = Quyn T Nguyen, Karine Angioi
+| title = Mass community screening for diabetic retinopathy using a nonmydriatic camera with telemedicine
+| journal = Canadian journal of ophthalmology. Journal canadien d'ophtalmologie
+| accessdate = 2012-12-15
+| date = 2005-12
+|url=http://www.ncbi.nlm.nih.gov/pubmed/16391638
+}}</ref> [[retinopathy of prematurity]],<ref name=Richter>{{Cite journal
+| doi = 10.1016/j.survophthal.2009.02.020
+| issn = 00396257
+| volume = 54
+| issue = 6
+| pages = 671–685
+| last = Richter
+| first = Grace M.
+| coauthors = Steven L. Williams, Justin Starren, John T. Flynn, Michael F. Chiang
+| title = Telemedicine for Retinopathy of Prematurity Diagnosis: Evaluation and Challenges
+| journal = Survey of Ophthalmology
+| accessdate = 2012-12-15
+| date = 2009-11
+|url=http://linkinghub.elsevier.com/retrieve/pii/S0039625709000654
+}}
+</ref> [[macular degeneration]], [[strabismus]]<ref name=Helveston>{{Cite journal
+| doi = 10.1067/mpa.2001.118214
+| issn = 10918531
+| volume = 5
+| issue = 5
+| pages = 291–296
+| last = Helveston
+| first = Eugene M.
+| coauthors = Faruk H. Orge, Rosa Naranjo, Lourdes Hernandez
+| title = Telemedicine: Strabismus e-consultation
+| journal = Journal of American Association for Pediatric Ophthalmology and Strabismus
+| accessdate = 2012-12-15
+| date = 2001-10
+|url=http://linkinghub.elsevier.com/retrieve/pii/S1091853101700146
+}}</ref> and adnexal eye diseases.<ref name=verma>{{Cite journal
+| doi = 10.4103/0301-4738.55078
+| issn = 0301-4738
+| volume = 57
+| issue = 5
+| pages = 381
+| last = Verma
+| first = Malay
+| coauthors = Rajiv Raman, RavindraE Mohan
+| title = Application of tele-ophthalmology in remote diagnosis and management of adnexal and orbital diseases
+| journal = Indian Journal of Ophthalmology
+| accessdate = 2012-12-15
+| year = 2009
+|url=http://www.ijo.in/text.asp?2009/57/5/381/55078
+}}</ref> Less common conditions that can be revealed using retinal images are arterial and vein occlusions, [[chorioretinitis]], congenital anomalies, and tapetoretinal abitrophy. Several population-based studies have used retinal imaging to relate ophthalmic abnormalities to general conditions, including [[hypertension]], [[renal failure|renal dysfunction]], cardiovascular mortality, subclinical and clinical stroke, and cognitive impairment.<ref name=Perez2012>{{Cite journal
+| doi = 10.1097/NRL.0b013e318272f7d7
+| issn = 1074-7931
+| volume = 18
+| issue = 6
+| pages = 350–355
+| last = Pérez
+| first = Mario A.
+| coauthors = Beau B. Bruce, Nancy J. Newman, Valérie Biousse
+| title = The Use of Retinal Photography in Nonophthalmic Settings and Its Potential for Neurology
+| journal = The Neurologist
+| accessdate = 2012-12-15
+| date = 2012-11
+|url=http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00127893-201211000-00003
+}}</ref>
+
+Mobile applications are widely available in ophthalmology as tools for eye tests (visual acuity, colour test, and viewing eye images) and for educational purposes.<ref name=Stanzel2012>{{Cite journal
+| doi = 10.1007/s00347-011-2425-7
+| issn = 0941-293X, 1433-0423
+| volume = 109
+| issue = 1
+| pages = 8–20
+| last = Stanzel
+| first = B.V.
+| coauthors = C.H. Meyer
+| title = Smartphones in der Augenheilkunde
+| journal = Der Ophthalmologe
+| accessdate = 2012-12-15
+| date = 2012-01-26
+|url=http://www.springerlink.com/index/10.1007/s00347-011-2425-7
+}}</ref> Technological advancements in digital ocular imaging devices are perceived by many as key drivers for teleophthalmology. Recently, emerging retinal imaging modalities such as [[optical coherence tomography]] are capable of producing digital images of the retina with a micrometer resolution, which can be transmitted for research or diagnostic purposes. Along with systems designed for health care professionals, patient-centred systems such as [http://www.eye-file.ru Eye-File] for use by the general public are emerging.
+
+==Process==
+[[Image:Retinal camera.jpg|thumb|300px|A non-[[mydriasis|mydriatic]] [[Topcon]] retinal camera]]
+Fundus photography is performed by a fundus camera, which basically consists of a specialized low power [[microscope]] with an attached [[camera]].
+
+Teleophthalmology services can be provided primarily in two ways synchronously or asynchronously:
+
+*'''Synchronous teleophthalmology''' enables real-time interaction between participants (using standard telemedicine technologies e.g. video-conferencing), synchronous to supervise the removal of corneal foreign bodies<ref name=Hall2005>{{Cite journal
+| doi = 10.1089/tmj.2005.11.79
+| issn = 1530-5627
+| volume = 11
+| issue = 1
+| pages = 79–83
+| last = Hall
+| first = Geoffrey
+| coauthors = Michael Hennessy, Joanna Barton, Minas Coroneo
+| title = Teleophthalmology-assisted corneal foreign body removal in a rural hospital
+| journal = Telemedicine journal and e-health: the official journal of the American Telemedicine Association
+| accessdate = 2012-12-15
+| date = 2005-02
+|url=http://www.ncbi.nlm.nih.gov/pubmed/15785224
+}}</ref> and for consultations. 
+*'''Asynchronous teleophthalmology''' in a “store-and-forward” method, where data is captured and transmitted for review at a later time.  
+
+Images of the eye can be captured non-invasively through various methods, generally by a technician or non-physician health care professional. 
+*'''External eye''': standard digital stills or video camera
+*'''[[Anterior segment of eyeball|Anterior segment]]''': [[slit lamp]] connected to a camera 
+*'''[[Posterior segment of eyeball|Posterior segment]]''' or '''retina''': [[fundus camera]]
+[[Mydriasis]] (pupil dilation, e.g. using [[tropicamide]]) may be required to obtain an image of sufficient quality.<ref name=Boucher2008>{{Cite journal
+| doi = 10.3129/I08-120
+| issn = 1715-3360, 0008-4182
+| volume = 43
+| issue = 6
+| pages = 658–668
+| last = Boucher
+| first = Marie Carole
+| coauthors = Gilles Desroches, Raul Garcia-Salinas, Amin Kherani, David Maberley, Sébastien Olivier, Mila Oh, Frank Stockl
+| title = Teleophthalmology screening for diabetic retinopathy through mobile imaging units within Canada
+| journal = Canadian Journal of Ophthalmology
+| accessdate = 2012-12-15
+| year = 2008
+|url=http://pubs.nrc-cnrc.gc.ca/cjo/cjo43/i08-120.pdf
+}}</ref>  Stereoscopy may be used to detect retinal thickening.<ref name=Rudnisky2006>{{Cite journal
+| doi = 10.3129/I06-066
+| issn = 1715-3360, 0008-4182
+| volume = 41
+| issue = 6
+| pages = 727–732
+| last = Rudnisky
+| first = Christopher J.
+| coauthors = Matthew T.S. Tennant, Alexander R. de Leon, Bradley J. Hinz, Mark D.J. Greve
+| title = Benefits of stereopsis when identifying clinically significant macular edema via teleophthalmology
+| journal = Canadian Journal of Ophthalmology
+| accessdate = 2012-12-15
+| year = 2006
+|url=http://pubs.nrc-cnrc.gc.ca/cjo/cjo41/i06-066.pdf
+}}</ref> 
+The image can then be transferred, over the Internet or dedicated network to a physician for immediate examination, or for storage and later review.  Ideally, the image is encrypted or anonymized for transmission, to protect patient confidentiality.  Between image capture and viewing, image processing may be done, including [[image compression|compression]], enhancement and [[edge detection|edge-detection]].<ref name=Patton2006>{{Cite journal
+| doi = 10.1016/j.preteyeres.2005.07.001
+| issn = 13509462
+| volume = 25
+| issue = 1
+| pages = 99–127
+| last = Patton
+| first = Niall
+| coauthors = Tariq M. Aslam, Thomas MacGillivray, Ian J. Deary, Baljean Dhillon, Robert H. Eikelboom, Kanagasingam Yogesan, Ian J. Constable
+| title = Retinal image analysis: Concepts, applications and potential
+| journal = Progress in Retinal and Eye Research
+| accessdate = 2012-12-15
+| date = 2006-01
+|url=http://linkinghub.elsevier.com/retrieve/pii/S1350946205000406
+}}</ref>
+Image evaluation, to detect various pathologies in the case of asynchronous evaluation, is often done by an [[ophthamologist]] or primary care physician, though it is also performed by specially trained staff.<ref name=Bhargava2012>{{Cite journal
+| issn = 0037-5675
+| volume = 53
+| issue = 11
+| pages = 715–719
+| last = Bhargava
+| first = M
+| coauthors = C Y Cheung, C Sabanayagam, R Kawasaki, C A Harper, E L Lamoureux, W L Chow, A Ee, H Hamzah, M Ho, W Wong, T Y Wong
+| title = Accuracy of diabetic retinopathy screening by trained non-physician graders using non-mydriatic fundus camera
+| journal = Singapore medical journal
+| accessdate = 2012-12-15
+| date = 2012-11
+|url=http://www.ncbi.nlm.nih.gov/pubmed/23192497
+}}</ref> Image evaluation may also be automated to provide pathology detection or grading.
+
+==Automated Image Recognition==
+Computer software applications have been tasked with the automated assessment of retinal images to recognize lesions associated with an ocular disease of interest.<ref name=bursell/> The clinical process entails initially discriminating retinal lesions from non-factor artifacts, subsequently distinguishing lesions associated with the disease in question from other types of lesions, and finally grading the disease according to guideline-endorsed severity scales set by medical authorities.
+
+Dedicated research in [[artificial intelligence]] drives the underlying technology in automated image recognition. Specific approaches involve pattern recognition using trained [[artificial neural networks]];  feature extraction using [[edge detection|edge-detection]] and [[region growing|region-growing]] techniques; and content-based comparison with previously adjudicated samples.<ref name=Chaum>{{Cite journal
+| doi = 10.1097/IAE.0b013e31818356dd
+| issn = 0275-004X
+| volume = 28
+| issue = 10
+| pages = 1463–1477
+| last = Chaum
+| first = Edward
+| coauthors = Thomas P. Karnowski, V Priya Govindasamy, Mohamed Abdelrahman, Kenneth W. Tobin
+| title = AUTOMATED DIAGNOSIS OF RETINOPATHY BY CONTENT-BASED IMAGE RETRIEVAL
+| journal = Retina
+| accessdate = 2012-12-15
+| date = 2008-11
+|url=http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00006982-200811000-00013
+}}</ref><ref name=Tobin>{{Cite journal
+| doi = 10.1109/IEMBS.2007.4353909
+| issn = 1557-170X
+| volume = 2007
+| pages = 6744–6747
+| last = Tobin
+| first = Kenneth W
+| coauthors = Mohamed Abdelrahman, Edward Chaum, V Govindasamy, Thomas P Karnowski
+| title = A probabilistic framework for content-based diagnosis of retinal disease
+| journal = Conference proceedings: ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Conference
+| accessdate = 2012-12-15
+| year = 2007
+|url=http://www.ncbi.nlm.nih.gov/pubmed/18003575
+}}</ref>
+
+==Advantages==									
+*Improved patient care
+*Strengthened referral patterns
+*Extended patient care and expertise to remote areas
+*Education of hospital staff, clinicians and the community
+*Cost-effectiveness<ref name=Li>{{Cite journal
+| issn = 0010-6178
+| volume = 76
+| issue = 2
+| pages = 85–90
+| last = Li
+| first = Zhijian
+| coauthors = Chengqing Wu, J Nwando Olayiwola, Daniel St Hilaire, John J Huang
+| title = Telemedicine-based digital retinal imaging vs standard ophthalmologic evaluation for the assessment of diabetic retinopathy
+| journal = Connecticut medicine
+| accessdate = 2012-12-15
+| date = 2012-02
+|url=http://www.ncbi.nlm.nih.gov/pubmed/22670358
+}}</ref>
+*More effective planning and administrative meetings with point-and-click sharing of content
+*Use of videoconferencing to members of the human resources department has helped to resolve emergency staffing issues
+*Community nurses or ophthalmologists in training can attend teaching sessions at the main hospital via a live video teleopthamological feed, thereby enhancing their knowledge and skills.
+
+==Implemented Projects by Country==
+
+===United States===
+The United States Department of Veterans Health Affairs was one of the first organizations to deploy a large-scale teleretinal imaging program starting in 1999. In 2006, this program was expanded and received further funding for a nationwide program. As of 2010, more than 120,000 patients have been screened through the program.<ref name=Abramoff2010>{{Cite journal
+| doi = 10.1016/j.ophtha.2010.03.046
+| issn = 1549-4713
+| volume = 117
+| issue = 6
+| pages = 1147–1154
+| last = Abràmoff
+| first = Michael D
+| coauthors = Joseph M Reinhardt, Stephen R Russell, James C Folk, Vinit B Mahajan, Meindert Niemeijer, Gwénolé Quellec
+| title = Automated early detection of diabetic retinopathy
+| journal = Ophthalmology
+| accessdate = 2012-12-15
+| date = 2010-06
+|url=http://www.ncbi.nlm.nih.gov/pubmed/20399502
+}}
+</ref>
+
+EyePACS is an example of a license-free Web-based software with the aim of facilitating communication between primary care and eye care clinicians for treatment, recommendation and follow-up. The digital images can be taken and uploaded to an online repository where they are evaluated by certified readers. These images are then sent to the primary care physician or ophthalmologist. By 2009, the EyePACS program was expanded to over 120 primary care sites in California.<ref name=eyepacs>{{Cite web
+| title = EyePACS
+| accessdate = 2012-12-15
+|url=http://eyepacs.com/
+}}</ref>
+
+===Canada===
+In Canada, a number of ocular health screening programs focused on rural population screening were implemented.<ref name=Boucher2005/>
+
+===United Kingdom===
+In the United Kingdom, more than 1.7 million people with diabetes were screened using digital fundus photography in 2010 and 2011.<ref name=NHS2011>{{Citation
+| last = UK National Screening Committee
+| title = Annual Report English National Screening Programme for Diabetic Retinopathy April 2010 - March 2011
+| accessdate = 2012-12-15
+| year = 2011
+|url=http://diabeticeye.screening.nhs.uk/getdata.php?id=11196
+}}
+</ref>
+A pilot project with telemedicine transmission of retinal OCT images from community optometry care has been of merit.  <ref>Teleophthalmology with optical coherence tomography imaging in the community. Clinical Ophthalmology 2011:5 1673–1678 </ref> www.bit.ly/teleophthalmology
+
+===Netherlands===
+Since 2001, more than 30,000 people with diabetes have been screened since 2001 as part of a project called EyeCheck<ref name=Abramoff2005>{{Cite journal
+| doi = 10.1089/tmj.2005.11.668
+| issn = 1530-5627, 1556-3669
+| volume = 11
+| issue = 6
+| pages = 668–674
+| last = Abramoff
+| first = Michael D.
+| coauthors = Maria S.A. Suttorp-Schulten
+| title = Web-Based Screening for Diabetic Retinopathy in a Primary Care Population: The EyeCheck Project
+| journal = Telemedicine and e-Health
+| accessdate = 2012-12-15
+| date = 2005-12
+| url = http://www.liebertonline.com/doi/abs/10.1089/tmj.2005.11.668
+}}</ref> in the Netherlands.
+
+===China===
+Between 2006 and 2008, a large scale teleretinal screening project using mobile units was implemented in China.<ref name=Xu2012>{{Cite journal
+| doi = 10.1016/j.ophtha.2011.11.036
+| issn = 01616420
+| volume = 119
+| issue = 6
+| pages = 1167–1174
+| last = Xu
+| first = Liang
+| coauthors = Jost B. Jonas, Tong Tong Cui, Qi Sheng You, Ya Xing Wang, Hua Yang, Jian Jun Li, Wen Bin Wei, Qing Feng Liang, Shuang Wang, Xiao Hui Yang, Li Zhang
+| title = Beijing Eye Public Health Care Project
+| journal = Ophthalmology
+| accessdate = 2012-12-15
+| date = 2012-06
+| url = http://linkinghub.elsevier.com/retrieve/pii/S0161642011011420
+}}</ref>
+
+==Standards and Regulations==
+
+Teleophthalmology relies on a standard for the representation, storage, and transmission of medical images known as Digital Imaging and Communications in Medicine ([[DICOM]]). The medical imaging standard is managed by the Medical Imaging & Technology Alliance (MITA), which is a division of the Virginia-based [[National Electrical Manufacturers Association]] (NEMA).
+
+Various regulations exist on national levels that govern the use of teleophthamological solutions. Some of them are listed below:
+
+*USA -  [[Health Insurance Portability and Accountability Act]] - licensure laws in the U.S. require a practitioner to obtain a full license to deliver telemedicine care across state lines where regulations vary.
+*Europe  - [[Data Protection Directive]]
+*Japan  - HPB 517
+
+==Future Direction and Considerations==
+Emerging techniques for eye image capture include ophthalmoscopes that can be combined with mobile devices, increasing portability and accessibility to the general public. The introduction of full auto focusing retinal cameras has the potential to reduce the need for operators.
+ 
+Telehealth networks are growing in number, and advancements are being made in automated detection methods for diseases such as [[diabetic retinopathy]]. Teleophthalmology has the potential to improve access to screening and early treatment for a number of ocular conditions. It serves to identify patients who are at risk of various types of retinopathy and allows further evaluation and early management resulting in considerable economic benefit.<ref name=Hooper2012>{{Cite journal
+| doi = 10.1016/j.jcjo.2012.01.022
+| issn = 0008-4182
+| volume = 47
+| issue = 2
+| pages = 91–96
+| last = Hooper
+| first = Philip
+| coauthors = Marie Carole Boucher, Alan Cruess, Keith G Dawson, Walter Delpero, Mark Greve, Vladimir Kozousek, Wai-Ching Lam, David A L Maberley
+| title = Canadian Ophthalmological Society Evidence-based Clinical Practice Guidelines for the Management of Diabetic Retinopathy - executive summary
+| journal = Canadian journal of ophthalmology. Journal canadien d'ophtalmologie
+| accessdate = 2012-12-15
+| date = 2012-04
+| url = http://www.ncbi.nlm.nih.gov/pubmed/22560411
+}}
+</ref>
+
+===Current Technological Limitations===
+Despite ongoing research and advancement in digital photography, digital imaging techniques still face certain barriers, including low sensitivity and specificity,<ref name=Chew>{{Cite journal
+| doi = 10.1097/ICU.0b013e328010948d
+| issn = 1040-8738
+| volume = 17
+| issue = 6
+| pages = 519–522
+| last = Chew
+| first = Emily Y
+| title = Screening options for diabetic retinopathy
+| journal = Current Opinion in Ophthalmology
+| accessdate = 2012-12-15
+| date = 2006-12
+| url = http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00055735-200612000-00007
+}}</ref> as well as lack of stereopsis (impression of depth).<ref name="Rudnisky2006"/> As such, teleophthalmology cannot be a true substitute for comprehensive eye examinations using traditional binocular observation with standard 7-field stereoscopic fundus photography.
+
+Automated image recognition algorithms are gaining in clinical adoption.   While they perform at a level nearly equivalent to humans in ascertaining low and high risk states, diagnosis and grading performance is still insufficient for clinical acceptance.<ref name=bursell>{{Cite journal
+| doi = 10.1111/j.1444-0938.2012.00746.x
+| issn = 08164622
+| volume = 95
+| issue = 3
+| pages = 311–327
+| last = Bursell
+| first = Sven-Erik
+| coauthors = Laima Brazionis, Alicia Jenkins
+| title = Telemedicine and ocular health in diabetes mellitus
+| journal = Clinical and Experimental Optometry
+| accessdate = 2012-12-15
+| date = 2012-05
+| url = http://doi.wiley.com/10.1111/j.1444-0938.2012.00746.x
+}}</ref>
+
+==References==
+
+{{Reflist}}
+
+[[Category:Ophthalmology]]
+[[Category:Medical specialties]]

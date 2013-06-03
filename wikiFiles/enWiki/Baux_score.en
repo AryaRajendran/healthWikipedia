@@ -1,0 +1,29 @@
+The '''Baux score''' is a system used by medical professionals to predict the chance of [[case fatality rate|mortality]] due to severe [[burn]]s.<ref name=jtrauma>{{cite journal |pmid=20038856 |year=2010 |last1=Osler |first1=T |last2=Glance |first2=LG |last3=Hosmer |first3=DW |title=Simplified estimates of the probability of death after burn injuries: Extending and updating the baux score |volume=68 |issue=3 |pages=690–7 |doi=10.1097/TA.0b013e3181c453b3 |journal=The Journal of trauma}}</ref>  The score is an index which takes into account the correlative and causal relationship between mortality and factors including advancing age, burn size, the presence of inhalational injury.<ref name="NBA">{{cite web |url=http://www.ameriburn.org/resources_factsheet.php |title=Burn Incidence and Treatment in the United States: 2011 Fact Sheet |publisher=American Burn Association |year=2010}}</ref> Studies have shown that the Baux score is highly correlative with length of stay in hospital due to burns and final outcome.<ref>{{cite journal |pmid=1779010 |year=1991 |last1=Krob |first1=MJ |last2=d'Amico |first2=FJ |last3=Ross |first3=DL |title=Do trauma scores accurately predict outcomes for patients with burns? |volume=12 |issue=6 |pages=560–3 |journal=The Journal of burn care & rehabilitation}}</ref>
+
+==Methods==
+
+===Original method===
+The original Baux score was the addition of two factors, the first being the [[total body surface area]] affected by burning (usually estimated using the [[rule of nines]], or calculated using Lund & Browder charts) and the second being the age of the patient.
+
+When added together, the score is a comparative indicator of burn severity, with a score over 140 indicated as being unsurvivable.
+
+===Modified method===
+Research demonstrated that with improvements in medical care rendered the original method too pessimistic in its outcome prediction.  This resulted in the publication of a modified methodology which took into account the effect of inhalation injury.  It was found that inhalation injury resulted in a increase of around 17 on the Baux score, and this addition means that a patient with inhalation injury would have their score calculated by ''body area affected'' + ''age of patient'' + 17.<ref name=jtrauma/>
+Recent analysis of mortality in burn units worldwide has shown that for well performing units the [[LD50]] (the point at which 50% of patients would be expected to die) for major burns has significantly improved and the best units have a modified Baux score of 130-140. This means that all burns in children (except 100% TBSA burns) should be considered survivable injuries and actively treated.<ref>http://www.ncbi.nlm.nih.gov/pubmed/22310134</ref>
+
+==Efficacy==
+Studies have shown Baux score to be effective in measuring comparative severity of burn injuries, and in predicting the prognosis for the patient.  The modified version, which includes inhalation injuries, is more accurate than the original method, although neither method is as accurate as more complex calculated scores using advanced computer modelling.<ref name=jtrauma/>
+
+The Baux score has been shown to be effective in predicting outcome in 87% of presenting patients.<ref>{{cite journal |pages=583–90 |doi=10.1016/S0305-4179(01)00009-2 |title=Predicting survival in an elderly burn patient population |year=2001 |last1=Wibbenmeyer |first1=L |journal=Burns |volume=27 |issue=6 |pmid=11525852 |last2=Amelon |first2=MJ |last3=Morgan |first3=LJ |last4=Robinson |first4=BK |last5=Chang |first5=PX |last6=Lewis r |first6=2nd |last7=Kealey |first7=GP}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Commons category|burns}}
+
+[[Category:Skin conditions resulting from physical factors]]
+[[Category:Medical emergencies]]
+[[Category:Injuries]]
+[[Category:Emergency medicine]]
+[[Category:Intensive care medicine]]
+[[Category:Medical scales]]

@@ -1,0 +1,247 @@
+In [[statistics]], a '''meta-analysis''' refers to methods focused on contrasting and combining results from different studies, in the hope of identifying patterns among study results, sources of disagreement among those results, or other interesting relationships that may come to light in the context of multiple studies.<ref>Greenland S, O' Rourke K: Meta-Analysis. Page 652 in Modern Epidemiology, 3rd ed. Edited by Rothman KJ, Greenland S, Lash T. Lippincott Williams and Wilkins; 2008.</ref> In its simplest form, this is normally by identification of a common measure of [[effect size]], of which a weighted average might be the output of a meta-analysis.  The weighting might be related to sample sizes within the individual studies.  More generally there are other differences between the studies that need to be allowed for, but the general aim of a meta-analysis is to more powerfully estimate the true effect size as opposed to a less precise effect size derived in a single study under a given single set of assumptions and conditions.
+
+Meta-analyses are often, but not always, important components of a [[systematic review]] procedure. For instance, a meta-analysis may be conducted on several clinical trials of a medical treatment, in an effort to obtain a better understanding of how well the treatment works.  Here it is convenient to follow the terminology used by the [[Cochrane Collaboration]],<ref>[http://www.cochrane.org/glossary/ Glossary at Cochrane Collaboration]</ref> and use "meta-analysis" to refer to statistical methods of combining evidence, leaving other aspects of 'research synthesis' or 'evidence synthesis', such as combining information from qualitative studies, for the more general context of [[systematic review]]s.
+
+==History==
+
+Early usage of Meta-analysis dates back to the twelfth century in the ancient China, a famous philospher, Chu Hsi (朱熹, 1130~1200), built up his philosophical theory by summarizing a series of related literatures. He called this research methodology 'Theory of Systematic Rule'(道統論) (See reference http://ir.lib.ntnu.edu.tw/retrieve/52215/). While in the Western World, the historical roots of meta-analysis may be traced back to 17th century studies of astronomy, a paper published in 1904 by the statistician [[Karl Pearson]] in the ''[[British Medical Journal]]'' which collated data from several studies of typhoid inoculation is seen as the first time a meta-analytic approach was used to aggregate the outcomes of multiple clinical studies.<ref name=Nordmann2012>{{cite journal|last=Nordmann|first=AJ|coauthors=Kasenda, B; Briel, M|title=Meta-analyses: what they can and cannot do|journal=Swiss medical weekly|date=2012 Mar 9| volume=142| pages=w13518| doi=10.4414/smw.2012.13518 |pmid=22407741|url=http://www.smw.ch/content/smw-2012-13518/}}</ref><ref>{{Cite journal| doi = 10.1258/jrsm.100.12.579| volume = 100| issue = 12| pages = 579–582| last = O'Rourke| first = Keith| title = An historical perspective on meta-analysis: dealing quantitatively with varying study results| journal = J R Soc Med| accessdate = 2009-09-10| date = 2007-12-01| url = | pmid = 18065712| pmc = 2121629}}</ref>  The first meta-analysis of all conceptually identical experiments concerning a particular research issue, and conducted by independent researchers, has been identified as the 1940 book-length publication ''Extra-sensory perception after sixty years'', authored by Duke University psychologists [[Joseph Gaither Pratt|J. G. Pratt]], [[Joseph Banks Rhine|J. B. Rhine]], and associates.<ref>Bösch, H. (2004). Reanalyzing a meta-analysis on extra-sensory perception dating from 1940, the first comprehensive meta-analysis in the history of science. In S. Schmidt (Ed.), ''Proceedings of the 47th Annual Convention of the Parapsychological Association, University of Vienna'', (pp. 1–13)</ref> This encompassed a review of 145 reports on [[Extrasensory perception|ESP]] experiments published from 1882 to 1939, and included an estimate of the influence of unpublished papers on the overall effect (the ''[[#Publication bias: the file drawer problem|file-drawer problem]]''). Although meta-analysis is widely used in [[epidemiology]] and [[evidence-based medicine]] today, a meta-analysis of a medical treatment was not published until 1955. In the 1970s, more sophisticated analytical techniques were introduced in [[educational research]], starting with the work of [[Gene V. Glass]], [[Frank L. Schmidt]] and [[John E. Hunter]].
+
+The term "meta-analysis" was coined by [[Gene V. Glass]],<ref name=Glass>{{cite journal | author = Glass G. V | year = 1976 | title = Primary, secondary, and meta-analysis of research | url = | journal = Educational Researcher | volume = 5 | issue = 10| pages = 3–8 | doi=10.3102/0013189X005010003}}</ref> who was the first modern statistician to formalize the use the term meta-analysis. He states ''"my major interest currently is in what we have come to call ...the meta-analysis of research. The term is a bit grand, but it is precise and apt ... Meta-analysis refers to the analysis of analyses"''. Although this led to him being widely recognized as the modern founder of the method, the methodology behind what he termed "meta-analysis" predates his work by several decades.<ref>Cochran WG. Problems Arising in the Analysis of a Series of Similar Experiments. Journal of the Royal Statistical Society, 4:102-118, 1937</ref><ref>Cochran WG and Carroll SP. A Sampling Investigation of the Efficiency of Weighting Inversely as the Estimated Variance. Biometrics 9:447-459, 1953</ref> The statistical theory surrounding meta-analysis was greatly advanced by the work of [[Nambury S. Raju]], [[Larry V. Hedges]], Harris Cooper, [[Ingram Olkin]], [[John E. Hunter]], [[Jacob Cohen (born 1923)|Jacob Cohen]], [[Thomas C. Chalmers]], [[Robert Rosenthal (psychologist)|Robert Rosenthal]] and [[Frank L. Schmidt]].
+
+== Advantages of meta-analysis ==
+
+Conceptually, a meta-analysis uses a statistical approach to combine the results from multiple studies. Its advantages can therefore be interpreted as follows:
+
+*Results can be generalized to a larger population,
+*The precision and accuracy of estimates can be improved as more data is used. This, in turn, may increase the statistical power to detect an effect.
+*Inconsistency of results across studies can be quantified and analyzed. For instance, does inconsistency arise from sampling error, or are study results (partially) influenced by between-study heterogeneity.
+*Hypothesis testing can be applied on summary estimates,
+*Moderators can be included to explain variation between studies,
+*The presence of [[publication bias]] can be investigated,
+
+==Pitfalls==
+{{Essay-like|section|date=November 2012}}
+A meta-analysis of several small studies does not predict the results of a single large study.<ref>{{cite doi|10.1056/NEJM199708213370806}}</ref>   Some have argued that a weakness of the method is that sources of bias are not controlled by the method: a good meta-analysis of badly designed studies will still result in bad statistics.<ref name=Slavin>{{cite doi|10.3102/0013189X015009005 }}</ref>  This would mean that only methodologically sound studies should be included in a meta-analysis, a practice called 'best evidence synthesis'.<ref name=Slavin/> Other meta-analysts would include weaker studies, and add a study-level predictor variable that reflects the methodological quality of the studies to examine the effect of study quality on the effect size.<ref>{{cite book|last=Hunter, Schmidt, & Jackson|first=John E.|title=Meta-analysis: Cumulating research findings across studies|year=1982|publisher=Sage|location=Beverly Hills, California}}</ref> However, others have argued that a better approach is to preserve information about the variance in the study sample, casting as wide a net as possible, and that methodological selection criteria introduce unwanted subjectivity, defeating the purpose of the approach.<ref>{{cite book|last=Glass, McGaw, & Smith|title=Meta-analysis in social research|year=1981|publisher=Sage|location=Beverly Hills, CA}}</ref>
+
+=== Publication bias: the file drawer problem ===
+[[File:funnel 1.png|thumb|A funnelplot expected without the file drawer problem{{clarify|date=October 2012}}]]
+[[File:funnel 2.png|thumb|A funnelplot expected with the file drawer problem{{clarify|date=October 2012}}]]
+Another potential pitfall is the reliance on the available corpus of published studies, which may create exaggerated outcomes due to [[publication bias]], as studies which show [[Null result|negative results]] or [[statistically insignificant|insignificant]] results are less likely to be published. For any given research area, one cannot know how many studies have gone unreported.<ref name=Rosenthal1979>{{Cite journal |doi=10.1037/0033-2909.86.3.638 |year=1979 |author=Rosenthal, Robert |authorlink=Robert Rosenthal (psychologist) |title=The "File Drawer Problem" and the Tolerance for Null Results |journal=[[Psychological Bulletin]] |volume=86 |issue=3 |pages=638–641 }}</ref>
+
+This [[file drawer problem]] results in the distribution of effect sizes that are biased, skewed or completely cut off, creating a serious [[base rate fallacy]], in which the significance of the published studies is overestimated, as other studies were either not submitted for publication or were rejected. This should be seriously considered when interpreting the outcomes of a meta-analysis.<ref name=Rosenthal1979/><ref name=Hunter&Schmidt1990>{{Cite book|year=1990 |last1=Hunter |first1=John E |authorlink1=John E. Hunter |last2=Schmidt |first2=Frank L |authorlink2=Frank L. Schmidt |title=Methods of Meta-Analysis: Correcting Error and Bias in Research Findings |place=Newbury Park, California; London; New Delhi |publisher=[[SAGE Publications]] }}</ref>
+
+This can be visualized with a funnel plot which is a scatter plot of sample size and effect sizes. If no publication bias is present, one would expect that there is no relation between sample size and effect size.<ref>{{cite book|last=Light & Pillemer|title=Summing up: The science of reviewing research|year=1984|publisher=Harvard University Pree|location=Cambridge, CA}}</ref> A negative relation between sample size and effect size would imply that studies that found significant effects were more likely to be published and/or to be submitted for publication. There are several procedures available that attempt to correct for the file drawer problem, once identified, such as guessing at the cut off part of the distribution of study effects.
+
+Methods for detecting publication bias have been controversial as they typically have low power for detection of bias, but also may create false positives under some circumstances.<ref name="Ioannidis and Trikalinos">{{Cite journal |year=2007 |author=Ioannidis, J., & Trikalinos, T. |title=The appropriateness of asymmetry tests for publication bias in meta-analyses: a large survey|journal=[[Canadian Medical Association Journal]] |volume=176 |issue=8 |pages=638–641 |url=http://www.cmaj.ca/content/176/8/1091.full |postscript=<!--None--> |doi=10.1503/cmaj.060410}}</ref>  For instance small study effects, wherein methodological differences between smaller and larger studies exist, may cause differences in effect sizes between studies that resemble publication bias.{{clarify|date=April 2013}}  However, small study effects may be just as problematic for the interpretation of meta-analyses, and the imperative is on meta-analytic authors to investigate potential sources of bias.  A Tandem Method for analyzing publication bias has been suggested for cutting down false positive error problems, and suggesting{{clarify|reason=who? |date=April 2013}} that 25% of meta-analyses in the psychological sciences may have publication bias.<ref name="Ferguson and Brannick">{{Cite journal |year=2012 |author=Ferguson, C., & Brannick, M. |title=Publication bias in psychological science: Prevalence, methods for identifying and controlling, and implications for the use of meta-analyses|journal=[[Psychological Methods]] |volume=17 |issue=1 |pages=120–128|url=http://www.tamiu.edu/~cferguson/PubBias.pdf|postscript=<!--None--> |doi=10.1037/a0024445}}</ref>  However, low power problems likely remain at issue, and estimations of publication bias may remain lower than the true amount.
+
+Most discussions of publication bias focus on journal practices favoring publication of statistically significant finds.  However, questionable researcher practices, such as reworking statistical models until significance is achieved, may also favor statistically significant findings in support of researchers' hypotheses<ref name=Simmons>{{Cite journal |year=2011 |author=Simmons, J., Nelson, L & Simonsohn, U. |title=False-Positive Psychology : Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant|journal=[[Psychological Science]] |volume=22 |issue=11 |pages=1359–1366|url=http://people.psych.cornell.edu/~jec7/pcd%20pubs/simmonsetal11.pdf|postscript=<!--None--> |doi=10.1177/0956797611417632}}</ref><ref name=LeBel>{{Cite journal |year=2011 |author=LeBel, E. & Peters, K. |title=Fearing the future of empirical psychology: Bem's (2011) evidence of psi as a case study of deficiencies in modal research practice|journal=[[Review of General Psychology]] |volume=15 |issue=4 |pages=371–379|url=http://publish.uwo.ca/~elebel/documents/l&p(2011,rgp).pdf|postscript=<!--None--> |doi=10.1037/a0025172}}</ref>  Questionable researcher practices aren't necessarily sample size dependent, and as such are unlikely to be evident on a funnel plot and may go undetected by most publication bias detection methods currently in use.
+
+Other weaknesses are [[Simpson's paradox]] (two smaller studies may point in one direction, and the combination study in the opposite direction) and subjectivity in the coding of an effect or decisions about including or rejecting studies.<ref name="Stegenga">{{Cite journal |year=2011 |author=Stegenga, J. |authorlink=Jacob Stegenga|title=Is meta-analysis the platinum standard?|journal=[[Studies in History and Philosophy of Biological and Biomedical Sciences]] |volume=42 |issue=4 |pages=497–507|url=http://www.sciencedirect.com/science/article/pii/S1369848611000665|doi=10.1016/j.shpsc.2011.07.003}}</ref> There are two different ways to measure effect: correlation or standardized mean difference. The interpretation of effect size is arbitrary, and there is no universally agreed upon way to weigh the risk. It has not been determined if the statistically most accurate method for combining results is the fixed, random or quality effect models.{{citation needed|date=November 2012}}
+
+===Agenda-driven bias===
+
+The most severe fault in meta-analysis often occurs when the person or persons doing the meta-analysis have an [[economic]], [[Social issues|social]], or [[political]] agenda such as the passage or defeat of [[legislation]]. People with these types of agendas may be more likely to abuse meta-analysis due to personal [[bias]]. For example, researchers favorable to the author's agenda are likely to have their studies [[Cherry picking (fallacy)|cherry picked]] while those not favorable will be ignored or labeled as "not credible". In addition, the favored authors may themselves be biased or paid to produce results that support their overall political, social, or economic goals in ways such as selecting small favorable data sets and not incorporating larger unfavorable data sets. The influence of such biases on the results of a meta-analysis is possible because the methodology of meta-analysis is highly malleable.<ref name="Stegenga">{{Cite journal |year=2011 |author=Stegenga, J. |authorlink=Jacob Stegenga|title=Is meta-analysis the platinum standard?|journal=[[Studies in History and Philosophy of Biological and Biomedical Sciences]] |volume=42 |issue=4 |pages=497–507|url=http://www.sciencedirect.com/science/article/pii/S1369848611000665|postscript=<!--None--> |doi=10.1016/j.shpsc.2011.07.003}}</ref>
+
+A 2011 study done to disclose possible conflicts of interests in underlying research studies used for medical meta-analyses  reviewed 29 meta-analyses and found that conflicts of interests in the studies underlying the meta-analyses were rarely disclosed.  The 29 meta-analyses included 11 from general medicine journals; 15 from specialty medicine journals, and three from the [[Cochrane Database of Systematic Reviews]]. The 29 meta-analyses reviewed an total of 509 [[randomized controlled trials]] (RCTs). Of these, 318 RCTs reported funding sources, with 219 (69%) receiving funding from industry{{clarify|reason=which industry?|date=April 2013}}. Of the 509 RCTs, 132 reported author conflict of interest disclosures, with 91 studies (69%) disclosing one or more authors having industry financial ties. The information was, however, seldom reflected in the meta-analyses. Only two (7%) reported RCT funding sources and none reported RCT author-industry ties. The authors concluded “without acknowledgment of COI due to industry funding or author industry financial ties from RCTs included in meta-analyses, readers’ understanding and appraisal of the evidence from the meta-analysis may be compromised.”<ref>{{cite web|url=http://www.cochrane.org/news/blog/how-well-do-meta-analyses-disclose-conflicts-interests-underlying-research-studies |title=How Well Do Meta-Analyses Disclose Conflicts of Interests in Underlying Research Studies &#124; The Cochrane Collaboration |publisher=Cochrane.org |date= |accessdate=2012-01-13}}</ref>
+
+== Steps in a meta-analysis ==
+
+1. Formulation of the problem
+
+2. Search of literature
+
+3. Selection of studies ('incorporation criteria')
+
+*Based on quality criteria, e.g. the requirement of randomization and blinding in a clinical trial
+*Selection of specific studies on a well-specified subject, e.g. the treatment of breast cancer.
+*Decide whether unpublished studies are included to avoid publication bias ([[Meta-analysis#File drawer problem|file drawer problem]])
+
+4. Decide which dependent variables or summary measures are allowed. For instance:
+
+*Differences (discrete data)
+*Means (continuous data)
+*[[Effect size#Hedges' g|Hedges' ''g'']] is a popular summary measure for continuous data that is standardized in order to eliminate scale differences, but it incorporates an index of variation between groups:
+::<math>\delta=\frac{\mu_t-\mu_c}{\sigma},</math> in which <math>\mu_t</math> is the treatment mean, <math>\mu_c</math> is the control mean, <math>\sigma^2</math> the pooled variance.
+
+5. Model selection (see next paragraph)
+
+For reporting guidelines, see the [[Preferred Reporting Items for Systematic Reviews and Meta-Analyses]] (PRISMA) statement <ref>{{cite web|url=http://www.prisma-statement.org/ |title=The PRISMA statement |publisher=Prisma-statement.org |date=2012-02-02 |accessdate=2012-02-02}}</ref>
+
+==Meta-analysis: methods and assumptions==
+
+===1. Methods===
+In general, two types of evidence can be distinguished when performing a meta-analysis: Individual Participant Data (IPD) and Aggregate Data (AD). Whereas IPD represents raw data as collected by the study centers, AD is more commonly available (e.g. from the literature) and typically represents summary estimates such as odds ratios or relative risks. This distinction has raised the needs for different meta-analytic methods when evidence synthesis is desired, and has lead to the development of one-stage and two-stage methods. In one-stage methods the IPD from all studies are modeled simultaneously whilst accounting for the clustering of participants within studies. Conversely, two-stage methods synthesize the AD from each study and hereto consider study weights. By reducing IPD to AD, two-stage methods can also be applied when IPD is available; this makes them an appealing choice when performing a meta-analysis. Although it is conventionally believed that one-stage and two-stage methods yield similar results, recent studies have shown that they may occasionally lead to different conclusions <ref>{{cite journal
+| author = Debray, Thomas P. A.
+| coauthors = Moons, K.G.M.; Abdallah, A.Z.; Koffijberg, H.; Riley, R.D.
+| year = 2013
+| title = Individual participant data meta-analysis for a binary outcome: one-stage or two-stage?
+| journal = PLoS ONE
+}}</ref>. 
+
+===2. Assumptions ===
+====Fixed effects ====
+
+The fixed effect model provides a weighted average of a series of study estimates. The inverse of the estimates' variance is commonly used as study weight, such that larger studies tend to contribute more than smaller studies to the weighted average. Consequently, when studies within a meta-analysis are dominated by a very large study, the findings from smaller studies are practically ignored.<ref>Helfenstein U. Data and models determine treatment proposals—an illustration from meta-analysis. Postgrad Med J. 2002 Mar;78(917):131–4</ref> Most importantly, the fixed effects model assumes that all included studies investigate the same population, use the same variable and outcome definitions, etc. This assumption is typically unrealistic as research is often prone to several sources of heterogeneity; e.g. treatment effects may differ according to locale, dosage levels, study conditions, ...
+
+==== Random effects====
+
+A common model used to synthesize heterogenous research is the random effects model of meta-analysis. This is simply the weighted average of the effect sizes of a group of studies. The weight that is applied in this process of weighted averaging with a random effects meta-analysis is achieved in two steps:<ref>Senn S. Trying to be precise about vagueness. Stat Med 2007; 26:1417–30</ref>
+
+# Step 1: inverse variance weighting
+# Step 2: Un-weighting of this inverse variance weighting by applying a random effects variance component (REVC) that is simply derived from the extent of variability of the effect sizes of the underlying studies.
+
+This means that the greater this variability in effect sizes (otherwise known as heterogeneity), the greater the un-weighting and this can reach a point when the random effects meta-analysis result becomes simply the un-weighted average effect size across the studies. At the other extreme, when all effect sizes are similar (or variability does not exceed sampling error), no REVC is applied and the random effects meta-analysis defaults to simply a fixed effect meta-analysis (only inverse variance weighting).
+
+The extent of this reversal is solely dependent on two factors:<ref name="ReferenceA">Al Khalaf MM, Thalib L, Doi SA. [http://dl.dropbox.com/u/85192141/2011-khalaf.pdf "Combining heterogenous studies using the random-effects model is a mistake and leads to inconclusive meta-analyses"]. ''Journal of Clinical Epidemiology'' 2011; 64:119–23</ref>
+
+# Heterogeneity of precision
+# Heterogeneity of effect size
+
+Since there is no reason to automatically assume that a larger variability in study sizes or effect sizes automatically indicates a faulty larger study or more reliable smaller studies, the re-distribution of weights under this model bears no relationship to what these studies have to offer. Indeed, there is no reason why the results of a meta-analysis should be associated with this method of reversal of the inverse variance weighting process of the included studies. As such, the changes in weight introduced by this model (to each study) results in a pooled estimate that can have no possible interpretation and, thus, bears no relationship with what the studies actually have to offer.<ref name="ReferenceA"/>
+
+To compound the problem further, some statisticians <ref>Riley RD, Higgins JP, Deeks JJ. (2011) "Interpretation of random effects meta-analyses". ''British Medical Journal'' Feb 10;342:d549. {{doi|10.1136/bmj.d549}}</ref> are proposing that we take an estimate that has no meaning and compute a prediction interval around it. This is akin to taking a random guess at the effectiveness of a therapy and under the false belief that it is meaningful try to expand on its interpretation. Unfortunately, there is no statistical manipulation that can replace commonsense. While heterogeneity might be due to underlying true differences in study effects, it is more than likely that such differences are brought about by systematic error. The best we can do in terms of addressing heterogeneity is to look up the list of studies and attempt to un-weight (from inverse variance) based on differences in evidence of bias rather than effect size or precision that are consequences of these failures.
+
+The most widely used method to estimate and account for heterogeneity is the DerSimonian-Laird (DL) approach.<ref>DerSimonian R, Laird N. (1986) "Meta-analysis in clinical trials". ''Controlled Clinical Trials'', 7, 177–188. {{doi|10.1016/0197-2456(86)90046-2}}</ref> More recently the iterative and computationally intensive [[restricted maximum likelihood]] (REML) approach emerged and is catching up. However, a comparison between these two (and more) models demonstrated that there is little to gain and DL is quite adequate in most scenarios.<ref>Kontopantelis E, Reeves D. Performance of statistical methods for meta-analysis when true study effects are non-normally distributed: A simulation study. Statistical Methods in Medical Research. 2010 Dec. doi: http://dx.doi.org/10.1177/0962280210392008</ref>
+
+==== Quality effects====
+
+Some researchers <ref>Doi SA, Barendregt JJ, Mozurkewich EL. Meta-analysis of heterogeneous clinical trials: an empirical example. Contemp Clin Trials. 2011 Mar;32(2):288–98</ref> introduce a new approach to adjustment for inter-study variability by incorporating a relevant component (quality) that differs between studies in addition to the weight based on the intra-study differences that is used in any fixed effects meta-analysis model. The strength of the quality effects meta-analysis is that it allows available methodological evidence to be used over subjective random probability, and thereby helps to close the damaging gap which has opened up between methodology and statistics in clinical research. To do this a correction for the quality adjusted weight of the ''i''th study called tau''i'' is introduced.<ref>Doi SA, Thalib L. A quality-effects model for meta-analysis. Epidemiology. 2008 Jan;19(1):94–100</ref> This is a composite based on the quality of other studies except the study under consideration and is utilized to re-distribute quality adjusted weights based on the quality adjusted weights of other studies. In other words, if study ''i'' is of good quality and other studies are of poor quality, a proportion of their quality adjusted weights is mathematically redistributed to study ''i'' giving it more weight towards the overall effect size. As studies increase in quality, re-distribution becomes progressively less and ceases when all studies are of perfect quality. This model thus replaces the untenable interpretations that abound in the literature and a software is available to explore this method further <ref>[http://www.epigear.com/ MetaXL software page]</ref>
+
+==Meta-Regression==
+{{Main|Meta-regression}}
+
+Meta-regression is a tool used in meta-analysis to examine the impact of moderator variables on study effect size using regression-based techniques.  Meta-regression is more effective at this task than are standard regression techniques.
+
+==Applications in modern science==
+
+Modern statistical meta-analysis does more than just combine the effect sizes of a set of studies. It can test if the outcomes of studies show more variation than the variation that is expected because of sampling different research participants. If that is the case, study characteristics such as measurement instrument used, population sampled, or aspects of the studies' design are coded. These characteristics are then used as predictor variables to analyze the excess variation in the effect sizes. Some methodological weaknesses in studies can be corrected statistically. For example, it is possible to correct effect sizes or correlations for the downward bias due to measurement error or restriction on score ranges. Another example is the development of clinical prediction models, where meta-analysis may be used to [[combine data from different research centers]]<ref>{{cite journal
+| author = Debray, Thomas P. A.
+| coauthors = Moons, K. G.; Ahmed, Ikhlaaq; Koffijberg, Hendrik; Riley, Richard D.
+| year = 2013
+| title = A framework for developing, implementing, and evaluating clinical prediction models in an individual participant data meta-analysis
+| journal = Statistics in Medicine
+| pmid = 23307585
+}}</ref>, or even to [[aggregate existing prediction models]]<ref>{{cite journal
+| author = Debray, Thomas P. A.
+| coauthors = Koffijberg, H; Vergouwe, Y.; Moons, K. G.; Steyerberg, E. W.
+| year = 2012
+| title = Aggregating published prediction models with individual participant data: a comparison of different approaches
+| journal = Statistics in Medicine
+| volume = 31
+| pages = 2697-2712
+| pmid = 22733546
+| issue = 23
+}}</ref>. 
+
+Meta-analysis can be done with [[single-subject design]] as well as group research designs. This is important because much of the research on low incidents populations has been done with [[single-subject research]] designs. Considerable dispute exists for the most appropriate meta-analytic technique for single subject research.<ref>Van den Noortgate, W. & Onghena, P. (2007). Aggregating Single-Case Results. ''The Behavior Analyst Today'', 8(2), 196–209 [http://www.baojournal.com BAO]</ref>
+
+Meta-analysis leads to a shift of emphasis from single studies to multiple studies. It emphasizes the practical importance of the effect size instead of the statistical significance of individual studies. This shift in thinking has been termed "meta-analytic thinking". The results of a meta-analysis are often shown in a [[forest plot]].
+
+Results from studies are combined using different approaches. One approach frequently used in meta-analysis in health care research is termed '[[Inverse-variance weighting|inverse variance method]]'. The average [[effect size]] across all studies is computed as a ''weighted mean'', whereby the weights are equal to the inverse variance of each studies' effect estimator. Larger studies and studies with less random variation are given greater weight than smaller studies. Other common approaches include the [[Mantel–Haenszel method]]<ref>{{cite journal
+| author = Mantel, N.
+| coauthors = Haenszel, W.
+| year = 1959
+| title = Statistical aspects of the analysis of data from the retrospective analysis of disease
+| journal = Journal of the National Cancer Institute
+| volume = 22
+| pages = 719–748
+| pmid = 13655060
+| issue = 4
+}}</ref>
+and the [[Peto method]].{{cn|date=March 2013}}
+
+A recent approach to studying the influence that weighting schemes can have on results has been proposed through the construct of [[Gravity in meta-analysis|''gravity'']], which is a special case of [[combinatorial meta-analysis]]. 
+
+[[Signed differential mapping]] is a statistical technique for meta-analyzing studies on differences in brain activity or structure which used neuroimaging techniques such as fMRI, VBM or PET.
+
+Different high throughput techniques such as [[DNA microarray|microarrays]] have been used to understand [[Gene expression]]. [[MicroRNA]] expression profiles have been used to identify differentially expressed microRNAs in particular cell or tissue type or disease conditions or to check the effect of a treatment. A meta-analysis of such expression profiles was performed to derive novel conclusions and to validate the known findings.<ref>Bargaje, R., Hariharan, M., Scaria, V., and Pillai, B. (2010) Consensus miRNA expression profiles derived from inter-platform normalization of microarray data.  RNA 16(1): 16-25 {{Cite journal
+| pmid = 19948767
+| year = 2010
+| last1 = Bargaje
+| first1 = R
+| last2 = Hariharan
+| first2 = M
+| last3 = Scaria
+| first3 = V
+| last4 = Pillai
+| first4 = B
+| title = Consensus miRNA expression profiles derived from interplatform normalization of microarray data
+| volume = 16
+| issue = 1
+| pages = 16–25
+| doi = 10.1261/rna.1688110
+| pmc = 2802026
+| journal = RNA
+}}</ref>
+
+==See also==
+{{Portal|Statistics}}
+{{wikiversity}}
+* [[Newcastle–Ottawa scale]]
+* [[Reporting bias]]
+* [[Review journal]]
+* [[Secondary research]]
+* [[Study heterogeneity]]
+* [[Systematic review]]
+
+==References==
+{{Reflist}}
+*Cooper, H. & Hedges, L.V. (1994). ''The Handbook of Research Synthesis''. New York: Russell Sage.
+*Cornell, J. E. & Mulrow, C. D. (1999). Meta-analysis. In: H. J. Adèr & G. J. Mellenbergh (Eds). ''Research Methodology in the social, behavioral and life sciences'' (pp.&nbsp;285–323). London: Sage.
+*{{cite journal | author = Norman S.-L. T. | year = 1999 | title = Tutorial in Biostatistics. Meta-Analysis: Formulating, Evaluating, Combining, and Reporting | url = | journal = Statistics in Medicine | volume = 18 | issue = 3| pages = 321–359 | doi = 10.1002/(SICI)1097-0258(19990215)18:3<321::AID-SIM28>3.0.CO;2-P | pmid = 10070677 }}
+*Sutton, A.J., Jones, D.R., Abrams, K.R., Sheldon, T.A., & Song, F. (2000). ''Methods for Meta-analysis in Medical Research''. London: John Wiley. ISBN 0-471-49066-0
+*Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.0.1 [updated September 2008]. The Cochrane Collaboration, 2008. Available from www.cochrane-handbook.org
+
+==Further reading==
+*{{Cite journal |doi=10.1016/0140-6736(91)91975-Z |date=2 November 1991 |last=Thompson |first=Simon G |last2=Pocock |first2=Stuart J |title=Can meta-analysis be trusted? |journal=[[The Lancet]] |volume=338 |pages=1127–1130 |url=http://tobaccodocuments.org/pm/2047231315-1318.pdf |accessdate=17 June 2011 |postscript=<!--None--> |pmid=1682553 |issue=8775}}. Explores two contrasting views: does meta-analysis provide "objective, quantitative methods for combining evidence from separate but similar studies" or merely "statistical tricks which make unjustified assumptions in producing oversimplified generalisations out of a complex of disparate studies"?
+* Wilson, D. B., & Lipsey, M. W. (2001). ''Practical meta-analysis''. Thousand Oaks: Sage publications. ISBN 0-7619-2168-0
+* O'Rourke, K. (2007) [http://andrewgelman.com/movabletype/mlm/JustHistory.pdf Just the history from the combining of information: investigating and synthesizing what is possibly common in clinical observations or studies via likelihood.] Oxford: University of Oxford, Department of Statistics. Gives technical background material and details on the "An historical perspective on meta-analysis" paper cited in the references.
+* Owen, A. B. (2009). [http://www-stat.stanford.edu/~owen/reports/AOS697.pdf "Karl Pearson's meta-analysis revisited".] ''[[Annals of Statistics]]'', 37 (6B), 3867–3892. [http://statistics.stanford.edu/~ckirby/techreports/GEN/2009/2009-06.pdf Supplementary report.]
+* Ellis, Paul D. (2010). ''The Essential Guide to Effect Sizes: An Introduction to Statistical Power, Meta-Analysis and the Interpretation of Research Results''. United Kingdom: Cambridge University Press. ISBN 0-521-14246-6
+* Bonett, D.G. (2012). ''Replication-extension studies,'' Current Directions in Psychology, 21, 409-412.
+* Bonett, D.G. (2010). ''Varying coefficient meta-analysis methods for alpha reliability,'' Psychological Methods, 15, 368–385.
+* Bonett, D.G. (2009). ''Meta-analytic interval estimation for standardized and unstandardized mean differences,'' Psychological Methods, 14, 225–238.
+* Bonett, D.G. (2008). ''Meta-analytic interval estimation for bivariate correlations,'' Psychological Methods, 13, 173–189.
+*{{Cite journal |last=Stegenga |first=Jacob |year=2011 |title=Is meta-analysis the platinum standard of evidence? |journal=Studies in History and Philosophy of Biological and Biomedical Sciences |volume=42 |pages=497–507 |url=http://www.sciencedirect.com/science/article/pii/S1369848611000665 |doi=10.1016/j.shpsc.2011.07.003 |issue=4}}
+
+==External links==
+* [http://www.cochrane.org/resources/handbook/index.htm Cochrane Handbook for Systematic Reviews of Interventions]
+* [http://www.ericdigests.org/2003-4/meta-analysis.html Effect Size and Meta-Analysis] (ERIC Digest)
+* [http://www.gvglass.info/papers/meta25.html Meta-Analysis at 25 (Gene V Glass)]
+* [http://www.ericdigests.org/1992-5/meta.htm Meta-Analysis in Educational Research] (ERIC Digest)
+* [http://www.lyonsmorris.com/MetaA/ Meta-Analysis: Methods of Accumulating Results Across Research Domains] (article by Larry Lyons)
+* [http://www.psychwiki.com/wiki/Meta-analysis Meta-analysis] (Psychwiki.com article)
+* [http://effectsizefaq.com/ EffectSizeFAQ.com]
+* [http://ideas.repec.org/k/metaana.html Meta-Analysis in Economics (Reading list)]
+* [http://www.prisma-statement.org/ Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) Statement], "an evidence-based minimum set of items for reporting in systematic reviews and meta-analyses."
+
+===Software===
+* [http://www.epigear.com MetaXL software page]
+* [http://myweb.polyu.edu.hk/~mspaul/calculator/calculator.html Effect Size Calculators] Calculate ''d'' and ''r'' from a variety of statistics.
+* [http://www.clintools.com ClinTools] (commercial)
+* [http://www.metaanalysis.com Comprehensive Meta-Analysis] (commercial)
+* [http://www.meta-analysis-made-easy.com MIX 2.0] Professional Excel addin with Ribbon interface for meta-analysis and effect size conversions in Excel (free and commercial versions).
+* [http://www.stata.com/support/faqs/stat/meta.html What meta-analysis features are available in Stata]? (free add-ons to commercial package)
+* [http://www.lyonsmorris.com/lyons/metaAnalysis/index.cfm The Meta-Analysis Calculator] free on-line tool for conducting a meta-analysis
+*[http://edres.org/meta/metastat.htm Metastat] (Free)
+* [http://tuftscaes.org/meta_analyst/ Meta-Analyst] Free Windows-based tool for Meta-Analysis of binary, continuous and diagnostic data
+*[http://www.cc-ims.net/revman Revman] A free software for meta-analysis and preparation of cochrane protocols and review available from the Cochrane Collaboration
+*[http://www.metafor-project.org/ Metafor-project] A free software package to conduct meta-analyses in R.
+*[http://www.netstorm.be/home/meta_analysis Calculation of fixed and random effects in R] source code for performing univariate and multivariate meta-analyses in R, and for calculating several statistics of heterogeneity.
+*[http://mason.gmu.edu/~dwilsonb/ma.html Macros in SPSS] Free Macros to conduct meta-analyses in SPSS.
+*[http://cran.r-project.org/web/packages/compute.es/index.html compute.es: Compute Effect Sizes]  ([[R (programming language)|R package]]).
+*[http://cran.r-project.org/web/packages/RcmdrPlugin.MAd/index.html MAd GUI] User friendly graphical user interface package to conduct meta-analysis in R (Free).
+{{Statistics|inference}}
+
+{{Use dmy dates|date=March 2012}}
+
+{{DEFAULTSORT:Meta-Analysis}}
+[[Category:Research methods]]
+[[Category:Meta-analysis| ]]
+[[Category:Social sciences methodology]]
+[[Category:Educational psychology]]
+[[Category:Evaluation methods]]
+[[Category:Evidence-based practices]]
+[[Category:Medical statistics]]
+[[Category:Systematic review]]
+[[Category:Methods in sociology]]

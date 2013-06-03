@@ -1,0 +1,84 @@
+{{chembox
+| verifiedrevid = 444023988
+|ImageFile=Neopterin.svg
+|ImageSize=
+|IUPACName=2-amino-6-(1,2,3-trihydroxypropyl)-1''H''-pteridin-4-one
+|OtherNames=
+|Section1= {{Chembox Identifiers
+|  CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 2009-64-5
+|  PubChem = 448839
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 395518
+|  DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB02385
+| SMILES = O=C2\N=C(/Nc1ncc(nc12)[C@H](O)[C@H](O)CO)N
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI=1S/C9H11N5O4/c10-9-13-7-5(8(18)14-9)12-3(1-11-7)6(17)4(16)2-15/h1,4,6,15-17H,2H2,(H3,10,11,13,14,18)/t4-,6+/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey=BMQYVXCPAOLZOK-XINAWCOVSA-N
+|  DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB02385
+| SMILES=C1=C(N=C2C(=N1)NC (=NC2=O)N)C(C(CO)O)O
+|  MeSHName=Neopterin
+  }}
+|Section2= {{Chembox Properties
+|  Formula=C<sub>9</sub>H<sub>11</sub>N<sub>5</sub>O<sub>4</sub>
+|  MolarMass=253.215 g/mol
+|  Appearance=
+|  Density=
+|  MeltingPt=
+|  BoilingPt=
+|  Solubility=
+  }}
+|Section3= {{Chembox Hazards
+|  MainHazards=
+|  FlashPt=
+|  Autoignition=
+  }}
+}}
+'''Neopterin''' is a [[catabolic]] product of [[guanosine triphosphate]] (GTP), a [[purine]] [[nucleotide]]. 
+
+Neopterin belongs to the chemical group known as [[pteridine]]s. It is synthesised by [[macrophage]]s upon stimulation with the [[cytokine]] [[interferon-gamma]] and is indicative of a pro-inflammatory immune status. Neopterin serves as a marker of [[cell-mediated immunity|cellular immune system]] activation.
+
+==Neopterin as disease marker==
+
+Measurement of neopterin concentrations in body fluids like [[blood serum]], [[cerebrospinal fluid]] or [[urine]] provides information about activation of cellular immune activation in humans under the control of [[T helper cells]] type 1. High neopterin production is associated with increased production of [[reactive oxygen species]], neopterin concentrations also allow to estimate the extent of [[oxidative stress]] elicited by the [[immune system]].
+
+Increased neopterin production is found in, but not limited to, the following diseases:
+
+*[[viral infection]]s including [[human immunodeficiency virus]] (HIV), [[hepatitis B]] and [[hepatitis C]]
+
+*[[bacterial infection]]s by intracellular living [[bacteria]] such as [[Borrelia]] ([[Lyme Disease]]) and [[Mycobacterium tuberculosis]]
+
+*[[parasitism|parasites]] such as [[Plasmodium]] ([[malaria]])
+
+*[[autoimmune diseases]] such as [[rheumatoid arthritis]] (RA) and [[systemic lupus erythematosus]] (SLE)
+
+*[[malignant tumor]] diseases 
+
+*[[allograft]] rejection episodes. 
+
+*A [[leukodystrophy]] called [[Aicardi-Goutieres syndrome]]<ref>http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ags</ref>
+
+*[[Depression (mood)|depression]] and somatization. 
+
+
+Neopterin concentrations usually correlate with the extent and activity of the disease, and are also useful to monitor during therapy in these patients. Elevated neopterin concentrations are among the best predictors of adverse outcome in patients with HIV infection, in cardiovascular disease and in various types of cancer. 
+
+In the laboratory it is measured by [[radioimmunoassay]] (RIA), [[ELISA]], or high-performance liquid chromatography (HPLC). It has a native [[fluorescence]] of wavelength excitation at 353&nbsp;nm and emission at 438&nbsp;nm, rendering it readily detected.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.neopterin.net/ NeoPterin.net]
+* [http://www.natureprotocols.com/2006/10/13/determination_of_neopterin_and.php Determination of neopterin and biopterin by liquid chromatography coupled to tandem mass spectrometry (LC-MS/MS) in rat and human plasma, cell extracts and tissue homogenates (a protocol)]
+
+[[Category:Metabolism]]
+[[Category:Immunology]]
+[[Category:Pteridines]]
+[[Category:Alcohols]]
+
+
+{{biochemistry-stub}}

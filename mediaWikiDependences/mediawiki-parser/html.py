@@ -105,6 +105,9 @@ def toolset(allowed_tags, allowed_autoclose_tags, allowed_attributes, interwiki,
         node.value = '&gt;'
 
     def process_attribute(node, allowed_tag):
+        if len(node.value) == 1:
+          return ''
+
         assert len(node.value) == 2, "Bad AST shape!"
         attribute_name = node.value[0].value
         attribute_value = node.value[1].value
@@ -214,7 +217,11 @@ def toolset(allowed_tags, allowed_autoclose_tags, allowed_attributes, interwiki,
                 result += '\t<td%s>%s</td>\n' % content
         else:
             content = render_cell_content(node)
-            result = '\t<td%s>%s</td>\n' % content            
+            if len(content) == 0:
+              node.value = ""
+            else:
+              result = '\t<td%s>%s</td>\n' % content            
+
         if result != '':
             node.value = result
 
@@ -410,7 +417,7 @@ def toolset(allowed_tags, allowed_autoclose_tags, allowed_attributes, interwiki,
 
     return locals()
 
-def make_parser(allowed_tags=[], allowed_autoclose_tags=[], allowed_attributes=[], interwiki={}, namespaces={}):
+def make_html_parser(allowed_tags=[], allowed_autoclose_tags=[], allowed_attributes=[], interwiki={}, namespaces={}):
     """Constructs the parser for the HTML backend.
     
     :arg allowed_tags: List of the HTML tags that should be allowed in the parsed wikitext.

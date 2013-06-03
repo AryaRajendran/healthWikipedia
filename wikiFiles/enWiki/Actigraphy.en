@@ -1,0 +1,62 @@
+{{Refimprove|date=January 2010}}
+'''Actigraphy''' is a [[non-invasive]] method of monitoring human rest/activity cycles. A small actigraph unit, also called an actimetry sensor,<ref>{{cite journal |last=Pigot |first=Hélène |coauthors=Bernard Lefebvre, Jean-Guy Meunier, Brigitte Kerhervé, André Mayers, Sylvain Giroux |year=2003 |title=The role of intelligent habitats in upholding elders in residence |journal= |publisher= Département de mathématiques et d'informatique, Université de Sherbrooke |location=Canada |url=http://www.dmi.usherb.ca/~sgiroux/Publications/2003/2003-Biomedecine-Pigot-01.pdf |format=PDF |accessdate= 2008-01-22}}</ref> is worn by a patient to measure gross motor activity. Motor activity often under test is that of the wrist, measured by an actigraph in a wrist-watch-like package. The unit continually records the movements it undergoes. The data can be later read to a computer and analysed offline. In some applications, such as the [[Fitbit]] or the [[WakeMate]], the data is transmitted and analysed in real time.
+
+==Purpose==
+=== Sleep ===
+Sleep actigraphs are generally watch-shaped and worn on the wrist of the [[handedness|non-dominant]] arm. They are useful for determining sleep patterns and [[circadian rhythm]]s and may be worn for several weeks at a time. Contrary to [[polysomnography]], the patient remains movable and does not necessarily need to be located in a laboratory while the required data is being recorded. This permits the patient to stay in his or her natural sleep environment which may render the measured data more generally applicable. Sleep actigraphs are also more affordable than performing a polysomnography and can therefore be advantageous as well, particularly when conducting large field tests.<ref name="CDP">{{cite journal |last1=K.Y. Tang |first1=Nicole |last2=G. Harvey |first2=Allison |year=2004 |title=Correcting distorted perception of sleep in insomnia: a novel behavioural experiment? |journal=Behaviour Research and Therapy |issue=42 |pages=27–39 |publisher=Elsevier}}</ref>
+
+Actigraphy is useful for assessing daytime sleepiness in situations where a laboratory [[MSLT|sleep latency test]] is not appropriate. It is used to clinically evaluate [[insomnia]], [[circadian rhythm sleep disorder]]s, excessive [[sleepiness]] and [[restless legs syndrome]]. It is also used in assessing the effectiveness of [[pharmacologic]], [[behavioural]], [[phototherapeutic]] or [[chronotherapeutic]] treatments for such disorders. 
+
+Actigraphy has been actively used in sleep-related studies since the early 1990s.<ref>Google Scholar; keyword: actigraph+sleep; 10.3k results as of September 2011</ref> However, it has not traditionally been used in routine diagnosis of sleep disorders but is increasingly being employed in sleep clinics to replace full polysomnography.{{Citation needed|date=September 2011}} The main reason for this development is the fact that, while retaining mobility, actigraphy offers reliable results with an accuracy that is close to those of polysomnography (above 90%)<ref>Jean-Louis, G., von Gizycki, H., Zizi, F., Spielman, A., Hauri, P., & Taub, H. (1997). The actigraph data analysis software: I. A novel approach to scoring and interpreting sleep–wake activity. Perceptual and Motor Skills, 85, 207–216.</ref> The technique is more extensively used in academic research and is being increasingly employed in new drug clinical trials where sleep quality is seen as a good indicator of quality of life.
+
+===Activity===
+Activity actigraphs are worn and used similar to a [[pedometer]]: around the waist, near the hip. They are useful for determining the amount of activity and possibly the number of calories burned by the wearer. They are worn for a number of days.
+
+===Movement===
+Movement actigraphs are generally larger and worn on the shoulder of the dominant arm. They contain a 3D actigraph as opposed to a single dimension one, and have a high sample rate and a large memory. They are used for only a few hours, and can be used to determine problems with gait and other physical impairments.
+
+==The actigraph unit==
+The unit itself is an electronic device which generally consists of:
+* a piezoelectric{{cn|date=November 2012}} [[accelerometer]],
+* a [[low-pass filter]] which filters out everything except the 2–3&nbsp;Hz band, thereby ensuring external vibrations are ignored,
+* a timer to start/stop the actigraph at specific times, and to accumulate values for a specific time frame,
+* a memory to store the resulting values, and
+* an interface, usually [[USB]], serial, or low-power wireless, to program the timer and download the data from memory.
+
+===Measurements===
+Actigraphs have a number of different ways of accumulating the values from the accelerometer in memory. ZCM (zero crossing mode) counts the number of times the accelerometer waveform crosses 0 for each time period. PIM (proportional integral mode) measures the area under the curve, and adds that size for each time period. TAT (time above threshold) uses a certain threshold, and measures the length of time that the wave is above a certain threshold. Literature shows that PIM provides most accurate measurements for both sleep and activity, though the difference with ZCM is marginal.
+
+===Features===
+Actigraph units vary widely in size and features and can be expanded to include additional measurements. However, there are a number of limiting factors:
+* Fastest sample rate: 1-minute intervals provide adequate detail to measure sleep, but could be too slow for measuring other parameters.
+* Amount of memory: Together with sample rate, the amount of memory determines how long measurements can be taken.
+* Battery usage: Some actigraphs have a short battery life.
+* Weight: the heavier the actigraph, the more disruptive its use.
+* Water resistance: for proper measurements it is often desirable that the actigraph be worn in the shower, bathtub, or even while swimming/diving.
+
+For some uses, the following are examples of additional features:
+* Watch functionality: making the device more attractive to the user.
+* User input: most actigraphs now include a button so the user can indicate a specific event that occurs, for example lights out at bedtime.
+* Subjective user input: for example a query function to allow surveys at specific times.
+* Sensors which monitor:
+** temperature
+** ambient light
+** sound levels
+** parkinsonian tremor
+** skin resistance
+** a full EEG data stream
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.aasmnet.org/Resources/PracticeParameters/PP_Actigraphy_Circ.pdf American Academy of Sleep Medicine] – Practice parameters for the role of actigraphy in the study of sleep and circadian rhythms: An update for 2002
+* [http://www.acsm-msse.org/pt/re/msse/abstract.00005768-200409000-00026.htm;jsessionid=EGV2oXf1VwE3h24pSzos7mnaSrNuqJu7tco1AuGHNjH4WGODCzwO!987057721!-949856145!9001!-1?index=1&results=1&count=10&searchid=1&nav=search%20 Reliability of Accelerometry-Based Activity Monitors: A Generalizability Study. Gregory J. Welk, Jodee A. Schaben, and James R. Morrow, Jr. Medicine & Science In Sports & Exercise, Vol. 36, No. 9, pp. 1637–1645, 2004.] – Medicine & Science in Sports & Medicine, the official Journal of the American College of Sports Medicine
+
+[[Category:Measuring instruments]]
+[[Category:Neurology procedures]]
+[[Category:Circadian rhythm]]
+[[Category:Sleep]]
+
+[[de:Aktigraphie]]
+[[fr:Actimétrie]]

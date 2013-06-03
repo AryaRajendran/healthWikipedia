@@ -1,0 +1,64 @@
+'''DNA digital data storage''' refers to any scheme to [[data storage|store digital data]] in the [[nucleic acid sequence|base sequence]] of [[DNA]].  This technology uses artificial DNA made using commercially available [[oligonucleotide synthesis]] machines for storage and [[DNA sequencing]] machines for retrieval.  This type of storage system is more compact than current [[magnetic tape]] or [[hard drive]] storage systems due to the data density of the DNA. It also has the capability for longevity, as long as the DNA is held in cold, dry and dark conditions, as is shown by the study of [[woolly mammoth]] DNA from up to 60,000 years ago, and for resistance to obsolescence, as DNA is a universal and fundamental data storage mechanism in biology. These features have led to researchers involved in their development to call this method of data storage "apocalypse-proof" because "after a hypothetical global disaster, future generations might eventually find the stores and be able to read them." <ref name=nanews/> It is, however, a slow process, as the DNA needs to be sequenced in order to retrieve the data, and so the method is intended for uses with a low access rate such as long-term archival of large amounts of scientific data.<ref name=nanews>
+{{cite doi|10.1038/nature.2013.12279}}</ref><ref name=goldman>{{cite doi|10.1038/nature11875}}</ref>
+
+==Proofs of principle==
+On August 16, 2012, the journal ''[[Science (journal)|Science]]'' published research by [[George M. Church|George Church]] and colleagues at [[Harvard University]], in which DNA was encoded with digital information that included an HTML draft of a 53,400 word book written by the lead researcher, eleven JPG images and one JavaScript program. Multiple copies for redundancy were added and 5.5 petabits can be stored in each cubic millimeter of DNA.<ref name=church>{{cite doi|10.1126/science.1226355}}</ref> The researchers used a simple code where bits were mapped one-to-one with bases, which had the shortcoming that it led to long runs of the same base, the sequencing of which is error-prone.  This [[research|research result]] showed that besides its other functions, DNA can also be another type of storage medium such as hard drives and magnetic tapes.<ref name=nanews/>
+
+An improved system was reported in the journal ''[[Nature (journal)|Nature]]'' in January 2013, in an article lead by researchers from the [[European Bioinformatics Institute]] (EBI) and submitted at around the same time as the paper of [[George M. Church|Church]] and colleagues. Over five million bits of data, appearing as a speck of dust to researchers, and consisting of [[text file]]s and [[audio file]]s, were successfully stored and then perfectly retrieved and reproduced. Encoded information consisted of all 154 of Shakespeare's sonnets, a twenty-six-second audio clip of the "I Have a Dream" speech by Martin Luther King, the well known paper on the structure of DNA by [[James Watson]] and [[Francis Crick]], a photograph of EBI headquarters in [[Hinxton]], United Kingdom, and a file describing the methods behind converting the data. All the DNA files reproduced the information between 99.99% and 100% accuracy.<ref name=goldman/> The main innovations in this research were the use of an error-correcting encoding scheme to ensure the extremely low data-loss rate, as well as the idea of encoding the data in a series of overlapping short [[oligonucleotide]]s identifiable through a sequence-based indexing scheme.<ref name=nanews/> Also, the sequences of the individual strands of DNA overlapped in such a way that each region of data was repeated four times to avoid errors. Two of these four strands were constructed backwards, also with the goal of eliminating errors.<ref name=goldman/>  The per-megabyte costs were estimated at $12,400 to encode data and $220 for retrieval.  However, it was noted that the exponential decrease in DNA synthesis and sequencing costs, if it continues into the future, should make the technology cost-effective for long-term data storage within about ten years.<ref name=nanews/>
+
+The idea and the general considerations about the possibility of recording, storage and retrieval of information on DNA molecules were made by Mikhail Neiman and published in 1964-65 in «Radiotekhnika» journal, USSR. The full texts of these articles (in Russian, abstracts in English) are available on https://sites.google.com/site/msneiman1905. 
+
+==See also==
+*[[DNA computing]]
+*[[DNA nanotechnology]]
+*[[Nanobiotechnology]]
+*[[Natural computing]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite news
+ | last = Edwards
+ | first = Lin
+ | coauthors =
+ | title = DNA used to encode a book and other digital information
+ | newspaper = Phys Org
+ | publisher = Phys Org
+ | date = August 17, 2012
+ | url = http://phys.org/news/2012-08-dna-encode-digital.html
+ | accessdate =2013-01-28}}
+*{{cite doi|10.1146/annurev.genom.9.081307.164359}}
+*{{cite web
+ | last = Cole
+ | first = Adam
+ | authorlink =
+ | coauthors =
+ | title = Shall I Encode Thee In DNA? Sonnets Stored On Double Helix?
+ | work =
+ | publisher = National Public Radio
+ | date = January 24, 2013<!-- 3:37 AM
+ -->| url = http://www.npr.org/2013/01/24/170082404/shall-i-encode-thee-in-dna-sonnets-stored-on-double-helix
+ | format = Download article and audio is available
+ | doi =
+ | accessdate = }}
+*{{cite news
+ | last = Naik
+ | first =Gautam
+ | title =Storing Digital Data in DNA
+ | newspaper = [[The Wall Street Journal]]
+ | location = New York City
+ | publisher = Dow Jones & Company
+ | date =January 24, 2013
+ | url =http://online.wsj.com/article/SB10001424127887324539304578259883507543150.html#articleTabs%3Darticle
+ | accessdate =2012-01-25}}
+*[http://online.wsj.com/article/SB10001424127887324539304578259883507543150.html Wall Street Journal article]. "Storing Digital Data in DNA"
+*[http://genomeinformatician.blogspot.co.uk/2013/01/using-dna-as-digital-archive-media.html Ewan Birney's Blog]. "Using DNA as a digital archive media"
+:*Also see "[http://genomeinformatician.blogspot.co.uk/ The 10,000 year archive]" 
+*[http://phenomena.nationalgeographic.com/2013/01/23/shakespeares-sonnets-and-mlks-speech-stored-in-dna-speck/ Ed Yong's National Geographic blog]. "Shakespeare’s Sonnets and MLK’s Speech Stored in DNA Speck"
+*[http://www.nytimes.com/2011/12/01/business/dna-sequencing-caught-in-deluge-of-data.html?pagewanted=all&_r=0 DNA Sequencing Caught in Deluge of Data]. The New York Times (NYTimes.com).
+
+[[Category:DNA]]
+[[Category:Molecular biology]]
+[[Category:Storage media]]
+[[Category:Computational biology]]

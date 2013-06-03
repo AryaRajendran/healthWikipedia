@@ -1,0 +1,166 @@
+{{good article}}
+{| class = "wikitable" style = "float:right; font-size:85%; margin-left:15px"
+|+ List of stems for<br />monoclonal antibody nomenclature<ref name="AMA_2007" /><ref name="WHO_2009" /><ref name="StemBook_2009" />
+|-
+! Prefix
+! colspan = "3" | Target substem
+! colspan = "2" | Source substem
+! Stem
+|-
+! || old || new || meaning || || meaning ||
+|-
+| rowspan="19" | ''variable''
+| ''-anibi-'' || &mdash; || [[angiogenesis]] (inhibitor)
+| ''-a-'' || [[rat]]
+| rowspan="19" | ''-mab''
+|-
+| ''-ba(c)-'' || ''-b(a)-'' || [[bacterium]]
+| ''-e-'' || [[hamster]]
+|-
+| ''-ci(r)-'' || ''-c(i)-'' || [[circulatory system]]
+| ''-i-'' || [[primate]]
+|-
+| ''-fung-'' || ''-f(u)-'' || [[fungus]]
+| ''-o-'' || [[mouse]]
+|-
+| ''-ki(n)-'' || ''-k(i)-'' || [[interleukin]]
+| ''-u-'' || [[human]]
+|-
+| ''-les-'' || &mdash; || inflammatory [[lesion]]s
+| ''-xi-'' || [[Chimeric antibody|chimeric]] (human/foreign)
+|-
+| ''-li(m)-'' || ''-l(i)-'' || [[immune system]]
+| ''-zu-'' || [[Humanized antibody|humanized]]
+|-
+| ''-mul-'' || &mdash; || [[musculoskeletal system]]
+| ''-xizu-''* || chimeric/humanized hybrid
+|-
+| ''-ne(u)(r)-'' || ''-n(e)-''* || [[nervous system]]
+| rowspan="2" | ''-axo-'' || rowspan="2" | rat/mouse hybrid<br />(see ''[[trifunctional antibody]]'')
+|-
+| ''-os-'' || ''-s(o)-'' || [[bone]]
+|-
+|''-toxa-'' || ''-tox(a)-'' || [[toxin]]
+| rowspan="9" colspan="2" |
+|-
+| ''-co(l)-'' || rowspan="7" | ''-t(u)-'' || [[Colon cancer|colonic tumor]]
+|-
+| ''-go(t)-'' || [[Testicular cancer|testicular tumor]]
+|-
+| ''-go(v)-'' || [[ovarian tumor]]
+|-
+| ''-ma(r)-'' || [[mammary tumor]]
+|-
+| ''-me(l)-'' || [[melanoma]]
+|-
+| ''-pr(o)-'' || [[Prostate cancer|prostate tumor]]
+|-
+| ''-tu(m)-'' || miscellaneous tumor
+|-
+| ''-vi(r)-'' || ''-v(i)-'' || [[virus]]
+|-
+| colspan="7" | * under discussion {{as of|2009|12|lc=on}}
+|}
+
+The '''nomenclature of monoclonal antibodies''' is a naming scheme for assigning generic, or nonproprietary, names to [[monoclonal antibodies]]. An [[antibody]] is a [[protein]] that is produced in [[B cell]]s and used by the [[immune system]] of humans and other [[vertebrate]] animals to identify a specific foreign object like a [[bacterium]] or a [[virus]]. ''Monoclonal'' antibodies are those that were produced in [[Clone (cell biology)|identical cells]], often artificially, and so share the same target object. They have a wide range of applications including medical uses.<ref name="Janeway" />
+
+This naming scheme is used for both the [[World Health Organization]]’s [[International Nonproprietary Name]]s (INN)<ref name="WHO_1997" /> and the [[United States Adopted Name]]s (USAN)<ref name="AMA_2007" /> for pharmaceuticals. In general, [[word stem]]s are used to identify classes of drugs, in most cases placed word-finally. All monoclonal antibody names end with the stem ''-mab''. Unlike most other pharmaceuticals, monoclonal antibody nomenclature uses different preceding word parts ([[morpheme]]s) depending on structure and function. These are officially called ''substems'' and sometimes erroneously ''[[infix]]es'', even by the USAN Council itself.<ref name="AMA_2007" />
+
+==Components==
+[[File:Antibody IgG2.png|thumb|left|Structure ([[ribbon diagram]]) of an antibody. The four [[variable domain]]s are the outermost clusters shown top left and top right.]]
+
+===Stem===
+The stem ''-mab'' is used for monoclonal antibodies as well as for their fragments, as long as at least one [[variable domain]] (the [[protein domain|domain]] that contains the target binding structure) is included.<ref name="WHO-INN" /> This is the case for [[antigen binding fragment]]s<ref name="Ranibizumab" /> and [[single-chain variable fragment]]s,<ref name="Pexelizumab" /> among other artificial proteins. Other antibody parts (such as [[Fc region]]s) and [[antibody mimetic]]s use different naming schemes.
+
+===Substem for origin/source===
+[[File:Chimeric and humanized antibodies with CDRs.svg|thumb|'''Source substems''': sketches of [[mouse]] (top left), [[chimeric antibody|chimeric]] (top right), [[humanized]] (bottom left), chimeric/humanized (bottom middle), and [[human]] (bottom right) monoclonal antibodies.<br />Human parts are shown in brown, non-human parts in blue. The variable domains are the boxes on top of each antibody; the [[Complementarity determining region|CDR]]s within these domains are represented as triple loops.]]
+
+The substem preceding the stem denotes the animal from which the antibody is obtained.<ref name="AMA_2007" /> The first monoclonal antibodies were produced in mice (substem ''-o-'', yielding the ending ''-omab''; usually ''[[Mus musculus]]'', the house mouse) or other non-human organisms. Neither INN nor USAN has ever been requested for antibodies from [[rat]]s (theoretically ''-a-''), [[hamster]]s (''-e-'') and [[primate]]s (''-i-'').<ref name="WHO-INN" />
+
+These non-human antibodies are recognized as foreign by the human immune system and may be rapidly [[Clearance (medicine)|cleared]] from the body, provoke an [[allergic reaction]], or both.<ref name="Stern" /><ref name="Tabrizi" /> To avoid this, parts of the antibody can be replaced with human [[amino acid sequence]]s, or pure human antibodies can be [[Protein engineering|engineered]]. If the [[constant region]] is replaced with the human form, the antibody is termed ''[[Chimeric antibody|chimeric]]'' and the substem used is ''-xi-''. Part of the variable regions may also be substituted, in which case it is called ''[[humanized]]'' and ''-zu-'' is used; typically, everything is replaced except the [[complementarity determining region]]s (CDRs), the three loops of amino acid sequences at the outside of each variable region that bind to the target structure. Partly chimeric and partly humanized antibodies use ''-xizu-''. These three substems do not indicate the foreign species used for production. Thus, the human/mouse chimeric antibody [[basiliximab]] ends in ''-ximab'' just as the human/[[macaque]] antibody [[gomiliximab]]. Pure human antibodies use ''-u-''.<ref name="WHO_2009" />
+
+Rat/mouse hybrid antibodies can be engineered with binding sites for two different antigens. These drugs, termed ''[[trifunctional antibodies]]'', have the substem ''-axo-''.<ref name="Lordick" />
+
+===Substem for target===
+The substem preceding the source of the antibody refers to the medicine's target. Examples of targets are [[tumor]]s, [[organ system]]s like the [[circulatory system]], or [[infectious agent]]s like [[bacteria]] or [[virus]]es. The term ''target'' does not imply what sort of action the antibody exerts. [[Therapeutic]], [[prophylactic]] and [[diagnostic]] agents are not distinguished by this nomenclature.
+
+In the naming scheme as originally developed, these substems mostly consist of a consonant, a vowel, then another consonant. The final letter may be dropped if the resulting name would be difficult to pronounce otherwise. Examples include ''-ci(r)-'' for the circulatory system, ''-li(m)-'' for the [[immune system]] (''lim'' stands for [[lymphocyte]]) and ''-ne(r)-'' for the nervous system. The final letter is usually omitted if the following source substem begins with a consonant (such as ''-zu-'' or ''-xi-''), but not all target substems are used in their shortened form. ''-mul-'', for example, is never reduced to ''-mu-'' because no chimeric or humanized antibodies targeting the [[musculoskeletal system]] ever received an INN. Combination of target and source substems results in endings like ''-limumab'' (immune system, human) or ''-ciximab'' (circulatory system, chimeric, consonant ''r'' dropped).<ref name="AMA_2007" />
+
+New and shorter target substems were adopted in 2009. They mostly consist of a consonant, plus a vowel which is omitted if the source substem begins with a consonant. For example, human antibodies targeting the immune system receive names ending in ''-lumab'' instead of the old ''-limumab''. Some endings like ''-ciximab'' remain unchanged.<ref name="WHO_2009" /> The old system employed seven different substems for tumor targets, depending on the type of tumor. Because many antibodies are investigated for several tumor types, the new convention only has ''-t(u)-''.<ref name="AMA_2007" />
+
+===Prefix===
+The prefix carries no special meaning. It should be unique for each medicine and contribute to a well sounding name.<ref name="WHO_2009" /> This means that antibodies with the same source and target substems are only distinguished by their prefix. Even antibodies targeting exactly the same structure are differently prefixed, such as the [[adalimumab|''ada''limumab]] and [[golimumab|''go''limumab]], both of which are [[TNF inhibitor]]s but differ in their chemical structure.<ref name="Adalimumab" /><ref name="Golimumab" />
+
+===Additional words===
+A second word following the name of the antibody indicates that another substance is attached,<ref name="WHO_2009" /> which is done for several reasons.
+* An antibody can be [[PEGylated]] (attached to molecules of [[polyethylene glycol]]) to slow down its degradation by enzymes and to decrease its [[immunogenicity]];<ref name="Veronese" /> this is shown by the word ''pegol'' as in ''[[alacizumab pegol]]''.<ref name="Alacizumab" />
+* A [[cytotoxic agent]] can be linked to an anti-tumor antibody for [[drug targeting]] purposes. The word ''vedotin'', for example, stands for [[monomethyl auristatin E]] which is toxic by itself but predominantly affects cancer cells if used in conjugates like [[glembatumumab vedotin]].<ref name="Glembatumumab" />
+* A [[chelator]] for binding a [[radioisotope]] can be attached. [[Pendetide]], a derivative of [[pentetic acid]], is used for example in [[capromab pendetide]] to chelate [[indium-111]].<ref name="Capromab" /> If the drug contains a radioisotope, the name of the isotope precedes the name of the antibody.<ref name="WHO_2009" /> Consequently, ''indium (<sup>111</sup>In) capromab pendetide'' is the name for the above example including indium-111.<ref name="Capromab" />
+
+==History==
+[[File:E A Behring.jpg|thumb|upright|[[Emil von Behring]], one of the discoverers of antibodies]]
+[[Emil von Behring]] and [[Kitasato Shibasaburō]] discovered in 1890 that [[diphtheria toxin|diphtheria]] and [[tetanus toxin]]s were neutralized in the bloodstream of animals by substances they called ''antitoxins'', which were specific for the respective toxin.<ref name="Kitasato" /> Behring received the first [[Nobel Prize in Physiology or Medicine]] for their find in 1901.<ref name="Nobel-1901" /> A year after the discovery, [[Paul Ehrlich]] used the term ''antibodies'' ([[German language|German]] ''Antikörper'') for these antitoxins.<ref name="Lindenmann" />
+
+The principle of monoclonal antibody production, called [[hybridoma technology]], was published in 1975 by [[Georges Köhler]] and [[César Milstein]],<ref name="Köhler" /> who were awarded the 1984 Medicine Nobel Prize for their discovery together with [[Niels Kaj Jerne]].<ref name="Nobel-1984" /> [[Muromonab-CD3]] was the first monoclonal antibody to be approved for clinical use in humans, in 1986.<ref name="Mutschler" />
+
+The World Health Organization (WHO) introduced the system of International Nonproprietary Names in 1950, with the first INN list being published three years later. The stem ''-mab'' for monoclonal antibodies was proposed around 1990, and the current system with target and source substems was developed between 1991 and 1993. Due to the collaboration between the WHO and the United States Adopted Names Council, antibody USANs have the same structure and are largely identical to INNs. Until 2009, more than 170 monoclonal antibodies received names following this nomenclature.<ref name="WHO-INN" /><ref name="Drugs.com" />
+
+In October 2008, the WHO convoked a working group to revise the nomenclature of monoclonal antibodies, to meet challenges discussed in April the same year. This led to the adoption of the new target substems in November 2009.<ref name="WHO-INN" /> In spring 2010, the first new antibody names were adopted.<ref name="Olaratumab" />
+
+==Examples==
+===New convention===
+* [[Olaratumab]] is an [[antineoplastic]]. Its name is composed of the components ''olara-t-u-mab''. This shows that the drug is a human monoclonal antibody acting against tumors.<ref name="Olaratumab" />
+* The name of [[benralizumab]], a drug designed for the treatment of [[asthma]], has the components ''benra-li-zu-mab'', marking it as a humanized antibody acting on the immune system.<ref name="Benralizumab" />
+
+===Old convention===
+* Adalimumab is a drug targeting [[TNF alpha]]. Its name can be broken down into ''ada-lim-u-mab''. Therefore, the drug is a human monoclonal antibody targeting the immune system. If adalimumab had been named after 2009, it would have been ''adalumab''.<ref name="Adalimumab" />
+* [[Abciximab]] is a commonly used medication to prevent [[platelet]]s from clumping together. Broken down into ''ab-ci-xi-mab'', its name shows the drug to be a chimeric monoclonal antibody used on the cardiovascular system. This and the following two names would look the same if the new convention were applied.<ref name="Abciximab" />
+* The name of the [[breast cancer]] medication [[trastuzumab]] can be analyzed as ''tras-tu-zu-mab''. Therefore, the drug is a humanized monoclonal antibody used against a tumor.<ref name="Trastuzumab" />
+* Alacizumab pegol is a PEGylated humanized antibody targeting the circulatory system.<ref name="Alacizumab" />
+* [[Technetium (99mTc) pintumomab|Technetium (<sup>99m</sup>Tc) pintumomab]]<ref name="Pintumomab" /> and [[Technetium (99mTc) nofetumomab merpentan|technetium (<sup>99m</sup>Tc) nofetumomab merpentan]] are radiolabeled antibodies, merpentan being a chelator that links the antibody nofetumomab to the radioisotope [[technetium-99m]].<ref name="Merpentan" />
+* [[Rozrolimupab]]<ref name="Rozrolimupab">[http://www.ama-assn.org/ama1/pub/upload/mm/365/rozrolimupab.pdf Statement On A Nonproprietary Name Adopted By The USAN Council - Rozrolimupab], ''American Medical Association''.</ref> is a [[polyclonal antibodies|polyclonal antibody]]. Broken down into ''rozro-lim-u-pab'', its name shows the drug to be a human polyclonal antibody acting on the immune system. The suffix ''-pab'' shows it is a polyclonal antibody.
+
+===Deviations===
+* The monoclonal antibody muromonab-CD3, approved for clinical use in 1986, was named before these conventions took effect, and consequently its name does not follow them. Instead, it is a contraction from "''mur''ine ''mon''oclonal ''a''nti''b''ody targeting ''CD3''".<ref name="Mutschler" />
+
+==See also==
+*[[List of monoclonal antibodies]]
+*[[Monoclonal antibody therapy]]
+
+==References==
+{{Reflist|2|refs=
+<ref name="Janeway">{{cite book | last1 = Janeway | first1 = CA, Jr. | last2 = Travers | first2 = P | last3 = Walport | first3 = M | last4 = Shlomchik | first4 = MJ | authorlink = Charles Janeway | title = Immunobiology | edition = 5th | publisher = [[Garland Publishing]] | year = 2001 | url = http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=imm.TOC&depth=10 | isbn = 0-8153-3642-X }}</ref>
+<ref name="AMA_2007">{{cite web |url=http://www.ama-assn.org/ama/pub/about-ama/our-people/coalitions-consortiums/united-states-adopted-names-council/naming-guidelines/naming-biologics/monoclonal-antibodies.shtml|title=AMA (USAN) Monoclonal antibodies |accessdate=2007-08-15 |date=2007-08-07 |work=United States Adopted Names}}</ref>
+<ref name="WHO_2009">{{cite web|url=http://www.who.int/medicines/services/inn/generalpoliciesmonoclonalantibodiesjan10.pdf|format=PDF|title=General policies for monoclonal antibodies|publisher=World Health Organization|accessdate=2010-06-08|date=2009-12-18}}</ref>
+<ref name="StemBook_2009">{{cite web|url=http://www.who.int/medicines/services/inn/StemBook2009.pdf|format=PDF|title=The use of stems in the selection of International Nonproprietary Names (INN) for pharmaceutical substances|pages=107–109, 168–169|year=2009|publisher=World Health Organization|accessdate=2010-02-22}}</ref>
+<ref name="WHO_1997">{{cite web |url=http://whqlibdoc.who.int/hq/1997/WHO_PHARM_S_NOM_1570.pdf |year = 1997 | title=Guidelines on the Use of International Nonproprietary Names (INNs) for Pharmaceutical Substances |accessdate=2007-08-15 |pages = 27–28 | format = PDF|work=}}</ref>
+<ref name="Stern">{{cite doi|10.1016/j.critrevonc.2004.10.011}}</ref>
+<ref name="Tabrizi">{{cite doi|10.1016/S1359-6446(05)03638-X}}</ref>
+<ref name="Lordick">{{pmid|18694358}}</ref>
+<ref name="Veronese">{{cite doi|10.1016/S1359-6446(05)03575-0}}</ref>
+<ref name="Capromab">{{cite journal | publisher=World Health Organization | title=ATC/DDD Classification (final) | journal=WHO Drug Information | volume=15 | issue=2 | year=2001 | url=http://apps.who.int/medicinedocs/en/d/Js2288e/7.html | accessdate=2011-02-13}}</ref>
+<ref name="Glembatumumab">{{cite web|url=http://www.cancer.gov/drugdictionary/?CdrID=599456|title=Drug Dictionary: Glembatumumab vedotin|publisher=National Cancer Institute}}</ref>
+<ref name="Merpentan">{{cite journal|url=http://apps.who.int/medicinedocs/pdf/s4894e/s4894e.pdf|title=International Nonproprietary Names (INN) for Pharmaceutical Substances: Names for radicals & groups comprehensive list|publisher=World Health Organization|journal=|volume=|issue=|year=2002|page=22|format=PDF|accessdate=2010-12-24}}</ref>
+<ref name="Drugs.com">{{cite web|url=http://www.drugs.com/inn.html|title=International Nonproprietary Names
+|publisher=Drugs.com|accessdate=2010-12-08}}</ref>
+<ref name="Ranibizumab">{{cite journal | publisher=World Health Organization | title=International Nonproprietary Names for Pharmaceutical Substances (INN) | journal=WHO Drug Information | volume=18 | issue=1 | year=2004 | url=http://whqlibdoc.who.int/druginfo/18_1_2004_INN90.pdf | page=61 | format=PDF | accessdate=2010-06-08}}</ref>
+<ref name="Pexelizumab">{{cite journal | publisher=World Health Organization | title=International Nonproprietary Names for Pharmaceutical Substances (INN) | journal=WHO Drug Information | volume=15 | issue=2 | year=2001 | url=http://whqlibdoc.who.int/druginfo/DRUG_INFO_15_2_2001_INN-85.pdf | page=121 | format=PDF | accessdate=2010-06-08}}</ref>
+<ref name="Kitasato">{{cite journal | author = AGN | title = The Late Baron Shibasaburo Kitasato | journal = Canadian Medical Association Journal | year = 1931 | volume = 25 | issue = 2 | page = 206 | pmc=382621 | pmid=20318414}}</ref>
+<ref name="Köhler">{{pmid|15728446}}</ref>
+<ref name="Lindenmann">{{pmid|6374880}}</ref>
+<ref name="Nobel-1901">{{cite web | url = http://nobelprize.org/nobel_prizes/medicine/laureates/1901/index.html | title = The Nobel Prize in Physiology or Medicine 1901 | accessdate = 2011-02-19 | publisher = Nobel Foundation}}</ref>
+<ref name="Nobel-1984">{{cite web | url = http://nobelprize.org/nobel_prizes/medicine/laureates/1984/index.html | title = The Nobel Prize in Physiology or Medicine 1984 | accessdate = 2011-02-14 | publisher = Nobel Foundation}}</ref>
+<ref name="WHO-INN">{{cite journal | title=International Nonproprietary Names | journal=WHO Drug Information | volume=23 | issue=3 | year=2009 | publisher=World Health Organization | pages=195–199 | url=http://www.who.int/medicines/publications/druginformation/issues/DrugInfo09_Vol23-3.pdf | accessdate=2010-12-08}}</ref>
+<ref name="Olaratumab">{{cite journal|url=http://www.ama-assn.org/ama1/pub/upload/mm/365/olaratumab.pdf|title=Statement on a Nonproprietary name adopted by the USAN Council: Olaratumab|publisher=American Medical Association|format=PDF|date=2010-03-08|accessdate=2010-06-08}}</ref>
+<ref name="Benralizumab">{{cite journal|url=http://www.ama-assn.org/ama1/pub/upload/mm/365/benralizumab.pdf|title=Statement on a Nonproprietary name adopted by the USAN Council: Benralizumab|publisher=American Medical Association|format=PDF|date=2010-03-08|accessdate=2010-06-08}}</ref>
+<ref name="Adalimumab">{{cite doi|10.1586/1744666X.5.1.19}}</ref>
+<ref name="Golimumab">{{cite journal|url=http://whqlibdoc.who.int/druginfo/18_2_2004_INN91.pdf|title=International Nonproprietary Names for Pharmaceutical Substances (INN)|publisher=World Health Organization|journal=WHO Drug Information|volume=18|issue=2|year=2004|page=167|format=PDF|accessdate=2011-02-13}}</ref>
+<ref name="Abciximab">{{cite web|url=http://www.drugs.com/cdi/abciximab.html|title=Abciximab|work=Drugs.com|accessdate=2010-03-13}}</ref>
+<ref name="Trastuzumab">{{cite web|url=http://www.drugs.com/cdi/trastuzumab.html|title=Trastuzumab|work=Drugs.com|accessdate=2010-06-08}}</ref>
+<ref name="Alacizumab">{{cite journal|url=http://www.who.int/medicines/services/inn/INN_2008_list60.pdf|title=International Nonproprietary Names for Pharmaceutical Substances (INN)|publisher=World Health Organization|journal=WHO Drug Information|volume=22|issue=3|year=2008|page=221|format=PDF|accessdate=2010-06-08}}</ref>
+<ref name="Pintumomab">{{cite journal|url=http://whqlibdoc.who.int/druginfo/INN_2002_list48.pdf|title=International Nonproprietary Names for Pharmaceutical Substances (INN)|publisher=World Health Organization|journal=WHO Drug Information|volume=16|issue=3|year=2002|page=264|format=PDF|accessdate=2010-06-08}}</ref>
+<ref name="Mutschler">{{cite book|last1=Mutschler|first1=E|last2=Geisslinger|first2=G|last3=Kroemer|first3=HK|last4=Schäfer-Korting|first4=M|title=Arzneimittelwirkungen|publisher=Wissenschaftliche Verlagsgesellschaft|location=Stuttgart|year=2001|edition=8|page=937|isbn=3-8047-1763-2|language=German}}</ref>
+}}
+
+[[Category:Monoclonal antibodies| ]]
+[[Category:Chemical nomenclature]]

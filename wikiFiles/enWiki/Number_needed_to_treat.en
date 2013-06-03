@@ -1,0 +1,60 @@
+The '''number needed to treat (NNT)''' is an [[epidemiology|epidemiological]] measure used in assessing the effectiveness of a health-care intervention, typically a treatment with [[medication]]. The NNT is the average number of patients who need to be treated to prevent one additional bad outcome (i.e. the number of patients that need to be treated for one to benefit compared with a control in a clinical trial).  It is defined as the inverse of the [[absolute risk reduction]]. It was described in 1988.<ref>{{cite journal |doi=10.1056/NEJM198806303182605 |author=Laupacis A, Sackett DL, Roberts RS |title=An assessment of clinically useful measures of the consequences of treatment |journal=N. Engl. J. Med. |volume=318 |issue=26 |pages=1728–33 |year=1988 |pmid=3374545}}</ref> The ideal NNT is 1, where everyone improves with treatment and no one improves with control. The higher the NNT, the less effective is the treatment.<ref name="bandolier-nnt">{{cite web|url=http://www.medicine.ox.ac.uk/bandolier/booth/glossary/NNT.html|title=Number Needed to Treat|publisher=Bandolier|accessdate=2009-05-30}}</ref>
+
+Variants are sometimes used for more specialized purposes. One example is [[number needed to vaccinate]].<ref name="pmid15149776">{{cite journal |author=Kelly H, Attia J, Andrews R, Heller RF |title=The number needed to vaccinate (NNV) and population extensions of the NNV: comparison of influenza and pneumococcal vaccine programmes for people aged 65 years and over |journal=Vaccine |volume=22 |issue=17-18 |pages=2192–8 |year=2004 |month=June |pmid=15149776 |doi=10.1016/j.vaccine.2003.11.052 |url=http://linkinghub.elsevier.com/retrieve/pii/S0264410X03008570}}</ref><ref name="pmid19009921">{{cite journal |author=Brisson M |title=Estimating the number needed to vaccinate to prevent herpes zoster-related disease, health care resource use and mortality |journal=Can J Public Health |volume=99 |issue=5 |pages=383–6 |year=2008 |pmid=19009921 |doi= |url=}}</ref><ref name="pmid17766517">{{cite journal |author=Lewis EN, Griffin MR, Szilagyi PG, Zhu Y, Edwards KM, Poehling KA |title=Childhood influenza: number needed to vaccinate to prevent 1 hospitalization or outpatient visit |journal=Pediatrics |volume=120 |issue=3 |pages=467–72 |year=2007 |month=September |pmid=17766517 |doi=10.1542/peds.2007-0167 |url=http://pediatrics.aappublications.org/cgi/pmidlookup?view=long&pmid=17766517}}</ref>
+
+NNT values are time-specific. For example, if a study ran for 5 years and it was found that the NNT was 100 during this 5 year period, in one year the NNT would have to be multiplied by 5 to correctly assume the right NNT for only the one year period (in the example the one year NNT would be 500).<ref>{{cite journal|author=Palle Mark Christensen |title=Number-Needed-to-Treat (NNT) – Needs Treatment with Care |journal=Basic & Clinical Pharmacology & Toxicology |volume=99 |issue=1 |pages=12–16 |year=2006 |pmid=16867164 |doi=10.1111/j.1742-7843.2006.pto_412.x |url=http://www3.interscience.wiley.com/journal/118592787/abstract?CRETRY=1&SRETRY=0|last2=Kristiansen|first2=IS}}</ref>
+
+==Derivation==
+In general, NNT is computed with respect to two treatments ''A'' and ''B'', with ''A'' typically the intervention and ''B'' the control (e.g., ''A'' might be a 5-year treatment with a drug, while ''B'' is no treatment). A defined endpoint has to be specified (e.g., the appearance of colon cancer in a five-year period). If the [[probability|probabilities]] ''p<sub>A</sub>'' and ''p<sub>B</sub>'' of this endpoint under treatments ''A'' and ''B'', respectively, are known, then the NNT is computed as 1/(''p<sub>B</sub>'' – ''p<sub>A</sub>''). NNT is a number between 1 and ∞; effective interventions have a low NNT. A negative number would not be presented as a NNT, rather, as the intervention is harmful, it is expressed as a [[number needed to harm]] (NNH).  The units of the aforementioned probabilities are expressed as number of events per subject (see worked out example below); therefore, the inverse NNH will be number of subjects (required) per event.
+
+==Relevance==
+The NNT is an important measure in [[pharmacoeconomics]]. If a clinical endpoint is devastating enough (''e.g.'' [[death]], [[myocardial infarction|heart attack]]), drugs with a high NNT may still be indicated in particular situations. If the endpoint is minor, [[health insurance|health insurers]] may decline to reimburse drugs with a high NNT.  Even though NNT is an important measure in a clinical trial, it is infrequently included in medical journal articles reporting the results of clinical trials.<ref name="infreq">{{cite journal|last=Nuovo|first=J.|coauthors=Melnikow J., Chang D.|date=2002-06-05|title=Reporting number needed to treat and absolute risk reduction in randomized controlled trials.|journal=JAMA|volume=287|issue=21|pages=2813–4|url=http://jama.ama-assn.org/cgi/content/full/287/21/2813|pmid=12038920|doi=10.1001/jama.287.21.2813}}</ref> There are several important problems with the NNT, involving bias and lack of reliable confidence intervals, as well as difficulties in excluding the possibility of no difference between two treatments or groups.<ref>{{cite journal |author=Hutton JL |title= Misleading Statistics: The Problems Surrounding Number Needed to Treat and Number Needed to Harm |url=http://adisonline.com/pharmaceuticalmedicine/Fulltext/2010/24030/Misleading_Statistics__The_Problems_Surrounding.3.aspx| journal=Pharm Med |volume=24 |issue=3 |pages=145–9 |year=2010 |doi=10.2165/11536680-000000000-00000}}</ref>
+
+==Example: statins for primary prevention==
+For example, the ASCOT-LLA manufacturer-sponsored study addressed the benefit of [[atorvastatin]] 10&nbsp;mg (a [[cholesterol]]-lowering drug) in patients with [[hypertension]] (high blood pressure) but no previous cardiovascular disease ([[primary prevention]]). The trial ran for 3.3 years, and during this period the [[relative risk]] of a "primary event" (heart attack) was reduced by 36% (relative risk reduction, RRR). The ''absolute'' risk reduction (ARR), however, was much smaller, because the study group did not have a very high rate of cardiovascular events over the study period: 2.67% in the control group, compared to 1.65% in the treatment group.<ref name="pmid12686036">{{cite journal |author=Sever PS, Dahlöf B, Poulter NR, ''et al.'' |title=Prevention of coronary and stroke events with atorvastatin in hypertensive patients who have average or lower-than-average cholesterol concentrations, in the Anglo-Scandinavian Cardiac Outcomes Trial&mdash;Lipid Lowering Arm (ASCOT-LLA): a multicentre randomised controlled trial |journal=Lancet |volume=361 |issue=9364 |pages=1149–58 |year=2003 |pmid=12686036 |doi=10.1016/S0140-6736(03)12948-0}}</ref> Taking atorvastatin for 3.3 years, therefore, would lead to an ARR of only 1.02% (2.67% minus 1.65%). The number needed to treat to prevent one cardiovascular event would then be 99.7 for 3.3 years.<ref>{{cite web |url=http://www.medicine.ox.ac.uk/bandolier/booth/cardiac/statascot.html |title=Bandolier &mdash; Statin effectiveness: ASCOT update |accessdate=2008-03-31}}</ref><ref>{{cite news |author=John Carey |title=Do Cholesterol Drugs Do Any Good? |url=http://www.businessweek.com/magazine/content/08_04/b4068052092994.htm|publisher=[[Business Week]] |accessdate=2008-03-31 }}</ref>
+
+==Worked example==
+{{ARR RRR worksheet}}
+
+The relative risk is 0.25 in the example above.  It is always 1-relative risk reduction, or vice versa. (The signs of the numbers needed to treat and the numbers needed to hurt are reversed: NNT is 3.33 and NNH is -10.)
+
+==Simple examples==
+
+There are a number of factors that can affect the NNT.  Let's say we have a disease, and a pill to treat the disease, that should work over the course of a week.  
+* P<sub>A</sub> is the probability of still having the disease after taking the pill (i.e. complement of the probability of being cured after taking the pill).  The experimental group.
+* P<sub>B</sub> is the probability of still having the disease even though you didn't take the pill (i.e. complement of the probability of the disease going away by itself).  This is the control group, who probably got a placebo pill instead of the real pill.
+
+{| class="wikitable" 
+|-
+!width=140|  description !!width=40| P<sub>A</sub> !!width=40|  P<sub>B</sub>  !!width=40|  NNT  !! interpretation
+|-
+| Perfect Drug ||align=center| 0.0 ||align=center| 1.0 ||align=center| 1.0 || Everybody is cured with the pill; nobody without
+|-
+| Very Good Drug ||align=center| 0.1 ||align=center| 0.9 ||align=center| 1.25 || Ten take the pill; 8 cured by the pill, 1 cured by itself, 1 still sick.
+|-
+| Satisfactory Drug ||align=center| 0.3 ||align=center| 0.7 ||align=center| 2.5 || Ten take the pill; 4 cured by the pill, 3 cured by itself, 3 still sick.
+|-
+| High Placebo Effect ||align=center| 0.4 ||align=center| 0.5 ||align=center| 10 || Ten take the pill; 6 cured but 5 of those would be cured anyway.
+|-
+| Low Cure Rate ||align=center| 0.8 ||align=center| 0.9 ||align=center| 10 ||  Ten take the pill, one is cured by the pill, one cured by itself, 8 still have the disease.
+|-
+| Goes Away by Itself ||align=center| 0.1 ||align=center| 0.2 ||align=center| 10 || Ten take the pill and 9 are cured; but 8 would have been cured anyway.
+|-
+| Sabotages Cure ||align=center| 0.9 ||align=center| 0.8 ||align=center| -10 || Ten take the pill, two would have been cured without it,  but with the pill, only one is cured, so really NNH=10.
+|}
+
+==See also==
+* [[Number needed to harm]] &mdash; the converse for [[adverse effect (medicine)|side-effect]]s
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.ebem.org/nntcalculator.html EBEM's Calculator for NNT]
+*[http://www.graphpad.com/quickcalcs/NNT1.cfm Online Calculator for NNT (GraphPad Software)]
+*[http://www.cebm.net/index.aspx?o=1044 Centre for Evidence Based Medicine: EBM Tools: Critical Appraisal: NNT]
+*[http://www.medicine.ox.ac.uk/bandolier/band50/b50-8.html Table of NNTs for various treatments]
+
+[[Category:Pharmacology]]
+[[Category:Epidemiology]]
+[[Category:Medical statistics]]

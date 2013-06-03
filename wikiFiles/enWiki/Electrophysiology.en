@@ -1,0 +1,147 @@
+{{Missing information non-contentious|various aspects of its subject (including clinical electrophysiology)|date=April 2009}}
+'''Electrophysiology''' (from [[Ancient Greek|Greek]] {{lang|grc|ἥλεκτρον}}, ''ēlektron'', "amber" [see the [[Electron#Etymology|etymology of "electron"]]]; {{lang|grc|φύσις}}, ''physis'', "nature, origin"; and {{lang|grc|-λογία}}, ''[[-logy|-logia]]'') is the study of the electrical properties of biological [[cell (biology)|cell]]s and tissues.  It involves measurements of [[voltage]] change or [[electric current]] on a wide variety of scales from single [[ion channel]] [[protein]]s to whole organs like the [[heart]].  In [[neuroscience]], it includes measurements of the electrical activity of [[neurons]], and particularly [[action potential]] activity. Recordings of large-scale electric signals from the nervous system such as [[electroencephalography]], may also be referred to as electrophysiological recordings.<ref>{{cite journal |doi=10.1038/nature08540 |title=Electrophysiology in the age of light |year=2009 |last1=Scanziani |first1=Massimo |last2=Häusser |first2=Michael |journal=Nature |volume=461 |issue=7266 |pages=930–9 |pmid=19829373}}</ref>
+
+[[Image:Current Clamp recording of Neuron.GIF|thumb|390px|right|"Current Clamp" is a common technique in electrophysiology. This is a whole-cell current clamp recording of a neuron firing due to it being depolarized by current injection]]
+
+==Definition and scope==
+
+===Classical electrophysiological techniques===
+Electrophysiology is the science and branch of physiology that pertains to the flow of ions in biological tissues and, in particular, to the electrical recording techniques that enable the measurement of this flow. Classical electrophysiology techniques involve placing electrodes into various preparations of biological tissue.  The principal types of electrodes are: 
+# simple solid conductors, such as discs and needles (singles or arrays, often insulated except for the tip), 
+# tracings on printed circuit boards, also insulated except for the tip, and 
+# hollow tubes filled with an electrolyte, such as glass pipettes filled with [[potassium chloride]] solution or another electrolyte solution. 
+
+The principal preparations include: 
+# living organisms, 
+# excised tissue (acute or cultured), 
+# dissociated cells from excised tissue (acute or cultured), 
+# artificially grown cells or tissues, or 
+# hybrids of the above.
+
+If an electrode is small enough (micrometers) in diameter, then the [[electrophysiologist]] may choose to insert the tip into a single cell.  Such a configuration allows direct observation and recording of the [[intracellular]] electrical activity of a single cell. However, at the same time such invasive setup reduces the life of the cell and causes a leak of substances across the cell membrane.  Intracellular activity may also be observed using a specially formed (hollow) glass pipette containing an electrolyte.  In this technique, the microscopic pipette tip is pressed against the cell membrane, to which it tightly adheres by an interaction between glass and lipids of the cell membrane.  The electrolyte within the pipette may be brought into fluid continuity with the cytoplasm by delivering a pulse of pressure to the electrolyte in order to rupture the small patch of membrane encircled by the pipette rim ([[Patch_clamp#Whole-cell_recording_or_whole-cell_patch|whole-cell recording]]). Alternatively, ionic continuity may be established by "perforating" the patch by allowing exogenous pore-forming agent within the electrolyte to insert themselves into the membrane patch ([[Patch_clamp#Perforated_patch|perforated patch recording]]).  Finally, the patch may be left intact ([[Patch clamp|patch recording]]).
+
+The electrophysiologist may choose not to insert the tip into a single cell. Instead, the electrode tip may be left in continuity with the extracellular space. If the tip is small enough, such a configuration may allow indirect observation and recording of [[action potential]]s from a single cell, and is termed [[single-unit recording]]. Depending on the preparation and precise placement, an extracellular configuration may pick up the activity of several nearby cells simultaneously, and this is termed [[Multielectrode array|multi-unit recording]].
+
+As electrode size increases, the resolving power decreases.  Larger electrodes are sensitive only to the net activity of many cells, termed [[local field potentials]].  Still larger electrodes, such as uninsulated needles and surface electrodes used by clinical and surgical neurophysiologists, are sensitive only to certain types of synchronous activity within populations of cells numbering in the millions.
+
+Other classical electrophysiological techniques include [[Patch clamp|single channel recording]] and [[amperometry]].
+
+===Optical electrophysiological techniques===
+
+Optical electrophysiological techniques were created by scientists and engineers to overcome one of the main limitations of classical techniques. Classical techniques allow observation of electrical activity at approximately a single point within a volume of tissue.  Essentially, classical techniques singularize a distributed phenomenon.  Interest in the spatial distribution of bioelectric activity prompted development of molecules capable of emitting light in response to their electrical or chemical environment.  Examples are [[voltage sensitive dye]]s and fluorescing proteins.
+After introducing one or more such compounds into tissue via perfusion, injection or gene expression, the 1 or 2-dimensional distribution of electrical activity may be observed and recorded. {{Expand section|date=July 2007}}
+
+Many particular electrophysiological readings have specific names:
+* [[Electrocardiography]] - for the [[Human heart|heart]]
+* [[Electroencephalography]] - for the [[Human brain|brain]]
+* [[Electrocorticography]] - from the [[cerebral cortex]]
+* [[Electromyography]] - for the [[muscle]]s
+* [[Electrooculography]] - for the [[Human eye|eye]]s
+* [[Electroretinography]] - for the [[retina]]
+* [[Electroantennography]] - for the [[olfactory receptors]] in arthropods
+* [[Audiology]] - for the [[auditory system]]
+
+==Intracellular recording==
+'''Intracellular recording''' involves measuring voltage and/or current across the membrane of a cell.  To make an intracellular recording, the tip of a fine (sharp) microelectrode must be inserted inside the cell, so that the [[membrane potential]] can be measured.  Typically, the resting membrane potential of a healthy cell will be -60 to -80 mV, and during an action potential the membrane potential might reach +40 mV.
+In 1963, [[Alan Lloyd Hodgkin]] and [[Andrew Fielding Huxley]] won the Nobel Prize in Physiology or Medicine for their contribution to understanding the mechanisms underlying the generation of action potentials in neurons. Their experiments involved intracellular recordings from the [[squid giant axon|giant axon]] of Atlantic squid (Loligo pealei), and were among the first applications of the "voltage clamp" technique.
+Today, most microelectrodes used for intracellular recording are glass micropipettes, with a tip diameter of < 1 micrometre, and a resistance of several megaohms. The micropipettes are filled with a solution that has a similar ionic composition to the intracellular fluid of the cell. A chlorided silver wire inserted in to the pipet connects the electrolyte electrically to the amplifier and signal processing circuit. The voltage measured by the electrode is compared to the voltage of a reference electrode, usually a silver chloride-coated silver wire in contact with the extracellular fluid around the cell. In general, the smaller the electrode tip, the higher its [[electrical resistance]], so an electrode is a compromise between size (small enough to penetrate a single cell with minimum damage to the cell) and resistance (low enough so that small neuronal signals can be discerned from thermal noise in the electrode tip).
+
+===Voltage clamp===
+{{Main|Voltage clamp}}
+[[Image:voltage clamp.jpg|thumb|277px|right|The voltage clamp uses a negative feedback mechanism. The membrane potential amplifier measures membrane voltage and sends output to the feedback amplifier. The feedback amplifier subtracts the membrane voltage from the command voltage, which it receives from the signal generator. This signal is amplified and returned into the cell via the recording electrode.]]
+The voltage clamp technique allows an experimenter to "clamp" the [[cell potential]] at a chosen value. This makes it possible to measure how much ''ionic current'' crosses a cell's membrane at any given voltage.  This is important because many of the [[ion channel]]s in the membrane of a neuron are [[voltage-gated ion channel]]s, which open only when the membrane voltage is within a certain range. Voltage clamp measurements of current are made possible by the near-simultaneous digital subtraction of transient capacitive currents that pass as the recording electrode and cell membrane are charged to alter the cell's potential.
+
+=== Current clamp ===
+{{Distinguish2|[[Current clamp]] in electronics}}
+ 
+The current clamp technique records the [[membrane potential]] by injecting current into a cell through the recording electrode.  Unlike in the voltage clamp mode, where the membrane potential is held at a level determined by the experimenter, in "current clamp" mode the membrane potential is free to vary, and the amplifier records whatever voltage the cell generates on its own or as a result of stimulation.  This technique is used to study how a cell responds when electric current enters a cell; this is important for instance for understanding how neurons respond to [[neurotransmitter]]s that act by opening membrane [[ion channels]].
+
+Most current-clamp amplifiers provide little or no amplification of the voltage changes recorded from the cell.  The "amplifier" is actually an [[electrometer]], sometimes referred to as a "unity gain amplifier"; its main job is to change the nature of small signals (in the mV range) produced by cells so that they can be accurately recorded by low-[[Electrical impedance|impedance]] electronics.  The amplifier increases the current behind the signal while decreasing the resistance over which that current passes.  Consider this example based on Ohm's law: A voltage of 10 mV is generated by passing 10 [[nanoampere]]s of current across 1 [[Ohm (unit)|MΩ]] of resistance.  The electrometer changes this "high impedance signal" to a "low impedance signal" by using a [[voltage follower]] circuit.  A voltage follower reads the voltage on the input (caused by a small current through a big [[resistor]]).  It then instructs a parallel circuit that has a large current source behind it (the electrical mains) and adjusts the resistance of that parallel circuit to give the same output voltage, but across a lower resistance.
+
+===The patch-clamp technique===
+[[Image:Patch clamp.svg|thumb|right|The cell-attached [[patch clamp]] uses a micropipette attached to the cell membrane to allow recording from a single ion channel.]]
+{{Main|Patch clamp}}
+This technique was developed by [[Erwin Neher]] and [[Bert Sakmann]] who received the Nobel Prize in 1991.<ref>[http://nobelprize.org/nobel_prizes/medicine/laureates/1991/ Nobel prize Medicine 1991]</ref> Conventional intracellular recording involves impaling a cell with a fine electrode; patch-clamp recording takes a different approach. A patch-clamp microelectrode is a micropipette with a relatively large tip diameter. The microelectrode is placed next to a cell, and gentle suction is applied through the microelectrode to draw a piece of the cell membrane (the 'patch') into the microelectrode tip; the glass tip forms a high resistance 'seal' with the cell membrane. This configuration is the "cell-attached" mode, and it can be used for studying the activity of the ion channels that are present in the patch of membrane.
+If more suction is now applied, the small patch of membrane in the electrode tip can be displaced, leaving the electrode sealed to the rest of the cell. This "whole-cell" mode allows very stable intracellular recording. A disadvantage (compared to conventional intracellular recording with sharp electrodes) is that the intracellular fluid of the cell mixes with the solution inside the recording electrode, and so some important components of the intracellular fluid can be diluted. A variant of this technique, the "perforated patch" technique, tries to minimise these problems.
+Instead of applying suction to displace the membrane patch from the electrode tip, it is also possible to make small holes on the patch with pore-forming agents so that large molecules such as proteins can stay inside the cell and ions can pass through the holes freely. Also the patch of membrane can be pulled away from the rest of the cell. This approach enables the membrane properties of the patch to be analysed pharmacologically.
+
+===Sharp electrode technique===
+In situations where one wants to record the potential inside the cell membrane with minimal effect on the ionic constitution of the intracellular fluid a sharp electrode can be used. These micropipettes (electrodes) are again like those for patch clamp pulled from glass capillaries, but the pore is much smaller so that there is very little ion exchange between the intracellular fluid and the electrolyte in the pipette. The resistance of the micropipette electrode is tens or hundreds of [[Ohm (unit)|MΩ]]. Often the tip of the electrode is filled with various kinds of dyes like [[Lucifer yellow]] to fill the cells recorded from, for later confirmation of their morphology under a microscope. The dyes are injected by applying a positive or negative, DC or pulsed voltage to the electrodes  depending on the polarity of the dye.
+
+==Extracellular recording==
+
+===Single-unit recording===
+{{Main|single-unit recording}}
+An electrode introduced into the brain of a living animal will detect electrical activity that is generated by the neurons adjacent to the electrode tip. If the electrode is a microelectrode, with a tip size of about 1 micrometre, the electrode will usually detect the activity of at most one neuron. Recording in this way is in general called "single-unit" recording. The action potentials recorded are very much like the action potentials that are recorded intracellularly, but the signals are very much smaller (typically about 1 mV). Most recordings of the activity of single neurons in anesthetized and conscious animals are made in this way. Recordings of single neurons in living animals have provided important insights into how the brain processes information. For example, [[David Hubel]] and [[Torsten Wiesel]] recorded the activity of single neurons in the primary [[visual cortex]] of the anesthetized cat, and showed how single neurons in this area respond to very specific features of a visual stimulus.<ref>{{cite journal |pmid=14449617 |url=http://www.jphysiol.org/cgi/pmidlookup?view=long&pmid=14449617 |title=Receptive fields, binocular interaction and functional architecture in the cat's visual cortex |date=1962-01-01 |author1=D. H. Hubel |journal=The Journal of Physiology |volume=160 |issue=1 |pages=106–54 |last2=Wiesel |first2=TN |pmc=1359523}}</ref> Hubel and Wiesel were awarded the Nobel Prize in Physiology or Medicine in 1981.<ref>[http://nobelprize.org/nobel_prizes/medicine/laureates/1981/ Nobel prize Medicine 1981]</ref>
+
+If the electrode tip is slightly larger, then the electrode might record the activity generated by several neurons. This type of recording is often called "multi-unit recording", and is often used in conscious animals to record changes in the activity in a discrete brain area during normal activity. Recordings from one or more such electrodes that are closely spaced can be used to identify the number of cells around it as well as which of the spikes come from which cell. This process is called [[spike sorting]] and is suitable in areas where there are identified types of cells with well defined spike characteristics.
+If the electrode tip is bigger still, in general the activity of individual neurons cannot be distinguished but the electrode will still be able to record a field potential generated by the activity of many cells.
+
+===Field potentials===
+[[Image:Field potential schematic.jpg|thumb|400px|A schematic diagram showing a field potential recording from rat hippocampus. At the left is a schematic diagram of a [[presynaptic terminal]] and postsynaptic neuron.  This is meant to represent a large population of synapses and neurons.  When the synapse releases glutamate onto the postsynaptic cell, it opens ionotropic glutamate receptor channels.  The net flow of current is inward, so a current sink is generated.  A nearby electrode (#2) detects this as a negativity.  An ''intracellular'' electrode placed inside the cell body (#1) records the change in membrane potential that the incoming current causes.]]
+[[Extracellular field potential]]s are local current sinks or sources that are generated by the collective activity of many cells.  Usually, a field potential is generated by the [[neural synchronization|simultaneous activation]] of many neurons by [[synaptic transmission]].  The diagram to the right shows hippocampal synaptic field potentials.  At the right, the lower trace shows a negative wave that corresponds to a current sink caused by positive charges entering cells through postsynaptic [[glutamate receptor]]s, while the upper trace shows a positive wave that is generated by the current that leaves the cell (at the cell body) to complete the circuit.  For more information, see [[local field potential]].
+
+===Amperometry===
+[[Amperometry]] uses a carbon electrode to record changes in the chemical composition of the oxidized components of a biological solution. Oxidation and reduction is accomplished by changing the voltage at the active surface of the recording electrode in a process known as "scanning". Because certain brain chemicals lose or gain electrons at characteristic voltages, individual species can be identified. Amperometry has been used for studying exocytosis in the nervous and endocrine systems. Many monoamine [[neurotransmitters]]; e.g., [[norepinephrine]] (noradrenalin), [[dopamine]], and [[serotonin]] (5-HT) are oxidizable. The method can also be used with cells that do not secrete oxidizable neurotransmitters by "loading" them with 5-HT or dopamine.
+
+==Planar patch clamp==<!-- This section is linked from [[Ion channel]] -->
+Planar patch clamp is a novel method developed for high throughput electrophysiology.<ref>http://www.nanion.de/pdf/PlanarPatchClamping.pdf</ref> Instead of positioning a pipette on an adherent cell, cell suspension is pipetted on a [[Biochip|chip]] containing a microstructured aperture.
+{{Multiple image|align=left|direction=vertical|width=250|image1=patch pipette model.jpg|caption1=Schematic drawing of the classical patch clamp configuration. The patch pipette is moved to the cell using a micromanipulator under optical control. Relative movements between the pipette and the cell have to be avoided in order to keep the cell-pipette connection intact.|image2=planar patch model.jpg|caption2=In planar patch configuration the cell is positioned by suction – relative movements between cell and aperture can then be excluded after sealing. An Antivibration table is not necessary.}}
+{{Multiple image|align=center|direction=vertical|width=250|image1=patch pipette.jpg|image2=planar patch chip.jpg|caption1=Scanning electron microscope image of a patch pipette|caption2=Scanning electron microscope image of a planar patch clamp chip. Both the pipette and the chip are made from [[borosilicate]] glass.}}
+{{clear}}
+A single cell is then positioned on the hole by suction and a tight connection (Gigaseal) is formed.
+The planar geometry offers a variety of advantages compared to the classical experiment:
+*It allows for integration of [[microfluidics]], which enables automatic compound application for [[ion channel]] screening.
+*The system is accessible for optical or [[Scanning probe microscopy|scanning probe]] techniques.
+*[[Perfusion]] of the [[intracellular]] side can be performed.
+{{clear}}
+
+==Other methods==
+
+===Solid-supported membrane (SSM) based===
+With this electrophysiological approach, proteo[[liposome]]s, membrane [[Vesicle (biology)|vesicle]]s, or membrane fragments containing the channel or transporter of interest are adsorbed to a lipid monolayer painted over a functionalized electrode. This electrode consists of a glass support, a [[chromium]] layer, a [[gold]] layer, and an octadecyl [[mercaptane]] monolayer. Because the painted membrane is supported by the electrode, it is called a solid-supported membrane. It is important to note that mechanical perturbations, which usually destroy a biological lipid membrane, do not influence the life-time of an SSM. The [[capacitance|capacitive]] electrode (composed of the SSM and the absorbed vesicles) is so mechanically stable that solutions may be rapidly exchanged at its surface. This property allows the application of rapid substrate/ligand concentration jumps to investigate the electrogenic activity of the protein of interest, measured via capacitive coupling between the vesicles and the electrode.<ref>{{Cite journal |doi=10.1016/j.ymeth.2008.07.002 |title=SSM-based electrophysiology |year=2008 |last1=Schulz |first1=Patrick |last2=Garcia-Celma |first2=Juan J. |last3=Fendler |first3=Klaus |journal=Methods |volume=46 |issue=2 |pages=97–103 |pmid=18675360}}</ref>
+
+===Bioelectric recognition assay (BERA)===
+{{Unreferenced section|date=May 2011}}
+The bioelectric recognition assay (BERA) is a novel method for determination of various chemical and biological molecules by measuring changes in the membrane potential of cells immobilized in a gel matrix. Apart from the increased stability of the electrode-cell interface, immobilization preserves the viability and physiological functions of the cells. BERA is used primarily in biosensor applications in order to assay analytes that can interact with the [[Immobilized whole cell|immobilized cells]] by changing the cell membrane potential. In this way, when a positive sample is added to the sensor, a characteristic, ‘signature-like’ change in electrical potential occurs. BERA has been used for the detection for human viruses (Hepatitis B and C viruses, herpes viruses) and veterinary disease agents (foot and mouth disease virus, prions, blue tongue virus) and plants (tobacco and cucumber viruses) in a highly specific, rapid (1–2 minutes), reproducible and cost-efficient fashion. The method has also been used for the detection of environmental toxins, such as herbicides and the determination of very low concentrations of superoxide anion in clinical samples.
+
+A recent advance in the evolution of the BERA technology is the development of a technique called molecular identification through membrane engineering (MIME). This technique allows for building cells with absolutely defined specificity for virtually any molecule of interest, by embedding thousand of artificial receptors into the cell membrane.
+
+=== Computational electrophysiology ===
+
+While strictly not constituting an experimental measurement, methods have been developed to examine the conductive properties of proteins and biomembranes ''[[in silico]]''. These are mainly [[molecular dynamics]] simulations in which a model system like a [[lipid bilayer]] is subjected to an externally applied voltage. Studies using these setups have been able to study dynamical phenomena like [[electroporation]] of membranes<ref>{{cite journal |doi=10.1529/biophysj.106.094797 |title=Ion Leakage through Transient Water Pores in Protein-Free Lipid Membranes Driven by Transmembrane Ionic Charge Imbalance |year=2007 |last1=Gurtovenko |first1=Andrey A. |last2=Vattulainen |first2=Ilpo |journal=Biophysical Journal |volume=92 |issue=6 |pages=1878–90 |pmid=17208976 |pmc=1861780}}</ref> and ion translocation by channels.<ref>{{Cite journal |doi=10.1016/j.bpj.2011.06.010 |title=Computational Electrophysiology: The Molecular Dynamics of Ion Channel Permeation and Selectivity in Atomistic Detail |year=2011 |last1=Kutzner |first1=Carsten |last2=Grubmüller |first2=Helmut |last3=De Groot |first3=Bert L. |last4=Zachariae |first4=Ulrich |journal=Biophysical Journal |volume=101 |issue=4 |pages=809–17 |pmid=21843471 |pmc=3175076}}</ref>
+
+The benefit of such methods is the high level of detail of the active conduction mechanism, given by the inherently high resolution and data density that atomistic simulation affords. There are significant drawbacks, given by the uncertainty of the legitimacy of the model and the computational cost of modeling systems that are large enough and over sufficient timescales to be considered reproducing the macroscopic properties of the systems themselves. While atomistic simulations may access timescales close to, or into the microsecond domain, this is still several orders of magnitude lower than even the resolution of experimental methods such as patch-clamping.{{Citation needed|date=April 2013}}
+
+== Reporting guidelines for electrophysiology experiments ==
+{{Technical|section|date=April 2009}}
+[[Minimum Information Standards|Minimum Information (MI) standards]] or reporting guidelines specify the minimum amount of [[meta data]] (information) and data required to meet a specific aim or aims. Usually the aim is to provide enough meta data and data to enable the unambiguous reproduction and interpretation of an experiment. MI guidelines are normally informal human readable specifications that inform the development of formal data models (e.g. [[XML]] or [[Unified Modeling Language|UML]]), data exchange formats (e.g. [http://fuge.sourceforge.net/ FuGE], MAGE-ML, MAGE-TAB) or knowledge models such as an [[ontology]] (e.g. [[Ontology for Biomedical Investigations|OBI]], MGED-Ontology).
+
+The Minimum Information about a Neuroscience investigation (MINI) family of reporting guideline documents, produced by community consultation and continually available for public comment aims to provide a consistent set of guidelines in order to report an electrophysiology experiment. A MINI module represents the minimum information that should be reported about a dataset to facilitate computational access and analysis to allow a reader to interpret and critically evaluate the processes performed and the conclusions reached, and to support their experimental corroboration. In practice a MINI module comprises a checklist of information that should be provided (for example about the protocols employed) whena data set is described for publication. The full specification of the MINI module can be found here.<ref>{{cite web |id={{hdl|10101/npre.2009.1720.2}} |first1=Frank |last1=Gibson |first2=Paul G. |last2=Overton |first3=Tom V. |last3=Smulders |first4=Simon R. |last4=Schultz |first5=Stephen J. |last5=Eglen |first6=Colin D. |last6=Ingram |first7=Stefano |last7=Panzeri |first8=Phil |last8=Bream |first9=Evelyne |last9=Sernagor |title=Minimum Information about a Neuroscience Investigation (MINI) Electrophysiology |work=Nature Precedings}}</ref>
+
+==See also==
+{{Portal|Neuroscience}}
+*[[Cardiac electrophysiology]]
+*[[Clinical cardiac electrophysiology]]
+*[[Clinical electrophysiology]]
+*[[Nathaniel A. Buchwald]] (1924–2006)
+*[[Duchenne de Boulogne]] (1806–1875)
+*[[Transcutaneous electrical nerve stimulation]]
+*[[Electrophysiology study]]
+*[[Multiscale Electrophysiology Format]]
+*[[Slice preparation]]
+
+==References ==
+{{Reflist}}
+
+==External links==
+*[http://www.nanion.de/pdf/PlanarPatchClamping.pdf Book chapter on Planar Patch Clamp]
+*[http://info.med.yale.edu/cmphysiol/sigworth/patchcl.html Device description]
+*[http://www.eplabdigest.com/eplab/ EP Lab Digest - Trade Publication for EP Professionals]
+*[http://www.escardio.org/communities/EHRA/Pages/welcome.aspx European Heart Rhythm Association (EHRA)]
+{{Use dmy dates|date=January 2011}}
+
+[[Category:Electrophysiology| ]]
+[[Category:Ion channels]]
+[[Category:Neuroimaging]]
+[[Category:Neurophysiology]]

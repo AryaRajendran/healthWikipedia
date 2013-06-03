@@ -1,0 +1,36 @@
+'''Fraction of inspired oxygen''' ('''''Fi''O<sub>2</sub>''') is the fraction or percentage of oxygen in the space being measured. Medical patients experiencing difficulty breathing are provided with oxygen-enriched air, which means a higher-than-atmospheric ''Fi''O<sub>2</sub>. Natural air includes 20.9% oxygen, which is equivalent to ''Fi''O<sub>2</sub> of 0.21. Oxygen-enriched air has a higher ''Fi''O<sub>2</sub> than 0.21, up to 1.00, which means 100% oxygen.<ref>http://in.answers.yahoo.com/question/index?qid=20070307165629AAxDALx</ref> ''Fi''O<sub>2</sub> is typically maintained below 0.5 even with mechanical ventilation, to avoid [[oxygen toxicity]].<ref>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2688103/</ref>
+
+Often used in [[medicine]] the ''Fi''O<sub>2</sub> is used to represent the percentage of oxygen participating in gas-exchange.  If the barometric pressure changes, the ''Fi''O<sub>2</sub> may remain constant while the [[partial pressure]] of oxygen changes with the change in barometric pressure.
+
+== Equations ==
+;Abbreviated alveolar air equation
+::<math>P_A O_2 = \frac{P_E O_2 - P_i O_2 \frac{V_D}{V_t}}{1- \frac{V_D}{V_t}}</math> 
+P<sub>A</sub>O<sub>2</sub>, P<sub>E</sub>O<sub>2</sub>, and P<sub>i</sub>O<sub>2</sub> are the partial pressures of oxygen in alveolar, expired, and inspired gas, respectively, and VD/VT is the ratio of physiologic dead space over tidal volume.
+
+== Medicine ==
+In medicine the ''Fi''O<sub>2</sub> is the assumed percentage of oxygen concentration participating in [[gas exchange]] in the [[alveoli]].<ref name="pmid19050631">{{cite journal| author=Allardet-Servent J, Forel JM, Roch A, Guervilly C, Chiche L, Castanier M et al.| title=FIO2 and acute respiratory distress syndrome definition during lung protective ventilation. | journal=Crit Care Med | year= 2009 | volume= 37 | issue= 1 | pages= 202–7, e4-6 | pmid=19050631 | doi=10.1097/CCM.0b013e31819261db | pmc= | url= }}</ref>
+
+== Uses ==
+The ratio between [[partial pressure]] of [[oxygen]] in [[arterial blood]] ([[PaO2]]) and ''Fi''O<sub>2</sub> is used as an indicator of [[hypoxemia]] per the American-European Consensus Conference on [[lung injury]].  A high ''Fi''O<sub>2</sub> has been shown to alter the ratio of PaO2/''Fi''O<sub>2</sub>.<ref name="pmid19050631"/>
+
+== PaO2/FiO2 ratio ==
+The ratio of partial pressure arterial oxygen and fraction of inspired oxygen, sometimes called the ''Carrico index'', is a comparison between the oxygen level in the blood and the oxygen concentration that is breathed.  This helps to determine the degree of any problems with how the lungs transfer oxygen to the blood.<ref name="pmid15818095">{{cite journal| author=Toy P, Popovsky MA, Abraham E, Ambruso DR, Holness LG, Kopko PM et al.| title=Transfusion-related acute lung injury: definition and review. | journal=Crit Care Med | year= 2005 | volume= 33 | issue= 4 | pages= 721–6 | pmid=15818095 | doi= | pmc= | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=15818095  }}</ref> A sample of arterial blood is collected for this test.<ref>Tietz NW (Ed): Clinical Guide to Laboratory Tests, 3rd ed. W. B. Saunders, Philadelphia, PA, 1995.</ref> A PaO2/FiO2 ratio less than or equal to 200 mmHg is necessary for the diagnosis of Acute Respiratory Distress Syndrome.<ref>Mason, R. Murray and Nadel's Textbook of Respiratory Medicine, 5th ed. Philadelphia, PA 2010</ref> 
+
+A PaO2/FiO2 ratio less than or equal to 250 mmHg is one of the minor criteria for severe [[community acquired pneumonia]] (i.e., possible indication for inpatient treatment).
+
+A PaO2/FiO2 ratio less than or equal to 333 mmHg is one of the variables in the [[SMART-COP]] risk score for intensive respiratory or vasopressor support in community-acquired pneumonia.
+
+== Related mathematics ==
+
+=== Alveolar air equation ===
+The [[alveolar air equation]] is the following formula, used to calculate the partial pressure of alveolar gas:
+:<math> P_A O_2 =  F_I O_2(PB-P H_2 0) - P_A CO_2 (F_I O_2 + \frac{1-FIO2}{R})</math>
+
+== See also ==
+* [[Oxygen toxicity]]
+
+==References==
+{{reflist|30em}}
+
+[[Category:Pulmonology]]
+[[Category:Mechanical ventilation]]

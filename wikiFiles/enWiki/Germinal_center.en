@@ -1,0 +1,67 @@
+{{About|lymph primary follicles|ovarian primary follicles|Folliculogenesis}}
+{{Infobox Anatomy |
+  Name         = {{PAGENAME}} |
+  Latin        = |
+  GraySubject  = 175 |
+  GrayPage     = 689 |
+  Image        = germinal center.svg |
+  Caption      = Germinal center of a lymph node showing proliferation and development stages of a B cell . |
+  Image2       = |
+  Caption2     = |
+  Precursor    = |
+  System       = |
+  Artery       = |
+  Vein         = |
+  Nerve        = |
+  Lymph        = |
+  MeshName     = |
+  MeshNumber   = |
+  DorlandsPre  = c_20 |
+  DorlandsSuf  = 12226657  |
+}}
+'''Germinal centers''' (or '''germinal centres'''; '''GC''') are sites within [[secondary lymphoid organs]] where mature [[B lymphocytes]] proliferate, differentiate, mutate their antibodies (through [[somatic hypermutation]]), and [[immunoglobulin class switching|switch the class of their antibodies]] (for example from IgG to IgM) during a normal immune response to an infection. 
+
+During this process of rapid division and selection, B cells are known as centroblasts, and once they have stopped proliferating they are known as [[centrocyte]]s. Germinal centers are an important part of the B-cell [[humoral immunity|humoral immune response]]. They develop dynamically after the activation of [[B-cell]]s by T-dependent [[antigen]].
+[[Histology|Histologically]], the GCs describe microscopically distinguishable parts in [[lymphoid]] tissues.
+
+==Process==
+1. Activated B-cells migrate from the primary focus of infection into the primary [[lymph follicle|follicles]] and begin [[monoclonal]] expansion in the environment of [[follicular dendritic cell]]s (FDC).  During this time they are referred to as centroblasts.
+
+2. After several days of expansion the B cells undergo [[somatic hypermutation]], a process by which they mutate their
+[[antibody]]-[[code|encoding]] [[DNA]] and thus generate a diversity of [[Clone (genetics)|clone]]s in the
+germinal center. This involves pseudo-random substitutions biased towards regions encoding the antigen recognition surface of the antibodies the B cells produce.  During this time they also undergo isotype switching, or class switching.
+
+3. Upon some unidentified stimulus from the FDC, the maturing B cells (centroblasts) migrate from the dark zone to the light zone and start to express their antibody on the cell surface and in this stage are referred to as [[centrocyte]]s. The centrocytes are in a state of [[activation|activated]] [[apoptosis]] and compete for survival signals from FDCs that present the antigen, meaning the cells will die unless "rescued" by these survival signals. This rescue process is believed to be dependent on the [[affinity (pharmacology)|affinity]] of the antibody to the antigen. That is, if a B cell has mutated to have an antibody with more affinity to an antigen, it will be more likely to survive. In this way the immune system can better recognize antigens.
+
+4. The functional B-cells then have to interact with [[T helper cell|helper T cells]] to get final differentiation signals. This also involves [[isotype switching]], for example from the antibody type [[IgM]] to another antibody type such as [[IgG]].
+The interaction with T cells is believed to prevent the generation of autoreactive antibodies.<ref>{{cite journal | author=Thorbecke GJ, Amin AR, Tsiagbe VK| title=Biology of germinal centres in lymphoid tissue| journal=FASEB | volume=8 | year=1994 | pages=832–840 | pmid=8070632 | issue=11}}</ref>
+
+5. The B cells become either a [[plasma cell]] which are cells which secrete large quantities of antibody or a [[memory B cell]] that can be reactivated in subsequent contacts with the same antigen. B cells may also restart the whole process of [[cell growth|proliferation]], [[mutation]] and [[selection]] according to the recycling hypothesis.
+
+The above process involves [[TNF-alpha]].
+
+==Morphology at different stages==
+The [[morphology (biology)|morphology]] of GCs is very specific and shows properties which are characteristic for different stages of the reaction.
+* In an early state of the reaction a network of FDCs is fully filled with proliferating B cells.
+* Later at day 4 of the reaction GCs show a separation of two zones, the dark and the light zone.<ref>{{cite journal | author=Meyer-Hermann ME|title=A Mathematical Model for the Germinal Centre Morphology and Affinity Maturation |journal=J. Theor. Biol. |volume=216|year=2002|pages=273–300 | pmid=12183119|doi=10.1006/jtbi.2002.2550 | issue=3}}</ref> The former still contains dominantly proliferating cells while the latter one is the area of B cells selection.
+* These zones dissolve after 10 days of GC development which ends after about 3 weeks.
+
+==Medical relevance==
+As germinal centers are important structures of the [[adaptive immune system]], their deregulation is implied in many immune diseases, for example [[rheumatoid arthritis]] and many [[lymphomas]].
+
+==See also==
+* [[Lymph node]]
+* [[Lymphatic system]]
+
+==References==
+<references/>
+
+==External links==
+* {{UIUCHistologySubject|563}}
+* {{BUHistology|07103loa}} - "Lymphoid Tissues and Organs: lymph node, germinal centre"
+*[http://www.bio.davidson.edu/courses/immunology/hyperhuman/Lymphnode/medula/node40_0.html  Hyperlinked Human Histology]
+* {{LoyolaMedEd|Histo/practical/lymph/hp12-42.html}}
+
+{{Lymphatic system}}
+
+[[Category:Lymphatic organ anatomy]]

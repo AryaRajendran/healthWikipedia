@@ -1,0 +1,51 @@
+The '''threshold limit value''' ('''TLV''') of a [[chemical substance]] is a level to which it is believed a worker can be exposed day after day for a working lifetime without [[adverse health effect]]s. Strictly speaking, TLV is a reserved term of the [[American Conference of Governmental Industrial Hygienists]] (ACGIH). However, it is sometimes loosely used to refer to other similar concepts used in [[occupational safety and health|occupational health]] and [[toxicology]]. TLVs, along with biological exposure indices (BEIs), are published annually by the ACGIH.
+
+The TLV is an estimate based on the known [[toxicity]] in [[human]]s or [[animal]]s of a given chemical substance, and the reliability and accuracy of the latest sampling and [[analytical method]]s. It is not a static definition since new research can often modify the [[risk assessment]] of substances and new [[laboratory]] or [[instrumental analysis]] methods can improve analytical [[detection limit]]s. The TLV is a recommendation by ACGIH, with only a guideline status. As such, it should not be confused with exposure limits having a regulatory status, like those published and enforced by the [[Occupational Safety and Health Administration]] (OSHA). The OSHA regulatory exposure limits [[permissible exposure limit]]s (PELs) published in 29CFR 1910.1000 Table Z1 are based on recommendations made by the ACGIH in 1968, although other exposure limits were adopted more recently. Many OSHA exposure limits are not considered by the [[industrial hygiene]] community to be sufficiently protective levels. The [[National Institute of Occupational Safety and Health]] (NIOSH) publishes recommended exposure limits (RELs) which OSHA takes into consideration when promulgating new regulatory exposure limits.
+
+== Definitions ==
+The TLV for chemical substances is defined as a concentration in air, typically for inhalation or skin exposure. Its units are in [[parts per million]] (ppm) for [[gas]]es and in milligrams per cubic meter (mg/m³) for [[particulate]]s such as [[dust]], [[smoke]] and [[mist]]. The basic formula for converting between ppm and mg/m³ for gases is ppm = (mg/m^3) * 24.45 / [[molecular weight]]. This formula is not applicable to airborne particles.
+
+Three types of TLVs for chemical substances are defined:
+# Threshold limit value - [[Time weighted average]] (TLV-TWA): average exposure on the basis of a 8h/day, 40h/week work schedule
+# Threshold limit value - [[Short-term exposure limit]] (TLV-STEL): spot exposure for a duration of 15 minutes, that cannot be repeated more than 4 times per day
+# Threshold limit value - [[Ceiling limit]] (TLV-C): absolute exposure limit that should not be exceeded at any time
+
+There are TLVs for physical agents as well as chemical substances. TLVs for physical agents include those for [[noise]] exposure, [[vibration]], [[ionizing radiation|ionizing]] and [[non-ionizing radiation]] exposure and [[heat]] and [[cold]] stress.
+
+== Similar concepts== 
+
+The TLV is equivalent in spirit to various occupational exposure limits developed by organizations around the world; however, the materials covered, values recommended, and definitions used can differ amongst organizations. These occupational exposure limits include:
+
+====United States ====
+
+*WEEL ([[Workplace environmental exposure level|Workplace Environmental Exposure Level]]), formerly created by a committee of the [[American_Industrial_Hygiene_Association|American Industrial Hygiene Association]]; as of January 1, 2012, new WEELs are created by a committee of volunteers that is supported by the [http://www.tera.org/OARS/ Occupational Alliance for Risk Science].<ref name=WEEL Development Finds a New Home>{{cite web | url = http://www.aiha.org/news-pubs/synergist/community/Pages/WEELDevelopmentFindsaNewHome.aspx | title = WEEL Development Finds a New Home | date = February 22, 2012 | accessdate = 2013-04-26 | publisher = [[American_Industrial_Hygiene_Association|American Industrial Hygiene Association]]}}</ref>
+
+====Other countries====
+*Australia
+**OES Occupational exposure standard [http://hsis.ascc.gov.au/]
+*France
+**VME (''[[:fr:Valeur Moyenne d'Exposition|Valeur Moyenne d'Exposition]]'')
+**VLE (''[[:fr:Valeur Limite d'Exposition|Valeur Limite d'Exposition]]'')
+*Germany
+**AGW (''[[:de:Arbeitsplatzgrenzwert|Arbeitsplatzgrenzwert]] trans. Workplace Limit Value'')
+**MAK (''[[:de:Maximale Arbeitsplatz-Konzentration|Maximale Arbeitsplatz-Konzentration]] trans. Maximum Workplace Concentration'')
+*Malaysia
+**PEL (''[[Permissible exposure limit]]'')
+*Netherlands
+**MAC (''[[:nl:MAC-waarde|Maximaal Aanvaarde Concentratie]] trans. Maximum Accepted Concentration'')
+*New Zealand
+**WES (''Workplace Exposure Standards'')
+*Poland
+**NDN (''[[:pl:NDN|Najwyższe Dopuszczalne Natężenie]]'')
+*Russia
+**ПДК (''[[:ru:ПДК|предельно допустимая концентрация]]'')
+
+[[Category:Occupational safety and health]]
+[[Category:Industrial hygiene]]
+
+[[de:Arbeitsplatzgrenzwert]]
+[[nl:MAC-waarde]]
+[[ro:Concentraţie maximă de lucru]]
+
+==References==
+{{Reflist}}

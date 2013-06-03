@@ -1,0 +1,48 @@
+{{About|calculating decompression using nitrox|calculating narcotic effects using trimix|Equivalent narcotic depth}}
+
+The '''equivalent air depth (EAD)''' is a way of approximating the [[Decompression sickness|decompression]] requirements of [[breathing gas]] mixtures that contain [[nitrogen]] and [[oxygen]] in different proportions to those in air, known as [[nitrox]].<ref>{{cite journal |last=Logan |first=JA |title=An evaluation of the equivalent air depth theory |journal=[[United States Navy Experimental Diving Unit]] Technical Report |volume=NEDU-RR-01-61 |date=1961 |url=http://archive.rubicon-foundation.org/3835 |accessdate=2008-05-01 }}</ref><ref>{{cite journal |author=Berghage Thomas E, McCraken TM |title=Equivalent air depth: fact or fiction |journal=Undersea Biomedical Research |volume=6 |issue=4 |pages=379–84 |year=1979 |month=December |pmid=538866 |url=http://archive.rubicon-foundation.org/2835 |accessdate=2008-05-01}}</ref><ref>{{cite book |title=DAN Nitrox Workshop Proceedings |author=Lang, Michael A. |year=2001 |publisher=[[Divers Alert Network]] |location=Durham, NC |url=http://archive.rubicon-foundation.org/4855 |accessdate=2008-05-02 |page=197 }}</ref>
+
+The equivalent air depth, for a given nitrox mix and depth, is the depth of a dive when breathing air that would have the same [[partial pressure]] of nitrogen. So, for example, a gas mix containing 36% oxygen (EAN36) being used at {{convert|27|m|ft}} has an EAD of {{convert|20|m|ft}}.
+
+==Calculations in metres==
+The equivalent air depth can be calculated for depths in metres as follows:
+
+:EAD = (Depth + 10) &times; Fraction of N<sub>2</sub> / 0.79 &minus; 10
+
+Working the earlier example, for a nitrox mix containing 64% nitrogen (EAN36) being used at 27 metres, the EAD is:
+
+:EAD = (27 + 10) &times; 0.64 / 0.79 &minus; 10
+
+:EAD = 37 &times; 0.81 &minus; 10
+
+:EAD = 30 &minus; 10
+
+:EAD = 20 metres
+
+So at 27 metres on this mix, the diver would calculate their decompression requirements as if on air at 20 metres.
+
+==Calculations in feet==
+The equivalent air depth can be calculated for depths in feet as follows:
+
+:EAD = (Depth + 33) &times; Fraction of N<sub>2</sub> / 0.79 &minus; 33
+
+Working the earlier example, for a nitrox mix containing 64% nitrogen (EAN36) being used at 90 feet, the EAD is:
+
+:EAD = (90 + 33) &times; 0.64 / 0.79 &minus; 33
+
+:EAD = 123 &times; 0.81 &minus; 33
+
+:EAD = 100 &minus; 33
+
+:EAD = 67 feet
+
+So at 90 feet on this mix, the diver would calculate their decompression requirements as if on air at 67 feet.
+
+==Dive tables==
+Although not all [[dive tables]] are recommended for use in this way, the [[Bühlmann tables]] are suitable for use with these kind of calculations. At 27 metres the Bühlmann 1986 table (0&ndash;700 m) allows 20 minutes bottom time without requiring a [[decompression stop]]. While at 20 metres the no-stop time is 35 minutes. This shows that using EAN36 for a 27 metre dive can give a 75% increase in bottom time over using air.
+
+==References==
+{{Reflist}}
+
+[[Category:Underwater diving safety]]
+[[Category:Dive planning]]

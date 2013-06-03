@@ -1,0 +1,87 @@
+The '''equivalent absorbed radiation dose''', usually shortened to '''equivalent dose''', or formerly '''dose equivalent''', is a computed average measure of the [[radiation]] absorbed by a fixed mass of biological tissue, that attempts to account for the different biological damage potential of different types of [[ionizing radiation]].  It is therefore a less fundamental quantity than the total radiation energy absorbed per mass (the [[absorbed dose]]), but is a more significant quantity for assessing the health risk of radiation exposure. 
+
+It is adequate for assessing risk due to external radiation fields that ''penetrate uniformly'' through the ''whole body'', but needs further corrections when the field is applied only to part(s) of the body or when it is due to an internal source. A further quantity called [[Effective dose (radiation)|effective dose]] can be calculated if the fractionation of radiation to different parts of the body is known, to take into account the varying sensitivity of different organs to radiation. Another quantity called [[committed dose]] is used when the radiation source has entered the body.
+
+Equivalent dose is [[dimensional analysis|dimensionally]] a quantity of [[energy]] per unit of [[mass]], and is measured in [[sievert]]s or [[roentgen equivalent man|rem]]s.
+
+==Computation==
+{| class="wikitable" style="float:right;"
+|+Radiation weighting factors W<sub>R</sub> (formerly termed Q factor)<br/> used to represent [[relative biological effectiveness]]<br/> according to ICRP report 103<ref name="ICRP103">{{cite journal|title=The 2007 Recommendations of the International Commission on Radiological Protection|journal=Annals of the ICRP|year=2007|volume=37|series=ICRP publication 103|issue=2-4|url=http://www.icrp.org/publication.asp?id=ICRP%20Publication%20103|accessdate=17 May 2012|isbn=978-0-7020-3048-2}}</ref>
+|-
+! Radiation !! Energy !! W<sub>R</sub> (formerly Q)
+|-
+| [[x-ray]]s, [[gamma ray]]s,</br>[[beta ray]]s, [[muon]]s ||&nbsp; || 1
+|-
+| rowspan=3 |[[neutron]]s || < 1 MeV         || 2.5 + 18.2·e<sup>-[ln(E)]²/6</sup>
+|-
+| 1 MeV - 50 MeV  || 5.0 + 17.0·e<sup>-[ln(2·E)]²/6</sup>
+|-
+| > 50 MeV  || 2.5 + 3.25·e<sup>-[ln(0.04·E)]²/6</sup>
+|-
+| [[proton]]s, charged [[pion]]s  || &nbsp;        || 2
+|-
+| [[alpha ray]]s,<br/>[[Nuclear fission product]]s,<br/>heavy [[atomic nucleus|nuclei]] || &nbsp; || 20
+|}
+
+The equivalent dose is calculated by multiplying the absorbed dose, averaged by mass over an organ or tissue of interest, by a radiation weighting factor appropriate to the type and energy of radiation. To obtain the equivalent dose for a mix of radiation types and energies, a sum is taken over all types of radiation energy dose.<ref name="ICRP103" />
+
+:<math>H_T = \sum_R W_R \cdot D_{T,R}\ </math>
+where
+:''H<sub>T</sub>'' is the equivalent dose absorbed by tissue T
+:''D<sub>T,R</sub>'' is the absorbed dose in tissue T by radiation type R
+:''W<sub>R</sub>'' is the radiation weighting factor defined by regulation
+Thus for example, an absorbed dose of 1 Gy by alpha particles will lead to an equivalent dose of 20 Sv. 
+
+[[File:Neutron radiation weighting factor as a function of kinetic energy.gif|thumb|350px|The radiation weighting factor for neutrons has been revised over time and remains controversial.]]
+
+The radiation weighting factor represents the [[relative biological effectiveness]] of the radiation. It aims to correct the simple deposited energy of the radiation (a fundamental quantity with clear physical meaning) for different biological effect of different types of radiation. An equivalent dose of radiation is estimated to have the same biological effect as an equal amount of absorbed dose of gamma rays.
+
+If the equivalent dose is uniform throughout the organism, it will be equal to the effective dose. Otherwise, a weighted average of ''H''<sub>''T''</sub> will have to be taken to average out the radiation dose through the body while correcting for the different sensitivities of different tissues. See the article on [[Effective dose (radiation safety)|effective dose]] for this calculation. In the case of non-uniform radiation, or radiation given to only part of the body, using the local equivalent dose alone would overstate the biological risks to the entire organism.
+
+==History==
+The concept of equivalent dose was developed in the 1950s.<ref>{{cite journal|last=Clarke|first=R.H.|coauthors=and J. Valentin|title=The History of ICRP and the  Evolution of its Policies|journal=Annals of the ICRP|year=2009|volume=39|series=ICRP Publication 109|issue=1|pages=pp. 75–110|doi=10.1016/j.icrp.2009.07.009|url=http://www.icrp.org/docs/The%20History%20of%20ICRP%20and%20the%20Evolution%20of%20its%20Policies.pdf|accessdate=12 May 2012}}</ref> In its 1990 recommendations, the ICRP revised the definitions of some radiation protection quantities, and provided new names for the revised quantities.<ref name="ICRP60">{{cite journal|title=1990 Recommendations of the International Commission on Radiological Protection|journal=Annals of the ICRP|year=1991|volume=21|series=ICRP publication 60|issue=1-3|url=http://www.icrp.org/publication.asp?id=ICRP%20Publication%2060|accessdate=17 May 2012|isbn=978-0-08-041144-6}}</ref> Some regulators, notably the [[International Committee for Weights and Measures]] (CIPM) and the US [[Nuclear Regulatory Commission]] continue to use the old terminology of quality factors and dose equivalent, even though the underlying calculations have changed.<ref name="NRC1004">{{cite book|title=10 CFR 20.1004|year=2009|publisher=US Nuclear Regulatory Commission|url=http://www.nrc.gov/reading-rm/doc-collections/cfr/part020/part020-1004.html}}</ref>
+
+==Units==
+The [[SI unit]] of measure for equivalent dose is the [[sievert]], defined as one [[Joule]] per [[kg]].<ref>{{SIbrochure}}</ref> In the United States the [[roentgen equivalent man]] (rem), equal to 0.01 sievert, is still in common use, although regulatory and advisory bodies are encouraging transition to sieverts.<ref name='nrc_definitions'>{{cite web|url=http://www.nrc.gov/reading-rm/doc-collections/cfr/part034/part034-0003.html |title=NRC Regulations: §34.3 Definitions |accessdate=2007-03-14 |last=Nuclear Regulatory Commission |publisher=United States Government }}</ref>
+
+==Related quantities==
+
+===Dose rate===
+To quantify the radiation risk of a particular environment or activity, the '''dose rate''' is routinely posted in hazardous areas. This represents the dose received per unit time spent in the area, usually measured in millisievert per hour or millirem per hour. Although equivalent dose rates may be used for this purpose, these figures are normally posted as absorbed dose rates for each radiation type.
+
+===Dose equivalent===
+The similar-sounding '''dose equivalent''' can have slightly different definitions than equivalent dose, or it may refer to the same thing. Prior to 1990, the ICRP used the term "dose equivalent" to refer to the absorbed dose at a point multiplied by the quality factor at that point, where the quality factor was a function of [[linear energy transfer]]. (LET) By contrast, the ICRP's current definition of "equivalent dose" represents an average over an organ or tissue, and radiation weighting factors independent of LET are used instead of quality factors. Starting with the publication of ICRP 60, the ICRP stopped using the exact words "dose equivalent" alone in that order, but four similar quantities were defined:<ref name=ICRP60 />
+*ambient dose equivalent
+*directional dose equivalent
+*personal dose equivalent
+*equivalent dose
+
+The [[International Committee for Weights and Measures]] (CIPM) and the US [[Nuclear Regulatory Commission]] continue to use the old terminology of quality factors and dose equivalent. The NRC quality factors are independent of linear energy transfer, though not always equal to the ICRP radiation weighting factors.<ref name=NRC1004 /> The NRC's definition of dose equivalent is "the product of the absorbed dose in tissue, quality factor, and all other necessary modifying factors at the location of interest." However, it is apparent from their definition of effective dose equivalent that "all other necessary modifying factors" excludes the tissue weighting factor.<ref>{{cite book|title=10 CFR 20.1003|year=2009|publisher=US Nuclear Regulatory Commission|url=http://www.nrc.gov/reading-rm/doc-collections/cfr/part020/part020-1003.html}}</ref>
+
+===Dosimetry reports===
+Cumulative equivalent dose due to external whole-body exposure is normally reported to nuclear energy workers in regular [[dosimetry]] reports. In the US, three different equivalent doses are typically reported: 
+*[[deep-dose equivalent]], (DDE)
+*shallow dose equivalent, (SDE)
+*eye dose equivalent
+
+==See also==
+* [[Banana equivalent dose]]
+* [[Becquerel]]
+* [[Counts per minute]]
+* [[Curie]]
+* [[Gray (unit)]]
+* [[Ionizing radiation units]]
+*[[Ionisation chamber]]
+* [[Rad (unit)]]
+* [[Roentgen (unit)]]
+* [[Roentgen equivalent man]]
+* [[Sievert]]
+
+== References ==
+{{reflist}}
+
+==External links==
+*[http://www.euronuclear.org/info/encyclopedia/d/doseequivalent.htm Dose equivalent] - glossary of the European Nuclear Society
+
+[[Category:Physical quantities]]
+[[Category:Radiobiology]]

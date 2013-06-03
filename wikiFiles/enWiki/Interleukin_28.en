@@ -1,0 +1,72 @@
+{{protein
+| Name = Interleukin 28A
+| caption = 
+| image = 
+| width = 
+| HGNCid = 18364
+| Symbol = IL28A
+| AltSymbols =  , IFNL2
+| EntrezGene = 282616
+| OMIM = 607401
+| RefSeq = NM_172138
+| UniProt = Q8IZJ0
+| PDB = 
+| ECnumber = 
+| Chromosome = 19
+| Arm = q
+| Band = 13.13
+| LocusSupplementaryData =
+}}
+{{protein
+| Name = Interleukin 28B
+| caption = 
+| image = 
+| width = 
+| HGNCid = 18365
+| Symbol = IL28B
+| AltSymbols =  , IFNL3
+| EntrezGene = 282617
+| OMIM = 607402
+| RefSeq = NM_172139
+| UniProt = Q8IZI9
+| PDB = 
+| ECnumber = 
+| Chromosome = 19
+| Arm = q
+| Band = 13.13
+| LocusSupplementaryData =
+}}
+
+'''Interleukin-28''' (IL-28) is a [[cytokine]] that comes in two [[isoform]]s, IL-28A and IL-28B, and plays a role in immune defense against [[virus]]es, including the induction of an "antiviral state" by turning on Mx proteins, [[OAS1|2',5'-oligoadenylate synthetase]] as well as [[ISGF3G]] (Interferon Stimulated Gene Factor 3).<ref name="pmid15171810">{{cite journal | author = Kempuraj D, Donelan J, Frydas S, Iezzi T, Conti F, Boucher W, Papadopoulou NG, Madhappan B, Letourneau L, Cao J, Sabatino G, Meneghini F, Stellin L, Verna N, Riccioni G, Theoharides TC | title = Interleukin-28 and 29 (IL-28 and IL-29): new cytokines with anti-viral activities | journal = Int J Immunopathol Pharmacol | volume = 17 | issue = 2 | pages = 103–6 | year = 2004 | pmid = 15171810 | doi = | url =  }}</ref> IL-28A and IL-28B belong to the [[type III interferon|type III]] [[interferon]] family of cytokines and are highly similar (in [[amino acid]] sequence) to [[interleukin 29|IL-29]].  Their classification as Interferons is due to their ability to induce an antiviral state, while their additional classification as cytokines is due to their chromosomal location as well as the fact that they are encoded by multiple exons, as opposed to a single exon, as most type-I IFNs are.  
+
+== Discovery ==
+
+IL-28 was discovered in 2003 by Zymogenetics<ref name="pmid12469119">{{cite journal | author = Sheppard P, Kindsvogel W, Xu W, Henderson K, Schlutsmeyer S, Whitmore TE, Kuestner R, Garrigues U, Birks C, Roraback J, Ostrander C, Dong D, Shin J, Presnell S, Fox B, Haldeman B, Cooper E, Taft D, Gilbert T, Grant FJ, Tackett M, Krivan W, McKnight G, Clegg C, Foster D, Klucher KM | title = IL-28, IL-29 and their class II cytokine receptor IL-28R | journal = Nat. Immunol. | volume = 4 | issue = 1 | pages = 63–8 | year = 2003 | month = January | pmid = 12469119 | doi = 10.1038/ni873 | url =  }}</ref> using a genomic screening process in which the entire human genome was scanned for putative genes.  Once these genes were found, a second scan was performed to look specifically for cytokines.  Both IL-28 and IL-29 were found in humans using this type of analysis.
+
+== Structure ==
+
+IL-28 [[gene]]s are located near IL-29 on [[chromosome 19]] in humans. The two isoforms of IL-28 (IL-28A and IL-28B) are 96% homologous. Differences in function between the two forms remains unclear.
+
+The receptor for IL-28 is composed of a unique IL-28 Receptor Alpha chain which pairs with the IL-10 Receptor Beta chain, leading many to classify IL-28 as a IL-10-like family member.
+
+== Function ==
+
+IL-28 has also been shown to play a role in the adaptive immune response, as its inclusion as an immunoadjuvant during small animal vaccination lead to augmented antigen-specific Interferon Gamma release as well as an increased cytotoxic potential in CD8+ T cells.<ref name="pmid19304955">{{cite journal | author = Morrow MP, Pankhong P, Laddy DJ, Schoenly KA, Yan J, Cisper N, Weiner DB | title = Comparative ability of IL-12 and IL-28B to regulate Treg populations and enhance adaptive cellular immunity | journal = Blood | volume = 113 | issue = 23 | pages = 5868–77 | year = 2009 | month = June | pmid = 19304955 | doi = 10.1182/blood-2008-11-190520 | url = | pmc = 2700323 }}</ref>
+
+== Clinical significance ==
+
+Addition of IL-28 to vaccination results in 100% protection from a lethal H1N1 Influenza challenge in a small animal model when it was paired with an Influenza vaccine that protected only 50% of the time without IL-28.<ref name="pmid19304955" />
+
+Studies of IL-28B in non-human primate models of vaccination confirmed the small animal models, leading to an increase in Interferon Gamma production and CD8+ T cell activity in the form of cytotoxicity in an HIV vaccine study. <ref name="pmid20571540">{{cite journal | author = Morrow MP, Yan J, Pankhong P, Shedlock DJ, Lewis MG, Talbott K, Toporovski R, Khan AS, Sardesai NY, Weiner DB. | title = IL-28B/IFN-lambda 3 drives granzyme B loading and significantly increases CTL killing activity in macaques | journal = Molecular Therpay | volume = 18 | issue = 9 | pages = 1714–23 | year = 2010 | month = Sep | pmid = 20571540 | doi = 10.1038/mt.2010.118 | url = | pmc = 2956930 }}</ref>
+
+A single nucleotide polymorphism (SNP) near the IL28B gene predicts response to [[hepatitis C]] treatment with [[interferon]] and [[ribavirin]].<ref>{{cite web| url=http://www.pgxnews.org/web/pgx-pharmacogenomics-articles-reviews/40-pgx-pharmacogenomics-article-review/104-new-biomarker-predicts-response-to-hepatitis-c-treatment | title=New biomarker predicts response to hepatitis C treatment | author=PGxNews.Org| publisher=PGxNews.Org| accessdate=2009-08-17| month=August | year=2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref><ref>{{cite journal |author=Ge D, Fellay j, Thompson A, ''et al.'' |title=Genetic variation in IL28B predicts hepatitis C treatment-induced viral clearance |journal=Nature |year=2009 |doi=10.1038/nature08309 |pmid=19684573 |volume=461 |issue=7262 |pages=399–401}}</ref> The SNP was identified in a [[genome-wide association study]] (GWAS) and is to date the best example of a successful GWAS hit that is clinically relevant.<ref>{{cite journal|last=Maxmen|first=Amy|title=Pharmacogenomics: Playing the odds|journal=Nature|date=NaN undefined NaN|volume=474|issue=7350|pages=S9–S10|doi=10.1038/474S9a|pmid=21666735}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{interleukins}}
+
+
+{{immunology-stub}}
+
+[[sr:Интерлеукин 28]]

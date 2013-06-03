@@ -1,0 +1,199 @@
+{{Infobox disease
+|Name           = Long QT syndrome
+|Image          = SinusRhythmLabels.svg
+|Caption        = Schematic representation of normal ECG trace ''([[sinus rhythm]])'' with waves, segments, and intervals labeled. The QT interval is marked by blue stripe at bottom.
+|DiseasesDB     = 11104
+|ICD10          = {{ICD10|I|45|8|i|30}}
+|ICD9           = {{ICD9|426.82}}
+|ICDO           = 
+|OMIM           = 
+|MedlinePlus    = 
+|eMedicineSubj  = med
+|eMedicineTopic = 1983
+|MeshID         = D008133
+}}
+
+The '''long QT syndrome''' ('''LQTS''') is a rare inborn heart condition in which delayed [[repolarization]] of the heart following a heartbeat increases the risk of episodes of [[torsades de pointes]] (TDP, a form of [[cardiac arrhythmia|irregular heartbeat]] that [[ventricular tachycardia|originates from the ventricles]]). These episodes may lead to [[palpitation]]s, [[syncope (medicine)|fainting]] and [[sudden cardiac death|sudden death]] due to [[ventricular fibrillation]]. Episodes may be provoked by various stimuli, depending on the subtype of the condition.<ref name=Morita>{{cite journal |author=Morita H, Wu J, Zipes DP |title=The QT syndromes: long and short |journal=Lancet |volume=372 |issue=9640 |pages=750–63 |year=2008 |month=August |pmid=18761222 |doi=10.1016/S0140-6736(08)61307-0}}</ref>
+
+The condition is so named because of the appearances of the [[electrocardiogram]] (ECG/EKG), on which there is prolongation of the [[QT interval]]. In some individuals the QT prolongation occurs only after the administration of certain [[medications]].<ref name=Morita/>
+
+==Genetics==
+===Genes and mutations===
+LQTS can arise from mutation of one of several genes.<ref name="Hedley">{{cite journal |author=Hedley PL|title=The genetic basis of long QT and short QT syndromes: a mutation update|journal=Human Mutation|volume=30 |issue=11 |pages=1486–511 |year=2009 |pmid=19862833 |doi=10.1002/humu.21106 |author2=Jorgensen P |author3=Schlamowitz S |display-authors=4 |last4=Wangari |first4=Romilda |last5=Moolman-Smook |first5=Johanna |last6=Brink |first6=Paul A. |last7=Kanters |first7=Jørgen K. |last8=Corfield |first8=Valerie A. |last9=Christiansen |first9=Michael}}</ref> These mutations tend to prolong the duration of the [[ventricular action potential]] (APD), thus lengthening the QT interval.  LQTS can be inherited in an [[autosomal dominant]] or an [[autosomal recessive]] fashion.<ref name=Goldman_185>{{Harvnb|Goldman|2011|pp=185}}</ref> The autosomal recessive forms of LQTS tend to have a more severe [[phenotype]], with some variants having associated [[syndactyly]] (LQT8) or congenital neural deafness (LQT1).  A number of specific gene loci have been identified that are associated with LQTS.  Genetic testing for LQTS is clinically available and may help to direct appropriate therapies . The most common causes of LQTS are mutations in the genes KCNQ1 (LQT1), KCNH2 (LQT2), and SCN5A (LQT3); the following is a list of all known genes associated with LQTS:
+
+{| class="wikitable"
+| '''Type''' || '''OMIM''' || '''Mutation''' || '''Notes'''
+ |- 
+ | LQT1 || {{OMIM2|192500}} || alpha subunit of the slow delayed rectifier potassium channel ([[KvLQT1]] or KCNQ1)  || The current through the heteromeric channel (KvLQT1 + [[minK]]) is known as I<sub>Ks</sub>.  These mutations often cause LQT by reducing the amount of repolarizing current. This repolarizing current is required to terminate the action potential, leading to an increase in the action potential duration (APD).  These mutations tend to be the most common yet least severe. 
+ |- 
+ | LQT2 || {{OMIM2|152427}} || alpha subunit of the rapid delayed rectifier potassium channel ([[hERG]] + [[MiRP1]])   || Current through this channel is known as I<sub>Kr</sub>.  This phenotype is also probably caused by a reduction in repolarizing current.
+ |- 
+ | LQT3 || {{OMIM2|603830}} || alpha subunit of the [[sodium channel]] ([[SCN5A]]) || Current through this channel is commonly referred to as I<sub>Na</sub>.  Depolarizing current through the channel late in the action potential is thought to prolong APD.  The late current is due to the failure of the channel to remain inactivated. As a consequence, it can enter a bursting mode, during which significant current enters abruptly when it should not.  These mutations are more lethal but less common.  
+ |- 
+ | LQT4 || {{OMIM2|600919}} || anchor protein [[Ankyrin B]] || LQT4 is very rare.  Ankyrin B anchors the ion channels in the cell.
+ |- 
+ | LQT5 || {{OMIM2|176261}} || beta subunit MinK (or [[KCNE1]]), which coassembles with [[KvLQT1]] || -
+ |- 
+ | LQT6 || {{OMIM2|603796}} || beta subunit MiRP1 (or [[KCNE2]]), which coassembles with [[hERG]] || -
+ |- 
+ | LQT7 || {{OMIM2|170390}} || potassium channel [[KCNJ2]] (or K<sub>ir</sub>2.1)   || The current through this channel and KCNJ12 (K<sub>ir</sub>2.2) is called I<sub>K1</sub>. LQT7  leads to [[Andersen-Tawil syndrome]].
+ |- 
+ | LQT8 || {{OMIM2|601005}} || alpha subunit of the [[calcium channel]] Cav1.2 encoded by the gene [[CACNA1c]].  || Leads to [[Timothy's syndrome]].
+|- 
+ | LQT9 || {{OMIM2|611818}} || [[Caveolin 3]] ||
+|- 
+ | LQT10 || {{OMIM2|611819}} || [[SCN4B]] ||
+|- 
+| LQT11 || {{OMIM2|611820}} || [[AKAP9]] ||
+|- 
+| LQT12 || {{OMIM2|601017}} || [[SNTA1]] ||
+|- 
+| LQT13 || {{OMIM2|600734}}   || [[GIRK4]] || 
+|}
+
+Drug induced LQT is usually a result of treatment by [[Antiarrhythmic agent|anti-arrhythmic]] drugs such as [[amiodarone]] and [[sotalol]] or a number of other drugs that have been reported to cause this problem (e.g. [[cisapride]]).  Some [[anti-psychotic]] drugs, such as [[haloperidol]] and [[ziprasidone]], have a prolonged QT interval as a rare side-effect. Genetic mutations may make one more susceptible to drug-induced LQT.
+
+;LQT1
+LQT1 is the most common type of long QT syndrome, making up about 30 to 35 percent of all cases.  The LQT1 [[gene]] is {{gene|KCNQ1}}, which has been isolated to [[chromosome]] 11p15.5. KCNQ1 codes for the voltage-gated potassium channel [[KvLQT1]] that is highly expressed in the heart.  It is believed that the product of the KCNQ1 gene produces an alpha subunit that interacts with other proteins (in particular, the minK beta subunit) to create the I<sub>Ks</sub> ion channel, which is responsible for the delayed potassium rectifier current of the [[cardiac action potential]].
+
+Mutations to the KCNQ1 gene can be inherited in an [[autosomal dominant]] or an [[autosomal recessive]] pattern in the same family.  In the autosomal recessive mutation of this gene, [[homozygous]] mutations in KVLQT1 leads to severe prolongation of the QT interval (due to near-complete loss of the I<sub>Ks</sub> ion channel), and is associated with increased risk of ventricular arrhythmias and congenital deafness.  This variant of LQT1 is known as the [[Jervell and Lange-Nielsen syndrome]].
+
+Most individuals with LQT1 show paradoxical prolongation of the QT interval with infusion of [[epinephrine]].  This can also unmark latent carriers of the LQT1 gene.
+
+Many [[missense mutation]]s of the LQT1 gene have been identified.  These are often associated with a high frequency of [[Syncope (medicine)|syncopes]] but less sudden death than LQT2.
+
+;LQT2
+The LQT2 type is the second most common gene location that is affected in long QT syndrome, making up about 25 to 30 percent of all cases.  This form of long QT syndrome most likely involves mutations of the ''human ether-a-go-go related gene'' ([[hERG]]) on chromosome 7.  The [[hERG]] gene (also known as KCNH2) is part of the rapid component of the potassium rectifying current (I<sub>Kr</sub>). (The I<sub>Kr</sub> current is mainly responsible for the termination of the [[cardiac action potential]], and therefore the length of the QT interval.)  The normally functioning [[hERG]] gene allows protection against early after depolarizations (EADs).
+
+Most drugs that cause long QT syndrome do so by blocking the I<sub>Kr</sub> current via the [[hERG]] gene.  These include [[erythromycin]], [[terfenadine]], and [[ketoconazole]].  The hERG channel is very sensitive to unintended drug binding due to two [[aromatic]] [[amino acid]]s, the [[tyrosine]] at position 652 and the [[phenylalanine]] at position 656.  These amino acid residues are poised so that a drug binding to them will block the channel from conducting current.  Other potassium channels do not have these residues in these positions and are, therefore, not as prone to blockage.
+
+;LQT3
+The LQT3 type of long QT syndrome involves mutation of the gene that encodes the alpha subunit of the [[sodium|Na<sup>+</sup>]] ion channel.  This gene is located on chromosome 3p21-24, and is known as [[SCN5A]] (also hH1 and Na<sub>V</sub>1.5).  The mutations involved in LQT3 slow the inactivation of the Na<sup>+</sup> channel, resulting in prolongation of the Na<sup>+</sup> influx during depolarization.  However, the mutant sodium channels inactivate more quickly, and may open repetitively during the action potential.
+
+A large number of mutations have been characterized as leading to or predisposing to LQT3.  Calcium has been suggested as a regulator of SCN5A, and the effects of calcium on SCN5A may begin to explain the mechanism by which some these mutations cause LQT3. Furthermore, mutations in [[SCN5A]] can cause [[Brugada syndrome]], cardiac conduction disease and [[dilated cardiomyopathy]]. In rare situations, some affected individuals can have combinations of these diseases.
+
+;LQT5
+is an [[autosomal dominant]] relatively uncommon form of LQTS. It involves mutations in the gene KCNE1, which encodes for the potassium channel beta subunit MinK. In its rare homozygous forms, it can lead to [[Jervell and Lange-Nielsen syndrome]]
+
+;LQT6
+is an [[autosomal dominant]] relatively uncommon form of LQTS. It involves mutations in the gene KCNE2, which encodes for the potassium channel beta subunit MiRP1, constituting part of the I<sub>Kr</sub> repolarizing K<sup>+</sup> current.
+
+;LQT7
+[[Andersen-Tawil syndrome]] is an [[autosomal dominant]] form of LQTS associated with skeletal deformities. It involves mutation in the gene KCNJ2, which encodes for the potassium channel protein Kir 2.1. The syndrome is characterized by Long QT syndrome with ventricular arrhythmias, periodic paralysis, and skeletal developmental abnormalities as clinodactyly, low-set ears and [[micrognathia]]. The manifestations are highly variable.<ref>{{cite journal |author=Tristani-Firouzi M |title=Functional and clinical characterization of KCNJ2 mutations associated with LQT7 (Andersen syndrome) |journal=J. Clin. Invest. |volume=110 |issue=3 |pages=381–8 |year=2002 |pmid=12163457 |pmc=151085 |doi=10.1172/JCI15183 |url= |author-separator=, |author2=Jensen JL |author3=Donaldson MR |display-authors=3 |last4=Sansone |first4=Valeria |last5=Meola |first5=Giovanni |last6=Hahn |first6=Angelika |last7=Bendahhou |first7=Said |last8=Kwiecinski |first8=Hubert |last9=Fidzianska |first9=Anna}}</ref>
+
+;LQT8
+Timothy's syndrome is due to mutations in the calcium channel Cav1.2 encoded by the gene CACNA1c. Since the Calcium channel Cav1.2 is abundant in many tissues, patients with Timothy's syndrome have many clinical manifestations including congenital heart disease, autism, syndactyly, and immune deficiency.
+
+;LQT9
+This newly discovered variant is caused by mutations in the membrane structural protein, [[caveolin]]<nowiki>-3</nowiki>.  Caveolins form specific membrane domains called [[caveolae]] in which among others the Na<sub>V</sub>1.5 [[voltage-gated sodium channel]] sits.   Similar to LQT3, these particular mutations increase so-called 'late' sodium current, which impairs cellular [[repolarization]].
+
+;LQT10
+This novel susceptibility gene for LQT is ''SCN4B'' encoding the protein Na<sub>V</sub>β4, an auxiliary [[Protein subunit|subunit]] to the pore-forming Na<sub>V</sub>1.5 (gene:  ''SCN5A'') subunit of the [[voltage-gated sodium channel]] of the heart.  The mutation leads to a positive shift in inactivation of the sodium current, thus increasing sodium current.  Only one mutation in one patient has so far been found.
+
+===Jervell and Lange-Nielsen syndrome===
+The [[Jervell and Lange-Nielsen syndrome]] (JLNS) is an [[autosomal recessive]] form of LQTS with associated congenital deafness. It is caused specifically by mutation of the KCNE1 and KCNQ1 genes
+
+In untreated individuals with JLNS, about 50 percent die by the age of 15 years due to ventricular arrhythmias.
+
+===Romano-Ward syndrome===
+[[Romano-Ward syndrome]] is an autosomal dominant form of LQTS that is ''not'' associated with deafness.  The diagnosis is clinical and is now less commonly used in centres where genetic testing is available, in favour of the LQT1 to 10 scheme given above.
+
+==Pathophysiology==
+All forms of the long QT syndrome involve an abnormal repolarization of the heart.  The abnormal repolarization causes differences in the refractory period of the heart muscle cells ([[myocyte]]s).  After-depolarizations (which occur more commonly in LQTS) can be propagated to neighboring cells due to the differences in the [[refractory period (cardiac)|refractory period]]s, leading to re-entrant ventricular arrhythmias.
+
+It is believed that the  so-called early after-depolarizations (EADs) that are seen in LQTS are due to re-opening of [[L-type calcium channel]]s during the plateau phase of the [[cardiac action potential]].  Since [[adrenergic]] stimulation can increase the activity of these channels, this is an explanation for why the risk of sudden death in individuals with LQTS is increased during increased adrenergic states (i.e., exercise, excitement) -- especially since repolarization is impaired.  Normally during adrenergic states, repolarizing currents will also be enhanced to shorten the action potential.  In the absence of this shortening and the presence of increased L-type calcium current, EADs may arise.
+
+The so-called delayed after-depolarizations (DADs) are thought to be due to an increased Ca<sup>2+</sup> filling of the [[sarcoplasmic reticulum]].  This overload may cause spontaneous Ca<sup>2+</sup> release during repolarization, causing the released Ca<sup>2+</sup> to exit the cell through the 3Na<sup>+</sup>/Ca<sup>2+</sup>-exchanger, which results in a net depolarizing current.
+
+== Diagnosis ==
+The diagnosis of LQTS is not easy since 2.5% of the healthy population have prolonged QT interval, and 10&ndash;15% of LQTS patients have a normal QT interval.<ref>{{cite journal|author=Moric-Janiszewska E, Markiewicz-Łoskot G, Loskot M, Weglarz L, Hollek A, Szydlowski L|title=Challenges of diagnosis of long-QT syndrome in children|journal=Pacing Clin Electrophysiol|year=2007|volume=30|pages=1168&ndash;1170|pmid=17725765|doi=10.1111/j.1540-8159.2007.00832.x|issue=9}}</ref> A commonly used criterion to diagnose LQTS is the LQTS "diagnostic score".<ref>{{cite journal |author=Schwartz PJ, Moss AJ, Vincent GM, Crampton RS |title=Diagnostic criteria for the long QT syndrome. An update |journal=Circulation |volume=88 |issue=2 |pages=782–4 |year=1993 |pmid=8339437 |doi= |url=}}</ref> The score is calculated by assigning different points to various criteria (listed below). With four or more points, the probability is high for LQTS; with one point or less, the probability is low. A score of two or three points indicates intermediate probability.
+
+* QTc (Defined as QT interval / square root of RR interval)
+** ≥ 480&nbsp;ms - 3 points
+** 460-470&nbsp;ms - 2 points
+** 450&nbsp;ms and male gender - 1 point
+* [[Torsades de pointes]] [[ventricular tachycardia]] - 2 points
+* [[T wave alternans]] - 1 point
+* Notched T wave in at least 3 leads - 1 point
+* Low heart rate for age (children) - 0.5 points
+* [[Syncope (medicine)|Syncope]] (one cannot receive points both for syncope and torsades de pointes)
+** With stress - 2 points
+** Without stress - 1 point
+* Congenital deafness - 0.5 points
+* Family history (the same family member cannot be counted for LQTS and sudden death)
+** Other family members with definite LQTS - 1 point
+** Sudden death in immediate family members (before age 30) - 0.5 points
+
+==Treatment options==
+Those diagnosed with long QT syndrome are usually advised to avoid drugs that would prolong the QT interval further or lower the threshold for TDP.<ref>{{cite web |url=http://www.azcert.org/medical-pros/drug-lists/drug-lists.cfm |title=QT Drug List by Risk Groups |publisher=Arizona Center for Education and Research on Therapeutics |accessdate=2010-07-04}}</ref> In addition to this,  there are two intervention options for individuals with LQTS: arrhythmia prevention and arrhythmia termination.
+
+===Arrhythmia prevention===
+Arrhythmia suppression involves the use of medications or surgical procedures that attack the underlying cause of the arrhythmias associated with LQTS.  Since the cause of arrhythmias in LQTS is after depolarizations, and these after depolarizations are increased in states of adrenergic stimulation, steps can be taken to blunt adrenergic stimulation in these individuals.  These include:
+* Administration of [[beta blocker|beta receptor blocking agents]], which decreases the risk of stress-induced arrhythmias. Beta blockers are the first choice in treating Long QT syndrome.
+
+In 2004, it was shown that genotype and QT interval duration are independent predictors of recurrence of life-threatening events during beta-blockers therapy. To be specific, the presence of QTc >500ms and LQT2 and LQT3 genotype are associated with the highest incidence of recurrence. In these patients, primary prevention with [[Implantable cardioverter-defibrillator|ICD]] (Implantable cardioverter-defibrillator) implantation can be considered.<ref>{{cite journal |author=Priori SG |title=Association of long QT syndrome loci and cardiac events among patients treated with beta-blockers |journal=JAMA |volume=292 |issue=11 |pages=1341–4 |year=2004 |pmid=15367556 |doi=10.1001/jama.292.11.1341 |url= |author-separator=, |author2=Napolitano C |author3=Schwartz PJ |display-authors=3 |last4=Grillo |first4=M |last5=Bloise |first5=R |last6=Ronchetti |first6=E |last7=Moncalvo |first7=C |last8=Tulipani |first8=C |last9=Veia |first9=A}}</ref> 
+
+* Potassium supplementation: If the potassium content in the blood rises, the action potential shortens, and due to this reason it is believed that increasing potassium concentration could minimize the occurrence of arrhythmias. It should work best in LQT2, since the HERG channel is especially sensitive to potassium concentration, but the use is experimental and not evidence-based.
+* [[Mexiletine]], a sodium channel blocker: In LQT3, the problem is that the sodium channel does not close properly. Mexiletine closes these channels and is believed to be usable when other therapies fail. It should be especially effective in LQT3, but there is no evidence based documentation.
+* Amputation of the [[cervical sympathetic chain]] (left [[Stellate ganglion|stellectomy]]). This may be used as an add-on therapy to beta blockers, but modern therapy favors mostly ICD implantation if beta blocker therapy fails.
+
+===Stress and LQTS===
+
+Long-term mental stress appears to have a strong relationship to arrhythmic events in LQTS. LQTS patients may be stress-prone in terms of their personality <ref>{{cite journal |author=Määttänen I |title= Cloninger's temperament traits and inherited long QT syndrome |journal= Journal of Psychosomatic Research  |volume=71 |issue=4 |pages=245-249 |year=2011 |pmid=|doi= |url=http://www.sciencedirect.com/science/article/pii/S0022399911001103 }}</ref> <ref>{{cite journal |author=Määttänen I |title= Stress Proneness in Molecularly Defined Long QT Syndrome: A Study Using Temperament Assessment by Behavioural Inhibition System Scale |journal= Stress and Health  |volume= |issue= |pages=31-38 |year=2013 |pmid=|doi= |url=http://onlinelibrary.wiley.com/doi/10.1002/smi.2441/abstract }}</ref> Depressive symptoms, long-term stress and stressful life events, as well as stressful work involvement appears to be related to the risk of arrhythmias in LQTS. <ref>{{cite journal |author=Hintsa T |title=Depressive symptoms in the congenital long QT syndrome |journal=Circulation |volume=41 |issue=7 |pages=516-521 |year=2009 |pmid=|doi= |url=http://informahealthcare.com/doi/abs/10.1080/07853890903037254 }}</ref> <ref>{{cite journal |author=Hintsa T |title=A history of stressful life events, prolonged mental stress and arrhythmic events in inherited long QT syndrome |journal=Heart  |volume=96 |issue=16 |pages=1281-1286 |year=2010 |pmid=|doi= |url=http://heart.bmj.com/content/96/16/1281 }}</ref> <ref>{{cite journal |author=Määttänen I |title= 
+Stressful Work Involvement and Inherited Long QT-Syndrome |journal= Journal of Psychosomatic Research  |volume=2 |issue=1 |pages=31-38 |year=2012 |pmid=|doi= |url=http://www.sciencedirect.com/science/article/pii/S0022399911001103 }}</ref> <ref>{{cite journal |author=Määttänen I |title= 
+Stress Proneness in Molecularly Defined Long QT Syndrome: A Study Using Temperament Assessment by Behavioural Inhibition System Scale |journal= Stress and Health  |volume= |issue= |pages=31-38 |year=2013 |pmid=|doi= |url=http://onlinelibrary.wiley.com/doi/10.1002/smi.2441/abstract }}</ref>
+
+===Arrhythmia termination===
+Arrhythmia termination involves stopping a life-threatening arrhythmia once it has already occurred.  One effective form of arrhythmia termination in individuals with LQTS is placement of an [[implantable cardioverter-defibrillator]] (ICD). Also, external defibrillation can be used to restore sinus rhythm. ICDs are commonly used in patients with [[Syncope (medicine)|syncope]]s despite beta blocker therapy, and in patients having experienced a cardiac arrest.
+
+It is hoped that, with better knowledge of the genetics underlying the long QT syndrome, more precise treatments will become available.<ref>{{cite journal |author=Compton SJ |title=Genetically defined therapy of inherited long-QT syndrome. Correction of abnormal repolarization by potassium |journal=Circulation |volume=94 |issue=5 |pages=1018–22 |year=1996 |pmid=8790040 |doi= |url=http://circ.ahajournals.org/cgi/pmidlookup?view=long&pmid=8790040 |author-separator=, |author2=Lux RL |author3=Ramsey MR |display-authors=3 |last4=Strelich |first4=KR |last5=Sanguinetti |first5=MC |last6=Green |first6=LS |last7=Keating |first7=MT |last8=Mason |first8=JW}}</ref>
+
+==Prognosis==
+The risk for untreated LQTS patients having events (syncopes or cardiac arrest) can be predicted from their genotype (LQT1-8), gender, and corrected QT interval.<ref>{{cite journal |author=Ellinor PT, Milan DJ, MacRae CA |title=Risk stratification in the long-QT syndrome |journal=N. Engl. J. Med. |volume=349 |issue=9 |pages=908–9 |year=2003 |pmid=12944579 |doi=10.1056/NEJM200308283490916 |url=}}</ref>
+
+* High risk (> 50%)
+
+QTc > 500&nbsp;ms                    LQT1 & LQT2 & LQT3 (males)
+
+* Intermediate risk (30-50%)
+
+QTc > 500&nbsp;ms                    LQT3 (females)
+
+QTc < 500&nbsp;ms                    LQT2 (females) & LQT3
+
+* Low risk (< 30%)
+         
+QTc < 500&nbsp;ms                    LQT1 & LQT2 (males)
+
+==Epidemiology==
+Inherited long QT interval syndrome affects about 1 in 7,000 people.<ref name=Goldman_366>{{Harvnb|Goldman|2011|pp=366}}</ref>
+
+==History==
+The first documented case of Long QT syndrome was described in [[Leipzig]] by Meissner in 1856, where a deaf girl died after her teacher yelled at her. When the parents were told about her death, they told that her older brother who also was deaf died after a terrible fright.<ref name='norsk_persp'>{{cite journal|author=Tranebjaerg L |title=Jervell and Lange-Nielsen syndrome: a Norwegian perspective |journal=Am J Med Genet |year=1999 | volume=89| issue=3| pages=137–46| doi=10.1002/(SICI)1096-8628(19990924)89:3<137::AID-AJMG4>3.0.CO;2-C |pmid=10704188|author-separator=,|author2=Bathen J|author3=Tyson J|display-authors=3|last4=Bitner-Glindzicz|first4=Maria}}</ref> This was several decades before the ECG was invented, but is likely the first described case of [[Jervell and Lange-Nielsen syndrome]]. In 1957, the first case documented by ECG was described by [[Anton Jervell]] and [[Fred Lange-Nielsen]], working in [[Tønsberg]], [[Norway]].<ref>{{cite journal |author=Jervell A, Lange-Nielsen F |title=Congenital deaf-mutism, functional heart disease with prolongation of the Q-T interval and sudden death |journal=Am. Heart J. |volume=54 |issue=1 |pages=59–68 |year=1957 |month=July |pmid=13435203 |doi=10.1016/0002-8703(57)90079-0}}</ref> Italian pediatrician Cesarino Romano, in 1963,<ref>{{cite journal |author=Romano C, Gemme G, Pongiglione R |title=Rare cardiac arrythmias of the pediatric age. II. Syncopal attacks due to paroxysmal ventricular fibrillation |language=Italian |journal=Clin Pediatr (Bologna) |volume=45 |issue= |pages=656–83 |year=1963 |month=September |pmid=14158288}}</ref> and Irish pediatrician Owen Conor Ward, in 1964,<ref>{{cite journal |author=Ward OC |title=A new familial cardiac syndrome in children |journal=J Ir Med Assoc |volume=54 |issue= |pages=103–6 |year=1964 |month=April |pmid=14136838}}</ref> separately described the more common variant of Long QT syndrome with normal hearing, later called Romano-Ward syndrome. The establishment of the International Long-QT Syndrome Registry in 1979 allowed numerous [[Pedigree chart|pedigrees]] to be evaluated in a comprehensive manner.  This helped in detecting many of the numerous genes involved.<ref>{{cite journal | author = Moss AJ | coauthors = Schwartz PJ | year=2005 | title = 25th Anniversary of the International Long-QT Syndrome Registry | journal = Circulation | volume = 111 | issue = 9 | pages = 1199–1201 | pmid = 15753228 | doi = 10.1161/01.CIR.0000157069.91834.DA | url=http://circ.ahajournals.org/cgi/content/full/111/9/1199}}</ref>
+
+==See also==
+* [[Cardiac action potential]]
+* [[Short QT syndrome]]
+* [[Steve Konowalchuk]], a former hockey player who retired after being diagnosed with Long QT syndrome
+
+==References==
+{{reflist|2}}
+
+===Additional references===
+* {{cite book|last1=Goldman|first1=Lee|title=Goldman's Cecil Medicine|publisher=Elsevier Saunders|location=Philadelphia|isbn=1437727883|year=2011|pages=1196|edition=24th|ref=harv}}
+
+==External links==
+* {{DMOZ|Health/Conditions_and_Diseases/Cardiovascular_Disorders/Heart_Disease/Arrhythmia/Long_QT_Syndrome/}}
+
+{{Circulatory system pathology}}
+{{Channelopathy}}
+{{Inherited disorders of trafficking}}
+{{Cytoskeletal defects}}
+
+[[Category:Cardiac dysrhythmia]]
+[[Category:Channelopathy]]
+[[Category:Syndromes]]
+[[Category:Cytoskeletal defects]]
+[[Category:Cardiogenetic disorders]]
+
+{{Link GA|de}}

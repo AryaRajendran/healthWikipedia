@@ -1,0 +1,35 @@
+{{mergeto|Comparative genomic hybridization|discuss=Talk:Comparative genomic hybridization#Merge Arraey-comparative genomic hybridization (Array-CGH) to Comparative genomic hybridization (CGH)|date=July 2012}}
+
+For a more comprehensive overview of Array CGH techniques and applications refer to [[Comparative genomic hybridization#Array Comparative Genomic Hybridization]].
+
+'''Array-comparative genomic hybridization''' (also '''CMA''', '''Chromosomal microarray analysis''', '''microarray-based comparative genomic hybridization''', '''array CGH''', '''a-CGH''', '''aCGH''') is a technique to detect genomic [[copy number variation]]s at a higher resolution level than chromosome-based [[comparative genomic hybridization]] (CGH).<ref>{{cite journal |journal= Drug Discov Today |year=2008 |title= The array CGH and its clinical applications |author= Shinawi M, Cheung SW |doi=10.1016/j.drudis.2008.06.007 |pmid=18617013 |volume= 13 |pages= 760–70 |issue= 17–18}}</ref> It can be used to create a [[virtual karyotype]].
+
+==Process==
+[[File:Array-CGH protocol.svg|right|thumb|Array-CGH protocol]]
+[[File:ACGH profile of the IMR32 neuroblastoma cell line.svg|right|thumb|ACGH profile of the IMR32 neuroblastoma cell line]]
+[[DNA]] from a test sample and normal reference sample are labelled differentially, using different [[fluorophores]], and [[nucleic acid hybridization|hybridized]] to several thousand probes. The probes are derived from most of the known [[genes]] and non-coding regions of the [[genome]], printed on a glass slide.
+
+The [[fluorescence]] intensity of the test and of the reference DNA is then measured, to calculate the ratio between them and subsequently the copy number changes for a particular location in the genome.
+
+==Efficiency==
+Using this method, [[copy number]] changes at a level of 5–10 [[kilobase]]s of DNA sequences can be detected.<ref>{{cite journal|author=Ren H, Francis W, Boys A, Chueh AC, Wong N, La P, Wong LH, Ryan J, Slater HR, Choo KH |title=BAC-based PCR fragment microarray: high-resolution detection of chromosomal deletion and duplication breakpoints |journal=Human Mutation |pmid=15832308 |doi=10.1002/humu.20164 |volume=25 |issue=5 |year=2005 |month=May |pages=476–82}}</ref> {{As of|2006}}, even [[high-resolution CGH]] ([[HR-CGH]]) arrays are accurate to detect [[structural variation]]s (SV) at resolution of 200 bp.<ref>{{cite journal |author=Urban AE, Korbel JO, Selzer R, Richmond T, Hacker A, Popescu GV, Cubells JF, Green R, Emanuel BS, Gerstein MB, Weissman SM, Snyder M |title=High-resolution mapping of DNA copy alterations in human chromosome 22 using high-density tiling oligonucleotide arrays |journal=Proc Natl Acad Sci U S A |date=21 March 2006 |volume=103 |issue=12 |pages=4534–4539 |pmid=16537408 |pmc=1450206 |doi=10.1073/pnas.0511340103}}</ref> This method allows one to identify new recurrent chromosome changes such as [[microdeletion]]s and duplications in human conditions such as [[cancer]] and [[birth defect]]s due to chromosome aberrations.
+
+==Technical considerations==
+There are several requirements that are dependent on the application of aCGH:
+;Complexity : Measurement becomes difficult in larger organisms because of decreasing partial concentrations of each portion of the sequence that is involved in the hybridization to the array element as the size of the genomes increase. This issue may be addressed by increasing the threshold in which one detects only larger increases in copy number of DNA extracted from cells, but this comes at the cost of increasing failure to detect low level gains and losses.
+;Samples : Tissue specimens may contain heterogeneous cell populations, which may further decrease the ability to detect copy number change in genes in the aberrant tumor cells because the population may contain normal cells. Furthermore, the use of tissue from clinical specimens severely limits the amount of DNA available for analysis.
+;Error tolerance : If the investigator is set to obtain a generalized description of aberrations that may occur in a set of samples, then errors in the detection may not be critical. However, the margin for error is drastically narrowed in a clinical setting, where an individual specimen is used to obtain specific information.
+
+==See also==
+*[[Comparative genomic hybridization]]
+*[[Genome]]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Array-Comparative Genomic Hybridization}}
+[[Category:Molecular genetics]]
+[[Category:Microarrays]]
+
+
+{{Cell-biology-stub}}

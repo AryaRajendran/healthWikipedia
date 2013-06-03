@@ -1,0 +1,22 @@
+The '''Eagle effect''', '''Eagle phenomenon''', or '''paradoxical zone phenomenon''', named after Harry Eagle who first described it, originally referred to the [[Paradoxical_reaction#Antibiotics|paradoxically reduced antibacterial effect]] of penicillin at high doses,<ref name=eagle1948>{{cite journal|last1=Eagle|first1=Harry|last2=Musselman|first2=A. D.|title=The rate of bactericidal action of penicillin in vitro as a function of its concentration, and its paradoxically reduced activity at high concentrations against certain organisms|journal=The Journal of experimental medicine|date=1948 Jul|volume=88|issue=1|pages=99–131|pmid=18871882|doi=10.1084/jem.88.1.99|pmc=2135799}}</ref><ref name=yourassowsky1978>{{cite journal|last=Yourassowsky|first=E|coauthors=Vander Linden, MP; Lismont, MJ; Schoutens, E|title=Qualitative study of paradoxical zone phenomenon of penicillins against 17 bacterial species of clinical importance|journal=Chemotherapy|year=1978|volume=24|issue=2|pages=92–6|pmid=340171|doi=10.1159/000237766}}</ref>  though recent usage generally refers to the relative lack of efficacy of beta lactam antibacterial drugs on infections having large numbers of bacteria.<ref name=stevens1988>{{cite journal|last=Stevens|first=DL|coauthors=Gibbons, AE; Bergstrom, R; Winn, V|title=The Eagle effect revisited: efficacy of clindamycin, erythromycin, and penicillin in the treatment of streptococcal myositis|journal=The Journal of infectious diseases|date=1988 Jul|volume=158|issue=1|pages=23–8|pmid=3292661|doi=10.1093/infdis/158.1.23}}</ref>  The former effect is paradoxical because the effectiveness of an antibiotic generally rises with increasing drug concentration.
+<!--
+things to add:
+* History - the meaning has changed over time
+* Implications for antimicrobial use - textbook chapters suggest consideration of the Eagle effect when prescribing for severe infections; this will not be how-to, but just a neutral summary of medrs
+* Controversy - the clinical implications are not universally accepted
+-->
+
+==Mechanism==
+
+Proposed mechanisms:<!-- this list will need to be refactored as prose -->
+*Reduced expression of [[penicillin binding proteins]] during stationary growth phase<ref name=pollard2004>{{cite book|last=Pollard|first=Andrew J.|coauthors=McCracken, George H.;Finn, Adam|title=Hot Topics in Infection and Immunity in Children|year=2004|publisher=Springer|page=187|url=http://books.google.com/?id=MDFQ-zDSq8cC&pg=PA187&dq=eagle+effect+antibiotic#v=onepage&q=eagle%20effect%20antibiotic&f=false|isbn=9780306483448}}</ref> 
+*Induction of microbial resistance mechanisms (such as beta lactamases with short half-lives) by high drug concentrations<ref name=ikeda1990>{{cite journal|last=Ikeda|first=Y|coauthors=Fukuoka, Y; Motomura, K; Yasuda, T; Nishino, T|title=Paradoxical activity of beta-lactam antibiotics against Proteus vulgaris in experimental infection in mice|journal=Antimicrobial agents and chemotherapy|date=1990 Jan|volume=34|issue=1|pages=94–7|pmid=2183712|doi=10.1128/AAC.34.1.94|pmc=171526}}</ref> 
+*Precipitation of antimicrobial drug in vitro,<ref name=eagle1948/> possibly also leading to the crystallized drug being mis-detected as colonies of the microbe.
+*Self-[[Receptor antagonist|antagonising]] the receptor with which it binds ([[penicillin]] binding proteins, for example, in the case of a penicillin).<ref>''Pharmaceutical Microbiology'', pg188, 7th Edition, Denyer, Hodges, Gorman</ref>
+
+==References==
+
+{{reflist}}
+
+[[Category:Antibiotic resistance]]
+[[Category:Pharmacology]]

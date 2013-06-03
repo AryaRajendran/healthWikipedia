@@ -1,0 +1,150 @@
+[[Image:VestibularSystem.gif|frame|Figure 1: The [[labyrinth of the inner ear]], from the left ear. It contains i) the cochlea (yellow), which is the peripheral organ of our auditory system; ii) the semicircular canals (brown), which transduce rotational movements; and iii) the otolithic organs (in the blue/purple pouches), which transduce linear accelerations. The light blue pouch is the endolymphatic sac, and contains only fluid.]]
+The '''vestibular system''', which contributes to [[balance (ability)|balance]] in most mammals and to the sense of [[spatial orientation]], is the [[sensory system]] that provides the leading contribution about [[motor coordination|movement]] and [[sense of balance]]. Together with the [[cochlea]], a part of the [[auditory system]], it constitutes the [[labyrinth of the inner ear]] in most mammals, situated in the [[Vestibule of the ear|vestibulum]] in the [[inner ear]] (Figure 1). As movements consist of rotations and translations, the vestibular system comprises two components:
+the semicircular canal system, which indicate rotational movements; and the [[otolith]]s, which indicate linear accelerations. The vestibular system sends signals primarily to the neural structures that control eye movements, and to the muscles that keep a creature upright. The projections to the former provide the anatomical basis of the [[vestibulo-ocular reflex]], which is required for clear vision; and the projections to the muscles that control posture are necessary to keep a creature upright.
+
+==Semicircular canal system==
+The semicircular canal system detects rotational movements. The semicircular canals are its main tools to achieve this detection.
+
+===Structure===
+{{Main|Semicircular canal}}
+
+Since the world is three-dimensional, the vestibular system contains three [[semicircular canals]] in each [[Labyrinth (inner ear)|labyrinth]]. They are approximately [[orthogonal]] (right angles) to each other, and are called the ''[[Horizontal semicircular canal|horizontal]]'' (or ''lateral''), the ''[[anterior semicircular canal]]'' (or ''superior'') and the ''[[posterior semicircular canal|posterior]]'' (or ''inferior'') semicircular canal. Anterior and posterior canals may be collectively called ''vertical semicircular canals''.
+
+*Movement of fluid within the '''horizontal''' semicircular canal corresponds to rotation of the head around a vertical axis (i.e. the neck), as when doing a [[pirouette]].
+*The '''anterior''' and '''posterior''' semicircular canals detect rotations of the head in the [[sagittal plane]] (as when nodding), and in the [[coronal plane|frontal plane]], as when [[cartwheeling]]. Both anterior and posterior canals are orientated at approximately 45° between frontal and sagittal planes.
+The movement of fluid pushes on a structure called the [[cupula]], which contains hair cells that transduce the mechanical movement to electrical signals <ref name=boron>Medical Physiology, [[Walter Boron]] & [[Emile Boulpaep]], ISBN 1-4160-2328-3, Elsevier Saunders 2005. Updated edition. 1300 pages.</ref>
+
+===Push-pull systems===
+[[Image:Vestibular PushPull.svg|thumb|right|300px|Figure 2: Push-pull system of the semicircular canals, for a horizontal head movement to the right.]]
+
+The canals are arranged in such a way that each canal on the left side has an almost parallel counterpart on the right side. Each of these three pairs works in a ''push-pull'' fashion: when one canal is stimulated, its corresponding partner on the other side is inhibited, and vice versa.
+
+This push-pull system makes it possible to sense all directions of rotation: while the ''right horizontal canal'' gets stimulated during head rotations to the right (Fig 2), the ''left horizontal canal'' gets stimulated (and thus predominantly signals) by head rotations to the left.
+
+Vertical canals are coupled in a crossed fashion, i.e. stimulations that are excitatory for an anterior canal are also inhibitory for the contralateral posterior, and vice versa.
+
+===Vestibulo-ocular reflex (VOR)===
+[[Image:Simple vestibulo-ocular reflex.PNG|thumb|300px|left|The vestibulo-ocular reflex. A rotation of the head is detected, which triggers an inhibitory signal to the [[extraocular muscles]] on one side and an excitatory signal to the muscles on the other side. The result is a compensatory movement of the eyes.]]
+{{Main|Vestibulo-ocular reflex}}
+The '''vestibulo-ocular reflex''' ('''VOR''') is a [[reflex]] [[Eye movement (sensory)|eye movement]] that stabilizes images on the [[retina]] during head movement by producing an eye movement in the direction opposite to head movement, thus preserving the image on the center of the visual field. For example, when the head moves to the right, the eyes move to the left, and vice versa. Since slight head movements are present all the time, the VOR is very important for stabilizing vision: patients whose VOR is impaired find it difficult to read, because they cannot stabilize the eyes during small head tremors. The VOR reflex does not depend on visual input and works even in total darkness or when the eyes are closed.
+
+This reflex, combined with the push-pull principle described above, forms the physiological basis of the ''Rapid head impulse test'' or ''Halmagyi-Curthoys-test'', in which the head is rapidly and forcefully moved to the side, while observing whether the eyes keep looking in the same direction.
+
+===Mechanics===
+
+The mechanics of the semicircular canals can be described by a damped oscillator. If we designate the deflection of the cupula with <math>\theta</math>, and the head velocity with <math>\dot q</math>, the cupula deflection is approximately
+
+: <math>\theta (s) = \frac{\alpha s}{(T_1 s+1)(T_2 s+1)} \dot{q} (s)</math>
+
+α is a proportionality factor, and ''s'' corresponds to the frequency. For humans, the time constants T<sub>1</sub> and T<sub>2</sub> are approximately 3 ms and 5 s, respectively. As a result, for typical head movements, which cover the frequency range of 0.1&nbsp;Hz and 10&nbsp;Hz, the deflection of the cupula is approximately proportional to the head-velocity. This is very useful, since the velocity of the eyes must be opposite to the velocity of the head in order to have clear vision.
+
+===Central processing===
+
+Signals from the vestibular system also project to the cerebellum (where they are used to keep the VOR effective, a task usually referred to as ''learning'' or ''adaptation'') and to different areas in the cortex. The projections to the cortex are spread out over different areas, and their implications are currently not clearly understood.
+
+===Projection pathways===
+
+The vestibular nuclei on either sides of the brain stem exchange signals regarding movement and body position. These signals are sent down the following projection pathways.
+*To the Cerebellum. Signals sent to the cerebellum are relayed back as muscle movements of the head, eyes, and posture.
+*To Nuclei of Nerves III, IV, and VI. Signals sent to these nerves cause the vestibule-ocular reflex. They allow for the eyes to fix on a moving object while staying in focus.
+*To the Reticular Formation. Signals sent to the reticular formation signal the new posture the body has taken on and how to adjust circulation and breathing due to body position.
+*To the Spinal Cord.  Signals sent to the spinal cord allow quick reflex reactions to both the limbs and trunk to regain balance.
+*To the Thalamus.  Signals sent to the thalamus allow for head and body motor control as well as being conscious of body position.
+<ref>Saladin</ref>
+
+==Otolithic organ==
+While the semicircular canals respond to rotations, the [[otolithic organs]] sense linear accelerations. Humans have two on each side, one called [[Utricle (ear)|utricle]], the other [[saccule]]. The otoconia crystals in the otoconia layer rest on a viscous gel layer, and are heavier than their surroundings. Therefore they get displaced during linear acceleration, which in turn deflects the ciliary bundles of the hair cells and thus produces a sensory signal. Most of the utricular signals elicit eye movements, while the majority of the saccular signals projects to muscles that control our posture. While the interpretation of the rotation signals from the semicircular canals is straightforward, the interpretation of otolith signals is more difficult: since gravity is equivalent to a constant linear acceleration, one somehow has to distinguish otolith signals that are caused by linear movements from such that are caused by gravity. Humans can do that quite well, but the neural mechanisms underlying this separation are not yet fully understood. 
+Humans can sense head tilting and linear acceleration even in dark environments because of the orientation of two groups of hair cell bundles on either side of the striola.  Hair cells on opposite sides move with mirror symmetry, so when one side is moved, the other is inhibited.  The opposing effects caused by a tilt of the head, causing differential sensory inputs from the hair cell bundles allow humans to tell which way the head is tilting,<ref>http://www.ncbi.nlm.nih.gov/books/NBK10792/</ref> Sensory information is then sent to the brain, which can respond with appropriate corrective actions to the nervous and muscular systems to ensure that balance and awareness are maintained.<ref>http://weboflife.nasa.gov/learningResources/vestibularbrief.htm</ref>
+
+== Dark cells ==
+[[File:Vestibular dark cell area.png|thumb|Image of dark cell as it appears within the mammalian ear]]
+Dark cells are specialized nonsensory epithelial cells found on either side of the vestibular organs, and lining the endolymphatic space.  These dark-cell areas in the vestibular organ are structures involved in the production of endolymphatic fluid (endolymph), secreting potassium towards the endolymphatic fluid.  Dark cells take part in fluid homeostasis to preserve the unique high-potassium and low-sodium content of the endolymph and also maintain the calcium homeostasis of the inner ear. <sup>[1]</sup>
+
+Morphological and immunohistochemical studies in several species have indicated that these dark cell areas also form a single layer resting on top of pigmented cells at the base of the cristae ampullaris in the semi-circular canals and around the utricular macula. <sup>[1]</sup>
+
+=== Importance and research in dark cells ===
+
+Many species (with recent studies done on dogs) are affected by balance disorders and hearing problems that can be caused by a problem in the dark-cell areas in the vestibular endorgans.  Studies researching damaged dark cells due to genetic abnormalities or therapeutics are very important in attempting to understand the onset and mechanism of said balance impairments. <sup>[2]</sup>
+
+Dogs have been used as models due to similarities between humans and dogs with regards to inner ear size, inner ear lesions and susceptibility to ototoxins. <sup>[2]</sup>
+
+=== Dark cell structure ===
+
+Dark cells are morphologically and functionally similar to marginal cells of the stria vascularis as they both display characteristics of fluid transport tissue; however, studies indicate an earlier histological and immunohistological maturity in the dark-cell areas compared to the stria vascularis. <sup>[1]</sup>
+
+The dark cell epithelium is consisted of cells with a multitude of pinocytotic vesicles near their luminal surface.  A numerable portion of infoldings occurs at the basal end of the dark cell toward the basal membrane.  These infoldings contain a high quantity of mitochondria.  The nucleus of the dark cell is displaced toward the surface. <sup>[4]</sup>
+
+=== Mechanism of dark cells ===
+[[File:Potassium Transport System.png|thumb|Schematic model of the K+ transport system in vestibule through dark cell area]]
+Vestibular dark cells transport potassium into the inner ear endolymph, a potassium-rich fluid whose homeostasis is essential for hearing and balance.  Dark cell regions of the vestibular system are involved in active (energy consuming) ion transport to maintain the unusual endolymph composition.  In other words, dark cells utilize the Na<sup>+</sup>/K<sup>+</sup>-ATPase pump in order to transport potassium. <sup>[3]</sup>  
+
+As mentioned in dark cell structure, the basolateral membranes of vestibular dark cells are highly folded, allowing the enclosure of the numerous large mitochondria, and they contain high levels of Na<sup>+</sup>/K<sup>+</sup>-ATPase in both alpha and beta isoforms, transporting potassium into the cell in exchange for sodium while consuming ATP.<sup>[5]</sup>  The infoldings also create large surface area over which ion exchange can take place and the plethora of mitochondria enclosed provides the needed energy source of ATP for active transport.  
+
+The basolateral membrane also contains a Na<sup>+</sup>/K<sup>+</sup>/Cl<sup>—</sup>-co-transporter, (NKCC1) which transports all three ions into the cell.[6]  The transport of sodium into the cell enhances the effect of the Na+/K+-ATPase pump by stimulating the outward transport of Na+, and therefore, the inward transport of K+.  NKCC1 is the therapeutic target of action for loop diuretics in the kidney and loop diuretics have rapid, acute ototoxic side effects through an action on the co-transporter in vestibular dark cells. These acute ototoxic side effects inhibit ion transport resulting in accumulation of ions in the extracellular space leading to edema.<sup>[7]</sup>
+
+The apical membranes of the dark cells also have a k+ channel which is formed of two subunits, the KCNE1 regulatory protein and the KCNQ1 channel proteins.<sup>[8</sup>]  This channel provides the pathway through which K+ is secreted into the endolymph.  As a result, mutations in the KCNE1 gene disrupt endolymph production in the vestibular system, leading to the collapse of the epithelia of the roof of the utricle, saccule and ampullae, as well as dysfunction of the vestibular sensory organs.<sup>[8]</sup>
+
+==Experience from the vestibular system==
+Experience from the vestibular system is called [[equilibrioception]]. It is mainly used for the sense of [[Balance (ability)|balance]] and for [[spatial orientation]]. When the vestibular system is stimulated without any other inputs, one experiences a sense of self-motion. For example, a person in complete darkness and sitting in a chair will feel that he or she has turned to the left if the chair is turned to the left. A person in an [[elevator]], with essentially constant visual input, will feel she is descending as the elevator starts to descend. Although the vestibular system is a very fast sense used to generate reflexes to maintain perceptual and postural stability, compared to the other senses of vision, touch and audition, vestibular input is perceived with delay.<ref>Barnett-Cowan, M., and Harris, L. R. (2009), Perceived timing of vestibular stimulation relative to touch, light and sound Experimental Brain Research, 198: 221-231. doi: 10.1007/s00221-009-1779-4 http://link.springer.com/article/10.1007%2Fs00221-009-1779-4</ref>
+
+===Vestibular/somatogyral illusions===
+{{further|Sensory illusions in aviation}}
+
+==Pathologies==
+
+Diseases of the vestibular system can take different forms, and usually induce [[Vertigo (medical)|vertigo]] and instability, often accompanied by nausea. The most common vestibular diseases in humans are [[Vestibular neuritis]], a related condition called [[Labyrinthitis]], and [[BPPV]]. In addition, the function of the vestibular system can be affected by tumors on the [[vestibulocochlear nerve]], an infarct in the brain stem or in cortical regions related to the processing of vestibular signals, and cerebellar atrophy.
+
+Alcohol can also cause alterations in the vestibular system for short periods of time and will result in vertigo and possibly nystagmus.  This is due to the variable viscosity of the blood and the endolymph during the consumption of alcohol. The common term for this type of sensation is the "Bed Spins". 
+*PAN I - The alcohol concentration is higher in the blood than in the vestibular system, hence the endolymph is relatively dense.
+*PAN II - The alcohol concentration is lower in the blood than in the vestibular system, hence the endolymph is relatively dilute.
+
+It is interesting to note that PAN I will result in subjective vertigo in one direction and typically occurs shortly after ingestion of alcohol when blood alcohol levels are highest.  PAN II will eventually cause subjective vertigo in the opposite direction.  This occurs several hours after ingestion and after a relative reduction in blood alcohol levels.
+
+[[Benign paroxysmal positional vertigo]], or BPPV for short, is a condition resulting in acute symptoms of vertigo in people. It is probably caused when pieces that have broken off otoliths have slipped into one of the semicircular canals. In most cases it is the posterior canal that is affected. In certain head positions, these particles shift and create a fluid wave which displaces the cupula of the canal affected, which leads to dizziness, vertigo and [[pathologic nystagmus|nystagmus]].
+
+A similar condition to BPPV may occur in dogs and other mammals, but the term "vertigo" cannot be applied because it refers to subjective perception. Terminology is not standardized for this condition.
+
+A common vestibular pathology of dogs and cats is colloquially known as "Old Dog Vestibular Disease," or more formally idiopathic peripheral vestibular disease, which causes sudden episode of loss of balance, circling, head tilt, and other signs. This condition is very rare in young dogs but fairly common in geriatric animals, and may affect cats of any age.<ref>{{cite journal |last1=Rossmeisl |first1= John |year= 2010 |title=
+Vestibular Disease in Dogs and Cats |journal= Veterinary Clinics of North America: Small Animal Practice|volume= 40|issue=1|pages= 80–100 |url= http://www.sciencedirect.com/science/article/pii/S0195561609001454|accessdate= 6/2/2012 }}</ref>
+
+== See also ==
+*[[Migraine-associated vertigo]]
+
+==Footnotes==
+<references/>
+
+== References ==
+* {{cite book |author=S. M. Highstein, R. R. Fay, A. N. Popper, editors |title=The vestibular system |publisher=Springer |location=Berlin |year=2004 |pages= |isbn=0-387-98314-7 |oclc= |doi=}} ('''Comment:''' A book for experts, summarizing the state of the art in our understanding of the balance system)
+* {{cite book |author=Thomas Brandt |title=Vertigo : Its Multisensory Syndromes |publisher=Springer |location=Berlin |year=2003 |pages= |isbn=0-387-40500-3 |oclc= |doi=}} ('''Comment:''' For clinicians, and other professionals working with dizzy patients.)
+* Driver Drowsiness: Is something missing? J. Christopher Brill, Peter A. Hancock, Richard D. Gilson. University of Central Florida (2003) [http://ppc.uiowa.edu/driving-assessment/2003/Summaries/Downloads/Abstracts/DA2003_abstract30.pdf link] ('''Comment:''' Research on driver or motion-induced sleepiness aka '[[sopite syndrome]]' links it to the vestibular labyrinths.)
+*Saladin, Kenneth S. Anatomy & Physiology: The Unity of Form and Function, Sixth Edition. 6th ed. New York: McGraw-Hill, 2010.
+
+* [1]  Kimura R.S. (1969). Distribution, structure and function of dark cells in the vestibular labyrinth. ''Ann. Otol. Rhinol''. 78, 542-561. 
+
+* [2]  Pikrell J.A. Oehme F.W. and Cash W.C. (1993). Ototoxicity in dogs and cats. ''Sem. Vet. Med. Surg. Sm. Anim''. 8, 42-49. 
+
+* [3] Quraishi I.H. and Raphael R.M. (2006). Computational model of vectorial potassium transport by cochlear marginal cells and vestibular dark cells.  ''Am J Physiol Cell Physiol.''  292:C591-C602. 
+
+* [4] Takumida M. (1999).  Vestibular Dark Cells and Supporting Cells.  ''Equilib Res.''  193-198. 0385-5716. 
+
+* [5] McGuirt J.P. Schulte B.A. (1994). Distribution of immunoreactive alpha- and beta-subunit isoforms of Na,K-ATPase in the gerbil inner ear. ''Histochem Cytochem;'' 42: 843–53. 
+
+* [6] Crouch J.J. Sakaguchi N. Lytle C. Schulte B.A. (1997). Immunohistochemical localization of the Na-K-Cl co-transporter (NKCC1) in the gerbil inner ear. ''Histochem Cytochem''; 45: 773–8. 
+
+* [7] Forge A. Wright T. (2002). The molecular architecture of the inner ear. ''Br Med Bull.'' 63 (1): 5-24. doi: 10.1093/bmb/63.1.5. 
+
+* [8] Vetter D.E. Mann J.R. Wangemann P.  (1996). Inner ear defects induced by null mutation of the isk gene. ''Neuron;'' 17: 1251–6.
+
+== External links ==
+* [http://www.headimpulse.com (Video) Head Impulse Testing site] (vHIT) Site with thorough information about vHIT
+* [http://www.physpharm.fmd.uwo.ca/undergrad/sensesweb/ SensesWeb], which contains animations of all sensory systems, and additional links.
+* [http://www.dizzytimes.com/ Dizzytimes.com] Online Community for Sufferers of Vertigo and Dizziness.
+* [http://nba.uth.tmc.edu/neuroscience/s2/chapter10.html Vestibular System], ''Neuroscience Online'' (electronic neuroscience textbook)
+
+{{Sensory system}}
+{{Vestibular system}}
+{{Auditory and vestibular pathways}}
+
+[[Category:Nervous system]]
+[[Category:Vestibular system| ]]
+[[Category:Sensory system]]

@@ -1,0 +1,284 @@
+The '''bidomain''' model is a [[mathematical model]] of the electrical properties of [[cardiac muscle]] that takes into account the [[anisotropy]] of both the [[intracellular]] and [[extracellular]] spaces.
+
+The bidomain model was developed in the late 1970s.
+<ref name=Biofizkia1977a>{{cite journal
+ | author = Muler AL, Markin VS
+ | year = 1977
+ | title =  Electrical properties of anisotropic nerve-muscle syncytia-I. Distribution of the electrotonic potential.
+ | journal = Biofizika
+ | volume = 22
+ | pages = 307–312
+ | pmid = 861269
+ | issue = 2
+ }}</ref>
+<ref name=Biofizkia1977b>{{cite journal
+ | author = Muler AL, Markin VS
+ | year = 1977
+ | title =  Electrical properties of anisotropic nerve-muscle syncytia-II. Spread of flat front of excitation.
+ | journal = Biofizika
+ | volume = 22
+ | pages = 518–522
+ | pmid = 889914
+ | issue = 3
+ }}</ref>
+<ref name=Biofizkia1977c>{{cite journal
+ | author = Muler AL, Markin VS
+ | year = 1977
+ | title =  Electrical properties of anisotropic nerve-muscle syncytia-III. Steady form of the excitation front.
+ | journal = Biofizika
+ | volume = 22
+ | pages = 671–675
+ | pmid = 901827
+ | issue = 4
+ }}</ref>
+<ref name=TungPhD1978>{{cite journal
+ | author = Tung L
+ | year = 1978
+ | title =  A bi-domain model for describing ischemic myocardial d-c potentials.
+ | journal = PhD dissertation, MIT, Cambridge, Mass.
+ }}</ref>
+<ref name=CircRes1978>{{cite journal
+ | author = Miller WT III, Geselowitz DB
+ | year = 1978
+ | title =  Simulation studies of the electrocardiogram, I. The normal heart.
+ | journal = Circulation Research
+ | volume = 43
+ | pages = 301–315
+ | pmid = 668061
+ | issue = 2
+ }}</ref>
+<ref name=BullMathBiol1979a>{{cite journal
+ | author = Peskoff A
+ | year = 1979
+ | title =  Electric potential in three-dimensional electrically syncytial tissues.
+ | journal = Bulletin of Mathematical Biology
+ | volume = 41
+ | pages = 163–181
+ | pmid = 760880
+ | issue = 2
+ }}</ref>
+<ref name=BullMathBiol1979b>{{cite journal
+ | author = Peskoff A
+ | year = 1979
+ | title =  Electric potential in cylindrical syncytia and muscle fibers.
+ | journal = Bulletin of Mathematical Biology
+ | volume = 41
+ | pages = 183–192
+ | pmid = 760881
+ | issue = 2
+ }}</ref>
+<ref name=BiphysJ1979>{{cite journal
+ | author = Eisenberg RS, Barcilon V, Mathias RT
+ | year = 1979
+ | title =  Electrical properties of spherical syncytia.
+ | journal = Biophysical Journal
+ | volume = 48
+ | pages = 449–460
+ | pmid = 4041538
+ | issue = 3
+ | pmc = 1329358
+ | doi = 10.1016/S0006-3495(85)83800-5
+ | bibcode=1985BpJ....48..449E
+ }}</ref>
+It is a generalization of one-dimensional [[cable theory]]. The bidomain model is a continuum model, meaning that it represents the average properties of many cells, rather than describing each cell individually.
+<ref name=CritRev1993a>{{cite journal
+ | author = Neu JC, Krassowska W
+ | year = 1993
+ | title =  Homogenization of syncytial tissues.
+ | journal = Critical Reviews of Biomedical Engineering
+ | volume = 21
+ | pages = 137–199
+ }}</ref>
+
+Many of the interesting properties of the bidomain model arise from the condition of unequal anisotropy ratios. The [[electrical conductivity]] in anisotropic tissue is different parallel and perpendicular to the fiber direction. In a tissue with unequal anisotropy ratios, the ratio of conductivities parallel and perpendicular to the fibers is different in the intracellular and extracellular spaces. For instance, in cardiac tissue, the anisotropy ratio in the intracellular space is about 10:1, while in the extracellular space it is about 5:2.
+<ref name=IEEETBME1997>{{cite journal
+ | author = Roth BJ
+ | year = 1997
+ | title =  Electrical conductivity values used with the bidomain model of cardiac tissue.
+ | journal = IEEE Transactions on Biomedical Engineering
+ | volume = 44
+ | pages = 326–328
+ | pmid = 9125816
+ | issue = 4
+ | doi = 10.1109/10.563303
+ }}</ref>
+Mathematically, unequal anisotropy ratios means that the effect of anisotropy cannot be removed by a change in the distance scale in one direction.
+<ref name=JMathBiol1992>{{cite journal
+ | doi = 10.1007/BF00948895
+ | author = Roth BJ
+ | year = 1992
+ | title =  How the anisotropy of the intracellular and extracellular conductivities influences stimulation of cardiac muscle.
+ | journal = Journal of Mathematical Biology
+ | volume = 30
+ | pages = 633–646
+ | pmid = 1640183
+ | issue = 6
+ }}</ref>
+Instead, the anisotropy has a more profound influence on the electrical behavior.
+<ref name=CritRev1993b>{{cite journal
+ | author = Henriquez CS
+ | year = 1993
+ | title =  Simulating the electrical behavior of cardiac tissue using the bidomain model.
+ | journal = Critical Reviews of Biomedical Engineering
+ | volume = 21
+ | pages = 1–77
+ }}</ref>
+
+Three examples of the impact of unequal anisotropy ratios are
+* the distribution of [[transmembrane potential]] during unipolar stimulation of a sheet of cardiac tissue,<ref name=BiophysJ1989>{{cite journal
+ | author = Sepulveda NG, Roth BJ, Wikswo JP Jr
+ | year = 1989
+ | title =  Current injection into a two-dimensional bidomain.
+ | journal = Biophysical Journal
+ | volume = 55
+ | pages = 987–999
+ | pmid = 2720084
+ | issue = 5
+ | pmc = 1330535
+ | doi = 10.1016/S0006-3495(89)82897-8
+ | bibcode=1989BpJ....55..987S
+ }}</ref>
+* the [[magnetic field]] produced by an action potential wave front propagating through cardiac tissue,<ref name=BiophysJ1987>{{cite journal
+ | author = Sepulveda NG, Wikswo JP Jr
+ | year = 1987
+ | title =  Electric and magnetic fields from two-dimensional bisyncytia.
+ | journal = Biophysical Journal
+ | volume = 51
+ | pages = 557–568
+ | pmid = 3580484
+ | issue = 4
+ | pmc = 1329928
+ | doi = 10.1016/S0006-3495(87)83381-7
+ | bibcode=1987BpJ....51..557S
+ }}</ref>
+* the effect of fiber curvature on the transmembrane potential distribution during a electric shock.<ref name=IEEETBME1993>{{cite journal
+ | author = Trayanova N, Roth BJ, Malden LJ
+ | year = 1993
+ | title =  The response of a spherical heart to a uniform electric field: A bidomain analysis of cardiac stimulation.
+ | journal = IEEE Transactions on Biomedical Engineering
+ | volume = 40
+ | pages = 899–908
+ | pmid = 8288281
+ | issue = 9
+ | doi = 10.1109/10.245611
+ }}</ref>
+The bidomain model is now widely used to model [[defibrillation]] of the heart.
+
+
+==Formulation==
+
+===Standard formulation===
+
+The monodomain model can be formulated as follows:
+: <math>
+\begin{alignat}{2}
+\nabla \cdot \left(\mathbf\Sigma_i \nabla v \right) + \nabla \cdot \left(\mathbf\Sigma_i \nabla v_e \right) & = \chi \left( C_m \frac{\partial v}{\partial t} + I_{ion} \right) \\
+\nabla \cdot \left( \mathbf\Sigma_i \nabla v \right) + \nabla \cdot \left( \left( \mathbf\Sigma_i + \mathbf\Sigma_e \right) \nabla v_e \right) & = 0
+\end{alignat}
+</math>
+
+===Formulation with boundary conditions and surrounding tissue===
+
+The surrounding tissue <math>\mathbb T</math> can be included to give reasonable boundary conditions to make the system solvable:
+: <math>
+\begin{alignat}{4}
+\nabla \cdot \left(\mathbf\Sigma_i \nabla v \right) + \nabla \cdot \left(\mathbf\Sigma_i \nabla v_e \right) & = \chi \left( C_m \frac{\partial v}{\partial t} + I_{ion} \right) & \,\,\,\,\,\,\, & \mathbf x \in \mathbb H \\
+\nabla \cdot \left( \mathbf\Sigma_i \nabla v \right) + \nabla \cdot \left( \left( \mathbf\Sigma_i + \mathbf\Sigma_e \right) \nabla v_e \right) & = 0 && \mathbf x \in \mathbb H  \\
+\nabla \cdot \left( \mathbf\Sigma_0 \nabla v_0 \right) & = 0 && \mathbf x \in \mathbb T \\
+\vec n \cdot \left( \mathbf\Sigma_0 \nabla v_0 \right) & = 0 && \mathbf x \in \partial \mathbb T \\
+\vec n \cdot \left( \mathbf\Sigma_0 \nabla v_0 \right) - \vec n \cdot \left( \mathbf\Sigma_e \nabla v_e \right) & = 0 && \mathbf x \in \partial \mathbb H \\
+\vec n \cdot \left( \mathbf\Sigma_i \nabla v \right) + \vec n \cdot \left( \mathbf\Sigma_i \nabla v_e \right) & = 0 && \mathbf x \in \partial \mathbb H
+\end{alignat}
+</math>
+
+==Derivation==
+
+Let <math>\mathbb H</math> with boundary <math>\partial \mathbb H</math> be the set of all points <math>\mathbf x</math> in the heart.
+In each point in <math>\mathbb H</math> there is an intra- and extracellular voltage and current, denoted by <math>v_i</math>, <math>v_e</math>, <math>J_i</math> and <math>J_e</math> respectively.
+Let <math>\mathbf\Sigma_i</math> and <math>\mathbf\Sigma_e</math> be the intra- end extracellular conductivity tensor matrices respectively.
+
+We assume Ohmic [[Current–voltage characteristic|current-voltage relationship]] and get
+: <math>
+\begin{alignat}{2}
+J_i & = -\mathbf\Sigma_i \nabla v_i \\
+J_e & = -\mathbf\Sigma_e \nabla v_e.
+\end{alignat}
+</math>
+
+We require that there is no accumulation of charge anywhere in <math>\mathbb H</math>, and therfore that
+: <math>
+\begin{alignat}{2}
+\nabla \cdot \left( J_i + J_e \right) & = 0 \\
+\nabla \cdot \left( -\mathbf\Sigma_i \nabla v_i - \mathbf\Sigma_e \nabla v_e \right) & = 0
+\end{alignat}
+</math>
+giving one of the model equations:
+{{NumBlk|:|<math>
+\nabla \cdot \left( \mathbf\Sigma_i \nabla v_i \right) + \nabla \cdot \left( \mathbf\Sigma_e \nabla v_e \right) = 0
+.</math>|{{EquationRef|1}}}}
+This equation states that all current exiting one domain must enter the other.
+
+The transmembrane current is given by
+{{NumBlk|:|<math>
+J_t = \nabla \cdot \left( \mathbf\Sigma_i \nabla v_i \right) = -\nabla \cdot \left( \mathbf \Sigma_e \nabla v_e \right)
+.</math>|{{EquationRef|2}}}}
+
+We model the membrane similarly to that of the [[Cable theory|cable equation]],
+{{NumBlk|:|<math>
+J_t = \chi \left( C_m \frac{\partial v}{\partial t} + I_{ion} \right)
+,</math>|{{EquationRef|3}}}}
+where <math>\chi</math> is the surface to volume ratio of the membrane, <math>C_m</math> is the electrical [[capacitance]] per unit area, <math>v=v_i-v_e</math> and <math>I_{ion}</math> is the ionic current over the membrane per unit area.
+
+Combining equations ({{EquationNote|2}}) and ({{EquationNote|3}}) gives
+: <math>
+\nabla \cdot \left( \mathbf\Sigma_i \nabla v_i \right) = \chi \left( C_m \frac{\partial v}{\partial t} + I_{ion} \right)
+,</math>
+which can be rearranged using <math>v=v_i-v_e</math> to get another model equation:
+{{NumBlk|:|<math>
+\nabla \cdot \left( \mathbf\Sigma_i \nabla v \right) + \nabla \cdot \left( \mathbf\Sigma_i \nabla v_e \right) = \chi \left( C_m \frac{\partial v}{\partial t} + I_{ion} \right)
+.</math>|{{EquationRef|4}}}}
+
+===Boundary conditions===
+
+In order to solve the model, boundary conditions are needed. One way to define the boundary condition is to extend the model with a volume <math>\mathbb T</math> with perimiter <math>\partial \mathbb T</math> that surrounds the heart and represent the body tissue.
+
+As was the case for <math>\mathbb H</math>, we assume no accumulation of charge in <math>\mathbb T</math>, i.e.
+{{NumBlk|:|<math>
+\nabla \cdot \left( \mathbf\Sigma_0 \nabla v_0 \right) = 0 \,\,\,\,\,\,\, \mathbf x \in \mathbb T
+,</math>|{{EquationRef|5}}}}
+where <math>\mathbf\Sigma_0</math> is the conductance tensor of the body tissue and <math>v_0</math> is the voltage in <math>\mathbb T</math>.
+
+Assuming that the body is electrically surrounded from the environment, there can be no current component on the surface <math>\partial \mathbb T</math> in the normal direction, hence:
+{{NumBlk|:|<math>
+\vec n \cdot \left( \mathbf\Sigma_0 \nabla v_0 \right) = 0 \,\,\,\,\,\,\, \mathbf x \in \partial \mathbb T
+.</math>|{{EquationRef|6}}}}
+
+On the surface of the heart, a common assumption is that there is a direct connection between the surrounding tissue and the extracellular domain. This means that the potentials <math>v_e</math> and <math>v_0</math> must be equal on the heart surface, i.e.
+{{NumBlk|:|<math>
+v_e = v_0 \,\,\,\,\,\,\, \mathbf x \in \partial \mathbb H
+.</math>|{{EquationRef|7}}}}
+
+This direct connection also require that all ionic current exiting <math>\mathbb T</math> on the heart surface, must enter the extracellular domain, and vica versa. This gives another boundary condition:
+{{NumBlk|:|<math>
+\vec n \cdot \left( \mathbf\Sigma_0 \nabla v_0 \right) = \vec n \cdot \left( \mathbf\Sigma_e \nabla v_e \right) \,\,\,\,\,\,\, \mathbf x \in \partial \mathbb H
+.</math>|{{EquationRef|8}}}}
+
+Finally, we assume that there is a complete isolation of the intracellular domain and the surrounding tissue. Similarly to equation ({{EquationNote|2}}), we get
+: <math>
+\vec n \cdot \left( \mathbf\Sigma_i \nabla v_i \right) = 0 \,\,\,\,\,\,\, \mathbf x \in \partial \mathbb H
+</math>
+which can be rewritten using <math>v=v_i-v_e</math> to
+{{NumBlk|:|<math>
+\vec n \cdot \left( \mathbf\Sigma_i \nabla v \right) + \vec n \cdot \left( \mathbf\Sigma_i \nabla v_e \right) = 0 \,\,\,\,\,\,\, \mathbf x \in \partial \mathbb H
+.</math>|{{EquationRef|9}}}}
+
+Extending the model to include equations ({{EquationNote|5}})-({{EquationNote|9}}) gives a solvable system of equations.
+
+==Reduction to monodomain model==
+By assuming equal anisotropy ratios for the intra- and extracellular domains, i.e. <math>\mathbf\Sigma_i = \alpha\mathbf\Sigma_e</math> for some scalar <math>\alpha</math>, the model can be reduced to the [[monodomain model]].
+
+==References==
+{{reflist}}
+*[http://www.scholarpedia.org/article/The_bidomain_model Scholarpedia article about the bidomain model]
+
+[[Category:Cardiac electrophysiology]]

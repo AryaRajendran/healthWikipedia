@@ -1,0 +1,133 @@
+{{Interventions infobox |
+  Name        = Immunoassay |
+  Image       = Immunoassay.jpg|
+  Caption     = Illustration of the basic components of an immunoassay, which includes an analyte (green), an antibody (black), and a detectable label (yellow).|
+  ICD10       = |
+  ICD9        = |
+  MeshID      = D007118 |
+  OtherCodes  = |
+}}
+An '''immunoassay''' is a [[biochemical]] test that measures the presence or [[concentration]] of a [[macromolecule]] in a solution through the use of an [[antibody]] or immunoglobulin. The macromolecule detected by the immunoassay is often referred to as an "[[analyte]]" and is in many cases a [[protein]].  Analytes in biological liquids such as [[blood plasma|serum]] or [[urine]] are frequently measured using immunoassays for medical and research purposes. 
+
+Immunoassays come in a many different formats and variations. Immunoassays may be run in multiple steps with reagents being added and washed away or separated at different points in the assay. Multi-step assays often called separation immunoassays or heterogeneous immunoassays. Some immunoassays can be carried out simply by mixing the reagents and sample and making a physical measurement. Such assays are called homogenous immunoassays or less frequently non-separation immunoassays.
+
+The use of a calibrator is often employed in immunoassays. Calibrators are solutions that are known to contain the analyte in question, and the concentration of that analyte is generally known. Comparison of an assay's response to a real sample against the assay's response produced by the calibrators makes it possible to interpret the signal strength in terms of the presence or concentration of analyte in the sample.
+
+==Principle==
+
+Immunoassays rely on the ability of an antibody to recognize and bind a specific macromolecule in what might be a complex mixture of macromolecules. In immunology the particular macromolecule bound by an antibody is referred to as an [[antigen]] and the area on an antigen to which the antibody binds is called an [[epitope]].
+
+In some cases an immunoassay may use an antigen to detect for the presence of antibodies, which recognize that antigen, in a solution.  In other words, in some immunoassays, the analyte may be an antibody rather than an antigen.  
+
+In addition to the binding of an antibody to its antigen, the other key feature of all immunoassays is a means to produce a measurable signal in response to the binding. Most, though not all, immunoassays involve chemically linking antibodies or antigens with some kind of detectable label. A large number of labels exist in modern immunoassays, and they allow for detection through different means. Many labels are  detectable because they either emit radiation, produce a color change in a solution, fluoresce under light, or because they can be induced to emit light.
+
+==History==
+
+[[Rosalyn Yalow|Rosalyn Sussman Yalow]] and [[Solomon Berson]] are credited with the development of the first immunoassays in the 1950s. Yalow would accept the [[Nobel Prize]] for her work in immunoassays in 1977, becoming the second American woman to have won the award.<ref name=Rall>Rall JE. ''Solomon A. Berson''. In "Biographical Memoirs". National Academy of Sciences 1990;59:54-71. ISBN 0-309-04198-8. [http://www.nap.edu/books/0309041988/html/54.html Fulltext].</ref>
+
+Immunoassays became considerably simpler to perform and more popular when techniques for chemically linked enzymes to antibodies were demonstrated in the late 1960s.<ref>{{Cite journal|author=Lequin R |title=Enzyme immunoassay (EIA)/enzyme-linked immunosorbent assay (ELISA) |journal=Clin. Chem. |volume=51 |issue=12 |pages=2415–8 |year=2005 |pmid=16179424 |doi=10.1373/clinchem.2005.051532}}</ref>
+
+In 1993 Professor [[Anthony Campbell (scientist)|Anthony Campbell]]<ref>
+{{Citation
+| url   = http://www.cf.ac.uk/phrmy/contactsandpeople/fulltimeacademicstaff/campbell-anthonynew-biography_new.html 
+| title = Prof Anthony Campbell  -  MA PhD
+| work  = 
+| publisher  = [[Cardiff University]]
+| accessdate = 29 December 2012
+}}</ref>
+at [[Cardiff University]] replaced [[radioactive iodine]] used in immunoassay with an [[acridinium ester]] that makes its own light: [[chemiluminescence]]. This type of immunoassay is now used in around 100 million clinical tests every year worldwide, enabling clinicians to measure a wide range of proteins, pathogens and other molecules in blood samples.<ref>{{Citation
+| url   = http://www.rsc.org/chemistryworld/Issues/2003/June/rainbow.asp
+| title = NPS Focus
+| work  = Rainbow makers
+| publisher  = Royal Society of Chemistry (RSC) 
+| year   = 2003
+| accessdate = 29 December 2012
+}}</ref>
+
+==Labels==
+
+Immunoassays employ a variety of different labels to allow for detection of antibodies and antigens. Labels are typically chemically linked or conjugated to the desired antibody or antigen.
+[[File:ELISA.jpg|thumb|right|A sandwich ELISA run on a microtitre plate.]]
+
+===Enzymes===
+
+Possibly one of the most popular labels to use in immunoassays is [[enzyme]]s. Immunoassays which employ enzymes are referred to as [[ELISA|enzyme-linked immunosorbent assay]]s (ELISAs), or sometimes enzyme immunoassays (EIAs).
+
+Enzymes used in ELISAs include [[horseradish peroxidase]] (HRP), [[alkaline phosphatase]] (AP) or [[glucose oxidase]]. These enzymes allow for detection often because they produce an observable color change in the presence of certain reagents. In some cases these enzymes are exposed to reagents which cause them to produce light or [[Chemiluminescence|chemiluminesce]].
+
+===Radioactive Isotopes===
+
+Radioactive [[isotope]]s can be incorparted into immunoassay reagents to produce a [[radioimmunoassay]] (RIA). Radioactivity emitted by bound antibody-antigen complexes can be easily detected using conventional methods. 
+
+RIAs were some of the earliest immunoassays developed, but have fallen out of favor largely due to the difficultly and potential dangers presented by working with radioactivity.<ref>{{cite news |title=ELISA test marks 35 years of answering medical questions|author=Susan J. Landers|url=http://www.ama-assn.org/amednews/2006/04/03/hlsb0403.htm|newspaper=[[American Medical News]]|date=3 April 2006|accessdate=9 December 2012}}</ref><ref>{{cite web|url=http://www.america.gov/st/diversity-english/2008/April/20080427135047eaifas0.9798045.html#ixzz0rKOY0N87|title=Rosalyn Sussman Yalow|date=April 27, 2008|publisher=America.gov|accessdate=June 26, 2010}}</ref>
+
+===DNA Reporters===
+
+A newer approach to immunoassays involves combining [[real-time polymerase chain reaction]] (qPCR) and traditional immunoassay techniques. Called real-time immunoquantitative PCR (iqPCR) the label used in these assays is a [[DNA]] probe.<ref>{{cite journal |last1=Rajkovic|last2=El-Moualij|year=2006|title=Immunoquantitative real-time PCR for detection and quantification of Staphylococcus aureus enterotoxin B in foods.|journal=[[Applied and Environmental Microbiology]]|volume=72|issue=10|pages=6593–9|url=http://www.ncbi.nlm.nih.gov/pubmed/17021210|accessdate=13 December 2012}}</ref><ref>{{cite journal |last1=Gofflot|last2= El|year=2004|title=Immuno-quantitative polymerase chain reaction for detection and quantitation of prion protein.|journal=Journal of Immunoassay and Immunochemistry|volume=25|issue=3|pages=241–58|url=http://www.ncbi.nlm.nih.gov/pubmed/15461386|accessdate=13 December 2012}}</ref>
+
+===Fluorogenic Reporters===
+
+[[Fluorescence|Flourogenic]] reporters like [[phycoerythrin]] are used in a number of modern immunoassays.<ref>{{cite web |url=http://www.millipore.com/bmia/flx4/bmia_instruments&tab1=1&tab2=2#tab2=2:tab1=1|title=Luminex xMAP Technology|publisher=[[Millipore Corporation]]|accessdate=13 December 2012}}</ref> [[Protein microarray]]s are a type of immunoassay that often employ flourogenic reporters.<ref>{{cite journal |last1=Chatterjee|last2=Sitaraman|year=2008|title=Protein microarray on-demand: a novel protein microarray system.|journal=[[PLOS ONE]]|volume=272|issue=2|pages=165–70|publisher= |doi=10.1371/journal.pone.0003265|url=http://www.ncbi.nlm.nih.gov/pubmed/10415085|accessdate=13 December 2012}}</ref>
+
+===Electrochemiluminescent Tags===
+
+Some labels work on an [[Electrochemiluminescence|electrochemiluminescent]] principle, in which the label emmits detectable light in response to electrical current.<ref>{{cite journal | author=Forster RJ, Bertoncello P, Keyes TE | title=Electrogenerated Chemiluminescence | journal=Annual Review of Analytical Chemistry | year=2009 | pages=359–85| volume=2 | pmid=20636067 |url=http://arjournals.annualreviews.org/doi/abs/10.1146/annurev-anchem-060908-155305 | doi=10.1146/annurev-anchem-060908-155305|bibcode = 2009ARAC....2..359F }}</ref>
+
+===Labeless Immunoassays===
+
+While some kind of label is generally employed in immunoassays, there are certain kinds of assays which do not rely on labels, but instead employ detection methods that don't require the modification or labeling the components of the assay. [[Surface plasmon resonance]] is an example of technique that can detect binding between an unlabeled antibody and antigens.<ref>{{cite journal|author=J. B. González-Díaz ''et al.''|title=Plasmonic Au/Co/Au nanosandwiches with Enhanced Magneto-Optical Activity|journal=Small |volume=4|year=2008|doi= 10.1002/smll.200700594|pmid=18196506|issue=2|pages=202–5}}</ref> Another demonstrated labeless immunoassay involves measuring the change in resistance on an electrode as antigen binds to it.<ref>{{cite journal|author=Georgios Tsekenis|title=Label-less immunosensor assay for myelin basic protein based upon an ac impedance protocol.|journal=[[Analytical Chemistry (journal)]]|volume=80|year=2008|pages=2058–62|doi=10.1021/ac702070e|issue=6}}</ref>
+
+==Classifications and Formats==
+[[File:Competitive homogeneous immunoassay.jpg|thumb|right|In a competitive, homogeneous immunoassay unlabeled analyte displaces bound labelled analyte, which is then detected or measured.]]
+Immunoassays can be run in a number of different formats. Generally, an immunoassay will fall into one of several categories depending on how it is run.<ref>{{cite book |last=Goldys|first=Ewa|title=Fluorescence Applications in Biotechnology and Life Sciences|url=http://books.google.com/books?id=4Lu_Fsspx9YC&printsec=frontcover&dq=Fluorescence+Applications+in+Biotechnology+and+Life+Sciences&hl=en&sa=X&ei=JZzHUK3PJsbX0QHiyoF4&ved=0CDgQ6AEwAA|accessdate=11 December 2012|publisher=[[Wiley-Blackwell]]|isbn=0470083700|page=311}}</ref>
+
+===Competitive, homogeneous immunoassays===
+In a competitive, homogeneous immunoassay, unlabeled analyte in a sample competes with labelled analyte to bind an antibody. The amount of labelled, unbound analyte is then measured. In theory, the more analyte in the sample, the more labelled analyte gets competed off and hence the amount of labelled, unbound analyte is proportional to the amount of analyte in the sample.
+[[File:Sandwich Immunoassay, ELISA.jpg|thumb|left|Two-site, noncompetitive immunoassays usually consist of an analyte "sandwiched" between two antibodies. ELISAs are often run in this format]]
+
+===Competitive, heterogeneous immunoassays===
+
+As in a competitive, homogeneous assay, in a competitive, heterogeneous immunoassay unlabeled analyte in a sample competes with labelled analyte to bind an antibody. In the heterogeneous assays the labelled, unbound analyte is separated or washed away, and the remaining labelled, bound analyte is measured.
+
+===One-site, noncompetitive immunoassays===
+
+The unknown analyte in the sample binds with labeled antibodies. The unbound, labeled antibodies are washed away, and the bound, labeled is measured, which is directly proportional to the amount of unknown analyte.
+
+===Two-site, noncompetitive immunoassays===
+
+The analyte in the unknown sample is bound to the antibody site, then labeled antibody is bound to the analyte. The amount of labeled antibody on the site is then measured. It will be directly proportional to the concentration of the analyte because labeled antibody will not bind if the analyte is not present in the unknown sample. This type is also known as sandwich assay as the analyte is "sandwiched" between two antibodies.
+
+==Examples of Immunoassays==
+
+===Clinical tests===
+
+A wide range of clinical tests are immunoassays. Many home [[pregnancy test]]s are immunoassays, which detect the pregnancy marker [[human chorionic gonadotropin]].<ref>{{cite web |url=http://www.elisa-antibody.com/index.php?page=home-pregnancy-test|title=ELISA for Home Pregnancy Test|accessdate=11 December 2012}}</ref><ref>{{cite journal |last1=Butler|first1=SA|year=2001|title=Detection of early pregnancy forms of human chorionic gonadotropin by home pregnancy test devices.|journal=[[Clinical Chemistry (journal)]]|volume=47|issue=12|pages=2131|url=http://www.ncbi.nlm.nih.gov/pubmed/11719477|accessdate=11 December 2012}}</ref> A few examples of other clinical immunoassays include tests that measure levels of [[CPK-MB test|CK-MB]] to assess heart disease, [[insulin]] to assess [[hypoglycemia]] and [[prostate-specific antigen]] to detect [[prostate cancer]].<ref>{{cite journal |last1=Twyman|first1=SA|year=2001|title=Immunoassays, applications: Clinica|journal=Encyclopedia of Analytical Science|volume=4|pages=317–324|url=http://www.writescience.com/RMT%20PDFs/Elsevier/eans%20immoassays%20clinapp.pdf|accessdate=11 December 2012}}</ref>
+
+===Sports anti-doping analysis===
+Immunoassay is used in sports anti-doping laboratories to test athletes' blood samples for prohibited [[Growth hormone in sports|recombinant human growth hormone]] (rhGH, rGH, hGH, GH).<ref>{{cite journal | title= An overview of the doping control analysis during the Olympic Games of 2004 in Athens, Greece.|author= Tsivou M, Kioukia-Fougia N, Lyris E, Aggelis Y, Fragkaki A, Kiousi X, Simitsek Ph, Dimopoulou H, Leontiou I-P, Stamou M, Spyridaki M-H, Georgakopoulos C|journal= Analytica Chimica Acta|volume= 555|pages= 1–13|year= 2006|doi=10.1016/j.aca.2005.08.068}}</ref>
+
+== See also ==
+* [[ELISA]]
+* [[MELISA]]
+* [[Cloned enzyme donor immunoassay|CEDIA]]
+* [[Immunoscreening]]
+* [[Lateral flow test]]
+* [[Magnetic immunoassay]]
+* [[Radioimmunoassay]]
+* [[Surround Optical Fiber Immunoassay (SOFIA)]]
+
+==References==
+{{reflist}}
+
+== External links ==
+"The Immunoassay Handbook", 3rd Edition, David Wild, Ed., Elsevier,2008
+*[http://www.readerfit.com Online Tool for Immunoassay Analysis]
+* Learning Guides from Abbott Laboratories on Immunoassay (English): [http://www.abbottdiagnostics.com/science/pdf/learning_immunoassay_01.pdf Part 1] [http://www.abbottdiagnostics.com/science/pdf/learning_immunoassay_02.pdf Part 2] [http://www.abbottdiagnostics.com/science/pdf/learning_immunoassay_03.pdf Part 3] [http://www.abbottdiagnostics.com/science/pdf/learning_immunoassay_04.pdf Part 4] [http://www.abbottdiagnostics.com/science/pdf/learning_immunoassay_appendices.pdf Appendix]
+* {{MeshName|Immunoassay}}
+* [http://www.xiril.com/xiril/applications/elisapreparation/index.html Automation of Immunoassays]
+* Chapter 5 and 6 in the book "Bioanalytical Chemistry" by Susan R. Mikkelsen
+
+{{Immunologic techniques and tests}}
+
+[[Category:Biochemistry methods]]
+[[Category:Immunologic tests]]

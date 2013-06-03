@@ -1,0 +1,94 @@
+The '''transmission disequilibrium test (TDT)''' was proposed by Spielman, McGinnis and [[Warren Ewens|Ewens]] (1993)<ref name=Spielman93>{{cite journal |author=Spielman RS, McGinnis RE, Ewens WJ |title=Transmission test for linkage disequilibrium: the insulin gene region and insulin-dependent diabetes mellitus (IDDM) |journal=Am J Hum Genet. |volume=52 |issue=3 |pages=506–16 |year=1993 |month=Mar |pmid=8447318 |pmc=1682161 }}</ref> as a family-based association test for the presence of [[genetic linkage]] between a genetic marker and a trait. It is an application of [[McNemar's test]].
+
+A specificity of the TDT is that it will detect [[genetic linkage]] only in the presence of [[genetic association]].
+While [[genetic association]] can be caused by population structure, [[genetic linkage]] will not be affected, which makes the TDT robust to the presence of population structure.
+
+== The case of trios: one affected child per family ==
+
+=== Description of the test ===
+
+We first describe the TDT in the case where families consist of trios (two parents and one affected child). Our description follows the notations used in Spielman, McGinnis & Ewens (1993).<ref name=Spielman93/>
+
+The TDT measures the over-transmission of an allele from heterozygous parents to affected offsprings.
+The ''n'' affected offsprings have 2''n'' parents. These can be represented by the transmitted and the non-transmitted alleles <math> M_1 </math> and <math> M_2 </math> at some genetic locus. Summarizing the data in a 2 by 2 table gives:
+
+<center>
+<table border=1>
+<tr> <td></td> <td colspan="2"><center>'''Non-transmitted allele'''</center></td></tr>
+<tr> <td></td>  <td> <math> M_1 </math> </td><td>  <math> M_2 </math> </td><td>Total</td></tr>
+<tr> <td>'''Transmitted allele''' </td>  <td></td>  <td></td> <td></td> </tr>
+<tr> <td> <math> M_1 </math> </td> <td> ''a'' </td> <td> ''b'' </td>  <td> ''a'' + ''b'' </td> </tr>
+<tr> <td> <math> M_2 </math> </td> <td> ''c'' </td> <td> ''d'' </td>  <td> ''c'' + ''d'' </td> </tr>
+<tr> <td> Total</td> <td> ''a'' + ''c'' <td> ''b'' + ''d'' </td> <td> 2''n'' </td> </tr>
+</table>
+</center>
+
+The derivation of the TDT shows that one should only use the heterozygous parents (total number ''b''+''c'').
+The TDT tests whether the proportions ''b''/(''b''+''c'') and ''c''/(''b''+''c'') are compatible with probabilities (0.5, 0.5).
+This hypothesis can be tested using a binomial (asymptotically chi-square) test with one degree of freedom:
+
+<math> \chi^2 = \frac{ [b  -  (b+c)/2]^2}{(b+c)/2} + \frac{ [c - (b+c)/2]^2}{(b+c)/2} = \frac{(b-c)^2}{b+c} </math>
+
+=== Outline of the test derivation ===
+
+A derivation of the test consists of using a population genetics model to obtain the expected proportions for the quantities <math> a,b,c </math> and <math> d </math> in the table above. In particular, one can show that under nearly all disease models the expected proportion of <math> b </math> and <math> c </math> are identical. This result motivates the use of a binomial (asymptotically <math> \chi^2 </math>) test to test whether these proportions are equal.
+
+On the other hand, one can also show that under such models the proportions <math> a,b,c </math> and <math> d </math> are not equal to the product of the marginals probabilities <math> (a+b)/2n</math>, <math> (c+d)/2n </math> and <math> (a+c)/2n </math>, <math> (b+d)/2n </math>. A rewording of this statement would be that the type of the transmitted allele is not, in general, independent of the type of the non-transmitted allele. A consequence is that a <math> \chi^2 </math> test for homogeneity/independence does not test the appropriate hypothesis, and thus, only heterozygous parents are included.
+
+== Extension to two affected child per family ==
+
+=== Extension of the test ===
+
+The TDT can be readily extended beyond the case of trios. We keep following the notations of Spielman, McGinnis & Ewens (1993).<ref name=Spielman93/> Let us consider a total of <math> h </math> heterozygous parents. We use the fact that the transmission to different children are independent. The information can be then summarized in three categories:
+
+<math> i </math>  = number of parents who transmit <math> M_1 </math> to both children.<br>
+<math> h-i-j </math>  = number of parents who transmit <math> M_1 </math> to one child and <math> M_2 </math> to another. <br>
+<math> j </math>  = number of parents who transmit <math> M_2 </math> to both children.
+
+Using the notations of the previous paragraph we have:
+
+: <math> b = 2i + (h-i-j) = h + i - j \, </math>
+: <math> c = 2j + (h-i-j) = h - i + j \, </math>
+
+leading to the [[chi-squared test]] statistic:
+
+: <math> \chi_{tdt}^2 = \frac{4(i-j)^2}{h}. </math>
+
+=== Relation with another linkage statistic ===
+
+The comparison with the more traditional (at least at the time when the TDT was proposed) linkage test proposed by Blackwelder and Elston 1985<ref>{{cite journal |author=Blackwelder WC, Elston RC |title=A comparison of sib-pair linkage tests for disease susceptibility loci |journal=Genetic epidemiology |volume=2 |issue=1 |pages=85–97 |year=1985 |pmid=3863778 |doi=10.1002/gepi.1370020109 |url=}}</ref> is informative.
+The Blackwelder and Elston approach uses the total number of haplotypes identical by descent (mean haplotype sharing). This measure ignores the allelic state of a marker and simply compares the number of times a parent transmits the same allele to both affected children with the number of times a different allele is transmitted.
+The test statistic is:
+
+: <math> \chi^2_{hs} = \frac{(2i+2j-h)^2}{h}. </math>
+
+Under the [[null hypothesis]] of no linkage the expected proportions of (''i'',&nbsp;''h''&nbsp;&minus;&nbsp;''i''&nbsp;&minus;&nbsp;''j'',&nbsp;''j'') are (0.25,&nbsp;0.5,&nbsp;0.25).  One can derive a simple chi-square statistic with 2 degrees of freedom:
+
+: <math> \chi^2_{total} = \frac{(i - h/4)^2}{h/4} + \frac{(h-i-j-h/2)^2}{h/2} + \frac{(j-h/4)^2}{h/4} = \chi^2_{tdt} + \chi^2_{hs}.</math>
+
+It clearly appears that the total statistic (with two degree of freedom) is the sum of two independent components: one is the traditional linkage measure and the other is the TDT statistic.
+
+== A modified version of the TDT ==
+
+More recently, Wittkowski KM, Liu X. (2002/2004)<ref>{{cite journal |author=Wittkowski KM, Liu X |title=A statistically valid alternative to the TDT |journal=Hum Hered. |volume=54 |issue=3 |pages=157–64 |year=2002 |pmid=12626848 |doi=10.1159/000068840 |url=}}<br/>
+{{cite journal |author=Ewens WJ, Spielman RS |title=The TDT is a statistically valid test: comments on Wittkowski and Liu |journal=Hum Hered. |volume=58 |issue=1 |pages=59–60; author reply 60–1; discussion 61–2 |year=2004 |pmid=15604566 |doi=10.1159/000081458 |url=}}</ref> proposed a modification to the TDT that can be more powerful under some alternatives, although the asymptotic properties under the null hypothesis are equivalent.
+
+The motivating idea for this modification is the fact that, while the transmissions of both allele from parents to a child are independent, the effects of other filial genetic or environmental covariates on [[penetrance]] are the same for both alleles transmitted to the same child. This situation can be important if, for example, the genetic marker is linked to a disease locus with a strong selection against heterozygous individuals. This observation suggests to shift the statistical model from a set of independent transmissions to a set of independent children (see Sasieni (1997)<ref>{{cite journal |doi=10.2307/2533494 |author=Sasieni PD |title=From genotypes to genes: doubling the sample size |journal=Biometrics |volume=53 |issue=4 |pages=1253–61 |year=1997 |month=Dec |pmid=9423247 |jstor=2533494 }}</ref> for the corresponding problem in case-control association tests). While this observation does not affect the distribution under the null hypothesis of no linkage, it allows, for some disease models, to design a more powerful test.
+
+In this modified TDT test the children are stratified by parental type and the modified test statistic becomes:
+
+: <math>  \chi^2 = \frac{ \left[ [n_{PQ} - n_{QQ}]_{PQ \sim QQ} + 2\times[n_{PP} - n_{QQ}]_{PQ \sim PQ} + [n_{PP} - n_{PQ}]_{PP \sim PQ} \right]^2}{[n_{PQ} + n_{QQ}]_{PQ \sim QQ} + 4\times[n_{PP} + n_{QQ}]_{PQ \sim PQ} + [n_{PQ} + n_{PP}]_{PP \sim PQ}}
+</math>
+
+where <math> [n_{PQ}]_{PQ \sim QQ} </math> is the number of PQ children from parents with the PQ and QQ types.
+
+==References==
+{{reflist}}
+
+*{{cite journal |author=Ewens WJ, Spielman RS |title=What is the significance of a significant TDT? |journal=Hum Hered. |volume=60 |issue=4 |pages=206–10 |year=2005 |pmid=16391488 |doi=10.1159/000090544 |url=}}
+*{{cite journal |author=Spielman RS, Ewens WJ |title=A sibship test for linkage in the presence of association: the sib transmission/disequilibrium test |journal=Am J Hum Genet. |volume=62 |issue=2 |pages=450–8 |year=1998 |month=Feb |pmid=9463321 |pmc=1376890 |doi=10.1086/301714 |url=}}
+*{{cite journal |author=Spielman RS, Ewens WJ |title=The TDT and other family-based tests for linkage disequilibrium and association |journal=Am J Hum Genet |volume=59 |issue=5 |pages=983–9 |year=1996 |month=Nov |pmid=8900224 |pmc=1914831 }}
+*{{cite journal |author=Ewens WJ, Spielman RS |title=The transmission/disequilibrium test: history, subdivision, and admixture |journal=Am J Hum Genet. |volume=57 |issue=2 |pages=455–64 |year=1995 |month=Aug |pmid=7668272 |pmc=1801556 }}
+*{{cite journal |author=McGinnis RE, Ewens WJ, Spielman RS |title=The TDT reveals linkage and linkage disequilibrium in a rare disease |journal=Genet Epidemiol. |volume=12 |issue=6 |pages=637–40 |year=1995 |pmid=8787986 |doi=10.1002/gepi.1370120619 |url=}}
+
+[[Category:Genetics]]

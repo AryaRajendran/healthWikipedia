@@ -1,0 +1,84 @@
+{{Distinguish|kanamycin B}}
+{{Drugbox
+| verifiedrevid = 461938453
+| IUPAC_name = 2-(aminomethyl)- 6-[4,6-diamino-3- [4-amino-3,5-dihydroxy-6-(hydroxymethyl) tetrahydropyran-2-yl]oxy- 2-hydroxy- cyclohexoxy]- tetrahydropyran- 3,4,5-triol
+| image = Kanamycin A.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|kanamycin-sulfate}}
+| pregnancy_category = D
+| legal_status = ?
+| routes_of_administration = Oral, [[Intravenous therapy|intravenous]], [[Intramuscular injection|intramuscular]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = very low after oral delivery
+| metabolism = Unknown
+| elimination_half-life = 2 hours 30 minutes
+| excretion = Urine (as unchanged drug)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 59-01-8
+| ATC_prefix = A07
+| ATC_suffix = AA08
+| ATC_supplemental = {{ATC|J01|GB04}} {{ATC|S01|AA24}}
+| PubChem = 6032
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB01172
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5810
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RUC37XUP2P
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 17630
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1384
+
+<!--Chemical data-->
+| C=18 | H=36 | N=4 | O=11 
+| molecular_weight = 484.499
+| smiles = O([C@@H]2[C@@H](O)[C@H](O[C@H]1O[C@H](CN)[C@@H](O)[C@H](O)[C@H]1O)[C@@H](N)C[C@H]2N)[C@H]3O[C@@H]([C@@H](O)[C@H](N)[C@H]3O)CO
+| InChI = 1/C18H36N4O11/c19-2-6-10(25)12(27)13(28)18(30-6)33-16-5(21)1-4(20)15(14(16)29)32-17-11(26)8(22)9(24)7(3-23)31-17/h4-18,23-29H,1-3,19-22H2/t4-,5+,6-,7-,8+,9-,10-,11-,12+,13-,14-,15+,16-,17-,18-/m1/s1
+| InChIKey = SBUJHOSQTJFQJX-NOAMYHISBU
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H36N4O11/c19-2-6-10(25)12(27)13(28)18(30-6)33-16-5(21)1-4(20)15(14(16)29)32-17-11(26)8(22)9(24)7(3-23)31-17/h4-18,23-29H,1-3,19-22H2/t4-,5+,6-,7-,8+,9-,10-,11-,12+,13-,14-,15+,16-,17-,18-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SBUJHOSQTJFQJX-NOAMYHISSA-N
+}}
+'''Kanamycin''' (also known as '''kanamycin A''') is an [[aminoglycoside]] [[bacteriocidal]] [[antibiotic]], available in [[Wiktionary:oral|oral]], [[intravenous]], and intramuscular forms, and used to treat a wide variety of [[infection]]s. Kanamycin is isolated from the bacterium ''[[Streptomyces kanamyceticus]]''<ref>Garrod, L.P., et al.: "Antibiotic and Chemotherapy", page 131. Churchill Livingstone, 1981</ref> and its most commonly used form is kanamycin [[sulfate]].
+
+==Mechanism==
+
+Kanamycin interacts with the [[30S]] subunit of [[prokaryotic]] [[ribosomes]]. It induces substantial amounts of mistranslation and indirectly inhibits translocation during [[protein synthesis]].<ref>Pestka, S.: "The Use of Inhibitors in Studies on Protein Synthesis", Methods in Enzymology 30, pp.261-282, 1975</ref><ref>Misumi, M. & Tanaka, N.: "Mechanism of Inhibition of Translocation by Kanamycin and Viomycin: A Comparative Study with Fusidic Acid, Biochem.Biophys.Res.Commun. 92, pp.647-654, 1980</ref>
+
+==Side effects==
+
+Serious [[adverse effect (medicine)|side effect]]s include tinnitus or loss of hearing, [[toxicity to kidneys]], and [[allergic]] reactions to the [[medication|drug]].<ref>{{Citation | title = Consumer Drug Information: Kanamycin | date = 2 April 2008 | url = http://www.drugs.com/cdi/kanamycin.html | accessdate = 2008-05-04}}</ref>
+
+==Use in research==
+
+Kanamycin is used in molecular biology as a selective agent most commonly to isolate [[bacteria]] (e.g., ''[[E. coli]]'') which have taken up genes (e.g., of [[plasmid]]s) coupled to a gene coding for kanamycin resistance (primarily Neomycin phosphotransferase II [NPT II/Neo]). Bacteria that have been [[Transformation (genetics)|transformed]] with a plasmid containing the kanamycin resistance gene are plated on kanamycin (50-100&nbsp;ug/ml) containing [[agar]] plates or are grown in media containing kanamycin (50-100&nbsp;ug/ml). Only the bacteria that have successfully taken up the kanamycin resistance gene become resistant and will grow under these conditions. As a powder kanamycin is white to off-white and is soluble in water (50&nbsp;mg/ml). 
+
+Mammalian cells and other [[eukaryote]]s are screened using [[Geneticin|G418]], a similar aminoglycoside antibiotic, which KanMX confers resistance against.
+
+At least one such gene, ''Atwbc19''<ref>[http://www.isb.vt.edu/articles/oct0501.htm Horizontal Gene Transfer: Plant vs. Bacterial Genes for Antibiotic Resistance Scenario's—What's the Difference?]</ref> is native to a plant species, of comparatively large size and its coded protein acts in a manner which decreases the possibility of [[horizontal gene transfer]] from the plant to bacteria; it may be incapable of giving resistance to kanamycin to bacteria even if gene transfer occurs.
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=KAN Kanamycin bound to proteins] in the [[Protein Data Bank|PDB]]
+*From kanamycin-evopure.com: 
+** [http://www.kanamycin-evopure.com/Technical.html Technical Information]
+** [http://www.kanamycin-evopure.com/product.html Purity Survey]
+** [http://www.kanamycin-evopure.com/Technical.html Toxicity Data]
+** [http://www.kanamycin-evopure.com/Working.html Working Concentrations]
+** [http://www.kanamycin-evopure.com/Kanamycin.html  Kanamycin Impurities]
+
+{{Antidiarrheals, intestinal anti-inflammatory/anti-infective agents}}
+{{AminoglycosideAntiBiotics}}
+
+[[Category:Antibiotics]]
+[[Category:Aminoglycoside antibiotics]]
+[[Category:World Health Organization essential medicines]]

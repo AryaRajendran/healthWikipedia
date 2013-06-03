@@ -1,0 +1,121 @@
+The '''Metabolic Equivalent of Task (MET)''', or simply '''metabolic equivalent''', is a [[physiological]] measure expressing the energy cost of [[exercise|physical activities]] and is defined as the ratio of metabolic rate (and therefore the rate of energy consumption) during a specific physical activity to a reference metabolic rate, set by convention to 3.5 ml O<sub>2</sup>·kg<sup>−1</sup>·min<sup>−1</sup> or equivalently:
+
+<math>\text{1 MET}\ \equiv\ 1 \dfrac\text{kcal}{\text{kg}*{h}}\ \equiv\ 4.184 \dfrac\text{kJ}{\text{kg}*{h}}</math> 
+
+1 MET is also defined as 58.2 W/m<sup>2</sup> (18.4 Btu/h·ft<sup>2</sup>), which is equal to the energy produced per unit surface area of an average person seated at rest. The surface area of an average person is 1.8 m<sup>2</sup> (19 ft<sup>2</sup>). Metabolic rate is usually expressed in terms of unit area of the total body surface (ANSI/ASHRAE Standard 55<ref>ANSI/ASHRAE Standard 55, Thermal Environmental Conditions for Human Occupancy</ref>).
+
+Originally, 1 MET was considered as the [[Resting Metabolic Rate]] (RMR) obtained during quiet sitting.<ref>{{harvnb|Ainsworth|Haskell|Leon|Jacobs|1993}}</ref><ref name=Ainsworth2000>{{harvnb|Ainsworth|Haskell|Whitt|Irwin|2000}}</ref> MET values of activities range from 0.9 (sleeping) to 23 (running at 22.5&nbsp;km/h or a 4:17 mile pace). 
+
+Although the RMR of any person may deviate from the reference value,<ref name="Byrneet">{{harvnb|Byrne|Hills|Hunter|Weinsier|2005}}</ref><ref name="Savage">{{harvnb|Savage|Toth|Ades|2007}}</ref> MET can be thought of as an [[scale (social sciences)|index]] of the intensity of activities: for example, an activity with a MET value of 2, such as walking at a slow pace (e.g., 3&nbsp;km/h) would require twice the energy that an average person consumes at rest (e.g., sitting quietly). 
+
+MET is used as a means of expressing the intensity and energy expenditure of activities in a way comparable among persons of different weight. Actual energy expenditure (e.g., in calories or joules) during an activity depends on the person's body mass; therefore, the energy cost of the same activity will be different for persons of different weight. However, since the RMR is also dependent on body mass in a similar way, it is assumed that the ratio of this energy cost to the RMR of each person will remain more or less stable for the specific activity and thus independent of each person's weight.{{citation needed|date=December 2011}}
+
+The 1 MET reference value of 1 kcal·kg<sup>−1</sup>·h<sup>−1</sup>, is used by convention and refers to a typical metabolism at rest of an "average" individual. It must not be confused or misused as an approximation of [[Basal Metabolic Rate]] (BMR), which is the minimum metabolic rate obtained under specified conditions. This is illustrated by the fact that sleeping has a MET of 0.9, while an individual's normal sleeping metabolism may be greater than the BMR.
+
+==''Compendium of Physical Activities''==
+The ''Compendium of Physical Activities'' was developed for use in epidemiologic studies to standardize the assignment of MET intensities in physical activity questionnaires. Dr. Bill Haskell from Stanford University conceptualized the compendium and developed a prototype for the document. The compendium was used first in the ''Survey of Activity, Fitness, and Exercise'' (SAFE study - 1987 to 1989) to code and score physical activity records. Since then, the compendium has been used in studies worldwide to assign intensity units to physical activity questionnaires and to develop innovative ways to assess energy expenditure in physical activity studies. The compendium was published in 1993 and updated in 2000 and 2011.<ref>{{harvnb|Ainsworth|Haskell|Herrmann|Meckes|2011}}</ref>
+
+== Scope of usage of the MET concept ==
+=== Epidemiology and public health ===
+MET (Metabolic Equivalent): The ratio of the work metabolic rate to the resting metabolic rate. One MET is defined as 1 kcal/kg/hour and is roughly equivalent to the energy cost of sitting quietly. A MET also is defined as oxygen uptake in ml/kg/min with one MET equal to the oxygen cost of sitting quietly, equivalent to 3.5 ml/kg/min.
+
+The MET concept was primarily designed to be used in epidemiological surveys, where survey respondents answer the amount of time they spend for specific physical activities.<ref name=Ainsworth2000/>
+
+Moreover MET is used to provide general medical thresholds and guidelines to a population.<ref>{{harvnb|Royall|Troiano|Johnson|Kohl|2008}}</ref><ref>{{harvnb|World Health Organization|2010}}{{pn|date=May 2012}}</ref> Since MET is a measure of intensity and rate, the concept of '''MET-minute''' can be used to quantify the total amount of physical activity in a way comparable across different persons and types of activities. Thus brisk walking at 5&nbsp;km/h for half an hour (a moderate intensity activity of 3.3 MET) accounts for about 100 MET-min and is in this aspect equivalent to running at 10&nbsp;km/h for ten minutes (a vigorous intensity activity of 10 MET). This way the total effort expended in different activities over a period of time can be accumulated: health benefits of physical activity increase with increasing levels of activity and do not plateau until quite high levels.{{Citation needed|date=July 2012}}
+
+{| class="wikitable" border="1"
+|-
+! Physical activity
+! MET
+|-
+! Light intensity activities
+! < 3
+|-
+| sleeping
+| 0.9
+|-
+| watching television
+| 1.0
+|-
+| writing, desk work, typing
+| 1.8
+|-
+| walking, 1.7&nbsp;mph (2.7&nbsp;km/h), level ground, strolling, very slow
+| 2.3
+|-
+| walking, 2.5&nbsp;mph (4&nbsp;km/h)
+| 2.9
+|-
+|-
+! Moderate intensity activities
+! 3 to 6
+|-
+| bicycling, stationary, 50 watts, very light effort
+| 3.0
+|-
+| walking 3.0&nbsp;mph (4.8&nbsp;km/h)
+| 3.3
+|-
+| calisthenics, home exercise, light or moderate effort, general
+| 3.5
+|-
+| walking 3.4&nbsp;mph (5.5&nbsp;km/h)
+| 3.6
+|-
+| bicycling, <10&nbsp;mph (16&nbsp;km/h), leisure, to work or for pleasure
+| 4.0
+|-
+| bicycling, stationary, 100 watts, light effort
+| 5.5
+|-
+! Vigorous intensity activities
+! > 6
+|-
+| jogging, general
+| 7.0
+|-
+| calisthenics (e.g. pushups, situps, pullups,jumping jacks), heavy, vigorous effort
+| 8.0
+|-
+| running jogging, in place
+| 8.0
+|-
+| rope jumping
+| 10.0
+|}
+
+=== Limitations in the usage of MET to calculate actual energy expenditure ===
+{{Section OR|date=May 2012}}
+Published MET values (or exercise calorie calculators on web sites, which are based on such values) for specific activities are experimentally and statistically derived from a sample of persons and are indicative averages. The level of intensity at which a specific person performs a specific physical activity (e.g., the pace of walking, the speed of running, etc.) will deviate from the representative experimental conditions used for the calculation of the standard MET values. Moreover, as is explained in the following, the actual energy expenditure and the RMR will differ according to the person's overall fitness level and other factors. 
+
+The same holds for MET (or kcal) values indicated in modern fitness exercise equipment, which are based on statistical models and are of indicative value only. In this case, even if the MET value indicated is a better statistical prediction than published tables, there is no way to account for the person's actual RMR and thus energy expenditure (e.g., Kcal). In short, a person can use the MET concept to plan or monitor physical activity levels or get an indication of the aerobic intensity and order of magnitude of energy expenditure for a specific activity, but not use the MET concept to calculate actual energy expenditure or a daily energy input-output balance. 
+
+More specifically, from a strictly scientific point of view, statistically estimated predictions, such as MET or [[Body mass index|BMI]], are inaccurate when used for specific persons, and MET values must be treated as indicative only, taking into account that both RMR and actual energy consumption are highly dependent on physical and environmental factors such as adiposity, physical fitness level, cardiovascular health, or even ambient temperature. 
+
+Moreover, even the definition of MET is problematic when used for specific persons.<ref name="Byrneet" /><ref name="Savage" /> By convention, 1 MET is considered equivalent to the consumption of 3.5 ml&nbsp;O<sub>2</sub>·kg<sup>−1</sup>·min<sup>−1</sup> (or 3.5 ml of oxygen per kilogram of body mass per minute) and is roughly equivalent to the expenditure of 1 kcal per kilogram of body weight per hour. This value was first experimentally derived from the resting oxygen consumption of a particular subject (a healthy 40-year-old, 70&nbsp;kg man) and must therefore be treated as a convention. Since the RMR of a person depends mainly on lean body mass (and not total weight) and other physiological factors such as health status, age, etc., actual RMR (and thus 1-MET energy equivalents) may vary significantly from the kcal/(kg·h) rule of thumb. RMR measurements by calorimetry in medical surveys have shown that the conventional 1-MET value overestimates the actual resting O<sub>2</sub> consumption and energy expenditures by about 20% to 30% on the average, whereas body composition (ratio of body fat to lean body mass) accounted for most of the variance.
+
+== See also ==
+* [[Anthropogenic metabolism]]
+* [[Basal metabolic rate]]
+* [[Calorimetry]]
+
+== References ==
+{{reflist}}
+
+== Sources ==
+*{{cite journal |doi=10.1249/MSS.0b013e31821ece12 |url=https://sites.google.com/site/compendiumofphysicalactivities/ |title=2011 Compendium of Physical Activities |year=2011 |last1=Ainsworth |first1=Barbara E. |last2=Haskell |first2=William L. |last3=Herrmann |first3=Stephen D. |last4=Meckes |first4=Nathanael |last5=Bassett |first5=David R. |last6=Tudor-Locke |first6=Catrine |last7=Greer |first7=Jennifer L. |last8=Vezina |first8=Jesse |last9=Whitt-Glover |first9=Melicia C. |journal=Medicine & Science in Sports & Exercise |volume=43 |issue=8 |pmid=21681120 |pages=1575–81 |ref=harv}}
+*{{cite journal |last1=Ainsworth |first1=Barbara E. |last2=Haskell |first2=William L. |last3=Leon |first3=Arthur S. |last4=Jacobs |first4=David R. |last5=Montoye |first5=Henry J. |last6=Sallis |first6=James F. |last7=Paffenbarger |first7=Ralph S. |doi=10.1249/00005768-199301000-00011 |title=Compendium of Physical Activities: Classification of energy costs of human physical activities |year=1993 |journal=Medicine & Science in Sports & Exercise |volume=25 |pmid=8292105 |pages=71–80 |issue=1 |ref=harv}}
+*{{cite journal |last1=Ainsworth |first1=Barbara E. |last2=Haskell |first2=William L. |last3=Whitt |first3=Melicia C. |last4=Irwin |first4=Melinda L. |last5=Swartz |first5=Ann M. |last6=Strath |first6=Scott J. |last7=O'Brien |first7=William L. |last8=Bassett |first8=David R. |last9=Schmitz |first9=Kathryn H. |doi=10.1097/00005768-200009001-00009 |title=Compendium of Physical Activities: An update of activity codes and MET intensities |year=2000 |journal=Medicine & Science in Sports & Exercise |volume=32 |pmid=10993420 |pages=S498–504 |issue=9 Suppl |ref=harv}}
+*{{cite journal |doi=10.1152/japplphysiol.00023.2004 |title=Metabolic equivalent: One size does not fit all |year=2005 |last1=Byrne |first1=Nuala M. |last2=Hills |first2=Andrew P. |last3=Hunter |first3=Gary R. |last4=Weinsier |first4=Roland L. |last5=Schutz |first5=Yves |journal=Journal of Applied Physiology |volume=99 |issue=3 |pages=1112–9 |pmid=15831804 |ref=harv}}
+*{{cite book |first1=Penelope Slade |last1=Royall |first2=Richard P. |last2=Troiano |first3=Melissa A. |last3=Johnson |first4=Harold W. |last4=Kohl |first5=Janet E. |last5=Fulton |year=2008 |chapter=Appendix 1. Translating Scientific Evidence About Total Amount and Intensity of Physical Activity Into Guidelines |chapterurl=http://www.health.gov/PAGuidelines/guidelines/appendix1.aspx |title=2008 Physical Activity Guidelines for Americans |url=http://www.health.gov/PAGuidelines/guidelines/default.aspx |publisher=[[United States Department of Health and Human Services]] |pages=54–7 |ref=harv}}
+*{{cite book |last1=Manore |first1=Melinda |last2=Thompson |first2=Janice |title=Sport Nutrition for Health and Performance |publisher=Human Kinetics |year=2000 |isbn=978-0-87322-939-5 |ref=harv}}
+*{{cite journal |pmid=17558194 |year=2007 |last1=Savage |first1=Patrick D. |last2=Toth |first2=Michael J. |last3=Ades |first3=Philip A. |title=A Re-examination of the Metabolic Equivalent Concept in Individuals With Coronary Heart Disease |volume=27 |issue=3 |pages=143–8 |doi=10.1097/01.HCR.0000270693.16882.d9 |journal=Journal of cardiopulmonary rehabilitation and prevention |ref=harv}}
+*{{cite book |last1=Sotile |first1=Wayne M. |last2=Cantor-Cooke |first2=R. |year=2003 |title=Thriving with Heart Disease: A Unique Program for You and Your Family |pages=161–2 |isbn=0-7432-4364-1 |ref=harv}}
+*{{cite book |author1=World Health Organization |year=2010 |title=Global Recommendations on Physical Activity for Health |url=http://www.who.int/dietphysicalactivity/publications/9789241599979/en/index.html |publisher=World Health Organization |isbn=978-92-4-159997-9 |ref=harv}}
+
+==External links==
+* [https://sites.google.com/site/compendiumofphysicalactivities/ The Compendium of Physical Activities Tracking Guide]
+* The Compendium of Physical Activities, University of South Carolina: [http://prevention.sph.sc.edu/tools/compendium.htm]
+* Better weight management through science [http://www.mayin.org/ajayshah/MISC/weightloss.html]
+
+[[Category:Exercise physiology]]

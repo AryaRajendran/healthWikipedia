@@ -1,0 +1,55 @@
+{{Diagnostic infobox |
+  Name        = {{PAGENAME}} |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = |
+  MeshID      = D054894 |
+  OPS301      = |
+  OtherCodes  = |
+}}
+'''Cone beam computed tomography''' (or '''CBCT''') is a [[medical imaging technique]] consisting of [[X-ray computed tomography]] where the X-rays are divergent, forming a cone.<ref>[http://www.sedentexct.eu/content/technical-description-cbct Technical Description of CBCT] from University of Manchester. Citing: J Can Dent Assoc 2006; 72(1); 75-80</ref>
+
+CBCT has become increasingly important in treatment planning and diagnosis in [[dental implant|implant dentistry]], among other things.  Perhaps because of the increased access to such technology, CBCT scanners are now finding many uses in dentistry, such as in the fields of [[endodontics]] and [[orthodontics]], as well.
+
+During a CBCT scan, the scanner rotates around the patient's head, obtaining up to nearly 600 distinct images.  The scanning software collects the data and reconstructs it, producing what is termed a ''digital volume'' composed of three dimensional [[voxel]]s of anatomical data that can then be manipulated and visualized with specialized software.<ref name="Hatch">Hatcher, DC. <u>Operational principles for cone-beam computed tomography</u>. ''JADA'' 2010;141'''(10S)''':3S-6S</ref>
+
+==History==
+Cone beam technology was first introduced in the European market in 1998 and into the US market in 2001.<ref name="Hatch"/>
+
+==CBCT use in implantology==
+A dental cone beam scan offers invaluable information when it comes to the assessment and planning of surgical implants. The AAOMR also suggestes cone-beam CT as the preferred method for presurgical assessment of dental implant sites.<ref>New AAOMR [http://blog.gendex.com/bloggendexcom/bid/168633/New-AAOMR-Guidelines-for-3D-Imaging-Use-in-Implant-Planning Guidelines on CBCT Use in Implant Planning]</ref>
+
+==CBCT use in orthodontics==
+As a [[Three-dimensional space|3D]] rendition, CBCT offers an undistorted view of the dentition that can be used to accurately visualize both erupted and non-erupted teeth, tooth root orientation and anomalous structures that conventional 2D radiography cannot.<ref>Mah, JK; et al. <u>Practical applications of cone-beam computed tomography in orthodontics</u>. ''JADA'' 2010;141'''(3S)''':7S-13S</ref>
+
+Processing example using x-ray data from a tooth model:
+<gallery>
+File:DVT-scan-MagoCut-bild1-singlesample.jpg|single sampled (noisy) image
+File:DVT-scan-MagoCut-bild2-oversamplefocus.jpg|several samples overlay
+File:DVT-scan-MagoCut-bild3-panoramiomodejoined.jpg|joined images to panoramic
+File:DVT-scan-MagoCut-bild4-dvtreconstructed.jpg|algorithmic reconstruction
+</gallery>
+
+==Disadvantages of CBCT technology==
+There are a number of drawbacks of CBCT technology over that of medical-grade CT scans, such as increased susceptibility to movement artifacts (in first generation machines) and to the lack of appropriate bone density determination.<ref name="DEVOS">De Vos, W; et al. <u>Cone-beam computerized tomography (CBCT) imaging of the oral and maxillofacial region: A systematic review of the literature</u>. ''Int J Oral Maxillofac Surg'' 2009;38:609–625.</ref>
+
+===Bone density and the Hounsfield scale===
+The [[Hounsfield scale]] is used to measure [[radiodensity]] and, in reference to [[X-ray computed tomography|medical-grade CT scans]], can provide an accurate absolute density for the type of [[tissue (biology)|tissue]] depicted.  The radiodensity, measured in Hounsfield Units (HU, also known as CT number) is inaccurate in CBCT scans because different areas in the scan appear with different [[greyscale]] values depending on their relative positions in the organ being scanned, despite possessing identical densities, because the image value of a [[voxel]] of an organ depends on the position in the image volume.<ref name="SS">Swennen, GRJ; Schutyser, F. <u>Three-dimensional cephalometry: spiral multislice vs cone-beam computed tomography</u>. ''Am J Orthod Dentofacial Orthop'' 2006:130:410–416.</ref>  HU measured from the same anatomical area with both CBCT and medical-grade CT scanners are not identical<ref>Armstrong RT. <u>Acceptability of cone beam ct vs. multi-detector CT for 3D Anatomic model construction</u>. ''AAOMS'' 2006;64:37.</ref> and are thus unreliable for determination of site-specific, radiographically-identified bone density for purposes such as the placement of dental implants, as there is "no good data to relate the CBCT HU values to bone quality."<ref>Miles DA, Danforth RA. "A clinician’s guide to understanding cone beam volumetric imaging (CBVI)." 2007. Available from: www.ineedce.com/.</ref>
+
+Although some authors have supported the use of CBCT technology to evaluate bone density by measuring HU,<ref>Ganz SD. <u>Conventional CT and cone
+beam CT for improved dental diagnostics and implant planning</u>. ''Dent Implantol Update'' 2005:16:89–95.</ref><ref>Lee S; et al. <u>Bone density assessments of dental implant sites: 3. Bone quality evaluation during osteotomy and implant placement.</u>. ''Int J Oral Maxillofac Implants'' 2007:22:208–212.</ref> such support is provided erroneously because scanned regions of the same density in the skull can have a different grayscale value in the reconstructed CBCT dataset.<ref>Katsumata A; et al. <u>Image artifact in dental cone-beam CT</u>. ''Oral Surg Oral Med Oral Pathol Oral Radiol Endod'' 2006:101:652–657.</ref>
+
+{{quotation|X-ray attenuation of CBCT acquisition systems currently produces different HU values for similar bony and soft tissue structures in different areas of the scanned volume (e.g. dense bone has a specific image value at the level of the menton, but the same bone has a significantly different image value at the level of the cranial base).<ref name="DEVOS"/>}}
+
+Dental CBCT systems do not employ a standardized system for scaling the grey levels that represent the reconstructed density values and, as such, they are arbitrary and do not allow for assessment of bone quality.<ref>Norton, MR; Gamble, C. <u>Bone classification: an objective scale of bone density using the computerized tomography scan</u>. ''Clin Oral Implants Res'' 2001;12:79–84.</ref>  In the absence of such a standardization, it is difficult to interpret the grey levels or impossible to compare the values resulting from different machines.  While there is a general acknowledgment that this deficiency exists with CBCT systems (in that they do not correctly display HU), there has been little research conducted to attempt to correct this deficiency.<ref name="MAH">Mah, P; et al. <u>Deriving Hounsfield units using grey levels in cone beam computed tomography</u>. ''Dentomaxillofacial Radiology'' 2010;39:323–335.</ref>
+
+With time, further advancements in CBCT reconstruction algorithms will allow for improved area detectors,<ref>Vannier, MW. <u>Craniofacial computed tomography scanning: technology, applications and future trends</u>. ''Orthod Craniofac Res'' 2003:6(Suppl 1):23–30 discussion 179–182.</ref> and this, together with enhanced postprocessing, will likely solve or reduce this problem.<ref name="SS"/>  A method for establishing attenuation coefficients with which actual HU values can be derived from CBCT HU values was published in 2010 and further research is currently underway to perfect this method ''[[in vivo]]''.<ref name="MAH"/>
+
+==References==
+{{reflist}}
+
+{{Medical imaging}}
+{{DEFAULTSORT:Cone Beam Computed Tomography}}
+[[Category:Dentistry]]
+[[Category:X-ray computed tomography]]

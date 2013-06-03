@@ -1,0 +1,63 @@
+{{italic title}}
+{{Taxobox
+| color = lightgrey
+| name = ''Yersinia enterocolitica''
+| image = Yersinia_enterocolitica_01.png
+| image_width = 240px
+| image_caption = ''Yersinia enterocolitica'' colonies growing on XLD [[agar plate]]s.
+| regnum = [[Bacterium|Bacteria]]
+| phylum = [[Proteobacteria]]
+| classis = [[Gamma Proteobacteria]]
+| ordo = [[Enterobacteriaceae|Enterobacteriales]]
+| familia = [[Enterobacteriaceae]]
+| genus = ''[[Yersinia]]''
+| species = '''''Y. enterocolitica'''''
+| binomial = ''Yersinia enterocolitica''
+| binomial_authority = (Schleifstein & Coleman 1939)
+}}
+{{Infobox disease
+ | Name           = Yersinia enterocolitica
+ | Image          = 
+ | Caption        = 
+ | DiseasesDB     = 14218
+ | ICD10          = A04.6, A04.6
+ | ICD9           = {{ICD9|008.44}}
+ | ICDO           = 
+ | OMIM           = 
+ | MedlinePlus    = 
+ | eMedicineSubj  = article
+ | eMedicineTopic = 970186
+ | MeshID         = D015009
+}}
+'''''Yersinia enterocolitica''''' is a species of [[gram-negative]] [[Coccobacillus|coccobacillus-shaped]] [[bacterium]], belonging to the family [[Enterobacteriaceae]]. Yersinia enterocolitica infection causes the disease [[yersiniosis]], which is a [[Zoonosis|zoonotic]] disease occurring in humans as well as a wide array of animals such as cattle, deer, pigs, and birds. Many of these animals recover from the disease and become [[asymptomatic carrier]]s.<ref name=Barron>{{cite book | author = Collins FM | title = Pasteurella, and Francisella. ''In:'' Barron's Medical Microbiology ''(Barron S ''et al.'', eds.)| edition = 4th | publisher = Univ of Texas Medical Branch | year = 1996 | id = [http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mmed.section.1621 (via NCBI Bookshelf)] | isbn = 0-9631172-1-1 }}</ref> It infects the host by sticking to the cells of the host using [[Trimeric Autotransporter Adhesins (TAA)]].
+
+==Signs and symptoms==
+Acute ''Y. enterocolitica'' infections usually lead to mild self-limiting [[enteritis|entero]]-[[colitis]] or terminal [[ileitis]] in humans. Symptoms may include watery or bloody [[diarrhea]] and fever. After oral uptake yersiniae replicate in the terminal ileum and invade [[Peyer's patches]]. From here yersiniae can disseminate further to mesenteric lymph nodes causing [[lymphadenopathy]]. This condition can be confused with [[appendicitis]] and is therefore called pseudoappendicitis. In immunosuppressed individuals, yersiniae can disseminate from the gut to [[liver]] and [[spleen]] and form abscesses.  Because ''Yersinia'' is a [[Siderophilic bacteria|siderophilic]] (iron-loving) bacteria, people with [[hereditary hemochromatosis]] (a disease resulting in high body iron levels) are more susceptible to infection with ''Yersinia'' (and other siderophilic bacteria). In fact, the most common contaminant of stored blood is ''Y. enterocolitica''.<ref>Goljan, Edward F. Rapid Review Pathology. Second Edition. Page 279, Table 15-1.</ref> See [[yersiniosis]] for further details. Yersiniae are usually transmitted to humans by insufficiently cooked pork or contaminated water.
+
+==Treatment==
+Yersiniosis is usually self-limiting and does not require treatment. Severe infections (septicemia, focal infection, immunosuppression) can be treated with doxycycline in combination with an aminoglycoside. Other antibiotics that are active against ''Y. enterocolitica'' include trimethoprim-sulfamethoxasole, fluoroquinolones, ceftriaxone, and chloramphenicol. ''Y. enterocolitica'' is usually resistant to penicillin G, ampicillin, and cephalotin due to beta-lactamase production.<ref>{{cite journal |last=Bottone |first=Edward|year=1997 |month=April |title=Yersinia enterocolitica: the charisma continues |journal=Clinical Microbiology Reviews|pages=257–276 |publisher= American Society for Microbiology|pmc=172919 |pmid=9105754 |volume=10 |issue=2}}</ref>
+
+==Prognosis==
+''Y. enterocolitica'' infections are sometimes followed by chronic inflammatory diseases such as [[arthritis]].<ref name=Sherris>{{cite book | author = Ryan KJ; Ray CG (editors) | title = Sherris Medical Microbiology | edition = 4th | publisher = McGraw Hill | year = 2004 | isbn = 0-8385-8529-9 }}</ref>
+
+''Y. enterocolitica'' seems to be associated with autoimmune [[Graves-Basedow disease|Graves-Basedow]] [[thyroiditis]].<!--
+  --><ref name=Benvenga_2006>{{cite journal | author=Benvenga S, Santarpia L, Trimarchi F, Guarneri F | title=Human Thyroid Autoantigens and Proteins of ''Yersinia'' and ''Borrelia'' Share Amino Acid Sequence Homology That Includes Binding Motifs to HLA-DR Molecules and T-Cell Receptor | journal=Thyroid | year=2006 | pages=225–236 | volume=16 | issue=3 | pmid=16571084 | doi=10.1089/thy.2006.16.225 }}</ref>
+Whilst indirect evidence exists, direct causative evidence is limited,<!--
+  --><ref name="EndocrReview1993">{{cite journal | author = Tomer Y, Davies T | title = Infection, thyroid disease, and autoimmunity | journal = Endocr Rev | volume = 14 | issue = 1 | pages = 107–20 | year = 1993 | pmid = 8491150 | url=http://edrv.endojournals.org/cgi/reprint/14/1/107.pdf | format=PDF | doi = 10.1210/er.14.1.107}}</ref>
+and ''Y. enterocolitica'' is probably not a major cause of this disease, but may contribute to the development of thyroid autoimmunity arising for other reasons in genetically susceptible individuals.<!--
+  --><ref>{{cite journal | author = Toivanen P, Toivanen A | title = Does Yersinia induce autoimmunity? | journal = Int Arch Allergy Immunol | volume = 104 | issue = 2 | pages = 107–11 | year = 1994 | pmid = 8199453 | doi = 10.1159/000236717}}</ref>
+It has also been suggested that ''Y. enterocolitica'' infection is not the [[Causality|cause]] of auto-immune thyroid disease, but rather is only an [[Association (statistics)|associated]] condition; with both having a shared inherited susceptibility.<!--
+  --><ref>{{cite journal | author = Strieder T, Wenzel B, Prummel M, Tijssen J, Wiersinga W | title = Increased prevalence of antibodies to enteropathogenic Yersinia enterocolitica virulence proteins in relatives of patients with autoimmune thyroid disease | journal = Clin Exp Immunol | volume = 132 | issue = 2 | pages = 278–82 | year = 2003 | pmid = 12699417 | doi = 10.1046/j.1365-2249.2003.02139.x | pmc = 1808711}}</ref>
+More recently the role for ''Y. enterocolitica'' has been disputed.<!--
+  --><ref>{{cite journal | author = Hansen P, Wenzel B, Brix T, Hegedüs L | title = Yersinia enterocolitica infection does not confer an increased risk of thyroid antibodies: evidence from a Danish twin study | journal = Clin Exp Immunol | volume = 146 | issue = 1 | pages = 32–8 | year = 2006 | pmid = 16968395 | doi = 10.1111/j.1365-2249.2006.03183.x | pmc = 1809723}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikispecies}}
+* [http://patricbrc.org/portal/portal/patric/Taxon?cType=taxon&cId=630 Yersinia enterocolitica] genomes and related information at [[PATRIC]], a Bioinformatics Resource Center funded by [[NIAID]]
+
+{{Gram-negative bacterial diseases}}
+
+[[Category:Enterobacteria]]

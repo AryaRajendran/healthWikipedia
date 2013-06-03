@@ -1,0 +1,157 @@
+The '''Geneva score''' is a [[clinical prediction rule]] used in determining the pre-test probability of [[pulmonary embolism]] (PE) based on a patient's risk factors and clinical findings.<ref>{{cite journal |author=Wicki J, Perneger TV, Junod AF, Bounameaux H, Perrier A |title=Assessing clinical probability of pulmonary embolism in the emergency ward: a simple score |journal=Archives of Internal Medicine |volume=161 |issue=1 |pages=92–7 |year=2001 |month=January |pmid=11146703 |doi=10.1001/archinte.161.1.92}}</ref> It has been shown to be as accurate as the [[Pulmonary embolism#Diagnosis|Wells Score]], and is less reliant on the experience of the doctor applying the rule.<ref>{{cite journal |author=Iles S, Hodges AM, Darley JR, ''et al.'' |title=Clinical experience and pre-test probability scores in the diagnosis of pulmonary embolism |journal=QJM |volume=96 |issue=3 |pages=211–5 |year=2003 |month=March |pmid=12615985 |doi=10.1093/qjmed/hcg027}}</ref> The Geneva score has been revised and simplified from its original version. The simplified Geneva score is the newest version and predicted to have the same diagnostic utility as the original Geneva score.<ref name="Simplification of the revised Geneva score for assessing clinical probability of pulmonary embolism">{{cite journal |author=Klok FA, Mos IC, Nijkeuter M, ''et al.'' |title=Simplification of the revised Geneva score for assessing clinical probability of pulmonary embolism |journal=Archives of Internal Medicine |volume=168 |issue=19 |pages=2131–6 |year=2008 |month=October |pmid=18955643 |doi=10.1001/archinte.168.19.2131|url=https://openaccess.leidenuniv.nl/bitstream/1887/15031/9/03.pdf}}</ref>
+
+==Original Geneva Score==
+The original Geneva score is calculated using 7 risk factors and clinical variables:
+{| class=wikitable border=1
+!Variable
+!Score
+|-
+!colspan=2|Age
+|-
+|60–79 years
+|style="text-align:center"|1
+|-
+|80+ years
+|style="text-align:center"|2
+|-
+!colspan=2|Previous venous thromboembolism
+|-
+|Previous DVT or PE
+|style="text-align:center"|2
+|-
+!colspan=2|Previous surgery
+|-
+|Recent surgery within 4 weeks
+|style="text-align:center"|3
+|-
+!colspan=2|Heart rate
+|-
+|Heart rate >100 beats per minute
+|style="text-align:center"|1
+|-
+!colspan=2|PaCO<sub>2</sub> (partial pressure of CO<sub>2</sub> in arterial blood)
+|-
+|<35mmHg
+|style="text-align:center"|2
+|-
+|35-39mmHg
+|style="text-align:center"|1
+|-
+!colspan=2|PaO<sub>2</sub> (partial pressure of O<sub>2</sub> in arterial blood)
+|-
+|<49mmHg
+|style="text-align:center"|4
+|-
+|49-59mmHg
+|style="text-align:center"|3
+|-
+|60-71mmHg
+|style="text-align:center"|2
+|-
+|72-82mmHg
+|style="text-align:center"|1
+|-
+!colspan=2|Chest X-ray findings
+|-
+|Band atelectasis
+|style="text-align:center"|1
+|-
+|Elevation of hemidiaphragm
+|style="text-align:center"|1
+|}
+The score obtained relates to the probability of the patient having had a pulmonary embolism (the lower the score, the lower the probability):
+
+* <5 points indicates a low probability of PE
+
+* 5 - 8 points indicates a moderate probability of PE
+
+* >8 points indicates a high probability of PE
+==Revised Geneva Score==
+More recently, the '''revised Geneva score''' has been introduced.<ref>{{cite journal |author=Le Gal G, Righini M, Roy PM, ''et al.'' |title=Prediction of pulmonary embolism in the emergency department: the revised Geneva score |journal=Annals of Internal Medicine |volume=144 |issue=3 |pages=165–71 |year=2006 |month=February |pmid=16461960}}</ref> This simplifies the scoring process, and has also been shown to be as effective as the Wells score.<ref>{{cite journal |author=Righini M, Le Gal G, Aujesky D, ''et al.'' |title=Diagnosis of pulmonary embolism by multidetector CT alone or combined with venous ultrasonography of the leg: a randomised non-inferiority trial |journal=Lancet |volume=371 |issue=9621 |pages=1343–52 |year=2008 |month=April |pmid=18424324 |doi=10.1016/S0140-6736(08)60594-2}}</ref>
+
+The revised score uses 8 parameters, but does not include figures which require an [[Arterial blood gas sampling|arterial blood gas sample]] to be performed:
+{| class=wikitable border=1
+!Variable
+!Score
+|-
+|Age 65 years or over
+|style="text-align:center"|1
+|-
+|Previous DVT or PE
+|style="text-align:center"|3
+|-
+|Surgery or fracture within 1 month
+|style="text-align:center"|2
+|-
+|Active malignant condition
+|style="text-align:center"|2
+|-
+|Unilateral lower limb pain
+|style="text-align:center"|3
+|-
+|Haemoptysis
+|style="text-align:center"|2
+|-
+|Heart rate 75 to 94 beats per minute
+|style="text-align:center"|3
+|-
+|Heart rate 95 or more beats per minute
+|style="text-align:center"|5
+|-
+|Pain on deep palpation of lower limb and unilateral oedema
+|style="text-align:center"|4
+|}
+The score obtained relates to probability of PE:
+
+* 0 - 3 points indicates low probability (8%)
+
+* 4 - 10 points indicates intermediate probability (28%)
+
+* 11 points or more indicates high probability (74%)
+
+The probabilities derived from the scoring systems can be used to determine the need for, and nature of, further investigations such as [[D-dimer]], [[ventilation/perfusion scan]]ning and [[CT pulmonary angiogram|CT pulmonary angiography]] to confirm or refute the diagnosis of PE.
+
+==Simplified Geneva Score==
+A newer revision referred to as the simplified revised Geneva score has been prospectively studied and reported in the [[Archives of Internal Medicine]] on October 27 of 2008. The simplified scoring system replaced the weighted scores for each parameter with a 1 point score for each parameter present to reduce the likelihood of error when the score is used in a clinical setting. The report noted that the simplified Geneva score does not lead to a decrease in diagnostic utility in evaluating patients for a PE when compared to previous Geneva scores.<ref name="Simplification of the revised Geneva score for assessing clinical probability of pulmonary embolism"/>
+
+The simplified Geneva score:
+{| class=wikitable border=1
+!Variable
+!Score
+|-
+|Age >65
+|style="text-align:center"|1
+|-
+|Previous DVT or PE
+|style="text-align:center"|1
+|-
+|Surgery or fracture within 1 month
+|style="text-align:center"|1
+|-
+|Active malignancy
+|style="text-align:center"|1
+|-
+|Unilateral lower limb pain
+|style="text-align:center"|1
+|-
+|Hemoptysis
+|style="text-align:center"|1
+|-
+|Pain on deep vein palpation of lower limb and unilateral edema
+|style="text-align:center"|1
+|-
+|Heart rate 75 to 94 bpm
+|style="text-align:center"|1
+|-
+|Heart rate greater than 94 bpm*
+|style="text-align:center"|<nowiki>+1</nowiki>
+|-
+|colspan=2|<nowiki>*</nowiki> <span style="font-size:85%">Heart rates of 75 to 94 bpm receive 1 point, while heart rates higher than 94bpm receive a further point (i.e. 2 points in total)</span>
+|}
+
+Patients with a score of 2 or less are considered unlikely to have a current PE. Authors suggest that the likelihood of patients having a PE with a simplified Geneva score less than 2 and a normal D-Dimer is 3 percent.<ref name="Geneva Scoring for Pulmonary Embolism Simplified Further">{{cite web |url=http://firstwatch.jwatch.org/cgi/content/full/2008/1029/1 |title=Geneva Scoring for Pulmonary Embolism Simplified Further. Physician's First Watch October 29, 2008 |work= |accessdate=1/25/2009. Login to free text may be required}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Medical scoring system]]

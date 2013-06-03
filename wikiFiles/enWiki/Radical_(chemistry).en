@@ -1,0 +1,151 @@
+{{redirect|Free radical}}
+[[Image:Gombergm01.jpg|right|thumb|[[Moses Gomberg]] (1866-1947), the founder of radical chemistry]]
+In [[chemistry]], a '''radical''' (more precisely, a '''free radical''') is an [[atom]], [[molecule]], or [[ion]] that has [[unpaired electron|unpaired valence electrons]] or an [[open shell|open electron shell]], and therefore may be seen as having one or more "dangling" [[covalent bond]]s.
+
+With some exceptions, these "dangling" bonds make free radicals highly [[chemical reaction|chemically reactive]] towards other substances, or even towards themselves: their molecules will often spontaneously [[dimer (chemistry)|dimerize]] or [[polymer|polymerize]] if they come in contact with each other.  Most radicals are reasonably stable only at very low concentrations in inert media or in vacuum.
+
+A notable example of free radical is the [[hydroxyl radical]] (HO•), a molecule that is one [[hydrogen]] atom short of a water molecule and thus has one bond "dangling" from the oxygen. Two other examples are the [[methylene radical|carbene]] molecule (''':'''{{chem|CH|2}}), which has two dangling bonds; and the [[superoxide]] [[anion]] (•{{chem|O|2|-}}), the oxygen molecule {{chem|O|2}} with one extra electron, which has one dangling bond. On the other hand, the [[hydroxide|hydroxyl anion]] ({{chem|HO|-}}), the [[oxide|oxide anion]] ({{chem|O|2-}}) and the [[carbenium|carbenium cation]] ({{chem|CH|3|+}}) are not radicals, since the bonds that may appear to be dangling are in fact resolved by the addition or removal of electrons.
+
+Free radicals may be created in a number of ways, including synthesis with very dilute or rarefied reagents, reactions at very low temperatures, or breakup of larger molecules. The latter can be affected by any process that puts enough energy into the parent molecule, such as [[ionizing radiation]], heat, electrical discharges, [[electrolysis]], and chemical reactions.  Indeed, radicals are intermediate stages in many chemical reactions.
+
+Free radicals play an important role in [[combustion]], [[atmospheric chemistry]], [[polymerization]], [[Plasma (physics)|plasma]] chemistry, [[biochemistry]], and many other chemical processes. In living organisms, the free radicals [[superoxide]] and [[nitric oxide]] and their reaction products regulate many processes, such as control of vascular tone and thus blood pressure.  They also play a key role in the intermediary metabolism of various biological compounds. Such radicals can even be messengers in a process dubbed [[redox signaling]].  A radical may be trapped within a ''[[Cage effect (chemistry)|solvent cage]]'' or be otherwise bound.
+
+Until late in the 20th century the word "radical" was used in chemistry to indicate any connected group of atoms, such as a [[methyl|methyl group]] or a [[carboxyl]], whether it was part of a larger molecule or a molecule on its own. The qualifier "free" was then needed to specify the unbound case.  Following recent nomenclature revisions, a part of a larger molecule is now called a [[functional group]] or [[substituent]], and "radical" now implies "free".  However, the old nomenclature may still occur in the literature.
+
+==History==
+The first organic free radical identified was [[triphenylmethyl radical]].  This species was discovered by [[Moses Gomberg]] in 1900 at the [[University of Michigan]] USA.
+
+Historically, the term ''radical'' was also used for bound parts of the molecule, especially when they remain unchanged in reactions. These are now called [[functional group]]s. For example, [[methanol|methyl alcohol]] was described as consisting of a methyl "radical" and a hydroxyl "radical". Neither are radicals in the modern chemical sense, as they are permanently bound to each other, and have no unpaired, reactive electrons; however, they can be observed as radicals in [[mass spectrometry]] when broken apart by irradiation with energetic electrons.
+
+==Depiction in chemical reactions==
+<!-- "Mass spectrum analysis" links here --> 
+In chemical equations, free radicals are frequently denoted by a dot placed immediately to the right of the atomic symbol or molecular formula as follows:
+
+:<math>\mathrm{Cl}_2 \; \xrightarrow{UV} \; {\mathrm{Cl} \cdot} + {\mathrm{Cl} \cdot}</math>
+:''Chlorine gas can be broken down by ultraviolet light to form atomic chlorine radicals''.
+
+Radical [[reaction mechanism]]s use single-headed arrows to depict the movement of single electrons:
+
+[[Image:Radical.svg|centre|300px]]
+
+The [[Homolysis (chemistry)|homolytic]] cleavage of the breaking bond is drawn with a 'fish-hook' arrow to distinguish from the usual movement of two electrons depicted by a standard curly arrow. It should be noted that the second electron of the breaking bond also moves to pair up with the attacking radical electron; this is not explicitly indicated in this case.
+
+Free radicals also take part in [[radical addition]] and [[radical substitution]] as [[reactive intermediate]]s. Chain reactions involving free radicals can usually be divided into three distinct processes.  These are ''initiation'', ''propagation'', and ''termination''.
+*'''Initiation''' reactions are those that result in a net increase in the number of free radicals. They may involve the formation of free radicals from stable species as in Reaction 1 above or they may involve reactions of free radicals with stable species to form more free radicals.
+*'''Propagation''' reactions are those reactions involving free radicals in which the total number of free radicals remains the same.
+*'''Termination''' reactions are those reactions resulting in a net decrease in the number of free radicals. Typically two free radicals combine to form a more stable species, for example: 2Cl'''·'''→ Cl<sub>2</sub>
+
+== Formation ==
+The formation of radicals may involve breaking of covalent bonds [[Homolysis (chemistry)|homolytically]], a process that requires significant amounts of energy. For example, splitting H<sub>2</sub> into 2H'''·''' has a Δ''H''° of +435 kJ/mol, and Cl<sub>2</sub> into 2Cl'''·''' has a Δ''H''° of +243 kJ/mol. This is known as the homolytic [[bond dissociation energy]], and is usually abbreviated as the symbol ''DH''°. The bond energy between two covalently bonded atoms is affected by the structure of the molecule as a whole, not just the identity of the two atoms.  Likewise, radicals requiring more energy to form are less stable than those requiring less energy. Homolytic [[bond cleavage]] most often happens between two atoms of similar electronegativity. In organic chemistry this is often the O-O bond in [[organic peroxide|peroxide]] species or O-N bonds.  Sometimes radical formation is [[Quantum chemistry|spin-forbidden]],  presenting an additional barrier.
+
+However, propagation is a very [[exothermic reaction]].  Likewise, although [[radical ion]]s do exist, most species are electrically neutral.
+
+Radicals may also be formed by single electron [[Redox|oxidation or reduction]] of an atom or molecule. An example is the production of [[superoxide]] by the [[electron transport chain]]. Early studies of organometallic chemistry, especially tetra-alkyl lead species by F.A. Paneth and K. Hahnfeld in the 1930s supported heterolytic fission of bonds and a radical based mechanism.
+
+==Persistence and stability==
+[[Image:VitE.gif|frame|right|The radical derived from ''[[tocopherol|α-tocopherol]]'']]
+Although radicals are generally short-lived due to their reactivity, there are long-lived radicals. These are categorized as follows:
+
+;Stable radicals
+The prime example of a stable radical is molecular [[dioxygen]] (O<sub>2</sub>). Another common example is [[nitric oxide]] (NO). Organic radicals can be long lived if they occur in a conjugated π system, such as the radical derived from [[tocopherol|α-tocopherol]] ([[vitamin E]]). There are also hundreds of examples of [[thiazyl]] radicals, which show low reactivity and remarkable thermodynamic stability with only a very limited extent of π [[resonance stabilization]].<ref>{{cite journal | last1 = Oakley | first1 = Richard T. | title = Progress in Inorganic Chemistry | volume = 36 | pages = 299–391 | year = 1988 | doi = 10.1002/9780470166376.ch4 | format=PDF | url = http://www.chembio.uoguelph.ca/oakley/papers/rto_086.pdf | chapter = Cyclic and Heterocyclic Thiazenes | series = Progress in Inorganic Chemistry | isbn = 978-0-470-16637-6}}</ref><ref>{{cite journal | last1 = Rawson | first1 = J | last2 = Banister | first2 = A | last3 = Lavender | first3 = I | title = Advances in Heterocyclic Chemistry Volume 62 | volume = 62 | pages = 137–247 | year = 1995 | doi = 10.1016/S0065-2725(08)60422-5 | chapter = The Chemistry of Dithiadiazolylium and Dithiadiazolyl Rings | series = Advances in Heterocyclic Chemistry | isbn = 978-0-12-020762-6  }}
+</ref> 
+
+;Persistent radicals
+Persistent radical compounds are those whose longevity is due to [[Steric effects|steric crowding]] around the radical center, which makes it physically difficult for the radical to react with another molecule.<ref>{{cite journal|doi=10.1021/ar50097a003|title=Persistent carbon-centered radicals|year=1976|last1=Griller|first1=David|first2=Keith U.|journal=Accounts of Chemical Research|volume=9|page=13|last2=Ingold}}</ref> Examples of these include Gomberg's [[triphenylmethyl radical]], [[Fremy's salt]] (Potassium nitrosodisulfonate, (KSO<sub>3</sub>)<sub>2</sub>NO·), [[nitroxide]]s, (general formula R<sub>2</sub>NO·) such as [[TEMPO]], [[TEMPOL]], nitronyl nitroxides, and azephenylenyls and radicals derived from PTM (perchlorophenylmethyl radical) and TTM (tris(2,4,6-trichlorophenyl)methyl radical). Persistent radicals are generated in great quantity during combustion, and "may be responsible for the [[oxidative stress]] resulting in cardiopulmonary disease and probably cancer that has been attributed to exposure to airborne fine particles."<ref>{{cite journal|author1 = Lomnicki S.|author2 = Truong H.|author3 = Vejerano E.|author4 = Dellinger B.|title = Copper oxide-based model of persistent free radical formation on combustion-derived particulate matter|journal = Environ. Sci. Technol.|year = 2008|volume = 42|issue = 13|pages = 4982–4988|pmid = 18678037|doi = 10.1021/es071708h}}</ref>
+
+;Diradicals
+[[Diradical]]s are molecules containing two radical centers. Multiple radical centers can exist in a molecule. Atmospheric oxygen naturally exists as a diradical in its ground state as [[triplet oxygen]]. The low reactivity of atmospheric oxygen is due to its diradical state. Non-radical states of dioxygen are actually less stable than the diradical. The relative stability of the oxygen diradical is primarily due to the [[Quantum chemistry|spin-forbidden]] nature of the triplet-singlet transition required for it to grab electrons, i.e., "oxidize". The diradical state of oxygen also results in its paramagnetic character, which is demonstrated by its attraction to an external magnet.<ref>However, [[paramagnetism]] does not necessarily imply radical character.</ref>
+
+==Reactivity==
+{{Main|Free radical reaction}}
+Radical alkyl intermediates are stabilized by similar physical processes to [[carbocations]]: as a general rule, the more substituted the radical center is, the more stable it is. This directs their reactions.   Thus, formation of a tertiary radical (R<sub>3</sub>C·) is favored over secondary (R<sub>2</sub>HC·), which is favored over primary (RH<sub>2</sub>C·). Likewise,  radicals next to functional groups such as carbonyl, nitrile, and ether are more stable than tertiary alkyl radicals.
+
+Radicals attack double bonds. However, unlike similar ions, such radical reactions are not as much directed by electrostatic interactions. For example, the reactivity of nucleophilic ions with α,β-unsaturated compounds (C=C–C=O) is directed by the electron-withdrawing effect of the oxygen, resulting in a partial positive charge on the carbonyl carbon. There are two reactions that are observed in the ionic case: the carbonyl is attacked in a direct addition to carbonyl, or the vinyl is attacked in [[conjugate addition]], and in either case, the charge on the nucleophile is taken by the oxygen. Radicals add rapidly to the double bond, and the resulting α-radical carbonyl is relatively stable; it can couple with another molecule or be oxidized. Nonetheless, the electrophilic/neutrophilic character of radicals has been shown in a variety of instances. One example is the alternating tendency of the copolymerization of [[maleic anhydride]] (electrophilic) and [[styrene]] (slightly nucleophilic).
+
+In intramolecular reactions, precise control can be achieved despite the extreme reactivity of radicals. In general,  radicals attack the closest reactive site the most readily. Therefore, when there is a choice, a preference for five-membered rings is observed: four-membered rings are too strained, and collisions with carbons six or more atoms away in the chain are infrequent.
+
+[[Carbene]]s and [[nitrene]]s, which are diradicals, have distinctive chemistry.
+
+==Combustion==
+[[Image:Spectrum of blue flame.png|thumb|right|350px|Spectrum of the blue flame from a [[butane]] torch showing excited molecular radical band emission and [[Swan bands]]]]
+{{main|Combustion#Reaction mechanism}}
+Probably the most familiar free-radical reaction for most people is [[combustion]]. The [[oxygen]] molecule is a stable [[diradical]], best represented by ·O-O·. Because [[Spin (physics)|spins]] of the electrons are parallel, this molecule is stable.  While the [[ground state]] of oxygen is this unreactive spin-unpaired ([[Triplet oxygen|triplet]]) diradical, an extremely reactive spin-paired ([[Singlet oxygen|singlet]]) state is available. For combustion to occur, the [[energy barrier]] between these must be overcome. This barrier can be overcome by heat, requiring high temperatures.  The triplet-singlet transition is also "[[Forbidden mechanism|forbidden]]".  This presents an additional barrier to the reaction.  It also means molecular oxygen is relatively unreactive at room temperature except in the presence of a catalytic heavy atom such as iron or copper.
+
+Combustion consists of various radical chain reactions that the singlet radical can initiate. The [[flammability]] of a given material strongly depends on the concentration of free radicals that must be obtained before initiation and propagation reactions dominate leading to [[combustion]] of the material. Once the combustible material has been consumed, termination reactions again dominate and the flame dies out.  As indicated,  promotion of propagation or termination reactions alters flammability.  For example, because lead itself deactivates free radicals in the gasoline-air mixture, [[tetraethyl lead]] was once commonly added to gasoline. This prevents the combustion from initiating in an uncontrolled manner or in unburnt residues ([[engine knocking]]) or premature ignition ([[preignition]]).
+
+When a hydrocarbon is burned, a large number of different oxygen radicals are involved. Initially, [[hydroperoxyl|hydroperoxyl radical]] (HOO·) are formed. These then react further to give [[organic hydroperoxide]]s that break up into [[hydroxyl radical]]s (HO·).
+
+==Polymerization==
+In addition to combustion, many [[polymerization]] reactions involve free radicals. As a result many plastics, enamels, and other polymers are formed through [[radical polymerization]].
+
+Recent advances in radical polymerization methods, known as [[living polymerization|living radical polymerization]], include:
+*Reversible addition-fragmentation chain transfer ([[RAFT (chemistry)|RAFT]])
+*Atom transfer radical polymerization ([[ATRP (chemistry)|ATRP]])
+*Nitroxide mediated polymerization (NMP)
+These methods produce polymers with a much narrower distribution of molecular weights.
+
+==Atmospheric radicals==
+The most common radical in the lower atmosphere is molecular dioxygen.    [[Photodissociation]] of source molecules produces other free radicals. In the lower atmosphere, the most important examples of free radical production are the photodissociation of [[nitrogen dioxide]] to give an oxygen atom and [[nitric oxide]], which plays a key role in [[Photochemical smog|smog]] formation&mdash;and the photodissociation of ozone to give the excited oxygen atom O(1D).   The chemical reactions for this process are:
+
+:R1 = NO<sub>2</sub> + h&nu; &rarr; NO + O
+:R2 = O + O<sub>2</sub> &rarr; O<sub>3</sub>
+:R1+R2 = NO<sub>2</sub> + O<sub>2</sub> + h&nu; &rarr; NO + O<sub>3</sub> <-- Formation ozone at ground level
+:R3 = NO + O<sub>3</sub> &rarr; NO<sub>2</sub> + O<sub>2</sub> <-- Destruction of ozone
+
+In the upper atmosphere, a particularly important source of radicals is the photodissociation of normally unreactive [[chlorofluorocarbon]]s (CFCS) by solar [[ultraviolet radiation]], or by reactions with other stratospheric constituents. These reactions give off the chlorine radical, Cl•, which reacts with [[ozone]] in a [[catalytic]] [[chain reaction]] ending in [[Ozone depletion]] and regeneration of the chlorine radical, allowing it to reparticipate in the reaction. Such reactions are believed to be the primary cause of depletion of the [[ozone layer]] and this is why the use of chlorofluorocarbons as [[refrigerant]]s has been restricted. The chemical reactions for this process are:
+
+:R1 = CFCS + h&nu; &rarr; Cl&bull;
+:R2 = Cl&bull; + O<sub>3</sub> &rarr; ClO&bull; + O<sub>2</sub>
+:R3 = O<sub>3</sub> + h&nu; &rarr; O<sub>2</sub> + O
+:R4 = O + ClO&bull; &rarr; Cl&bull; + O<sub>2</sub>
+:R1+R2+R3+R4 = 2O<sub>3</sub> + h&nu; &rarr; 3O<sub>2</sub> <-- Ozone destruction
+
+==In biology==
+Free radicals play an important role in a number of biological processes.  Many of these are necessary for life, such as the intracellular killing of bacteria by phagocytic cells such as [[granulocyte]]s and [[macrophage]]s. Researchers have also implicated free radicals in certain [[signal transduction|cell signalling]] processes.<ref>{{cite journal |author=Pacher P, Beckman JS, Liaudet L |title=Nitric oxide and peroxynitrite in health and disease |journal=Physiol. Rev. |volume=87 |issue=1 |pages=315–424 |year=2007 |pmid=17237348 |doi=10.1152/physrev.00029.2006 |pmc=2248324}}</ref> This is dubbed [[redox signaling]].
+
+The two most important oxygen-centered free radicals are [[superoxide]] and [[hydroxyl radical]]. They derive from molecular oxygen under reducing conditions. However, because of their reactivity, these same free radicals can participate in unwanted side reactions resulting in cell damage. Excessive amounts of these free radicals can lead to cell injury and [[death]], which may contribute to many diseases such as [[cancer]], [[stroke]], [[myocardial infarction]], [[diabetes]] and major disorders.<ref>{{cite journal |author=Rajamani Karthikeyan, Manivasagam T, Anantharaman P, Balasubramanian T, Somasundaram ST |title=Chemopreventive effect of Padina boergesenii extracts on ferric nitrilotriacetate (Fe-NTA)-induced oxidative damage in Wistar rats |journal=J. Appl. Phycol.| year=2011|doi=10.1007/s10811-010-9564-0 |volume=23, Issue 2, Page 257 |issue=2 |pages=257–263}}
+</ref> Many forms of [[cancer]] are thought to be the result of reactions between free radicals and [[DNA]], potentially resulting in [[mutation]]s that can adversely affect the [[cell cycle]] and potentially lead to malignancy.<ref>Mukherjee, P. K., Marcheselli, V. L., Serhan, C. N., & Bazan, N. G. (2004). Neuroprotecin D1: A docosahexanoic acid-derived docosatriene protects human retinal pigment epithelial cells from oxidative stress. Proceedings of the National Academy of Sciences of the USA, 101(22), 8491-8496. {{doi|10.1073/pnas.0402531101}}</ref> Some of the symptoms of [[Senescence|aging]] such as [[atherosclerosis]] are also attributed to free-radical induced oxidation of many of the chemicals making up the body.{{Citation needed|date=November 2011}} In addition free radicals contribute to [[alcohol]]-induced [[liver]] damage, perhaps more than alcohol itself. Radicals in [[cigarette]] [[smoke]] are implicated in inactivation of [[alpha 1-antitrypsin]] in the [[lung]]. This process promotes the development of [[emphysema]].
+
+Free radicals may also be involved in [[Parkinson's disease]], senile and drug-induced [[deafness]], [[schizophrenia]], and [[Alzheimer's]].<ref>Floyd, R. A., (1999). Neuroinflammatory processes are important in neurodegenerative diseases: An hypothesis to explain the increased formation of reactive oxygen and nitrogen species as major factors involved in neurodegenerative disease development.  Free Radical Biology and Medicine, 26(9-10), 1346-1355. {{doi|10.1016/S0891-5849(98)002937}}</ref> The classic free-radical syndrome, the iron-storage disease [[hemochromatosis]], is typically associated with a constellation of free-radical-related symptoms including movement disorder, psychosis, skin pigmentary [[melanin]] abnormalities, deafness, arthritis, and diabetes mellitus. The [[free-radical theory]] of aging proposes that free radicals underlie the [[Senescence|aging process]] itself. Similarly, the process of mito[[hormesis]] suggests that repeated exposure to free radicals may extend life span.
+
+Because free radicals are necessary for life, the body has a number of mechanisms to minimize free-radical-induced damage and to repair damage that occurs, such as the [[enzyme]]s [[superoxide dismutase]], [[catalase]], [[glutathione peroxidase]] and [[glutathione reductase]]. In addition, [[antioxidant]]s play a key role in these defense mechanisms. These are often the three vitamins, [[vitamin A]], [[vitamin C]] and [[vitamin E]] and [[polyphenol antioxidant]]s. Further, there is good evidence [[bilirubin]] and [[uric acid]] can act as antioxidants to help neutralize certain free radicals. Bilirubin comes from the breakdown of [[red blood cell]]s' contents, while uric acid is a breakdown product of [[purine]]s. Too much bilirubin, though, can lead to [[jaundice]], which could eventually damage the central nervous system, while too much uric acid causes [[gout]].<ref>An overview of the role of free radicals in biology and of the use of electron spin resonance in their detection may be found in {{cite book|author=Rhodes C.J.|title=Toxicology of the Human Environment - the critical role of free radicals|publisher=Taylor and Francis|place= London|year= 2000|isbn= 0-7484-0916-5}}</ref>
+
+===Reactive oxygen species===
+[[Reactive oxygen species]] or ROSs are species such as [[superoxide]], [[hydrogen peroxide]], and [[hydroxyl radical]] and are associated with cell damage. ROSs form as a natural by-product of the normal metabolism of [[oxygen]] and have important roles in cell signaling.
+
+==Loose definition of radicals==
+In most fields of chemistry, the historical definition of radicals contends that the molecules have nonzero spin. However in fields including [[spectroscopy]], [[chemical reaction]], and [[astrochemistry]], the definition is slightly different. [[Gerhard Herzberg]], who won the Nobel prize for his research into the electron structure and geometry of radicals, suggested a looser definition of free radicals: "any transient (chemically unstable) species (atom, molecule, or ion)".<ref>G. Herzberg (1971), "The spectra and structures of simple free radicals", ISBN 0-486-65821-X.</ref> The main point of his suggestion is that there are many chemically unstable molecules that have zero spin, such as C<sub>2</sub>, C<sub>3</sub>, CH<sub>2</sub> and so on. This definition is more convenient for discussions of transient chemical processes and astrochemistry; therefore researchers in these fields prefer to use this loose definition.<ref>[http://www.free-radicals-symposium-05.ch/index2.html 28th International Symposium on Free Radicals].</ref>
+
+==Diagnostics==
+Free radical diagnostic techniques include:
+*[[Electron spin resonance]]
+:A widely used technique for studying free radicals, and other paramagnetic species, is electron spin resonance spectroscopy (ESR). This is alternately referred to as "[[electron paramagnetic resonance]]" (EPR) spectroscopy. It is conceptually related to [[nuclear magnetic resonance]], though electrons resonate with higher-frequency fields at a given fixed [[magnetic field]] than do most nuclei.
+*[[Nuclear magnetic resonance]] using a phenomenon called [[CIDNP]]
+*Chemical labelling
+:Chemical labelling by quenching with free radicals, e.g. with [[nitric oxide]] (NO) or [[DPPH]] (2,2-diphenyl-1-picrylhydrazyl), followed by spectroscopic methods like [[X-ray photoelectron spectroscopy]] (XPS) or [[absorption spectroscopy]], respectively.
+*Use of free radical markers
+:Stable, specific or non-specific derivates of physiological substances can be measured e.g. lipid peroxidation products (isoprostanes, [[TBARS]]), [[amino acid]] oxidation products (meta-[[tyrosine]], ortho-[[tyrosine]], hydroxy-Leu, di[[tyrosine]] etc.), peptide oxidation products (oxidized [[glutathione]] - GSSG)
+:[[2,2'-Azobis(2-amidinopropane) dihydrochloride]] (AAPH) is a chemical compound used to study the chemistry of the [[oxidation]] of [[drug]]s.<ref>{{cite journal|pmid=15783080|doi=10.1007/s11095-004-1199-x|title=Use of 2,2?-Azobis(2-Amidinopropane) Dihydrochloride as a Reagent Tool for Evaluation of Oxidative Stability of Drugs|year=2005|last1=Betigeri|first1=Seema|last2=Thakur|first2=Ajit|last3=Raghavan|first3=Krishnaswamy|journal=Pharmaceutical Research|volume=22|issue=2|pages=310–7}}</ref> It is a free radical-generating [[azo compound]]. It is gaining prominence as a model oxidant in [[small molecule]] and [[protein]] therapeutics for its ability to initiate oxidation reactions via both nucleophilic and free radical mechanisms.<ref>{{cite journal|pmid=21560126|doi=10.1002/jps.22578|title=Analysis of 2,2′-azobis (2-amidinopropane) dihydrochloride degradation and hydrolysis in aqueous solutions|year=2011|last1=Werber|first1=Jay|last2=Wang|first2=Y. John|last3=Milligan|first3=Michael|last4=Li|first4=Xiaohua|last5=Ji|first5=Junyan A.|journal=Journal of Pharmaceutical Sciences|volume=100|issue=8|pages=3307–15}}</ref>
+*Indirect method
+:Measurement of the decrease in the amount of antioxidants (e.g. TAS, reduced [[glutathione]] - GSH)
+*[[Chemical trap|Trapping agents]]
+:Using a chemical species that reacts with free radicals to form a stable product that can then be readily measured (Hydroxyl radical and salicylic acid)
+
+==See also==
+*[[-yl]]
+*[[Electron pair]]
+*[[Globally Harmonized System of Classification and Labelling of Chemicals]]
+*[[Hofmann-Löffler reaction]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://mark.jelezniak.de/chemical_reactions/ignition_delay_times.htm Use of Radical Emission for Determination of Ignition Delay Times]
+*[http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6630507.PN.&OS=PN/6630507&RS=PN/6630507 Cannabinoids as antioxidants and neuroprotectants]- The United States of America - the Department of Health and Human Services (Washington, DC)
+[[Category:Biological processes]]
+[[Category:Biomolecules]]
+[[Category:Chemical bonding]]
+[[Category:Environmental chemistry]]
+[[Category:Free radicals]]
+[[Category:Senescence]]

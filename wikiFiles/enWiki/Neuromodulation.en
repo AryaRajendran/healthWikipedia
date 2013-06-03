@@ -1,0 +1,165 @@
+{{Refimprove|date=May 2010}}
+
+'''Neuromodulation''' is the [[physiology|physiological]] process by which a given neuron uses several different [[neurotransmitters]] to regulate diverse populations of [[central nervous system]] [[neuron]]s. This is in contrast to classical [[synapse|synaptic transmission]], in which one presynaptic neuron directly influences a single postsynaptic partner. Neuromodulators secreted by a small group of neurons diffuse through large areas of the nervous system, affecting multiple neurons. Examples of neuromodulators include [[dopamine]], [[serotonin]], [[acetylcholine]], [[histamine]] and others.
+
+Neuromodulation can be conceptualized as a neurotransmitter that is not reabsorbed by the pre-synaptic neuron or broken down into a [[metabolite]]. Such neuromodulators end up spending a significant amount of time in the [[cerebrospinal fluid]] (CSF), influencing (or "modulating") the activity of several other neurons in the [[brain]]. For this reason, some neurotransmitters are also considered to be neuromodulators, such as serotonin and acetylcholine.{{Citation needed|date=January 2013}}
+
+Neuromodulation is often contrasted with classical fast synaptic transmission. In both cases the transmitter acts on local postsynaptic receptors, but in neuromodulation, the receptors are typically [[G-protein coupled receptors]] while in classical chemical neurotransmission, they are [[ligand-gated ion channels]]. Neurotransmission that involves [[metabotropic receptor]]s (like G-protein linked receptors) often also involves [[voltage-gated ion channels]], and is relatively slow. Conversely, neurotransmission that involves exclusively ligand-gated ion channels is much faster.
+A related distinction is also sometimes drawn between modulator and driver synaptic inputs to a neuron, but here the emphasis is on modulating ongoing neuronal spiking versus causing that spiking.
+
+==Neuromuscular systems==
+Neuromodulators may alter the output of a physiological system by acting on the associated inputs (for instance, [[central pattern generator]]s).  However, modeling work suggests that this alone is insufficient,<ref name="Stern">{{cite journal | last =Stern  | first =E | authorlink = | coauthors =Fort TJ, Millier MW, Peskin CS, Brezina V | title = Decoding modulation of the neuromuscular transform| journal =Neurocomputing | volume =70| issue =6954 | pages = 1753| publisher = | year =2007  | url =http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V10-4M9Y1V1-8&_user=489277&_coverDate=11%2F11%2F2006&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000022679&_version=1&_urlVersion=0&_userid=489277&md5=7d1066d0824172ae9521c974325c076a#bcor1 | doi =10.1016/j.neucom.2006.10.117 | id = | accessdate =2007-04-07 | pmid =19763188 | pmc =2745187}}</ref> because the neuromuscular transformation from neural input to muscular output may be tuned for particular ranges of input. Stern et al. (2007) suggest that neuromodulators must act not only on the input system but must change the transformation itself to produce the proper  contractions of muscles as output.<ref name="Stern" />
+
+==Volume transmission==
+Neurotransmitter systems are systems of [[neurons]] in the brain expressing certain types of [[neurotransmitters]], and thus form distinct systems. Activation of the system causes effects in large volumes of the brain, called ''volume transmission''. Volume transmission is the diffusion through the brain extracellular fluid of neurotransmitters released at points that may be remote from the target cells with the resulting activation of extrasynaptic receptors.<ref>http://www.hindawi.com/journals/tswj/2003/182916/abs/</ref>
+
+==The major neurotransmitter systems==
+The major neurotransmitter systems are the [[noradrenaline]] (norepinephrine) system, the [[dopamine]] system, the [[serotonin]] system and the [[cholinergic]] system. Drugs targeting the neurotransmitter of such systems affects the whole system, and explains the mode of action of many drugs.
+
+Most other neurotransmitters, on the other hand, e.g. [[glutamate]], [[GABA]] and [[glycine]], are used very generally throughout the central nervous system.
+
+===Comparison===
+{| class="wikitable"
+|+Neurotransmitter systems
+|-
+! System !! Origin!!<ref name=Rang>Unless else specified in boxes, then ref is: {{cite book |author=Rang, H. P. |title=Pharmacology |publisher=Churchill Livingstone |location=Edinburgh |year=2003 |pages= 474 for noradrenaline system, page 476 for dopamine system, page 480 for serotonin system and page 483 for cholinergic system. |isbn=0-443-07145-4 |oclc= |doi=}}</ref> Targets!!<ref name=Rang/> Effects<ref name=Rang/>
+|-
+!rowspan=2| Noradrenaline system
+| [[Locus coeruleus]] || [[adrenergic receptors]] in:
+*[[spinal cord]]
+*[[thalamus]]
+*[[hypothalamus]]
+*[[striatum]]
+*[[neocortex]]
+*[[cingulate gyrus]]
+*[[cingulum (anatomy)|cingulum]]
+*[[hippocampus]]
+*[[amygdala]]
+|rowspan=2|
+*arousal (Arousal is a physiological and psychological state of being awake or reactive to stimuli)
+*[[reward system]]
+|-
+| [[Lateral tegmental field]] ||
+*[[hypothalamus]]
+|-
+! Dopamine system
+|| [[dopamine]] [[neural pathway|pathways]]:
+* [[mesocortical pathway]]
+* [[mesolimbic pathway]]
+* [[nigrostriatal pathway]]
+* [[tuberoinfundibular pathway]]
+|| [[Dopamine receptor]]s at pathway terminations.
+
+ || [[motor system]], [[reward system]], [[cognition]], [[endocrine]], [[nausea]]
+|-
+!rowspan=2| Serotonin system
+| caudal [[dorsal raphe nucleus]] || [[Serotonin receptors]] in:
+*[[deep cerebellar nuclei]]
+*[[cerebellar cortex]]
+*[[spinal cord]]
+ |rowspan=2| Increase ([[extraversion and introversion|introversion]]), [[Mood (psychology)|mood]], [[satiety]], [[body temperature]] and [[sleep]], while decreasing [[pain and nociception|nociception]].
+|-
+| rostral [[dorsal raphe nucleus]] || [[Serotonin receptors]] in:
+*[[thalamus]]
+*[[striatum]]
+*[[hypothalamus]]
+*[[nucleus accumbens]]
+*[[neocortex]]
+*[[cingulate gyrus]]
+*[[cingulum (anatomy)|cingulum]]
+*[[hippocampus]]
+*[[amygdala]]
+|-
+!rowspan=3| Cholinergic system
+| [[Pedunculopontine nucleus]] and [[dorsolateral tegmental nuclei]] (''pontomesencephalotegmental complex'') || (mainly) [[M1 receptor]]s in:
+*[[brainstem]]<ref name="Woolf89">Woolf NJ, Butcher LL. (1989). Cholinergic systems in the rat brain: IV. Descending projections of the pontomesencephalic tegmentum. Brain Res Bull. 23(6):519-40. PMID 2611694</ref>
+*[[deep cerebellar nuclei]]<ref name="Woolf89"/>
+*[[pontine nuclei]]<ref name="Woolf89"/>
+*[[locus ceruleus]]<ref name="Woolf89"/>
+*[[raphe nucleus]]<ref name="Woolf89"/>
+*[[lateral reticular nucleus]]<ref name="Woolf89"/>
+*[[inferior olive]]<ref name="Woolf89"/>
+
+*[[thalamus]]<ref name="Woolf">Woolf NJ, Butcher LL. (1986). Cholinergic systems in the rat brain: III. Projections from the pontomesencephalic tegmentum to the thalamus, tectum, basal ganglia, and basal forebrain. Brain Res Bull. 16(5):603-37. PMID 3742247</ref>
+*[[tectum]]<ref name="Woolf"/>
+*[[basal ganglia]]<ref name="Woolf"/>
+*[[basal forebrain]]<ref name="Woolf"/>
+|rowspan=3|
+*muscle and motor control system
+*[[learning]]
+*[[Memory#Short-term|short-term memory]]
+*arousal
+*reward
+|-
+| [[basal optic nucleus of Meynert]] || (mainly) [[M1 receptor]]s in:
+*[[neocortex]]
+|-
+| medial [[septal nucleus]] || (mainly) [[M1 receptor]]s in:
+*[[hippocampus]]
+*[[neocortex]]
+|}
+
+===Noradrenaline system===
+''Further reading: [[Norepinephrine#Norepinephrine system]]''
+
+The noradrenaline system consists of just 1500 neurons on each side of the brain, primarily in the [[locus coeruleus]].  This is diminutive compared to the more than 100 billion neurons in the brain. As with dopaminergic neurons in the substantia nigra,  neurons in the locus caeruleus tend to be [[melanin]]-pigmented.  In spite of their small number, when activated, the system plays major roles in the brain, as seen in table above. [[Noradrenaline]] is released from the neurons, and acts on [[adrenergic receptors]].
+
+===Dopamine system===
+''Further reading: [[Dopamine#Functions in the brain]]''
+
+The dopamine or dopaminergic system consists of several pathways, originating from the [[ventral tegmentum]] or [[substantia nigra]] as examples. It acts on [[dopamine receptors]].
+
+[[Parkinson's disease]] is at least in part related to dropping out of dopaminergic cells in [[deep-brain nuclei]], primarily the melanin-pigmented neurons in the [[substantia nigra]] but secondarily the noradrenergic neurons of the locus ceruleus. Treatments potentiating the effect of dopamine precursors have been proposed and effected, with moderate success.
+
+====Pharmacology====
+* [[Cocaine]], for example, blocks the reuptake of [[dopamine]], leaving these neurotransmitters in the [[synapse|synaptic gap]] longer.
+* [[AMPT]] prevents the conversion of tyrosine to [[L-DOPA]], the precursor to dopamine; [[reserpine]] prevents dopamine storage within [[Synaptic vesicle|vesicles]]; and [[deprenyl]] inhibits [[monoamine oxidase]] (MAO)-B and thus increases dopamine levels.
+
+===Serotonin system===
+''Further reading: [[Serotonin#Gross anatomy]]''
+
+The serotonin system in the CNS contains only 1% of total body serotonin, the rest being found as transmitters in the [[peripheral nervous system]]{{Citation needed|date=March 2008}}. It travels around the brain along the [[medial forebrain bundle]] and acts on [[serotonin receptors]]. In the [[peripheral nervous system]] (such as in the gut wall) serotonin regulates vascular tone.
+
+====Pharmacology====
+* [[Prozac]] is a [[serotonin reuptake inhibitor|selective serotonin reuptake inhibitor]] (SSRI), hence potentiating the effect of naturally released serotonin.
+
+===Cholinergic system===
+''Further reading: [[Acetylcholine#In the central nervous system]]''
+
+===Others===
+The [[gamma-aminobutyric acid]] (GABA) system is more generally distributed throughout the brain. Nevertheless, it has an overall inhibitory effect.
+*[[Opioid peptides]] - these substances block nerve impulse generation in the secondary afferent pain neurons. These peptides are called opioid peptides because they have opium-like activity. The types of opioid peptides are:
+**[[Endorphins]]
+**[[Enkephalins]]
+**[[Dynorphins]]
+*[[Substance P]]
+*[[Octopamine]]
+
+==Other uses==
+Neuromodulation also refers to an emerging class of medical therapies that target the nervous system for restoration of function (such as in [[cochlear implants]]), relief of pain, or control of symptoms, such as tremor seen in movement disorders like [[Parkinson's disease]]. The therapies consist primarily of targeted electrical stimulation, or infusion of medications into the cerebrospinal fluid using intrathecal drug delivery, such as baclofen for [[spasticity]]. Electrical stimulation devices include [[deep brain stimulation]] systems (DBS), colloquially referred to as "brain pacemakers", [[spinal cord stimulator]]s (SCS), which are implanted using minimally invasive procedures, or [[transcutaneous electrical nerve stimulation]] devices, which are fully external, among others.<ref>{{cite book |title=Neuromodulation, Vol. 1-2 |editor1-first=Elliot S. |editor1-last=Krames |editor2-first=P. Hunter |editor2-last=Peckham |editor3-first=Ali R. |editor3-last=Rezai |year=2009 |publisher=Academic Press |isbn=9780123742483 |pages=1-1200 |accessdate=September 6, 2012 |url=http://www.elsevierdirect.com/brochures/neuromodulation/index.html}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[[North American Neuromodulation Society]]
+*[http://serendip.brynmawr.edu/bb/neuro/neuro98/202s98-paper2/Casasanto2.html Neuromodulation and Neural Plasticity]
+*[http://www.neuromodulation.com International Neuromodulation Society]
+*[http://www.scholarpedia.org/article/Neuromodulation Scolarpedia article on neuromodulation]
+
+{{Neuromodulation}}
+{{Nervous system}}
+{{Neuroscience}}
+{{Cell signaling}}
+{{Telencephalon}}
+{{Diencephalon}}
+{{Mesencephalon}}
+{{Rhombencephalon}}
+
+[[Category:Brain]]
+[[Category:Central nervous system]]
+[[Category:Neuroanatomy]]
+[[Category:Organs]]
+[[Category:Neurochemistry]]
+[[Category:Neurology]]
+[[Category:Neuroscience]]

@@ -1,0 +1,43 @@
+{{redirect|RII|the Bengali actress|Rii (actress)}}
+
+The '''relative index of inequality''' (RII) is a regression-based index which summarizes the magnitude of [[socio-economic status]] (SES) as a source of [[inequalities]] in health. RII is useful because it takes into account the size of the population and the relative diadvantage experienced by different groups.<ref>{{cite journal | title = Measuring the magnitude of socio-economic inequalities in health: An overview of available measures illustrated with two examples from Europe | journal = Social Science & Medicine | year = 1997 | first = Johan | last = Mackenbach | coauthors = Anton Kunst | volume = 44 | issue = 6 | pages = 757–771| doi = 10.1016/S0277-9536(96)00073-1 | accessdate = 2010-12-02}}</ref> The disease outcome is regressed on the proportion of the population that has a higher position in the hierarchy.
+
+The RII is particularly valuable when comparing risk factors (independent variables) that are on very different scales (e.g. low SES, low [[IQ]], [[cigarette smoking]]). The RII is calculated in the following way:<ref name="Batty2006">{{cite journal | title = Does IQ explain socioeconomic inequalities in health? Evidence from a population based cohort study in the west of Scotland | journal = BMJ | year = 2006 | first = David | last = Batty | coauthors = Geoff Der, Sally Macintyre, Ian Deary | pmid = 16452104 | volume = 332 | issue = 7541 | pmc = 1397779 | pages = 580–584| doi = 10.1136/bmj.38723.660637.AE | accessdate = 2010-12-02}}</ref>{{Clarify|date=March 2011}}
+
+# Rank cases on each of the variables
+# For tied ranks and for categorical variables, assign the mean rank
+# Divide the ranks by the sample size, creating a value ranging from 0 to 1
+
+== Interpretation of RII ==
+
+The interpretation of RII is similar to the [[relative risk]]. It summarizes the relative risk for the most advantaged group (at the top of the hierarchy) compared to the least advantaged group (at the bottom of the hierarchy). This interpretation assumes that the variables have been scored so that higher scores are consistent with increased risk. For example, an RII of 1.88 (95% [[confidence intervals]] 1.27 to 2.77), an indicator of low SES, on the risk of long term illness, implies that those in the most deprived group are 1.88 times more likely to experience illness than those in the least deprived group.<ref name="Batty2006" />
+
+== Limitations of RII ==
+
+One disadvantage of the RII is that it may capitalize on skewed data, inflating the apparent relative risk. A second limitation is that a large RII may arise for two reasons. First, it may represent a large effect of SES on disease. Second, it may reflect large differences between those with the most SES and those with the least (i.e. large inequalities in SES itself).
+
+== References ==
+<!--- See [[Wikipedia:Footnotes]] on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+==Further reading==
+{{cite doi|10.1093/biostatistics/kxj002}}
+
+== External links ==
+* [http://www.scotpho.org.uk/nmsruntime/saveasdialog.asp?lID=4054&sID=3488]
+
+{{Medical research studies}}
+
+[[Category:Articles created via the Article Wizard]]
+[[Category:Epidemiology]]
+[[Category:Biostatistics]]
+[[Category:Medical statistics]]
+[[Category:Statistical ratios]]
+
+[[ca:Risc relatiu]]
+[[de:Relatives Risiko]]
+[[es:Riesgo relativo]]
+[[fr:Risque relatif]]
+[[he:סיכון יחסי]]
+[[pl:Ryzyko względne]]
+[[tr:Göreceli risk]]

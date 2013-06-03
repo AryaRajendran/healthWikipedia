@@ -1,0 +1,36 @@
+{{Orphan|date=January 2011}}
+
+{{PBB|geneid=26002}}
+'''DBH-like monooxygenase protein 1''', also known as '''monooxygenase X''', is an [[enzyme]] that in humans is encoded by the ''MOXD1'' [[gene]].<ref name="entrez">{{cite web | title = Entrez Gene: monooxygenase, DBH-like 1 | url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=26002| accessdate = }}</ref><ref name="pmid9751809">{{cite journal | author = Chambers KJ, Tonkin LA, Chang E, Shelton DN, Linskens MH, Funk WD | title = Identification and cloning of a sequence homologue of dopamine beta-hydroxylase | journal = Gene | volume = 218 | issue = 1-2 | pages = 111–20 | year = 1998 | month = September | pmid = 9751809 | doi = 10.1016/S0378-1119(98)00344-8| url = | issn = }}</ref>
+
+DBH-like 1 maintains many of the structural features of dopamine beta-[[monooxygenase]] [[Dopamine-beta-hydroxylase|DBH]].<ref name="pmid11028916">{{cite journal | author = Prigge ST, Mains RE, Eipper BA, Amzel LM.. | title = New insights into copper monooxygenases and peptide amidation: structure, mechanism and function. | journal = Cell Mol Life Sci. | volume = 57 | issue = 8-9 | pages = 1236–59 | year = 2000 | month = August | pmid = 11028916 | ISSN=1420682X | doi =10.1007/PL00000763  | url = }}</ref> Since Peptidylglycine alpha-hydroxylating monooxygenase (PHM; EC 1.14.17.3) is homologous to dopamine beta-monooxygenase (DBM; EC 1.14.17.1)<ref name="pmid2792366">{{cite journal | author = Southan C, Kruse LI | title =Sequence similarity between dopamine beta-hydroxylase and peptide alpha-amidating enzyme: evidence for a conserved catalytic domain.  | journal = FEBS Lett.  | volume = 255 | issue = 1 | pages = 116–20 | year = 1989 | month = September | pmid = 2792366 | doi = 10.1016/0014-5793(89)81072-5 | url = }}</ref> this concerns a structural basis for a new family of [[Monatomic ion|copper type II]], significantly specific for ascorbate-dependent monooxygenases<ref name="pmid2792366"/> based on the corresponding mouse homolog.<ref name="pmid9751809"/> The pathway of [[catecholamine]] synthesis is a possible catecholamine-binding  [[Copper_in_health#Hereditary_copper_metabolic_diseases|metabolic copper]]<ref name="pmid15337741">{{cite journal | author = Xin X, Mains RE, Eipper BA.. | title = Monooxygenase X, a member of the copper-dependent monooxygenase family localized to the endoplasmic reticulum. | journal = J. Biol. Chem. | volume = 279 | issue = 46 | pages = 48159–67 | year = 2004 | month = November | pmid = 15337741 | doi = 10.1074/jbc.M407486200  | url = }}</ref> enzyme domain, a neuron-like property encoding MOX without a signal sequence enzyme metabolism resolving the [[monooxygenase]] X chemical pathway<ref name="pmid15337741"/> of   an unknown substrate,<ref name="pmid9751809"/> [[exogenous]] MOX is not secreted, and it localizes throughout the [[endoplasmic reticulum]],<ref name="pmid15337741"/> in both [[endocrine]] or nonendocrine cells.<ref name="pmid15337741"/>
+
+== Deficiency ==
+
+DBH deficiency has been treated effectively with L-threo-3,4-dihydroxyphenylserine ([[L-DOPS|DOPS]]).<ref name="pmid12102462">{{cite journal | author = Vincent S, Robertson D. | title = The broader view: catecholamine abnormalities. | journal = Clin Auton Res.  | volume =Suppl. 1 | issue =  | pages = 144–9 | year = 2002 | month = May | pmid =12102462  | doi = |ISSN=0959-9851  | url = }}</ref>
+
+== See also ==
+
+* Dopamine-beta-hydroxylase-[[Dopamine-beta-hydroxylase|DBH]],
+* Dopamine beta-monooxygenase-[[dopamine beta-monooxygenase|DBM]],
+* Peptidylglycine alpha-hydroxylating monooxygenase-[[Peptidylglycine alpha-amidating monooxygenase|PHM]]
+* peptidyl-alpha-hydroxyglycine alpha-amidating lyase-[[Peptidylglycine alpha-amidating monooxygenase|PAL]]
+* Tyrosine 3-monooxygenase-[[Tyrosine 3-monooxygenase|TH]].
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+*{{cite journal  |author=Clark HF, Gurney AL, Abaya E, ''et al.'' |title=The secreted protein discovery initiative (SPDI), a large-scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment. |journal=Genome Res. |volume=13 |issue= 10 |pages= 2265–70 |year= 2003 |pmid= 12975309 |doi= 10.1101/gr.1293003 |pmc=403697}}
+*{{cite journal  |author=Xin X, Mains RE, Eipper BA |title=Monooxygenase X, a member of the copper-dependent monooxygenase family localized to the endoplasmic reticulum. |journal=J. Biol. Chem. |volume=279 |issue= 46 |pages= 48159–67 |year= 2004 |pmid= 15337741 |doi= 10.1074/jbc.M407486200 }}
+*{{cite journal | author = Bon S, Lamouroux A, Vigny A, Massoulié J, Mallet J, Henry JP. | title =Amphiphilic and nonamphiphilic forms of bovine and human dopamine beta-hydroxylase.  | journal = J. Neurochem.  | volume = 57 | issue = 4 | pages = 1100–11 | year = 1991 | month =October  | pmid =1654385  |ISSN=0022-3042| doi =  10.1111/j.1471-4159.1991.tb08267.x| url =http://www.ebi.ac.uk/citexplore/citationDetails.do?externalId=1654385&dataSource=MED }}
+{{refend}}
+
+{{DEFAULTSORT:Monooxygenase Dbh-Like 1}}
+[[Category:EC 1.14.17]]
+[[Category:Human proteins]]
+
+
+{{gene-6-stub}}
+{{1.14-enzyme-stub}}

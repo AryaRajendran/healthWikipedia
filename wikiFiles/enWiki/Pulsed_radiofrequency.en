@@ -1,0 +1,31 @@
+'''Pulsed radiofrequency''' is the technique whereby [[radio frequency]] (RF) oscillations are gated at a rate of pulses per second (cycles per second, defined as a Hertz (Hz)). Radio frequency energies occupy 1.0&nbsp;x&nbsp;10<sup>4</sup>&nbsp;Hz to 3.0&nbsp;x&nbsp;10<sup>11</sup>&nbsp;HZ of the [[electromagnetic spectrum]]. Radio frequency electromagnetic energy is routinely produced by RF electrical circuits connected to a transducer usually called an [[Antenna (radio)|antenna]].<ref>The ARRL Handbook for Radio amateurs. Newington, The American Radio Relay League, Inc. CT, 06111 USA, 1997, ISBN 0-87259-174-3</ref>
+
+==Pulsed Radio Frequency Wave Forms==
+The figure below shows an example of a generalized pulsed radio frequency waveform as seen with an oscilloscope with an antenna probe. In this example there are 1000 pulses per second (1&nbsp;kHz pulse rate) with a gated pulse width of 42&nbsp;µs. The pulse packet frequency in this example is 27.125&nbsp;MHz of RF energy. The duty cycle for a pulsed radio frequency is the percent time the RF packet is on, 4.2% for this example ([0.042&nbsp;ms X 1000 pulses divided by 1000&nbsp;ms/s] X 100). The pulse packet form can be a square, triangle, ramp or sine wave.<ref>The ARRL Handbook for Radio amateurs. Newington, The American Radio Relay League, Inc. CT, 06111 USA, 1997, ISBN 0-87259-174-3</ref> In several applications of pulse radio frequency, such as radar,<ref>Le Chevalier, Francois, Principles of Rader and Sonar Signal Processing, Artech House, Boston, London, 2002. ISBN 1-58053-338-8</ref> times between pulses can be modulated. 
+
+<gallery>
+File:prfe.jpg|The pulse packet frequency in this example is 27.125&nbsp;MHz of RF energy
+</gallery>
+
+==Pulsed Radio Frequency and Radar==
+The best understood and applied use of pulse radio frequency electromagnetic energy is their use in radar (radio detection and ranging).<ref>Skolnik, Merrill, I., Introduction to Radar System, McGraw-Hill, 2001, ISBN 0-07-066572-9</ref> The uses of radar are diverse and applied to military, civilian and space exploration. Radar is based on the reflection or scatter of pulsed radiofrequency waves emitted from a transmitter which are then detected by an antenna which then determines the range, speed, and direction of objects. In most uses the transmitter and detector are located at the same location. Radio frequencies used with radar are from 3&nbsp;MHz to 300&nbsp;GHz depending on the type and application
+
+==Therapeutic Uses of Pulsed Radiofrequency==
+Pulsed radiofrequency fields are an emerging technology used in the medical field for the treatment of tumors, cardiac arrhythmias, chronic and post-operative pain, bone fracture, and soft tissue wounds. There are two general categories of pulsed radiofrequency field therapies based on their mechanism of action: thermal<ref>5.	Gazelle, G.,S., Goldberg,S.N., Solbiati, L., Livraghi,T., Tumor Ablation with Radio-frequency Energy.Radiology pg 634, 2000</ref> and non-thermal<ref>6.	Pilla, A., A., ed. Mechanism and Therapeutic Applications of Time-Varying and Static magnetic Fields. third ed. Biological and Medical Aspects of Electromagnetic Fields, ed. F. Barnes, S., Greenebaum, B. 2007, CRC Press: Boca Raton. 449,ISBN 978084939538 {{Please check ISBN|reason=Invalid length.}}</ref> (athermal).
+While thermal radiofrequency ablation for tumors and cardiac arrhythmia has been used for over 25 years, non-thermal pulsed radio frequency is currently being developed for the ablation of cardiac arrhythmias and tumors. The technique uses pulsed radio frequency energy delivered via catheter at frequencies of 300–750&nbsp;kHz for 30 to 60 seconds  Thermal pulsed radio frequency takes advantage of high current delivered focally by an electrode to ablate the tissue of interest.  Generally the tissue/electrode temperature reached is 60 to 75 °C resulting in focal tissue destruction.  Thermal pulse radio frequency ablation has also been used for lesioning of peripheral nerves to reduce chronic pain.    
+Non thermal therapeutic uses of pulsed radio frequency are currently being used to treat pain and edema, chronic wounds, and bone repair. Pulsed radiofrequency therapy technologies are described by the acronyms EMF (electromagnetic field), PEMF<ref>7.	Basset, C.A. , Fundamental and practical aspects of therapeutic uses of pulsed electromagnetic fields (PEMF). Crit. Rev. Biomed Eng, pg 451-529. 1989</ref><ref>8.	Shupak, N.,M., Therapeutic Uses of Pulsed magnetic-Field Exposure: A review. Radio Science Bulletin No.307, 2003</ref>(pulsed electromagnetic fields), PRF (pulsed radiofrequency fields),and PRFE<ref>9.	Porreca, E.G. and G.M. Giordano-Jablon, Treatment of Severe (Stage III and IV) Chronic Pressure Ulcers Using Pulsed Radio Frequency Energy in a Quadriplegic Patient. Eplasty, 2008. 8: p. e49</ref><ref>10.	Frykberg, R., et al., Cell proliferation induction: healing chronic wounds through low-energy pulsed radiofrequency. Int J Low Extrem Wounds, 2009. 8(1): p. 45-51</ref>(pulsed radiofrequency energy). These technologies have been varied in terms of their electric and magnetic field energies as well as in the pulse length, duty cycle, treatment time and mode of delivery. Although pulsed radiofrequency has been used for medical treatment purposes for decades, peer reviewed publications accessing the efficacy and physiological mechanism(s) are now starting to appear addressing this technology.
+
+==Natural Sources of Pulsed Radiofrequency==
+Natural occurring sources of pulsed radiofrequency exist in the form of stars called [[pulsars]]. Pulsars where discovered in 1967 using a [[radio telescope]].<ref>11.	Burke, B.F., Graham-Smith, F. , An Introduction to Radio Astronomy, Cambridge University Press, 2001</ref> These stars are thought to be rapidly spinning neutron stars. These stars have powerful magnetic fields which cause the star to emit strong radio frequencies. Different sizes of pulsars pulse at different rates.
+
+==See also==
+* [[Radio frequency]]
+* [[Radar]]
+* [[Radio telescopes]]
+* [[Radiofrequency ablation]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Pulsed Radiofrequency}}
+[[Category:Pain]]

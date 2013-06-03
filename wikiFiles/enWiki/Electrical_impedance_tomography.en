@@ -1,0 +1,109 @@
+[[Image:CT of human thorax showing current paths for EIT.jpg|right|thumb|250px|A cross section of a human thorax from an [[X-ray computed tomography|X-ray CT]] showing current stream lines from drive electrodes and equi-potentials from a different pair of measurement electrodes. Note how lines are bent by the change in conductivity between different organs.<ref>Adler A, Modeling EIT current flow in a human thorax model,
+[http://eidors3d.sourceforge.net/tutorial/netgen/extrusion/thoraxmdl.shtml EIDORS documentation], 2010-11-03</ref>   ]]'''Electrical impedance tomography''' ('''EIT''') is a [[medical imaging]] technique in which an image of the conductivity or permittivity of part of the body is inferred from surface electrical measurements. Typically, conducting electrodes are attached to the skin of the subject and small alternating currents are applied to some or all of the electrodes. The resulting electrical potentials are measured, and the process may be repeated for numerous different configurations of applied current.
+
+Proposed applications include monitoring of [[lung]] function, detection of [[cancer]] in the [[skin]] and [[breast]], location of [[Epilepsy|epileptic foci]]<ref name="Holder">Holder D.S.,  Electrical Impedance Tomography: Methods, History and Applications, Institute of Physics, 2004. ISBN 0-7503-0952-0.</ref> and imaging of brain activity.<ref name="bbc-sci-env-13751783">{{cite news
+ | last = Carpenter
+ | first = Jennifer
+ | coauthors =
+ | title = Images capture moment brain goes unconscious
+ | newspaper = BBC News: Science & Environment
+ | location = UK
+ | pages =
+ | language =
+ | publisher = [[BBC]]
+ | date = 13 June 2011
+ | url = http://www.bbc.co.uk/news/science-environment-13751783
+ | accessdate = 20 February 2013}}</ref> Until recently, all applications have been considered experimental.<ref name="Holder"/> However in 2011 the first commercial EIT device for lung function monitoring in intensive care patients was introduced.
+
+The  invention of EIT as a medical imaging technique is usually attributed to [[John G. Webster]] and a publication in 1978,<ref>{{cite journal | doi = 10.1109/TBME.1978.326329 | last1 = Henderson | first1 = R.P. | last2 = Webster | first2 = J.G. | year = 1978 | title = An Impedance Camera for Spatially Specific Measurements of the Thorax | url = | journal = IEEE Trans. Biomed. Eng. | volume = 25 | issue = 3| pages = 250–254 | pmid = 680754 }}</ref> although the first practical realisation of a medical EIT system was detailed in 1984 due to the work of [[David C. Barber]] and [[Brian H. Brown]].<ref>{{cite journal | doi = 10.1088/0022-3735/17/9/002 | last1 = Barber | first1 = D.C. | last2 = Brown | first2 = B.H. | year = 1984 | title = Applied Potential Tomography | url = | journal = J. Phys. E:Sci. Instrum | volume = 17 | issue = 9| pages = 723–733 }}</ref>
+
+Mathematically, the problem of recovering conductivity from surface measurements of current and potential is a [[non-linear]] [[inverse problem]] and is severely [[ill-posed problem|ill-posed]]. The mathematical formulation of the problem is due to [[Alberto Calderón]],<ref>Calderón A.P. (1980) "On an inverse boundary value problem", in ''Seminar on Numerical Analysis and its Applications to Continuum Physics'', Rio de Janeiro. [http://www.maths.manchester.ac.uk/bl/Calderon/ Scanned copy of paper]. The paper has been reprinted as {{cite journal | last1 = Calderon | first1 = Alberto P. | year = 2006 | title = On an inverse boundary value problem | url = http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-82052006000200002&lng=en&nrm=iso&tlng=en | journal = Mat. Apl. Comput. | volume = 25 | issue = 2–3| pages = 133–138 }}</ref> and in the mathematical literature of inverse problems it is often referred to as "Calderón's Inverse Problem" or the "Calderón Problem". There is extensive mathematical research on the problem of uniqueness of solution and numerical algorithms for this problem.<ref>Uhlmann  G. (1999) "Developments in inverse problems since Calderón's foundational paper", ''Harmonic Analysis and Partial Differential Equations: Essays in Honor of Alberto P. Calderón'', (editors ME Christ and CE Kenig), University of Chicago Press, ISBN 0-226-10455-9</ref>
+
+In [[geophysics]] a similar technique (called [[electrical resistivity tomography]]) is used using electrodes on the surface of the earth or in bore holes to locate resistivity anomalies, and in industrial process monitoring the arrays of electrodes are used for example to monitor mixtures of conductive fluids in vessels or pipes. The method is used in [[industrial process imaging]]<ref>M.S. Beck and R. Williams, ''Process Tomography: Principles, Techniques and Applications, Butterworth-Heinemann'' (July 19, 1995), ISBN 0-7506-0744-0</ref> for imaging conductive fluids. In that context the technique is usually called '''electrical resistance tomography''' (note the slight contrast to the name used in geophysics). Metal electrodes are generally in direct contact with the fluid but electronics and reconstruction techniques are broadly similar to the medical case. In geophysics, the idea dates from the 1930s.
+
+==Theory==
+In biological tissue the electrical conductivity and permittivity varies between tissue types likewise depending on temperature and physiological factors. For example lungs are less conductive when the alveoli is filled with air. In EIT adhesive electrodes applied to the skin and an electric current, typically a few milli-Amperes of alternating current at a frequency of 10–100&nbsp;kHz, is applied across two or more electrodes. Other electrodes are used to measure the resulting voltage. This is repeated for numerous "stimulation patterns", such as successive pairs of adjacent electrodes.
+
+The currents used are relatively small, and certainly below the threshold at which they would cause stimulation of [[nerve]]s. The frequency of the alternating current is sufficiently high not to give rise to [[electrolytic]] effects in the body and the Ohmic power dissipated is sufficiently small and diffused over the body to be easily handled by the body's thermoregulatory system.
+
+The current is applied using [[current source]]s, either a single current source switched between electrodes using a [[multiplexor]] or a system of
+[[Voltage-to-current converter]]s, one for each electrode, each controlled by a [[digital to analog converter]].  The measurements again may be taken either by a single voltage measurement circuit multiplexed over the electrodes or a separate circuit for each electrode. Earlier systems typically used an analog demodulation circuit to convert the alternating voltage to a direct current level then an [[analog to digital converter]]. Many recent systems convert the alternating signal directly, the demodulation then being performed digitally. Many EIT systems are capable of working at several frequencies and can measure both the magnitude and phase of the voltage.
+
+The voltages measured are then passed to a computer to perform the reconstruction and display of the image. If images are required in real time a typical approach is the application of some form of [[Tikhonov regularization|regularized]] inverse of a linearization of the forward problem. In most practical systems used in a medical setting a 'difference image' is formed. That is, the differences in voltage between two time points is left-multiplied by the regularized inverse to produce an approximate difference between the permittivity and conductivity images. Another approach is to construct a [[finite element method|finite element]] model of the body and adjust the conductivities (for example using a variant of [[Levenberg–Marquardt algorithm|Levenburg–Marquart method]]) to fit the measured data. This is more challenging as it requires an accurate body shape and the exact position of the electrodes. Much of the fundamental work underpinning Electrical Impedance was published in 1992, from the Glenfield Hospital Project. 
+
+The open source project EIDORS <ref name=EIDORS>{{cite journal | last1 = Adler | first1 = Andy| last2 = Lionheart | first2=William | year = 2006 | title = Uses and abuses of EIDORS: An extensible software base for EIT| url =  | journal = Physiol Meas | volume = 27 |  pages = S25–S42| doi= 10.1088/0967-3334/27/5/S03 | issue = 5 | pmid = 16636416 }}</ref>
+provides a suite of programs (written in [[Matlab]] / Octave) for data reconstruction and display under the GNU GPL license.
+
+==Lung imaging==
+
+EIT is useful for monitoring patient lungs because the air has a large conductivity contrast to the other tissues in the thorax.  The most promising clinical application of lung EIT measurements is for [[respiratory monitoring|Lung function monitoring]] of patients being treated with [[Mechanical ventilation]]. Such ventilation can often result in [[Ventilator-associated lung injury]]. EIT can resolve the changes in the distribution of lung volumes between dependent and non-dependent lung regions as ventilator parameters are changed. Thus, EIT measurements may be used to control the specific ventilator settings to maintain lung protective ventilation for each patient.<ref>{{cite journal | last1 = Frerichs | first1 = I. | last2 = Scholz | first2 = J. | last3 = Weiler | first3 = N. | doi = 10.1007/3-540-33396-7_40 | title = Yearbook of Intensive Care and Emergency Medicine | volume = 2006 |pages=437–447 |location= Berlin | year = 2006 |publisher=Springer | chapter = Electrical Impedance Tomography and its Perspectives in Intensive Care Medicine | series = Yearbook of Intensive Care and Emergency Medicine | isbn = 978-3-540-30155-4 }}</ref>
+
+{|
+|-
+| [[Image:EIT electrodes on chest Oxford Brookes.jpg|none|thumb|200px|Electrodes on chest]]
+| [[Image:Wires attached to electrodes for EIT.jpg|none|thumb|200px|Wires attached]]
+| [[Image:EIT image of chest from Oxford Brookes OXBACT.png|none|thumb|200px|Resulting image]]
+|}
+The above images are from the EIT group at [[Oxford Brookes University]] and depict an early attempt at three dimensional EIT imaging of the chest using the OXBACT3 EIT system. The reconstructed image is a time average and shows lungs as low conductivity regions. Although an accurate chest shape was used only a 2D reconstruction algorithm was used resulting in a distorted image. The results of a similar chest study have been published.<ref>{{cite journal | doi = 10.1088/0967-3334/22/1/318 | last1 = Kerrouche | first1 = N. | last2 = McLeod | first2 = CN | last3 = Lionheart | first3 = WRB | year = 2001 | title = Time series of EIT chest images using singular value decomposition and Fourier transform | url = | journal = Physiol. Meas. | volume = 22 | issue = 1| pages = 147–157 | pmid = 11236875 }}</ref>
+
+Most EIT studies have focused on regional lung function monitoring using the information determined by functional EIT (f-EIT). However absolute EIT (a-EIT) also has the potential to become a clinically useful tool for Lung imaging, as this approach would allow one to directly distinguish between lung conditions which result from regions with lower resistivity (e.g. hemothorax, pleural effusion, atelectasis and lung edema) and those with higher resistivity (e.g. pneumothorax, emphysema).{{Citation needed|date=March 2011}}
+
+The reconstruction of absolute impedance images requires that the exact dimensions, the shape of the body and the precise location of the electrodes, be taken into account, as simplified assumptions would lead to major reconstruction artifacts{{Citation needed|date=March 2011}}. While initial studies assessing aspects of a-EIT have already been published, as of today this area of research has not yet reached the level of maturity which would make it suitable for clinical use.
+In contrast, functional EIT determines relative impedance changes that may be caused by either ventilation or changes of end-expiratory lung volume. These relative changes are referred to a baseline level, which is typically defined by the intra-thoracic impedance distribution at the end of expiration.{{Citation needed|date=March 2011}}
+Functional EIT images can be generated continuously, directly at the bedside. These attributes make regional lung function monitoring particularly useful whenever there is a need to improve oxygenation or CO2 elimination and when therapy changes are intended to achieve a more homogenous gas distribution in mechanically ventilated patients. EIT lung function imaging can resolve the changes in the regional distribution of lung volumes between e.g. dependent and non-dependent lung regions as ventilator parameters are changed. Thus, EIT measurements may be used to control the specific ventilator settings to maintain lung protective ventilation for each patient.{{Citation needed|date=March 2011}}
+
+==Breast imaging==
+EIT is being investigated in the field of breast imaging as an alternative/complementary technique to [[mammography]] and [[magnetic resonance imaging]] (MRI) for breast cancer detection. The low specificity of mammography <ref>{{cite journal | last1 = Huynh | first1 = P. T. | last2 = Jarolimek | first2 = A. M. | last3 = Daye | first3 = S. | year = 1998| title = The false-negative mammogram | url = | journal = RadioGraphics | volume = 18 | issue = 5| pages = 1137–1154 | pmid = 9747612 }}</ref> and of MRI <ref>{{cite journal | last1 = Piccoli | first1 = C. W. | year = 1997 | title = Contrast-enhanced breast MRI: factors affecting sensitivity and [[specificity]] | url = | journal = European Radiology | volume = 7 | issue = | pages = 281–288 | pmid = 9370560 }}</ref> result in a relatively high rate of false positive screenings, with high distress for the patient and cost for the healthcare structure. These shortcomings and concerns related to the use of ionizing radiation, for mammography, and with the [[nephrotoxicity]] of [[Gadolinium]], the contrast agent used in breast MRI,<ref>{{cite journal | last1 = Kuo | first1 = P. H. | last2 = Kanal | first2 = E. | last3 = Abu-Alfa | first3 = A. K. | last4 = Cowper | first4 = S. E. | year = 2007 | title = Gadolinium-based MR contrast agents and nephrogenic systemic fibrosis | url = | journal = Radiology | volume = 242 | issue = 3| page = 647 | doi = 10.1148/radiol.2423061640 }}</ref> make the development of alternative techniques highly desirable.
+
+Literature shows that the electrical properties differ between normal and malignant
+breast tissues,<ref>{{cite journal | doi = 10.1088/0967-3334/19/1/006 | last1 = Jossinet | first1 = J. | year = 1998 | title = The impedivity of freshly excised human breast tissue | url = | journal = Physiological Measurement | volume = 19 | issue = 1| pages = 61–76 }}</ref> setting the stage for cancer detection through determination of electrical properties.
+
+A successful commercial development of non-tomographic electrical impedance imaging is the T-Scan device <ref>{{cite journal | last1=Assenheimer | first1=Michel | last2=Laver-Moskovitz | first2=Orah | last3=Malonek | first3=Dov | last4=Manor | first4=David | last5=Nahaliel | first5=Udi | last6=Nitzan | first6=Ron | last7=Saad | first7=Abraham | title=The T-SCAN technology: electrical impedance as a diagnostic tool for breast cancer detection | journal=Physiological Measurement | volume=22 | issue=1 | pages=1–8 |year= 2001 | pmid=11236870 |doi = 10.1088/0967-3334/22/1/301}}</ref> which has been demonstrated to improve sensitivity and speciﬁcity when used as an adjunct to screening mammography. A report to the United States [[Food and Drug Administration]] (FDA) describes a study involving 504 subjects where the sensitivity of mammography was 82%, 62% for the T-Scan alone, and 88% for the two combined. The speciﬁcity was 39% for mammography, 47% for the T-Scan alone, and 51% for the two combined.<ref>[http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTopic/pma/pma.cfm?num=p970033  TransScan T-Scan 2000 - P970033], April 24, 2002, [[Food and Drug Administration]].</ref>
+
+Several research groups are across the world are actively developing the technique.
+
+==Brain imaging==
+
+EIT has been suggested as a basis for [[brain imaging]] to enable the detection and monitoring of [[cerebral ischemia]] and [[cerebral haemorrhage|haemorrhage]], [[epileptic|epileptic foci localization]], together with research into normal brain function and neuronal activity.<ref name="Holder"/>
+
+In this use EIT depends upon applying low frequency currents above the skull that are around <100&nbsp;Hz since during neuronal rest at this frequency these currents remain in the [[extracellular]] space unable enter into the intracellular space within neurons. However when a neuron makes an [[action potential]] or [[depolarization]], the resistance of its membrane preventing this reduces by a factor of 80. When this happens across large numbers of neurons  a resistivity change is made of about 0.06–1.7%. This resistivity change provides a means of detecting coherent neuronal activity across large numbers of neurons and so the tomographic imaging of neural activity in the brain.
+
+Unfortunately while such changes are detectable "they are just too small to support reliable production of images."<ref name="Gilad">{{cite journal | last1 = Gilad | first1 = O | last2 = Holder | first2 = DS | title = Impedance changes recorded with scalp electrodes during visual evoked responses: implications for Electrical Impedance Tomography of fast neural activity | journal = NeuroImage | volume = 47 | issue = 2 | pages = 514–22 | year = 2009 | pmid = 19426819 | doi = 10.1016/j.neuroimage.2009.04.085 }}</ref> The prospects of using this technique for imaging will depend upon improved signal processing or recording.<ref name="Gilad"/>
+
+A study reported in June 2011 that Functional Electrical Impedance Tomography by Evoke Response (fEITER) has been used to image changes in brain activity after injection of an anaesthetic. One of the benefits of the technique is that the equipment required is small enough and easy enough to transport so that it can be used in operating theatres.<ref name="bbc-sci-env-13751783" />
+
+==Commercial systems==
+Although medical EIT systems are not widely used several medical equipment manufactures now supply commercial versions of systems developed by university research groups. The first such system is produced by Maltron International 
+<ref name=Maltron>{{Cite web
+  | last = Maltron International
+  | title = The Maltron Sheffield MK 3.5, The Pioneer of Electrical Impedance Tomography
+  | url=http://www.maltronint.com/imaging.htm
+  | accessdate = 17 June 2011}}</ref> who distribute a Sheffield Mark 3.5 system. Other manufactures include [[Dr%C3%A4ger#Dr.C3.A4ger_Medical_AG_.26_Co._KG|Dräger Medical]],  [[CareFusion]], a respiratory monitoring company who distribute ''Goe MF II'' system that was developed at the [[University of Göttingen]]. Impedance Medical Technologies 
+<ref name=IMT>{{Cite web
+  | last = IMT
+  | title = Impedance Medical Technologies
+  | url=http://medimpedance.com
+  | accessdate = 17 June 2011}}</ref>
+who manufacture systems based on designs by the Research Institute of Radioengineering and Electronics of the Russian Academy of Science [http://www.cplire.ru/html/cplitom.html] in Moscow, aimed especially at breast cancer detection. Such systems typically comply with medical safety legislation and are being used by research groups in hospitals, notably in [[Intensive care medicine|intensive care]] for monitoring [[Medical ventilator|ventilation]]. An EIT device for lung function monitoring that is designed for everyday clinical use in the critical care environment has been made available by Dräger Medical in 2011 
+<ref name=PulmoVista500>{{Cite web
+  | last = Draeger medical
+  | title =Technical Data for PulmoVista 500
+  | url=http://www.draeger.com/media/10/08/96/10089606/rsp_pulmovista_500_pi_9066475_en.pdf
+  | accessdate = 17 June 2011}}</ref>
+
+==See also==
+* [[Bioimpedance]]
+* [[Electrical resistivity tomography]]
+* [[Electrical capacitance tomography]]
+* [[Respiratory monitoring]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.eit.org.uk/ EIT website] University College London
+* [http://eidors3d.sourceforge.net/ EIDORS - Electrical Impedance Tomography and Diffuse Optical Tomography Reconstruction Software] at Sourceforge
+* [http://www.youtube.com/watch?v=7YLQoO-XUEw Shocking truth about what your brain does when you're asleep ] YouTube video of brain activity imaged with fEITER
+
+{{DEFAULTSORT:Electrical Impedance Tomography}}
+[[Category:Electrodiagnosis]]

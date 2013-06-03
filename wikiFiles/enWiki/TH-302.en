@@ -1,0 +1,41 @@
+{{Chembox
+| Verifiedfields = changed
+| verifiedrevid = 457658615
+| ImageFile =TH-302.svg
+|  ImageSize =200px
+|  ImageAlt =
+| IUPACName = ''N'',''N''&prime;-Bis(2-bromoethyl)phosphorodiamidic acid (1-methyl-2-nitro-1''H''-imidazol-5-yl)methyl ester
+| OtherNames = HAP-302
+| Section1 = {{Chembox Identifiers
+|  CASNo = 918633-87-1
+|   CASNo_Ref = {{cascite|changed|??}}
+|  PubChem =
+|  SMILES = O=[N+]([O-])C1=NC=C(COP(NCCBr)(NCCBr)=O)N1C}}
+| Section2 = {{Chembox Properties
+|  C=9|H=16|Br=2|N=5|O=4|P=1
+|  Appearance =
+|  Density =
+|  MeltingPt =
+|  BoilingPt =
+|  Solubility = }}
+| Section3 = {{Chembox Hazards
+|  MainHazards =
+|  FlashPt =
+|  Autoignition = }}
+}}
+
+'''TH-302''' is an [[experimental cancer treatment]] that is in clinical development at Threshold Pharmaceuticals, Inc.<ref>{{cite journal | title = TH-302 | author = J. Thomas Pento | journal = Drugs of the Future |year = 2011 | volume = 36 | issue = 9 | pages = 663–667 | doi = 10.1358/dof.2011.36.9.1678337}}</ref> It is activated only at very low levels of [[oxygen]] ([[Hypoxia (medical)|hypoxia]]).<ref>{{cite journal | author=Duan J | title=Potent and Highly Selective Hypoxia-Activated Achiral Phosphoramidate Mustards as Anticancer Drugs | journal=J. Med. Chem. | year=2008 | pages=2412–20 | volume=51 | pmid=18257544 | doi=10.1021/jm701028q | last2=Jiao | first2=H | last3=Kaizerman | first3=J | last4=Stanton | first4=T | last5=Evans | first5=JW | last6=Lan | first6=L | last7=Lorente | first7=G | last8=Banica | first8=M | last9=Jung | first9=D | issue=8}}</ref> Such levels are common in human solid [[tumor]]s, a phenomenon known as [[tumor hypoxia]]. TH-302 exploits the activation of a nitroazole [[prodrug]] by a process that involves a one electron reduction mediated by ubiquitous cellular reductases such as the [[NADPH]] cytochrome P450 to generate a [[radical anion]] prodrug (RP). In the presence of oxygen (normoxia) the radical anion prodrug reacts rapidly with oxygen to generate the original prodrug and [[superoxide]] (SO). Under the low oxygen conditions of the hypoxic zones in tumors, however, the radical anion prodrug undergoes further irreversible reductions to the [[hydroxylamine]] (HA) followed by elimination, releasing the active drug and an [[azole]] derivative (AZ). This activation pathway is shown schematically below:
+
+[[Phosphoramidate]]-based, DNA-crosslinking, bis-alkylator mustards have long been used successfully in cancer chemotherapy and include the prodrugs [[ifosfamide]] and [[cyclophosphamide]]. To demonstrate that known drugs of proven efficacy could serve as the basis of efficacious hypoxia activated prodrugs, the 2-nitroimidizole HAP of the active phosphoramidate bis-alkylator derived from ifosfamide was synthesized. The resulting compound, TH-281, had a high HCR (hypoxia cytotoxicity ratio), a quantitative assessment of its hypoxia selectivity. Subsequent [[structure-activity relationship]] (SAR) studies at Threshold showed that replacement of the chlorines in the alkylator portion of the prodrug with bromines improved potency about 10-fold. The final compound is TH-302.
+
+TH-302 started a [[Phase 1]] clinical trial in 2007 in various solid tumors.<ref>[http://clinicaltrials.gov/ct2/show/NCT00495144?term=TH-302&rank=1 A Phase I Study of the Safety, Pharmacokinetics, and Anti-Tumor Activity of TH-302 in Patients With Advanced Solid Tumors], clinicaltrials.gov</ref> The Phase 1 trial is a multi-center, open-label, dose-escalation study in patients with solid tumor cancers. The primary objectives of the study are to determine the maximum tolerated dose (MTD) and dose-limiting toxicities of TH-302 in patients with advanced solid tumors and to establish the appropriate dose to be tested in [[Phase 2]] clinical trials. The secondary objectives of the trial include establishing the [[pharmacokinetics]] and assessing the anti-tumor activity of TH-302, as measured by objective response rate and duration of response, and to characterize the safety profile. Tumors will be evaluated at baseline and every eight weeks using the Response Evaluation Criteria In Solid Tumors ([[RECIST]]) criteria.
+
+== References ==
+{{reflist}}
+
+
+[[Category:Experimental cancer drugs]]
+[[Category:Alkylating agents]]
+[[Category:Nitroimidazoles]]
+[[Category:Phosphoramidates]]
+[[Category:Organobromides]]

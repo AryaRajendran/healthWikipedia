@@ -1,0 +1,93 @@
+'''MYCIN''' was an early [[expert system]] that used [[artificial intelligence]] to identify bacteria causing severe infections, such as bacteremia and meningitis, and to recommend [[antibiotic]]s, with the dosage adjusted for patient's body weight &mdash; the name derived from the antibiotics themselves, as many antibiotics have the suffix "-mycin". The Mycin system was also used for the diagnosis of blood clotting diseases.
+
+MYCIN was developed over five or six years in the early 1970s at [[Stanford University]]. It was written in [[Lisp programming language|Lisp]] as the doctoral dissertation of [[Edward Shortliffe]] under the direction of [[Bruce Buchanan]], [[Stanley N. Cohen]] and others. It arose in the laboratory that had created the earlier [[Dendral]] expert system.
+
+MYCIN was never actually used in practice but research indicated that it proposed an acceptable therapy in about 69% of cases, which was better than the performance of infectious disease experts who were judged using the same criteria.
+
+==Method==
+MYCIN operated using a fairly simple [[inference engine]], and a knowledge base of ~600 rules. It would query the physician running the program via a long series of simple yes/no or textual questions. At the end, it provided a list of possible culprit bacteria ranked from high to low based on the probability of each diagnosis, its [[Confidence interval|confidence]] in each diagnosis' probability, the reasoning behind each diagnosis (that is, MYCIN would also list the questions and rules which led it to rank a diagnosis a particular way), and its recommended course of drug treatment.
+
+Despite MYCIN's success, it sparked debate about the use of its [[ad hoc]], but principled, uncertainty framework known as "[[certainty factors]]". The developers performed studies showing that MYCIN's performance was minimally affected by perturbations in the uncertainty metrics associated with individual rules, suggesting that the power in the system was related more to its knowledge representation and reasoning scheme than to the details of its numerical uncertainty model. Some observers felt that it should have been possible to use classical [[Bayesian statistics]]. MYCIN's developers argued that this would require either unrealistic assumptions of [[probabilistic independence]], or require the experts to provide estimates for an unfeasibly large number of [[conditional probability|conditional probabilities]].<ref>{{cite journal
+ |first1=E.H. |last1=Shortliffe
+ |first2=B.G. |last2=Buchanan
+ |title=A model of inexact reasoning in medicine
+ |journal=Mathematical Biosciences
+ |volume=23 |issue=3–4 |year=1975 |pages=351&ndash;379
+ |doi=10.1016/0025-5564(75)90047-4
+ |mr=381762
+}}</ref><ref>{{cite book
+ |title=Rule Based Expert Systems: The MYCIN Experiments of the Stanford Heuristic Programming Project
+ |url=http://www.aaai.org/AITopics/pmwiki/pmwiki.php/AITopics/RuleBasedExpertSystems
+ |first1=B.G. |last1=Buchanan
+ |first2=E.H. |last2=Shortliffe
+ |isbn=978-0-201-10172-0
+ |location=Reading, MA |publisher=Addison-Wesley
+ |year=1984
+}}</ref>
+
+Subsequent studies later showed that the certainty factor model could indeed be interpreted in a probabilistic sense, and highlighted problems with the implied assumptions of such a model. However the modular structure of the system would prove very successful, leading to the development of [[graphical model]]s such as [[Bayesian network]]s.<ref>{{cite journal
+ |first1=D. |last1=Heckerman 
+ |first2=E. |last2=Shortliffe
+ |title=From certainty factors to belief networks
+ |url=http://research.microsoft.com/en-us/um/people/heckerman/HS91aim.pdf
+ |journal=Artificial Intelligence in Medicine
+ |volume=4 |issue=1 |pages=35&ndash;52 |year=1992
+ |doi=10.1016/0933-3657(92)90036-O
+}}</ref>
+
+==Results==
+Research conducted at the [[Stanford Medical School]] found MYCIN to propose an acceptable therapy in about 69% of cases, which was better than the performance of infectious disease experts who were judged using the same criteria. This study is often cited as showing the potential for disagreement about thereapeutic decisions, even among experts, when there is no "gold standard" for correct treatment.<ref>{{cite journal
+ |author=Yu, V.L.
+ |title=Antimicrobial selection by a computer: a blinded evaluation by infectious disease experts
+ |journal=Journal of the American Medical Association
+ |volume=242 |issue=12 |pages=1279&ndash;1282 |year=1979
+ |pmid=480542
+ |url=http://bmir.stanford.edu/file_asset/index.php/885/BMIR-1979-0032.pdf
+ |display-authors=1
+ |doi=10.1001/jama.1979.03300120033020
+ |last2=Fagan
+ |first2=LM
+ |last3=Wraith
+ |first3=SM
+ |last4=Clancey
+ |first4=WJ
+ |last5=Scott
+ |first5=AC
+ |last6=Hannigan
+ |first6=J
+ |last7=Blum
+ |first7=RL
+ |last8=Buchanan
+ |first8=BG
+ |last9=Cohen
+ |first9=SN
+}}</ref>
+
+==Practical use==
+MYCIN was never actually used in practice. This wasn't because of any weakness in its performance. As mentioned, in tests it outperformed members of the Stanford medical school faculty. Some observers raised ethical and legal issues related to the use of computers in medicine &mdash; if a program gives the wrong diagnosis or recommends the wrong therapy, who should be held responsible? However, the greatest problem, and the reason that MYCIN was not used in routine practice, was the state of technologies for system integration, especially at the time it was developed. MYCIN was a stand-alone system that required a user to enter all relevant information about a patient by typing in response to questions that MYCIN would pose. The program ran on a large time-shared system, available over the early Internet (ARPANet), before personal computers were developed. In the modern era, such a system would be integrated with medical record systems, would extract answers to questions from patient databases, and would be much less dependent on physician entry of information. In the 1970s, a session with MYCIN could easily consume 30 minutes or more—an unrealistic time commitment for a busy clinician.
+
+MYCIN's greatest influence was accordingly its demonstration of the power of its representation and reasoning approach. Rule-based systems in many non-medical domains were developed in the years that followed MYCIN's introduction of the approach. In the 1980s, expert system "shells" were introduced (including one based on MYCIN, known as E-MYCIN (followed by [[IntelliCorp (Software)|KEE]])) and supported the development of expert systems in a wide variety of application areas.
+
+A difficulty that rose to prominence during the development of MYCIN and subsequent complex expert systems has been the extraction of the necessary knowledge for the inference engine to use from the human expert in the relevant fields into the rule base (the so-called "knowledge acquisition bottleneck").
+
+==See also==
+* [[CADUCEUS (expert system)]]
+* [[Internist-I]]
+* [[Clinical decision support system]]
+
+==References==
+{{reflist}}
+* ''The AI Business: The commercial uses of artificial intelligence'', ed. [[Patrick Winston]] and [[Karen A. Prendergast]]. ISBN 0-262-23117-4
+
+==External links==
+* ''[http://aitopics.net/RuleBasedExpertSystems Rule-Based Expert Systems: The MYCIN Experiments of the Stanford Heuristic Programming Project]'' -(edited by Bruce G. Buchanan and Edward H. Shortliffe; ebook version)
+* [http://www.cs.utexas.edu/users/novak/tmycin.html TMYCIN], system based on MYCIN
+* [http://raa.ruby-lang.org/project/mycin/ "Mycin Expert System]: A [[Ruby (programming language)|Ruby]] Implementation" <!-- http://www.cs.columbia.edu/~laza/Software/Mycin/mycin.html -->
+* [http://cinuresearch.tripod.com/ai/www-cee-hw-ac-uk/_alison/ai3notes/section2_5_5.html "MYCIN: A Quick Case Study"]
+* [http://www-formal.stanford.edu/jmc/someneed/someneed.html " SOME EXPERT SYSTEM NEED COMMON SENSE"] -(by [[John McCarthy (computer scientist)|John McCarthy]])
+* [http://www.cs.cf.ac.uk/Dave/AI1/mycin.html "Expert Systems"]
+
+[[Category:Expert systems]]
+[[Category:Medical software]]
+[[Category:History of artificial intelligence]]
+[[Category:Diagnostic robots]]

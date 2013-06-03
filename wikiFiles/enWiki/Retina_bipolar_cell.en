@@ -1,0 +1,58 @@
+{{Infobox neuron
+ |neuron_name = Retinal Bipolar Cells
+ |image_neuron = Fig retine.png
+ |caption_neuron = [[Retina]]. Bipolar cells are shown in red.
+ |location = Retina ([[Inner nuclear layer|Inner Nuclear Layer]])
+ |function = Convey [[gradients]] between [[Photoreceptor cell|photoreceptor]] cells to retinal ganglion cells
+ |neurotranmitter = [[Glutamate]]
+ |morphology = bipolar
+ |afferents = [[Rod cell|Rods]], [[Cone cell|cones]] and [[Horizontal cell|Horizontal Cells]]
+ |efferents = [[Retinal ganglion cell]]s and [[Amacrine cell]]s
+ |GraySubject = 
+ |GrayPage = 
+ |NeuroLex = Retinal Bipolar Cell
+ |NeuroLexID = nifext_31
+}}
+As a part of the [[retina]], the '''bipolar cell''' exists between [[photoreceptor cells|photoreceptor]]s ([[rod cell]]s and [[cone cell]]s) and [[Retinal ganglion cell|ganglion cell]]s. They act, directly or indirectly, to transmit signals from the photoreceptors to the ganglion cells.
+
+==Overview==
+Bipolar cells are so-named as they have a central body from which two sets of processes arise. They can synapse with either rods or cones (but not both), and they also accept synapses from [[horizontal cell]]s.  The bipolar cells then transmit the signals from the photoreceptors or the horizontal cells, and pass it on to the ganglion cells directly or indirectly (via amacrine cells). Unlike most neurons, bipolar cells communicate via [[Membrane potential|graded potentials]], rather than [[action potentials]].
+
+==Specification==
+Bipolar cells receive synaptic input from either rods or cones, but not both, and they are designated rod bipolar or cone bipolar cells respectively. There are roughly 10 distinct forms of cone bipolar cells, however, only one rod bipolar cell, due to the rod receptor arriving later in the evolutionary history than the cone receptor.
+
+In the dark, a photoreceptor (rod/cone) cell will release glutamate, which inhibits (hyperpolarizes) the ON bipolar cells and excites (depolarizes) the OFF bipolar cells. In light, however, light strikes the photoreceptor which causes the photoreceptor to be inhibited (hyperpolarized) due to the activation of opsins which activate 11-trans-Retinal, giving energy to stimulate G-Protein coupled receptors to activate phosphodiesterase (PDE) which cleaves cGMP into GMP. In photoreceptor cells, there is an abundance of cGMP in dark conditions, keeping cGMP-gated Na channels open and so, activating PDE diminishes the supply of cGMP, reducing the number of open Na channels and thus hyperpolarizing the photoreceptor cell, causing less glutamate to be released. This causes the ON bipolar cell to lose its inhibition and become active (depolarized), while the OFF bipolar cell loses its excitation (becomes hyperpolarized) and becomes silent.<ref name="isbn0-87893-694-7">{{cite book |author=Kevin S. LaBar; Purves, Dale; Elizabeth M. Brannon; Cabeza, Roberto; Huettel, Scott A. |title=Principles of Cognitive Neuroscience |publisher=Sinauer Associates Inc |location=Sunderland, Mass |year=2007 |isbn=0-87893-694-7 |oclc= |doi= |accessdate= |page=253}}</ref>
+
+Rod bipolar cells do not synapse directly on to ganglion cells. Instead, rod bipolar cells synapse on to A II amacrine cells, which in turn excite cone ON bipolar cells (via gap junctions) and inhibit cone OFF bipolar cells (via [[glycine receptor|glycine]]-mediated inhibitory synapses) thereby overtaking the cone pathway in order to send signals to ganglion cells at scotopic (low) ambient light conditions.<ref>Stewart A. Bloomfield, Ramon F. Dacheux, Rod Vision: Pathways and Processing in the Mammalian Retina, Progress in Retinal and Eye Research, Volume 20, Issue 3, May 2001, Pages 351-384, ISSN 1350-9462, {{doi|10.1016/S1350-9462(00)00031-8}}.
+(http://www.sciencedirect.com/science/article/pii/S1350946200000318)</ref>
+
+OFF bipolar cells synapse in the outer layer of the inner plexiform layer of the retina, and ON bipolar cells terminate in the inner layer of the inner plexiform layer.
+
+==Functionality==
+Bipolar cells effectively transfer information from rods and cones to ganglion cells. The horizontal cells and the amacrine cells complicate matters somewhat.  The horizontal cells introduce [[Horizontal cell#Functional properties|lateral inhibition]] and give rise to the center-surround inhibition which is apparent in retinal [[receptive field]]s. The amacrine cells also introduce lateral inhibition, however, its role is not yet well understood.
+
+The mechanism for producing the center of a bipolar cell's [[receptive field]] is well known: direct innervation of the [[photoreceptor cell]] above it, either through a [[metabotropic]] (ON) or [[ionotropic]] (OFF) receptor. However, the mechanism for producing the monochromatic surround of the same receptive field is under investigation. While it is known that an important [[cell (biology)|cell]] in the process is the [[horizontal cell]], the exact sequence of [[sensory receptor|receptors]] and [[molecules]] is unknown.
+
+==See also==
+*[[Amacrine cell]]
+*[[Retinal ganglion cell]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{cite book | last =Nicholls | first =John G. | coauthors =A. Robert Martin, Bruce G. Wallace, Paul A. Fuchs |title=From Neuron to Brain |publisher=Sinauer Associates |location=Sunderland, Mass |year=2001 |pages= |isbn=0-87893-439-1 |oclc= |doi=}}
+
+* {{cite journal |author=Masland RH |title=The fundamental plan of the retina |journal=Nat. Neurosci. |volume=4 |issue=9 |pages=877–86 |year=2001 |pmid=11528418 |doi=10.1038/nn0901-877}}
+
+==External links==
+* {{MeshName|Retinal+bipolar+cells}}
+* [http://thebrain.mcgill.ca/flash/d/d_02/d_02_cl/d_02_cl_vis/d_02_cl_vis.html Diagram at mcgill.ca]
+* [https://www.neuinfo.org/mynif/search.php?q=Retinal%20Bipolar%20Cell&t=data&s=cover&b=0&r=20 NIF Search - Retinal Bipolar Cell] via the [[Neuroscience Information Framework]]
+
+{{Eye anatomy}}
+
+[[Category:Human eye anatomy]]
+[[Category:Histology]]
+[[Category:Human cells]]
+[[Category:Neurons]]

@@ -1,0 +1,113 @@
+{{Taxobox
+| name               = Hepatitis D
+| image              =
+| image_width        =
+| image_caption      =
+| virus_group        = v
+| ordo               = ''Unassigned''
+| familia            = ''Unassigned''
+| genus              = ''[[Deltavirus]]''
+| species            = '''''Hepatitis delta virus'''''
+}}
+{{Infobox disease
+|Name=Hepatitis D
+|Image=
+|Caption=
+|DiseasesDB=5792
+|ICD10={{ICD10|B|17|0|b|15}}, {{ICD10|B|18|0|b|15}}
+|ICD9={{ICD9|070.31}}
+|ICDO=
+|OMIM=
+|MedlinePlus=
+|eMedicineSubj=
+|eMedicineTopic=
+|MeshID=D003699
+}}
+'''Hepatitis D''', also referred to as '''hepatitis D virus''' ('''HDV''') and classified as ''Hepatitis delta virus'', is a [[disease]] caused by a small circular enveloped [[RNA virus]]. It is one of five known [[hepatitis]] viruses: [[hepatitis A|A]], [[hepatitis B|B]], [[hepatitis C|C]], D, and [[hepatitis E|E]]. HDV is considered to be a [[Satellite (biology)|subviral satellite]] because it can propagate only in the presence of the [[hepatitis B|hepatitis B virus]] (HBV).<ref>{{cite journal|author=Makino S|title=Molecular cloning and sequencing of a human hepatitis delta (delta) virus RNA|journal=Nature|volume=329|issue=6137|pages=343–6|year=1987|pmid=3627276|doi=10.1038/329343a0|author-separator=,|author2=Chang MF|author3=Shieh CK|display-authors=3|last4=Kamahora|first4=Toshio|last5=Vannier|first5=David M.|last6=Govindarajan|first6=Sugantha|last7=Lai|first7=Michael M. C.}}</ref> Transmission of HDV can occur either via simultaneous infection with HBV ([[coinfection]]) or superimposed on chronic hepatitis B  or hepatitis B carrier state ([[superinfection]]).
+
+Both superinfection and coinfection with HDV results in more severe complications compared to infection with HBV alone. These complications include a greater likelihood of experiencing liver failure in acute infections and a rapid progression to liver [[cirrhosis]], with an increased chance of developing [[liver cancer]] in chronic infections.<ref>{{cite journal|author=Fattovich G|title=Influence of hepatitis delta virus infection on morbidity and mortality in compensated cirrhosis type B|journal=Gut|volume=46|issue=3|pages=420–6|year=2000|month=March|pmid=10673308|pmc=1727859|url=http://gut.bmj.com/cgi/pmidlookup?view=long&pmid=10673308|doi=10.1136/gut.46.3.420|author-separator=,|author2=Giustina G|author3=Christensen E|display-authors=3|last4=Pantalena|first4=M|last5=Zagni|first5=I|last6=Realdi|first6=G|last7=Schalm|first7=SW}}</ref> In combination with hepatitis B virus, hepatitis D has the highest mortality rate of all the hepatitis infections, at 20%.
+
+==Virology==
+===History===
+Hepatitis D virus was first reported in the mid-1977, by an Italian researcher, Mario Rizzetto,<ref>Manuale di Gastroenterologia Unigastro pag. 260</ref> as a nuclear antigen in patients infected with HBV who had severe liver disease <ref>{{cite journal|last=Rizzetto|first=M|coauthors=Canese MG, Arico S, Criello O, Trepo C, Bonino F, Verme G|title=Immunofluorescence detection of new antigen-antibody system (delta/anti-delta) associated to hepatitis B virus in liver and in serum of HBsAg carriers|journal=Gut|year=1997|volume=18|issue=12|pages=997–1003|pmid=75123|pmc=1411847|doi=10.1136/gut.18.12.997}}</ref> This nuclear antigen was then thought to be a hepatitis B antigen and was called the delta antigen. Subsequent experiments in chimpanzees showed that the hepatitis delta antigen (HDAg) was a structural part of a pathogen that required HBV infection to replicate<ref>{{cite journal|last=Rizzetto|first=M|coauthors=Canese, MG, Purcell, RH, London, WT, Sly, LD, Gerin, JL|title=Experimental HBV and delta infections of chimpanzees: occurrence and significance of intrahepatic immune complexes of HBcAg and delta antigen|journal=Hepatology (Baltimore, Md.)|date=1981 Nov-Dec|year=1981|volume=1|issue=6|pages=567–74|pmid=7030907|doi=10.1002/hep.1840010602}}</ref> The entire virus was cloned and sequenced in 1986, and obtained its own genus: ''Deltavirus''. <ref>{{cite journal|last=Wang|first=KS|coauthors=Choo, QL, Weiner, AJ, Ou, JH, Najarian, RC, Thayer, RM, Mullenbach, GT, Denniston, KJ, Gerin, JL, Houghton, M|title=Structure, sequence and expression of the hepatitis delta (delta) viral genome|journal=Nature|date=1986 Oct 9-15|year=1986|volume=323|issue=6088|pages=508–14|pmid=3762705|doi=10.1038/323508a0}}</ref><ref>{{cite journal|last=Fauquet|first=CM|coauthors=Mayo MA, Maniloff J, Desselberger U, Ball LA|title=Deltavirus|journal=Eight Report of the International Committee on Taxonomy of Viruses. London|year=2005|pages=735–8}}</ref>
+
+===Structure and Genome===
+{{Infobox protein family
+| Symbol = HDV_ag
+| Name = Hepatitis delta virus delta antigen
+| image = PDB 1a92 EBI.jpg
+| width = 
+| caption = oligomerization domain of hepatitis delta antigen
+| Pfam = PF01517
+| Pfam_clan =  
+| InterPro = IPR002506
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 1a92
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+The HDV is a small, spherical virus with a 36&nbsp;nm diameter. It has an outer coat containing three HBV envelope proteins (called large, medium, and small hepatitis B surface antigens), and host lipids surrounding an inner nucleocapsid. The nucleocapsid contains single-stranded, circular RNA of 1679 nucleotides and about 200 molecules of hepatitis D antigen (HDAg) for each genome. The central region of HDAg has been shown to bind RNA.<ref name="pmid8245865">{{cite journal | author = Poisson F, Roingeard P, Baillou A, Dubois F, Bonelli F, Calogero RA, Goudeau A | title = Characterization of RNA-binding domains of hepatitis delta antigen | journal = J. Gen. Virol. | volume = 74 | issue =Pt 11 | pages = 2473–8 | year = 1993 | month = November | pmid = 8245865 }}</ref> Several interactions are also mediated by a [[coiled coil|coiled-coil]] region at the [[N terminus]] of HDAg.<ref name="pmid9687364">{{cite journal | author = Zuccola HJ, Rozzelle JE, Lemon SM, Erickson BW, Hogle JM | title = Structural basis of the oligomerization of hepatitis delta antigen | journal = Structure | volume = 6 | issue = 7 | pages = 821–30 | year = 1998 | month = July | pmid = 9687364 | doi = 10.1016/S0969-2126(98)00084-7}}</ref> The hepatitis D circular genome is unique to animal viruses because of its high GC nucleotide content. The HDV genome exists as an enveloped, negative sense, single-stranded, closed circular [[RNA]]. Its nucleotide sequence is 70% [[self-complementary]], allowing the genome to form a partially double-stranded, rod-like RNA structure.<ref>{{cite journal|author=Saldanha JA, Thomas HC, Monjardino JP|title=Cloning and sequencing of RNA of hepatitis delta virus isolated from human serum|journal=J. Gen. Virol.|volume=71 |issue=7|pages=1603–6|year=1990|month=July|pmid=2374010|url=http://vir.sgmjournals.org/cgi/pmidlookup?view=long&pmid=2374010|doi=10.1099/0022-1317-71-7-1603}}</ref> With a genome of approximately 1700 nucleotides, HDV is the smallest "virus" known to infect animals. It has been proposed that HDV may have originated from a class of plant viruses called [[viroids]].<ref>{{cite journal|author=Elena SF, Dopazo J, Flores R, Diener TO, Moya A|title=Phylogeny of viroids, viroidlike satellite RNAs, and the viroidlike domain of hepatitis delta virus RNA|journal=Proc. Natl. Acad. Sci. U.S.A.|volume=88|issue=13|pages=5631–4|year=1991|month=July|pmid=1712103|pmc=51931|url=http://www.pnas.org/cgi/pmidlookup?view=long&pmid=1712103|doi=10.1073/pnas.88.13.5631}}</ref><ref>{{cite journal|last=Sureau|first=C|title=The role of the HBV envelope proteins in the HDV replication cycle|journal=Current topics in microbiology and immunology|year=2006|volume=307|pages=113–31|pmid=16903223|doi=10.1007/3-540-29802-9_6|series=Current Topics in Microbiology and Immunology|isbn=978-3-540-29801-4}}</ref>
+
+===Life Cycle===
+The receptor that HDV recognizes on human hepatocytes has not been identified; however it is thought to be the same as the HBV receptor because both viruses have the same outer coat.<ref>{{cite journal|last=Barrera|first=A|coauthors=Guerra, B, Notvall, L, Lanford, RE|title=Mapping of the Hepatitis B Virus Pre-S1 Domain Involved in Receptor Recognition|journal=Journal of Virology|date=2005 Aug|volume=79|issue=15|pages=9786–98|pmid=16014940|doi=10.1128/JVI.79.15.9786-9798.2005|pmc=1181564}}</ref> HDV recognizes its receptor via the N-terminal domain of the large hepatitis B surface antigen, HBsAg.<ref>{{cite journal|last=Engelke|first=M|coauthors=Mills, K, Seitz, S, Simon, P, Gripon, P, Schnölzer, M, Urban, S|title=Characterization of a hepatitis B and hepatitis delta virus receptor binding site|journal=Hepatology (Baltimore, Md.)|date=2006 Apr|volume=43|issue=4|pages=750–60|pmid=16557545|doi=10.1002/hep.21112}}</ref> Mapping by mutagenesis of this domain has shown that amino acid residues 9-15 make up the receptor binding site.<ref>{{cite journal|last=Schulze|first=A|coauthors=Schieck, A, Ni, Y, Mier, W, Urban, S|title=Fine Mapping of Pre-S Sequence Requirements for Hepatitis B Virus Large Envelope Protein-Mediated Receptor Interaction|journal=Journal of Virology|date=2010 Feb|volume=84|issue=4|pages=1989–2000|pmid=20007265|doi=10.1128/JVI.01902-09|pmc=2812397}}</ref> After entering the hepatocyte, the virus is uncoated and the nucleocapsid translocated to the nucleus due to a signal in HDAg<ref>{{cite journal|last=Xia|first=YP|coauthors=Yeh, CT, Ou, JH, Lai, MM|title=Characterization of nuclear targeting signal of hepatitis delta antigen: nuclear transport as a protein complex|journal=Journal of Virology|date=1992 Feb|volume=66|issue=2|pages=914–21|pmid=1731113|pmc=240792}}</ref> Since the nucleocapsid does not contain an RNA polymerase to replicate the virus’ genome, the virus makes use of the cellular [[RNA polymerase]]s. Initially just RNA pol II,<ref>{{cite journal|author=Lehmann E, Brueckner F, Cramer P|title=Molecular basis of RNA-dependent RNA polymerase II activity|journal=Nature|volume=450|issue=7168|pages=445–9|year=2007|month=November|pmid=18004386|doi=10.1038/nature06290}}</ref><ref>{{cite journal|author=Filipovska J, Konarska MM|title=Specific HDV RNA-templated transcription by pol II in vitro|journal=RNA|volume=6|issue=1|pages=41–54|year=2000|month=January|pmid=10668797|pmc=1369892|url=http://www.rnajournal.org/cgi/pmidlookup?view=long&pmid=10668797|doi=10.1017/S1355838200991167}}</ref> now RNA polymerases I and III have also been shown to be involved in HDV replication<ref>{{cite journal|last=Greco-Stewart|first=VS|coauthors=Schissel, E, Pelchat, M|title=The hepatitis delta virus RNA genome interacts with the human RNA polymerases I and III|journal=Virology|date=2009-03-30|volume=386|issue=1|pages=12–5|pmid=19246067|doi=10.1016/j.virol.2009.02.007}}</ref> 
+Normally RNA polymerase II utilizes DNA as a template and produces mRNA. Consequently, if HDV indeed utilizes RNA polymerase II during replication, it would be the only known animal pathogen capable of using a DNA-dependent polymerase as an RNA-dependent polymerase.
+
+The RNA polymerases treat the RNA genome as double stranded DNA due to the folded rod-like structure it is in. Three forms of RNA are made; circular genomic RNA, circular complementary antigenomic RNA, and a linear polyadenylated antigenomic RNA, which is the mRNA containing the open reading frame for the HDAg. Synthesis of antigenomic RNA occurs in the nucleolus, mediated by RNA Pol I, whereas synthesis of genomic RNA takes place in the nucleoplasm, mediated by RNA Pol II.<ref>{{cite journal|last=Li|first=YJ|coauthors=Macnaughton, T, Gao, L, Lai, MM|title=RNA-Templated Replication of Hepatitis Delta Virus: Genomic and Antigenomic RNAs Associate with Different Nuclear Bodies|journal=Journal of Virology|date=2006 Jul|volume=80|issue=13|pages=6478–86|pmid=16775335|doi=10.1128/JVI.02650-05|pmc=1488965}}</ref> HDV RNA is synthesized first as linear RNA that contains many copies of the genome. The genomic and antigenomic RNA contain a sequence of 85 nucleotides that acts as a [[ribozyme]], which self-cleaves the linear RNA into monomers. This monomers are then ligated to form circular RNA <ref>{{cite journal|last=Branch|first=AD|coauthors=Benenfeld, BJ, Baroudy, BM, Wells, FV, Gerin, JL, Robertson, HD|title=An ultraviolet-sensitive RNA structural element in a viroid-like domain of the hepatitis delta virus|journal=Science|date=1989-02-03|volume=243|issue=4891|pages=649–52|pmid=2492676|doi=10.1126/science.2492676}}</ref><ref>{{cite journal|last=Wu|first=HN|coauthors=Lin, YJ, Lin, FP, Makino, S, Chang, MF, Lai, MM|title=Human hepatitis delta virus RNA subfragments contain an autocleavage activity|journal=Proceedings of the National Academy of Sciences of the United States of America|date=1989 Mar|volume=86|issue=6|pages=1831–5|pmid=2648383|pmc=286798|doi=10.1073/pnas.86.6.1831}}</ref> 
+
+There are eight reported genotypes of HDV with unexplained variations in their geographical distribution and pathogenicity.
+
+===Delta antigens===
+
+A significant difference between viroids and HDV is that, while viroids produce no proteins, HDV is known to produce one protein, namely HDAg. It comes in two forms; a 27kDa large-HDAg, and a small-HDAg of 24kDa. The N-terminals of the two forms are identical, they differ by 19 more amino acids in the C-terminal of the large HDAg.<ref name="Weiner1988">{{cite journal|last=Weiner|first=AJ|coauthors=Choo, QL, Wang, KS, Govindarajan, S, Redeker, AG, Gerin, JL, Houghton, M|title=A single antigenomic open reading frame of the hepatitis delta virus encodes the epitope(s) of both hepatitis delta antigen polypeptides p24 delta and p27 delta|journal=Journal of Virology|date=1988 Feb|volume=62|issue=2|pages=594–9|pmid=2447291|pmc=250573}}</ref> Both isoforms are produced from the same reading frame which contains an UAG stop codon at codon 196, which normally produces only the small-HDAg. However, editing by cellular enzyme adenosine deaminase-1 changes the stop codon to UCG, allowing the large-HDAg to be produced <ref name="Weiner1988" /><ref>{{cite journal|last=Jayan|first=GC|coauthors=Casey, JL|title=Inhibition of Hepatitis Delta Virus RNA Editing by Short Inhibitory RNA-Mediated Knockdown of ADAR1 but Not ADAR2 Expression|journal=Journal of Virology|date=2002 Dec|volume=76|issue=23|pages=12399–404|pmid=12414985|doi=10.1128/JVI.76.23.12399-12404.2002|pmc=136899}}</ref> 
+Despite having 90% identical sequences, these two proteins play diverging roles during the course of an infection. HDAg-S is produced in the early stages of an infection and  enters the nucleus and supports viral replication. HDAg-L, in contrast, is produced during the later stages of an infection, acts as an inhibitor of viral replication, and is required for assembly of viral particles.<ref>{{cite journal|author=Sato S, Cornillez-Ty C, Lazinski DW|title=By Inhibiting Replication, the Large Hepatitis Delta Antigen Can Indirectly Regulate Amber/W Editing and Its Own Expression|journal=J. Virol.|volume=78|issue=15|pages=8120–34|year=2004|month=August|pmid=15254184|pmc=446097|doi=10.1128/JVI.78.15.8120-8134.2004|url=http://jvi.asm.org/cgi/pmidlookup?view=long&pmid=15254184}}</ref><ref>{{cite journal|last=Taylor|first=JM|title=Structure and replication of hepatitis delta virus RNA|journal=Current topics in microbiology and immunology|year=2006|volume=307|pages=1–23|pmid=16903218|doi=10.1007/3-540-29802-9_1|series=Current Topics in Microbiology and Immunology|isbn=978-3-540-29801-4}}</ref><ref>{{cite journal|last=Chang|first=MF|coauthors=Chen, CJ, Chang, SC|title=Mutational analysis of delta antigen: effect on assembly and replication of hepatitis delta virus|journal=Journal of Virology|date=1994 Feb|volume=68|issue=2|pages=646–53|pmid=8289368|pmc=236498}}</ref> Thus RNA editing by the cellular enzymes is critical to the virus’ life cycle because it regulates the balance between viral replication and virion assembly.
+
+==Transmission==
+
+The routes of transmission of hepatitis D are similar to those for hepatitis B. Infection is largely restricted to persons at high risk of hepatitis B infection, particularly injecting drug users and persons receiving clotting factor concentrates. Worldwide more than 15 million people are co-infected. HDV is rare in most [[Developed country|developed countries]], and is mostly associated with [[Drug injection|intravenous drug use]]. However, HDV is much more common in the immediate Mediterranean region, sub-Saharan Africa, the Middle East, and the northern part of South America.<ref>{{cite journal|author=Radjef N|title=Molecular Phylogenetic Analyses Indicate a Wide and Ancient Radiation of African Hepatitis Delta Virus, Suggesting a Deltavirus Genus of at Least Seven Major Clades|journal=J. Virol.|volume=78|issue=5|pages=2537–44|year=2004|month=March|pmid=14963156|pmc=369207|url=http://jvi.asm.org/cgi/pmidlookup?view=long&pmid=14963156|doi=10.1128/JVI.78.5.2537-2544.2004|author-separator=,|author2=Gordien E|author3=Ivaniushina V|display-authors=3|last4=Gault|first4=E.|last5=Anais|first5=P.|last6=Drugan|first6=T.|last7=Trinchet|first7=J.-C.|last8=Roulot|first8=D.|last9=Tamby|first9=M.}}</ref> In all, about 20 million people may be infected with HDV.<ref>{{cite journal|author=Taylor JM|title=Hepatitis delta virus|journal=Virology|volume=344|issue=1|pages=71–6|year=2006|month=January|pmid=16364738|doi=10.1016/j.virol.2005.09.033}}</ref>
+
+==Treatment and prevention==
+The vaccine for hepatitis B protects against hepatitis D virus because of the latter's dependence on the  presence of hepatitis B virus for it to replicate .<ref>[http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001264/ U.S. National Library of Medicine "Delta Agent (hepatitis D)]"</ref><ref name="isbn0-12-375147-0">{{cite book |author= Tayor, JM|title=Desk Encyclopedia of Human and Medical Virology |publisher=Academic Press |location=Boston |year=2009 |page=121 |isbn=0-12-375147-0}}</ref>
+
+==Evolution==
+
+Three genotypes (I-III) were originally described. Genotype I has been isolated in Europe, North America, Africa and some Asia. Genotype II has been found in Japan, Taiwan, and Yakutia (Russia). Genotype III has been found exclusively in South America (Peru, Colombia, and Venezuela). Some genomes from Taiwan and the Okinawa islands have been difficult to type but have been placed in genotype 2. However it is now known that there are at least 8 genotypes of this virus (HDV-1 to HDV-8).<ref name=Celik2011>{{cite journal |author=Celik I, Karataylı E, Cevik E, ''et al.'' |title=Complete genome sequences and phylogenetic analysis of hepatitis delta viruses isolated from nine Turkish patients |journal=Arch. Virol. |volume=156 |issue=12 |pages=2215–20 |year=2011 |month=December |pmid=21984217 |doi=10.1007/s00705-011-1120-y }}</ref> Phylogenetic studies suggest an African origin for this pathogen.<ref name=Radjef2004>{{cite journal | author = Radjef N, Gordien E, Ivaniushina V, Gault E, Anaïs P, Drugan T, Trinchet JC, Roulot D, Tamby M ''et al.'' | year = 2004 | title = Molecular phylogenetic analyses indicate a wide and ancient radiation of African hepatitis delta virus, suggesting a deltavirus genus of at least seven major clades | url = | journal = J Virol | volume = 78 | issue = 5| pages = 2537–2544 }}</ref>
+
+An analysis of 36 strains of genotype 3 estimated that the most recent common ancestor of these strains originated ~1930.<ref name=Alvarado-Mora2011>Alvarado-Mora MV, Romano CM, Gomes-Gouvêa MS, Gutierrez MF, Carrilho FJ, Pinho JR (2011) Dynamics of hepatitis D (delta) virus genotype 3 in the Amazon region of South America. Infect Genet Evol 11(6):1462-8. doi: 10.1016/j.meegid.2011.05.020 </ref> This genotype spread exponentially from early 1950s to the 1970s in South America. The substitution rate was estimated to be 1.07 × 10<sup>-3</sup> substitutions per site per year.
+
+Genotype 8 has also been isolated from South America.<ref name=Barros2011>Barros LM, Gomes-Gouvêa MS, Pinho JR, Alvarado-Mora MV, Dos Santos A, Mendes-Corrêa MC, Caldas AJ, Sousa MT, Santos MD, Ferreira AS (2011) Hepatitis Delta virus genotype 8 infection in Northeast Brazil: inheritance from African slaves? Virus Res 160(1-2):333-339 doi: 10.1016/j.virusres.2011.07.006</ref> This strain is usually only found in Africa and may have been imported into South America with the slave trade.
+
+Genotypes with the exception of type 1 have been found only in certain geographical areas: HDV-2 (previously HDV-IIa) is found in Japan, Taiwan and Yakoutia, Russia; HDV-4 (previously HDV-IIb) in Japan and Taiwan; HDV-3 in the Amazonian region; HDV-5, HDV-6, HDV-7 and HDV-8 in Africa.<ref name=LeGal2006>Le Gal F, Gault E, Ripault MP, Serpaggi J, Trinchet JC, Gordien E, Dény P (2006) Eighth major clade for hepatitis delta virus. Emerg Infect Dis 12(9):1447-1450</ref>
+
+==See also==
+* [[Hepatitis A]]
+* [[Hepatitis B]] and [[Hepatitis B in China]]
+* [[Hepatitis C]]
+* [[Hepatitis E]]
+* [[Hepatitis F]]
+* [[Hepatitis G]]
+
+==References==
+
+{{Reflist|colwidth=30em}}
+
+==External links==
+
+{{Refbegin}}
+*[[World Health Organization]] [http://www.who.int/csr/disease/hepatitis/whocdscsrncs20011/en/index.html Fact sheet on Hepatitis D]
+* [http://www.expasy.org/viralzone/all_by_species/175.html '''Viralzone''': Deltavirus]
+*[[hepatitis-delta.org]] [http://www.hepatitis-delta.org]
+
+{{Refend}}
+
+{{Viral diseases}}
+{{Digestive system diseases}}
+{{InterPro content|IPR002506}}
+
+[[Category:Protein families]]
+[[Category:Hepatitis|D]]
+[[Category:RNA viruses]]

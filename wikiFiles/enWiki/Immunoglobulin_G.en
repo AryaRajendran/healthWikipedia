@@ -1,0 +1,66 @@
+'''Immunoglobulin G''' ('''IgG''') is an [[antibody]] [[Antibody#Isotypes|isotype]].  It is a protein complex composed of four [[peptide]] chains — two identical [[Antibody#Heavy chain|heavy chains]] and two identical [[Antibody#Light chain|light chains]] arranged in a Y-shape typical of antibody [[monomer]]s.  Each IgG has two [[antigen]] binding sites.  Representing approximately 75% of [[blood plasma|serum]] immunoglobulins in humans, IgG is the most abundant antibody isotype found in the circulation.<ref name="Junqueira">{{cite book | last=Junqueira|first= Luiz C. |coauthors= Jose Carneiro |title= Basic Histology|year= 2003|publisher= McGraw-Hill|isbn= 0-8385-0590-2}}</ref> IgG molecules are synthesized and secreted by [[plasma B cells]].
+
+== Functions ==
+
+Antibodies are major components of the [[immune system]].  IgG is the main antibody isotype found in blood and [[extracellular fluid]] allowing it to control infection of body [[Tissue (biology)|tissue]]s.  By binding many kinds of [[pathogen]]s—representing [[virus]]es, [[bacteria]], and [[fungi]]—IgG protects the body from infection.  It does this via several immune mechanisms: IgG-mediated binding of pathogens causes their immobilization and binding together via [[Agglutination (biology)|agglutination]]; IgG coating of pathogen surfaces (known as [[opsonization]]) allows their recognition and ingestion by [[phagocytosis|phagocytic immune cells]]; IgG activates the [[Classical complement pathway|classical pathway]] of the [[complement system]], a cascade of immune protein production that results in pathogen elimination; IgG also binds and [[neutralisation (immunology)|neutralizes]] [[toxin]]s. IgG also plays an important role in [[antibody-dependent cell-mediated cytotoxicity]] (ADCC) and [[intracellular antibody-mediated proteolysis]], in which it binds to [[TRIM21]] (the receptor with greatest affinity to IgG in humans) in order to direct marked virions to the [[proteasome]] in the cytosol.<ref name="pmid21045130">{{cite journal | author = Mallery DL, McEwan WA, Bidgood SR, Towers GJ, Johnson CM, James LC | title =  Antibodies mediate intracellular immunity through tripartite motif-containing 21 (TRIM21) | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 107| issue = 46| pages = 19985–19990| year = 2010 | pmid = 21045130 | doi = 10.1073/pnas.1014074107 | url =http://www.pnas.org/content/early/2010/11/01/1014074107| pmc=2993423}}</ref>  IgG is also associated with Type II and Type III [[Hypersensitivity]].
+IgG antibodies are generated following [[class switching]] and maturation of the antibody response and thus participate predominantly in the [[Memory B cell|secondary immune response]].<ref>Meulenbroek, A.J.; Zeijlemaker, W.P. (1996).</ref>
+IgG is secreted as a monomer that is small in size allowing it to easily [[Perfusion|perfuse]] tissues.  It is the only [[Antibody#Isotypes|isotype]] that can pass through the human [[placenta]], thereby providing protection to the [[fetus]] [[in utero]]. Along with [[IgA]] secreted in the [[breast milk]], residual IgG absorbed through the [[placenta]] provides the [[neonate]] with [[humoral]] immunity before its own [[immune system]] develops. [[Colostrum]] contains a high percentage of  IgG, especially bovine [[colostrum]].  In individuals with prior immunity to a pathogen, IgG appears about 24–48 hours after antigenic stimulation.
+
+== Structure ==
+[[File:Immunoglobulin basic unit.svg|right|thumb|200px|Immunoglobulin]]
+IgG antibodies are large molecules of about 150&nbsp;[[kDa]] composed of four peptide chains. It contains two identical class γ heavy chains of about 50&nbsp;kDa and two identical light chains of about 25&nbsp;kDa, thus a tetrameric quaternary structure. The two heavy chains are linked to each other and to a light chain each by [[disulfide bonds]]. The resulting tetramer has two identical halves, which together form the Y-like shape. Each end of the fork contains an identical [[antigen]] binding site. The Fc regions of IgGs bear a highly conserved N-glycosylation site. The N-glycans attached to this site are predominantly core-fucosylated diantennary structures of the complex type. In addition, small amounts of these N-glycans also bear bisecting GlcNAc and α-2,6-linked sialic acid residues.<ref>{{cite journal | authors=Stadlmann J, Pabst M, Kolarich D, Kunert R, Altmann F. | year=2008 | title=Analysis of immunoglobulin glycosylation by LC-ESI-MS of glycopeptides and oligosaccharides | journal=Proteomics | volume=8 | issue=14 | pages=2858–2871 | pmid=18655055 | doi=10.1002/pmic.200700968 }}</ref>
+
+==Subclasses==
+There are four IgG subclasses (IgG1, 2, 3, and 4) in humans, named in order of their abundance in serum (IgG1 being the most abundant). 
+{| class="wikitable"
+| '''Name''' || '''Percent''' || '''Crosses [[placenta]] easily''' || '''Complement activator''' || '''Binds to [[Fc receptor]] on phagocytic cells'''
+ |- 
+ | IgG1  || 66% || yes (1.47)† || second-highest || high affinity
+ |- 
+ | IgG2  || 23% || no (0.8)† || third-highest || extremely low affinity
+ |- 
+ | IgG3  || 7% || yes (1.17)† || highest || high affinity
+ |- 
+ | IgG4  || 4% || yes (1.15)† || no || intermediate affinity  
+|-
+| colspan="5"| ''†: Quota cord/maternity concentrations blood. Based on data from a Japanese study on 228 mothers.'' <ref>{{cite journal |author=Hashira S, Okitsu-Negishi S, Yoshino K |title=Placental transfer of IgG subclasses in a Japanese population |journal=Pediatr Int |volume=42 |issue=4 |pages=337–42 |year=2000 |month=August |pmid=10986861 |doi= 10.1046/j.1442-200x.2000.01245.x|url=}}</ref>
+|}
+
+Note: IgG affinity to Fc receptors on phagocytic cells is specific to individual species from which the antibody comes as well as the class. The structure of the hinge regions gives each of the four IgG classes its unique biological profile. Even though there is about 95% similarity between their Fc regions, the structure of the hinge regions is relatively different.
+
+The relative ability of different IgG subclasses to fix complement may explain why some anti-donor antibody responses do not harm a graft after organ transplantation.<ref>{{cite journal | author=ZH Gao et al. | title=Immunoglobulin-G subclass antidonor reactivity in transplant recipients. | journal=Liver Transplantation | volume=10 | pages=1055–1059 | year=2004 | pmid=15390333 | issue=8}}</ref>
+
+In a model of autoantibody mediated anemia using IgG isotype switch variants of an anti erythrocytes autoantibody, it was found that IgG2a was superior to IgG1 in activating complement. Moreover, it was found that the IgG2a isotype was able to interact very efficiently with FcgammaR. As a result, 20 times higher doses of IgG1, in relationship to IgG2a autoantibodies, were required to induce autoantibody mediated pathology. 
+<ref>Azeredo et al. J of Exp Med. 2002. 195: 665.</ref>
+
+==Use as diagnostic==
+The measurement of immunoglobulin G can be a diagnostic tool for certain conditions if indicated by certain symptoms. 
+<ref name="abstracts">{{Citation |author1 = Lakos G | author1-link = http://www.ncbi.nlm.nih.gov/pubmed?term=Lakos%20G%5BAuthor%5D&cauthor=true&cauthor_uid=18565246 | date = 2008 Mar-Apr | title = Anti-cyclic citrullinated peptide antibodies of IgG isotype are specific diagnostic markers of rheumatoid arthritis. | url = http://www.ncbi.nlm.nih.gov/pubmed/18565246?dopt=AbstractPlus | publisher = [[Clinical and Experimental Rheumatology]]}}</ref> {{citation needed|date=August 2012}} Clinically, measured IgG antibody levels are generally considered to be indicative of an individual's immune status to particular pathogens. A common example of this practice are titers drawn to demonstrate serologic immunity to measles, mumps, and rubella (MMR), hepatitis B virus, and varicella (chickenpox), among others.<ref>{{cite web|title=For physicians and hospitals|url=http://www.questdiagnostics.com/home/physicians.html|publisher=[[Quest Diagnostics]]}}</ref> 
+
+Testing of IgG is not indicated for diagnosis of allergy.<ref name="AAAAIfive">{{Citation |author1 = American Academy of Allergy, Asthma, and Immunology |author1-link = American Academy of Allergy, Asthma, and Immunology |date = |title = Five Things Physicians and Patients Should Question |publisher = [[American Academy of Allergy, Asthma, and Immunology]] |work = Choosing Wisely: an initiative of the [[ABIM Foundation]] |page = |url = http://choosingwisely.org/wp-content/uploads/2012/04/5things_12_factsheet_AAAAI.pdf |accessdate = August 14, 2012}}</ref><ref name="pearlspitfalls">{{cite PMID|19119701}}</ref>
+
+==See also==
+*[[Antibody]]
+*[[B cell]]
+*[[Epitope]]
+*[[Immunoglobulin A]] (IgA)
+*[[Immunoglobulin D]] (IgD)
+*[[Immunoglobulin E]] (IgE)
+*[[Immunoglobulin M]] (IgM)
+*[[List of target antigens in pemphigus]]
+*[[Plasma B cell]]
+
+==References==
+<references/>
+
+==External links==
+* [http://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=IgG&rid=imm.section.323#325 Janeway Immunobiology - The structure of a typical antibody (IgG)]
+* [http://www.xs4all.nl/~ednieuw/IgGsubclasses/subkl.htm A booklet with everything you wanted to know about IgG subclasses]
+
+{{immune_system}}
+{{Immune_proteins}}
+
+[[Category:Immunology]]
+[[Category:Glycoproteins]]
+[[Category:Immune system]]
+[[Category:Antibodies]]

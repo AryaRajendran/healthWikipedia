@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477865033
+
+<!--Combo data-->
+| type = combo
+| component1 = Tobramycin
+| class1 = [[Aminoglycoside antibiotic]]
+| component2 = Dexamethasone
+| class2 = [[Glucocorticoid]]
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[Eye drops|Ophthalmic]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 32986-56-4
+| ATCvet =  
+| ATC_prefix = S01
+| ATC_suffix = CA01
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 10123949
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C22H29FO5.C18H37N5O9/c1-12-8-16-15-5-4-13-9-14(25)6-7-19(13,2)21(15,23)17(26)10-20(16,3)22(12,28)18(27)11-24;19-3-9-8(25)2-7(22)17(29-9)31-15-5(20)1-6(21)16(14(15)28)32-18-13(27)11(23)12(26)10(4-24)30-18/h6-7,9,12,15-17,24,26,28H,4-5,8,10-11H2,1-3H3;5-18,24-28H,1-4,19-23H2/t12-,15+,16+,17+,19+,20+,21+,22+;5-,6+,7+,8-,9+,10+,11-,12+,13+,14-,15+,16-,17+,18+/m10/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = DWLNMMCXGSKYEM-VQHMUFKESA-N
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1747
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 28864
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D00063
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00684
+}}
+'''Tobramycin/dexamethasone''' ([[International Nonproprietary Name|INNs]], trade name '''Tobradex''') is a [[prescription medication]] in the form of [[eye drops]] and eye [[ointment]], marketed by [[Alcon]]. The active ingredients are [[tobramycin]] 0.3% (an [[antibiotic]]) and [[dexamethasone]] 0.1% (a [[corticosteroid]]). It is prescribed for a wide spectrum of bacterial [[human eye|eye]] infections. Tobradex can also be used to clear or contract [[stye]]s that are also found in the eye. It is prescribed for the treatment of [[conjunctivitis|pink eye]] in combination with bacterial infections. Because it contains a steroid, careful use with gradual reduction of doses is required.
+
+== Contraindications ==
+It is strongly contraindicated with [[Herpetic infection|herpetic]] and other [[viral infection|viral]] eye infections. Other contraindications include [[Mycosis|fungal]] and [[mycobacteria]]l infections because tobramycin is inactive against those, and the corticoid acts as an [[immunosuppressive]] agent, preventing the body's immune system from dealing with the infection. The drops are also contraindicated in patients with [[cornea]]l lesions.<ref name="AustriaCodex">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2009|edition=2009/2010|isbn=3-85200-196-X|language=German}}</ref><ref>[http://ecatalog.alcon.com/pi/TobraDexSusp_us_en.pdf Tobradex Prescribing Information]. Alcon.</ref>
+
+== Side effects ==
+Similarly to other corticosteroid eye drops, [[side effect]]s include [[hypersensitivity]] and, especially after long-term use, secondary eye infections, [[cataract]] (clouding of the eye lens) and increased [[intraocular pressure]], leading to [[glaucoma]]. Consequently, the drug should not be applied longer than 24 days.<ref name="AustriaCodex"/><ref name="ÖAZ">{{cite journal
+ | author = Ch. Faschinger
+ | date = 3 January 2011
+ | journal = Österreichische Apothekerzeitung
+ | issue = 1/2011
+ | pages = 13
+ | language = German
+ }}</ref><ref name="Arzneistoff-Profile">{{cite book|title=Arzneistoff-Profile|editor=Dinnendahl, V, Fricke, U|publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|year=2010|edition=23|volume=2|isbn=978-3-7741-9846-3|language=German}}</ref>
+
+==Interactions==
+[[Anticholinergic]] eye drops potentiate the risk of increased intraocular pressure. Systemic [[aminoglycoside antibiotic]]s increase toxicity for ears, nerves and kidney.<ref name="AustriaCodex" />
+
+==References==
+{{reflist}}
+
+{{AminoglycosideAntiBiotics}}
+{{Corticosteroids}}
+
+{{DEFAULTSORT:Tobramycin dexamethasone}}
+[[Category:Antibiotics]]
+[[Category:Glucocorticoids]]
+[[Category:Combination drugs]]

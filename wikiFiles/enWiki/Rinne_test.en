@@ -1,0 +1,76 @@
+{{Diagnostic infobox |
+  Name        = {{PAGENAME}} |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = {{ICD9proc|95.42}} |
+  MeshID      = |
+  OPS301      = |
+  OtherCodes  = |
+}}
+The '''Rinne test''' ({{IPAc-en|icon|ˈ|r|ɪ|n|ə}} {{respell|RIN|ə}}) is a [[hearing test]].<ref name="pmid2493884">{{cite journal |author=Thijs C, Leffers P |title=Sensitivity and specificity of Rinne tuning fork test |journal=BMJ |volume=298 |issue=6668 |pages=255 |year=1989 |month=January |pmid=2493884 |pmc=1835543 |doi= |url=}}</ref> It compares perception of [[sound]]s transmitted by [[air]] conduction to those transmitted by [[bone conduction]] through the [[temporal bone#Mastoid portion|mastoid]]. Thus, one can quickly screen for the presence of [[conductive hearing loss]].
+
+A Rinne test should always be accompanied by a [[Weber test]] to also detect [[sensorineural hearing loss]] and thus confirm the nature of hearing loss.
+
+The Rinne test was named after German [[otologist]] [[Heinrich Adolf Rinne]] (1819-1868);<ref>{{WhoNamedIt|synd|2447}}</ref><ref>F. H. A. Rinne. Beiträge zur Physiologie des menschlichen Ohres. Vierteljahrsschrift für die praktische Heilkunde, Prague, 1855, 45: 71-123.</ref> the [[Weber test]] was named after [[Ernst Heinrich Weber]] (1795 – 1878).
+
+==Procedure==
+The Rinne test is performed by placing a high frequency (512 Hz) vibrating [[tuning fork]] against the patient's mastoid bone and asking the patient to tell you when the sound is no longer heard. Once they signal they can't hear it, quickly position the still vibrating tuning fork 1-2 cm from the auditory canal, and again ask the patient to tell you if they are able to hear the tuning fork.
+
+==Results==
+'''Normal Hearing:''' 
+Air conduction should be greater than bone conduction and so the patient should be able to hear the tuning fork next to the pinna after they can no longer hear it when held against the mastoid.  
+
+'''Abnormal Hearing:''' 
+* If they are not able to hear the tuning fork after mastoid test, it means that their bone conduction is greater than their air conduction. This indicates there is something inhibiting the passage of sound waves from the ear canal, through the middle ear apparatus and into the cochlea (i.e., there is a conductive hearing loss). 
+* In  sensorineural hearing loss the ability to sense the tuning fork by both bone and air conduction is equally diminished. Sensorineurally hearing loss patients usually can hear better on the mastoid process than air process, but indicate the sound has stopped much earlier than conductive loss patients.
+
+==Note==
+The Rinne test is not reliable in distinguishing sensorineural and conductive loss, particularly in mild sensorineural loss. Formal [[audiometry]] testing would be required if any abnormal result is presented.
+
+==Air vs. Bone Conductive Hearing Loss==
+
+Air conduction uses the apparatus of the ear ([[pinna (anatomy)|pinna]], [[eardrum]] and [[ossicles]]) to amplify and direct the sound whereas bone conduction bypasses some or all of these and allows the sound to be transmitted directly to the [[inner ear]] albeit at a reduced volume, or via the bones of the skull to the opposite ear.
+
+{| class="wikitable"
+|-
+! Description
+! Relative
+! Positive/negative
+|-
+| In a normal [[ear]], air conduction (AC) is better than bone conduction (BC)
+| AC > BC
+| this is called a positive Rinne
+|-
+| In [[conductive hearing loss]], bone conduction is better than air
+| AC < BC
+| negative Rinne
+|-
+| In [[sensorineural hearing loss]], bone conduction and air conduction are both equally depreciated, maintaining the relative difference of bone and air conductions
+| AC > BC
+| positive Rinne
+|-
+| In sensorineural hearing loss patients there may be a [[false negative]] Rinne
+| AC < BC
+| negative Rinne
+|}
+
+Note that the words positive and negative are used in a somewhat confusing fashion here, other than their normal use in [[medical test]]s. Positive or negative means that a certain parameter that was evaluated was present or not. In this case, that parameter is if air conduction (AC) is better than bone conduction (BC). Thus, a "positive" result indicates the healthy state, in contrast to many other medical tests. Therefore, if presenting your findings to a physician, to avoid confusing yourself, it may be wise to avoid using the term 'positive' or 'negative', and simply state if the test was normal or abnormal e.g. 'Rinnes test was abnormal in the right ear, with bone conduction greater than air conduction'.
+
+==Hazards==
+This test and its complement, the [[Weber test]], are quick screening tests and are no replacement for formal [[audiometry]].  Recently, its value as a screening test has been questioned.<ref name="pmid16434632">{{cite journal |author=Bagai A, Thavendiranathan P, Detsky AS |title=Does this patient have hearing impairment? |journal=JAMA |volume=295 |issue=4 |pages=416–28 |year=2006 |month=January |pmid=16434632 |doi=10.1001/jama.295.4.416 |url=http://jama.ama-assn.org/cgi/pmidlookup?view=long&pmid=16434632}}</ref>
+
+==Effect on Opposite Ear==
+The effect on the opposite ear, relative to the tuning fork, is reverse to the ear being tested. Here, conduction through the skull to the opposite side is more effective than conduction through room air around the head.
+Thus, if the normal ear is not masked{{Clarify|date=April 2011}}, bone conduction could be reported as louder by the patient, even if both ears are normal{{Clarify|date=April 2011}}.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.fpnotebook.com/ENT/Exam/TngFrkTsts.htm Tuning Fork Tests] - Family Practice Notebook. Retrieved February 3, 2007.
+
+{{Physical exam}}
+{{Eponymous medical signs for eyes and ears}}
+{{Ear procedures}}
+[[Category:Ear procedures]]

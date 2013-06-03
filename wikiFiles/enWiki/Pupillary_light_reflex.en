@@ -1,0 +1,89 @@
+[[File:Sepia eyelid shape.theora.ogv|thumb|right|250px|The W-shaped pupil of the cuttlefish dilating when the lights are turned off]]
+[[File:Halogenlight.JPG|thumb|right|medical [[Halogen lamp|halogen penlight]] to observe Pupillary light reflex]]
+The '''pupillary light reflex''' is a [[reflex]] that controls the diameter of the [[pupil]], in response to the intensity ([[luminance]]) of light that falls on the [[retina]] of the [[human eye|eye]], thereby assisting in [[Adaptation (eye)|adaptation]] to various levels of darkness and light, in addition to [[retina]]l sensitivity. Greater intensity light causes the pupil to become smaller (allowing less light in), whereas lower intensity light causes the pupil to become larger (allowing more light in). Thus, the pupillary light reflex regulates the intensity of light entering the eye.<ref name="Purves" >{{cite book | author = Purves, Dale, George J. Augustine, David Fitzpatrick, William C. Hall, Anthony-Samuel LaMantia, James O. McNamara, and Leonard E. White | title = Neuroscience. 4th ed. | publisher = Sinauer Associates | pages = 290–1 | year = 2008 | isbn = 978-0-87893-697-7}}</ref>
+
+==Mechanism==
+[[Image:Ciliary ganglion pathways.png|thumb|400px|Pathways in the [[Ciliary ganglion]].  Green = parasympathetic; Red = sympathetic; Blue = sensory]]
+The [[optic nerve]], or more precisely, the [[photosensitive ganglion cell]]s through the [[retinohypothalamic tract]], is responsible for the [[afferent limb]] of the pupillary reflex - it senses the incoming light. The [[oculomotor nerve]] is responsible for the [[efferent limb]] of the pupillary reflex - it drives the muscles that constrict the pupil.<ref name="Purves" />
+
+===Neuron 1===
+The pupillary reflex pathway begins with the photosensitive retinal [[ganglion cell]]s, which convey information to the [[optic nerve]] (via the [[optic disc]]). The optic nerve connects to the [[Pretectum|pretectal nucleus]] of the upper [[midbrain]], bypassing the [[lateral geniculate nucleus]] and the [[primary visual cortex]].
+
+These "intrinsic photosensitive ganglion cells" are also referred to as "[[melanopsin]]-containing" cells, and they influence the circadian rhythms and the pupillary light reflex.
+
+===Neuron 2===
+From the pretectal nucleus, [[axon]]s connect to neurons in the [[Edinger-Westphal nucleus]], whose axons run along both the left and right [[oculomotor nerve]]s.
+
+===Neuron 3===
+Parasympathetic neurons from the oculomotor nerve [[synapse]] on [[ciliary ganglion]] neurons.
+
+===Neuron 4===
+Short ciliary nerves leave the ciliary ganglion to innervate the [[Iris sphincter muscle|constrictor muscle]] of the [[Iris (anatomy)|iris]].<ref name="Purves" />
+
+==A Mathematical Description==
+
+Pupillary Light Reflex is modeled as a physiologically-based non-linear delay differential equation that describes the changes in the pupil diameter as a function of the environment lighting:<ref>Pamplona, V. F., Oliveira, M. M., and Baranoski, G. V. G. (2009). Photorealistic models for pupil light reflex and iridal pattern deformation. ACM Trans. Graph. 28, 4 (Aug. 2009), 106:1-106:12. DOI= http://doi.acm.org/10.1145/1559755.1559763</ref>  
+
+<math>
+  M(D) = atanh \left( \frac{D-4.9}{3} \right)
+</math>
+
+<math>
+\frac{dM}{dD}\frac{dD}{dt} +  2.3026 \; atanh \left( \frac{D-4.9}{3} \right)  =  5.2 - 0.45 \; ln \left[\frac{ \Phi (t - \tau) }{4.8118~\times~10^{-10}} \right]  \;\;
+</math>
+
+where <math>D</math> is the pupil diameter measured in millimeters and <math> \Phi(t - \tau) </math> is the luminous intensity reaching the retina in a time <math>t</math>, which can be described as <math>\Phi = IA</math>: luminance reaching the eye in lumens/mm<sup>2</sup> times the pupil area in mm<sup>2</sup>. <math>\tau</math> is the pupillary latency, a time delay between the instant in which the light pulse reaches the retina and the beginning of iridal reaction due nerve transmission, neuro-muscular excitation and activation delays. <math>dM</math>, <math>dD</math> and <math>dt</math> are the derivatives for the <math>M</math> function, pupil diameter <math>D</math> and time <math>t</math>.
+
+Since the pupil constriction velocity is approximately 3 times faster than (re)dilation velocity,<ref>{{cite journal | doi = 10.1136/bjo.65.11.754 | last = Ellis | first = C. J. | title = The pupillary light reflex in normal subjects| journal = British Journal of Ophthalmology | volume = 65 | issue = 11 | pages = 754–759 | year = 1981 | pmid = 7326222 | pmc = 1039657}}</ref> different step sizes in the numerical solver simulation must be used: 
+
+<math>dt_{c} = \frac{T_{c} - T_{p}}{S}</math>
+
+<math>dt_{d} = \frac{T_{c} - T_{p}}{3S}</math>
+
+where <math>dt_{c}</math> and <math>dt_{d}</math> are respectively the <math>dt</math> for constriction and dilation measured in milliseconds, <math>Tc</math> and <math>Tp</math> are respectively the current and previous simulation times (times since the simulation started) measured in milliseconds, <math>S</math> is a constant that affects the constriction/dilation velocity and varies among individuals.
+The higher the <math>S</math> value, the smaller the time step used in the simulation and, consequently, the smaller the pupil constriction/dilation velocity.
+
+In order to improve the realism of the resulting simulations, the hippus effect can be  approximated by adding small random variations to the environment light (in the range of 0.05&nbsp;Hz to 0.3&nbsp;Hz) as proposed by.<ref>Stark, L. W. (1939). Stability, Oscillations, and Noise in the Human Pupil Servomechanism. Proc. of the IRE, [S.l.], v.47, n.11, p.1925–1939</ref>
+
+==Clinical significance==
+In addition to controlling the amount of light that enters the eye, the pupillary light reflex provides a useful diagnostic tool. It allows for testing the integrity of the [[Sensory system|sensory]] and [[Motor system|motor]] functions of the eye.<ref name="Purves" />
+
+Under normal conditions, the pupils of both eyes respond identically to a light [[Stimulus (physiology)|stimulus]], regardless of which eye is being stimulated. Light entering one eye produces a constriction of the pupil of that eye, the direct response, as well as a constriction of the pupil of the unstimulated eye, the [[consensual response]]. Comparing these two responses in both eyes is helpful in locating a [[lesion]].<ref name="Purves" /><ref name="url">{{cite web |url=http://www.med.yale.edu/caim/cnerves/cn3/cn3_12.html |title=Cranial Nerve III—Oculomotor Nerve |work=yale.edu |accessdate=2008-07-27}}</ref>
+
+For example, a direct response in the right pupil without a consensual response in the left pupil suggests a problem with the motor connection to the left pupil (perhaps as a result of damage to the [[oculomotor nerve]] or [[Edinger-Westphal nucleus]] of the brainstem). Lack of response to light stimulation of the right eye if both eyes respond normally to stimulation of the left eye indicates damage to the sensory input from the right eye (perhaps to the right retina or [[optic nerve]]).<ref name="Purves" />
+
+[[Emergency room]] physicians routinely assess the pupillary reflex because it is useful for gauging [[brain stem]] function. Normally, pupils react (i.e. constrict) equally. Lack of the pupillary reflex or an abnormal pupillary reflex can be caused by optic nerve damage, oculomotor nerve damage, [[brain stem death]] and depressant drugs, such as [[barbiturates]]. 
+
+Normally, both pupils should constrict with light shone into either eye alone. On testing each reflex for each eye, several patterns are possible.<ref>{{cite book | last = Colman | first = Andrew M. | title = [[A Dictionary of Psychology]] | publisher = [[Oxford University Press, USA]] | year = 2001 | month = August | isbn = 0-19-866211-4 }}</ref>
+
+*[[Optic nerve]] damage on one side: (Example in parens.: Left optic nerve lesion)
+**The [[ipsilateral]] direct reflex is lost (Example: when the left eye is stimulated, neither pupil constricts, as no signals reach the brain from the left eye due to its damaged optic nerve)
+**The ipsilateral consensual reflex is INTACT (because light shone into the right eye can signal to the brain, causing constriction of both pupils via the normal oculomotor nerves)
+**The contralateral direct reflex is intact (because light shone into the right eye can signal to the brain, causing constriction of both pupils via the normal oculomotor nerves)
+**The contralateral consensual reflex is lost  (because light shone into the eye on the damaged side cannot signal to the brain; therefore, despite the right eye's motor pathway (oculomotor nerve) being intact, no signals from the left eye are able to stimulate it due to the damage to the sensory pathway (optic nerve) of the left eye)
+
+*[[Oculomotor nerve]] damage on one side: (Example in parens: Left oculomotor lesion)
+**The ipsilateral direct reflex is lost (Example: when the left eye is stimulated, only the right pupil constricts)
+**The ipsilateral consensual reflex is lost (Example: when the right eye is stimulated, only the right pupil constricts)
+**The contralateral direct reflex is intact (because light shone into both eyes can still signal to the brain, and the pupil on the undamaged side will still be able to constrict via its normal oculomotor nerve)
+**The contralateral consensual reflex is intact (because light shone into the left eye can still signal to the brain via the normal optic nerve, causing attempted constriction of both pupils; the contralateral pupil constricts via its normal oculomotor nerve, but the ipsilateral pupil is unable to constrict due to its damaged oculomotor nerve)
+
+==See also==
+*[[Pupil]]
+*[[Pupillary response]]
+*[[Slit lamp]]
+
+==References==
+{{reflist|1}}
+
+==External links==
+*[http://library.med.utah.edu/kw/hyperbrain/anim/reflex.html Animation of pupillary light reflex]
+*{{MeshName|Reflex,+Pupillary}}
+*[http://cim.ucdavis.edu/EyeRelease/Interface/TopFrame.htm A pupil examination simulator], demonstrating the changes in pupil reactions for various nerve lesions.
+
+{{Reflex}}
+{{Visual system}}
+
+{{DEFAULTSORT:Pupillary Light Reflex}}
+[[Category:Ophthalmology]]
+[[Category:Reflexes]]

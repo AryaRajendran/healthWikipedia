@@ -1,0 +1,181 @@
+The '''artificial pancreas''' is a technology in development to help people with [[diabetes]] automatically control their [[blood glucose level]] by providing the substitute [[endocrine]] functionality of a healthy [[pancreas]].  
+
+There are several important exocrine (digestive) and endocrine (hormonal) functions of the pancreas, but it is the lack of [[insulin]] production which is the motivation to develop a substitute.  While the current state of insulin replacement therapy is appreciated for      its life-saving capability, the task of manually managing the blood sugar level with insulin alone is arduous and inadequate.  
+
+The goal of the artificial pancreas is two-fold:
+#to improve insulin replacement therapy until glycemic control is practically normal as evident by the avoidance of the [[Diabetes mellitus#Prognosis|complications]] of hyperglycemia, and
+# to ease the burden of therapy for the insulin-dependent.
+
+Different approaches under consideration include:
+* the [[medical equipment]] approach—using an [[insulin pump]] under [[control theory|closed loop control]] using real-time data from a [[blood glucose monitoring|continuous blood glucose sensor]].
+* the [[bioengineering]] approach—the development of a bio-artificial pancreas consisting of a [[biocompatible material|biocompatible]] sheet of [[:wikt:encapsulate|encapsulated]] [[beta cells]].  When surgically implanted,  the islet sheet will behave as the endocrine pancreas and will be viable for years.
+* the [[gene therapy]] approach—the therapeutic infection of a diabetic person by a genetically engineered virus which causes a [[DNA]] change of intestinal cells to become insulin-producing cells.
+
+==Background in endocrine physiology==
+[[Image:Gray533.png|thumb|right|300px|The [[pancreas]] (below the stomach and above the duodenum) releases [[endocrine]] hormones ([[insulin]], [[amylin]], and [[glucagon]]) into the portal vein, where it flows directly to the [[liver]].]]
+{{main|pancreas}}
+The pancreas produces three hormones that are important to [[glycemic control]]:
+*[[insulin]], which lowers blood glucose;
+*[[amylin]], which slows digestion and slows the rate of glucose entering the bloodstream, and temporarily suppresses release of glucagon;
+*and [[glucagon]], which raises the blood glucose.
+
+Upon digestion of carbohydrates, glucose levels in the blood will begin to rise.  As the blood and glucose flow into the pancreas, insulin and amylin are cosecreted by the pancreatic [[Islets of Langerhans|beta cells]] directly into the bloodstream in response to elevated blood glucose levels. In the presence of glucose these insulin responses are almost exclusively delivered in boluses every 4 to 6 minutes. Insulin causes blood glucose to be removed from the bloodstream and stored in the liver and muscle cells. As the blood sugar goes higher, additional insulin will bring the blood sugar back down in a classic negative feedback loop.  As insulin is released from the beta cells, amylin is also released into the bloodstream.  Amylin slows gastric emptying, and also inhibits the release of glucagon from the pancreatic alpha cells.  The effect of amylin is to spread out the blood glucose peak after eating, reducing the quantity of insulin needed.  As the blood sugar level comes back toward normal, the beta cells will stop spurting insulin and amylin.  As the glucose level approaches a low mark, the pancreatic [[Islets of Langerhans|alpha cells]] will release glucagon directly into the bloodstream.  Glucagon causes the liver to release stored glucose back into the bloodstream.  Increased glucagon will increase blood glucose levels to produce a positive error in the negative feedback loop.  Together, the three endocrine hormones work as a system to maintain the blood glucose level between high and low boundaries. By delivering the insulin in boluses as presented by a non-diabetic pancreas, the goal of an artificial pancreas can be achieved. 
+
+When the beta cell produces insulin from [[proinsulin]], a connecting peptide (or [[C-peptide]]) is also manufactured and released into the bloodstream.  Absence of C-peptide in the blood indicates that insulin has not been released from the pancreas, and this fact confirms the diagnosis of diabetes type 1.  C-peptide was believed to be only a by-product of natural insulin production, however recent studies suggest that C-peptide exerts beneficial therapeutic effects on diabetic nociceptive neuropathy.<ref>[http://diabetes.diabetesjournals.org/cgi/content/abstract/55/12/3581 C-Peptide Reverses Nociceptive Neuropathy in Type 1 Diabetes - Kamiya et al. 55 (12): 3581 - Diabetes<!-- Bot generated title -->]</ref>  
+
+Ideally, to replicate the natural function of the pancreas as closely as possible, an artificial pancreas might someday replace all of the beneficial endocrine functions lost, including the delivery of insulin, amylin, glucagon, and C-peptide.
+
+==Background in insulin therapy==
+[[Image:insulin pump with infusion set.jpg|thumb|right|300px|The [[Insulin pump]] is used to automatically deliver [[Basal (medicine)|basal]] [[insulin]] continuously, and [[Bolus (medicine)|bolus]] insulin at meal times by pressing the buttons. Before meals, a [[blood glucose monitoring|blood glucose value]] is entered into the pump to calculate the correction bolus to bring the blood glucose level back to the target value.]]
+{{main|intensive insulinotherapy|insulin pump}}
+In insulin-dependent persons, blood glucose levels have been roughly controlled using insulin alone.  The number of grams of carbohydrate is estimated by measuring foods, and the measurement is used to determine the amount of insulin necessary to ''cover'' the meal.  The calculation is based on a simple ''open-loop model'': an insulin to carbohydrate ratio (adjusted based on past success) is multiplied by the grams of carbohydrate to calculate the units of insulin needed.  That quantity of insulin is then adjusted based on a pre-meal blood glucose measurement (insulin bolus increased for a high blood sugar or insulin bolus delayed and reduced for a low blood sugar).  Insulin is injected or infused under the skin, and enters the bloodstream in approximately 15 minutes.  After the insulin has acted in the bloodstream, the blood glucose level can be tested again and then adjusted with injection of more insulin, or eating more carbohydrates, until balance is restored. Assuming the design requirement is to truly mimic normal pancreatic delivery of insulin to the liver in order to achieve proper hepatic stimulation, and to cause normal insulin induced functions, until another system is available to deliver portal vein concentrations of insulin, an intravenous infusion device will be needed.
+
+There are notable differences with insulin replacement compared to the function of pancreatic insulin delivery:
+#the insulin dose is predicted based on measured food (where accuracy of measured carbohydrate is difficult) whereas pancreatic insulin is released in proportional response to actual blood glucose levels;
+#pancreatic insulin is released into to the portal vein, where it flows almost directly to the liver, which is the major organ for storing glycogen (50% of insulin produced is used by the liver);
+#pancreatic insulin is [[pulsatile insulin|pulsatile]] which helps maintain the insulin sensitivity of hepatic tissues;
+#injected insulin is delivered subcutaneously (under the skin) but not directly to the bloodstream, so there is a delay before injected insulin begins to reduce blood glucose (although this can be compensated by injecting insulin 15 minutes before eating);
+#insulin which is not delivered intravenously cannot achieve normal momentary concentrations in the portal vein which connects the pancreas to the liver;
+#replacement insulin therapy does not include amylin (although [[Symlin]] is now available for use), which can reduce the insulin need by 50%;
+#replacement insulin is dosed as a best compromise between aggressive use for lowering the blood sugar when eating but also conservative use to avoid a post-prandial low blood sugar due to excess insulin, whereas pancreatic function releases insulin aggressively and later includes automatic release of glucagon at the end of an insulin cycle to manage the blood sugar level and avoid hypoglycemia.
+
+An [[insulin pump]] to infuse a [[insulin analog#Non hexameric insulins|rapid-acting insulin]] is the first step in simulating the function of the pancreas.  The pump can accurately deliver small increments of insulin compared to an injection, and its electronic controls permit [[insulin pump#Dosing|shaping]] a [[Bolus (medicine)|bolus]] over time to match the insulin profile required for a given situation.  The insulin pump is controlled by the pump user to bolus manually based on a recent blood glucose measurement and an estimate of the grams of carbohydrate consumed.  This predictive approach is said to be ''open-loop.''  Once a bolus has been calculated and delivered, the pump continues to deliver its basal rate insulin in the manner that has been programmed into the pump controls based on the predicted insulin requirements of its user.
+
+While insulin replacement is appreciated as a life saving therapy, its practical use in controlling blood glucose levels sufficiently to avoid the [[diabetes mellitus#Complications|long term complications]] associated with hyperglycemia is not ideal. Also, it is generally agreed that even with very tight glucose control, there are a significant number of patients who go on to develop all of the life impacting complications of diabetes. Thus, the goal of the Artificial Pancreas should be to normalize carbohydrate and lipid metabolism at a minimum.
+
+==Approaches to an Artificial Pancreas==
+
+===Bioengineering approach===
+[[Image:Bio-artificial pancreas with Islet Sheet technology.JPG|thumb|right|300px|'''The Bio-artificial pancreas''': this diagram shows a cross section of [[tissue engineering|bio-engineered tissue]] with encapsulated [[islets of Langerhans|islet cells]] which deliver [[endocrine]] [[pancreas#Function|hormones]] in response to [[glucose]].]] 
+
+A biological approach to the artificial pancreas is to implant [[tissue engineering|bioengineered tissue]] containing [[islets of Langerhans|islet cells]], which would secrete the amount of insulin, amylin, and glucagon needed in response to sensed glucose.  
+
+When islet cells have been transplanted via the [[Edmonton protocol]], insulin production (and glycemic control) was restored at the expense of [[immunosuppression]].  [[Micro-encapsulation|Encapsulation]] of the islet cells in a protective coating has been developed to block the immune response to transplanted cells, which relieves the burden of immunosuppression and benefits the longevity of the transplant.<ref>[http://www.isletmedical.com/pages/define_methods.htm Cerco Medical: Science: Methods<!-- Bot generated title -->]</ref>  
+
+One concept of the bio-artificial pancreas uses encapsulated islet cells to build an ''islet sheet'' which can be surgically implanted to function as an artificial pancreas.<ref>[http://www.isletmedical.com/pages/company_research.htm Cerco Medical: Company: Islet Sheet Research<!-- Bot generated title -->]</ref> 
+
+This islet sheet design consists of:
+*an inner mesh of fibers to provide strength for the islet sheet;
+*islet cells, encapsulated to avoid triggering a proliferating immune response, adhered to the mesh fibers;
+*a [[semi-permeable membrane|semi-permeable]] protective layer around the sheet, to allow the [[diffusion]] of nutrients and secreted hormones;
+*a protective coating, to prevent a foreign body response resulting in a fibrotic reaction which walls off the sheet and causes failure of the islet cells.
+
+Islet sheet research is pressing forward with large animal studies at the present, with plans for human clinical trials within a few years.
+
+===Gene therapy approach===
+[[Image:Gene therapy.jpg|right|thumb|300px|[[Gene therapy]]: Designing a [[viral vector]] to deliberately infect cells with [[DNA]] to carry on the viral production of [[insulin]] in response to the blood sugar level.]] 
+
+Technology for [[gene therapy]] is advancing rapidly such that there are multiple pathways possible to support endocrine function, with potential to practically cure diabetes.<ref>[http://www.niddk.nih.gov/fund/reports/gene_therapy_summ.htm Gene Therapy Approaches to Diabetes<!-- Bot generated title -->]</ref>
+*Gene therapy can be used to '''manufacture insulin directly''':  an oral medication, consisting of viral vectors containing the insulin sequence, is digested and delivers its genes to the upper intestines.  Those intestinal cells will then behave like any viral infected cell, and will reproduce the insulin protein.  The virus can be controlled to infect only the cells which respond to the presence of glucose, such that insulin is produced only in the presence of high glucose levels.  Due to the limited numbers of vectors delivered, very few intestinal cells would actually be impacted and would die off naturally in a few days.  Therefore by varying the amount of oral medication used, the amount of insulin created by gene therapy can be increased or decreased as needed.  As the insulin-producing intestinal cells die off, they are boosted by additional oral medications.<ref>[http://www.liebertonline.com/doi/pdf/10.1089/dia.2005.7.549?cookieSet=1 Mary Ann Liebert, Inc. - Cookie absent<!-- Bot generated title -->]</ref>
+*Gene therapy might eventually be used to '''cure the cause of beta cell destruction''', thereby curing the new diabetes patient before the beta cell destruction is complete and irreversible.<ref>http://www.hopkinsbayview.org/healthcarenews06/060605diabetes.html</ref>
+*Gene therapy can be used to '''turn duodenum cells and duodenum adult stem cells into beta cells''' which produce insulin and amylin naturally.  By delivering beta cell DNA to the intestine cells in the duodenum, a few intestine cells will turn into beta cells, and subsequently adult stem cells will develop into beta cells.  This makes the supply of beta cells in the duodenum self replenishing, and the beta cells will produce insulin in proportional response to carbohydrates consumed.<ref>[http://www.engeneinc.com/ Engene Inc<!-- Bot generated title -->]</ref>
+
+===Medical equipment approach===
+
+====Development of Continuous Blood Glucose Monitoring====
+{{main|blood glucose monitoring}}
+
+Technology for continuous blood glucose monitoring supports the mission of the artificial pancreas by:
+#automatically providing a blood glucose reading every few minutes without finger sticks from the user,
+#monitoring trends pertaining to rising and falling blood sugars, which is helpful in the prediction of blood glucose levels in the immediate future,
+#comparing blood sugar levels and predictions against a high blood sugar threshold, and then prompting the user that a correction bolus from an insulin pump is needed immediately,
+#comparing blood sugar levels and predictions against a low blood sugar threshold, and then prompting the user to reduce the basal insulin from the pump or to eat something.
+
+These capabilities suggest that a stream of real-time data can be used to "close the loop" and control the insulin pump directly.
+
+Some issues with the present performance of continuous sensing technology suggest that additional  study is needed for application to the artificial pancreas:
+#continuous sensors require calibration a few times a day, by performing a manual blood glucose test with a finger stick, and then entering the blood glucose data into the continuous system for a sensor correction,
+#continuous sensors are measuring interstitial glucose, so there is a time delay between the sensor data and the true blood glucose,
+#automatic control removes the intellect of the user, which can be an additional safeguard when the data is subject to error and must be verified before taking action.
+
+As the state of the art for blood glucose monitoring continues to advance, so does the promise of the artificial pancreas.
+
+====Feedback of real-time blood glucose data to an insulin pump for basal control====
+[[Image:Artificial Pancreas.jpg|thumb|right|400px|The [[medical equipment]] approach to an artificial pancreas: automatic control of an [[insulin pump]] with [[control theory|feedback]] from a [[blood glucose monitoring|continuous blood glucose sensor]].]]
+The first step in controlling an insulin pump based on continuous blood glucose data is to automatically control the [[basal rate]] of the insulin pump.  When a bolus has not recently been performed, the pump can manage the blood glucose level by adjusting the basal rate as needed:
+*when the blood sugar is increasing, a small correction bolus can be automatically delivered and a higher basal rate can be set;
+*when the blood sugar is decreasing, the basal rate can be halted to deny the quantity of insulin needed to bring the blood glucose level back up until the basal rate can be continued at a new lower rate;
+*and with [[adaptive filtering]] techniques, the pump can "learn" the unique basal rates for the person as a function of the time of day.
+
+When controlling the basal rate alone, the closed loop can still correct a meal [[Bolus (medicine)|bolus]] error that was too large or small for the food consumed by:
+*recognizing an imbalance between the bolus "insulin on board" and the level of blood glucose,
+*automatically bolusing to correct a shortage of insulin,
+*automatically reducing or interrupting the basal rate to correct an abundance of insulin,
+*and using adaptive filtering techniques to "learn" the carbohydrate to insulin ratios for each meal bolus.
+
+====First clinical tests: implantable insulin pumps and continuous glucose sensors====
+In France, a human clinical trial of an artificial pancreas is underway.  The system is fully automated by combining Medtronic MiniMed's long-term glucose sensor and its implantable insulin pump.<ref>[http://www.medicinenet.com/script/main/art.asp?articlekey=52386 Artificial Pancreas Information on MedicineNet.com<!-- Bot generated title -->]</ref> 
+A summary of the project shows promise as well as some present limitations:
+*The implantable sensor is inserted into a neck vein leading to the heart.
+*The sensor is connected, via an electrical-type wire under the skin, to the implantable insulin pump: as blood sugar levels fluctuate, a signal tells the pump how much insulin to deliver.
+*The sensor accurately measured glucose in 95% of cases when compared with values obtained by fingersticks.
+*The blood glucose levels were maintained in the normal range more than 50% of the time in the patients using the pump connected to the sensor.
+*Events of hypoglycemia dropped to less than 5%.
+*While implantable insulin pumps work for an average of eight years before they have to be changed, the sensors stop working after an average of nine months,
+*The mathematical programs that calculate just how much insulin should be delivered at different parts of the day also needs to be refined.
+
+====Insulin and amylin combination====
+{{main|amylin|pramlintide}}
+When '''pramlintide''' (brand name Symlin or synthetic amylin) is used in combination with [[insulin]], the benefits for post-prandial glycemic control are substantial.<ref>[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?itool=abstractplus&db=pubmed&cmd=Retrieve&dopt=abstractplus&list_uids=15498087 Amylin replacement with pramlintide as an adjunct ...[Diabet Med. 2004&#93; - PubMed Result<!-- Bot generated title -->]</ref>  
+
+Pramlintide is a relatively new treatment for diabetes.  The treatment involves:
+* a separate injection of pramlintide before a meal,
+* a reduction in insulin bolus by 50% for that meal.<ref>[http://www.symlin.com SYMLIN.com - Home<!-- Bot generated title -->]</ref>
+
+Pramlintide can be infused using an insulin pump.  At the present time, the mixing of pramlintide and insulin in the same cartridge is not an approved practice, so two infusion pumps are used simultaneously.  Since insulin and amylin are co-secreted by the pancreatic beta cells in response to raising blood glucose levels, using pramlintide and insulin together more closely duplicates the function of the pancreas.  
+
+Symlin has potential to support the artificial pancreas project because:
+* Insulin and pramlintide may in the future be automatically infused together
+**at a mixture from a single automatic insulin pump, or
+**two infusion pumps could be used automatically with the insulin pump acting as master and the simlin pump acting as slave, or
+**a dual system in one pump machine (two cartridges, a dual infusion set tube, and two subcutaneous insertions);
+* because it improves post prandial glycemic excursions relative to insulin alone, this supports the possible use of an automatic bolus with less impact due to the delay of the insulin bolus;
+* and because it simply duplicates the natural pancreas function, the full benefits of which are not fully understood.
+
+====Feedback of real-time blood glucose data to an insulin pump for bolus control====
+The ability of the electronic controls of the infusion pump, particularly in the [[insulin pump#Dosing|bolus shaping capability]], suggests that the control algorithm may replicate the function of the healthy pancreas in a more copycat fashion.  At present, the insulin bolus is a predictive dose based on what is about to be eaten, and then infused completely.  Even with the benefit of the closed-loop control of the basal insulin, the standard bolus is still a "guess and then fix it later" approach.  Compare to the pancreatic physiology, where insulin and amylin are released from the beta cells in pulses almost directly to the liver in response to the immediate blood glucose level. The natural release from the beta cells is a closed loop response to sensed glucose, and the shape of the insulin delivery is adaptable and appropriate to the food eaten and the body's present metabolic capability. 
+
+As technology for continuous blood glucose monitoring improves, the integrated components will support a typical application of [[control theory]] by employing the [[PID controller|proportional, integral, and derivative control algorithm.]]<ref>http://www.journalofdst.org/pdf/REVIEW/VOL-1-1-REV1-KLONOFF.pdf</ref>  This will make it feasible to infuse an ''adaptive bolus'' that changes its shape and integral dose based on the measured performance of the bolus in progress, depending on:
+:* '''the rate of glucose increase''' (i.e the derivative function would deliver more insulin for a rapid increase in blood sugar);
+:* '''the peak of the glucose curve''' (i.e. the proportional function would deliver more insulin for a higher peak in the blood sugar); and
+:* '''the duration of elevated glucose''' (i.e. the integral function would deliver more insulin for a long duration of high blood sugar).
+
+The adaptive bolus could start with an assumption of a typical proportions and a bolus shape like the [[insulin pump#Dosing|''combination bolus'']].  This could include:
+# a prebolus of pramlintide (optional perhaps, but resolves issue with insulin timing)
+# initiation of a combination bolus with the initial spike sized in proportion to the present blood glucose level and trends in the change of blood glucose level,
+# modification to the square wave portion of the bolus, increasing or extending if blood sugar is increasing, and decreasing or limiting in duration when blood sugar is decreasing.
+
+The benefits of an automatic bolus delivery might include:
+* increased accuracy in the total insulin delivered relative to what was needed,
+* freedom to the user of the artificial pancreas,
+* elimination of glycemic excursions due to user error (such as forgetting to bolus in conventional pump therapy),
+* adaptability to changes in digestion of carbohydrates based on food choices,
+* adaptability to variable metabolic needs due to stress, illness, or exercise.
+
+====Glucagon combination====
+The purpose of [[glucagon]] is to raise blood sugar, primarily by promoting release of stored glucose in the liver.  Human glucagon has been synthesized by [[recombinant DNA technology]] and is available in a dry powder form in the [[glucagon rescue]] kit.  Glucagon injection pens are also sometimes provided to diabetics in the UK along with insulin.  This is useful for rescue of unconscious diabetics from a severe state of hypoglycemia.<ref>[http://pi.lilly.com/glucagon-patient.pdf 4<!-- Bot generated title -->]</ref> 
+
+In healthy pancreatic function, glucagon production is initially suppressed by beta cell production of insulin and amylin when blood sugar is high, and then is later produced by low or falling blood sugar.  The natural pancreatic function uses glucagon at the end of an insulin cycle to release glucose from the liver, with two advantages:
+#to prevent low blood sugar, and
+#to speed the overall insulin action by cancelling the insulin tail.<ref>[http://arbl.cvmbs.colostate.edu/hbooks/pathphys/endocrine/pancreas/glucagon.html Glucagon<!-- Bot generated title -->]</ref>
+If an artificial pancreas was to simulate the natural endocrine pancreas to the maximum extent, then insulin and amylin would be used at the beginning of an insulin cycle and glucagon would be used at the end of the insulin cycle. Research with diabetic pigs given insulin-glucagon combination via separate subcutaneous infusion pumps demonstrated closed loop control without incidence of hypoglycemia.<ref>[http://www.jdrf.org/files/General_Files/Research_ENews/Frontline%203-07.pdf "Glucagon May Add Another Dimension to Artificial Pancreas", ''JDRF Research Frontline'', March 2007, pp 1-2.]</ref>  While the copycat endocrine function including glucagon seems desirable, the benefits relative to the cost and complexity of an artificial pancreas without glucagon are not yet known.
+
+==Initiatives around the globe==
+In the United States in 2006, [http://www.jdrf.org JDRF] (formerly the Juvenile Diabetes Research Foundation) launched a multi-year initiative to help accelerate the availability of an artificial pancreas to people with diabetes.<ref>[http://www.jdrf.org/artificialpancreas Artificial Pancreas Project : JDRF<!-- Bot generated title -->]</ref> The overall goal of the Artificial Pancreas Project is to accelerate the development, regulatory approval, and acceptance of continuous glucose monitoring and artificial pancreas technology in the shortest possible timeframe.  The long term goal is for broad patient access and a thriving competitive market for these devices and products.
+
+JDRF's role in quickening the development and availability of the Artificial Pancreas consists of funding research in order to look over the outcomes of patients using the Artificial Pancreas, keeping close contact with the Food and Drug Administration so that the standards of the patient are met, advocating for health care coverage of technologies such as the Artificial Pancreas and working to ensure clinical acceptance of technologies such as the Artificial Pancreas. In 2011, JDRF strongly urged the FDA before Congress and in a petition to issue clear and reasonable guidance for an artificial pancreas by December 2011.
+
+United Kingdom charity [[Diabetes UK]] funded research projects aimed at further developing and testing an artificial pancreas device on adult patients with [[type 1 diabetes]].
+
+Several companies are working on clinical acceptance, including Medtronic Diabetes (MiniMed), Johnson & Johnson (Animas) and Insulet.  These companies have semi-automated closed-loop systems that check the glucose level using a CGM(Continuous Glucose Monitor), ask the user to confirm the reading with a blood glucose meter and finally suggest amounts of insulin delivery. Some companies are also involved in potentially adding a glucagon pump to these systems in an effort to avoid hypoglycemia.  One such company, called Pancreum, has recently won an award for its artificial pancreas design.<ref>[http://www.diabetesmine.com/2011/06/grand-prize-winner-pancreum-a-small-modular-artificial-pancreas.html Pancreum - 2011 DiabetesMine Design Challenge Winner]</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Insulin therapies]]
+[[Category:Biomedical engineering]]
+[[Category:Biological engineering]]
+[[Category:Implants]]
+[[Category:Diabetes]]
+[[Category:Prosthetics]]
+[[Category:Artificial organs]]

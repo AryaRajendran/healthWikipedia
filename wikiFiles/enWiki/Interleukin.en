@@ -1,0 +1,216 @@
+'''Interleukins''' are a group of [[cytokine]]s (secreted [[proteins]]/[[signaling molecules]]) that were first seen to be expressed by [[white blood cell]]s ([[leukocyte]]s).<ref>{{cite journal|last=Brocker|first=C|coauthors=Thompson, D; Matsumoto, A; Nebert, DW; Vasiliou, V|title=Evolutionary divergence and functions of the human interleukin (IL) gene family.|journal=Human Genomics|year=2010|month=Oct|volume=5|issue=1|pages=30–55|pmid=21106488|url=http://www.humgenomics.com/content/5/1/30}}</ref>   The term ''interleukin'' derives from (''inter-'') "as a means of communication", and (''-leukin'') "deriving from the fact that many of these proteins are produced by leukocytes and act on leukocytes". The name is something of a relic, though (the term was coined by Dr. Vern Paetkau, [[University of Victoria]]); it has since been found that interleukins are produced by a wide variety of body cells. The function of the [[immune system]] depends in a large part on ''interleukins'', and [[rare disease|rare]] deficiencies of a number of them have been described, all featuring [[autoimmune disease]]s or [[immune deficiency]]. The majority of interleukins are synthesized by helper CD4 T lymphocytes, as well as through monocytes, macrophages, and endothelial cells. They promote the development and differentiation of T, B, and hematopoietic cells.
+
+Interleukin receptors on [[astrocytes]] in the [[hippocampus]] are also known to be involved in the development of spatial memories in mice.<ref>{{cite journal|last=Ben Menachem-Zidon|first=Ofra|coauthors=Avi Avital, Yair Ben-Menahem, Inbal Goshen, Tirzah Kreisel, Eli M. Shmueli, Menahem Segal, Tamir Ben Hur, Raz Yirmiya|title=Astrocytes support hippocampal-dependent memory and long-term potentiation via interleukin-1 signaling|journal=Brain, Behaviour, and Immunity|date=17|year=2010|month=November|volume=25|pages=1008–1016}}</ref>
+
+==Common families of interleukins==
+
+===Interleukin 1===
+{{Pfam_box 
+| Symbol = IL1 
+| Name = Interleukin 1 / 18 
+| image = 3LTQ.pdb.png
+| width = 
+| caption = Crystallographic structure of human interleukin 1B.<ref name="pmid21182275">{{PDB|3LTQ}}; {{cite journal | author = Barthelmes K, Reynolds AM, Peisach E, Jonker HR, DeNunzio NJ, Allen KN, Imperiali B, Schwalbe H | title = Engineering encodable lanthanide-binding tags into loop regions of proteins | journal = J. Am. Chem. Soc. | volume = 133 | issue = 4 | pages = 808–19 | year = 2011 | month = February | pmid = 21182275 | doi = 10.1021/ja104983t | pmc = 3043167 }}</ref>
+| Pfam= PF00340
+| InterPro= IPR000975
+| SMART= SM00125
+| Prosite = PDOC00226
+| SCOP = 1i1b
+| TCDB = 
+| OPM family= 
+| OPM protein= 
+}} 
+
+Interleukin 1 alpha and interleukin 1 beta ([[IL1A|IL-1 alpha]] and [[IL1B|IL-1 beta]]) are cytokines that participate in the regulation of immune responses, inflammatory reactions, and hematopoiesis.<ref name="pmid2969618">{{cite journal | author = Sims JE, March CJ, Cosman D, Widmer MB, MacDonald HR, McMahan CJ, Grubin CE, Wignall JM, Jackson JL, Call SM | title = cDNA expression cloning of the IL-1 receptor, a member of the immunoglobulin superfamily | journal = Science | volume = 241 | issue = 4865 | pages = 585–9 | year = 1988 | month = July | pmid = 2969618 | doi = 10.1126/science.2969618 }}</ref> Two types of IL-1 receptor, each with three extracellular immunoglobulin (Ig)-like domains, limited sequence similarity (28%) and different pharmacological characteristics have been cloned from mouse and human cell lines: these have been termed type I and type II receptors.<ref name="pmid8702856">{{cite journal | author = Liu C, Hart RP, Liu XJ, Clevenger W, Maki RA, De Souza EB | title = Cloning and characterization of an alternatively processed human type II interleukin-1 receptor mRNA | journal = J. Biol. Chem. | volume = 271 | issue = 34 | pages = 20965–72 | year = 1996 | month = August | pmid = 8702856 | doi = 10.1074/jbc.271.34.20965 }}</ref> The receptors both exist in transmembrane (TM) and soluble forms: the soluble IL-1 receptor is thought to be post-translationally derived from cleavage of the extracellular portion of the membrane receptors.
+
+Both IL-1 receptors ([[Interleukin 1 receptor, type I|CD121a/IL1R1]], [[Interleukin 1 receptor, type II|CD121b/IL1R2]]) appear to be well conserved in evolution, and map to the same chromosomal location.<ref name="pmid1833184">{{cite journal | author = McMahan CJ, Slack JL, Mosley B, Cosman D, Lupton SD, Brunton LL, Grubin CE, Wignall JM, Jenkins NA, Brannan CI | title = A novel IL-1 receptor, cloned from B cells by mammalian expression, is expressed in many cell types | journal = EMBO J. | volume = 10 | issue = 10 | pages = 2821–32 | year = 1991 | month = October | pmid = 1833184 | pmc = 452992 | doi = | url = }}</ref> The receptors can both bind all three forms of IL-1 (IL-1 alpha, IL-1 beta and [[Interleukin 1 receptor antagonist|IL-1RA]]).
+
+The crystal structures of IL1A and IL1B<ref name="pmid2602367">{{cite journal | author = Priestle JP, Schär HP, Grütter MG | title = Crystallographic refinement of interleukin 1 beta at 2.0 A resolution | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 86 | issue = 24 | pages = 9667–71 | year = 1989 | month = December | pmid = 2602367 | pmc = 298562 | doi = 10.1073/pnas.86.24.9667 }}</ref> have been solved, showing them to share the same 12-stranded beta-sheet structure as both the heparin binding growth factors and the Kunitz-type soybean trypsin inhibitors.<ref name="pmid1738162">{{cite journal | author = Murzin AG, Lesk AM, Chothia C | title = beta-Trefoil fold. Patterns of structure and sequence in the Kunitz inhibitors interleukins-1 beta and 1 alpha and fibroblast growth factors | journal = J. Mol. Biol. | volume = 223 | issue = 2 | pages = 531–43 | year = 1992 | month = January | pmid = 1738162 | doi = 10.1016/0022-2836(92)90668-A }}</ref> The beta-sheets are arranged in 3 similar lobes around a central axis, 6 strands forming an anti-parallel beta-barrel. Several regions, especially the loop between strands 4 and 5, have been implicated in receptor binding.
+
+Molecular cloning of the Interleukin 1 Beta converting enzyme is generated by the proteolytic cleavage of an inactive precursor molecule. A complementary DNA encoding protease that carries out this cleavage has been cloned. Recombinant expression enables cells to process precursor Interleukin 1 Beta to the mature form of the enzyme.
+
+Interleukin 1 also plays a role in the [[Central Nervous System]]. Research indicates that mice with a genetic deletion of the IL-1 receptor type I display markedly impaired hippocampal-dependent memory functioning and [[Long-term potentiation]], although memories that do not depend on the integrity of the [[hippocampus]] seem to be spared.<ref name="pmid21093580">{{cite journal | author = Ben Menachem-Zidon O, Avital A, Ben-Menahem Y, Goshen I, Kreisel T, Shmueli EM, Segal M, Ben Hur T, Yirmiya R | title = Astrocytes support hippocampal-dependent memory and long-term potentiation via interleukin-1 signaling | journal = Brain Behav. Immun. | volume = 25 | issue = 5 | pages = 1008–16 | year = 2011 | month = July | pmid = 21093580 | doi = 10.1016/j.bbi.2010.11.007 }}</ref><ref name="pmid14620878">{{cite journal | author = Avital A, Goshen I, Kamsler A, Segal M, Iverfeldt K, Richter-Levin G, Yirmiya R | title = Impaired interleukin-1 signaling is associated with deficits in hippocampal memory processes and neural plasticity | journal = Hippocampus | volume = 13 | issue = 7 | pages = 826–34 | year = 2003 | pmid = 14620878 | doi = 10.1002/hipo.10135 }}</ref>  However when mice with this genetic deletion have wild-type [[Neurogenesis|neural precursor cells]]  injected into their [[hippocampus]] and these cells are allowed to mature into [[astrocytes]] containing the interleukin-1 receptor, the mice exhibit normal hippocampal-dependent memory function, and partial restoration of [[Long-term potentiation]].<ref name="pmid21093580" />
+
+===Interleukin 2===
+{{Pfam box |Symbol = Interleukin-2 |Name = Interleukin 2 |Pfam = PF00715 |InterPro = IPR000779 |SMART = SM00189 |PROSITE = PDOC00349 |PDB = {{PDB|1irl}} {{PDB|1m47}} {{PDB|1m48}} {{PDB|1m49}} {{PDB|1m4a}} {{PDB|1m4b}} {{PDB|1m4c}} {{PDB|1nbp}} {{PDB|1pw6}} {{PDB|1py2}} }}
+
+T-Lymphocytes regulate the growth and differentiation of T cells and certain B cells through the release of secreted protein factors.<ref name="PUB00004612">{{cite journal |doi=10.1073/pnas.82.1.68 |author=Arai K, Yokota T, Arai N, Lee F, Rennick D, Mosmann T |title=Use of a cDNA expression vector for isolation of mouse interleukin 2 cDNA clones: expression of T-cell growth-factor activity after transfection of monkey cells |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=82 |issue=1 |pages=68–72 |year=1985 |pmid=3918306 |pmc=396972}}</ref> These factors, which include [[interleukin 2]] (IL2), are secreted by lectin- or antigen-stimulated T-cells, and have various physiological effects. IL2 is a lymphokine that induces the proliferation of responsive T-cells. In addition, it acts on some B-cells, via receptor-specific binding,<ref name="PUB00004618">{{cite journal |doi=10.1073/pnas.83.10.3223 |author=Gillis S, Cerretti DP, McKereghan K, Larsen A, Cantrell MA, Anderson D, Cosman D, Baker PE |title=Cloning, sequence, and expression of bovine interleukin 2 |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=83 |issue=10 |pages=3223–3227 |year=1986 |pmid=3517854 |pmc=323485}}</ref> as a growth factor and antibody production stimulant.<ref name="PUB00000368">{{cite journal |doi=10.1021/bi00148a040 |author=Driscoll PC, Campbell ID, Mott HR, Boyd J, Cooke RM, Weir MP |title=Secondary structure of human interleukin 2 from 3D heteronuclear NMR experiments |journal=Biochemistry |volume=31 |issue=33 |pages=7741–7744 |year=1992 |pmid=1510960}}</ref> The protein is secreted as a single glycosylated polypeptide, and cleavage of a signal sequence is required for its activity.<ref name="PUB00004618" /> Solution NMR suggests that the structure of IL2 comprises a bundle of 4 helices (termed A-D), flanked by 2 shorter helices and several poorly-defined loops. Residues in helix A, and in the loop region between helices A and B, are important for receptor binding. Secondary structure analysis has suggested similarity to IL4 and granulocyte-macrophage colony stimulating factor (GMCSF).<ref name="PUB00000368" />
+
+===Interleukin 3===
+{{Pfam box |Symbol = Interleukin_3 |Name = Interleukin 3 |Pfam = PF02059 |InterPro = IPR002183 |PROSITE =  |PDB = {{PDB|1jli}} }}
+
+[[Interleukin 3]] (IL3) is a cytokine that regulates blood-cell production by controlling the production, differentiation and function of granulocytes and macrophages.<ref name="PUB00001758">{{cite journal |author=Dorssers L, Burger H, Bot F, Delwel R, Lowenberg B, Wagemaker G, Geurts van Kessel AH |title=Characterization of a human multilineage-colony-stimulating factor cDNA clone identified by a conserved noncoding sequence in mouse interleukin-3 |journal=Gene |volume=55 |issue=1 |pages=115–124 |year=1987 |pmid=3497843 |doi=10.1016/0378-1119(87)90254-X}}</ref><ref name="PUB00003991">{{cite journal |doi=10.1038/317255a0 |author=Ymer S, Tucker WQ, Sanderson CJ, Campbell HD, Young IG, Hapel AJ |title=Constitutive synthesis of interleukin-3 by leukaemia cell line WEHI-3B is due to retroviral insertion near the gene |journal=Nature |volume=317 |issue=6034 |pages=255–258 |year=1985 |pmid=2413359}}</ref> The protein, which exists in vivo as a monomer, is produced in activated T-cells and mast cells,<ref name="PUB00001758" /><ref name="PUB00003991" /> and is activated by the cleavage of an N-terminal signal sequence.<ref name="PUB00003991"/>
+
+IL3 is produced by T-lymphocytes and T-lymphomas only after stimulation with antigens, mitogens, or chemical activators such as phorbol esters. However, IL3 is constitutively expressed in the myelomonocytic leukaemia cell line WEHI-3B.<ref name="PUB00003991" /> It is thought that the genetic change of the cell line to constitutive production of IL3 is the key event in development of this leukaemia.<ref name="PUB00003991"/>
+
+===Interleukin 4===
+{{Pfam box |Symbol = Interleukin_4 |Name = Interleukin 4 |Pfam = PF02059 |InterPro = IPR002183 |PROSITE =  |PDB = {{PDB|1jli}} }}
+[[Interleukin 4]] (IL4) is produced by CD4 T cells specialized in providing help to B cells to proliferate and to undergo class switch recombination and somatic hypermutation. TH2 cells, through production of IL-4, have an important function in B-cell responses that involve class switch recombination to the IgG1 and IgE isotypes.
+
+===Interleukin 5===
+{{Pfam box |Symbol = Interleukin_5 |Name = Interleukin 5 |Pfam = PF02025 |InterPro = IPR000186 |PROSITE =  |PDB = {{PDB|1hul}} }}
+[[Interleukin 5]] (IL5), also known as eosinophil differentiation factor (EDF), is a lineage-specific cytokine for eosinophilpoiesis.<ref name="PUB00004643">{{cite journal |doi=10.1073/pnas.84.19.6629 |author=Tucker WQ, Sanderson CJ, Campbell HD, Young IG, Hort Y, Martinson ME, Mayo G, Clutterbuck EJ |title=Molecular cloning, nucleotide sequence, and expression of the gene encoding human eosinophil differentiation factor (interleukin 5) |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=84 |issue=19 |pages=6629–6633 |year=1987 |pmid=3498940 |pmc=299136}}</ref><ref name="PUB00004146">{{cite journal |author=Proudfoot AE, Wells TN, Milburn MV, Hassell AM, Lambert MH, Jordan SR, Graber P |title=A novel dimer configuration revealed by the crystal structure at 2.4 A resolution of human interleukin-5 |journal=Nature |volume=363 |issue=6425 |pages=172–176 |year=1993 |pmid=8483502 |doi=10.1038/363172a0}}</ref> It regulates eosinophil growth and activation,<ref name="PUB00004643" /> and thus plays an important role in diseases associated with increased levels of eosinophils, including asthma.<ref name="PUB00004146" /> IL5 has a similar overall fold to other cytokines (e.g., IL2, IL4 and GCSF),<ref name="PUB00004146"/> but while these exist as monomeric structures, IL5 is a homodimer. The fold contains an anti-parallel 4-alpha-helix bundle with a left handed twist, connected by a 2-stranded anti-parallel beta-sheet.<ref name="PUB00004146" /><ref name="PUB00001613">{{cite journal |doi=10.1016/0014-5793(91)80553-F |author=Proudfoot AE, Turcatti G, Davies JG, Wingfield PT |title=Human interleukin-5 expressed in Escherichia coli: assignment of the disulfide bridges of the purified unglycosylated protein |journal=FEBS Lett. |volume=283 |issue=1 |pages=61–64 |year=1991 |pmid=2037074}}</ref> The monomers are held together by 2 interchain disulphide bonds.<ref name="PUB00001613" />
+
+===Interleukin 6===
+{{Pfam box |Symbol = IL6_MGF_GCSF |Name = Interleukin 6/G-CSF/MGF |Pfam = PF00489 |InterPro = IPR003573 |SMART = SM00126 |PROSITE = PDOC00227 |PDB = {{PDB|1alu}} {{PDB|1bgc}} {{PDB|1bgd}} {{PDB|1bge}} {{PDB|1cd9}} {{PDB|1i1r}} {{PDB|1il6}} {{PDB|1p9m}} {{PDB|1pgr}} {{PDB|1rhg}} }}
+
+[[Interleukin 6]] (IL6), also referred to as B-cell stimulatory factor-2 (BSF-2) and interferon beta-2, is a cytokine involved in a wide variety of biological functions.<ref name="PUB00003997">{{cite journal |author=Hirano T, Harada H, Nakajima K, Iwamatsu A, Yasukawa K, Taga T, Watanabe Y, Matsuda T, Kashiwamura S, Koyama K |title=Complementary DNA for a novel human interleukin (BSF-2) that induces B lymphocytes to produce immunoglobulin |journal=Nature |volume=324 |issue=6092 |pages=73–76 |year=1986 |pmid=3491322 |doi=10.1038/324073a0}}</ref> It plays an essential role in the final differentiation of B-cells into IG-secreting cells, as well as inducing myeloma/plasmacytoma growth, nerve cell differentiation, and, in hepatocytes, acute-phase reactants.<ref name="PUB00003997" /><ref name="PUB00001608">{{cite journal |doi=10.1016/0014-5793(91)80491-K |author=Heinrich PC, Rose-John S, Lutticken C, Kruttgen A, Moller C |title=Evidence for the importance of a positive charge and an alpha-helical structure of the C-terminus for biological activity of human IL-6 |journal=FEBS Lett. |volume=282 |issue=2 |pages=265–267 |year=1991 |pmid=2037043}}</ref>
+
+A number of other cytokines may be grouped with IL6 on the basis of sequence similarity.<ref name="PUB00003997"/><ref name="PUB00001608" /><ref name="PUB00000150">{{cite journal |doi=10.1016/0003-9861(89)90205-1 |author=Clogston CL, Boone TC, Crandall BC, Mendiaz EA, Lu HS |title=Disulfide structures of human interleukin-6 are similar to those of human granulocyte colony stimulating factor |journal=Arch. Biochem. Biophys. |volume=272 |issue=1 |pages=144–151 |year=1989 |pmid=2472117}}</ref> These include granulocyte colony-stimulating factor (GCSF) and myelomonocytic growth factor (MGF). GCSF acts in hematopoiesis by affecting the production, differentiation, and function of 2 related white cell groups in the blood.<ref name="PUB00000150" /> MGF also acts in hematopoiesis, stimulating proliferation and colony formation of normal and transformed avian cells of the myeloid lineage.
+
+Cytokines of the IL6/GCSF/MGF family are glycoproteins of about 170 to 180 amino acid residues that contains four conserved cysteine residues involved in two disulphide bonds:.<ref name="PUB00000150"/> They have a compact, globular fold (similar to other interleukins), stabilised by the 2 disulphide bonds. One half of the structure is dominated by a 4-alpha-helix bundle with a left-handed twist;<ref name="PUB00002742">{{cite journal |author=Cook WJ, Bugg CE, Walter MR, Ealick SE, Zhao BG, Reichert P, Nagabhushan TL, Trotta PP, Cameron Jr RP, Walter Jr RL |title=Crystal structure of recombinant human interleukin-4 |journal=J. Biol. Chem. |volume=267 |issue=28 |pages=20371–20376 |year=1992 |pmid=1400355}}</ref> the helices are anti-parallel, with 2 overhand connections, which fall into a 2-stranded anti-parallel beta-sheet. The fourth alpha-helix is important to the biological activity of the molecule.<ref name="PUB00001608"/>
+
+===Interleukins 7 and 9===
+{{Pfam box |Symbol = Interleukin_7_9 |Name = Interleukin 7/interleukin 9 |Pfam = PF01415 |InterPro = IPR000226 |PROSITE = PDOC00228 |PDB = }}
+
+[[Interleukin 7]] (IL-7)<ref name="PUB00002018">{{cite journal |doi=10.1016/0167-5699(89)90175-8 |author=Henney CS |title=Interleukin 7: effects on early events in lymphopoiesis |journal=Immunol. Today |volume=10 |issue=5 |pages=170–173 |year=1989 |pmid=2663018}}</ref> is a cytokine that serves as a growth factor for early lymphoid cells of both B- and T-cell lineages. [[Interleukin 9]] (IL-9)<ref name="PUB00003177">{{cite journal |author=Renauld JC, Goethals A, Houssiau F, Merz H, Van Roost E, Van Snick J |title=Human P40/IL-9. Expression in activated CD4+ T cells, genomic organization, and comparison with the mouse gene |journal=J. Immunol. |volume=144 |issue=11 |pages=4235–4241 |year=1990 |pmid=1971295}}</ref> is a cytokine that supports IL-2 independent and IL-4 independent growth of helper T-cells. Interleukin 7 and 9 seems to be evolutionary related.<ref name="PUB00015241">{{cite journal |doi=10.1016/0960-9822(93)90002-6 |author=Paul WE, Boulay JL |title=Hematopoietin sub-family classification based on size, gene organization and sequence homology |journal=Curr. Biol. |volume=3 |issue=9 |pages=573–581 |year=1993 |pmid=15335670}}</ref>
+
+===Interleukin 8===
+''See separate article [[Interleukin 8]]''
+
+===Interleukin 10===
+{{Pfam box |Symbol = Interleukin_10 |Name = Interleukin 10 |Pfam = PF00726 |InterPro = IPR000098 |SMART = SM00188 |PROSITE = PDOC00450 |PDB = {{PDB|1ilk}} {{PDB|1inr}} {{PDB|1j7v}} {{PDB|1lk3}} {{PDB|1lqs}} {{PDB|1m4r}} {{PDB|1n1f}} {{PDB|1vlk}} {{PDB|1ykb}} {{PDB|2ilk}} }}
+[[Interleukin 10]] (IL-10) is a protein that inhibits the synthesis of a number of cytokines, including IFN-gamma, IL-2, IL-3, TNF, and GM-CSF produced by activated macrophages and by helper T cells. In structure, IL-10 is a protein of about 160 amino acids that contains four conserved cysteines involved in disulphide bonds.<ref name="PUB00005262">{{cite journal |author=Wlodawer A, Zdanov A, Schalk-Hihi C, Gustchina A, Tsang M, Weatherbee J |title=Crystal structure of interleukin 10 reveals the functional dimer with an unexpected topological similarity to interferon gamma |journal=Structure |volume=3 |issue=6 |pages=591–601 |year=1995 |pmid=8590020 |doi=10.1016/S0969-2126(01)00193-9}}</ref> IL-10 is highly similar to the ''[[Human herpesvirus 4]]'' (Epstein-Barr virus) BCRF1 protein, which inhibits the synthesis of gamma-interferon and to ''[[Equid herpesvirus 2]]'' (Equine herpesvirus 2) protein E7. It is also similar, but to a lesser degree, with human protein mda-7.<ref name="PUB00004497">{{cite journal |author=Jiang H, Lin JJ, Goldstein NI, Fisher PB, Su ZZ |title=Subtraction hybridization identifies a novel melanoma differentiation associated gene, mda-7, modulated during human melanoma differentiation, growth and progression |journal=Oncogene |volume=11 |issue=12 |pages=2477–2486 |year=1995 |pmid=8545104}}</ref> a protein that has antiproliferative properties in human melanoma cells. Mda-7 contains only two of the four cysteines of IL-10.
+
+===Interleukin 11===
+{{Pfam box |Symbol = IL11 |Name = Interleukin 11 |Pfam = PF07400 |InterPro = IPR010873 |PROSITE =  |PDB = }}
+[[Interleukin 11]] (IL-11) is a secreted protein that stimulates megakaryocytopoiesis, resulting in increased production of platelets, as well as activating osteoclasts, inhibiting epithelial cell proliferation and apoptosis, and inhibiting macrophage mediator production. These functions may be particularly important in mediating the hematopoietic, osseous and mucosal protective effects of interleukin 11.<ref name="PUB00013131">{{cite journal |doi=10.1016/S1357-2725(97)00017-4 |author=Leng SX, Elias JA |title=Interleukin-11 |journal=Int. J. Biochem. Cell Biol. |volume=29 |issue=8–9 |pages=1059–1062 |year=1997 |pmid=9416001}}</ref> Family members seem to be restricted to mammals.
+
+===Interleukin 12===
+{{Pfam box |Symbol = IL12 |Name = Interleukin 12 alpha subunit |Pfam = PF03039 |InterPro = IPR004281 |PROSITE =  |PDB = {{PDB|1f45}} }}
+
+[[Interleukin 12]] (IL-12) is a disulphide-bonded heterodimer consisting of a 35kDa alpha subunit and a 40kDa beta subunit. It is involved in the stimulation and maintenance of Th1 cellular immune responses, including the normal host defence against various intracellular pathogens, such as Leishmania, Toxoplasma, ''[[Measles virus]]'', and ''[[Human immunodeficiency virus 1]]'' (HIV). IL-12 also has an important role in pathological Th1 responses, such as in inflammatory bowel disease and multiple sclerosis. Suppression of IL-12 activity in such diseases may have therapeutic benefit. On the other hand, administration of recombinant IL-12 may have therapeutic benefit in conditions associated with pathological Th2 responses.<ref name="PUB00007461">{{cite journal |doi=10.1046/j.1365-3083.2001.00917.x |author=Park AY, Scott P |title=Il-12: keeping cell-mediated immunity alive |journal=Scand. J. Immunol. |volume=53 |issue=6 |pages=529–532 |year=2001 |pmid=11422900}}</ref><ref name="PUB00007462">{{cite journal |author=Presky DH, Gately MK, Gubler U, Renzetti LM, Magram J, Stern AS, Adorini L |title=The interleukin-12/interleukin-12-receptor system: role in normal and pathologic immune responses |journal=Annu. Rev. Immunol. |volume=16 |issue= |pages=495–521 |year=1998 |pmid=9597139 |doi=10.1146/annurev.immunol.16.1.495}}</ref>
+
+===Interleukin 13===
+{{Pfam box |Symbol = Interleukin_13 |Name = Interleukin 13 |Pfam = PF03487 |InterPro = IPR003634 |PROSITE =  |PDB = {{PDB|1ga3}} {{PDB|1ijz}} {{PDB|1ik0}} }}
+
+[[Interleukin 13]] (IL-13) is a pleiotropic cytokine that may be important in the regulation of the inflammatory and immune responses.<ref name="PUB00004143">{{cite journal |author=Minty A, Chalon P, Dumont X, Kaghad M, Labit C, Leplatois P, Liauzun P, Miloux B, Derocq JM, Guillemot JC |title=Interleukin-13 is a new human lymphokine regulating inflammatory and immune responses |journal=Nature |volume=362 |issue=6417 |pages=248–250 |year=1993 |pmid=8096327 |doi=10.1038/362248a0}}</ref> It inhibits inflammatory cytokine production and synergises with IL-2 in regulating interferon-gamma synthesis. The sequences of IL-4 and IL-13 are distantly related.
+
+===Interleukin 15===
+{{Pfam box |Symbol = Interleukin_15 |Name = Interleukin 15 |Pfam = PF02372 |InterPro = IPR003443 |PROSITE =  |PDB = }}
+
+[[Interleukin 15]] (IL-15) is a cytokine that possesses a variety of biological functions, including stimulation and maintenance of cellular immune responses.<ref name="PUB00009488">{{cite journal |author=Arena A, Merendino RA, Bonina L, Iannello D, Stassi G, Mastroeni P |title=Role of IL-15 on monocytic resistance to human herpesvirus 6 infection |journal=New Microbiol. |volume=23 |issue=2 |pages=105–112 |year=2000 |pmid=10872679}}</ref> IL-15 stimulates the proliferation of T-lymphocytes, which requires interaction of IL-15 with components of IL-2R, including IL-2R beta and probably IL-2R gamma, but not IL-2R alpha.
+
+===Interleukin 17===
+{{Pfam box |Symbol = IL17 |Name = Interleukin 17 |Pfam = PF06083 |InterPro = IPR010345 |PROSITE =  |PDB = {{PDB|1jpy}} }}
+
+[[Interleukin 17]] (IL-17) is a potent proinflammatory cytokine produced by activated memory T cells.<ref name="PUB00012254">{{cite journal |author=Gurney AL, Aggarwal S |title=IL-17: prototype member of an emerging cytokine family |journal=J. Leukoc. Biol. |volume=71 |issue=1 |pages=1–8 |year=2002 |pmid=11781375}}</ref> The IL-17 family is thought to represent a distinct signalling system that appears to have been highly conserved across vertebrate evolution.<ref name="PUB00012254" />
+
+==List of human interleukins==
+A list of ''interleukins'':
+{| class="wikitable"
+| '''Name''' || '''Source''' <ref name=Immunology68Unless>Unless else specified in boxes, then ref is: Lippincott's Illustrated Reviews: Immunology. Paperback: 384 pages. Publisher: Lippincott Williams & Wilkins; (July 1, 2007). Language: English. ISBN 0-7817-9543-5. ISBN 978-0-7817-9543-2. Page 68</ref> || '''Target receptors'''<ref name=Immunology68Unless/><ref name="title">{{cite web | url = http://www.ebioscience.com/ebioscience/whatsnew/pdf/Cytokines.pdf | title = Cytokines - Master Regulators of the Immune System | accessdate = 2008-02-28 | author = Noosheen Alaverdi & David Sehy | authorlink = | coauthors = | date = 2007-05-01 | work = | publisher = eBioscience | pages = | language = | archiveurl = | archivedate = | quote = }}</ref>  || '''Target cells'''<ref name=Immunology68Unless/> ||  '''Function'''<ref name=Immunology68Unless/> 
+ |- 
+ |rowspan=4| [[Interleukin 1|IL-1]] ||rowspan=4| [[macrophage]]s, [[B cell]]s, [[monocytes]],<ref name=arizona>[http://microvet.arizona.edu/Courses/MIC419/Tutorials/cytokines.html Cytokine tutorial, The University of Arizona]</ref> [[dendritic cell]]s <ref name=arizona/> ||rowspan=4| [[Interleukin 1 receptor, type I|CD121a/IL1R1]], [[Interleukin 1 receptor, type II|CD121b/IL1R2]]  || [[T helper cell]]s || co-stimulation <ref name=arizona/> 
+|-
+| [[B cell]]s|| maturation & proliferation <ref name=arizona/> 
+|-
+| [[Natural killer cell|NK cells]] || activation<ref name=arizona/> 
+|-
+| [[macrophage]]s, [[endothelium]], other || [[inflammation]],<ref name=arizona/> small amounts induce [[acute phase protein|acute phase reaction]], large amounts induce [[fever]]
+ |- 
+ | [[Interleukin 2|IL-2]] || [[T helper cell|Th1-cells]] || [[IL2RA|CD25/IL2RA]], [[IL2RB|CD122/IL2RB]], [[IL2RG|CD132/IL2RG]] || activated<ref name=arizona/> [[T cell]]s and [[B cell]]s, [[Natural killer cell|NK cells]], [[macrophage]]s, [[oligodendrocyte]]s || stimulates growth and differentiation of T cell response. Can be used in [[immunotherapy]] to treat cancer or suppressed for transplant patients. Has also been used in clinical trials (ESPIRIT. Stalwart) to raise CD4 counts in HIV positive patients.
+ |- 
+ |rowspan=2| [[Interleukin 3|IL-3]] ||rowspan=2| activated [[T helper cell]]s,<ref name=arizona/> [[mast cell]]s, [[Natural killer cell|NK cells]], [[endothelium]], [[Eosinophil granulocyte|eosinophils]] ||rowspan=2| [[IL3RA|CD123/IL3RA]], [[CSF2RB|CD131/IL3RB]] || [[hematopoietic stem cell]]s || differentiation and proliferation of myeloid progenitor cells <ref name=arizona/> to e.g. [[erythrocytes]], [[granulocytes]]
+|-
+| mast cells || growth and [[histamine]] release<ref name=arizona/> 
+|-
+ |rowspan=3| [[Interleukin 4|IL-4]] ||rowspan=3| [[Th2 cell]]s, just activated naive [[CD4+ cell]], [[memory CD4+ cells]], [[mast cell]]s, [[macrophage]]s ||rowspan=3| [[Interleukin-4 receptor|CD124/IL4R]], [[IL2RG|CD132/IL2RG]] || activated [[B cell]]s || proliferation and differentiation, [[IgG1]] and [[immunoglobulin E|IgE]] synthesis.<ref name=arizona/> Important role in [[allergic]] response ([[IgE]])
+|-
+| [[T cell]]s || proliferation<ref name=arizona/> 
+|-
+| [[endothelium]] ||
+ |- 
+ |rowspan=2| [[Interleukin 5|IL-5]] ||rowspan=2| [[Th2 cell]]s, [[mast cell]]s, [[Eosinophil granulocyte|eosinophils]] ||rowspan=2| [[Interleukin 5 receptor alpha subunit|CD125/IL5RA]], [[CSF2RB|CD131/IL3RB]] || [[Eosinophil granulocyte|eosinophils]] || production
+|-
+| [[B cell]]s || differentiation, [[IgA]] production
+ |- 
+ |rowspan=4| [[Interleukin 6|IL-6]] ||rowspan=4| [[macrophage]]s, [[Th2 cell]]s, [[B cell]]s, [[astrocytes]], [[endothelium]] ||rowspan=4| [[Interleukin-6 receptor|CD126/IL6RA]], [[Glycoprotein 130|CD130/IR6RB]] || activated [[B cell]]s || differentiation into [[plasma cell]]s
+|-
+| plasma cells || [[antibody]] secretion
+|-
+| [[hematopoietic stem cell]]s || differentiation
+|-
+| [[T cell]]s, others || induces [[acute phase protein|acute phase reaction]], [[hematopoiesis]], [[differentiation (cellular)|differentiation]], [[inflammation]]
+ |- 
+ | [[Interleukin 7|IL-7]] || [[Bone marrow stromal cells]] and [[thymus stromal cells]] || [[Interleukin-7 receptor|CD127/IL7RA]], [[Common gamma chain|CD132/IL2RG]] || [[pre-B cell|pre]]/[[pro-B cell]], [[pre-T cell|pre]]/[[pro-T cell]], NK cells || differentiation and proliferation of lymphoid progenitor cells, involved in B, T, and NK cell survival, development, and homeostasis, ↑[[proinflammatory]] cytokines 
+ |- 
+ | [[Interleukin 8|IL-8 or CXCL8]] || macrophages, [[lymphocytes]], [[epithelial cell]]s, endothelial cells || [[Interleukin 8 receptor, alpha|CXCR1/IL8RA]], [[Interleukin 8 receptor, beta|CXCR2/IL8RB]]/CD128  || [[Neutrophil granulocyte|neutrophils]], [[Basophil granulocyte|basophils]], lymphocytes || Neutrophil [[chemotaxis]]
+ |- 
+ | [[Interleukin 9|IL-9]] || [[Th2 cell]]s, specifically by CD4+ helper cells  || [[Interleukin-9 receptor|CD129/IL9R]] || [[T cell]]s, [[B cell]]s ||Potentiates [[immunoglobulin M|IgM]], [[immunoglobulin G|IgG]], [[immunoglobulin E|IgE]], stimulates [[mast cell]]s
+ |- 
+ |rowspan=5| [[Interleukin 10|IL-10]] ||rowspan=5| [[monocyte]]s, [[Th2 cell]]s, [[CD8+ T cells]], [[mast cell]]s, [[macrophage]]s, [[B cell]] subset ||rowspan=5| [[Interleukin 10 receptor, alpha subunit|CD210/IL10RA]], [[Interleukin 10 receptor, beta subunit|CDW210B/IL10RB]] || [[macrophage]]s || cytokine production<ref name=arizona/>
+|-
+| B cells || activation <ref name=arizona/>
+ |- 
+| [[mast cell]]s || 
+|-
+| [[Th1 cell]]s || inhibits [[T helper cell|Th1]] cytokine production ([[IFN-γ]], [[TNF-β]], [[interleukin 2|IL-2]])
+|-
+| [[Th2 cell]]s || Stimulation
+|-
+ | [[Interleukin 11|IL-11]] || [[bone marrow stroma]]  || [[Interleukin 11 receptor alpha subunit|IL11RA]] || [[bone marrow stroma]] || [[acute phase protein]] production, [[osteoclast]] formation
+ |- 
+ |rowspan=2| [[Interleukin 12|IL-12]] ||rowspan=2| [[dendritic cell]]s, [[B cell]]s, [[T cell]]s, [[macrophage]]s ||rowspan=2| [[Interleukin 12 receptor, beta 1 subunit|CD212/IL12RB1]], [[Interleukin 12 receptor, beta 2 subunit|IR12RB2]] || activated <ref name=arizona/> [[T cell]]s, || differentiation into [[Cytotoxic T cell]]s with IL-2,<ref name=arizona/> ↑ [[IFN-γ]], [[TNF-α]], ↓ IL-10
+|-
+| [[Natural killer cell|NK cells]] || ↑ [[IFN-γ]], [[TNF-α]]
+ |- 
+ | [[Interleukin 13|IL-13]] || activated [[Th2 cell]]s, [[mast cell]]s, [[Natural killer cell|NK cells]]  || [[Interleukin-13 receptor|IL13R]] || TH2-cells, B cells, macrophages || Stimulates growth and differentiation of [[B cell]]s ([[IgE]]), inhibits [[T helper cell|TH1-cells]] and the production of [[macrophage inflammatory cytokines]] (e.g. IL-1, IL-6), ↓ IL-8, IL-10, IL-12
+ |- 
+ | [[Interleukin 14|IL-14]] ||  T cells and certain malignant B cells  ||  || activated B cells ||  controls the growth and proliferation of [[B cell]]s, inhibits Ig secretion
+ |- 
+ | [[Interleukin 15|IL-15]] || mononuclear phagocytes (and some other cells), especially macrophages following infection by virus(es) || [[Interleukin 15 receptor, alpha subunit|IL15RA]] || T cells, activated B cells || Induces production of [[Natural killer cells]]
+ |- 
+ | [[Interleukin 16|IL-16]] || lymphocytes, epithelial cells, eosinophils, CD8+ T cells || [[CD4]] || CD4+ T cells (Th-cells)|| [[CD4]]+ chemoattractant
+ |- 
+ | [[Interleukin 17|IL-17]] || [[T helper 17 cell]]s (Th17)  || [[IL17RA|CDw217/IL17RA]], [[IL17RB]] || epithelium, endothelium, other || [[osteoclastogenesis]], [[angiogenesis]], ↑ inflammatory [[cytokines]]
+ |- 
+ | [[Interleukin 18|IL-18]] || macrophages  || [[Interleukin-18 receptor|CDw218a/IL18R1]] || Th1 cells, NK cells || Induces production of [[Interferon-gamma|IFNγ]], ↑ NK cell activity
+ |- 
+ | [[Interleukin 19|IL-19]] || - || [[Interleukin-20 receptor|IL20R]] ||  || -
+ |- 
+ | [[Interleukin 20|IL-20]] || Activated keratinocytes and monocytes  || [[Interleukin-20 receptor|IL20R]] ||  ||  regulates proliferation and differentiation of [[keratinocyte]]s
+ |- 
+ | [[Interleukin 21|IL-21]] || activated T helper cells, NKT cells  || [[Interleukin-21 receptor|IL21R]] || All lymphocytes, dendritic cells ||costimulates activation and proliferation of CD8+ T cells, augment NK cytotoxicity, augments CD40-driven B cell proliferation, differentiation and isotype switching, promotes differentiation of Th17 cells   
+ |- 
+ | [[Interleukin 22|IL-22]] || -  || [[Interleukin-22 receptor|IL22R]] ||  ||  Activates [[STAT1]] and [[STAT3]] and increases production of [[acute phase protein]]s such as [[serum amyloid A]], [[Alpha 1-antichymotrypsin]] and [[haptoglobin]] in [[hepatoma]] cell lines
+ |- 
+ | [[Interleukin 23|IL-23]] || -  || [[Interleukin-23 receptor|IL23R]] ||  ||  Increases [[angiogenesis]] but reduces [[CD8]] T-cell infiltration
+ |- 
+ | [[Interleukin 24|IL-24]] || -  || [[Interleukin-20 receptor|IL20R]]  ||  ||  Plays important roles in [[tumor suppression]], wound healing and [[psoriasis]] by influencing cell survival.
+ |- 
+ | [[Interleukin 25|IL-25]] || -  || [[LY6E]]  ||  ||  Induces the production [[Interleukin-4|IL-4]], [[Interleukin 5|IL-5]] and [[Interleukin 13|IL-13]], which stimulate [[eosinophil]] expansion
+ |- 
+ | [[Interleukin 26|IL-26]] || -  || [[Interleukin 20 receptor, alpha subunit|IL20R1]] ||  ||  Enhances secretion of [[Interleukin 10|IL-10]] and [[Interleukin 8|IL-8]] and cell surface expression of [[CD54]] on [[epithelial cell]]s
+ |- 
+ | [[Interleukin 27|IL-27]] || -  || [[Interleukin 27 receptor, alpha subunit|IL27RA]] ||  ||  Regulates the activity of [[B lymphocyte]] and [[T lymphocyte]]s
+ |- 
+ | [[Interleukin 28|IL-28]] || -  || [[Interleukin-28 receptor|IL28R]] ||  ||  Plays a role in immune defense against [[virus]]es
+ |- 
+ | [[Interleukin 29|IL-29]] || -  ||  ||  ||  Plays a role in host defenses against [[microbe]]s
+ |- 
+ | [[Interleukin 30|IL-30]] || -  ||  ||  ||  Forms one chain of [[IL-27]]
+ |- 
+ | [[Interleukin 31|IL-31]] || -  || [[IL31RA]] ||  ||  May play a role in [[inflammation]] of the [[skin]]
+ |- 
+ | [[Interleukin 32|IL-32]] || -  ||  ||  ||  Induces monocytes and macrophages to secrete [[TNF-α]], [[Interleukin 8|IL-8]] and [[CXCL2]]
+ |- 
+ | [[Interleukin 33|IL-33]] || -  ||  ||  ||  Induces [[helper T cell]]s to produce [[type 2 cytokine]]
+ |- 
+ | [[Interleukin 35|IL-35]] || [[regulatory T cell]]s ||  ||  ||  Suppression of T helper cell activation 
+ |- 
+ | [[Interleukin 36|IL-36]] || -  ||  ||  ||  Regulates [[Dendritic cell|DC]] and [[T cell]] responses
+ |- 
+|}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* [http://www.copewithcytokines.de/ Cytokines & Cells Online Pathfinder Encyclopedia]
+
+{{Cytokines}}
+
+{{InterPro content|IPR000779}}
+
+[[Category:Cytokines]]

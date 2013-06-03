@@ -1,0 +1,138 @@
+[[Image:Fc receptor schematic.svg|thumb|220px|right|Schematic diagram showing Fc receptor interaction with an antibody-coated microbial pathogen]]
+An '''Fc receptor''' is a protein found on the surface of certain cells - including [[B lymphocytes]], [[natural killer cell]]s, [[macrophage]]s, [[neutrophil]]s, and [[mast cell]]s - that contribute to the protective functions of the [[immune system]].
+Its name is derived from its binding specificity for a part of an ''[[antibody]]'' known as the ''[[Fragment crystallizable region|Fc (Fragment, crystallizable) region]]''. Fc receptors bind to antibodies that are attached to infected cells or invading [[pathogen]]s.  Their activity stimulates [[phagocyte|phagocytic]] or [[cytotoxicity|cytotoxic]] cells to destroy [[microbe]]s, or infected cells by ''antibody-mediated [[phagocytosis]]'' or ''[[antibody-dependent cell-mediated cytotoxicity]]''. Some [[virus]]es such as [[flavivirus]]es use Fc receptors to help them infect cells, by a mechanism known as ''[[Antibody dependent enhancement|antibody-dependent enhancement of infection]]''.<ref name="pmid14696331">{{cite journal |author=Anderson R |title=Manipulation of cell surface macromolecules by flaviviruses |journal=Adv. Virus Res. |volume=59 |issue= |pages=229–74 |year=2003 |pmid=14696331 |doi=10.1016/S0065-3527(03)59007-8}}</ref>
+
+==Classes of Fc receptor==
+There are several different types of Fc receptors (abbreviated FcR), which are classified based on the [[antibody#Isotypes|type of antibody]] that they recognize.  The Latin letter used to identify a type of antibody is converted into the corresponding Greek letter, which is placed after the 'Fc' part of the name.  For example, those that bind the most common class of antibody, [[immunoglobulin G|IgG]], are called ''Fc-gamma receptors'' (FcγR), those that bind [[Immunoglobulin A|IgA]] are called ''Fc-alpha receptors'' (FcαR) and those that bind [[IgE]] are called ''Fc-epsilon receptors'' (FcεR).  
+
+===Fc-gamma receptors===
+All of the Fcγ receptors (FcγR) belong to the [[immunoglobulin superfamily]] and are the most important Fc receptors for inducing [[phagocytosis]] of  [[opsonization|opsonized]] (coated) microbes.<ref name=fridman>{{cite journal |author=Fridman W |title=Fc receptors and immunoglobulin binding factors |journal=FASEB J |volume=5 |issue=12 |pages=2684–90 |year=1991 |pmid=1916092}}</ref> This family includes several members, FcγRI (CD64), FcγRIIA ([[CD32]]), FcγRIIB (CD32), FcγRIIIA (CD16a), FcγRIIIB (CD16b), which differ in their antibody [[Affinity (pharmacology)|affinities]] due to their different [[molecular]] [[structure]].<ref name=indik>{{cite journal |author=Indik Z, Park J, Hunter S, Schreiber A |title=The molecular dissection of Fc gamma receptor mediated phagocytosis |journal=Blood |volume=86 |issue=12 |pages=4389–99 |year=1995 |pmid=8541526}}</ref>  For instance, FcγRI binds to IgG more strongly than FcγRII or FcγRIII does. FcγRI also has an [[extracellular]] portion composed of three [[Structural domain|immunoglobulin (Ig)-like domains]], one more domain than FcγRII or FcγRIII has. This property allows activation of FcγRI by a sole IgG molecule (or [[monomer]]), while the latter two Fcγ receptors must bind multiple IgG molecules within an immune complex to be activated.<ref name=fridman/> 
+
+Another FcR is expressed on multiple cell types and is similar in structure to [[MHC class I]].  This receptor also binds IgG and is involved in preservation of this antibody.<ref>{{cite journal |author=Zhu X, Meng G, Dickinson B, Li X, Mizoguchi E, Miao L, Wang Y, Robert C, Wu B, Smith P, Lencer W, Blumberg R |title=MHC class I-related neonatal Fc receptor for IgG is functionally expressed in monocytes, intestinal macrophages, and dendritic cells |journal=J Immunol |volume=166 |issue=5 |pages=3266–76 |year=2001 |pmid=11207281 |pmc=2827247}}</ref> However, since this Fc receptor is also involved in transferring IgG from a mother either via the [[placenta]] to her [[fetus]] or in [[milk]] to her suckling [[infant]], it is called the ''[[neonatal]] Fc receptor'' ([[FcRn]]).<ref>{{cite journal |author=Firan M, Bawdon R, Radu C, Ober R, Eaken D, Antohe F, Ghetie V, Ward E |title=The MHC class I-related receptor, FcRn, plays an essential role in the maternofetal transfer of gamma-globulin in humans |journal=Int Immunol |volume=13 |issue=8 |pages=993–1002 |year=2001 |pmid=11470769 |doi=10.1093/intimm/13.8.993}}</ref><ref>{{cite journal |author=Simister N, Jacobowitz Israel E, Ahouse J, Story C |title=New functions of the MHC class I-related Fc receptor, FcRn |journal=Biochem Soc Trans |volume=25 |issue=2 |pages=481–6 |year=1997 |pmid=9191140}}</ref>  Recently, research suggested that this receptor plays a role in the homeostasis of IgG serum levels.
+
+===Fc-alpha receptors===
+Only one Fc receptor belongs to the FcαR subgroup, which is called FcαRI (or CD89).<ref name = otten>{{cite journal |author=Otten M, van Egmond M |title=The Fc receptor for IgA (FcalphaRI, CD89) |journal=Immunol Lett |volume=92 |issue=1–2 |pages=23–31 |year=2004 |pmid=15081523 |doi=10.1016/j.imlet.2003.11.018}}</ref>  FcαRI is found on the surface of [[neutrophil]]s, eosinophils, monocytes, some macrophages (including [[Kupffer cell]]s), and some [[dendritic cell]]s.<ref name=otten/> It is composed of two extracellular Ig-like domains, and is a member of both the ''[[immunoglobulin superfamily]]'' and the ''multi-chain immune recognition receptor'' (MIRR) family.<ref name=fridman/>  It signals by associating with two FcRγ signaling chains.<ref name=otten/> Another receptor can also bind IgA, although it has higher affinity for another antibody called [[IgM]].<ref>{{cite journal |author=Shibuya A, Honda S |title=Molecular and functional characteristics of the Fcalpha/muR, a novel Fc receptor for IgM and IgA |journal=Springer Semin Immunopathol |volume=28 |issue=4 |pages=377–82 |year=2006 |pmid=17061088 |doi=10.1007/s00281-006-0050-3}}</ref> This receptor is called the ''Fc-alpha/mu receptor'' (Fcα/μR) and is a type I [[transmembrane protein]]. With one Ig-like domain in its extracellular portion, this Fc receptor is also a member of the immunoglobulin superfamily.<ref>{{cite journal |author=Cho Y, Usui K, Honda S, Tahara-Hanaoka S, Shibuya K, Shibuya A |title=Molecular characteristics of IgA and IgM Fc binding to the Fcalpha/muR |journal=Biochem Biophys Res Commun |volume=345 |issue=1 |pages=474–8 |year=2006 |pmid=16681999 |doi=10.1016/j.bbrc.2006.04.084}}</ref>
+
+===Fc-epsilon receptors===
+Two types of FcεR are known:<ref name=fridman/> 
+* the high-affinity receptor [[FcεRI]] is a member of the immunoglobulin superfamily (it has two Ig-like domains). FcεRI is found on epidermal [[Langerhans cell]]s, eosinophils, mast cells and basophils.<ref>{{cite journal |author=Ochiai K, Wang B, Rieger A, Kilgus O, Maurer D, Födinger D, Kinet J, Stingl G, Tomioka H |title=A review on Fc epsilon RI on human epidermal Langerhans cells |journal=Int Arch Allergy Immunol |volume=104 Suppl 1 |issue=1 |pages=63–4 |year=1994 |pmid=8156009}}</ref><ref>{{cite journal |author=Prussin C, Metcalfe D |title=5. IgE, mast cells, basophils, and eosinophils |journal=J Allergy Clin Immunol |volume=117 |issue=2 Suppl Mini–Primer |pages=S450–6 |year=2006 |pmid=16455345 |doi=10.1016/j.jaci.2005.11.016}}</ref> As a result of its cellular distribution, this receptor plays a major role in controlling [[allergy|allergic responses]].  FcεRI is also expressed on [[antigen-presenting cell]]s, and controls the production of important immune mediators called [[cytokine]]s that promote [[inflammation]].<ref>{{cite journal |author=von Bubnoff D, Novak N, Kraft S, Bieber T |title=The central role of FcepsilonRI in allergy |journal=Clin Exp Dermatol |volume=28 |issue=2 |pages=184–7 |year=2003 |pmid=12653710 |doi=10.1046/j.1365-2230.2003.01209.x}}</ref> 
+
+* the low-affinity receptor FcεRII ([[CD23]]) is a [[C-type lectin]]. FcεRII has multiple functions as a membrane-bound or soluble receptor; it controls B cell growth and differentiation and blocks IgE-binding of eosinophils, monocytes, and basophils.<ref>{{cite journal |author=Kikutani H, Yokota A, Uchibayashi N, Yukawa K, Tanaka T, Sugiyama K, Barsumian E, Suemura M, Kishimoto T |title=Structure and function of Fc epsilon receptor II (Fc epsilon RII/CD23): a point of contact between the effector phase of allergy and B cell differentiation |journal=Ciba Found Symp |volume=147 |issue= |pages=23–31; discussion 31–5 |year= 1989|pmid=2695308}}</ref>
+
+===Summary table===
+{| class="wikitable" 
+| '''Receptor name'''||'''Principal antibody ligand'''||'''Affinity for ligand'''||'''Cell distribution'''||'''Effect following binding to antibody'''
+|-
+|'''FcγRI ([[CD64 (biology)|CD64]])''' 
+|| IgG1 and IgG3
+||High (Kd ~ 10<sup>−9</sup> M)
+||[[Macrophages]]<br>[[Neutrophils]]<br>[[Eosinophils]]<br>[[Dendritic cells]]
+||Phagocytosis<br>Cell activation<br>Activation of respiratory burst<br>Induction of microbe killing
+|-
+|'''FcγRIIA ([[CD32]])''' 
+|| IgG
+||Low (Kd > 10<sup>−7</sup> M)
+||Macrophages<br>Neutrophils<br>Eosinophils<br>[[Platelets]]<br>[[Langerhans cells]]
+|| Phagocytosis<br> [[Degranulation]] (eosinophils)
+|-
+|'''FcγRIIB1 (CD32)''' 
+|| IgG
+||Low (Kd > 10<sup>−7</sup> M)
+||[[B Cells]]<br>[[Mast cells]]
+|| No phagocytosis<br>Inhibition of cell activity
+|-
+|'''FcγRIIB2 (CD32)''' 
+|| IgG
+||Low (Kd > 10<sup>−7</sup> M)
+||Macrophages<br>Neutrophils<br>Eosinophils
+|| Phagocytosis<br>Inhibition of cell activity
+|-
+|'''FcγRIIIA ([[CD16a]])''' 
+|| IgG
+||Low (Kd > 10<sup>−6</sup> M)
+||[[NK cells]]<br>[[Macrophages]] (certain tissues)
+|| Induction of  [[antibody-dependent cell-mediated cytotoxicity]] (ADCC)<br>Induction of cytokine release by macrophages
+|-
+|'''FcγRIIIB ([[CD16b]])''' 
+|| IgG
+||Low (Kd > 10<sup>−6</sup> M)
+||Eosinophils<br>Macrophages<br>Neutrophils<br>Mast cells<br> [[Dendritic cell#Types of dendritic cells|Follicular dendritic cell]]s
+|| Induction of microbe killing
+|-
+|'''[[FcεRI]]''' 
+|| IgE
+||High (Kd ~ 10<sup>−10</sup> M)
+||Mast cells<br>Eosinophils<br>Basophils<br>Langerhans cells
+||Degranulation
+|-
+|'''FcεRII ([[CD23]])''' 
+|| IgE
+||Low (Kd > 10<sup>−7</sup> M)
+||B cells<br>Eosinophils<br>Langerhans cells
+|| Possible adhesion molecule
+|-
+|'''FcαRI ([[CD89]])''' 
+|| IgA
+||Low (Kd > 10<sup>−6</sup> M)
+||Monocytes<br>Macrophages<br>Neutrophils<br>Eosinophils
+|| Phagocytosis<br>Induction of microbe killing
+|-
+|'''[[Fcα/μR]]''' 
+|| IgA and IgM
+||High for IgM, Mid for IgA
+||B cells<br>[[Mesangial cell]]s<br>Macrophages
+|| [[Endocytosis]]<br>Induction of microbe killing
+|-
+|'''[[FcRn]]''' 
+|| IgG
+||
+||Monocytes<br>Macrophages<br>[[Dendritic cell]]s<br>[[Epithelial cell]]s<br>[[Endothelial cell]]s<br>[[Hepatocyte]]s<br>
+|| Transfers IgG from a mother to fetus through the placenta<br>Transfers IgG from a mother to infant in milk<br>Protects IgG from degradation
+|}
+
+==Functions of Fc receptors==
+[[File:2fab fc.svg|thumb|170px|left|An antibody has [[Fragment antigen-binding|Fab]] (fragment, antigen-binding) and Fc (fragment, crystallizable) regions. Fc receptors bind to the Fc region.]]
+Fc receptors are found on a number of cells in the immune system including [[phagocyte]]s like [[macrophage]]s and [[monocyte]]s, [[granulocyte]]s like [[neutrophil]]s and [[eosinophil]]s, and [[lymphocyte]]s of the [[innate immune system]] ([[natural killer cell]]s) or [[adaptive immune system]] (e.g., [[B cell]]s).<ref>{{cite journal |author=Selvaraj P, Fifadara N, Nagarajan S, Cimino A, Wang G |title=Functional regulation of human neutrophil Fc gamma receptors |journal=Immunol Res |volume=29 |issue=1–3 |pages=219–30 |year=2004 |pmid=15181284 |doi=10.1385/IR:29:1-3:219}}</ref><ref>{{cite journal |author=Sulica A, Chambers W, Manciulea M, Metes D, Corey S, Rabinowich H, Whiteside T, Herberman R |title=Divergent signal transduction pathways and effects on natural killer cell functions induced by interaction of Fc receptors with physiologic ligands or antireceptor antibodies |journal=Nat Immun |volume=14 |issue=3 |pages=123–33 |year=1995 |pmid=8832896}}</ref><ref>{{cite journal |author=Sarfati M, Fournier S, Wu C, Delespesse G |title=Expression, regulation and function of human Fc epsilon RII (CD23) antigen |journal=Immunol Res |volume=11 |issue=3–4 |pages=260–72 |year=1992 |pmid=1287120 |doi=10.1007/BF02919132}}</ref>
+They allow these cells to bind to antibodies that are attached to the surface of microbes or microbe infected cells, helping these cells to identify and eliminate [[microbial]] [[pathogens]].  The Fc receptors bind the antibodies at their [[Fc region]] (or tail), an interaction that activates the cell that possesses the Fc receptor.<ref>{{cite journal |author=Raghavan M, Bjorkman P |title=Fc receptors and their interactions with immunoglobulins |journal=Annu Rev Cell Dev Biol |volume=12 |issue= |pages=181–220 |year= 1996|pmid=8970726 |doi=10.1146/annurev.cellbio.12.1.181}}</ref> Activation of phagocytes is the most common function attributed to Fc receptors.  For example, macrophages begin to [[ingestion|ingest]] and kill an [[IgG]]-coated [[pathogen]] by [[phagocytosis]] following engagement of their Fcγ receptors.<ref name = swanson>{{cite journal |author=Swanson J, Hoppe A |title=The coordination of signaling during Fc receptor-mediated phagocytosis |journal=J Leukoc Biol |volume=76 |issue=6 |pages=1093–103 |year=2004 |pmid=15466916 |doi=10.1189/jlb.0804439}}</ref> Another process involving Fc receptors is called [[antibody-dependent cell-mediated cytotoxicity]] (ADCC). During ADCC, FcγRIII receptors on the surface of natural killer (NK) cells stimulate the NK cells to release cytotoxic molecules from their [[Granule (cell biology)|granule]]s to kill antibody-covered target cells.<ref>{{cite journal |author=Sun P |title=Structure and function of natural-killer-cell receptors |journal=Immunol Res |volume=27 |issue=2–3 |pages=539–48 |year=2003 |pmid=12857997 |doi=10.1385/IR:27:2-3:539}}</ref>
+FcεRI has a different function. FcεRI is the Fc receptor on [[granulocytes]], that is involved in [[allergic reactions]] and defense against parasitic [[infections]]. When an appropriate allergic antigen or parasite is present, the cross-linking of a least two of [[IgE]] molecules and their Fc receptors on the surface of a granulocyte will trigger the cell to rapidly release preformed mediators from its granules.<ref name = fridman/>
+
+==Signaling mechanisms of Fc receptors==
+Fc gamma receptors generate signals within their cells through an important activation motif known as an ''[[Immunoreceptor tyrosine-based activation motif]]'' (ITAM).<ref>{{cite journal |author=Pan L, Pei P |title=Signaling transduction by IgG receptors |journal=Chin Med J (Engl) |volume=116 |issue=4 |pages=487–94 |year=2003 |pmid=12875708}}</ref>  An ITAM is a specific sequence of [[amino acid]]s (YXXL) occurring twice in close succession in the [[intracellular]] tail of a receptor. When [[phosphate]] groups are added to the [[tyrosine]] (Y) residue of the ITAM by [[enzyme]]s called [[tyrosine kinase]]s, a [[cell signaling|signaling cascade]] is generated within the cell.  This [[phosphorylation]] reaction typically follows interaction of an Fc receptor with its [[ligand]].  An ITAM is present in the intracellular tail of FcγRIIA, and its phosphorylation induces phagocytosis in macrophages.  FcγRI and FcγRIIIA do not have an ITAM but can transmit an activating signal to their phagocytes by interacting with another protein that does.  This [[adaptor protein]] is called the Fcγ subunit and, like FcγRIIA, contains the two YXXL sequences that are characteristic of an ITAM.  The presence of only one YXXL motif is not sufficient to activate cells, and represents a motif (I/VXXYXXL) known as an ''[[Immunoreceptor tyrosine-based inhibitory motif]]'' (ITIM).  FcγRIIB1 and FcγRIIB2 have an ITIM sequence and are inhibitory Fc receptors; they do not induce phagocytosis.  Inhibitory actions of these receptors are controlled by enzymes that remove phosphate groups from tyrosine residues; the [[phosphatase]]s [[SHP-1]] and [[SHIP-1]] inhibit signaling by Fcγ receptors.<ref>{{cite journal |author=Huang Z, Hunter S, Kim M, Indik Z, Schreiber A |title=The effect of phosphatases SHP-1 and SHIP-1 on signaling by the ITIM- and ITAM-containing Fcgamma receptors FcgammaRIIB and FcgammaRIIA |journal=J Leukoc Biol |volume=73 |issue=6 |pages=823–9 |year=2003 |pmid=12773515 |doi=10.1189/jlb.0902454}}</ref>
+
+==Cellular activation by Fc Receptors==
+[[Image:Fc receptor response.png|thumb|300px|right|Fc receptors recognize [[microbe]]s that have been bound by [[antibody|antibodies]]. The interaction between the bound antibodies and the cell surface Fc receptor activates the immune cell to kill the microbe. This example shows the [[phagocytosis]] of an [[opsonization|opsonized]] microbe.]]
+===Fc receptors on phagocytes===
+When [[IgG]] molecules, specific for a certain antigen or surface component, bind to the pathogen with their [[Fragment antigen binding|Fab region]] (fragment antigen binding region), their Fc regions point outwards, in direct reach of [[phagocyte]]s. Phagocytes bind those Fc regions with their Fc receptors.<ref name = swanson/> Many low affinity interactions are formed between receptor and antibody that work together to tightly bind the antibody-coated microbe. The low individual affinity prevents Fc receptors from binding antibodies in the absence of antigen, and therefore reduces the chance of immune cell activation in the absence of infection. This also prevents [[agglutination (biology)|agglutination]] (clotting) of [[phagocytes]] by antibody when there is no antigen. After a pathogen has been bound, interactions between the Fc region of the antibody and the Fc receptors of the phagocyte results in the initiation of [[phagocytosis]].  The pathogen becomes engulfed by the phagocyte by an active process involving the binding and releasing of the Fc region/Fc receptor complex, until the [[cell membrane]] of the phagocyte completely encloses the pathogen.<ref>{{cite journal |author=Joshi T, Butchar J, Tridandapani S |title=Fcgamma receptor signaling in phagocytes |journal=Int J Hematol |volume=84 |issue=3 |pages=210–6 |year=2006 |pmid=17050193 |doi=10.1532/IJH97.06140}}</ref>
+
+===Fc receptors on NK cells===
+The Fc receptor on NK cells recognize IgG that is bound to the surface of a pathogen-infected target cell and is called CD16 or FcγRIII.<ref>{{cite journal |author=Trinchieri G, Valiante N |title=Receptors for the Fc fragment of IgG on natural killer cells |journal=Nat Immun |volume=12 |issue=4–5 |pages=218–34 |year= 1993|pmid=8257828}}</ref> Activation of FcγRIII by IgG causes the release of [[cytokine]]s such as [[interferon type II|IFN-γ]] that signal to other immune cells, and cytotoxic mediators like [[perforin]] and [[granzyme]] that enter the target cell and promote cell death by triggering [[apoptosis]].  This process is known as [[Antibody-dependent cellular cytotoxicity|antibody-dependent cell-mediated cytotoxicity]] (ADCC). FcγRIII on NK cells can also associate with monomeric IgG (i.e., IgG that is not antigen-bound).  When this occurs, the Fc receptor inhibits the activity of the NK cell.<ref>{{cite journal |author=Sulica A, Galatiuc C, Manciulea M, Bancu A, DeLeo A, Whiteside T, Herberman R |title=Regulation of human natural cytotoxicity by IgG. IV. Association between binding of monomeric IgG to the Fc receptors on large granular lymphocytes and inhibition of natural killer (NK) cell activity |journal=Cell Immunol |volume=147 |issue=2 |pages=397–410 |year=1993 |pmid=8453679 |doi=10.1006/cimm.1993.1079}}</ref>
+
+===Fc receptors on mast cells===
+[[Image:Allergy degranulation processes 01.svg|thumb|300px|right|Activation of mast cell degranulation by IgE interaction with FcεRI. 1 = antigen; 2 = IgE; 3 = FcεRI; 4 = preformed mediators (histamine, proteases, chemokines, heparin); 5 = granules; 6 - mast cell; 7 - newly-formed mediators (prostaglandins, leukotrienes, thromboxanes, platelet-activating factor)]]
+[[IgE]] antibodies bind to [[antigen]]s of [[allergen]]s.  These allergen-bound IgE molecules interact with Fcε receptors on the surface of [[mast cell]]s.  Activation of mast cells following engagement of FcεRI results in a process called [[degranulation]], whereby the mast cell releases preformed molecules from its [[cytoplasm]]ic granules; these are a mixture of compounds including [[histamine]], [[proteoglycan]]s, and [[serine protease]]s.<ref>{{cite journal |author=Yamasaki S, Saito T |title=Regulation of mast cell activation through FcepsilonRI |journal=Chem Immunol Allergy |volume=87 |issue= |pages=22–31 |year= 2005|pmid=16107760 |doi=10.1159/000087568}}</ref>  Activated mast cells also synthesize and secrete [[lipid]]-derived mediators (such as [[prostaglandin]]s, [[leukotriene]]s, and [[platelet-activating factor]]) and cytokines (such as [[interleukin 1]], [[interleukin 3]], [[interleukin 4]], [[interleukin 5]], [[interleukin 6]], [[interleukin 13]], [[tumor necrosis factor-alpha]], [[GM-CSF]], and several [[chemokine]]s.<ref>{{cite journal |author=Wakahara S, Fujii Y, Nakao T, Tsuritani K, Hara T, Saito H, Ra C |title=Gene expression profiles for Fc epsilon RI, cytokines and chemokines upon Fc epsilon RI activation in human cultured mast cells derived from peripheral blood |journal=Cytokine |volume=16 |issue=4 |pages=143–52 |year=2001 |pmid=11792124 |doi=10.1006/cyto.2001.0958}}</ref><ref>{{cite journal |author=Metcalfe D, Baram D, Mekori Y |title=Mast cells |journal=Physiol Rev |volume=77 |issue=4 |pages=1033–79 |year=1997 |pmid=9354811}}</ref> These mediators contribute to [[inflammation]] by attracting other [[leukocyte]]s.
+
+===Fc receptors on eosinophils===
+Large parasites like the [[helminth]] (worm) [[Schistosoma|''Schistosoma mansoni'']] are too large for ingestion by phagocytes. They also have an external structure called an [[integument]] that is resistant to attack by substances released by macrophages and mast cells. However, these parasites can become coated with IgE and recognized by FcεRI on the surface of [[eosinophil]]s. Activated eosinophils release preformed mediators such as [[major basic protein]], and [[enzyme]]s such as [[peroxidase]], against which helminths are not resistant.<ref>{{cite journal |author=David J, Butterworth A, Vadas M |title=Mechanism of the interaction mediating killing of Schistosoma mansoni by human eosinophils |journal=Am J Trop Med Hyg |volume=29 |issue=5 |pages=842–8 |year=1980 |pmid=7435788}}</ref><ref>{{cite journal |author=Capron M, Soussi Gounni A, Morita M, Truong M, Prin L, Kinet J, Capron A |title=Eosinophils: from low- to high-affinity immunoglobulin E receptors |journal=Allergy |volume=50 |issue=25 Suppl |pages=20–3 |year=1995 |pmid=7677229 |doi=10.1111/j.1398-9995.1995.tb04270.x}}</ref> The interaction of the FcεRI receptor with the Fc portion of helminth bound IgE causes the eosinophil to release these molecules in a mechanism similar to that of the NK cell during ADCC.<ref>{{cite journal |author=Gounni A, Lamkhioued B, Ochiai K, Tanaka Y, Delaporte E, Capron A, Kinet J, Capron M |title=High-affinity IgE receptor on eosinophils is involved in defence against parasites |journal=Nature |volume=367 |issue=6459 |pages=183–6 |year=1994 |pmid=8114916 |doi=10.1038/367183a0}}</ref>
+
+==See also==
+* [[Fc receptor-like molecule]]
+
+==Further reading==
+* Immunobiology. 5th ed. Janeway, Charles A.; Travers, Paul; Walport, Mark; Shlomchik, Mark. New York and London: Garland Publishing; c2001. 
+
+* Cellular and molecular immunology / Abul K. Abbas, Andrew H. Lichtman ; illustrations by David L. Baker, Alexandra Baker. Philadelphia, PA : Elsevier Saunders, c2005 
+
+* Stimulatory and inhibitory signals originating from the macrophage Fcγ receptors. Jeffrey S. Gerber and David M. Mosser. Microbes Infect. 2001 Feb;3(2):131-9.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{MeshName|Fc+Receptor}}
+
+{{Immune receptors}}
+
+{{DEFAULTSORT:Fc Receptor}}
+[[Category:Medical research]]
+[[Category:Cell signaling]]
+[[Category:Immune system]]

@@ -1,0 +1,146 @@
+{{About|the chemical|the class of compounds used as ligands|metal phosphine complex|the visual phenomenon|phosphene}}
+{{Redirect|Phosphane|pentavalent organophosphorus compounds|phosphorane}}
+{{distinguish|phosphene|phosgene}}
+
+{{chembox
+| verifiedrevid = 464205019
+|   ImageName1 = Phosphine
+|   ImageFile1 = Monophosphan.svg 
+|   ImageSize1 = 170px
+|   ImageFileL1 = Phosphine-3D-balls.png 
+|   ImageSizeL1 = 121px
+|   ImageFileR1 =  Phosphine-underside-3D-vdW.png 
+|   ImageSizeL1 = 121px
+|   IUPACName = Phosphane
+|   OtherNames = Phosphamine<br/>Phosphorus trihydride<br/>Phosphorated hydrogen
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 22814
+| InChI = 1/H3P/h1H3
+| InChIKey = XYFCBTPGUUZFHI-UHFFFAOYAP
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 30278
+| SMILES = P
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/H3P/h1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XYFCBTPGUUZFHI-UHFFFAOYSA-N
+| CASNo = 7803-51-2
+|    CASNo_Ref = {{cascite|correct|CAS}}
+|   PubChem = 24404
+|   EINECS = 232-260-8
+|   UNNumber = 2199
+|   RTECS = SY7525000
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = PH<sub>3</sub>
+|   MolarMass = 33.99758 g/mol
+|   Appearance = colorless gas
+|   Density = 1.379 g/l, gas (25 °C)
+|   Solubility = 31.2 mg/100 ml (17 °C)
+|   MeltingPtC = -132.8
+|   BoilingPtC = -87.7
+|   Viscosity = 1.1 x 10<sup>−5</sup> Pa s
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = Trigonal pyramidal
+|   Dipole = 0.58 [[Debye|D]]
+  }}
+| Section4 = {{Chembox Thermochemistry
+|   DeltaHf = 5&nbsp;kJ·mol<sup>−1</sup><ref name=b1>{{cite book| author = Zumdahl, Steven S.|title =Chemical Principles 6th Ed.| publisher = Houghton Mifflin Company| year = 2009| isbn = 0-618-94690-X|page=A22}}</ref>
+|   Entropy = 210&nbsp;J·mol<sup>−1</sup>·K<sup>−1</sup><ref name=b1/>
+ }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://www.inchem.org/documents/icsc/icsc/eics0694.htm ICSC 0694]
+|   EUIndex = 015-181-00-1
+|   EUClass = Highly flammable ('''F+''')<br/>Very toxic ('''T+''')<br/>Corrosive ('''C''')<br/>Dangerous for the environment ('''N''')
+|   RPhrases = {{R12}}, {{R17}}, {{R26}}, {{R34}}, {{R50}}
+|   SPhrases = {{S1/2}}, {{S28}}, {{S36/37}}, {{S45}}, {{S61}}, {{S63}}
+|   NFPA-H = 4
+|   NFPA-F = 4
+|   NFPA-R = 2
+|   FlashPt = flammable gas
+|   Autoignition = 38 °C (''see text'')
+|   ExploLimits = 1.8% – ?
+  }}
+| Section8 = {{Chembox Related
+|   OtherCations = [[Ammonia]]<br/>[[Arsine]]<br/>[[Stibine]]<br/>[[Bismuthine]]
+|   OtherCpds = [[Trimethylphosphine]]<br/>[[Triphenylphosphine]]
+  }}
+}}
+'''Phosphine''' ([[IUPAC]] name: '''phosphane''') is the compound with the [[chemical formula]] PH<sub>3</sub>. It is a colorless, flammable, toxic gas. Pure phosphine is odorless, but ''technical grade'' samples have a highly [[unpleasant odor]] like [[garlic]] or rotting fish, due to the presence of [[substitution reaction|substituted]] phosphine and [[diphosphane]] (P<sub>2</sub>H<sub>4</sub>). With traces of P<sub>2</sub>H<sub>4</sub> present, PH<sub>3</sub> is spontaneously flammable in air, burning with a luminous flame. '''Phosphines''' are also a group of [[organophosphorus compound]]s with the formula R<sub>3</sub>P (R = organic derivative). Organophosphines are important in catalysts where they complex to various metal ions; complexes derived from a [[chirality (chemistry)|chiral]] phosphine can catalyze reactions to give chiral, enantioenriched products.
+
+==History==
+Perhaps because of its strong association with elemental [[phosphorus]], phosphine was once regarded as a gaseous form of the element, but [[Lavoisier]] (1789) recognised it as a combination of phosphorus with hydrogen and described it as “hydruyet of phosphorus, or phosphuret of hydrogen”.{{Citation needed|date=October 2009}}
+
+[[Thénard]] (1845) used a [[cold trap]] to separate diphosphine from phosphine that had been generated from [[calcium phosphide]], thereby demonstrating that P<sub>2</sub>H<sub>4</sub> is responsible for spontaneous flammability associated with PH<sub>3</sub>, and also for the characteristic orange/brown color that can form on surfaces, which is a polymerisation product. He considered diphosphine’s formula to be PH<sub>2</sub>, and thus an intermediate between elemental phosphorus, the higher polymers, and phosphine. [[Calcium phosphide]] (nominally Ca<sub>3</sub>P<sub>2</sub>) produces more P<sub>2</sub>H<sub>4</sub> than other phosphides because of the preponderance of P-P bonds in the starting material.
+
+==Structure and properties==
+PH<sub>3</sub> is a trigonal pyramidal molecule with ''C''<sub>3''v''</sub> [[molecular symmetry]]. The [[bond length|length]] of the P-H bond is 1.42 [[angstrom|Å]], the H-P-H [[bond angle]]s are 93.5[[degree (angle)|°]]. The [[bond dipole moment|dipole moment]] is 0.58 D, which increases with [[substitution (chemistry)|substitution]] of [[methyl group]]s in the series: CH<sub>3</sub>PH<sub>2</sub>, 1.10 D; (CH<sub>3</sub>)<sub>2</sub>PH, 1.23 D; (CH<sub>3</sub>)<sub>3</sub>P, 1.19 D. In contrast, the dipole moments of amines decrease with substitution, starting with [[ammonia]], which has a dipole moment of 1.47 D. The low dipole moment and almost orthogonal bond angles lead to the conclusion that in PH<sub>3</sub> the P-H bonds are almost entirely pσ(P) – sσ(H) and phosphorus 3s orbital contributes little to the bonding between phosphorus and hydrogen in this molecule. For this reason, the lone pair on phosphorus may be regarded as predominantly formed by the 3s orbital of phosphorus. The upfield chemical shift of the phosphorus atom in the <sup>31</sup>P NMR spectrum accords with the conclusion that the lone pair electrons occupy the 3s orbital (Fluck, 1973). This electronic structure leads to a lack of [[nucleophilicity]] and an ability to form only weak [[hydrogen bonds]].<ref>{{ cite journal | author = Sennikov, P. G. | title = Weak H-Bonding by Second-Row (PH<sub>3</sub>, H<sub>2</sub>S) and Third-Row (AsH<sub>3</sub>, H<sub>2</sub>Se) Hydrides | journal = Journal of Physical Chemistry | year = 1994 | volume = 98 | issue = 19 | pages = 4973–4981 | doi = 10.1021/j100070a006 }}</ref>
+
+The aqueous [[solubility]] of PH<sub>3</sub> is slight; 0.22 mL of gas dissolve in 1 mL of water. Phosphine dissolves more readily in [[solvent#Solvent_classifications|non-polar solvents]] than in water because of the non-polar P-H bonds. It acts as neither an acid nor a base in water. Proton exchange proceeds via a [[phosphonium]] (PH<sub>4</sub><sup>+</sup>) ion in acidic solutions and via PH<sub>2</sub><sup>−</sup> at high pH, with equilibrium constants ''K''<sub>b</sub> = 4 × 10<sup>−28</sup> and ''K''<sub>z</sub> = 41.6 × 10<sup>−29</sup>.
+
+==Preparation and occurrence==
+Phosphine may be prepared in a variety of ways.<ref>{{ cite book | author = Toy, A. D. F. | title = The Chemistry of Phosphorus | publisher = Pergamon Press | location = Oxford, UK | year = 1973 }}</ref> Industrially it can be made by the reaction of white [[phosphorus]] with [[sodium hydroxide]], producing [[sodium hypophosphite]] and sodium [[phosphite]] as a by-product. Alternatively the acid-catalyzed disproportioning of white [[phosphorus]] may be used, which yields [[phosphoric acid]] and phosphine. Both routes have industrial significance; the acid route is preferred method if further reaction of the phosphine to substituted phosphines is needed. The acid route requires purification and pressurizing. It can also be made (as described above) by the hydrolysis of a metal phosphide, such as [[aluminium phosphide]] or [[calcium phosphide]]. Pure samples of phosphine, free from P<sub>2</sub>H<sub>4</sub>, may be prepared using the action of [[potassium hydroxide]] on [[phosphonium iodide]] (PH<sub>4</sub>I).
+
+Phosphine is probably a constituent of the atmosphere at very low and highly variable concentrations and hence may contribute to the global [[phosphorus cycle|phosphorus biochemical cycle]].<ref>{{ cite journal | author = Gassmann, G.; van Beusekom, J. E. E.; Glindemann, D. | title = Offshore atmospheric phosphine | journal = Naturwissenschaften | year = 1996 | volume = 83 | issue = 3 | pages = 129–131 | doi = 10.1007/BF01142178 |bibcode = 1996NW.....83..129G }}</ref> The origin(s) of atmospheric phosphine is not certain. Possible sources include bacterial reduction of phosphate in decaying organic matter and the corrosion of phosphorus-containing metals.<ref>{{ cite journal | author = Roels, J.; Verstraete, W. | title = Biological formation of volatile phosphorus compounds, a review paper | journal = Bioresource Technology | year = 2001 | volume = 79 | issue = 3 | pages = 243–250 | doi = 10.1016/S0960-8524(01)00032-3 }}</ref>
+
+==Phosphines==
+{{see also|metal phosphine complex}}
+Related to a PH<sub>3</sub> is the class of [[organophosphorus compound]]s commonly called '''phosphines'''. These alkyl and aryl derivatives of phosphine are analogous to organic [[amine]]s. Common examples include [[triphenylphosphine]] ((C<sub>6</sub>H<sub>5</sub>)<sub>3</sub>P) and [[BINAP]], both used as [[ligand]]s in [[homogeneous catalysis]] or [[triisopropylphosphine]]. Phosphines are easily oxidized to phosphine oxides as exemplified by the directed synthesis of a phospha-crown, the phosphorus analogue of an [[aza crown]]<ref>{{ cite journal | author = Edwards, P. G.; Haigh, R.; Li, D.; Newman, P. D. | title = Template Synthesis of 1,4,7-Triphosphacyclononanes | journal = [[Journal of the American Chemical Society]] | year = 2006 | volume = 128 | issue = 11 | pages = 3818–3830 | doi = 10.1021/ja0578956 }}</ref> where it is not possible to isolate the phosphine itself.
+
+[[File:Phosphacrown.png|center|500px|Scheme 4. Phosphacrown]]
+In step 1 diphosphinoethane coordinates to a [[ferrocene]] containing additional [[carbon monoxide]] ligands and an [[acetonitrile]] ligand. The next step is a hydrophosphination with trivinylphosphine followed by [[alkylation]] with ethyl bromide and [[hydrogenation]] with hydrogen over [[palladium on carbon]]. In the final step the iron template is removed by [[bromine]] but oxidation of the phosphine groups is unavoidable.
+
+[[File:Phosphine umpolung.png|350px|center|Scheme 3. diazaphospholene phosphine hydride]]
+When modified with suitable substituents as in certain (rare) ''diazaphospholenes'' (''scheme 3'') the polarity of the P-H bond can be inverted (see: [[umpolung]]) and the resulting phosphine [[hydride]] can reduce a carbonyl group as in the example of [[benzophenone]] in yet another way.<ref>{{ cite journal | author = Burck, S.; Gudat, D.; Nieger, M.; Du Mont, W.-W. | title = ''P''-Hydrogen-Substituted 1,3,2-Diazaphospholenes: Molecular Hydrides | journal = [[Journal of the American Chemical Society]] | year = 2006 | volume = 128 | issue = 12 | pages = 3946–3955 | doi = 10.1021/ja057827j }}</ref>
+
+==Applications==
+===Organophosphorus chemistry===
+Phosphine is mainly consumed as an intermediate in [[organophosphorus chemistry]]. In an illustrative reaction, formaldehyde adds in the presence of [[hydrogen chloride]] to give [[tetrakis(hydroxymethyl)phosphonium chloride]], which is used in textiles.
+
+===Microelectronics===
+Small amounts of phosphine are used as a [[dopant]] in the [[semiconductor]] industry, and a precursor for the deposition of [[compound semiconductor]]s.<ref>{{ cite encyclopedia | author = Bettermann, G.; Krause, W.; Riess, G.; Hofmann, T. | title = Phosphorus Compounds, Inorganic | encyclopedia = Ullmann's Encyclopedia of Industrial Chemistry | year = 2002 | publisher = Wiley-VCH | location = Weinheim | doi = 10.1002/14356007.a19_527 }}</ref>
+
+===Fumigant===
+For [[agriculture|farm use]], pellets of [[aluminium phosphide]], [[calcium phosphide]], or [[zinc phosphide]] release phosphine upon contact with atmospheric water or rodents' stomach acid. These pellets also contain agents to reduce the potential for [[combustion|ignition]] or [[explosion]] of the released phosphine.
+
+Because the previously popular [[fumigant]] [[methyl bromide]] has been phased out in some countries under the [[Montreal Protocol]], phosphine is the only widely used, cost-effective, rapidly acting fumigant that does not leave residues on the stored product. Pests developing high levels of [[pesticide resistance|resistance]] toward phosphine have become common in Asia, Australia and Brazil. High level resistance is also likely to occur in other regions, but may not have been as closely monitored.
+
+==Safety==
+Phosphine gas is more dense than air and hence may collect in low-lying areas. It can form explosive mixtures with air and also self-ignite. When phosphine burns it produces a dense white cloud of [[phosphorus pentoxide]] – a severe respiratory irritant.<ref>{{ cite web | url = http://www.cdc.gov/niosh/ershdb/EmergencyResponseCard_29750035.html | title = NIOSH Emergency Response Card | publisher = CDC | accessdate = 2010-04-06 }}</ref>
+
+Phosphine can be absorbed into the body by inhalation. Direct contact with phosphine liquid – although unlikely to occur – may cause frostbite, like other cryogenic liquids. The main target organ of phosphine gas is the respiratory tract. According to the 2009 U.S. [[National Institute for Occupational Safety and Health]] (NIOSH) pocket guide, and U.S. [[Occupational Safety and Health Administration]] regulation the 8 hour average respiratory exposure should not exceed 0.3 ppm. NIOSH recommends that the short term respiratory exposure to phosphine gas should not exceed 1&nbsp;ppm. The [[IDLH|Immediately Dangerous to Life or Health]] level is 50&nbsp;ppm. Overexposure to phosphine gas causes nausea, vomiting, abdominal pain, diarrhea; thirst; chest tightness, [[dyspnea]] (breathing difficulty); muscle pain, chills; stupor or syncope; pulmonary edema.<ref>{{ cite web | url = http://www.cdc.gov/niosh/npg/npgd0505.html | title = NIOSH pocket guide | publisher = CDC | date = 2009-02-03 | accessdate = 2010-04-06 }}</ref><ref>{{ cite web | url = http://www.inchem.org/documents/pds/pds/pest46_e.htm | title = WHO (Data Sheets on Pesticides-No. 46): Phosphine | publisher = Inchem.org | accessdate = 2010-04-06 }}</ref> Phosphine has been reported to have the odor of decaying fish or garlic at concentrations below 0.3 ppm. The smell is normally restricted to laboratory areas or phosphine processing since the smell comes from the way the phosphine is extracted from the environment. However, it may occur elsewhere, such as in industrial waste landfills. Exposure to higher concentrations may cause [[olfactory fatigue]].<ref>{{ cite web | url = http://www.cdc.gov/niosh/docs/99-126/ | title = NIOSH Alert: Preventing Phosphine Poisoning and Explosions during Fumigation | publisher = CDC | date = 1995-07-10 | accessdate = 2010-04-06 }}</ref>
+
+==See also==
+*[[Diphosphane]], H<sub>2</sub>PPH<sub>2</sub>
+**[[Diphosphines]], R<sub>2</sub>PPR<sub>2</sub>, R<sub>2</sub>P(CH<sub>2</sub>)<sub>n</sub>PR<sub>2</sub>
+*[[Diphosphene]], HP=PH
+**[[Diphosphenes]], R-P=P-R'
+*[[Phosphine oxide]], R<sub>3</sub>P=O
+*[[Phosphorane]], PR<sub>5</sub>, R<sub>3</sub>P=CR<sub>2</sub>
+*[[Phosphinite]], P(OR)R<sub>2</sub>
+*[[Phosphonite]], P(OR)<sub>2</sub>R
+*[[Phosphite]], P(OR)<sub>3</sub>
+*[[Phosphinate]], R<sub>2</sub>P(RO)O
+*[[Phosphonate]], RP(RO)<sub>2</sub>O
+*[[Phosphate]], P(RO)<sub>3</sub>O
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{ cite journal | author = Fluck, E. | title = The Chemistry of Phosphine | journal = Topics in Current Chemistry | year = 1973 | volume = 35 | pages = 1–64 | doi = 10.1007/BFb0051358 }}
+* {{ cite book | author = WHO (World Health Organisation) | title = Phosphine and Selected Metal Phosphides | series = Environmental Health Criteria | publisher = Joint sponsorship of UNEP, ILO and WHO | location = Geneva | volume = 73 | year = 1988 | url = http://www.inchem.org/documents/ehc/ehc/ehc73.htm }}
+
+==External links==
+*[http://www.inchem.org/documents/icsc/icsc/eics0694.htm International Chemical Safety Card 0694]<!-- Syntax: {{ICSC|AllDigits|TwoDigits}} -->
+*[http://www.cdc.gov/niosh/topics/phosphine/ CDC - Phosphine - NIOSH Workplace Safety and Health Topic]
+
+{{Phosphorus compounds}}
+
+[[Category:Functional groups]]
+[[Category:Phosphanes|*]]
+[[Category:Phosphorus hydrides]]
+[[Category:Fumigants]]
+[[Category:Phosphine complexes|*]]

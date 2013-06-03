@@ -1,0 +1,58 @@
+'''Spike-timing-dependent plasticity''' (STDP) is a biological process that adjusts the strength of connections between neurons in the brain. The process adjusts the connection strengths based on the relative timing of a particular neuron's output and input [[action potential]]s (or spikes). The STDP process is a tentative candidate for a hypothesis that partially explains the development of an individual's brain, especially with regards to [[long-term potentiation]] and [[long-term depression]].
+
+== Process ==
+
+Under the STDP process, if an input spike to a neuron tends, on average, to occur immediately ''before'' that neuron's output spike, then that particular input is made somewhat stronger. If an input spike tends, on average, to occur immediately ''after'' an output spike, then that particular input is made somewhat weaker hence: "spike-timing-dependent plasticity". Thus, inputs that might be the cause of the post-synaptic neuron's excitation are made even more likely to contribute in the future, whereas inputs that are not the cause of the post-synaptic spike are made less likely to contribute in the future. The process continues until a subset of the initial set of connections remain, while the influence of all others is reduced to 0. Since a neuron produces an output spike when many of its inputs occur within a brief period the subset of inputs that remain are those that tended to be correlated in time. In addition, since the inputs that occur before the output are strengthened, the inputs that provide the earliest indication of correlation will eventually become the final input to the neuron.
+
+== History ==
+Early experiments on associative plasticity were carried out by W. B. Levy and O. Steward in 1983<ref>{{cite journal |author=Levy WB, Steward O |title=Temporal contiguity requirements for long-term associative potentiation/depression in the hippocampus |journal=Neuroscience |volume=8 |issue=4 |pages=791–7 |year=1983 |month=April |pmid=6306504 |url=http://linkinghub.elsevier.com/retrieve/pii/0306-4522(83)90010-6 |doi=10.1016/0306-4522(83)90010-6}} [http://faculty.virginia.edu/levylab/Publications/]</ref> and examined the effect of relative timing of pre and postsynaptic action potentials at millisecond level on plasticity.  Bruce McNaughton contributed much to this area, too.
+In studies on neuromuscular synapses carried out by Y. Dan and M. M. Poo in 1992,<ref>{{cite journal |author=Dan Y, Poo M M |title=Hebbian depression of isolated neuromuscular synapses in vitro |journal=Science |volume=256 |issue=5063 |pages=1570–73 |year=1992 |pmid=1317971 |url=http://www.ncbi.nlm.nih.gov/pubmed/1317971}}</ref> and on the hippocampus by D. Debanne, B. Gähwiler, and S. Thompson in 1994,<ref>{{cite journal |author=Debanne D, Gähwiler B, Thompson S |title=Asynchronous pre- and postsynaptic activity induces associative long-term depression in area CA1 of the rat hippocampus in vitro. |journal=PNAS |volume=91 |issue=3 |pages=1148–52 |year=1994 |pmid=7905631 |url=http://www.pnas.org/content/91/3/1148.short}}</ref> showed that asynchronous pairing of postsynaptic and synaptic activity induced long-term synaptic depression.  However, STDP was more definitively demonstrated by Henry Markram in his postdoc period till 1993 in Bert Sakmann's lab (SFN and Phys Soc abstracts in 1994–1995) which was only published in 1997.<ref>{{cite journal |author=Markram H, Lübke J, Frotscher M, Sakmann B |title=Regulation of synaptic efficacy by coincidence of postsynaptic APs and EPSPs |journal=Science |volume=275 |issue=5297 |pages=213–5 |year=1997 |month=January |pmid=8985014 |url=http://www.caam.rice.edu/~caam415/lec_gab/g4/markram_etal98.pdf |doi=10.1126/science.275.5297.213}}</ref> C. Bell and co-workers also found a form of STDP in the cerebellum.  Henry Markram used dual patch clamping techniques to repetitively activate pre-synaptic neurons 10 milliseconds before activating the post-synaptic target neurons, and found the strength of the synapse increased. When the activation order was reversed so that the pre-synaptic neuron was activated 10 milliseconds after its post-synaptic target neuron, the strength of the pre-to-post synaptic connection decreased.  Further work, by Guoqiang Bi, Li Zhang, and Huizhong Tao in Mu-Ming Poo's lab in 1998,<ref>{{cite journal |author=Bi GQ, Poo MM |title=Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type |journal=J. Neurosci. |volume=18 |issue=24 |pages=10464–72 |date=15 December 1998|pmid=9852584 |url=http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=9852584 }}</ref> continued the mapping of the entire time course relating pre- and post-synaptic activity and synaptic change, to show that in their preparation synapses that are activated within 5-40 ms before a [[postsynaptic]] spike are strengthened, and those that are activated within a similar time window after the spike are weakened. This phenomenon has been observed in various other preparations, with some variation in the time-window relevant for plasticity. Several reasons for timing-dependent plasticity have been suggested. For example, STDP might provide a substrate for Hebbian learning during development.<ref>{{cite journal | author = Gerstner W, Kempter R, van Hemmen JL, Wagner H| title= A neuronal learning rule for sub-millisecond temporal coding. | journal = Nature | volume = 386 |pages = 76–78 | year = 1996 | month=September | pmid = 8779718 | doi=10.1038/383076a0 | issue=6595}}</ref><ref>{{cite journal |author=Song S, Miller KD, Abbott LF |title=Competitive Hebbian learning through spike-timing-dependent synaptic plasticity |journal=Nat. Neurosci. |volume=3 |issue=9 |pages=919–26 |year=2000 |month=September |pmid=10966623 |doi=10.1038/78829 }}</ref>  Works from Y. Dan's lab advanced to study STDP in ''in vivo'' systems.<ref>{{citation |author=Meliza CD, Dan Y |year=2006 |title=Receptive-field modification in rat visual cortex induced by paired visual stimulation and single-cell spiking |journal=Neuron |volume=49 |issue=2 |pages=183–189 |doi=10.1016/j.neuron.2005.12.009}}</ref>
+
+== Mechanisms ==
+
+Postsynaptic [[NMDA receptor]]s are highly sensitive to the membrane potential (see [[coincidence detection in neurobiology]]). Due to their high permeability for calcium, they generate a local chemical signal that is largest when the [[Neural backpropagation|back-propagating action potential]] in the dendrite arrives shortly after the synapse was active (''pre-post spiking''). Large postsynaptic calcium transients are known to trigger synaptic potentiation ([[Long-term potentiation]]). The mechanism for spike-timing-dependent depression is less well understood, but often involves either postsynaptic voltage-dependent calcium entry/[[mGluR]] activation, or retrograde [[endocannabinoids]] and presynaptic [[NMDAR]]s.
+
+== From Hebbian Rule to STDP ==
+
+According to the [[Hebbian theory|Hebbian Rule]] synapses increase their efficiency if the synapse persistently causes the postsynaptic target neuron to generate action potentials.  An often used but not entirely accurate simplification is ''those who fire together, wire together''. With recent advancements in technology we can more precisely measure the spike timing of neurons.  As it turns out, the synaptic connection between two neurons is more likely to strengthen if the [[Chemical synapse|presynaptic]] neuron fires off shortly before the [[Chemical synapse|postsynaptic]] neuron. Revisiting the Hebbian rule, we can tweak it to accommodate these temporal aspects. ''' Synapses increase their efficacy if the presynaptic spike arrives   before the postsynaptic neuron is activated. '''
+
+== See also ==
+
+* [[Synaptic plasticity]]
+* [[Didactic organisation]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+
+* {{cite journal |author=Rumsey CC, Abbott LF |title=Equalization of synaptic efficacy by activity- and timing-dependent synaptic plasticity |journal=J. Neurophysiol. |volume=91 |issue=5 |pages=2273–80 |year=2004 |month=May |pmid=14681332 |doi=10.1152/jn.00900.2003 |url=http://jn.physiology.org/cgi/pmidlookup?view=long&pmid=14681332}}
+
+* {{cite journal |author=Debanne D, Gähwiler BH, Thompson SM |title=Asynchronous pre- and postsynaptic activity induces associative long-term depression in area CA1 of the rat hippocampus ''in vitro'' |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=91 |issue=3 |pages=1148–52 |year=1994 |month=February |pmid=7905631 |pmc=521471 |doi=10.1073/pnas.91.3.1148 }}
+
+* {{cite journal |author=Sjöström PJ, Turrigiano GG, Nelson SB |title=Rate, timing, and cooperativity jointly determine cortical synaptic plasticity |journal=Neuron |volume=32 |issue=6 |pages=1149–64 |year=2001 |month=December |pmid=11754844 |url=http://linkinghub.elsevier.com/retrieve/pii/S0896-6273(01)00542-6 |doi=10.1016/S0896-6273(01)00542-6}}
+
+* {{cite journal |author=Senn W, Markram H, Tsodyks M |title=An algorithm for modifying neurotransmitter release probability based on pre- and postsynaptic spike timing |journal=Neural Comput |volume=13 |issue=1 |pages=35–67 |year=2001 |month=January |pmid=11177427 |doi=10.1162/089976601300014628 }}
+
+* {{cite journal |author=Roberts PD, Bell CC |title=Spike timing dependent synaptic plasticity in biological systems |journal=Biol Cybern |volume=87 |issue=5-6 |pages=392–403 |year=2002 |month=December |pmid=12461629 |doi=10.1007/s00422-002-0361-y }}
+
+* {{cite journal |author=Chechik G |title=Spike-timing-dependent plasticity and relevant mutual information maximization |journal=Neural Comput |volume=15 |issue=7 |pages=1481–510 |year=2003 |month=July |pmid=12816563 |doi=10.1162/089976603321891774 |url=http://www.mitpressjournals.org/doi/abs/10.1162/089976603321891774?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dncbi.nlm.nih.gov}}
+
+* {{cite journal |author=Lisman J, Spruston N |title=Postsynaptic depolarization requirements for LTP and LTD: a critique of spike timing-dependent plasticity |journal=Nat. Neurosci. |volume=8 |issue=7 |pages=839–41 |year=2005 |month=July |pmid=16136666|doi=10.1038/nn0705-839 }}
+
+* {{Cite journal | doi = 10.4249/scholarpedia.1362 | issn = 1941-6016 | volume = 5 | issue = 2 | pages = 1362 | last = Sjöström | first = Jesper | coauthors = Wulfram Gerstner | title = Spike-timing dependent plasticity | journal = Scholarpedia | accessdate = 2010-07-28 | year = 2010 | url = http://www.scholarpedia.org/article/Spike-timing_dependent_plasticity }}
+
+* {{Cite journal | doi = 10.1146/annurev.neuro.31.060407.125639 | issn = 0147-006X | volume = 31 | issue = 1 | pages = 25–46 | last = Caporale | first = Natalia | coauthors = Yang Dan | title = Spike Timing–Dependent Plasticity: A Hebbian Learning Rule | journal = Annual Review of Neuroscience | accessdate = 2010-07-07 | year = 2008 | url = http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.060407.125639 | pmid=18275283}}
+
+* {{Cite journal
+ | doi = 10.3389/neuro.10.007.2009
+ | last1 = Oertner
+ | first1 = Thomas G.
+ | title = How do synapses measure milliseconds?
+ | journal = Frontiers in Computational Neuroscience
+ | volume = 3
+ | year = 2009}}
+
+{{DEFAULTSORT:Spike-Timing-Dependent Plasticity}}
+[[Category:Neuroscience]]
+[[Category:Memory processes]]

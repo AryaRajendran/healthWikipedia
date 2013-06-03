@@ -1,0 +1,154 @@
+{{cleanup-reorganize|date=February 2012}}
+{{protein
+| Name = [[fibrinogen alpha chain]]
+| caption = Crystallographic structure of a fragment of human [[fibrin]].<ref name="pmid9628725">{{PDB|1FZC}}; {{cite journal | author = Everse SJ, Spraggon G, Veerapandian L, Riley M, Doolittle RF | title = Crystal structure of fragment double-D from human fibrin with two different bound ligands | journal = Biochemistry | volume = 37 | issue = 24 | pages = 8637–42 | year = 1998 | month = June | pmid = 9628725 | doi = 10.1021/bi9804129 | url = | issn = }}</ref>
+| image =Fibrinandligand.png 
+| width = 
+| HGNCid = 3661
+| Symbol = [[fibrinogen alpha chain|FGA]]
+| AltSymbols = 
+| EntrezGene = 2243
+| OMIM = 134820
+| RefSeq = NM_000508
+| UniProt = P02671
+| PDB = 
+| ECnumber = 
+| Chromosome = 4
+| Arm = q
+| Band = 28
+| LocusSupplementaryData = 
+}}
+{{protein
+| Name = [[fibrinogen beta chain]]
+| caption = 
+| image = 
+| width = 
+| HGNCid = 3662
+| Symbol = [[fibrinogen beta chain|FGB]]
+| AltSymbols = 
+| EntrezGene = 2244
+| OMIM = 134830
+| RefSeq = NM_005141
+| UniProt = P02675
+| PDB = 
+| ECnumber = 
+| Chromosome = 4
+| Arm = q
+| Band = 28
+| LocusSupplementaryData = 
+}}
+{{protein
+| Name = [[FGG|fibrinogen gamma chain]]
+| caption = 
+| image = 
+| width = 
+| HGNCid = 3694
+| Symbol = [[FGG]]
+| AltSymbols = 
+| EntrezGene = 2266
+| OMIM = 134850
+| RefSeq = NM_021870
+| UniProt = P02679
+| PDB = 
+| ECnumber = 
+| Chromosome = 4
+| Arm = q
+| Band = 28
+| LocusSupplementaryData = 
+}}
+{{Infobox protein family
+| Symbol = Fib_alpha
+| Name = Fibrinogen alpha/beta chain family
+| image = PDB 1m1j EBI.jpg
+| width = 
+| caption = crystal structure of native chicken fibrinogen with two different bound ligands
+| Pfam = PF08702
+| Pfam_clan =  
+| InterPro = IPR012290
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 1m1j
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+{{Infobox protein family
+| Symbol = Fibrinogen_aC
+| Name = Fibrinogen alpha C domain
+| image = 
+| width = 
+| caption = nmr solution structure, stability, and interaction of the recombinant bovine fibrinogen alphac-domain fragment
+| Pfam = PF12160
+| Pfam_clan =  
+| InterPro = IPR021996
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+{{Infobox protein family
+| Symbol = Fibrinogen_C
+| Name = Fibrinogen beta and gamma chains, C-terminal globular domain
+| image = PDB 1m1j EBI.jpg
+| width = 
+| caption = crystal structure of native chicken fibrinogen with two different bound ligands
+| Pfam = PF00147
+| Pfam_clan = CL0422 
+| InterPro = IPR002181
+| SMART = 
+| PROSITE = PDOC00445
+| MEROPS = 
+| SCOP = 1fza
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+'''Fibrinogen''' ('''''factor I''''') is a soluble, 340 [[kDa]] [[blood plasma|plasma]] [[glycoprotein]], that is converted by [[thrombin]] into [[fibrin]] during [[coagulation|blood clot formation]]. Fibrinogen is synthesized in the [[liver]] by the [[hepatocyte]]s. The concentration of fibrin in the blood plasma is 200-400 mg/dL (normally measured using the [[Clauss method]].
+
+During normal blood coagulation, a  [[coagulation#The_coagulation_cascade|coagulation cascade]] activates the [[zymogen]] [[prothrombin]] by converting it into the [[serine protease]] [[thrombin]]. Thrombin then converts the soluble fibrinogen into insoluble fibrin strands. These strands are then cross-linked by [[factor XIII]] to form a [[thrombus|blood clot]]. FXIIIa stabilizes fibrin further by incorporation of the [[fibrinolysis]] inhibitors alpha-2-antiplasmin and [[TAFI]] (thrombin activatable fibrinolysis inhibitor, procarboxypeptidase B), and binding to several adhesive proteins of various cells.<ref name="Muszbek">{{cite journal | author = Muszbek L, Bagoly Z, Bereczky Z, Katona E | title = The involvement of blood coagulation factor XIII in fibrinolysis and thrombosis | journal = Cardiovascular & Hematological Agents in Medicinal Chemistry | volume = 6 | issue = 3 | pages = 190–205 | year = 2008 | month = July | pmid = 18673233 | doi = 10.2174/187152508784871990| url = | issn = }}</ref> Both the activation of Factor XIII by [[thrombin]] and plasminogen activator ([[t-PA]]) are catalyzed by fibrin.<ref name="Muszbek"/> Fibrin specifically binds the activated coagulation factors [[factor Xa]] and thrombin and entraps them in the network of fibers, thus functioning as a temporary inhibitor of these enzymes, which stay active and can be released during fibrinolysis.<ref name="pmid12847561">{{cite journal | author = Kaiser B | title = DX-9065a, a direct inhibitor of factor Xa | journal = Cardiovascular Drug Reviews | volume = 21 | issue = 2 | pages = 91–104 | year = 2003 | pmid = 12847561 | doi = 10.1111/j.1527-3466.2003.tb00108.x| url = | issn = }}</ref> Recent research has shown that fibrin plays a key role in the inflammatory response and development of [[rheumatoid arthritis]].<ref name="pmid21439056">{{cite journal | author = Gilliam BE | title = Evidence of Fibrinogen as a Target of Citrullination in IgM Rheumatoid Factor-Positive Polyarticular Juvenile Idiopathic Arthritis | journal = Pediatric Rheumatology | volume = 9 | issue = 8 | pages = xx–xx | year = 2011 | pmid = 21439056 | doi = 10.1186/1546-0096-9-8| url = http://www.ped-rheum.com/content/9/1/8| issn = 1546-0096 | last2 = Reed | first2 = Melinda R | last3 = Chauhan | first3 = Anil K | last4 = Dehlendorf | first4 = Amanda B | last5 = Moore | first5 = Terry L | pmc = 3071779 }}</ref> {{Fact|date=January 2009}}
+
+== Fibrinogen deficiency ==
+Congenital fibrinogen deficiency (afibrinogenemia) or disturbed function of fibrinogen has been described in a few cases.<ref name="pmid19141154">{{cite journal | author = Acharya SS, Dimichele DM | title = Rare inherited disorders of fibrinogen | journal = Haemophilia : the Official Journal of the World Federation of Hemophilia | volume = 14 | issue = 6 | pages = 1151–8 | year = 2008 | month = November | pmid = 19141154 | doi = 10.1111/j.1365-2516.2008.01831.x }}</ref>
+
+It can lead to either bleeding or thromboembolic complications, or is clinically without pathological findings. More common are acquired deficiency stages that can be detected by laboratory tests in blood plasma or in [[whole blood]] by means of thrombelastometry.<ref name="Lang">{{cite journal | author = Lang T, Johanning K, Metzler H, Piepenbrock S, Solomon C, Rahe-Meyer N, Tanaka KA | title = The effects of fibrinogen levels on thromboelastometric variables in the presence of thrombocytopenia | journal = Anesthesia and Analgesia | volume = 108 | issue = 3 | pages = 751–8 | year = 2009 | month = March | pmid = 19224779 | doi = 10.1213/ane.0b013e3181966675 | url = | issn = }}</ref> Acquired deficiency is found after hemodilution, blood losses and/or consumption such as in [[Physical trauma|trauma]] patients, during some phases of [[disseminated intravascular coagulation]] (DIC), and also in [[sepsis]]. In patients with fibrinogen deficiency, the correction of bleeding is possible by infusion of [[fresh frozen plasma]] (FFP), [[cryoprecipitate]] (a fibrinogen-rich plasma fraction) or by fibrinogen concentrates. There is increasing evidence that correction of fibrinogen deficiency or fibrinogen polymerization disorders is very important in patients with bleeding.<ref name="pmid19390253">{{cite journal | author = Fries D, Innerhofer P, Schobersberger W | title = Time for changing coagulation management in trauma-related massive bleeding | journal = Current Opinion in Anaesthesiology | volume = 22 | issue = 2 | pages = 267–74 | year = 2009 | month = April | pmid = 19390253 | doi = 10.1097/ACO.0b013e32832678d9 | url = | issn =  }}</ref>
+
+== Diagnostic use ==
+Fibrinogen levels can be measured in [[vein|venous]] blood. Normal levels are about 1.5-3 g/L, depending on the method used. In typical circumstances, fibrinogen is measured in citrated plasma samples in the laboratory, however the analysis of whole-blood samples by use of thrombelastometry (platelet function is inhibited with [[cytochalasin D]]) is also possible.<ref name="Lang"/> Higher levels are, amongst others, associated with [[cardiovascular disease]] (>3.43 g/L). It may be elevated in any form of [[inflammation]], as it is an [[acute-phase protein]]; for example, it is especially apparent in human [[gingiva|gingival tissue]] during the [[Periodontal_disease#Initial_lesion|initial phase of periodontal disease]].<ref name="P&S">{{cite journal | author = Page RC, Schroeder HE | title = Pathogenesis of inflammatory periodontal disease. A summary of current work | journal = Lab. Invest. | volume = 34 | issue = 3 | pages = 235–49 | year = 1976 | month = March | pmid = 765622 | doi = | url = | issn = }}</ref> Fibrinogen levels increase in [[pregnancy]] to an average of 4.5 g/l, compared to an average of 3 g/l in non-pregnant people.<ref>[http://books.google.com/books?id=NCOuIwhaWNUC&pg=PA5 Page 5] in: 
+Title:	Medical and Surgical Diagnostic Disorders in Pregnancy. 
+Author: Salvi. 
+Publisher: Jaypee Brothers Publishers, 2003. 
+ISBN:	818061090X, 9788180610905</ref>
+
+It is used in [[veterinary medicine]] as an inflammatory marker: In horses, a level above the normal range of 1.0-4.0 g/L suggests some degree of systemic inflammatory response.
+
+Low levels of fibrinogen can indicate a systemic activation of the clotting system, with consumption of clotting factors faster than synthesis.  This excessive clotting factor consumption condition is known as [[disseminated intravascular coagulation]] or "DIC."  DIC can be difficult to diagnose, but a strong clue is low fibrinogen levels in the setting of prolonged clotting times ([[Prothrombin time|PT]] or [[Partial thromboplastin time|aPTT]]), in the context of acute critical illness such as [[sepsis]] or trauma. Besides low fibrinogen level, fibrin polymerization disorders that can be induced by several factors, including plasma expanders, can also lead to severe bleeding problems.<ref name="Lang"/> Fibrin polymerization disorders can be detected by [[viscoelastic]] methods such as thrombelastometry.<ref name="Lang"/>
+
+== Physiology ==
+In its natural form, fibrinogen can form bridges between [[platelet]]s, by binding to their [[glycoprotein IIb/IIIa|GpIIb/IIIa]] surface membrane [[protein]]s; however, its major function is as the precursor to fibrin.
+
+Fibrinogen, the principal protein of vertebrate blood clotting, is a [[hexamer]], containing two sets of three different chains (α, β, and γ), linked to each other by [[disulfide]] bonds. The [[N-terminus|N-terminal]] sections of these three chains contain the [[cysteine]]s that participate in the cross-linking of the chains. The [[C-terminus|C-terminal]] parts of the α, β and γ chains contain a domain of about 225 [[amino acid|amino-acid]] residues, which can function as a molecular recognition unit. In fibrinogen as well as in [[angiopoietin]], this domain is implicated in protein-protein interactions. In [[lectin]]s, such as [[mammal]]ian [[ficolin]]s and invertebrate [[tachylectin 5A]], the fibrinogen C-terminal domain binds [[carbohydrate]]s. On the fibrinogen α and β chains, there is a small [[peptide]] sequence (called a [[fibrinopeptide]]). These small peptides are what prevent fibrinogen from spontaneously forming [[polymer]]s with itself.<ref>[http://www.expasy.org/prosite/PDOC00445 PDOC00445] Fibrinogen C-terminal domain in [[PROSITE]]</ref>
+
+The conversion of fibrinogen to fibrin occurs in several steps.  First, thrombin cleaves the [[N-terminus]] of the fibrinogen alpha and beta chains to fibrinopeptide A and B respectively.<ref name="pmid692730">{{cite journal | author = Blombäck B, Hessel B, Hogg D, Therkildsen L | title = A two-step fibrinogen--fibrin transition in blood coagulation | journal = Nature | volume = 275 | issue = 5680 | pages = 501–5 | year = 1978 | month = October | pmid = 692730 | doi = 10.1038/275501a0| url = | issn = }}</ref>  The resulting fibrin monomers polymerize end to end to from protofibrils, which in turn associate laterally to form fibrin fibers.<ref name="pmid7036348">{{cite journal | author = Hermans J, McDonagh J | title = Fibrin: structure and interactions | journal = Semin. Thromb. Hemost. | volume = 8 | issue = 1 | pages = 11–24 | year = 1982 | month = January | pmid = 7036348 | doi = 10.1055/s-2007-1005039 | url = | issn = }}</ref>  In a final step, the fibrin fibers associate to form the fibrin gel.<ref name="isbn0-250-40160-6">{{cite book | editor = Mann KG,  Lundblad RL, Fenton J | authorlink = | author =  Lorand L, Credo RB | others = | title = Chemistry and Biology of Thrombin | chapter = hrombin and fibrin stabilization | language = | publisher = Ann Arbor Science Publishers | location = Ann Arbor, Mich | year = 1977 | origyear = | pages = 311–323 | quote = | isbn = 0-250-40160-6 | oclc = | doi = | url = | accessdate = }}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+* Jennifer McDowall/Interpro: [http://www.ebi.ac.uk/interpro/potm/2006_11/Page1.htm Protein Of The Month: ''Fibrinogen.'']
+* D'Eustachio/reactome: ''[http://www.reactome.org/cgi-bin/link?SOURCE=Reactome&ID=REACT_214 fibrinogen → fibrin monomer + 2 fibrinopeptide A + 2 fibrinopeptide B]''
+
+{{Coagulation}}
+{{Acute phase proteins}}
+[[Category:Coagulation system]]
+[[Category:Blood proteins]]
+[[Category:Acute phase proteins]]

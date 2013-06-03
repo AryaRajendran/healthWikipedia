@@ -1,0 +1,128 @@
+{{chembox
+| verifiedrevid = 450728545
+|   Name = Dehydroascorbic acid
+|   ImageFile = Dehydroascorbic acid.png
+|   ImageSize = 100px 
+|   ImageName = 
+|   IUPACName = (5''R'')-5-[(1''S'')-1,2-dihydroxyethyl]furan-2,3,4(5''H'')-trione
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 389547
+| InChI = 1/C6H6O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-8H,1H2/t2-,5+/m0/s1
+| InChIKey = SBJKKFFYIZUCET-JLAZNSOCBE
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H6O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-8H,1H2/t2-,5+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SBJKKFFYIZUCET-JLAZNSOCSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 490-83-5
+|   PubChem = 440667
+|   ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 27956
+| SMILES = O=C1C(=O)C(=O)O[C@@H]1[C@@H](O)CO
+}}
+| Section2 = {{Chembox Properties
+|   C=6|H=6|O=6
+|   Density =
+|   MeltingPt =
+|   BoilingPt =
+  }}
+}}
+
+'''Dehydroascorbic acid''' (DHA) is an oxidized form of [[ascorbic acid]] (vitamin C). It is actively imported into the [[endoplasmic reticulum]] of cells via glucose transporters.  It is trapped therein by reduction back to ascorbate by glutathione and other thiols.<ref>Welch, R.W.; Wang, Y.; Crossman, A., Jr.; Park, J.B.; Kirk, K.L.; Levine, M.; "Accumulation of Vitamin C (Ascorbate) and Its Oxidized Metabolite Dehydroascorbic Acid Occurs by Separate Mechanisms," ''J. Biol. Chem.'' '''1995''' ''270'' 12584-92.</ref>. The [[Radical (chemistry)|(free) chemical radical]] semidehydroascorbic acid (SDA) also belongs to the group of oxidized ascorbic acids.
+
+==Structure and Physiology==
+<div class="thumb tright"  style="float: right; background-color: #f9f9f9; border: 1px solid #CCCCCC; margin:0.5em;">
+{|border="0" width=100px border="0" cellpadding="2" cellspacing="0" style="font-size: 85%; border: 1px solid #CCCCCC; margin: 0.3em;"
+|[[Image:Ascorbic acid structure.png|100px]]
+|}
+{|border="0" width=100px border="0" cellpadding="2" cellspacing="0" style="font-size: 85%; border: 1px solid #CCCCCC; margin: 0.3em;"
+|[[Image:Dehydroascorbic acid.png|100px]]
+|}
+<div style="border: none; width:100px;"><div class="thumbcaption"><small>Top: [[ascorbic acid]]<br />([[reducing agent|reduced form]] of [[vitamin C]])<br />Bottom: dehydroascorbic acid<br />([[oxidizing agent|nominal oxidized form]] of vitamin C)</small></div></div></div>
+
+Although there exists a sodium-dependent transporter for [[vitamin C]], it is mainly present in specialized cells, whereas the [[glucose transporter]]s, most notably [[GLUT1]], transport Vitamin C (in its oxidized form, DHA)<ref name="MitoGolde"/> in most cells, where recycling back to ascorbate generates the necessary enzyme cofactor and intracellular antioxidant, (see Transport to mitochondria).
+
+The structure shown here for DHA is the commonly shown textbook structure.  This 1,2,3-tricarbonyl is too electrophilic to survive more than a few milliseconds in aqueous solution, however.  The actual structure shown by spectroscopic studies is the result of rapid hemiacetal formation between the 6-OH and the 3-carbonyl groups.  Hydration of the 2-carbonyl is also observed.<ref>Kerber, R.C.; "'As Simple as Possible, but not Simpler' -- The Case of Dehydroascorbic Acid," ''J. Chem. Ed.'' '''85''' ''(2008)'' 1237-1242.</ref>  The lifetime of the stabilized species is commonly said to be about 6 minutes under biological conditions.<ref>May, J.M.; "Ascorbate Function and Metabolism in the Human Erythrocyte," ''Frontiers in Bioscience,'' '''3''' ''(1981)'' d1-10.</ref>  Destruction results from irreversible hydrolysis of the ester bond, with additional degradation reactions following.<ref>Kimoto, E.; Tanaka, H.; Ohmoto, T.; Choami, M.; "Analysis of the Transformation Products of Dehydro-L-Ascorbic Acid by Ion-Pairing High-Performance Liquid Chromatography," ''Anal. Biochem.'' '''214''' ''(1993)'' 38-44.</ref>  Crystallization of solutions of DHA gives a pentacyclic dimer structure of indefinite stability. 
+Recycling of ascorbate via active transport of DHA into cells, followed by reduction and reuse, mitigates the inability of humans to synthesize it from glucose.<ref>Montel-Hagen, A.; Kinet, S.; Manel, N.; Mongellaz, C.; Prohaska,R.; Battini, J.L.; Delaunay,J.; Sitbon, M.; Taylor, N.; "Erythrocyte GLUT1 triggers Dehydroascorbic Acid Uptake in Mammals unable to Synthesize Vitamin C," ''Cell'' '''132''' ''(2008)'' 1039-48.</ref> 
+[[Image:Dehydroascorbic acid.svg|frame|none|center|300px|link=|Hydration equilibria of DHA - the hemiacetal structure (center) is the predominant one.]]
+
+===Transport to mitochondria===
+Vitamin C accumulates in [[mitochondria]], where most of the [[free radical]]s are produced, by entering as DHA through the glucose transporters, GLUT1. Ascorbic acid protects the [[mitochondrial genome]] and [[Mitochondrial membrane#Mitochondrion structure|membrane]].<ref name="MitoGolde">
+{{cite journal
+|author=KC S, Carcamo JM, Golde DW
+|title=Vitamin C enters mitochondria via facilitative glucose transporter 1 (Glut1) and confers mitochondrial protection against oxidative injury
+|url=http://www.fasebj.org/cgi/content/full/19/12/1657
+|journal=FASEB J
+|volume=19
+|issue=12
+|pages=1657–67
+|year=2005
+|pmid=16195374
+|doi=10.1096/fj.05-4107com}}</ref>
+
+===Transport to the brain===
+Vitamin C does not pass from the blood stream into the [[brain]], although the brain is one of the organs which has the greatest concentration of vitamin C.  Instead, DHA is transported through the [[blood–brain barrier]] via [[GLUT1|GLUT1 transporters]], and then converted back to ascorbate.<ref name="ascorBBB">{{cite journal
+|author=Huang J, Agus DB, Winfree CJ, Kiss S, Mack WJ, McTaggart RA, Choudhri TF, Kim LJ, Mocco J, Pinsky DJ, Fox WD, Israel RJ, Boyd TA, Golde DW, Connolly ES Jr.
+|title=Dehydroascorbic acid, a blood–brain barrier transportable form of vitamin C, mediates potent cerebroprotection in experimental stroke
+|url=http://www.pnas.org/cgi/content/full/98/20/11720
+|journal=Proceedings of the National Academy of Sciences
+|volume=98
+|issue=20
+|pages=11720–11724
+|year=2001
+|pmid=11573006
+|doi=10.1073/pnas.171325998
+|pmc=58796}}</ref>
+
+==Use==
+Dehydroascorbic acid has been used as a vitamin C dietary supplement.<ref>{{cite web | url = http://lpi.oregonstate.edu/ss01/bioavailability.html | title = The Bioavailability of Different Forms of Vitamin C | accessdate = 2010-11-10 | last = Higdon | first = Jane | date = May, 2001 | publisher = The Linus Pauling Institute}}</ref>
+
+As a cosmetic ingredient, dehydroascorbic acid is used to enhance the appearance of the skin.<ref>{{Citation
+ | title = Topical Dehydroascorbic Acid (Oxidized Vitamin C) Permeates Stratum Corneum More Rapidly Than Ascorbic Acid
+ | url = https://www.researchgate.net/publication/225274699_Topical_Dehydroascorbic_Acid_(Oxidized_Vitamin_C)_Permeates_Stratum_Corneum_More_Rapidly_Than_Ascorbic_Acid
+ | year = 2012
+ | author = Kitt, D.Q.
+ | accessdate = 2012-07-31
+}}</ref> It may be used in a process for [[Perm (hairstyle)|permanent waving of hair]]<ref name="US6506373">
+[http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6506373.PN.&OS=PN/6506373&RS=PN/6506373 US Patent 6,506,373] (issued Jan. 14, 2003)</ref> and in a process for [[sunless tanning]] of skin.<ref name="LOreal">[http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.html&r=1&f=G&l=50&s1=%2220100221203%22.PGNR.&OS=DN/20100221203&RS=DN/20100221203 U.S. Patent Application No. 10/685,073] Publication No. 20100221203 (published Sept. 2, 2010)</ref>
+
+In a [[cell culture]] [[growth medium]], dehydroascorbic acid has been used to assure the uptake of vitamin C into cell types that do not contain ascorbic acid transporters.<ref name="cellculture">
+{{cite journal
+|author=Heaney ML, Gardner JR, Karasavvas N, Golde DW, Scheinberg DA, Smith EA, O'Conner OA
+|title=Vitamin C antagonizes the cytotoxic effects of antineoplastic drugs
+|url=http://cancerres.aacrjournals.org/content/68/19/8031.full
+|journal=Cancer Research
+|volume=68
+|issue=19
+|pages=8031–8038
+|year=2008
+|pmid=18829561
+|doi=10.1158/0008-5472.CAN-08-1490}}</ref>
+
+As a pharmaceutical agent, some research has suggested that administration of dehydroascorbic acid may confer protection from neuronal injury following an [[ischemic stroke]].<ref name="ascorBBB"/> The literature contains many reports on the antiviral effects of vitamin C,<ref>Jariwalla, R.J. & Harakeh S. (1997). Mechanisms underlying the action of vitamin C in viral and immunodeficiency disease. In L. Packer & J. Fuchs (Eds.), ''Vitamin C in health and disease'' (pp. 309-322). New York:Marcell Dekker, Inc.</ref> and one study suggests dehydroascorbic acid has stronger antiviral effects and a different mechanism of action than ascorbic acid.<ref name="antiviral">
+{{cite journal
+|author=Furuya A, Uozaki M, Yamasaki H, Arakawa T, Arita M, Koyama AH
+|title=Antiviral effects of ascorbic and dehydroascorbic acids in vitro
+|url=http://www.spandidos-publications.com/ijmm/22/4/541
+|journal=International Journal of Molecular Medicine
+|volume=22
+|issue=4
+|pages=541–545
+|year=2008
+|pmid=18813862
+|doi=10.3892/ijmm_00000053}}</ref> Solutions in water containing ascorbic acid and copper ions and/or peroxide, resulting in rapid oxidation of ascorbic acid to dehydroascorbic acid, have been shown to possess powerful but short-lived antimicrobial, antifungal, and antiviral properties, and have been used to treat gingivitis, periodontal disease, and dental plaque.<ref name=Ericsson>[http://free.patentfetcher.com/GetPatentPDF.php?f=Pats/US/30/65/US3065139.pdf Ericsson, Sten et al. “Anti Infectant Topical Preparations.” U.S. Patent 3,065,139, filed Nov. 9, 1954 and issued Nov. 20, 1962]</ref><ref name=Fine>[http://free.patentfetcher.com/GetPatentPDF.php?f=Pats/US/52/98/US5298237.pdf Fine, Daniel. “Gel composition for reduction of gingival inflammation and retardation of dental plaque.” U.S Patent 5,298,237, filed Jan.24, 1992 and issued March 29, 1994]</ref> A pharmaceutical product named Ascoxal is an example of such a solution used as a mouth rinse as an oral mucolytic and prophylactic agent against gingivitis.<ref name="Fine"></ref><ref name=herpes>[http://www.ncbi.nlm.nih.gov/pubmed/8540748 Hovi T, et al. Topical treatment of recurrent mucocutaneous herpes with ascorbic acid-containing solution. Antiviral Research 27 (1995) 263-270]</ref> Ascoxal solution has also been tested with positive results as a treatment for recurrent mucocutaneous herpes,<ref name="herpes"></ref> and as a mucolytic agent in acute and chronic pulmonary disease such as emphysema, bronchitis and asthma by aerosol inhalation.<ref>[http://www.anesthesia-analgesia.org/content/45/5/531.full.pdf+html Fisher AJ and Ten Pas RH. Clinical evaluation of Ascoxal: a new mucolytic agent. Anesthesia and Analgesia 45(5) 531-534 (1966)]</ref>
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* {{cite journal |author=Nualart F, Rivas C, Montecinos V, Godoy A, Guaiquil V, Golde D, Vera J |title=Recycling of vitamin C by a bystander effect |journal=J Biol Chem |volume=278 |issue=12 |pages=10128–33 |year=2003 |pmid=12435736 | url = http://www.jbc.org/cgi/content/full/278/12/10128 |doi=10.1074/jbc.M210686200
+}}
+
+{{Vitamin}}
+
+[[Category:Organic acids]]
+[[Category:Neurology]]
+
+[[de:Ascorbinsäure#Dehydroascorbinsäure]]

@@ -1,0 +1,80 @@
+'''''SOX'' genes''' encode a family of [[transcription factor]]s that bind to the [[minor groove]] in [[DNA]], and belong to a super-family of [[genes]] characterized by a [[homology (biology)|homologous]] sequence called the HMG ([[high mobility group]]) box. This HMG box is a [[DNA binding domain]] that is highly conserved throughout [[eukaryote|eukaryotic]] species. [[Homology (biology)|Homologues]] have been identified in insects, nematodes, amphibians, reptiles, birds and a range of mammals. However, HMG boxes can be very diverse in nature, with only a few [[amino acids]] being conserved between species.  
+
+Sox genes are defined as containing the HMG box of a gene involved in sex determination called ''[[SRY]]'', which resides on the [[Y-chromosome]] (Sox stands for <u>S</u>ry-related HMG b<u>ox</u>). There are 20 SOX genes present in humans and mice, and 8 present in Drosophila. Almost all Sox genes show at least 50% amino acid similarity with the HMG box in Sry. The family is divided into subgroups according to homology within the HMG domain and other structural motifs, as well as according to functional assays.<ref>{{cite journal|
+last=Bowles |
+first=J|
+coauthors= Schepers G; Koopman P.|
+title=Phylogeny of the SOX family of developmental transcription factors based on sequence and structural indicators.|
+journal= Dev Biol.|
+volume=227|
+issue=2|
+year=2000|
+month=November|
+pmid=11071752|
+doi=10.1006/dbio.2000.9883|
+pages=239–55
+}}</ref>
+
+The developmentally important Sox family has no singular function, and many members possess the ability to regulate several different aspects of development. While many Sox genes are involved in sex determination, some are also important in processes such as [[neuronal]] development. For example, Sox2 and Sox3 are involved in the transition of epithelial granule cells in the cerebellum to their migratory state. Granule cells then differentiate to granule neurons, with Sox11 being involved in this process.<ref>{{cite journal |last=Rex |first=M |title=Granule cell development in the cerebellum is punctuated by changes in Sox gene expression |journal=Molecular Brain Research |volume=55 |issue=1 |year=1998 |month=March |pages=28–34 |pmid=9645957 |doi=10.1016/S0169-328X(97)00354-9 |last2=Church |first2=R |last3=Tointon |first3=K |last4=Ichihashi |first4=RM |last5=Mokhtar |first5=S |last6=Uwanogho |first6=D |last7=Sharpe |first7=PT |last8=Scotting |first8=PJ}}</ref> It is thought that some Sox genes may be useful in the early diagnosis of childhood [[brain tumour]]s due to this sequential expression in the cerebellum, making them a target for significant research.
+
+Sox proteins bind to the sequence WWCAAW and similar sequences ([[DNA sequence|W=A/T]]). They have weak binding specificity and unusually low affinity for DNA. Sox genes are related to the [[TCF/LEF family|Tcf/Lef1]] group of genes which also contain a sequence-specific high mobility group and have a similar sequence specificity (roughly TWWCAAAG).<ref>{{cite journal |author=Lefebvre V, Dumitriu B, Penzo-Méndez A, Han Y, Pallavi B |title=Control of cell fate and differentiation by Sry-related high-mobility-group box (Sox) transcription factors |journal=Int. J. Biochem. Cell Biol. |volume=39 |issue=12 |pages=2195–214 |year=2007 |pmid=17625949 |pmc=2080623 |doi=10.1016/j.biocel.2007.05.019}}</ref>
+
+==Groups==
+Sox genes are classified into groups. Sox genes from different groups share little similarity outside the DNA-binding domain. In mouse and human the members of the groups are:<ref>{{cite journal |author=Guth SI, Wegner M |title=Having it both ways: Sox protein function between conservation and innovation |journal=Cell. Mol. Life Sci. |volume=65 |issue=19 |pages=3000–18 |year=2008 |month=October |pmid=18516494 |doi=10.1007/s00018-008-8138-7}}</ref>
+* SoxA: ''[[SRY]]''
+* SoxB1: ''[[SOX1]]'', ''[[SOX2]]'', ''[[SOX3]]''
+* SoxB2: ''[[SOX14]]'', ''[[SOX21]]''
+* SoxC: ''[[SOX4]]'', ''[[SOX11]],'' ''[[SOX12]]''
+* SoxD: ''[[SOX5]]'', ''[[SOX6]]'', ''[[SOX13]]''
+* SoxE: ''[[SOX8]]'', ''[[SOX9]]'', ''[[SOX10]]''
+* SoxF: ''[[SOX7]]'', ''[[SOX17]]'', ''[[SOX18]]''
+* SoxG: ''[[SOX15]]''
+* SoxH: ''[[SOX30]]''
+
+==See also==
+*[[Homeobox]]
+*[[Pax genes]]
+*[[Evolutionary developmental biology]]
+*[[Body plan]]
+
+==References==
+{{Reflist}}
+
+*{{cite journal|
+last=Wegner|
+first=M|
+title=From head to toes: the multiple facets of Sox proteins|
+journal= [[Nucleic Acids Research|Nucleic Acids Res.]]|
+volume=27|
+issue=6|
+year=1999|
+month=March|
+pages=1409–1420|
+pmid=10037800|
+doi=10.1093/nar/27.6.1409|
+pmc=148332
+}}
+
+*{{cite journal|
+last=Wright |
+first=EM|
+coauthors= Snopek B; Koopman P.|
+title=Seven new members of the Sox gene family expressed during mouse development|
+journal= Nucleic Acids Res.|
+volume=21|
+issue=3|
+year=1993|
+month=February|
+pmid=8441686|
+doi=10.1093/nar/21.3.744|
+pages=744–744|
+pmc=309180
+}}
+
+{{Transcription factors|g4}}
+
+[[Category:Genes]]
+[[Category:Transcription factors]]
+
+
+{{genetics-stub}}

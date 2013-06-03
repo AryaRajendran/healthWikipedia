@@ -1,0 +1,540 @@
+{{Infobox Brain|
+  Name            = Superior colliculus |
+  Latin           = Colliculus superior|
+  GraySubject     = 188 |
+  GrayPage        = 806 |
+  Image           = cn3nucleus.png |
+  Caption         = Section through superior colliculus (unlabeled) showing path of oculomotor nerve |
+  Image2          = Gray722.png |
+  Caption2        = Scheme showing central connections of the [[optic nerve]]s and optic tracts.  (Superior colliculus visible near center.) |
+  IsPartOf        = [[Tectum]]|
+  Components      = |
+  Artery          = |
+  Vein            = |
+  BrainInfoType   = hier |
+  BrainInfoNumber = 456 |
+  MeshName        = Superior+Colliculus |
+  MeshNumber      = A08.186.211.132.659.237.816 |
+ NeuroLex = Superior colliculus
+| NeuroLexID = birnlex_1040 |
+}}
+
+The '''optic tectum''' or simply '''[[tectum]]''' is a paired structure that forms a major component of the vertebrate midbrain.  In mammals, this structure is more commonly called the '''superior colliculus''' ([[Latin]], ''upper hill''), but, even in mammals, the adjective ''tectal'' is commonly used.  The tectum is a layered structure, with a number of layers that vary by species.  The superficial layers are sensory-related, and receive input from the eyes as well as other sensory systems.<ref>[[#refWallace|Wallace et al., 2005]]</ref>  The deep layers are motor-related, capable of activating eye movements as well as other responses.  There are also intermediate layers, with multi-sensory cells and motor properties.
+
+The general function of the tectal system is to direct behavioral responses toward specific points in egocentric ("body-centered") space.  Each layer of the tectum contains a [[topographic map]] of the surrounding world in [[retinotopy|retinotopic]] coordinates, and activation of neurons at a particular point in the map evokes a response directed toward the corresponding point in space.  In primates, the tectum ("superior colliculus") has been studied mainly with respect to its role in directing eye movements.  Visual input from the retina, or "command" input from the cerebral cortex, create a "bump" of activity in the tectal map, which, if strong enough, induces a [[saccade|saccadic eye movement]].  Even in primates, however, the tectum is also involved in generating spatially directed head turns, arm-reaching movements,<ref>[[#refLunenburger|Lunenburger et al., 2001]]</ref> and shifts in attention that do not involve any overt movements.<ref name=Kustov /> In other species, the tectum is involved in a wide range of responses, including whole-body turns in walking rats, swimming fishes, or flying birds; tongue-strikes toward prey in frogs; fang-strikes in snakes; etc.
+
+In some non-mammal species, including fish and birds, the tectum is one of the largest components of the brain.  In mammals, and especially primates, the massive expansion of the cerebral cortex reduces the tectum ("superior colliculus") to a much smaller fraction of the whole brain.  Even there, however, it remains very important in terms of function as the primary integrating center for eye movements.
+
+''Note on terminology'':  the use by the literature of different terms for mammals and non-mammals, for what is really the same structure, creates problems for an article that attempts to encompass the full range of vertebrate species.  There does not seem to be any way to handle this without causing either confusion or annoyance to some readers.  The approach taken in this article is to follow the literature by using the term "superior colliculus" when discussing mammals, and "optic tectum" when discussing either specific non-mammalian species or vertebrates in general.
+
+==Evolution and comparative anatomy==
+[[Image:Cod brain showing tectum.png|thumb|right|width=250px|The brain of a cod, with the optic tectum highlighted]]
+The optic tectum is one of the fundamental components of the vertebrate brain, existing across the full range of species from hagfish to human.<ref name=Maximino>[[#refMaximino|Maximino, 2008]]</ref>  (See the [[brain]] article for background.)  Some aspects of the structure are very consistent, including a structure composed of a number of layers, with a dense input from the optic tracts to the superficial layers and another strong input conveying somatosensory input to deeper layers.  Other aspects are highly variable, such as the total number of layers (from 3 in the African lungfish to 15 in the goldfish<ref name=Northcutt>[[#refNorthcutt|Northcutt, 2002]]</ref>), and the number of different types of cells (from 2 in the lungfish to 27 in the house sparrow<ref name=Northcutt />).  In hagfish, lamprey, and shark it is a relatively small structure, but in [[teleost]] fish it is greatly expanded, in some cases becoming the largest structure in the brain.  (See the adjoining drawing of a codfish brain.)  In amphibians, reptiles, and especially birds it is also a very significant component, but in mammals it is dwarfed by the massive expansion of the cerebral cortex.<ref name=Northcutt />
+
+===Lamprey===
+The lamprey has been extensively studied because it has a relatively simple brain that is thought in many respects to reflect the brain structure of early vertebrate ancestors.  Beginning in the 1970s, Sten Grillner and his colleagues at the Karolinska Institute in Stockholm have used the lamprey as a model system to work out the fundamental principles of motor control in vertebrates, starting in the spinal cord and working upward into the brain.<ref>[[#refGrillnerReview|Grillner, 2003]]</ref>  In a series of studies, they found that neural circuits within the spinal cord are capable of generating the rhythmic motor patterns that underlie swimming, that these circuits are controlled by specific locomotor areas in the brainstem and midbrain, and that these areas in turn are controlled by higher brain structures including the [[basal ganglia]] and tectum.  In a study of the lamprey tectum published in 2007,<ref>[[#refSaitoh|Saitoh et al., 2007]]</ref> they found that electrical stimulation could elicit eye movements, lateral bending movements, or swimming activity, and that the type, amplitude, and direction of movement varied as a function of the location within the tectum that was stimulated.  These findings were interpreted as consistent with the idea that the tectum generates goal-directed locomotion in the lamprey as it does in other species.
+
+===Bats===
+[[Bat]]s are not, in fact, blind, but they depend much more on echolocation than vision for navigation and prey capture.  They obtain information about the surrounding world by emitting sonar chirps and then listening for the echoes.  Their brains are highly specialized for this process, and some of these specializations appear in the superior colliculus.<ref>[[#refUlanovsky|Ulanovsky & Moss, 2008]]</ref>  In bats, the retinal projection occupies only a thin zone just beneath the surface, but there are extensive inputs from auditory areas, and outputs to motor areas capable of orienting the ears, head, or body.  Echoes coming from different directions activate neurons at different locations in the collicular layers,<ref name=Valentine>[[#refValentine|Valentine & Moss, 1997]]</ref> and activation of collicular neurons influences the chirps that the bats emit.  Thus, there is a strong case that the superior colliculus performs the same sorts of functions for the auditory-guided behaviors of bats that it performs for the visual-guided behaviors of other species.
+
+[[Bat]]s are usually classified into two main groups: [[Microchiroptera]] (the most numerous, and commonly found throughout the world), and [[Megachiroptera]] (fruit bats, found in Asia, Africa and Australasia). With one exception, [[Megabats]] do not echolocate, and rely on a developed sense of vision to navigate. The visual [[receptive fields]] of neurons in the superior colliculus in these animals form a precise map of the [[retina]], similar to that found in [[cats]] and [[primates]].
+
+==Structure and relations==
+
+The two superior colliculi sit below the [[thalamus]] and surround the [[pineal gland]] in the [[mesencephalon]] of [[vertebrate]] brains.  It comprises the [[Dorsum (anatomy)|dorsal]] aspect of the [[midbrain]], posterior to the [[periaqueductal gray]] and immediately superior to the [[inferior colliculus]]. The inferior and superior colliculi are known collectively as the [[corpora quadrigemina]] (Latin, ''quadruplet bodies'').
+
+===Neural circuit===
+[[Image:SparrowTectum.jpg|thumb|right|250px|Drawing by [[Ramon y Cajal]] of several types of Golgi-stained neurons in the optic tectum of a sparrow.]]
+[[File:HE stain murine optic tectum.jpg|thumb|right|250px|[[H&E stain]] of chicken optic tectum at E7 showing the generative zone (GZ), the migrating zone (MZ) and the first neuronal lamina (L1). Scale bar 200 μm. From Caltharp et al., 2007.<ref name="pmid17433109">{{cite journal |author=Caltharp SA, Pira CU, Mishima N, Youngdale EN, McNeill DS, Liwnicz BH, Oberg KC |title=NOGO-A induction and localization during chick brain development indicate a role disparate from neurite outgrowth inhibition |journal=[[BMC Dev. Biol.]] |volume=7 |issue= 1|pages=32 |year=2007 |pmid=17433109 |pmc=1865376 |doi=10.1186/1471-213X-7-32 |url=http://www.biomedcentral.com/1471-213X/7/32}}</ref>]]
+The microstructure of the optic tectum / superior colliculus varies across species.  As a general rule, there is always a clear distinction between superficial layers, which receive input primarily from the visual system and show primarily visual responses, and deeper layers, which receive many types of input and project to numerous motor-related brain areas.  The distinction between these two zones is so clear and consistent that some anatomists have suggested that they should be considered separate brain structures.
+
+In mammals, neuroanatomists conventionally identify seven layers<ref>[[#refHuerta|Huerta & Harting, 1984]]</ref>  The top three layers are called ''superficial'':
+*'''Lamina I''' or '''SZ''', the ''stratum zonale'', is a thin layer consisting of small myelinated axons together with marginal and horizontal cells.
+*'''Lamina II''' or '''SGS''', the ''stratum griseum superficiale'' ("superficial gray"), contains many neurons of various shapes and sizes.
+*'''Lamina III''' or '''SO''', the ''stratum opticum'' ("optic layer"), consists mainly of axons coming from the [[optic tract]].
+
+Next come two ''intermediate layers'':
+*'''Lamina IV''' or '''SGI''', the ''stratum griseum intermediale'' ("intermediate gray"), is the thickest layer, and is filled with many neurons of many sizes.  This layer is often as thick as all the other layers together.  It is often subdivided into "upper" and "lower" parts.
+*'''Lamina V''' or '''SAI''', the ''stratum album intermediale'' ("intermediate white"), consists mainly of fibers from various sources.
+
+Finally come the two ''deep layers'':
+*'''Lamina VI''' or '''SGP''', the ''stratum griseum profundum'' ("deep gray"), consists of loosely packed neurons and myelinated fibers.
+*'''Lamina VII''' or '''SAP''', the ''stratum album profundum'' ("deep white"), lying directly above the [[periaqueductal gray]], consists entirely of fibers.
+
+The superficial layers receive input mainly from the retina, vision-related areas of the cerebral cortex, and two tectal-related structures called the [[pretectum]] and ''parabigeminal nucleus''.  The retinal input encompasses the entire superficial zone, and is bilateral, although the contralateral portion is more extensive.  The cortical input comes most heavily from the [[primary visual cortex]] (area 17), the secondary visual cortex (areas [[Brodmann area 18|18]] and [[Brodmann area 19|19]]), and the [[frontal eye fields]].  The parabigeminal nucleus plays a very important role in tectal function that will be described below.
+
+In contrast to the vision-dominated inputs to the superficial layers, the intermediate and deep layers receive inputs from a very diverse set of sensory and motor structures.  Most areas of the cerebral cortex project to these layers, although the input from "association" areas tends to be heavier than the input from primary sensory or motor areas.{{Citation needed|date=July 2010}} However, the cortical areas involved, and the strength of their relative projections differs across species.<ref>{{cite journal |author=Clemo HR, Stein BE |title=Topographic organization of somatosensory corticotectal influences in cat |journal=Journal of Neurophysiology |volume=51 |issue=5 |pages=843–858 |year=1984 |pmid=6726314 |url=http://jn.physiology.org/cgi/content/abstract/51/5/843}}</ref> Another important input comes from the [[substantia nigra]], [[pars reticulata]], a component of the basal ganglia.  This projection uses the inhibitory neurotransmitter GABA, and is thought to exert a "gating" effect on the superior colliculus.  The intermediate and deep layers also receive input from the [[spinal trigeminal nucleus]], which conveys somatosensory information from the face, as well as the [[hypothalamus]], [[zona incerta]], [[thalamus]], and [[inferior colliculus]].
+
+In addition to their distinctive inputs, the superficial and deep zones of the superior colliculus also have distinctive outputs.  One of the most important outputs goes to the [[pulvinar]] and lateral intermediate areas of the thalamus, which in turn project to areas of the cerebral cortex that are involved in controlling eye movements.  There are also projections from the superficial zone to the pretectal nuclei, [[lateral geniculate nucleus]] of the thalamus, and the parabigeminal nucleus.  The projections from the deeper layers are more extensive.  There are two large descending pathways, traveling to the brainstem and spinal cord, and numerous ascending projections to a variety of sensory and motor centers, including several that are involved in generating eye movements.
+
+===Mosaic structure===
+On detailed examination the collicular layers are actually not smooth sheets, but divided into a honeycomb arrangement of discrete columns.<ref name=Chevalier>[[#refChevalier|Chavalier & Mana, 2000]]</ref>  The clearest indication of columnar structure comes from the cholinergic inputs arising from the parabigeminal nucleus, whose terminals form evenly spaced clusters that extend from top to bottom of the tectum.<ref name=Illing>[[#refIlling|Illing, 1996]]</ref>  Several other neurochemical markers including calretinin, parvalbumin, GAP-43, and NMDA receptors, and connections with numerous other brain structures in the brainstem and diencephalon, also show a corresponding inhomogeneity.<ref>[[#refMana|Mana & Chevalier, 2001]]</ref>  The total number of columns has been estimated at around 100.<ref name=Chevalier /> The functional significance of this columnar architecture is not clear, but it is interesting that recent evidence has implicated the cholinergic inputs as part of a recurrent circuit producing winner-take-all dynamics within the tectum, as described in more detail below.
+
+All species that have been examined — including mammals and non-mammals — show compartmentalization, but there are some systematic differences in the details of the arrangement.<ref name=Illing />  In species with a streak-type retina (mainly species with laterally placed eyes, such as rabbits and deer), the compartments cover the full extent of the SC.  In species with a centrally placed fovea, however, the compartmentalization breaks down in the front (rostral) part of the SC.  This portion of the SC contains many "fixation" neurons that fire continually while the eyes remain fixed in a constant position.
+
+===Nucleus Isthmii/Parabigeminalis===
+{{Unreferenced section|date=April 2011}}
+[[Image:Isthmii circuit.svg|thumb|right|250px|Schematic circuit diagram of topographic connections between the optic tectum and the two parts of nucleus isthmii.]]
+The optic tectum is closely associated with an adjoining structure called ''nucleus isthmii'', which has drawn great interest recently because of new evidence that it makes a very important contribution to tectal function.  In mammals, where the term ''superior colliculus'' is generally used instead of ''optic tectum'', this area is called the ''parabigeminal nucleus''.  Once again, this is simply a case of two different names being used for the same structure.  The nucleus isthmii is divided into two parts, called ''pars magnocellularis'' ('''Imc'''; "the part with the large cells") and ''pars parvocellularis'' ('''Ipc'''; "the part with the small cells").  ''Imc'' is also sometimes called ''pars semilunaris'', because it is shaped like a half-moon, or rather crescent-moon, in cross-section.
+
+As illustrated in the adjoining diagram, connections between the three areas — tectum, Ipc, and Imc — are topographic.  Neurons in the superficial layers of the tectum project to corresponding points in Ipc and Imc.  The projections to Ipc are tightly focused, while the projections to Imc are somewhat more diffuse.  Ipc gives rise to tightly focused cholinergic projections both to Imc and the tectum.  In the tectum, the cholinergic inputs from Ipc ramify to give rise to terminals that extend across an entire column, from top to bottom.  Imc, in contrast, gives rise to GABAergic projections to Ipc and tectum that spread very broadly in the lateral dimensions, encompassing most of the retinotopic map.  Thus, the tectum-Ipc-Imc circuit causes tectal activity to produce recurrent feedback that involves tightly focused excitation of a small column of neighboring tectal neurons, together with global inhibition of distant tectal neurons.
+
+==Function==
+The history of investigation of the optic tectum has been marked by several large shifts in opinion.  Before about 1970, most studies involved non-mammals — fish, frogs, birds - that is, species in which the tectum is the dominant structure that receives input from the eyes.  The general view then was that the tectum, in these species, is the main visual center in the non-mammalian brain, and, as a  consequence, is involved in a wide variety of behaviors.  From the 1970s to 1990s, however, neural recordings from mammals, mostly monkeys, focused primarily on the role of the superior colliculus in controlling eye movements.  This line of investigation came to dominate the literature to such a degree that the majority opinion was that eye-movement control is the only important function in mammals, a view still reflected in many current textbooks.
+
+In the late 1990s, however, experiments using animals whose heads were free to move showed clearly that the SC actually produces ''gaze shifts'', usually composed of combined head and eye movements, rather than eye movements ''per se''.  This discovery reawakened interest in the full breadth of functions of the superior colliculus, and led to studies of multisensory integration in a variety of species and situations.  Nevertheless, the role of the SC in controlling eye movements is understood in much greater depth than any other function.
+
+Behavioral studies have shown that the SC is not needed for object recognition, but plays a critical role in the ability to direct behaviors toward specific objects, and can support this ability even in the absence of the cerebral cortex.<ref>[[#refSprague|Sprague, 1996]]</ref>  Thus, cats with major damage to the visual cortex cannot recognize objects, but may still be able to follow and orient toward moving stimuli, although more slowly than usual.  If one half of the SC is removed, however, the cats will circle constantly toward the side of the lesion, and orient compulsively toward objects located there, but fail to orient at all toward objects located in the opposite hemifield.  These deficits diminish over time but never disappear.
+
+===Eye movements===
+In primates, [[eye movement (sensory)|eye movements]] can be divided into several types:  ''fixation'', in which the eyes are directed toward a motionless object, with eye movements only to compensate for movements of the head; ''smooth pursuit'', in which the eyes move steadily to track a moving object; ''saccades'', in which the eyes move very rapidly from one location to another; and ''vergence'', in which the eyes move simultaneously in opposite directions to obtain or maintain single binocular vision. The superior colliculus is involved in all of these, but its role in saccades has been studied most intensively.
+
+Each of the two colliculi — one on each side of the brain — contains a two-dimensional map representing half of the visual field.  The [[fovea]] — the region of maximum sensitivity — is represented at the front edge of the map, and the periphery at the back edge.  Eye movements are evoked by activity in the deep layers of the SC.  During fixation, neurons near the front edge — the foveal zone — are tonically active.  During smooth pursuit, neurons a small distance from the front edge are activated, leading to small eye movements.  For saccades, neurons are activated in a region that represents the point to which the saccade will be directed.  Just prior to a saccade, activity rapidly builds up at the target location and decreases in other parts of the SC.  The coding is rather broad, so that for any given saccade the activity profile forms a "hill" that encompasses a substantial fraction of the collicular map:  The location of the peak of this "hill" represents the saccade target.
+
+The SC encodes the target of a gaze shift, but it does not seem to specify the precise movements needed to get there.<ref>[[#refSparks2003|Sparks & Gandhi, 2003]]</ref>  The decomposition of a gaze shift into head and eye movements and the precise trajectory of the eye during a saccade depend on integration of collicular and non-collicular signals by downstream motor areas, in ways that are not yet well understood.  Regardless of how the movement is evoked or performed, the SC encodes it in "retinotopic" coordinates:  that is, a given SC activation pattern specifies a given offset from the current gaze direction, irrespective of the initial position of the eyes.<ref>[[#refKlier2001|Klier et al., 2001]]</ref>
+
+There has been some controversy about whether the SC merely commands eye movements, and leaves the execution to other structures, or whether it actively participates in the performance of a saccade.  In 1991, Munoz et al., on the basis of data they collected, argued that, during a saccade, the "hill" of activity in the SC moves gradually, to reflect the changing offset of the eye from the target location while the saccade is progressing.<ref>[[#refMunoz|Munoz et al., 1991]]</ref>   At present, however, the predominant view is that, although the "hill" does shift slightly during a saccade, it does not shift in the steady and proportionate way that the "moving hill" hypothesis predicts.<ref>[[#refSoetedjo|Soetedjo et al., 2002]]</ref>
+
+The output from the motor sector of the SC goes to a set of midbrain and brainstem nuclei, which transform the "place" code used by the SC into the "rate" code used by oculomotor neurons.  Eye movements are generated by six muscles, arranged in three orthogonally-aligned pairs.  Thus, at the level of the final common path, eye movements are encoded in essentially a Cartesian coordinate system.
+
+Although the SC receives a strong input directly from the retina, in primates it is largely under the control of the cerebral cortex, which contains several areas that are involved in determining eye movements.<ref>[[#refPierrot|Pierrot-Deseilligny et al., 2003]]</ref>  The [[frontal eye fields]], a portion of the motor cortex, are involved in triggering intentional saccades, and an adjoining area, the supplementary eye fields, are involved in organizing groups of saccades into sequences. The parietal eye fields, farther back in the brain, are involved mainly in reflexive saccades, made in response to changes in the view. 
+
+The SC only receives [[visual perception|visual]] inputs in its superficial layers, whereas the deeper layers of the colliculus receive also auditory and somatosensory inputs and are connected to many sensorimotor areas of the brain.  The colliculus as a whole is thought to help orient the head and eyes toward something seen and heard.<ref name=Kustov>[[#refKustov|Kustov & Robinson, 1996]]</ref><ref>[[#refKlier|Klier et al., 2003]]</ref><ref>[[#refKrauzlis|Krauzlis et al., 2004]]</ref><ref>[[#refSparks|Sparks, 1999]]</ref>
+
+The superior colliculus also receives auditory information from the inferior colliculus. This auditory information is integrated with the visual information already present to produce the ventriloquist effect.
+[[Image:Gray719.png|thumb|300px|left|Hind- and mid-brains; postero-lateral view. Superior colliculus labeled in blue.]]
+
+==Diversity==
+===Primates===
+It is usually accepted that the [[primate]] superior colliculus is unique among [[mammals]], in that it does not contain a complete map of the visual field seen by the contralateral eye. Instead, like the [[visual cortex]] and [[lateral geniculate nucleus]], each colliculus represents only the contralateral half of the [[visual field]], up to the midline, and excludes a representation of the ipsilateral half.<ref>[[#refLane|Lane et al., 1973]]</ref> This functional characteristic is explained by the absence, in primates, of anatomical connections between the [[retinal ganglion cells]] in the temporal half of the [[retina]] and the contralateral superior colliculus. In other mammals, the retinal ganglion cells throughout the contralateral retina project to the contralateral colliculus. This distinction between primates and non-primates has been one of the key lines of evidence in support of the [[flying primates theory]] proposed by Australian neuroscientist [[Jack Pettigrew]] in 1986, after he discovered that flying foxes ([[megabat]]s) resemble primates in terms of the pattern of anatomical connections between the retina and superior colliculus.<ref>[[#refPettigrew|Pettigrew, 1986]]</ref>
+
+===Other vertebrates===
+
+In [[snake]]s that can detect [[infrared radiation]], such as [[Pythonidae|python]]s and [[pit viper]]s, the initial neural input is through the [[trigeminal nerve]] instead of the [[optic tract]]. The rest of the processing is similar to that of the visual sense and, thus, involves the optic tectum.<ref>[[#refHartline1978|Hartline et al., 1978]]</ref>
+
+==See also==
+*[[inferior colliculus]]
+*[[Lateral geniculate nucleus]]
+*[[List of regions in the human brain]]
+
+==Additional images==
+<gallery>
+ Image:Gray682.png|Superficial dissection of brain-stem. Lateral view.
+ Image:Gray683.png|Dissection of brain-stem. Lateral view.
+ Image:Gray684.png|Deep dissection of brain-stem. Lateral view.
+ Image:Gray685.png|Deep dissection of brain-stem. Lateral view.
+ Image:Gray712.png|Transverse section of mid-brain at level of superior colliculi.
+ Image:Human brainstem-thalamus posterior view description.JPG
+ File:Slide5ff.JPG|Superior colliculus
+</gallery>
+
+==External links==
+{{Commonscat|superior colliculus}}
+* {{BrainstemWisconsin|23Colliculus}}
+* {{BrainMaps|superior%20colliculus|superior colliculus}}
+
+==Notes==
+{{Reflist|colwidth=20em}}
+
+==References==
+{{refbegin|2}}
+
+*<cite id="refChevalier">{{cite journal
+| last = Chevalier
+| first = G
+| coauthors = Mana S
+| title = Honeycomb-like structure of the intermediate layers of the rat superior colliculus, with additional observations in several other mammals: AChE patterning
+| journal = J Comp Neurol
+| volume = 419
+| pages = 137–53
+| year = 2000
+| pmid = 10722995
+| doi = 10.1002/(SICI)1096-9861(20000403)419:2<137::AID-CNE1>3.0.CO;2-6
+| issue = 2
+}}</cite>
+
+*<cite id="refDean">{{cite journal
+| last = Dean
+| first = P
+| coauthors = Redgrave P, Westby GW
+| title = Event or emergency? Two response systems in the mammalian superior colliculus
+| journal = Trends Neurosci
+| volume = 12
+| pages = 137–47
+| year = 1989
+| pmid = 2470171
+| doi = 10.1016/0166-2236(89)90052-0
+| issue = 4
+}}</cite>
+
+*<cite id="refGrillnerReview">{{cite journal
+| last = Grillner
+| first = S
+| title = The motor infrastructure: from ion channels to neuronal networks
+| journal = Nat Rev Neurosci
+| volume = 4
+| pages = 573–86
+| year = 2003
+| pmid = 12838332
+| doi = 10.1038/nrn1137
+| issue = 7
+}}</cite>
+
+*<cite id="refHartline1978">{{cite journal
+| last = Hartline
+| first = PH
+| coauthors = Kass L, Loop MS
+| title = Merging of modalities in the optic tectum: infrared and visual integration in rattlesnakes
+| journal = Science
+| volume = 199
+| pages = 1225–9
+| year = 1978
+| pmid = 628839
+| doi = 10.1126/science.628839
+| issue = 4334
+}}</cite>
+
+*<cite id="refHuerta">{{cite book
+| last = Huerta
+| first = MF
+| coauthors = Harting JK
+| editor = Vanegas H
+| title = Comparative Neurology of the Optic Tectum
+| pages = 687–773
+| year = 1984
+| publisher = Plenum Press
+| location = New York
+| isbn = 978-0-306-41236-3
+}}</cite>
+
+*<cite id="refIlling">{{cite journal
+| last = Illing
+| first = R-B
+| title = The mosaic architecture of the superior colliculus
+| journal = Prog Brain Res
+| volume = 112
+| pages = 17–34
+| year = 1996
+| pmid = 8979818
+| doi = 10.1016/S0079-6123(08)63318-X
+}}</cite>
+
+*<cite id="refKing">{{cite journal
+| last = King
+| first = AJ
+| coauthors = Schnupp JWH, Carlile S, Smith AL, Thompson ID
+| title = The development of topographically-aligned maps of visual an auditory space in the superior colliculus
+| journal = Prog Brain Res
+| volume = 112
+| pages = 335–350
+| year = 1996
+| pmid = 8979840
+| doi = 10.1016/S0079-6123(08)63340-3
+}}</cite>
+
+*<cite id="refKlier2001">{{cite journal
+| last = Klier
+| first = EM
+| coauthors = Wang H, Crawford JD
+| title = The superior colliculus encodes gaze commands in retinal coordinates
+| journal = Nat Neurosci
+| volume = 4
+| pages = 627–32
+| year = 2001
+| pmid = 11369944
+| url = http://www.yorku.ca/jdc/articles/KlierWangCraw_NN_01.pdf
+| format = PDF
+| doi = 10.1038/88450
+| issue = 6
+}}</cite>
+
+*<cite id="refKlier">{{cite journal
+| last = Klier
+| first = E
+| coauthors = Wang H, Crawford D
+| title = Three-dimensional eye-head coordination is implemented downstream from the superior colliculus
+| journal = J Neurophysiol
+| volume = 89
+| pages = 2839–53
+| year = 2003
+| pmid = 12740415
+| url = http://jn.physiology.org/cgi/content/full/89/5/2839
+| doi = 10.1152/jn.00763.2002
+| issue = 5
+}}</cite>
+
+*<cite id="refKrauzlis">{{cite journal
+| last = Krauzlis
+| first = R
+| coauthors = Liston D, Carello C
+| title = Target selection and the superior colliculus: goals, choices and hypotheses
+| journal = Vision Res
+| volume = 44
+| pages = 1445–51
+| year = 2004
+| pmid = 15066403
+| doi = 10.1016/j.visres.2004.01.005
+| issue = 12
+}}</cite>
+
+*<cite id="refKustov">{{cite journal
+| last = Kustov
+| first = A
+| coauthors = Robinson D
+| title = Shared neural control of attentional shifts and eye movements
+| journal = Nature
+| volume = 384
+| pages = 74–77
+| year = 1996
+| pmid = 8900281
+| doi = 10.1038/384074a0
+| issue = 6604
+}}</cite>
+
+*<cite id="refLane">{{cite journal
+| last = Lane
+| first = RH
+| coauthors = Allman JM, Kaas JH, Miezin FM
+| title = The visuotopic organization of the superior colliculus of the owl monkey (''Aotus trivirgatus'') and the bush baby (''Galago senegalensis'')
+| journal = Brain Res
+| volume = 60
+| pages = 335–49
+| year = 1973
+| doi = 10.1016/0006-8993(73)90794-4
+| pmid = 4202853
+| issue = 2
+}}</cite>
+
+*<cite id="refLunenburger">{{cite journal
+| last = Lunenburger
+| first = L
+| coauthors = Kleiser R, Stuphorn V, Miller LE, Hoffmann KP
+| title = A possible role of the superior colliculus in eye–hand coordination
+| journal = Prog Brain Res
+| volume = 134
+| pages = 109–25
+| year = 2001
+| pmid = 11702538
+| doi = 10.1016/S0079-6123(01)34009-8
+}}</cite>
+
+*<cite id="refMana">{{cite journal
+| last = Mana
+| first = S
+| coauthors = Chevalier G
+| title = Honeycomb-like structure of the intermediate layers of the rat superior colliculus: afferent and efferent connections
+| journal = Neuroscience
+| volume = 103
+| pages = 673–93
+| year = 2001
+| pmid = 11274787
+| doi = 10.1016/S0306-4522(01)00026-4
+| issue = 3
+}}</cite>
+
+*<cite id="refMaximino">{{cite journal
+| last = Maximino
+| first = C
+| title = Evolutionary changes in the complexity of the tectum of nontetrapods: a cladistic approach
+| journal = PLOS One
+| editor1-first = Daphne
+| volume = 3
+| pages = e385
+| editor1-last = Soares
+| year = 2008
+| url = http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0003582
+| doi = 10.1371/journal.pone.0003582
+| last2 = Soares
+| first2 = Daphne
+| pmid = 18974789
+| issue = 10
+| pmc = 2571994
+}}</cite>
+
+*<cite id="refMunoz">{{cite journal
+| last = Munoz
+| first = DP
+| coauthors = Pélisson D, Guitton D
+| title = Movement of activity on the superior colliculus motor map during gaze shifts
+| journal = Science
+| volume = 251
+| pages = 1358–60
+| year = 1991
+| pmid = 2003221
+| url = http://brain.phgy.queensu.ca/doug/www/publications/57_Munoz_Science_1991_251.pdf
+| format = PDF
+| doi = 10.1126/science.2003221
+| issue = 4999
+}}</cite>
+
+*<cite id="refNorthcutt">{{cite journal
+| last = Northcutt
+| first = RG
+| title = Understanding vertebrate brain evolution
+| journal = Integr Comp Biol
+| volume = 42
+| issue = 4
+| pages = 743–6
+| year = 2002
+| url = http://icb.oxfordjournals.org/cgi/content/full/42/4/743
+| doi = 10.1093/icb/42.4.743
+| pmid=21708771
+}}</cite>
+
+*<cite id="refPettigrew">{{cite journal
+| last = Pettigrew
+| first = JD
+| title = Flying primates? Megabats have the advanced pathway from eye to midbrain
+| journal = Science
+| volume = 231
+| pages = 1304–6
+| year = 1986
+| pmid = 3945827
+| doi = 10.1126/science.3945827
+| issue = 4743
+}}</cite>
+
+*<cite id="refPierrot">{{cite journal
+| last = Pierrot-Deseilligny
+| first = C
+| coauthors = Müri RM, Ploner CJ, Gaymard B, Rivaud-Péchoux S
+| title = Cortical control of ocular saccades in humans: a model for motricity
+| journal = Prog Brain Res
+| volume = 142
+| pages = 3–17
+| year = 2003
+| pmid = 12693251
+| doi = 10.1016/S0079-6123(03)42003-7
+}}</cite>
+
+*<cite id="refSaitoh">{{cite journal
+| last = Saitoh
+| first = K
+| coauthors = Ménard A, Grillner S
+| title = Tectal control of locomotion, steering, and eye movements in lamprey
+| journal = J Neurophysiol
+| volume = 97
+| pages = 3093–108
+| year = 2007
+| pmid = 17303814
+| url = http://jn.physiology.org/cgi/content/full/97/4/3093
+| doi = 10.1152/jn.00639.2006
+| issue = 4
+}}</cite>
+
+*<cite id="refSoetedjo">{{cite journal
+| last = Soetedjo
+| first = R
+| coauthors = Kaneko CR, Fuchs AF
+| title = Evidence against a moving hill in the superior colliculus during saccadic eye movements in the monkey
+| journal = J Neurophysiol
+| volume = 87
+| pages = 2778–89
+| year = 2002
+| pmid = 12037180
+| url = http://jn.physiology.org/cgi/content/full/87/6/2778
+| issue = 6
+}}</cite>
+
+*<cite id="refSparks">{{cite journal
+| last = Sparks
+| first = DL
+| title = Conceptual issues related to the role of the superior colliculus in the control of gaze
+| journal = Curr Op Neurobiol
+| volume = 6
+| pages = 698–707
+| year = 1999
+| pmid = 10607648
+| issue = 6
+| doi=10.1016/S0959-4388(99)00039-2
+}}</cite>
+
+*<cite id="refSparks2003">{{cite journal
+| last = Sparks
+| first = DL
+| coauthors = Gandhi NJ
+| title = Single-cell signals: an oculomotor perspective
+| journal = Prog Brain Res
+| volume = 142
+| pages = 35–53
+| year = 2003
+| pmid = 12693253
+| doi = 10.1016/S0079-6123(03)42005-0
+}}</cite>
+
+*<cite id="refSprague">{{cite journal
+| last = Sprague
+| first = JM
+| title = Neural mechanisms of visual orienting responses
+| journal = Prog Brain Res
+| volume = 112
+| pages = 1–15
+| year = 1996
+| pmid = 8979817
+| doi = 10.1016/S0079-6123(08)63317-8
+}}</cite>
+
+*<cite id="refSteinPinna">{{cite journal
+| last = Stein
+| first = BE
+| coauthors = Clamman HP
+| title = Control of pinna movements and sensorimotor register in cat superior colliculus
+| journal = Brain Behav Evol
+| volume = 19
+| pages = 180–192
+| year = 1981
+| pmid = 7326575
+| doi = 10.1159/000121641
+| issue = 3-4
+}}</cite>
+
+*<cite id="refUlanovsky">{{cite journal
+| last = Ulanovsky
+| first = N
+| coauthors = Moss CF
+| title = What the bat's voice tells the bat's brain
+| journal = PNAS
+| volume = 105
+| pages = 8491–98
+| year = 2008
+| pmid = 18562301
+| doi = 10.1073/pnas.0703550105
+| issue = 25
+| pmc = 2438418
+}}</cite>
+
+*<cite id="refValentine">{{cite journal
+| last = Valentine
+| first = D
+| coauthors = Moss CF
+| title = Spatially selective auditory responses in the superior colliculus of the echolocating bat
+| journal = J Neurosci
+| volume = 17
+| pages = 1720–33
+| year = 1997
+| url = http://www.jneurosci.org/cgi/content/full/17/5/1720
+| pmid = 9030631
+| issue = 5
+}}</cite>
+
+*<cite id="refWallace">{{cite journal
+| last = Wallace
+| first = MT
+| coauthors = Meredith MA, Stein BE
+| title = Multisensory integration in the superior colliculus of the alert cat
+| journal = J Neurophysiol
+| volume = 80
+| pages = 1006–10
+| year = 1998
+| url = http://jn.physiology.org/cgi/content/full/80/2/1006
+| pmid = 9705489
+| issue = 2
+}}</cite>
+
+{{refend}}
+
+{{Mesencephalon}}
+
+{{DEFAULTSORT:Superior Colliculus}}
+[[Category:Brainstem]]
+[[Category:Neuroanatomy]]

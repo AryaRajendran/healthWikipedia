@@ -1,0 +1,133 @@
+[[File:Monomeric and dimeric representations of HBD-2.jpg|thumb|150|Monomeric and dimeric structures of human beta-defensin HBD-2]]
+'''Defensins''' are small Cysteine-rich [[cationic]] [[proteins]] found in both [[vertebrate]]s and [[invertebrate]]s. They have also been reported in plants.<ref>[http://dx.doi.org/10.1016/j.peptides.2008.08.019 Structure–activity studies of AtPep1, a plant peptide signal involved in the innate immune response] Peptides Volume 29, Issue 12, December 2008, Pages 2083-2089</ref><ref>[http://www.ncbi.nlm.nih.gov/pubmed/12447532 Planta. 2002 Dec;216(2):193-202. Epub 2002 Oct 8. Plant defensins.]</ref> They are, and function as, [[host defense peptides]]. They are active against [[bacteria]], [[fungus|fungi]] and many enveloped and nonenveloped [[viruses]]. They consist of 18-45 [[amino acid]]s including six (in vertebrates) to eight conserved [[cysteine]] residues. Cells of the [[immune system]] contain these peptides to assist in killing [[Phagocyte|phagocytosed]] bacteria, for example in [[neutrophil granulocyte]]s and almost all [[epithelial cells]]. Most defensins function by binding to the [[microbial]] [[cell membrane]], and, once embedded, forming pore-like membrane defects that allow [[efflux (microbiology)|efflux]] of essential ions and nutrients.
+
+==Varieties==
+The underlying genes responsible for defensin production are highly [[Polymorphism (biology)|polymorphic]]. Some aspects are conserved, however; the hallmarks of a β-defensin are its small size, high density of cationic charge, and six-cysteine-residue motif. In general, they are encoded by two-[[exon]] genes, wherein the first exon encodes for a hydrophobic leader sequence and the second for a peptide containing the cysteine motif.
+
+{| class="wikitable" style="text-align:center"
+ ! style="width:70px" | Type
+ ! Gene Symbol
+ ! style="width:120px" | Gene Name
+ ! style="width:140px" | Protein Name
+ ! Description
+ |- 
+ |  rowspan="6" | [[Alpha defensin|α-defensins]] 
+ | [[DEFA1]] 
+ | Defensin, alpha 1
+ | Neutrophil defensin 1
+ | rowspan="6" | Are expressed primarily in [[neutrophils]] as well as in [[NK cells]] and certain T-lymphocyte subsets. [[DEFA5]] and [[DEFA6]] are expressed in [[Paneth cells]] of the small intestine, where they may regulate and maintain microbial balance in the intestinal lumen. 
+ |- 
+ | [[DEFA1B]] 
+ | Defensin, alpha 1B
+ | Defensin, alpha 1
+ |- 
+ | [[DEFA3]]
+ | Defensin, alpha 3, neutrophil-specific
+ | Neutrophil defensin 3 
+ |- 
+ | [[DEFA4]]
+ | Defensin, alpha 4, corticostatin
+ | Neutrophil defensin 4
+ |- 
+ | [[DEFA5]]
+ | Defensin, alpha 5, Paneth cell-specific
+ | Defensin-5
+ |- 
+ | [[DEFA6]]
+ | Defensin, alpha 6, Paneth cell-specific
+ | Defensin-6
+ |- 
+ | rowspan="8" | [[Beta defensin|β-defensins]]
+ | [[Defensin, beta 1|DEFB1]]
+ | Defensin, beta 1
+ | Beta-defensin 1
+ |  rowspan="8" | Are the most widely distributed, being secreted by [[leukocytes]] and [[epithelial]] cells of many kinds. For example, they can be found on the tongue, skin, cornea, salivary glands, kidneys, esophagus, and respiratory tract. It has been suggested (but also challenged)  that some of the pathology of [[cystic fibrosis]] arises from the inhibition of β-defensin activity on the epithelial surfaces of the lungs and trachea due to higher salt content. 
+ |- 
+ | [[Beta-defensin 2|DEFB2]]
+ | Defensin, beta 2
+ | Beta-defensin 2
+ |- 
+ | [[DEFB103A]]
+ | Defensin, beta 103B
+ | Beta-defensin 103
+ |- 
+ | <sup>'''...'''</sup>
+ | <sup>'''...'''</sup>
+ | <sup>'''...'''</sup>
+ |- 
+ | [[DEFB107B]]
+ | Defensin, beta 107A
+ | Beta-defensin 107
+ |- 
+ | [[DEFB110]]
+ | Defensin, beta 110
+ | Beta-defensin 110
+ |- 
+ | <sup>'''...'''</sup>
+ | <sup>'''...'''</sup>
+ | <sup>'''...'''</sup>
+ |- 
+ | [[DEFB136]]
+ | Defensin, beta 136
+ | Beta-defensin 136
+ |- 
+ | [[Theta defensin|θ-defensins]]  
+ | [[DEFT1P]]
+ | Defensin, theta 1 pseudogene
+ | not expressed in humans
+ | Are rare, and thus far have been found only in the leukocytes of the [[rhesus macaque]]<ref name="pmid18160518">{{cite journal | author = Tran D, Tran P, Roberts K, Osapay G, Schaal J, Ouellette A, Selsted ME | title = Microbicidal properties and cytocidal selectivity of rhesus macaque theta defensins | journal = Antimicrob. Agents Chemother. | volume = 52 | issue = 3 | pages = 944–53 | year = 2008 | month = March | pmid = 18160518 | pmc = 2258523 | doi = 10.1128/AAC.01090-07 | url = | issn = }}</ref> and the olive baboon, [[Papio anubis]], being vestigial in humans and other primates.<ref name="olivebaboon1">Angie Eva Garcia and Michael Selsted [http://www.fasebj.org/cgi/content/meeting_abstract/22/1_MeetingAbstracts/673.11 Olive baboon theta-defensins] FASEB J. 2008 22:673.11</ref><ref name="pmid18852242">{{cite journal | author = Garcia AE, Osapay G, Tran PA, Yuan J, Selsted ME | title = Isolation, synthesis, and antimicrobial activities of naturally occurring theta-defensin isoforms from baboon leukocytes | journal = Infect. Immun. | volume = 76 | issue = 12 | pages = 5883–91 | year = 2008 | month = December | pmid = 18852242 | pmc = 2583559 | doi = 10.1128/IAI.01100-08 | url = | issn = }}</ref>
+|}
+
+==Function==
+In immature [[marsupials]], because their [[immune system]] is underdeveloped at the time of birth, defensins play a major role in defense against [[pathogens]]. They are produced in the milk of the mother as well as by the young marsupial in question. 
+
+Human genome contains theta-defensin genes, but they have a premature [[stop codon]], hampering their expression. An artificial human theta-defensin,<ref>{{MeshName|retrocyclin}}</ref> '''retrocyclin''', was created by `fixing' the [[pseudogene]], and it was shown to be effective against [[Human immunodeficiency virus|HIV]]<!--
+
+--><ref name="pmid14585219">{{cite journal | pmid = 14585219 | doi=10.1089/088922203322493049 | volume=19 | issue=10 | title=The theta-defensin, retrocyclin, inhibits HIV-1 entry | year=2003 | month=October | author=M&uuml;nk C, Wei G, Yang OO, ''et al.'' | journal=AIDS Res. Hum. Retroviruses | pages=875–81}}</ref><!--
+
+--> and other viruses, including [[herpes simplex virus]] and [[influenza A]]. They act primarily by preventing these viruses from entering their target cells. 
+
+Also interesting is the effect of alpha-defensins on the [[exotoxin]] produced by anthrax (''[[Bacillus anthracis]]''). Chun Kim et al. showed how anthrax, which produces a [[metalloprotease]] Lethal Factor (LF) protein to target [[MAPKK]], is vulnerable to human neutrophil protein-1 (HNP-1). This group showed HNP-1 to behave as a reversible noncompetitive inhibitor of LF.<ref>{{cite journal | author = Kim C, Gajendran N, Mittrücker H, Weiwad M, Song Y, Hurwitz R, Wilmanns M, Fischer G, Kaufmann S | title = Human alpha-defensins neutralize anthrax lethal toxin and protect against its fatal consequences | journal = Proc Natl Acad Sci U S A | volume = 102 | issue = 13 | pages = 4830–5 | year = 2005 | pmid = 15772169 | doi = 10.1073/pnas.0500508102 | pmc = 555714}}</ref>
+
+Defensin-like proteins are also a component of [[platypus]] venom.
+
+===Defensin-mimetics as antibiotics===
+Similar molecules (e.g. [[PMX-30063]]) are being developed as [[antibiotic]]s.<ref>{{cite news |url=http://www.medicalnewstoday.com/releases/118978.php |title=PMX-30063 The First And Only Defensin Mimetic Systemic Antibiotic Drug In Human Clinical Trials |year=2008 }}</ref>
+
+==Pathology==
+
+The [[alpha defensin]] peptides are increased in chronic inflammatory conditions.
+
+[[Alpha defensin]] are increased in several cancers, including colorectal cancer.<ref>{{cite journal | author = Albrethsen J | last2 = Bøgebo | first2 = R | last3 = Gammeltoft | first3 = S | last4 = Olsen | first4 = J | last5 = Winther | first5 = B | last6 = Raskov | first6 = H | title = Upregulated expression of human neutrophil peptides 1, 2 and 3 (HNP 1-3) in colon cancer serum and tumours: a biomarker study | journal = BMC cancer | volume = 5 | pages = 9 | year = 2005 | pmid = 15656915 | pmc = 548152 | url = http://www.biomedcentral.com/1471-2407/5/8}}</ref>
+
+An imbalance of defensins in the skin may contribute to acne.<ref>{{cite journal | author = Philpott M | title = Defensins and acne | journal = Mol Immunol | volume = 40 | issue = 7 | pages = 457–62 | year = 2003 | pmid = 14568392 | doi = 10.1016/S0161-5890(03)00154-8}}</ref> 
+
+A reduction of [[ileum|ileal]] defensins may predispose to [[Crohn's disease]].<ref>Genomics & Genetics Weekly, "Researchers discover a possible cause of chronic inflammations of Crohn Disease." August 11, 2006, page 72</ref><ref>{{cite journal |author=Wehkamp J et al. |title=Reduced Paneth cell alpha-defensins in ileal Crohn's disease |journal=Proc Natl Acad Sci U S A |volume=102 |issue=50 |pages=18129–34 |year=2005 |pmid=16330776 |url=http://www.pnas.org/cgi/content/abstract/102/50/18129 |doi=10.1073/pnas.0505256102 |format=abstract |pmc=1306791}}</ref>
+
+In one small study, a significant increase in [[alpha defensin]] levels was detected in [[T cell]] lysates of [[schizophrenia]] patients; in discordant twin pairs, unaffected twins also had an increase, although not as high as that of their ill siblings. The authors suggested that alpha-defensin levels might prove a useful marker for schizophrenia risk.<!--
+
+--><ref name="pmid18349140">{{cite journal |author=Craddock RM, Huang JT, Jackson E, ''et al.'' |title=Increased alpha defensins as a blood marker for schizophrenia susceptibility |journal=[[Mol. Cell Proteomics]] |volume= 7|issue= 7|pages= 1204–13|year=2008 |month=March |pmid=18349140 |doi=10.1074/mcp.M700459-MCP200 |url=http://www.mcponline.org/cgi/pmidlookup?view=long&pmid=18349140}}</ref>
+
+Defensins are found in the human skin during inflammatory conditions like [[psoriasis]]<ref>{{cite journal|last=Harder|first=J|coauthors=Bartels, J, Christophers, E, Schroder, JM|title=Isolation and characterization of human beta -defensin-3, a novel human inducible peptide antibiotic.|journal=The Journal of Biological Chemistry|date=Feb 23|year=2001|volume=276|issue=8|pages=5707–13|pmid=11085990|doi=10.1074/jbc.M008557200}}</ref> and also during [[wound healing]].
+
+==See also==
+* [[Arthropod defensin]]
+* [[Host defense peptides]], to which defensins belong.
+* [[Virtual colony count]]
+
+==References==
+{{commons category|Defensins}}
+{{Reflist|2}}
+
+==External links==
+*  [http://defensins.bii.a-star.edu.sg/ Defensins Database, Singapore]
+* [http://bioweb.wku.edu/courses/biol328/Innate.htm Innate ( Nonspecific ) Immunity] at [[Western Kentucky University]]
+* {{UMichOPM|families|superfamily|56}} - Vertebrate defensins and related sea anemone sodium channel toxins
+* {{UMichOPM|families|superfamily|61}} - Defensins from insects and plants and scorpion toxins
+* {{MeshName|Defensins}}
+
+{{Granule contents}}
+{{Pore-forming toxins}}
+
+[[Category:Hematology]]
+[[Category:Peripheral membrane proteins]]

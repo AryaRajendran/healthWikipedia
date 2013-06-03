@@ -1,0 +1,108 @@
+[[File:Ribosome mRNA translation en.svg|thumb|Simplified schematic of mRNA translation]]
+A '''protein synthesis inhibitor''' is a substance that stops or slows the growth or proliferation of cells by disrupting the processes that lead directly to the generation of new proteins.<ref name="urlDefinition: protein synthesis inhibitor from Online Medical Dictionary">{{cite web |url=http://cancerweb.ncl.ac.uk/cgi-bin/omd?protein+synthesis+inhibitor |title=Definition: protein synthesis inhibitor from Online Medical Dictionary |format= |work= |accessdate=}}</ref>
+
+While a broad interpretation of this definition could be used to describe nearly any [[antibiotic]], in practice, it usually refers to substances that act at the [[ribosome]] level (either the ribosome itself or the translation factor),<ref name="urlMIT OpenCourseWare | Biology | 7.344 Antibiotics, Toxins, and Protein Engineering, Spring 2007 | Lecture Notes">{{cite web |url=http://ocw.mit.edu/OcwWeb/Biology/7-344Spring-2007/LectureNotes/index.htm |work=MIT OpenCourseWare |title= 7.344 Antibiotics, Toxins, and Protein Engineering, Spring 2007 |accessdate=}}</ref> taking advantages of the major differences between [[prokaryotic]] and [[eukaryotic]] ribosome structures.
+
+[[Toxin]]s such as [[ricin]] also function via protein synthesis inhibition.<ref name="pmid3167211">{{cite journal |author=Leonard JE, Grothaus CD, Taetle R |title=Ricin binding and protein synthesis inhibition in human hematopoietic cell lines |journal=Blood |volume=72 |issue=4 |pages=1357–1363 |year=1988 |month=October |pmid=3167211 |doi= |url=http://www.bloodjournal.org/cgi/pmidlookup?view=long&pmid=3167211}}</ref> Ricin acts at the eukaryotic [[60S]].<ref name="pmid3391162">{{cite journal |author=Terao K, Uchiumi T, Endo Y, Ogata K |title=Ricin and alpha-sarcin alter the conformation of 60S ribosomal subunits at neighboring but different sites |journal=Eur. J. Biochem. |volume=174 |issue=3 |pages=459–463 |year=1988 |month=June |pmid=3391162 |doi= 10.1111/j.1432-1033.1988.tb14120.x|url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0014-2956&date=1988&volume=174&issue=3&spage=459}}</ref>
+
+Examples:
+* [[Neomycin]]
+* Geneticin, also called G418
+
+==Mechanism==
+In general, protein synthesis inhibitors work at different stages of [[Prokaryotic translation|prokaryotic mRNA translation]] into proteins, like initiation, elongation (including [[aminoacyl tRNA]] entry, [[Proofreading (biology)|proofreading]], [[peptidyl transfer]], and [[ribosomal translocation]]) and termination:
+
+===Earlier stages===
+* [[Rifamycin]] inhibits [[Prokaryotic transcription|prokaryotic DNA transcription]] into mRNA by inhibiting DNA-dependent [[RNA polymerase]] by binding its beta-subunit.
+
+===Initiation===
+* [[Linezolid]] acts at the initiation stage,<ref name="pmid9835522">{{cite journal |author=Swaney SM, Aoki H, Ganoza MC, Shinabarger DL |title=The Oxazolidinone Linezolid Inhibits Initiation of Protein Synthesis in Bacteria |journal=Antimicrob. Agents Chemother. |volume=42 |issue=12 |pages=3251–3255 |year=1998 |month=December |pmid=9835522 |pmc=106030 |doi= |url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=9835522}}</ref> probably by preventing the formation of the [[initiation complex]], although the mechanism is not fully understood.<ref name=Skripkin>{{cite journal |author=Skripkin E, McConnell TS, DeVito J, ''et al.'' |title=Rχ-01, a New Family of Oxazolidinones That Overcome Ribosome-Based Linezolid Resistance |journal=Antimicrobial Agents and Chemotherapy |volume=52 |issue=10 |pages=3550–3557 |year=2008 |month=October |pmid=18663023 |pmc=2565890 |doi=10.1128/AAC.01193-07}}</ref>
+
+===Aminoacyl tRNA entry===
+* [[Tetracyclines]] and [[Tigecycline]]<ref>{{cite journal
+| author = Slover CM, Rodvold KA, Danziger LH
+| title = Tigecycline: a novel broad-spectrum antimicrobial
+| journal = Ann Pharmacother
+| volume = 41
+| issue = 6
+| pages = 965–972
+| year = 2007
+| month = June
+| doi = 10.1345/aph.1H543
+| url = http://www.medscape.com/viewarticle/557981_2
+| accessdate = 2009-12-19
+| pmid = 17519296
+}}</ref> (a [[glycylcycline]] related to tetracyclines) block the A site on the ribosome, preventing the binding of [[aminoacyl tRNA]]s.
+
+===Proofreading===
+* [[Aminoglycosides]], among other potential mechanisms of action, interfere with the [[Proofreading (biology)|proofreading]] process, causing increased rate of error in synthesis with premature termination.<ref name=Flavio>{{cite web | url=http://pharmamotion.com.ar/protein-synthesis-inhibitors-aminoglycosides-mechanism-of-action-animation-classification-of-agents/ |work=Pharmamotion |title=Protein synthesis inhibitors: aminoglycosides mechanism of action animation. Classification of agents|author= Flavio Guzmán |date= 12/08/2008}}</ref>
+
+===Peptidyl transfer===
+* [[Chloramphenicol]] blocks the [[peptidyl transfer]] step of elongation on the 50S ribosomal subunit in both bacteria and [[mitochondria]].
+*[[Macrolides]] (as well as inhibiting ''ribosomal translocation''<ref name=pharmamotion>[http://pharmamotion.com.ar/protein-synthesis-inhibitors-macrolides-mechanism-of-action-animation-classification-of-agents/ Protein synthesis inhibitors: macrolides mechanism of action animation. Classification of agents] Pharmamotion. Author: Gary Kaiser. The Community College of Baltimore County. Retrieved on July 31, 2009</ref> and other potential mechanisms) bind to the 50s ribosomal subunits, inhibiting ''peptidyl transfer''.
+* [[Quinupristin/dalfopristin]] act synergistically, with dalfopristin, enhancing the binding of quinupristin, as well as inhibiting ''peptidyl transfer''.<ref name=hugo>[http://books.google.com/books?id=ekyv3I9ccIQC&printsec=frontcover&source=gbs_navlinks_s#v=onepage&q=&f=false Page 212] in:
+Title: Hugo and Russell's pharmaceutical microbiology
+Authors: William Barry Hugo, Stephen P. Denyer, Norman A. Hodges, Sean P. Gorman
+Edition: 7, illustrated
+Publisher: Wiley-Blackwell, 2004
+ISBN 0-632-06467-6
+Length: 481 pages</ref> Quinupristin binds to a nearby site on the 50S ribosomal subunit and prevents elongation of the [[polypeptide]],<ref name=hugo/> as well as causing incomplete chains to be released.<ref name=hugo/>
+
+===Ribosomal translocation===
+* [[Macrolide]]s,<ref name=pharmamotion/> [[clindamycin]]<ref>[http://sitemaker.umich.edu/mc3/clindamycin Wisteria Lane cases --> CLINDAMYCIN] University of Michigan. Retrieved on July 31, 2009</ref> and [[aminoglycosides]]<ref name=Flavio/> (with all these three having other potential mechanisms of action as well), have evidence of inhibition of [[ribosomal translocation]].
+* [[Fusidic acid]] prevents the turnover of [[elongation factor]] G ([[EF-G]]) from the [[ribosome]].
+
+===Termination===
+* [[Macrolides]]<ref name=menninger>{{cite journal
+| author = Menninger JR
+| title = Mechanism of inhibition of protein synthesis by macrolide and lincosamide antibiotics
+| journal = J Basic Clin Physiol Pharmacol
+| volume = 6
+| issue = 3–4
+| pages = 229–250
+| year = 1995
+| pmid = 8852269
+| doi = 10.1515/JBCPP.1995.6.3-4.229
+}}</ref><ref name=lovmar>{{cite journal
+| author = Tenson T, Lovmar M, Ehrenberg M
+| title = The mechanism of action of macrolides, lincosamides and streptogramin B reveals the nascent peptide exit path in the ribosome
+| journal = J. Mol. Biol.
+| volume = 330
+| issue = 5
+| pages = 1005–1014
+| year = 2003
+| month = July
+| doi = 10.1016/S0022-2836(03)00662-4
+| pmid = 12860123
+}}</ref> and [[clindamycin]]<ref name=menninger/><ref name=lovmar/> (both also having other potential mechanisms) cause premature dissociation of the [[peptidyl-tRNA]] from the ribosome.
+* [[Puromycin]] has a structure similar to that of the [[tyrosine|tyrosinyl]] aminoacyl-tRNA. Thus, it binds to the ribosomal A site and participates in peptide bond formation, producing peptidyl-puromycin. However, it does not engage in translocation and quickly dissociates from the ribosome, causing a premature termination of polypeptide synthesis.
+*[[Streptogramin]]s also cause premature release of the peptide chain.<ref name=lange2008/>
+
+===Protein synthesis inhibitors of unspecified mechanism===
+*[[Retapamulin]]<ref name=drugbank>[http://www.drugbank.ca/drugs/DB01256 Drugbank.ca > Showing drug card for Retapamulin (DB01256)] Update Date: 2009-06-23</ref>
+*[[Mupirocin]]
+
+==Binding site==
+The following antibiotics bind to the 30S subunit of the [[ribosome]]:
+*[[Aminoglycoside]]s <ref name=lange2008>{{Cite book  | last1 = Levinson | first1 = Warren | title = Review of medical microbiology and immunology | year = 2008 | publisher = McGraw-Hill Medical  | location = New York  | isbn  = 978-0-07-149620-9 | pages =  }}</ref>
+*[[Tetracycline]]s<ref name=lange2008/>
+
+The following antibiotics bind to the 50S ribosomal subunit:
+*[[Chloramphenicol]]<ref name=lange2008/>
+*[[Erythromycin]]<ref name=lange2008/>
+*[[Clindamycin]]<ref name=lange2008/>
+*[[Linezolid]]<ref name=lange2008/> (an [[oxazolidinone]])
+*[[Telithromycin]]<ref name=lange2008/>
+*[[Streptogramin]]s<ref name=lange2008/>
+*[[Retapamulin]]<ref name=drugbank/>
+
+==See also==
+* [[Protein biosynthesis]]
+* [[Prokaryotic translation]]
+
+==References==
+{{reflist|2}}
+
+{{Protein synthesis inhibitor antibiotics}}
+
+[[Category:Protein biosynthesis]]

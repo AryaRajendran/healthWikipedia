@@ -1,0 +1,44 @@
+{{Multiple issues
+|technical = July 2008
+|cleanup = July 2008
+|confusing = July 2008
+}}
+
+{{Interventions infobox |
+  Name        = {{PAGENAME}} |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = |
+  MeshID      = D001788 |
+  OtherCodes  = |
+}}
+'''Cross-matching''' (or crossmatching) blood, in [[Blood transfusion|transfusion]] medicine, refers to the testing that is performed prior to a blood transfusion in order to determine if the donor's blood is compatible with the blood of an intended recipient, or to identify matches for [[organ transplant]]s.  Cross-matching is usually performed only after other, less complex tests have not excluded compatibility. Blood compatibility has many aspects, and is determined not only by the [[blood type]]s (O, A, B, AB), but also by blood factors, ([[Rh blood group system|Rh]], [[Kell antigen system|Kell]], etc.).
+
+Cross-matching is done by a certified laboratory technologist, in a laboratory. It can be done electronically, with a computer database, or [[Serology|serologically]]. Simpler tests may be used to determine blood type (only), or to screen for [[antibody|antibodies]] (only). ([[Coombs test#Indirect Coombs test|indirect Coombs test]]).
+
+==Types of cross-matching==
+===Electronic cross-matching===
+Electronic cross-matching is essentially a computer-assisted analysis of the data entered from testing done on the [[Blood donor|donor]] unit and blood samples drawn from intended recipient.  This includes [[ABO blood group system|ABO]]/[[Rhesus blood group system|Rh]] typing of the unit and of the recipient, and an antibody screen of the recipient.  Electronic cross-matching can only be used if a patient has a negative antibody screen, which means that they do not have any active [[red blood cell]] atypical [[antibodies]], or they are below the detectable level of current testing methods.  If all of the data entered is compatible, the computer will print a compatibility label stating that the unit is safe to transfuse.
+
+Cross-matching falls into two categories:
+* Major Cross-match: Recipient serum is tested against donor packed cells to determine if the recipient has preformed antibodies against any antigens on the donor's cells.  This is the required cross-match prior to release of a unit of packed cells.
+* Minor Cross-match: Recipient red cells are tested against donor serum to detect donor antibodies directed against a patient's antigens.  This is no longer required.  It is assumed that the small amount of donor serum and antibodies left in a unit of packed cells will be diluted in a recipient.
+
+==Emergencies==
+
+As the complete cross-matching process requires approximately 1 hour to be done, it's not always used in emergencies.
+
+In the case of an emergency, a type-specific blood ("uncross-matched blood") can be requested. It is thought that this lifesaving measure is of more benefit than any risk of an antibody-mediated [[transfusion reaction]]. This type of blood has less risk of a serious transfusion reaction because it is both ABO-compatible and Rhesus (Rh)-compatible. 
+
+Type O and Rh negative blood can be given if the recipient's blood group is not known, as may happen in an emergency.
+
+In an emergency, blood grouping can be done easily and quickly in 2 or 3 minutes in the laboratory on glass slides with appropriate reagents, by trained technical staff.  This method depends on the presence or absence of [[Agglutination (biology)|agglutination]], which can usually be visualized directly, although occasionally a light [[microscope]] may be needed.  If laboratory services are not available, another system of deciding which type of blood to use in an emergency is the bedside card method of blood grouping, where a drop of the intended recipients' blood is added to dried [[reagent]]s on a prepared card.  This method may not be as reliable as laboratory methods, which are preferable.
+
+==External links==
+* [http://nobelprize.org/educational_games/medicine/landsteiner/index.html Nobelprize.org] Interactive online game for blood typing and transfusion (Flash Player 5 required)
+
+{{transfusion medicine}}
+
+[[Category:Transfusion medicine]]
+[[Category:Hematology]]

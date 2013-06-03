@@ -1,0 +1,52 @@
+'''Patient registration''' is the concept and set of methods needed to correlate the reference position of a [[Virtuality|virtual]] [[Three-dimensional space|3D]] [[dataset]] gathered by computer [[medical imaging]] with the reference position of the patient. This procedure is crucial in [[computer assisted surgery]], in order to insure the reproducitibility of the preoperative registration and the clinical situation during surgery.
+The use of the term "patient registration" out of this context can lead to a confusion with the procedure of registering a patient into the files of a medical institution.
+
+==The larger context==
+In [[computer assisted surgery]], the first step is to gather a 3D dataset that reproduces with great accuracy the geometry of the normal and pathological tissues in the region that has to be operated on. This is mainly obtained by using [[Computed tomography|CT]] or [[MRI]] scans of that region. The role of patient registration is to obtain a close-to-ideal reference reproducitibility of the dataset – in order to correlate the position (offset) of the gathered dataset with the patient's position during the surgical intervention. Patient registration (1) eliminates the necessity of maintaining the same strict position of the patient during both preoperative scanning and surgery, and (2) provides the surgical robot the necessary reference information to act accurately on the patient, even if he has (been) moved during the intervention.
+
+==Evolution of the concept==
+Patient registration was used mostly in head surgery – oral and maxillofacial surgery, neurosurgery, otolaryngology. With the advent of marker- and markerless-registration, the concept has been extended for abdominal surgery.
+
+===Patient registration using headframes===
+The first attempts in 3D mapping of human tissues were made by [[Victor Horsley|V. Horsley]] and R. Clarke in 1906.<ref>Clarke RH, Horsley V: ''On a method of investigating the deep ganglia and tracts of the central nervous system (cerebellum)'', Br Med J 2: 1799–1800, 1906</ref> They have built a rectangular [[stereotactic]] headframe that had to be fixed to the head. It was based on cartesian principles and allowed them to accurately and reproductibly guide needle-like electrodes for neurophysiological experiments. They have experimented animals and were able to contribute to the mapping of the cerebellum. Improved versions of the [[Horsley–Clarke apparatus]] are still in used today in experimental neurosurgery.
+
+The first stereotactic device for humans was also developed in neurosurgery, by E. Spiegel and H. Wycis in 1947.<ref>Spiegel EA, Wycis HT, Marks M, Lee AS: ''Stereotaxic apparatus for operations on the human brain'', Science 106:349–350, 1947</ref> It was used for surgical treatment of [[Parkinson's disease]] and, during time, its applicability was extended for the surgical treatment of tumors, vascular malformations, functional neurosurgery etc. The system was based both on headframes and X-ray images taken for all three planes of space.
+
+Further development of stereotactic surgery was made by Brown, Roberts and Wells in 1980.<ref>Heilbrun MP, Roberts TS, Apuzzo MLJ, Wells TH, Sabshin JK: ''Preliminary experience with Brown–Roberts–Wells (BRW) computerized-tomography stereotaxic guidance-system'', J Neurosurg 59(2):217–222, 1983</ref> They have developed a halo ring that was applied on the skull, during a [[Computed tomography|CT]] scan and neurosurgical interventions. This method provided improved surgical guidance and was in fact the first development of computer guided surgery.
+
+Patient registration for the head area has developed for nearly two decades on the same principle of combining CT scans with mechanical reference devices such as headframes or halo rings. But the clinical experience showed that headgear is very uncomfortable to wear and even impossible to apply on little children, because their lack of cooperation; furthermore, the headframes can create [[artifact (observational)|artifacts]] in preoperative data gathering, or during surgery.
+
+===Patient registration using reference markers===
+
+====''Patient registration using skin markers''====
+In 1986, a different approach was developed by Roberts und Strohbehn.<ref>Roberts DW, Strohbehn JW, Hatch JF, Murray W, Kettenberger H: ''A frameless stereotaxic integration of computerized tomographic imaging and the operating microscope'', J Neurosurg 65: 545–549, 1986</ref> They have used as landmarks several markers on the patient's skin both preoperative CT registration, and intraoperatively. This was a new current of the time in patient registration. Still, the method is time-consuming, and the exact reproducitibility of the marker positions is questionable.
+
+====''Patient registration using bone markers''====
+The bony structures can provide a much better stability and reproducibility of the landmarks for patient registration. Based on this concept, a further technique was used: to implant temporary markers into bone structures that are superficial to the skin, under local anestesia.<ref>Alp MS, Dujovny M, Misra M et al.: ''Head registration techniques for image-guided surgery.'' Neurological Research 20: 31–37, 1998</ref> This was also combined with surface markers and CT registration.<ref>Maurer C, Aboutanos G, Dawant B: ''Registration of CT and MR brain images using a combination of points and surfaces medical imaging: image processing.'' Spie Press 2434:109–123, 1995</ref> The technique has the disadvantage of a further minimal surgical procedure of placing the bone implants, with some risk of infection for the patient.
+
+[[Image:SurgicalPlanningArtikulator.jpg|thumb|Surgical planning using [[bone segment navigation]] for the [[osteotomy]] of the jaw bones, based on models fixed into an [[articulator]] (registration based on infrared devices)]]
+
+====''Patient registration using markers on a dental splint''====
+Dental splints have been traditionally used for transferring and reproducing 3D reference landmarks for positioning cast models in [[articulator]]s – in [[Prosthodontics|dental prosthetics]], [[orthodontics]] and orthognatic surgery. By applying several infrared markers on the splints and using an infrared camera, a better registration was obtained.<ref>Hassfeld S, Mühling J, Zöller J: ''Intraoperative navigation in oral and maxillofacial surgery'', Int J Oral Maxillofac Surg 24: 111–119, 1995</ref>
+
+===Markerless patient registration===
+
+====''Markerless patient registration using anatomical landmarks''====
+The first attempts, based on the identification of anatomical landmarks were made by Caversaccio and Zulliger.<ref>Caversaccio M., Zulliger D., Bächler R., et al.: ''Practical Aspects for Optimal Registration (Matching) on the Lateral Skull Base With an Optical Frameless Computer-Aided Pointer System.'' The American Journal of Otology 21:863–870, 2000</ref> The method was based on identifying certain antropometrical points and other anatomical landmarks on the skull, in correlation with the CT registration. But the landmarks cannot be exactly pointed out and reproduced during patient dataset registration and surgery, therefore the method is not precise enough.
+
+[[Image:SSNSchemaEnglish.jpg|thumb|Schematic representation of the SSN system]]
+[[Image:SSNimOP.jpg|thumb|Actual usage of the SSN system in the operating room]]
+
+====''Markerless patient registration using surface registration''====
+Since 1998, new procedures have been developed by Marmulla and co-workers, using a different approach to the problem.<ref>Marmulla R, Niederdellmann H: ''Computer-assisted bone segment navigation'', J Craniomaxillofac Surg 26:347–359, 1998</ref><ref>Marmulla R, Lüth T, Mühling J, Hassfeld S: ''Markerless Laser Registration in Image-Guided Oral and Maxillofacial Surgery'', J Oral Maxillofac Surg 62:845–851, 2004</ref> Both during CT dataset gathering and surgical intervention, the patient registration was made by registering complete areas and surfaces, instead of distinctive surface markers. This was achieved by using laser scanners and a small guiding transmitter. The precision of the patient registration was significantly improved with this method.
+
+Based on this concept, several registration and navigation systems were built by the same team. The [[Surgical Segment Navigator|Surgical Segment Navigator (SSN and SSN++)]] is such a system, developed for the first time for [[oral and maxillofacial surgery]]. This system correlates three different coordinate sets: CT data set, surface laser scan data set and the dataset produced by a small guiding transmitter, placed on the patient's head. The Laboratory Unit for Computer-Assisted Surgery (LUCAS) is used for planning surgery in the laboratory. This technological and surgical advance has permitted the elimination of mechanical guidance systems and improved the accuracy of the determinations, and thus the surgical act.
+
+==References==
+<references />
+
+[[Category:Surgery]]
+[[Category:Neurosurgery]]
+[[Category:Otolaryngology]]
+[[Category:Computer-assisted surgery]]
+[[Category:Health informatics]]

@@ -1,0 +1,157 @@
+In [[computer science]], '''artificial immune systems''' (AIS) are a class of computationally intelligent systems inspired by the principles and processes of the vertebrate [[immune system]]. The algorithms typically exploit the immune system's characteristics of [[learning]] and [[memory]] to solve a problem.
+
+==Definition==
+The field of Artificial Immune Systems (AIS) is concerned with abstracting the structure and function of the [[immune system]] to computational systems, and investigating the application of these systems towards solving computational problems from mathematics, engineering, and information technology. AIS is a sub-field of [[Biologically-inspired computing]], and [[Natural computation]], with interests in [[Machine Learning]] and belonging to the broader field of [[Artificial Intelligence]].
+
+<blockquote>Artificial Immune Systems (AIS) are adaptive systems, inspired by theoretical immunology and observed immune functions, principles and models, which are applied to problem solving.<ref>
+{{cite book
+  | last = de Castro
+  | first = Leandro N.
+  | coauthors = Timmis, Jonathan
+  | title = [[Artificial Immune Systems: A New Computational Intelligence Approach]]
+  | publisher = [[Springer Science+Business Media|Springer]]
+  | year = 2002
+  | pages = 57–58
+  | isbn = 978-1-85233-594-6}}
+</ref></blockquote>
+
+AIS is distinct from [[computational immunology]] and [[theoretical biology]] that are concerned with simulating immunology using computational and mathematical models towards better understanding the immune system, although such models initiated the field of AIS and continue to provide a fertile ground for inspiration. Finally, the field of AIS is not concerned with the investigation of the immune system as a substrate computation, such as [[DNA computing]].
+
+==History==
+
+AIS began in the mid-1980s with Farmer, Packard and Perelson's (1986) and Bersini and Varela's papers on immune networks (1990). However, it was only in the mid-1990s that AIS became a subject area in its own right. Forrest ''et al.'' (on [[negative selection]]) and Kephart ''et al.''<ref>
+{{cite conference
+ | last = Kephart
+ | first = J. O.
+ | title = A biologically inspired immune system for computers
+ | booktitle = Proceedings of Artificial Life IV: The Fourth International Workshop on the Synthesis and Simulation of Living Systems
+ | year = 1994
+ | pages = 130–139
+ | publisher = MIT Press }}
+</ref> published their first papers on AIS in 1994, and Dasgupta conducted extensive studies on Negative Selection Algorithms. Hunt and Cooke started the works on Immune Network models in 1995; Timmis and Neal continued this work and made some improvements. De Castro & Von Zuben's and Nicosia & Cutello's work (on [[clonal selection]]) became notable in 2002. The first book on Artificial Immune Systems was edited by Dasgupta in 1999.
+
+New ideas, such as [[danger theory]] and algorithms inspired by the [[innate immune system]], are also now being explored. Although some doubt that they are yet offering anything over and above existing AIS algorithms, this is hotly debated, and the debate is providing one the main driving forces for AIS development at the moment. Other recent developments involve the exploration of [[degeneracy (biology)|degeneracy]] in AIS models,<ref name="Andrews and Timmis">{{cite journal |  author = Andrews and Timmis | title =  A Computational Model of Degeneracy in a Lymph Node |  journal = Lecture Notes in Computer Science | year = 2006 | volume = 4163 | issue = | pages = 164 | id = | url = | accessdate = 2011-03-11}}</ref><ref name="Mendao et al.">{{cite journal |  author = Mendao et al. | title =  The Immune System in Pieces: Computational Lessons from Degeneracy in the Immune System |  journal = Foundations of Computational Intelligence (FOCI) | year = 2007 | volume = | issue = | pages = 394–400 | id = | url = | accessdate = 2011-03-11}}</ref> which is motivated by its hypothesized role in open ended learning and evolution.<ref name="Edelman and Gally">{{cite journal |  author = Edelman and Gally | title =  Degeneracy and complexity in biological systems |  journal = Proceedings of the National Academy of Sciences, USA | year = 2001 | volume = 98 | issue = 24 | pages = 13763–13768 | id = | url = | accessdate = 2011-03-11 | doi=10.1073/pnas.231499798}}</ref><ref name="Whitacre">{{cite journal |  author = Whitacre | title =  Degeneracy: a link between evolvability, robustness and complexity in biological systems |  journal = Theoretical Biology and Medical Modelling | year = 2010 | volume = 7 | issue = 6 | pages = | id = | url = http://www.tbiomed.com/content/7/1/6  | accessdate = 2011-03-11}}</ref>
+
+Originally AIS set out to find efficient abstractions of processes found in the [[immune system]] but, more recently, it is becoming interested in modelling the biological processes and in applying immune algorithms to bioinformatics problems.
+
+In 2008, Dasgupta and Nino <ref>
+{{cite book
+ | last = Dasgupta
+ | first = Dipankar
+ | coauthor = Nino, Fernando
+ | booktitle = Immunological Computation: Theory and Applications
+ | year = 2008
+ | pages = 296
+ | doi =|isbn = 978-1-4200-6545-9
+ | publisher = CRC Press }}
+</ref> published a textbook on [[Immunological Computation]] which presents a compendium of up-to-date work related to immunity-based techniques and describes a wide variety of applications.
+
+==Techniques==
+The common techniques are inspired by specific immunological theories that explain the function and behavior of the [[mammal]]ian [[adaptive immune system]].
+
+*[[Clonal Selection Algorithm]]: A class of algorithms inspired by the [[clonal selection]] theory of acquired immunity that explains how B and T [[lymphocyte]]s improve their response to [[antigens]] over time called [[affinity maturation]]. These algorithms focus on the [[Darwinism|Darwinian]] attributes of the theory where selection is inspired by the affinity of antigen-antibody interactions, reproduction is inspired by [[cell division]], and variation is inspired by [[somatic hypermutation]]. Clonal selection algorithms are most commonly applied to [[Optimization (mathematics)|optimization]] and [[pattern recognition]] domains, some of which resemble parallel [[hill climbing]] and the [[genetic algorithm]] without the recombination operator.<ref>
+{{cite journal
+ | last = de Castro
+ | first = L. N.
+ | coauthors = Von Zuben, F. J.
+ | title = Learning and Optimization Using the Clonal Selection Principle
+ | journal = IEEE Transactions on Evolutionary Computation, Special Issue on Artificial Immune Systems
+ | volume = 6
+ | issue = 3
+ | year = 2002
+ | pages = 239–251
+ | publisher = IEEE
+ | url = ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/lnunes/ieee_tec01.pdf
+ | format = [[PDF]] }}
+</ref>
+
+*[[Negative Selection Algorithm]]: Inspired by the positive and negative selection processes that occur during the maturation of [[T cells]] in the [[thymus]] called [[Central tolerance|T cell tolerance]]. Negative selection refers to the identification and deletion ([[apoptosis]]) of self-reacting cells, that is T cells that may select for and attack self tissues. This class of algorithms are typically used for classification and pattern recognition problem domains where the problem space is modeled in the complement of available knowledge. For example in the case of an [[anomaly detection]] domain the algorithm prepares a set of exemplar pattern detectors trained on normal (non-anomalous) patterns that model and detect unseen or anomalous patterns.<ref>
+{{cite conference
+  | last = Forrest
+  | first = S.
+  | coauthors = Perelson, A.S.; Allen, L.; Cherukuri, R.
+  | title = Self-nonself discrimination in a computer
+  | booktitle = Proceedings of the 1994 IEEE Symposium on Research in Security and Privacy
+  | place =  Los Alamitos, CA
+  | year = 1994
+  | pages = 202–212
+  | url = http://www.cs.unm.edu/~immsec/publications/virus.pdf
+  | format = PDF }}
+</ref>
+
+*[[Immune Network Algorithms]]: Algorithms inspired by the [[idiotypic network]] theory proposed by [[Niels Kaj Jerne]] that describes the regulation of the immune system by anti-idiotypic antibodies (antibodies that select for other antibodies). This class of algorithms focus on the network graph structures involved where antibodies (or antibody producing cells) represent the nodes and the training algorithm involves growing or pruning edges between the nodes based on affinity (similarity in the problems representation space). Immune network algorithms have been used in clustering, data visualization, control, and optimization domains, and share properties with [[artificial neural networks]].<ref>
+{{cite journal
+ | last = Timmis
+ | first = J.
+ | coauthors = Neal, M.; Hunt, J.
+ | title = An artificial immune system for data analysis
+ | journal = BioSystems
+ | volume = 55
+ | issue = 1
+ | year = 2000
+ | pages = 143–150
+ | doi = 10.1016/S0303-2647(99)00092-1
+| pmid=10745118}}
+</ref>
+
+*[[Dendritic Cell Algorithms]]: The Dendritic Cell Algorithm (DCA) is an example of an immune inspired algorithm developed using a multi-scale approach. This algorithm is based on an abstract model of [[dendritic cells]] (DCs). The DCA is abstracted and implemented through a process of examining and modeling various aspects of DC function, from the molecular networks present within the cell to the behaviour exhibited by a population of cells as a whole. Within the DCA information is granulated at different layers, achieved through multi-scale processing.<ref>
+{{cite journal
+ | last = Greensmith
+ | first = J.
+ | coauthors = Aickelin, U.
+ | title = Artificial Dendritic Cells: Multi-faceted Perspectives
+ | journal = Human-Centric Information Processing Through Granular Modelling
+ | year = 2009
+ | pages = 375–395
+ | url = http://ima.ac.uk/papers/greensmith2009.pdf
+ | format = PDF }}
+</ref>
+
+==See also==
+{{Portal|Artificial intelligence}}
+*[[Biologically inspired computing]]
+*[[Computational immunology]]
+*[[Computational intelligence]]
+*[[Reactive search optimization]]
+*[[Evolutionary computation]]
+*[[Immunocomputing]]
+*[[Natural computation]]
+*[[Swarm intelligence]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+*J.D. Farmer, N. Packard and A. Perelson, (1986) "The immune system, adaptation and machine learning", Physica D, vol. 2, pp.&nbsp;187–204
+*H. Bersini, F.J. Varela, Hints for adaptive problem solving gleaned from immune networks. Parallel Problem Solving from Nature, First Workshop PPSW 1, Dortmund, FRG, October, 1990.
+*D. Dasgupta (Editor), Artificial Immune Systems and Their Applications, Springer-Verlag, Inc. Berlin, January 1999, ISBN 3-540-64390-7
+* V. Cutello and G. Nicosia (2002) "An Immunological Approach to Combinatorial Optimization Problems" Lecture Notes in Computer Science, Springer vol. 2527, pp.&nbsp;361–370.
+*L. N. de Castro and F. J. Von Zuben, (1999) "Artificial Immune Systems: Part I -Basic Theory and Applications", School of Computing and Electrical Engineering, State University of Campinas, Brazil, No. DCA-RT 01/99.
+*S. Garrett (2005) "How Do We Evaluate Artificial Immune Systems?" Evolutionary Computation, vol. 13, no. 2, pp.&nbsp;145–178. http://mitpress.mit.edu/journals/pdf/EVCO_13_2_145_0.pdf
+* V. Cutello, G. Nicosia, M. Pavone, J. Timmis (2007) An Immune Algorithm for Protein Structure Prediction on Lattice Models, IEEE Transactions on Evolutionary Computation, vol. 11, no. 1, pp.&nbsp;101–117. http://www.dmi.unict.it/nicosia/papers/journals/Nicosia-IEEE-TEVC07.pdf
+
+==People==
+*[http://aickelin.com Uwe Aickelin]
+*[http://www.dca.fee.unicamp.br/~lnunes/ Leandro de Castro]
+*[http://www.dca.fee.unicamp.br/~vonzuben/ Fernando José Von Zuben]
+*[http://www.msci.memphis.edu/~dasgupta/ Dipankar Dasgupta]
+*[http://www-users.cs.york.ac.uk/jtimmis/ Jon Timmis]
+*[http://www.dmi.unict.it/nicosia/ Giuseppe Nicosia ]
+*[http://www.cs.unm.edu/~forrest/ Stephanie Forrest]
+*[http://www.dca.fee.unicamp.br/~pablo Pablo Dalbem de Castro]
+*[http://www.cs.nott.ac.uk/~jqg/ Julie Greensmith]
+
+==External links==
+*[http://www.artificial-immune-systems.org AISWeb: The Online Home of Artificial Immune Systems] Information about AIS in general and links to a variety of resources including ICARIS conference series, code, teaching material and algorithm descriptions.
+*[http://www.elec.york.ac.uk/ARTIST ARTIST: Network for Artificial Immune Systems] Provides information about the UK AIS network, ARTIST. It provides technical and financial support for AIS in the UK and beyond, and aims to promote AIS projects.
+*[http://www.cs.unm.edu/~immsec/ Computer Immune Systems] Group at the University of New Mexico led by Stephanie Forrest.
+*[http://ais.cs.memphis.edu/ AIS: Artificial Immune Systems] Group at the University of Memphis led by Dipankar Dasgupta.
+*[http://www.research.ibm.com/antivirus/ IBM Antivirus Research] Early work in AIS for computer security.
+*[http://www.aber.ac.uk/~dcswww/ISYS The ISYS Project] A now out of date project at the University of Wales, Aberystwyth interested in data analysis with AIS.
+*[http://www.facebook.com/group.php?gid=12481710452 AIS on Facebook] Group for people interested in the scientific field of artificial immune systems.
+* [http://www.modelingimmunity.org The Center for Modeling Immunity to Enteric Pathogens (MIEP)]
+
+{{DEFAULTSORT:Artificial Immune System}}
+[[Category:Artificial immune systems]]
+[[Category:Immunology]]
+[[Category:Evolutionary algorithms]]

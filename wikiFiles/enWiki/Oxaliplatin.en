@@ -1,0 +1,105 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 413092968
+| IUPAC_name = [(1''R'',2''R'')-cyclohexane-1,2-diamine](ethanedioato-''O'',''O''')platinum(II)
+| image = Oxaliplatin-2D-skeletal.png
+| width = 200 px
+| image2 = Oxaliplatin-3D-balls.png
+| width2 = 200
+
+<!--Clinical data-->
+| tradename = Eloxatin
+| Drugs.com = {{drugs.com|monograph|oxaliplatin}}
+| MedlinePlus = a607035
+| pregnancy_US = D
+| legal_US = Rx-only
+| routes_of_administration = Intravenous
+
+<!--Pharmacokinetic data-->
+| bioavailability = Complete
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = ~10 - 25 minutes<ref>{{cite journal | author = Ehrsson H, Wallin I, Yachnin J | year = 2002 | title = Pharmacokinetics of oxaliplatin in humans | url = | journal = Medical Oncology | volume = 19 | issue = 4 | pages = 261–265 | pmid = 12512920 | doi = 10.1385/MO:19:4:261}}</ref>
+| excretion = Renal
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 63121-00-6
+| ATC_prefix = L01
+| ATC_suffix = XA03
+| ATC_supplemental =  
+| PubChem = 77994
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+ | DrugBank = DB00526
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8062727
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 04ZR38536J
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01790
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 414804
+
+<!--Chemical data-->
+| C=8 | H=14 | N=2 | O=4 | Pt=1 
+| molecular_weight = 397.2858 g/mol
+}}
+
+'''Oxaliplatin''' is a [[platinum-based antineoplastic]] agent that is used in cancer [[chemotherapy]].<ref>[http://dx.doi.org/10.1039/C0DT00292E The status of platinum anticancer drugs in the clinic and in clinical trials] Dalton Transactions, 2010, 39, 8113-8127</ref>
+
+==Preparation and structure==
+Oxaliplatin was discovered in 1976 at [[Nagoya City University]] by Professor Yoshinori Kidani, who was granted U.S. Patent 4,169,846 in 1979. Oxaliplatin was subsequently in-licensed by [[Debiopharm]] and developed as an advanced colorectal cancer treatment. Debio licensed the drug to [[Sanofi-Aventis]] in 1994. Eloxatin gained European approval in 1996 (firstly in France) and approval by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) in 2002.
+
+The compound features a [[square planar]] platinum(II) center. In contrast to [[cisplatin]] and [[carboplatin]], oxaliplatin features the [[bidentate]] ligand [[1,2-diaminocyclohexane]] in place of the two [[Denticity|monodentate]] ammine [[ligand]]s. It also features a bidentate oxalate group.
+
+== Mechanism of action ==
+The cytotoxicity of platinum compounds is thought to result from inhibition of DNA synthesis in cancer cells.
+In vivo studies showed that Oxaliplatin has anti-tumor activity against colon carcinoma through its (non-targeted) [[cytotoxic]] effects.
+
+Oxaliplatin functions by forming both inter- and intra- strand cross links in DNA.<ref>{{cite journal|last=Graham|first=Joanne|coauthors=Mushin, Mohamed; Kirkpatrick, Peter|title=Oxaliplatin|journal=Nature Reviews Drug Discovery|year=2004|month=January|volume=3|issue=1|pages=11–2|doi=10.1038/nrd1287|pmid=14756144}}</ref> Cross links in DNA prevent DNA replication and transcription, resulting in cell death.
+
+== Clinical use ==
+Oxaliplatin is typically administered with [[fluorouracil]] and [[leucovorin]] in a combination known as [[FOLFOX]] for the treatment of [[colorectal cancer]]. Oxaliplatin is marketed by [[Sanofi-Aventis]] under the trademark '''Eloxatin''' or by [[Medac]] GmbH under the trademark '''Oxaliplatin Medac'''. There are generic equivalents on the market now<ref>Generic Oxaliplatin Approved</ref> Oxaliplatin has been compared with other platinum compounds (Cisplatin, Carboplatin) in advanced cancers (gastric, ovarian).
+
+=== Advanced colorectal cancer ===
+In clinical studies, Oxaliplatin by itself has modest activity against advanced colorectal cancer.<ref>{{cite journal | author = Becouarn Y, Ychou M, Ducreux M ''et al.'' | year = 1998 | title = Phase II trial of oxaliplatin as first-line chemotherapy in metastatic colorectal cancer patients.  Digestive Group of French Federation of Cancer Centers | url = | journal = J Clin Oncol | volume = 16 | issue = 8| pages = 2739–44 | pmid = 9704726 }}</ref> It has been extensively studied in combination with Fluorouracil and Folinic Acid (a combination known as FOLFOX). When compared with [[fluorouracil]] and [[folinic acid]] administered according to the "De Gramont regimen" there was no significant increase in overall survival with the FOLFOX regimen (specifically, FOLFOX4), but [[progression-free survival]], the primary end-point of the phase III randomized trial, was improved with FOLFOX.<ref>{{cite journal | author = De Gramont A, Figer A, Seymour M ''et al.'' | year = 2000 | title = Leucovorin and fluorouracil with or without oxaliplatin as first-line treatment in advanced colorectal cancer | url = | journal = J Clin Oncol | volume = 18 | issue = 16| pages = 2938–47 | pmid = 10944126 }}</ref>
+
+=== Adjuvant treatment of colorectal cancer ===
+After the curative resection of colorectal cancer, chemotherapy based on Fluorouracil and folinic acid reduces the risk of relapse. The benefit is clinically relevant when cancer has spread to locoregional lymph nodes (stage III, Dukes C). The addition of Oxaliplatin improves relapse-free survival, but data on overall survival have not yet been published ''in extenso''. <br />
+When cancer has '''not''' spread to the locoregional lymph nodes (stage II, Dukes B) the benefit of chemotherapy is marginal and the decision on whether to give adjuvant chemotherapy should be carefully evaluated by discussing with the patient the realistic benefits and the possible toxic side effects of treatment. This is even more relevant when the oncologist proposes treatment with Oxaliplatin.
+
+== Adverse effects ==
+Side-effects of oxaliplatin treatment can potentially include:
+* [[Neuropathy]], (both an acute, reversible sensitivity to cold and numbness in the hands and feet and a chronic, possibly irreversible foot/leg, hand/arm numbness, often with deficits in [[proprioception]])<ref name=pasetto>{{cite journal | pmid = 16806962 | doi=10.1016/j.critrevonc.2006.01.001 | volume=59 | issue=2 | title=Oxaliplatin-related neurotoxicity: how and why? | year=2006 | month=August | author=Pasetto LM, D'Andrea MR, Rossi E, Monfardini S | journal=Crit. Rev. Oncol. Hematol. | pages=159–68}}</ref>
+* [[Fatigue (physical)|Fatigue]]
+* [[Nausea]], [[vomiting]], and/or [[diarrhea]]
+* [[Neutropenia]] (low number of a type of white blood cells)
+* [[Ototoxicity]] (hearing loss)
+* [[Extravasation]] if Oxaliplatin leaks from the infusion vein it may cause severe damage to the connective tissues.
+* [[Hypokalemia]] (low blood potassium), which is more common in women than men<ref name=chay>{{cite journal | pmid = 20092386 | doi=10.3109/02841860903464015 | volume=49 | issue=4 | title=An association between transient hypokalemia and severe acute oxaliplatin-related toxicity predominantly in women | year=2010 | month=May | author=Chay WY, Chew L, Yeoh TT, Tan MH | journal=Acta Oncol | pages=515–7}}</ref>
+
+In addition, some patients may experience an [[allergy|allergic reaction]] to platinum-containing drugs. This is more common in women.<ref name=chay/>
+
+Oxaliplatin has less ototoxicity and [[nephrotoxicity]] than cisplatin and carboplatin.<ref name=pasetto/>
+
+== Patent information ==
+Eloxatin is covered by patent numbers 5338874 (Expiry Apr 07,2013), 5420319 (Expiry Aug 08,2016), 5716988 (Expiry Aug 07,2015) and 5290961 (Expiry Jan 12, 2013) (see Electronic Orange Book patent info for Eloxatin).<ref name="Appl No 021759">Orange Book. accessdata.fda.gov. URL: [http://www.accessdata.fda.gov/scripts/cder/ob/docs/patexclnew.cfm?Appl_No=021759&Product_No=001&table1=OB_Rx http://www.accessdata.fda.gov/scripts/cder/ob/docs/patexclnew.cfm?Appl_No=021759&Product_No=001&table1=OB_Rx]. Accessed on: July 22, 2007.</ref> Exclusivity code I-441, which expired on Nov 04, 2007, is for use combination with infusional 5-FU/LV for adjuvant treatment stage III colon cancer patients who have undergone complete resection primary tumor-based on improvement in disease free survival with no demonstrated benefit overall survival after 4 years. Exclusivity code NCE, New Chemical Entity, expired on Aug 09, 2007.<ref name="Appl No 021759"/>
+
+== References ==
+<references/>
+
+==External links==
+* [http://www.eloxatin.com Oxaliplatin] - Official web site of manufacturer.
+* [http://products.sanofi-aventis.us/eloxatin/eloxatin.html Oxaliplatin Prescribing Information] - Official prescribing information.
+* [http://www.cancer.gov/cancertopics/druginfo/oxaliplatin NCI Drug Information Summary on Oxaliplatin]
+
+==Additional sources==
+* {{cite journal | jill = Graham J, Mushin M, Kirkpatrick P | title = Oxaliplatin | journal = Nat Rev Drug Discov | volume = 3 | issue = 1 | pages = 11–2 | year = 2004 | pmid = 14756144 | url=http://www.dresources.com/nature/ntr_0104.pdf | format=PDF | doi=10.1038/nrd1287 | author=Graham J, Mushin M, Kirkpatrick P}}
+
+{{Chemotherapeutic agents}}
+{{Platinum compounds}}
+
+[[Category:Alkylating antineoplastic agents]]
+[[Category:Coordination compounds]]
+[[Category:Platinum compounds]]
+[[Category:Ammine complexes]]

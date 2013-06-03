@@ -1,0 +1,120 @@
+{{Refimprove|date=January 2008}}
+
+'''Prostate cancer staging''' is the process by which physicians categorize the risk of cancer having spread beyond the prostate, or equivalently, the probability of being cured with local therapies such as surgery or radiation. Once patients are placed in prognostic categories, this information can contribute to the selection of an optimal approach to treatment. The information considered in such a prognostic classification can be based on physical examination, imaging studies and blood tests (so-called "clinical stage"), or based on the extent of disease as revealed in a surgical specimen (so-called "pathologic stage"). 
+
+There are two schemes commonly used to stage prostate cancer. The most common is promulgated by the American Joint Committee on Cancer, and is known as the [[TNM staging system|TNM]] system, which evaluates the size of the [[tumor]], the extent of involved [[lymph node]]s, and any [[metastasis]] (distant spread) and also takes into account cancer grade. As with many other cancers, these are often grouped into four stages (I&ndash;IV). Another scheme, now used less commonly for research, but often still used by clinicians,{{Citation needed|date=August 2010}} is the Whitmore-Jewett stage.<ref name="Held-Warmkessel2006">{{cite book|author=Jeanne Held-Warmkessel|title=Contemporary issues in prostate cancer: a nursing perspective|url=http://books.google.com/books?id=dZe4ZSVDdBsC&pg=PA108|accessdate=3 August 2010|year=2006|publisher=Jones & Bartlett Learning|isbn=978-0-7637-3075-8|pages=108–}}</ref>
+
+Briefly, Stage I disease is cancer that is found incidentally in a small part of the sample when prostate tissue was removed for other reasons, such as [[benign prostatic hypertrophy]], and the cells closely resemble normal cells and the gland feels normal to the examining finger. In Stage II  more of the prostate is involved and a lump can be felt within the gland. In Stage III, the tumor has spread through the [[prostatic capsule]] and the lump can be felt on the surface of the gland. In Stage IV disease, the tumor has invaded nearby structures, or has spread to lymph nodes or other organs. The [[Gleason Grading System]] is based on cellular content and tissue architecture from biopsies, which provides an estimate of the destructive potential and ultimate prognosis of the disease.
+
+==TNM staging==
+From the [[American Joint Committee on Cancer|AJCC]] 6th edition (2002) and [[International Union Against Cancer|UICC]] 6th edition.
+
+===Evaluation of the (primary) tumor ('T')===
+
+*'''TX''': cannot evaluate the primary tumor
+*'''T0''': no evidence of tumor
+*'''T1''': tumor present, but not detectable clinically or with imaging
+**'''T1a''': tumor was incidentally found in less than 5% of prostate tissue resected (for other reasons)
+**'''T1b''': tumor was incidentally found in greater than 5% of prostate tissue resected
+**'''T1c''': tumor was found in a [[needle biopsy]] performed due to an elevated serum [[prostate-specific antigen|PSA]]
+*'''T2''': the tumor can be felt (palpated) on examination, but has not spread outside the prostate
+**'''T2a''': the tumor is in half or less than half of one of the prostate gland's two [[Lobe (anatomy)|lobes]]
+**'''T2b''': the tumor is in more than half of one lobe, but not both
+**'''T2c''': the tumor is in both lobes but within the prostatic capsule
+*'''T3''': the tumor has spread through the prostatic capsule (if it is only part-way through, it is still '''T2''')
+**'''T3a''': the tumor has spread through the capsule on one or both sides
+**'''T3b''': the tumor has invaded one or both [[seminal vesicle]]s
+*'''T4''': the tumor has invaded other nearby structures
+
+It should be stressed that the designation "T2c" implies a tumor which is ''palpable'' in both lobes of the prostate. Tumors which are found to be bilateral on biopsy only but which are not palpable bilaterally should not be staged as T2c.
+
+===Evaluation of the regional lymph nodes ('N')===
+
+*'''NX''': cannot evaluate the regional lymph nodes
+*'''N0''': there has been no spread to the regional lymph nodes
+*'''N1''': there has been spread to the regional lymph nodes
+
+===Evaluation of distant metastasis ('M')===
+*'''MX''': cannot evaluate distant metastasis
+*'''M0''': there is no distant metastasis
+*'''M1''': there is distant metastasis
+**'''M1a''': the cancer has spread to lymph nodes beyond the regional ones
+**'''M1b''': the cancer has spread to [[bone]]
+**'''M1c''': the cancer has spread to other sites (regardless of bone involvement)
+
+===Evaluation of the histologic grade ('G')===
+Usually, the [[Grading (tumors)|grade]] of the cancer (how different the tissue is from normal tissue) is evaluated separately from the stage; however, for prostate cancer, grade information is used in conjunction with TNM status to group cases into four overall stages.
+
+*'''GX''': cannot assess grade
+*'''G1''': the tumor closely resembles normal tissue ([[Gleason score|Gleason]] 2&ndash;4)
+*'''G2''': the tumor somewhat resembles normal tissue (Gleason 5&ndash;6)
+*'''G3&ndash;4''': the tumor resembles normal tissue barely or not at all (Gleason 7&ndash;10)
+
+Of note, this system of describing tumors as "well-", "moderately-", and "poorly-" differentiated based on Gleason score of 2-4, 5-6, and 7-10, respectively, persists in SEER and other databases but is generally outdated. In recent years pathologists rarely assign a tumor a grade less than 3, particularly in biopsy tissue. A more contemporary consideration of Gleason grade is:
+
+* Gleason 3+3: tumor is low grade (favorable prognosis)
+* Gleason 3+4 / 3+5: tumor is mostly low grade with some high grade
+* Gleason 4+3 / 5+3: tumor is mostly high grade with some low grade
+* Gleason 4+4 / 4+5 / 5+4 / 5+5: tumor is all high grade
+Note that under current guidelines, if any Pattern 5 is present it is included in final score, regardless of the percentage of the tissue having this pattern, as the presence of any pattern 5 is considered to be a poor prognostic marker.
+
+===Overall staging===
+
+The tumor, lymph node, metastasis, and grade status can be combined into four stages of worsening severity.
+
+{| class="wikitable"
+! Stage !! Tumor !! Nodes !! Metastasis !! Grade
+|- style="border-top:2px black solid"
+! Stage I 
+| T1a || N0 || M0 || G1
+|- style="border-top:2px black solid"
+! rowspan="5" | Stage II
+| T1a || N0 || M0 || G2&ndash;4
+|-
+| T1b || N0 || M0 || Any G
+|-
+| T1c || N0 || M0 || Any G
+|-
+| T1 || N0 || M0 || Any G
+|-
+| T2 || N0 || M0 || Any G
+|- style="border-top:2px black solid"
+! Stage III
+| T3 || N0 || M0 || Any G
+|- style="border-top:2px black solid"
+! rowspan="3" | Stage IV
+| T4 || N0 || M0 || Any G
+|-
+| Any T || N1 || M0 || Any G
+|-
+| Any T || Any N || M1 || Any G
+|}
+
+==Whitmore-Jewett staging==
+
+The Whitmore-Jewett system is similar to the TNM system, with approximately equivalent stages. [[Roman numeral]]s are sometimes used instead of Latin letters for the overall stages (for example, Stage I for Stage A, Stage II for Stage B, and so on).
+
+*'''A''': tumor is present, but not detectable clinically; found incidentally
+**'''A1''': tissue resembles normal cells; found in a few chips from one lobe
+**'''A2''': more extensive involvement
+*'''B''': the tumor can be felt on physical examination but has not spread outside the [[prostatic capsule]]
+**'''BIN''': the tumor can be felt, it does not occupy a whole lobe, and is surrounded by normal tissue
+**'''B1''': the tumor can be felt and it does not occupy a whole lobe
+**'''B2''': the tumor can be felt and it occupies a whole lobe or both lobes
+*'''C''': the tumor has extended through the capsule
+**'''C1''': the tumor has extended through the capsule but does not involve the seminal vesicles
+**'''C2''': the tumor involves the seminal vesicles
+*'''D''': the tumor has spread to other organs
+
+==Risk groups==
+While TNM staging is important, systems based just on anatomic features are not well suited for deciding what treatment is best for a patient with prostate cancer, as there is still considerable heterogeneity of prognosis within the stage categories. A more refined prognosis can be established by consideration of prostate specific antigen, and grade (i.e. Gleason score).  For example, it is now common to classify patients into high, intermediate and low risk groups on the basis of these three factors (TNM stage, PSA and Gleason score). Currently, there is no clear division between stage, which is historically a statement of anatomic extent of disease at diagnosis, and prognostic models that may include many features that contribute to clinical outcome.
+
+If treated, patients with low risk disease are usually treated with active surveillance, [[prostatectomy]], or [[radiotherapy]] alone.  Patients with intermediate risk disease are candidates for [[prostatectomy]] or radiotherapy and a short duration (less than 6 months) of hormonal ablation (medical castration using a [[gonadotropin-releasing hormone analog]]). Although the role of surgery in these patients remains uncertain, those with high risk disease are usually treated with radiotherapy and a long duration of hormonal ablation. Many high risk patients are not cured by this treatment, and the search for better treatments in this group is a particularly pressing concern in prostate cancer research.
+
+==References==
+{{Reflist}}
+
+{{Tumors}}
+
+{{DEFAULTSORT:Prostate Cancer Staging}}
+[[Category:Male genital neoplasia]]

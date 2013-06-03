@@ -1,0 +1,109 @@
+{{cite check|date=May 2008}}{{Taxobox
+| color              = violet
+| name               = ''Vaccinia virus''
+| image              = Vaccinia virus PHIL 2143 lores.jpg
+| image_caption      = A [[Transmission electron microscopy|TEM]] [[micrograph]] of Vaccinia virus [[virion]]s.
+| virus_group        = i
+| ordo               = ''Unassigned''
+| familia            = ''[[Poxviridae]]''
+| subfamilia         = ''[[Chordopoxvirinae]]''
+| genus              = ''[[Orthopoxvirus]]''
+| type_species       = ''[[Vaccinia virus]]''
+| subdivision_ranks  = Species
+| subdivision        = '''''Vaccinia virus'''''
+}}
+{{Infobox disease |
+  Name        = Vaccinia |
+  ICD10       = B08.0 |
+  ICD9        = {{ICD9|051.0}} |
+  eMedicineSubj  = med |
+  eMedicineTopic = 2356 |
+  MeshID         = D014615 |
+}}
+'''Vaccinia''' virus ('''VACV''' or '''VV''') is a large, complex, [[Viral envelope|enveloped]] [[virus]] belonging to the [[poxvirus]] family.<ref name=Sherris>{{cite book | author = Ryan KJ, Ray CG (editors) | title = Sherris Medical Microbiology | edition = 4th | publisher = McGraw Hill | year = 2004 | isbn = 0-8385-8529-9 }}</ref> It has a linear, double-stranded [[DNA]] [[genome]] approximately 190 [[base pair|kbp]] in length, and which encodes approximately 250 [[gene]]s. The dimensions of the [[virion]] are roughly 360 × 270 × 250&nbsp;[[nanometer|nm]], with a mass of approximately 5-10 fg.<ref>{{Cite doi|10.1016/j.snb.2005.08.047}}</ref> Vaccinia virus is well known for its role as a [[vaccine]] (its namesake) that eradicated the [[smallpox]] disease, making it the first human disease to be successfully eradicated by science. This endeavour was carried out by the [[World Health Organization]] under the [[Smallpox vaccine#Eradication of smallpox|Smallpox Eradication Program]]. Post eradication of smallpox, scientists study Vaccinia virus to use as a tool for delivering genes into biological tissues ([[gene therapy]] and [[genetic engineering]]).
+
+In the early 21st century, due to concerns about smallpox being used as an agent for [[bioterrorism]], there was renewed interest in studying the Vaccinia virus.
+
+== Classification ==
+Vaccinia infections may be divided into the following types:<ref name="Andrews">{{cite book |author=James, William D.; Berger, Timothy G.; et al. |title=Andrews' Diseases of the Skin: clinical Dermatology |publisher=Saunders Elsevier |location= |year=2006 |pages= |isbn=0-7216-2921-0 |oclc= |doi=}}</ref>{{Rp|391}}
+
+:* [[Generalized vaccinia]]
+:* [[Eczema vaccinatum]]
+:* [[Progressive vaccinia]] (Vaccinia gangrenosum, Vaccinia necrosum)
+:* [[Roseola vaccinia]]
+
+==Origin==
+Vaccinia virus is closely related to the virus that causes [[cowpox]]; historically the two were often considered to be one and the same.<ref name=Huygelen>{{cite journal |author=Huygelen C |title=Jenner's cowpox vaccine in light of current vaccinology |language=Dutch; Flemish |journal=Verh. K. Acad. Geneeskd. Belg. |volume=58 |issue=5 |pages=479–536; discussion 537–8 |year=1996 |pmid=9027132 }}</ref> The precise origin of vaccinia virus is unknown, however, due to the lack of record-keeping as the virus was repeatedly cultivated and passaged in research laboratories for many decades.<ref name=Henderson_1999>{{cite book | author = Henderson DA, Moss B | editor = Plotkin SA, Orenstein WA | title = Vaccines | origyear = 1988 | accessdate = 2007-07-25 | edition = 3rd | year = 1999 | publisher = WB Saunders | location = Philadelphia, Pennsylvania | isbn = 0-7216-7443-7 | chapter = Smallpox and Vaccinia | chapterurl = http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=vacc.chapter.3}}</ref> The most common notion is that vaccinia virus, cowpox virus, and [[variola]] virus (the causative agent of smallpox) were all derived from a common ancestral virus. There is also speculation that vaccinia virus was originally isolated from [[horse]]s.<ref name=Huygelen />
+
+==Basic biology==
+Poxviruses are unique among [[DNA virus]]es because they [[DNA replication|replicate]] only in the [[cytoplasm]] of the [[Host (biology)|host cell]], outside of the [[cell nucleus|nucleus]].<ref>{{cite journal |author=Tolonen N, Doglio L, Schleich S, Krijnse Locker J |title=Vaccinia Virus DNA Replication Occurs in Endoplasmic Reticulum-enclosed Cytoplasmic Mini-Nuclei |journal=Mol. Biol. Cell |volume=12 |issue=7 |pages=2031–46 |date=1 July 2001|pmid=11452001 |url=http://www.molbiolcell.org/cgi/content/full/12/7/2031 |pmc=55651 }}</ref> Therefore, the large genome is required for encoding various [[enzymes]] and proteins involved in viral DNA replication and gene [[transcription (genetics)|transcription]]. During its replication cycle, VV produces four infectious forms which differ in their outer [[cell membrane|membranes]]: intracellular mature virion (IMV), the intracellular enveloped virion (IEV), the cell-associated enveloped virion (CEV) and the extracellular enveloped virion (EEV).<ref>{{cite journal |author=[[Geoffrey L. Smith|Smith GL]], Vanderplasschen A, Law M |title=The formation and function of extracellular enveloped Vaccinia virus |journal=J. Gen. Virol. |volume=83 |issue=Pt 12 |pages=2915–31 |date=1 December 2002|pmid=12466468 |url=http://vir.sgmjournals.org/cgi/content/full/83/12/2915 }}</ref> Although the issue remains contentious, the prevailing view is that the IMV consists of a single [[lipoprotein]] membrane, while the CEV and EEV are both surrounded by two membrane layers and the IEV has three envelopes. The IMV is the most abundant infectious form and is thought to be responsible for spread between hosts. On the other hand, the CEV is believed to play a role in cell-to-cell spread and the EEV is thought to be important for long range dissemination within the host organism.
+
+==Host resistance==
+Vaccinia contains within its genome several [[protein]]s that give the virus resistance to [[interferon]]s. K3L is a protein with [[Homology (biology)|homology]] to the protein ''[[eIF-2|eukaryotic initiation factor 2]]'' (eIF-2alpha). K3L protein inhibits the action of PKR, an activator of interferons. E3L is another protein encoded by Vaccinia. E3L also inhibits PKR activation; and is also able to bind to double stranded RNA.<ref>{{cite journal |author=Davies MV, Chang HW, Jacobs BL, Kaufman RJ |title=The E3L and K3L vaccinia virus gene products stimulate translation through inhibition of the double-stranded RNA-dependent protein kinase by different mechanisms |journal=J. Virol. |volume=67 |issue=3 |pages=1688–92 |date=1 March 1993|pmid=8094759 |pmc=237544 |url=http://jvi.asm.org/cgi/pmidlookup?view=long&pmid=8094759 }}</ref>
+
+==Use as a vaccine==
+[[Image:Smallpox vaccine site.jpg|thumb|right|150px|Site of a vaccinia injection, several days later.]]
+A Vaccinia virus infection is very mild and is typically asymptomatic in healthy individuals, but it may cause a mild rash and [[fever]]. Immune responses generated from a Vaccinia virus infection protects the person against a lethal [[smallpox]] infection. For this reason, Vaccinia virus was, and is still being used as a live-virus vaccine against smallpox. Unlike vaccines that use weakened forms of the virus being vaccinated against, the Vaccinia virus vaccine cannot cause a smallpox infection because it does not contain the smallpox virus. However, certain complications and/or vaccine adverse effects occasionally arise. The chance of this happening is significantly increased in people who are [[immunocompromised]]. Approximately one in one million individuals will develop a fatal response to the [[vaccination]]. Currently, the vaccine is only administered to health care workers or research personnel who have a high risk of contracting the [[variola]] virus, and to the military personnel of the [[United States of America]]. Due to the present threat of smallpox-related [[bioterrorism]], there is a possibility the vaccine may have to be widely administered again in the future. Therefore, scientists are currently developing novel vaccine strategies against smallpox which are safer and much faster to deploy during a bioterrorism event.  
+
+On September 1, 2007, the [[U.S.]] [[Food and Drug Administration]] (FDA) licensed a new [[vaccine]] [[ACAM2000]] against [[smallpox]] which can be produced quickly upon need. Manufactured by [http://www.acambis.com/ Acambis] of [[Cambridge]], [[England]], and [[Cambridge, Massachusetts|Cambridge]], [[Massachusetts]], the U.S. [[Centers for Disease Control and Prevention]] stockpiled 192.5 million doses of the new vaccine (see list of common strains below).<ref>[http://canadianpress.google.com/article/ALeqM5hbBLzwxu5WsQewlQlwXUVVa7ja0Q  Canadian Press, FDA licenses new vaccine against smallpox; can be produced quickly if needed ]{{dead link|date=November 2012|bot=Legobot}}</ref>
+
+''Vaccinia'' is also used in recombinant [[vaccines]], as a vector for expression of foreign genes within a host, in order to generate an immune response. Other [[Poxviridae|poxviruses]] are also used as live recombinant vaccines.<ref>Vanderplasschen, A.; Pastoret, P.- P. (2003) The Uses of Poxviruses as Vectors. Current Gene Therapy, Volume 3, Number 6, December 2003 , pp. 583-595(13)</ref>
+
+==History==
+The original vaccine for smallpox, and the origin of the idea of vaccination, was [[Cowpox]], reported on by [[Edward Jenner]] in 1796.<ref name=Henderson_1999 />  The [[Latin]] term used for Cowpox was ''variola vaccina'', essentially a direct translation of "cow-related pox".  That term lent its name to the whole idea of vaccination.  When it was realized that the virus used in smallpox vaccination was not, or was no longer, the same as the Cowpox virus, the name 'vaccinia' stayed with the vaccine-related virus. (See OED.) Vaccine potency and efficacy prior to the invention of refrigerated methods of transportation was unreliable. The vaccine would be rendered impotent by heat and sunlight, and the method of drying samples on quills and shipping them to countries in need often resulted in an inactive vaccine. Another method employed was the "arm to arm" method. This involved vaccinating an individual then transferring it to another as soon as the infectious pustule forms, then to another, etc. This method was used as a form of living transportation of the vaccine, and usually employed orphans as carriers. However, this method was problematic due to the possibility of spreading other blood diseases, such as hepatitis and syphilis. 41 Italian children contracted syphilis after being vaccinated by the arm to arm method in 1861.<ref>Tucker, Jonathan B. “Scourge : The Once and Future Threat of Smallpox.” New York: Grove/Atlantic Inc., 2001
+</ref>
+
+In 1913, E. Steinhardt, C. Israeli, and R. A. Lambert grew vaccinia virus in fragments of pig [[cornea]]l [[tissue culture]].<ref name="Steinhardt_1913">{{cite journal | author = Steinhardt E, Israeli C, Lambert RA | title = Studies on the cultivation of the virus of vaccinia | journal = J. Inf Dis | volume = 13 | issue =  2| pages = 294–300 | year = 1913 | month = September | pmid = | doi = 10.1093/infdis/13.2.294| jstor = 30073371 }}</ref>
+
+In 1939  Alan Downie showed that the smallpox vaccines being used in the 20th century and cowpox virus were not the same, but some sorts of cousins.<ref>{{cite journal|url=http://www.pasteur.fr/applications/euroconf/vaccines3/7_Smith_abstract_.pdf|title=Poxvirus strategies to evade the host response to infection|first=Geoffrey L.|last=Smith|authorlink=Geoffrey L. Smith|location=London|date=2004-10-19}}</ref><ref>http://jmm.sgmjournals.org/cgi/reprint/28/4/291.pdf</ref>
+
+==Recent cases==
+In March 2007, a 2-year-old Indiana boy and his mother contracted a life-threatening vaccinia infection from the boy's father.<ref name=MMWR>{{cite journal |author= [[Centers for Disease Control and Prevention]] (CDC) |title=Household transmission of vaccinia virus from contact with a military smallpox vaccinee—Illinois and Indiana, 2007 |journal=[[Morbidity and Mortality Weekly Report]] |volume=56 |issue=19 |pages=478–81 |year=2007 |pmid=17510612 |url=http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5619a4.htm?s_cid=mm5619a4_e}}</ref> The boy developed the telltale rash over 80 percent of his body after coming into close contact with his father, who was vaccinated for smallpox before being deployed overseas by the [[United States Army]]. The United States military resumed smallpox vaccinations in 2002. The child acquired the infection due to [[eczema]], which is a known risk factor for vaccinia infection. The boy was treated with [[intravenous immunoglobulin]], [[cidofovir]], and an experimental drug being developed by [http://www.siga.com/ SIGA Technologies].<ref>{{cite press release | title = SIGA’s Smallpox Drug Candidate Administered to Critically Ill Human Patient | publisher = SIGA Technologies | date = 2007-03-17 | url = http://www.siga.com/press/031907.html| accessdate =  2007-06-05 }}</ref> On April 19, 2007, he was sent home with no after effects except for possible scarring of the skin.<ref name=MMWR/>
+
+In 2010, the [[Centers for Disease Control and Prevention]] (CDC) reported that a woman in Washington had contracted vaccinia virus infection after digital vaginal contact with her boyfriend, a military member who had recently been vaccinated for smallpox. The woman had a history of childhood eczema, but she had not been symptomatic as an adult. The CDC indicated that it was aware of four similar cases in the preceding 12 months of vaccinia infection after sexual contact with a recent military vaccinee.<ref name=MMWR2>{{cite journal |author= [[Centers for Disease Control and Prevention]] (CDC) |title=Vaccinia Virus Infection After Sexual Contact with a Military Smallpox Vaccinee—Washington, 2010 |journal=[[Morbidity and Mortality Weekly Report]] |volume=59 |issue=25 |pages=773–75 |year=2010 |url=http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5925a2.htm?s_cid=mm5925a2_w}}</ref> Further cases—also in patients with a history of eczema—occurred in 2012.<ref name=MMWR3>{{cite journal |author= [[Centers for Disease Control and Prevention]] (CDC) |title=Secondary and tertiary transmission of vaccinia virus after sexual contact with a smallpox vaccinee—San Diego, California, 2012 |journal=[[Morbidity and Mortality Weekly Report]] |volume=62 |issue=8 |pages=145–7 |year=2013 |month=March |pmid=23446513 |doi= |url=http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6208a2.htm}}</ref>
+
+==Common strains==
+This is a list of some of the well-characterized vaccinia strains used in research and immunizations.
+* Western Reserve
+* Copenhagen
+* [[Dryvax]] (also known as "Wyeth"): the vaccine strain previously used in the [[United States]], produced by [[Wyeth]]. It was replaced in 2008 <ref>{{cite journal |author= |title=Notice to Readers: Newly Licensed Smallpox Vaccine to Replace Old Smallpox Vaccine |journal=MMWR Morb. Mortal. Wkly. Rep.|volume=57 |issue=8 |pages=207–8 |date=February 29, 2008 |url=http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5708a6.htm}}</ref> by ACAM2000 (see below), produced by Acambis. It was produced as preparations of [[calf]] [[lymph]] which was [[freeze-dried]] and treated with antibiotics.
+* [[ACAM2000]]: The current strain in use in the USA, produced by Acambis. ACAM2000 was derived from a [[cloning|clone]] of a Dryvax virus by [[Viral plaque|plaque purification]]. It is produced in cultures of [[Vero cells]].
+* [[Modified vaccinia Ankara]]: a highly attenuated (not virulent) strain created by passaging vaccinia virus several hundred times in [[chicken]] [[embryo]] [[fibroblasts]]. Unlike some other vaccinia strains it does not make [[immunodeficient]] [[Laboratory mouse|mice]] sick and therefore may be safer to use in humans who have weaker immune systems due to being very young, very old, having [[HIV/AIDS]], etc.
+
+== References ==
+{{Reflist}}
+
+===Further reading===
+<div class="references-small">
+* {{cite journal | author = Gubser C, Hué S, Kellam P, [[Geoffrey L. Smith|Smith GL]] | title = Poxvirus genomes: a phylogenetic analysis | journal = J Gen Virol | year = 2004 | month = January | volume = 85 | issue = 1 | pages = 105–17 | pmid = 14718625 | url = http://vir.sgmjournals.org/cgi/content/full/85/1/105 | doi = 10.1099/vir.0.19565-0}}
+* {{cite journal |author= [[Centers for Disease Control and Prevention]] (CDC)|title=Vulvar vaccinia infection after sexual contact with a military smallpox vaccinee—Alaska, 2006 |journal=MMWR Morb. Mortal. Wkly. Rep. |volume=56 |issue=17 |pages=417–9 |year=2007 |pmid=17476203 |url=http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5617a1.htm}}
+</div>
+
+==External links==
+* {{cite web
+   | url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=genome&Cmd=ShowDetailView&TermToSearch=18372
+   | publisher = National Center for Biotechnology Information
+   | title = Vaccinia virus, complete genome
+   | accessdate = 2007-07-25
+}}
+* {{ cite web
+   | author = Condit RC, Moussatche N, Traktman P
+   | title = The Vaccinia Virion: 3D Tour
+   | url = http://www.vacciniamodel.com
+   | accessdate = 2007-07-26
+}}
+* {{cite web
+   | title = Smallpox
+   | publisher = [[Centers for Disease Control and Prevention]]
+   | url = http://www.bt.cdc.gov/agent/smallpox
+   | work = Emergency Preparedness & Response
+   | accessdate = 2007-07-26
+  }}
+* [http://www.poxvirus.org/query.asp?web_taxonomy=vaccinia%20virus Vaccinia Virus Genomes] database search results from the [http://www.poxvirus.org Poxvirus Bioinformatics Resource Center]
+* [http://www.viprbrc.org/brc/home.do?decorator=pox Virus Pathogen Database and Analysis Resource (ViPR): Poxviridae]
+
+{{Viral cutaneous conditions}}
+
+[[Category:Poxviruses]]
+[[Category:Virus-related cutaneous conditions]]
+[[Category:Smallpox]]

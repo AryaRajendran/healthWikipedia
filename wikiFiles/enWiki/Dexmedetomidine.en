@@ -1,0 +1,118 @@
+{{Drugbox
+| verifiedrevid = 458436659
+| IUPAC_name = (''S'')-4-[1-(2,3-dimethylphenyl)ethyl]-3H-imidazole
+| image = Dexmedetomidine skeletal.svg
+
+<!--Clinical data-->
+| tradename = Precedex, Dexdor
+| Drugs.com = {{drugs.com|monograph|dexmedetomidine-hydrochloride}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Intravenous infusion only
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 94%
+| metabolism = Near complete hepatic metabolism to inactive metabolites
+| elimination_half-life = 2 hours
+| excretion = Urinary
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 113775-47-6
+| ATC_prefix = N05
+| ATC_suffix = CM18
+| ATC_supplemental =  
+| PubChem = 68602
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00633
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4470605
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 67VB76HONO
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00514
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4466
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 778
+
+<!--Chemical data-->
+| C=13 | H=16 | N=2 
+| molecular_weight = 200.28 g/mol
+| smiles = n1cc(nc1)[C@H](c2c(c(ccc2)C)C)C
+| InChI = 1/C13H16N2/c1-9-5-4-6-12(10(9)2)11(3)13-7-14-8-15-13/h4-8,11H,1-3H3,(H,14,15)/t11-/m0/s1
+| InChIKey = CUHVIMMYOGQXCV-NSHDSACABZ
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H16N2/c1-9-5-4-6-12(10(9)2)11(3)13-7-14-8-15-13/h4-8,11H,1-3H3,(H,14,15)/t11-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CUHVIMMYOGQXCV-NSHDSACASA-N
+}}
+'''Dexmedetomidine''' (trade names '''Precedex''', '''Dexdor''') is a [[sedative]] medication used by intensive care units and anesthetists. It is relatively unusual in its ability to provide sedation without causing [[respiratory depression]]. Like [[clonidine]], it is an [[agonist]] of [[alpha-2 adrenergic receptor|α<sub>2</sub>-adrenergic receptor]]s in certain parts of the brain.<ref name=Cormack2005/> It is the [[enantiomer|S-enantiomer]] of [[medetomidine]],<ref name=PubChem/> used in veterinary medicine. The drug has been developed by [[Orion Pharma]]<ref>http://orion.fi/en/Research-and-developement/Achievements/</ref>.
+
+==Indications==
+Dexmedetomidine is indicated for sedation of critically ill or injured patients in an intensive care unit setting. Its indication in the US was recently expanded to include nonintubated patient requiring sedation for surgery or procedures short-term. It is also useful as an adjunct for sedation and general anesthesia in the setting of certain operations and invasive medical procedures, such as colonoscopy. There are no absolute contraindications to the use of dexmedetomidine. Limiting its usefulness is the caution that the drug cannot be bolused due to concerns about peripheral α<sub>2</sub>-receptor stimulation with resulting hypotension and bradycardia, combined with its current high cost relative to generic medications such as propofol, fentanyl and midazolam which can achieve similar clinical effects.
+
+===Intensive care unit sedation===
+Compared to [[midazolam]], dexmedetomidine was similarly effective for sedation, but shortened the time to [[extubation]]. It was associated with less [[delirium]], [[tachycardia]] and [[hypotension]], but more [[bradycardia]].<ref name=Riker2009/> It also seemed to be superior to lorazepam for [[mechanical ventilation|ventilated]] patients in the [[intensive care unit]].<ref name=Pandha2007/> Compared to midazolam, dexmedetomidine is superior due to reduced intensive care costs. The reduced costs are due to a reduction in [[intensive care unit]] stay as well as reduced [[mechanical ventilation]].<ref name=OConnor2009/>
+
+===Procedural sedation===
+
+Dexmedetomidine has sedative, [[analgesic]], [[sympatholytic]], and [[anxiolytic]] effects that blunt many of the cardiovascular responses in the [[perioperative]] period. It reduces the requirements for [[volatile anesthetic]]s, sedatives and analgesics without causing significant [[respiratory depression]].<ref name=Paris2005/>
+
+===Other===
+Dexmedetomidine may be useful for the treatment of the deleterious cardiovascular effects of acute [[cocaine]] [[Cocaine intoxication|intoxication]] and [[overdose]].<ref name=Menon2007/> Dexmedetomidine may also offer a new paradigm in the pharmacologic treatment of symptoms of distress (intractable pain, agitation or delirium) at the end of life. Recently, an investigator initiated [[Investigational New Drug|IND]] was approved by the FDA to examine the use of dexmedetomidine in treating cancer patients at the end of life who are suffering from intractable pain, agitation or delirium.<ref name=Jackson2006/>
+
+==Dosage and administration==
+Intravenous infusion of dexmedetomidine is commonly initiated with a 1 mcg/kg loading dose, administered over 10 minutes, followed by a maintenance infusion of 0.2–1.0 mcg/kg/hour. There may be great individual variability in the hemodynamic effects (especially on heart rate and blood pressure), as well as the sedative effects of this drug. For this reason, the dose must be carefully adjusted to achieve the desired clinical effect.<ref name=Dosing/>
+
+==Pricing and Patent life==
+Dexmedetomidine is currently more expensive than off-patent sedatives, such as propofol and midazolam (median per-patient drug acquisition cost was reported as $75 for dexmedetomidine vs $60 for midazolam in one study).<ref name=Dasta2010/> Dexmedetomidine is expected to lose patent protection in the United States in 2013 at which time the acquisition cost of this drug will likely decrease.<ref name=Wunsch2011/>
+
+==See also==
+* [[Xylazine]], another α<sub>2</sub>-receptor agonist used in [[veterinary anesthesia]].
+* [[Medetomidine]], the [[racemic]] mixture of S-medetomidine (dexmedetomidine) and R-medetomidine, used in small animal anesthesia.<ref name=PubChem/>
+* [[Detomidine]], a similar compound used largely in large animal anesthesia.
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Cormack2005>{{cite journal|author=Cormack JR, Orme RM, Costello TG|title=The role of alpha2-agonists in neurosurgery|journal=Journal of Clinical Neuroscience|year=2005|volume=12|issue=4|pages=375–8|doi=10.1016/j.jocn.2004.06.008|pmid=15925765|url=}}</ref>
+
+<ref name=Dosing>{{cite web|author=|title=Dosing Guidelines for Precedex|doi=|pmid=|url=http://www.precedex.com/wp-content/uploads/2010/02/Dosing_Guide.pdf|accessdate=2010-11-21}}</ref>
+
+<ref name=Jackson2006>{{cite journal|author=Jackson KC, Wang Z, Wohlt P, Fine PG|title=Dexmedetomidine a novel analgesic with palliative medicine potential|journal=J Pain and Palliative Care Pharmacotherapy|year=2006|volume=20|issue=2|pages=23–7|doi=10.1080/J354v20n02_05|pmid=16702133|url=}}</ref>
+
+<ref name=Menon2007>{{cite journal|author=Menon DV, Wang Z, Fadel PJ, Arbique D, Leonard D, Li JL, Victor RG, Vongpatanasin W|title=Central sympatholysis as a novel countermeasure for cocaine-induced sympathetic activation and vasoconstriction in humans|journal=J Am Coll Cardiol|year=2007|volume=50|issue=7|pages=626–33|doi=10.1016/j.jacc.2007.03.060|pmid=17692748|url=}}</ref>
+
+<ref name=OConnor2009>{{cite journal|last1=O'Connor|first1=M|last2=Bucknall|first2=T|last3=Manias|first3=E|title=Sedation Management in Australian and New Zealand Intensive Care Units: Doctors' and Nurses' Practices and Opinions|journal=Am J Crit Care|year=2009|volume=19|issue=3|pages=285–95|doi=10.4037/ajcc2009541|pmid=19770414|url=}}</ref>
+
+<ref name=Pandha2007>{{cite journal|last1=Pandharipande|first1=PP|last2=Pun|first2=BT|last3=Herr|first3=DL|last4=Maze|first4=M|last5=Girard|first5=TD|last6=Miller|first6=RR|last7=Shintani|first7=AK|last8=Thompson|first8=JL|last9=Jackson|first9=JC|title=Effect of sedation with dexmedetomidine vs lorazepam on acute brain dysfunction in mechanically ventilated patients: the MENDS randomized controlled trial|journal=JAMA|volume=298|issue=22|pages=2644–53|year=2007|doi=10.1001/jama.298.22.2644|pmid=18073360|url=}}</ref>
+
+<ref name=Paris2005>{{cite journal|author=Paris A, Tonner PH|title=Dexmedetomidine in anaesthesia|journal=Current Opinion in Anaesthesiology|year=2005|volume=18|issue=4|pages=412–8|doi=10.1097/01.aco.0000174958.05383.d5|pmid=16534267}}</ref>
+
+<ref name=PubChem>{{PubChem|5311068}}</ref>
+
+<ref name=Riker2009>{{cite journal|author=Riker RR, Shehabi Y, Bokesch PM, Ceraso D, Wisemandle W, Koura F, Whitten P, Margolis BD, Byrne DW, Ely EW, Rocha MG|title=Dexmedetomidine vs Midazolam for Sedation of Critically Ill Patients: A Randomized Trial|journal=[[JAMA (journal)|JAMA]]|year=2009|volume=301|issue=5|pages=489–99|doi=10.1001/jama.2009.56|pmid=19188334|url=}}</ref>
+
+<ref name=Dasta2010>{{cite journal|author=Dasta JF, Kane-Gill SL, Pencina M, et al|title=A cost-minimization analysis of dexmedetomidine compared with midazolam for long-term sedation in the intensive care unit|journal=[[Crit Care Med]]|year=2010|volume=38|issue=2|pages=497–503|pmid=19789442}}</ref>
+
+<ref name=Wunsch2011>{{cite journal|author=Wunsch H|title=Weighing the Costs and Benefits of a Sedative|journal=[[JAMA (journal)|JAMA]]|year=2011|volume=307|issue=11|pages=1195–1197|doi=10.1001/jama.2012.319|url=http://jama.ama-assn.org/content/307/11/1195.full}}</ref>
+
+}}
+
+==External links==
+* [http://www.precedex.com/ Website of Precedex]
+
+{{Adrenergic agonists}}
+{{Hypnotics and sedatives}}
+
+[[Category:Imidazoles]]
+[[Category:Alpha-adrenergic agonists]]
+[[Category:Enantiopure drugs]]

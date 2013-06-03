@@ -1,0 +1,114 @@
+{{Drugbox
+| verifiedrevid = 461742056
+| IUPAC_name = ({[(2''R'')-1-(6-amino-9''H''-purin-9-yl)propan-2-yl]oxy}methyl)phosphonic acid
+| image = Tenofovir.svg
+| width = 200px
+| caption = Tenofovir (top) and tenofovir disoproxil fumarate (bottom)
+| image2 = Tenofovir disoproxil fumarate structure.svg
+
+<!--Clinical data-->
+| tradename = Viread
+| Drugs.com = {{drugs.com|monograph|viread}}
+| MedlinePlus = a602018
+| pregnancy_category = B <small>(United States)</small>
+| legal_status = ℞-only <small>(U.S.)</small>, [[Prescription drug|POM]] <small>(UK)</small>
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 25%
+| protein_bound = < 1%
+| elimination_half-life = 17 hours
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 147127-20-6
+| ATC_prefix = J05
+| ATC_suffix = AF07
+| PubChem = 464205
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00300
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 408154
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 99YXE507IL
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01982
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 483
+| NIAID_ChemDB = 080741
+
+<!--Chemical data-->
+| C=9 | H=14 | N=5 | O=4 | P=1 
+| molecular_weight = 287.213 [[Gram|g]]/[[Mole (unit)|mol]]
+| smiles = O=P(O)(O)CO[C@H](C)Cn1c2ncnc(c2nc1)N
+| InChI = 1/C9H14N5O4P/c1-6(18-5-19(15,16)17)2-14-4-13-7-8(10)11-3-12-9(7)14/h3-4,6H,2,5H2,1H3,(H2,10,11,12)(H2,15,16,17)/t6-/m1/s1
+| InChIKey = SGOIRFVFHAKUTI-ZCFIWIBFBA
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H14N5O4P/c1-6(18-5-19(15,16)17)2-14-4-13-7-8(10)11-3-12-9(7)14/h3-4,6H,2,5H2,1H3,(H2,10,11,12)(H2,15,16,17)/t6-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SGOIRFVFHAKUTI-ZCFIWIBFSA-N
+}}
+
+'''Tenofovir disoproxil fumarate''' ('''TDF''' or '''PMPA'''<ref>{{cite journal | title=Post-exposure prophylaxis for SIV revisited: Animal model for HIV infection | author=Emau P | journal=AIDS Res Ther | year=2006 | volume=3 | pages=29 | doi=10.1186/1742-6405-3-29 | pmid=17132170 | pmc=1687192 | author-separator=, | author2=Jiang Y | author3=Agy MB | display-authors=3 | last4=Tian | first4=Baoping | last5=Bekele | first5=Girma | last6=Tsai | first6=Che-Chung }}</ref>), marketed by [[Gilead Sciences]] under the trade name '''Viread''', belongs to a class of [[antiretroviral drug]]s known as nucleotide analogue [[reverse transcriptase inhibitor]]s (NRTIs), which block [[reverse transcriptase]], a crucial virus enzyme in [[HIV|human immunodeficiency virus 1 (HIV-1)]] and [[hepatitis B virus]] infections.<ref name=prescribing_info>Gilead Sciences, Inc. [http://www.gilead.com/pdf/viread_pi.pdf Prescribing Information.] Revised: November 2012.</ref>
+
+==Drug forms==
+Tenofovir disoproxil fumarate is a [[prodrug]] form of tenofovir. It is also marketed under the brand name '''Reviro''' by [[Dr. Reddy's Laboratories|DRL]]. Tenofovir is also available in a fixed-dose combination with [[emtricitabine]] in a product with the brand name [[Truvada]] for once-a-day dosing.  [[Atripla]], a fixed-dose triple combination of tenofovir, emtricitabine and [[efavirenz]], was approved by the FDA on 12 July 2006 and is now available, providing a single daily dose for the treatment of HIV.
+
+==History==
+Tenofovir was discovered through a collaborative research effort between [[Antonín Holý]] at the Institute of Organic Chemistry and Biochemistry (IOCB), [[Academy of Sciences of the Czech Republic]] (AS CR) in [[Prague]], and [[Erik DeClercq]], [[Rega Institute for Medical Research]], [[Katholieke Universiteit Leuven|Catholic University of Leuven]], Belgium. 
+
+Tenofovir was approved by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) on October 26, 2001 for the treatment of HIV, and on August 11, 2008 for the treatment of [[chronic (medical)|chronic]] [[hepatitis B]].<ref>[http://www.fda.gov/cder/foi/appletter/2008/021356s025ltr.pdf FDA letter of approval (regarding treatment of hepatitis B)]</ref><ref>[http://online.wsj.com/article/SB121849463154631469.html?mod=us_business_whats_news FDA Clears Viread for Hepatitis B]</ref>
+
+==Increased yield==
+
+A difficult step in the manufacture of tenofovir is near the end, when the mixture is "like oatmeal, making it very difficult to stir," said Joseph Fortunak, who left Abbott Laboratories to teach at Howard. That slows the next reaction, a problem because the intermediary is highly unstable and decomposes, thus lowering the yield.
+
+Fortunak's graduate student Adrian Williams tested different methods to improve this step. A catalyst, TBAB (tetrabutylammonium bromide) sped up the reaction and thinned the oatmeal-like mixture into something "like milk," Williams said. But unexpectedly, it made the product more stable, which substantially increased the yield. This lowered the cost by about 20%.<ref name='SCHOOFS'> {{cite news | first = MARK | last = SCHOOFS | title = Researchers Manipulate Drug's Chemistry in Bid to Lower Treatment Cost | date = MAY 13, 2011 | url = http://online.wsj.com/article/SB10001424052748703730804576319480990825422.html | work = Wall Street Journal}}</ref>
+
+==Indications==
+* HIV-1 infection: Tenofovir is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection in adults and pediatric patients 2 years of age and older.<ref name=prescribing_info/> This indication is based on analyses of plasma HIV-1 RNA levels and CD4 cell counts in controlled studies of tenofovir in treatment-naive and treatment-experienced adults. There are no study results demonstrating the effect of tenofovir on the clinical progression of HIV.  
+* Tenofovir is indicated for the treatment of chronic hepatitis B in adults and pediatric patients 12 years of age and older.<ref name=prescribing_info/>
+
+==Adverse effects and drug interactions==
+The most common side effects associated with tenofovir include nausea, vomiting, diarrhea, and [[asthenia]]. Less frequent side effects include hepatotoxicity, abdominal pain, and flatulence.<ref>
+{{cite book
+ | title = USPDI
+ | publisher = Thompson
+ | year = 2005
+ | pages = 2741&ndash;2
+ }}
+</ref>
+Tenofovir has also been implicated in causing renal toxicity, particularly at elevated concentrations.<ref>
+{{cite web
+ | title = Viread Prescribing Guidelines
+ | publisher = [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]]
+ | date = March 2006
+ | url = http://www.fda.gov/cder/foi/label/2006/021356s016lbl.pdf
+ |format=PDF| accessdate = 2007-02-12
+|archiveurl = http://web.archive.org/web/20070930004213/http://www.fda.gov/cder/foi/label/2006/021356s016lbl.pdf <!-- Bot retrieved archive --> |archivedate = 2007-09-30}}</ref>
+
+Tenofovir can cause [[acute renal failure]], [[Fanconi syndrome]], [[proteinuria]] or [[tubular necrosis]]. These side effects are due to accumulation of the drug in [[proximal tubule]]s. Tenofovir can interact with [[didanosine]] by increasing didanosine's concentration. It also decreases the concentration of [[atazanavir]] sulfate.
+
+==Therapeutic drug monitoring==
+Tenofovir may be measured in plasma by liquid chromatography. Such testing is useful for monitoring therapy and to prevent drug accumulation and toxicity in patients with renal or hepatic impairment.<ref>{{cite journal | author = Delahunty T, Bushman L, Robbins B, Fletcher CV | title = The simultaneous assay of tenofovir and emtricitabine in plasma using LC/MS/MS and isotopically labeled internal standards | journal = J. Chrom. B | volume = 877 | pages = 1907–1914 | year = 2009 | doi = 10.1016/j.jchromb.2009.05.029 | issue = 20–21}}</ref><ref>{{cite journal | author = Kearney BP, Yale K, Shah J, Zhong L, Flaherty JF | title = Pharmacokinetics and dosing recommendations of tenofovir disoproxil fumarate in hepatic or renal impairment | journal = Clin. Pharmacokinet. | volume = 45 | pages = 1115–24 | year = 2006 | doi = 10.2165/00003088-200645110-00005 | pmid = 17048975 | issue = 11}}</ref><ref>R. Baselt, ''Disposition of Toxic Drugs and Chemicals in Man'', 8th edition, Biomedical Publications, Foster City, California, 2008, pp. 1490–1492.</ref>
+
+==HIV risk reduction==
+A [[Cochrane review]] examined the use of tenofovir as a [[pre-exposure prophylaxis]] against HIV infection. It found that both tenofovir alone, as well as the [[tenofovir/emtricitabine]] combination, significantly decreased the risk of contracting HIV.<ref>{{cite journal |author=Okwundu CI, Uthman OA, Okoromah CAN |title=Antiretroviral pre-exposure prophylaxis (PrEP) for preventing HIV in high-risk individuals |journal=Cochrane Database Syst Rev |volume= |issue=7 |pages=CD007189 |year=2012 |doi=10.1002/14651858.CD007189.pub3 |pmid=22786505}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.viread.com/ Official Viread website]
+
+{{Microbicides for sexually transmitted diseases}}
+{{HIVpharm}}
+
+[[Category:Gilead Sciences]]
+[[Category:Nucleoside analog reverse transcriptase inhibitors]]
+[[Category:World Health Organization essential medicines]]
+[[Category:Purines]]
+[[Category:Prodrugs]]
+[[Category:Microbicides]]

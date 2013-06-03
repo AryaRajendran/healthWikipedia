@@ -1,0 +1,87 @@
+{{ad|date=May 2012}}
+
+The term '''virtual patient''' is used to describe interactive [[computer simulation]]s used in [[health care]] education.<ref>JiSC (2009) Repurposing existing virtual patients. Available http://www.jisc.ac.uk/whatwedo/programmes/elearningcapital/reproduce/revip.aspx accessed 08.06.09</ref> The special focus is targeted on the simulation of clinical processes with virtual patients. Virtual patients combine scientific excellence, modern technologies and the innovative concept of [[game-based learning]]. Virtual patients allow the learner to take the role of a health care professional and develop clinical skills such as making diagnoses and therapeutic decisions<ref name=imison>Imison M, Hughes C(2008) The virtual patient project: using low fidelity, student generated online case studies in medical education. in ''Hello? Where are you in the landscape of educational technology? Proceedings ascilite Melbourne 2008.''http://www.ascilite.org.au/conferences/melbourne08/procs/imison.pdf</ref> The use of virtual patient programmes is increasing in healthcare education, partly in response to increasing demands on health care professionals and education of students but also because they allow opportunity for students to practice in a safe environment<ref name=imison/>
+There are many different formats a virtual patient may take. However the overarching principle is that of [[interactivity]] - a virtual patient will have mechanisms for the learner to interact with the case and material or information is made available to the learner as they complete a range of learning activities<ref>Ellaway R (2009) Modelliing virtual patients and virtual cases. Available http://meld.medbiq.org/primers/virtual_patients_cases_ellaway.htm</ref> The interactivity is [[Sequence (medicine)|non-sequential]].
+==Forms of Virtual Patients==
+Virtual patients may take a number of different forms:
+
+*''Artificial patients'': computer simulations of [[biochemical]] processes such as the effect of drugs in organisms, the physiologic processes of a given organ or entire systems (systems biology) in a given organism. These ''can be'' used in different [[Clinical trial|phases]] of a compound or drug in development in a given [[Pharmacology|pharmacological]] research as a ''preliminary'' to [[Drug trial|testing]] on animals and humans for the [[drug development]] processes.
+
+*''Real patients'': reflected in data e.g. [[electronic health record]]s (EHRs). In this case the virtual patient is the reflection of the real patient in terms of data held about them. These are sometimes called e-patients.
+
+*''Physical simulators'': [[Mannequin#Mannequins in Medical Education|mannequins]] (sometimes spelled 'manikins'), models or related artefacts.
+
+*''[[Simulated patient]]s'': where the patient is recreated by [http://www.therasim.com humans] or [http://www.cise.ufl.edu/research/vegroup/vp.html computer-generated characters] and [http://vrpsych.ict.usc.edu/Virtual_Patient_Projects.html Virtual Humans] acting as such or engaging in other kinds of [[Role play|role-play]].
+
+*''Electronic [[Case study|case-studies]] and [[scenario]]s'' where users work through [[problem]]s, situations or similar [[narrative]]-based activities.
+
+==Types of Interaction with Simulated or Electronic Patients==
+A number of different modes of virtual patient delivery have [http://meld.medbiq.org/primers/virtual_patients_cases_ellaway.htm been defined]:
+*Predetermined scenario [directed mode]
+*The learner may build up the patient or case data from observations and interactions [blank mode]
+*The learner may view and appraise or review an existing patient or scenario [critique mode or rehearsal mode]
+*The VP may be used as a mechanism to address particular topics [context mode]
+*The learner may use a scenario or patient to explore personal/professional dimensions [reflective mode]
+*Banks of patients or scenarios may collectively address broad issues of healthcare [pattern mode]
+
+==Types of Interaction with Artificial Patients==
+*To create and run a mathematical [[Quantitative research|quantitative]] simulation of a healthy person ([[physiology]]) and diseased person to test multiple hypothesis against known and unknown processes in a given set or sets of processes to help fill gaps in knowledge of the physiology or system under investigation.  
+
+==Possible Benefits of Physical Simulators and Simulated Patients==
+Simulated patients increase the availability of training opportunities for medical students, making them less dependent on actual cases to learn how to handle different situations. Unlike real patients, simulated patients can be accessed on demand and they can be endlessly replayable to allow the user to explore different options and strategies. They can be structured with narratives that represent real situations while challenging the user with a wide range of tasks.
+
+Despite their efficacy simulated patients are still a tangent and a prosthesis to reality. They should be viewed as augmenting existing modes and methods of clinical teaching.
+
+==Possible Benefits of Artificial Patients==
+Artificial patients increase the possibility of exploring millions of hypothesis driven experiments on known areas of biological systems to extrapolate the unknown, which enables efficient exploration, informed research and development [[predictive simulation]], which must also be proven by real patient studies  [[clinical trial]].
+If more tests can be done on Artificial patients to filter out possibly unnecessary tests or experiments, fewer subjects [[clinical trial|pharmacovigilance]] maybe needed.  
+The Artificial patients [[insilico modeling]] are still in the early to middle developmental stages. It will require continual updates and development with the endless availability of new data.   
+
+==Virtual Patient Data Standards==
+The [http://www.medbiq.org/ MedBiquitous consortium] established a working group in 2005 to create a free and open data standard for expressing and exchanging virtual patients between different authoring and delivery systems. This was in part to address the problem of exchanging and reusing virtual patients and in part to encourage and support easier and wider use of virtual patients in general.
+
+This standard has been very successful and is now widely adopted, e.g. in major projects like eViP. 
+
+In 2010, this standard attained status as an '''ANSI''' standard. [[American_National_Standards_Institute]]
+
+==Examples==
+'''Electronic Cases'''
+*[http://med-U.org] (SIMPLE, CLIPP, fmCASES, WISE-MD)
+*[http://websp.lime.ki.se/ WebSP from Karolinska Institutet]
+*[http://research.bidmc.harvard.edu/VPTutorials/ Virtual Patients from Harvard Medical School]
+*[http://www.tinkering.net/vp/ Virtual Patient Project from New York University]
+*[http://www.campusvirtualpatients.com/ Virtual Patients from Centre for Virtual Patients (University of Heidelberg)]
+*[http://openlabyrinth.ca/ OpenLabyrinth from Canada]
+*[http://labyrinth.mvm.ed.ac.uk/ Labyrinth from the University of Edinburgh]
+*[http://tusk.tufts.edu/view/url/H1185C/471802/490012/ TUSK Case Simulator from Tufts University]
+*[http://www.keele.ac.uk/schools/pharm/vp/ Virtual Patient from Keele University School of Pharmacy]
+*[http://www.virtualpatientsgroup.com/ Virtual Patients Group Consortium at the University of Florida, University of Central Florida, Medical College of Georgia, and University of Georgia]
+*[http://www.inmedea-simulator.net] (A whole virtual clinic with 25 different faculties and offer 250 virtual patients)
+'''Simulators'''
+*[http://www.therasim.com TheraSim Virtual Patient Simulation]
+*[http://www.limbsandthings.com/ Limbs and Things simulators]
+*[http://www.laerdal.com/document.asp?docid=1022609 SimMan simulator]
+*[[“Harvey” mannequin]]
+
+'''Virtual physiology'''
+*[http://www.entelos.com/ Entelos PhysioLabs / Biologic Systems / Quantitative Mathematical Models ]
+
+==See also==
+*[[CAVEman]]
+*[[InVesalius]]
+*[[Visible Human Project]]
+*[[Virtual Physiological Human]]
+
+==External links==
+*[http://www.medbiq.org/working_groups/virtual_patient/index.html MedBiquitous Virtual Patient Working Group]
+*[http://www.virtualpatients.eu The electronic Virtual Patient (eViP) programme]
+*[http://inmedea.com eLearning since 1996]
+*[http://www.therasim.com TheraSim Virtual Patient Simulation]
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Medical simulation]]
+[[Category:Telehealth]]
+[[Category:Health informatics]]
+[[Category:Nursing education]]

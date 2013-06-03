@@ -1,0 +1,131 @@
+{{chembox
+| verifiedrevid = 464399913
+| Name = Sodium azide
+| ImageFile1 = Sodium_azide.svg
+| ImageSize1 = 160px
+| ImageFileL2 = Sodium-3D.png
+| ImageSizeL2 = 80px
+| ImageNameL2 = The sodium cation
+| ImageFileR2 = Azide-3D-balls.png
+| ImageSizeR2 = 120px
+| ImageNameR2 = Ball-and-stick model of the azide anion
+| OtherNames = Sodium trinitride<br/>Smite<br/>Azium
+| Section1 = {{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 30958
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 89295
+| InChI = 1/N3.Na/c1-3-2;/q-1;+1
+| InChIKey = PXIPVTKHYLBLMZ-UHFFFAOYAH
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 278547
+| SMILES = [N-]=[N+]=[N-].[Na+]
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/N3.Na/c1-3-2;/q-1;+1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PXIPVTKHYLBLMZ-UHFFFAOYSA-N
+| CASNo = 26628-22-8
+| CASNo_Ref = {{cascite|correct|CAS}}
+| UNNumber = [[List of UN Numbers 1601 to 1700|1687]]
+| EINECS = 247-852-1
+| RTECS = VY8050000
+| PubChem = 33557
+}}
+| Section2 = {{Chembox Properties
+| Formula = NaN<sub>3</sub>
+| MolarMass = 65.0099 g/mol
+| Appearance = colourless to white solid
+| Odour = odourless
+| Density = 1.846 g/cm<sup>3</sup> (20 °C)
+| Solubility = 41.0 g/100 mL (15 °C)
+| Solvent1 = alcohol
+| Solubility1 = 0.316 g/100 mL (16 °C)<ref name="10.1063/1.1563591">{{Cite doi|10.1063/1.1563591}}</ref>
+| Solvent2 = ammonia
+| Solubility2 = soluble
+| SolubleOther = insoluble in [[ether]]
+| MeltingPtC = 275
+| Melting_notes = violent decomposition
+| pKa = 4.8
+}}
+| Section3 = {{Chembox Structure
+| CrystalStruct = [[Hexagonal crystal system|Hexagonal]], [[Pearson symbol|hR12]]<ref name=stevens>{{cite journal | author = Stevens E. D., Hope H. | title = A Study of the Electron-Density Distribution in Sodium Azide, {{chem|NaN|3}} | journal = Acta Crystallographica A | year = 1977 | volume = 33 | issue = 5 | pages = 723–729 | doi = 10.1107/S0567739477001855 }}</ref> 
+| SpaceGroup = R-3m, No. 166
+}}
+| Section7 = {{Chembox Hazards
+| ExternalMSDS = [http://fscimage.fishersci.com/msds/20960.htm External MSDS]
+| EUIndex = 011-004-00-7
+| EUClass = Highly toxic ('''T+''')<br/>Very dangerous for the environment ('''N''')
+| RPhrases = {{R28}}, {{R32}}, {{R50/53}}
+| SPhrases = {{S1/2}}, {{S28}}, {{S45}}, {{S60}}, {{S61}}
+| NFPA-H = 4
+| NFPA-F = 0
+| NFPA-R = 2
+| NFPA-O = 
+| FlashPt = 300 °C
+| LD50 = 27 mg/kg (oral, rats/mice)<ref name=stevens/>
+}}
+| Section8 = {{Chembox Related
+| OtherAnions = [[Sodium cyanide]]
+| OtherCations = [[Potassium azide]]<br>[[Ammonium azide]]
+| OtherCpds =
+}}
+}}
+
+'''Sodium azide''' is the [[inorganic compound]] with the [[chemical formula|formula]] NaN<sub>3</sub>. This colorless [[salt (chemistry)|salt]] is the gas-forming component in many car [[airbag]] systems.  It is used for the preparation of other [[azide]] compounds. It is an [[ionic compound|ionic]] substance, is highly soluble in [[water]], and is very acutely toxic. 
+
+==Structure and preparation==
+Sodium azide is an ionic solid. Two [[Polymorphism (materials science)|crystalline forms]] are known, rhombohedral and hexagonal.<ref name=stevens/><ref>{{Wells1984}}</ref> The azide anion is very similar in each, being [[centrosymmetric]] with N–N distances of 1.18 Å. The {{chem|Na|+}} ion is pentacoordinated.
+
+The common synthesis method is the "[[Johannes Wislicenus|Wislicenus]] process," which proceeds in two steps from ammonia. In the first step, ammonia is converted to [[sodium amide]]:
+:2 Na + 2 NH<sub>3</sub> → 2 NaNH<sub>2</sub> + H<sub>2</sub>
+The sodium amide is subsequently combined with [[nitrous oxide]]:
+:2 NaNH<sub>2</sub> + N<sub>2</sub>O → NaN<sub>3</sub> + NaOH + NH<sub>3</sub>
+Alternatively the salt can be obtained by the reaction of [[sodium nitrate]] with sodium amide.<ref>{{Holleman&Wiberg}}</ref>
+
+==Applications==
+
+===Automobile airbags and airplane escape chutes ===
+Older [[airbag]] formulations contained mixtures of oxidizers and sodium azide and other agents including ignitors and accelerants. An electronic controller detonates this mixture during an automobile crash:
+: 2 NaN<sub>3</sub> → 2Na + 3 N<sub>2</sub>
+The same reaction occurs upon heating the salt to approximately 300 °C. The sodium that is formed is a potential hazard itself and, in automobile airbags, it is converted by reaction with other ingredients, such as [[potassium nitrate]] and [[silica]].  In the latter case, innocuous sodium silicates are generated.<ref>{{cite journal | author = Betterton, E. A. | title = Environmental Fate of Sodium Azide Derived from Automobile Airbags | journal = Critical Reviews in Environmental Science and Technology | year = 2003 | volume = 33 | issue = 4 | pages = 423–458 | doi = 10.1080/10643380390245002 }}</ref> Sodium azide is also used in airplane escape chutes.  Newer generation air bags contain [[nitroguanidine]] or similar less sensitive explosives.
+
+===Organic and inorganic synthesis===
+Due to its explosion hazard, sodium azide is of only limited value in industrial scale organic chemistry.  In the laboratory, it is used in [[organic synthesis]] to introduce the azide functional group by displacement of [[halide]]s. The azide functional group can thereafter be converted to an [[amine]] by reduction with either [[lithium aluminium hydride]] or a tertiary [[phosphine]] such as [[triphenylphosphine]] in the [[Staudinger reaction]], with [[Raney nickel]] or with [[hydrogen sulfide]] in pyridine.
+
+Sodium azide is a versatile precursor to other inorganic azide compounds, e.g. [[lead azide]] and [[silver azide]], which are used in explosives.
+
+===Biochemistry and biomedical uses===
+Sodium azide is a useful probe reagent, [[mutagen]], and [[preservative]]. In hospitals and laboratories, it is a [[biocide]]; it is especially important in bulk reagents and [[stock solution]]s which may otherwise support [[bacteria]]l growth where the sodium azide acts as a [[bacteriostatic]] by inhibiting [[cytochrome oxidase]] in [[gram-negative]] bacteria; [[gram-positive]] ([[streptococci]], [[Streptococcus pneumoniae|pneumococci]], [[bacillus|lactobacilli]]) are intrinsically resistant.<ref>{{cite journal | author = Lichstein, H. C.; Soule, M. H. | title = Studies of the Effect of Sodium Azide on Microbic Growth and Respiration: I. The Action of Sodium Azide on Microbic Growth | journal = Journal of Bacteriology | volume = 47 | issue = 3 | pages = 221–230 | year = 1943 | pmid = 16560767 | pmc = 373901 }}</ref> It is also used in [[agriculture]] for pest control.
+
+Azide inhibits [[cytochrome oxidase]] by binding irreversibly to the [[heme]] [[Cofactor (biochemistry)|cofactor]] in a process similar to the action of [[carbon monoxide]]. Sodium azide particularly affects organs that undergo high rates of respiration, such as the [[heart]] and the [[brain]].{{citation needed|date=December 2012}}
+
+==Reactions==
+Treatment of sodium azide with strong acids gives [[hydrazoic acid]], which is also extremely toxic:
+
+:{{chem|H|+}} + {{chem|N|3|-}} → {{chem|HN|3}}
+
+Aqueous solutions contain minute amounts of [[hydrogen azide]], as described by the following equilibrium:
+
+: {{chem|N|3|-}} + {{chem|H|2|O}} {{eqm}} {{chem|HN|3}} + {{chem|OH|-}}  (K = 10{{su|p=−4.6}})
+
+Sodium azide can be destroyed by treatment with [[nitrous acid]] solution:<ref>{{ cite book | author = Committee on Prudent Practices for Handling, Storage, and Disposal of Chemicals in Laboratories, Board on Chemical Sciences and Technology, Commission on Physical Sciences, Mathematics, and Applications, National Research Council | chapter = Disposal of Waste | title = Prudent Practices in the Laboratory: Handling and Disposal of Chemicals | year = 1995 | page = 165 | publisher = National Academy Press | location = Washington, DC | isbn = 0-309-05229-7 | url = http://books.nap.edu/openbook.php?record_id=4911&page=165 }}</ref>
+
+: 2 NaN<sub>3</sub> + 2 HNO<sub>2</sub> → 3 N<sub>2</sub> + 2 NO + 2 NaOH
+
+==Safety considerations==
+Sodium azide is a severe poison. It may be fatal in contact with skin or if swallowed. Even minute amounts can cause symptoms. The toxicity of this compound is comparable to that of soluble alkali cyanides and the lethal dose for an adult human is about 0.7 grams.<ref>{{cite web | url = http://hazard.com/msds/mf/baker/baker/files/s2906.htm | title = MSDS: sodium azide | id = MSDS S2906 | publisher = Mallinckrodt Baker | date = 2008-11-21 }}</ref> No toxicity has been reported from spent airbags.<ref>{{cite book | author = Olson, K. R. | title = Poisoning and Drug Overdose | year = 2007 | page = 123 | publisher = McGraw-Hill Professional | isbn = 0-07-144333-9 | url = http://books.google.com/?id=25avFCpfQAcC&pg=PA123&lpg=PA123 }}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.inchem.org/documents/icsc/icsc/eics0950.htm International Chemical Safety Card 0950].
+*[http://www.cdc.gov/niosh/npg/npgd0560.html NIOSH Pocket Guide to Chemical Hazards].
+*[http://www.straightdope.com/columns/061117.html ''Straight Dope'' on Sodium Azide]
+
+{{Sodium compounds}}
+
+{{DEFAULTSORT:Sodium Azide}}
+[[Category:Sodium compounds]]
+[[Category:Azides]]
+[[Category:Explosive chemicals]]

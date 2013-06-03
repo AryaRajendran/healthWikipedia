@@ -1,0 +1,76 @@
+{{lowercase}}
+{{Infobox Software
+| name = caGrid
+| logo = [[Image:CaGrid.gif]]
+| screenshot =
+| caption =
+| developer = [[National Cancer Institute|NCI's]] Center for Biomedical Informatics and Information Technology (CBIIT), [[Ohio State University]], [[University of Chicago]]'s [[Argonne National Laboratory]], [http://www.semanticbits.com SemanticBits LLC], [http://www.ekagra.com Ekagra Software Technologies]
+<!-- | latest release version = 1.3.0.2
+| latest release date = 2009-11-20 out of date now -->
+| operating system = [[Cross-platform]]
+| genre = [[Grid computing]], [[Web service]]
+| license = caBIG v2.0
+| website = {{URL |cabig.nci.nih.gov/workspaces/Architecture/caGrid }}
+}}
+
+The cancer Biomedical Informatics Grid, or [[caBIG]] is an initiative of the [[National Cancer Institute]], part of the [[National Institutes of Health]]. The '''caGrid''' computer network and software support caBIG.
+
+caBIG is a voluntary virtual informatics infrastructure that connects data, research tools, scientists, and organizations to leverage their combined strengths and expertise in an open federated environment with widely accepted standards and shared tools.  Driven primarily by scientific use cases from the cancer research community, caGrid provides the core enabling infrastructure necessary to compose the Grid of caBIG. It provides the technology that enables collaborating institutions to share information and analytical resources efficiently and securely, while also allowing investigators to easily contribute to and leverage the resources of a national-scale, multi-institutional environment.
+
+==Core infrastructure==
+Though caGrid is a suite of products, typically ''caGrid'' refers to the core Infrastructure.
+
+===Globus toolkit===
+caGrid uses version 4.03 of the [[Globus Toolkit]], produced by the [[Globus Alliance]].
+
+== Portal==
+The [http://cagrid-portal.nci.nih.gov caGrid Portal] is a Web-based application built on [[Liferay|Liferay Portal]] that enables users to discover and interact with the services that are available on the caGrid infrastructure. Portal serves as the primary visualization tool for the caGrid [[middleware]], and provides a standards-based platform for hosting caBIG-related tools. It also serves as a caBIG information source. Through the caGrid Portal, users have instant access to information about caBIG participants, caGrid points of contact (POCs), and caGrid-related news and events.
+[[Image:CaGrid Portal 2022.png |thumb |right |alt=screen shot |300px |Screenshot of portal ]]
+
+==Workflow==
+caGrid workflow uses:
+* Active [[BPEL]]
+* Taverna
+
+==Contributors==
+* [[Ohio State University]]
+* [[University of Chicago]], [[Argonne National Laboratory]]
+* SemanticBits, LLC
+* Ekagra Software Technologies
+
+==Criticism==
+In March 2011, the NCI published an extensive review of CaBIG, the NCI CBIIT program that funded the caGrid software development (see [http://www.informationweek.com/news/government/enterprise-architecture/229401221], [http://deainfo.nci.nih.gov/advisory/bsa/bsa0311/caBIGfinalReport.pdf]), which included a long list of problems with the program, and recommended that most of the software development projects should be discontinued.
+
+==References==
+* {{cite web|title=caGrid|url=https://cabig.nci.nih.gov/workspaces/Architecture/caGrid}}
+* {{cite web|title=caGrid 1.0: An Enterprise Grid Infrastructure for Biomedical Research|url=http://www.jamia.org/cgi/content/short/15/2/138}}
+* {{cite web|title=Enabling the Provisioning and Management of a Federated Grid Trust Fabric|url=http://bmi.osu.edu/publications_more.php?ID=881}}
+* {{cite web|title=Introduce: An Open Source Toolkit for Rapid Development of Strongly Typed Grid Services|url=http://bmi.osu.edu/publications_more.php?ID=858}}
+* {{cite web|title=caGrid: design and implementation of the core architecture of the cancer biomedical informatics grid|url=http://bmi.osu.edu/publications_more.php?ID=740}}
+* {{cite web|title=Combining the Power of Taverna and caGrid: Scientific Workflows that Enable Web-Scale Collaboration|url=http://www.computer.org/portal/web/csdl/doi/10.1109/MIC.2008.120}}
+
+==External links==
+* [http://www.cagrid.org caGrid wiki]
+* [https://gforge.nci.nih.gov/projects/cagrid-1-0/ caGrid gforge project]
+* [https://cabig-kc.nci.nih.gov/CaGrid/KC/index.php/Main_Page caGrid Knowledge Center]
+* [http://cagrid-portal.nci.nih.gov caGrid Portal] 
+
+===Components===
+* [http://cagrid.org/display/introduce/Home Introduce Toolkit], also a Globus [http://dev.globus.org/wiki/Incubator/Introduce Incubator Project]
+* [http://cagrid.org/display/dataservices/Home Data Services]
+* [http://cagrid.org/display/metadata/Home Metadata]
+* Security
+** [http://cagrid.org/display/cds/Home Credential Delegation Service (CDS)]
+** [http://cagrid.org/display/dorian/Home Dorian]
+** [http://cagrid.org/display/gaards/Home GAARDS]
+** [http://cagrid.org/display/gridgrouper/Home Grid Grouper]
+** [http://cagrid.org/display/gts/Home Grid Trust Service (GTS)]
+** [http://cagrid.org/display/websso/Home WebSSO] - Web Single Sign-on component, based on [http://www.ja-sig.org/products/cas/ JASIG CAS]
+
+{{DEFAULTSORT:Cagrid}}
+[[Category:Bioinformatics]]
+[[Category:Cancer research]]
+[[Category:Grid computing]]
+[[Category:Grid computing products]]
+[[Category:National Institutes of Health]]
+[[Category:Oncology]]

@@ -1,0 +1,51 @@
+{{Infobox disease 
+ | Name            = X-linked lymphoproliferative disease 
+ | Image           = 
+ | Caption         = 
+ | DiseasesDB      = 3998 
+ | ICD10           = {{ICD10|D|82|3|d|80}} 
+ | ICD9            = 
+ | ICDO            = 
+ | OMIM            = 308240 
+ | OMIM_mult       = {{OMIM2|300635}} 
+ | MedlinePlus     = 
+ | eMedicineSubj   = med 
+ | eMedicineTopic  = 1370 
+ | MeshID          = D008232
+ | GeneReviewsNBK  = NBK1406
+ | GeneReviewsName = Lymphoproliferative Disease, X-Linked
+}}
+'''X-linked lymphoproliferative disease''' (also known as "Duncan's disease"<ref name="Andrews">{{cite book |author=James, William D.; Berger, Timothy G.; et al. |title=Andrews' Diseases of the Skin: clinical Dermatology |publisher=Saunders Elsevier |location= |year=2006 |pages= |isbn=0-7216-2921-0 |oclc= |doi= |accessdate=}}</ref>{{rp|86}} or "Purtilo syndrome"<ref>http://ghr.nlm.nih.gov/condition/x-linked-lymphoproliferative-disease</ref>) is a [[lymphoproliferative disorder]].<ref name="Bolognia">{{cite book |author=Rapini, Ronald P.; Bolognia, Jean L.; Jorizzo, Joseph L. |title=Dermatology: 2-Volume Set |publisher=Mosby |location=St. Louis |year=2007 |pages=808 |isbn=1-4160-2999-0 |oclc= |doi= |accessdate=}}</ref>
+
+==Causes==
+===XLP1===
+There is a mutation on the X-chromosome that has been found to be associated with a T- and NK-cell lymphoproliferative disorder. The mutation is on the long arm of the chromosome, at position 25, which is denoted as Xq25. At this position, there is a deletion in the ''[[SH2D1A]]'' gene, which codes for an SH2 domain on a signal transducing protein called SLAM-associated protein (SAP). 
+
+The term "SH2" domain stands for src-homology 2 domain, which is a three-dimensional domain structure of about 100 amino acid residues. These domains are present in many signalling proteins because they permit specific, non-covalent bonding to proteins that contain phosphotyrosines. The amino acid residues adjacent to the phosphotyrosine on the target protein are what determine the unique binding specificity.<ref name="item1">{{cite book |author=Abbas, A.K; Lichtman, A.H. |title=Cellular and Molecular Immunology |publisher=Elsevier Saunders |location=Philadelphia |year=2005 |edition=5th}}</ref>
+ 
+The SAP protein is important in the signalling events that activate T- and NK-cells<ref name="titleX-linked Lymphoproliferative Syndrome: Immunodeficiency Disorders: Merck Manual Professional">{{MerckManual|13|164|p||X-linked Lymphoproliferative Syndrome}}</ref> because it functions as an intracellular adapter that transduces T- and NK-cell activation. Normally, the SAP protein is expressed in the cytoplasm of T- and NK-cells, where it binds to the cytoplasmic domain of the surface receptor called signaling lymphocyte activation molecule ([[Signaling lymphocytic activation molecule|SLAM]]). This binding initiates a signal transduction pathway, which results in the modulation of IFN-γ. A deletion in the SH2D1A gene leads to a non-functional SH2 domain on the SAP protein, which means it is unable to bind to the SLAM molecule, leading to a lack of modulation of IFN-γ, causing uncontrolled cell proliferation.
+
+===XLP2===
+A second form is associated with ''[[XIAP]]''.<ref>{{cite journal |author=Rigaud S, Fondanèche MC, Lambert N, ''et al.'' |title=XIAP deficiency in humans causes an X-linked lymphoproliferative syndrome |journal=Nature |volume=444 |issue=7115 |pages=110–4 |year=2006 |month=November |pmid=17080092 |doi=10.1038/nature05257 |url=}}</ref>
+
+Some sources recommend classifying this condition as "X-linked familial hemophagocytic lymphohistiocytosis" instead of X-linked lymphoproliferative disease.<ref name="pmid20489057">{{cite journal |author=Marsh RA, Madden L, Kitchen BJ, ''et al.'' |title=XIAP deficiency: a unique primary immunodeficiency best classified as X-linked familial hemophagocytic lymphohistiocytosis and not as X-linked lymphoproliferative disease |journal=Blood |volume=116 |issue=7 |pages=1079–82 |year=2010 |month=August |pmid=20489057 |doi=10.1182/blood-2010-01-256099 |url= |pmc=2938130}}</ref>
+
+==Presentation==
+Strangely, in boys with X-linked lymphoproliferative disorder, there is an inability to mount an immune response to the [[Epstein-Barr virus]] (EBV),<ref name="Robbins">{{cite book |author=Kumar,Vinay; Cotran, Ramzi S.; Robbins, Stanley L. |title=Robbins Basic Pathology, 7th Edition |publisher=Elsevier |location=Philadelphia |year=2003 |pages=418 |isbn=1-4160-2534-0 |oclc= |doi= |accessdate=}}</ref> which often leads to death from bone marrow failure, irreversible hepatitis, and malignant lymphoma. However, the connection between EBV and X-linked lymphoproliferative disorder is yet to be determined.<ref name="item14">{{EMedicine|article|987765|Lymphoproliferative Disorders}}</ref>
+
+Patients produce insufficient numbers of [[CD27]] [[memory B cell]]s.<ref name="pmid16424938">{{cite journal |author=Ma CS, Pittaluga S, Avery DT, ''et al.'' |title=Selective generation of functional somatically mutated IgM+CD27+, but not Ig isotype-switched, memory B cells in X-linked lymphoproliferative disease |journal=J. Clin. Invest. |volume=116 |issue=2 |pages=322–33 |year=2006 |month=February |pmid=16424938 |pmc=1332028 |doi=10.1172/JCI25720}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.rareshare.org/communities/x-linked-lymphoproliferative-disease X-linked lymphoproliferative disease community]
+* [http://www.xlpresearchtrust.org/ XLP Research Trust]
+*[http://www.ncbi.nlm.nih.gov/books/NBK1406/  GeneReview/NIH/UW entry on Lymphoproliferative Disease, X-Linked]
+
+{{X-linked disorders}}
+{{Lymphoid malignancy}}
+{{Deficiencies of intracellular signaling peptides and proteins}}
+
+[[Category:Noninfectious immunodeficiency-related cutaneous conditions]]
+[[Category:Diseases of immune dysregulaton]]

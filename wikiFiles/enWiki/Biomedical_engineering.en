@@ -1,0 +1,227 @@
+{{for|the Russian journal on the subject|Meditsinskaya Tekhnika}}
+[[File:UltrasoundBPH.jpg|right|thumb|250px|Ultrasound representation of [[Urinary bladder]] (black butterfly-like shape) a hyperplastic [[prostate]]. An example of [[engineering science]] and [[medical science]] working together.]]
+[[File:Microarray2.gif|thumb|300px|Example of an approximately 40,000 probe spotted oligo [[microarray]] with enlarged inset to show detail.]]
+'''Biomedical engineering''' ('''BME''') is the application of engineering principles and design concepts to medicine and biology for healthcare purposes (e.g. diagnostic or therapeutic). This field seeks to close the gap between '''[[engineering]]''' and '''[[medicine]]''': It combines the design and problem solving skills of engineering with medical and biological sciences to advance healthcare treatment, including [[Medical diagnosis|diagnosis]], [[Medical monitor|monitoring]], and [[therapy]].<ref>[http://www.prospects.ac.uk/p/types_of_job/biomedical_engineer_job_description.jsp Biomedical engineer] prospects</ref>
+
+Biomedical engineering has only recently emerged as its own discipline, compared to many other engineering fields.  Such an evolution is common as a new field transitions from being an [[Interdisciplinarity|interdisciplinary]] specialization among already-established fields, to being considered a field in itself. Much of the work in biomedical engineering consists of [[research and development]], spanning a broad array of subfields (see below). Prominent biomedical engineering applications include the development of [[biocompatible]] [[prosthesis|prostheses]], various diagnostic and therapeutic [[medical device]]s ranging from clinical equipment to micro-implants, common imaging equipment such as [[MRI]]s and [[EEG]]s, regenerative tissue growth, pharmaceutical [[medication|drugs]] and therapeutic biologicals.
+
+==Notable subdisciplines within biomedical engineering==
+
+Biomedical engineering can be viewed from two angles, from the medical applications side and from the engineering side. A biomedical engineer must have some view of both sides. As with many medical specialties (e.g. cardiology, neurology), some BME sub-disciplines are identified by their associations with ''particular systems of the human body'', such as:
+
+*Cardiovascular technology - which includes all drugs, biologics, and devices related with diagnostics and therapeutics of cardiovascular systems
+*Neural technology - which includes all drugs, biologics, and devices related with diagnostics and therapeutics of the brain and nervous systems
+*Orthopaedic technology - which includes all drugs, biologics, and devices related with diagnostics and therapeutics of skeletal systems
+*Cancer technology - which includes all drugs, biologics, and devices related with diagnostics and therapeutics of cancer
+
+But more often, sub-disciplines within BME are classified by their association(s) with other more ''established engineering fields'', which can include (at a broad level):
+
+*Biochemical-BME, based on [[Chemical engineering]] - often associated with [[biochemical engineering|biochemical]], cellular, [[molecular engineering|molecular]] and [[tissue engineering]], [[biomaterials]], and [[transport phenomena|biotransport]].
+*Bioelectrical-BME, based on [[Electrical engineering]] and [[Computer Science]] - often associated with [[bioelectricity|bioelectrical]] and [[neural engineering]], bioinstrumentation, biomedical imaging, and [[medical devices]]. This also tends to encompass [[optics]] and [[optical engineering]] - biomedical optics, bioinformatics, imaging and related [[medical devices]].
+*Biomechanical-BME, based on [[Mechanical engineering]] - often associated with [[biomechanics]], [[transport phenomena|biotransport]], [[medical devices]], and modeling of [[systems biology|biological systems]], like [[soft tissue]] mechanics.
+
+One more way to sub-classify the discipline is on the basis of the ''products'' created. The therapeutic and diagnostic products used in healthcare generally fall under the following categories: 
+
+*Biologics and Biopharmaceuticals, often designed using the principles of synthetic biology (synthetic biology is an extension of genetic engineering). The design of biologic and biopharma products comes broadly under the BME-related (and overlapping) disciplines of [[biotechnology]] and [[bioengineering]]. Note that "biotechnology" can be a somewhat ambiguous term, sometimes loosely used interchangeably with BME in general; however, it more typically denotes specific products which use "biological systems, living organisms, or derivatives thereof." <ref>{{cite web|url=http://www.cbd.int/convention/convention.shtml |title=Text of the Convention on Biological Diversity |publisher=Cbd.int |date= |accessdate=2011-09-24}}</ref>  Even some complex "medical devices" (see below) can reasonably be deemed "biotechnology" depending on the degree to which such elements are central to their principle of operation.
+*Pharmaceutical Drugs (so-called "small-molecule" or non-biologic), which are commonly designed using the principles of synthetic chemistry and traditionally discovered using high-throughput screening methods at the beginning of the development process. Pharmaceuticals are related to biotechnology in two indirect ways: 1) certain major types (e.g. biologics) fall under both categories, and 2) together they essentially comprise the "''non''-medical-device" set of BME applications.  (The "Device - Bio/Chemical" spectrum is an imperfect dichotomy, but one regulators often use, at least as a starting point.)
+*Devices, which commonly employ mechanical and/or electrical aspects in conjunction with chemical and/or biological processing or analysis. They can range from microscopic or bench-top, and be either ''in vitro'' or ''in vivo''. In the US, the FDA deems any medical product that is not a drug or a biologic to be a "device" by default (see "Regulation" section). Software with a medical purpose is also regarded as a device, whether stand-alone or as part of another device.
+*Combination Products (not to be confused with [[fixed-dose combination]] drug products or FDCs), which involve ''more than one of the above'' categories in an integrated product (for example, a microchip implant for targeted [[drug delivery]]).
+
+===Tissue engineering===
+{{Main|Tissue engineering}}
+
+Tissue engineering, like genetic engineering (see below), is a major segment of [[Biotechnology]] - which overlaps significantly with BME.
+
+One of the goals of tissue engineering is to create artificial organs (via biological material) for patients that need organ transplants. Biomedical engineers are currently researching methods of creating such organs. Researchers have grown solid [[Human jawbone|jawbone]]s<ref>{{cite news
+| title = Jaw bone created from stem cells
+| work = [[BBC News]]
+| date =  October 10, 2009 |   accessdate = 11 October 2009
+| url = http://news.bbc.co.uk/2/hi/health/8290138.stm}}</ref> and [[Vertebrate trachea|trachea]]s from human stem cells towards this end. Several [[artificial urinary bladder]]s actually have been grown in laboratories and transplanted successfully into human patients.<ref name="cnngrow">{{cite news
+| url = http://www.cnn.com/2006/HEALTH/conditions/04/03/engineered.organs/index.html
+| title = Doctors grow organs from patients' own cells
+| work = [[CNN]]
+|  date =  April 3, 2006 }}</ref> Bioartificial organs, which use both synthetic and biological components, are also a focus area in research, such as with hepatic assist devices that use liver cells within an artificial bioreactor construct.<ref name="chicagoliver">[http://www.uchospitals.edu/news/1999/19990225-elad.html  Trial begins for first artificial liver device using human cells], [[University of Chicago]], February 25, 1999</ref>
+
+[[Image:Alcian stain micromass.jpg|right|thumb|300px|Micromass cultures of C3H-10T1/2 cells at varied oxygen tensions stained with [[Alcian blue]].]]
+
+===Genetic engineering===
+{{Main|Genetic engineering}}
+
+Genetic engineering, recombinant DNA technology, genetic modification/manipulation (GM) and gene splicing are terms that apply to the direct manipulation of an organism's genes. Genetic engineering is different from traditional breeding, where the organism's genes are manipulated indirectly. Genetic engineering uses the techniques of molecular cloning and transformation to alter the structure and characteristics of genes directly. Genetic engineering techniques have found success in numerous applications. Some examples are in improving crop technology (''not a medical application'', but see [[Biological Systems Engineering]]), the manufacture of synthetic human insulin through the use of modified bacteria, the manufacture of erythropoietin in hamster ovary cells, and the production of new types of experimental mice such as the oncomouse (cancer mouse) for research.
+
+===Neural engineering===
+
+[[Neural engineering]] (also known as Neuroengineering) is a discipline that uses engineering techniques to understand, repair, replace, or enhance neural systems. Neural engineers are uniquely qualified to solve design problems at the interface of living neural tissue and non-living constructs.
+
+===Pharmaceutical engineering===
+
+[[Pharmaceutical engineering]] is sometimes regarded as a branch of biomedical engineering, and sometimes a branch of [[chemical engineering]]; in practice, it is very much a hybrid sub-discipline (as many BME fields are). Aside from those pharmaceutical products directly incorporating biological agents or materials, even developing chemical drugs is considered to require substantial BME knowledge due to the physiological interactions inherent to such products' usage.  With the increasing prevalence of "combination products," the lines are now blurring among healthcare products such as drugs, biologics, and various types of devices.
+
+===Medical devices===
+{{Main|Medical devices|medical equipment|Medical technology}}
+
+This is an ''extremely broad category''—essentially covering all health care products that do '''not''' achieve their intended results through predominantly chemical (e.g., pharmaceuticals) or biological (e.g., vaccines) means, and do not involve metabolism.
+
+A medical device is intended for use in:
+* the diagnosis of disease or other conditions, or
+* in the cure, mitigation, treatment, or prevention of disease,
+
+[[Image:CLegProfile.jpg|200px|right|thumb|Two different models of the C-Leg prosthesis]]
+Some examples include [[artificial pacemaker|pacemaker]]s, [[infusion pump]]s, the [[heart-lung machine]], [[dialysis]] machines, [[tissue engineering|artificial organs]], [[implant (medicine)|implants]], [[artificial limb]]s, [[corrective lenses]], [[cochlear implant]]s, [[ocular prosthetics]], [[facial prosthetics]], somato prosthetics, and [[dental implant]]s.
+[[Image:Opampinstrumentation.svg|250px|right|thumb|Biomedical [[instrumentation amplifier]] schematic used in monitoring low voltage biological signals, an example of a biomedical engineering application of [[electronic engineering]] to [[electrophysiology]].]]
+
+[[Stereolithography]] is a practical example of ''medical modeling'' being used to create physical objects. Beyond modeling organs and the human body, emerging engineering techniques are also currently used in the research and development of new devices for innovative [http://www.cancerjournal.net/article.asp?issn=0973-1482;year=2006;volume=2;issue=4;spage=186;epage=195;aulast=Hede therapies], [http://www.ingentaconnect.com/content/klu/pham/2006/00000023/00000007/00010284;jsessionid=8tqn6da8a03l0.alice treatments], [http://www.ncd.gov/newsroom/publications/2006/emerging_trends.htm patient monitoring], and early [http://www.futuremedicine.com/doi/abs/10.2217/17435889.1.1.67 diagnosis] of complex diseases.
+
+Medical devices are regulated and classified (in the US) as follows (see also ''Regulation''):
+
+#Class I devices present minimal potential for harm to the user and are often simpler in design than Class II or Class III devices.  Devices in this category include tongue depressors, bedpans, elastic bandages, examination gloves, and hand-held surgical instruments and other similar types of common equipment.
+#Class II devices are subject to special controls in addition to the general controls of Class I devices. Special controls may include special labeling requirements, mandatory performance standards, and [[Postmarketing surveillance|postmarket surveillance]]. Devices in this class are typically non-invasive and include x-ray machines, PACS, powered wheelchairs, infusion pumps, and surgical drapes.
+#Class III devices generally require premarket approval (PMA) or premarket notification (510k), a scientific review to ensure the device's safety and effectiveness, in addition to the general controls of Class I.  Examples include replacement heart valves, hip and knee joint implants, silicone gel-filled breast implants, implanted cerebellar stimulators, implantable pacemaker pulse generators and endosseous (intra-bone) implants.
+
+====Medical imaging====
+{{Main|Medical imaging}}
+
+Medical/biomedical imaging is a major segment of [[medical device]]s. This area deals with enabling clinicians to directly or indirectly "view" things not visible in plain sight (such as due to their size, and/or location).  This can involve utilizing ultrasound, magnetism, UV, other radiology, and other means.
+
+[[Image:brain chrischan.jpg|thumb|200px|right|An [[MRI]] scan of a human head, an example of a  biomedical engineering application of [[electrical engineering]] to [[diagnostic imaging]].  [[:Image:brain chrischan 300.gif|Click here]] to view an animated sequence of slices.]]Imaging technologies are often essential to medical diagnosis, and are typically the most complex equipment found in a hospital including:
+*[[Fluoroscopy]]
+*[[Magnetic resonance imaging]] (MRI)
+*[[Nuclear medicine]]
+*[[Positron emission tomography]] (PET) [[Positron emission tomography|PET scans]][[PET-CT scanning|PET-CT scans]]
+*Projection radiography such as [[X-ray]]s and [[Computed tomography|CT scans]]
+*[[Tomography]]
+*[[Ultrasound]]
+*[[Optical microscopy]]
+*[[Electron microscopy]]
+
+====Implants====
+
+An implant is a kind of medical device made to replace and act as a missing biological structure (as compared with a transplant, which indicates transplanted biomedical tissue). The surface of implants that contact the body might be made of a biomedical material such as titanium, silicone or apatite depending on what is the most functional. In some cases implants contain electronics e.g. artificial pacemaker and cochlear implants. Some implants are bioactive, such as subcutaneous drug delivery devices in the form of implantable pills or drug-eluting stents.
+
+[[Image:Army prosthetic.jpg|right|thumb|160px|[[Artificial limb]]s: The right arm is an example of a [[prosthesis]], and the left arm is an example of [[Transradial prosthesis|myoelectric control]].]]
+[[Image:Prosthetic eye.png|thumb|200px|A [[prosthetic eye]], an example of a biomedical engineering application of [[mechanical engineering]] and [[biocompatible material]]s to [[ophthalmology]].]]
+
+====Bionics====
+Artificial body part replacement is just one of the things that bionics can do. Concerned with the intricate and thorough study of the properties and function of human body systems, bionics may be applied to solve some engineering problems. Careful study of the different function and processes of the eyes, ears, and other organs paved the way for improved cameras, television, radio transmitters and receivers, and many other useful tools. These developments have indeed made our lives better, but the best contribution that bionics has made is in the field of biomedical engineering.
+Biomedical Engineering is the building of useful replacements for various parts of the human body. Modern hospitals now have available spare parts to replace a part of the body that is badly damaged by injury or disease. Biomedical engineers who work hand in hand with doctors build these artificial body parts.
+
+===Clinical engineering===
+{{Main|Clinical engineering}}
+
+[[Clinical engineering]] is the branch of biomedical engineering dealing with the actual implementation of [[medical equipment]] and technologies in hospitals or other clinical settings. Major roles of clinical engineers include training and supervising [[Biomedical Equipment Technician|biomedical equipment technicians (BMETs)]], selecting technological products/services and logistically managing their implementation, working with governmental regulators on inspections/audits, and serving as technological consultants for other hospital staff (e.g. physicians, administrators, I.T., etc.). Clinical engineers also advise and collaborate with medical device producers regarding prospective design improvements based on clinical experiences, as well as monitor the progression of the state-of-the-art so as to redirect procurement patterns accordingly.
+
+Their inherent focus on ''practical'' implementation of technology has tended to keep them oriented more towards ''incremental''-level redesigns and reconfigurations, as opposed to revolutionary research & development or ideas that would be many years from clinical adoption; however, there is a growing effort to expand this time-horizon over which clinical engineers can influence the trajectory of biomedical innovation. In their various roles, they form a "bridge" between the primary designers and the end-users, by combining the perspectives of being both 1) close to the point-of-use, while 2) trained in product and process engineering. Clinical Engineering departments will sometimes hire not just biomedical engineers, but also industrial/systems engineers to help address operations research/optimization, human factors, cost analysis, etc. Also see [[safety engineering]] for a discussion of the procedures used to design safe systems.
+
+[[Image:SinusRhythmLabels.svg|200px|right|thumb|Schematic representation of a normal ECG trace showing ''[[sinus rhythm]];'' an example of widely-used clinical medical equipment (operates by applying [[electronic engineering]] to [[electrophysiology]] and [[medical diagnosis]]).]]
+
+==Regulatory issues==
+
+Regulatory issues are of particular concern to a biomedical engineer; it is among the most heavily-regulated fields of engineering, and practicing biomedical engineers must routinely consult and cooperate with regulatory law attorneys and other experts.  The Food and Drug Administration (FDA) is the principal healthcare regulatory authority in the United States, having jurisdiction over medical ''devices, drugs, biologics, and combination'' products.  The paramount objectives driving policy decisions by the FDA are '''safety''' and '''efficacy''' of healthcare products.{{Citation needed|date=October 2009}}
+
+In addition, because biomedical engineers often develop devices and technologies for "consumer" use, such as physical therapy devices (which are also "medical" devices), these may also be governed in some respects by the [[Consumer Product Safety Commission]]. The greatest hurdles tend to be 510K "clearance" (typically for Class 2 devices) or pre-market "approval" (typically for drugs and class 3 devices).
+
+[[Image:Hip replacement Image 3684-PH.jpg|thumb|left|200px|Implants, such as [[artificial hip]] joints, are generally extensively regulated due to the invasive nature of such devices.]]
+
+Most countries have their own particular mechanisms for regulation, with varying formulations and degrees of restrictiveness.  In most European countries, more discretion rests with the prescribing doctor, while the regulations chiefly assure that the product operates as expected.  In European Union nations, the national governments license certifying agencies, which are for-profit companies.  Technical committees of engineers write recommendations which incorporate public comments, and these can be adopted as regulations by the [[European Union]].  These recommendations vary by the type of device, and specify tests for safety and efficacy.  Once a prototype has passed the tests at a certification lab, and that model is being constructed under the control of a certified quality system, the device is entitled to bear a [[CE mark]], indicating that the device is believed to be safe and reliable when used as directed.
+
+The different regulatory arrangements sometimes result in particular technologies being developed first for either the U.S. or in Europe depending on the more favorable form of regulation.  While nations often strive for substantive harmony to facilitate cross-national distribution, philosophical differences about the ''optimal extent'' of regulation can be a hindrance; more restrictive regulations seem appealing on an intuitive level, but critics decry the tradeoff cost in terms of slowing access to life-saving developments.
+
+===RoHS II===
+Directive 2011/65/EU, better known as RoHS 2 is a recast of legislation originally introduced in 2002. The original EU legislation “Restrictions of Certain Hazardous Substances in Electrical and Electronics Devices” (RoHS Directive 2002/95/EC) was replaced and superseded by 2011/65/EU published in July 2011 and commonly known as RoHS 2.
+[[Restriction of Hazardous Substances Directive|RoHS]] seeks to limit the dangerous substances in circulation in electronics products, in particular toxins and heavy metals, which are subsequently released into the environment when such devices are recycled.
+
+The scope of RoHS 2 is widened to include products previously excluded, such as medical devices and industrial equipment. In addition, manufacturers are now obliged to provide conformity risk assessments and test reports – or explain why they are lacking. For the first time, not only manufacturers, but also importers and distributors share a responsibility to ensure Electrical and Electronic Equipment within the scope of RoHS comply with the hazardous substances limits and have a CE mark on their products.
+
+The Directive has to be transposed by the [[Member state of the European Union|Member States]] by January 2, 2013.<ref>SGS, [http://newsletter.sgs.com/eNewsletterPro/uploadedimages/000006/sgs-safeguards-02412-exemptions-from-rohs-ii-directive-a4-en-12.pdf SafeGuardS Bulletin, Retrieved 08/20/2012]</ref>
+
+===IEC 60601===
+
+The new International Standard [[IEC 60601]] for home healthcare electro-medical devices defining the requirements for devices used in the home healthcare environment. IEC 60601-1-11 (2010) must now be incorporated into the design and verification of a wide range of home use and point of care medical devices along with other applicable standards in the IEC 60601 3rd edition series.  
+
+The mandatory date for implementation of the EN European version of the standard is June 1, 2013. The US FDA requires the use of the standard on June 30, 2013, while Health Canada recently extended the required date from June 2012 to April 2013.  The North American agencies will only require these standards for new device submissions, while the EU will take the more severe approach of requiring all applicable devices being placed on the market to consider the home healthcare standard.  As a result, the time to design or redesign [[medical device]]s to the new standard is now.<ref>SGS, [http://www.sgs.com/en/Consumer-Goods-Retail/Medical-Devices-Classified-as-Consumer-Products/Electrical-and-Electronics-Services/Risk-Analysis-Evaluation.aspx Risk Analysis Evaluation, Retrieved 08/22/2012]</ref>
+
+==Training and certification==
+
+===Education===
+
+Biomedical engineers require considerable knowledge of both engineering and biology, and typically have a Master's (M.S.,M.Tech, M.S.E., or M.Eng.) or a Doctoral (Ph.D.) degree in BME (Biomedical Engineering) or another branch of engineering with considerable potential for BME overlap. As interest in BME increases, many engineering colleges now have a Biomedical Engineering Department or Program, with offerings ranging from the undergraduate (B.Tech,B.S., B.Eng or B.S.E.) to doctoral levels. As noted above, biomedical engineering has only recently been emerging as ''its own discipline'' rather than a cross-disciplinary hybrid specialization of other disciplines; and BME programs  at all levels are becoming more widespread, including the [[Bachelor of Science in Biomedical Engineering]] which actually includes so much biological science content that many students use it as a "pre-med" major in preparation for [[medical school]]. The number of biomedical engineers is expected to rise as both a cause and effect of improvements in medical technology.<ref>[http://www.bls.gov/oco/ocos027.htm U.S. Bureau of Labor Statistics] - Profile for Engineers</ref>
+
+In the U.S., an increasing number of [[undergraduate]] programs are also becoming recognized by [[ABET]] as accredited bioengineering/biomedical engineering programs. Over 65 programs are currently accredited by ABET.<ref>{{cite web|url=http://www.bmes.org/accreditation/accredited_eng_pgms.asp |title=Accredited Biomedical Engineering Programs |publisher=Bmes.org |date= |accessdate=2011-09-24}}</ref><ref>[http://www.abet.org/schoolalleac.asp ABET List of Accredited Engineering Programs]</ref>
+
+In Canada and Australia, accredited graduate programs in Biomedical Engineering are common, for example in Universities such as [[McMaster University]], and the first Canadian [[undergraduate]] BME program at [[Ryerson University]] offering a four year B.Eng program.<ref>{{cite web|url=http://msbe.mcmaster.ca/ |title=McMaster School of Biomedical Engineering |publisher=Msbe.mcmaster.ca |date= |accessdate=2011-09-24}}</ref><ref>{{cite web|url=http://www.ee.ryerson.ca/undergraduate/current/bme.html |title=Biomedical Engineering - Electrical and Computer Eng. Ryerson |publisher=Ee.ryerson.ca |date=2011-08-04 |accessdate=2011-09-24}}</ref><ref>{{cite web|url=http://studymagazine.com/2011/04/01/ryerson-biomedical-engineering-students-invent-braincontrolled-prosthetic-arm/ |title=Ryerson Biomedical Engineering Students Invent Brain-Controlled Prosthetic Arm |publisher=STUDY Magazine |date=2011-04-01 |accessdate=2011-09-24}}</ref><ref>{{cite web|title=Biomedical Engineering|url=http://www.flinders.edu.au/science_engineering/csem/disciplines/bme/|accessdate=8 December 2011}}</ref>  The Polytechnique in Montreal is also offering a bachelors's degree in biomedical engineering.
+
+As with many degrees, the reputation and ranking of a program may factor into the desirability of a degree holder for either employment or graduate admission. The reputation of many undergraduate degrees are also linked to the institution's graduate or research programs, which have some tangible factors for rating, such as research funding and volume, publications and citations. With BME specifically, the ranking of a university's hospital and medical school can also be a significant factor in the perceived prestige of its BME department/program.
+
+[[Graduate school|Graduate education]] is a particularly important aspect in BME. While many engineering fields (such as mechanical or electrical engineering) do not need graduate-level training to obtain an entry-level job in their field, the majority of BME positions do prefer or even require them.<ref>[http://www.bls.gov/oco/ocos027.htm#outlook U.S. Bureau of Labor Statistics] - Job Outlook for Engineers</ref> Since most BME-related professions involve scientific research, such as in [[pharmaceutical]] and [[medical device]] development, graduate education is almost a requirement (as undergraduate degrees typically do not involve sufficient research training and experience). This can be either a '''Masters''' or '''Doctoral''' level degree; while in certain specialties a Ph.D. is notably more common than in others, it is hardly ever the majority (except in academia). In fact, the perceived need for some kind of graduate credential is so strong that some undergraduate BME programs will actively discourage students from majoring in BME without an expressed intention to also obtain a masters degree or apply to medical school afterwards.
+
+Graduate programs in BME, like in other scientific fields, are highly varied, and particular programs may emphasize certain aspects within the field. They may also feature extensive collaborative efforts with programs in other fields (such as the University's Medical School or other engineering divisions), owing again to the interdisciplinary nature of BME. M.S. and Ph.D. programs will typically require applicants to have an undergraduate degree in BME, or ''another engineering'' discipline (plus certain life science coursework), or ''life science'' (plus certain engineering coursework).
+
+Education in BME also varies greatly around the world. By virtue of its extensive biotechnology sector, its numerous major universities, and relatively few internal barriers, the U.S. has progressed a great deal in its development of BME education and training opportunities. Europe, which also has a large biotechnology sector and an impressive education system, has encountered trouble in creating uniform standards as the European community attempts to supplant some of the national jurisdictional barriers that still exist. Recently, initiatives such as BIOMEDEA have sprung up to develop BME-related education and professional standards.<ref>[http://www.bmt.uni-stuttgart.de/biomedea/biomedea.htm BIOMEDEA]{{dead link|date=September 2011}}</ref> Other countries, such as Australia, are recognizing and moving to correct deficiencies in their BME education.<ref>[http://stinet.dtic.mil/oai/oai?&verb=getRecord&metadataPrefix=html&identifier=ADA410442 Biomedical Engineering Curriculum:] A Comparison Between the USA, Europe and Australia</ref> Also, as high technology endeavors are usually marks of developed nations, some areas of the world are prone to slower development in education, including in BME.
+
+===Licensure/certification===
+{{See also|Professional engineer}}
+Engineering licensure in the US is largely optional, and rarely specified by branch/discipline. As with other learned professions, each state has certain (fairly similar) requirements for becoming licensed as a registered [[Professional Engineer]] (PE), but in practice such a license is not required to practice in the majority of situations (due to an exception known as the private industry exemption, which effectively applies to the vast majority of American engineers).  This is notably not the case in many other countries, where a license is as legally necessary to practice engineering as it is for law or medicine.
+
+Biomedical engineering is regulated in some countries, such as Australia, but registration is typically only recommended and not required.<ref>[http://www.nerb.org.au/aop/nper_areas_biomedical.cfm National Engineering Registration Board - Areas Of Practice - NPER Areas]{{dead link|date=September 2011}}</ref>
+
+In the UK, mechanical engineers working in the areas of Medical Engineering, [[Bioengineering]] or Biomedical engineering can gain [[Chartered Engineer (UK)|Chartered Engineer]] status through the [[Institution of Mechanical Engineers]].  The Institution also runs the Engineering in Medicine and Health Division.<ref>[http://www.imeche.org/industries/medical/ ]{{dead link|date=September 2011}}</ref>
+
+The [[Fundamentals of Engineering exam]] - the first (and more general) of two licensure examinations for most U.S. jurisdictions—does now cover biology (although technically not BME).  For the second exam, called the Principles and Practices, Part 2, or the Professional Engineering exam, candidates may select a particular engineering discipline's content to be tested on; there is currently not an option for BME with this, meaning that any biomedical engineers seeking a license must prepare to take this examination in another category (which does not affect the actual license, since most jurisdictions do not recognize discipline specialties anyway).  However, the Biomedical Engineering Society (BMES) is, as of 2009, exploring the possibility of seeking to implement a BME-specific version of this exam to facilitate biomedical engineers pursuing licensure.
+
+Beyond governmental registration, certain private-sector professional/industrial organizations also offer certifications with varying degrees of prominence.  One such example is the Certified Clinical Engineer (CCE) certification for Clinical engineers.
+
+==Founding figures==
+* [[Leslie Geddes]] (deceased)- [[Professor Emeritus]] at [[Purdue University]], electrical engineer, inventor, and educator of over 2000 biomedical engineers, received a [[National Medal of Technology]] in 2006 from President George Bush<ref>{{cite web|url=http://www.youtube.com/watch?v=2pZJVE51Vao |title=Leslie Geddes - 2006 National Medal of Technology |publisher=YouTube |date=2007-07-31 |accessdate=2011-09-24}}</ref> for his more than 50 years of contributions that have spawned innovations ranging from burn treatments to miniature defibrillators, ligament repair to tiny blood pressure monitors for premature infants, as well as a new method for performing [[cardiopulmonary resuscitation]] (CPR).
+* [[Yuan-Cheng Fung|Y. C. Fung]] - [[professor emeritus]] at the [[University of California, San Diego]], considered by many to be the founder of modern [[Biomechanics]]<ref>[http://www.techscience.com/mcb_pdf/v1n1/pdf/184288277842.pdf YC “Bert” Fung: The Father of Modern Biomechanics (pdf)]{{dead link|date=September 2011}}</ref>
+* [[Robert Langer]] - [[Institute Professor]] at [[MIT]], runs the largest BME laboratory in the world, pioneer in [[drug delivery]] and [[tissue engineering]]<ref>[http://web.mit.edu/newsoffice/2006/langer.html Colleagues honor Langer for 30 years of innovation], MIT News Office</ref>
+* Herbert Lissner (deceased) - Professor of Engineering Mechanics at [[Wayne State University]].  Initiated studies on blunt head trauma and injury thresholds beginning in 1939 in collaboration with Dr. E.S. Gurdjian, a neurosurgeon at Wayne State's School of Medicine.  Individual for whom the [[American Society of Mechanical Engineers]]' top award in Biomedical Engineering, the Herbert R. Lissner Medal, is named.
+*[[Nicholas A. Peppas]] - Chaired Professor in [[Engineering]], [[University of Texas at Austin]], pioneer in [[drug delivery]], [[biomaterials]], [[hydrogels]] and [[nanobiotechnology]].
+* [[Otto Schmitt]] (deceased) - biophysicist with significant contributions to BME, working with [[biomimetics]]
+* [[Ascher Shapiro]] (deceased) - [[Institute Professor]] at [[MIT]], contributed to the development of the BME field, medical devices (e.g. intra-aortic balloons)
+* [[John G. Webster]] - [[Professor Emeritus]] at the [[University of Wisconsin–Madison]], a pioneer in the field of [[instrumentation amplifier]]s for the recording of [[electrophysiology|electrophysiological signals]]
+* [[Robert Plonsey]] - [[Professor Emeritus]] at [[Duke University]], pioneer of electrophysiology<ref>{{cite web|url=http://fds.duke.edu/db/pratt/BME/faculty/robert.plonsey |title=Faculty - Duke BME |publisher=Fds.duke.edu |date= |accessdate=2011-09-24}}</ref>
+* [[U. A. Whitaker]] (deceased) - provider of The [[Whitaker Foundation]], which supported research and education in BME by providing over $700 million to various universities, helping to create 30 BME programs and helping finance the construction of 13 buildings<ref>{{cite web|url=http://www.whitaker.org/ |title=The Whitaker Foundation |publisher=Whitaker.org |date= |accessdate=2011-09-24}}</ref>
+* [[Frederick Thurstone]] (deceased) - [[Professor Emeritus]] at [[Duke University]], pioneer of diagnostic ultrasound<ref>{{cite web|url=http://www.pratt.duke.edu/news/?id=71 |title=Biomedical Engineering Professor Emeritus Fredrick L. Thurstone Dies |publisher=Pratt.duke.edu |date= |accessdate=2011-09-24}}</ref>
+* Kenneth R. Diller - Chaired and Endowed Professor in [[Engineering]], [[University of Texas at Austin]].  Founded the BME department at UT Austin.  Pioneer in bioheat transfer, mass transfer, and biotransport
+* [[Alfred E. Mann]] - Physicist, entrepreneur and philanthropist. A pioneer in the field of Biomedical Engineering.<ref>{{cite web|last=Gallegos |first=Emma |url=http://www.aemf.org/The |title=Alfred E. Mann Foundation for Scientific Research (AMF) |publisher=Aemf.org |date=2010-10-25 |accessdate=2011-09-24}}</ref>
+* [[Forrest Bird]] - aviator and pioneer in the invention of [[mechanical ventilator]]s
+* [[Willem Johan Kolff]] (deceased) - pioneer of [[hemodialysis]] as well as in the field of artificial organs
+* [[John James Rickard Macleod]](deceased) - one of the co-discoverers of insulin at [[Case Western Reserve University]].
+
+== See also ==
+* [[Biomedicine]]
+* [[Cardiophysics]]
+* [[Medical biophysics]]
+* [[Physiome]]
+
+== References ==
+{{Reflist}}
+
+==Further reading==
+*{{cite book|title= The Biomedical Engineering Handbook, Third Edition |author= Bronzino, Joseph D. |month=April | year=2006 |publisher=[CRC Press] |isbn=978-0-8493-2124-5 |url=http://crcpress.com/product/isbn/9780849321245}}
+*{{cite book|title= Biomed: From the Student's Perspective, First Edition |author= Villafane, Carlos, CBET. |month=June | year=2009 |publisher=[Techniciansfriend.com] |isbn=978-1-61539-663-4  |url=http://www.biomedtechnicians.com}}
+*Medical engineering stories in the news [http://www.sems.qmul.ac.uk/ugadmissions/programmes/news.php?medicalengineering]
+
+==External links==
+{{WVD}}
+<!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    ======================= {{No more links}} =============================-->
+*{{dmoz|Science/Technology/Biomedical_Engineering|Biomedical Engineering}}
+
+{{Engineering fields}}
+{{Medicine}}
+{{Technology}}
+
+{{DEFAULTSORT:Biomedical Engineering}}
+[[Category:Biomedical engineering|*]]
+[[Category:Biological engineering]]

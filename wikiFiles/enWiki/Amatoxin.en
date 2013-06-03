@@ -1,0 +1,118 @@
+'''Amatoxins''' are a subgroup of at least eight [[toxin|toxic]] compounds found in several genera of poisonous mushrooms, most notably ''[[Amanita phalloides]]'' and several other members of the genus ''[[Amanita]]'', as well as some ''[[Conocybe]]'', ''[[Galerina]]'' and ''[[Lepiota]]'' mushroom species.
+
+==Structure==
+The compounds have a similar structure, that of eight amino-acid residues arranged in a conserved macrobicyclic motif (an overall pentacyclic structure when counting the rings inherent in the proline and tryptophan-derived residues); they were isolated in 1941 by [[Heinrich Otto Wieland|Heinrich O. Wieland]] and Rudolf Hallermayer of the [[Ludwig Maximilians University of Munich|University of Munich]].<ref name="Litten75">{{cite journal |doi=10.1038/scientificamerican0375-90 |last=Litten|first= W. |year=1975|month=March |title=The most poisonous mushrooms |journal=[[Scientific American]] |volume=232 |issue=3 |pages=90–101 |pmid=1114308}}</ref> All amatoxins are [[oligopeptides]] that are synthesized as 35-amino-acids-long [[protein precursor|proproteins]], from which the final eight amino acids are cleaved by a prolyl oligopeptidase.<ref>{{cite journal | url = http://www.pnas.org/content/104/48/19097.long | title = Gene family encoding the major toxins of lethal Amanita mushrooms | author = H. E. Hallen, H. Luo, J. S. Scott-Craig, and J. D. Walton | journal = Proceedings of the National Academy of Sciences USA | year = 2007 | volume = 104 | issue = 48 | pages = 19097–19101 | doi = 10.1073/pnas.0707340104 | pmid = 18025465 | pmc = 2141914|bibcode = 2007PNAS..10419097H }}</ref>
+
+[[Image:Amatoxins generic strucuture.png|thumb|right|300px|The backbone structure (black) is the same in all the amatoxins and five variable groups (red) determine the specific compound.]]
+There are currently ten known amatoxins:<ref>{{cite journal | url = http://pubs.acs.org/doi/abs/10.1021/bi00066a027 | title = Identification of structural features involved in binding of α-amanitin to a monoclonal antibody | author = K. Baumann, K. Muenter, and H. Faulstich | journal = Biochemistry | year = 1993 | volume = 32 | issue = 15 | pages = 4043–4050 | doi = 10.1021/bi00066a027 | pmid = 8471612}}</ref>
+
+{| class="wikitable"
+|-
+! Name
+! R<sup>1</sup>
+! R<sup>2</sup>
+! R<sup>3</sup>
+! R<sup>4</sup>
+! R<sup>5</sup>
+|-
+| [[alpha-Amanitin|α-Amanitin]]
+| OH
+| OH
+| NH<sub>2</sub>
+| OH
+| OH
+|-
+| [[beta-Amanitin|β-Amanitin]]
+| OH
+| OH
+| OH
+| OH
+| OH
+|-
+| [[gamma-Amanitin|γ-Amanitin]]
+| H
+| OH
+| NH<sub>2</sub>
+| OH
+| OH
+|-
+| [[epsilon-Amanitin|ε-Amanitin]]
+| H
+| OH
+| OH
+| OH
+| OH
+|-
+| [[Amanullin]]
+| H
+| H
+| NH<sub>2</sub>
+| OH
+| OH
+|-
+| [[Amanullinic acid]]
+| H
+| H
+| OH
+| OH
+| OH
+|-
+| [[Amaninamide]]
+| OH
+| OH
+| NH<sub>2</sub>
+| H
+| OH
+|-
+| [[Amanin]]
+| OH
+| OH
+| OH
+| H
+| OH
+|-
+| [[Proamanullin]]
+| H
+| H
+| NH<sub>2</sub>
+| OH
+| H
+|}
+
+δ-Amanitin has been reported, but its chemical structure has not been determined.
+
+==Mechanism==
+Amatoxins are potent and selective inhibitors of [[RNA polymerase II]], a vital enzyme in the synthesis of [[messenger RNA]] (mRNA), [[microRNA]], and small nuclear RNA ([[snRNA]]). Without mRNA, which is the template for [[Protein biosynthesis|protein synthesis]], cell metabolism stops and [[cytolysis]] ensues.<ref name=" Karlson-Stiber">{{cite journal |author=Karlson-Stiber C, Persson H |title=Cytotoxic fungi - an overview |journal=Toxicon |volume=42 |issue=4 |pages=339–49 |year=2003 |pmid=14505933|doi=10.1016/S0041-0101(03)00238-1}}</ref> The RNA polymerase of ''Amanita phalloides'' is insensitive to the effects of amatoxins; thus, the mushroom does not poison itself.<ref name="Horgen">{{cite journal |last=Horgen|first= Paul A.|coauthors= Allan C. Vaisius and Joseph F. Ammirati |title=The insensitivity of mushroom nuclear RNA polymerase activity to inhibition by amatoxins |journal=Archives of Microbiology |volume=118 |issue=3 |pages=317–9 |year=1978 |pmid=567964 |doi=10.1007/BF00429124}}</ref>
+
+
+[[Image:Alpha-Amanitin–RNA polymerase II complex 1K83.png|thumb|α-Amanitin (red) bound to RNA polymerase II from ''[[Saccharomyces cerevisiae]]'' (brewer's yeast). From {{PDB|1K83}}.<ref name=Bushnell/>]]
+Shown to the right is the crystal structure of RNA Polymerase II from brewers yeast in complex with the amotoxin alpha-amanatin was captured and solved by Dr. Bushnell et al.,<ref name=Bushnell>{{cite journal | title = Structural basis of transcription: alpha-amanitin-RNA polymerase II cocrystal at 2.8 A resolution| journal = Proc Natl Acad Sci USA | year = 2002 | month = Feb | volume = 99 | issue = 3 | pages = 1218–1222 | doi = 10.1073/pnas.251664698 | author = Bushnell, D. A. | pmid = 11805306 | last2 = Cramer | first2 = P | last3 = Kornberg | first3 = RD | pmc = 122170}}</ref> From this crystal structure, it has been determined that alpha-amanitin primarily affects the bridge helix of the RNA pol II complex.  The bridge helix is a highly conserved domain of RNA polymerase which is 35 amino acids long. At the N-terminus and the C-terminus of this region there are hinge structures that undergo significant conformational changes throughout the nucleotide addition cycle, and are essential for its progression.<ref>{{cite journal | title = The Bridge Helix of RNA Polymerase Acts as a Central Nanomechanical Switchboard for Coordinating Catalysis and Substrate Movement| journal = Archea | year = 2011 | month = Sep | volume = 2011 | pages = 1-7 | doi = 10.1155/2011/608385| author = Weinzierl, R.O.J. }}</ref> One of the many roles of the bridge helix, is facilitating the translocation of DNA. <ref>{{cite journal | title = The bridge helix coordinates the movements of modules in RNA polymerase| journal = BMC Biology | year = 2010 | volume = 8 | pages = 141 | doi = 10.1186/1741-7007-8-141| author = Hein, P.P. and Landick, R.}}</ref>  Alpha-amanitin binds to the bridge helix of the RNA Pol II complex and it also binds to part of the complex that is adjacent to the bridge helix, while it is in one specific conformation.  This binding locks the bridge helix into place, dramatically slowing its movement in translocating the DNA.<ref name=Bushnell/> The rate of pol II translocation of DNA is reduced from several thousand to a few nucleotides per minute.<ref>{{cite journal | author = Chafin, D. R. , Guo, H. & Price, D. H. | year = 1995 | journal = J. Biol. Chem. | volume = 270 | pages = 19114–19119 | doi = 10.1074/jbc.270.32.19114 | title = Action of alpha-Amanitin during Pyrophosphorolysis and Elongation by RNA Polymerase II | pmid = 7642577 | issue = 32}}</ref><ref>{{cite journal | author = Rudd, M. D. & Luse, D. S. | year = 1996 | journal = J. Biol. Chem. | volume = 271 | pages = 21549–21558 | doi = 10.1074/jbc.271.35.21549 | title = Amanitin Greatly Reduces the Rate of Transcription by RNA Polymerase II Ternary Complexes but Fails to Inhibit Some Transcript Cleavage Modes | pmid = 8702941 | issue = 35}}</ref> 
+
+==Symptoms of Exposure==
+Upon exposure to amatoxins, the [[liver]] is the principal organ affected as it is the organ which is first encountered after absorption in the [[gastrointestinal tract]]. While ingestion is the primary mode of exposure, amatoxins can be absorbed through the skin and also inhaled, thus affecting other organs such as the [[kidney]]s and [[heart]], are susceptible. More specifically, exposure to amotoxins may cause irritation of the respiratory tract, headache, dizziness, nausea, shortness of breath, coughing, insomnia, diarrhea, gastrointestinal disturbances, back pain, urinary frequency, liver and kidney damage, or death if ingested or inhaled.  For example, If [[β-amanitin]] comes in contact with skin, it may cause irritation, burns, redness, severe pain, and could be absorbed through the skin, causing similar effects to exposure via inhalation and ingestion.  Contact with the eyes may result in irritation, corneal burns, and eye damage.  Persons with pre-existing skin, eye, or central nervous systems disorders, impared liver, kidney, or pulmonary function may be more susceptible to the effects of this substance. <ref>[http://www.chembase.com/pdf/readme.php?cbid=beta-Amanitin "Material Safety Data Sheet for beta Amanitin"], Retrieved on 12 March 2013.</ref>
+
+
+The estimated minimum lethal dose is 0.1&nbsp;mg/kg or 7&nbsp;mg of toxin in adults. Their swift intestinal absorption coupled with their [[thermostability]] leads to rapid development of toxic effects in a relatively short period of time. The most severe effects are toxic [[hepatitis]] with centrolobular [[necrosis]] and [[hepatic steatosis]], as well as acute tubulointerstitial [[nephropathy]], which altogether induce a severe [[hepatorenal syndrome]].
+
+==Physiological Mechanism of Action==
+Amatoxins are able to travel through the bloodstream to reach the organs in the body.  While these compounds can damage many organs, damage to the liver and heart result in fatalities.  At the molecular level, amatoxins cause damage to cells of these organs by causing perforations in the plasma membranes resulting in misplaced organelles that are normally in the cytoplasm to be found in the extracellular matrix.<ref>{{cite journal | author = J. Meldolesi, G. Pelosi, A. Brunelli and E. Genovese | year = 1966 | journal = Virchows Archiv. A, Pathological anatomy and histology | volume = 342 | pages = 221-235 | title = Electron Microscopic Studies on the Effects of Amanitin
+in Mice: Liver and Heart Lesions }}</ref>  beta-Amanitin is also an inhibitor of eukaryotic RNA polymerase II and RNA polymerase III, and as a result, mammalian protein synthesis. It has not been found to inhibit RNA polymerase I or bacterial RNA polymerase.<ref>[http://www.sigmaaldrich.com/catalog/product/sigma/a1304?lang=en&region=US "β-Amanitin from Amanita phalloides"], Retrieved on 12 March 2013.</ref>  Because it inactivates the RNA polymerases, the liver is unable to repair the damage that beta-amanitin causes and the cells of the liver disintegrate and the liver dissolves.<ref>[http://www.ansci.cornell.edu/plants/toxicagents/polypeptides.html "Polypeptide Toxins in Amanita Mushrooms"], “[[Cornell University]]”, Retrieved on 12 March 2013.</ref>
+
+
+==Treatment==
+Treatment involves high dose [[penicillin]] as well as supportive care in cases of hepatic and renal injury. [[Silibinin]], a product found in [[milk thistle]], is a potential antidote to amatoxin poisoning, although more data needs to be collected. Cautious attention is given to maintaining hemodynamic stability, although if [[hepatorenal syndrome]] has developed the prognosis is guarded at best.<ref>{{cite journal |author=Piqueras J. |title=Hepatotoxic mushroom poisoning: diagnosis and management |journal=Mycopathologia |year=1989 |volume=105 |issue=2 |pages=99–110 |pmid=2664527}}</ref>
+
+==Detection==
+Presence of amatoxins in mushroom samples may be detected by the [[Meixner_test#Meixner_test_for_amatoxins|Meixner Test]] (also known as the Wieland Test). The amatoxins may be quantitated in plasma or urine using chromatographic techniques to confirm a diagnosis of poisoning in hospitalized patients and in postmortem tissues to aid in a medicolegal investigation of a suspected fatal overdosage.<ref>R. Baselt, ''Disposition of Toxic Drugs and Chemicals in Man'', 8th edition, Biomedical Publications, Foster City, CA, 2008, pp. 52–54.</ref>
+
+==See also==
+* [[Phallotoxin]]s, a closely related class of mycotoxins
+
+==References==
+{{Reflist|2}}
+
+{{Poisonous Amanitas}}
+{{Toxins}}
+
+[[Category:Amatoxins]]
+[[Category:Indoles]]

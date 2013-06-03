@@ -1,0 +1,104 @@
+'''Titanium Biocompatibility'''
+<br />[[Titanium]] was first introduced into surgeries in the 1950s and used in dentistry prior to that a decade earlier. It is now extensively considered by medical professionals to be the metal of choice for prosthetics, internal fixation, inner body devices and instrumentation. Titanium is literally used from head to toe in biomedical implants. One can find titanium in neurosurgery, bone conduction hearing aids, false eye implants, spinal fusion cages, [[pacemakers]], toe implants, and shoulder/elbow/hip/knee replacements along with many more. The main reason why titanium is often used in the body is due to titanium's [[biocompatibility]] and, with surface modifications, bioactive surface. The surface characteristics that effect biocompatibility are [[surface texture]], steric hindrance, binding sites, and [[hydrophobicity]] (wetting). These characteristics are optimized to create an ideal cellular response.
+
+==Biocompatibility ==
+Titanium is considered the most [[biocompatible]] of all metals due to its ability to withstand attack from bodily fluids, stay inert in the human body, be compatible with bone growth and stay strong and flexible during use.  The materials ability to be resistant to body environments under stress, fatigue, and in crevice conditions is due to the protective oxide film that forms naturally in the presence of oxygen. The oxide film is highly adherent, insoluble, and chemically non transportable, preventing reaction from occurring.
+
+===Osseointegration interaction and proliferation===
+
+====High energy surfaces induce angiogenesis during osseointegration====
+Osseointegration is achieved through the high dielectric constant of titanium that gives it the ability to bind to bone and living tissue. The fact that titanium is able to physically bond with bone gives it an advantage over materials that require adhesives. Titanium implants last longer and require much higher forces to break the bonds that join them to the body.<ref name=raines>{{cite journal |doi=10.1016/j.biomaterials.2010.02.071 |title=Regulation of angiogenesis during osseointegration by titanium surface microstructure and energy |year=2010 |last1=Raines |first1=Andrew L. |last2=Olivares-Navarrete |first2=Rene |last3=Wieland |first3=Marco |last4=Cochran |first4=David L. |last5=Schwartz |first5=Zvi |last6=Boyan |first6=Barbara D. |journal=Biomaterials |volume=31 |issue=18 |pages=4909–17 |pmid=20356623 |pmc=2896824}}</ref>
+
+====Surface properties determine osseointegration====
+The surface properties of a biomaterials play an important role in determining the cellular response to the material. Changing the surface microarchitecture, chemistry, or energy can affect cell adhesion and proliferation. The microstructure and high energy surfaces of titanium implants induce its ability to produce angiogenesis during osseointegration. The titanium/tissue interface features enhance angiogenesis which accounts for controlling osseointegration.<ref>{{cite web|title=Medical Data Sheet|url=http://www.titanium.org/files/ItemFileA3321.pdf|publisher=International Titanium Association|accessdate=23 May 2012}}</ref>
+
+==Surface energy==
+
+===Redox potential===
+Titanium has many different standard electrode potentials depending on the oxidation state it is in.  Solid titanium has a [[standard electrode potential]] of -1.63V. The larger the standard electrode potential, the easier they are to be reduced resulting in better oxidizing agents.<ref name= poten/>  As you can see in the table below solid titanium would rather undergo oxidation making it a better reducing agent.
+{|class="wikitable" style="textalign:center"
+|-
+!'''Half Reaction'''!!'''Standard Electron Potential (V)'''
+|-
+|Ti<sub>2</sub><sup>+</sup> + 2 e<sup>-</sup> → Ti(s)||-1.63<ref name= poten>{{cite web|title=Standard Reduction Potentials (25oC)|url=http://www2.ucdsb.on.ca/tiss/stretton/database/Standard_Reduction_Potentials.htm}}</ref> 
+|-
+|Ti<sub>3</sub><sup>+</sup> + 3 e<sup>-</sup> → Ti(s)||-1.21<ref name=compounds2>{{cite web|last=Brown|first=Doc|title=Chemistry of Titanium|url=http://www.docbrown.info/page07/transition02Ti.htm}}</ref> 
+|-
+|TiO<sub>2</sub><sup>+</sup> + 2 H+ + 4 e<sup>-</sup> → Ti(s) +  H<sub>2</sub>O||-0.86<ref name=compounds>{{cite web|last=Winter|first=Mark|title=Titanium compounds|url=http://www.webelements.com/titanium/compounds.html}}</ref> 
+|-
+|2 TiO<sub>2</sub>(s) + 2 H<sup>+</sup> + 2 e<sup>-</sup> → Ti<sub>2</sub>O<sub>3</sub>(s) +  H<sub>2</sub>O||-0.56<ref name=compounds/>
+|-
+|Ti<sub>2</sub><sup>+</sup>(aq)/M<sub>3</sub><sup>+</sup>(aq)||-0.36<ref name=compounds2/>
+|-
+|}
+
+===Surface coating===
+[[File:Protein Absorption to Oxide Layer.jpg|thumb|Cellular binding to a titanium oxide surface]]
+
+The oxide film that forms due to corrosion becomes heterogeneous and polarized as a function of exposure to physiologic environments.<ref name=healy>{{cite journal |pmid=1751087 |year=1991 |last1=Healy |first1=Kevin E. |last2=Ducheyne |first2=Paul |title=A physical model for the titanium-tissue interface |volume=37 |issue=3 |pages=M150–1 |journal=ASAIO Transactions |url=http://journals.lww.com/asaiojournal/Abstract/1991/07000/A_Physical_Model_for_the_Titanium_Tissue_Interface.16.aspx}}</ref> Factors that change during exposure include increased adsorption of hydroxyl groups, lipoproteins, and glycolipids.<ref name=healy/>  This adsorption can change how the material interacts with the body and can improve biocompatibility.  In titanium alloys such Ti-Zr and Ti-Nb, zirconium and niobium metal ions that are released due to corrosion are not released into the environment, but rather added to the passive layer.<ref>{{cite journal |doi=10.1016/S0142-9612(97)00146-4 |title=Titanium alloys in total joint replacement—a materials science perspective |year=1998 |last1=Long |first1=Marc |last2=Rack |first2=H.J |journal=Biomaterials |volume=19 |issue=18 |pages=1621–39 |pmid=9839998}}</ref>  The alloying elements in the passive layer add a degree of biocompatibility and corrosion resistance depending on the percentage of alloying elements found in the bulk metal prior to corrosion.
+
+<math>\Gamma={Q_{\text{ADS}}M\over nF}</math><ref name=jackson>{{cite journal |doi=10.1021/la991497x |title=Electrochemical Studies of the Adsorption Behavior of Serum Proteins on Titanium |year=2000 |last1=Jackson |first1=Douglas R. |last2=Omanović |first2=Saša |last3=Roscoe |first3=Sharon G. |journal=Langmuir |volume=16 |issue=12 |pages=5449–57}}</ref>
+
+Protein surface concentration (<math>\Gamma</math>) equation where Q<sub>ADS</sub> is the surface charge density in C cm<sup>−2</sup>, Mr is the molar mass of the protein in g mol<sup>−1</sup>, n is the number of electrons transferred (in this case, one electron for each protonated amino group in the protein and F is the Faraday constant in C mol<sup>−1</sup>.
+
+<math>v_{\text{c}}={2\pi DcdN_{\text{A}}}</math><ref name=jackson/>
+
+Collision frequency equation where D = 8.83 × 10<sup>−7</sup> cm<sup>2</sup> s<sup>−1</sup> is the diffusion coefficient of the BSA molecule at 310 K,51 d = 7.2&nbsp;nm is the “diameter” of the proteinwhich is equivalent to twice the Stokes radius,49 NA = 6.023 × 1023&nbsp;mol<sup>−1</sup> is the Avogadro number, and c* = 0.23 g L<sup>−1</sup> (3.3 μM) is the critical bulk supersaturation concentration.
+
+===Wetting and solid surface===
+[[File:Wetting.jpg|thumb|The droplet on the left has a contact angle between 90 and 180 degrees making the strength of the interaction between the solid and the liquid weak.  The droplet on the right has a contact angle between 0 and 90 degrees making the strength of the interaction between the solid and the liquid strong.]]
+
+[[Wetting]] is due to two parameters, surface roughness and surface fraction.<ref>{{cite journal |doi=10.1016/S0927-7757(02)00061-4 |title=Wetting of textured surfaces |year=2002 |last1=Bico |first1=José |last2=Thiele |first2=Uwe |last3=Quéré |first3=David |journal=Colloids and Surfaces A: Physicochemical and Engineering Aspects |volume=206 |pages=41–6}}</ref> By increasing wetting, implants can decrease osseointegration periods by cells more readily binding onto the implant's surface.<ref name=raines/> Methods used to increase wetting on titanium are processing parameters such as temperature, time, and pressure (shown in table below). Titanium with stable oxide layers predominantly consisting of TiO2 result in improved wetting of the implant in contact with physiological fluid.<ref>{{cite journal |doi=10.1016/j.surfcoat.2004.12.027 |title=Surface modification of Ti implants by plasma oxidation in hollow cathode discharge |year=2006 |last1=Silva |first1=M.A.M. |last2=Martinelli |first2=A.E. |last3=Alves |first3=C. |last4=Nascimento |first4=R.M. |last5=Távora |first5=M.P. |last6=Vilar |first6=C.D. |journal=Surface and Coatings Technology |volume=200 |issue=8 |pages=2618–26}}</ref>
+{| class="wikitable"
+|-
+! Surface !! Wetting Angle (degrees) !! Pressure (mbar) During Processing!! Temperature (degrees C) During Processing !! Other Surface Processing
+|-
+| Bare Ti || ~50<ref name=jackson/> || - || - || None
+|-
+| TiO<sub>2</sub> TiO Ti<sub>4</sub>O<sub>7</sub> TiO<sub>4</sub> (Planar) || ~33<ref name=jackson/> || 2.2 || 700 || Oxidation 
+|-
+| TiO<sub>2</sub> TiO Ti<sub>4</sub>O<sub>7</sub> (Planar) || ~45<ref name=jackson/> || 4 || 700 || Oxidation 
+|-
+| TiO<sub>2</sub> TiO Ti<sub>4</sub>O<sub>7</sub> TiO<sub>4</sub> (Hollow) || ~32<ref name=jackson/> || 2.2 || 400 || Oxidation 
+|-
+| TiO<sub>2</sub> TiO Ti<sub>4</sub>O<sub>7</sub> (Hollow)  || ~25<ref name=jackson/> || 2.6 || 500 || Oxidation 
+|-
+| TiO<sub>2</sub> TiO Ti<sub>4</sub>O<sub>7</sub> (Hollow) || ~8<ref name=jackson/> || 4 || 400 || Oxidation 
+|-
+| TiO<sub>2</sub> TiO Ti<sub>4</sub>O<sub>7</sub> (Hollow)  || ~20<ref name=jackson/> || 4 || 500 || Oxidation 
+|-
+| Ti with roughened surface || 79.5 ± 4.6<ref name=Bio>{{cite journal |doi=10.1016/j.jpcs.2007.02.040 |title=Bio-activated titanium surface utilizable for mimetic bone implantation in dentistry—Part III: Surface characteristics and bone–implant contact formation |year=2007 |last1=Strnad |first1=Jakub |last2=Strnad |first2=Zdeněk |last3=Šesták |first3=Jaroslav |last4=Urban |first4=Karel |last5=Povýšil |first5=Ctibor |journal=Journal of Physics and Chemistry of Solids |volume=68 |issue=5–6 |pages=841–5 |bibcode=2007JPCS...68..841S}}</ref>  || - || - || Machined Surface
+|-
+| Ti with alkali-treated surface || 27.2 ± 6.9<ref name=Bio/> || - || - || Bio-surface
+|}
+
+==Adsorption==
+
+===Corrosion===
+Mechanical abrasion of the titanium oxide film leads to increased [[corrosion]] rates.<ref name=urban>{{cite journal |doi=10.1002/jbm.b.31171 |title=''In vivo'' severe corrosion and hydrogen embrittlement of retrieved modular body titanium alloy hip-implants |year=2009 |last1=Rodrigues |first1=Danieli C. |last2=Urban |first2=Robert M. |last3=Jacobs |first3=Joshua J. |last4=Gilbert |first4=Jeremy L. |journal=Journal of Biomedical Materials Research Part B: Applied Biomaterials |volume=88 |pages=206–19 |pmid=18683224 |issue=1 |pmc=2667129}}</ref>
+
+Titanium and its alloys are not immune to corrosion when in the human body. Titanium alloys are susceptible to hydrogen adsorption which can induce precipitation of hydrides and eventually lead to brittle failure.<ref name=urban/> "Hydrogen embrittlement was observed as an in vivo mechanism of degradation under fretting-crevice corrosion conditions resulting in TiH formation, surface reaction and cracking inside Ti/Ti modular body tapers."<ref name=urban/>
+
+===Adhesion===
+[[File:Bioactive Surface Coating Sketch On a Metal Surface.jpg|thumb|A metal surface with grafted polymers multimeric constructs to promote cell binding.  The polymers grafted on the metal surface are brushed, increasing the contact area for cell integration]]
+
+The cells at the implant interface are very sensitive to foreign objects. When implants are implanted into the body the cells will begin an inflammatory response and could lead to encapsulation, which will impair function of implanted device.<ref>{{cite journal |doi=10.1016/j.biomaterials.2011.05.078 |title=Immune responses to implants – A review of the implications for the design of immunomodulatory biomaterials |year=2011 |last1=Franz |first1=Sandra |last2=Rammelt |first2=Stefan |last3=Scharnweber |first3=Dieter |last4=Simon |first4=Jan C. |journal=Biomaterials |volume=32 |issue=28 |pages=6692–709 |pmid=21715002}}</ref>
+
+The desired cell response of a bioactive surface is biomaterial stabilization, reduction of bacterial-surface infection sites, and biomaterial integration. One example of biomaterial integration is a titanium implant with an engineered [[biointerface]] covered with [[biomimetic]] motifs. Surfaces with these biomimetic motifs have shown to enhance integrin binding and signaling and stem cell differentiation. Increasing the density of ligand clustering also increased integrin binding. A coating consisting of trimers and pentamers increased the bone-implant contact area by 75% when compared to the current clinical standard of uncoated titanium.<ref>{{cite journal |doi=10.1126/scitranslmed.3001002 |title=Multivalent Integrin-Specific Ligands Enhance Tissue Healing and Biomaterial Integration |year=2010 |last1=Petrie |first1=T. A. |last2=Raynor |first2=J. E. |last3=Dumbauld |first3=D. W. |last4=Lee |first4=T. T. |last5=Jagtap |first5=S. |last6=Templeman |first6=K. L. |last7=Collard |first7=D. M. |last8=Garcia |first8=A. J. |journal=Science Translational Medicine |volume=2 |issue=45 |pages=45ra60 |pmid=20720217 |pmc=3128787}}</ref> This increase in area allows for increased cellular integration, and reduces rejection of implanted device. 
+The [[Langmuir isotherm]]:
+
+<math>\Gamma={B_{\text{ADS}}\Gamma_{\text{max}}\over (1+B_{\text{ADSc}})}</math>,<ref name=jackson/>
+
+where c is the concentration of the adsorbate <math>\Gamma</math> is the max amount of adsorbed protein, B<sub>ADS</sub> is the affinity of the adsorbate molecules toward adsorption sites. The Langmuir isotherm can be linearized by rearranging the equation to, 
+
+<math>{c\over\Gamma}={{1\over {B_{\text{ADS}}\Gamma_{\text{max}}}} + {c\over \Gamma_{\text{max}}}}</math><ref name=jackson/>
+
+This simulation is a good approximation of adsorption to a surface when compared to experimental values.<ref name=jackson/>  The Langmuir isotherm for adsorption of elements onto the titanium surface can be determined by plotting the know parameters. An experiment of [[fibrinogen]] adsorption on a titanium surface "confirmed the applicability of the Langmuir isotherm in the description of adsorption of fibrinogen onto Ti surface."<ref name=jackson/>
+
+==See also==
+*[[Metals in medicine]]
+
+==References==
+{{Reflist}}
+
+[[Category:Titanium]]

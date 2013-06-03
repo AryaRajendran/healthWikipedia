@@ -1,0 +1,117 @@
+{{Distinguish|granulocyte colony-stimulating factor}}
+{{PBB|geneid=1437}}
+{{Infobox protein family
+| Symbol = GM_CSF
+| Name = Granulocyte-macrophage colony-stimulating factor
+| image = PDB 1csg EBI.jpg
+| width = 
+| caption = three-dimensional structure of recombinant human granulocyte-macrophage colony-stimulating factor
+| Pfam = PF01109
+| Pfam_clan = CL0053 
+| InterPro = IPR000773
+| SMART = 
+| PROSITE = PDOC00584
+| MEROPS = 
+| SCOP = 2gmf
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 476997210
+| IUPAC_name = Human granulocyte macrophage colony stimulating factor
+| image = GMCSF_Crystal_Structure.rsh.png
+
+<!--Clinical data-->
+| tradename =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 83869-56-1
+| ATC_prefix = L03
+| ATC_suffix = AA09
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00020
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = NA
+
+<!--Chemical data-->
+| C=639 | H=1006 | N=168 | O=196 | S=8 
+| molecular_weight = 14434.5 g/mol
+}}
+'''Granulocyte-macrophage colony-stimulating factor''' ('''GM-CSF''') is a [[protein]] secreted by [[macrophage]]s, [[T cell]]s, [[mast cells]], [[NK cells]], [[endothelial cell]]s and [[fibroblast]]s.
+
+==Functions==
+GM-CSF is a [[cytokine]] that functions as a [[white blood cell]] [[growth factor]]. GM-CSF stimulates [[stem cell]]s to produce [[granulocyte]]s ([[neutrophil]]s, [[eosinophil]]s, and [[basophil]]s) and [[monocyte]]s. Monocytes exit the circulation and migrate into tissue, whereupon they mature into [[macrophage]]s and [[dendritic cell]]s. Thus, it is part of the [[immune system|immune]]/[[inflammation|inflammatory]] [[biochemical cascade|cascade]], by which activation of a small number of macrophages can rapidly lead to an increase in their numbers, a process crucial for fighting [[infection]]. The active form of the protein is found extracellularly as a [[homodimer]].
+
+==Genetics==
+The human gene has been localized to a cluster of related genes at chromosome region 5q31, which is known to be associated with interstitial deletions in the [[5q- syndrome]] and [[acute myelogenous leukemia]]. Genes in the cluster include those encoding [[Interleukin 4|interleukins 4]], [[Interleukin 5|5]], and [[Interleukin 13|13]].<ref>{{cite web| title = Entrez Gene: CSF2 colony stimulating factor 2 (granulocyte-macrophage)| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=1437| accessdate = }}</ref>
+
+==Glycosylation==
+Human granulocyte macrophage colony-stimulating factor is glycosylated in its mature form.
+
+==Clinical significance==
+GM-CSF is also known as [[molgramostim]] or, when the protein is expressed in [[yeast]] cells, [[sargramostim]] ('''Leukine''').
+
+GM-CSF is used as a medication to stimulate the production of white blood cells following [[chemotherapy]].
+
+GM-CSF has also recently been evaluated in clinical trials for its potential as a vaccine [[adjuvant]] in HIV-infected patients. The preliminary results have been promising<ref name=Natureref>{{Cite journal  | author=Breitbach CJ, et al. |title=Intravenous delivery of a multi-mechanistic cancer-targeted oncolytic poxvirus in humans |journal=Nature |volume=477 |issue= 7362 |pages= 99–102 |year= 2011 |pmid= 21886163 |doi= 10.1038/nature10358 }}</ref> but GM-CSF is not presently FDA-approved for this purpose.
+
+===Leukine===
+
+''Leukine'' is the trade name of sargramostim, recombinant yeast-derived GM-CSF developed at Immunex (now Amgen) and first given to six humans in 1987 as part of a compassionate-use protocol for the victims of the Goiânia cesium irradiation accident.<ref>{{cite web|author=By HAROLD M. SCHMECK JrPublished: November 02, 1987 |url=http://www.nytimes.com/1987/11/02/world/radiation-team-sent-to-brazil-saves-two-with-a-new-drug.html |title=Radiation Team Sent to Brazil Saves Two With a New Drug - New York Times |publisher=Nytimes.com |date=1987-11-02 |accessdate=2012-06-20}}</ref> It is currently manufactured by [[Berlex Laboratories]], a subsidiary of [[Schering AG]]. Its use was approved by U.S. [[Food and Drug Administration]] for acceleration of white blood cell recovery following autologous [[bone marrow transplantation]] in patients with [[non-Hodgkin's lymphoma]], [[acute lymphocytic leukemia]], or [[Hodgkin's disease]] in March 1991.<ref name="urlDetails of Approved Claims by Line of Therapy">{{cite web|url=http://www.accessdata.fda.gov/scripts/cder/onctools/yearlistclaim.cfm?Approv_Date=1991 |title=Approval Summary for sargramostim |accessdate=20 September 2009 |date=5 March 1991 |work=Oncology Tools |publisher=U.S. Food and Drug Administration, Center for Drug Evaluation and Research |archiveurl=http://web.archive.org/web/20070624223312/www.accessdata.fda.gov/scripts/cder/onctools/summary.cfm?ID=353 |archivedate=29 September 2007 }}</ref> In November 1996, the FDA also approved sargramostim for treatment of [[Fungal infection in animals|fungal infection]]s and replenishment of  white blood cells following chemotherapy.<ref name="urlNewly Approved Drug Therapies (179): Leukine (sargramostim), Immunex">{{cite web| url = http://www.centerwatch.com/patient/drugs/dru179.html | title = Newly Approved Drug Therapies (179): Leukine (sargramostim), Immunex | author = | authorlink = | coauthors = | date = | work = | publisher = CenterWatch  | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 12 October 2008}}</ref>
+
+=== Controversy ===
+
+Berlex funded a study that ran in the May 26, 2005 issue of the ''[[New England Journal of Medicine]]'', which concluded that GM-CSF did produce significantly more remissions in [[Crohn's disease]] than those having received a placebo in the study, and it also decreased disease severity and improved [[quality of life]].<ref>{{cite journal |author=Korzenik J, Dieckgraefe B, Valentine J, Hausman D, Gilbert M |title=Sargramostim for active Crohn's disease |journal=N Engl J Med |volume=352 |issue=21 |pages=2193–201 |year=2005 |pmid=15917384 |doi=10.1056/NEJMoa041109}}</ref>
+
+The study's lead author, Joshua Korzenik of [[Harvard Medical School]] and [[Massachusetts General Hospital]], is a paid consultant for Berlex, and co-inventor of the patent, which is owned by Washington University - St. Louis.<ref name="phoenix">{{cite web| url = http://www.thephoenix.com/Article.aspx?id=8920&page=1 | title = Med school drug pushers: How scientists are selling out to drug companies | author =  Bernstein DS| authorlink = | coauthors = | date = 2006-04-12 | work = | publisher = The Boston Phoenix | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 2008-10-12}}</ref>
+
+===Rheumatoid arthritis===
+GM-CSF is found in high levels in joints with [[rheumatoid arthritis]] and blocking GM-CSF may reduce the inflammation or damage. Some drugs (e.g. [[MOR103]]) are being developed to ''block'' GM-CSF.<ref>{{cite web|url=http://www.drugdevelopment-technology.com/projects/mor103/ |title=MOR103 - Antibody for the Treatment of Rheumatoid Arthritis, Germany |year=2010 }}</ref>
+
+==See also==
+* [[CFU-GM]]
+* [[Granulocyte macrophage colony-stimulating factor receptor]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{Refbegin| 2}}
+{{PBB_Further_reading
+| citations =
+*{{Cite journal  | author=Esnault S, Malter JS |title=GM-CSF regulation in eosinophils |journal=Arch. Immunol. Ther. Exp. (Warsz.) |volume=50 |issue= 2 |pages= 121–30 |year= 2002 |pmid= 12022701 |doi=  }}
+*{{Cite journal  | author=Martinez-Moczygemba M, Huston DP |title=Biology of common beta receptor-signaling cytokines: IL-3, IL-5, and GM-CSF |journal=J. Allergy Clin. Immunol. |volume=112 |issue= 4 |pages= 653–65; quiz 666 |year= 2003 |pmid= 14564341 |doi= 10.1016/j.jaci.2003.08.015 }}
+*{{Cite journal  | author=Mroczko B, Szmitkowski M |title=Hematopoietic cytokines as tumor markers |journal=Clin. Chem. Lab. Med. |volume=42 |issue= 12 |pages= 1347–54 |year= 2005 |pmid= 15576295 |doi= 10.1515/CCLM.2004.253 }}
+*{{Cite journal  | author=Hamilton JA, Anderson GP |title=GM-CSF Biology |journal=Growth Factors |volume=22 |issue= 4 |pages= 225–31 |year= 2005 |pmid= 15621725 |doi= 10.1080/08977190412331279881 }}
+*{{Cite journal  | author=Tortorella C |title=Age-related impairment of GM-CSF-induced signalling in neutrophils: role of SHP-1 and SOCS proteins |journal=Ageing Res. Rev. |volume=6 |issue= 2 |pages= 81–93 |year= 2007 |pmid= 17142110 |doi= 10.1016/j.arr.2006.10.001  | author-separator=,  | author2=Simone O  | author3=Piazzolla G  | display-authors=3  | last4=Stella  | first4=I  | last5=Antonaci  | first5=S }}
+*{{Cite journal  | author=Robertson SA |title=GM-CSF regulation of embryo development and pregnancy |journal=Cytokine Growth Factor Rev. |volume=18 |issue= 3–4 |pages= 287–98 |year= 2007 |pmid= 17512774 |doi= 10.1016/j.cytogfr.2007.04.008 }}
+*{{Cite journal  | author=Morales JK, Kmieciak M, Knutson KL, Bear HD, Manjili MH |title=GM-CSF is one of the main breast tumor-derived soluble factors involved in the differentiation of CD11b−Gr1− bone marrow progenitor cells into myeloid-derived suppressor cells |journal=Breast Cancer Res Treat. |volume= 123|issue= 1|pages= 39–49|year= 2009 |pmid= 19898981 |doi= 10.1007/s10549-009-0622-8  | pmc=3095485}}
+}}
+{{Refend}}
+{{PDB Gallery|geneid=1437}}
+
+==External links==
+* [http://www.gm-csf.com/ Official gentaur web site]
+* [http://www.leukine.com/ Official Leukine web site]
+* {{MeshName|Granulocyte-Macrophage+Colony-Stimulating+Factor}}
+
+{{Colony-stimulating factors}}
+
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB_Controls
+| update_page = yes
+| require_manual_inspection = no
+| update_protein_box = yes
+| update_summary = no
+| update_citations = yes
+}}
+
+{{DEFAULTSORT:Granulocyte Macrophage Colony-Stimulating Factor}}
+[[Category:Cytokines]]
+[[Category:Hematology]]
+[[Category:Growth factors]]

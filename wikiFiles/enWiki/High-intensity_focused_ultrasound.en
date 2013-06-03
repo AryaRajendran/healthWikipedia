@@ -1,0 +1,202 @@
+'''High-Intensity Focused Ultrasound''' ('''HIFU''', or sometimes '''FUS''' for Focused Ultrasound) is a highly precise medical procedure that applies high-intensity focused [[ultrasound|sonic]] energy to locally heat and destroy [[disease]]d or damaged [[tissue (biology)|tissue]] through [[ablation]].
+
+HIFU is a [[hyperthermia therapy]], a class of clinical therapies that use temperature to treat diseases.  HIFU is also one modality of [[therapeutic ultrasound]], involving minimally invasive or non-invasive methods to direct acoustic energy into the body. In addition to HIFU, other modalities include ultrasound-assisted drug delivery, ultrasound hemostasis, ultrasound [[extracorporeal shock wave lithotripsy|lithotripsy]], and ultrasound-assisted thrombolysis.
+
+Clinical HIFU procedures are typically performed in conjunction with an imaging procedure to enable treatment planning and targeting before applying a therapeutic or ablative levels of ultrasound energy. When [[Magnetic resonance imaging]] (MRI) is used for guidance, the technique is sometimes called '''Magnetic Resonance-guided Focused Ultrasound''', often shortened to MRgFUS or MRgHIFU.<ref>http://www.fusfoundation.org/Funded-Projects/robust-mr-thermometry-for-mrghifu-in-breast-and-liver</ref> When [[Medical ultrasonography|diagnostic sonography]] is used, the technique is sometimes called '''Ultrasound-guided Focused Ultrasound''' (USgFUS or USgHIFU).
+
+Currently, MRgHIFU is an approved therapeutic procedure to treat [[uterine fibroids]] in Asia, Australia, Canada, Europe, Israel and the United States. USgHIFU is approved for use in Bulgaria, China, Hong Kong, Italy, Japan, Korea, Malaysia, Mexico, Poland, Russia, Romania, Spain and the United Kingdom. Research for other [[Indication (medicine)|indications]] is actively underway, including clinical trials evaluating the effectiveness of HIFU for the treatment of cancers of the brain, breast, liver, bone, and prostate.  At this time non-image guided HIFU devices are cleared to be on the market in the US, Canada, EU, Australia, and several countries in Asia for the purposes of body sculpting.<ref name="accessdata.fda.gov">www.accessdata.fda.gov/cdrh_docs/pdf10/K100874.pdf</ref>
+
+==Theory==
+
+Ultrasound can be focused, either via a lens (for example, a polystyrene lens), a curved transducer, or a phased array (or any combination of the three) into a small focal zone, in a similar way to focusing light through a magnifying glass focusing light rays to a point. Using an exponential model of ultrasound attenuation (i.e. the ultrasound intensity profile is bounded by an exponentially decreasing function where the decrease in ultrasound is a function of the distance traveled through the tissue), this can be modeled as 
+
+<math> I=I_o {e}^{-2\alpha \mathrm{z}}</math> 
+
+where <math>I_o</math> is the initial beam intensity, <math>\alpha</math> is the attenuation coefficient in units of inverse length, and z is the distance traveled through the attenuating medium. 
+
+In this model, <math>\frac{-\partial I}{\partial \mathrm{z}} = 2\alpha I= Q</math> (Reference: P Hariharan et al (2007)) is a measure of the power density of the heat absorbed from the ultrasound field. Sometimes, SAR is also used to express the amount of heat absorbed by a specific medium and is related to Q by dividing Q by the tissue density. Also, this demonstrates that tissue heating is proportional to the intensity and the intensity is inversely proportional to the area over which an ultrasound beam is spread, which is why focusing the beam into a sharp point (i.e. increasing the beam intensity) creates a rapid temperature rise at the focus. 
+
+The amount of damage caused in the tissue can be modeled using Cumulative Equivalent Minutes (CEM). Several formulations of the CEM equation have been suggested over the years, but the equation currently in use for most research done in HIFU therapy comes from a 1984 paper by Dewey and Sapareto:<ref>http://www.ncbi.nlm.nih.gov/pubmed/6547421</ref>
+
+<math>CEM = \int_{t_o}^{t_f} R^{T-T_{reference}} dt</math>
+
+with the integral being over the treatment time, R=2 for temperatures over 43&nbsp;°C and 4 for temperatures between 43&nbsp;°C and 37&nbsp;°C, a reference temperature of 43&nbsp;°C, and time in minutes. This formula is an empirical formula derived from experiments performed by Dewey and Sapareto by measuring the survival of cell cultures after exposure to heat.
+
+==Focusing==
+The ultrasound beam can be focused in these ways:
+*Geometrically, for example with a [[lens (optics)|lens]] or with a spherically curved [[transducer]].
+*Electronically, by adjusting the relative phases of elements in an array of transducers (a "[[phased array]]"). By dynamically adjusting the electronic signals to the elements of a phased array, the beam can be steered to different locations, and aberrations in the ultrasound beam due to tissue structures can be corrected.
+
+==How HIFU works==
+As an acoustic wave propagates through the tissue, part of it is absorbed and converted to heat. With focused beams, a very small focus can be achieved deep in tissues (usually on the order of milimeters, with the beam having a characteristic "cigar" shape in the focal zone, where the beam is longer than it is wide along the transducer axis). Tissue damage occurs as a function of both the temperature to which the tissue is heated and how long the tissue is exposed to this heat level in a metric referred to as "thermal dose". By focusing at more than one place or by scanning the focus, a volume can be thermally ablated. At high enough acoustic intensities, [[cavitation]] ([[microbubbles]] forming and  interacting with the [[ultrasound]] field) can occur. Microbubbles produced in the field oscillate and grow (due to factors including rectified [[diffusion]]), and can eventually implode (inertial or transient cavitation). During inertial cavitation, very high temperatures inside the bubbles occur, and the collapse is associated with a [[shock wave]] and jets that can mechanically damage tissue. Because the onset of cavitation and the resulting tissue damage can be unpredictable, it has generally been avoided in clinical applications. However, [[cavitation]] is currently being investigated as a means to enhance HIFU ablation and for other applications.
+
+==Method of use==
+In HIFU therapy, ultrasound beams are focused on diseased tissue, and due to the significant energy deposition at the focus, temperature within the tissue can rise to levels from 65° to 85°C, destroying the diseased tissue by coagulation necrosis. Higher temperature levels are typically avoided to prevent boiling of liquids inside the tissue. Each [[sonication]] of the beams theoretically treats a precisely defined portion of the targeted tissue, although in practice cold spots (caused by, among other things, blood perfusion in the tissue), beam distortion, and beam mis-registration are impediments to finely controlled treatments. The entire therapeutic target is treated by moving the applicator on its robotic arm in order to juxtapose multiple shots, according to a protocol designed by the physician. This technology can achieve precise [[ablation]] of diseased tissue, therefore is sometimes called HIFU surgery. Because it destroys the diseased tissue non-invasively, it is also known as "Non-invasive HIFU surgery". Anesthesia is not required, but is generally recommended. The treatment can be combined with radiotherapy or chemotherapy.
+
+==Uses==
+
+===Uterine fibroids===
+Development of this therapy significantly broadened the range of treatment options for patients suffering from [[uterine fibroids]]. HIFU treatment for uterine fibroids was approved by the [[Food and Drug Administration]] (FDA) in October 2004.<ref name="FDA approval">[http://www.fda.gov/medicaldevices/productsandmedicalprocedures/deviceapprovalsandclearances/recently-approveddevices/ucm080704.htm Food and Drug Administration Approval, ExAblate® 2000 System - P040003]</ref> This is a non-invasive treatment option for patients suffering from symptomatic fibroids. Most patients benefit from HIFU and symptomatic relief is sustained for two plus years. Up to 16-20% of patients will require additional treatment.<ref>[Stewart, E.A., et al., Sustained relief of leiomyoma symptoms is possible by using focused ultrasound surgery. Obstet Gynecol, 2007. 110(2 Pt 1): p. 279-87.]</ref>
+
+Currently available FDA approved uterine fibroids treatment devices are GE [[Insightec]] ExAblate 2000 and [[ExAblate]] 2100. Additionally, Philips [[Sonalleve MR-HIFU]] and [[Haifu]] models JC and JC200 have CE approval.
+
+===Other benign tumors===
+Other benign tumors then benefited from the HIFU treatment such as benign neck tumors and benign breast tumors.
+
+Echopulse was the first HIFU device to receive CE marking in 2007 for benign thyroid nodules and hypertrophic parathyroid glands ablation and in 2012 for breast fibroadenoma ablation. The first echotherapy treatments on neck were performed in 2004 and in 2011 for breast fibroadenomas. Echopulse applications are developed by Theraclion, a spin-off from EDAP, that conceived and commercialized the Ablatherm device. Echopulse benefit from the experience of EDAP in the use of HIFU for tumor ablation.
+
+===Functional Neuro Surgery===
+[[Transcranial Magnetic Resonance-guided Focused Ultrasound Surgery]] (tcMRgFUS surgery) is a promising new technology for the non-invasive treatment of various brain disorders such as [[Essential Tremor]], [[Neuropathic Pain]] and [[Parkinson’s Disease]]. With preclinical and clinical precedents set for the safety, efficacy, and reproducibility of MRgFUS for treating uterine fibroids, painful bone metastases, adenomyosis, breast tumors, and a host of other conditions, tcMRgFUS for cranial disorders could become a groundbreaking and potentially disruptive technology in the field of neurosurgery.  
+
+Neurological disorders such as [[Essential Tremor]], [[Neuropathic Pain]] and [[Parkinson’s Disease]], affect millions of people worldwide and may cause significant loss of functionality, suffering, and medication dependency, negatively affecting the quality of life of patients and their caretakers. For patients who do not respond to drug treatments, procedures include deep brain stimulation, radiofrequency ablation, radio surgery which are either invasive or involve ionizing radiation. These are associated with recognized risks: either high doses of ionizing radiation or high risk of complications and side effects. tcMRgFUS can potentially offer a non-invasive alternative to these treatments with minimal side effects.
+
+Clinical trials are currently being conducted in Switzerland, and the University of Virginia with [[ExAblate]] Neuro tcMRgFUS system by [[InSightec]].<ref>http://www.insightec.com/</ref> Preliminary results demonstrate the ability to effectively ablate targets deep in the brain with high precision.<ref>http://www.wvtf.org/index.php?option=com_content&view=article&id=573:uva-pioneers-a-way-to-stop-tremors&catid=48:wvtf-news&Itemid=</ref>
+
+===Prostate cancer===
+The earliest widespread use of HIFU ablation was as a treatment for [[prostate cancer]]. This treatment is administered through a trans-rectal probe and relies on heat developed by focusing ultrasound waves into the prostate to kill the tumor. Promising results approaching those of surgery have been reported in large series of prostate cancer patients. These treatments are performed under ultrasound imaging guidance, which allows for treatment planning and some minimal indication of the energy deposition.  HIFU may also be used to ablate the entire prostate gland using a transrectal probe. This is an outpatient procedure that usually lasts 1–3 hours. Results show that it greatly reduces some of the side effects common with other treatments for prostate cancer.
+
+During HIFU, the entire prostate is ablated, including the [[prostatic urethra]].  The urethra has regenerative ability because it is derived from a different type of tissue (bladder squamous-type [[epithelium]]) rather than prostatic tissue ([[glandular]], [[fibrotic]] and [[muscular]]). While the urethra is an important anatomical structure, the [[sphincter]] and [[bladder neck]] are more important to maintaining the urinary function. During HIFU the sphincter and bladder neck are identified and avoided.<ref>Dr. George Suarez, Medical Director Emeritus at International HIFU http://www.hifumedicalexpert.com/faq.html</ref>
+
+====Available devices for prostate cancer treatment====
+
+=====Ablatherm Robotic HIFU=====
+Developed in 1989 in France with Inserm (French National Institute of Medical Research), Edouard Herriot Hospital in Lyon and EDAP TMS (Nasdaq : EDAP), Ablatherm HIFU was the first prostate cancer HIFU device to receive CE marking in 2000. The first "Ablathermy" treatments on men were performed in 1993 and as of January, 2010, more than 21,000 treatments have been performed worldwide.
+
+=====Sonablate 500=====
+Developed in the early 1990s for the treatment of benign prostate hyperplasia (BPH) in the US by Misonix (Nasdaq: MSON), Sonablate was then modified to treat prostate cancer at the end of the 1990s. Sonablate 500 received CE marking in 2001. As of January 2010, a total of more than 9,000 treatments have been performed for benign prostate hyperplasia and over 7,000 prostate cancer treatments.{{citation needed|date=May 2012}}
+
+During Sonablate HIFU, the physician obtains real-time ultrasound images of the prostate and surrounding areas. From these images,  a customized plan for delivering the ultrasound energy is created. The Sonablate software allows the physician to precisely define the treatment zones in order to destroy the entire gland. 
+
+Sonablate HIFU is minimally invasive, performed on an outpatient basis and typically lasts 2–4 hours, depending on the size of the prostate. There is no surgery or radiation involved. Patients wear a catheter post-procedure but are able to resume normal activities almost immediately. The Sonablate is the only HIFU device for prostate cancer that does not require an advance surgical procedure (known as a TURP) in order to achieve effective results when treating enlarged prostate glands. Sonablate HIFU can treat large prostates up to 40&nbsp;grams. 
+
+The Sonablate incorporates three-dimensional imaging to provide better visuals of the prostate, especially any irregularities, and allow the physician to create the most effective treatment plan possible. The newest technological enhancement to the Sonablate is tissue change monitoring (TCM) software, which gives real-time feedback to the physician, thus confirming if sufficient energy has been delivered to completely ablate the tissue.
+
+=====HIFU-2001 (SUMO)=====
+HIFU-2001 has CFDA (China Food and Drug Administration) approval, and has been used clinically since 2001. Currently, more than 180 HIFU treatment centers are active in China, Hong Kong and Korea. This method of HIFU does not require the use of anesthesia.
+
+===Other cancers===
+{{Further|Hyperthermia therapy}}
+HIFU has been successfully applied in [[oncology|treatment of cancer]] to destroy solid tumors of the bone, brain, breast, liver, pancreas, rectum, kidney, testes, prostate.<ref>{{citation | journal = Journal of Urology, American Urological Association, Vol. 5, Issue 5  | url = http://www.sciencedirect.com/science?_ob=ArticleListURL&_method=list&_ArticleListID=1764547555&_sort=r&_st=13&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=f36c8653deb868534c50721b4a03f9c6&searchtype=a | title = Percutaneous Radiofrequency Ablation of Renal Tumors: Technique, Complications and Outcomes; Acute Histologic Effects of Temperature-Based Radiofrequency Ablation on Renal Tumornext term Pathologic Interpretation; Percutaneous Radiofrequency Ablation of Renal Cell Carcinoma}}</ref><ref>{{citation | author = F Wu, Z-B Wang, Y-De Cao, W-Z Chen, J Bai, J-Z Zou and H Zhu | title = A randomised clinical trial of high-intensity focused ultrasound ablation for the treatment of patients with localised breast cancer | journal = British Journal of Cancer |year=2003|pages= 2227–2233 | url = http://www.nature.com/bjc/journal/v89/n12/full/6601411a.html | volume=89 | issue=12 | doi=10.1038/sj.bjc.6601411}}</ref> At this stage, cancer treatments are still [[experimental cancer therapy|in the investigatory phases]] as there is a need to find more about their effectiveness.
+
+HIFU has been found to offer palliative care. CE approval has been given for palliative treatment of [[bone metastasis]].<ref>{{citation | journal = Focused Ultrasound Surgery Foundation | title = Philips Sonalleve receives CE Mark for MR-guided focused ultrasound ablation of metastatic bone cancer (palliative care) | url = http://www.fusfoundation.org/Newsletter/fusf-newsletter-volume-30#story5}}</ref> Experimentally, a palliative effect was found in cases of advanced pancreatic cancer.<ref>{{citation | title = Feasibility of US-guided High-Intensity Focused Ultrasound Treatment in Patients with Advanced Pancreatic Cancer: Initial Experience (found palliative) | journal = Radiological Society of North America journal | url = http://radiology.rsna.org/content/236/3/1034.full?sid=6e8844a1-a674-4a0d-91d0-06dd432e2e70}}</ref>  
+
+HIFU may be used to create high temperatures not necessarily to treat the cancer alone, but in conjunction with targeted delivery of cancer drugs.  For example, HIFU and other devices may be used to activate temperature-sensitive liposomes, filled with cancer drug "cargo" to release the drug in high concentrations only at the tumor site(s) only where triggered to do so by the hyperthermia device (See [[Hyperthermia therapy]]).  This novel approach is resulting in drug concentrations 10 times or more than traditional chemo with a fraction of the side effects since the drug is not released system-wide.
+
+In addition, several thousand patients with different types of tumors have been treated in China with HIFU using ultrasound image-guided devices built by several different companies.
+
+===Delivering drugs to brain===
+In current research, HIFU is being used to temporarily open the [[blood–brain barrier]] on rodents and non-human primates models, allowing absorption of drugs into the brain. It is most effective when used in combination with a [[calcium channel blocker]] like [[verapamil]].
+
+===Treatment of atrial fibrillation===
+HIFU has been used to treat the most common heart [[arrhythmia]], [[atrial fibrillation]] (AF).  A minimally invasive catheter based system designed to ablate heart tissue responsible for propagating AF has been approved for use in Europe and is undergoing an FDA approved phase III pivotal efficacy trial in the United States.
+
+===Aesthetic Medicine===
+HIFU devices have been cleared to treat subcutaneous adipose tissue for the purposes of body contouring (known colloquially, and incorrectly, as "non-invasive liposuction").  These devices are available in the US, Canada, the EU, Australia, and certain countries in Asia.<ref name="accessdata.fda.gov"/>  HIFU is also cleared for eye brow lifts, albeit with lower energy levels.<ref>www.fda.gov/downloads/AboutFDA/.../CDRH/.../UCM279434.pdf</ref>  One attractive aspect of these treatments is that, unlike HIFU cancer treatments, there are no reimbursement issues as these procedures are "out of pocket".
+
+==History==
+The first investigations of HIFU for non-invasive ablation were reported by Lynn et al. in the early 1940s. Extensive important early work was performed in the 1950s and 1960s by William Fry and Francis Fry at the University of Illinois and Carl Townsend, Howard White and George Gardner at the Interscience Research Institute of Champaign, Ill., culminating in clinical treatments of neurological disorders. In particular High Intensity ultrasound  and ultrasound visualization was accomplished stereotaxically with a Cincinnati precision milling machine to perform accurate ablation of brain tumors. Until recently, clinical trials of HIFU for ablation were few (although significant work in hyperthermia was performed with ultrasonic heating), perhaps due to the complexity of the treatments and the difficulty of targeting the beam noninvasively. With recent advances in medical imaging and ultrasound technology, interest in HIFU ablation of tumors has increased.
+
+The first commercial HIFU machine, called the Sonablate 200, was developed by the American company Focus Surgery, Inc. (Milipitas, CA) and launched in Europe in 1994 after receiving CE approval, bringing a first medical validation of the technology for benign prostatic hyperplasia (BPH). Comprehensive studies by practitioners at more than one site using the device demonstrated clinical efficacy for the destruction of prostatic tissue without bloodloss or long term side effects.  Later studies on localized prostate cancer by Murat and colleagues at the Edouard Herriot Hospital in Lyon in 2006 showed that after treatment with the Ablatherm (EDAP TMS, Lyon, France), progression-free survival rates are very high for low- and intermediate- risk patients with recurrent prostate cancer (70% and 50% respectively)<ref>{{cite web |author= F-J Murat, L Poissonier and A Gelet| year=2006 |title= Recurrent Prostate Cancer After Radiotherapy - Salvage Treatment by High Intensity Focused Ultrasound | url=http://www.urotoday.com/images/pdf_files/hifu/1-murat_european%20oncological%20disease_2006.pdf|format=PDF}} (pdf)</ref> HIFU treatment of prostate cancer is currently an approved therapy in Europe, Canada, South Korea, Australia, and elsewhere. Clinical trials for the in the [[United States]] Sonablate 500 are currently ongoing for prostate cancer patients and those who have experienced radiation failure.<ref>{{cite web |author=USHIFU|year=2012 |title=Clinical Information about HIFU in the U.S. | url=http://www.ushifu.com/index.php?option=com_content&view=article&id=3&Itemid=3}}</ref>
+
+Magnetic Resonance Guided Focused Ultrasound MRgFUS  was first cited in the article "On-line MRI monitored noninvasive ultrasound" by Hynynen K., Damianou C., Darkazanli A., Unger E., Levy M., SchencK J. in ''Proceedings of the annual international conference of the IEEE engineering in medicine and biology society'',October 1992.<ref>{{cite journal |authors=Hynynen K., Damianou C., Darkazanli A., Unger E., Levy M., Schenck J. |title=On-line MRI monitored noninvasive ultrasound |journal=Proceedings of the annual international conference of the IEEE engineering in medicine and biology society |volume=14 |pages=350–351 |year=1992}}</ref> “MR-guided focused ultrasound surgery,”  Cline HE, Schenck JF, Hynynen K, Watkins RD, Souza SP, Jolesz FA Journal of Computer Assisted Tomography [1992, 16(6):956-65] was published nearly the same time. U.S. Patent #5247935. had been previously  Filed on March 19, 1992 The technology was later transferred to InsighTec in Haifa Israel in 1998. The InsighTec ExAblate 2000 was the first MR Guided focused ultrasound system to obtain FDA market approval<ref name="FDA approval"/> in the United States.
+
+Haifu Model JC and JC200 by ChongQing Haifu Ltd. are complete ultrasound guided tumor treatment systems, and they were CE approved in 2005 for benign and malignant tumors.
+
+HIFU-2001(Sumo Corporation Ltd) is an enhanced technology treatment system that does not require anesthesia. Since 2001 it has been used in Asian countries to treat Liver/Pancreas/Bladder/Uterus/Kidney. CFDA/CE/ISO 13845 Approved!
+
+==Advantages over other techniques==
+High Intensity Focused Ultrasound is often considered a promising technology within the non-invasive or minimally invasive therapy segments of medical technology. HIFU’s capacity to generate in-depth precise tissue necrosis using an external applicator, with no effect on the surrounding structures, is unique. The history of using therapeutic ultrasound dates back to early in the 20th century. Technology has continually improved and additional clinical applications, both diagnostic and therapeutic, have become an integral part of medicine today.
+
+An important difference between HIFU and many other forms of focused energy, such as radiation therapy or radio surgery, is that the passage of ultrasound energy through intervening tissue has no apparent cumulative effect on that tissue.
+
+The absence of cumulative effect of HIFU on the treated tissue means that the treatment can be repeated in case of first HIFU treatment failure or partial treatment of the prostate.  As a clean treatment (= non-ionizing) HIFU is also an option to treat prostate cancer recurrence after radiation therapy failure.
+
+==Discoveries during use==
+Currently, the only proven imaging method to accurately quantify the heating produced during HIFU ''in vivo'' is Magnetic Resonance Imaging (MRI). MRI also has superior soft tissue contrast and can image in any orientation, making it the state of the art for guiding HIFU treatments. But MRI can't operate in ''real-time'' with HIFU, with the current state of the art being one image acquisition approximately every six seconds using a full scan of k-space. Researchers are working to reduce this image acquisition time through some of the speed enhancements common in other areas of MRI, including pulse sequences to scan a reduced k-space, constrained reconstruction, and model-based filtering using data from the bioheat equation. 
+
+The University of Minnesota produced a dual-mode ultrasound transducer that offers time resolution measured in milliseconds and offers closed-loop, real-time, intensity modulation based on continuous monitoring of tissue response to the HIFU beam.  This method offers improved resolution over MRI. 
+
+Clinically, MRI-guided HIFU treatments have been tested for uterine fibroids, breast fibroadenomas, breast cancer, bone metastases, and liver tumors. The largest number of patients treated with MRI-guided HIFU have been with uterine fibroids.
+
+USgFUS treatments have been approved with CE for wider range of benign and malignant tumors due to its higher power, precision and realtime monitoring system. The largest number of patients are uterine fibroids.
+
+Ultrasound-guided HIFU treatments have been approved in Europe and Asia. MRI-guided treatments of uterine fibroids have been approved in Europe and Asia, and were granted FDA approval in the US in 2004.<ref name="FDA approval"/>  However, image guidance is not always necessary.  A non-image guided HIFU application have been cleared in the US, EU, Australia, and certain countries in Asia for ablation of subcutaneous adipose tissue for the purposes of body contouring.
+
+===Focal HIFU treatment===
+With the latest improvements in biopsy techniques enabling to better locate cancer, focal HIFU treatment (i.e. partial HIFU ablation) is now starting to be investigated to further reduce the side effects of cancer treatment.
+
+HIFU has been cleared for use in the US, EU, and in certain countries in Asia for the ablation of subcutaneous adipose tissue for the purposes of body sculpting.
+
+==Organizations==
+The International Society for Therapeutic Ultrasound, founded in 2001, aims to promote clinical, academic and industrial advancement in Therapeutic Ultrasound.  Its primary activity is the annual International Symposium on Therapeutic Ultrasound, which has attracted experts in HIFU from throughout the world.
+
+The [[Foundation for Focused Ultrasound Research]] is an unincorporated association promoting research into medical uses of high intensity focused ultrasound, including HIFU.
+
+The [[Focused Ultrasound Foundation]] ('''FUSF''') is working to shorten the time from technology development to patient treatment, develop new applications and accelerate the worldwide adoption of MR-guided focused ultrasound surgery <ref>http://www.fusfoundation.org</ref>
+
+==See also==
+*[[Magnetic resonance imaging]]
+*[[Medical ultrasonography]]
+*[[Uterine fibroids]]
+*[[Medical device]]
+*[[Nadine Barrie Smith]]
+
+==References==
+{{reflist}}
+13. http://www.sumo.com.hk/HIFU-2001.html
+14. http://www.2shared.com/document/KmvtMhD5/HIFU-2001-Research.html
+15. http://www.sendspace.com/file/yxm3ci
+
+==Further reading==
+
+* Magnetic Resonance Guided Focused Ultrasound Surgery, United States Patent #5247935 Harvey Cline, Robert Ettinger, Kenneth Rohling Ronald Watkins, filed March 1992
+* H. E. Cline, J. F. Schenck, K. Hynynen, R. D. Watkins, S. P. Souza, and F. A. Jolesz. “MR-guided focused ultrasound surgery,” J Comput Assist Tomogr 16(6), 956-65 (1992).
+* Focused US system for MR imaging-guided tumor ablation HE Cline, K Hynynen, RD Watkins, WJ Adams, JF Schenck, RH Ettinger, WR Freund, JP Vetro and FA Jolesz Radiology 1995 194: 731-737
+* {{cite journal | author = Kennedy J, Ter Haar G, Cranston D | title = High intensity focused ultrasound: surgery of the future? | journal = Br J Radiol | volume = 76 | issue = 909 | pages = 590&ndash;9 | year = 2003 | pmid = 14500272 | doi = 10.1259/bjr/17150274}}''[http://bjr.birjournals.org/cgi/content/full/76/909/590 Full text]''
+* Nakagawa M.D. PH.D., H, et al., "Initial Experience Using a Forward Directed, High-Intensity Focused Ultrasound Balloon Catheter for Pulmonary Vein Antrum Isolation in Patients with Atrial Fibrillation", ''J Cardiovasc Electrophysiol", Vol 18, pp.&nbsp;1&ndash;9, February 2007,
+* Dubinsky TJ, Cuevas C, Dighe MK, et al. High-Intensity Focused Ultrasound: Current Potential and Oncologic Applications. AJR 2008; 190:191-199
+* Haar GT, Coussios C. High Intensity Focused Ultrasound: Past, present, present and future. Int J. Hyperthermia 2007; 23(2):85-87
+* Coussios C, Farny CH, Haar GT et al. Role of acoustic cavitation in the delivery and monitoring of cancer treatment by high-intensity focused ultrasound (HIFU). Int. J. Hyperthermia 2007; 23(2):105-120
+* Leslie TA, Kennedy JE. High intensity focused ultrasound in the treatment of abdominal and gynaecological disease. Int. J. Hyperthermia 2007; 23(2):173-182
+* Wu F, Wang ZB, Chen WZ et al. Extracorporeal focused ultrasound surgery for treatment of human solid carcinomas: Early Chinese clinical experience. Ultrasound Med Biol 2004; 30:245-260
+* Haar GT, Coussios C. High Intensity Focused Ultrasound: Physical principles and devices. Int J. Hyperthermia 2007; 23(2):89-104
+* Lafon C, Melodelima D, Salomir R, et al. Interstitial devices for minimally invasive thermal ablation by high-intenstiy ultrasound.  Int. J. Hyperthermia 2007; 23(2):153-163
+* Stewart EA, Rabinovici J, Tempany CM, et al. Clinical outcomes of focused ultrasound surgery for the treatment of uterine fibroids. Fertil Steril 2006; 85:22-29
+* Fosse E. Thermal ablation of benign and malignant tumours. Minim Invasive Ther Allied Technol 2006; 15:2-3
+* Illing RO, Kennedy JE, Wu F, et al. The safety and feasibility of extracorporeal high.intensity focused ultrasound (HIFU) for the treatment of liver and kidney tumours in a Western population. Br J Canc 2005; 93:890-895
+* Wu F, Wang ZB, Chen WZ, et al. Advanced hepatocellular carcinoma: Treatment with high-intensity focused ultrasound ablation combined with transcatheter arterial embolization. Radiology 2005; 235:659-667
+* Wu F, Wang ZB Zhu H, et al. Feasibility of US-guided high-intensity focused ultrasound treatment in patients with advanced pancreatic cancer: Initial experience. Radiology 2005; 236:1034–1040
+* Kennedy JE. High.intensity focused ultrasound in the treatment of solid tumours. Nature Reviews: Cancer 2005; doi10.1039/nrc1591
+* Wu F,Wang ZB, Chen WZ, et al. Extracorporeal high intensity focused ultrasound ablation in the treatment of 1038 patients with solid carcinomas in China: an overview. Ultrasound Sonochemistry 11 2004; 149-154
+* Kohrmann KU, Michel MS, Gaa J, et al. High intensity focused ultrasound as noinvasive therapy for multilocal renal cell carcinoma: Case study and review of the literature. J Urol 2002; 167:2397–2403
+* Kennedy JE, Wu F, Haar TG, et al. High-intensity focused ultrasound for the treatment of liver tumors. Ultrasonics 2004; 42:931-935
+* Wu F,  Wang Z, Chen W, et al. Extracorporeal High-Intensity Focused Ultrasound for treatment of solid carcinomas: Four-year Chinese clinical experience. In: Andrew M, Crum L, Vaezy S, editors. Proceedings of the 2nd International Symposium on Therapeutic Ultrasound. Seattle: University of Washington; 2003; 34-43
+* Wu F, Wang ZB, Chen WZ, et al. Preliminary experience using high intensity focused ultrasound for the treatment of patients with advanced stage renal  malignancy. J Urol 2003; 170(6 Pt 1): 2237–2240
+* Stewart EA, Gedroyc WM, Tempany CM, et al. Focused ultrasound treatment of uterine fibroid tumors: Safety and feasibility of a noninvasive thermoablative technique. Am J obstet Gynecol 2003; 189:48-54
+* Wu F, Chen WZ, Bai J, et al. Tumor vessel destruction resulting from high intensity focused ultrasound in patients with solid malignancies. Ultrasound Med Biol 2002; 28:535-542
+* Chen WS. Investigations on the destruction of ultrasound contrast agents: fragmentation thresholds, inertial cavitation and bioeffects [dissertation]. Seattle, WA:University of Washington 2002
+* Wu F, Chen WZ, Bai J, et al. Pathological changes in human malignant carcinoma treated with high-intensity focused ultrasound. Ultrasound Med Biol 2001; 27:1099–1106
+* Sibille A, Prat F, Chapelon JY, et al. Extracorporeal ablation of liver tissue by high intensity focused ultrasound. Oncology 1993: 50:375-379
+* Haar TG, Kennedy JE, Wu F. Physical characterization of extra corporeal high intensity focused ultrasound (HIFU) treatments of cancer. Ultrasound Med Biol (in press)
+* Chen J, Zhou D, Liu Y, Peng J, Li C, Chen W, Wang Z. A Comparison Between Ultrasound Therapy and Laser Therapy for Symptomatic Cervical Ectopy. Ultrasound Med Biol 2008 May 8.
+* Li YY, Sha WH, Zhou YJ, Nie YQ. Short and long term efficacy of high intensity focused ultrasound therapy for advanced hepatocellular carcinoma. J Gastroenterol Hepatol. 2007 Dec;22(12):2148–2154
+* Pan JY, Liu YH, Yang QH, Jia L, Ma J. Toxicity attenuation and efficacy potentiation effects of FU Zheng Yang Yin Decoction with HIFU on the experimental model of VX2 cancer in rabbits' liver. Zhong Yao Cai. 2007 Nov;30(11):1425–1429. [Article in Chinese]
+* Yu T, Xu C. Hyperecho as the Indicator of Tissue Necrosis During Microbubble-Assisted High Intensity Focused Ultrasound: Sensitivity, Specificity and Predictive Value. Ultrasound Med Biol. 2008 Mar; 29.
+* Qiao L, Song WQ. Research on data management of medical equipments in HIFU. Zhongguo Yi Liao Qi Xie Za Zhi. 2007 Sep;31(5):333-337.
+* Yang Z, Cao YD, Hu LN, Wang ZB. Feasibility of laparoscopic high-intensity focused ultrasound treatment for patients with uterine localized adenomyosis. Fertil Steril. 2008 Apr 26.
+* Loulou T, Scott E. Thermal Dose Optimization in Hyperthermia Treatments by Using The Conjugate Gradient Method. Numerical Heat Transfer, Part A. 42; 661-683, 2002.
+*Tempany CMC, Stewart EA, McDannold N, Quade B, Jolesz F, Hynynen K.  MRI guided focused ultrasound surgery (FUS) of uterine leiomyomas: A Feasibility study.  Radiology 2003; 226:897-905.
+
+==External links==
+*{{dmoz|Science/Technology/Acoustics,_Ultrasound_and_Vibration/Ultrasound/Therapeutic_Ultrasound|Therapeutic Ultrasound}}
+*[http://www.egr.msu.edu/~fultras-web/ FOCUS - Fast Object-oriented C++ Ultrasound Simulator] Software for performing various ultrasound simulations with MATLAB
+*[http://www.pinestreetfoundation.org/avenues/avenues16/hifu16.html Pine Street Foundation Review Article (Winter 2006)]
+*[http://www.nytimes.com/2008/01/18/health/18prostate.html?_r=1&fta=y Despite Doubts, Cancer Therapy Draws Patients] from ''The New York Times'' on 18 January 2008
+
+{{DEFAULTSORT:High-Intensity Focused Ultrasound}}
+[[Category:Anatomical pathology]]
+[[Category:Medical ultrasound]]
+[[Category:Ultrasound]]
+[[Category:Magnetic resonance imaging]]
+[[Category:Medical physics]]
+[[Category:Medical technology]]

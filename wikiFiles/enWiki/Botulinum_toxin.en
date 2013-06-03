@@ -1,0 +1,497 @@
+{{drugbox
+| verifiedrevid = 480475821
+| image = Botulinum toxin 3BTA.png
+| image_source = Cartoon representation of Botulinum toxin. [[Protein Data Bank|PDB]] entry {{PDBe|3BTA}}
+
+<!--Clinical data-->
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X --
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only --> Rx-Only
+| routes_of_administration = IM (approved), SC, intradermal, into glands
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 93384-43-1
+| ATC_prefix = M03
+| ATC_suffix = AX01
+| PubChem = 5485225
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}= {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00042
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}= {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = NA
+| C=6760 | H=10447 | N=1743 | O=2010 | S=32
+| molecular_weight = 149.322,3223 [[Atomic mass unit|kDa]]
+}}
+{{enzyme
+| Name = Bontoxilysin
+| EC_number = 3.4.24.69
+| GO_code = 0006508
+| width =
+| caption =
+}}
+
+'''Botulinum toxin''' is a [[protein]] and [[neurotoxin]] produced by the [[bacterium]] ''[[Clostridium botulinum]]''.<ref>
+{{Cite journal
+| author = Montecucco C, Molgó J
+| title = Botulinal neurotoxins: revival of an old killer
+| journal = Current Opinion in Pharmacology
+| volume = 5
+| issue = 3
+| pages = 274–279
+| year = 2005
+| pmid = 15907915
+| doi = 10.1016/j.coph.2004.12.006
+}}</ref><ref name= KukrejaR>
+{{Cite book
+| author = Kukreja R, Singh BR
+| year = 2009
+| chapter = Botulinum Neurotoxins: Structure and Mechanism of Action
+| title = Microbial Toxins: Current Research and Future Trends
+| publisher = Caister Academic Press
+| isbn = 978-1-904455-44-8
+}}</ref> It is the most acutely toxic substance known, with an estimated human [[median lethal dose]] of 1.3–2.1 [[nanogram|ng]]/kg intravenously or intramuscularly and 10–13 ng/kg when inhaled.<ref name = "Arnon">
+{{Cite journal
+| last = Arnon
+| first = Stephen S.
+| coauthors = Schechter R, Inglesby TV, Henderson DA, Bartlett JG, Ascher MS, Eitzen E, Fine AD, Hauer J, Layton M, Lillibridge S, Osterholm MT, O'Toole T, Parker G, Perl TM, Russell PK, Swerdlow DL, Tonat K; Working Group on Civilian Biodefense.
+| date = 21 February 2001
+| title = Botulinum Toxin as a Biological Weapon: Medical and Public Health Management
+| journal = [[Journal of the American Medical Association]]
+| volume = 285
+| issue = 8
+| pages = 1059–1070
+| doi = 10.1001/jama.285.8.1059
+| pmid = 11209178
+| url = http://jama.ama-assn.org/cgi/reprint/285/8/1059.pdf
+| format = PDF, 0.5 MB
+}}</ref> Botulinum toxin can cause [[botulism]], a serious and life-threatening illness in humans and animals. Popularly known by one of its trade names, '''Botox''', it is used for various cosmetic and medical procedures.
+
+==History==
+[[Justinus Kerner]] described botulinum toxin as a "sausage poison" and "fatty poison",<ref>
+{{Cite journal
+| author = Frank J. Erbguth
+| title = Historical notes on botulism, ''Clostridium botulinum'', botulinum toxin, and the idea of the therapeutic use of the toxin
+| journal = Movement Disorders
+| volume = 19
+| issue = S8
+| pages = S2–S6
+| publisher = [[John Wiley & Sons]] on behalf of the [[Movement Disorder Society]]
+| year = 2004
+| doi = 10.1002/mds.20003
+| pmid = 15027048
+}}</ref> because the bacterium that produces the toxin often caused poisoning by growing in improperly handled or prepared meat products. It was Kerner, a physician, who first conceived a possible therapeutic use of botulinum toxin and coined the name [[botulism]] (from [[Latin]] ''botulus'' meaning "sausage"). In 1897, [[Emile van Ermengem]] found the producer of the botulin toxin was a bacterium, which he named ''Clostridium botulinum.'' <ref>
+{{Cite journal
+| author = van Ermengem, E.P.
+| authorlink = Émile van Ermengem
+|date = February 1897| title = Ueber einen neuen anaëroben Bacillus und seine Beziehungen zum Botulismus
+| journal = [[Zeitschrift für Hygiene und Infektionskrankheiten]]
+| publisher =
+| volume = 26
+| issue = 1
+| pages = 1–56
+| doi = 10.1007/BF02220526
+| pmid = 399378
+| language = German
+}}</ref> In 1928,  [[P. Tessmer Snipe]] and [[Hermann Sommer]] for the first time purified the toxin.<ref>
+{{Cite journal
+| author = Snipe, P. Tessmer & Sommer, H.
+|date = August 1928| title = Studies on Botulinus Toxin: 3. Acid Precipitation of Botulinus Toxin
+| journal = [[The Journal of Infectious Diseases]]
+| publisher = [[University of Chicago Press]]
+| volume = 43
+| issue = 2
+| pages = 152–160
+| issn = 0022-1899
+| jstor=30083772
+| doi = 10.1093/infdis/43.2.152
+}}</ref> In 1949, Arnold Burgen's group discovered, through an elegant experiment, that botulinum toxin blocks neuromuscular transmission through decreased [[acetylcholine]] release.<ref>
+{{Cite journal
+| author = A. S. V. Burgen, F. Dickens, and L. J. Zatman
+| date = August 1949
+| title = The action of botulinum toxin on the neuro-muscular junction
+| journal = [[The Journal of Physiology]]
+| publisher = [[University of Chicago Press]]
+| volume = 109
+| issue = 1–2
+| pages = 10–24
+| pmid = 15394302
+| url = http://www.jphysiol.org/cgi/pmidlookup?view=long&pmid=15394302
+| pmc = 1392572
+}}</ref>
+
+==Therapeutic research==
+In the late 1960s, Alan Scott, MD, a [[San Francisco]] [[ophthalmologist]], and [[Edward Schantz]] were the first to work on a standardized botulinum toxin preparation for therapeutic purposes.<ref>
+{{Cite journal
+| author = Dressler D
+| year = 2006
+| month = August
+| title = Pharmakologische Aspekte therapeutischer Botulinum-Toxin-Präparationen
+| trans_title = Pharmacological aspects of therapeutic botulinum toxin preparations
+| journal = [[Der Nervenarzt]]
+| volume = 77
+| issue = 8
+| pages = 912–21
+| issn = 0028-2804
+| doi = 10.1007/s00115-006-2090-2
+| pmid = 16810528
+| language = German
+}}</ref>  By 1973, Scott (now at [[Smith-Kettlewell Institute]]) used botulinum toxin type A (BTX-A) in monkey experiments, and, in 1980, he officially used BTX-A for the first time in humans to treat "crossed eyes" ([[strabismus]]), a condition in which the eyes are not properly aligned with each other, and "uncontrollable blinking" ([[blepharospasm]]). In 1993, Pasricha and colleagues showed botulinum toxin could be used for the treatment of [[achalasia]], a spasm of the lower esophageal sphincter.<ref>
+{{Cite journal
+| author = Scott AB, Pasricha, PJ. Ravich WJ, Kalloo AN
+|date = January 1993| title = Botulinum toxin for achalasia
+| journal = [[Lancet (journal)|Lancet]]
+| pages = 244–5.
+| issn =
+| doi =10.1016/0140-6736(93)90109-T
+| pmid = 8093528
+| url = http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=8093528
+| volume = 341
+| issue = 8839
+}}</ref> In 1994, Bushara showed botulinum toxin injections inhibit sweating.<ref name="Bushara KO, Park DM. 1437–1438">{{Cite journal
+| author = Bushara KO, Park DM.
+|date = November 1994| title = Botulinum toxin and sweating
+| journal = [[Journal of Neurology, Neurosurgery, and Psychiatry]]
+| volume = 57
+| issue = 11
+| pages = 1437–1438
+| issn = 0022-3050
+| doi = 10.1136/jnnp.57.11.1437
+| pmid = 7964832
+| pmc = 1073208
+}}</ref> This was the first demonstration of non-muscular use of BTX-A in humans.
+
+===Blepharospasm and strabismus===
+In the early 1980s, university-based ophthalmologists in the USA and Canada further refined the use of botulinum toxin as a therapeutic agent. By 1985, a scientific protocol of injection sites and dosage had been empirically determined for treatment of [[blepharospasm]] and [[strabismus]].<ref>
+{{Cite journal
+| author = Flanders M, Tischler A, Wise J, Williams F, Beneish R, Auger N.
+|date = June 1987| title = Injection of type A Botulinum toxin into extraocular muscles for correction of strabismus
+| journal = [[Canadian Journal of Ophthalmology]]
+| volume = 22
+| issue = 4
+| pages = 212–217
+| issn = 1715-3360
+| doi =
+| pmid = 3607594
+}}</ref> Side effects were deemed to be rare, mild and treatable.<ref>
+{{Cite journal
+| author = Scott AB
+|date = September 1989| title = Botulinum toxin therapy of eye muscle disorders: safety and effectiveness. Ophthalmic Procedures Assessment Recommendation
+| journal = [[Ophthalmology (journal)|Ophthalmology]]
+| publisher = [[American Academy of Ophthalmology]]
+| pages = Suppl:37–41.
+| issn =
+| doi =
+| pmid = 2779991
+| url =
+| volume = Suppl
+}}</ref> The beneficial effects of the injection lasted only 4–6 months. Thus, blepharospasm patients required re-injection two or three times a year.
+
+In 1986, Scott's micromanufacturer and distributor of Botox was no longer able to supply the drug because of an inability to obtain product liability insurance. Patients became desperate, as supplies of Botox were gradually consumed, forcing him to abandon patients who would have been due for their next injection. For a period of four months, American blepharospasm patients had to arrange to have their injections performed by participating doctors at Canadian eye centers until the liability issues could be resolved.<ref>
+{{Cite news
+| last = Boffey
+| first = Philip M.
+| date = October 14, 1986
+| title = Loss Of Drug Relegates Many To Blindness Again
+| work = [[The New York Times]]
+| url = http://www.nytimes.com/1986/10/14/science/loss-of-drug-relegates-many-to-blindness-again.html
+| accessdate = 2010-07-14
+}}</ref>
+
+The global botox market is forecast to reach $2.9 billion by 2018.<ref>{{cite web| url=http://www.companiesandmarkets.com/News/Healthcare-and-Medical/The-global-botox-market-forecast-to-reach-2-9-billion-by-2018/NI2991  |title= The global botox market forecast to reach $2.9 billion by 2018 |date= May 10, 2012 |accessdate= October 5, 2012 |first1= Paul |last1= Chapman}}}</ref> The entire global market for facial aesthetics is forecast to reach $4.7 billion in 2018, of which the US is expected to contribute over $2 billion. In December 1989, Botox, manufactured by [[Allergan|Allergan, Inc.]], was approved by the [[Food and Drug Administration (United States)|US Food and Drug Administration]] (FDA) for the treatment of strabismus, blepharospasm, and [[hemifacial spasm]] in patients over 12 years old.<ref> 
+{{cite web
+| author = [[United States Department of Health and Human Services]]
+| date = April 30, 2009
+| title = Re: Docket No. FDA-2008-P-0061
+| publisher = [[Food and Drug Administration]]
+| url = http://www.fda.gov/downloads/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/DrugSafetyInformationforHeathcareProfessionals/UCM143989.pdf
+| format = PDF, 8.2 MB
+| accessdate = 2010-07-26
+}}</ref>
+
+===Cosmetic===
+The cosmetic effect of BTX-A on wrinkles was originally documented by a plastic surgeon from Sacramento, California, Dr. Richard Clark, and published in the journal ''Plastic and Reconstructive Surgery'' in 1989.<ref>
+{{Cite journal
+| author = Clark RP, Berris CE.
+|date = August 1989| title = Botulinum Toxin: A treatment for facial asymmetry caused by facial nerve paralysis
+| journal = [[Plastic and Reconstructive Surgery]]
+| volume = 84
+| issue = 2
+| pages = 353–355
+| issn = 0032-1052
+| doi = 10.1097/01.prs.0000205566.47797.8d
+| pmid = 2748749
+}}</ref> Canadian husband and wife ophthalmologist and dermatologist physicians, JD and JA Carruthers, were the first to publish a study on BTX-A for the treatment of [[glabella]]r frown lines in 1992.<ref>
+{{Cite journal
+| author = Carruthers JD, Carruthers JA.
+| year = 1992
+| month = January
+| title =  Treatment of Glabellar Frown Lines with C. Botulinum-A Exotoxin
+| journal = [[The Journal of Dermatologic Surgery and Oncology]]
+| volume = 18
+| issue = 1
+| pages = 17–21
+| pmid = 1740562
+| doi = 10.1111/j.1524-4725.1992.tb03295.x
+}}</ref>
+Similar effects had reportedly been observed by a number of independent groups (Brin, and the Columbia University group under Dr. Monte Keen[http://www.doctorbinder.com/pdf/Academic/11_Botulinum%20Toxin%20A%20A%20Novel%20Method%20to%20Remove%20Periorbital%20Wrinkles.pdf]). After formal trials, on April 12, 2002, the FDA announced regulatory approval of botulinum toxin type A (Botox Cosmetic) to temporarily improve the appearance of moderate-to-severe frown lines between the eyebrows (glabellar lines).<ref>
+{{cite web
+| date = Page last updated 29 October 2009
+| title = Botulinum Toxin Type A Product Approval Information – Licensing Action 4/12/02
+| publisher = [[Food and Drug Administration]]
+| url = http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/TherapeuticBiologicApplications/ucm080509.htm
+| accessdate = 2010-07-26
+}}</ref> Subsequently, cosmetic use of botulinum toxin type A has become widespread, with many celebrities viewing it as less intrusive and/or artificial than other types of plastic surgery.<ref>Giesler, Markus (2012), "How Doppelgänger Brand Images Influence the Market Creation Process: Longitudinal Insights from the Rise of Botox Cosmetic," Journal of Marketing, November 2012. </ref> The results of cosmetic procedures vary, but can last up to eight months.<ref>[http://www.plasticsurgeryguide.com/botox-%C2%AE.html Botox Cosmetic Information]{{Dead link|date=December 2011}}</ref>
+The US Food and Drug Administration approved an alternative product-safety testing method in response to increasing public concern that [[LD50]] testing was required for each batch sold in the market.<ref>
+{{cite web
+| date = Page last updated 24 June 2011
+| title = Allergan Receives FDA Approval for First-of-Its-Kind, Fully in vitro, Cell-Based Assay for BOTOX® and BOTOX® Cosmetic (onabotulinumtoxinA)
+| publisher = [[Source: Allergan, Inc. News Provided by Acquire Media]]
+| url = http://agn.client.shareholder.com/releasedetail.cfm?ReleaseID=587234
+| accessdate = 2011-06-26
+}}</ref>
+<ref>
+{{cite web
+| date = Page last updated 12 April 2008
+| title = In U.S., Few Alternatives To Testing On Animals
+| publisher = Washington Post
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2008/04/11/AR2008041103733.html
+| accessdate = 2011-06-26
+}}</ref>
+
+===Upper motor neuron syndrome===
+BTX-A is now a common treatment for muscles affected by the [[upper motor neuron]] syndrome (UMNS), such as [[cerebral palsy]], for muscles with an impaired ability to effectively [[Eccentric contraction|lengthen]]. Muscles affected by UMNS frequently are limited by [[weakness]], loss of [[reciprocal inhibition]], decreased movement control and hypertonicity (including [[spasticity]]). Joint motion may be restricted by severe muscle imbalance related to the syndrome, when some muscles are markedly hypertonic, and lack effective active lengthening. Injecting an overactive muscle to decrease its level of contraction can allow improved reciprocal motion, so improved ability to move and exercise.
+
+===Sweating===
+While treating patients with hemifacial spasm at Southend Hospital in England in 1993, Khalaf Bushara and David Park were the first to show  botulinum toxin injections inhibit sweating.<ref name="Bushara KO, Park DM. 1437–1438"/> This was the first demonstration of nonmuscular use of BTX-A. Bushara further showed the efficacy of botulinum toxin in treating [[hyperhidrosis]] (excessive sweating). BTX-A was later approved for the treatment of excessive underarm sweating. This is technically known as severe primary axillary hyperhidrosis - excessive underarm sweating with an unknown cause which cannot be managed by topical agents.
+
+===Cervical dystonia===
+Botulinum toxin type B (BTX-B) received FDA approval for treatment of cervical [[dystonia]] on December 21, 2000. Trade names for BTX-B are Myobloc in the United States, and Neurobloc in the European Union.{{Citation needed|date=November 2009}}
+
+===Chronic migraine===
+Onabotulinumtoxin A (trade name Botox) received FDA approval for treatment of chronic [[migraines]] on October 15, 2010. The toxin is injected into the head and neck to treat these chronic headaches. Approval followed evidence presented to the agency from two studies funded by Allergan, Inc. showing a very slight improvement in incidence of chronic migraines for migraine sufferers undergoing the Botox treatment.<ref>{{Cite news
+| author = Walsh, Sandy
+|  date = October 15, 2010
+| title = FDA approves Botox to treat chronic migraine
+| newspaper = FDA Press Releases
+| url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm229782.htm
+| accessdate = 2010-10-15
+}}</ref><ref>{{Cite news
+| author = Watkins, Tom
+| date = October 15, 2010
+| title = FDA approves Botox as migraine preventative
+| newspaper = CNN (US)
+| url = http://us.cnn.com/2010/HEALTH/10/15/migraines.botox/index.html
+}}
+</ref>
+
+Since then, several randomized control trials have shown botulinum toxin type A to improve headache symptoms and quality of life when used prophylactally for patients with chronic [[migraine]]<ref>{{cite journal|last=Dodick|first=DW|coauthors=Turkel, CC, DeGryse, RE, Aurora, SK, Silberstein, SD, Lipton, RB, Diener, HC, Brin, MF, PREEMPT Chronic Migraine Study, Group|title=OnabotulinumtoxinA for treatment of chronic migraine: pooled results from the double-blind, randomized, placebo-controlled phases of the PREEMPT clinical program|journal=Headache|date=2010 Jun|volume=50|issue=6|pages=921–36|pmid=20487038|doi=10.1111/j.1526-4610.2010.01678.x}}</ref> who exhibit headache characteristics consistent with: pressure perceived from outside source, shorter total duration of chronic migraines (<30 years), "detoxification" of patients with coexisting chronic daily headache due to medication overuse, and no current history of other preventive headache medications.<ref>{{cite journal|last=Ashkenazi|first=A|title=Botulinum toxin type a for chronic migraine|journal=Current neurology and neuroscience reports|date=2010 Mar|volume=10|issue=2|pages=140–6|pmid=20425239|doi=10.1007/s11910-010-0087-5}}</ref>
+
+==Chemical overview==
+The seven serologically distinct toxin types are designated A through G. Additionally, six of the seven toxin types have subtypes with five subtypes of BoNT A having been described. The toxin is a two-chain [[polypeptide]] with a 100-[[dalton (unit)|kDa]] heavy chain joined by a [[disulfide bond]] to a 50-kDa light chain. This light chain is an enzyme (a [[protease]]) that attacks one of the fusion proteins (SNAP-25, syntaxin or synaptobrevin) at a [[neuromuscular junction]], preventing [[vesicle (biology)|vesicle]]s from anchoring to the [[cell membrane|membrane]] to release [[acetylcholine]]. By inhibiting acetylcholine release, the toxin interferes with nerve impulses and causes flaccid (sagging) paralysis of muscles in [[botulism]], as opposed to the spastic paralysis seen in [[tetanus]].
+
+Botulinum toxin is [[Denaturation (biochemistry)|denatured]] at temperatures greater than {{convert|80|C|F}}.<ref>
+{{Cite book
+| author = Jay, James M., Loessner, Martin J., Golden, David A.
+| year = 2005
+| title = Modern Food Microbiology: Seventh Edition
+| publisher = [[Springer Science + Business Media, Inc.]]
+| location = New York
+| chapter = Chapter 24: Food Poisoning Caused by Gram-Positive Sporeforming Bacteria
+| page = 581
+| isbn = 0-387-23180-3
+}}</ref>
+
+==Sources==
+Botulism toxins are produced by the bacteria ''[[Clostridium botulinum]]'', ''C. butyricum, C. baratii'' and ''C. argentinense.''<ref>
+{{Cite journal
+| author = Schantz EJ, Johnson EA.
+|date = March 1992| title = Properties and use of botulinum toxin and other microbial neurotoxins in medicine
+| journal = [[Microbiological Reviews]]
+| volume = 56
+| issue = 1
+| pages = 80–99
+| issn = 1092-2172
+| doi =
+| pmid = 1579114
+| pmc = 372855
+}}</ref>
+Foodborne botulism can be transmitted through food that has not been heated correctly prior to being canned or food that was not cooked correctly from a can. Most infant botulism cases cannot be prevented because the bacteria that cause this disease are in soil and dust.  The bacteria can be found inside homes on floors, carpet, and countertops even after cleaning.  Honey can contain the bacteria that cause infant botulism, so children less than 12 months old should not be fed honey. Honey is safe for persons one year of age and older.<ref>[http://www.cdc.gov/nczved/divisions/dfbmd/diseases/botulism/ CDC – Botulism, General Information – NCZVED]. Cdc.gov. Retrieved on 2012-05-06.</ref>
+
+Food-borne botulism usually results from ingestion of food that has become contaminated with spores (such as a perforated can)  that provides 
+an [[Hypoxia (environmental)|anaerobic environment]], allowing the spores to germinate and grow.  The growing (vegetative) bacteria produce toxin. It is the ingestion of toxin that causes [[botulism]], not the ingestion of the spores or the vegetative bacteria. Infant and wound botulism both result from infection with spores, which subsequently germinate, resulting in production of toxin and the symptoms of botulism.
+
+Proper refrigeration at temperatures below 3°C (38°F) retards the growth of ''Clostridium botulinum''. The organism is also susceptible to high salt, high oxygen, and low pH levels. The toxin itself is rapidly destroyed by heat, such as in thorough cooking.<ref>
+{{Cite journal
+| author = Licciardello JJ, Nickerson JT, Ribich CA, Goldblith SA.
+| year = 1967
+| month = March
+| title = Thermal Inactivation of Type E Botulinum Toxin
+| journal = [[Applied Microbiology]]
+| volume = 15
+| issue = 2
+| pages = 249–256
+| issn = 0003-6919
+| doi =
+| pmid = 5339838
+| pmc = 546888
+}}</ref> The spores that produce the toxin are heat-tolerant and will survive boiling water for an extended period of time.<ref>
+{{Cite journal
+| last = Setlowa
+| first = Peter
+| year = 2007
+| month = April
+| title = I will survive: DNA protection in bacterial spores
+| journal = [[Trends in Microbiology]]
+| volume = 15
+| issue = 4
+| pages = 172–180
+| issn = 0966-842X
+| doi = 10.1016/j.tim.2007.02.004
+| pmid = 17336071
+}}</ref>
+
+Botulinum toxin can be absorbed from eyes, mucous membranes, respiratory tract or non-intact skin.<ref>[http://www.phac-aspc.gc.ca/lab-bio/res/psds-ftss/clostridium-eng.php Clostridium botulinum – Public Health Agency of Canada]. Phac-aspc.gc.ca (2011-04-19). Retrieved on 2012-05-06.</ref>
+
+Botulinum toxin has been recognized and feared as a potential [[Bioterrorism|bioterror weapon]].<ref>
+{{cite web
+| author = Koirala, Janak; Basnet, Sangita
+| date = 14 July 2004
+| title = Botulism, Botulinum Toxin, and Bioterrorism: Review and Update
+| work = [[Medscape]]
+| publisher = Cliggott Publishing
+| url = http://www.medscape.com/viewarticle/482812
+| accessdate = 2010-07-14}}
+</ref>
+
+==Medical and cosmetic uses==
+Although botulinum toxin is a lethal, naturally occurring substance, it can be used as an effective and powerful medication.<ref name=Barbano>
+{{Cite journal| last = Barbano| first = Richard| date = 8 November 2006| title = Risks of erasing wrinkles: Buyer beware!| journal= [[Neurology (journal)|Neurology]]| volume = 67| issue = 10
+| pages = E17–E18| doi = 10.1212/01.wnl.0000250411.93526.9e| pmid = 17130399| url = http://www.neurology.org/cgi/content/full/67/10/E17}}</ref> Researchers discovered in the 1950s that injecting overactive muscles with minute quantities of botulinum toxin type-A would result in decreased muscle activity by blocking the release of acetylcholine from the neuron by preventing the vesicle where the acetylcholine is stored from binding to the membrane where the neurotransmitter can be released. This will effectively weaken the muscle for a period of three to four months.<ref name=afis>{{cite web| author = Mr Michael Edwards FRCSEng FRCSEd. Consultant general surgeon.| year = 2006| title = Anal fissure| publisher = [[Dumas Ltd]]| url = http://www.privatehealth.co.uk/private-operations/general-surgery/anal-fissure/| accessdate = 2010-08-21}}</ref>
+
+In cosmetic applications, a Botox injection, consisting of a small dose of botulinum toxin, can be used to prevent development of [[wrinkles]] by paralyzing [[facial muscles]].<ref name=bcm>
+{{cite web| author = Markus, Ramsey| date = September 30, 2009| title = Botox for Wrinkles| publisher = [[Baylor College of Medicine]]| url = http://www.bcm.edu/dermatology/?PMID=1909| accessdate = 2010-07-14}}</ref> As of 2007, it is the most common cosmetic operation, with 4.6 million procedures in the United States, according to the [[American Society of Plastic Surgeons]].<!-- per "Pots of Promise --> Qualifications for Botox injectors vary by county, state and country. Botox cosmetic providers include dermatologists, plastic surgeons, aesthetic spa physicians, dentists, nurse practitioners, nurses and physician assistants. The wrinkle-preventing effect of Botox normally lasts about three to four months, but can last up to six months.<ref name=bcm/>
+
+In addition to its cosmetic applications, Botox is currently used in the treatment of [[spasm]]s and [[dystonia]]s, by weakening involved muscles, for the 60–70 day effective period of the drug.<ref>
+{{Cite journal| author = Bihari K| year = 2005| month = March| title = Safety, effectiveness, and duration of effect of BOTOX after switching from Dysport for blepharospasm, cervical dystonia, and hemifacial spasm dystonia, and hemifacial spasm| journal = [[Current Medical Research and Opinion]]| volume = 21| issue = 3| pages = 433–438| issn = 0300-7995| doi = 10.1185/030079905X36396| pmid = 15811212}}</ref>
+The main conditions treated with botulinum toxin are:
+
+* Cervical [[dystonia]] (spasmodic [[torticollis]]) (a neuromuscular disorder involving the head and neck)<ref>
+{{Cite journal| author = Brin MF, Lew MF, Adler CH, Comella CL, Factor SA, Jankovic J, O'Brien C, Murray JJ, Wallace JD, Willmer-Hulme A, Koller M| date = 22 October 1999| title = Safety and efficacy of NeuroBloc (botulinum toxin type B) in type A-resistant cervical dystonia| journal = Neurology| volume = 53| issue = 7| pages = 1431–1438| issn = 0028-3878| pmid = 10534247}}</ref>
+* [[Blepharospasm]] (excessive blinking)<ref>{{Cite journal| author = Shukla HD, Sharma SK| year = 2005| title = Clostridium botulinum: a bug with beauty and weapon| journal = [[Critical Reviews in Microbiology]]| volume = 31| issue = 1| pages = 11–18| issn = 1040-841X| doi = 10.1080/10408410590912952| pmid = 15839401}}</ref>
+* Severe primary axillary [[hyperhidrosis]] (excessive sweating)<ref>
+{{Cite journal| author = Eisenach JH, Atkinson JL, Fealey RD.| year = 2005| month = May| title = Hyperhidrosis: evolving therapies for a well-established phenomenon| journal = [[Mayo Clinic Proceedings]]| volume = 80| issue = 5| pages = 657–666| issn = 0025-6196| doi = 10.4065/80.5.657| pmid = 15887434}}</ref><ref name="Primary"/>
+* [[Strabismus]] (squints)
+* [[Achalasia]] (failure of the lower oesophageal sphincter to relax)
+* Local intradermal injection of BTX-A is helpful in chronic focal neuropathies. The analgesic effects are not dependent on changes in muscle tone.<ref>{{Cite journal|author=Ranoux D, Attal N, Morain F, Bouhassira D |title=Botulinum toxin type A induces direct analgesic effects in chronic neuropathic pain |journal=Annals of neurology |volume=64 |issue=3 |pages=274–83 |year=2008 |month=September |pmid=18546285 |doi=10.1002/ana.21427 |url=}}</ref>
+* [[Migraine]] and other headache disorders, although the evidence is conflicting in this indication<ref name="pmid18458231">{{Cite journal|author=Naumann M |title=Assessment: Botulinum neurotoxin in the treatment of autonomic disorders and pain (an evidence-based review): report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology |journal=Neurology |volume=70 |issue=19 |pages=1707–14 |year=2008 |month=May |pmid=18458231 |doi=10.1212/01.wnl.0000311390.87642.d8 |url=http://www.neurology.org/cgi/pmidlookup?view=long&pmid=18458231|author2=So Y|author3=Argoff CE|last4=Childers|first4=M. K.|last5=Dykstra|first5=D. D.|last6=Gronseth|first6=G. S.|last7=Jabbari|first7=B.|last8=Kaufmann|first8=H. C.|last9=Schurch|first9=B.}}</ref>
+<!-- repetitive* [[Excessive sweating]] is a condition for the treatment of which FDA has approved the use of Botox.<ref>Celibre Medical [http://www.celibre.com/hyperhidrosis-treatment-botox-injections.aspx "Botox Injections for Excessive Sweating"], ''Celibre.com'', referenced October 17, 2011.</ref>-->
+* [[Bruxism]]: by injecting the toxin into the muscles of mastication, such as the [[masseter]]
+
+Other uses of botulinum toxin type A that are widely known but not specifically approved by the FDA (off-label uses) include treatment of:
+* Idiopathic and neurogenic detrusor overactivity<ref name="multiple">{{Cite journal|author=Mangera A, Andersson KE, Apostolidis A, Chapple C, Dasgupta P, Giannantoni A, Gravas S, Madersbacher S. |title=Contemporary management of lower urinary tract disease with botulinum toxin A: a systematic review of botox (onabotulinumtoxinA) and dysport (abobotulinumtoxinA)|journal=European Urology |volume=60 |issue=4 |pages=784–95 |year=2005 |pmid=21782318|url=http://www.ncbi.nlm.nih.gov/pubmed/21782318|doi=10.1016/j.eururo.2011.07.001}}</ref>
+* Pediatric incontinence<ref>{{Cite journal|author=Schurch B, Corcos J |title=Botulinum toxin injections for paediatric incontinence |journal=Current opinion in urology |volume=15 |issue=4 |pages=264–7 |year=2005 |pmid=15928517| doi = 10.1097/01.mou.0000172401.92761.86}}</ref> incontinence due to overactive bladder,<ref name="pmid17636801">{{Cite journal
+| author = Duthie J, Wilson D, Herbison G, Wilson D| title = Botulinum toxin injections for adults with overactive bladder syndrome| journal = Cochrane database of systematic reviews (Online)| volume = 3| issue = 3| pages = CD005493| year = 2007| pmid = 17636801| doi = 10.1002/14651858.CD005493.pub2| editor1-last = Duthi| editor1-first = James B}}</ref> and incontinence due to [[neurogenic bladder]]<ref name="pmid17532858">{{Cite journal| author = Akbar M, Abel R, Seyler TM, Gerner HJ, Möhring K| title = Repeated botulinum-A toxin injections in the treatment of myelodysplastic children and patients with spinal cord injuries with neurogenic bladder dysfunction| journal = BJU Int.| volume = 100| issue = 3| pages = 639–45| year = 2007| pmid =17532858| doi = 10.1111/j.1464-410X.2007.06977.x}}</ref>
+* [[Anal fissure]]<ref>{{Cite journal|author=Trzciński R, Dziki A, Tchórzewski M |title=Injections of botulinum A toxin for the treatment of anal fissures |journal=The European journal of surgery &#61; Acta chirurgica |volume=168 |issue=12 |pages=720–3 |year=2002 |pmid=15362583 |doi=}}</ref>
+* [[Vaginismus]] to reduce the spasm of the vaginal muscles<ref>Pacik, PT Botox Treatment for Vaginismus Plast Reconst Surg vol 124: 455e-456e Dec. 2009</ref>
+* Movement disorders associated with injury or disease of the [[central nervous system]], including trauma, [[stroke]], [[multiple sclerosis]], [[Parkinson's disease]], or [[cerebral palsy]]
+* Focal [[dystonia]]s affecting the limbs, face, jaw, or [[vocal cords]]<ref name="Primary">{{Cite journal|url=http://www.jaoa.org/content/106/10/609.long|last1=Felber|first1=ES|title=Botulinum toxin in primary care medicine. |journal=The Journal of the American Osteopathic Association |volume=106|issue=10|pages=609-614 |year=2006 |pmid=17122031}}</ref>
+* [[Temporomandibular joint]] pain disorders
+* [[Diabetic neuropathy]]
+* [[Wound healing]]
+* Excessive salivation
+* [[Vocal cord dysfunction]], including spasmodic dysphonia<ref name="Primary"/> and tremor
+* [[Jaw reduction|Reduction of the masseter muscle for decreasing the apparent size of the lower jaw]]
+* Painful bladder syndrome<ref name="multiple"/>
+* Detrusor sphincter dyssynergia and benign prostatic hyperplasia<ref name="multiple"/>
+* [[Allergic rhinitis]]<ref name="Primary"/>
+
+Treatment and prevention of chronic headache<ref>{{Cite journal|author=Panicker JN, Muthane UB |title=Botulinum toxins: pharmacology and its current therapeutic evidence for use |journal=Neurology India |volume=51 |issue=4 |pages=455–60 |year=2003 |pmid=14742921 |doi= |url=http://www.neurologyindia.com/article.asp?issn=0028-3886;year=2003;volume=51;issue=4;spage=455;epage=460;aulast=Muthane
+}}</ref> and chronic musculoskeletal pain<ref>{{Cite journal|author=Charles PD |title=Botulinum neurotoxin serotype A: a clinical update on non-cosmetic uses |journal=American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists |volume=61 |issue=22 Suppl 6 |pages=S11–23 |year=2004 |pmid=15598005 |doi=}}</ref> are emerging uses for botulinum toxin type A.  In addition, Botox may aid in weight loss by increasing the gastric emptying time.<ref>{{Cite journal|author=Coskun H, Duran Y, Dilege E, Mihmanli M, Seymen H, Demirkol MO |title=Effect on gastric emptying and weight reduction of botulinum toxin-A injection into the gastric antral layer: an experimental study in the obese rat model |journal=Obesity surgery : the official journal of the American Society for Bariatric Surgery and of the Obesity Surgery Society of Australia and New Zealand |volume=15 |issue=8 |pages=1137–43 |year=2005 |pmid=16197786 |doi=10.1381/0960892055002275}}</ref>
+
+===Links to deaths===
+In September 2005, a paper published in the ''Journal of American Academy of Dermatology'' reported from the FDA saying that use of Botox has resulted in 28 deaths between 1989 and 2003, though none were attributed to cosmetic use.<ref name="autogenerated1">{{Cite journal|author=Coté TR, Mohan AK, Polder JA, Walton MK, Braun MM |title=Botulinum toxin type A injections: adverse events reported to the US Food and Drug Administration in therapeutic and cosmetic cases |journal=J. Am. Acad. Dermatol. |volume=53 |issue=3 |pages=407–15 |year=2005 |month=September |pmid=16112345 |doi=10.1016/j.jaad.2005.06.011 |url=}}</ref>
+
+On February 8, 2008, the FDA announced Botox has "been linked in some cases to adverse reactions, including respiratory failure and death, following treatment of a variety of conditions using a wide range of doses", due to its ability to spread to areas distant from the site of the injection.<ref>[http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2008/ucm116857.htm FDA Notifies Public of Adverse Reactions Linked to Botox Use]. Fda.gov. Retrieved on 2012-05-06.</ref> In April 2009, the FDA updated its mandatory boxed warning cautioning that the effects of the botulinum toxin may spread from the area of injection to other areas of the body, causing symptoms similar to those of botulism.<ref>[http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2009/ucm175013.htm FDA Gives Update on Botulinum Toxin Safety Warnings; Established Names of Drugs Changed], FDA Press Announcement, August 3, 2009</ref>
+
+In January 2009, the Canadian government warned that Botox can have the adverse effect of spreading to other parts of the body, which could cause muscle weakness, swallowing difficulties, pneumonia, speech disorders and breathing problems.<ref>{{Cite news| url=http://www.cbc.ca/consumer/story/2009/01/13/botox.html | work=CBC News | title=Botox chemical may spread, Health Canada confirms | date=2009-01-13}}</ref><ref>[http://www.google.com/hostednews/afp/article/ALeqM5jjXaXXB231Ty8J7Sbi8yeN0EH5tA Le Canada met en garde contre les effets dangereux du Botox] (French)</ref>
+
+Several cases of death have been linked to the use of other chemicals as substitutes for Botox,<ref>[http://newsblaze.com/story/2006031711042400003.mwir/topstory.html Woman Dies From Fake Botox Injections]. Newsblaze.com (2006-03-17). Retrieved on 2012-05-06.</ref> one of the causes of death listed on the [[Spike TV]] show, ''[[1000 Ways to Die]]''.
+
+===Side effects===
+Side effects, which are generally minor and temporary,<ref name=bcm/> can be predicted from the mode of action (muscle paralysis) and chemical structure (protein) of the molecule, resulting, broadly speaking, in two major areas of side effects: paralysis of the wrong muscle group and allergic reaction. Bruising at the site of injection is a side effect not of the toxin, but rather the mode of administration. In cosmetic use, this can result in inappropriate facial expression, such as drooping eyelid,<ref name=bcm/> double vision,<ref name=bcm/> uneven smile, or loss of the ability to close eyes. This will wear off in around six weeks. Bruising is prevented by the clinician applying pressure to the injection site, but may still occur, and will last around seven to 11 days. When injecting the masseter muscle of the jaw, loss of muscle function will result in a loss or reduction of power to chew solid foods.<ref name="autogenerated1" /> All cosmetic treatments are of limited duration, and can be as short as six weeks, but usually the effective period lasts from two to three months.  At the extremely low doses used medicinally, botulinum toxin has a very low degree of human and animal toxicity.
+
+Other adverse events from cosmetic use include headaches, [[dysphagia]], flu-like syndromes, blurred vision, dry mouth, fatigue, allergic reactions and swelling or redness at the injection site.<ref name="autogenerated1" /><ref>[http://www.botoxguide.org/ Botox Side Effects]. Botoxguide.org. Retrieved on 2012-05-06.</ref>
+
+A petition by [[Public Citizen]] to the FDA has requested regulatory action concerning the possible spread of botulinum toxin (Botox, Myobloc) from the site of injection to other parts of the body.<ref>HRG Publication #1834): [http://www.citizen.org/publications/release.cfm?ID=7559&secID=1680&catID=126 Public Citizen]</ref>
+
+Individuals who are pregnant, have egg allergies or a neuromuscular disorder are advised to avoid Botox.<ref name=bcm/>
+
+<!-- in cite As published in Forbes and originally published in the journal Social Psychology and Personality Science, -->Botox takes away or dampens the emotional feelings in a particular situation. That may be due to less interaction between facial muscle movement and brain. According to David Neal, a psychology professor at the University of Southern California, “if muscular signals from the face to the brain are dampened, you’re less able to read emotions.”<ref>{{cite news| url=http://blogs.forbes.com/marcbabej/2011/04/23/botox-may-deaden-ability-to-empathize-new-study-says/?partner=following_topic_daily | work=Forbes | title = Botox May Deaden Ability to Empathize, New Study Says | date = Apr. 23, 2011}}</ref>
+
+One way botox might affect emotional feelings is by dampening the relay of signals from the face to the amygdala and brainstem centers for autonomic arousal.<ref>{{cite journal |title = The link between facial feedback and neural activity within central circuitries of emotion – New insights from botulinum toxin-induced denervation of frown muscles  |journal = Cerebral Cortex |volume=June 17 |year=2008 |author = Hennenlotter, A.}}</ref>
+
+The mental effects of botox may extend beyond emotional feelings to the ability to understand language about emotions.  An experimental study suggests the cosmetic use of botulinum toxin for treatment of glabellar lines affects human cognition. Havas and colleagues<ref>{{cite news| url=http://articles.latimes.com/2010/may/31/health/la-he-botox-20100531 | work=LATimes | title = A Botox Gap in Understanding Emotion | date = May 31, 2010}}</ref><ref>{{Cite journal|author=Havas DA, Glenberg AM, Gutowski KA, Lucarelli MJ, Davidson RJ |title=Cosmetic use of botulinum toxin-A affects processing of emotional language |journal=Psychological Science. |volume=21 |issue=7 |pages=895–900 |year=2010 |month=September |url=|pmid=20548056|pmc=3070188 |doi=10.1177/0956797610374742}}</ref> asked subjects to read emotional (angry, sad, happy) sentences before and two weeks after Botox injections in the corrugator supercilii muscle used in frowning. Reading times for angry and sad sentences were longer after injection than before injection, while reading times for happy sentences were unchanged. This finding suggests  facial muscle paralysis has a selective effect in human cognition, and shows Botox hinders the ability to understand language. According to the lead researcher in this study, "[B]otox causes a kind of mild, temporary, cognitive blindness to information in the world, social information about the emotions of other people."
+
+==Biochemical mechanism of toxicity==
+[[Image:Presynaptic CNTs targets.svg|thumb|right|300px|Target molecules of botulinum (BoNT) and tetanus (TeNT) toxins inside the axon terminal.<ref>[http://www.cdc.gov/ncidod/EID/vol11no10/04-1279.htm Volume 11, Number 10 – October 2005 – Emerging Infectious Disease journal – CDC]. Cdc.gov (2012-02-22). Retrieved on 2012-05-06.</ref>]]
+The heavy chain of the toxin is particularly important for targeting the toxin to specific types of [[axon]] terminals. The toxin must get inside the axon terminals to cause paralysis. Following the attachment of the toxin heavy chain to proteins on the surface of axon terminals, the toxin can be taken into neurons by [[endocytosis]]. The light chain is able to cleave endocytotic vesicles and reach the [[cytoplasm]]. The light chain of the toxin has protease activity. The type A toxin proteolytically degrades the [[SNAP-25|SNAP-25 protein]], a type of [[SNARE protein]]. The SNAP-25 protein is required for [[vesicle fusion]] that releases [[neurotransmitter]]s from the axon endings (in particular acetylcholine).<ref>{{Cite journal|author=Foran PG |title=Evaluation of the therapeutic usefulness of botulinum neurotoxin B, C1, E, and F compared with the long lasting type A. Basis for distinct durations of inhibition of exocytosis in central neurons |journal=J. Biol. Chem. |volume=278 |issue=2 |pages=1363–71 |year=2003 |pmid=12381720 |doi=10.1074/jbc.M209821200 |author2=Mohammed N|author3=Lisk GO|last4=Nagwaney|first4=S|last5=Lawrence|first5=GW|last6=Johnson|first6=E|last7=Smith|first7=L|last8=Aoki|first8=KR|last9=Dolly|first9=JO}}</ref> Botulinum toxin specifically cleaves these SNAREs, so prevents neurosecretory vesicles from docking/fusing with the nerve synapse plasma membrane and releasing their neurotransmitters.
+
+Though it affects the nervous system, common nerve agent treatments (namely the injection of [[atropine]] and [[pralidoxime]]) will increase mortality by enhancing botulin toxin's mechanism of toxicity.{{Citation needed|date=February 2010}}  Attacks involving botulinum toxin are distinguishable from those involving nerve agent in that [[NBC (weapon)|NBC]] detection equipment (such as M-8 paper or the ICAM) will not indicate a "positive" when a sample of the agent is tested.  Furthermore, botulism symptoms develop relatively slowly, over several days compared to nerve agent effects, which can be instantaneous.
+
+==Treatment of botulinum poisoning==
+If the symptoms of botulism are diagnosed early, an equine antitoxin, use of enemas, and [[extracorporeal]] removal of the gut contents can be used to treat the food-borne illness.  Wound infections can be treated surgically.  Information regarding methods of safe canning, and public education about the disease are methods of prevention.  Tests to detect botulism include a brain scan, a nerve conduction test, and a tensilon test for myasthenia gravis to differentiate botulism from other diseases that manifest in the same way.  Electromyography can be used to differentiate [[myasthenia gravis]] and [[Guillain-Barré syndrome]], diseases that botulism often mimics.  Toxicity testing of serum specimens, wound tissue cultures, and toxicity testing,  and stool specimen cultures are the best methods for identifying botulism.  Laboratory tests of the patient's serum or stool, which are then injected into mice, are also indicative of botulism.<ref>{{cite web|url=http://www.cdc.gov/ncidod/dbmd/diseaseinfo/files/botulism_manual.htm |title=Disease Listing, Botulism Manual, Additional Information |work= CDC Bacterial, Mycotic Diseases |accessdate=2010-01-21 }}</ref> The faster way to detect botulinum toxin in people, though, is using the mass spectrometry technology, because it reduces testing time to three or four hours and at the same time it can identify the seven types of the toxin.<ref>[http://www.cdc.gov/washington/~cdcatWork/pdf/botulinum.pdf Developing a Faster Method for Measuring Botulinum Toxin in People]. cdc.gov. [http://web.archive.org/web/20100309154823/http://www.cdc.gov/washington/cdcatWork/pdf/botulinum.pdf archived]</ref>
+
+The case fatality rate for botulinum poisoning between 1950 and 1996 was 15.5%, down from about 60% over the previous 50 years.<ref>{{cite web|url=http://www.cdc.gov/ncidod/dbmd/diseaseinfo/files/botulism_manual.htm |title=Disease Listing, Botulism Manual, Additional Information  – CDC Bacterial, Mycotic Diseases |accessdate=2007-08-14 |work=}}</ref>  Death is generally secondary to respiratory failure due to paralysis of the respiratory muscles, so treatment consists of antitoxin administration and [[artificial ventilation]] until the neurotoxins are excreted or metabolised. If initiated on time, these treatments are quite effective, although antisera can not affect BoNT polypeptides that have already entered cells.<ref>{{cite journal | author = Turton K., Chaddock J. A., Acharya K. R. | year = 2002 | title = Botulinum and tetanus neurotoxins: structure, function and therapeutic utility| journal = Trends in Biochemical Sciences | volume = 27 | issue = 11| pages = 552–558 | doi = 10.1016/S0968-0004(02)02177-1 | pmid = 12417130 }}</ref> Occasionally,  functional recovery may take several weeks to months or more.
+
+Two primary botulinum antitoxins are available for treatment of botulism.
+
+* [[valence (chemistry)|Trivalent]] (A,B,E) botulinum [[antitoxin]] is derived from equine sources using whole [[antibodies]] (Fab and Fc portions).  This antitoxin is available from the local health department via the [[Centers for Disease Control|CDC]] in the USA.
+
+* The second [[antitoxin]] is [[valence (chemistry)|Heptavalent]] (A,B,C,D,E,F,G) botulinum antitoxin, which is derived from "despeciated" equine IgG [[antibodies]], which have had the Fc portion cleaved off, leaving the F(ab')2 portions.  This  less immunogenic [[antitoxin]] is effective against all known strains of botulism where not contraindicated, and is available from the United States Army.  On June 1, 2006, the US [[Department of Health and Human Services]] awarded a $363 million contract with Cangene Corporation for 200,000 doses of heptavalent botulinum antitoxin over five years for delivery into the [[Strategic National Stockpile]] beginning in 2007.<ref>{{cite web|url=http://mmrs.fema.gov/news/publichealth/2006/aug/nph2006-08-03a.aspx |title=FEMA |accessdate=2007-08-14 |work= |archiveurl = http://web.archive.org/web/20070929111841/http://mmrs.fema.gov/news/publichealth/2006/aug/nph2006-08-03a.aspx <!-- Bot retrieved archive --> |archivedate = 2007-09-29}}</ref>
+
+==Manufacturers==
+In the United States, Botox is manufactured by [[Allergan, Inc.]] for both therapeutic and cosmetic use (100-unit). In 2011, Allergan required less than one gram of raw botulinum toxin neurotoxin to "supply the world's requirements for 25 indications approved by Government agencies around the world".<ref>{{cite web |url=http://www.allergan.com/assets/pdf/2011AnnualReport.pdf |title=2011 Allergan Annual Report |publisher=[[Allergan]] |accessdate=3 May 2012}} See PDF page 7.</ref>
+
+In the United States, Xeomin (manufactured in Germany by [[Merz Pharma|Merz]]) is available for both therapeutic and cosmetic use. Dysport, a therapeutic formulation of the type A toxin developed and manufactured in Ireland, is licensed for the treatment of focal dystonias and certain cosmetic uses in the US and worldwide in 100-, 300- and 500-unit packages.  Lanzhou Institute of Biological Products in China manufactures a BTX-A product, producing 50-unit and 100-unit type A toxin.<ref>
+{{cite web
+| title = Botulinum Toxin Type A
+| publisher = Hugh Source (International) Limited
+| url = http://btxa.com/product_quality/index.htm#1_1
+| accessdate = 2010-07-14
+}}</ref>  Neuronox, a BTX-A product, was introduced by [[Medy-Tox Inc.]] of South Korea, in 2009.<ref>
+{{Cite news
+| author = Petrou, Ilya
+| date = Spring 2009
+| title = Medy-Tox Introduces Neuronox to the Botulinum Toxin Arena
+| newspaper = The European Aesthetic Guide
+| url = http://www.miinews.com/pdf/MedyTox_Ed_EAGsp09v2_022809.pdf
+| format = PDF
+}}</ref> In America, Neuronox is also known as Siax. Solstice Neurosciences, LLC, a wholly owned subsidiary of US WorldMeds, LLC sells their product under the names Myobloc or Neurobloc, although it contains botulinum toxin type B, not the common type A found in Botox.
+
+==See also==
+* [[Microbial toxins]]
+* The hit BBC drama [[Sherlock (TV Series)]] features clostridinium botulinum as a primary source of poison used to carry out the murder of a woman taking Botox injections by intentional overdose.
+
+==References==
+{{Reflist|35em}}
+
+==External links==
+* [http://www.fda.gov/fdac/features/095_bot.html A Poison that can Heal] from the [[U.S. Food and Drug Administration]]
+* [http://www.newsweek.com/id/131749 Does Botox get into the brain? Troubling research contradicts earlier findings about the treatment]
+* [http://www.responsesource.com/releases/rel_display.php?relid=59287 Government backs vital plans to make Botox safer]
+* [http://botdb.abcc.ncifcrf.gov BotDB: extensive resources on BoNT structures, inhibitors, kinetics, and literature]
+* [http://markus-giesler.com/publications/ A consumer sociological investigation of Botox Cosmetic's Rise]
+
+{{Muscle relaxants}}
+{{Toxins}}
+{{Cholinergics}}
+{{Cosmetics}}
+
+{{DEFAULTSORT:Botulinum Toxin}}
+[[Category:Biological toxin weapons]]
+[[Category:Muscle relaxants]]
+[[Category:Neurotoxins]]
+[[Category:Plastic surgery]]
+[[Category:Bacterial toxins]]

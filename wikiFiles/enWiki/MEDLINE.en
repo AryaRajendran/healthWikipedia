@@ -1,0 +1,53 @@
+{{other uses|Medline (disambiguation)}}
+'''MEDLINE''' ([[MEDLARS|Medical Literature Analysis and Retrieval System]] Online) is a [[bibliographic database]] of life sciences and biomedical information. It includes bibliographic information for articles from [[academic journal]]s covering [[medicine]], [[nursing]], [[pharmacy]], [[dentistry]], [[veterinary medicine]], and [[health care]]. MEDLINE also covers much of the literature in [[biology]] and [[biochemistry]], as well as fields such as [[molecular evolution]].
+
+Compiled by the [[United States National Library of Medicine]] (NLM), MEDLINE is freely available on the [[Internet]] and searchable via [[PubMed]] and NLM's National Center for Biotechnology Information's [[Entrez]] system.
+
+== The database ==
+The database contains more than 21.6 million records<ref>{{Cite web|url=http://www.nlm.nih.gov/bsd/revup/revup_pub.html#med_update|publisher=NLM Systems|title=Data, News and Update Information|date=2009-03-30|accessdate=2009-04-13}}</ref> from 5,582 selected publications<ref>{{Cite web|url=http://www.nlm.nih.gov/bsd/num_titles.html|publisher=NLM|title=Number of Titles Currently Indexed for Index Medicus® and MEDLINE® on PubMed®|date=2011-11-15|accessdate=2012-03-20}}</ref> covering biomedicine and health from 1950 to the present. Originally the database covered articles starting from 1965, but this has been enhanced, and records as far back as 1950/51 are now available within the main index. The database is freely accessible on the Internet via the PubMed interface and new citations are added Tuesday through Saturday. For citations added during 1995-2003: about 48% are for cited articles published in the U.S., about 88% are published in English, and about 76% have English abstracts written by authors of the articles.
+
+== Retrieval ==
+MEDLINE uses [[Medical Subject Headings]] (MeSH) for information retrieval. Engines designed to search MEDLINE (such as Entrez and PubMed) generally use a [[Boolean expression]] combining MeSH terms, words in abstract and title of the article, author names, date of publication, etc. Entrez and PubMed can also find articles similar to a given one based on a mathematical scoring system that takes into account the similarity of word content of the abstracts and titles of two articles.<ref>{{Cite web|url=http://www.biomedcentral.com/1471-2105/8/423|publisher=BMC Bioinformatics (2007) 8:423|title=
+PubMed related articles: a probabilistic topic-based model for content similarity|date=2007-10-30|accessdate=2011-05-30}}</ref>
+
+== Importance ==
+MEDLINE functions as an important resource for biomedical researchers and [[journal club]]s from all over the world. Along with the [[Cochrane Library]] and a number of other databases, MEDLINE facilitates [[evidence-based medicine]]. Most [[systematic review]] articles published presently build on extensive searches of MEDLINE to identify articles that might be useful in the review.{{Citation needed|date=September 2009}} MEDLINE influences researchers in their choice of journals in which to publish: few biomedical researchers today consider publishing in a journal not indexed by MEDLINE, because other researchers would not find (or cite) their work.{{Citation needed|date=September 2009}}
+
+== Inclusion of journals ==
+More than 5,500 biomedical journals are indexed in MEDLINE. New journals are not included automatically or immediately. Selection is based on the recommendations of a panel, the Literature Selection Technical Review Committee, based on scientific scope and quality of a journal.<ref>{{Cite web|url=http://www.nlm.nih.gov/pubs/factsheets/jsel.html|publisher=LSTRC|title=MEDLINE Journal Selection Fact Sheet|accessdate=2009-04-13}}</ref> The Journals Database (one of the Entrez databases) contains information, such as its name abbreviation and publisher, about all journals included in Entrez, including PubMed.<ref name=PubMedTutorial>{{cite web |url=http://www.nlm.nih.gov/bsd/disted/pubmedtutorial/020_550.html |title=PubMed Tutorial - Building the Search - Search Tools - Journals Database |work= |accessdate=2009-09-06}}</ref>
+
+== Usage ==
+
+PubMed usage has been on the rise since 2008. In 2011, PubMed/MEDLINE was searched 1.8 billion times, up from 1.6 billion searches in the previous year.<ref>{{Cite web|url=http://www.nlm.nih.gov/bsd/bsd_key.html|publisher=NLM|title=Key MEDLINE® Indicators|date=2012-02-06|accessdate=2012-03-20}}</ref>
+
+Searching MEDLINE effectively is a learned skill; untrained users are sometimes frustrated with the large numbers of articles returned by simple searches. Counterintuitively, a search that returns thousands of articles is not guaranteed to be comprehensive.
+
+Unlike using a typical Internet search engine, PubMed searching of MEDLINE requires a little investment of time. Using the MeSH database to define the subject of interest is one of the most useful ways to improve the quality of a search. Using MeSH terms in conjunction with limits (such as publication date or publication type), qualifiers (such as adverse effects or prevention and control), and text-word searching is another. Finding one article on the subject and clicking on the "Related Articles" link to get a collection of similarly classified articles can expand a search that yields few results.
+
+== Online access ==
+* [[PubMed]]
+* [[GoPubMed]] - explore PubMed/MEDLINE with [[Gene Ontology]]
+* [[HubMed]] - an alternative interface to the PubMed medical literature database.
+* [[eTBLAST]] - a natural language text similarity engine for MEDLINE and other text databases.
+* [[Medscape]]
+* [[Twease]] - an open-source biomedical search engine
+
+== See also ==
+* [[MedlinePlus]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://ipubmed.ics.uci.edu iPubMed] Search MEDLINE/PubMed through interactive and fuzzy search
+* [http://www.nlm.nih.gov/bsd/pubmed_tutorial/m1001.html PubMed Tutorials]
+* [http://www.nlm.nih.gov/pubs/factsheets/jsel.html MEDLINE Journal Selection]
+
+{{DEFAULTSORT:Medline}}
+[[Category:Biological databases]]
+[[Category:National Institutes of Health]]
+[[Category:Domain-specific search engines]]
+[[Category:Bibliographic databases]]
+[[Category:Medical databases]]
+[[Category:Online databases]]
+[[Category:Year of establishment missing]]

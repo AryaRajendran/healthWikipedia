@@ -1,0 +1,65 @@
+The '''Quantified Self'''<ref>{{cite web|last=Gary|first=Wolf|title=QS & The Macroscope|url=http://aether.com/themacroscope|accessdate=10 February 2013}}</ref>  is a movement to incorporate technology into data acquisition on aspects of a person's daily life in terms of inputs (e.g. food consumed, quality of surrounding air), states (e.g. mood, [[skin conductance|arousal]], [[pulse oximetry|blood oxygen levels]]), and performance ([[cognitive test|mental]] and physical).  Such self-monitoring and self-sensing, which combines wearable sensors (EEG, ECG, video, etc.) and [[wearable computing]], is also known as [[lifelogging]] or [[sousveillance]]. Other names for using self-tracking data to improve daily functioning<ref>{{cite web|last=Dorminey|first=Bruce|title=Tic-Toc-Trac: New Watch Gadget Measures Time Perception For The Self-Quantifying|url=http://www.forbes.com/sites/brucedorminey/2012/05/31/tic-toc-trac-new-watch-gadget-measures-time-perception-for-the-self-quantifying/|publisher=[[Forbes]]|authorlink=Bruce Dorminey|date=2012-05-31}}</ref> are “self-tracking”, "auto-analytics", “body hacking” and “self-quantifying”.<ref>{{cite web|title=Counting every moment|url=http://www.economist.com/node/21548493|publisher=[[The Economist]]|date=Mar 3rd 2012}}</ref>
+
+==History==
+The history of self-tracking using wearable sensors combined with [[wearable computing]] and wireless communication, dates back many years, and appeared, in the form of sousveillance (wearable physiological sensors, etc.) in the 1970s.<ref>Intelligent Image Processing, Steve Mann, John Wiley and Sons, 2001</ref><ref>{{Cite journal 
+| last1 = Mann | first1 = S. 
+| title = Humanistic computing: "WearComp" as a new framework and application for intelligent signal processing 
+| doi = 10.1109/5.726784 
+| journal = Proceedings of the IEEE 
+| volume = 86 
+| issue = 11 
+| pages = 2123–2151 
+| year = 1998 
+| month =  November 
+| url = http://www.eyetap.org/papers/docs/ieee1998.pdf <!-- draft copy in HTML: http://hi.eecg.toronto.edu/hi/index.html -->
+}}</ref><ref>Persuasive Technology and Digital Design for Behaviour Change, Dan Lockton, Brunel University - Brunel Design; University of Warwick - WMG, August 7, 2012</ref><ref>WEB 2.0, VIGILÂNCIA E MONITORAMENTO: ENTRE FUNÇÕES PÓSMASSIVAS E CLASSIFICAÇÃO SOCIAL, Tarcízio Silva, Universidade Federal da Bahia</ref> The term "quantified self" appears to have been proposed by [[Wired Magazine]] editors [[Gary Wolf (journalist)|Gary Wolf]]<ref>{{cite web|last=Singer|first=Emily|title=The Measured Life|url=http://www.technologyreview.com/biomedicine/37784/|publisher=[[Massachusetts Institute of Technology{{!}}MIT]]|accessdate=2011-07-05}}</ref> and [[Kevin Kelly (editor)|Kevin Kelly]]<ref name=aetherqs>{{cite web|last=Wolf|first=Gary|title=Quantified Self|url=http://aether.com/quantifiedself|publisher=Gary Wolf|accessdate=2012-03-26|archiveurl=http://www.webcitation.org/66TEHdz4d|archivedate=2012-03-26}}</ref> in 2007<ref>{{cite web|title=Quantified Self Blog, oldest entries|url=http://quantifiedself.com/2007/page/3/|accessdate=2012-03-26|archiveurl=http://www.webcitation.org/66TEY49wv|archivedate=2012-03-26}}</ref> as "a collaboration of users and tool makers who share an interest in self knowledge through self-tracking." In 2010, Wolf spoke about the movement at [[TED (conference)|TED]],<ref>{{cite web|last=Wolf|first=Gary|title=The quantified self|url=http://www.ted.com/talks/gary_wolf_the_quantified_self.html|publisher=[[TED (conference)]]|accessdate=2012-03-26}}</ref> and in May 2011 the first international conference was held in [[Mountain View, California]].<ref>{{cite web|title=Invasion of the body hackers|url=http://www.ft.com/intl/cms/s/2/3ccb11a0-923b-11e0-9e00-00144feab49a.html|publisher=[[Financial Times]]|date=2011-06-10|archiveurl=http://www.webcitation.org/66TFDLCSY|archivedate=2012-03-26}}</ref>
+
+Today the global community has over a hundred groups in 31 countries around the world.<ref>http://quantified-self.meetup.com/</ref>
+
+==Methodologies==
+The primary methodology of self-quantification is data collection, followed by visualization, cross-referencing and the discovery of correlations.<ref>{{cite web|last=Hesse|first=Monica|title=Bytes of Life|url=http://www.washingtonpost.com/wp-dyn/content/article/2008/09/08/AR2008090802681_pf.html|publisher=Washington Post|accessdate=2012-03-26|date=September 9, 2008}}</ref>
+
+Life-tracking information from various applications can be difficult to integrate and find meaning.  Websites such as [http://quantimodo.com/ Quantimodo] can help by synergizing, visualizing, and analyzing the cacophony data to identify correlations between specific input factors and treatments (independent variables) and mood outcomes (dependent variables). The [[Pearson product-moment correlation coefficient]] derived from an XY [[scatterplot]] of input behaviours and output states can quantify the effectiveness of various treatments.
+
+The human mind is not powerful enough to keep track of the countless factors that go into producing an emotional state. Timeline graphical analysis can help to identify potential confounding uncontrolled variables that may be contaminating the results of an experiment.  
+
+Fine-grained, personalized minimum effective dosages of drugs can be established.  Degrees of drug tolerance and withdrawal symptoms can be quantified.  By integrating the area under the mood curves, true cost-benefit analyses weighing therapeutic benefits against adverse effects can be performed.
+
+==Devices==
+{{List missing criteria|date=April 2013}}
+Notable self-quantification tools are listed below. Numerous other hardware devices and software are available,<ref>{{cite web|title=The Guide to Self-Tracking Tools|url=http://quantifiedself.com/guide/|publisher=Quantified Self|accessdate=2012-03-27}}</ref> thanks to recent advances and cost reductions in sensor technology, mobile connectivity, and battery life.
+
+===Activity monitors===
+* Basis<ref name=autogenerated1>{{cite web|title=MyBasis|url=http://www.mybasis.com/}}</ref>
+* [[BodyMedia#BodyMedia_FIT_2|BodyMedia FIT]]
+* [[Withings]] 
+* [[Fitbit#Fitbit Tracker|Fitbit Tracker]]
+* [[Jawbone UP]]
+* [[Nike+ FuelBand]]
+* [[Pebble (watch)|Pebble]]
+* [[Technogym]] 
+* [[Zephyr Technology|Zephyr BioHarness]]
+
+===Sleep monitors===
+
+* Basis <ref name=autogenerated1 />
+* [[Withings]] 
+* [[Fitbit#Fitbit Tracker|Fitbit Tracker]]
+* Lark<ref>{{cite web|last=Panzarino|first=Matthew|title=Lark expands from a sleep monitor to a full on coaching service|url=http://thenextweb.com/apps/2012/01/28/lark-expands-from-a-sleep-monitor-to-a-full-on-coaching-service/|publisher=The Next Web|accessdate=2012-04-20}}</ref>
+* [[WakeMate]]
+* [[Zeo, Inc.|Zeo]]
+* [[Withings#WiFi Body Scale|Withings body scale]]
+* [[Fitbit#FitBit_Aria|Fitbit Aria scale]]
+* [[Poikos|Poikos Body Measurement Platform]]
+* [[MyFitnessPal]]
+* [[23andMe]] - genetics
+
+==See also==
+* [[Lifelog]]
+* [[Sousveillance]]
+
+==References==
+{{reflist|2}}
+
+[[Category:Citizen science]]
+[[Category:Health informatics]]

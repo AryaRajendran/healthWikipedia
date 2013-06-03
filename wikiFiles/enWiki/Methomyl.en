@@ -1,0 +1,59 @@
+{{chembox
+| verifiedrevid = 443345092
+|Reference=<ref>''Merck Index'', 11th Edition, '''5905'''</ref>
+|ImageFile=Methomyl Structural Formulae .V.1.svg
+|ImageSize=200px
+|IUPACName=(''E'',''Z'')-methyl ''N''-{[(methylamino)carbonyl]oxy}ethanimidothioate
+|OtherNames=Lannate, Mesomile, Methomex, Nudrin
+|Section1= {{Chembox Identifiers
+|  CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo=16752-77-5
+|  PubChem=5353758
+|  SMILES=CC(=NOC(=O)NC)SC
+  }}
+|Section2= {{Chembox Properties
+|C=5|H=10|N=2|O=2|S=1
+|  MolarMass=162.20
+|  Appearance=Crystals
+|  Density=1.2946 g/cm<sup>3</sup>
+|  MeltingPt=78-79 °C
+|  BoilingPt=
+|  Solubility=58 g/L
+  }}
+|Section3= {{Chembox Hazards
+|  MainHazards=
+|  FlashPt=
+|  Autoignition=
+  }}
+}}
+
+'''Methomyl''' is a [[carbamate]] [[insecticide]].  It was introduced in 1966, but its use is restricted because of its high toxicity to humans.<ref>[http://extoxnet.orst.edu/pips/methomyl.htm Methomyl] at Extension Toxicology Network</ref>  Its current primary use is on [[alfalfa]] for [[forage]].<ref>[http://www.pesticideinfo.org/Detail_ChemUse.jsp?Rec_Id=PC35109 Methomyl] at PAN Pesticide Database</ref>
+The EU and UK have imposed these restrictions by allowing a maximum pesticide residue limit of 0.02 mg/kg for apples and oranges.{{Citation needed|date=February 2012}}  0.02 mg/kg is the limit of detection.
+
+It has been found in residues on vegetables and spices in Thailand exceeding safety standards in 2012, due to not being listed on the [[Dangerous Substances Act]], along with [[carbofuran]], [[dicrotophos]] and [[EPN (insecticide)|EPN]].<ref>{{cite news | url = http://www.bangkokpost.com/news/local/302017/cancer-causing-chemical-residues-found-in-vegetables | title = Cancer-causing chemical residues found in vegetables | publisher = Bangkok Post | date = 12/07/2012}}</ref>
+
+Methomyl is the active ingredient in commercial fly bait granules which are mixed with a [[cola]] drink to illegally kill bothersome [[raccoon]], [[skunk]] and [[opossum]].<ref>[http://dnr.wi.gov/news/BreakingNews_Print.asp?id=481 Conservation Warden Warns: Fly bait to control wild animals – illegal and a bad idea (Wisconsin Department of Natural Resources)]</ref><ref>[http://www.indianaeconomicdigest.net/main.asp?SectionID=31&SubSectionID=68&ArticleID=65569 Farm stores promoted poisoning raccoons, state chemist says]</ref>
+
+'''Synthesis'''
+
+Methomyl can be produced by reacting [[methyl isocyanate]] and [[methylthioacetaldoxime]](also known as methomyl oxime)
+
+First preparing ester
+
+<math>{{\text{H}}_{\text{3}}}\text{C-}\underset{\underset{\text{O}}{\mathop{\text{ }\!\!|\!\!\text{  }\!\!|\!\!\text{ }}}\,}{\mathop{\text{C}}}\,\text{-OH+HS-C}{{\text{H}}_{\text{3}}}\xrightarrow{\text{30--50 }\!\!~\!\!\text{  }\!\!{}^\circ\!\!\text{ C}\text{,-}{{\text{H}}_{2}}O}{{\text{H}}_{\text{3}}}\text{C-}\underset{\underset{\text{O}}{\mathop{\text{ }\!\!|\!\!\text{  }\!\!|\!\!\text{ }}}\,}{\mathop{\text{C}}}\,\text{-S-C}{{\text{H}}_{\text{3}}}</math>
+
+Second preparing oxim from ester
+<math>{{\text{H}}_{\text{3}}}\text{C-}\underset{\underset{\text{O}}{\mathop{\text{ }\!\!|\!\!\text{  }\!\!|\!\!\text{ }}}\,}{\mathop{\text{C}}}\,\text{-S-C}{{\text{H}}_{\text{3}}}\text{+}{{\text{H}}_{\text{2}}}\text{NOH}\xrightarrow{-{{H}_{2}}O}\text{HO-N=}\underset{\text{C}{{\text{H}}_{\text{3}}}}{\mathop{\underset{\text{ }\!\!|\!\!\text{ }}{\mathop{\text{C}}}\,}}\,\text{-S-C}{{\text{H}}_{\text{3}}}</math>
+
+Third preparing product from isocyanate and oxim.
+<math>{{\text{H}}_{\text{3}}}\text{C-N=C=O+HO-N=}\underset{\text{C}{{\text{H}}_{\text{3}}}}{\mathop{\underset{\text{ }\!\!|\!\!\text{ }}{\mathop{\text{C}}}\,}}\,\text{-S-C}{{\text{H}}_{\text{3}}}\xrightarrow{\text{C}{{\text{H}}_{\text{2}}}\text{C}{{\text{l}}_{\text{2}}}\text{,30--50 }\!\!~\!\!\text{  }\!\!{}^\circ\!\!\text{ C}}\text{Methomyl}</math>
+
+==References==
+<references/>
+
+{{Cholinergics}}
+{{insecticides}}
+
+[[Category:Carbamate insecticides]]
+[[Category:Anticholinesterases]]
+[[Category:Endocrine disruptors]]

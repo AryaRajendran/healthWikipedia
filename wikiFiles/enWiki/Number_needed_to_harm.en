@@ -1,0 +1,72 @@
+The '''number needed to harm (NNH)''' is an [[epidemiology|epidemiological]] measure that indicates how many patients need to be exposed to a [[risk-factor]] over a specific period to cause harm in one patient that would not otherwise have been harmed.<ref> [http://www.effectivehealthcare.ahrq.gov/index.cfm/glossary-of-terms/?pageaction=showterm&termid=41 Glossary of Terms] </ref> It is defined as the inverse of the [[attributable risk]].  Intuitively, the lower the number needed to harm, the worse the [[risk-factor]].
+
+NNH is similar to [[Number needed to treat]] (NNT), where NNT usually refers to a therapeutic intervention and NNH to a detrimental effect or risk factor.   NNH is computed with respect to "exposure" and "non-exposure", and can be determined for raw data or for data corrected for [[Confounding variable|confounders]].  A defined endpoint has to be specified.  If the [[probability|probabilities]] ''p<sub>exposure</sub>'' and ''p<sub>non-exposure</sub>'' of this endpoint are known, then the NNH is computed as 1/(''p<sub>exposure</sub>''-''p<sub>non-exposure</sub>'').
+
+The NNH is an important measure in [[evidence-based medicine]] and helps physicians decide whether it is prudent to proceed with a particular treatment which may expose the patient to harms while providing therapeutic benefits.  If a clinical endpoint is devastating enough without the drug (e.g. [[death]], [[myocardial infarction|heart attack]]), drugs with a low NNH may still be indicated in particular situations if the [[number needed to treat]], (the converse for [[adverse effect (medicine)|side effect]]s, or the drug's benefit) is less than the NNH. However, there are several important problems with the NNH, involving bias and lack of reliable confidence intervals, as well as difficulties in excluding the possibility of no difference between two treatments or groups.<ref>{{cite journal |author=Hutton JL |title= Misleading Statistics: The Problems Surrounding Number Needed to Treat and Number Needed to Harm |url=http://adisonline.com/pharmaceuticalmedicine/Fulltext/2010/24030/Misleading_Statistics__The_Problems_Surrounding.3.aspx| journal=Pharm Med |volume=24 |issue=3 |pages=145–9 |year=2010 |doi=10.2165/11536680-000000000-00000}}</ref> 
+
+==Worked example==
+The following is an example of calculating number needed to harm.
+
+In a [[cohort study]], individuals with exposure to a risk factor (Exposure&nbsp;+) are followed for a certain number of years to see if they develop a certain disease or outcome (Disease&nbsp;+).  A control group of individuals who are not exposed to the risk factor (Exposure&nbsp;&minus;) are also followed .  "Follow up time" is the number of individuals in each group multiplied by the number of years that each individual is followed:
+
+{| class="wikitable"
+|-
+!
+! Disease +
+! Total subjects followed
+! Years followed^
+! Follow-up time
+! Incidence
+|-
+| Exposure +
+| 6054
+| 86318
+| 13.56^
+| 1,170,074
+| 0.0703
+|-
+| Exposure &minus;
+| 32
+| 516
+| 21.84^
+| 11,270
+| 0.0620
+|}
+
+^ "Years followed" is a [[weighted average]] of the length of time the patients were followed.
+
+The incidence with exposure is:
+
+:<math>\frac{6054}{86,318} = 0.0703</math>
+
+The incidence without exposure:
+
+:<math>\frac{32}{516} = 0.0620</math>
+
+To determine the [[relative risk]], divide the incidence with exposure by the incidence without exposure:
+
+: <math>\frac{0.0703}{0.0620}= 1.13 = {} </math> [[relative risk]]
+
+To determine [[attributable risk]] subtract incidence without exposure from incidence with exposure:
+
+: 0.0703 &minus; 0.0620 = 0.0083 = 0.83% = [[attributable risk]]
+
+The number needed to harm is the inverse of the [[attributable risk]], or:
+
+: <math>\frac{1}{0.0083} = 121</math> = Number needed to harm
+
+This means that if 121 individuals are exposed to the risk factor, 1 will develop the disease that would not have otherwise.
+
+Note that these calculations can be affected enormously by roundoff error. (If no roundoff is used in the intermediate calculations above, the final figure for the NNH is 123.)
+
+==Number of exposures needed to harm==
+In case there can be more than one exposure in the specific period, the ''number (of patients) needed to harm'' is numerically equal to ''number of exposures needed to harm'' for one person if the risk per exposure isn't significantly altered throughout the specific period or by previous exposure, e.g. when the risk per exposure is very small or the "harm" is a very brief disease that doesn't confer immunity.
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Number Needed To Harm}}
+[[Category:Pharmacology]]
+[[Category:Epidemiology]]
+[[Category:Evidence-based medicine]]
+[[Category:Medical statistics]]

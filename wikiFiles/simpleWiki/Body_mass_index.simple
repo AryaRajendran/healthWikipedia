@@ -1,0 +1,93 @@
+[[Image:Body mass index chart.svg|right|300px|thumb|A graph of body mass index is shown above. By lining up weight and height you can find out in which range an adult person falls. Left of normal range means too thin, to the right of normal means too fat. Dashed lines give a rough idea of how much too thin or how much too fat a person is.<br>''Based on [[World Health Organization]] data [http://www.who.int/bmi/index.jsp?introPage=intro_3.html here].'']]
+
+The '''body mass index''' (or '''BMI''') is a [[measure]] which shows whether people have the right weight for their height. The [[World Health Organisation]] (WHO), [[government]]s and health workers use it. It is also called the '''Quetelet Index'''.
+
+== History ==
+The BMI was invented by [[Adolphe Quetelet]] between 1830 and 1850<ref>{{cite journal| last=Eknoyan| first=Garabed| year=2008| month=January| title=Adolphe Quetelet (1796-1874)—the average man and indices of obesity| journal=Nephrol. Dial. Transplant.| volume=23| issue=1| pages=47–51| pmid = 17890752| doi = 10.1093/ndt/gfm517}}</ref>. BMI is still sometimes called the '''Quetelet Index'''.
+
+A scientist called [[Ancel Keys]] first used the name ''body mass index'' in 1972<ref>{{Cite journal
+|title=Indices of relative weight and obesity.
+|last=Keys
+|first=Ancel
+|author-link=Ancel Keys
+|pmid=4650929
+|journal=J Chronic Dis.
+|year=1972
+|month=July
+|series=1
+|volume=25
+|pages=329–43
+|issue=6
+|doi=10.1016/0021-9681(72)90027-6
+|last2=Fidanza
+|first2=F
+|last3=Karvonen
+|first3=MJ
+|last4=Kimura
+|first4=N
+|last5=Taylor
+|first5=HL
+|postscript=<!--None-->
+}}</ref>.  He wrote that governments should measure people's BMI to find out whether their people are too fat or too thin.
+
+== Calculation ==
+To find somebody's BMI:
+* measure their weight (body [[mass]]) in [[kilogram]]s (if in imperial pounds multiple by 0.45359237 to find kilograms)
+* measure their [[height]] in [[metre|meter]]s (if in inches multiple by 0.0254 to find meters)
+* [[Division_(mathematics)|divide]] their weight by the [[exponentiation|square]] of their height
+This is the [[formula]]:
+:<math>\mbox{BMI} = \frac{weight}{height ^2}</math>
+For example, a man whose weight is 78 kg and height is 1.83 m has a BMI of:
+:<math>\mbox{BMI} = \frac{78}{1.83 ^2} = 23.3</math>
+
+== Overweight or not? ==
+Health organisations, including the [[World Health Organisation]] (WHO), use the BMI to help decide whether people are too fat or too thin.  The WHO uses these numbers for adults<ref>{{cite web|url = http://www.who.int/bmi/index.jsp?introPage=intro_3.html|title = BMI Classification|publisher = World Health Organization}}</ref>:
+{| class="wikitable"
+|-
+! Category
+! BMI range
+|-
+| ''Seriously Underweight''
+| less than 16.49 (--16.49)
+|-
+| ''Underweight''
+| between 16.5 and 18.49 (16.5--18.49)
+|-
+| ''Normal''
+| between 18.5 and 24.99 (18.5--24.99)
+|-
+| ''Overweight''
+| between 25 and 29.99 (25--29.99)
+|-
+| ''Obese''
+| 30 or more (30--)
+|}
+
+Some people disagree with these numbers.  Some experts think the ''Overweight'' range for people with [[Asian]] body types should be 23--27.49, not 25--29.99<ref>{{cite web|url = http://www.hpb.gov.sg/hpb/default.asp?TEMPORARY_DOCUMENT=1769&TEMPORARY_TEMPLATE=2|title = Revision of Body Mass Index (BMI) Cut-Offs In Singapore}}</ref>.  Some experts think the lowest ''Normal'' BMI should be 20 for men, and 18 for women.
+
+== Uses ==
+BMI is useful for governments who want to know about the health of their people.  For example, in the [[United States]] in 2007, 74% of adults had a BMI above 25 (''Overweight'' or ''Obese'') and 27% of adults had a BMI above 30 (''Obese'')<ref>{{citation|title = Early Release of Selected Estimates Based on Data From the January-June 2007 National Health Interview Survey (12/2007)|publisher = [[Centers for Disease Control and Prevention|CDC]] [[National Center for Health Statistics|NCHS]]|date = 2007-11-19|accessdate = 2008-03-15|url = http://www.cdc.gov/nchs/data/nhis/earlyrelease/200712_06.pdf|format=PDF}}</ref>.  Many of these people will become ill because they are too fat.  This information helps the United States government decide what to do about the health of its people.
+
+BMI is less useful for finding out whether one person is too fat or too thin.  BMI does not say how much weight is fat, how much is muscle and how much is bone.  For example, many athletes have a high BMI.  They are not fat.  Their BMI is high because they have lots of heavy muscle.  Other people have lots of fat and not much muscle.  They are too fat but their BMI is normal.<ref>{{cite news | first1 = A.|last1= Romero-Corral|first2= V. K.|last2= Somers|first3= J.|last3=Sierra-Johnson|first4= R. J.|last4=Thomas|first5=M. L.|last5= Collazo-Clavell|first6= J.|last6=Korinek|first7=T. G.|last7=Allison|first8= J. A.|last8=Batsis|first9= F. H.|last9= Sert-Kuniyoshi|first10=F.|last10=Lopez-Jimenez | title = Accuracy of body mass index in diagnosing obesity in the adult general population | journal = International Journal of Obesity | volume = 32 | issue = 6 | pages = 959–956 | year = 2008 | month = June | doi = 10.1038/ijo.2008.11 | pmid = 18283284 }}</ref> Another way to measure body weight and size is the [[Body Volume Index]].
+
+Even so, BMI is popular.  It is easy to use and easy to understand, and it gives useful information for people with "normal" bodies.<ref>[http://www.slate.com/id/2223095/ Beyond BMI: Why doctors won't stop using an outdated measure for obesity.], by Jeremy Singer-Vine, [[Slate.com]], July 20, 2009</ref>
+
+== Variations ==
+The [[Ponderai Index]] is similar to the '''body mass index''', but the height is [[exponentiation|cubed]], not squared.  The formula is:
+:<math>\mbox{BMI} = \frac{weight}{height ^3}</math>
+
+Some experts suggest that the [[exponentiation|exponent]] should be between 2.3 and 2.7<ref>{{cite web|url = http://www.math.utah.edu/~korevaar/ACCESS2003/bmi.pdf|title = Calculation of power law relationship between weight and height}}</ref>.  The best formula might be:
+:<math>\mbox{BMI} = \frac{weight}{height ^{2.4}}</math>
+
+== References ==
+{{reflist|2}}
+
+
+==Other websites==
+<!--Please do not add more links to more calculators. If you feel a particular online calculator has specific merits, please propose the link on the talk page.-->
+* U.S. National Center for Health Statistics:
+**[http://www.cdc.gov/growthcharts/ BMI Growth Charts for children and young adults]
+**[http://apps.nccd.cdc.gov/dnpabmi/Calculator.aspx BMI calculator for people ages 2–19]
+**[http://www.cdc.gov/nccdphp/dnpa/bmi/adult_BMI/english_bmi_calculator/bmi_calculator.htm BMI calculator for people ages 20 and older]
+
+[[Category:Fitness]]

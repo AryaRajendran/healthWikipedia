@@ -1,0 +1,1007 @@
+[[Image:Making of a DNA vaccine.jpg|thumb|250px|right|The making of a DNA vaccine.]]
+
+'''DNA vaccination''' is a technique for protecting an [[organism]] against disease by injecting it with [[genetically engineered]] [[naked DNA|DNA]] to produce an [[immunological response]]. Nucleic acid vaccines are still experimental, and have been applied to a number of [[virus|viral]], [[bacterial]] and [[parasitic]] models of disease, as well as to several [[tumour]] models. DNA vaccines have a number of advantages over conventional vaccines, including the ability to induce a wider range of immune response types.
+
+== History ==
+
+Many believe [[vaccine]]s are among the greatest achievements of modern medicine – in industrial nations, they have eliminated naturally occurring cases of [[smallpox]], and nearly eliminated [[polio]], while other diseases, such as [[typhus]], [[rotavirus]], [[hepatitis]] A and B and others are well controlled. Conventional vaccines, however, only cover a small number of diseases, and infections that lack effective vaccines kill millions of people every year, with [[AIDS]], [[hepatitis C]] and [[malaria]] being particularly common.
+
+''First generation'' vaccines are whole-organism vaccines – either live and [[Attenuated virus|weakened]], or killed forms.<ref name=Alarcon1999>{{cite journal
+|author=Alarcon JB, Waine GW, McManus DP |title=DNA vaccines: technology and application as anti-parasite and anti-microbial agents |journal=Adv. Parasitol. |volume=42 |issue= |pages=343–410 |year=1999 |pmid=10050276
+|doi=10.1016/S0065-308X(08)60152-9
+}}</ref> Live, attenuated vaccines, such as smallpox and polio vaccines, are able to induce [[Cytotoxic T cell|killer T-cell]] (T<sub>C</sub> or CTL) responses, [[Helper T cell|helper T-cell]] (T<sub>H</sub>) responses and [[antibody]] immunity. However, there is a small risk that attenuated forms of a pathogen can revert to a dangerous form, and may still be able to cause disease in [[immunocompromised]] vaccine recipients (such as those with [[AIDS]]). While killed vaccines do not have this risk, they cannot generate specific killer T cell responses, and may not work at all for some diseases.<ref name=Alarcon1999 /> In order to minimise these risks, so-called ''second generation vaccines'' were developed. These are subunit vaccines, consisting of defined [[protein]] [[antigen]]s (such as [[tetanus]] or [[diphtheria]] [[toxoid]]) or [[Recombinant DNA|recombinant]] protein components (such as the hepatitis B surface antigen). These, too, are able to generate T<sub>H</sub> and antibody responses, but not killer T cell responses.
+
+DNA vaccines are ''third generation vaccines'', and are made up of a small, circular piece of [[bacterial]] DNA (called a [[plasmid]]) that has been [[genetically engineered]] to produce one or two specific proteins ([[antigens]]) from a pathogen. The vaccine DNA is injected into the cells of the body, where the "inner machinery" of the host cells "reads" the DNA and uses it to synthesize the pathogen's proteins. Because these proteins are recognised as foreign, when they are processed by the host cells and displayed on their surface,  the immune system is alerted, which then triggers a range of immune responses.<ref name=Alarcon1999 /><ref name=Robinson2000>{{cite journal
+|author=Robinson HL, Pertmer TM |title=DNA vaccines for viral infections: basic studies and applications |journal=Adv. Virus Res. |volume=55 |issue= |pages=1–74 |year=2000 |pmid=11050940
+|doi=10.1016/S0065-3527(00)55001-5
+}}</ref> These DNA vaccines developed from “failed” [[gene therapy]] experiments. The first demonstration of a plasmid-induced immune response was when [[mice]] inoculated with a plasmid expressing [[human growth hormone]] elicited antibodies instead of altering growth.<ref name=Tang1992>{{cite journal
+ | author = Tang, D.
+ | coauthors = Devit, M.; Johnston, S.A.; Others,
+ | year = 1992
+ | title = Genetic immunization is a simple method for eliciting an immune response
+ | journal = Nature
+ | volume = 356
+ | issue = 6365
+ | pages = 152–154
+ | doi = 10.1038/356152a0
+ | pmid = 1545867
+}}</ref>
+
+== Current use ==
+
+<!-- This section should be supplemented with the examples given in the rest of the text -->
+
+Thus far, few experimental trials have evoked a response strong enough to protect against disease, and the usefulness of the technique, while tantalizing, remains to be conclusively proven in human trials. However, in June 2006 positive results were announced for a [[Avian influenza|bird flu]] DNA vaccine <tt><ref>{{cite news | first=Kirsty | last=Barnes | coauthors= | title=First positive results for DNA-based flu vaccine | date=2004-06-07 | publisher= | url =http://www.in-pharmatechnologist.com/news/ng.asp?n=68225-powermed-bird-flu-vaccine-dna | work =in-PharmaTechnologist | pages = | accessdate = | language = }}</ref></tt> and a [[veterinary]] DNA vaccine to protect [[horses]] from [[West Nile virus]] has been approved.<ref>{{cite news | first= | last= | coauthors= | title=Fort Dodge Animal Health Announces Approval of West Nile Virus DNA Vaccine for Horses | date=2005-07-18 | publisher= | url =http://www.highbeam.com/doc/1G1-134116417.html | work =PR Newswire | pages = | accessdate = 2007-11-21 | language = }}</ref><ref>{{cite news | first= | last= | coauthors= | title=CDC and Fort Dodge Animal Health Achieve First Licensed DNA Vaccine | date=2005-07-18 | publisher= | url =http://www.cdc.gov/od/oc/media/pressrel/r050718.htm | work =CDC | pages = | accessdate = 2007-11-21 | language = |archiveurl = http://web.archive.org/web/20070820194311/http://www.cdc.gov/od/oc/media/pressrel/r050718.htm <!-- Bot retrieved archive --> |archivedate = 2007-08-20}}</ref> In August 2007, a preliminary study in DNA vaccination against [[multiple sclerosis]] was reported as being effective.<ref name=Stuve2007>{{cite journal
+| author = Stuve, O.
+| coauthors = Eagar, T.N.; Frohman, E.M.; Cravens, P.D.
+| year = 2007
+| title = DNA Plasmid Vaccination for Multiple Sclerosis
+| journal = Archives of Neurology
+| volume = 64
+| issue = 10
+| pages = 1385–6
+| url = http://archneur.ama-assn.org/cgi/content/extract/64/10/1385?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&fulltext=Arch+Neurol.2007%3B++64%3A+1407-1415.+&searchid=1&FIRSTINDEX=0&resourcetype=HWCIT
+| doi = 10.1001/archneur.64.10.1385
+| pmid = 17923622
+}}</ref>
+
+== Advantages and disadvantages ==
+
+{| class="wikitable"
+|+ Table 1. Advantages And Disadvantages Of Nucleic Acid-Based Immunization
+! Advantages !! Disadvantages
+|-
+|
+* Subunit vaccination with no risk for infection<ref name=Robinson2000 />
+* Antigen presentation by both [[major histocompatibility complex|MHC]] [[MHC class I|class I]] and [[MHC class II|class II]] molecules<ref name=Robinson2000 />
+* Able to polarise T-cell help toward type 1 or type 2<ref name=Robinson2000 />
+* Immune response focused only on antigen of interest
+* Ease of development and production<ref name=Robinson2000 />
+* Stability of vaccine for storage and shipping
+* Cost-effectiveness
+* Obviates need for peptide synthesis, expression and purification of recombinant proteins and the use of toxic adjuvants<ref name=Sedegah1994>{{cite journal
+ | author = Sedegah, M.
+ | coauthors = Hedstrom, R.; Hobart, P.; Hoffman, S.L.
+ | year = 1994
+ | title = Protection against Malaria by Immunization with Plasmid DNA Encoding Circumsporozoite Protein
+ | journal = Proceedings of the National Academy of Sciences of the United States of America
+ | volume = 91
+ | issue = 21
+ | pages = 9866–9870
+ | accessdate = 2007-11-21
+ | doi = 10.1073/pnas.91.21.9866
+ | pmid = 7937907
+ | pmc = 44918
+ | jstor=2365723
+}}</ref>
+* Long-term persistence of immunogen<ref name=Alarcon1999 />
+* In vivo expression ensures protein more closely resembles normal eukaryotic structure, with accompanying post-translational modifications<ref name=Alarcon1999 />
+|
+* Limited to protein immunogens (not useful for non-protein based antigens such as bacterial polysaccharides)
+* Risk of affecting genes controlling cell growth
+* Possibility of inducing antibody production against DNA
+* Possibility of tolerance to the antigen (protein) produced
+* Potential for atypical processing of bacterial and parasite proteins<ref name=Robinson2000 />
+|}
+
+== Plasmid vectors for use in vaccination ==
+
+=== Vector design ===
+
+DNA vaccines elicit the best immune response when highly active expression vectors are used. These are plasmids which usually consist of a strong [[viral promoter]] to drive the in vivo [[Transcription (genetics)|transcription]] and [[translation]] of the gene (or [[complementary DNA]]) of interest.<ref name=Mor1995>{{cite journal
+ | author = Mor, G.
+ | date =  August 15, 1995 | title = Complexity of the cytokine and antibody response elicited by immunizing mice with Plasmodium yoelii circumsporozoite protein plasmid DNA
+ | journal = The Journal of Immunology
+ | volume = 155
+ | issue = 4
+ | pages = 2039–2046
+ | url = http://www.jimmunol.org/cgi/content/abstract/155/4/2039
+ | accessdate = 2007-11-21
+ | pmid = 7636255
+ | last2 = Klinman
+ | first2 = DM
+ | last3 = Shapiro
+ | first3 = S
+ | last4 = Hagiwara
+ | first4 = E
+ | last5 = Sedegah
+ | first5 = M
+ | last6 = Norman
+ | first6 = JA
+ | last7 = Hoffman
+ | first7 = SL
+ | last8 = Steinberg
+ | first8 = AD
+ }}</ref> Intron A may sometimes be included to improve [[mRNA]] stability and hence increase protein expression.<ref name=Leitner1997>{{cite journal
+ | author = Leitner, W.W.
+ | date =  December 15, 1997 | title = Immune responses induced by intramuscular or gene gun injection of protective deoxyribonucleic acid vaccines that express the circumsporozoite protein from Plasmodium berghei malaria parasites
+ | journal = The Journal of Immunology
+ | volume = 159
+ | issue = 12
+ | pages = 6112–6119
+ | url = http://www.jimmunol.org/cgi/content/abstract/159/12/6112
+ | accessdate = 2007-11-21
+ | pmid = 9550412
+ | last2 = Seguin
+ | first2 = MC
+ | last3 = Ballou
+ | first3 = WR
+ | last4 = Seitz
+ | first4 = JP
+ | last5 = Schultz
+ | first5 = AM
+ | last6 = Sheehy
+ | first6 = MJ
+ | last7 = Lyon
+ | first7 = JA
+ }}</ref> Plasmids also include a strong [[polyadenylation]]/transcriptional termination signal, such as bovine [[growth hormone]] or rabbit [[beta-globulin]] polyadenylation sequences.<ref name=Alarcon1999 /><ref name=Robinson2000 /><ref name="Böhm1996">{{cite journal
+ | author = Böhm, W.
+ | coauthors = Kuhröber, A.; Paier, T.; Mertens, T.; Reimann, J.; Schirmbeck, R.
+ | year = 1996
+ | title = DNA vector constructs that prime hepatitis B surface antigen-specific cytotoxic T lymphocyte and antibody responses in mice after intramuscular injection
+ | journal = Journal of Immunological Methods
+ | volume = 193
+ | issue = 1
+ | pages = 29–40
+ | url = http://linkinghub.elsevier.com/retrieve/pii/002217599600035X
+ | accessdate = 2007-11-21
+ | doi = 10.1016/0022-1759(96)00035-X
+ | pmid = 8690928
+}}</ref> Multicistronic vectors are sometimes constructed to express more than one immunogen, or to express an immunogen and an immunostimulatory protein.<ref name=Lewis1999>{{cite journal
+ | author = Lewis, P.J.
+ | coauthors = Babiuk, L.A.
+ | year = 1999
+ | title = DNA Vaccines: A Review
+ | journal = Advances in Virus Research
+ | url = http://books.google.com/?id=lrMc3G9nIpkC&pg=PA129&dq=lewis
+ | accessdate = 2007-11-21
+ | doi = 10.1016/S0065-3527(08)60367-X
+ | volume = 54
+ | pages = 129–88
+ | pmid = 10547676
+ | publisher = Academic Press
+ | isbn = 978-0-12-039854-6
+}}</ref>
+
+Because the plasmid is the “vehicle” from which the immunogen is expressed, optimising vector design for maximal protein expression is essential.<ref name=Lewis1999 /> One way of enhancing protein expression is by optimising the [[codon]] usage of pathogenic mRNAs for [[eukaryotic]] cells. Pathogens often have different [[AT contents]] than the species being immunized, so altering the [[gene sequence]] of the immunogen to reflect the [[genetic code|codon]]s more commonly used in the target species may improve its expression.<ref name=Andre1998>{{cite journal
+ | author = Andre, S.
+ | coauthors = Seed, B.; Eberle, J.; Schraut, W.; Bultmann, A.; Haas, J.
+ | date =  February 1, 1998 | title = Increased Immune Response Elicited by DNA Vaccination with a Synthetic gp120 Sequence with Optimized Codon Usage
+ | journal = Journal of Virology
+ | volume = 72
+ | issue = 2
+ | pages = 1497–503
+ | url = http://jvi.asm.org/cgi/content/abstract/72/2/1497
+ | accessdate = 2007-11-21
+ | pmid = 9445053
+ | pmc = 124631
+ }}</ref>
+
+Another consideration is the choice of [[promoter (biology)|promoter]]. The [[SV40]] promoter was conventionally used until research showed that vectors driven by the [[Rous Sarcoma Virus]] (RSV) promoter had much higher expression rates.<ref name=Alarcon1999 /> More recently, expression rates have been further increased by the use of the [[cytomegalovirus]] (CMV) immediate early promoter. Inclusion of the Mason-Pfizer monkey virus (MPV)-CTE with/without rev  increased envelope expression. Furthermore the CTE+rev construct was significantly more immunogenic than CTE-alone vector.
+<ref name=Muthumani1998>{{cite journal
+ | author = Muthumani, K.
+ | coauthors = Zhang, D.; Dayes, NS.; Hwang, DS.; Calarota, SA.; Choo, AY.;Boyer,JD.;Weiner,DB.
+ | year = 2003
+ | title = Novel engineered HIV-1 East African Clade-A gp160 plasmid construct induces strong humoral and cell-mediated immune responses in vivo
+ | journal = Virology
+ | volume = 314
+ | issue = 1
+ | pages = 134–46
+ | url = http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WXR-49KGT6R-6&_user=489256&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000022721&_version=1&_urlVersion=0&_userid=489256&md5=5ac81624c72867e12d2a89d0aa3cfc6b
+ | accessdate = 2008-03-27
+ | doi = 10.1016/S0042-6822(03)00459-8
+ | pmid = 14517067
+}}</ref> Additional modifications to improve expression rates have included the insertion of enhancer sequences, synthetic [[introns]], [[adenovirus]] tripartite leader (TPL) sequences and modifications to the polyadenylation and transcriptional termination sequences.<ref name=Alarcon1999 /> An example of DNA vaccine plasmid is pVAC, it uses SV40 [[promoter (biology)|promoter]].
+
+=== Vaccine insert design ===
+
+Immunogens can be targeted to various cellular compartments in order to improve antibody or cytotoxic T-cell responses. Secreted or [[plasma membrane]]-bound antigens are more effective at inducing antibody responses than [[cytosolic]] antigens, while [[cytotoxic T-cell]] responses can be improved by targeting antigens for cytoplasmic degradation and subsequent entry into the [[major histocompatibility complex]] (MHC) class I pathway.<ref name=Robinson2000 /> This is usually accomplished by the addition of [[N-terminal]] [[ubiquitin]] signals.<ref name=Rodriguez1997>{{cite journal
+ | author = Rodriguez, F.
+ | coauthors = Zhang, J.; Whitton, J.L.
+ | year = 1997
+ | title = DNA immunization: ubiquitination of a viral protein enhances cytotoxic T-lymphocyte induction and antiviral protection but abrogates antibody induction.
+ | journal = Journal of Virology
+ | volume = 71
+ | issue = 11
+ | pages = 8497–503
+ | pmc=192313
+ | accessdate = 2007-11-21
+ | pmid = 9343207
+}}</ref><ref name=Tobery1997>{{cite journal
+ | author = Tobery, T.W.
+ | coauthors = Siliciano, R.F.
+ | year = 1997
+ | title = Targeting of HIV-1 Antigens for Rapid Intracellular Degradation Enhances Cytotoxic T Lymphocyte (CTL) Recognition and the Induction of De Novo CTL Responses In Vivo After Immunization
+ | journal = Journal of Experimental Medicine
+ | volume = 185
+ | issue = 5
+ | pages = 909–920
+ | doi = 10.1084/jem.185.5.909
+ | pmid = 9120397
+ | pmc = 2196169
+}}</ref>
+
+The [[protein conformation|conformation]] of the protein can also have an effect on antibody responses, with “ordered” structures (like viral particles) being more effective than unordered structures.<ref name=Wunderlich2000>{{cite journal
+ | author = Wunderlich, G.
+ | coauthors = Moura, I.C.; Del Portillo, H.A.
+ | year = 2000
+ | title = Genetic Immunization of BALB/c mice with a Plasmid Bearing the Gene Coding for a Hybrid Merozoite Surface Protein 1-Hepatitis B Virus Surface Protein Fusion Protects Mice against Lethal Plasmodium chabaudi chabaudi PC1 Infection
+ | journal = Infection and Immunity
+ | volume = 68
+ | issue = 10
+ | pages = 5839–45
+ | doi = 10.1128/IAI.68.10.5839-5845.2000
+ | pmid = 10992493
+ | pmc = 101545
+}}</ref> Strings of minigenes (or MHC class I [[epitopes]]) from different pathogens are able to raise cytotoxic T-cell responses to a number of pathogens, especially if a TH epitope is also included.<ref name=Robinson2000 />
+
+== Delivery methods ==
+
+[[Image:Gene therapy.jpg|thumb|right|DNA vaccine and Gene therapy techniques are similar.]]
+DNA vaccines have been introduced into animal tissues by a number of different methods. These delivery methods are briefly reviewed in Table 2, with the advantages and disadvantages of the most commonly used methods summarised in Table 3.
+
+The two most popular approaches are injection of DNA in [[Saline (medicine)|saline]], using a standard hypodermic needle, and [[gene gun]] delivery. A schematic outline of the construction of a DNA vaccine plasmid and its subsequent delivery by these two methods into a host is illustrated at [http://www.sciam.com/media/inline/000052A5-43F6-1CBC-B4A8809EC588EEDF_arch2.gif Scientific American].<ref name=Weiner1999>{{cite journal
+ | author = Weiner, D.B.
+ | coauthors = Kennedy, R.C.
+ | year = 1999
+ | title = Genetic vaccines
+ | journal = Scientific American
+ | volume = 281
+ | issue = 1
+ | pages = 34–41
+ | url = http://www.sciamdigital.com/gsp_qpdf.cfm?ISSUEID_CHAR=8FF32714-CA1C-4025-BE8D-0FE4B5C348B&ARTICLEID_CHAR=14F98F90-1708-4B77-A8D4-44F867A153F
+ | accessdate = 2007-11-21
+}}</ref> Injection in saline is normally conducted intramuscularly (IM) in [[skeletal muscle]], or [[dermis|intradermally]] (ID), with DNA being delivered to the extracellular spaces. This can be assisted by [[electroporation]];<ref name=Widera2000>{{cite journal
+ | author = Widera, G.
+ | coauthors = Austin, M.; Rabussay, D.; Goldbeck, C.; Barnett, S.W.; Chen, M.; Leung, L.; Otten, G.R.; Thudium, K.; Selby, M.J.; Others,
+ | date =  May 1, 2000 | title = Increased DNA Vaccine Delivery and Immunogenicity by Electroporation In Vivo
+ | journal = The Journal of Immunology
+ | volume = 164
+ | issue = 9
+ | pages = 4635–4640
+ | url = http://www.jimmunol.org/cgi/content/abstract/164/9/4635
+ | accessdate = 2007-11-21
+ | pmid = 10779767
+ }}</ref> by temporarily damaging muscle fibres with myotoxins such as [[bupivacaine]]; or by using hypertonic solutions of saline or [[sucrose]].<ref name=Alarcon1999 /> Immune responses to this method of delivery can be affected by many factors, including needle type,<ref name=Sedegah1994 /> needle alignment, speed of injection, volume of injection, muscle type, and age, sex and physiological condition of the animal being injected.<ref name=Alarcon1999 />
+
+Gene gun delivery, the other commonly used method of delivery, ballistically accelerates plasmid DNA (pDNA) that has been adsorbed onto [[gold]] or [[tungsten]] microparticles into the target cells, using compressed [[helium]] as an accelerant.<ref name=Alarcon1999 /><ref name=Lewis1999 />
+
+Alternative delivery methods have included [[aerosol]] instillation of naked DNA on [[mucosal]] surfaces, such as the [[human nose|nasal]] and [[human lung|lung]] [[mucosa]],<ref name=Lewis1999 /> and topical administration of pDNA to the eye<ref name=Daheshia1997>{{cite journal
+ | author = Daheshia, M.
+ | date =  August 15, 1997 | title = Suppression of ongoing ocular inflammatory disease by topical administration of plasmid DNA encoding IL-10
+ | journal = The Journal of Immunology
+ | volume = 159
+ | issue = 4
+ | pages = 1945–1952
+ | url = http://www.jimmunol.org/cgi/content/abstract/159/4/1945
+ | accessdate = 2007-11-21
+ | pmid = 9257860
+ | last2 = Kuklin
+ | first2 = N
+ | last3 = Kanangat
+ | first3 = S
+ | last4 = Manickan
+ | first4 = E
+ | last5 = Rouse
+ | first5 = BT
+ }}</ref> and vaginal mucosa.<ref name=Lewis1999 /> Mucosal surface delivery has also been achieved using cationic [[liposome]]-DNA preparations,<ref name=Robinson2000 /> [[biodegradable]] microspheres,<ref name=Chen1998>{{cite journal
+ | author = Chen, Y.
+ | coauthors = Webster, R.G.; Woodland, D.L.
+ | date =  March 1, 1998 | title = Induction of CD<sup>8+</sup> T Cell Responses to Dominant and Subdominant Epitopes and Protective Immunity to Sendai Virus Infection by DNA Vaccination 1
+ | journal = The Journal of Immunology
+ | volume = 160
+ | issue = 5
+ | pages = 2425–2432
+ | url = http://www.jimmunol.org/cgi/content/abstract/160/5/2425
+ | accessdate = 2007-11-21
+ | pmid = 9498786
+ }}</ref><ref name=Lewis1999 /> attenuated ''[[Shigella]]'' or ''[[Listeria]]'' vectors for oral administration to the intestinal mucosa,<ref name=Sizemore1995>{{cite journal
+|author=Sizemore DR, Branstrom AA, Sadoff JC |title=Attenuated Shigella as a DNA delivery vehicle for DNA-mediated immunization |journal=Science |volume=270 |issue=5234 |pages=299–302 |year=1995 |month=October |pmid=7569980 |doi=10.1126/science.270.5234.299 |url=http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=7569980
+}}</ref> and recombinant adenovirus vectors.<ref name=Lewis1999 />
+
+The method of delivery determines the dose of DNA required to raise an effective immune response. Saline injections require variable amounts of DNA, from 10&nbsp;μg-1&nbsp;mg, whereas gene gun deliveries require 100 to 1000 times less DNA than intramuscular saline injection to raise an effective immune response.<ref name=Fynan1993>{{cite journal
+ | author = Fynan, E.F.
+ | coauthors = Webster, R.G.; Fuller, D.H.; Haynes, J.R.; Santoro, J.C.; Robinson, H.L.
+ | year = 1993
+ | title = DNA vaccines: protective immunizations by parenteral, mucosal, and gene-gun inoculations
+ | journal = Proc Natl Acad Sci USA
+ | volume = 90
+ | issue = 24
+ | pages = 11478–82
+ | pmc=48007
+ | accessdate = 2007-11-21
+ | doi = 10.1073/pnas.90.24.11478
+ | pmid = 8265577
+}}</ref> Generally, 0.2&nbsp;μg – 20&nbsp;μg are required, although quantities as low as 16&nbsp;ng have been reported.<ref name=Alarcon1999 /> These quantities vary from species to species, with mice, for example, requiring approximately 10 times less DNA than [[primates]].<ref name=Robinson2000 /> Saline injections require more DNA because the DNA is delivered to the extracellular spaces of the target tissue (normally muscle), where it has to overcome physical barriers (such as the [[basal lamina]] and large amounts of [[connective tissue]], to mention a few) before it is taken up by the cells, while gene gun deliveries bombard DNA directly into the cells, resulting in less “wastage”.<ref name=Alarcon1999 /><ref name=Robinson2000 />
+
+Another approach to DNA vaccination is [[expression library]] immunization (ELI). Using this technique, potentially all the genes from a pathogen can be delivered at one time, which may be useful for pathogens which are difficult to attenuate or culture.<ref name=Alarcon1999 /> ELI can be used to identify which of the pathogen’s genes induce a protective response. This has been tested with ''[[Mycoplasma]] pulmonis'', a [[murine]] lung pathogen with a relatively small [[genome]], and it was found that even partial expression libraries can induce protection from subsequent challenge.<ref name=Barry1995>{{cite journal
+ | author = Barry, M.A.
+ | coauthors = Lai, W.C.; Johnston, S.A.; Others,
+ | year = 1995
+ | title = Protection against mycoplasma infection using expression-library immunization
+ | journal = Nature
+ | volume = 377
+ | issue = 6550
+ | pages = 632–635
+ | doi = 10.1038/377632a0
+ | pmid = 7566175
+}}</ref>
+
+{| class="wikitable"
+|+ Table 2. Summary of Plasmid DNA delivery methods
+! colspan=2| Method of Delivery !! Formulation of DNA !! Target Tissue !! Amount of DNA
+|-
+! rowspan=3 |Parenteral
+| Injection (hypodermic needle)
+| Aqueous solution in saline
+| IM (skeletal); ID; (IV, subcutaneous and intraperitoneal with variable success)
+| Large amounts (approximately 100-200&nbsp;μg)
+|-
+| Gene Gun
+| DNA-coated gold beads
+| ED (abdominal skin); vaginal mucosa; surgically exposed muscle and other organs
+| Small amounts (as little as 16&nbsp;ng)
+|-
+| Pneumatic (Jet) Injection
+| Aqueous solution
+| ED
+| Very high (as much as 300&nbsp;μg)
+|-
+| colspan=2| Topical application
+| Aqueous solution
+| Ocular; intravaginal
+| Small amounts (up to 100&nbsp;μg)
+|-
+| colspan=2| Cytofectin-mediated
+| [[Liposomes]] (cationic); microspheres; recombinant adenovirus vectors; attenuated [[Shigella]] vector; aerosolised cationic [[lipid]] formulations
+| IM; IV (to transfect tissues systemically); intraperitoneal; oral immunization to the intestinal mucosa; nasal/lung mucosal membranes
+| variable
+|}
+
+{| class="wikitable"
+|+ Table 3. Advantages and disadvantages of commonly used DNA vaccine delivery methods
+! width="20%"| Method of Delivery
+! width="40%"| Advantage
+! width="40%"| Disadvantage
+|-
+| Intramuscular or Intradermal injection
+|
+* No special delivery mechanism
+* Permanent or semi-permanent expression
+* pDNA spreads rapidly throughout the body
+|
+* Inefficient site for uptake due to morphology of muscle tissue
+* Relatively large amounts of DNA used
+* Th1 response may not be the response required
+|-
+| Gene Gun
+|
+* DNA bombarded directly into cells
+* Small amounts DNA
+|
+* Th2 response may not be the response required
+* Requires inert particles as carrier
+|-
+| Jet injection
+|
+* No particles required
+* DNA can be delivered to cells mm to cm below skin surface
+|
+* Significant shearing of DNA after high-pressure expulsion
+* 10-fold lower expression, and lower immune response
+* Requires large amounts of DNA (up to 300&nbsp;μg)
+|-
+| Liposome-mediated delivery
+|
+* High levels of immune response can be generated
+* Can increase transfection of intravenously delivered pDNA
+* Intravenously delivered liposome-DNA complexes can potentially transfect all tissues
+* Intranasally delivered liposome-DNA complexes can result in expression in distal mucosa as well as nasal muscosa and the generation of IgA antibodies
+|
+* Toxicity
+* Ineffectiveness in serum
+* Risk of disease or immune reactions
+|}
+
+== Immune response raised by DNA vaccines ==
+
+=== Helper T-Cell responses ===
+
+[[Image:Antigen presentation.svg|thumb|right|Antigen presentation stimulates T cells to become either "cytotoxic" CD8+ cells or "helper" CD4+ cells. Cytotoxic cells directly attack other cells carrying certain foreign or abnormal molecules on their surfaces. Helper T cells, or Th cells, coordinate immune responses by communicating with other cells. In most cases, T cells only recognize an antigen if it is carried on the surface of a cell by one of the body’s own MHC, or major histocompatibility complex, molecules.]]
+DNA immunization is able to raise a range of T<sub>H</sub> responses, including lymphoproliferation and the generation of a variety of [[cytokine]] profiles. A major advantage of DNA vaccines is the ease with which they can be manipulated to bias the type of T-cell help towards a TH1 or TH2 response.<ref name=Feltquate1997>{{cite journal
+ | author = Feltquate, D.M.
+ | date =  March 1, 1997 | title = Different T helper cell types and antibody isotypes generated by saline and gene gun DNA immunization
+ | journal = The Journal of Immunology
+ | volume = 158
+ | issue = 5
+ | pages = 2278–2284
+ | url = http://www.jimmunol.org/cgi/content/abstract/158/5/2278
+ | accessdate = 2007-11-21
+ | pmid = 9036975
+ | last2 = Heaney
+ | first2 = S
+ | last3 = Webster
+ | first3 = RG
+ | last4 = Robinson
+ | first4 = HL
+ }}</ref> Each type of response has distinctive patterns of [[lymphokine]] and chemokine expression, specific types of [[immunoglobulins]] expressed, patterns of lymphocyte trafficking, and types of [[innate immune response]]s generated.
+
+==== Raising of different types of T-cell help ====
+
+The type of T-cell help raised is influenced by the method of delivery and the type of immunogen expressed, as well as the targeting of different lymphoid compartments.<ref name=Alarcon1999 /><ref name=References1996>{{cite journal
+ | author = References, S.
+ | coauthors = Boyle, C.; Morin, M.; Webster, R.; Robinson, H.
+ | year = 1996
+ | title = Role of different lymphoid tissues in the initiation and maintenance of DNA-raised antibody responses to the influenza virus H1 glycoprotein.
+ | journal = J Virol
+ | volume = 70
+ | issue = 12
+ | pages = 9074–8
+ | pmc=191015
+ | accessdate = 2007-11-21
+ | pmid = 8971047
+}}</ref> Generally, saline needle injections (either IM or ID) tend to induce TH1 responses, while gene gun delivery raises TH2 responses.<ref name=Feltquate1997 /><ref name=References1996 /> This is true for intracellular and plasma membrane-bound antigens, but not for secreted antigens, which seem to generate TH2 responses, regardless of the method of delivery.<ref name="Sällberg1997">{{cite journal
+ | author = Sällberg, M.
+ | coauthors = Townsend, K.; Chen, M.; Others,
+ | year = 1997
+ | title = Characterization of humoral and CD4+ cellular responses after genetic immunization with retroviral vectors expressing different forms of the hepatitis B virus core and e antigens.
+ | journal = Journal of Virology
+ | volume = 71
+ | issue = 7
+ | pages = 5295–303
+ | pmc=191766
+ | accessdate = 2007-11-21
+ | pmid = 9188598
+}}</ref>
+
+Generally the type of T-cell help raised is stable over time, and does not change when challenged or after subsequent immunizations which would normally have raised the opposite type of response in a naïve animal.<ref name=Feltquate1997 /><ref name=References1996 /> However, Mor ''et al.''. (1995)<ref name=Mor1995 /> immunized and boosted mice with pDNA encoding the circumsporozoite protein of the mouse [[malaria]]l parasite ''[[Plasmodium yoelii]]'' (PyCSP) and found that the initial TH2 response changed, after boosting, to a TH1 response.
+
+==== Mechanistic basis for different types of T-Cell help ====
+
+It is not understood how these different methods of DNA immunization, or the forms of antigen expressed, raise different profiles of T-cell help. It was thought that the relatively large amounts of DNA used in IM injection were responsible for the induction of TH1 responses. However, evidence has shown no differences in TH type due to dose.<ref name=Feltquate1997 /> It has been postulated that the type of T-cell help raised is determined by the differentiated state of [[antigen presenting cells]]. [[Dendritic cells]] can differentiate to secrete [[interleukin|IL]]-12 (which supports TH1 cell development) or IL-4 (which supports TH2 responses).<ref name=Banchereau1998>{{cite journal
+ | author = Banchereau, J.
+ | coauthors = Steinman, R.M.
+ | year = 1998
+ | title = Dendritic cells and the control of immunity
+ | journal = Nature
+ | volume = 392
+ | pages = 245–252
+ | doi = 10.1038/32588
+ | pmid = 9521319
+ | issue = 6673
+}}</ref> pDNA injected by needle is [[endocytosis|endocytosed]] into the dendritic cell, which is then stimulated to differentiate for TH1 [[cytokine]] production,<ref name=Jakob1998>{{cite journal
+ | author = Jakob, T.
+ | coauthors = Walker, P.S.; Krieg, A.M.; Udey, M.C.; Vogel, J.C.
+ | date =  September 15, 1998 | title = Activation of Cutaneous Dendritic Cells by CpG-Containing Oligodeoxynucleotides: A Role for Dendritic Cells in the Augmentation of Th1 Responses by Immunostimulatory DNA 1
+ | journal = The Journal of Immunology
+ | volume = 161
+ | issue = 6
+ | pages = 3042–3049
+ | url = http://www.jimmunol.org/cgi/content/abstract/161/6/3042
+ | accessdate = 2007-11-21
+ | pmid = 9743369
+ }}</ref> while the gene gun bombards the DNA directly into the cell, thus bypassing TH1 stimulation.
+
+==== Practical uses of polarised T-Cell help ====
+
+This polarisation in T-cell help is useful in influencing [[allergic]] responses and [[autoimmune diseases]]. In autoimmune diseases, the goal would be to shift the self-destructive TH1 response (with its associated cytotoxic T cell activity) to a non-destructive TH2 response. This has been successfully applied in predisease priming for the desired type of response in preclinical models<ref name=Robinson2000 /> and somewhat successful in shifting the response for an already established disease.<ref name=Raz1996>{{cite journal
+ | author = Raz, E.
+ | coauthors = Tighe, H.; Sato, Y.; Corr, M.; Dudler, J.A.; Roman, M.; Swain, S.L.; Spiegelberg, H.L.; Carson, D.A.
+ | year = 1996
+ | title = Preferential induction of a Th1 immune response and inhibition of specific IgE antibody formation by plasmid DNA immunization
+ | journal = Proc Natl Acad Sci US A
+ | volume = 93
+ | issue = 10
+ | pages = 5141–5
+ | pmc=39421
+ | doi = 10.1073/pnas.93.10.5141
+ | pmid = 8643542
+}}</ref>
+
+=== Cytotoxic T-cell responses ===
+
+One of the greatest advantages of DNA vaccines is that they are able to induce cytotoxic T lymphocytes (CTL) without the inherent risk associated with live vaccines. CTL responses can be raised against immunodominant and immunorecessive CTL epitopes,<ref name=Fu1997>{{cite journal
+|author=Fu TM, Friedman A, Ulmer JB, Liu MA, Donnelly JJ |title=Protective cellular immunity: cytotoxic T-lymphocyte responses against dominant and recessive epitopes of influenza virus nucleoprotein induced by DNA immunization |journal=J. Virol. |volume=71 |issue=4 |pages=2715–21 |pmid=9060624 |pmc=191393 |url=http://jvi.asm.org/cgi/pmidlookup?view=long&pmid=9060624
+|date= April 1, 1997 }}</ref> as well as subdominant CTL epitopes,<ref name=Chen1998 /> in a manner which appears to mimic natural [[infection]]. This may prove to be a useful tool in assessing CTL epitopes of an antigen, and their role in providing immunity.
+
+Cytotoxic T-cells recognise small [[peptides]] (8-10 [[amino acids]]) complexed to [[MHC class I]] molecules (Restifo et al., 1995). These peptides are derived from endogenous cytosolic proteins which are degraded and delivered to the nascent MHC class I molecule within the [[endoplasmic reticulum]] (ER).<ref name=Restifo1995>{{cite journal
+ | author = Restifo, N.P.
+ | date =  May 1, 1995 | title = Antigen processing in vivo and the elicitation of primary CTL responses
+ | journal = The Journal of Immunology
+ | volume = 154
+ | issue = 9
+ | pages = 4414–22
+ | url = http://www.jimmunol.org/cgi/content/abstract/154/9/4414
+ | accessdate = 2007-11-21
+ | pmid = 7722298
+ | last2 = Bacík
+ | first2 = I
+ | last3 = Irvine
+ | first3 = KR
+ | last4 = Yewdell
+ | first4 = JW
+ | last5 = McCabe
+ | first5 = BJ
+ | last6 = Anderson
+ | first6 = RW
+ | last7 = Eisenlohr
+ | first7 = LC
+ | last8 = Rosenberg
+ | first8 = SA
+ | last9 = Bennink
+ | first9 = JR
+ | pmc = 1952186
+ }}</ref> Targeting gene products directly to the ER (by the addition of an [[amino-terminal]] insertion [[protein sequence|sequence]]) should thus enhance CTL responses. This has been successfully demonstrated using recombinant [[vaccinia]] viruses expressing [[influenza]] proteins,<ref name=Restifo1995 /> but the principle should be applicable to DNA vaccines too. Targeting antigens for intracellular degradation (and thus entry into the MHC class I pathway) by the addition of [[ubiquitin]] signal sequences, or mutation of other signal sequences, has also been shown to be effective at increasing CTL responses.<ref name=Tobery1997 />
+
+CTL responses can also be enhanced by co-inoculation with co-stimulatory molecules such as B7-1 or B7-2 for DNA vaccines against influenza nucleoprotein,<ref name=Fu1997/><ref name=Iwasaki1997>{{cite journal
+ | author = Iwasaki, A.
+ | date =  May 15, 1997 | title = Enhanced CTL responses mediated by plasmid DNA immunogens encoding costimulatory molecules and cytokines
+ | journal = The Journal of Immunology
+ | volume = 158
+ | issue = 10
+ | pages = 4591–4601
+ | url = http://www.jimmunol.org/cgi/content/abstract/158/10/4591
+ | accessdate = 2007-11-21
+ | pmid = 9144471
+ | last2 = Stiernholm
+ | first2 = BJ
+ | last3 = Chan
+ | first3 = AK
+ | last4 = Berinstein
+ | first4 = NL
+ | last5 = Barber
+ | first5 = BH
+ }}</ref> or [[GM-CSF]] for DNA vaccines against the murine malaria model ''P. yoelii''.<ref name=Weiss1998>{{cite journal
+ | author = Weiss, W.R.
+ | coauthors = Ishii, K.J.; Hedstrom, R.C.; Sedegah, M.; Ichino, M.; Barnhart, K.; Klinman, D.M.; Hoffman, S.L.
+ | date =  September 1, 1998 | title = A Plasmid Encoding Murine Granulocyte-Macrophage Colony-Stimulating Factor Increases Protection Conferred by a Malaria DNA Vaccine 1
+ | journal = The Journal of Immunology
+ | volume = 161
+ | issue = 5
+ | pages = 2325–2332
+ | url = http://www.jimmunol.org/cgi/content/abstract/161/5/2325
+ | accessdate = 2007-11-21
+ | pmid = 9725227
+ }}</ref> Co-inoculation with plasmids encoding co-stimulatory molecules IL-12 and TCA3 have also been shown to increase CTL activity against HIV-1 and influenza nucleoprotein antigens.<ref name=Iwasaki1997 /><ref name=Tsuji1997>{{cite journal
+ | author = Tsuji, T.
+ | date =  April 15, 1997 | title = Enhancement of cell-mediated immunity against HIV-1 induced by coinnoculation of plasmid-encoded HIV-1 antigen with plasmid expressing IL-12
+ | journal = The Journal of Immunology
+ | volume = 158
+ | issue = 8
+ | pages = 4008–4013
+ | url = http://www.jimmunol.org/cgi/content/abstract/158/8/4008
+ | accessdate = 2007-11-21
+ | pmid = 9103472
+ | last2 = Hamajima
+ | first2 = K
+ | last3 = Fukushima
+ | first3 = J
+ | last4 = Xin
+ | first4 = KQ
+ | last5 = Ishii
+ | first5 = N
+ | last6 = Aoki
+ | first6 = I
+ | last7 = Ishigatsubo
+ | first7 = Y
+ | last8 = Tani
+ | first8 = K
+ | last9 = Kawamoto
+ | first9 = S
+ }}</ref>
+
+=== Humoral (antibody) response ===
+
+[[Image:Antibody.svg|thumb|right|Schematic diagram of an antibody and antigens]]
+Antibody responses elicited by DNA vaccinations are influenced by a number of variables, including type of antigen encoded; location of expressed antigen (i.e. intracellular vs. secreted); number, frequency and dose of immunizations; site and method of antigen delivery, to name a few.
+
+==== Kinetics of antibody response ====
+
+Humoral responses after a single DNA injection can be much longer-lived than after a single injection with a recombinant protein. Antibody responses against [[hepatitis B]] virus (HBV) envelope protein (HBsAg) have been sustained for up to 74 weeks without boost, while lifelong maintenance of protective response to influenza [[haemagglutinin]] has been demonstrated in mice after gene gun delivery.<ref name=Justewicz1996>{{cite journal
+| author = Justewicz, D.M.
+| coauthors = Webster, R.G.
+| year = 1996
+| title = Long-Term Maintenance of B Cell Immunity to Influenza Virus Hemagglutinin in Mice Following DNA-Based Immunization
+| journal = Virology
+| volume = 224
+| issue = 1
+| pages = 10–17
+| url = http://linkinghub.elsevier.com/retrieve/pii/S0042682296905012
+| accessdate = 2007-11-21
+ | doi = 10.1006/viro.1996.0501
+| pmid = 8862394
+}}</ref> Antibody-secreting cells migrate to the [[bone marrow]] and [[spleen]] for long-term antibody production, and are generally localised there after one year.<ref name=Justewicz1996 />
+
+Comparisons of antibody responses generated by natural (viral) infection, immunization with recombinant protein and immunization with pDNA are summarised in Table 4. DNA-raised antibody responses rise much more slowly than when natural infection or recombinant protein immunization occurs. It can take as long as 12 weeks to reach peak titres in mice, although boosting can increase the rate of antibody production. This slow response is probably due to the low levels of antigen expressed over several weeks, which supports both primary and secondary phases of antibody response.
+
+{| class="wikitable"
+|+ Table 4. Comparison of T-Dependent Antibody Responses raise by DNA Immunizations, Protein Inoculations and Viral Infections
+! rowspan=2| &nbsp;
+
+! colspan=3| Method of Immunization
+|-
+! DNA Vaccine
+! Recombinant protein
+! Natural Infection
+|-
+! Amount of inducing antigen
+| ng
+| μg
+| ? (ng-μg)
+|-
+! Duration of Ag presentation
+| several weeks
+| < 1 week
+| several weeks
+|-
+! Kinetics of Ab response
+| slow rise
+| rapid rise
+| rapid rise
+|-
+! Number of inoculations to obtain high avidity IgG and migration of ASC to bone marrow
+| one
+| two
+| one
+|-
+! Ab isotype (murine models)
+| C’-dependent or C’-independent
+| C’-dependent
+| C’-independent
+|}
+
+Additionally, the titres of specific antibodies raised by DNA vaccination are lower than those obtained after vaccination with a recombinant protein. However, DNA immunization-induced antibodies show greater affinity to native epitopes than recombinant protein-induced antibodies. In other words, DNA immunization induces a qualitatively superior response. Antibody can be induced after just one vaccination with DNA, whereas recombinant protein vaccinations generally require a boost. As mentioned previously, DNA immunization can be used to bias the TH profile of  the immune  response, and  thus  the  antibody  isotype,  which  is  not  possible  with  either  natural infection or recombinant protein immunization. Antibody responses generated by DNA are useful not just in vaccination but as a preparative tool, too. For example, polyclonal and monoclonal antibodies can be generated for use as reagents.
+
+== Mechanistic basis for DNA raised immune responses ==
+
+=== DNA Uptake Mechanism ===
+
+When DNA uptake and subsequent expression was first demonstrated ''in vivo'' in [[muscle]] cells,<ref name=Wolff1992>{{cite journal
+|author=Wolff JA, Dowty ME, Jiao S, ''et al.'' |title=Expression of naked plasmids by cultured myotubes and entry of plasmids into T tubules and caveolae of mammalian skeletal muscle |journal=J. Cell. Sci. |volume=( Pt 4) |issue= 4
+|series=103|pages=1249–59 |pmid=1487500 |url=http://jcs.biologists.org/cgi/pmidlookup?view=long&pmid=1487500
+|date= December 1, 1992 }}</ref> it was thought that these cells were unique in this ability because of their extensive network of T-tubules. Using [[electron microscopy]], it was proposed that DNA uptake was facilitated by [[caveolae]] (or, [[non-clathrin coated pits]]).<ref name=Anderson1992>{{cite journal
+|author=Anderson RG, Kamen BA, Rothberg KG, Lacey SW |title=Potocytosis: sequestration and transport of small molecules by caveolae |journal=Science |volume=255 |issue=5043 |pages=410–1 |year=1992 |month=January |pmid=1310359 |doi=10.1126/science.1310359 |url=http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=1310359
+}}</ref> However, subsequent research revealed that other cells (such as [[keratinocytes]], [[fibroblasts]] and [[epithelial]] [[Langerhans cells]]) could also internalize DNA.<ref name=Raz1996/><ref name=Casares1997>{{cite journal
+|author=Casares S, Inaba K, Brumeanu TD, Steinman RM, Bona CA |title=Antigen presentation by dendritic cells after immunization with DNA encoding a major histocompatibility complex class II-restricted viral epitope |journal=J. Exp. Med. |volume=186 |issue=9 |pages=1481–6 |year=1997 |month=November |pmid=9348305 |pmc=2199124 |doi=10.1084/jem.186.9.1481 |url=http://www.jem.org/cgi/pmidlookup?view=long&pmid=9348305
+}}</ref> This phenomenon has not been the subject of much research, so the actual mechanism of DNA uptake is not known.
+
+Two theories are currently popular – that ''in vivo'' uptake of DNA occurs non-specifically, in a method similar to [[phagocytosis|phago]]- or [[pinocytosis]],<ref name=Lewis1999 /> or through specific receptors.<ref name=Bennett1985>{{cite journal
+| author = Bennett, R.M.
+| coauthors = Gabor, G.T.; Merritt, M.M.
+| year = 1985
+| title = DNA binding to human leukocytes. Evidence for a receptor-mediated association, internalization, and degradation of DNA
+| journal = J Clin Invest
+| volume = 76
+| issue = 6
+| pages = 2182–90
+| pmc=424340
+| accessdate = 2007-11-21
+| doi = 10.1172/JCI112226
+| pmid = 3001145
+}}</ref> These might include a 30kDa surface [[immune receptor|receptor]], or [[macrophage]] scavenger receptors. The 30kDa surface receptor binds very specifically to 4500-bp genomic DNA fragments (which are then internalised) and is found on professional APCs and T-cells. Macrophage scavenger receptors bind to a variety of macromolecules, including poly[[ribonucleotides]], and are thus also candidates for DNA uptake.<ref name=Bennett1985 /><ref name=Bennet1988>{{cite journal
+| author = Bennet, R.M.
+| date =  May 1, 1988 | title = The production and characterization of murine monoclonal antibodies to a DNA receptor on human leukocytes
+| journal = The Journal of Immunology
+| volume = 140
+| issue = 9
+| pages = 2937–42
+| url = http://www.jimmunol.org/cgi/content/abstract/140/9/2937
+| accessdate = 2007-11-21
+| pmid = 2452195
+| last2 = Hefeneider
+| first2 = SH
+| last3 = Bakke
+| first3 = A
+| last4 = Merritt
+| first4 = M
+| last5 = Smith
+| first5 = CA
+| last6 = Mourich
+| first6 = D
+| last7 = Heinrich
+| first7 = MC
+}}</ref> Receptor mediated DNA uptake could be facilitated by the presence of [[guanine|polyguanylate sequences]]. Further research into this mechanism might seem pointless, considering that gene gun delivery systems, cationic liposome packaging, and other delivery methods bypass this entry method, but understanding it might be useful in reducing costs (e.g. by reducing the requirement for cytofectins), which will be important in the food animals industry.
+
+=== Antigen presentation by bone marrow-derived cells ===
+
+[[Image:Dendritic cell.JPG|thumb|right|A dendritic cell.]]
+
+Studies using [[Chimera (genetics)|chimeric]] mice have shown that antigen is presented by bone-marrow derived cells, which include dendritic cells, macrophages and specialised [[B-cells]] called professional [[antigen presenting cells]] (APC)<ref name=Iwasaki1997 /><ref name=Corr1996>{{cite journal
+| author = Corr, M.
+| year = 1996
+| title = Gene vaccination with naked plasmid DNA: mechanism of CTL priming
+| journal = Journal of Experimental Medicine
+| volume = 184
+| issue = 4
+| pages = 1555–1560
+| doi = 10.1084/jem.184.4.1555
+| pmid = 8879229
+| last2 = Lee
+| first2 = DJ
+| last3 = Carson
+| first3 = DA
+| last4 = Tighe
+| first4 = H
+| pmc = 2192808
+}}</ref> Iwasaki et al., 1997). After gene gun inoculation to the skin, transfected Langerhans cells migrate to the draining [[lymph node]] to present antigen.<ref name=Robinson2000 /> After IM and ID injections, dendritic cells have also been found to present antigen in the draining lymph node<ref name=Casares1997 /> and transfected macrophages have been found in the peripheral blood.<ref name=Chattergoon1998>{{cite journal
+| author = Chattergoon, M.A.
+| coauthors = Robinson, T.M.; Boyer, J.D.; Weiner, D.B.
+| date =  June 15, 1998 | title = Specific Immune Induction Following DNA-Based Immunization Through In Vivo Transfection and Activation of Macrophages/Antigen-Presenting Cells 1
+| journal = The Journal of Immunology
+| volume = 160
+| issue = 12
+| pages = 5707–5718
+| url = http://www.jimmunol.org/cgi/content/abstract/160/12/5707
+| accessdate = 2007-11-21
+| pmid = 9637479
+}}</ref>
+
+Besides direct transfection of dendritic cells or macrophages, cross priming is also known to occur following IM, ID and gene gun deliveries of DNA. Cross priming occurs when a bone marrow-derived cell presents peptides from proteins synthesised in another cell in the context of MHC class 1. This can prime cytotoxic T-cell responses and seems to be important for a full primary immune response.<ref name=Robinson2000 /><ref name=Torres1997>{{cite journal
+|author=Torres CA, Iwasaki A, Barber BH, Robinson HL |title=Differential dependence on target site tissue for gene gun and intramuscular DNA immunizations |journal=J. Immunol. |volume=158 |issue=10 |pages=4529–32 |year=1997 |month=May |pmid=9144463 |url=http://www.jimmunol.org/cgi/pmidlookup?view=long&pmid=9144463
+}}</ref>
+
+=== Role of the target site ===
+
+IM and ID delivery of DNA initiate immune responses differently. In the skin, keratinocytes, fibroblasts and Langerhans cells take up and express antigen, and are responsible for inducing a primary antibody response. Transfected Langerhans cells migrate out of the skin (within 12 hours) to the draining lymph node where they prime secondary B- and T-cell responses. In skeletal muscle, on the other hand, striated muscle cells are most frequently transfected, but seem to be unimportant in mounting an immune response. Instead, IM inoculated DNA “washes” into the draining lymph node within minutes, where distal dendritic cells are transfected and then initiate an immune response. Transfected myocytes seem to act as a “reservoir” of antigen for trafficking professional APCs.<ref name=Lewis1999 /><ref name=Wolff1992 /><ref name=Torres1997 />
+
+=== Maintenance of immune response ===
+DNA vaccination generates an effective immune memory via the display of antigen-antibody complexes on follicular dendritic cells (FDC), which are potent B-cell stimulators. T-cells can be stimulated by similar, germinal centre dendritic cells. FDC are able to generate an immune memory because antibodies production “overlaps” long-term expression of antigen, allowing antigen-antibody immunocomplexes to form and be displayed by FDC.<ref name=Robinson2000 />
+
+=== Interferons ===
+
+Both helper and cytotoxic T-cells can control viral infections by secreting interferons. Cytotoxic T cells usually kill virally infected cells. However, they can also be stimulated to secrete antiviral cytokines such as INF-γ and TNF-α, which don’t kill the cell but place severe limitations on viral infection by down-regulating the expression of viral components.<ref name=Franco1997>{{cite journal
+ | author = Franco, A.
+ | date =  August 15, 1997 | title = Pathogenetic effector function of CD4-positive T helper 1 cells in hepatitis B virus transgenic mice
+ | journal = The Journal of Immunology
+ | volume = 159
+ | issue = 4
+ | pages = 2001–2008
+ | url = http://www.jimmunol.org/cgi/content/abstract/159/4/2001
+ | accessdate = 2007-11-21
+ | pmid = 9257867
+ | last2 = Guidotti
+ | first2 = LG
+ | last3 = Hobbs
+ | first3 = MV
+ | last4 = Pasquetto
+ | first4 = V
+ | last5 = Chisari
+ | first5 = FV
+ }}</ref> DNA vaccinations can thus be used to curb viral infections by non-destructive IFN-mediated control. This has been demonstrated for the hepatitis B virus.<ref name=Mancini1996>{{cite journal
+ | author = Mancini, M.
+ | coauthors = Hadchouel, M.; Davis, H.L.; Whalen, R.G.; Tiollais, P.; Michel, M.L.
+ | year = 1996
+ | title = DNA-mediated immunization in a transgenic mouse model of the hepatitis B surface antigen chronic carrier state.
+ | journal = Proc Natl Acad Sci USA
+ | volume = 93
+ | issue = 22
+ | pages = 12496–501
+ | pmc=38020
+ | accessdate = 2007-11-21
+ | doi = 10.1073/pnas.93.22.12496
+ | pmid = 8901610
+}}</ref> IFN-γ is also critically important in controlling malaria infections,<ref name=Doolan1999>{{cite journal
+ | author = Doolan, D.L.
+ | coauthors = Hoffman, S.L.
+ | date =  July 15, 1999 | title = IL-12 and NK Cells Are Required for Antigen-Specific Adaptive Immunity Against Malaria Initiated by CD8+ T Cells in the ''Plasmodium yoelii'' Model 1
+ | journal = The Journal of Immunology
+ | volume = 163
+ | issue = 2
+ | pages = 884–92
+ | url = http://www.jimmunol.org/cgi/content/abstract/163/2/884
+ | accessdate = 2007-11-21
+ | pmid = 10395683
+ }}</ref> and should be taken into consideration when developing anti-malarial DNA vaccines.
+
+== Modulation of the immune response ==
+
+=== Cytokine modulation ===
+
+For a vaccine to be effective, it must induce an appropriate immune response for a given pathogen, and the ability of DNA vaccines to polarise T-cell help towards TH1 or TH2 profiles, and generate CTL and/or antibody when required, is a great advantage in this regard. This can be accomplished by modifications to the form of antigen expressed (i.e. intracellular vs. secreted), the method and route of delivery, and the dose of DNA delivered.<ref name=Feltquate1997 /><ref name=References1996 /><ref name=Cardoso1996>{{cite journal
+|author=Cardoso AI, Blixenkrone-Moller M, Fayolle J, Liu M, Buckland R, Wild TF |title=Immunization with plasmid DNA encoding for the measles virus hemagglutinin and nucleoprotein leads to humoral and cell-mediated immunity |journal=Virology |volume=225 |issue=2 |pages=293–9 |year=1996 |month=November |pmid=8918915 |doi=10.1006/viro.1996.0603
+|url=http://linkinghub.elsevier.com/retrieve/pii/S0042682296906030
+}}</ref><ref name=Sato1996>{{cite journal
+ | author = Sato, Y.
+ | coauthors = Roman, M.; Tighe, H.; Lee, D.; Corr, M.; Nguyen, M.D.; Silverman, G.J.; Lotz, M.; Carson, D.A.; Raz, E.
+ | year = 1996
+ | title = Immunostimulatory DNA Sequences Necessary for Effective Intradermal Gene Immunization
+ | journal = Science
+ | volume = 273
+ | issue = 5273
+ | pages = 352–4
+ | doi = 10.1126/science.273.5273.352
+ | pmid = 8662521
+}}</ref><ref name=Weiss2000>{{cite journal
+ | author = Weiss, R.
+ | coauthors = Leitner, W.W.; Scheiblhofer, S.; Chen, D.; Bernhaupt, A.; Mostbock, S.; Thalhamer, J.; Lyon, J.A.
+ | year = 2000
+ | title = Genetic Vaccination against Malaria Infection by Intradermal and Epidermal Injections of a Plasmid Containing the Gene Encoding the Plasmodium berghei Circumsporozoite Protein
+ | journal = Infection and Immunity
+ | volume = 68
+ | issue = 10
+ | pages = 5914–9
+ | doi = 10.1128/IAI.68.10.5914-5919.2000
+ | pmid = 10992502
+ | pmc = 101554
+}}</ref> However, it can also be accomplished by the co-administration of plasmid DNA encoding immune regulatory molecules, i.e. cytokines, lymphokines or co-stimulatory molecules. These “genetic [[adjuvants]]” can be administered a number of ways:
+* as a mixture of 2 separate plasmids, one encoding the immunogen and the other encoding the cytokine;
+* as a single bi- or polycistronic vector, separated by spacer regions; or
+* as a plasmid-encoded [[Fusion protein|chimera]], or fusion protein.
+In general, co-administration of pro-inflammatory agents (such as various [[interleukins]], [[tumor necrosis factor]], and GM-CSF) plus TH2 inducing cytokines increase antibody responses, whereas pro-inflammatory agents and TH1 inducing cytokines decrease humoral responses and increase cytotoxic responses (which is more important in viral protection, for example). Co-stimulatory molecules like B7-1, B7-2 and CD40L are also sometimes used.
+
+This concept has been successfully applied in topical administration of pDNA encoding IL-10.<ref name=Daheshia1997 /> Plasmid encoding B7-1 (a ligand on APCs) has successfully enhanced the immune response in anti-tumour models, and mixing plasmids encoding GM-CSF and the circumsporozoite protein of P. yoelii (PyCSP) has enhanced protection against subsequent challenge (whereas plasmid-encoded PyCSP alone did not). It was proposed that GM-CSF may cause dendritic cells to present antigen more efficiently, and enhance IL-2 production and TH cell activation, thus driving the increased immune response.<ref name=Weiss1998 /> This can be further enhanced by first priming with a pPyCSP and pGM-CSF mixture, and later boosting with a recombinant poxvirus expressing PyCSP.<ref name=Sedegah2000>{{cite journal
+ | author = Sedegah, M.
+ | coauthors = Weiss, W.; Sacci, J.B.; Charoenvit, Y.; Hedstrom, R.; Gowda, K.; Majam, V.F.; Tine, J.; Kumar, S.; Hobart, P.; Others,
+ | date =  June 1, 2000 | title = Improving Protective Immunity Induced by DNA-Based Immunization: Priming with Antigen and GM-CSF-Encoding Plasmid DNA and Boosting with Antigen-Expressing Recombinant Poxvirus 1 2
+ | journal = The Journal of Immunology
+ | volume = 164
+ | issue = 11
+ | pages = 5905–5912
+ | url = http://www.jimmunol.org/cgi/content/abstract/164/11/5905
+ | accessdate = 2007-11-21
+ | pmid = 10820272
+ }}</ref> However, co-injection of plasmids encoding GM-CSF (or IFN-γ, or IL-2) and a fusion protein of ''P. chabaudi'' merozoite surface protein 1 (C-terminus)-hepatitis B virus surface protein (PcMSP1-HBs) actually abolished protection against challenge, compared to protection acquired by delivery of pPcMSP1-HBs alone.<ref name=Wunderlich2000 />
+
+The advantages of using genetic adjuvants are their low cost and simplicity of administration, as well as avoidance of unstable recombinant cytokines and potentially toxic, “conventional” adjuvants (such as alum,  calcium phosphate, monophosphoryl lipid A, [[cholera]] toxin, cationic and mannan-coated liposomes, QS21, carboxymethylcellulose and ubenimix).<ref name=Robinson2000 /><ref name=Lewis1999 /> However, the potential toxicity of prolonged cytokine expression has not been established, and in many commercially important animal species, cytokine genes still need to be identified and isolated. In addition, various plasmid encoded cytokines modulate the immune system differently according to the time of delivery. For example, some cytokine plasmid DNAs are best delivered after the immunogen pDNA, because pre- or co-delivery can actually decrease specific responses, and increase non-specific responses.<ref name=Barouch1998>{{cite journal
+ | author = Barouch, D.H.
+ | coauthors = Santra, S.; Steenbeke, T.D.; Zheng, X.X.; Perry, H.C.; Davies, M.E.; Freed, D.C.; Craiu, A.; Strom, T.B.; Shiver, J.W.; Others,
+ | date =  August 15, 1998 | title = Augmentation and Suppression of Immune Responses to an HIV-1 DNA Vaccine by Plasmid Cytokine/Ig Administration 1
+ | journal = The Journal of Immunology
+ | volume = 161
+ | issue = 4
+ | pages = 1875–1882
+ | url = http://www.jimmunol.org/cgi/content/abstract/161/4/1875
+ | accessdate = 2007-11-21
+ | pmid = 9712056
+ }}</ref>
+
+=== Immunostimulatory CpG motifs ===
+
+Plasmid DNA itself appears to have an adjuvant effect on the immune system.<ref name=Alarcon1999 /><ref name=Robinson2000 /> Bacterially derived DNA has been found to trigger innate immune defence mechanisms, the activation of dendritic cells, and the production of TH1 cytokines.<ref name=Jakob1998 /><ref name=Krieg1995>{{cite journal
+ | author = Krieg, A.M.
+ | coauthors = Yi, A.K.; Matson, S.; Waldschmidt, T.J.; Bishop, G.A.; Teasdale, R.; Koretzky, G.A.; Klinman, D.M.
+ | year = 1995
+ | title = CpG motifs in bacterial DNA trigger direct B-cell activation
+ | journal = Nature
+ | volume = 374
+ | issue = 6522
+ | pages = 546–549
+ | doi = 10.1038/374546a0
+ | pmid = 7700380
+}}</ref> This is due to recognition of certain CpG dinucleotide sequences which are immunostimulatory.<ref name=Sato1996 /><ref name=Klinman1997>{{cite journal
+ | author = Klinman, D.M.
+ | date =  April 15, 1997 | title = Contribution of CpG motifs to the immunogenicity of DNA vaccines
+ | journal = The Journal of Immunology
+ | volume = 158
+ | issue = 8
+ | pages = 3635–3639
+ | url = http://www.jimmunol.org/cgi/content/abstract/158/8/3635
+ | accessdate = 2007-11-21
+ | pmid = 9103425
+ | last2 = Yamshchikov
+ | first2 = G
+ | last3 = Ishigatsubo
+ | first3 = Y
+ }}</ref> CpG stimulatory (CpG-S) sequences occur twenty times more frequently in bacterially derived DNA than in eukaryotes. This is because eukaryotes exhibit “CpG suppression” – i.e. CpG dinucleotide pairs occur much less frequently than expected. Additionally, CpG-S sequences are hypomethylated. This occurs frequently in bacterial DNA, while CpG motifs occurring in eukaryotes are all methylated at the cytosine nucleotide. In contrast, nucleotide sequences which inhibit the activation of an immune response (termed CpG neutralising, or CpG-N) are over represented in eukaryotic genomes.<ref name=Krieg1998>{{cite journal
+ | author = Krieg, A.M.
+ | coauthors = Wu, T.; Weeratna, R.; Efler, S.M.; Love-homan, L.; Yang, L.; Yi, A.K.; Short, D.; Davis, H.L.
+ | year = 1998
+ | title = Sequence motifs in adenoviral DNA block immune activation by stimulatory CpG motifs
+ | journal = Proceedings of the National Academy of Sciences of the United States of America
+ | volume = 95
+ | issue = 21
+ | pages = 12631–6
+ | pmc=22882
+ | accessdate = 2007-11-21
+ | doi = 10.1073/pnas.95.21.12631
+ | pmid = 9770537
+}}</ref> The optimal immunostimulatory sequence has been found to be an unmethylated CpG dinucleotide flanked by two 5’ purines and two 3’ pyrimidines.<ref name=Sato1996 /><ref name=Krieg1995 /> Additionally, flanking regions outside this immunostimulatory hexamer must be guanine-rich to ensure binding and uptake into target cells.
+
+The innate system works synergistically with the adaptive immune system to mount a response against the DNA encoded protein. CpG-S sequences induce polyclonal B-cell activation and the upregulation of cytokine expression and secretion.<ref name=Klinsman1996>{{cite journal
+ | author = Klinman, D.M.
+ | coauthors = Yi, A.K.; Beaucage, S.L.; Conover, J.; Krieg, A.M.
+ | year = 1996
+ | title = CpG motifs present in bacterial DNA rapidly induce lymphocytes to secrete interleukin 6, interleukin 12 and interferon-y
+ | journal = Proc Natl Acad Sci USA
+ | volume = 93
+ | pages = 2879–83
+ | doi = 10.1073/pnas.93.7.2879
+ | pmid = 8610135
+ | issue = 7
+ | pmc = 39727
+}}</ref> Stimulated macrophages secrete IL-12, IL-18, TNF-α, IFN-α, IFN-β and IFN-γ, while stimulated B-cells secrete IL-6 and some IL-12.<ref name=Lewis1999 /><ref name=Klinsman1996 /><ref name=Yi1996>{{cite journal
+ | author = Yi, A.K.
+ | date =  January 15, 1996 | title = IFN-gamma promotes IL-6 and IgM secretion in response to CpG motifs in bacterial DNA and oligodeoxynucleotides
+ | journal = The Journal of Immunology
+ | volume = 156
+ | issue = 2
+ | pages = 558–64
+ | url = http://www.jimmunol.org/cgi/content/abstract/156/2/558
+ | accessdate = 2007-11-21
+ | pmid = 8543806
+ | last2 = Chace
+ | first2 = JH
+ | last3 = Cowdery
+ | first3 = JS
+ | last4 = Krieg
+ | first4 = AM
+ }}</ref>
+
+Manipulation of CpG-S and CpG-N sequences in the plasmid backbone of DNA vaccines can ensure the success of the immune response to the encoded antigen, and drive the immune response toward a TH1 phenotype. This is useful if a pathogen requires a TH response for protection. CpG-S sequences have also been used as external adjuvants for both DNA and recombinant protein vaccination with variable success rates. Other organisms with hypomethylated CpG motifs have also demonstrated the stimulation of polyclonal B-cell expansion. However, the mechanism behind this may be more complicated than simple methylation – hypomethylated murine DNA has not been found to mount an immune response.
+
+Most of the evidence for the existence of immunostimulatory CpG sequences comes from murine studies. Clearly, extrapolation of this data to other species should be done with caution – different species may require different flanking sequences, as binding specificities of scavenger receptors differ between species. Additionally, species such as ruminants may be insensitive to immunostimulatory sequences due to the large gastrointestinal load they exhibit. Further research may be useful in the optimisation of DNA vaccination, especially in the food animal industry.
+
+=== Alternative boosts ===
+
+DNA-primed immune responses can be boosted by the administration of recombinant protein or recombinant poxviruses. “Prime-boost” strategies with recombinant protein have successfully increased both neutralising antibody titre, and antibody avidity and persistence, for weak immunogens, such as HIV-1 envelope protein.<ref name=Robinson2000 /><ref name=Letvin1997>{{cite journal
+ | author = Letvin, N.L.
+ | coauthors = Montefiori, D.C.; Yasutomi, Y.; Perry, H.C.; Davies, M.E.; Lekutis, C.; Alroy, M.; Freed, D.C.; Lord, C.I.; Handt, L.K.; Others,
+ | year = 1997
+ | title = Potent, protective anti-HIV immune responses generated by bimodal HIV envelope DNA plus protein vaccination
+ | journal = Proceedings of the National Academy of Sciences
+ | volume = 94
+ | issue = 17
+ | pages = 9378–83
+ | doi = 10.1073/pnas.94.17.9378
+ | pmid = 9256490
+ | pmc = 23198
+}}</ref> Recombinant virus boosts have been shown to be very efficient at boosting DNA-primed CTL responses. Priming with DNA focuses the immune response on the required immunogen, while boosting with the recombinant virus provides a larger amount of expressed antigen, leading to a large increase in specific CTL responses.
+
+Prime-boost strategies have been successful in inducing protection against malarial challenge in a number of studies. Primed mice with plasmid DNA encoding ''Plasmodium yoelii'' circumsporozoite surface protein (PyCSP), then boosted with a recombinant vaccinia virus expressing the same protein had significantly higher levels of antibody, CTL activity and IFN-γ, and hence higher levels of protection, than mice immunized and boosted with plasmid DNA alone.<ref name=Sedegah1998>{{cite journal
+ | author = Sedegah, M.
+ | coauthors = Jones, T.R.; Kaur, M.; Hedstrom, R.; Hobart, P.; Tine, J.A.; Hoffman, S.L.
+ | year = 1998
+ | title = Boosting with recombinant vaccinia increases immunogenicity and protective efficacy of malaria DNA vaccine
+ | journal = Proc Natl Acad Sci USA
+ | volume = 95
+ | issue = 13
+ | pages = 7648–53
+ | pmc=22711
+ | accessdate = 2007-11-21
+ | doi = 10.1073/pnas.95.13.7648
+ | pmid = 9636204
+}}</ref> This can be further enhanced by priming with a mixture of plasmids encoding PyCSP and murine GM-CSF, before boosting with recombinant vaccinia virus.<ref name=Sedegah2000 /> An effective prime-boost strategy for the [[simian]] malarial model ''P. knowlesi'' has also been demonstrated.<ref name=Rogers2001>{{cite journal
+ | author = Rogers, W.O.
+ | coauthors = Baird, J.K.; Kumar, A.; Tine, J.A.; Weiss, W.; Aguiar, J.C.; Gowda, K.; Gwadz, R.; Kumar, S.; Gold, M.; Others,
+ | year = 2001
+ | title = Multistage Multiantigen Heterologous Prime Boost Vaccine for Plasmodium knowlesi Malaria Provides Partial Protection in Rhesus Macaques
+ | journal = Infection and Immunity
+ | volume = 69
+ | issue = 9
+ | pages = 5565–72
+ | doi = 10.1128/IAI.69.9.5565-5572.2001
+ | pmid = 11500430
+ | pmc = 98670
+}}</ref> [[Rhesus monkeys]] were primed with a multicomponent, multistage DNA vaccine encoding two liver-stage antigens - the circumsporozoite surface protein (PkCSP) and sporozoite surface protein 2 (PkSSP2) - and two blood stage antigens - the apical merozoite surface protein 1 (PkAMA1) and merozoite surface protein 1 (PkMSP1p42). They were then boosted with a recombinant canarypox virus encoding all four antigens (ALVAC-4). Immunized monkeys developed antibodies against sporozoites and infected erythrocytes, and IFN-γ-secreting T-cell responses against peptides from PkCSP. Partial protection against sporozoite challenge was achieved, and mean parasitemia was significantly reduced, compared to control monkeys. These models, while not ideal for extrapolation to ''P. falciparum'' in humans, will be important in pre-clinical trials.
+
+=== Additional methods of enhancing DNA-Raised immune responses ===
+
+==== Formulations of DNA ====
+
+The efficiency of DNA immunization can be improved by stabilising DNA against degradation, and increasing the efficiency of delivery of DNA into antigen presenting cells.<ref name=Robinson2000 /> This has been demonstrated by coating biodegradable cationic microparticles (such as poly(lactide-co-glycolide) formulated with cetyltrimethylammonium bromide) with DNA. Such DNA-coated microparticles can be as effective at raising CTL as recombinant vaccinia viruses, especially when mixed with alum. Particles 300&nbsp;nm in diameter appear to be most efficient for uptake by antigen presenting cells.<ref name=Robinson2000 />
+
+==== Alphavirus vectors ====
+
+Recombinant alphavirus-based vectors have also been used to improve DNA vaccination efficiency.<ref name=Robinson2000 /> The gene encoding the antigen of interest is inserted into the alphavirus replicon, replacing structural genes but leaving non-structural replicase genes intact. The Sindbis virus and Semliki Forest virus have been used to build recombinant alphavirus replicons. Unlike conventional DNA vaccinations, however, alphavirus vectors kill transfected cells, and are only transiently expressed. Also, alphavirus replicase genes are expressed in addition to the vaccine insert. It is not clear how alphavirus replicons raise an immune response, but it is thought that this may be due to the high levels of protein expressed by this vector, replicon-induced cytokine responses, or replicon-induced apoptosis leading to enhanced antigen uptake by dendritic cells.
+
+== See also ==
+
+* [[Vector DNA]]
+* [[HIV vaccine]]
+
+== References ==
+
+<!-- this 'empty' section displays references defined elsewhere -->
+
+{{reflist|2}}
+
+== External links ==
+
+* [http://www.powdermed.com/pdf/PowderMed.Vaccine_Study%20FINAL%20260506.pdf PowderMed pdf report]
+* [http://202.54.26.221/ DyNAVacS, an Integrative Tool for Optimised DNA Vaccine Design] from the [[Institute of Genomics and Integrative Biology]].
+* {{cite journal |author=Hooper JW, Thompson E, Wilhelmsen C, ''et al.'' |title=Smallpox DNA vaccine protects nonhuman primates against lethal monkeypox |journal=J. Virol. |volume=78 |issue=9 |pages=4433–43 |year=2004 |month=May |pmid=15078924 |pmc=387704 |url=http://jvi.asm.org/cgi/pmidlookup?view=long&pmid=15078924 |doi=10.1128/JVI.78.9.4433-4443.2004}}
+
+{{Vaccines}}
+
+[[Category:DNA]]
+[[Category:Vaccination]]

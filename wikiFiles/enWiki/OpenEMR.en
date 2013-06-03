@@ -1,0 +1,176 @@
+{{Infobox Software
+| name = OpenEMR
+| logo = [[Image:OpenEMRlogo.gif|OpenEMR logo]]
+| screenshot = [[File:OpenEMR-Patient Summary 4 1.jpg|400px]]
+| collapsible = yes
+| caption = Patient Summary Screen
+| author = 
+| developer = 
+| released = 
+| latest release version = 4.1.1
+| latest release date = August 31, 2012
+| latest preview version = 
+| latest preview date = 
+| operating system = Any [[Unix-like]], [[Mac OS]], [[Microsoft Windows|Windows]]
+| platform = [[Cross-platform]]
+| language = 
+| status = 
+| genre = [[Free and open source software|Free and Open Source]], [[Practice management]], [[Electronic Medical Records]]
+| license = [[GNU General Public License]]
+| website = [http://www.open-emr.org/ OpenEMR]
+}}
+
+'''OpenEMR'''<ref>{{cite web |url=http://www.open-emr.org/ |title=OpenEMR Project Website |accessdate=2011-10-01}}</ref> is a [[Free and open source software|Free and Open Source]], [[Practice management]] and [[Electronic Medical Records]] software application. It is '''ONC Complete Ambulatory EHR certified'''<ref name=mod_cert>{{cite web |url=http://oncchpl.force.com/ehrcert/EHRProductDetail?id=a0A3000000LW494EAD&retURL=%2Fehrcert%2FEHRProductSearch&setting=Ambulatory |title=ONC Complete Ambulatory EHR Certified |accessdate=2011-09-23}}</ref><ref name=mod_cert_article>{{cite web |url=http://openhealthnews.com/hotnews/openemr-41-achieves-full-meaningful-use-certification |title=OpenEMR 4.1 Achieves Full 'Meaningful Use' Certification |author=Maduro, Roger |date=2011-08-22 |accessdate=2011-10-01}}</ref><ref name=mod_cert_article_second>{{cite web |url=http://linuxmednews.com/1313842854/index_html |title=OpenEMR achieves full ONC certification |author=Cahn, Jack |date=2011-08-20 |accessdate=2011-10-01}}</ref> and it features fully integrated [[electronic medical records]], [[practice management]], scheduling, electronic billing, internationalization, and free support.  It can run on [[Microsoft]] systems, [[Unix-like]] systems ([[Linux]], [[UNIX]], and [[BSD]] systems), [[Mac OS X]] and other platforms.
+
+OpenEMR is one of the most popular free electronic medical records in use today with over 3,700 downloads per month.<ref>{{cite web |url=http://sourceforge.net/project/stats/detail.php?group_id=60081&ugn=openemr&type=prdownload&mode=12months&file_id=0 |title=OpenEMR Sourceforge Download Statistics |accessdate=2010-02-23}}</ref> The community maintains the official OpenEMR web site at open-emr.org.<ref name="mod_cert_article_second"/><ref name=sourceforge>{{cite web |url=http://sourceforge.net/projects/openemr/ |title=OpenEMR on Sourceforge|accessdate=2011-08-19}}</ref>
+
+== History ==
+
+OpenEMR was originally developed by Synitech and version 1.0 was released in June 2001 as MP Pro (MedicalPractice Professional).<ref name=the_openemr_community>{{cite web |url=http://www.openmedsoftware.org/wiki/The_OpenEMR_Community |title=The OpenEMR Community|accessdate=2012-02-25|author=Donahue,Margaret|date=2006-02-16}}</ref> Much of the code was then reworked for [[HIPAA]] compliance and improved security, and the product was reintroduced as OpenEMR version 1.3 a year later, in July 2002.<ref name=openemr_release>{{cite web |url=http://linuxmednews.com/linuxmednews/1025910430/index_html |title=OpenEMR Released |accessdate=2009-11-26 |author=Stack, Matthew |date=2002-07-05}}</ref>  It became an open source project and was registered on SourceForge.net on August 13, 2002.<ref name=sourceforge>{{cite web |url=http://sourceforge.net/projects/openemr/ |title=OpenEMR on Sourceforge|accessdate=2012-01-27}}</ref> The project evolved through version 2.0 and the Pennington Firm (Pennfirm) took over as its primary maintainer in 2003.<ref name=the_openemr_community /> Walt Pennington transferred the OpenEMR software repository to [[SourceForge]] in March 2005, where it remains today.<ref name=first_sf_commit>{{cite web |url=http://openemr.git.sourceforge.net/git/gitweb.cgi?p=openemr/openemr;a=commit;h=7080e87bbabb66d0456d75c3121f71bd6912572d |title=OpenEMR First Sourceforge Commit|accessdate=2012-01-28}}</ref>  Mr. Pennington also established Rod Roark, Andres Paglayan and James Perry, Jr. as administrators of the project.<ref name=the_openemr_community />  Walt Pennington, Andres Paglayan and James Perry eventually took other directions and were replaced by Brady Miller in August 2009.<ref name=sourceforge_openemr>{{cite web |url=http://sourceforge.net/projects/openemr/ |title=Sourceforge OpenEMR Project |accessdate=2011-10-01}}</ref>  So at this time Rod Roark and Brady Miller are the project's co-administrators.<ref name=sourceforge_openemr />
+
+== Features<ref name=features>{{cite web |url=http://www.open-emr.org/wiki/index.php/OpenEMR_Features |title=OpenEMR Features|accessdate=2012-01-27}}</ref> ==
+*Free
+*ONC Complete Ambulatory EHR Certified
+*Patient Demographics
+*Patient Scheduling
+*Electronic Medical Records
+*Prescriptions
+*Medical Billing
+*Clinical Decision Rules
+*Patient Portal
+*Reports
+*Multilanguage Support
+*Security
+*Free Support
+
+== Development ==
+The official OpenEMR code repository was migrated from cvs to git on 10/20/2010.<ref name=git_migrate>{{cite web |url=http://www.open-emr.org/wiki/index.php/Git_Migration |title=OpenEMR Migration to git|accessdate=2012-01-27}}</ref> Currently, the project's official code repository is on Sourceforge.<ref name=sourceforge /> There are also official mirrored code repositories on Github,<ref name=github>{{cite web |url=http://github.com/openemr/openemr |title=OpenEMR on Github|accessdate=2012-12-20}}</ref> Google Code,<ref name=googlecode>{{cite web |url=http://code.google.com/p/openemr |title=OpenEMR on Google Code|accessdate=2012-01-27}}</ref> Gitorious,<ref name=gitorious>{{cite web |url=http://gitorious.org/~openemr |title=OpenEMR on Gitorious|accessdate=2012-01-27}}</ref> Bitbucket,<ref name=bitbucket>{{cite web |url=http://bitbucket.org/openemr/openemr |title=OpenEMR on Bitbucket|accessdate=2012-01-27}}</ref> Assembla,<ref name=assembla>{{cite web |url=http://www.assembla.com/spaces/openemr |title=OpenEMR on Assembla|accessdate=2012-01-27}}</ref> CodePlex<ref name=codeplex>{{cite web |url=http://openemr.codeplex.com/ |title=OpenEMR on CodePlex|accessdate=2012-03-25}}</ref> and Repo.or.cz.<ref name=repo.or.cz>{{cite web |url=http://repo.or.cz/w/openemr.git |title=OpenEMR on repo.or.cz|accessdate=2012-01-27}}</ref>
+
+OpenEMR has a vibrant open-source development community with over 70 developers having contributed to the project.<ref>{{cite web |url=http://www.open-emr.org/wiki/index.php/Repository_work_flow_structure#Developers |title=OpenEMR Developers|accessdate=2012-12-20}}</ref><ref name=ohlohfactoid>{{cite web |url=http://www.ohloh.net/p/openemr/factoids |title=OpenEMR Factoids on Ohloh|accessdate=2012-06-16}}</ref>  There are 157 developers with personal OpenEMR code repositories on Github.<ref name=github /> Ohloh considers OpenEMR to have "a relatively large team, in the top 10% of all project teams on Ohloh".<ref name=ohlohfactoid />
+
+== Releases ==
+{| class="wikitable"
+|-
+! Version
+! Release Date
+! Feature Highlight(s)
+! Development/Project Highlight(s)
+|-
+| '''1.0'''
+| June, 2001
+| 
+| Released as MP Pro (MedicalPractice Professional)<ref name=the_openemr_community />
+|-
+| '''1.3'''
+| July 5, 2002
+| Support for HIPAA compliance<ref name=openemr_release />
+| Released as OpenEMR, open sourced with GPL license<ref name=openemr_release />
+|-
+| '''2.0.0'''
+| June 30, 2003
+| <ref>{{cite web |url=http://linuxmednews.com/1056951841/index_html |title=OpenEMR 2.0.0 Release|accessdate=2012-02-03|author=Stack, Matthew |date=2003-06-30}}</ref>
+|
+|-
+| '''2.5.2'''
+| March 25, 2004
+| Support for HL7<ref>{{cite web |url=http://linuxmednews.com/1080233586/index_html |title=OpenEMR 2.5.2 Release|accessdate=2012-02-03|author=Uhlman, David |date=2004-03-25}}</ref>
+|
+|-
+| '''2.7.2'''
+| June 1, 2005
+| Calendar overhaul, Added access controls<ref>{{cite web |url=http://sourceforge.net/project/shownotes.php?release_id=331627 |title=OpenEMR 2.7.2 Release Notes|accessdate=2012-01-28}}</ref>
+| Code moved to Sourceforge<ref name=first_sf_commit />
+|-
+| '''2.8.0'''
+| November 11, 2005
+| Support UB-92 claims<ref>{{cite web |url=http://sourceforge.net/project/shownotes.php?release_id=370261 |title=OpenEMR 2.8.0 Release Notes|accessdate=2012-01-28}}</ref>
+|
+|-
+| '''2.8.1'''
+| February 24, 2006
+| Language translation support<ref>{{cite web |url=http://sourceforge.net/project/shownotes.php?release_id=396294 |title=OpenEMR 2.8.1 Release Notes|accessdate=2012-01-28}}</ref>
+|
+|-
+| '''2.8.2'''
+| January 14, 2007
+| PHP5/MySQL5 Compatible, CAMOS Module<ref>{{cite web |url=http://sourceforge.net/project/shownotes.php?release_id=478454 |title=OpenEMR 2.8.2 Release Notes|accessdate=2012-01-28}}</ref>
+|
+|-
+| '''2.8.3'''
+| October 4, 2007
+| Support HCFA 1500<ref name=openemr_sf_news>{{cite web |url=http://sourceforge.net/news/?group_id=60081 |title=OpenEMR Release News|accessdate=2012-01-28}}</ref>
+|
+|-
+| '''2.9.0'''
+| August 7, 2008
+| Customizable layouts<ref name=openemr_sf_news />
+|
+|-
+| '''3.0.1'''
+| April 8, 2009
+| Fully integrated php-Gacl access controls<ref name=openemr_sf_news />
+| Internationalization project started<ref name=internationalization>{{cite web |url=http://open-emr.org/wiki/index.php/OpenEMR_Internationalization_Translator_Guide |title=OpenEMR Internationalization Project|accessdate=2012-02-03}}</ref>
+|-
+| '''3.1.0'''
+| August 28, 2009
+| Full UTF-8 compliance<ref>{{cite web |url=http://sourceforge.net/projects/openemr/files/OpenEMR%20Current/3.1.0/openemr-3.1.0-notes.txt/download |title=OpenEMR 3.1.0 Release Notes|accessdate=2012-01-28}}</ref>
+|
+|-
+| '''3.2.0'''
+| February 16, 2010
+| Layout based form builder module<ref>{{cite web |url=http://sourceforge.net/projects/openemr/files/OpenEMR%20Current/3.2.0/openemr-3.2.0-notes.txt/download |title=OpenEMR 3.2.0 Release Notes|accessdate=2012-01-28}}</ref>
+|
+|-
+| '''4.0.0'''
+| March 26, 2011
+| ONC ''Modular'' Ambulatory EHR certification<ref>{{cite web |url=http://www.open-emr.org/wiki/index.php/Release_Features#Version_4.0.0 |title=OpenEMR 4.0.0 Release Notes|accessdate=2012-01-28}}</ref>
+| Code repository changed from cvs to git<ref name=git_migrate />
+|-
+| '''4.1.0'''
+| September 23, 2011
+| ONC '''Complete''' Ambulatory EHR certification<ref>{{cite web |url=http://www.open-emr.org/wiki/index.php/Release_Features#Version_4.1.0 |title=OpenEMR 4.1.0 Release Notes|accessdate=2012-01-28}}</ref>
+|
+|-
+| '''4.1.1'''
+| August 31, 2012
+| Translated in 19 languages, ICD10 support<ref name=411_release>{{cite web |url=http://www.open-emr.org/wiki/index.php/Release_Features#Version_4.1.1 |title=OpenEMR 4.1.1 Release Notes|accessdate=2012-08-31}}</ref>
+| 
+|}
+
+== Deployments ==
+Because this is an open source project that does not register its users, it is very difficult to estimate the number of practitioners that are using this software. In the US, it has been estimated that there are more than 5,000 installations of OpenEMR in physician offices and other small healthcare facilities serving more than 30 million patients.<ref name="openemr_continues_to_grow">{{cite web |url=http://www.openhealthnews.com/hotnews/openemr-continues-grow-popularity-and-use |title=OpenEMR Continues to grow in Popularity and Use |accessdate=2012-12-20 |author=Groen, Peter |date=2012-12-18}}</ref> Internationally, it has been estimated that OpenEMR is installed in over 15,000 healthcare facilities, translating into more than 45,000 practitioners using the system which are serving greater than 90 million patients.<ref name="openemr_continues_to_grow"/> The Peace Corps plan to incorporate OpenEMR into their EHR system in 2013.<ref>{{cite web |url=http://www.govhealthit.com/news/peace-corps-plans-ehr-system-2013 |title=Peace Corps plans EHR system in 2013 |accessdate=2012-02-03 |author=Mosquera, Mary |date=2012-02-03}}</ref><ref>{{cite web |url=http://linuxmednews.com/1328459378/index_html |title=Peace Corps Selects OpenEMR |accessdate=2012-02-05 |author=Cahn, Jack |date=2012-02-05}}</ref> Siaya District Hospital, a 220-bed hospital in rural Kenya, is using OpenEMR.<ref name="kenya_siaya_1">{{cite web |url=http://linuxmednews.com/1328842067 |title= MediGrail LLC Automates Siaya District Hospital in Rural Kenya with OpenEMR |accessdate=2012-02-10 |author=Sidhu, Yudhvir|date=2012-02-10}}</ref><ref name="kenya_siaya_2">{{cite web |url=http://www.openhealthnews.com/hotnews/siaya-district-hospital-kenya-goes-live-openemr |title= Siaya District Hospital in Kenya Goes Live With OpenEMR |accessdate=2014-04-14 |author=Groen, Peter|date=2012-04-08}}</ref><ref name="kenya_siaya_3">{{cite web |url=http://open-emr.org/wiki/index.php/OpenEMR_Success_Stories#Siaya_District_Hospital_in_Kenya_Goes_Live_With_OpenEMR_in_April_2012 |title=Siaya District Hospital in Kenya Goes Live With OpenEMR in April 2012 |accessdate=2012-06-13 |author=Sidhu, Yudhvir|date=2012-03-26}}</ref><ref name="kenya_siaya_4">{{cite web |url=http://open-emr.org/wiki/index.php/OpenEMR_Success_Stories#Siaya_District_Hospital_in_Kenya_Update_11_Jun_2012 |title=Siaya District Hospital in Kenya Update 11 Jun 2012 |accessdate=2012-06-13 |author=Sidhu, Yudhvir|date=2012-06-12}}</ref><ref name="kenya_siaya_5">{{cite web |url=http://www.openhealthnews.com/hotnews/open-source-emr-alternatives-kenya |title=Open Source EMR Alternatives for Kenya |accessdate=2012-12-20 |author=Groen, Peter|date=2012-11-21}}</ref> HP India is planning to utilize OpenEMR for their Mobile Health Centre Project.<ref name="india_hp_1">{{cite web |url=http://www.prweb.com/releases/2012/7/prweb9699462.htm |title=HP India Mobile Health Centre Project To Utilize OpenEMR |accessdate=2012-07-17 |date=2012-07-16}}</ref> There are also articles describing single clinician deployments<ref>{{cite web |url=http://www.emrandhipaa.com/emr-and-hipaa/2009/11/25/openemr-success-story/ |title=OpenEMR Success Story |accessdate=2009-12-14 |author=Holzer, Joe |date=2009-11-25}}</ref><ref>{{cite web |url=http://linuxmednews.com/1138557562/index_html |title=Using OpenEMR in Family Practice |accessdate=2009-12-14 |author=Leeds, Mark |date=2006-01-29}}</ref><ref>{{cite web |url=http://www.oemr.org/2012/12/12/518/ |title=Going From Paper to Electronic: A Road Map |accessdate=2012-12-20 |author=Peterson, Diane |date=2012-12-12}}</ref> and a free clinic deployment.<ref>{{cite web |url=http://www.healthcareguy.com/2009/11/15/guest-article-open-source-emrs-for-free-clinics/ |title=Guest Article: Open Source EMRs for free clinics |accessdate=2009-12-14 |author=Clifford, Kevin |date=2009-11-15}}</ref> Internationally, it is known that there are practitioners in Pakistan,<ref>{{cite web |url=http://blogs.tele-healthcare.org/2010/01/jaroka-electronic-health-record-system.html |title=Jaroka Electronic Health Record System provides opportunities for further Research and Analysis |accessdate=2010-01-23 |author=Mushtaq, Hina |date=2010-01-18}}</ref> Puerto Rico, Australia, Sweden, Holland, Israel, India,<ref name="india_hp_1" /><ref>{{cite web |url=http://nagalandpost.com/ShowStory.aspx?npoststoryiden=UzEwMjQyOTE%3D-u5jpoTKCit0%3D |title=FPAI conducts training on OpenEMR |accessdate=2010-04-05 |author=DIMAPUR |date=2010-04-05}}</ref> Malaysia, Nepal, Indonesia, Bermuda, Armenia, Kenya,<ref name="kenya_siaya_1" /><ref name="kenya_siaya_2" /><ref name="kenya_siaya_3" /><ref name="kenya_siaya_4" /><ref name="kenya_siaya_5" /><ref>{{cite web |url=http://www.prlog.org/12041984-openemr-presented-to-the-kenya-medical-association.html |title=OpenEMR presented to the Kenya Medical Association |accessdate=2012-12-20 |author=VoIP4Africa Ltd. |date=2012-12-17}}</ref> and Greece that are either testing or actively using OpenEMR for use as a free electronic medical records program.
+
+== Architecture ==
+
+OpenEMR is a "[[LAMP (software bundle)|LAMP]]" type of web based software application that uses a web server such as [[Apache HTTP Server|Apache]], [[MySQL]] as the database and [[PHP]] as its programming language.  As with most "LAMP" architecture, OpenEMR can run on [[Linux]], [[Unix]], [[BSD]], [[Mac OS X]], and [[Microsoft]] architectures.
+
+== Certification ==
+
+Both OpenEMR versions 4.1.0 (released on 9/23/2011) and 4.1.1 (released on 8/31/2012) have ONC Complete Ambulatory EHR Certification.<ref name="mod_cert"/><ref name="mod_cert_article"/><ref name="mod_cert_article_second"/><ref name="411_release"/> OpenEMR was certified by ICSA Labs<ref name="icsa_labs">{{cite web |url=http://www.icsalabs.com/ |title=ICSA Labs Website |accessdate=2012-12-20}}</ref> and the OEMR<ref name="oemr_org">{{cite web |url=http://www.oemr.org/ |title=OEMR Organization Website |accessdate=2012-12-20}}</ref> organization is a non-profit entity that manages/provides this certification.<ref name="mod_cert_article"/>
+
+== Awards ==
+
+OpenEMR received a 2012 Bossie Award in the "The Best Open Source Applications" category.<ref name="bossie_2012">{{cite web |url=http://www.infoworld.com/slideshow/65165/bossie-awards-2012-the-best-open-source-applications-202530#slide21 |title=Bossie Awards 2012: The best open source applications |accessdate=2012-09-20 |author=InfoWorld |date=2012-09-18}}</ref><ref>{{cite web |url=http://www.pcworld.com/article/2010155/10-award-winning-open-source-apps-to-try-today.html |title=10 award-winning open source apps to try today |accessdate=2012-09-21 |author=Noyes, Katherine |date=2012-09-20}}</ref>
+
+== OEMR ==
+
+OEMR<ref name="oemr_org"/> is a 501(c)(3) tax exempt entity that was organized in July, 2010 to support the OpenEMR project.<ref>{{cite web |url=http://www.oemr.org/wp-content/uploads/2012/05/OEMR_2010-07-22_Organizational_Meeting.pdf |title=OEMR Organization Meeting Minutes (2012-07-22) |accessdate=2012-12-20 | date=2010-07-22}}</ref> OEMR is the entity that holds the ONC Complete Ambulatory EHR Certification with ICSA Labs<ref name="icsa_labs"/>.<ref name="mod_cert_article"/>
+
+== References ==
+
+{{reflist|2}}
+* Wallen, Jack (2011-10-11). "[http://www.techrepublic.com/blog/doityourself-it-guy/diy-openemr-free-software-for-medical-practices/861 DIY: OpenEMR, free software for medical practices]". Retrieved 2011-10-11.
+* Krishna, Sreevidya (2010-11-30). "[http://www.ibm.com/developerworks/industry/library/ind-openemr/index.html?cmp=dw&cpb=dwope&ct=dwgra&cr=twitter&ccy=zz&csr=openemr Taking medical records into the digital age - Solving traditional system challenges with OpenEMR]". Retrieved 2012-02-25.
+* AG (2010-02-12). "[http://bkaeg.org/blog/archives/2010/02/openemr---at-a.html OpenEMR - At a glance]". Retrieved 2010-02-16.
+* Lewis, Hans (2010-01-18). "[http://healthcare.tmcnet.com/topics/healthcare/articles/72903-electronic-medical-health-records-usage-increases-us-report.htm Electronic Medical and Health Records Usage Increases in U.S.: Report]". Retrieved 2010-01-23.
+* Shah, Shahid (2007-01-07). "[http://www.healthcareguy.com/2007/01/07/open-source-emr-and-practice-management-software-appliance/341/ Open Source EMR and Practice Management Software Appliance]". Retrieved 2009-12-07.
+
+== External links ==
+{{Commons category|OpenEMR}}
+* {{official website|http://www.open-emr.org/}}
+* [http://sourceforge.net/projects/openemr/ Source code repository]
+* [http://oemr.org/ OEMR.org: A non-profit organization that supports OpenEMR]
+
+[[Category:Free healthcare software]]
+[[Category:Linux science software]]
+[[Category:Electronic health record software]]

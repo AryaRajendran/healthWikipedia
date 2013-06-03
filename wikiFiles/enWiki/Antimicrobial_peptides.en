@@ -1,0 +1,527 @@
+[[File:Various AMPs.png|thumb|350px|Various structures of antimicrobial peptides]]
+
+'''Antimicrobial [[peptides]]''' (also called host defense peptides) are an evolutionarily conserved component of the innate immune response and are found among all classes of life. Fundamental differences exist between prokaryotic and eukaryotic cells that may represent targets for antimicrobial peptides. These peptides are potent, broad spectrum [[antibiotic]]s which demonstrate potential as novel therapeutic agents. Antimicrobial peptides have been demonstrated to kill [[Gram negative]] and [[Gram positive]] bacteria (including strains that are resistant to conventional antibiotics), [[Mycobacterium|mycobacteria]] (including ''[[Mycobacterium tuberculosis]]''), enveloped viruses, fungi and even transformed or cancerous cells. Unlike the majority of conventional antibiotics it appears as though antimicrobial peptides may also have the ability to enhance immunity by functioning as [[immunomodulator]]s.
+
+==Structure==
+Antimicrobial peptides are a unique and diverse group of molecules, which are divided into subgroups
+on the basis of their amino acid composition and structure.<ref name="Yeaman|Yount|2003">{{harvnb|Yeaman|Yount|2003}}</ref> Antimicrobial peptides are generally between 12 and 50 amino acids. These peptides include two or more positively charged residues provided by [[arginine]], [[lysine]] or, in acidic environments, [[histidine]], and a large proportion (generally >50%) of hydrophobic residues.<ref>{{harvnb|Papagianni|2003}}</ref><ref>{{harvnb|Sitaram|Nagaraj|2002}}</ref><ref>{{harvnb|Dürr|Sudheendra|Ramamoorthy|2006}}</ref> The secondary structures of these molecules follow 4 themes, including i) [[Alpha helix|α-helical]], ii) [[Beta sheet|β-stranded]] due to the presence of 2 or more [[disulfide bond]]s, iii) β-hairpin or loop due to the presence of a single disulfide bond and/or cyclization of the peptide chain, and iv) extended.<ref>{{harvnb|Dhople|Krukemeyer|Ramamoorthy|2006}}</ref> Many of these peptides are unstructured in free solution, and fold into their final configuration upon partitioning into biological membranes. It contains hydrophilic amino acid residues aligned along one side and hydrophobic amino acid residues aligned along the opposite side of a helical molecule.<ref name="Yeaman|Yount|2003"/> This amphipathicity of the antimicrobial peptides allows to partition into the membrane lipid bilayer. The ability to associate with membranes is a definitive feature of antimicrobial peptides<ref>{{harvnb|Hancock|Rozek|2002}}</ref> although membrane permeabilisation is not necessary. These peptides have a variety of antimicrobial activities ranging from membrane permeabilization to action on a range of cytoplasmic targets.
+{| class="wikitable"
+|-
+! Type || characteristic || AMPs
+ |- 
+ |Anionic peptides|| rich in glutamic and aspartic acids|| Maximin H5 from amphibians, [[Dermcidin]] from humans 
+ |- 
+ |Linear cationic α-helical peptides||lack in cysteine || [[Cecropin]]s, andropin, [[moricin]], ceratotoxin and [[melittin]] from insects, [[Magainin]], [[dermaseptin]], bombinin, brevinin-1,esculentins and buforin II from amphibians, CAP18 from rabbits, [[LL37]] from humans 
+ |- 
+ |Catioinic peptide enriched for specific amino acid||rich in proline, arginine, phenylalanine, glycine, tryptophan||abaecin, apidaecins from honeybees, prophenin from pigs, [[indolicidin]] from cattle.
+ |- 
+ |Anionic and cationic peptides that contain cysteine and form disulfide bonds||contain 1~3 disulfide bond||1 bond:brevinins, 2 bonds:[[protegrin]] from pig, [[tachyplesin]]s from horseshoe crabs, 3 bonds:[[defensin]]s from humans, more than 3:[[drosomycin]] in fruit flies
+|}
+
+[[File:modes of action.png|thumb|350px|The modes of action by Antimicrobial peptides]]
+
+==Activities==
+The modes of action by which antimicrobial peptides kill bacteria is varied and includes disrupting membranes, interfering with metabolism, and targeting cytoplasmic components. The initial contact between the peptide and the target organism is electrostatic, as most bacterial surfaces are anionic, or hydrophobic, such as in the antimicrobial peptide Piscidin. Their amino acid composition, amphipathicity, cationic charge and size allow them to attach to and insert into membrane bilayers to form pores by ‘barrel-stave’, ‘carpet’ or ‘toroidal-pore’
+mechanisms. Alternately, they may penetrate into the cell to bind intracellular molecules which are crucial to cell living.<ref name="Brogden|2005">{{harvnb|Brogden|2005}}</ref> Intracellular binding models includes inhibition of cell wall synthesis, alteration of the cytoplasmic membrane, activation of autolysin, inhibition of DNA, RNA, and protein synthesis, and inhibition of certain enzymes. However, in many cases, the exact mechanism of killing is not known. One emerging technique for the study of such mechanisms is [[dual polarisation interferometry]],.<ref>Daniel J Hirst, Tzong-Hsien Lee, Marcus J Swann, Sharon Unabia, Yoonkyung Park, Kyung-Soo Hahm and Marie Isabel Aguilar, The effect of acyl chain structure and bilayer phase state on the binding and insertion of HPA3 onto a supported lipid bilayer, European Biophysics Journal</ref><ref>Tzong-Hsien Lee, Christine Heng, Marcus J. Swann, John D. Gehman, Frances Separovic, Marie-Isabel Aguilar, Real time quantitative analysis of lipid disordering by aurein 1.2 during membrane adsorption, destabilisation and lysis, . Biochimica et Biophysica Acta (BBA) - Biomembranes, Volume 1798, Issue 10, October 2010, Pages 1977-1986.</ref> In contrast to many conventional antibiotics these peptides appear to be [[bacteriocidal]] (bacteria killer) instead of [[bacteriostatic]] (bacteria growth inhibitor). In general the antimicrobial activity of these peptides is determined by measuring the minimal inhibitory concentration (MIC), which is the lowest concentration of drug that inhibits bacterial growth.<ref>{{harvnb|Amsterdam|1996}}</ref>
+
+==Immunomodulation==
+In addition to killing bacteria directly they have been demonstrated to have a number of [[immunomodulator]]y functions that may be involved in the clearance of infection, including the ability to alter host gene expression, act as chemokines and/or induce [[chemokine]] production, inhibiting [[lipopolysaccharide]] induced pro-inflammatory [[cytokine]] production, promoting wound healing, and modulating the responses of [[dendritic cell]]s and cells of the adaptive immune response. Animal models indicate that host defence peptides are crucial for both prevention and clearance of infection. It appears as though many peptides initially isolated as and termed "antimicrobial peptides" have been shown to have more significant alternative functions in vivo (e.g. hepcidin<ref>{{harvnb|Hunter|Fulton|Ganz|Vogel|2002}}</ref>).
+
+==Mode of action==
+Several methods have been used to determine the mechanisms of antimicrobial peptide activity.<ref name="Brogden|2005"/> In particular, [[solid-state NMR]] studies have provided an atomic-level resolution explanation of membrane disruption by antimicrobial peptides.<ref>{{harvnb|Hallock|Lee|Ramamoorthy|2003}}</ref><ref>{{harvnb|Wildman|Lee|Ramamoorthy|2003}}</ref>
+{| class="wikitable"
+! Methods || Applications
+ |- 
+ |Microscopy||to visualize the effects of antimicrobial peptides on microbial cells.
+ |- 
+ |Fluorescent dyes||to measure antimicrobial peptides to permeabilize membrane vesicles.
+ |- 
+ |Ion channel formation||to assess the formation and stability of an antimicrobial-peptide-induced pore. 
+ |- 
+ |Circular dichroism and orientated circular dichroism||to measure the orientation and secondary structure of an antimicrobial peptide bound to a lipid bilayer
+ |- 
+ |Dual Polarization Interferometry||to measure the different mechanisms of antimocrobial peptides
+ |-
+ |Solid-state NMR spectroscopy||to measure the secondary structure, orientation and penetration of antimicrobial peptides into lipid bilayers in the biologically relevant LIQUID-CRYSTALLINE STATE
+ |- 
+ |Neutron and X-ray diffraction||to measure the diffraction patterns of peptide-induced pores within membranes in oriented multilayers or liquids
+ |-
+ |}
+
+==Therapeutic potential==
+These peptides are excellent candidates for development as novel therapeutic agents and complements to conventional antibiotic therapy because they generally have a broad range of activity, are bacteriocidal as opposed to bacteriostatic and require a short contact time to induce killing. A number of naturally occurring peptides and their derivatives have been developed as novel anti-infective therapies for conditions as diverse as oral mucositis, lung infections associated with [[cystic fibrosis]] (CF), cancer,<ref>{{harvnb|Hoskin|Ramamoorthy|2008}}</ref> and topical skin infections. Pexiganan has been shown to be useful to treat infection related diabetic foot ulcer.  A major limitation to the therapeutic potential is the possibility of bacteria developing resistance to the peptides, and particularly if that produces a resistance to the body's own immune system use of those peptides.  That is, providing a lot of the peptides as a therapeutic agent makes it easier for resistance to evolve; unlike antibiotic resistance, however, resistance to antimicrobial peptides mimicking those produced by humans can make the bacteria more resistant to the body's own immune system rather than just the antibiotic.<ref name="Therapeutic antimicrobial peptides may compromise natural immunity">{{cite journal|last=Habets|first=Michelle|coauthors=Brockhurst|journal=Biology Letters|year=2012|doi=10.1098/rsbl.2011.1203|url=http://rsbl.royalsocietypublishing.org/content/early/2012/01/20/rsbl.2011.1203.short}}</ref>
+
+==Selectivity ==
+In the competition of bacterial cells and host cells with the antimicrobial peptides, antimicrobial peptides will preferentially interact with the bacterial cell to the mammalian cells, which enables them to kill microorganisms without being significantly toxic to mammalian cells.<ref name="Matsuzaki|2008">{{harvnb|Matsuzaki|2008}}</ref> Selectivity is a very important feature of the antimicrobial peptides and it can guarantee their function as antibiotics in host defense systems.
+
+===Factors ===
+There are some factors that are closely related to the selectivity property of antimicrobial peptides, among which the cationic property contributes most. Since the surface of the bacterial membranes is more negatively charged than mammalian cells, antimicrobial peptides will show different affinities towards the bacterial membranes and mammalian cell membranes.<ref name="Hancock|Sahl|2006">{{harvnb|Hancock|Sahl|2006}}</ref>
+
+In addition, there are also other factors that will affect the selectivity. It’s well known that [[cholesterol]] is normally widely distributed in the mammalian cell membranes as a membrane stabilizing agents but absent in bacterial cell membranes; and the presence of these cholesterols will also generally reduce the activities of the antimicrobial peptides, due either to stabilization of the lipid bilayer or to interactions between cholesterol and the peptide. So the cholesterol in mammalian cells will protect the cells from attack by the antimicrobial peptides.<ref name="Zasloff|2002">{{harvnb|Zasloff|2002}}</ref>
+
+Besides, the [[transmembrane potential]] is well-known to affect peptide-lipid interactions.<ref name="Matsuzaki|Ken-ichi|Nobutaka|Koichiro|1995">{{harvnb|Matsuzaki|Ken-ichi|Nobutaka|Koichiro|1995}}</ref> There's an inside-negative transmembrane potential existing from the outer leaflet to the inner leaflet of the cell membranes and this inside-negative transmembrane potential will facilitate membrane permeabilization probably by facilitating the insertion of positively charged peptides into membranes. By comparison, the transmembrane potential of bacterial cells is more negative than that of normal mammalian cells, so bacterial membrane will be prone to be attacked by the positively charged antimicrobial peptides. 
+
+Similarly, it is also believed that increasing [[ionic strength]],<ref name="Zasloff|2002"/> which in general reduces the activity of most antimicrobial peptides, contributes partially to the selectivity of the antimicrobial peptides by weakening the [[electrostatic interactions]] required for the initial interaction.
+
+[[Image:Mechanim of Selectivity of Antimicrobial Peptides.jpg|Molecular Basis of Cell Selectivity of Antimicrobial Peptides|right|thumb|400px]]
+
+===Mechanism===
+The cell membranes of bacteria are rich in acidic [[phospholipids]], such as [[phosphatidylglycerol]] and [[cardiolipin]].<ref name="Matsuzaki|2008"/><ref>
+{{harvnb|Chou|Kuo|Chiang|Pei|2008}}</ref> These phospholipid headgroups are heavily negatively charged. Therefore, the outmost leaflets of the bilayer which is exposed to the outside of the bacterial membranes are more attractive to the attack of the positively charged antimicrobial peptides. So the interaction between the positive charges of antimicrobial peptides and the negatively charged bacterial membranes is mainly the electrostatic interactions, which is the major driving force for cellular association. Besides, since antimicrobial peptides form structures with a positively charged face as well as a hydrophobic face, there are also some hydrophobic interactions between the hydrophobic regions of the antimicrobial peptides and the [[zwitterion]]ic phospholipids (electrically neutral) surface of the bacterial membranes, which act only as a minor effect in this case. 
+
+In contrast, the outer part of the membranes of the plants and mammals is mainly composed of lipid without any net charges since most of the lipids with negatively charged headgroups are principally sequestered into the inner leaflet of the plasma membranes.<ref name="Hancock|Sahl|2006"/> Thus in the case of mammals cells, the outer surfaces of the membranes are usually made of zwitterionic [[phosphatidylcholine]] and [[sphingomyelin]], even though a small portion of the membranes outer surfaces contain some negatively charged [[gangliosides]]. So the hydrophobic interaction between the hydrophobic face of amphipathic antimicrobial peptides and the zwitterionic phospholipids on the cell surface of mammalian cell membranes plays a major role in the formation of peptide-cell binding.<ref>{{harvnb|Tennessen|2005}}</ref> However, the hydrophobic interaction is relatively weak when compared to the electrostatic interaction, thus, the antimicrobial peptides will preferentially interact with the bacterial membranes.
+
+[[Dual polarisation interferometry]] has been used ''in vitro'' to study and quantify the association to headgroup, insertion into the bilayer, pore formation and eventual disruption of the membrane.<ref>Lanlan Yu, Lin Guo, Jeak Ling Ding, Bow Ho, Si-Shen Feng, Jonathan Popplewell, Marcus Swann, Thorsten Wohland. Interaction of an artificial antimicrobial peptide with lipid membranes. Biochimica et Biophysica Acta (BBA) - Biomembranes, Volume 1788, Issue 2, February 2009, Pages 333-344, Available online 25 October 2008</ref><ref>Tzong-Hsien Lee, Kristopher Hall, Adam Mechler, Lisandra Martin, Jonathan Popplewell, Gerry Ronan, Marie-Isabel Aguilar Molecular Imaging and Orientational Changes of Antimicrobial Peptides in Membranes American Peptide Society (2007) Peptides for Youth. Eds. Emanuel Escher, William D. Lubell, Susan Del Valle</ref>
+
+===Control===
+A lot of efforts have been tried to control the cell selectivities. For example, Katsumi tried to modify and optimize the physicochemical parameters of the peptides to control the selectivities, including net charge, [[helicity]], hydrophobicity per residue (H), hydrophobic moment (μ) and the angle subtended by the positively charged polar helix face (Φ).<ref name="Matsuzaki|Ken-ichi|Nobutaka|Koichiro|1995"/> Besides, other methods like the introduction of D-[[amino acids]] and fluorinated amino acids in the hydrophobic face is believed to break the secondary structures and thus to reduce hydrophobic interaction that’s necessary for interaction with mammalian cells. Wan L Z, el{{Citation needed|date=April 2009}} also found that Pro→Nlys substitution in Pro-containing β-turn antimicrobial peptides is a promising strategy for the design of new short bacterial cell-selective antimicrobial peptides with intracellular mechanisms of action. Nadezhda V el{{Citation needed|date=April 2009}} suggested that direct attachment of [[magainin]] to the substrate surface decreased nonspecific cell binding as well as led to improved detection limit for bacterial cells such as [[Salmonella]] and [[E. coli]].
+
+==Bacterial resistance==
+Bacteria use various resistance strategies to avoid antimicrobial peptide killing.<ref name="Brogden|2005"/> Some microorganisms alter net surface charges. ''[[Staphylococcus aureus]]'' transports D-alanine from the cytoplasm to the surface teichoic acid to reduce the net negative charge by introducing basic amino groups.<ref name="Peschel|Otto|Jack|Kalbacher|Jung|Götz|1999">{{harvnb|Peschel|Otto|Jack|Kalbacher|<!-- Jung|Götz| -->1999}}</ref> ''S. aureus'' also modifies its anionic membranes via MprF with L-lysine, increasing the positive net charge.<ref name="Peschel|Otto|Jack|Kalbacher|Jung|Götz|1999"/> The interaction of antimicrobial peptides with membrane targets can be limited by capsule polysaccharide of ''Klebsiella pneumoniae''.<ref>{{harvnb|Campos|Vargas|Regueiro|Llompart|<!-- Alberti|Bengoechea| -->2004}}</ref> 
+Alterations occur in Lipid A. ''Salmonella'' species reduce the fluidity of their outer membrane by increasing hydrophobic interactions between an increased number of Lipid A acyl tails by adding myristate to Lipid A with 2-hydroxymyristate and forming hepta-acylated Lipid A by adding palmitate. The increased hydrophobic moment is though to retard or abolish antimicrobial peptide insertion and pore formation. The residues undergo alteration in membrane proteins. In some Gram-negative bacteria, alteration in the production of outer membrane proteins correlates with resistance to killing by antimicrobial peptides.<ref>{{harvnb|China|N'guyen|De Bruyere|Cornelis|1994}}</ref> Nontypeable [[Hemophilus influenzae]] transports AMPs into the interior of the cell, where they are degraded.  And H. influenzae remodels its membranes to make it appear as if the bacterium has already been successfully attacked by AMPs, protecting it from being attacked by more AMPs.<ref>Catherine L. Shelton, Forrest K. Raffel, Wandy L. Beatty, Sara M. Johnson, Kevin M. Mason.  Sap Transporter Mediated Import and Subsequent Degradation of Antimicrobial Peptides in Haemophilus.  PLoS Pathogens, 3 November 2011, {{doi|10.1371/journal.ppat.1002360}}, available online</ref> ATP-binding cassette transporters import antimicrobial peptides and the resistance-nodulation cell-division efflux pump exports antimicrobial peptides.<ref name="Nikaido|1996">{{harvnb|Nikaido|1996}}</ref> Both transporters have been associated with antimicrobial peptide
+resistance. Bacteria produce proteolytic enzymes,which may degrade antimicrobial peptides leading to their resistance.<ref>{{harvnb|Whitelock|Murdoch|Iozzo|Underwood|1996}}</ref>
+
+While these examples show that resistance can evolve naturally, there is increasing concern that using pharmaceutical copies of antimicrobial peptides can make resistance happen more often and faster.  Worse, Research has found that, in some cases, resistance to these peptides used as a pharmaceutical to treat medical problems can lead to resistance not only to the medical application of the peptides, but to the body's own use <ref name="Therapeutic antimicrobial peptides may compromise natural immunity"/> of those peptides.  Further research is needed to determine if this will lead to greater harm than benefit from the use of certain antimicrobial peptides.
+
+==Examples==
+Antimicrobal peptides are produced by all species, including [[bacteriocin|peptides from bacteria]], [[peptaibols|from fungi]], [[hydramacin-1|Hydra]], [http://opm.phar.umich.edu/families.php?superfamily=160 insects], ([[mastoparan]], [[poneratoxin]], [[cecropin]], [[moricin]], [[melittin]] and so on), [http://opm.phar.umich.edu/families.php?superfamily=309 frogs] ([[magainin]], [[dermaseptin]] and others), and mammals (for example, [[cathelicidin]]s, [[defensins]] and [[protegrin]]s).
+
+==Bioinformatics ==
+
+Several bioinformatic databases exist to catalogue antimicrobial peptides such as CAMP, the Antimicrobial Peptide Database (http://aps.unmc.edu/AP/main.php) and BioPD (http://biopd.bjmu.edu.cn/help.asp).
+
+==See also==
+* [[Peripheral membrane proteins]]
+* [[Cathelicidin]]
+* [[Virtual colony count]]
+
+== Footnotes==<!-- ZoolSci25:487. -->
+{{Reflist|3}}
+
+==References==
+{{Refbegin}}
+<!-- Alphabetically on |last1= -->
+* {{Citation
+ | last1 = Amsterdam  | first1 =  D.
+ | year = 1996
+ | chapter = Susceptibility testing of Antimicrobials in liquid media
+ | pages = 52–111
+ | editor1-first = V.
+ | editor1-last = Lorian
+ | title = Antibiotics in Laboratory Medicine
+ | edition = Fourth
+ | publisher = Williams and Wilkins
+ | location = Baltimore, Md.
+}}
+* {{Citation
+ | last1 = Brogden    | first1 =  K.A.
+ | year = 2005
+ | month = March
+ | title = Antimicrobial peptides: pore formers or metabolic inhibitors in bacteria?
+ | journal = Nature Reviews Microbiology
+ | volume = 3
+ | pages = 238–250.
+ | doi = 10.1038/nrmicro1098
+ | pmid = 15703760
+ | issue = 3
+}}
+* {{Citation
+ | title = Capsule Polysaccharide Mediates Bacterial Resistance to Antimicrobial Peptides
+ | editor1-last = Weiser
+ | editor1-first = J.N.
+ | year = 2004
+ | month = December
+ | journal = Infection and Immunity
+ | pages = 7107–7114
+ | volume = 72
+ | issue = 12
+ | last1 = Campos     | first1 =  M.A.
+ | last2 = Vargas     | first2 =  M.A.
+ | last3 = Regueiro   | first3 =  V.
+ | last4 = Llompart   | first4 =  C.M.
+ | last5 = Alberti    | first5 =  S.
+ | last6 = Bengoechea | first6 =  J.A.
+ | accessdate = 2009-04-27
+ | doi = 10.1128/IAI.72.12.7107-7114.2004
+ | pmid = 15557634
+ | pmc = 529140
+}}
+* {{Citation
+ | title = Role of YadA in resistance of Yersinia enterocolitica to phagocytosis by human polymorphonuclear leukocytes
+ | year = 1994
+ | month = April
+ | journal = Infection and immunity
+ | pages = 1275–1281
+ | volume = 62
+ | issue = 4
+ | last1 = China      | first1 =  B.
+ | last2 = N'guyen    | first2 =  B.T.
+ | last3 = De Bruyere | first3 =  M.
+ | last4 = Cornelis   | first4 =  G.R.
+ | accessdate = 2009-04-27
+ | pmid = 8132334
+ | pmc = 186269
+}}
+* {{Citation
+ | last1 = Chou       | first1 =  Hung-Ta
+ | last2 = Kuo        | first2 =  Tsun-Yung
+ | last3 = Chiang     | first3 =  Jung-Chun
+ | last4 = Pei        | first4 =  Min-Ju 
+ | last5 = Yang       | first5 =  Wei-Ter
+ | last6 = Yu         | first6 =  Hui-Chun
+ | last7 = Lin        | first7 =  Shih-Bin
+ | last8 = Chen       | first8 =  Wei-Jung
+ | year = 2008
+ | month = August
+ | title = Design and synthesis of cationic antimicrobial peptides with improved activity and selectivity against ''Vibrio'' spp
+ | journal = International Journal of Antimicrobial Agents
+ | volume = 32
+ | issue = 2
+ | pages = 130–138
+ | doi = 10.1016/j.ijantimicag.2008.04.003
+ | pmid = 18586467
+}}
+* {{Citation
+ | last1 = Dhople     | first1 =  V.
+ | last2 = Krukemeyer | first2 =  A.
+ | last3 = Ramamoorthy| first3 =  A.
+ | year = 2006
+ | month = September
+ | title = The human beta-defensin-3, an antibacterial peptide with multiple biological functions
+ | journal = Biochimica et Biophysica Acta – Biomembranes
+ | volume = 1758
+ | issue = 9
+ | pages = 1499–1512
+ | pmid = 16978580
+ | doi = 10.1016/j.bbamem.2006.07.007
+}}
+* {{Citation
+ | last1 = Dürr       | first1 =  U.H.N.
+ | last2 = Sudheendra | first2 =  U.S.
+ | last3 = Ramamoorthy| first3 =  A.
+ | year = 2006
+ | month = September
+ | title = LL-37, the only human member of the cathelicidin family of antimicrobial peptides
+ | journal = Biochimica et Biophysica Acta – Biomembranes
+ | volume = 1758
+ | issue = 9
+ | pages = 1408–1425
+ | pmid = 16716248
+ | doi = 10.1016/j.bbamem.2006.03.030
+}}
+* {{Citation
+ | title = Antimicrobial peptides: an overview of a promising class of therapeutics
+ | year = 2007
+ | month = March
+ | journal = Cent. Eur. J. Biol.
+ | pages = 1–33
+ | volume = 2
+ | issue = 1
+ | last1 = Giuliani    | first1 =  A.
+ | last2 = Pirri     | first2 =  G.
+ | last3 = Nicoletto     | first3 =  S.
+ | doi = 10.2478/s11535-007-0010-5
+}}
+* {{Citation
+ | last1 = Hallock    | first1 =  K.J.
+ | last2 = Lee        | first2 =  D.K.
+ | last3 = Ramamoorthy| first3 =  A.
+ | year = 2003
+ | month = May
+ | title = MSI-78, an analogue of the magainin antimicrobial peptides, disrupts lipid bilayer structure via positive curvature strain
+ | journal = Biophys. J.
+ | volume = 84
+ | issue = 5
+ | pages = 3052–3060
+ | pmid = 12719236
+ | doi = 10.1016/S0006-3495(03)70031-9
+ | pmc = 1302867
+}}
+* {{Citation
+ | last1 = Hancock    | first1 =  Robert E.W.
+ | last2 = Rozek      | first2 =  A.
+ | year = 2002
+ | title = Role of membranes in the activities of antimicrobial cationic peptides.
+ | journal = FEMS Microbiology Letters
+ | volume = 206
+ | issue = 2
+ | pages = 143–149
+ | doi = 10.1111/j.1574-6968.2002.tb11000.x
+ | pmid = 11814654
+}}
+* {{Citation
+ | last1 = Hancock    | first1 =  Robert E.W.
+ | last2 = Sahl       | first2 =  Hans-Georg
+ | year = 2006
+ | title = Antimicrobial and host-defense peptides as new anti-infective therapeutic strategies
+ | journal = Nature Biotechnology
+ | volume = 24
+ | pages = 1551–1557
+ | doi = 10.1038/nbt1267
+ | pmid = 17160061
+ | issue = 12
+}}
+* {{Citation
+ | last1 = Hoskin     | first1 =  D.W.
+ | last2 = Ramamoorthy| first2 =  A.
+ | title = Studies on anticancer activities of antimicrobial peptides
+ | year = 2008
+ | month = February
+ | journal = Biochimica et Biophysica Acta – Biomembranes
+ | volume = 1778
+ | issue = 2
+ | pages = 357–375
+ | pmid = 18078805
+ | doi = 10.1016/j.bbamem.2007.11.008
+ | pmc = 2238813
+}}
+* {{Citation
+ | last1 = Hunter     | first1 =  H.N.
+ | last2 = Fulton     | first2 =  D.B.
+ | last3 = Ganz       | first3 =  T.
+ | last4 = Vogel      | first4 =  H.J.
+ | year = 2002
+ | month = October
+ | title = The solution structure of human hepcidin, a peptide hormone with antimicrobial activity that is involved in iron uptake and hereditary hemochromatosis.
+ | journal = J Biol Chem
+ | volume = 277
+ | issue = 40
+ | pages = 37597–37603
+ | pmid = 12138110
+ | doi = 10.1074/jbc.M205305200
+}}
+* {{Citation
+ | last1 = Langham    | first1 =  Allison A.
+ | last2 = Ahmad      | first2 =  Abdallah Sayyed
+ | last3 = Kaznessis  | first3 =  Yiannis N.
+ | year = 2008
+ | month = April
+ | journal = J. Am. Chem. Soc.
+ | volume = 130
+ | issue = 13
+ | pages = 4338–4346
+ | title = On the Nature of Antimicrobial Activity: A Model for Protegrin-1 Pores
+ | pmid = 18335931
+ | doi = 10.1021/ja0780380
+ | pmc = 2474802
+}}
+* {{Citation
+ | last1 = Matsuzaki  | first1 =  Katsumi
+ | title = Control of cell selectivity of antimicrobial peptides
+ | journal = Biochimica et Biophysica Acta – Biomembranes
+ | year = 2008
+ | doi = 10.1016/j.bbamem.2008.09.013
+ | pmid = 18952049
+ | volume = 1788
+ | issue = 8
+ | pages = 1687–92
+}}
+* {{Citation
+ | last1 = Matsuzaki  | first1 =  Katsumi
+ | last2 = Ken-ichi   | first2 =  S.
+ | last3 = Nobutaka   | first3 =  F.
+ | last4 = Koichiro   | first4 =  M.
+ | year = 1995
+ | month = March
+ | title = Molecular Basis for Membrane Selectivity of an Antimicrobial Peptides, Magainin 2
+ | journal = Biochemistry
+ | volume = 34
+ | issue = 10
+ | pages = 3423–3429
+ | doi = 10.1021/bi00010a034
+ | pmid = 7533538
+}}
+* {{Citation
+ | doi = 10.2174/092986707782360105
+ | last1 = Mátyus     | first1 =  Edit
+ | last2 = Kandt      | first2 =  Christian
+ | last3 = Tieleman   | first3 =  D Peter
+ | year = 2007
+ | journal = Curr Med Chem
+ | volume = 14
+ | issue = 26
+ | pages = 2789–98 
+ | title = Computer simulation of antimicrobial peptides
+ | pmid = 18045125
+}}
+* {{Citation
+ | last1 = Moore   | first1 =  A.J.
+ | last2 = Devine, | first2 =  D.A.
+ | last3 = Bibby,  | first3 =  M.C.
+ | title = Preliminary experimental anticancer activity of cecropins
+ | journal = Peptide Research
+ | year = 1994
+ | volume = 7
+ | pages = 265–269
+ | pmid = 7849420
+ | issue = 5
+}}
+* {{Citation
+ | title = Multidrug efflux pumps of gram-negative bacteria
+ | year = 1996
+ | month = October
+ | last1 = Nikaido    | first1 =  H.
+ | journal = Journal of Bacteriology
+ | pages = 5853–5859
+ | volume = 178
+ | issue = 20
+ | accessdate = 2009-04-27
+ | pmid = 8830678
+ | pmc = 178438
+}}
+* {{Citation
+ | doi = 10.1016/S0734-9750(03)00077-6
+ | last1 = Papagianni | first1 =  M.
+ | year = 2003
+ | month = September
+ | title = Ribosomally synthesized peptides with antimicrobial properties: biosynthesis, structure, function, and applications
+ | journal = Biotechnol Adv
+ | volume = 21
+ | issue = 6
+ | pages = 465–499
+ | pmid = 14499150
+}}
+* {{Citation
+ | doi = 10.1074/jbc.274.13.8405
+ | title = Inactivation of the dlt operon in Staphylococcus aureus confers sensitivity to defensins, protegrins, and other antimicrobial peptides
+ | year = 1999
+ | month = March
+ | journal = Journal of Biological Chemistry
+ | pages = 8405–8410
+ | volume = 274
+ | issue = 13
+ | last1 = Peschel    | first1 =  A.
+ | last2 = Otto       | first2 =  M.
+ | last3 = Jack       | first3 =  R.W.
+ | last4 = Kalbacher  | first4 =  H.
+ | last5 = Jung       | first5 =  G.
+ | last6 = Götz       | first6 =  F.
+ | accessdate = 2009-04-27
+ | pmid = 10085071
+}}
+* {{Citation
+ | title = CAMP: a useful resource for research on antimicrobial peptides
+ | editor1-last = Thomas
+ | editor1-first = Susan Idicula
+ | year = 2009
+ | month = November
+ | journal = Nucleic Acids Research
+ | pages = D774-D780
+ | volume = 38
+ | issue = suppl 1
+ | last1 = Thomas     | first1 =  Shaini
+ | last2 = Karnik     | first2 =  Shreyas
+ | last3 = Barai      | first3 =  Ram Shankar
+ | last4 = Jayaraman  | first4 =  V. K.
+ | accessdate = 2009-11-18
+ | doi =  10.1093/nar/gkp1021
+ | pmid = 19923233
+ | pmc = 2808926
+}}
+* {{Citation
+ | last1 = Sitaram    | first1 =  N.
+ | last2 = Nagaraj    | first2 =  R.
+ | year = 2002
+ | title = Host-defense antimicrobial peptides: importance of structure for activity
+ | journal = Curr Pharm Des
+ | volume = 8
+ | issue = 9
+ | pages = 727–742
+ | pmid = 11945168
+}}
+* {{Citation
+ | last1 = Tennessen  | first1 =  Jacob A.
+ | year = 2005
+ | month = November
+ | title = Molecular evolution of animal antimicrobial peptide: widespread moderate positive selection
+ | journal = Journal of Evolutionary Biology
+ | volume = 18
+ | issue = 6
+ | pages = 1387–1394
+ | pmid = 16313451
+ | doi = 10.1111/j.1420-9101.2005.00925.x
+}}
+* {{Citation
+ | doi = 10.1074/jbc.271.17.10079
+ | title = The Degradation of Human Endothelial Cell-derived Perlecan and Release of Bound Basic Fibroblast Growth Factor by Stromelysin, Collagenase, Plasmin, and Heparanases
+ | year = 1996
+ | month = April
+ | journal = Journal of Biological Chemistry
+ | pages = 10079–10086
+ | volume = 271
+ | issue = 17
+ | last1 = Whitelock  | first1 =  J.M.
+ | last2 = Murdoch    | first2 =  A.D.
+ | last3 = Iozzo      | first3 =  R.V.
+ | last4 = Underwood  | first4 =  P.A.
+ | accessdate = 2009-04-27
+ | pmid = 8626565
+}}
+* {{Citation
+ | last1 = Wildman    | first1 =  K.A.H.
+ | last2 = Lee        | first2 =  D.K.
+ | last3 = Ramamoorthy| first3 =  A.
+ | year = 2003
+ | title = Mechanism of Lipid Bilayer Disruption by the Human Antimicrobial Peptide, LL-37
+ | journal = Biochemistry
+ | volume = 42
+ | issue = 21
+ | pages = 6545–6558
+ | doi = 10.1021/bi0273563
+ | pmid = 12767238
+}}
+* {{Citation
+ | title = Mechanisms of antimicrobial peptide action and resistance
+ | year = 2003
+ | month = March
+ | journal = Pharmacological reviews
+ | pages = 27–55
+ | volume = 55
+ | issue = 1
+ | last1 = Yeaman     | first1 =  M.R.
+ | last2 = Yount      | first2 =  N.Y.
+ | accessdate = 2009-04-27
+ | doi = 10.1124/pr.55.1.2
+ | pmid = 12615953
+}}
+* {{Citation
+ | last1 = Brogden    | first1 =  K.A.
+ | year = 2005
+ | month = March
+ | title = Antimicrobial peptides: pore formers or metabolic inhibitors in bacteria?
+ | journal = Nature Reviews Microbiology
+ | volume = 3
+ | pages = 238–250.
+ | doi = 10.1038/nrmicro1098
+ | pmid = 15703760
+ | issue = 3
+}}
+
+* {{Citation
+ | last1 = Zasloff    | first1 =  Michael
+ | title = Antimicrobial peptides of multicellular organisms
+ | journal = Nature
+ | year = 2002
+ | month = January
+ | volume = 415
+ | issue = 6870
+ | pages = 389–395
+ | pmid = 11807545
+ | doi = 10.1038/415389a
+}}
+{{Refend}}
+
+== External links ==
+*[http://www.bicnirrh.res.in/antimicrobial/ CAMP:Collection of Anti-Microbial Peptides] at National Institute for Research in Reproductive Health (NIRRH)
+*[http://aps.unmc.edu/AP/main.php Antimicrobial Peptide Database] at unmc.edu
+* {{UMichOPM|classes|type|3}} - Calculated spatial positions of peptides in the lipid bilayer
+* {{MeshName|Antimicrobial+Cationic+Peptides}}
+
+{{Granule contents}}
+{{Pore-forming toxins}}
+
+{{DEFAULTSORT:Antimicrobial Peptides}}
+[[Category:Antimicrobial peptides| ]]
+[[Category:Immunology]]
+[[Category:Immune system]]
+[[Category:Peripheral membrane proteins]]

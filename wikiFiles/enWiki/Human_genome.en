@@ -1,0 +1,311 @@
+{{For|a non-technical introduction to the topic|Introduction to genetics}}
+[[Image:Karyotype.png|300px|thumb|Graphical representation of the idealized human diploid [[karyotype]], showing the organization of the genome into chromosomes. This drawing shows both the female (XX) and male (XY) versions of the 23rd chromosome pair. Chromosomes are shown aligned at their [[centromeres]]. The mitochondrial DNA is not shown.]]
+
+The '''human''' (''[[Homo sapiens]]'') '''[[genome]]''' is the complete set of human [[genetic information]], stored as [[DNA sequence]]s within the 23 [[chromosome]] pairs of the cell nucleus and in a small DNA molecule within the [[Mitochondrial DNA|mitochondrion]]. The [[haploid]] human genome (contained in [[germ cells|egg and sperm cells]]) consists of three billion [[DNA]] [[base pair]]s, while the [[diploid]] genome (found in [[somatic cells]]) has twice the DNA content. 
+
+Although the human genome has been completely read by DNA sequencing, it is not yet fully understood. Many (though probably not all) genes have been identified, yet much work still needs to be done to completely elucidate the biological functions of their protein and RNA products. Recent results indicate that most of the vast quantities of [[noncoding DNA]] within the genome have associated biochemical activities, including [[regulation of gene expression]], organization of [[Chromatin|chromosome architecture]], and signals controlling [[epigenetic inheritance]].
+
+The [[Human Genome Project]] produced the first complete sequences of individual human genomes. As of 2012, thousands of human genomes have been completely sequenced, and many more have been mapped at lower levels of resolution. The resulting data are used worldwide in [[biomedical science]], [[biological anthropology|anthropology]], [[Forensic DNA|forensics]] and other branches of science. There is a widely held expectation that genomic studies will lead to advances in the diagnosis and treatment of diseases, and to new insights in many fields of biology, including [[human evolution]].
+
+The haploid human genome contains approximately 20,000 protein-coding [[gene]]s, significantly fewer than had been anticipated.<ref name="IHSGC2004">{{Cite journal| author = International Human Genome Sequencing Consortium | title = Finishing the euchromatic sequence of the human genome. | journal = Nature | volume = 431 | issue = 7011 | pages = 931–45 | year = 2004 | pmid = 15496913 | doi = 10.1038/nature03001|bibcode = 2004Natur.431..931H }} [http://www.nature.com/nature/journal/v431/n7011/full/nature03001.html]</ref><ref name="ENCODEScience">{{Cite journal| author = Elizabeth Pennisi | title = ENCODE Project Writes Eulogy For Junk DNA | journal = Science | volume = 337 | issue = 6099 | pages = 1159–1160 | year = 2012| doi = 10.1126/science.337.6099.1159 | pmid=22955811}}</ref> [[Protein]]-coding sequences account for only a very small fraction of the genome (approximately 1.5%), and the rest is associated with [[non-coding RNA]] molecules, [[regulatory sequences|regulatory DNA sequences]], [[intron]]s, and sequences to which [[Noncoding DNA|no function]] has yet been assigned.<ref name="IHSGC2001">{{Cite journal| author = International Human Genome Sequencing Consortium | title = Initial sequencing and analysis of the human genome | journal = Nature | volume = 409 | issue = 6822 | pages = 860–921 | year = 2001 | pmid = 11237011 | doi = 10.1038/35057062}} [http://www.nature.com/nature/journal/v409/n6822/full/409860a0.html]</ref>
+
+[[File:Components of the Human Genome.jpg|370px|thumb|right|This figure illustrates the proportion of various genomic components of the human genome.]]
+
+==Molecular organization and gene content==
+The human genome is organized into chromosomes (very large linear DNA molecules contained within the cell nucleus) and the small mitochondrial DNA (a comparatively tiny circular DNA molecule). Basic information about these molecules and their gene contents are provided in the following table. (Data source: [http://jul2012.archive.ensembl.org/Homo_sapiens/Location/Chromosome?r=1:1-1000000 Ensembl genome browser release 68], July 2012)
+<!-- EDIT BELOW THIS LINE -->
+{| class="wikitable sortable"
+|-
+! Chromosome !! Length (mm) !! Base pairs !! Variations !! Confirmed proteins !! Putative proteins !! Pseudogenes !! miRNA !! rRNA !! snRNA !! snoRNA !! Misc ncRNA !! Links !! Centromere position (Mbp) || Cumulative (%)
+|-
+| [[Chromosome 1 (human)|1]] || 85 || 249,250,621 || 4,401,091 || 2,012 || 31 || 1,130 || 134 || 66 || 221 || 145 || 106 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=1 EBI] || 125.0 || 7.9
+|-
+| [[Chromosome 2 (human)|2]] || 83 || 243,199,373 ||4,607,702 || 1,203 || 50 || 948 || 115 || 40 || 161 || 117 || 93 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=2 EBI] || 93.3 || 16.2
+|-
+| [[Chromosome 3 (human)|3]] || 67 || 198,022,430 || 3,894,345 || 1,040 || 25 || 719 || 99 || 29 || 138 || 87 || 77 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=3 EBI] || 91.0 || 23.0
+|-
+| [[Chromosome 4 (human)|4]] || 65 || 191,154,276 || 3,673,892 || 718 || 39 || 698 || 92 || 24 || 120 || 56 || 71 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=4 EBI] || 50.4 || 29.6
+|-
+| [[Chromosome 5 (human)|5]] || 62 || 180,915,260 || 3,436,667 || 849 || 24 || 676 || 83 || 25 || 106 || 61 || 68 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=5 EBI] || 48.4 || 35.8
+|-
+| [[Chromosome 6 (human)|6]] || 58 || 171,115,067 || 3,360,890 || 1,002 || 39 || 731 || 81 || 26 || 111 || 73 || 67 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=6 EBI] || 61.0 || 41.6
+|-
+| [[Chromosome 7 (human)|7]] || 54 || 159,138,663 || 3,045,992 || 866 || 34 || 803 || 90 || 24 || 90 || 76 || 70 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=7 EBI] || 59.9 || 47.1
+|-
+| [[Chromosome 8 (human)|8]] || 50 || 146,364,022 || 2,890,692 || 659 || 39 || 568 || 80 || 28 || 86 || 52 || 42 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=8 EBI] || 45.6 || 52.0
+|-
+| [[Chromosome 9 (human)|9]] || 48 || 141,213,431 || 2,581,827 || 785 || 15 || 714 || 69 || 19 || 66 || 51 || 55 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=9 EBI] || 49.0 || 56.3
+|-
+| [[Chromosome 10 (human)|10]] || 46 || 135,534,747 || 2,609,802 || 745 || 18 || 500 || 64 || 32 || 87 || 56 || 56 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=10 EBI] || 40.2 || 60.9
+|-
+| [[Chromosome 11 (human)|11]] || 46 || 135,006,516 || 2,607,254 || 1,258 || 48 || 775 || 63 || 24 || 74 || 76 || 53 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=11 EBI] || 53.7 || 65.4
+|-
+| [[Chromosome 12 (human)|12]] || 45 || 133,851,895 || 2,482,194 || 1,003 || 47 || 582 || 72 || 27 || 106 || 62 || 69 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=12 EBI] || 35.8 || 70.0
+|-
+| [[Chromosome 13 (human)|13]] || 39 || 115,169,878 || 1,814,242 || 318 || 8 || 323 || 42 || 16 || 45 || 34 || 36 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=13 EBI] || 17.9 || 73.4
+|-
+| [[Chromosome 14 (human)|14]] || 36 || 107,349,540 || 1,712,799 || 601 || 50 || 472 || 92 || 10 || 65 || 97 || 46 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=14 EBI] || 17.6 || 76.4
+|-
+| [[Chromosome 15 (human)|15]] || 35 || 102,531,392 || 1,577,346 || 562 || 43 || 473 || 78 || 13 || 63 || 136 || 39 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=15 EBI] || 19.0 || 79.3
+|-
+| [[Chromosome 16 (human)|16]] || 31 || 90,354,753 || 1,747,136 || 805 || 65 || 429 || 52 || 32 || 53 || 58 || 34 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=16 EBI] || 36.6 || 82.0
+|-
+| [[Chromosome 17 (human)|17]] || 28 || 81,195,210 || 1,491,841 || 1,158 || 44 || 300 || 61 || 15 || 80 || 71 || 46 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=17 EBI] || 24.0 || 84.8
+|-
+| [[Chromosome 18 (human)|18]] || 27 || 78,077,248 || 1,448,602 || 268 || 20 || 59 || 32 || 13 || 51 || 36 || 25 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=18 EBI] || 17.2 || 87.4
+|-
+| [[Chromosome 19 (human)|19]] || 20 || 59,128,983 || 1,171,356 || 1,399 || 26 || 181 || 110 || 13 || 29 || 31 || 15 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=19 EBI] || 26.5 || 89.3
+|-
+| [[Chromosome 20 (human)|20]] || 21 || 63,025,520 || 1,206,753 || 533 || 13 || 213 || 57 || 15 || 46 || 37 || 34 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=20 EBI] || 27.5 || 91.4
+|-
+| [[Chromosome 21 (human)|21]] || 16 || 48,129,895 || 787,784 || 225 || 8 || 150 || 16 || 5 || 21 || 19 || 8 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=21 EBI] || 13.2 || 92.6
+|-
+| [[Chromosome 22 (human)|22]] || 17 || 51,304,566 || 745,778 || 431 || 21 || 308 || 31 || 5 || 23 || 23 || 23 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=22 EBI] || 14.7 || 93.8
+|-
+| [[X chromosome|X]] || 53 || 155,270,560 || 2,174,952 || 815 || 23 || 780 || 128 || 22 || 85 || 64 || 52 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=X EBI] || 60.6 || 99.1
+|-
+| [[Y chromosome|Y]] || 20 || 59,373,566 || 286,812 || 45 || 8 || 327 || 15 || 7 || 17 || 3 || 2 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=Y EBI] || 12.5 || 100.0
+|-
+| [[Mitochondrial DNA|mtDNA]] || 0.0054 || 16,569 || 929 || 13 || 0 || 0 || 0 || 2 || 0 || 0 || 22 || [http://useast.ensembl.org/Homo_sapiens/Location/Chromosome?r=MT EBI] || N/A || 100.0
+|}
+'''Table 1''' (above) summarizes the physical organization and gene content of the human [[reference genome]], with links to the original analysis, as published in the [[Ensembl]] database at the [[European Bioinformatics Institute]] (EBI) and [[Wellcome Trust Sanger Institute]]. Chromosome lengths were estimated by multiplying the number of base pairs by 0.34 nanometers, the distance between base pairs in the [[DNA#Properties|DNA double helix]]. The number of proteins is based on the number of initial [[precursor mRNA]] transcripts, and does not include products of [[Alternative splicing|alternative pre-mRNA splicing]], or modifications to protein structure that occur after [[Translation (biology)|translation]]. 
+
+The number of [[Human genetic variation|variations]] is a summary of unique DNA sequence changes that have been identified within the sequences analyzed by Ensembl as of July, 2012; that number is expected to increase as further [[Personal genomics|personal genomes]] are sequenced and examined. In addition to the gene content shown in this table, a large number of non-expressed functional sequences have been identified throughout the human genome (see below). Links open windows to the reference chromosome sequence in the EBI (E), NCBI (N), or UCSC (U) genome browsers. The table also describes prevalence of genes encoding structural RNAs in the genome. 
+
+[[MiRNA]], or MicroRNA, functions as a post-transcriptional regulator of gene expression. Ribosomal RNA, or [[rRNA]], makes up the RNA portion of the ribosome and is critical in the synthesis of proteins. [[Small nuclear RNA]], or snRNA, is found in the nucleus of the cell. Its primary function is in the processing of pre-mRNA molecules and also in the regulation of transcription factors. SnoRNA, or [[Small nucleolar RNA]], primarily functions in guiding chemical modifications to other RNA molecules.
+
+==Coding vs. noncoding DNA==
+The content of the human genome is commonly divided into coding and noncoding DNA sequences. [[Coding region|Coding DNA]] is defined as those sequences that can be transcribed into [[mRNA]] and [[Translation (biology)|translated]] into proteins during the human life cycle; these sequences occupy only a small fraction of the genome (<2%). [[Noncoding DNA]] is made up of all of those sequences (ca. 98% of the genome) that are not used to encode proteins. 
+
+Some noncoding DNA contains genes for RNA molecules with important biological functions ([[noncoding RNA]], for example [[ribosomal RNA]] and [[transfer RNA]]). The exploration of the function and evolutionary origin of noncoding DNA is an important goal of contemporary genome research, including the [[ENCODE]] (Encyclopedia of DNA Elements) project, which aims to survey the entire human genome, using a variety of experimental tools whose results are indicative of molecular activity.
+
+==Coding sequences (protein-coding genes)==
+[[File:Human genome by functions.svg|thumb|480px|Human proteins categorized by function, given both as number of encoding genes and percentage of all genes.<ref>[http://www.pantherdb.org/chart/summary/pantherChart.jsp?filterLevel=1&chartType=1&listType=1&type=5&species=Homo%20sapiens PANTHER Pie Chart] at the PANTHER Classification System homepage. Retrieved May 25, 2011</ref>]]
+
+Protein-coding sequences represent the most widely studied and best understood component of the human genome. These sequences ultimately lead to the production of all human proteins, although several biological processes (e.g. [[V(D)J recombination|DNA rearrangements]] and [[alternative splicing|alternative pre-mRNA splicing]]) can lead to the production of many more unique proteins than the number of protein-coding genes.
+
+The complete modular protein-coding capacity of the genome is contained within the [[exome]], and consists of DNA sequences encoded by [[exons]] that can be translated into proteins. Because of its biological importance, and the fact that it constitutes less than 2% of the genome, sequencing of the exome was the first major milepost of the Human Genome Project. 
+
+The number of protein-coding genes within the human genome remains a subject of active investigation. A 2012 analysis of the human genome based on ''[[in vitro]]'' gene expression in multiple cell lines identified 20,687 protein-coding [[gene]]s.<ref name="ENCODEScience"/> Although the estimate of the number of protein genes has varied widely, ranging upto 2,000,000 in the late 1960s,<ref>{{cite journal |doi=10.1016/0022-5193(69)90015-0 |last1=Kauffman |first1=S|year=1969 |title=Metabolic stability and epigenesis in randomly constructed genetic nets |journal=Journal of Theoretical Biology |publisher=Elsevier |volume=22 |issue=3 |pages=437–467 |url=http://www.sciencedirect.com/science/article/pii/0022519369900150 |pmid=5803332}}</ref> several researchers pointed out in the early 1970s that the estimates of [[genetic load|mutational load]] from deleterious mutations placed an upper limit of approximately 40,000 for the total number of functional loci (this includes protein-coding and functional non-coding genes).<ref name="Ohno1972">{{cite journal|last1=Ohno|first1=S.|title= An argument for the genetic simplicity of man and other mammals|journal=Journal of Human Evolution|volume=1|issue=6|year=1972|pages=651–662|doi=10.1016/0047-2484(72)90011-5}}</ref> 
+
+The number of human protein-coding genes is not significantly larger than that of many less complex organisms, such as the [[Caenorhabditis elegans|roundworm]] and the [[Drosophila melanogaster|fruit fly]]. This difference may result from the extensive use of [[Alternative splicing|alternative pre-mRNA splicing]] in humans, which provides the ability to build a very large number of modular proteins through the selective incorporation of exons
+
+Protein-coding genes are distributed unevenly across the chromosomes, with an especially high gene density within chromosomes 19, 11, and 1 (Table 1). Each chromosome contains various gene-rich and gene-poor regions, which may be correlated with [[Cytogenetics|chromosome bands]] and [[GC-content]] {{Citation needed|date=September 2012}}. The significance of these nonrandom patterns of gene density is not well understood.<ref>M. Huang, H. Zhu, B. Shen, G. Gao, [http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F5162127%2F5162128%2F05162209.pdf%3Farnumber%3D5162209&authDecision=-203 "A non-random gait through the human genome"], ''3rd International Conference on Bioinformatics and Biomedical Engineering'' (UCBBE, 2009), 1–3</ref>
+
+The size of protein-coding genes within the human genome shows enormous variability (Table 2). For example, the gene for [[histone H1]]a (HIST1HIA) is relatively small and simple, lacking introns and encoding mRNA sequences of 781 nt and a 215 amino acid protein (648 nt [[open reading frame]]). [[Dystrophin]] (DMD) is the largest protein-coding gene in the human reference genome, spanning a total of 2.2 MB, while [[Titin]] (TTN) has the longest coding sequence (80,780 bp), the largest number of [[exons]] (364), and the longest single exon (17,106 bp). Over the whole genome, the median size of an exon is 122 bp (mean = 145 bp), the median number of exons is 7 (mean = 8.8), and the median coding sequence encodes 367 amino acids (mean = 447 amino acids; Table 21 in <ref name=IHSGC2001>{{cite journal}}</ref>).
+
+{| class="wikitable sortable"
+|-
+! Protein !! Chrom !! Gene !! Length !! Exons !! Exon length !! Intron length !! Alt splicing
+|-
+| [[BRCA2|Breast cancer type 2 susceptibility protein]] || 13 || [http://omim.org/entry/600185 BRCA2] || 83,736 || 27 || 11,386 || 72,350 || yes
+|-
+| [[Cystic fibrosis transmembrane conductance regulator]] || 7 || [http://omim.org/entry/602421 CFTR] || 202,881 || 27 || 4,440 || 198,441 || yes
+|-
+| [[Cytochrome b]] || MT || [http://omim.org/entry/516020 MTCYB] || 1,140 || 1 || 1,140 || 0 || no
+|-
+| [[Dystrophin]] || X || [http://omim.org/entry/300377 DMD] || 2,220,381 || 79 || 10,500 || 2,209,881 || yes
+|-
+| [[Glyceraldehyde-3-phosphate dehydrogenase]] || 12 || [http://omim.org/entry/138400 GAPDH] || 4,444 || 9 || 1,425 || 3,019 || yes 
+|-
+|  [[Hemoglobin|Hemoglobin beta subunit]] || 11 || [http://omim.org/entry/141900?search=hbb%20gene&highlight=gene%20hbb HBB] || 1,605 || 3 || 626 || 979 || no
+|-
+| [[Histone H1|Histone H1A]] || 6 || [http://omim.org/entry/142709?search=histone%20h1&highlight=h1%20histone HIST1H1A] || 781 || 1 || 781 || 0 || no
+|-
+| [[Titin]] || 2 || [http://omim.org/entry/188840?search=ttn&highlight=ttn TTN] || 281,434 || 364 || 104,301 || 177,133 || yes
+|}
+'''Table 2. Examples of human protein-coding genes.''' Chrom, chromosome. Alt splicing, alternative pre-mRNA splicing. (Data source: [http://useast.ensembl.org/Homo_sapiens/Location/Genome?r=6:133017695-133161157 Ensembl genome browser] release 68, July 2012)
+
+==Noncoding DNA (ncDNA)==
+{{Main|Noncoding DNA}}
+
+Noncoding DNA is defined as all of the DNA sequences within a genome that are not found within protein-coding exons, and so are never represented within the amino acid sequence of expressed proteins. By this definition, more than 98% of the human genomes is composed of ncDNA.
+
+Numerous classes of noncoding DNA have been identified, including genes for noncoding RNA (e.g. tRNA and rRNA), pseudogenes, introns, untranslated regions of mRNA, regulatory DNA sequences, repetitive DNA sequences, and sequences related to mobile genetic elements.
+
+Numerous sequences that are included within genes are also defined as noncoding DNA. These include genes for noncoding RNA (e.g. tRNA, rRNA), and untranslated components of protein-coding genes (e.g. introns, and 5' and 3' untranslated regions of mRNA).
+
+Protein-coding sequences (specifically, coding [[exon]]s) constitute less than 1.5% of the human genome.<ref name="IHSGC2001" /> In addition, about 26% of the human genome is  [[introns]].<ref name="Gregory2005">{{cite journal|last1=Gregory|first1=T. Ryan|title=Synergy between sequence and size in Large-scale genomics|journal=Nature Reviews Genetics|volume=6|issue=9|year=2005|pages=699–708|issn=1471-0056|doi=10.1038/nrg1674|pmid=16151375}}</ref> Aside from genes (exons and introns) and known regulatory sequences (8–20%), the human genome contains regions of noncoding DNA. The exact amount of noncoding DNA that plays a role in cell physiology has been hotly debated. Recent analysis by the [[ENCODE]] project indicates that 80% of the entire human genome is either transcribed, binds to regulatory proteins, or is associated with some other biochemical activity.<ref name="ENCODEScience"/> 
+
+It however remains controversial whether all of this biochemical activity contributes to cell physiology, or whether a substantial portion of this is the result transcriptional and biochemical noise, which must be actively filtered out by the organism.<ref name="PalazzoAkef2012">{{cite journal|last1=Palazzo|first1=Alexander F.|last2=Akef|first2=Abdalla|title=Nuclear export as a key arbiter of "mRNA identity" in eukaryotes|journal=Biochimica et Biophysica Acta (BBA) – Gene Regulatory Mechanisms|volume=1819|issue=6|year=2012|pages=566–577|issn=18749399|doi=10.1016/j.bbagrm.2011.12.012}}</ref> Excluding protein-coding sequences, introns, and regulatory regions, much of the non-coding DNA is composed of:
+Many DNA sequences that do not play a role in [[gene expression]] have important biological functions. [[Comparative genomics]] studies indicate that about 5% of the genome contains sequences of noncoding DNA that are highly [[Conserved sequence|conserved]], sometimes on time-scales representing hundreds of millions of years, implying that these noncoding regions are under strong [[evolution]]ary pressure and [[Natural selection|positive selection]].<ref name=Ludwig>{{cite journal |author=Ludwig MZ |title=Functional evolution of noncoding DNA |journal=Curr. Opin. Genet. Dev. |volume=12 |issue=6 |pages=634–9 |year=2002 |month=December |pmid=12433575 |doi= 10.1016/S0959-437X(02)00355-6|url=http://linkinghub.elsevier.com/retrieve/pii/S0959437X02003556}}</ref> 
+
+Many of these sequences regulate the structure of chromosomes by limiting the regions of [[heterochromatin]] formation and regulating structural features of the chromosomes, such as the [[telomeres]] and [[centromeres]]. Other noncoding regions serve as [[DNA_replication#Origins|origins of DNA replication]]. Finally several regions are transcribed into functional noncoding RNA that regulate the expression of protein-coding genes (for example <ref name="MartensLaprade2004">{{cite journal|last1=Martens|first1=Joseph A.|last2=Laprade|first2=Lisa|last3=Winston|first3=Fred|title=Intergenic transcription is required to repress the Saccharomyces cerevisiae SER3 gene|journal=Nature|volume=429|issue=6991|year=2004|pages=571–574|issn=0028-0836|doi=10.1038/nature02538|pmid=15175754}}</ref>), mRNA translation and stability (see [[miRNA]]), chromatin structure (including [[histone]] modifications, for example <ref name="TsaiManor2010">{{cite journal|last1=Tsai|first1=M.-C.|last2=Manor|first2=O.|last3=Wan|first3=Y.|last4=Mosammaparast|first4=N.|last5=Wang|first5=J. K.|last6=Lan|first6=F.|last7=Shi|first7=Y.|last8=Segal|first8=E.|last9=Chang|first9=H. Y.|title=Long Noncoding RNA as Modular Scaffold of Histone Modification Complexes|journal=Science|volume=329|issue=5992|year=2010|pages=689–693|issn=0036-8075|doi=10.1126/science.1192002|pmid=20616235|pmc=2967777}}</ref>), DNA methylation (for example <ref name="BartolomeiZemel1991">{{cite journal|last1=Bartolomei|first1=Marisa S.|last2=Zemel|first2=Sharon|last3=Tilghman|first3=Shirley M.|title=Parental imprinting of the mouse H19 gene|journal=Nature|volume=351|issue=6322|year=1991|pages=153–155|issn=0028-0836|doi=10.1038/351153a0}}</ref>), DNA recombination (for example <ref name="Kobayashi2005">{{cite journal|last1=Kobayashi|first1=T.|title=Recombination Regulation by Transcription-Induced Cohesin Dissociation in rDNA Repeats|journal=Science|volume=309|issue=5740|year=2005|pages=1581–1584|issn=0036-8075|doi=10.1126/science.1116102}}</ref>), and cross-regulate other noncoding RNAs (for example <ref name="SalmenaPoliseno2011">{{cite journal|last1=Salmena|first1=Leonardo|last2=Poliseno|first2=Laura|last3=Tay|first3=Yvonne|last4=Kats|first4=Lev|last5=Pandolfi|first5=Pier Paolo|title=A ceRNA Hypothesis: The Rosetta Stone of a Hidden RNA Language?|journal=Cell|volume=146|issue=3|year=2011|pages=353–358|issn=00928674|doi=10.1016/j.cell.2011.07.014|pmid=21802130|pmc=3235919}}</ref>). It is also likely that many transcribed noncoding regions do not serve any role and that this transcription is the product of non-specific [[RNA Polymerase]] activity.<ref name="PalazzoAkef2012"/>
+
+===Pseudogenes===
+{{Main|Pseudogenes}}
+Pseudogenes are inactive copies of protein-coding genes, often generated by [[gene duplication]], that have become nonfunctional through the accumulation of inactivating mutations. Table 1 shows that the number of pseudogenes in the human genome is on the order of 13,000, and in some chromosomes is nearly the same as the number of functional protein-coding genes. Gene duplication is a major mechanism through which new genetic material is generated during [[molecular evolution]].
+
+For example, the [[olfactory receptor]] gene family is one of the best-documented examples of pseudogenes in the human genome. More than 60 percent of the genes in this family are non-functional pseudogenes in humans. By comparison, only 20 percent of genes in the mouse olfactory receptor gene family are pseudogenes.  Research suggests that this is a species-specific characteristic, as the most closely related primates all have proportionally fewer pseudogenes. This genetic discovery helps to explain the less acute sense of smell in humans relative to other mammals.<ref>{{cite journal|last=Gilad|first=Y|coauthors=Man, O; Pääbo, S; Lancet, D|title=Human specific loss of olfactory receptor genes.|journal=Proceedings of the National Academy of Sciences of the United States of America|date=2003 Mar 18|volume=100|issue=6|pages=3324–7|pmid=12612342|doi=10.1073/pnas.0535697100|pmc=152291}}</ref>
+
+===Genes for noncoding RNA (ncRNA)===
+{{Main|Noncoding RNA}}
+Noncoding RNA molecules play many essential roles in cells, especially in the many reactions of [[Translation (biology)|protein synthesis]] and [[Post-transcriptional modification|RNA processing]]. The human genome contains genes encoding 18,400 ncRNAs, including [[tRNA]], [[Ribosome|ribosomal]] RNA, [[microRNA]], and other non-coding RNA genes.<ref name="ENCODEScience"/><ref>{{cite journal |last1=Eddy |first1=S. R.|year=2001 |title=Non-coding RNA genes and the modern RNA world |journal=Nature Reviews Genetics |publisher=Nature Publishing Group |volume=2 |pages=919–929 |url=http://www.nature.com/nrg/journal/v2/n12/full/nrg1201-919a.html |pmid=11733745 |doi=10.1038/35103511 |issue=12}}</ref>
+
+One historical misconception regarding the ncRNAs is that they lack critical genetic information or function. Rather, these ncRNAs are often critical elements in gene regulation and expression. Noncoding RNA also contributes to epigenetics, transcription, RNA splicing, and the translational machinery. The role of RNA in genetic regulation and disease offers a new potential level of unexplored genomic complexity.<ref>{{cite journal|last=Mattick|first=JS|coauthors=Makunin, IV|title=Non-coding RNA.|journal=Human Molecular Genetics|date=2006 Apr 15|volume=15 Spec No 1|pages=R17-29|pmid=16651366|doi=10.1093/hmg/ddl046}}</ref>
+
+===Introns and untranslated regions of mRNA===
+In addition to the ncRNA molecules that are encoded by discrete genes, the initial transcripts of protein coding genes usually contain extensive noncoding sequences, in the form of [[introns]], [[Five prime untranslated region|5'-untranslated regions]] (5'-UTR), and [[Three prime untranslated region|3'-untranslated regions]] (3'-UTR). Within most protein-coding genes of the human genome, the length of intron sequences is 10- to 100-times the length of exon sequences (Table 2).
+
+===Regulatory DNA sequences===<!-- This section is linked from [[Human genome]] -->
+The human genome has many different [[Regulatory regions|regulatory sequences]] which are crucial to controlling [[gene expression]]. Conservative estimates indicate that these sequences make up 8% of the genome,<ref name="doi10.1038/nature11247">{{cite doi|10.1038/nature11247}}</ref> however extrapolations from the [[ENCODE]] project give that 20<ref>Ewan Birney, http://genomeinformatician.blogspot.ca/2012/09/encode-my-own-thoughts.html</ref>-40%<ref>{{cite doi|10.1101/gr.146506.112}}</ref> of the genome is gene regulatory sequence. Some types of non-coding DNA are genetic "switches" that do not encode proteins, but do regulate when and where genes are expressed (called [[enhancer (genetics)|enhancers]]).<ref>Carroll, Sean B. et al. (May 2008). "Regulating Evolution", ''Scientific American'', pp. 60–67.</ref>
+
+Regulatory sequences have been known since the late 1960s.<ref name="MillerIppen1968">{{cite journal|last1=Miller|first1=Jeffrey H.|last2=Ippen|first2=Karin|last3=Scaife|first3=John G.|last4=Beckwith|first4=Jon R.|title=The promoter-operator region of the Lac operon of Escherichia coli|journal=Journal of Molecular Biology|volume=38|issue=3|year=1968|pages=413–420|issn=00222836|doi=10.1016/0022-2836(68)90395-1}}</ref> The first identification of regulatory sequences in the human genome relied on recombinant DNA technology.<ref name="WrightRosenthal1984">{{cite journal|last1=Wright|first1=Stephanie|last2=Rosenthal|first2=Amon|last3=Flavell|first3=Richard|last4=Grosveld|first4=Frank|title=DNA sequences required for regulated expression of β-globin genes in murine erythroleukemia cells|journal=Cell|volume=38|issue=1|year=1984|pages=265–273|issn=00928674|doi=10.1016/0092-8674(84)90548-8}}</ref> Later with the advent of genomic sequencing, the identification of these sequences could be inferred by evolutionary conservation. The evolutionary branch between the [[primates]] and [[mouse]], for example, occurred 70–90 million years ago.<ref>{{Cite journal| author = Nei M, Xu P, Glazko G | title = Estimation of divergence times from multiprotein sequences for a few mammalian species and several distantly related organisms | journal = Proc Natl Acad Sci USA | volume = 98 | issue = 5 | pages = 2497–502 | year = 2001 | pmid = 11226267 | url=http://www.pnas.org/cgi/content/full/051611498 | doi = 10.1073/pnas.051611498 | pmc = 30166|bibcode = 2001PNAS...98.2497N }}</ref> So computer comparisons of gene sequences that identify [[conserved non-coding sequence]]s will be an indication of their importance in duties such as gene regulation.<ref>{{Cite journal| author = Loots G, Locksley R, Blankespoor C, Wang Z, Miller W, Rubin E, Frazer K | title = Identification of a coordinate regulator of interleukins 4, 13, and 5 by cross-species sequence comparisons | journal = Science | volume = 288 | issue = 5463 | pages = 136–40 | year = 2000 | pmid = 10753117 | doi = 10.1126/science.288.5463.136|bibcode = 2000Sci...288..136L }}
+[http://www.lbl.gov/Science-Articles/Archive/mouse-dna-model.html Summary]</ref> 
+
+Other genomes have been sequenced with the same intention of aiding conservation-guided methods, for exampled the [[pufferfish]] genome.<ref>{{Cite web| last = Meunier | first = Monique | url = http://www.cns.fr/externe/English/Actualites/Presse/261001_1.html | title = [[Genoscope]] and Whitehead announce a high sequence coverage of the Tetraodon nigroviridis genome | publisher = Genoscope | accessdate = 2006-09-12 |archiveurl = http://web.archive.org/web/20061016085223/http://www.cns.fr/externe/English/Actualites/Presse/261001_1.html <!-- Bot retrieved archive --> |archivedate = 16 October 2006}}</ref> However, regulatory sequences disappear and re-evolve during evolution at a high rate.<ref>{{cite doi|10.1038/nrg3229}}</ref><ref>{{cite doi|10.1126/science.1186176}}</ref><ref>{{cite doi|10.1126/science.1160930}}</ref> As of 2012, the efforts have shifted toward finding interactions between DNA and regulatory proteins by the technique [[ChIP-Seq]], or gaps where the DNA is not packaged by [[histone]]s ([[hypersensitive site|DNase hypersensitive sites]]), both of which tell where there are active regulatory sequences in the investigated cell type.<ref name="doi10.1038/nature11247"/>
+
+===Repetitive DNA sequences===
+About 8% of the human genome consists of [[repetitive DNA|repetitive DNA sequences]], termed tandem DNA arrays or tandem repeats. The repeated sequences may be of variable lengths, from two nucleotides to tens of nucleotides. These sequences are highly variable, even among closely related individuals, and so are used for [[genealogical DNA testing]] and [[forensic DNA|forensic DNA analysis]].
+
+Repeated sequences of fewer then ten nucleotides (e.g. the dinucleotide repeat (AC)<sub>n</sub>) are termed microsatellite sequences. Among the microsatellite sequences, trinucleotide repeats are of particular importance, as sometimes occur within coding regions of genes for proteins and may lead to genetic disorders. For example, Huntington's disease results from an expansion of the trinucleotide repeat (CAG)<sub>n</sub> within the ''[[Huntingtin]]'' gene on human chromosome 4. [[Telomeres]] (the ends of linear chromosomes) end with a microsatellite hexanucleotide repeat of the sequence (TTAGGG)<sub>n</sub>.
+
+Tandem repeats of longer sequences (arrays of repeated sequences 10–60 nucleotides long) are termed [[minisatellite]]s.
+
+===Mobile genetic elements (transposons) and their relics===
+[[Transposable element|Transposable genetic elements]], DNA sequences that can replicate and insert copies of themselves at other locations within a host genome, are an abundant component in the human genome. The most abundant transposon lineage, ''Alu'', has about 50,000 active copies,<ref>{{cite doi|10.1101/gr.081737.108}}</ref> while another lineage, LINE-1, has about 100 active copies per genome (the number varies between people).<ref>{{cite doi|10.1073/pnas.0831042100                                    }}</ref> Together with non-functional relics of old transposons, they account for over half of total human DNA.<ref>Nicholas H. Barton, Derek E. G. Briggs, Jonathan A. Eisen, David B. Goldstein, Nipam H. Patel "Evolution" Cold Spring Harbor Laboratory Press; 1st edition (June 30, 2007) ISBN 0-87969-684-2</ref> Sometimes called "jumping genes", transposons have played a major role in sculpting the human genome. Some of these sequences represent [[endogenous retroviruses]], DNA copies of viral sequences that have become permanently integrated into the genome and are now passed on to succeeding generations. 
+
+Mobile elements within the human genome can be classified into [[Retrotransposon#LTR retrotransposons|LTR retrotransposons]] (8.3% of total genome), [[short interspersed nuclear element|SINEs]] (13.1% of total genome) including [[Alu elements]], [[long interspersed nuclear element|LINEs]] (20.4% of total genome), and [[Transposable_element#Classification|Class II DNA transposons]] (2.9% of total genome).
+
+==Genomic variation in humans==
+{{Main|Human genetic variation|Human genetic clustering}}
+
+===The Human Reference Genome===
+With the exception of identical twins, all humans show significant variation in genomic DNA sequences. The [[Reference genome|Human Reference Genome]] (HRG) is used as a standard sequence reference. 
+
+There are several important points concerning the Human Reference Genome--
+* The HRG is a haploid sequence. Each chromosome is represented once.
+* The HRG is a composite sequence, and does not correspond to any actual human individual.
+* The HRG is periodically updated to correct errors and ambiguities.
+* The HRG in no way represents an "ideal" or "perfect" human individual. It is simply a standardized representation or model that is used for comparative purposes.
+
+===Measuring human genetic variation===
+Most studies of human genetic variation have focused on [[single-nucleotide polymorphism]]s (SNPs), which are substitutions in individual bases along a chromosome. Most analyses estimate that SNPs occur 1 in 1000 base pairs, on average, in the [[euchromatin|euchromatic]] human genome, although they do not occur at a uniform density. Thus follows the popular statement that "we are all, regardless of [[Race (classification of human beings)|race]], genetically 99.9% the same",<ref>[http://clinton4.nara.gov/WH/SOTU00/sotu-text.html from Bill Clinton's 2000 State of the Union address]</ref> although this would be somewhat qualified by most geneticists. For example, a much larger fraction of the genome is now thought to be involved in [[copy number variation]].<ref>{{Cite web|author=Nature |url=http://www.nature.com/nature/journal/v444/n7118/full/nature05329.html |title=Global variation in copy number in the human genome : Article : Nature |publisher=Nature |date= |accessdate=2009-08-09}}</ref> A large-scale collaborative effort to catalog SNP variations in the human genome is being undertaken by the [[International HapMap Project]].
+
+The genomic loci and length of certain types of small [[Repeated sequence (DNA)|repetitive sequences]] are highly variable from person to person, which is the basis of [[DNA fingerprinting]] and DNA [[parental testing|paternity testing]] technologies. The [[heterochromatin|heterochromatic]] portions of the human genome, which total several hundred million base pairs, are also thought to be quite variable within the human population (they are so repetitive and so long that they cannot be accurately sequenced with current technology). These regions contain few genes, and it is unclear whether any significant [[phenotype|phenotypic]] effect results from typical variation in repeats or heterochromatin.
+
+Most gross genomic mutations in [[gamete]] germ cells probably result in inviable embryos; however, a number of human diseases are related to large-scale genomic abnormalities. [[Down syndrome]], [[Turner Syndrome]], and a number of other diseases result from [[nondisjunction]] of entire chromosomes. [[Cancer]] cells frequently have [[aneuploidy]] of chromosomes and chromosome arms, although a [[Causality|cause and effect]] relationship between aneuploidy and cancer has not been established.
+
+====Mapping human genomic variation====
+Whereas a genome sequence lists the order of every DNA base in a genome, a genome map identifies the landmarks. A genome map is less detailed than a genome sequence and aids in navigating around the genome.<ref>{{Cite web|url=http://www.genomenewsnetwork.org/resources/whats_a_genome/Chp3_1.shtml |title=What's a Genome? |publisher=Genomenewsnetwork.org |date=2003-01-15 |accessdate=2009-05-31}}</ref><ref>{{Cite web|author=NCBI_user_services |url=http://www.ncbi.nlm.nih.gov/About/primer/mapping.html |title=Mapping Factsheet |publisher=Ncbi.nlm.nih.gov |date=2004-03-29 |accessdate=2009-05-31}}</ref>
+
+An example of a variation map is the HapMap being developed by the [[International HapMap Project]]. The HapMap is a [[haplotype]] map of the human genome, "which will describe the common patterns of human DNA sequence variation."<ref>{{Cite web|url=http://www.hapmap.org/abouthapmap.html |title=About the Project |publisher=HapMap |date= |accessdate=2009-05-31}}</ref> It catalogs the patterns of small-scale variations in the genome that involve single DNA letters, or bases.
+
+Researchers published the first sequence-based map of large-scale structural variation across the human genome in the journal ''[[Nature (journal)|Nature]]'' in May 2008.<ref>{{Cite web|url=http://www.genome.gov/27026113 |title=2008 Release: Researchers Produce First Sequence Map of Large-Scale Structural Variation in the Human Genome |publisher=genome.gov |date= |accessdate=2009-05-31}}</ref><ref>{{Cite web|author=Nature |url=http://www.nature.com/nature/journal/v453/n7191/abs/nature06862.html |title=Mapping and sequencing of structural variation from eight human genomes : Abstract |doi=10.1038/nature06862 |publisher=Nature |date= |accessdate=2009-05-31}}</ref> Large-scale structural variations are differences in the genome among people that range from a few thousand to a few million DNA bases; some are gains or losses of stretches of genome sequence and others appear as re-arrangements of stretches of sequence. These variations include [[copy number variation|differences in the number of copies]] individuals have of a particular gene, deletions, translocations and inversions.
+
+===Personal genomes===
+{{See also|Personal genomics}}
+A personal genome sequence is a (nearly) complete [[DNA sequencing|sequence]] of the chemical base pairs that make up the [[DNA]] of a single person. Because medical treatments have different effects on different people because of genetic variations such as [[single-nucleotide polymorphisms]] (SNPs), the analysis of personal genomes may lead to personalized medical treatment based on individual genotypes.{{Citation needed|date=December 2008}}
+
+The first personal genome sequence to be determined was that of [[Craig Venter]] in 2007.  Personal genomes had not been sequenced in the public Human Genome Project to protect the identity of volunteers who provided DNA samples. That sequence was derived from the DNA of several volunteers from a diverse population.<ref>{{Cite web|url=http://www.genome.gov/11006943 |title=Human Genome Project Completion: Frequently Asked Questions |publisher=genome.gov |date= |accessdate=2009-05-31}}</ref>  However, early in the Venter-led [[Celera Genomics]] genome sequencing effort the decision was made to switch from sequencing a composite sample to using DNA from a single individual, later revealed to have been Venter himself.  Thus the Celera human genome sequence released in 2000 was largely that of one man.  Subsequent replacement of the early composite-derived data and determination of the diploid sequence, representing both sets of [[chromosomes]], rather than a haploid sequence originally reported, allowed the release of the first personal genome.<ref name="dna switch">{{cite news |first=Emily |last=Singer |url=http://www.technologyreview.com/biomedicine/19328/?a=f |title=Technology Review |newspaper=[[Technology review]] |date=September 4, 2007 |accessdate=May 25, 2010}}</ref>  In April 2008, that of [[James Watson]] was also completed.  Since then hundreds of personal genome sequences have been released,<ref>http://www.completegenomics.com/news-events/press-releases/Complete-Genomics-Adds-29-High-Coverage-Complete-Human-Genome-Sequencing-Datasets-to-its-Public-Genomic-Repository--119298369.html</ref> including those of Desmund Tutu,<ref>[http://www.guardian.co.uk/science/2010/feb/17/desmond-tutu-genome-genetic-diversity] Desmond Tutu's genome sequenced as part of genetic diversity study], Ian Sample, ''The Guardian'', 17 February 2010.</ref><ref>[http://www.nature.com/nature/journal/v463/n7283/full/nature08795.html Complete Khoisan and Bantu genomes from southern Africa]; Schuster, Stephan C. ''Nature'' '''463''', 943–947 (18 February 2010)</ref> and of a [[Paleo-Eskimo]].<ref>{{Cite journal  | last1 = Rasmussen | first1 = M. | last2 = Li | first2 = Y. | last3 = Lindgreen | first3 = S. | last4 = Pedersen | first4 = JS. | last5 = Albrechtsen | first5 = A. | last6 = Moltke | first6 = I. | last7 = Metspalu | first7 = M. | last8 = Metspalu | first8 = E. | last9 = Kivisild | first9 = T. | title = Ancient human genome sequence of an extinct Palaeo-Eskimo. | journal = Nature | volume = 463 | issue = 7282 | pages = 757–62 | month = Feb | year = 2010 | doi = 10.1038/nature08835 | PMID = 20148029 }}</ref>
+
+The sequencing of individual genomes further unveiled levels of genetic complexity that had not been appreciated before. Personal genomics helped reveal the significant level of diversity in the human genome attributed not only to SNPs but structural variations as well. However, the application of such knowledge to the treatment of disease and in the medical field is only in its very beginnings.<ref>{{cite journal|last=Gonzaga-Jauregui|first=C|coauthors=Lupski, JR; Gibbs, RA|title=Human genome sequencing in health and disease.|journal=Annual review of medicine|year=2012|volume=63|pages=35–61|pmid=22248320|doi=10.1146/annurev-med-051010-162644}}</ref> [[Exome sequencing]] has become increasingly popular as a tool to aid in diagnosis of genetic disease because the exome contributes only 1% of the genomic sequence but accounts for roughly 85% of the disease causing mutations.<ref>{{cite journal|last=Choi|first=M.|coauthors=Scholl, U. I.; Ji, W.; Liu, T.; Tikhonova, I. R.; Zumbo, P.; Nayir, A.; Bakkaloglu, A.; Ozen, S.; Sanjad, S.; Nelson-Williams, C.; Farhi, A.; Mane, S.; Lifton, R. P.|title=Genetic diagnosis by whole exome capture and massively parallel DNA sequencing|journal=Proceedings of the National Academy of Sciences|date=27 October 2009|volume=106|issue=45|pages=19096–19101|doi=10.1073/pnas.0910672106|pmid=19861545|pmc=2768590}}</ref>
+
+==Human genetic disorders==
+{{details|Genetic disorder}}
+
+Most aspects of human biology involve both genetic (inherited) and non-genetic (environmental) factors. Some inherited variation influences aspects of our biology that are not medical in nature (height, eye color, ability to taste or smell certain compounds, etc.). Moreover, some genetic disorders only cause disease in combination with the appropriate environmental factors (such as diet). With these caveats, genetic disorders may be described as clinically defined diseases caused by genomic DNA sequence variation. In the most straightforward cases, the disorder can be associated with variation in a single gene. For example, [[cystic fibrosis]] is caused by mutations in the CFTR gene, and is the most common recessive disorder in caucasian populations with over 1,300 different mutations known.<ref name="ncbi.nlm.nih.gov">[http://www.ncbi.nlm.nih.gov/Omim/mimstats.html Online Mendelian Inheritance in Man (OMIM)]</ref>
+
+Disease-causing mutations in specific genes are usually severe in terms of gene function, and are fortunately rare, thus genetic disorders are similarly individually rare. However, since there are many genes that can vary to cause genetic disorders, in aggregate they constitute a significant component of known medical conditions, especially in pediatric medicine. Molecularly characterized genetic disorders are those for which the underlying causal gene has been identified, currently there are approximately 2,200 such disorders annotated in the OMIM database.<ref name="ncbi.nlm.nih.gov"/>
+
+Studies of genetic disorders are often performed by means of family-based studies. In some instances population based approaches are employed, particularly in the case of so-called founder populations such as those in Finland, French-Canada, Utah, Sardinia, etc. Diagnosis and treatment of genetic disorders are usually performed by a [[geneticist]]-physician trained in clinical/medical genetics. The results of the Human Genome Project are likely to provide increased availability of [[genetic testing]] for gene-related disorders, and eventually improved treatment. Parents can be screened for hereditary conditions and [[Genetic counseling|counselled]] on the consequences, the probability it will be inherited, and how to avoid or ameliorate it in their offspring.
+
+As noted above, there are many different kinds of DNA sequence variation, ranging from complete extra or missing chromosomes down to single nucleotide changes. It is generally presumed that much naturally occurring genetic variation in human populations is phenotypically neutral, i.e. has little or no detectable effect on the physiology of the individual (although there may be fractional differences in fitness defined over evolutionary time frames). Genetic disorders can be caused by any or all known types of sequence variation. To molecularly characterize a new genetic disorder, it is necessary to establish a causal link between a particular genomic sequence variant and the clinical disease under investigation. Such studies constitute the realm of human molecular genetics.
+
+With the advent of the Human Genome and [[International HapMap Project]], it has become feasible to explore subtle genetic influences on many common disease conditions such as diabetes, asthma, migraine, schizophrenia, etc. Although some causal links have been made between genomic sequence variants in particular genes and some of these diseases, often with much publicity in the general media, these are usually not considered to be genetic disorders ''per se'' as their causes are complex, involving many different genetic and environmental factors. Thus there may be disagreement in particular cases whether a specific medical condition should be termed a genetic disorder. The categorized table below provides the prevalence as well as the genes or chromosomes associated with some human genetic disorders.
+
+{| class="wikitable"
+|-
+! Disorder !! Prevalence !! Chromosome or Gene Involved
+|-
+!colspan=3| Chromosomal Conditions
+|-
+| Down Syndrome || 1:600 || Chromosome 21
+|-
+| Klinefelter Syndrome || 1:500–1000 males || Additional X Chromosome
+|-
+| Turner Syndrome || 1:2000 females || Loss of X Chromsome
+|-
+!colspan=3| Cancers
+|-
+| Breast/Ovarian Cancer (susceptibility) || ~5% of cases of these cancer types || BRCA1, BRCA2
+|-
+| FAP (hereditary nonpolyposis coli) || 1:3500 || APC
+|-
+| Lynch syndrome || 5–10% of all cases of bowel cancer || MLH1, MSH2, MSH6, PMS2
+|-
+!colspan=3| Neurological Conditions
+|-
+| Huntington disease || 1:20000 || Huntingtin
+|-
+| Alzheimer disease ­‐ early onset || 1:2500 || PS1, PS2, APP
+|-
+!colspan=3| Other Conditions
+|-
+| Cystic fibrosis || 1:2500 || CFTR
+|-
+| Muscular dystrophy – Duchenne type || 1:3500 boys || Dystrophin
+|}
+
+==Evolution==
+{{See also|Human evolution|Chimpanzee Genome Project}}
+[[Comparative genomics]] studies of mammalian genomes suggest that approximately 5% of the human genome has been conserved by evolution since the divergence of extant lineages approximately 200 million years ago, containing the vast majority of genes.<ref name="Mouse2004">"<cite>...the proportion of small (50–100 bp) segments in the mammalian genome that is under (purifying) selection can be estimated to be about 5%. This proportion is much higher than can be explained by protein-coding sequences alone, implying that the genome contains many additional features (such as untranslated regions, regulatory elements, non-protein-coding genes, and chromosomal structural elements) under selection for biological function.</cite>" {{Cite journal| author = Mouse Genome Sequencing Consortium | title = Initial sequencing and comparative analysis of the mouse genome | journal = Nature | volume = 420 | issue = 6915 | pages = 520–62 | year = 2002 | pmid = 12466850 | doi = 10.1038/nature01262}}</ref><ref name="ENCODE">{{Cite journal| author = The ENCODE Project Consortium | title = Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project | journal = Nature | volume = 447 | pages = 799–816 | year = 2007 | doi = 10.1038/nature05874 | pmid = 17571346 | issue = 7146 | pmc = 2212820 | bibcode=2007Natur.447..799B}}</ref> The published [[chimpanzee]] genome differs from that of the human genome by 1.23% in direct sequence comparisons.<ref>"<cite>We calculate the genome-wide nucleotide divergence between human and chimpanzee to be 1.23%, confirming recent results from more limited studies.</cite> {{Cite journal| author = The Chimpanzee Sequencing and Analysis Consortium | title = Initial sequence of the chimpanzee genome and comparison with the human genome | journal = Nature | volume = 437 | issue = 7055 | pages = 69–87 | year = 2005 | pmid = 16136131 | doi = 10.1038/nature04072|bibcode = 2005Natur.437...69. }}</ref> Around 20% of this figure is accounted for by variation within each species, leaving only ~1.06% consistent sequence divergence between humans and chimps at shared genes.<ref>"<cite>we estimate that polymorphism accounts for 14–22% of the observed divergence rate and thus that the fixed divergence is ~1.06% or less.</cite> {{Cite journal| author = The Chimpanzee Sequencing and Analysis Consortium | title = Initial sequence of the chimpanzee genome and comparison with the human genome | journal = Nature | volume = 437 | issue = 7055 | pages = 69–87 | year = 2005 | pmid = 16136131 | doi = 10.1038/nature04072|bibcode = 2005Natur.437...69. }}</ref> This nucleotide by nucleotide difference is dwarfed, however, by the portion of each genome that is not shared, including around 6% of functional genes that are unique to either humans or chimps.<ref>"<cite>Our results imply that humans and chimpanzees differ by at least 6% (1,418 of 22,000 genes) in their complement of genes, which stands in stark contrast to the oft-cited 1.5% difference between orthologous nucleotide sequences.</cite>" {{Cite journal| author = Demuth J, De Bie T, Stajich JE, Cristianini N, Hahn MW | title = The Evolution of Mammalian Gene Families | journal = PLoS ONE | volume = 1 | issue = 1 | pages = E85 | year = 2006 | pmid = 17183716 | doi = 10.1371/journal.pone.0000085 | pmc = 1762380| editor1-last = Borevitz| editor1-first = Justin|bibcode = 2006PLoSO...1...85D }}</ref> 
+
+In other words, the considerable observable differences between humans and chimps may be due as much or more to genome level variation in the number, function and expression of genes rather than DNA sequence changes in shared genes. Indeed, even within humans, there has been found to be a previously unappreciated amount of copy number variation (CNV) which can make up as much as 5 – 15% of the human genome. In other words, between humans, there could be +/- 500,000,000 base pairs of DNA, some being active genes, others inactivated, or active at different levels. The full significance of this finding remains to be seen. On average, a typical human protein-coding gene differs from its chimpanzee [[ortholog]] by only two [[amino acid]] substitutions; nearly one third of human genes have exactly the same protein translation as their chimpanzee orthologs. A major difference between the two genomes is human [[chromosome 2 (human)|chromosome 2]], which is equivalent to a fusion product of chimpanzee chromosomes [[chromosome 12 (chimpanzee)|12]] and [[chromosome 13 (chimpanzee)|13]]<ref>"<cite>Human chromosome 2 resulted from a fusion of two ancestral chromosomes that remained separate in the chimpanzee lineage</cite>" {{Cite journal| author = The Chimpanzee Sequencing and Analysis Consortium | title = Initial sequence of the chimpanzee genome and comparison with the human genome | journal = Nature | volume = 437 | issue = 7055 | pages = 69–87 | year = 2005 | pmid = 16136131 | doi = 10.1038/nature04072|bibcode = 2005Natur.437...69. }} <br />"<cite>Large-scale sequencing of the chimpanzee genome is now imminent.</cite>"{{Cite journal| author = Olson M, Varki A | title = Sequencing the chimpanzee genome: insights into human evolution and disease | journal = Nat Rev Genet | volume = 4 | issue = 1 | pages = 20–8 | year = 2003 | pmid = 12509750 | doi = 10.1038/nrg981}}</ref> (later renamed to chromosomes 2A and 2B, respectively).
+
+Humans have undergone an extraordinary loss of [[olfactory receptor]] genes during our recent evolution, which explains our relatively crude sense of [[olfaction|smell]] compared to most other mammals. Evolutionary evidence suggests that the emergence of [[color vision]] in humans and several other [[primate]] species has diminished the need for the sense of smell.<ref>"<cite>Our findings suggest that the deterioration of the olfactory repertoire occurred concomitant with the acquisition of full trichromatic color vision in primates.</cite>" {{Cite journal| author = Gilad Y, Wiebe V, Przeworski M, Lancet D, Pääbo S | title = Loss of olfactory receptor genes coincides with the acquisition of full trichromatic vision in primates | journal = PLoS Biol | volume = 2 | issue = 1 | page = E5 | year = 2004 | pmid = 14737185 | doi = 10.1371/journal.pbio.0020005 | pmc = 314465}}</ref>
+
+==Mitochondrial DNA==
+The human [[mitochondrial DNA]] is of tremendous interest to geneticists, since it undoubtedly plays a role in [[mitochondrial disease]]. It also sheds light on human evolution; for example, analysis of variation in the human mitochondrial genome has led to the postulation of a recent common ancestor for all humans on the maternal line of descent. (see [[Mitochondrial Eve]])
+
+Due to the lack of a system for checking for copying errors, Mitochondrial DNA (mtDNA) has a more rapid rate of variation than nuclear DNA. This 20-fold increase in the mutation rate allows mtDNA to be used for more accurate tracing of maternal ancestry. Studies of mtDNA in populations have allowed ancient migration paths to be traced, such as the migration of [[Indigenous peoples of the Americas|Native Americans]] from [[Siberia]] or [[Polynesia]]ns from southeastern [[Asia]]. It has also been used to show that there is no trace of [[Neanderthal]] DNA in the European gene mixture inherited through purely maternal lineage.<ref>{{Cite web| last = Sykes | first = Bryan | date = 2003-10-09 | url = http://genome.wellcome.ac.uk/doc_WTD020876.html | title = Mitochondrial DNA and human history  | publisher = The Human Genome  | accessdate = 2006-09-19 }}</ref>
+
+==Epigenome==
+{{See also|Epigenetics}}
+
+Epigenetics describes a variety of features of the human genome that transcend its primary DNA sequence, such as [[chromatin]] packaging, [[histone]] modifications and [[DNA methylation]], and which are important in regulating gene expression, genome replication and other cellular processes. Epigenetic markers strengthen and weaken transcription of certain genes but do not affect the actual sequence of DNA nucleotides. DNA methylation is a major form of epigenetic control over gene expression and one of the most highly studied topics in epigenetics. During development, the human DNA methylation profile experiences dramatic changes. In early germ line cells, the genome has very low methylation levels. These low levels generally describe active genes. As development progresses, parental imprinting tags lead to increased methylation activity.<ref>{{Cite web|url=http://www.cell.com/content/article/abstract?uid=PIIS0092867407001262 |title=Misteli |doi=10.1016/j.cell.2007.01.028 |publisher=Cell |date= |accessdate=2009-05-31}}</ref><ref>{{Cite web|url=http://www.cell.com/content/article/abstract?uid=PIIS0092867407001286 |title=Bernstein et al. |doi=10.1016/j.cell.2007.01.033 |publisher=Cell |date= |accessdate=2009-05-31}}</ref>
+
+Epigenetic patterns can be identified between tissues within an individual as well as between individuals themselves. Identical genes that have differences only in their epigenetic state are called '''epialleles'''. Epialleles can be placed into three categories: those directly determined by an individual’s genotype, those influenced by genotype, and those entirely independent of genotype. The epigenome is also influenced significantly by environmental factors. Diet, toxins, and hormones impact the epigenetic state. Studies in dietary manipulation have demonstrated that methyl-deficient diets are associated with hypomethylation of the epigenome. Such studies establish epigenetics as an important interface between the environment and the genome.<ref>{{cite journal|last=Scheen|first=AJ|coauthors=Junien, C|title=[Epigenetics, interface between environment and genes: role in complex diseases].|journal=Revue medicale de Liege|date=2012 May–Jun|volume=67|issue=5–6|pages=250–7|pmid=22891475}}</ref>
+
+==See also==
+<div style="-moz-column-count:3; column-count:3;">
+* [[Genetics]]
+* [[Genomics]]
+* [[Genographic Project]]
+* [[Genomic organization]]
+* [[Noncoding DNA]]
+* [[Whole genome sequencing]]
+* [[Universal Declaration on the Human Genome and Human Rights]]
+</div>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Wikinews|Mexico presents first population-wide genome map for a Latin country}}
+* [http://www.genome.gov/ The National Human Genome Research Institute]
+* [http://www.ensembl.org/ Ensembl] The [[Ensembl]] Genome Browser Project
+* [http://www.ncbi.nlm.nih.gov/mapview/map_search.cgi?taxid=9606 National Library of Medicine human genome viewer]
+* [http://genome.ucsc.edu/ UCSC Genome Browser].
+* [http://www.ornl.gov/sci/techresources/Human_Genome/project/info.shtml Human Genome Project].
+* [http://www.cdc.gov/genomics/default.htm The National Office of Public Health Genomics]
+* [http://www.spiritindia.com/health-care-news-articles-10638.html New findings challenge established views about human genome]
+* [http://diversity.inmegen.gob.mx/gbrowse/cgi-bin/gbrowse/inmegen_diversity/ INMEGEN: Complete genetic map of some mexican native groups]
+* [http://www.sciencenews.org/index/generic/activity/view/id/70846/title/Missing_bits_of_DNA_may_define_humans Missing bits of DNA may define humans]
+
+{{Chromosomes}}
+{{Human genetics}}
+{{Use dmy dates|date=September 2010}}
+
+{{DEFAULTSORT:Human Genome}}
+[[Category:Genetic mapping]]
+[[Category:Genetics]]
+[[Category:Genomics]]
+[[Category:Humans|Genome]]
+[[Category:Human evolution]]
+[[Category:Human genetics]]
+[[Category:Sequenced genomes]]
+
+{{Link GA|zh}}
+{{Link FA|es}}
+[[fa:ژنوم]]

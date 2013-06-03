@@ -1,0 +1,42 @@
+'''Δ<sub>P</sub>''' ('''Delta P''') is a mathematical term used to illustrate a change (Δ) in pressure (<sub>P</sub>).
+
+==Uses==
+*[[Young–Laplace equation]]
+
+===Darcy–Weisbach equation===
+As used in the '''[[Darcy–Weisbach equation]]''' — Given that the [[head loss]] ''h<sub>f</sub>'' expresses the [[pressure]] loss ''&Delta;p'' as the height of a column of fluid,
+
+:<math>\Delta p = \rho \cdot g \cdot h_f</math>
+
+where ρ is the density of the fluid, the Darcy–Weisbach equation can also be written in terms of pressure loss:
+
+:<math>\Delta p = f \cdot \frac{L}{D} \cdot \frac{\rho V^2}{2}</math>
+
+===Lung compliance===
+In general, compliance is defined by the change in volume ([[ΔV]]) versus the associated change in pressure (ΔP), or [[ΔV/ΔP]]. During [[mechanical ventilation]], compliance can be influenced by 3 key physiologic factors:
+#[[Lung compliance]]
+#[[Chest wall compliance]]
+#[[Airway resistance]]
+
+Lung compliance is influenced by a variety of primary abnormalities of [[lung parenchyma]], both chronic and acute. [[Airway resistance]] is typically increased by [[bronchospasm]] and airway secretions. Chest wall compliance can be decreased by fixed abnormalities (e.g. [[kyphoscoliosis]], [[morbid obesity]]) or more variable problems driven by patient agitation while intubated.<ref name="pmid21866369">{{cite journal| author=Dellamonica J, Lerolle N, Sargentini C, Beduneau G, Di Marco F, Mercat A et al.| title=PEEP-induced changes in lung volume in acute respiratory distress syndrome. Two methods to estimate alveolar recruitment. | journal=Intensive Care Med | year= 2011 | volume=  37| issue=  10| pages=  1595–604| pmid=21866369 | doi=10.1007/s00134-011-2333-y | pmc= | url= }}</ref>
+
+Calculating Compliance on [[minute volume]] (V<sub>E</sub>: [[ΔV]] is always defined by [[tidal volume]] (V<sub>T</sub>), but ΔP is different for the measurement of dynamic vs. static compliance.
+
+====Dynamic Compliance (C<sub>dyn</sub>)====
+<math>C_{dyn} = \frac{{V_T}}{{PIP-PEEP}}</math>
+
+where PIP = [[peak inspiratory pressure]] (the maximum pressure during inspiration), and PEEP = [[positive end expiratory pressure]]. Alterations in airway resistance, [[lung compliance]] and chest wall compliance influence C<sub>dyn</sub>.
+
+====Static Compliance (C<sub>stat</sub>)====
+:<math>C_{stat} = \frac{{V_T}}{{P_{plat}-PEEP}}</math>
+where P<sub>plat</sub> = plateau pressure. P<sub>plat</sub> is measured at the end of inhalation and prior to exhalation using an inspiratory hold maneuver. During this maneuver, airflow is transiently (~0.5 sec) discontinued, which eliminates the effects of airway resistance. P<sub>plat</sub> is never > PIP and is typically < 3-5 cmH<sub>2</sub>O lower than PIP when airway resistance is normal.
+
+==References==
+{{reflist}}
+
+[[Category:Mathematical notation]]
+[[Category:Respiratory therapy]]
+[[Category:Mathematics in medicine]]
+
+
+{{Math-stub}}

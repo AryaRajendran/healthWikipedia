@@ -1,0 +1,352 @@
+[[Image:Chromatin immunoprecipitation sequencing.svg|thumb|right|300px|ChIP-sequencing workflow]]
+'''Chromatin Immunoprecipitation (ChIP)''' is a type of [[immunoprecipitation]] experimental technique used to investigate the interaction between [[protein]]s and [[DNA]] in the cell. It aims to determine whether specific proteins are associated with specific genomic regions, such as [[transcription factor]]s on [[promoter (biology)|promoter]]s or other [[DNA binding site]]s, and possibly defining [[cistrome]]s. ChIP also aims to determine the specific location in the genome that various [[histone]] modifications are associated with, indicating the target of the histone modifiers.<ref name="pmid20077036">{{cite journal
+| author = Collas, Philippe.
+| title = The Current State of Chromatin Immunoprecipitation
+| journal = Molecular Biotechnology
+| volume =45
+| issue =1
+| pages =87–100
+| year = 2010
+| month = January
+| pmid = 20077036
+| doi = 10.1007/s12033-009-9239-8
+}}</ref>
+
+Briefly, the method is as follows: protein and associated [[chromatin]] in a [[Cell disruption|cell lysate]] are temporarily bonded, the DNA-protein complexes (chromatin-protein) are then sheared and DNA fragments associated with the protein(s) of interest are selectively immunoprecipitated, and the associated DNA fragments are purified and their sequence is determined. These DNA sequences are supposed to be associated with the protein of interest ''in vivo''.
+
+==Typical ChIP==
+There are mainly two types of ChIP, primarily differing in the starting chromatin preparation. The first uses reversibly [[cross-link]]ed chromatin sheared by [[sonication]] called cross-linked ChIP (XChIP). Native ChIP (NChIP) uses native chromatin sheared by [[Micrococcus|micrococcal]] [[nuclease]] digestion.
+
+===Cross-linked ChIP (XChIP)===
+Cross-linked ChIP is mainly suited for mapping the DNA target of transcription factors or other chromatin-associated proteins, and uses reversibly cross-linked chromatin as starting material.  The agent for reversible cross-linking could be [[formaldehyde]]<ref name="pmid569554">{{cite journal
+|author=Jackson, Vaughn
+|title=Studies on histone organization in the nucleosome using formaldehyde as a reversible cross-linking agent
+|journal=[[Cell (journal)|Cell]]
+|volume=15
+|issue=3
+|pages=945–54
+|year=1978
+|month=November
+|pmid=569554
+|doi=10.1016/0092-8674(78)90278-7
+|url=http://linkinghub.elsevier.com/retrieve/pii/0092-8674(78)90278-7
+|issn=
+|accessdate=2010-03-13
+}}</ref> or [[ultraviolet|UV light]].<ref name="pmid3018544">{{cite journal
+|author=Gilmour DS, Lis JT
+|title=In vivo interactions of RNA polymerase II with genes of ''Drosophila melanogaster''
+|journal=[[Molecular and Cellular Biology (journal)|Molecular and Cellular Biology]]
+|volume=5
+|issue=8
+|pages=2009–18
+|year=1985
+|month=August
+|pmid=3018544
+|pmc=366919
+|doi=
+|url=http://mcb.asm.org/cgi/pmidlookup?view=long&pmid=3018544
+|issn=
+|accessdate=2010-03-13
+}}</ref> Then the cross-linked chromatin is usually sheared by sonication, providing fragments of 300 - 1000 [[base pair]]s (bp) in length. Mild formaldehyde crosslinking followed by nuclease digestion has been used to shear the chromatin.<ref name="pmid11751582">{{cite journal
+|author=Bauer UM, Daujat S, Nielsen SJ, Nightingale K, Kouzarides T
+|title=Methylation at arginine 17 of histone H3 is linked to gene activation
+|journal=[[EMBO Reports]]
+|volume=3
+|issue=1
+|pages=39–44
+|year=2002
+|month=January
+|pmid=11751582
+|pmc=1083932
+|doi=10.1093/embo-reports/kvf013
+|url=
+|issn=
+|accessdate=2010-03-13
+}}</ref>  Chromatin fragments of 400 - 500bp have proven to be suitable for ChIP assays as they cover two to three [[nucleosome]]s.
+
+Cell debris in the sheared lysate is then cleared by sedimentation and protein–DNA complexes are selectively immunoprecipitated using specific [[antibodies]] to the protein(s) of interest. The antibodies are commonly coupled to [[agarose]], [[sepharose]] or magnetic beads. The immunoprecipitated complexes (i.e., the bead–antibody–protein–target DNA sequence complex) are then collected and washed to remove non-specifically bound chromatin, the protein–DNA cross-link is reversed and proteins are removed by digestion with [[proteinase K]]. An [[epitope]]-tagged version of the protein of interest, or ''in vivo'' biotinylation <ref>Viens A et al. "Use of protein biotinylation in vivo for chromatin immunoprecipitation" (2004) ''Analytical Biochemistry'' '''325'''(1):68-76 [http://www.ncbi.nlm.nih.gov/pubmed/14715286]</ref> can be used instead of antibodies to the native protein of interest. 
+
+The DNA associated with the complex is then purified and identified by [[polymerase chain reaction]] (PCR), [[microarrays]] ([[ChIP-on-chip]]), molecular cloning and sequencing, or direct high-throughput sequencing ([[Chip-Sequencing|ChIP-Seq]]).
+
+===Native ChIP (NChIP)===
+Native ChIP is mainly suited for mapping the DNA target of [[histone]] modifiers. Generally, native chromatin is used as starting chromatin. As histones wrap around DNA to form nucleosomes, they are naturally linked. Then the chromatin is sheared by micrococcal nuclease digestion, which cuts DNA at the length of the linker, leaving nucleosomes intact and providing DNA fragments of one nucleosome (200bp) to five nucleosomes (1000bp) in length.
+
+Thereafter, methods similar to XChIP are used for clearing the cell debris, immunoprecipitating the protein of interest, removing protein from the immunoprecipated complex, and purifying and analyzing the complex-associated DNA.
+
+===Comparison of XChIP and NChIP===
+The major advantage for NChIP is [[antibody]] specificity. It is important to note that most antibodies to modified histones are raised against unfixed, synthetic peptide antigens and that the [[epitope]]s they need to recognize in the XChIP may be disrupted or destroyed by formaldehyde cross-linking, particularly as the cross-links are likely to involve [[lysine]] e-amino groups in the N-terminals, disrupting the epitopes. This is likely to explain the consistently low efficiency of XChIP protocols compare to NChIP.
+
+But XChIP and NChIP have different aims and advantages relative to each other. XChIP is for mapping target sites of transcription factors and other chromatin associated proteins; NChIP is for mapping target sites of histone modifiers (see Table 1).
+
+'''Table 1 Advantages and disadvantages of NChIP and XChIP'''
+{| class="wikitable"
+|-
+!
+! '''XChIP'''
+! '''NChIP'''
+|-
+| '''Advantages'''
+| Suitable for transcriptional factors, or any other weakly binding chromatin associated proteins.<br />Applicable to any organisms where native protein is hard to prepare
+| Testable antibody specificity<br />Better antibody specificity as target protein naturally intact<br />
+Better chromatin and protein recovery efficiency due to Better antibody specificity
+|-
+| '''Disadvantages'''
+| Inefficient chromatin recovery due to antibody target protein epitope disruption<br />May cause false positive result due to fixation of transient proteins to chromatin<br />Wide range of chromatin shearing size due to random cut by sonication.
+| Usually not suitable for non-histone proteins<br />Nucleosomes may rearrange during digestion
+|}
+
+==History and New ChIP methods==
+In 1984 [[John T. Lis]] and David Gilmour, at the time a graduate student in the Lis lab, used UV irradiation to covalently cross-link proteins in contact with neighboring DNA in intact living bacterial cells. Following lysis of cross-linked cells and immunoprecipitation of bacterial RNA polymerase, DNA associated with enriched RNA polymerase was hybridized to probes corresponding to different regions of known genes to determine the in vivo distribution and density of RNA polymerase at these genes. A year later they used the same methodology to study distribution of eukaryotic [[RNA polymerase II]] on fruit fly heat shock genes. These reports could perhaps be considered the pioneering work in the field of chromatin immunoprecipitation.<ref>[http://www.ncbi.nlm.nih.gov/pubmed/6379641 ]</ref><ref>[http://www.ncbi.nlm.nih.gov/pubmed/3018544 ]</ref> XChIP was further modified and developed by [[Alexander Varshavsky]] and co-workers, who examined distribution of [[histone H4]] on [[heat shock genes]] using formaldehyde cross-linking.<ref name="pmid18708349">{{cite journal
+| author = Varshavsky A
+| title = Discovery of cellular regulation by protein degradation
+| journal = [[Journal of Biological Chemistry]]
+| volume = 283
+| issue = 50
+| pages = 34469–89
+| year = 2008
+| month = December
+| pmid = 18708349
+| doi = 10.1074/jbc.X800009200
+| url = http://www.jbc.org/cgi/pmidlookup?view=long&pmid=18708349
+| issn =
+| accessdate = 2010-03-06
+}}</ref><ref name="pmid2454748">{{cite journal
+| author = Solomon, Mark J; Larsen Pamela L; Varshavsky, Alexander.
+| title = Mapping protein-DNA interactions in vivo with formaldehyde: evidence that histone H4 is retained on a highly transcribed gene
+| journal = [[Cell (journal)|Cell]]
+| volume = 53
+| issue = 6
+| pages = 937–47
+| year = 1988
+| month = June
+| pmid = 2454748
+| doi =10.1016/S0092-8674(88)90469-2
+| url = http://linkinghub.elsevier.com/retrieve/pii/S0092-8674(88)90469-2
+| issn =
+| accessdate = 2010-03-06
+}}</ref> This technique was extensively developed and refined thereafter.<ref name="pmid10694875">{{cite journal
+| author = Orlando V
+| title = Mapping chromosomal proteins in vivo by formaldehyde-crosslinked-chromatin immunoprecipitation
+| journal = [[Trends in Biochemical Sciences]]
+| volume = 25
+| issue = 3
+| pages = 99–104
+| year = 2000
+| month = March
+| pmid = 10694875
+| doi =10.1016/S0968-0004(99)01535-2
+| url = http://linkinghub.elsevier.com/retrieve/pii/S0968-0004(99)01535-2
+| issn =
+| accessdate = 2010-03-14
+}}</ref>
+NChIP approach was first described by Hebbes ''et al''., 1988,<ref name="pmid3409869">{{cite journal
+| author = Hebbes, Tim R; Thorne, Alan W; Crane-Robinson C.
+| title = A direct link between core histone acetylation and transcriptionally active chromatin
+| journal = [[The EMBO Journal]]
+| volume = 7
+| issue = 5
+| pages = 1395–402
+| year = 1988
+| month = May
+| pmid = 3409869
+| pmc = 458389
+| doi =
+| issn =
+| accessdate = 2010-03-06
+}}</ref> and also been developed and refined quickly.<ref name="pmid12893176">{{cite journal
+| author = O'Neill, Laura P; Turner, Bryan M
+| title = Immunoprecipitation of native chromatin: NChIP
+| journal = Methods (San Diego, Calif.)
+| volume = 31
+| issue = 1
+| pages = 76–82
+| year = 2003
+| month = September
+| pmid = 12893176
+| doi =10.1016/S1046-2023(03)00090-2
+| url = http://linkinghub.elsevier.com/retrieve/pii/S1046202303000902
+| issn =
+| accessdate = 2010-03-14
+}}</ref> The typical ChIP assay usually take 4–5 days, and require 10<sup>6</sup>~ 10<sup>7</sup> cells at least. Now new techniques on ChIP could be achieved as few as 100~1000 cells and complete within one day.
+
+* '''Carrier ChIP''' (CChIP): This approach could use as few as 100 cells by adding ''[[Drosophila]]'' cells as carrier chromatin to reduce loss and facilitate precipitation of the target chromatin. However, it demands highly specific primers for detection of the target cell chromatin from the foreign carrier chromatin background, and it takes two to three days.<ref name="pmid16767102">{{cite journal
+| author = O'Neill, Laura P; VerMilyea, Matthew D; Turner, Bryan M
+| title = Epigenetic characterization of the early embryo with a chromatin immunoprecipitation protocol applicable to small cell populations
+| journal = [[Nature Genetics]]
+| volume = 38
+| issue = 7
+| pages = 835–41
+| year = 2006
+| month = July
+| pmid = 16767102
+| doi = 10.1038/ng1820
+| url =
+| issn =
+| accessdate = 2010-03-14
+}}</ref>
+
+* '''Fast ChIP''' (qChIP): The fast ChIP assay reduced the time by shortening two steps in a typical ChIP assay: ''(i)'' an ultrasonic bath accelerates the rate of antibody binding to target proteins—and thereby reduces immunoprecipitation time ''(ii)'' a resin-based (Chelex-100) DNA isolation procedure reduces the time of cross-link reversal and DNA isolation. However, the fast protocol is suitable only for large cell samples (in the range of 10<sup>6</sup>~10<sup>7</sup>).<ref name="pmid16397291">{{cite journal
+| author = Nelson, Joel D; Denisenko, Oleg; Sova, Pavel; Bomsztyk, Karol
+| title = Fast chromatin immunoprecipitation assay
+| journal = [[Nucleic Acids Research]]
+| volume = 34
+| issue = 1
+| pages = e2
+| year = 2006
+| pmid = 16397291
+| pmc = 1325209
+| doi = 10.1093/nar/gnj004
+| url =
+| issn =
+| accessdate = 2010-03-14
+}}</ref><ref name="pmid17406230">{{cite journal
+| author = Nelson, Joel D; Denisenko, Oleg; Bomsztyk, Karol
+| title = Protocol for the fast chromatin immunoprecipitation (ChIP) method
+| journal = [[Nature Protocols]]
+| volume = 1
+| issue = 1
+| pages = 179–85
+| year = 2006
+| pmid = 17406230
+| doi = 10.1038/nprot.2006.27
+| url =
+| issn =
+| accessdate = 2010-03-14
+}}</ref>  Up to 24 sheared chromatin samples can be processed to yield PCR-ready DNA in 5 hours, allowing multiple chromatin factors be probed simultaneously and/or looking at genomic events over several time points.<ref name="pmid19588084">{{cite journal
+| author = Nelson J, Denisenko O, Bomsztyk K
+| title = The fast chromatin immunoprecipitation method
+| journal = [[Methods in Molecular Biology]]
+| volume = 567
+| issue =
+| pages = 45–57
+| year = 2009
+| pmid = 19588084
+| doi = 10.1007/978-1-60327-414-2_3
+| url =
+| issn =
+| accessdate = 2010-03-14
+}}</ref>
+
+* '''Quick and quantitative ChIP''' (Q<sup>2</sup>ChIP) : The assay uses 100,000 cells as starting material and is suitable for up to 1,000 histone ChIPs or 100 transcription factor ChIPs.  Thus many chromatin samples can be prepared in parallel and stored, and Q<sup>2</sup>ChIP can be undertaken in a day.<ref name="pmid17272500">{{cite journal
+| author = Dahl, John Arne; Collas, Philippe
+| title = Q<sup>2</sup>ChIP, a quick and quantitative chromatin immunoprecipitation assay, unravels epigenetic dynamics of developmentally regulated genes in human carcinoma cells
+| journal = Stem Cells
+| volume = 25
+| issue = 4
+| pages = 1037–46
+| year = 2007
+| month = April
+| pmid = 17272500
+| doi = 10.1634/stemcells.2006-0430
+| url =
+| issn =
+| accessdate = 2010-03-14
+}}</ref>
+
+* '''MicroChIP''' (µChIP): chromatin is usually prepared from 1,000 cells and up to 8 ChIPs can be done in parallel without carriers. The assay can also start with 100 cells, but only suit for one ChIP. It can also use small (1&nbsp;mm<sup>3</sup>) tissue [[biopsy|biopsies]] and microChIP can be done within one day.<ref name="pmid18536650">{{cite journal
+| author = Dahl, John Arne; Collas, Philippe
+| title = A rapid micro chromatin immunoprecipitation assay (microChIP)
+| journal = [[Nature Protocols]]
+| volume = 3
+| issue = 6
+| pages = 1032–45
+| year = 2008
+| pmid = 18536650
+| doi = 10.1038/nprot.2008.68
+| url =
+| issn =
+| accessdate = 2010-03-14
+}}</ref><ref name="pmid19588085">{{cite journal
+| author = Dahl, John Arne; Collas, Philippe
+| title = MicroChIP: chromatin immunoprecipitation for small cell numbers
+| journal = [[Methods in Molecular Biology]]
+| volume = 567
+| issue =
+| pages = 59–74
+| year = 2009
+| pmid = 19588085
+| doi = 10.1007/978-1-60327-414-2_4
+| url =
+| issn =
+| accessdate = 2010-03-14
+}}</ref>
+
+* '''Matrix ChIP''': This is a [[Microtiter plate|microplate]]-based ChIP assay with increased throughput and simplified the procedure. All steps are done in microplate wells without sample transfers, enabling a potential for automation. It enables 96 ChIP assays for histone and various DNA-bound proteins in a single day.<ref name="pmid18203739">{{cite journal
+| author = Flanagin, Steve ; Nelson, Joel D; Castner, David G; Denisenko, Oleg; Bomsztyk, Karol
+| title = Microplate-based chromatin immunoprecipitation method, Matrix ChIP: a platform to study signaling of complex genomic events
+| journal = [[Nucleic Acids Research]]
+| volume = 36
+| issue = 3
+| pages = e17
+| year = 2008
+| month = February
+| pmid = 18203739
+| pmc = 2241906
+| doi = 10.1093/nar/gkn001
+| url =
+| issn =
+| accessdate = 2010-03-14
+}}</ref>
+
+ChIP has also been applied for genome wide analysis by combining with microarray technology ([[ChIP-on-chip]]) or second generation DNA-sequencing technology ([[Chip-Sequencing]]).  ChIP can also combine with [[paired-end tags]] sequencing in [[ChIA-PET|Chromatin Interaction Analysis using Paired End Tag sequencing]] (ChIA-PET), a technique developed for large-scale, de novo analysis of higher-order chromatin structures.<ref name="pmid20069536">{{cite journal
+| author = Fullwood, Melissa J; Han, Yuyuan; Wei, Chia-Lin; Ruan, Xiaoan; Ruan, Yijun
+| title = Chromatin interaction analysis using paired-end tag sequencing
+| journal = [[Current Protocols in Molecular Biology]]
+| volume = Chapter 21
+| issue =
+| pages = Unit 21.15.1–25
+| year = 2010
+| month = January
+| pmid = 20069536
+| doi = 10.1002/0471142727.mb2115s89
+| url =
+| issn =
+| accessdate = 2010-03-14
+}}</ref><ref name="pmid20181287">{{cite journal
+| author = Li, Guoliang; Fullwood, Melissa J; Xu, Han; Mulawadi, Fabianus Hendriyan; Velkov, Stoyan; Vega, Vinsensius;  Ariyaratne, Pramila Nuwantha; Mohamed, Yusoff Bin; Ooi, Hong-Sain; Tennakoon, Chandana;  Wei, Chia-Lin; Ruan, Yijun; Sung, Wing-Kin
+| title = ChIA-PET tool for comprehensive chromatin interaction analysis with paired-end tag sequencing
+| journal = [[Genome Biology]]
+| volume = 11
+| issue = 2
+| pages = R22
+| year = 2010
+| month = February
+| pmid = 20181287
+| doi = 10.1186/gb-2010-11-2-r22
+| url =
+| issn =
+| accessdate = 2010-03-14
+| pmc = 2872882
+}}</ref><ref name="ScienceDaily-ChIA-PET">{{cite web|url=http://www.sciencedaily.com/releases/2009/11/091104132700.htm|title=ChIA-PET: Novel Method For 3-D Whole Genome Mapping Research |date=2009-11-08|work=ScienceDaily|publisher=[[Agency for Science, Technology and Research]] (A*STAR), Singapore.|accessdate=14 March 2010}}</ref>
+
+==Limitations of ChIP==
+* Large Scale assays using ChIP is challenging using intact model organisms. This is because antibodies have to be generated for each TF, or, alternatively, transgenic model organisms expressing epitope-tagged TFs need to be produced.
+
+* Researchers studying Differential gene expression Patterns in Small organisms also faces problems as genes expressed at low levels, in a small number of cells, in narrow time window.
+
+* ChIP experiments cannot discriminate between different TF isoforms([[Protein isoform]]).
+
+==See also==
+* [[RIP-Chip]], a similar technique to analyze RNA-protein interactions
+* [[DamID]], an alternative location mapping technique that does not require specific antibodies
+* [[ChIP-exo]], a technique that adds exonuclease treatment to the ChIP process to obtain up to single base pair resolution of binding sites
+* [[ChIP-on-chip]], combines ChIP with microarray technology
+
+==References==
+<!--- See [[Wikipedia:Footnotes]] on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+==External links==
+{{Commonscat|Chromatin immunoprecipitation}}
+* {{MeshName|Chromatin+immunoprecipitation}}
+* [http://www.epigenome-noe.net/researchtools/protocol.php?protid=26 EpigenomeNOE.com]
+* [http://www.cshprotocols.org/cgi/content/full/2007/12/pdb.prot4767  Chromatin Immunopreciptation (ChIP) on Unfixed Chromatin from Cells and Tissues to Analyze Histone Modifications]
+* [http://www.cshprotocols.org/cgi/content/full/2006/23/pdb.prot4560 Chromatin Immunoprecipitation (ChIP) of Protein Complexes: Mapping of Genomic Targets of Nuclear Proteins in Cultured Cells]
+
+{{Protein methods}}
+
+{{DEFAULTSORT:Chromatin Immunoprecipitation}}
+[[Category:Protein methods]]
+[[Category:Molecular biology techniques]]
+[[Category:Protein-protein interaction assays]]
+[[Category:Immunologic tests]]

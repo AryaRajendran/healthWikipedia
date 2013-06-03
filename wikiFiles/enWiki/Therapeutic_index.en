@@ -1,0 +1,42 @@
+{{refimprove|date=May 2010}}
+The '''therapeutic index''' (also known as '''therapeutic ratio''') is a comparison of the amount of a therapeutic agent that causes the therapeutic effect to the amount that causes death (in animal studies) or toxicity (in human studies).<ref>Katzung and Trevor's Pharmacology Examination & Board Review; 9th edition; A.J.Trevor, B.G. Katzung, S.B.Masters, McGraw Hill, 2010, p. 15.</ref>
+
+Quantitatively, it is the [[ratio]] given by the lethal or toxic dose divided by the therapeutic dose. 
+
+In animal studies, the  therapeutic index is the lethal dose of a drug for 50% of the population ([[LD50|LD<sub>50</sub>]]) divided by the minimum [[Effective dose (pharmacology)|effective dose]] for 50% of the population ([[ED-50|ED<sub>50</sub>]]).
+
+Lethality is not determined in human clinical trials; instead, the dose that produces a toxicity in 50% of the population ([[TD50|TD<sub>50</sub>]]) is used to calculate the therapeutic index. 
+
+While the lethal dose is important to determine in animal studies, there are usually severe toxicities that occur at sublethal doses in humans, and these toxicities often limit the maximum dose of a drug. A higher therapeutic index is preferable to a lower one: a patient would have to take a much higher dose of such a drug to reach the lethal/toxic threshold than the dose taken to elicit the therapeutic effect.
+
+<math>\mbox{Therapeutic ratio} = \frac{\mathrm{LD}_{50}}{\mathrm{ED}_{50}}</math>  in animal studies, or for humans,   <math>\mbox{Therapeutic ratio} = \frac{\mathrm{TD}_{50}}{\mathrm{ED}_{50}}</math>  
+
+Generally, a drug or other therapeutic agent with a narrow therapeutic range (i.e. having little difference between toxic and therapeutic doses) may have its dosage adjusted according to measurements of the actual blood levels achieved in the person taking it. This may be achieved through [[therapeutic drug monitoring]] (TDM) protocols.
+
+The therapeutic index varies widely among substances: most forgiving among the [[opioid]] analgesics is [[remifentanyl]], which offers a therapeutic index of 33,000:1; [[tetrahydrocannabinol]], a sedative and analgesic of herbal origin (genus ''[[Cannabis]]''), has a safe therapeutic index of 1000:1, while [[diazepam]], a [[benzodiazepine]] [[sedative-hypnotic]] and skeletal [[muscle relaxant]] has a less-forgiving index of 100:1 and [[morphine]], a [[sedative]], [[antidepressant]], and [[analgesic]] also of herbal origin (genus ''[[Papaver]]'') has an index of 70:1<ref>{{cite journal |pmc=1312206 | pmid=16389318| journal=Proc (Bayl Univ Med Cent)| year=2000| volume=13|issue=1|pages= 7–10|pmc= 1821133|title=Anesthesia for the 21st century|first=Theodore H| last=Stanley}}</ref> (which, however, is still considered very safe).
+
+Less safe are [[cocaine]], a [[stimulant]] and [[local anaesthetic]]; [[ethanol]], a widely available [[sedative]] consumed world-wide: the therapeutic indices for these substances are 15:1 and 10:1 respectively.  Even less-safe are drugs such as [[digoxin]], a [[cardiac glycoside]]; its therapeutic index is approximately 2:1.<ref>{{cite journal| journal=Anesth Prog.| year=2007 Spring| volume=54|issue=1|pages= 19–24
+|pmc= 1821133|title=Drug Therapy in Dental Practice: General Principles Part 2—Pharmacodynamic Considerations|first=Daniel E| last=Becker| doi=10.2344/0003-3006(2007)54[19:DTIDPG]2.0.CO;2| pmid=17352523| issn=0003-3006}}</ref> Other examples of drugs with a narrow therapeutic range, which may require drug monitoring both to achieve therapeutic levels and to minimize toxicity, include: [[dimercaprol]], [[theophylline]], [[warfarin]] and [[lithium carbonate]]. Some antibiotics require monitoring to balance efficacy with minimizing [[adverse effect]]s, including: [[gentamicin]], [[vancomycin]], [[amphotericin B]] (nicknamed 'amphoterrible' for this very reason), and [[polymyxin B]].  
+
+The effective therapeutic index can be affected by [[Targeted drug delivery|targeting]], in which the therapeutic agent is concentrated in its area of effect.  For example, in [[Radiation treatment|radiation therapy]] for cancerous tumors, shaping the radiation beam precisely to the profile of a tumor in the "beam's eye view" can increase the delivered dose without increasing toxic effects, though such shaping might not change the therapeutic index. Similarly, chemotherapy or radiotherapy with infused or injected agents can be made more efficacious by attaching the agent to an oncophilic substance, as is done in peptide receptor radionuclide therapy for [[neuroendocrine tumors]] and in chemoembolization or radioactive microspheres therapy for liver tumors and metastases.  This concentrates the agent in the targeted tissues and lowers its concentration in others, increasing efficacy and lowering toxicity.
+
+Sometimes the term '''safety ratio''' is used instead, particularly when referring to [[psychoactive drugs]] used for non-therapeutic (e.g. nonmedical) purposes.<ref>{{cite journal|url=http://web.cgu.edu/faculty/gabler/toxicity%20Addiction%20offprint.pdf|title=Comparison of acute lethal toxicity of commonly abused psychoactive substances|first=Robert S|last=Gable,|journal=Addiction|pages=686–696|year=2004|format=PDF|issue=99|doi=10.1111/j.1360-0443.2004.00744.x|pmid=15139867}}</ref>  In such cases, the "effective" dose is the amount and frequency that produces the ''desired'' effect, which can vary, and can be greater or less than the therapeutically effective dose.
+
+The concept of safety ratio/TI also ignores the ease or difficulty of reaching a toxic or lethal dose. This is more of a consideration for recreational drug users.  While heroin and common alcohol may appear similarly dangerous based on their safety ratio (6 vs 10), an inexperienced drinker most likely vomits and falls asleep long before ingesting life-threatening amounts of alcohol.  On the other hand, heroin users are at a much greater risk of death from a misjudged dose due to varying drug purity, individual tolerances, and influence-affected judgment.
+
+''[[Protective index]]''  is a similar concept, except that it uses TD<sub>50</sub> (median ''toxic'' dose) in place of LD<sub>50</sub>.  For many substances, toxic effects can occur at levels far below those needed to cause death, and thus the protective index (if toxicity is properly specified) is often more informative about a substance's relative safety.  Nevertheless, the therapeutic index is still useful as it can be considered an [[upper bound]] for the protective index, and the former also has the advantages of objectivity and easier comprehension.
+
+== See also ==
+* [[Certain safety factor]]
+* [[Effective dose (pharmacology)|Effective dose]]
+* [[EC50]]
+* [[IC50]]
+* {{LD50}}
+* [[Therapeutic window]]
+
+==References==
+{{reflist}}
+
+{{Pharmacology}}
+
+[[Category:Pharmacology]]

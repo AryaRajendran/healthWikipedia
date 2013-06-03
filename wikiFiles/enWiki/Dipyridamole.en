@@ -1,0 +1,119 @@
+{{Drugbox
+| verifiedrevid = 460793850
+| IUPAC_name = 2,2',2<nowiki>''</nowiki>,2<nowiki>'''</nowiki>-(4,8-di(piperidin-1-yl)pyrimido[5,4-''d'']pyrimidine-2,6-diyl)bis(azanetriyl)tetraethanol
+| image = Dipyridamole.svg
+
+<!--Clinical data-->
+| tradename = Persantine
+| Drugs.com = {{drugs.com|monograph|dipyridamole}}
+| MedlinePlus = a682830
+| pregnancy_category = B
+| legal_UK = POM
+| legal_US = Rx-only  
+| routes_of_administration = PO, IV
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 99%
+| metabolism = Hepatic
+| elimination_half-life = Alpha (40 mins), Beta (10 Hours)
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 58-32-2
+| ATC_prefix = B01
+| ATC_suffix = AC07
+| PubChem = 3108
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00975
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2997
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 64ALC7F90C
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00302
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4653
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 932
+
+<!--Chemical data-->
+| C=24 | H=40 | N=8 | O=4 
+| molecular_weight = 504.626 [[Gram|g]]/[[Mole (unit)|mol]]
+| smiles = n3c(nc2c(nc(nc2N1CCCCC1)N(CCO)CCO)c3N4CCCCC4)N(CCO)CCO
+| InChI = 1/C24H40N8O4/c33-15-11-31(12-16-34)23-26-20-19(21(27-23)29-7-3-1-4-8-29)25-24(32(13-17-35)14-18-36)28-22(20)30-9-5-2-6-10-30/h33-36H,1-18H2
+| InChIKey = IZEKFCXSFNUWAM-UHFFFAOYAG
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H40N8O4/c33-15-11-31(12-16-34)23-26-20-19(21(27-23)29-7-3-1-4-8-29)25-24(32(13-17-35)14-18-36)28-22(20)30-9-5-2-6-10-30/h33-36H,1-18H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IZEKFCXSFNUWAM-UHFFFAOYSA-N
+}}
+'''Dipyridamole''' (trademarked as '''Persantine''') is a [[medication|medicine]] that inhibits [[thrombus]] formation<ref>{{DorlandsDict|three/000030395|Dipyridamole}}</ref> when given chronically and causes [[vasodilation]] when given at high doses over a short time.
+
+==Mechanism and effects==
+* Dipyridamole inhibits the [[phosphodiesterase]] enzymes that normally break down [[Cyclic adenosine monophosphate|cAMP]] (increasing cellular cAMP levels and blocking the platelet response to [[Adenosine diphosphate|ADP]]) and/or [[cyclic guanosine monophosphate|cGMP]] (resulting in added benefit when given together with [[nitric oxide]] [NO] or [[statin]]s).
+* Dipyridamole blocks the thromboxane synthase as well as the thromboxane receptor.  
+* It inhibits the cellular reuptake of [[adenosine]] into [[platelets]], [[red blood cell]]s and [[endothelial cell]]s leading to increased extracellular concentrations of adenosine.
+* It also inhibits the [[enzyme]] [[adenosine deaminase]], which normally breaks down [[adenosine]] into [[inosine]]. This inhibition leads to further increased levels of extracellular adenosine.{{Citation needed|reason="This is not commonly claimed about dipyridamole, and may be a misinterpretation of old data"|date=August 2012}}
+
+==Medical uses==
+* Dipyridamole has been shown to lower pulmonary hypertension without significant drop of systemic blood pressure
+* It inhibits formation of pro-inflammatory cytokines ([[MCP-1]], [[MMP-9]]) in vitro and results in reduction of hsCRP in patients.
+* It inhibits proliferation of smooth muscle cells in vivo and has shown to prevent AV-shunt failure in [[dialysis]] patients.
+* It increases the release of [[Tissue plasminogen activator|t-PA]] from brain microvascular endothelial cells
+* It results in an increase of 13 - HODE and decrease of [[12-Hydroxyeicosatetraenoic acid|12-HETE]] in the subendothelial matrix (SEM) and reduced thrombogenicity of the SEM.
+* Pretreatment it reduced reperfusion injury in volunteers.
+* It has been shown to increase myocardial perfusion and left ventricular function in patients with ischemic cardiomyopathy.
+* It results in a reduction of the number of [[Thrombin receptor|thrombin]] and [[CD31|PECAM-1]] receptors on platelets in stroke patients.
+* [[Cyclic adenosine monophosphate|cAMP]] impairs platelet aggregation and also causes [[arteriole|arteriolar]] [[smooth muscle]] relaxation. Chronic therapy did not show significant drop of systemic blood pressure.
+* It inhibits the replication of [[mengovirus]] RNA.<ref>Dipyridamole in the laboratory: {{cite web  | last = Fata-Hartley   | first = Cori L.   | coauthors=Ann C. Palmenberg   | title = Dipyridamole reversibly inhibits mengovirus RNA replication
+  | url=http://jvi.asm.org/cgi/content/full/79/17/11062?view=long&pmid=16103157  | accessdate=2007-02-13  | doi=10.1128/JVI.79.17.11062-11070.2005 }}</ref>
+* It can be used for myocardial stress testing as an alternative to exercise-induced stress methods such as treadmills.
+
+===Use in individuals with a history of stroke===
+Modified release dipyridamole is used in conjunction with [[aspirin]] (under the trade names ''Aggrenox'' in the [[USA]] or ''Asasantin Retard'' in the [[UK]]) in the secondary prevention of [[stroke]] and [[transient ischaemic attack]]. This practice has been confirmed by the [http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(06)69147-2/fulltext '''ESPRIT'''] trial.<ref name="ESPRIT">{{cite journal |author=Halkes PH, van Gijn J, Kappelle LJ, Koudstaal PJ, Algra A |title=Aspirin plus dipyridamole versus aspirin alone after cerebral ischaemia of arterial origin (ESPRIT): randomised controlled trial |journal=Lancet |volume=367 |issue=9523 |pages=1665–73 |year=2006 |month=May |pmid=16714187 |doi=10.1016/S0140-6736(06)68734-5 |url=http://linkinghub.elsevier.com/retrieve/pii/S0140-6736(06)68734-5}}</ref> Dipyridamole absorption is [[pH]]-dependent and concomitant treatment with gastric acid suppressors (such as a [[proton pump inhibitor]]) will inhibit the absorption of liquid & plain tablets.<ref>Russell TL, Berardi RR, Barnett JL, O’Sullivan TL, Wagner JG, Dressman JB. pH-related changes in the absorption of "dipyridamole"  in the elderly. Pharm Res (1994) 11 136–43.</ref><ref>Derendorf H, VanderMaelen CP, Brickl R-S, MacGregor TR, Eisert W. "Dipyridamole" bioavailability in subjects with reduced gastric acidity. J Clin Pharmacol (2005) 45, 845–50.</ref> Modified release preparations are buffered and absorption is not affected.<ref>http://emc.medicines.org.uk/medicine/304/SPC/Persantin+Retard+200mg/#EXCIPIENTS</ref><ref>{{Cite book|last=Stockley |first=Ivan |year=2009 |title='''Stockley’s Drug Interactions''' |publisher = The Pharmaceutical Press|isbn=0-85369-424-9}}</ref>
+
+It is not, however, licensed as monotherapy for stroke prophylaxis, although a [[Cochrane Review]] has suggested that dipyridamole may reduce the risk of further vascular events in patients presenting after cerebral ischaemia.<ref name="Dipyridamole for preventing stroke and other vascular events in patients with vascular disease">{{cite journal |author=De Schryver ELLM, Algra A, van Gijn J. |editor1-last=Algra |editor1-first=Ale |title=Dipyridamole for preventing stroke and other vascular events in patients with vascular disease. |journal=Cochrane Database of Systematic Reviews 2007 |issue=2 |year=2007 |pages=CD001820 |doi=10.1002/14651858.CD001820.pub3 |url=http://www.cochrane.org/reviews/en/ab001820.html |pmid=17636684}}</ref>
+
+A triple therapy of aspirin, [[clopidogrel]], and dipyridamole has been investigated, but this combination led to an increase in adverse bleeding events.<ref name="pmid18682741">{{cite journal |author=Sprigg N, Gray LJ, England T, ''et al.'' |editor1-last=Berger |editor1-first=Jeffrey S. |title=A randomised controlled trial of triple antiplatelet therapy (aspirin, clopidogrel and dipyridamole) in the secondary prevention of stroke: safety, tolerability and feasibility |journal=PLoS ONE |volume=3 |issue=8 |pages=e2852 |year=2008 |pmid=18682741 |pmc=2481397 |doi=10.1371/journal.pone.0002852 |url=http://www.plosone.org/article/info:doi/10.1371/journal.pone.0002852}}</ref>
+
+* Via the mechanisms mentioned above, when given as 3 to 5 min infusion it rapidly increases the local concentration of adenosine in the coronary circulation which causes vasodilation.
+* Vasodilation occurs in healthy arteries, whereas [[stenosis|stenosed]] arteries remain narrowed.  This creates a "steal" phenomenon where the coronary blood supply will increase to the dilated healthy vessels compared to the stenosed arteries which can then be detected by clinical symptoms of chest pain, [[electrocardiogram]] and [[echocardiography]] when it causes ischemia.
+* Flow heterogeneity (a necessary precursor to ischemia) can be detected with [[gamma camera]]s and [[SPECT]] using nuclear imaging agents such as [[Thallium]]-201, [[Technetium-99m|Tc99m]]-[[Tetrofosmin]] and [[Technetium-99m|Tc99m]]-[[Sestamibi]]. However relative differences in perfusion do not necessarily imply any absolute decrease in blood supply in the tissue supplied by a stenosed artery.
+
+===Other uses===
+Dipyridamole also has non-medicinal uses in a laboratory context, such as the inhibition of [[cardiovirus]] growth in [[cell culture]].
+
+==Overdose==
+{{Infobox disease
+ | Name           = Dipyridamole
+ | Image          = 
+ | Caption        = 
+ | DiseasesDB     = 3840
+ | ICD10          = {{ICD10|T|46|3|t|36}}
+ | ICD9           = {{ICD9|972.4}}
+ | ICDO           = 
+ | OMIM           = 
+ | MedlinePlus    = 
+ | eMedicineSubj  = 
+ | eMedicineTopic = 
+ | MeshID         = 
+}}
+Dipyridamole [[overdose]] can be treated with [[aminophylline]]<ref>Aggrenox. RxList.com. URL: [http://www.rxlist.com/cgi/generic/aggrenox_od.htm http://www.rxlist.com/cgi/generic/aggrenox_od.htm]. Accessed on: May 1, 2007.</ref> which reverses its [[hemodynamics|hemodynamic]] effects (vasodilation).  Symptomatic treatment is recommended, possibly including a vasopressor drug. Gastric lavage should be considered. Administration of xanthine derivatives (e.g., aminophylline) may reverse the hemodynamic effects of dipyridamole overdose. Since dipyridamole is highly protein bound, dialysis is not likely to be of benefit.
+
+==See also==
+* [[Cilostazol]]
+
+==References==
+{{Reflist|2}}
+
+{{Antithrombotics}}
+{{Adenosinergics}}
+
+[[Category:Antiplatelet drugs]]
+[[Category:Piperidines]]
+[[Category:Stroke]]
+[[Category:Phosphodiesterase inhibitors]]
+[[Category:Pyrimidopyrimidines]]
+[[Category:Ethylamines]]

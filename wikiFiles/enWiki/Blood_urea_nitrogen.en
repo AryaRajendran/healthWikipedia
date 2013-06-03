@@ -1,0 +1,55 @@
+{{Redirect|BUN|other uses|Bun (disambiguation)}}
+{{Diagnostic infobox
+| Name            = Blood urea nitrogen
+| Image           = Urea-3D-balls.png
+| Alt             = 
+| Caption         = [[Urea]]
+| DiseasesDB      = 
+| ICD10           = 
+| ICD9            = 
+| ICDO            =
+| MedlinePlus     = 
+| eMedicine       = 
+| MeshID          = D001806
+| LOINC           = {{LOINC|6299-2}}, {{LOINC|59570-2}}, {{LOINC|12961-9}}, {{LOINC|12963-5}}, {{LOINC|12962-7}}
+| HCPCSlevel2     = 
+| Reference_range =  
+}}
+
+The liver produces urea in the [[urea cycle]] as a waste product of the [[digestion]] of [[protein]].  Normal human adult blood should contain between 7 to 21 [[milligram|mg]] of urea nitrogen per 100 [[milliliter|ml]] (7–21&nbsp;mg/[[deciliter|dL]]) of blood. Individual laboratories may have different [[Reference ranges for blood tests|reference range]]s, and this is because the procedure may vary.<ref name=firstaid>Last page of {{cite book |author=Deepak A. Rao; Le, Tao; Bhushan, Vikas |title=First Aid for the USMLE Step 1 2008 (First Aid for the Usmle Step 1) |publisher=McGraw-Hill Medical |location= |year=2007 |pages= |isbn=0-07-149868-0 |oclc= |doi= |accessdate=}}</ref><ref name=southwest>[http://pathcuric1.swmed.edu/PathDemo/nrrt.htm Normal Reference Range Table] from The University of Texas Southwestern Medical Center at Dallas. Used in Interactive Case Study Companion to PATHOLOGIC BASIS of DISEASE.</ref>{{dead link|date=June 2012}}
+
+==Interpretation==
+BUN is an indication of renal health.  Normal ranges 8-20 mmol/L.  If [[Glomerular filtration rate|Glomerular Filtration Rate (GFR)]] and blood volume decrease ([[hypovolemia]]) then BUN will increase.Other factors responsible for its increment are fever, increased catabolism, high protein diet and gastrointestinal bleeding.
+[[File:Blood values sorted by mass and molar concentration.png|thumb|center|700px|[[Reference ranges for blood tests]], comparing urea (yellow at right) to other blood constituents.]]
+
+==Units==
+BUN (urea-N) is g/dL in the United States, Mexico, Italy, Austria, Germany. Elsewhere, the concentration of urea is reported as mmol/L, generally depending on the lab.
+
+To convert from mg/dL of blood urea nitrogen to mmol/L of urea, multiply by 0.357 (each molecule of urea having 2 nitrogens, each of molar mass 14g/mol)
+::Urea [mmol/L] = BUN [mg/dL of [[nitrogen]]] x 10 [dL/L] / 14x2  [mg N/mmol urea]
+
+convert BUN to urea in mg/dL by using following formula:
+::Urea [mg/dL]= BUN [mg/dL] * 2.14
+
+(conversion factor derived by: MW of urea = 60, MW of urea nitrogen = 14x2 => 60/28 = 2.14)
+
+factor = 1 for conversions in mmol (1 mole N2 = 2 moles N per mole of urea):
+::BUN [mmol/L]= urea [mmol/L]
+
+==See also==
+*[[BUN-to-creatinine ratio]]
+*[[Kt/V]]
+*[[Urea reduction ratio]] (URR)
+*[[Standardized Kt/V]]
+
+==References==
+{{Reflist}}<!--added under references heading by script-assisted edit-->
+
+==External links==
+
+{{Blood tests}}
+
+{{DEFAULTSORT:Blood Urea Nitrogen}}
+[[Category:Chemical pathology]]
+[[Category:Nitrogen metabolism]]
+[[Category:Nephrology]]

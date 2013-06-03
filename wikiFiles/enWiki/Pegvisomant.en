@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464197586
+| IUPAC_name =  
+| image =  
+
+<!--Clinical data-->
+| tradename = Somavert
+| Drugs.com = {{drugs.com|monograph|pegvisomant}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = NA
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 218620-50-9
+| ATC_prefix = H01
+| ATC_suffix = AX01
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00082
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N824AOU5XV
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05394
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201515
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=990 | H=1532 | N=262 | O=300 | S=7 
+| molecular_weight = 22129.0 g/mol (un[[PEGylation|pegylated]])
+}}
+'''Pegvisomant''' (trade name '''Somavert''') is a [[growth hormone]] receptor [[Receptor antagonist|antagonist]] used in the treatment of [[acromegaly]].<ref name="Schreiber">{{cite journal | last=Schreiber | first=I | coauthors= Buchfelder M, Droste M et al. | title=Treatment of acromegaly with the GH receptor antagonist pegvisomant in clinical practice: safety and efficacy evaluation from the German Pegvisomant Observational Study | journal=European Journal of Endocrinology | volume=156 | issue=1 | pages=75–82 | date=January 2007 | url=http://www.eje-online.org/cgi/content/full/156/1/75?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&author1=Schreiber&andorexactfulltext=and&searchid=1&FIRSTINDEX=0&sortspec=relevance&volume=156&resourcetype=HWCIT | pmid=17218728 | doi=10.1530/eje.1.02312 }}</ref> It is used if the tumor of the [[pituitary gland]] causing the acromegaly cannot be controlled with surgery or radiation, and the use of [[somatostatin]] analogues is unsuccessful. It is delivered as a powder that is mixed with water and injected [[Subcutaneous injection|under the skin]].<ref name=ema/>
+
+== Structure ==
+Pegvisomant is a [[protein]] containing 191 [[amino acid]] residues to which several [[polyethylene glycol]] polymers have been covalently bound in order to slow clearance from the blood. The protein is a modified version of [[growth hormone|human growth hormone]] designed to bind to and block the [[growth hormone receptor]]. It is manufactured using genetically modified ''[[Escherichia coli|E. coli]]'' bacteria. The polyethylene glycol polymers are subsequently added chemically.<ref name=ema>{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Scientific_Discussion/human/000409/WC500054625.pdf|title=Scientific Discussion of Somavert|date=2004|publisher=European Medicines Agency}}</ref>
+
+== Mechanism of action ==
+Pegvisomant blocks the action of growth hormone at the growth hormone receptor to reduce the production of [[IGF-1]]. IGF-1 is responsible for most of the symptoms of acromegaly thus normalising its levels is effective to control the symptoms.
+
+== Side effects ==
+Side effects of Pegvisomant include reactions at the injection site, swelling of the limbs, chest pain, [[hypoglycemia]], nausea and [[hepatitis]].<ref>{{cite pmid|16728538}}</ref>
+
+Blocking of the growth hormone's receptor reduces feedback control of the growth hormone regulation leading to approximately doubled GH levels.<ref>{{cite pmid|19814797}}</ref>
+
+== See also ==
+[[PEGylation]]
+
+== References ==
+{{reflist}}
+
+{{Pituitary and hypothalamic hormones and analogues}}
+
+[[Category:Pfizer]]

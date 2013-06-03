@@ -1,0 +1,162 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458438457
+
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = xi/o
+| target = [[CD20]]
+<!-- Clinical data -->
+| tradename = Rituxan
+| Drugs.com = {{drugs.com|monograph|rituximab}}
+| pregnancy_US = C
+| pregnancy_category = (no adequate human studies)
+| legal_US = Rx-only
+| legal_status =
+| routes_of_administration = intravenous infusion only (never bolus or "push")
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 100% (IV)
+| protein_bound =
+| metabolism =
+| elimination_half-life = 30 to 400 hours (varies by dose and length of treatment)
+| excretion = Uncertain: may undergo phagocytosis and catabolism in RES
+
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = NA
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 174722-31-7
+| ATC_prefix = L01
+| ATC_suffix = XC02
+| ATC_supplemental =
+| PubChem =
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00073
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4F4X42SYQ6
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02994
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201576
+
+<!-- Chemical data -->
+| C=6416 | H=9874 | N=1688 | O=1987 | S=44
+| molecular_weight = 143859.7 g/mol
+}}
+'''Rituximab''' (trade names '''Rituxan''' and '''MabThera''') is a [[Chimera (protein)|chimeric]] [[monoclonal antibody]] against the protein [[CD20]], which is primarily found on the surface of [[B cells]]. Rituximab destroys B cells, and is therefore used to treat diseases which are characterized by excessive numbers of B cells, overactive B cells, or dysfunctional B cells. This includes many [[lymphoma]]s, [[leukemia]]s, [[transplant rejection]], and [[autoimmune disorder]]s.
+
+== History ==
+
+Rituximab was developed by [[Biogen Idec|IDEC Pharmaceuticals]] under the name '''IDEC-C2B8'''.<ref>[http://www.sandiegometro.com/1999/apr/biotech.html "Why San Diego Has Biotech"], Fikes, Bradley J. ''San Diego Metropolitan,'' April 1999.  Accessed June 20, 2008.</ref>
+
+Based on its safety and effectiveness in [[clinical trial]]s,<ref>{{cite journal |author=Maloney DG, Grillo-López AJ, White CA, ''et al.'' |title=IDEC-C2B8 (Rituximab) anti-CD20 monoclonal antibody therapy in patients with relapsed low-grade non-Hodgkin's lymphoma |journal=Blood |volume=90 |issue=6 |pages=2188–95 |year=1997 |month=September |pmid=9310469 |doi= |url=http://www.bloodjournal.org/cgi/pmidlookup?view=long&pmid=9310469}}</ref> rituximab was approved by the [[U.S. Food and Drug Administration]] in 1997 to treat B-cell [[non-Hodgkin lymphoma]]s resistant to other [[chemotherapy]] regimens.<ref>{{cite journal |author=Scott SD |title=Rituximab: a new therapeutic monoclonal antibody for non-Hodgkin's lymphoma |journal=Cancer Pract |volume=6 |issue=3 |pages=195–7 |year=1998 |pmid=9652253 |doi= 10.1046/j.1523-5394.1998.006003195.x|url=http://www.blackwell-synergy.com/openurl?genre=article&sid=nlm:pubmed&issn=1065-4704&date=1998&volume=6&issue=3&spage=195}}</ref> Rituximab, in combination with [[CHOP]] chemotherapy, is superior to CHOP alone in the treatment of [[diffuse large B-cell lymphoma]] and many other B-cell lymphomas.<ref>''Harrison's Principles of Internal Medicine'', Longo et al. ''McGraw Hill Medical'' 2011 page 931</ref> In 2010 it was approved by the [[European Commission]] for maintenance treatment after initial treatment of [[follicular lymphoma]].<ref>{{cite news |url=http://www.genengnews.com/gen-news-highlights/roche-gets-ec-nod-for-follicular-lymphoma-maintenance-therapy/81244149/ |title=Roche Gets EC Nod for Follicular Lymphoma Maintenance Therapy |date=October 29, 2010 }}</ref>
+
+Rituximab is currently co-marketed by [[Biogen Idec]] and [[Genentech]] in the U.S., by [[Hoffmann–La Roche]] in Canada and the [[European Union]], and by [[Chugai Pharmaceuticals]] and Zenyaku Kogyo in Japan.
+
+== Uses ==
+
+Rituximab destroys both normal and malignant [[B cells]] that have CD20 on their surfaces, and is therefore used to treat diseases which are characterized by having too many B cells, overactive B cells, or dysfunctional B cells.
+
+=== Hematological cancers ===
+
+Rituximab is used to treat [[Hematological malignancy|cancers of the white blood system]] such as [[leukemia]]s and [[lymphoma]]s, including Hodgkin's lymphoma and its lymphocyte predominant subtype.<ref>{{cite journal | author =  Saini KS, Azim HA Jr, Cocorocchio E, Vanazzi A, Saini ML, Raviele PR, Pruneri G, Peccatori FA  | title = Rituximab in Hodgkin lymphoma: Is the target always a hit? | journal = Cancer Treat Rev | volume = 37 | pages = 385–90 | year = 2011 | pmid = 21183282 | doi =  10.1016/j.ctrv.2010.11.005 | issue =  5}}</ref>
+
+In [[multiple myeloma]], treatment with rituximab fails to deplete circulating CD20+ B or plasma cells, even after up to four cycles of treatment; in some patients, rituximab treatment increases the number of circulating CD20+ B cells.<ref>[http://www.doaj.org/doaj?func=abstract&id=260717&recNo=32&toc=1/ Multiple myeloma includes CD20+ B  and plasma cells that persist in patients treated with rituximab. LM Pilarski, E Baigorri, MJ Mant, PM Pilarski, P Adamson, H Zola, AR Belch.  Clinical Medicine:Oncology, 2:275-281, 2008]</ref>
+
+=== Autoimmune diseases ===
+
+Rituximab has been shown to be an effective [[rheumatoid arthritis]] treatment in three randomised controlled trials and is now licensed for use in refractory rheumatoid disease.<ref>{{cite journal | author = Edwards J, Szczepanski L, Szechinski J, Filipowicz-Sosnowska A, Emery P, Close D, Stevens R, Shaw T | title = Efficacy of B-cell-targeted therapy with rituximab in patients with rheumatoid arthritis | journal = N Engl J Med | volume = 350 | issue = 25 | pages = 2572–81 | year = 2004 | pmid = 15201414 | doi = 10.1056/NEJMoa032534}}</ref> In the United States, it has been FDA-approved for use in combination with [[methotrexate]] (MTX) for reducing signs and symptoms in adult patients with moderately  to severely active rheumatoid arthritis (RA) who have had an inadequate response to one or more anti-[[TNF-alpha]] therapy. In Europe, the license is slightly more restrictive: it is licensed for use in combination with MTX in patients with severe active RA who have had an inadequate response to one or more anti-TNF therapy.<ref>{{cite journal
+| author = Tak PP, Kalden JR
+| title = Advances in rheumatology: new targeted therapeutics
+| journal = Arthritis Res Ther
+| year = 2011
+| volume = 13
+| issue = Suppl 1
+| pages = S5
+| pmid = 21624184
+| doi = 10.1186/1478-6354-13-S1-S5
+| pmc = 3123966
+}}</ref>
+
+There is some evidence for efficacy, but not necessarily [[Pharmacovigilance|safety]], in a range of other autoimmune diseases, and rituximab is widely used [[off-label]] to treat difficult cases of [[multiple sclerosis]],<ref>[http://content.nejm.org/cgi/content/short/358/7/676 NEJM - B-Cell Depletion with Rituximab in Relapsing-Remitting Multiple Sclerosis]</ref> [[systemic lupus erythematosus]], and autoimmune [[anemia]]s.<ref name=NWU>{{cite web|url=http://www.northwestern.edu/newscenter/stories/2009/05/bennett.html|title=Popular Cancer Drug Linked to Often Fatal 'Brain Eating' Virus|last=Paul|first=Marla|date=May 20, 2009 |publisher=Northwestern University News and Information|accessdate=2009-05-22}}</ref> The most dangerous side effect is [[progressive multifocal leukoencephalopathy]] (PML) infection, which is usually fatal.<ref>{{cite web|url=http://www.fda.gov/bbs/topics/NEWS/2006/NEW01532.html |title=Press Announcements |publisher=Fda.gov |date= |accessdate=2013-04-29}}</ref><ref name=NWU />
+
+Other autoimmune diseases that have been treated with rituximab include [[autoimmune hemolytic anemia]], [[pure red cell aplasia]],  [[idiopathic thrombocytopenic purpura]] (ITP),<ref>{{cite journal | pmid = 15795920 | doi=10.1002/ajh.20276 | volume=78 | issue=4 | title=Rituximab chimeric anti-CD20 monoclonal antibody treatment for adult refractory idiopathic thrombocytopenic purpura | year=2005 | month=April | author=Braendstrup P, Bjerrum OW, Nielsen OJ, ''et al.'' | journal=Am. J. Hematol. | pages=275–80}}</ref><ref>Patel V, Mihatov N, Cooper N, Stasi R, Cunningham-Rundles S, Bussel JB,''Long-term responses seen with rituximab in patients with ITP'', Community Oncology Vol. 4 No. 2, February 2007:107 [http://www.communityoncology.net/journal/articles/0402107.pdf PDF]</ref> [[Evans syndrome]],<ref>Shanafelt, Tait D, MD; Madueme, Hans L, MD; Wold, Robert C, PharmD; Tefferi, Ayalew, MD ''Rituximab for Immune Cytopenia in Adults: Idiopathic Thrombocytopenic Purpura, Autoimmune Hemolytic Anemia, and Evans Syndrome'' Mayo Clinic Proc. 2003;78:1340-1346 [http://www.mayoclinicproceedings.com/pdf/7811/7811a3.pdf PDF]</ref> vasculitis (for example [[Wegener's Granulomatosis]]), bullous skin disorders (for example [[pemphigus]], [[pemphigoid]]—with very encouraging results of approximately 85% rapid recovery, in the treatment of [[pemphigus]], according to a 2006 study),<ref>{{Cite journal |title=Treatment of Pemphigus Vulgaris with Rituximab and Intravenous Immune Globulin |author1=A. Razzaque Ahmed, M.D. |author2=Zachary Spigelman, M.D. |author3=Lisa A. Cavacini, Ph.D. |author4=Marshall R. Posner, M.D. |journal=N Engl J Med |volume=355 |pages=1772–1779 |date=October 26, 2006}}</ref> type 1 [[diabetes mellitus]], [[Sjogren's syndrome]], and [[Devic's disease]],<ref>{{cite journal |author=Jacob A, Weinshenker BG, Violich I, McLinskey N, Krupp L, Fox RJ, Wingerchuk DM, Boggild M, Constantinescu CS, Miller A, De Angelis T, Matiello M, Cree BA |title=Treatment of neuromyelitis optica with rituximab: retrospective analysis of 25 patients |journal=Arch Neurol |volume=65 |issue=11 |pages=1443–1448 |year=2008 |pmid=18779415 |doi=10.1001/archneur.65.11.noc80069 |url=http://archneur.ama-assn.org/cgi/content/full/65/11/1443}}</ref> and Graves' disease ophthalmopathy.<ref>{{cite web|url=http://www.ophthalmologyjournaloftheaao.com/article/S0161-6420%2809%2900548-X/abstract |title=Rituximab Treatment of Patients with Severe, Corticosteroid-Resistant Thyroid-Associated Ophthalmopathy |accessdate=2011-10-19}}</ref>
+
+An October 2011 study from Norway suggests that rituximab can help patients with [[chronic fatigue syndrome]].<ref name="pmid19566965">{{cite journal |author=Fluge O, Mella O |title=Clinical impact of B-cell depletion with the anti-CD20 antibody rituximab in chronic fatigue syndrome: a preliminary case series |journal=BMC Neurology |volume=9 |page=28 |year=2009 |month=July |pmid=19566965 |doi=10.1186/1471-2377-9-28 |url=http://www.biomedcentral.com/1471-2377/9/28 |pmc=2711959}}</ref> A clinical trial has been completed and a new open-label trial has begun.<ref>[http://clinicaltrials.gov/ct2/show/NCT00848692?term=chronic+fatigue+syndrome&rank=4 Drug Intervention in Chronic Fatigue Syndrome]</ref><ref>{{cite web|url=http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026358 |title=Benefit from B-Lymphocyte Depletion Using the Anti-CD20 Antibody Rituximab in Chronic Fatigue Syndrome. A Double-Blind and Placebo-Controlled Study |publisher=Plos One |date= |accessdate=2013-04-29}}</ref><ref>{{cite web |url=http://www.research1st.com/2011/10/19/rituximab-trial/ |title=Rituximab Trial Shows Promise |accessdate=2011-11-04}}</ref>
+
+=== Anti-rejection treatment for organ transplants ===
+
+Rituximab is now being used off-label in the management of [[kidney transplant]] recipients. This drug may have some utility in transplants involving incompatible blood groups. It is also used as induction therapy in highly sensitized patients going for kidney transplantation. The use of rituximab has not been proven to be efficacious in this setting and like all depleting agents, carries with it the risk of infection.{{Citation needed|date=February 2011}}
+
+== Mechanism ==
+
+[[File:Rituxan in action.jpg|thumbnail|left|Image showing Rituxan binding to CD20 as described.]]
+The antibody binds to [[cluster of differentiation|CD]][[CD20|20]]. CD20 is widely expressed on B cells, from early pre-B cells to later in differentiation, but it is absent on terminally differentiated [[plasma cell]]s. CD20 does not shed, modulate or internalise. Although the function of CD20 is unknown, it may play a role in [[calcium|Ca<sup>2+</sup>]] influx across plasma membranes, maintaining intracellular Ca<sup>2+</sup> concentration and allowing activation of B cells.
+
+Rituximab tends to stick to one side of cancerous B cells, forming a cap and drawing proteins over to that side. The presence of the cap changed the effectiveness of natural killer (NK) cells in destroying these diseased cells. When an NK cell latched onto the cap, it had an 80% success rate at killing the cell. In contrast, when the B cell lacked this asymmetric protein cluster, it was killed only 40% of the time.<ref>{{cite web|url=http://www.kurzweilai.net/scientists-discover-why-a-specific-cancer-drug-is-so-effective |title=Scientists discover why a specific cancer drug is so effective |doi=10.1182/blood-2013-02-482570 |publisher=KurzweilAI |date= |accessdate=2013-04-29}}</ref><ref>{{cite DOI|10.1182/blood-2013-02-482570}}</ref>
+
+The following effects have been found:<ref>T Shaw, J Quan, and M Totoritis, "[http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1766758 B cell therapy for rheumatoid arthritis: the rituximab (anti-CD20) experience]", '''Ann Rheum Dis.''' 2003 November; 62(Suppl 2): ii55–ii59.</ref>
+
+* The [[Fragment crystallizable region|Fc]] portion of rituximab mediates [[antibody-dependent cellular cytotoxicity]] (ADCC) and [[Complement system|complement-dependent cytotoxicity]] (CDC).
+* Rituximab has a general regulatory effect on the [[cell cycle]].
+* It increases [[MHC II]] and adhesion molecules LFA-1 and LFA-3 (lymphocyte function-associated antigen).
+* It elicits shedding of [[CD23]].
+* It downregulates the [[B cell receptor]].
+* It induces [[apoptosis]] of CD20+ cells.
+
+The combined effect results in the elimination of B cells (including the cancerous ones) from the body, allowing a new population of healthy B cells to develop from lymphoid [[stem cell]]s.
+
+Rituximab binds to [[amino acid]]s 170-173 and 182-185 on CD20, which are physically close to each other as a result of a [[disulfide bond]] between amino acids 167 and 183.<ref>{{cite journal | author = Binder M, Otto F, Mertelsmann R, Veelken H, Trepel M. | title = The epitope recognized by rituximab | journal = Blood | volume = 108 | issue = 6| pages =1975–1978  | year = 2006 | pmid = 16705086 | doi = 10.1182/blood-2006-04-014639}}</ref>
+
+== Adverse events ==
+
+Serious adverse events, which can cause [[death]] and [[disability]], include:<ref name="titleGenentech: Products - Product Information - Immunology - Rituxan RA Full Prescribing Information">{{cite web |url=http://www.gene.com/gene/products/information/immunological/rituxan/insert.jsp |title=Genentech: Products - Product Information - Immunology - Rituxan RA Full Prescribing Information |accessdate=2007-12-03 |work=}}</ref>
+
+* Severe [[infusion reaction]].
+* [[Cardiac arrest]]
+* [[Cytokine release syndrome]]
+* [[Tumor lysis syndrome]], causing [[acute renal failure]]
+* Infections
+** [[Hepatitis B]] reactivation
+** Other viral infections
+** [[Progressive multifocal leukoencephalopathy]] (PML)
+* Immune toxicity, with depletion of B cells in 70% to 80% of [[lymphoma]] patients
+* [[human lung|Pulmonary]] toxicity<ref>{{cite journal |author=Burton C, Kaczmarski R, Jan-Mohamed R |title=Interstitial pneumonitis related to rituximab therapy |journal=N Engl J Med |volume=348 |issue=26 |pages=2690–1; discussion 2690–1 |year=2003 |pmid=12826649 |doi=10.1056/NEJM200306263482619}}</ref>
+
+Two patients with [[systemic lupus erythematosus]] died of [[progressive multifocal leukoencephalopathy]] (PML) after being treated with rituximab. PML is caused by activation of [[JC virus]], a common virus in the brain which is usually latent. Reactivation of the JC virus usually results in death or severe brain damage.<ref name="urlRituximab (marketed as Rituxan) Information">{{cite web |url=http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm109106.htm |title=Rituximab (marketed as Rituxan) Information |work= |accessdate=15 November 2009}}</ref>
+
+At least one patient with [[rheumatoid arthritis]] developed PML after treatment with rituximab.<ref name="urlRituximab, RA and PML">{{cite web |url=http://www.fda.gov/medwatch/safety/2008/rituxan_DHCP_Final%209411700.pdf |title=Rituximab, RA and PML |work= |accessdate=2008-09-14}}</ref>
+
+Rituximab has been reported as a possible cofactor in a chronic [[Hepatitis E]] infection in a person with lymphoma. Hepatitis E infection is normally an [[Acute (medicine)|acute]] infection, suggesting the drug in combination with lymphoma may have weakened the body's immune response to the virus.<ref name="urlChronic Hepatitis After Hepatitis E Virus Infection in a Patient With Non-Hodgkin Lymphoma Taking Rituximab">{{cite web
+| url=http://www.annals.org/cgi/reprint/150/6/430-a.pdf |title=Chronic Hepatitis After Hepatitis E Virus Infection in a Patient With Non-Hodgkin Lymphoma Taking Rituximab |work= |accessdate=2008-09-14}}</ref>
+
+== Other anti-CD20 monoclonals ==
+
+The efficacy and success of Rituximab has led to some other anti-CD20 monoclonal antibodies being developed:
+
+* [[ocrelizumab]], humanized (90%-95% human) B cell-depleting agent.
+* [[ofatumumab]] (HuMax-CD20) a fully human B cell-depleting agent.<ref name="titleGenmab.com / HuMax-CD20 (ofatumumab)">{{cite web |url=http://www.genmab.com/ScienceAndResearch/ProductsinDevelopment/HuMax-CD20.aspx |title=Genmab.com / HuMax-CD20 (ofatumumab) |accessdate=2007-12-03 |work= |archiveurl = http://web.archive.org/web/20070911144653/http://www.genmab.com/ScienceAndResearch/ProductsinDevelopment/HuMax-CD20.aspx <!-- Bot retrieved archive --> |archivedate = 2007-09-11}}</ref>
+* Third-generation anti-CD20s have a glycoengineered Fc fragment (Fc)<ref name="titleFc-structure">{{cite web |url=http://www.healthvalue.net/Fc-structure.html |title=Fc-structure |accessdate=2007-12-03 |work=}}</ref> with enhanced binding to Fc gamma receptors, which increase ADCC ([[antibody-dependent cellular cytotoxicity]]).<ref name="titleMonoclonal antibodies targeting cancer: 'magic bullets' or just the trigger?">{{cite journal |title=Monoclonal antibodies targeting cancer: 'magic bullets' or just the trigger? |work= |pmc=138676 |year=2001 |volume=3 |issue=2 |pmid=11250751 |last1=Eccles |first1=SA |pages=86–90 |journal=Breast cancer research : BCR |doi=10.1186/bcr276}}</ref> Modifications in the [[antibody variable region|variable regions]]<ref name="titlemonoclonal domains">{{cite web |url=http://www.healthvalue.net/monoclonaldomainsengl.html |title=monoclonal domains |accessdate=2007-12-03 |work=}}</ref> can enhance apoptosis.
+
+The added value of a humanized molecule in oncology, compared to the original design, has not been demonstrated to this date.{{Citation needed|date=October 2010}}
+
+Another approach to B cell diseases is to block the interaction of B cell survival or growth factors with their receptors on B cells.  The monoclonal antibody [[Belimumab]]  and [[atacicept]] are examples of such an approach.
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+
+* [http://www.mabthera.com MabThera.com] Official website for use against lymphoma
+* [http://www.mabthera-ra.com MabThera for Rheumatoid Arthritis] Official website for use against rheumatoid arthritis (for non-US physicians and scientific media only)
+* [http://www.rituxan.com Rituxan.com]  Official website (for US residents only)
+* [http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm109106.htm Rituximab Information] from the US [[Food and Drug Administration]]
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Rituximab U.S. National Library of Medicine: Drug Information Portal - Rituximab]
+
+{{Extracellular chemotherapeutic agents}}
+{{Monoclonals for tumors}}
+
+[[Category:Monoclonal antibodies for tumors]]
+[[Category:Orphan drugs]]

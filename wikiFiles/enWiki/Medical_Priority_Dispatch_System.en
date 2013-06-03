@@ -1,0 +1,214 @@
+[[Image:Star of life2.svg|right|thumb|Star of Life]]
+'''The Medical Priority Dispatch System''' (MPDS) is a medically approved, unified system used to dispatch appropriate aid to medical emergencies including systematized caller interrogation and pre-arrival instructions. Priority Dispatch Corporation is licensed to design and publish MPDS and its various products.
+
+MPDS was developed by Dr. Jeff Clawson from 1976 to 1979. Dr. Clawson worked as an [[Emergency Medical Technician]] and dispatcher prior to medical school: he designed a set of standardized protocols to triage patients via the telephone and thus improve the emergency response system. Dr. Clawson states the main objective of MPDS is to "send the right thing to the right person in the right way at the right time." Cards were first alphabetized by chief complaint that included key questions to ask the caller, pre-arrival instructions, and dispatch priorities. After many revisions, these simple cards have evolved into MPDS.
+
+MPDS today still starts with the dispatcher asking the caller key questions. These questions allow the dispatchers to categorize the call by chief complaint and set a determinant level ranging from '''A''' (Minor) to '''E''' (Immediately Life Threatening) relating to the severity of the patient's condition. Some systems also use the determinant '''O''' which may be a referral to another service or obvious death. Another sub-category code is used to further categorize the patient. For instance, a suspected cardiac or respiratory arrest where the patient is not breathing is given the MPDS code 9-E-1, whereas a superficial animal bite has the code 3-A-3. The MPDS codes allow emergency medical systems to determine the appropriate response mode (i.e. routine or "lights and sirens") and resources to be assigned to the event.
+
+==Dispatch Determinants==
+Each dispatch determinant is made up of three pieces of information, which builds the determinant in a Number-Letter-Number format. The first component, a number from 1 to 36, indicates a broad category or specific "Card" from the MPDS: the selection of this card is based on the initial questions asked by the emergency dispatcher. The second component, a letter A through E (including the Greek character Ω), is the response determinant indicating the potential severity of injury or illness based on information provided by the caller. The third and final component, a number, is the sub-determinant and provides more specific information about the patient's specific condition.
+
+===Cards===
+{| class="wikitable"
+|-
+! Card
+! Category
+! Card
+! Category
+|-
+| 1
+| Abdominal Pain/Problems
+| 20
+| Heat/Cold Exposure
+|-
+| 2
+| Allergies (Reactions)/ Envenomations (Stings, Bites)
+| 21
+| Hemorrhage/Lacerations
+|-
+| 3
+| Animal Bites/Attacks
+| 22
+| Inaccessible Incident/Entrapments
+|-
+| 4
+| Assault/Sexual Assault
+| 23
+| Overdose/Poisoning (Ingestion)
+|-
+| 5
+| Back Pain (Non-Traumatic/Non-Recent)
+| 24
+| Pregnancy/Childbirth/Miscarriage
+|-
+| 6
+| Breathing Problems
+| 25
+| Psychiatric/Suicide Attempt
+|-
+| 7
+| Burns (Scalds) /Explosions
+| 26
+| Sick Person
+ |-
+| 8
+| Carbon Monoxide/Inhalation/HAZMAT/CBRN
+| 27
+| Stab/Gunshot/Penetrating Trauma
+|-
+| 9
+| Cardiac or Respiratory Arrest/Death
+| 28
+| Stroke (CVA)/Transient Ischemic Attack (TIA)
+|-
+| 10
+| Chest Pain
+| 29
+| Traffic/Transportation Incidents 
+|-
+| 11
+| Choking
+| 30
+| Traumatic Injuries
+|-
+| 12
+| Convulsions/Seizures
+| 31
+| Unconscious/Fainting(Near)
+|-
+| 13
+| Diabetic Problems
+| 32
+| Unknown Problem (Man Down)
+|-
+| 14
+| Drowning/Diving/SCUBA Accident
+| 33
+| Inter-Facility Transfer/Palliative Care
+|-
+| 15
+| Electrocution/Lightning
+| 34
+| Automatic Crash Notification (A.C.N.)
+|-
+| 16
+| Eye Problems/Injuries
+| 35
+| HCP (Health-Care Practitioner) Referral
+|-
+| 17
+| Falls
+| 36
+| Flu-Like Symptoms (Possible H1N1)
+|-
+| 18
+| Headache
+| 37
+| Inter-Facility Transfer specific to medically trained callers
+|-
+| 19
+| Heart Problems/A.I.C.D.
+|}
+
+====Card 36====
+This card was created to handle the influx of emergency calls during the H1N1 pandemic: it directed that Standard EMS Resources be delayed until patients could be assessed by a Flu Response Unit (FRU), a single provider that could attend a patient and determine what additional resources were required for patient care to reduce the risk of pandemic exposure to EMS Personnel.
+
+===Response Determinant New Clinical Response Model===
+{| class="wikitable"
+|-
+! Letter
+! Severity
+! Resources
+! Response
+|-
+| RED 1
+| Immediately Life Threatening
+| Advanced Life Support
+| Emergency
+|-
+| RED 2
+| Possibly Life-Threatening
+| Advanced Life Support
+| Emergency
+|-
+| Green 1
+| Serious but NOT Life-Threatening
+| Face to Face Clinical Assessment within 30 minutes
+| Emergency
+|-
+| Green 2 
+| Serious but NOT Life-Threatening
+| Face to Face Clinical Assessment within 30 minutes (Urgent)
+| Non-Emergency
+|-
+| Green 3
+| Planned Clinical Telephone Assessment
+| Planned clinical telephone assessment call back within 10 minutes 
+| Non-Emergency
+|}
+
+===Response Determinant Old===
+{| class="wikitable"
+|-
+! Type
+! Severity
+! Resources
+! Response
+|-
+| Alpha
+| Non Life-Threatening
+| Basic Life Support
+| Non Emergency
+|-
+| Bravo
+| Possibly Life-Threatening
+| Basic Life Support
+| Emergency
+|-
+| Charlie
+| Life-Threatening
+| Advanced Life Support
+| Emergency
+|-
+| Delta
+| Serious Life Threat
+| Advanced Life Support
+| Emergency
+|-
+| Echo
+| Life Status Questionable
+| Closest Available (Multiple Resources Sent)
+| Emergency
+|-
+| Omega "Ω"
+| Public Assist Only
+| Basic Life Support
+| Non Emergency
+|}
+
+==References==
+*{{cite web
+  | title =Resources Emergency Priority Dispatch Systems
+  | publisher =National Academies of Emergency Dispatch
+  | url=http://www.emergencydispatch.org/ResourcesEDS
+  | accessdate = 2011-02-07 }}
+*{{cite web
+  | title =About Us
+  | publisher =Priority Dispatch Corporation
+  | url=http://www.prioritydispatch.net/index.php?a=company&e=about
+  | accessdate = 2008-01-22 }}
+*{{Cite journal
+  | last = George
+  | first = James
+  | last2 = Quattrone
+  | first2 = Madelyn
+  | title = Above All-Do No Harm
+  | journal = Emergency Medical Technician Legal Bulletin
+  | volume = 15
+  | issue = 4
+  | date = Fall 1991
+  | url = http://www.emergencydispatch.org/articles/donoharm1.htm
+  | postscript = <!--None--> }}
+
+[[Category:Emergency communication]]
+[[Category:Emergency medicine]]

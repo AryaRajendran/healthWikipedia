@@ -1,0 +1,169 @@
+'''Sensitivity''' and '''specificity''' are statistical measures of the performance of a [[binary classification]] [[classification rule|test]], also known in statistics as [[Statistical classification|classification function]]. '''Sensitivity''' (also called the ''true positive rate'', or the '''[[Precision and recall#Definition (classification context)|recall rate]]''' in some fields) measures the proportion of actual positives which are correctly identified as such (e.g. the percentage of sick people who are correctly identified as having the condition). '''Specificity''' measures the proportion of negatives which are correctly identified as such (e.g. the percentage of healthy people who are correctly identified as not having the condition, sometimes called the ''true negative rate''). These two measures are closely related to the concepts of [[type I and type II errors]]. A perfect predictor would be described as 100% sensitive (i.e. predicting all people from the sick group as sick) and 100% specific (i.e. not predicting anyone from the healthy group as sick); however, theoretically any predictor will possess a minimum [[error bound]] known as the [[Bayes error rate]].
+
+For any test, there is usually a trade-off between the measures. For example: in an [[airport security]] setting in which one is testing for potential threats to safety, scanners may be set to trigger on low-risk items like belt buckles and keys (low specificity), in order to reduce the risk of missing objects that do pose a threat to the aircraft and those aboard (high sensitivity). This trade-off can be represented graphically as a [[receiver operating characteristic]] curve.
+
+==Definitions==
+Imagine a study evaluating a new test that screens people for a disease. Each person taking the test either has or does not have the disease. The test outcome can be positive (predicting that the person has the disease) or negative (predicting that the person does not have the disease). The test results for each subject may or may not match the subject's actual status. In that setting: 
+* True positive: Sick people correctly diagnosed as sick
+* False positive: Healthy people incorrectly identified as sick
+* True negative: Healthy people correctly identified as healthy
+* False negative: Sick people incorrectly identified as healthy.
+
+In general, Positive = identified and negative = rejected.
+Therefore:
+* True positive = correctly identified
+* False positive = incorrectly identified
+* True negative = correctly rejected
+* False negative = incorrectly rejected
+
+===Sensitivity===
+Sensitivity relates to the test's ability to identify positive results. 
+
+The sensitivity of a test is the proportion of people that are known to have the disease who test positive for it. 
+This can also be written as:
+
+:<math>\begin{align}
+\text{sensitivity} & = \frac{\text{number of true positives}}{\text{number of true positives} + \text{number of false negatives}} \\  \\
+& = \text{probability of a positive test, given that the patient is ill}
+\end{align}</math>
+
+Again, consider the example of the medical test used to identify a disease. 
+A 'bogus' test kit that always indicates positive regardless of the disease status of the patient will achieve, from a theoretical point of view, 100% sensitivity. 
+This is because in this case there are no negatives at all, and false positives are not accounted for in the definition of sensitivity.
+Therefore, sensitivity alone cannot be used to determine whether a test is useful in practice.
+
+However, a test with high sensitivity can be considered as a reliable indicator when its result is negative, since it rarely misses true positives among those who are actually positive.  
+For example, a sensitivity of 100% means that the test recognizes all actual positives – i.e. all sick people are recognized as being ill.  Thus, in contrast to a high specificity test, ''negative results'' in a ''high sensitivity test'' are used to ''rule out'' the disease.<ref name=cebm />
+
+Sensitivity is not the same as the [[Precision and recall|precision]] or [[positive predictive value]] (ratio of true positives to combined true and false positives), which is as much a statement about the proportion of actual positives in the population being tested as it is about the test.
+
+The calculation of sensitivity does not take into account indeterminate test results. 
+If a test cannot be repeated, indeterminate samples either should be excluded from the analysis (the number of exclusions should be stated when quoting sensitivity) or can be treated as false negatives (which gives the worst-case value for sensitivity and may therefore underestimate it).
+
+A test with a high sensitivity has a low [[Type I and type II errors#Type II error|type II error]] rate.
+In non-medical contexts, sensitivity is sometimes called [[Precision and recall|recall]].
+
+===Specificity===
+Specificity relates to the test's ability to identify negative results.
+
+Consider the example of the medical test used to identify a disease. 
+The specificity of a test is defined as the proportion of patients that are known not to have the disease who will test negative for it. 
+This can also be written as:
+:<math> \begin{align}
+\text{specificity} & = \frac{\text{number of true negatives}}{\text{number of true negatives} + \text{number of false positives}} \\  \\
+& = \text{probability of a negative test given that the patient is well}
+\end{align}
+</math>
+
+From a theoretical point of view, a 'bogus' test kit which always indicates ''negative'' regardless of the disease status of the patient, will achieve 100% specificity, since there are no positive results and false negatives are not accounted for by definition.
+
+However, highly specific tests rarely miss negative outcomes, so they can be considered reliable when their result is ''positive''. 
+Therefore, a positive result from a test with high specificity means a high probability of the presence of disease.<ref name=cebm>http://www.cebm.net/index.aspx?o=1042</ref> 
+
+A test with a high specificity has a low [[Type I and type II errors|type I error]] rate.
+
+===Graphical illustration===
+<gallery widths="430px"  heights="315px">
+File:HighSensitivity LowSpecificity 1401x1050.png|High sensitivity and low specificity
+File:LowSensitivity HighSpecificity 1400x1050.png|Low sensitivity and high specificity
+</gallery>
+
+==Medical examples==
+
+In medical diagnostics, test sensitivity is the ability of a test to correctly identify those with the disease (true positive rate), whereas test specificity is the ability of the test to correctly identify those without the disease (true negative rate).<ref>[http://medstats.org/sens-spec MedStats.Org]</ref> 
+
+If 100 patients known to have a disease were tested, and 43 test positive, then the test has 43% sensitivity. If 100 with no disease are tested and 96 return a negative result, then the test has 96% specificity. Sensitivity and specificity are prevalence-independent test characteristics, as their values are intrinsic to the test and do not depend on the disease prevalence in the population of interest.<ref>{{cite web|last=Mangrulkar|first=Rajesh|title=Diagnostic Reasoning I and II|url=http://open.umich.edu/education/med/m1/patientspop-decisionmaking/2010/materials|accessdate=24 January 2012}}</ref>  
+
+A highly specific test is unlikely to give a false positive result: a positive result should thus be regarded as a true positive. A sign or symptom with very high specificity is often termed ''[[pathognomonic]]''. An example of such a test is the inspection for [[erythema chronicum migrans]] to diagnose [[lyme disease]].<ref>{{cite journal |author=Ogden NH, Lindsay LR, Morshed M, Sockett PN, Artsob H |title=The rising challenge of Lyme borreliosis in Canada |journal=Can. Commun. Dis. Rep. |volume=34 |issue=1 |pages=1–19 |year=2008 |month=January |pmid=18290267 |url=http://www.phac-aspc.gc.ca/publicat/ccdr-rmtc/08vol34/dr-rm3401a-eng.php}}</ref> In contrast, a sensitive test rarely misses a condition, so a negative result should be reassuring (the disease tested for is absent). A sign or symptom with very high sensitivity is often termed ''[[sine qua non]]''. An example of such test is a genetic test to find an underlying mutation in certain types of [[hereditary colon cancer]].<ref>{{cite doi|10.1007/s10689-007-9165-5}}</ref><ref>{{cite doi|10.1093/jnci/djq439}}</ref>
+
+SPIN and SNOUT are commonly used mnemonics which says: A highly SPecific test, when Positive, rules IN disease (SP-P-IN), and a highly 'SeNsitive' test, when Negative rules OUT disease (SN-N-OUT).
+
+==Worked example==
+{{SensSpecPPVNPV}}
+
+==Estimation of errors in quoted sensitivity or specificity==
+
+Sensitivity and specificity values alone may be highly misleading.  The 'worst-case' sensitivity or specificity must be calculated in order to avoid reliance on experiments with few results.  For example, a particular test may easily show 100% sensitivity if tested against the gold standard four times, but a single additional test against the gold standard that gave a poor result would imply a sensitivity of only 80%.  A common way to do this is to state the [[binomial proportion confidence interval]], often calculated using a Wilson score interval.
+
+[[Confidence intervals]] for sensitivity and specificity can be calculated, giving the range of values within which the correct value lies at a given confidence  level (eg 95%).<ref>[http://www.medcalc.org/calc/diagnostic_test.php Online calculator of confidence intervals for predictive parameters]</ref>
+
+==Terminology in information retrieval==
+In [[information retrieval]] positive predictive value is called '''[[Precision and recall#Definition (classification context)|precision]]''', and sensitivity is called '''[[Precision and recall#Definition (classification context)|recall]]'''.
+
+The [[F-score]] can be used as a single measure of performance of the test.  The F-score is the [[harmonic mean]] of precision and recall:
+
+:<math>F = 2 \times \frac{\text{precision} \times \text{recall}}{\text{precision} + \text{recall}} </math>
+
+In the traditional language of [[statistical hypothesis testing]], the sensitivity of a test is called the [[statistical power]] of the test, although the word ''power'' in that context has a more general usage that is not applicable in the present context.  A sensitive test will have fewer [[Type I and type II errors|Type II error]]s.
+
+== See also ==
+{| class="wikitable" align="right" width=30% style="font-size:98%; margin-left:0.5em; padding:0.25em; background:#f1f5fc;"
+|+ Terminology and derivations<br>from a [[confusion matrix]]
+|- valign=top
+| 
+; true positive (TP)
+:eqv. with hit
+; true negative (TN)
+:eqv. with correct rejection
+; false positive (FP)
+:eqv. with [[false alarm]], [[Type I error]]
+; false negative (FN)
+:eqv. with miss, [[Type II error]]
+; [[sensitivity (test)|sensitivity]] or true positive rate (TPR)
+:eqv. with [[hit rate]], [[Information retrieval#Recall|recall]]
+:<math>TPR = TP / P = TP / (TP+FN)</math>
+; false positive rate (FPR)
+:eqv. with false alarm rate, [[Information retrieval#Fall-out|fall-out]]
+:<math>FPR = FP / N = FP / (FP + TN)</math>
+; [[accuracy]] (ACC)
+:<math>ACC = (TP + TN) / (TP + TN + FP + FN)</math>
+; [[Specificity (tests)|specificity]] (SPC) or True Negative Rate
+:<math>SPC = TN / N = TN / (FP + TN) = 1 - FPR </math>
+; [[positive predictive value]] (PPV)
+:eqv. with [[Information retrieval#Precision|precision]]
+:<math>PPV = TP / (TP + FP)</math>
+; [[negative predictive value]] (NPV)
+:<math>NPV = TN / (TN + FN)</math>
+; [[false discovery rate]] (FDR)
+:<math>FDR = FP / (FP + TP)</math>
+; [[Matthews correlation coefficient]] (MCC)
+;<math>MCC = (TPTN - FPFN)/ \sqrt{P N P' N'}</math>
+<span style="font-size:90%;">''Source: Fawcett (2004).''</span>
+|}
+
+* [[Accuracy and precision]]
+* [[Brier score]]
+* [[Confusion matrix]]
+* [[Detection theory]]
+* [[F-score]]
+* [[Gain (information retrieval)]]
+* [[Likelihood ratios in diagnostic testing|Likelihood ratios]]
+* [[Matthews correlation coefficient]]
+* [[Receiver operating characteristic]] or ROC curve
+* [[Selectivity]]
+* [[Sensitivity index]]
+* [[Statistical significance]]
+* [[Youden's J statistic]]
+* [[OpenEpi]] software program
+
+==References==
+{{Reflist}}
+
+==Further reading==
+
+* {{Cite journal |author=Altman DG, Bland JM |title=Diagnostic tests. 1: Sensitivity and specificity |journal=BMJ |volume=308 |issue=6943 |pages=1552 |year=1994 |pmid=8019315 |doi= |url=http://www.bmj.com/cgi/content/full/308/6943/1552 |pmc=2540489}}
+* {{Cite journal |author=Loong T |title=Understanding sensitivity and specificity with the right side of the brain |journal=BMJ |volume=327 |issue=7417 |pages=716–719 |year=2003 |pmc=200804 |pmid=14512479 |doi=10.1136/bmj.327.7417.716}}
+
+==External links==
+* [http://faculty.vassar.edu/lowry/clin1.html Vassar College's Sensitivity/Specificity Calculator]
+
+{{Medical research studies}}
+
+{{DEFAULTSORT:Sensitivity And Specificity}}
+[[Category:Statistical theory]]
+[[Category:Biostatistics]]
+[[Category:Medical statistics]]
+[[Category:Statistical ratios]]
+[[Category:Bioinformatics]]
+[[Category:Cheminformatics]]
+[[Category:Summary statistics for contingency tables]]

@@ -1,0 +1,596 @@
+{{ICD-10}}
+This is an overview about the chapter IV (also called chapter E) of the '''International Statistical Classification of Diseases and Related Health Problems''' 10th Revision ('''[[ICD]]-10'''). This chapter is about Endocrine, nutritional and metabolic diseases.<ref>http://apps.who.int/classifications/apps/icd/icd10online/?ge65.htm+e66</ref>
+
+The ICD-10 is a coding of diseases and signs, symptoms, abnormal findings, complaints, social circumstances and external causes of injury or diseases, as classified by the [[World Health Organization]] (WHO).  The code set allows more than 155,000 different codes and permits tracking of many new [[diagnoses]] and [[Surgery#Description of surgical procedure|procedures]], a significant expansion on the 17,000 codes available in [[ICD-9]].<ref Name="CMS_PressAug2008">{{cite web
+  | last =[[Centers for Medicare and Medicaid Services|CMS]] Office of Public Affairs
+  | first =
+  | authorlink =
+  | coauthors =
+  | title =HHS Proposes Adoption of ICD-10 Code Sets and Updated Electronic Transaction Standards
+  | work =News Release
+  | publisher =U.S. Department of Health & Human Services
+  | date =August 15, 2008
+  | url =http://www.dhhs.gov/news/press/2008pres/08/20080815a.html
+  | format =web
+  | doi =
+  | accessdate = 2008-10-22 }}</ref>
+
+==E00–E35 – Endocrine diseases==
+=== (E00–E07) Thyroid gland / Thyroid hormone ===
+* ({{ICD10|E|00||e|00}}) [[Congenital iodine-deficiency syndrome]]
+* ({{ICD10|E|01||e|00}}) [[Iodine-deficiency]]-related [[thyroid]] disorders and allied conditions
+** ({{ICD10|E|01|0|e|00}}) [[Endemic goitre|Iodine-deficiency-related diffuse (endemic) goitre]]
+** ({{ICD10|E|01|1|e|00}}) [[Endemic goitre|Iodine-deficiency-related multinodular (endemic) goitre]]
+** ({{ICD10|E|01|2|e|00}}) [[Endemic goitre|Iodine-deficiency-related (endemic) goitre, unspecified]]
+** ({{ICD10|E|01|8|e|00}}) Other [[iodine-deficiency]]-related [[thyroid]] disorders and allied condition
+* ({{ICD10|E|02||e|00}}) [[Subclinical]] [[iodine-deficiency]] [[hypothyroidism]]
+* ({{ICD10|E|03||e|00}}) Other [[hypothyroidism]]
+** ({{ICD10|E|03|0|e|00}}) [[Congenital hypothyroidism]] with [[diffuse goitre]]
+** ({{ICD10|E|03|1|e|00}}) [[Congenital hypothyroidism]] without [[goitre]]
+** ({{ICD10|E|03|2|e|00}}) [[Hypothyroidism]] due to [[medicaments]] and other [[exogenous]] substances
+** ({{ICD10|E|03|3|e|00}}) [[Postinfectious]] [[hypothyroidism]]
+** ({{ICD10|E|03|4|e|00}}) [[Atrophy]] of [[thyroid]] (acquired)
+** ({{ICD10|E|03|5|e|00}}) [[Myxoedema coma]]
+* ({{ICD10|E|04||e|00}}) Other nontoxic [[goitre]]
+* ({{ICD10|E|05||e|00}}) [[Thyrotoxicosis]] ([[hyperthyroidism]])
+** ({{ICD10|E|05|0|e|00}}) [[Thyrotoxicosis]] with [[diffuse goitre]]
+*** [[Graves' disease]]
+** ({{ICD10|E|05|1|e|00}}) [[Thyrotoxicosis]] with [[toxic single thyroid nodule]]
+** ({{ICD10|E|05|2|e|00}}) [[Thyrotoxicosis]] with [[toxic multinodular goitre]]
+** ({{ICD10|E|05|3|e|00}}) [[Thyrotoxicosis]] from [[ectopic thyroid tissue]]
+** ({{ICD10|E|05|4|e|00}}) [[Thyrotoxicosis factitia]]
+** ({{ICD10|E|05|5|e|00}}) [[Thyroid crisis]] or storm
+** ({{ICD10|E|05|8|e|00}}) Other [[thyrotoxicosis]]
+** ({{ICD10|E|05|9|e|00}}) [[Thyrotoxicosis]], unspecified
+* ({{ICD10|E|06||e|00}}) [[Thyroiditis]]
+** ({{ICD10|E|06|0|e|00}}) [[Acute (medical)|Acute]] [[thyroiditis]]
+** ({{ICD10|E|06|1|e|00}}) [[Subacute]] [[thyroiditis]]
+*** [[De Quervain's thyroiditis]]
+** ({{ICD10|E|06|2|e|00}}) [[chronic (medicine)|Chronic]] [[thyroiditis]] with [[wikt:transience|transient]] [[thyrotoxicosis]]
+** ({{ICD10|E|06|3|e|00}}) [[Autoimmune]] [[thyroiditis]]
+*** [[Hashimoto's thyroiditis]]
+** ({{ICD10|E|06|4|e|00}}) [[Drug-induced]] [[thyroiditis]]
+** ({{ICD10|E|06|5|e|00}}) Other [[chronic (medicine)|chronic]] [[thyroiditis]]
+*** [[Riedel's thyroiditis]]
+** ({{ICD10|E|06|9|e|00}}) [[Thyroiditis]], unspecified
+* ({{ICD10|E|07||e|00}}) Other disorders of [[thyroid]]
+** ({{ICD10|E|07|0|e|00}}) [[Hypersecretion of calcitonin]]
+** ({{ICD10|E|07|1|e|00}}) [[Dyshormogenetic goitre]]
+** ({{ICD10|E|07|8|e|00}}) Other specified disorders of [[thyroid]]
+*** [[Sick-euthyroid syndrome]]
+** ({{ICD10|E|07|9|e|00}}) Disorder of [[thyroid]], unspecified
+
+=== (E10–E16) Pancreas / Insulin, glucagon ===
+==== (E10–E14) Diabetes mellitus ====
+* ''Note: the following conditions are subtypes of each code from E10-14:''
+** ''(E1x.0) [[Diabetic coma]]''
+** ''(E1x.1) [[Diabetic ketoacidosis]]''
+** ''(E1x.2) [[Diabetic nephropathy]]''
+** ''(E1x.3) [[Diabetic retinopathy]]''
+** ''(E1x.4) [[Diabetic neuropathy]]''
+** ''(E1x.5) [[Diabetic angiopathy]]''
+** ''(E1x.6) [[Diabetic arthropathy]]''
+* ({{ICD10|E|10||e|10}}) [[Insulin-dependent diabetes mellitus]]
+* ({{ICD10|E|11||e|10}}) [[Non-insulin-dependent diabetes mellitus]]
+* ({{ICD10|E|12||e|10}}) [[Malnutrition]]-related [[diabetes mellitus]]
+* ({{ICD10|E|13||e|10}}) Other specified [[diabetes mellitus]]
+* ({{ICD10|E|14||e|10}}) Unspecified [[diabetes mellitus]]
+
+==== (E15–E16) Other disorders of glucose regulation and pancreatic internal secretion ====
+* ({{ICD10|E|15||e|15}}) [[Nondiabetic hypoglycaemic coma]]
+*** [[Drug-induced insulin coma in nondiabetic]]
+*** [[Hyperinsulinism]] with [[hypoglycaemic coma]]
+*** [[Hypoglycaemic coma]] NOS
+* ({{ICD10|E|16||e|15}}) Other disorders of [[pancreatic internal secretion]]
+** ({{ICD10|E|16|0|e|15}}) [[Drug-induced hypoglycaemia]] without [[coma]]
+** ({{ICD10|E|16|1|e|15}}) Other [[hypoglycaemia]]
+*** [[Functional nonhyperinsulinaemic hypoglycaemia]]
+*** [[Hyperinsulinism]]: NOS
+*** [[Hyperinsulinism]]: functional
+*** [[Hyperplasia of pancreatic islet beta cells]] NOS
+*** [[Posthypoglycaemic coma encephalopathy]]
+** ({{ICD10|E|16|2|e|15}}) [[Hypoglycaemia]], unspecified
+** ({{ICD10|E|16|3|e|15}}) Increased secretion of [[glucagon]]
+** ({{ICD10|E|16|4|e|15}}) Abnormal secretion of [[gastrin]]
+*** [[Hypergastrinaemia]]
+*** [[Zollinger-Ellison syndrome]]
+** ({{ICD10|E|16|8|e|15}}) Other specified disorders of [[pancreatic internal secretion]]
+** ({{ICD10|E|16|9|e|15}}) Disorder of [[pancreatic internal secretion]], unspecified
+
+=== (E20–E21) Parathyroid gland / PTH ===
+* ({{ICD10|E|20||e|20}}) [[Hypoparathyroidism]]
+** ({{ICD10|E|20|0|e|20}}) [[Idiopathic]] [[hypoparathyroidism]]
+** ({{ICD10|E|20|1|e|20}}) [[Pseudohypoparathyroidism]]
+* ({{ICD10|E|21||e|20}}) [[Hyperparathyroidism]] and other disorders of [[parathyroid gland]]
+** ({{ICD10|E|21|0|e|20}}) [[Primary hyperparathyroidism]]
+** ({{ICD10|E|21|1|e|20}}) [[Secondary hyperparathyroidism]], not elsewhere classified
+
+=== (E22–E23) Pituitary gland / ADH, oxytocin, GH, ACTH, TSH, LH, FSH, prolactin ===
+* ({{ICD10|E|22||e|20}}) Hyperfunction of [[pituitary gland]]
+** ({{ICD10|E|22|0|e|20}}) [[Acromegaly]] and [[pituitary gigantism]]
+** ({{ICD10|E|22|1|e|20}}) [[Hyperprolactinaemia]]
+** ({{ICD10|E|22|2|e|20}}) [[Syndrome of inappropriate secretion of antidiuretic hormone]]
+*** Central [[precocious puberty]]
+* ({{ICD10|E|23||e|20}}) [[Hypofunction]] and other disorders of [[pituitary gland]]
+** ({{ICD10|E|23|0|e|20}}) [[Hypopituitarism]]
+*** [[Fertile eunuch syndrome]]
+*** [[Hypogonadotropic hypogonadism]]
+*** [[Idiopathic growth hormone deficiency]]
+*** Isolated deficiency of [[gonadotropin]]
+*** Isolated deficiency of [[growth hormone]]
+*** Isolated deficiency of [[pituitary hormone]]
+*** [[Kallmann's syndrome]]
+*** [[Lorain-Levi short stature]]
+*** [[Necrosis]] of [[pituitary gland]] ([[postpartum]])
+*** [[Panhypopituitarism]]
+*** Pituitary [[cachexia]]
+*** [[Pituitary insufficiency]] NOS
+*** Pituitary [[short stature]]
+*** [[Sheehan's syndrome]]
+*** [[Simmonds' disease]]
+** ({{ICD10|E|23|1|e|20}}) [[Medication|Drug-induced]] [[hypopituitarism]]
+** ({{ICD10|E|23|2|e|20}}) [[Diabetes insipidus]]
+** ({{ICD10|E|23|3|e|20}}) [[Hypothalamic dysfunction]], not elsewhere classified
+** ({{ICD10|E|23|6|e|20}}) Other disorders of [[pituitary gland]]
+*** [[Abscess of pituitary]]
+*** [[Adiposogenital dystrophy]]
+** ({{ICD10|E|23|7|e|20}}) Disorder of [[pituitary gland]], unspecified
+
+=== (E24–E27) Adrenal gland / Aldosterone, cortisol, epinephrine, norepinephrine ===
+* ({{ICD10|E|24||e|20}}) [[Cushing's syndrome]]
+** ({{ICD10|E|24|0|e|20}}) [[Pituitary-dependent Cushing's disease]]
+** ({{ICD10|E|24|1|e|20}}) [[Nelson's syndrome]]
+** ({{ICD10|E|24|2|e|20}}) [[Ectopic ACTH syndrome]]
+** ({{ICD10|E|24|3|e|20}}) [[Alcohol]]-induced [[pseudo-Cushing's syndrome]]
+** ({{ICD10|E|24|4|e|20}}) Other [[Cushing's syndrome]]
+** ({{ICD10|E|24|5|e|20}}) [[Cushing's syndrome]], unspecified
+* ({{ICD10|E|25||e|20}}) [[Adrenogenital disorders]]
+** ({{ICD10|E|25|0|e|20}}) [[Congenital adrenogenital disorders]] associated with [[enzyme deficiency]]
+*** [[Congenital adrenal hyperplasia]]
+**** [[Congenital adrenal hyperplasia due to 21-hydroxylase deficiency]]
+* ({{ICD10|E|26||e|20}}) [[Hyperaldosteronism]]
+** ({{ICD10|E|26|0|e|20}}) [[Primary hyperaldosteronism]]
+*** [[Conn's syndrome]]
+*** [[Primary aldosteronism due to adrenal hyperplasia]] (bilateral)
+** ({{ICD10|E|26|1|e|20}}) [[Secondary hyperaldosteronism]]
+** ({{ICD10|E|26|8|e|20}}) Other [[hyperaldosteronism]]
+*** [[Bartter's syndrome]]
+** ({{ICD10|E|26|9|e|20}}) [[Hyperaldosteronism]], unspecified
+* ({{ICD10|E|27||e|20}}) Other disorders of [[adrenal gland]]
+** ({{ICD10|E|27|0|e|20}}) Other [[adrenocortical]] overactivity
+** ({{ICD10|E|27|1|e|20}}) [[Primary adrenocortical insufficiency]]
+*** [[Addison's disease]]
+** ({{ICD10|E|27|2|e|20}}) [[Addisonian crisis]]
+** ({{ICD10|E|27|3|e|20}}) [[Medication|Drug-induced]] [[adrenocortical insufficiency]]
+** ({{ICD10|E|27|4|e|20}}) Other and unspecified [[adrenocortical insufficiency]]
+*** [[Hypoaldosteronism]]
+*** [[Adrenocortical insufficiency]] NOS
+** ({{ICD10|E|27|5|e|20}}) [[Adrenomedullary]] hyperfunction
+
+=== (E28–E30) Gonads / Estrogen, androgens, testosterone, etc. ===
+* ({{ICD10|E|28||e|20}}) [[Ovarian]] dysfunction
+** ({{ICD10|E|28|0|e|20}}) [[Estrogen]] excess
+** ({{ICD10|E|28|1|e|20}}) [[Androgen]] excess
+** ({{ICD10|E|28|2|e|20}}) [[Polycystic ovarian syndrome]]
+** ({{ICD10|E|28|3|e|20}}) [[Primary ovarian failure]]
+*** [[Premature menopause]] NOS
+* ({{ICD10|E|29||e|20}}) [[Testicular]] dysfunction
+** ({{ICD10|E|29|0|e|20}}) [[Testicular hyperfunction]]
+** ({{ICD10|E|29|1|e|20}}) [[Testicular hypofunction]]
+*** [[5-Alpha-reductase deficiency]] (with male [[pseudohermaphroditism]])
+*** [[Testicular hypogonadism]] NOS
+* ({{ICD10|E|30||e|20}}) Disorders of [[puberty]], not elsewhere classified
+** ({{ICD10|E|30|0|e|20}}) [[Delayed puberty]]
+** ({{ICD10|E|30|1|e|20}}) [[Precocious puberty]]
+** ({{ICD10|E|30|8|e|20}}) Other disorders of [[puberty]]
+*** Premature [[thelarche]]
+
+=== (E31–E35) Other ===
+* ({{ICD10|E|31||e|20}}) [[Polyglandular]] dysfunction
+** ({{ICD10|E|31|0|e|20}}) [[Autoimmune]] [[polyglandular]] failure
+*** [[Schmidt's syndrome]]
+** ({{ICD10|E|31|1|e|20}}) [[Polyglandular hyperfunction]]
+* ({{ICD10|E|32||e|20}}) Diseases of [[thymus]]
+** ({{ICD10|E|32|0|e|20}}) [[Persistent hyperplasia of thymus]]
+*** [[Hypertrophy of thymus]]
+** ({{ICD10|E|32|1|e|20}}) [[Abscess of thymus]]
+* ({{ICD10|E|34||e|20}}) Other [[endocrine disorders]]
+** ({{ICD10|E|34|0|e|20}}) [[Carcinoid syndrome]]
+** ({{ICD10|E|34|1|e|20}}) Other [[hypersecretion]] of [[intestinal hormones]]
+** ({{ICD10|E|34|2|e|20}}) [[Ectopic hormone secretion]], not elsewhere classified
+** ({{ICD10|E|34|3|e|20}}) [[Short stature]], not elsewhere classified
+*** NOS
+*** constitutional
+*** [[Laron syndrome|Laron-type]]
+*** [[Psychogenic dwarfism|psychosocial]]
+** ({{ICD10|E|34|4|e|20}}) [[Constitutional tall stature]]
+*** Constitutional [[gigantism]]
+** ({{ICD10|E|34|5|e|20}}) [[Androgen resistance syndrome]]
+*** [[Reifenstein's syndrome]]
+** ({{ICD10|E|34|8|e|20}}) Other specified [[endocrine]] disorders
+*** [[Progeria]]
+* ({{ICD10|E|35||e|20}}) Disorders of [[endocrine glands]] in diseases classified elsewhere
+** ({{ICD10|E|35|0|e|20}}) Disorders of [[thyroid gland]] in diseases classified elsewhere
+** ({{ICD10|E|35|1|e|20}}) Disorders of [[adrenal glands]] in diseases classified elsewhere
+** ({{ICD10|E|35|8|e|20}}) Disorders of other [[endocrine glands]] in diseases classified elsewhere
+
+==E40–E68 – Nutritional diseases==
+=== (E40–E46) Malnutrition ===
+* ({{ICD10|E|40||e|40}}) [[Kwashiorkor]]
+* ({{ICD10|E|41||e|40}}) [[Nutritional]] [[marasmus]]
+* ({{ICD10|E|42||e|40}}) [[Marasmic]] [[kwashiorkor]]
+* ({{ICD10|E|43||e|40}}) Unspecified severe [[protein-energy malnutrition]]
+* ({{ICD10|E|44||e|40}}) [[Protein-energy malnutrition]] of moderate and mild degree
+* ({{ICD10|E|45||e|40}}) [[Retarded development]] following [[protein-energy malnutrition]]
+* ({{ICD10|E|46||e|40}}) Unspecified [[protein-energy malnutrition]]
+
+=== (E50–E64) Other nutritional deficiencies ===
+* ({{ICD10|E|50||e|50}}) [[Vitamin A]] deficiency
+** ({{ICD10|E|50|0|e|50}}) [[Vitamin A]] deficiency with [[conjunctival]] [[xerosis]]
+** ({{ICD10|E|50|1|e|50}}) [[Vitamin A]] deficiency with [[Bitot's spot]] and [[conjunctival]] [[xerosis]]
+** ({{ICD10|E|50|2|e|50}}) [[Vitamin A]] deficiency with [[corneal]] [[xerosis]]
+** ({{ICD10|E|50|3|e|50}}) [[Vitamin A]] deficiency with [[corneal ulcer]]ation and [[xerosis]]
+** ({{ICD10|E|50|4|e|50}}) [[Vitamin A]] deficiency with [[keratomalacia]]
+** ({{ICD10|E|50|5|e|50}}) [[Vitamin A]] deficiency with [[night blindness]]
+** ({{ICD10|E|50|6|e|50}}) [[Vitamin A]] deficiency with [[xerophthalmic]] scars of [[cornea]]
+** ({{ICD10|E|50|7|e|50}}) Other ocular manifestations of [[vitamin A]] deficiency
+*** [[Xerophthalmia]] NOS
+* ({{ICD10|E|51||e|50}}) [[Thiamine]] deficiency
+** ({{ICD10|E|51|1|e|50}}) [[Beriberi]]
+** ({{ICD10|E|51|2|e|50}}) [[Wernicke's encephalopathy]]
+* ({{ICD10|E|52||e|50}}) [[Niacin]] deficiency ([[pellagra]])
+* ({{ICD10|E|53||e|50}}) Deficiency of other [[B group vitamins]]
+** ({{ICD10|E|53|0|e|50}}) [[Riboflavin]] deficiency
+*** [[Ariboflavinosis]]
+** ({{ICD10|E|53|1|e|50}}) [[Pyridoxine]] deficiency
+** ({{ICD10|E|53|8|e|50}}) Deficiency of other specified [[B group vitamins]]
+* ({{ICD10|E|54||e|50}}) [[Ascorbic acid]] deficiency
+** [[Scurvy]]
+* ({{ICD10|E|55||e|50}}) [[Vitamin D deficiency]]
+** ({{ICD10|E|55|0|e|50}}) [[Rickets]], active
+* ({{ICD10|E|56||e|50}}) Other [[vitamin]] deficiencies
+** ({{ICD10|E|56|0|e|50}}) Deficiency of [[vitamin E]]
+** ({{ICD10|E|56|1|e|50}}) Deficiency of [[vitamin K]]
+* ({{ICD10|E|58||e|50}}) Dietary [[Hypocalcaemia|calcium deficiency]]
+* ({{ICD10|E|59||e|50}}) Dietary [[selenium deficiency]]
+* ({{ICD10|E|60||e|50}}) Dietary [[zinc deficiency]]
+* ({{ICD10|E|61||e|50}}) Deficiency of other [[nutrient]] elements
+** ({{ICD10|E|61|1|e|50}}) [[Iron deficiency (medicine)|Iron deficiency]]
+** ({{ICD10|E|61|2|e|50}}) [[Magnesium deficiency]]
+** ({{ICD10|E|61|3|e|50}}) [[Manganese deficiency (medicine)|Manganese deficiency]]
+** ({{ICD10|E|61|4|e|50}}) [[Chromium deficiency]]
+** ({{ICD10|E|61|5|e|50}}) [[Molybdenum deficiency]]
+** ({{ICD10|E|61|6|e|50}}) [[Vanadium deficiency]]
+* ({{ICD10|E|63||e|50}}) Other [[nutritional deficiencies]]
+** ({{ICD10|E|63|0|e|50}}) [[Essential fatty acid]] (EFA) deficiency
+* ({{ICD10|E|64||e|50}}) [[Sequelae]] of [[malnutrition]] and other [[nutritional deficiencies]]
+
+=== (E65–E68) Obesity and other hyperalimentation ===
+* ({{ICD10|E|65||e|65}}) Localized [[adiposity]]
+** [[Fat pad]]
+* ({{ICD10|E|66||e|65}}) [[Obesity]]
+** ({{ICD10|E|66|0|e|65}}) [[Obesity due to excess calories]]
+** ({{ICD10|E|66|1|e|65}}) [[Drug-induced obesity]]
+** ({{ICD10|E|66|2|e|65}}) [[Extreme obesity]] with [[alveolar hypoventilation]]
+*** [[Pickwickian syndrome]]
+** ({{ICD10|E|66|8|e|65}}) Other [[obesity]]
+*** [[Morbid obesity]]
+** ({{ICD10|E|66|9|e|65}}) [[Obesity]], unspecified
+* ({{ICD10|E|67||e|65}}) Other [[hyperalimentation]]
+** ({{ICD10|E|67|0|e|65}}) [[Hypervitaminosis A]]
+** ({{ICD10|E|67|1|e|65}}) [[Hypercarotenaemia]]
+** ({{ICD10|E|67|2|e|65}}) [[Megavitamin-B 6 syndrome]]
+** ({{ICD10|E|67|3|e|65}}) [[Hypervitaminosis D]]
+* ({{ICD10|E|68||e|65}}) [[Sequelae]] of [[hyperalimentation]]
+
+==E70–E90 – Metabolic diseases==
+=== (E70–E79) Metabolic disorders of proteins, fats, and carbohydrates ===
+==== (E70–E72) Amino-acids====
+* ({{ICD10|E|70||e|70}}) Disorders of [[aromatic amino-acid]] [[metabolism]]
+** ({{ICD10|E|70|0|e|70}}) Classical [[phenylketonuria]]
+** ({{ICD10|E|70|1|e|70}}) Other [[hyperphenylalaninaemias]]
+** ({{ICD10|E|70|2|e|70}}) Disorders of [[tyrosine]] [[metabolism]]
+*** [[Alkaptonuria]] ([[ILDS]] E70.210)
+*** [[Ochronosis]] ([[ILDS]] E70.230)
+*** [[Tyrosinaemia]]
+** ({{ICD10|E|70|3|e|70}}) [[Albinism]]
+*** [[Oculocutaneous albinism]] ([[ILDS]] E70.310)
+*** [[Partial albinism]] ([[ILDS]] E70.312)
+*** [[Oculocutaneous albinism]] type 1 ([[tyrosinase]]-negative) ([[ILDS]] E70.314)
+*** [[Oculocutaneous albinism]] type 2 ([[tyrosinase]] positive) ([[ILDS]] E70.314)
+*** [[Albinoidism]] ([[ILDS]] E70.318)
+*** [[Waardenburg's syndrome]] ([[ILDS]] E70.320)
+*** [[Chediak-Higashi syndrome]] ([[ILDS]] E70.340)
+*** [[Piebaldism]] ([[ILDS]] E70.350)
+*** [[Tietz's syndrome]] ([[ILDS]] E70.358)
+*** [[Hermansky-Pudlak syndrome]] ([[ILDS]] E70.360)
+*** [[Cross syndrome]] ([[ILDS]] E70.380)
+** ({{ICD10|E|70|8|e|70}}) Other disorders of aromatic amino-acid metabolism
+*** Disorders of [[histidine]] metabolism
+*** Disorders of [[tryptophan]] metabolism
+** ({{ICD10|E|70|9|e|70}}) Disorder of aromatic amino-acid metabolism, unspecified
+* ({{ICD10|E|71||e|70}}) Disorders of [[branched-chain amino-acid]] [[metabolism]] and [[fatty-acid metabolism]]
+** ({{ICD10|E|71|0|e|70}}) [[Maple-syrup-urine disease]]
+** ({{ICD10|E|71|1|e|70}}) Other disorders of [[branched-chain amino-acid]] [[metabolism]]
+*** [[Propionic acidemia]]
+*** [[Methylmalonic acidemia]]
+*** [[Isovaleric acidemia]]
+** ({{ICD10|E|71|2|e|70}}) Disorder of [[branched-chain amino-acid]] [[metabolism]], unspecified
+** ({{ICD10|E|71|3|e|70}}) [[Disorders of fatty-acid metabolism]]
+*** [[Adrenoleukodystrophy]] (Addison-Schilder)
+*** [[Muscle carnitine palmityltransferase deficiency]]
+* ({{ICD10|E|72||e|70}}) Other disorders of [[amino-acid metabolism]]
+** ({{ICD10|E|72|0|e|70}}) Disorders of [[amino-acid]] [[transport]]
+*** [[Cystinuria]]
+*** [[Cystinosis]]
+*** [[Hartnup disease]]
+*** [[Lowe's syndrome]]
+** ({{ICD10|E|72|1|e|70}}) Disorders of [[sulfur-bearing]] [[amino-acid metabolism]]
+*** [[Cystathioninuria]]
+*** [[Homocystinuria]]
+*** [[Methioninaemia]]
+*** [[Sulfite oxidase deficiency]]
+** ({{ICD10|E|72|2|e|70}}) Disorders of [[urea cycle]] [[metabolism]]
+*** [[Argininaemia]]
+*** [[Argininosuccinic aciduria]]
+*** [[Citrullinaemia]]
+*** [[Hyperammonaemia]]
+** ({{ICD10|E|72|3|e|70}}) Disorders of [[lysine]] and [[hydroxylysine]] [[metabolism]]
+*** [[Glutaric aciduria]]{{Disambiguation needed|date=June 2011}}
+*** [[Hydroxylysinaemia]]
+*** [[Hyperlysinaemia]]
+*** [[Lysinuric protein intolerance]]
+** ({{ICD10|E|72|4|e|70}}) Disorders of [[ornithine]] [[metabolism]]
+*** [[Ornithinaemia]] (types I, II)
+** ({{ICD10|E|72|5|e|70}}) Disorders of [[glycine]] [[metabolism]]
+*** [[Hyperhydroxyprolinaemia]]
+*** [[Hyperprolinaemia]] (types I, II)
+*** [[Non-ketotic hyperglycinaemia]]
+*** [[Sarcosinaemia]]
+
+==== (E73–E74) Carbohydrates====
+* ({{ICD10|E|73||e|70}}) [[Lactose intolerance]]
+* ({{ICD10|E|74||e|70}}) Other disorders of [[carbohydrate metabolism]]
+** ({{ICD10|E|74|0|e|70}}) [[Glycogen storage disease]]
+*** [[Glycogen storage disease type I]] ([[von Gierke's disease]])
+*** [[Glycogen storage disease type II]] ([[Pompe's disease]])
+*** [[Glycogen storage disease type III]]
+*** [[Glycogen storage disease type IV]]
+*** [[Glycogen storage disease type V]] ([[McArdle's disease]])
+** ({{ICD10|E|74|1|e|70}}) Disorders of [[fructose]] [[metabolism]]
+*** [[Essential fructosuria]]
+*** [[Fructose-1,6-diphosphatase deficiency]]
+*** [[Hereditary fructose intolerance]]
+** ({{ICD10|E|74|2|e|70}}) Disorders of [[galactose]] [[metabolism]]
+*** [[Galactosaemia]]
+*** [[Galactokinase deficiency]]
+** ({{ICD10|E|74|3|e|70}}) Other disorders of [[intestinal carbohydrate absorption]]
+*** [[Glucose-galactose malabsorption]]
+*** [[Sucrase deficiency]]
+** ({{ICD10|E|74|4|e|70}}) Disorders of [[pyruvate metabolism]] and [[gluconeogenesis]]
+*** [[Deficiency of phosphoenolpyruvate carboxykinase]]
+*** [[Deficiency of pyruvate carboxylase]]
+*** [[Deficiency of pyruvate dehydrogenase]]
+** ({{ICD10|E|74|8|e|70}}) Other specified [[disorders of carbohydrate metabolism]]
+*** [[Essential pentosuria]]
+*** [[Oxalosis]]
+*** [[Oxaluria]]
+*** [[Renal glycosuria]]
+** ({{ICD10|E|74|9|e|70}}) Disorder of [[carbohydrate metabolism]], unspecified
+
+==== (E75) Lipids====
+* ({{ICD10|E|75||e|70}}) Disorders of [[sphingolipid]] [[metabolism]] and other [[lipid storage]] disorders
+** ({{ICD10|E|75|0|e|70}}) [[GM 2 gangliosidosis]]{{Disambiguation needed|date=June 2011}}
+*** [[Sandhoff disease]]
+*** [[Tay-Sachs disease]]
+** ({{ICD10|E|75|1|e|70}}) Other [[gangliosidosis]]
+*** [[GM1 gangliosidoses|GM 1]]
+*** [[GM3 gangliosidoses|GM 3]]
+*** [[Mucolipidosis IV]]
+** ({{ICD10|E|75|2|e|70}}) Other [[sphingolipidosis]]
+*** [[Gaucher's disease]] ([[ILDS]] E75.220)
+*** [[Niemann-Pick disease]] ([[ILDS]] E75.230)
+***[[Farber's disease]] ([[ILDS]] E75.240)
+***[[Fabry's disease]] ([[ILDS]] E75.250)
+** ({{ICD10|E|75|3|e|70}}) [[Sphingolipidosis]], unspecified
+** ({{ICD10|E|75|4|e|70}}) [[Neuronal ceroid lipofuscinosis]]
+*** [[Batten disease]] (Type 3)
+*** [[Bielschowsky-Jansky disease]] (Type 2)
+*** [[Kufs disease]] (Type 4)
+*** [[Spielmeyer-Vogt disease]] (Type 3)
+** ({{ICD10|E|75|5|e|70}}) Other [[lipid storage disorders]]
+*** [[Cerebrotendinous cholesterosis]] (van Bogaert-Scherer-Epstein)
+*** [[Wolman's disease]]
+** ({{ICD10|E|75|6|e|70}}) [[Lipid storage disorder]], unspecified
+
+==== (E76–E78) Combinations====
+* ({{ICD10|E|76||e|70}}) Disorders of [[glycosaminoglycan]] metabolism
+** ({{ICD10|E|76|0|e|70}}) [[Mucopolysaccharidosis]], type I
+*** [[Hurler syndrome]]
+** ({{ICD10|E|76|1|e|70}}) [[Mucopolysaccharidosis]], type II
+*** [[Hunter syndrome]]
+** ({{ICD10|E|76|2|e|70}}) Other [[mucopolysaccharidoses]]
+*** [[Sanfilippo syndrome]]
+*** [[Morquio syndrome]]
+* ({{ICD10|E|77||e|70}}) Disorders of [[glycoprotein]] [[metabolism]]
+** ({{ICD10|E|77|0|e|70}}) Defects in [[post-translational modification]] of [[lysosomal enzymes]]
+*** [[Mucolipidosis II]] ([[I-cell disease]])
+*** [[Mucolipidosis III]] ([[pseudo-Hurler polydystrophy]])
+** ({{ICD10|E|77|1|e|70}}) Defects in [[glycoprotein]] [[Chemical decomposition|degradation]]
+*** [[Aspartylglucosaminuria]]
+*** [[Fucosidosis]]
+*** [[Mannosidosis]]
+*** [[Sialidosis]] ([[mucolipidosis I]])
+** ({{ICD10|E|77|8|e|70}}) [[Other disorders of glycoprotein metabolism]]
+** ({{ICD10|E|77|9|e|70}}) [[Disorder of glycoprotein metabolism, unspecified]]
+* ({{ICD10|E|78||e|70}}) Disorders of [[lipoprotein]] [[metabolism]] and other [[lipidaemias]]
+** ({{ICD10|E|78|0|e|70}}) Pure [[hypercholesterolaemia]]
+*** [[Familial hypercholesterolaemia]]
+*** [[Fredrickson's hyperlipoproteinaemia]], type IIa
+*** [[Hyperbetalipoproteinaemia]]
+*** [[Hyperlipidaemia]], group A
+*** [[Low-density-lipoprotein]]-type (LDL) [[hyperlipoproteinaemia]]
+** ({{ICD10|E|78|1|e|70}}) Pure [[hyperglyceridaemia]]
+*** [[Endogenous]] [[hyperglyceridaemia]]
+*** [[Fredrickson's hyperlipoproteinaemia]], type IV
+*** [[Hyperlipidaemia]], group B
+*** [[Hyperprebetalipoproteinaemia]]
+*** [[Very-low-density-lipoprotein]]-type (VLDL) [[hyperlipoproteinaemia]]
+** ({{ICD10|E|78|2|e|70}}) Mixed [[hyperlipidaemia]]
+*** Broad- or floating-[[betalipoproteinaemia]]
+*** [[Fredrickson's hyperlipoproteinaemia]], type IIb or III
+*** [[Hyperbetalipoproteinaemia]] with [[prebetalipoproteinaemia]]
+*** [[Hypercholesterolaemia]] with [[endogenous]] [[hyperglyceridaemia]]
+*** [[Hyperlipidaemia]], group C
+*** [[Tubero-eruptive xanthoma]]
+*** [[Xanthoma tuberosum]]
+** ({{ICD10|E|78|3|e|70}}) [[Hyperchylomicronaemia]]
+*** [[Fredrickson's hyperlipoproteinaemia]], type I or V
+*** [[Hyperlipidaemia]], group D
+*** [[Mixed hyperglyceridaemia]]
+** ({{ICD10|E|78|4|e|70}}) Other [[hyperlipidaemia]]
+*** [[Familial combined hyperlipidaemia]]
+** ({{ICD10|E|78|5|e|70}}) [[Hyperlipidaemia]], unspecified
+** ({{ICD10|E|78|6|e|70}}) [[Lipoprotein]] deficiency
+*** [[Abetalipoproteinaemia]]
+*** [[High-density lipoprotein deficiency]]
+*** [[Hypoalphalipoproteinaemia]]
+*** [[Hypobetalipoproteinemia|Hypobetalipoproteinaemia]] (familial)
+*** [[Lecithin cholesterol acyltransferase deficiency]]
+*** [[Tangier disease]]
+
+=== (E79–E90) Other metabolic disorders  ===
+* ({{ICD10|E|79||e|70}}) Disorders of [[purine]] and [[pyrimidine]] metabolism
+** ({{ICD10|E|79|0|e|70}}) [[Hyperuricaemia]] without signs of [[inflammatory arthritis]] and [[tophaceous]] disease
+** ({{ICD10|E|79|1|e|70}}) [[Lesch-Nyhan syndrome]]
+** ({{ICD10|E|79|8|e|70}}) Other disorders of [[purine]] and [[pyrimidine]] [[metabolism]]
+*** Hereditary [[xanthinuria]]
+* ({{ICD10|E|80||e|70}}) Disorders of [[porphyrin]] and [[bilirubin metabolism]]
+** ({{ICD10|E|80|0|e|70}}) [[Hereditary erythropoietic porphyria]]
+*** [[Erythropoietic protoporphyria]] ([[ILDS]] E80.010)
+*** [[Erythropoietic porphyria, congenital]] ([[ILDS]] E80.020)
+*** [[Gunther's disease]] ([[ILDS]] ([[ILDS]] E80.020)
+*** [[Erythropoietic porphyria]] ([[ILDS]] ([[ILDS]] E80.030)
+*** [[Erythropoietic coproporphyria]] ([[ILDS]] E80.040)
+** ({{ICD10|E|80|1|e|70}}) [[Porphyria cutanea tarda]]
+*** [[Sporadic porphyria cutanea tarda]] ([[ILDS]] E80.110)
+*** [[Familial porphyria cutanea tarda]] ([[ILDS]] E80.120)
+** ({{ICD10|E|80|2|e|70}}) Other [[porphyria]]
+*** [[Acute intermittent porphyria]] ([[ILDS]] E80.210)
+*** [[Hereditary coproporphyria]] ([[ILDS]] E80.222)
+*** [[Variegate porphyria]] ([[ILDS]] E80.230)
+*** [[Chester porphyria]] ([[ILDS]] E80.232)
+*** [[Porphyria, hepatic]] ([[ILDS]] E80.240)
+*** [[Pseudoporphyria]] ([[ILDS]] E80.250)
+*** [[Toxic porphyria]] ([[ILDS]]  E80.260)
+*** [[Hepatoerythropoietic porphyria]] ([[ILDS]] E80.282)
+*** [[Porphyria]], NOS ([[ILDS]] E80.290)
+** ({{ICD10|E|80|3|e|70}}) Defects of [[catalase]] and [[peroxidase]]
+*** [[Acatalasia]] ([[Takahara]])
+** ({{ICD10|E|80|4|e|70}}) [[Gilbert's syndrome]]
+** ({{ICD10|E|80|5|e|70}}) [[Crigler-Najjar syndrome]]
+** ({{ICD10|E|80|6|e|70}}) Other disorders of [[bilirubin metabolism]]
+*** [[Dubin-Johnson syndrome]]
+*** [[Rotor's syndrome]]
+** ({{ICD10|E|80|7|e|70}}) Disorder of [[bilirubin metabolism]], unspecified
+* ({{ICD10|E|83||e|70}}) Disorders of [[mineral]] [[metabolism]]
+** ({{ICD10|E|83|0|e|70}}) Disorders of [[copper]] [[metabolism]]
+*** [[Wilson's disease]]
+*** [[Menkes disease]]
+** ({{ICD10|E|83|1|e|70}}) Disorders of [[iron metabolism]]
+*** [[Aceruloplasminemia]]
+*** [[Hemochromatosis]]
+** ({{ICD10|E|83|2|e|70}}) Disorders of [[zinc]] [[metabolism]]
+*** [[Acrodermatitis enteropathica]]
+** ({{ICD10|E|83|3|e|70}}) Disorders of [[phosphorus]] [[metabolism]]
+*** [[Acid phosphatase]] deficiency
+*** Familial [[hypophosphataemia]]
+*** [[Hypophosphatasia]]
+*** [[Vitamin-D]]-resistant [[osteomalacia]]
+*** [[Vitamin-D]]-resistant [[rickets]]
+** ({{ICD10|E|83|4|e|70}}) Disorders of [[magnesium]] [[metabolism]]
+*** [[Hypermagnesemia]]
+*** [[Hypomagnesemia]]
+** ({{ICD10|E|83|5|e|70}}) [[Disorders of calcium metabolism]]
+*** [[Family|Familial]] [[hypocalciuric]] [[hypercalcaemia]]
+*** [[Idiopathic]] [[hypercalciuria]]
+* ({{ICD10|E|84||e|70}}) [[Cystic fibrosis]]
+* ({{ICD10|E|85||e|70}}) [[Amyloidosis]]
+** ({{ICD10|E|85|0|e|70}}) Non-[[neuropathic]] [[heredofamilial]] [[amyloidosis]]
+*** [[Familial Mediterranean fever]]
+*** [[Hereditary amyloid nephropathy]]
+** ({{ICD10|E|85|1|e|70}}) [[Neuropathic heredofamilial amyloidosis]]
+*** [[Amyloid polyneuropathy]] (Portuguese)
+** ({{ICD10|E|85|2|e|70}}) [[Heredofamilial amyloidosis]], unspecified
+** ({{ICD10|E|85|3|e|70}}) [[Secondary systemic amyloidosis]]
+*** [[Haemodialysis-associated amyloidosis]]
+** ({{ICD10|E|85|4|e|70}}) [[Organ-limited amyloidosis]]
+*** [[Localized amyloidosis]]
+** ({{ICD10|E|85|8|e|70}}) Other [[amyloidosis]]
+** ({{ICD10|E|85|9|e|70}}) [[Amyloidosis]], unspecified
+* ({{ICD10|E|86||e|70}}) [[Volume depletion]]
+** [[Dehydration]]
+** [[Hypovolaemia]]
+* ({{ICD10|E|87||e|70}}) Other disorders of [[fluid]], [[electrolyte]] and [[acid-base balance]]
+** ({{ICD10|E|87|0|e|70}}) [[Hyperosmolality]] and [[hypernatraemia]]
+** ({{ICD10|E|87|1|e|70}}) [[Hypo-osmolality]] and [[hyponatraemia]]
+** ({{ICD10|E|87|2|e|70}}) [[Acidosis]]
+*** [[Respiratory acidosis]]
+*** [[Metabolic acidosis]]
+*** [[Lactic acidosis]]
+** ({{ICD10|E|87|3|e|70}}) [[Alkalosis]]
+** ({{ICD10|E|87|4|e|70}}) [[Mixed disorder of acid-base balance]]
+** ({{ICD10|E|87|5|e|70}}) [[Hyperkalaemia]]
+** ({{ICD10|E|87|6|e|70}}) [[Hypokalaemia]]
+** ({{ICD10|E|87|7|e|70}}) [[Fluid overload]]
+** ({{ICD10|E|87|8|e|70}}) Other disorders of [[electrolyte]] and fluid balance, not elsewhere classified
+*** [[Electrolyte imbalance]] NOS
+*** [[Hyperchloraemia]]
+*** [[Hypochloraemia]]
+* ({{ICD10|E|88||e|70}}) Other [[metabolic disorders]]
+** ({{ICD10|E|88|0|e|70}}) Disorders of [[plasma-protein]] metabolism, not elsewhere classified
+*** [[Alpha-1-antitrypsin deficiency]]
+*** [[Bisalbuminaemia]]
+** ({{ICD10|E|88|1|e|70}}) [[Lipodystrophy]], not elsewhere classified
+** ({{ICD10|E|88|2|e|70}}) [[Lipomatosis]], not elsewhere classified
+** ({{ICD10|E|88|8|e|70}}) Other specified [[metabolic disorders]]
+*** [[Launois-Bensaude adenolipomatosis]]
+*** [[Trimethylaminuria]]
+** ({{ICD10|E|88|9|e|70}}) [[Metabolic disorder]], unspecified
+* ({{ICD10|E|89||e|70}}) Postprocedural [[endocrine]] and [[metabolic disorders]], not elsewhere classified
+** ({{ICD10|E|89|0|e|70}}) Postprocedural [[hypothyroidism]]
+** ({{ICD10|E|89|1|e|70}}) Postprocedural [[hypoinsulinaemia]]
+** ({{ICD10|E|89|2|e|70}}) Postprocedural [[hypoparathyroidism]]
+** ({{ICD10|E|89|3|e|70}}) Postprocedural [[hypopituitarism]]
+** ({{ICD10|E|89|4|e|70}}) Postprocedural [[ovarian]] [[failure]]
+** ({{ICD10|E|89|5|e|70}}) Postprocedural [[testicular]] [[hypofunction]]
+** ({{ICD10|E|89|6|e|70}}) Postprocedural [[adrenocortical]](-[[adrenal medulla|medullary]]) [[hypofunction]]
+* ({{ICD10|E|90||e|70}}) [[Nutritional]] and [[metabolic disorders]] in diseases classified elsewhere
+
+==See also==
+* [[List of ICD-10 codes]]
+* [[ICD|International Statistical Classification of Diseases and Related Health Problems]]
+* [[List of ICD-9 codes 240–279: endocrine, nutritional and metabolic diseases, and immunity disorders]]
+
+==References==
+{{reflist}}
+{{Medical conditions}}
+{{Endocrine pathology}}
+{{Nutritional pathology}}
+{{Amino acid metabolic pathology}}
+{{Fatty-acid metabolism disorders}}
+{{Carbohydrate metabolic pathology}}
+{{Lipid storage disorders}}
+{{Glycosaminoglycan, glycoprotein metabolic pathology}}
+{{Glycoproteinoses}}
+{{Lipidemias}}
+{{Inborn errors of purine-pyrimidine metabolism}}
+{{Heme metabolism disorders}}
+{{Peroxisomal disorders}}
+{{Mineral metabolic pathology}}
+{{Amyloidosis}}
+{{Fluid, electrolyte, acid base metabolic pathology}}
+{{Other metabolic pathology}}
+
+{{DEFAULTSORT:Icd-10 Chapter Iv: Endocrine, Nutritional And Metabolic Diseases}}
+[[Category:Medical manuals]]

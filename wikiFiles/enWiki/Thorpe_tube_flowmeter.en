@@ -1,0 +1,31 @@
+A '''Thorpe tube flowmeter''' is an instrument used to directly measure the flow rate of a gas in medical instruments. It consists of a connection to a gas source, a [[needle valve]] opened and closed by turning an attached dial for control of flow rate, a float resting in a clear tapered tube, and an outlet port. It is primarily used in health care institutions during delivery of medical gases, often in conjunction with other devices such as [[pressure measurement|pressure gauges]] or [[Pressure regulator|pressure reducing valves]].
+
+==Function==
+
+When a driving pressure is applied to the inlet of a Thorpe tube flowmeter, the ball rises in the tapered tube until the flow rate creates an applied pressure on the ball equal to its weight. The tube's shape, that of a slender cone, decreases the pressure behind the ball as it rises. A cylindrical tube would not permit driving pressure to decrease with flow rate, resulting in the ball rising to the top of the tube, and allowing for no variance in readings. The flow rate of a specific gas necessary to cause the float to rise to a given height is precalculated in order to calibrate a tube. 
+
+A variety of float shapes may be seen with older Thorpe tube flowmeters, and all floats should be read from the top of the float, except for the ball float, which is read from its center.  Floats should rotate in the airstream, and the absence of rotation may indicate faulty readings resulting from the float catching on the tube.  
+
+The needle valve may be located proximal or distal to the inlet port; these two types of flowmeter are respectively called 'non-compensated' or 'compensated'.  The original Thorpe tube flowmeter is the non-compensated type: it works with a fixed orifice and variable pressure. The non-compensated type is more accurate for low flow rates, such as are used in neonatal units, laboratory experiments, or [[anaesthetic machine]]s. Compensated flowmeters work with a variable orifice and fixed pressure.  They  read back pressure, and take into account resistance changes downstream from the needle valve.  If pressure exceeds 50 psig downstream, flow ceases.
+
+The types can be distinguished by their response when gas starts to flow. In compensated flowmeters, the ball will initially jump as the gas flows through the tube before being released through the needle valve just before the outlet. No result will be observed in the non-compensated flow meter, as the gas will release before reaching the tapered tube containing the float.
+
+Although Thorpe tube flowmeters are very similar in design and function to [[rotameter]]s, the latter are more accurate.  As a result, Thorpe fube flowmeters are often checked against rotameters to ensure their accuracy. Rotameters are also used in series on [[anaesthesia]] machines, where precise measurement of gas delivery is crucial to the wellbeing of the patient.
+
+==Application ==
+
+Thorpe tube flowmeters are designed for use only on systems not supplying more than 50 PSI ( about 3 bar). The flowmeters will be labelled for the gas they are specific to.  Additional color-coding may be used, for example, O<sub>2</sub> flowmeters may have white and green labels, since white and green are respectively the Canadian and American colours identifying this gas. The flowmeter will have a safety [[Relief valve]] to relieve excess pressure.
+
+Inaccurate flow readings may occur if the device is damaged, or contaminated with water or debris. Flowmeters are only calibrated for a specified gas and will not directly read accurately on gases of different density. Changes in pressure or temperature will also affect the accuracy, and may be significant in [[Air ambulance|air transport]], or cities at high altitudes. Flowmeters are only calibrated in the vertical position, and for flow rates less than 15 litres per minute. 
+
+==See also==
+*[[Flow measurement]]
+
+==References==
+* Branson, Richard D., et al.  'Respiratory Care Equipment, 2nd Edition'.  Cont. Banner et al.  pp.&nbsp;58–62.  (Philadelphia:  Lippincott Williams & Wilkins, 1999).
+* Cairo, J.M., et Pilbeam, Susan.  'Mosby's Respiratory Care Equipment'. Ed. Kelli Chronister et al. pp.&nbsp;61–62.  (St. Louis, Missouri:  Mosby Elsevier, 2010).
+* Wilkins, Robert L. et al. 'Egan's Fundamentals of Respiratory Care, Ninth Edition'. Ed. Lucy Kester et al. pp.&nbsp;862–865, 898-899.  (St. Louis, Missouri: Mosby Elsevier, 2009).
+
+[[Category:Medical equipment]]
+[[Category:Respiratory system procedures]]
+[[Category:Respiratory therapy]]

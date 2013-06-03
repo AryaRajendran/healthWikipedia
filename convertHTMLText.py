@@ -20,6 +20,7 @@ def convertFromHTMLToText(filename):
 
     text = soup.get_text()
     text = re.sub("<ref.*?/>", "", text, re.MULTILINE|  re.IGNORECASE | re.UNICODE)
+    text = re.sub("<ref name =.*?>", "", text, re.MULTILINE|  re.IGNORECASE | re.UNICODE)
     #remove table tag that bs could not remove
     text = re.sub("<table[\w\W]*</table>", "", text, re.MULTILINE | re.DOTALL | re.IGNORECASE | re.UNICODE)
 
@@ -28,6 +29,7 @@ def convertFromHTMLToText(filename):
     #text = re.sub("\s+", " ", text)
 
     print text.encode("utf-8")
+    return text.encode("utf-8")
 
 
 def removeHRefs(soup):
@@ -77,16 +79,16 @@ def removeLists(soup):
     #TODO: Another option is to retain the lists and treat them as sentences. Check what is better to do and add code for it.
     #Unorded lists
     for link in soup.find_all('ul'):
-        print "UNORDED LIST DELETED ---- ", link
+        #print "UNORDED LIST DELETED ---- ", link
         link.extract()
 
     for link in soup.find_all('ol'):
-        print "ORDED LIST DELETED ---- ", link
+        #print "ORDED LIST DELETED ---- ", link
         link.extract()
 
     #Description lists
     for link in soup.find_all('dl'):
-        print "DESCRIPTION LIST DELETED ---- ", link
+        #print "DESCRIPTION LIST DELETED ---- ", link
         link.extract()
         #listText = str(link)
 

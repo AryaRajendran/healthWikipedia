@@ -1,0 +1,122 @@
+{{chembox
+| verifiedrevid = 437566675
+| Name = Boron trichloride
+| ImageFileL1 = Boron-trichloride-2D.png
+| ImageSizeL1 = 100px
+| ImageNameL1 = Boron trichloride
+| ImageFileR1 = Boron-trichloride-3D-vdW.png
+| ImageSizeR1 = 120px
+| ImageNameR1 = Boron trichloride
+| IUPACName = Boron trichloride
+| OtherNames = Boron(III) chloride
+| Section1 = {{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16788234
+| InChI = 1/B.3ClH/h;3*1H/q+3;;;/p-3
+| SMILES = [BH6+3].[Cl-].[Cl-].[Cl-]
+| InChIKey = PYQQLJUXVKZOPJ-DFZHHIFOAV
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/B.3ClH/h;3*1H/q+3;;;/p-3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PYQQLJUXVKZOPJ-UHFFFAOYSA-K
+| CASNo = 10294-34-5
+|   CASNo_Ref = {{cascite|correct|CAS}}
+| PubChem = 25135
+| RTECS = ED1925000
+| EINECS = 233-658-4
+ }}
+| Section2 = {{Chembox Properties
+| Formula = BCl<sub>3</sub>
+| MolarMass = 117.17 g/mol
+| Appearance = Colorless gas,<br />fumes in air
+| Density = 1.326 g/cm<sup>3</sup>
+| Solubility = ''decomposes''
+| SolubleOther =[[carbon tetrachloride|CCl<sub>4</sub>]]
+| MeltingPtC = -107.3
+| BoilingPtC = 12.6
+| Boiling_notes = <ref name=EROS/>
+| RefractIndex = 1.00139
+ }}
+| Section3 = {{Chembox Structure
+| MolShape = [[Trigonal planar molecular geometry|Trigonal planar]] (''D''<sub>3h</sub>)
+| Dipole = zero
+ }}
+| Section7 = {{Chembox Hazards
+|   Reference = <ref>{{CLP Regulation|index=005-002-00-5|page=341}}</ref>
+|   EUIndex = 005-002-00-5
+|   ExternalMSDS = {{ICSC-small|0616}}
+|   GHSPictograms =  {{GHS exclamation mark|Press. Gas}}{{GHS skull and crossbones|Acute Tox. 2}}{{GHS corrosion|Skin Corr. 1B}}
+|   GHSSignalWord = DANGER
+|   HPhrases = {{H-phrases|330|300|314}}<ref group="note">Within the European Union, the following additional hazard statement (EUH014) must also be displayed on labelling: Reacts violently with water.</ref>
+| EUClass = Very toxic ('''T+''')<br/>Corrosive ('''C''')
+| RPhrases = {{R14}}, {{R26/28}}, {{R34}}
+| SPhrases = {{S1/2}}, {{S9}}, {{S26}}, {{S28}},<br />{{S36/37/39}}, {{S45}}
+| FlashPt = -17 °C
+|  MainHazards = May be fatal if swallowed or if inhaled<BR />Causes serious burns to eyes, skin, mouth, lungs, etc.<BR />Contact with water gives HCl
+|   NFPA-H = 4
+|   NFPA-F = 0 
+|   NFPA-R = 2
+|   NFPA-O = W
+  }}
+| Section8 = {{Chembox Related
+| OtherAnions = [[Boron trifluoride]]<br />[[Boron tribromide]]<br />[[Boron triiodide]]
+| OtherCations = [[Aluminium chloride]]<br />[[Gallium chloride]]
+| OtherCpds = [[Boron trioxide]]<br />[[Carbon tetrachloride]]
+ }}
+}}
+
+'''Boron trichloride''' is the [[inorganic compound]] with the formula BCl<sub>3</sub>. This colorless gas is a valuable reagent in [[organic synthesis]]. It is highly reactive toward water.
+
+==Production and structure==
+Boron reacts with [[halogens]] to give the corresponding trihalides. Boron trichloride is, however, produced industrially by direct [[halogenation|chlorination]] of [[boron oxide]] and [[carbon]] at 500 °C.
+:B<sub>2</sub>O<sub>3</sub> + 3 C + 3 Cl<sub>2</sub> → 2 BCl<sub>3</sub> + 3 CO
+The [[carbothermal synthesis]] is analogous to the [[Kroll process]] for the conversion of titanium dioxide to titanium tetrachloride. In the laboratory BF<sub>3</sub> reacted with AlCl<sub>3</sub> gives BCl<sub>3</sub> via halogen exchange.<ref name=greenwood>{{Greenwood&Earnshaw}}</ref> BCl<sub>3</sub> is a trigonal planar molecule like the other boron trihalides, and has a bond length of 175pm. 
+
+A degree of π-bonding has been proposed to explain the short B<nowiki>&minus;</nowiki> Cl distance although there is some debate as to its extent.<ref name = greenwood /> It does not dimerize, although NMR studies of mixtures of boron trihalides shows the presence of mixed halides. The absence of dimerisation contrasts with the tendencies of [[aluminium trichloride|AlCl<sub>3</sub>]] and [[gallium trichloride|GaCl<sub>3</sub>]], which form dimers or polymers with 4 or 6 coordinate metal centres.
+
+==Reactions==
+BCl<sub>3</sub> hydrolyzes readily to give boric acid:
+:BCl<sub>3</sub>  +  3 H<sub>2</sub>O   →   B(OH)<sub>3</sub>  +  3 HCl
+Alcohols behave analogously giving the borate esters, e.g. [[trimethyl borate]].
+As a strong [[Lewis acid]], BCl<sub>3</sub> i forms [[adduct]]s with tertiary [[amine]]s, [[phosphines]], [[ethers]], [[thioether]]s, and [[halide]] ions.<ref>{{cite journal | author = Gerrard, W., Lappert, M. F. | title = Reactions Of Boron Trichloride With Organic Compounds | journal = [[Chemical Reviews]] | year = 1958 | volume = 58 | issue = 6 | pages = 1081–1111 | doi = 10.1021/cr50024a003 }}</ref> For example, BCl<sub>3</sub> · S(CH<sub>3</sub>)<sub>2</sub> (CAS# 5523-19-3) is often employed as a conveniently handled source of BCl<sub>3</sub> because this solid (m.p.&nbsp;88-90 °C) releases BCl<sub>3</sub>:
+:(CH<sub>3</sub>)<sub>2</sub>S·BCl<sub>3</sub>   &#x21CC;   (CH<sub>3</sub>)<sub>2</sub>S  +  BCl<sub>3</sub>
+
+The mixed [[aryl]] and [[alkyl]] boron chlorides are also of known. [[Phenyl]]boron dichloride is commercially available. Such species can be prepared by the [[redistribution reaction]] of BCl<sub>3</sub> with organotin reagents:
+:2 BCl<sub>3</sub>  +  R<sub>4</sub>Sn   &rarr; 2   RBCl<sub>2</sub> + R<sub>2</sub>SnCl<sub>2</sub>
+
+===Reduction===
+Reduction of BCl<sub>3</sub> to elemental boron is conducted commercially (see below).  In the laboratory, when boron trichloride can be converted to diboron tetrachloride but heating with copper metal:<ref>{{cite book | author = Wartik, T.; Rosenberg, R.; Fox, W. B.;  | chapter = Diboron Tetrachloride | title = Inorganic Syntheses | year = 1967 | volume = 10 | pages = 118–125 | doi = 10.1002/9780470132418.ch18 }}</ref> 
+:2 BCl3  + 2 Cu   →   B<sub>2</sub>Cl<sub>4</sub>  +  CuCl
+B<sub>4</sub>Cl<sub>4</sub> can also be prepared in this way. Colourless diboron tetrachloride (m.p. -93 °C) is a planar molecule in the solid, (similar to [[dinitrogen tetroxide]], but in the gas phase the structure is staggered.<ref name = greenwood /> It decomposes at room temperatures to give a series of monochlorides having the general formula (BCl)<sub>''n''</sub>, in which ''n'' may be 8, 9, 10, or 11.  The compounds with formulas B<sub>8</sub>Cl<sub>8</sub> and B<sub>9</sub>Cl<sub>9</sub> are known to contain closed cages of boron atoms.
+
+==Uses==
+Boron trichloride is a starting material for the production of elemental boron. It is also used in the [[refining]] of [[aluminium]], [[magnesium]], zinc, and [[copper]] alloys to remove [[nitrides]], [[carbide]]s, and [[oxides]] from molten metal. It has been used as a soldering flux for alloys of aluminium, [[iron]], [[zinc]], [[tungsten]], and [[monel]]. Aluminum castings can be improved by treating the melt with boron trichloride vapors. In the manufacture of electrical resistors, a uniform and lasting adhesive [[carbon film]] can be put over a [[ceramic]] base using BCl<sub>3</sub>. It has been used in the field of high energy fuels and rocket propellants as a source of boron to raise BTU value. BCl<sub>3</sub> is also used in [[plasma etching]] in [[semiconductor]] manufacturing. This gas etches metal oxides by formation of a volatile BOCl<sub>x</sub> compounds.
+
+BCl<sub>3</sub> is used as a [[reagent]] in the synthesis of organic compounds. Like the corresponding bromide, it cleaves C-O bonds in [[ether]]s.<ref name=EROS>{{cite encyclopedia | author = Yamamoto, Y.; Miyaura, N. | title = Boron Trichloride | encyclopedia = Encyclopedia of Reagents for Organic Synthesis | editor = Paquette, L. | year = 2004 | publisher = J. Wiley & Sons | location = New York | doi = 10.1002/047084289X.rb245.pub2 | isbn = 0471936235}}</ref>  
+
+==Safety==
+BCl<sub>3</sub> is an aggressive reagent that can form [[hydrogen chloride]] upon exposure to moisture or [[alcohol]]s. The [[dimethyl sulfide]] adduct BCl<sub>3</sub>SMe<sub>2</sub>), which is a solid, is much safer to use,<ref>{{Cite journal | doi = 10.1016/0040-4039(80)80164-X | title = Boron trihalide-methyl sulfide complexes as convenient reagents for dealkylation of aryl ethers | year = 1980 | last1 = Williard | first1 = Paul G. | last2 = Fryhle | first2 = Craig B. | journal = Tetrahedron Letters | volume = 21 | issue = 39 | pages = 3731}}</ref> when possible, but H<sub>2</sub>O will destroy the BCl<sub>3</sub> portion while leaving dimethyl sulfide in solution.  
+
+==See also==
+*[[List of highly toxic gases]]
+
+==References==
+{{Reflist}}
+
+==Notes==
+<references group="note"/>
+
+== Further reading ==
+<div class="references-small">
+* {{cite journal | author = Martin, D. R. | title = Coordination Compounds of Boron Trichloride. I. - A Review | journal = [[Chemical Reviews]] | year = 1944 | volume = 34 | issue = 3 | pages = 461–473 | doi = 10.1021/cr60109a005}}
+* {{cite journal | author = Kabalka, G. W.; Wu, Z. Z.; Ju, Y. H. | title = The Use of Organoboron Chlorides and Bromides in Organic Synthesis | journal = Journal of Organometallic Chemistry | year = 2003 | volume = 680 | issue = 1–2 | pages = 12–22 | doi = 10.1016/S0022-328X(03)00209-2 }}<references /></div>
+
+==External links==
+* {{ICSC|0616|06}}
+
+{{Boron compounds}}
+
+[[Category:Boron compounds]]
+[[Category:Chlorides]]
+
+[[Category:Boron halides]]

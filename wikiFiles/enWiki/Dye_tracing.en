@@ -1,0 +1,60 @@
+'''Dye tracing''' is tracking and tracing various [[Fluid dynamics|flows]] using [[dye]] added to the [[liquid]] in question. The purpose of tracking may be an analysis of the flow itself, of the transport of something by the flow of the objects that convey the flow. It is an evolution of the ages-known float tracing method, which basically consists of throwing a [[buoyant]] object into a waterflow to see where it goes or where it emerges.
+
+Dye tracking may be either qualitative, i.e., the presence of particular flow and its estimate, or quantitative, when the amount of the traced dye is measured by special instruments.
+
+==Fluorescent dyes==
+[[Image:Chicago River, dye travelling upstream.jpg|thumb|right|300px|Dye in the [[Chicago River]] on the [[St. Patrick's Day]] (added for celebration, rather than tracing) ]]
+Often [[:category:Fluorescent dyes|fluorescent dyes]] are used for this purpose, especially in the following circumstances
+*Insufficient lighting (e.g., sewers or cave waters)
+*Precise quantitative data are required, measured by a [[fluorometer]]
+*Very small amounts of the dye is allowed to be added ([[Parts-per notation|1 part per trillion]] may be detected).
+
+[[Fluorescein]] is among the first fluorescent dyes, developed in 1871. Its disodium salt under the trademark "[[Uranine]]" was developed several years later and still remains among the best tracer dyes.<ref name=crawford>[http://www.dyetracing.com/ An educational website about karst and dye tracing], by  Crawford Hydrology Laboratory / Center for Cave and Karst Study in association with [[Western Kentucky University]]</ref> 
+
+Other popular tracer dyes are [[rhodamine]], [[pyranine]] and [[sulforhodamine]].
+
+===Quantitative tracing===
+Carbon sampling was the first method of technology-assisted dye tracing that was based on the [[absorption (chemistry)|absorption]] of dye in [[charcoal]]. Charcoal packets may be placed along the expected route of the flow, later the collected dye may be chemically extracted and its amount subjectively evaluated.
+
+[[Filter fluorometer]]s were the first devices that could detect dye concentrations beyond [[human eye]] sensitivity. 
+
+[[Spectrofluorometer]]s developed in the mid-1980s made it possible to perform advanced analysis of fluorescence.
+
+[[Filter fluorometer]]s and [[spectrofluorometer]]s identify the intensity of fluorscence that is present in a liquid sample. Different dyes and chemicals produce a distinctive wavelength that is determined during analysis. 
+
+===Tracing Methods===
+Water flows, differentiated by the environment, possess certain factors that can affects how a dye performs. Natural fluorescence in a water flow can interfere with certain dyes. Presence of organics, other chemicals, and sunlight can influence the intensity of dyes. Each sampling area is analyzed by a quantitative instrument to test the background fluorescence. 
+
+Each dye has significant performance factors that distinguish it in different settings. These factors influence how each dye interacts and is affected by each environment. Therefore, one dye can be particularly useful in one environment, whereas it could be inadequate another. These performance factors include:
+*Resistance to absorption
+*Surface water loss
+*Limitations of use in acidic waters
+
+==Applications==
+===Water tracing===
+Typical application of [[water]] flow tracing include:<ref>[http://www.brightdyes.com/technical/TDBGeneral.pdf Water Tracing Dye Technical Bulletin]</ref>
+*[[Plumbing]]/[[piping]] tracing
+*Leak detection
+*Checking for illegal tapping
+*[[Pollution]] studies
+*Natural waterflow analysis ([[river]]s, [[lake]]s, [[ocean current]]s, [[cave]] waterflows, [[karst]] studies, [[groundwater]] filtration, etc.)
+*[[sanitary sewer|Sewer]] and [[stormwater]] drainage analysis
+
+===Medicine and biology===
+Dye tracing may be used for the analysis of [[blood circulation]] within various parts of the human or animal body. For example, [[fluorescent angiography]], a technique of analysis of circulation in [[retina]] is used for diagnosing various eye diseases.  
+
+With modern fluorometers, capable of tracking single fluorescent molecules, it is possible to track  migrations of single cells [[fluorescent tag|tagged by a fluorescent molecule]] (see [[Fluorescein#Biological research|fluorescein in biological research]]). For example, the [[fluorescent-activated cell sorting]] in [[flow cytometry]] makes it possible to sort out the cells with attached fluorescent molecules from a flow.
+
+==See also==
+*[[Fluorescence microscope]]
+*[[FLEX mission]]
+*[[Fluorescent green pig]]
+*[[Float tracking]]
+
+==References==
+<references/>
+
+{{DEFAULTSORT:Dye Tracing}}
+[[Category:Dyes]]
+[[Category:Data collection]]
+[[Category:Hydrology]]

@@ -1,0 +1,32 @@
+[[Eye care professionals]] use '''prism correction''' as a component of some [[eyeglass prescription]]s. A [[corrective lens|lens]] with prism correction displaces the image, which is used to treat muscular imbalance or other conditions (see [[Vergence#Vergence dysfunction|vergence dysfunction]]) that cause errors in eye orientation. Prism correction is measured in '''prism dioptres'''. A prescription that specifies prism correction will also specify the "base", which is the direction of displacement. Whether a patient needs this type of correction or not is determined by the [[Polatest]] (or Pola-Test: a test for the evaluation of binocular vision) elaborated by Dr Haase.<ref>[http://www.optilens.ch/de/optilens/studien/docs/master_thesis.pdf Can phorias be determined by using Van Orden Star drawings (VOSd) equal as in the use of the Pola-Test?] Scholarly work, PCO Germany, Austria, Switzerland Course 4. By Michael Hofer, Pierre-Yves Pichonnaz, Raymond E. Waelti. See also: Hans-Joachim Haase: ''Zur Fixation disparation'', Verlag Optische Fachveröffentlichung Gmbh, Heidelberg, p 222-232; ''Binoculare Korrection, Methodic und Theorie'' von H.-J. Haase, 1980, Verlag Willy Schrickel, Düsseldorf, p. 131-144.</ref>
+
+==Prism dioptres==
+Prism correction is commonly specified in ''prism dioptres'', a unit of angular measurement that is loosely related to the [[dioptre]]. The prism dioptre of a lens is equal to one hundred times the [[Trigonometric functions#tangent|tangent]] of the angle by which it displaces an image seen through the lens. Prism dioptre is represented by the Greek symbol delta (Δ).
+
+A prism of power 1Δ would produce 1 unit of displacement for an object held 100 units from the prism. Thus a prism of 1Δ would produce 1&nbsp;cm visible displacement at 100&nbsp;cm, 2Δ would produce 2&nbsp;cm displacement at 100&nbsp;cm, and so on.
+
+:<math>P = 100 \tan d\!</math>
+
+where <math>P</math> is the amount of prism correction in prism dioptres, and <math>d</math> is the angle of deviation of the light.
+
+For a [[prism (optics)|prism]] with apex angle <math>a</math> and [[refractive index]] <math>n</math>,
+:<math>d = (n-1) a </math>.
+
+==Prentice's rule==
+Prentice's rule is a formula used when prescribing prism correction:
+
+:<math>P = cf</math>
+
+where:
+:''P'' is the amount of prism correction (in prism dioptres)
+:''c'' is decentration (in centimetres)
+:''f'' is [[lens power]] (in [[dioptre]]s)
+
+The practical use of Prentice's rule is that under certain circumstances, the prescribed prism can be obtained without grinding prism into the lenses, by decentering the lenses as worn by the patient.
+
+==Notes==
+<references/>
+
+[[Category:Ophthalmology]]
+[[Category:Corrective lenses]]
+[[Category:Optometry]]

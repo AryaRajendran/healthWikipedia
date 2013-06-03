@@ -1,0 +1,133 @@
+{{Main|2009 swine flu outbreak}}
+{{Further|2009 swine flu outbreak by country}}
+{{See also|2009 swine flu outbreak timeline}}
+
+This is a table containing the figures from the [[World Health Organization|WHO]] Influenza A Situation Updates issued in April 2009 roughly once a day.<ref>[http://www.who.int/csr/disease/swineflu/updates/en/index.html WHO Situation Updates]</ref>  Where more than one update was issued in a day, the figures are from the last update that day.  The table can by sorted by country, date of first confirmed case or date of first confirmed case by continent.
+
+This presentation of the data in these and other tables shows the progression, peaks, and, eventually, decline of the epidemic in each country and continent.
+
+Previous month | [[2009 flu pandemic table May 2009|Next month]]
+
+==Chart==
+{| align=center
+|- align=center
+| <u> WHO figures chart of progression </u> <ref>[http://www.who.int/csr/disease/swineflu/updates/en/index.html WHO: Situation updates - Influenza A(H1N1)]</ref>
+|-
+|
+<timeline>
+ImageSize  = width:660 height:250
+PlotArea   = width:540 height:230 left:50 bottom:10
+AlignBars  = late
+
+Period = from:0 till:300
+TimeAxis   = orientation:horizontal
+
+BarData=
+  bar:24/04 text:"24/04/09"
+  bar:26/04 text:"26/04/09"
+  bar:27/04 text:"27/04/09"
+  bar:28/04 text:"28/04/09"
+  bar:29/04 text:"29/04/09"
+  bar:30/04 text:"30/04/09"
+
+PlotData=
+  width:20 textcolor:white fontsize:M
+  bar:24/04 color:red from:0 till:25 text:25 shift:(0,-04)
+  bar:24/04 color:black from:0 till:0 text:0 shift:(0,-04)
+  bar:26/04 color:red from:0 till:38 text:38 shift:(0,-04)
+  bar:26/04 color:black from:0 till:0 text:0 shift:(0,-04)
+  bar:27/04 color:red from:0 till:73 text:73 shift:(0,-04)
+  bar:27/04 color:black from:0 till:7 text:7 shift:(0,-04)
+  bar:28/04 color:red from:0 till:105 text:105 shift:(0,-04)
+  bar:28/04 color:black from:0 till:7 text:7 shift:(0,-04)
+  bar:29/04 color:red from:0 till:148 text:148 shift:(0,-04)
+  bar:29/04 color:black from:0 till:7 text:7 shift:(0,-04)
+  bar:30/04 color:red from:0 till:257 text:257 shift:(0,-04)
+  bar:30/04 color:black from:0 till:8 text:8 shift:(0,-04)
+
+TextData =
+  pos:(275,245) textcolor:black fontsize:M
+  text:Deaths
+  pos:(327,245) textcolor:brightblue fontsize:M
+  text: /
+  pos:(340,245) textcolor:red fontsize:M
+  text:Cases
+
+</timeline>
+|-
+|}
+
+==Confirmed cases==
+
+{| border="1" cellpadding="5" cellspacing="0" class="wikitable sortable" align="center"
+|+'''Swine flu cases, April 2009'''
+! By date
+! By cont.
+! Country
+! 24 !! 26 !! 27 !! 28 !! 29 !! 30
+|-
+| 0 || 0 || {{noflag}} ''[[World]]'' || 25 || 38 || 73 || 105 || 148 || 257
+|-
+| 0 || 0 || Days to double (approx) || || || 2 || 2 || 2 || 2
+|-
+| 0 || 0 || Countries || 2 || 2 || 4 || 7 || 9 || 11
+|-
+| 1 || 1.01 || {{flagicon|Mexico}} [[Mexico]] || 18 || 18 || 26 || 26 || 26 || 97
+|-
+| 2 || 1.02 || {{flagicon|United States of America}} [[United States of America]] || 7 || 20 || 40 || 64 || 91 || 109
+|-
+| 3 || 1.03 || {{flagicon|Canada}} [[Canada]] ||  ||  || 6 || 6 || 13 || 19
+|-
+| 4 || 2.01 || {{flagicon|Spain}} [[Spain]] ||  ||  || 1 || 2 || 4 || 13
+|-
+| 7 || 2.02 || {{flagicon|United Kingdom}} [[United Kingdom]] ||  ||  ||  || 2 || 5 || 8
+|-
+| 9 || 2.03 || {{flagicon|Austria}} [[Austria]] ||  ||  ||  ||  || 1 || 1
+|-
+| 8 || 2.04 || {{flagicon|Germany}} [[Germany]] ||  ||  ||  ||  || 3 || 3
+|-
+| 10 || 2.05 || {{flagicon|Netherlands}} [[Netherlands]] ||  ||  ||  ||  ||  || 1
+|-
+| 11 || 2.06 || {{flagicon|Switzerland}} [[Switzerland]] ||  ||  ||  ||  ||  || 1
+|-
+| 6 || 3.01 || {{flagicon|Israel}} [[Israel]] ||  ||  ||  || 2 || 2 || 2
+|-
+| 5 || 4.01 || {{flagicon|New Zealand}} [[New Zealand]] ||  ||  ||  || 3 || 3 || 3
+|-
+|}
+
+==Deaths==
+
+{| border="1" cellpadding="5" cellspacing="0" class="wikitable sortable" align="center"
+|+'''Swine flu deaths, April 2009'''
+! By date
+! By cont.
+! Country
+! 27 !! 30
+|-
+| 0 || 0 || {{noflag}} ''[[World]]'' || 6 || 8
+|-
+| 0 || 0 || Countries || 1 || 2
+|-
+| 1 || 1.01 || {{flagicon|Mexico}} [[Mexico]] || 6 || 7
+|-
+| 2 || 1.02 || {{flagicon|United States of America}} [[United States of America]] || || 1
+|-
+|}
+
+==Maps==
+{{-}}
+
+[[File:H1N1 map.svg|thumb|left|300px|29 April 2009 {{legend|darkred|Deaths}} {{legend|darkorange|Confirmed cases}} {{legend|yellow|Suspected cases}} {{legend|grey|No cases}}]]
+[[File:H1N1 map.svg|thumb|right|300px|30 April 2009 {{legend|black|Deaths}} {{legend|red|Confirmed cases}} {{legend|yellow|Suspected cases}} {{legend|gray|No cases}}]]
+
+{{-}}
+
+==References==
+<references/>
+
+==See also==
+{{2009 flu pandemic}}
+
+{{DEFAULTSORT:2009 Flu Pandemic Table April 2009}}
+[[Category:2009 flu pandemic by month|April]]

@@ -1,0 +1,37 @@
+'''Spinocerebellar ataxia''' type 13 (SCA13) is a rare [[autosomal dominant]] disorder, which, like other types of [[Spinocerebellar ataxia|SCA]], is characterized by [[dysarthria]], [[pathologic nystagmus|nystagmus]], and [[ataxia]] of gait, stance and the limbs due to cerebellar dysfunction. Patients with SCA13 also tend to present with [[epilepsy]], an inability to run, and increased reflexes. This cerebellar dysfunction is permanent and progressive. SCA13 is cased by mutations in [[KCNC3]], a gene encoding a [[voltage-gated potassium channel]] K<sub>V</sub>3.3. There are two known mutations in this gene causative for SCA13. Unlike many other types of SCA, these are not polyglutamine expansions but, rather, point mutations resulting in channels with no current or altered kinetics.
+
+{{Infobox Disease |
+  Name           = Spinocerebellar ataxia type-13 |
+  Image          = |
+  Caption        = |
+  DiseasesDB     = 12339 |
+  ICD10          = {{ICD10|G|11|2|g|10}} |
+  ICD9           = {{ICD9|334.9}} |
+  ICDO           = |
+  OMIM           = 605259 |
+  MedlinePlus    = |
+  eMedicineSubj  = neuro |
+  eMedicineTopic = 556 |
+}}
+
+==Signs and symptoms==
+SCA13 is typified by early onset, mildly progressive cerebellar ataxia with accompanying [[dysarthria]], [[mental retardation]], and [[pathologic nystagmus|nystagmus]]. Symptoms and age of onset can vary slightly according to the causative mutation.<ref name="Herman-Bert_2000">{{cite journal | author = Herman-Bert A, Stevanin G, Netter J, Rascol O, Brassat D, Calvas P, Camuzat A, Yuan Q, Schalling M, Dürr A, Brice A | title = Mapping of spinocerebellar ataxia 13 to chromosome 19q13.3-q13.4 in a family with autosomal dominant cerebellar ataxia and mental retardation. | journal = Am J Hum Genet | volume = 67 | issue = 1 | pages = 229–35 | year = 2000 | pmid = 10820125 | doi = 10.1086/302958 | pmc = 1287081}}</ref><ref name="Waters_2005">{{cite journal | author = Waters M, Fee D, Figueroa K, Nolte D, Müller U, Advincula J, Coon H, Evidente V, Pulst S | title = An autosomal dominant ataxia maps to 19q13: Allelic heterogeneity of SCA13 or novel locus? | journal = Neurology | volume = 65 | issue = 7 | pages = 1111–3 | year = 2005 | pmid = 16135769 | doi = 10.1212/01.wnl.0000177490.05162.41}}</ref>
+
+==Pathophysiology==
+Mutations in KCNC3 are responsible for SCA13. This gene is expressed heavily in [[Purkinje cell]]s, as is the case for some other SCA subtypes, where it is believed to play an important role in facilitating high-frequency [[action potential]] firing. There are two known mutations in this gene associated with SCA13. The first mutation, R420H, is located in the voltage-sensing S4 segment of the channel. As this mutation neutralizes a site important for voltage sensing, it is not surprising that it results in non-conducting channels. [[Neuron]]s expressing such channels are unable to follow high-frequency input with adequate fidelity.
+
+The second SCA13 associated mutation, F448L, results in functional channels that have altered kinetics.  The voltage for half activation of these channels (V½) is shifted 13mV hyperpolarized compared to wild-type. Deactivation of these channels is also slowed drastically compared to wild-type. This results in neurons with longer after-hyperpolarizations and thus, a decreased maximal firing rate.<ref name="Waters_2006">{{cite journal | author = Waters M, Minassian N, Stevanin G, Figueroa K, Bannister J, Nolte D, Mock A, Evidente V, Fee D, Müller U, Dürr A, Brice A, Papazian D, Pulst S | title = Mutations in voltage-gated potassium channel KCNC3 cause degenerative and developmental central nervous system phenotypes. | journal = Nat Genet | volume = 38 | issue = 4 | pages = 447–51 | year = 2006 | pmid = 16501573 | doi = 10.1038/ng1758}}</ref>
+
+==Prognosis==
+There is no known prevention of spinocerebellar ataxia. Those who are believed to be at risk can have genetic sequencing of known SCA loci performed to confirm inheritance of the disorder.
+
+==Footnotes==
+{{Reflist|2}}
+==External links==
+* [http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=sca13  GeneReviews/NCBI/NIH/UW entry on Spinocerebellar Ataxia Type 13]
+
+
+{{Channelopathy}}
+{{DEFAULTSORT:Spinocerebellar Ataxia Type-13}}
+[[Category:Neurological disorders]]
+[[Category:Channelopathy]]

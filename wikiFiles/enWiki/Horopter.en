@@ -1,0 +1,44 @@
+[[File:Horopter.png|thumb|Schematic representation of the theoretical (T) and the empirical (E) horopter.]]
+
+In studies of [[binocular vision]] the '''horopter''' is the locus of points in space that yield single vision. This can be defined theoretically as the points in space which are imaged on corresponding points in the two [[retina]]s, that is, on anatomically identical points. An alternative definition is that it is the locus of points in space which make the same angles at the two eyes with the fixation lines.  More usually it is defined empirically using some criterion.
+
+== History of the term ==
+The horopter was first discovered in the eleventh century by the Arabian or Persian scholar [[Ibn al-Haytham]], known to the west as "Alhazen". He built on the binocular vision work of [[Ptolemy]] and discovered that objects lying on a horizontal line passing through the fixation point resulted in single images, while objects a reasonable distance from this line resulted in double images.<ref name="Howard"/> It was only later that this line was shown to actually be a circular plane surrounding the viewer's head.
+ 
+The term ''horopter'' was introduced by [[Franciscus Aguilonius]] in the second of his six books in [[optics]] in 1613. In 1818, [[Gerhard Vieth]] argued from [[geometry]] that the horopter must be a circle passing through the fixation-point and the centers of the lenses of the two eyes. A few years later [[Johannes Peter Muller|Johannes Müller]] made a similar conclusion for the horizontal plane containing the fixation point, although he did expect the horopter to be a surface in space (i.e., not restricted to the horizontal plane). The theoretical/geometrical horopter in the horizontal plane became known as the ''Vieth-Müller circle''. Howarth<ref name="Howarth"/> later clarified that the geometrical horopter is not a complete circle, but only its larger arc ranging from one nodal point (center of the eye lens) to the other.
+
+In 1838, [[Charles Wheatstone]] invented the [[stereoscope]], allowing him to explore the empirical horopter.<ref name="Glanville1933"/><ref name="Wheatstone1838"/>  
+He found that there were many points in space that yielded single vision; this is very different from the theoretical horopter, and subsequent authors have similarly found that the empiral horopter deviates from the form expected on the basis of simple geometry.
+
+== Theoretical horopter ==
+
+Two theoretical horopter can be distinguished via geometric principles, depending on whether or not cyclorotation of the eyes is considered. Considering the general form of the points in space which make the same angles at the two eyes, when there is no cyclorotation, two components of the horopter can be identified.  The first is in the plane which contains the fixation point (wherever it is) and the two nodal points of the eye.  The locus of horopteric points in this plane takes the form of the arc of a circle (the '''Vieth-Müller circle''') going from one nodal point to the other in space, passing through the fixation point.  The second component is a line (the '''Prévost–Burckhardt line'''<ref name=Howarth/>) which is perpendicular to this arc, cutting it at the point midway between the two eyes (which may, or may not, be the fixation point).  This general form holds whether or not the fixation point is in the horizontal plane, and whether or not it is midway between the two eyes. As the fixation point recedes, the radius of the arc increases, and when fixation is at infinity the horopter takes on the special form of a plane perpendicular to the fixation line(s). 
+
+This description depends on the horopter being defined as the locus of points which make the same angle at the eyes - which was the original definition used by Aguilonius.  If one considers a slightly different definition, based on the projections into space of corresponding retinal points, then Schreiber and colleagues have shown that a different theoretical form emerges.<ref name="Schreiber2006"/>  As Helmholtz predicted, and Solomons subsequently confirmed,<ref name="Solomons1975a"/><ref name="Solomons1975b"/> in the general case which includes cyclorotation of the eyes, the theoretical horopter takes the form of a [[twisted cubic]].<ref name="Schreiber2006"/>
+
+== Empirical horopter ==
+
+As Wheatstone (1838) observed, the empirical horopter, defined by singleness of vision, is much larger than the theoretical horopter. This was studied by [[P. L. Panum]] in 1858. He proposed that any point in one retina might yield singleness of vision with a circular region centred around the corresponding point in the other retina. This has become known as '''Panum's fusional area''', although recently that has been taken to mean the area in the horizontal plane, around the Vieth-Müller circle, where any point appears single.
+
+These empirical investigations used the criterion of singleness of vision, or absence of [[diplopia]] to determine the horopter. Other criteria used over the years include the ''drop-test horopter'', the ''plumb-line horopter'', and ''identical-visual-directions horopter'', and the ''equidistance horopter''. Most of this work has been confined to the horizontal plane or to the vertical plane.
+
+The most comprehensive investigation of the three-dimensional volume of the empirical horopter used the criterion of identical visual directions,<ref name="Schreiber2008"/> and found that the empirical horopter is a thin volume slanted back above the fixation point for medium to far fixation distances and surrounding the Vieth–Müller circle in the horizontal plane.
+
+== Horopter in computer vision ==
+
+In [[computer vision]], the horopter is defined as the curve of points in 3D space having identical coordinates [[projection (mathematics)|projection]]s with respect to two cameras with the same intrinsic parameters. It is given generally by a [[twisted cubic]], i.e., a curve of the form  ''x''&nbsp;=&nbsp;''x''(θ), ''y''&nbsp;=&nbsp;''y''(θ), ''z''&nbsp;=&nbsp;''z''(θ) where ''x''(θ), ''y''(θ), ''z''(θ) are three independent third-degree [[polynomial]]s. In some degenerate configurations, the horopter reduces to a line plus a circle.
+
+== References ==
+{{reflist|refs=
+<ref name="Howard">{{cite journal |doi=10.1068/p251203 |title=Alhazen's neglected discoveries of visual phenomena |year=1996 |last1=Howard |first1=IP |journal=Perception |volume=25 |issue=10 |pages=1203–17 |pmid=9027923 |author-name-separator= |author-separator=,}}</ref>
+<ref name="Howarth">{{cite journal |doi=10.1016/j.visres.2010.12.018 |title=The geometric horopter |year=2011 |last1=Howarth |first1=PA |journal=Vision Research |volume=51 |issue=4 |pages=397–9 |pmid=21256858 |author-name-separator= |author-separator=,}}</ref>
+<ref name="Glanville1933">{{cite journal |last1=Glanville |first1=AD |year=1993 |title=The Psychological Significance of the Horopter |journal=The American Journal of Psychology |volume=45 |issue=4 |pages=592–627 |jstor=1416191 |author-name-separator= |author-separator=, |doi=10.2307/1416191}}</ref>
+<ref name="Wheatstone1838">{{cite journal |doi=10.1098/rstl.1838.0019 |title=Contributions to the Physiology of Vision. Part the First. On Some Remarkable, and Hitherto Unobserved, Phenomena of Binocular Vision |year=1838 |last1=Wheatstone |first1=C |journal=Philosophical Transactions of the Royal Society of London |volume=128 |pages=371–94 |jstor=108203 |bibcode=1838RSPT..128..371W |author-name-separator= |author-separator=,}}</ref>
+<ref name="Schreiber2006">{{cite journal |doi=10.1167/6.1.6 |title=The extended horopter: Quantifying retinal correspondence across changes of 3D eye position |year=2006 |last1=Schreiber |first1=KM |last2=Tweed |first2=DB |last3=Schor |first3=CM |journal=Journal of Vision |volume=6 |issue=1 |pages=64–74 |pmid=16489859 |author-name-separator= |author-separator=,}}</ref>
+<ref name="Schreiber2008">{{cite journal |doi=10.1167/8.3.7 |title=The surface of the empirical horopter |year=2008 |last1=Schreiber |first1=KM |last2=Hillis |first2=JM |last3=Filippini |first3=HR |last4=Schor |first4=CM |last5=Banks |first5=MS |journal=Journal of Vision |volume=8 |issue=3 |pages=7.1–20 |pmid=18484813 |author-name-separator= |author-separator=,}}</ref>
+<ref name="Solomons1975a">{{cite journal |pmid=1236460 |year=1975 |last1=Solomons |first1=H |title=Derivation of the space horopter |volume=30 |issue=2–4 |pages=56–80 |journal=The British journal of physiological optics |author-name-separator= |author-separator=,}}</ref>
+<ref name="Solomons1975b">{{cite journal |pmid=1236461 |year=1975 |last1=Solomons |first1=H |title=Properties of the space horopter |volume=30 |issue=2–4 |pages=81–100 |journal=The British journal of physiological optics |author-name-separator= |author-separator=,}}</ref>
+}}
+
+[[Category:Vision]]
+[[Category:Curves]]

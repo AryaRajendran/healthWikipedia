@@ -1,0 +1,26 @@
+[[Image:indirect DNA damage.png|thumb|right|500px| Indirect DNA damage: The chromophore absorbs UV-light ( * denotes an excited state), and the energy of the excited state is creating singlet oxygen (<sup>1</sup>O<sub>2</sub>) or a hydroxyl radical (•OH), which then damages DNA through oxidation.<ref name="DNAoxidation">[http://www.blackwell-synergy.com/doi/abs/10.1111/j.1751-1097.1992.tb04207.x singlet oxygen induced DNA damage]</ref>]]
+
+'''Indirect [[DNA]] damage''' occurs when a [[ultraviolet|UV-photon]] is absorbed in the human skin by a [[chromophore]] that does not have the ability to convert the energy into harmless heat very quickly.<ref name="Cantrell"/> Molecules that do not have this ability have a long-lived [[excited state]]. This long [[Fluorescence#Lifetime|lifetime]] leads to a high probability for reactions with other molecules - so-called bimolecular reactions.<ref name="Cantrell"/> [[Melanin]] and DNA have extremely short excited state lifetimes in the range of a few femtoseconds (10<sup>−15</sup>s).<ref name=DNA_IC>{{cite web |url= http://www.chemistry.ohio-state.edu/~kohler/dna.html |title=Ultrafast internal conversion of DNA |accessdate=2008-02-13 |work= }}</ref> The excited state lifetime of these substances is 1,000 to 1,000,000 times longer than the lifetime of melanin,<ref name=Cantrell>{{cite journal |author=Cantrell, Ann; McGarvey, David J; |year=2001 |month= |title= 3(Sun Protection in Man) |journal= Comprehensive Series in Photosciences |volume= 495 |issue= |pages=497–519 |id= CAN 137:43484 |url= }}</ref> and therefore they may cause damage to living cells that come in contact with them.<ref name=Damiani2004>{{cite journal |author=Armeni, Tatiana; Damiani, Elisabetta; et al. |title= Lack of in vitro protection by a common sunscreen ingredient on UVA-induced cytotoxicity in keratinocytes. | journal= Toxicology |volume= 203 |pages=165–178 |year=2004 |doi= 10.1016/j.tox.2004.06.008 |pmid=15363592 |issue=1–3 }}</ref><ref name=Knowland1993>{{cite journal |author=Knowland, John; McKenzie, Edward A.; McHugh, Peter J.; Cridland, Nigel A. |title= Sunlight-induced mutagenicity of a common sunscreen ingredient | journal= FEBS Letters |volume= 324 |pages=309–313 |year=1993 |pmid=8405372 |doi= 10.1016/0014-5793(93)80141-G | issue=3}}</ref><ref name=Mosley2007>{{cite journal |author=Mosley, C N; Wang, L; Gilley, S; Wang, S; Yu,H  |year= 2007 |month= |title= Light-Induced Cytotoxicity and Genotoxicity of a Sunscreen Agent, 2-Phenylbenzimidazol in Salmonella typhimurium TA 102 and HaCaT Keratinocytes |journal= International Journal of Environmental Research and Public Health |volume= 4 |pmid=17617675 |issue= 2 |pages=126–131 |id= |url= |doi=10.3390/ijerph2007040006}}</ref><ref name=Parsons>{{cite journal |author=Xu, C.; Green, Adele; Parisi, Alfio; Parsons, Peter G  |year= 2001 |month= |title= Photosensitization of the Sunscreen Octyl p-Dimethylaminobenzoate b UVA in Human Melanocytes but not in Keratinocytes |journal= Photochemistry and Photobiology |volume= 73 |issue= 6 |pages=600–604 |id= |url=|doi= 10.1562/0031-8655(2001)073<0600:POTSOP>2.0.CO;2 |pmid=11421064 |issn=0031-8655}}</ref>  
+
+The molecule that originally absorbs the UV-photon is called a "chromophore". Bimolecular reactions can occur either between the excited chromophore and DNA or between the excited chromophore and another species, to produce [[free radical]]s and [[Reactive Oxygen Species]]. These reactive chemical species can reach DNA by diffusion and the bimolecular reaction damages the DNA ([[oxidative stress]]). It is important to note that indirect DNA damage does not result in any warning signal or pain in the human body.
+
+The bimolecular reactions that cause the indirect DNA damage are illustrated in the figure: 
+  
+:<math>\mathrm{(Chromophore)^* + {}^3O_2 \ \xrightarrow{} \ Chromophore + {}^1O_2}</math>
+<sup>1</sup>O<sub>2</sub> is reactive harmful [[singlet oxygen]]:
+:<math>\mathrm{{}^1O_2 + intact\ DNA \ \xrightarrow{} \ {}^3O_2 + damaged\ DNA}</math><ref name="DNAoxidation"/>
+
+==Location of the damage==
+Unlike [[direct DNA damage]], which occurs in areas directly exposed to UV-B light, free radicals can travel through the body and affect other areas - possibly even inner organs. The traveling nature of the indirect DNA damage can be seen in the fact that the [[malignant melanoma]] can occur in places that are not directly illuminated by the sun&mdash;in contrast to [[basal-cell carcinoma]] and [[squamous cell carcinoma]], which appear only on directly illuminated locations on the body. {{Citation needed|date=May 2008}}
+
+== See also ==
+*[[Sunscreen]]
+*[[photoprotection]]
+*[[direct DNA damage]]
+
+==References==
+<references/>
+
+[[Category:Photochemistry]]
+[[Category:Skin conditions resulting from physical factors]]
+[[Category:Sun tanning]]

@@ -1,0 +1,125 @@
+'''Medical classification''', or '''medical coding''', is the process of transforming descriptions of medical [[medical diagnosis|diagnoses]] and [[medical procedure|procedures]] into universal medical code numbers. The diagnoses and procedures are usually taken from a variety of sources within the [[health care]] record, such as the transcription of the physician's notes, laboratory results, radiologic results, and other sources. 
+
+[[Diagnosis codes]] are used to track [[disease]]s and other health conditions, whether they are chronic diseases such as [[diabetes mellitus]] and [[heart disease]], to contagious diseases such as [[norovirus]], the [[flu]], and [[athlete's foot]].  These diagnosis and procedure codes are used by government health programs, private health insurance companies, workers' compensation carriers and others.
+
+Medical classification systems are used for a variety of applications in [[medicine]], [[public health]] and [[medical informatics]], including:
+* statistical analysis of diseases and therapeutic actions
+* reimbursement; e.g., based on [[diagnosis-related group]]s
+* knowledge-based and [[decision support system]]s
+* direct surveillance of epidemic or pandemic outbreaks
+
+== Classification types ==
+Many different medical classifications exist, though they occur into two main groupings: ''Statistical classifications'' and ''Nomenclatures''.
+
+A '''statistical classification''' brings together similar clinical concepts and groups them into categories. The number of categories is limited so that the classification does not become too big. An example of this is the [[International Statistical Classification of Diseases and Related Health Problems]] (known as ICD). It groups diseases of the circulatory system into one "chapter" (known as [[ICD-10 Chapter IX: Diseases of the circulatory system|Chapter IX]], covering codes I00–I99). Within this chapter, there is for instance, code I47.1. The code title ([[rubric]]) is Supraventricular tachycardia. However, there are several other clinical concepts that are also classified here. Among them are paroxysmal atrial tachycardia, paroxysmal junctional tachycardia, auricular tachycardia and nodal tachycardia.
+
+Another feature of statistical classifications is the provision of residual categories for "other" and "unspecified" conditions that do not have a specific category in the particular classification.
+
+In a '''[[Medical terminology|nomenclature]]''' there is a separate listing and code for every clinical concept. So, in the previous example, each of the tachycardia listed would have its own code. This makes nomenclatures unwieldy for compiling health statistics.
+
+Types of coding systems specific to health care include:
+* [[Diagnosis codes|Diagnostic codes]]
+* [[procedure codes|Procedural codes]]
+* [[Pharmaceutical codes]]
+* [[Topographical codes]]
+
+==WHO Family of International Classifications==
+The [[World Health Organization]] (WHO) maintains several internationally endorsed classifications designed to facilitate the comparison of health related data within and across populations and over time as well as the compilation of nationally consistent data.<ref name="WHO-FIC">World Health Organization. [http://www.who.int/classifications/en/ Family of International Classifications.]  Accessed 12 July 2011.</ref> This "Family of International Classifications" (FIC) include three main (or reference) classifications on basic parameters of [[health]] prepared by the organization and approved by the [[World Health Assembly]] for international use, as well as a number of derived and related classifications providing additional details. Some of these international standards have been revised and adapted by countries for national use.
+
+===Reference classifications===
+* [[ICD|'''''International Statistical Classification of Diseases and Related Health Problems''''']] (ICD)<ref>World Health Organization. [http://www.who.int/classifications/icd/en/ ''International Classification of Diseases (ICD)''.]</ref>
+**[[ICD-9]] (9th revision, published in 1977)
+***[[ICD-9-CM]] (Clinical Modification, used in the US)
+**[[ICD-10]] (10th revision, in use by WHO since 1994)
+***[[ICD-10-CM]] (Clinical Modification, used in the US)
+***[[ICD-10-PCS]] (Procedure Coding System, used in the US)
+***ICD-10-CA (used for morbidity classification in Canada).<ref>Canadian Institute for Health Information. [http://www.cihi.ca/cihi-ext-portal/internet/en/document/standards+and+data+submission/standards/classification+and+coding/codingclass_icd10 ''ICD-10-CA''.] Accessed 12 July 2011.</ref>
+***ICD-10-AM (used in Australia and New Zealand)<ref>New Zealand Health Information Service. [http://www.nzhis.govt.nz/moh.nsf/pagesns/534 ''ICD-10-AM''.] Accessed 12 July 2011.</ref>
+***[[EUROCAT (medicine)|EUROCAT]] - an extension of the [[ICD-10 Chapter Q: Congenital malformations, deformations and chromosomal abnormalities|ICD-10 Q chapter]] for [[congenital disorders]]
+*'''''[[International Classification of Functioning, Disability and Health]]''''' (ICF)
+*'''''[[International Classification of Health Interventions]]''''' (ICHI) (previously known as International Classification of Procedures in Medicine)<ref>WHO. [http://www.who.int/classifications/ichi/en/ ICHI.]</ref>
+
+===Derived classifications ===
+Derived classifications are based on the WHO reference classifications (i.e. ICD and ICF).<ref name="WHO-FIC"/> They include:
+
+* ''[[International Classification of Diseases for Oncology]]'', Third Edition (ICD-O-3)
+* ''ICD-10 for Mental and Behavioural Disorders''<ref>WHO. [http://www.who.int/entity/classifications/icd/en/GRNBOOK.pdf ''ICD Greenbook'']</ref>
+* ''Application of the International Classification of Diseases to Dentistry and Stomatology'', 3rd Edition (ICD-DA)<ref>{{cite journal |doi=10.1111/j.1600-0528.1979.tb01180.x |author=Bezroukov V |title=The application of the International Classification of Diseases to dentistry and stomatology |journal=Community Dent Oral Epidemiol |volume=7 |issue=1 |pages=21–4 |year=1979 |month=February |pmid=282953 }}</ref>
+* ''Application of the International Classification of Diseases to Neurology'' (ICD-10-NA)<ref name="pmid">{{cite journal |doi=10.1016/S0022-510X(98)00217-2 |author=van Drimmelen-Krabbe JJ, Bradley WG, Orgogozo JM, Sartorius N |title=The application of the International Statistical Classification of Diseases to neurology: ICD-10 NA |journal=J. Neurol. Sci. |volume=161 |issue=1 |pages=2–9 |year=1998 |month=November |pmid=9879674 }}</ref>
+
+===Related classifications ===
+Related classifications in the WHO-FIC are those that partially refer to the reference classifications, e.g. only at specific levels.<ref name="WHO-FIC"/> They include:
+
+* [[International Classification of Primary Care]] (ICPC)<ref>WHO. [http://www.who.int/classifications/icd/adaptations/icpc2/en/ ICPC-2.]</ref>
+** [[ICPC-2 PLUS]]
+* [[International Classification of External Causes of Injury]] (ICECI)<ref>WHO. [http://www.who.int/classifications/icd/adaptations/iceci/en/index.html ICECI].</ref>
+* [[Anatomical Therapeutic Chemical Classification System]] with Defined Daily Doses (ATC/DDD)
+* ''Technical aids for persons with disabilities: Classification and terminology'' (ISO9999)<ref>WHO. [http://www.who.int/classifications/icf/iso9999/en/index.html ''Technical aids for persons with disabilities: Classification and terminology''  (ISO9999).]</ref>
+*''International Classification for Nursing Practice'' (ICNP)<ref>WHO. [http://www.who.int/classifications/icd/adaptations/icnp/en/index.html International Classification for Nursing Practice (ICNP).]</ref>
+
+==Other medical classifications==
+===Diagnosis===
+The categories in a diagnosis classification classify [ and medical signs. In addition to the [[ICD]] and its national variants, they include: 
+
+* ''[[Diagnostic and Statistical Manual of Mental Disorders]]'' (DSM)
+** [[DSM-IV Codes]]
+* ''International Classification of Headache Disorders'' 2nd Edition (ICHD-II)<ref>{{cite journal |doi= 10.1111/j.1468-2982.2003.00824.x |author=  |last1= Olesen |first1= Jes|title=The International Classification of Headache Disorders: 2nd edition |journal=Cephalalgia. |volume=24 |issue=Suppl 1 |pages=9–160 |year=2004 |pmid=14979299 |url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0333-1024&date=2004&volume=24&issue=&spage=9}}</ref>
+* [[International Classification of Sleep Disorders]] (ICSD)
+* [[Online Mendelian Inheritance in Man]], database of genetic codes
+* [[Read codes]]
+* [[SNOMED CT|Systematized Nomenclature of Medicine - Clinical Terms]] (SNoMed-CT)
+
+===Procedure===
+The categories in a procedure classification classify specific health interventions undertaken by [[health care provider|health professionals]]. In addition to the [[International Classification of Health Interventions|ICHI]] and [[International Classification of Primary Care|ICPC]], they include:
+*[[Australian Classification of Health Interventions]] (ACHI)
+*[[Canadian Classification of Health Interventions]] (CCHI)
+*[[Canadian Classification of Health Interventions]] (CCI) <ref name="name"> [http://www.cihi.ca/CIHI-ext-portal/internet/en/document/standards+and+data+submission/standards/classification+and+coding/codingclass_cci Canadian Classification of Health Interventions. CCI]. </ref>
+*[[Chinese Classification of Heath Interventions]] (CCHI)
+*[[Current Procedural Terminology]] (CPT)
+*[[Health Care Procedure Coding System]] (HCPCS)
+*[[ICD-10 Procedure Coding System]] (ICD-10-PCS)
+*[[OPCS-4.5|Office of Population, Censuses and Surveys Classification of Surgical Operations and Procedures]] (OPCS-4)
+
+===Other===
+* [[Classification of Pharmaco-Therapeutic Referrals]] (CPR)
+* [[LOINC|Logical Observation Identifiers Names and Codes]] (LOINC), standard for identifying medical laboratory observations
+* [[Medical Dictionary for Regulatory Activities]] (MedDRA)
+* [[Medical Subject Headings]] (MeSH)
+**[[List of MeSH codes]]
+* [[Nursing Interventions Classification]] (NIC)
+* [[Nursing Outcomes Classification]] (NOC)
+* [[TIME-ITEM]], ontology of topics in medical education
+* [[TNM staging system|TNM Classification of Malignant Tumors]]
+* [[Unified Medical Language System]] (UMLS)
+* Victoria Ambulatory Coding System (VACS) / Queensland Ambulatory Coding System (QACS), Australia{{citation needed|date=July 2011}}
+
+==== Library classification that have medical components====
+* [[Dewey Decimal System]] and [[Universal Decimal Classification]] (section 610–620)
+* [[National Library of Medicine classification]]
+
+==See also==
+* [[Acronyms in healthcare]]
+* [[Ambulatory Payment Classification]], US billing system for outpatient services
+* [[Biological database]]
+* [[Classification of mental disorders]]
+* [[Clinical coder]]
+* [[German Institute for Medical Documentation and Information]]
+* [[Health information management]]
+* [[Health informatics]]
+* [[HRHIS|Human resources for health information system]]
+* [[List of international common standards]]
+* [[Medical dictionary]]
+* [[NANDA|North American Nursing Diagnosis Association]] (professional organization)
+* [[Nosology]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.who.int/classifications/en/ WHO Family of International Classifications] official site
+* [http://www.nlm.nih.gov/medical-terms.html Medical terminologies at the National Library of Medicine]
+
+{{Medical classification}}
+
+[[Category:Medical classification]]
+[[Category:Nursing classification]]

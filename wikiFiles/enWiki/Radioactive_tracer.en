@@ -1,0 +1,104 @@
+{{See also|Radiopharmacology}}
+
+A '''radioactive tracer''', or '''radioactive label''', is a [[chemical compound]] in which one or more atoms have been replaced by a [[radioisotope]] so by virtue of its [[radioactive decay]] it can be used to explore the mechanism of chemical reactions by tracing the path that the radioisotope follows from reactants to products.
+
+Radioisotopes of [[hydrogen]], [[carbon]], [[phosphorus]], [[sulphur]], and [[iodine]] have been used extensively to trace the path of [[biochemistry|biochemical reactions]]. A radioactive tracer can also be used to track the distribution of a substance within a natural system such as a [[cell (biology)|cell]] or [[tissue (biology)|tissue]].<ref name=rennie-99>{{cite journal |author=Rennie M |title=An introduction to the use of tracers in nutrition and metabolism |journal=Proc Nutr Soc |volume=58 |issue=4 |pages=935–44 |year=1999 |pmid=10817161 |doi=10.1017/S002966519900124X}}</ref> Radioactive tracers are also used to determine the location of fractures created by [[hydraulic fracturing]] in natural gas production.<ref name="Reis_iodine">Reis, John C. (1976). ''Environmental Control in Petroleum Engineering.'' Gulf Professional Publishers.</ref> Radioactive tracers form the basis of a variety of imaging systems, such as [[PET scan]]s, [[SPECT scan]]s and [[Technetium-99m|Technetium scan]]s.
+
+==Methodology==
+[[Isotope]]s of a [[chemical element]] differ only in the mass number. For example, the isotopes of [[hydrogen]] can be written as [[hydrogen|<sup>1</sup>H]], [[deuterium|<sup>2</sup>H]] and [[tritium|<sup>3</sup>H]], with the mass number at top left. When the [[atomic nucleus]] of an isotope is unstable, compounds containing this isotope are [[radioactive]]. [[Tritium]] is an example of a radioactive isotope.
+
+The principle behind the use of radioactive tracers is that an [[atom]] in a [[chemical compound]] is replaced by another atom, of the same chemical element. The substituting atom, however, is a radioactive isotope. This process is often called radioactive labeling. The power of the technique is due to the fact that radioactive decay is much more energetic than chemical reactions. Therefore, the radioactive isotope can be present in low concentration and its presence detected by sensitive [[radiation detector]]s such as [[Geiger counter]]s and [[scintillation counter]]s. [[George de Hevesy]] won the 1943 [[Nobel Prize for Chemistry]] "for his work on the use of isotopes as tracers in the study of chemical processes".
+
+There are two main ways in which radioactive tracers are used
+# When a labeled chemical compound undergoes chemical reactions one or more of the products will contain the radioactive label. Analysis of what happens to the radioactive isotope provides detailed information on the mechanism of the chemical reaction.
+# A radioactive compound is introduced into a living organism and the radio-isotope provides a means to construct an image showing the way in which that compound and its reaction products are distributed around the organism.
+
+== Production ==
+The commonly used radioisotopes have short [[half life|half lives]] and so do not occur in nature. They are produced by [[nuclear reaction]]s. One of the most important processes is absorption of a  neutron by an atomic nucleus, in which the mass number of the element concerned increases by 1 for each neutron absorbed. For example,
+:[[carbon|<sup>13</sup>C]] + [[neutron|n]] → [[carbon|<sup>14</sup>C]]
+In this case the atomic mass increases, but the element is unchanged. In other cases the product nucleus is unstable and decays, typically emitting protons, electrons( [[beta particle]]) or [[alpha particle]]s. When a nucleus loses a proton the [[atomic number]] decreases by 1. For example,
+:[[sulfur|<sup>32</sup>S]] + [[neutron|n]] → [[phosphorus|<sup>32</sup>P]] + [[proton|p]]
+Neutron irradiation is performed in a [[nuclear reactor]], so tracer studies are carried out close to the reactor itself. The other main method used to synthesize radioisotopes is proton bombardment. The proton are accelerated to high energy either in a [[cyclotron]] or a [[linear accelerator]].<ref name=fowler/>
+
+==Tracer isotopes==
+
+===Hydrogen===
+[[Tritium]] is produced by neutron irradiation of [[lithium|<sup>6</sup>Li]]
+:[[lithium|<sup>6</sup>Li]] + [[neutron|n]] → [[Helium|<sup>4</sup>He]] + [[tritium|<sup>3</sup>H]]
+Tritium has a [[half-life]] 4,500±8 days (approximately 12.32 years),<ref>{{Cite journal |author=L. L. Lucas, M. P. Unterweger |year=2000 |title=Comprehensive Review and Critical Evaluation of the Half-Life of Tritium |url=http://nvl.nist.gov/pub/nistpubs/jres/105/4/j54luc2.pdf |journal=[[Journal of Research of the National Institute of Standards and Technology]] |volume=105 |issue=4 |pages=541}}</ref> and it decays by [[beta decay]]. The [[electron]]s produced have an average energy of 5.7 keV. Because the emitted electrons have relatively low energy, the detection efficiency by scintillation counting is rather low. However, hydrogen atoms are present in all organic compounds, so tritium is frequently used as a tracer in [[biochemistry|biochemical]] studies.
+
+===Carbon===
+[[Carbon-11|<sup>11</sup>C]] decays by [[positron emission]] with a half-life of ca. 20 min.  [[carbon-11|<sup>11</sup>C]] is one of the isotopes often used in [[positron emission tomography]].<ref name=fowler>Fowler J. S. and Wolf A. P. (1982) The synthesis of carbon-11, fluorine-18 and nitrogen-13 labeled radiotracers for biomedical applications. Nucl. Sci. Ser. Natl Acad. Sci. Natl Res. Council Monogr. 1982.</ref>
+
+[[Carbon-14|<sup>14</sup>C]] decays by beta-decay, with a half-life of 5730 y. It is continuously produced in the upper atmosphere of the earth so it occurs at a trace level in the environment. However, it is not practical to use naturally-occurring [[carbon-14|<sup>14</sup>C]] for tracer studies. Instead it is made by neutron irradiation of the isotope [[carbon-13|<sup>13</sup>C]] which occurs naturally in carbon at about the 1.1% level. [[carbon-14|<sup>14</sup>C]] has been used extensively to trace the progress of organic molecules through metabolic pathways.
+
+=== Nitrogen ===
+[[nitrogen|<sup>13</sup>N]] decays by [[positron emission]] with a half-life of 9.97 min. It is produced by the nuclear reaction
+:[[proton|<sup>1</sup>H]] + [[oxygen|<sup>16</sup>O]] → [[nitrogen|<sup>13</sup>N]] + [[alpha particle|<sup>4</sup>He]]
+[[nitrogen|<sup>13</sup>N]] is used in [[positron emission tomography]] (PET scan).
+
+=== Oxygen ===
+[[oxygen|<sup>15</sup>O]] decays by positron emission with a half-life of 122 sec. It is used in positron emission tomography
+
+=== Fluorine ===
+[[fluorine|<sup>18</sup>F]] decays by positron emission with a half-life of 109 min. It is made by proton bombardment of [[oxygen|<sup>18</sup>O]] in a cyclotron or [[linear particle accelerator]]. It is an important isotope in the [[Radiopharmacology|radiopharmaceutical]] industry. It is used to make labeled [[fluorodeoxyglucose]] (FDG) for application in PET scans.<ref name=fowler/>
+
+===Phosphorus===
+[[phosphorus-32|<sup>32</sup>P]] is made by neutron bombardment of [[sulphur|<sup>32</sup>S]]
+:[[sulphur|<sup>32</sup>S]] + [[neutron|n]] → [[phosphorus-32|<sup>32</sup>P]] + [[proton|p]]
+It decays by beta decay with a half-life of 14.29 days. It is commonly used to study protein phosphorylation by [[kinases]] in biochemistry.
+
+[[phosphorus-33|<sup>33</sup>P]] is made in relatively low yield by neutron bombardment of [[phosphorus|<sup>31</sup>P]]. It is also a beta-emitter, with a half-life of 25.4 days. Though more expensive than [[phosphorus-32|<sup>32</sup>P]], the emitted electrons are less energetic, permitting better resolution in, for example, DNA sequencing.
+
+Both isotopes are useful for labeling [[nucleotide]]s and other species that contain a [[phosphate]] group.
+
+===Sulfur===
+[[Sulfur-35|<sup>35</sup>S]] is made by neutron bombardment of [[chlorine|<sup>35</sup>Cl]]  
+:[[chlorine-35|<sup>35</sup>Cl]] + [[neutron|n]] → [[Sulfur-35|<sup>35</sup>S]] + [[proton|p]]
+It decays by beta-decay with a half-life of 87.51 days. It is used to label the sulfur-containing [[amino-acid]]s [[methionine]] and [[cysteine]]. When a sulfur atom replaces an oxygen atom in a [[phosphate]] group on a [[nucleotide]] a [[thiophosphate]] is produced, so <sup>35</sup>S can also be used to trace a phosphate group.
+
+===Technetium===
+{{main|technetium-99m}}
+[[Technetium-99m|<sup>99m</sup>Tc]] is a very versatile radioisotope. It is easy to produce in a [[technetium-99m generator]], by decay of [[molybdenum|<sup>99</sup>Mo]]. 
+:[[molybdenum|<sup>99</sup>Mo]] → [[Technetium-99m|<sup>99m</sup>Tc]] + {{Subatomic particle|Electron-}} + {{Subatomic particle|Electron antineutrino}}
+The molybdenum isotope has a half-life of approximately 66 hours (2.75 days), so the generator has a useful life of about two weeks. Most commercial [[Technetium-99m|<sup>99m</sup>Tc]] generators use [[column chromatography]], in which [[molybdenum|<sup>99</sup>Mo]] in the form of molybdate, MoO<sub>4</sub><sup>2-</sup> is adsorbed onto acid alumina (Al<sub>2</sub>O<sub>3</sub>). When the [[molybdenum|<sup>99</sup>Mo]] decays it forms [[pertechnetate]] TcO<sub>4</sub><sup>-</sup>, which because of its single charge is less tightly bound to the alumina. Pulling normal saline solution through the column of immobilized [[molybdenum|<sup>99</sup>Mo]] elutes the soluble [[Technetium-99m|<sup>99m</sup>Tc]], resulting in a saline solution containing the [[Technetium-99m|<sup>99m</sup>Tc]] as the dissolved sodium salt of the pertechnetate. The pertechnetate is treated with a [[reducing agent]] such as [[tin|Sn<sup>2+</sup>]] and a [[ligand]]. Different ligands form [[coordination complex]]es which give the technetium enhanced affinity for particular sites in the human body.
+
+[[Technetium-99m|<sup>99m</sup>Tc]] decays by gamma emission, with a half-life: 6.01 hours. The short half-life ensures that the body-concentration of the radioisotope falls effectively to zero in a few days.
+
+===Iodine===
+[[iodine|<sup>123</sup>I]] is produced by proton irradiation of <sup>124</sup>[[xenon|Xe]]. The [[caesium]] isotope produced is unstable and decays to [[iodine|<sup>123</sup>I]]. The isotope is usually supplied as the iodide and hypoiodate in dilute sodium hydroxide solution, at high isotopic purity.<ref>[http://www.mds.nordion.com/documents/products/I-123_Solu_Can.pdf I-123 fact sheet]</ref> <sup>123</sup>I has also been produced at Oak Ridge National Laboratories by proton bombardment of [[tellurium|<sup>123</sup>Te]].<ref>{{cite journal | last1 =  Hupf | first1 =H.B.  | last2 = Eldridge  | first2 =J.S.  | last3 = Beaver  | first2 =J.E.  | year = 1968 | title = Production of Iodine-123 for medical applications  | journal = The International Journal of Applied Radiation and Isotopes | volume = 19 | issue = 4
+| pages = 345–346  | doi = 10.1016/0020-708X(68)90178-6}}</ref> 
+
+[[iodine|<sup>123</sup>I]] decays by [[electron capture]] with a half-life of 13.22 hours. The emitted 159 [[keV]] [[gamma radiation|gamma ray]] is used in [[single photon emission computed tomography]] (SPECT). A 127 keV gamma ray is also emitted. [[iodine|<sup>125</sup>I]] is frequently used in [[radioimmunoassay]]s because of its relatively long half-life and ability to be detected with high sensitivity by gamma counters.<ref>{{cite journal|last=Gilby|first1=ED|coauthors=Jeffcoate, Edwards |title=125-Iodine tracers for steroid radioimmunoassay.|journal=Journal of Endocrinology|year=1973|month=July|pages=xx|volume=58|issue=1|pmid=4578967 }}</ref>
+
+[[Iodine-129|<sup>129</sup>I]] is present in the environment as a result of the testing of [[nuclear weapons]] in the atmosphere. It was also produced in the [[Chernobyl disaster|Chernobyl]] and [[Fukushima Daiichi nuclear disaster|Fukushima]] disasters. <sup>129</sup>I decays with a [[half-life]] of 15.7 million years, with low-energy [[beta particle|beta]] and [[gamma ray|gamma]] emissions. It is not used as a tracer, though its presence in living organisms, including human beings, can be characterized by measurement of the gamma rays.
+
+=== Other isotopes ===
+{{main|radiopharmacology}}
+Many other isotopes have been used in specialized radiopharmacological studies. The most widely used is [[gallium|<sup>67</sup>Ga]] for [[gallium scan]]s. [[gallium|<sup>67</sup>Ga]] is used because, like [[technetium-99m|<sup>99m</sup>Tc]], it is a gamma-ray emitter and various ligands can be attached to the Ga<sup>3+</sup> ion, forming a [[coordination complex]] which may have selective affinity for particular sites in the human body.
+
+An extensive list of radioactive tracers used in hydraulic fracturing can be found below.
+
+==Applications==
+{{See also|Nuclear medicine|Radionuclides associated with hydraulic fracturing}}
+In [[metabolism]] research, [[Tritium]] and [[carbon-14|<sup>14</sup>C]]-labeled glucose are commonly used in [[glucose clamp technique|glucose clamps]] to measure rates of [[glucose uptake]], [[fatty acid synthesis]], and other metabolic processes.<ref>{{cite journal|last=Kraegen|first1=EW|coauthors=Jenkins, Storlien, Chisholm|title=Tracer studies of in vivo insulin action and glucose metabolism in individual peripheral tissues.|journal=Horm Metab Res Suppl. |year=1990|volume=24|pages=41–8|pmid=2272625 }}</ref>  While radioactive tracers are sometimes still used in human studies, [[stable isotope]] tracers such as [[carbon-13|<sup>13</sup>C]] are more commonly used in current human clamp studies. Radioactive tracers are also used to study [[lipoprotein]] metabolism in humans and experimental animals.<ref>{{cite journal|doi=10.1097/00075197-200409000-00007|last=Magkos|first1=F|coauthors=Sidossis|title=Measuring very low density lipoprotein-triglyceride kinetics in man in vivo: how different the various methods really are.|journal=Curr Opin Clin Nutr Metab Care|year=2004|month=September|volume=7|issue=5|pages=547–55|pmid=15295275 }}</ref>
+
+In [[medicine]], tracers are applied in a number of tests, such as [[technetium-99|<sup>99m</sup>Tc]] in [[autoradiography]] and [[nuclear medicine]], including [[SPECT|single photon emission computed tomography]] (SPECT), [[positron emission tomography]] (PET) and [[Gamma camera|scintigraphy]]. The [[urea breath test]] for [[helicobacter pylori]] commonly used a dose of [[carbon-14|<sup>14</sup>C]] labeled urea to detect h. pylori infection. If the labeled urea was metabolized by h. pylori in the stomach, the patient's breath would contain labeled carbon dioxide. In recent years, the use of substances enriched in the non-radioactive isotope [[carbon-13|<sup>13</sup>C]] has become the preferred method, avoiding patient exposure to radioactivity.<ref>{{cite journal|last=Peeters|first1=M|title=Urea breath test: a diagnostic tool in the management of Helicobacter pylori-related gastrointestinal diseases|journal=Acta Gastroenterol Belg|year=1998|volume=61|issue=3|pages=332–5|pmid=9795467 }}</ref>
+
+In [[hydraulic fracturing]], radioactive tracer isotopes are injected with hydraulic fracturing fluid to determine the injection profile and location of created fractures.<ref name="Reis_iodine" />  Tracers with different half-lives are used for each stage of hydraulic fracturing. In the United States amounts per injection of radionuclide are listed in the US [[Nuclear Regulatory Commission]] (NRC) guidelines.<ref name="NRC">{{cite web |url=http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1556/v14/#_1_26 |title=Consolidated Guidance About Materials Licenses: Program-Specific Guidance About Well Logging, Tracer, and Field Flood Study Licenses (NUREG-1556, Volume 14) |author=Jack E. Whitten, Steven R. Courtemanche, Andrea R. Jones, Richard E. Penrod, and David B. Fogl (Division of Industrial and Medical Nuclear Safety, Office of Nuclear Material Safety and Safeguards |quote=labeled Frac Sand...Sc-46, Br-82, Ag-110m, Sb-124, Ir-192 |date=June 2000 |publisher=US Nuclear Regulatory Commission|accessdate=19 April 2012}}</ref>  According to the NRC, some of the most commonly used tracers include [[Antimony-124]], [[Bromine-82]], [[Iodine-125]], [[Iodine-131]], [[Iridium-192]], and [[Scandium-46]].<ref name="NRC"/> A 2003 publication by the [[International Atomic Energy Agency]] confirms the frequent use of most of the tracers above, and says that [[Manganese-56]], [[Sodium-24]], Technetium-m, Silver-m, [[Argon-41]], and [[Xenon-133]] are also used extensively because they are easily identified and measured.<ref name="IAEA 2003">{{cite report |url=http://www-pub.iaea.org/MTCD/publications/PDF/Pub1171_web.pdf|title=Radiation Protection and the Management of Radioactive Waste in the Oil and Gas Industry |date=2003 |publisher=International Atomic Energy Agency |accessdate=20 May 2012|format = PDF | pages = 39-40 |quote=Beta emitters including H-3 and C-14 may be used when it is feasible to use sampling techniques to detect the presence of the radiotracer or when changes in activity concentration can be used as indicators of the properties of interest in the system. Gamma emitters, such as Sc-46, La-140, Mn-56, Na-24, Sb-124, Ir-192, Tc-m, I-131, Ag-m, Ar-41, and Xe-133 are used extensively because of the ease with which they can be identified and measured...In order to aid the detection of any spillage of solutions of the 'soft' beta emitters, they are sometimes spiked with a short half-life gamma emitter such as Br-82...}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://isotopes.gov/ National Isotope Development Center] U.S. Government resources for radioisotopes - production, distribution, and information
+* [http://science.energy.gov/np/research/idpra/ Isotope Development & Production for Research and Applications (IDPRA)] U.S. Department of Energy program sponsoring isotope production and production research and development
+
+{{Radiopharmaceuticals}}
+
+{{DEFAULTSORT:Radioactive Tracer}}
+[[Category:Radiobiology]]
+[[Category:Radiology]]
+[[Category:Radiopharmaceuticals]]
+[[Category:Radioactivity]]
+[[Category:Biochemistry methods]]

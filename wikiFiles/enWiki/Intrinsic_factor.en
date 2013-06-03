@@ -1,0 +1,121 @@
+{{PBB|geneid=2694}}
+
+'''Intrinsic factor''' (IF) also known as '''gastric intrinsic factor''' (GIF) is a [[glycoprotein]] produced by the [[parietal cell]]s of the [[stomach]]. It is necessary for the absorption of [[vitamin B12|vitamin B<sub>12</sub>]] later on in the small intestine.  In humans, the gastric intrinsic factor [[protein]] is encoded by the ''GIF'' [[gene]].<ref name="pmid2071148">{{cite journal | author = Hewitt JE, Gordon MM, Taggart RT, Mohandas TK, Alpers DH | title = Human gastric intrinsic factor: characterization of cDNA and genomic clones and localization to human chromosome 11 | journal = Genomics | volume = 10 | issue = 2 | pages = 432–40 | year = 1991 | month = June | pmid = 2071148 | doi = 10.1016/0888-7543(91)90329-D| url =  }}</ref>
+
+Upon entry into the stomach, vitamin B<sub>12</sub> becomes bound to [[haptocorrin]] (R factor), a glycoprotein. The resulting complex enters the duodenum, where pancreatic enzymes digest haptocorrin. In the less acidic environment of the small intestine, B<sub>12</sub> can then bind to intrinsic factor. This new complex travels to the ileum, where special epithelial cells [[Endocytosis|endocytose]] them. Inside the cell, B<sub>12</sub> dissociates once again and binds to another protein, transcobalamin II. The new complex can exit the epithelial cells to enter the liver.
+
+== Site of secretion ==
+The intrinsic factor is secreted by the stomach. It is present in the gastric juice as well as in the gastric mucous membrane. The optimum pH for its action is 7 and it is inactivated at temperatures above 45&nbsp;°C. It does not necessarily run parallel with the amount of [[Hydrochloric acid|HCl]] or [[pepsin]] in the gastric juice. So in some cases, the intrinsic factor may be present even if there is no HCl or pepsin or vice versa. The site of formation of the intrinsic factor varies in different species. In pigs it is obtained from the pylorus and beginning of the [[duodenum]]. In human beings it is present in the [[Fundus (stomach)|fundus]] and body of the [[stomach]].
+
+== Clinical significance ==
+
+In [[pernicious anemia]], an [[autoimmune disease]], [[autoantibody|autoantibodies]] directed against intrinsic factor or parietal cells themselves lead to an intrinsic factor deficiency, [[malabsorption]] of vitamin B<sub>12</sub>, and subsequent [[megaloblastic anemia]]. [[Atrophic gastritis]] can also cause intrinsic factor deficiency and anemia through damage to the parietal cells of the stomach wall. [[Exocrine pancreatic insufficiency|Pancreatic exocrine insufficiency]] can interfere with normal dissociation of vitamin B<sub>12</sub> from its binding proteins in the small intestine, preventing its absorption via the intrinsic factor complex.
+
+[[Bariatric surgery]] is a known risk factor in the development of pernicious anemia. Other risk factors contributing to this condition are stomach tumors, gastric ulcers, and excessive consumption of alcohol.
+
+== Treatment ==
+
+Patients experiencing an insufficiency in their intrinsic factor levels cannot benefit from a low dose oral [[vitamin B12|vitamin B<sub>12</sub>]] supplement, because it will not absorb through the wall of the small intestine. Historically, the disease was thought untreatable before the discovery that it could be managed with regular injections of vitamin B<sub>12</sub>, thus bypassing the digestive tract. More recently, Swedish researchers discovered that sufficiently large doses of B<sub>12</sub> can also be absorbed [[sublingual]]ly, removing the necessity for injectable B<sub>12</sub>.<ref name="berlin">{{cite journal | author = AU  - Berlin H, Berlin R, Brante G | title = ORAL TREATMENT OF PERNICIOUS ANEMIA WITH HIGH DOSES OF VITAMIN B12 WITHOUT INTRINSIC FACTOR | journal = Acta Medica Scandinavica | volume = 184 | issue = 1-6 | pages = 247–258 | year = 1968 | doi = 10.1111/j.0954-6820.1968.tb02452.x| url = http://dx.doi.org/10.1111/j.0954-6820.1968.tb02452.x }}</ref> However, no standards have been set for treatment by the sublingual route yet, and injections of B<sub>12</sub> are the only reliable method of treatment.
+
+==Model organisms==				
+{| class="wikitable sortable collapsible collapsed" border="1" cellpadding="2" style="float: right;" |
+|+ ''Gif'' knockout mouse phenotype
+|-
+! Characteristic!! Phenotype
+|-
+| [[Homozygote]] viability || bgcolor="#488ED3"|Normal
+|-
+| Homozygous Fertility || bgcolor="#C40000"|Abnormal
+|-
+| General Observations || bgcolor="#C40000"|Abnormal
+|-
+| Body weight || bgcolor="#488ED3"|Normal
+|-
+| [[Open Field (animal test)|Anxiety]] || bgcolor="#488ED3"|Normal
+|-
+| Neurological assessment || bgcolor="#488ED3"|Normal
+|-
+| Grip strength || bgcolor="#488ED3"|Normal
+|-
+| [[Hot plate test|Hot plate]] || bgcolor="#488ED3"|Normal
+|-
+| [[Dysmorphology]] || bgcolor="#488ED3"|Normal
+|-
+| [[Indirect calorimetry]] || bgcolor="#488ED3"|Normal
+|-
+| [[Glucose tolerance test]] || bgcolor="#488ED3"|Normal
+|-
+| [[Auditory brainstem response]] || bgcolor="#488ED3"|Normal
+|-
+| [[Dual-energy X-ray absorptiometry|DEXA]] || bgcolor="#488ED3"|Normal
+|-
+| [[Radiography]] || bgcolor="#488ED3"|Normal
+|-
+| Body temperature || bgcolor="#488ED3"|Normal
+|-
+| Eye morphology || bgcolor="#488ED3"|Normal
+|-
+| [[Clinical chemistry]] || bgcolor="#488ED3"|Normal
+|-
+| [[Blood plasma|Plasma]] [[immunoglobulin]]s || bgcolor="#488ED3"|Normal
+|-
+| [[Haematology]] || bgcolor="#488ED3"|Normal
+|-
+| [[Peripheral blood lymphocyte]]s || bgcolor="#488ED3"|Normal
+|-
+| [[Micronucleus test]] || bgcolor="#488ED3"|Normal
+|-
+| Heart weight || bgcolor="#488ED3"|Normal
+|-
+| Tail epidermis wholemount || bgcolor="#488ED3"|Normal
+|-
+| Skin Histopathology || bgcolor="#488ED3"|Normal
+|-
+| Brain histopathology || bgcolor="#488ED3"|Normal
+|-
+| MicroCT & Quantitative Faxitron || bgcolor="#488ED3"|Normal
+|-
+| ''[[Salmonella]]'' infection || bgcolor="#C40000"|Abnormal
+|-
+| ''[[Citrobacter]]'' infection || bgcolor="#C40000"|Abnormal<ref name="''Citrobacter'' infection">{{cite web |url=http://www.sanger.ac.uk/mouseportal/phenotyping/MBTT/citrobacter-challenge/ |title=''Citrobacter'' infection data for Gif |publisher=Wellcome Trust Sanger Institute}}</ref>
+|-
+| colspan=2; style="text-align: center;" | All tests and analysis from<ref name="mgp_reference">{{cite journal |url=http://onlinelibrary.wiley.com/doi/10.1111/j.1755-3768.2010.4142.x/abstract |title=The Sanger Mouse Genetics Programme: high throughput characterisation of knockout mice |author=Gerdin AK |year=2010 |location=''Acta Opthalmologica'' '''88''': 925-7. |doi=10.1111/j.1755-3768.2010.4142.x |publisher=Wiley}}</ref><ref>[http://www.sanger.ac.uk/mouseportal/ Mouse Resources Portal], Wellcome Trust Sanger Institute.</ref>
+|}
+[[Model organism]]s have been used in the study of intrinsic factor function. A conditional [[knockout mouse]] line, called ''Gif<sup>tm1a(KOMP)Wtsi</sup>''<ref name="allele_ref">{{cite web |url=http://www.knockoutmouse.org/martsearch/search?query=Gif |title=International Knockout Mouse Consortium}}</ref><ref name="mgi_allele_ref">{{cite web |url=http://www.informatics.jax.org/searchtool/Search.do?query=MGI:4363945 |title=Mouse Genome Informatics}}</ref> was generated as part of the [[International Knockout Mouse Consortium]] program — a high-throughput mutagenesis project to generate and distribute animal models of disease to interested scientists.<ref name="pmid21677750">{{Cite pmid|21677750}}</ref><ref name="mouse_library">{{cite journal |url=http://www.nature.com/news/2011/110615/full/474262a.html |title=Mouse library set to be knockout |author=Dolgin E |year=June 2011 |journal=Nature|volume=474|pages= 262–263. |doi=10.1038/474262a |pmid=21677718}}</ref><ref name="mouse_for_all_reasons">{{cite journal |title=A mouse for all reasons |author=Collins FS, Rossant J, Wurst W |year=January 2007 |journal=Cell|volume= 128|issue=1|pages= 9–13 |doi=10.1016/j.cell.2006.12.018| PMID= 17218247}}</ref>
+
+Male and female animals underwent a standardized [[phenotypic screen]] to determine the effects of deletion.<ref name="mgp_reference" /><ref name="pmid21722353">{{cite journal| author=van der Weyden L, White JK, Adams DJ, Logan DW| title=The mouse genetics toolkit: revealing function and mechanism. | journal=Genome Biol | year= 2011 | volume= 12 | issue= 6 | pages= 224 | pmid=21722353 | doi=10.1186/gb-2011-12-6-224 | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=21722353 | pmc=3218837}}</ref> Twenty-seven tests were carried out on [[mutant]] mice and four significant abnormalities were observed. [[Homozygous]] mutant males displayed increased aggression towards their pups and therefore had reduced [[fecundity]]. Mutants of both sex had increased susceptibility to infection with both ''[[Citrobacter]]'' and ''[[Salmonella]]''.<ref name="mgp_reference" />
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+{{refbegin | 2}}
+*{{cite journal  |author=Howard TA, Misra DN, Grove M, ''et al.'' |title=Human gastric intrinsic factor expression is not restricted to parietal cells |journal=J. Anat. |volume=189 |issue=  Pt 2|pages= 303–13 |year= 1996 |pmid= 8886952  |pmc=1167747 |doi=  }}
+*{{cite journal  |author=Kozyraki R, Kristiansen M, Silahtaroglu A, ''et al.'' |title=The human intrinsic factor-vitamin B12 receptor, cubilin: molecular characterization and chromosomal mapping of the gene to 10p within the autosomal recessive megaloblastic anemia (MGA1) region |journal=Blood |volume=91 |issue= 10 |pages= 3593–600 |year= 1998 |pmid= 9572993 |doi=  }}
+*{{cite journal  |author=Wahlstedt V, Gräsbeck R |title=Cobalamin-binding proteins in human urine: identification and quantitation |journal=J. Lab. Clin. Med. |volume=106 |issue= 4 |pages= 439–46 |year= 1985 |pmid= 4045300 |doi=  }}
+*{{cite journal  |author=Remacha AF, Del RÃ­o E, SardÃ  MP, ''et al.'' |title=Role of (Glu --> Arg, Q5R) mutation of the intrinsic factor in pernicious anemia and other causes of low vitamin B12 |journal=Ann. Hematol. |volume=87 |issue= 7 |pages= 599–600 |year= 2008 |pmid= 18338170 |doi= 10.1007/s00277-008-0465-0 }}
+*{{cite journal  |author=Ament AE, Li Z, Sturm AC, ''et al.'' |title=Juvenile cobalamin deficiency in individuals of African ancestry is caused by a founder mutation in the intrinsic factor gene GIF |journal=Br. J. Haematol. |volume=144 |issue= 4 |pages= 622–4 |year= 2009 |pmid= 19036097  |pmc=2636683 |doi= 10.1111/j.1365-2141.2008.07496.x }}
+*{{cite journal  |author=Mathews FS, Gordon MM, Chen Z, ''et al.'' |title=Crystal structure of human intrinsic factor: cobalamin complex at 2.6-A resolution |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=104 |issue= 44 |pages= 17311–6 |year= 2007 |pmid= 17954916  |pmc=2077253 |doi= 10.1073/pnas.0703228104 }}
+*{{cite journal  |author=Fedosov SN, Fedosova NU, Berglund L, ''et al.'' |title=Composite organization of the cobalamin binding and cubilin recognition sites of intrinsic factor |journal=Biochemistry |volume=44 |issue= 9 |pages= 3604–14 |year= 2005 |pmid= 15736970 |doi= 10.1021/bi047936v }}
+*{{cite journal  |author=Gerhard DS, Wagner L, Feingold EA, ''et al.'' |title=The Status, Quality, and Expansion of the NIH Full-Length cDNA Project: The Mammalian Gene Collection (MGC) |journal=Genome Res. |volume=14 |issue= 10B |pages= 2121–7 |year= 2004 |pmid= 15489334  |pmc=528928 |doi= 10.1101/gr.2596504 }}
+*{{cite journal  |author=Tanner SM, Li Z, Perko JD, ''et al.'' |title=Hereditary juvenile cobalamin deficiency caused by mutations in the intrinsic factor gene |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=102 |issue= 11 |pages= 4130–3 |year= 2005 |pmid= 15738392  |pmc=554821 |doi= 10.1073/pnas.0500517102 }}
+*{{cite journal  |author=Yassin F, Rothenberg SP, Rao S, ''et al.'' |title=Identification of a 4-base deletion in the gene in inherited intrinsic factor deficiency |journal=Blood |volume=103 |issue= 4 |pages= 1515–7 |year= 2004 |pmid= 14576042 |doi= 10.1182/blood-2003-07-2239 }}
+*{{cite journal  |author=Gordon MM, Brada N, Remacha A, ''et al.'' |title=A genetic polymorphism in the coding region of the gastric intrinsic factor gene (GIF) is associated with congenital intrinsic factor deficiency |journal=Hum. Mutat. |volume=23 |issue= 1 |pages= 85–91 |year= 2004 |pmid= 14695536 |doi= 10.1002/humu.10297 }}
+*{{cite journal  |author=Strausberg RL, Feingold EA, Grouse LH, ''et al.'' |title=Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=99 |issue= 26 |pages= 16899–903 |year= 2002 |pmid= 12477932  |pmc=139241 |doi= 10.1073/pnas.242603899 }}
+*{{cite journal  |author=Andersen CB, Madsen M, Storm T, ''et al.'' |title=Structural basis for receptor recognition of vitamin-B(12)-intrinsic factor complexes |journal=Nature |volume=464 |issue= 7287 |pages= 445–8 |year= 2010 |pmid= 20237569 |doi= 10.1038/nature08874 }}
+*{{cite journal  |author=Katz M, Lee SK, Cooper BA |title=Vitamin B 12  malabsorption due to a biologically inert intrinsic factor |journal=N. Engl. J. Med. |volume=287 |issue= 9 |pages= 425–9 |year= 1972 |pmid= 5044916 |doi=10.1056/NEJM197208312870902  }}
+* {{cite journal | author = Yazaki Y, Chow G, Mattie M | title = A single-center, double-blinded, randomized controlled study to evaluate the relative efficacy of sublingual and oral vitamin B-complex administration in reducing total serum homocysteine levels | journal = J Altern Complement Med | volume = 12 | issue = 9 | pages = 881–5 | year = 2006 | month = November | pmid = 17109579 | doi = 10.1089/acm.2006.12.881 | url =  }}
+{{refend}}
+
+== External links ==
+* {{MeshName|Intrinsic+factor}}
+* {{MedlinePlusEncyclopedia|002381}}
+* [http://www.vivo.colostate.edu/hbooks/pathphys/digestion/stomach/intrinsic_factor.html Overview at colostate.edu]
+
+{{Gastrointestinal physiology}}
+{{Mucoproteins}}
+
+[[Category:Hematology]]
+[[Category:Gastroenterology]]
+[[Category:Genes mutated in mice]]
+[[Category:Stomach]]

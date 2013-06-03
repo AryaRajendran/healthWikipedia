@@ -1,0 +1,89 @@
+{{chembox
+| verifiedrevid = 440592218
+| Name = '''Lewisite'''
+| ImageFile1 = Lewisite.svg
+| ImageSize1 =
+| ImageName1 = Lewisite
+| ImageFileL2 = Lewisite-calculated-by-MP2-3D-balls.png
+| ImageSizeL2 = 150px
+| ImageFileR2 = Lewisite-3D-vdW.png
+| ImageSizeR2 = 150px
+| IUPACName = 2-chloroethenylarsonous dichloride
+| OtherNames = 2-chloroethenyldichloroarsine<br>2-chlorovinyldichloroarsine
+| Reference = <ref>[http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5372798&loc=ec_rcs Lewisite I - Compound Summary], [[PubChem]].</ref>
+| Section1 = {{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4522971
+| InChI = 1/C2H2AsCl3/c4-2-1-3(5)6/h1-2H/b2-1+
+| InChIKey = GIKLTQKNOXNBNY-OWOJBTEDBF
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C2H2AsCl3/c4-2-1-3(5)6/h1-2H/b2-1+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GIKLTQKNOXNBNY-OWOJBTEDSA-N
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo = 541-25-3
+| PubChem = 5372798
+| MeSHName = lewisite
+| SMILES = Cl[As](Cl)\C=C\Cl
+}}
+| Section2 = {{Chembox Properties
+| Formula = C<sub>2</sub>H<sub>2</sub>AsCl<sub>3</sub>
+| MolarMass = 207.32 g/mol
+| Density = 1.89 g/cm<sup>3</sup>
+| MeltingPt = –18 °C
+| BoilingPt = 190 °C
+}}
+| Section3 = {{Chembox Hazards
+| NFPA-H = 4
+| NFPA-F = 1
+| NFPA-R = 1
+}}
+}}
+'''Lewisite''' is an [[organoarsenic compound]], specifically an [[arsine]]. It was once manufactured in the U.S. and Japan as a [[Chemical warfare|chemical weapon]], acting as a [[vesicant]] (blister agent) and [[lung]] irritant. Although colorless and odorless, impure samples of lewisite are a yellow or brown liquid with a distinctive odor that has been described as similar to scented [[Pelargonium|geranium]]s.<ref name=nrc/>
+
+==Chemical reactions==
+The compound is prepared by the addition of arsenic trichloride to acetylene in the presence of a suitable catalyst:
+:AsCl<sub>3</sub> + C<sub>2</sub>H<sub>2</sub> → ClCHCHAsCl<sub>2</sub>
+Lewisite, like other arsenous chlorides, hydrolyses in water to form hydrochloric acid:
+:ClCHCHAsCl<sub>2</sub> + 2 H<sub>2</sub>O → ClCHCHAs(OH)<sub>2</sub> + 2 HCl
+This reaction is accelerated in alkaline solutions, with poisonous (but non-volatile) [[sodium arsenite]] being the coproduct.
+
+==Mode of action as chemical weapon==
+
+Arsenite inhibits important biochemical pathways of the human body. Arsenite poisoning specifically targets the E3 component of [[pyruvate dehydrogenase]].<ref name=BERG>{{ cite book | author = Berg, J.; Tymoczko, J. L.; Stryer, L. | title = Biochemistry | year = 2007 | publisher = Freeman | location = New York | isbn = 978-0-7167-8724-2 | edition = 6th | pages = 494–495 }}</ref> As an efficient method to produce ATP, pyruvate dehydrogenase is involved in the conversion of pyruvate to Acetyl-CoA. The latter subsequently enters the [[TCA cycle]]. Arsenite has a high affinity for dihydrolipoamide; E3 component of the pyruvate dehydrogenase. Binding results in inhibition of the enzyme and can lead to dire consequences. Nervous pathology usually arise from arsenite poisoning as the nervous system essentially relies on glucose as its only catabolic fuel.<ref name=BERG /> 
+
+It can easily penetrate ordinary clothing and even rubber; upon skin contact it causes immediate pain and itching with a rash and swelling. Large, fluid-filled [[blister]]s (similar to those caused by [[mustard gas]] exposure) develop after approximately 12 hours.<ref name=nrc/> These are severe [[chemical burn]]s. Sufficient absorption can cause systemic poisoning leading to [[hepatotoxicity|liver]] [[necrosis]] or death.
+
+Inhalation causes a burning pain, sneezing, coughing, vomiting, and possibly [[pulmonary edema]].<ref name=nrc/> Ingestion results in severe pain, nausea, vomiting, and tissue damage.<ref name=nrc>{{ cite book | url = http://books.google.com/books?id=sBIYzcfksXkC&pg=PA16 | author = U.S. National Research Council, Committee on Review and Evaluation of the Army Non-Stockpile Chemical Materiel Disposal Program | authorlink = U.S. National Research Council | title = Disposal of Chemical Agent Identification Sets | page = 16 | publisher = National Academies Press | year = 1999 | isbn = 0-309-06879-7 }}</ref> The results of eye exposure can range from stinging and strong irritation to blistering and scarring of the cornea.<ref>{{ cite web | url = http://www.cdc.gov/niosh/ershdb/EmergencyResponseCard_29750006.html | title = Lewisite(L): Blister Agent | year = 2008 | work = Emergency Response Database | publisher = CDC / NIOSH }}</ref> Generalised symptoms also include restlessness, weakness, subnormal temperature and low blood pressure.
+
+==Chemical composition==
+Lewisite is usually found as a mixture, of 2-chlorovinylarsonous dichloride as well as ''bis''(2-chloroethenyl)arsinous chloride ("lewisite 2"), and ''tris''(2-chlorovinyl)arsine ("lewisite 3").
+
+==History==
+Lewisite was first synthesised in 1904 by [[Julius Arthur Nieuwland]] during studies for his PhD.<ref name=Vilensky4 /><ref name=Vilenskykent>{{cite journal | last1 = Vilensky | first1 = J. A. | last2 = Redman | first2 = K. | title = British Anti-Lewisite (Dimercaprol): An Amazing History | journal = Annals of Emergency Medicine | year = 2003 | volume = 41 | issue = 3 | pages = 378–383 | pmid = 12605205 | doi = 10.1067/mem.2003.72 }}</ref> His method involved reacting acetylene with arsenic trichloride in the presence of an aluminium chloride catalyst .<ref name=Vilensky4 /> Exposure to the resulting compound made Nieuwland so ill he was hospitalized for a number of days.<ref name=Vilensky4>{{cite book | title = Dew of Death - The Story of Lewisite, America's World War I Weapon of Mass Destruction | last = Vilensky | first = J. A. | year = 2005 | publisher = Indiana University Press | isbn = 0253346126 | page = 4 }}</ref> 
+
+Lewisite is named after the US chemist and soldier [[Winford Lee Lewis]] (1878–1943). In 1918 Dr John Griffin (Julius Arthur Nieuwland's thesis advisor)  drew Lewis's attention to  Nieuwland's thesis at [[Maloney Hall]], a chemical laboratory at [[The Catholic University of America]], [[Washington DC]].<ref name=Vilensky21>{{cite book | title = Dew of Death - The Story of Lewisite, America's World War I Weapon of Mass Destruction | last = Vilensky | first = J. A. | year = 2005 | publisher = Indiana University Press | isbn = 0253346126 | pages = 21–23 }}</ref> Lewis then attempted to purify the compound through distillation but found that the mixture exploded on heating until it was washed with HCl.<ref name=Vilensky21 />
+
+[[File:Lewisite poster ww2.jpg|left|thumb|Lewisite identification poster from WW2, likening the smell of the gas to geraniums.]]
+It was developed into a secret weapon (at a facility located in [[Cleveland]], [[Ohio]] (The Cleveland Plant) at East 131st Street and Taft Avenue<ref>[http://www.encyclopedia.com/doc/1G1-171083917.html Upton native's role was the best defense; WWI masks thwarted]{{dead link|date=October 2012}}</ref>) and given the name "the new G-34" to confuse its development with mustard gas.{{Citation needed|date=April 2007}} 
+Production began at a plant in [[Willoughby, Ohio]] on November 1, 1918.<ref name=Vilensky50>{{cite book | title = Dew of Death - The Story of Lewisite, America's World War I Weapon of Mass Destruction | last = Vilensky | first = J. A. | year = 2005 | publisher = Indiana University Press | isbn = 0253346126 | page = 50 }}</ref>
+It was not used in [[World War I]], but experimented with in the 1920s as the "Dew of Death."<ref>{{ cite web | author = Tabangcura, D. Jr.; Daubert, G. P. | url = http://www.chm.bris.ac.uk/motm/bal/development.html | title = British anti-Lewisite Development | work = Molecule of the Month | publisher = University of Bristol School of Chemistry }}</ref>
+
+After World War I, the US became interested in lewisite because it was not flammable. It had the military symbol of M1 up into [[World War II]], when it was changed to L. Field trials with lewisite during World War II demonstrated that casualty concentrations were not achievable under high humidity due to its rate of hydrolysis and its charactistic odor and [[Tears|lacrymation]] forced troops to don masks and avoid contaminated areas.{{Citation needed|date=November 2011}} The [[United States]] produced about 20,000 tons of lewisite, keeping it on hand primarily as an [[antifreeze]] for mustard gas or to penetrate protective clothing in special situations.
+
+It was replaced by the mustard gas variant HT (a 60:40 mixture of sulfur mustard and [[O Mustard]]), and declared obsolete in the 1950s. It is effectively treated with British anti-lewisite ([[dimercaprol]]). Most stockpiles of lewisite were neutralized with [[bleach]] and dumped into the [[Gulf of Mexico]],<ref>[http://library.thinkquest.org/05aug/00639/en/w_chemical_blister.html Code Red - Weapons of Mass Destruction [Online Resource&#93; - Blister Agents]</ref> but some remained at the [[Deseret Chemical Depot]] located outside of Salt Lake City, UT [http://www.sltrib.com/sltrib/news/53326399-78/chemical-depot-army-weapons.html.csp], although as of January 18, 2012 the last of the global stockpile there was destroyed.
+
+In 2010, lewisite was found in a World War I weapons dump in Washington, DC.<ref>{{ cite journal | url = http://www.environet.eu/pub/pubwis/rura/20070112111114.pdf | format = pdf | author = Tucker, J. B. | title = Chemical weapons: Buried in the backyard | journal = Bulletin of the Atomic Scientists | year = 2001 | volume = 57 | issue = 5 | pages = 51–56 | doi = 10.2968/057005014 }}</ref>
+
+==Controversy over Japanese depots of lewisite in China==
+In mid 2006, [[China]] and [[Japan]] were negotiating disposal of stocks of lewisite in northeastern China, left by Japanese military during World War II. Residents of China have died over the past twenty years from accidental exposure to these stockpiles.<ref>[http://www.nti.org/db/china/acwpos.htm Abandoned Chemical Weapons (ACW) in China]{{dead link|date=October 2012}}</ref>
+
+==References==
+{{reflist|2}}
+
+{{Chemical warfare}}
+
+[[Category:Blister agents]]
+[[Category:Halomonoarsanes]]
+[[Category:Organoarsenic halides]]
+[[Category:Organochlorides]]

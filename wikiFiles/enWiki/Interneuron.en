@@ -1,0 +1,76 @@
+{{Infobox neuron |
+  neuron_name         = Interneuron |
+  Latin        = |
+  GraySubject  = |
+  GrayPage     = |
+  image_neuron        = Anatomy_and_physiology_of_animals_A_reflex_arc.jpg |
+  caption_neuron      = A spinal interneuron (relay neuron) forms part of a reflex arc |
+  location = [[Nervous system]] |
+  MeshName     = Interneurons |
+  MeshNumber   = A08.663.358 |
+  DorlandsPre  = i_10 |
+  DorlandsSuf  = 12455676  |
+  Code         = {{TerminologiaHistologica|2|00|06.1.00058}} |
+  NeuroLex = Intrinsic neuron role |
+  NeuroLexID = birnlex_2534 |
+}}
+An '''interneuron''' (also called '''relay neuron''', '''association neuron''', '''connector neuron''' or '''local circuit neuron''') is a [[neuron]] that forms a connection between other neurons. Interneurons are neither [[motor neuron|motor]] nor [[sensory neuron|sensory]]. The term is also applied to brain and spinal cord neurons whose [[axon]]s connect only with nearby neurons, to distinguish them from "projection" neurons, whose axons ([[projection fiber]]s) project to more distant regions of the brain or spinal cord.
+
+==Interneurons in the central nervous system==
+When contrasted with the [[peripheral nervous system]] (PNS), the neurons of the [[central nervous system]] (CNS), including the [[brain]], are all interneurons. However, in the CNS, the term '''interneuron''' is used for small, locally projecting neurons (in contrast to larger projection neurons with long-distance connections).  CNS interneurons are typically inhibitory, and use the neurotransmitter [[GABA]] or [[glycine]]. However, excitatory interneurons using [[glutamate]] also exist, as do interneurons releasing [[neuromodulators]] like [[acetylcholine]]. 
+
+In 2008, a nomenclature for the features of GABAergic cortical interneurons was proposed, called ''Petilla terminology''.<ref name="pmid18568015">{{cite journal |author=Ascoli GA |title=Petilla terminology: nomenclature of features of GABAergic interneurons of the cerebral cortex |journal=[[Nat. Rev. Neurosci.]] |volume=9 |issue=7 |pages=557–568 |year=2008 |month=July |pmid=18568015 |doi=10.1038/nrn2402 |pmc=2868386 |author-separator=, |author2=Alonso-Nanclares L |author3=Anderson SA |display-authors=3 |last4=Barrionuevo |first4=German |last5=Benavides-Piccione |first5=Ruth |last6=Burkhalter |first6=Andreas |last7=Buzsáki |first7=György |last8=Cauli |first8=Bruno |last9=Defelipe |first9=Javier}}</ref>
+
+Inhibitory interneurons are thought to play an important role in the generation of [[neural oscillations]].<ref>{{cite journal |author=Whittington MA, Traub RD, Kopell N, Ermentrout B, Buhl EH |title=Inhibition-based rhythms: experimental and mathematical observations on network dynamics |journal= Int J Psychophysiol |volume=38 |pages=315–336 |year=2000}}</ref>
+
+=== Current list of Petilla Interneurons maintained by the NeuroLex ===
+
+http://neurolex.org/wiki/Category:Intrinsic_neuron_role
+
+=== Interneurons of the spinal cord ===
+
+*  1a Inhibitory Neuron: Found in Lamina VII.  Responsible for inhibiting antagonist [[motor neuron]].  1a spindle afferents activate 1a inhibitory neuron.
+
+*  1b Inhibitory Neuron: Found in Lamina V, VI, VII. afferent or Golgi tendon organ activates it.
+
+=== Interneurons of the cortex ===
+
+*  [[Parvalbumin]]-expressing interneurons
+*  CCK-expressing interneurons
+*  VIP-expressing interneurons
+
+=== Interneurons of the cerebellum ===
+ 
+*  Molecular layer interneurons ([[basket cell]]s, [[stellate cell]]s)
+*  [[Golgi cell]]s
+*  [[Granule cell]]s
+
+===Interneurons of the striatum===
+*[[Parvalbumin]]-expressing interneurons<ref>Koós T, Tepper JM.
+Nat Neurosci. 1999 May;2(5):467-72.
+PMID: 10321252</ref>
+*[[Cholinergic]] interneurons<ref>Zhou FM, Wilson CJ, Dani JA.
+J Neurobiol. 2002 Dec;53(4):590-605. Review.
+PMID: 12436423</ref><ref>English DF, Ibanez-Sandoval O, Stark E, Tecuapetla F, Buzsáki G, Deisseroth K, Tepper JM, Koos T.
+Nat Neurosci. 2011 Dec 11;15(1):123-30. doi: 10.1038/nn.2984.
+PMID: 22158514</ref>
+*[[Tyrosine hydroxylase]]-expressing interneurons<ref>Ibáñez-Sandoval O, Tecuapetla F, Unal B, Shah F, Koós T, Tepper JM.
+J Neurosci. 2010 May 19;30(20):6999-7016. doi: 10.1523/JNEUROSCI.5996-09.2010.
+PMID: 20484642</ref>
+*Calretinin-expressing interneurons<ref name = Tepper>Tepper JM, Tecuapetla F, Koós T, Ibáñez-Sandoval O.
+Front Neuroanat. 2010 Dec 29;4:150. doi: 10.3389/fnana.2010.00150.
+PMID: 21228905</ref>
+*Nitric oxide synthase-expressing interneurons<ref name = Tepper/>
+
+== References ==
+{{reflist|2}}
+
+==External links==
+* {{eMedicineDictionary|Interneurons}}
+
+{{Spinal cord}}
+{{Nervous tissue}}
+
+[[Category:Neurons]]
+
+{{neuroanatomy-stub}}

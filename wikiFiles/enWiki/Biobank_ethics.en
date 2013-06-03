@@ -1,0 +1,159 @@
+'''Biobank ethics''' refers to the [[ethics]] pertaining to all aspects of [[biobanks]]. The issues examined in the field of biobank ethics are special cases of [[clinical research ethics]].
+
+==Overview of issues==
+The following table shows many of the leading controversial issues related to biobanking. The table names an issue, then describes a point on which there is consensus and an aspect of that same point for which there is no consensus.
+
+{| class="wikitable sortable"
+|-
+! colspan="6" style="background-color: #CCEEEE;" | Biobank controversies<ref>{{cite doi|10.1183/09031936.00165006}} adapted from table 2, which includes a list of issues</ref>
+|-
+! issue
+! consensus
+! controversy
+! notes
+|-
+| rowspan="4"|[[Commercialization]]
+| rowspan="4"|Different aspects of biobanks serve public, private, commercial, and noncommercial interests.
+| How can policymakers set guidelines to fairly balance public, private, commercial, and noncommercial interests?
+| 
+|-
+| Who owns biological specimens and data derived therefrom?
+|
+|-
+| When biobanks and related projects are publicly funded, the result will benefit private industry. To what extent is this outcome satisfactory? (Social Fairness). It may also undermine public trust in biobanks projects. 
+|
+|-
+| It may skew research agenda in favor of research projects which are more profitable and compromise necessary but not profitable research. 
+|
+|-
+| rowspan="2"|discrimination, including [[Genetic discrimination]]
+| rowspan="2"|Biobanks should prevent donor communities from facing discrimination as a result of participating in a biobank project
+| Research reveals private information and release of it may cause participants to face discrimination. What responsibility does the biobank have to mitigate the problem?
+| 
+|-
+| Participants may reveal their own information because of participation in a biobank and subsequently face discrimination. What responsibility does the biobank have to mitigate the problem?
+|
+|-
+| [[informed consent]]
+| Donors to biobanks need a consent process adjusted specifically to biobanks.
+| What breadth of consent should biobanks have?
+| <ref name="Aggregating Databases">{{cite doi|10.1371/journal.pmed.0050190}}</ref>
+|-
+| rowspan="3"| [[Institutional review board]]
+| It would be nice to have a robust governance system before biobanks are created.
+| How will a good governance system be designed?
+|
+|-
+| The oversight institution reviewing biobanks should be independent of the biobank.
+| Where should checks and balances be?
+|
+|-
+| An individual organization needs needs multinational support to do international research.
+| Who should govern when research spans different countries with different legal and personal rights standards?
+|
+|-
+| rowspan="5"| [[Privacy for research participants]]
+| Donors should have their specimens sufficiently anonymized.
+| A specimen by nature includes some data about donors - how much anonymizing is sufficient?
+| <ref name="identifiability">{{cite doi|10.1007/s00439-011-1042-5}}</ref><ref name="zhenlin">{{cite doi|10.1126/science.1095019}}</ref>
+|-
+| Donors have some right to return of results.
+| How does one return results to anonymized donors?
+| <ref name="identifiability"/><ref name="caulfield">{{cite doi|10.1371/journal.pbio.0060073}}</ref>
+|-
+| Donors have a right to withdraw from research.
+| Specimens can be destroyed, but to what extent should anonymized data which has already been shared be withdrawn?
+|<ref name="caulfield"/>
+|-
+| Data derived from specimens should be shared.
+| Who gets access and how much?
+| <ref name="identifiability"/>
+|-
+| Changing technology makes it difficult for researchers to say how safe participant information is.
+| What protections can be promised?
+| <ref name="genetic privacy">{{cite doi|10.1038/nrg2360}}</ref>
+|-
+| [[Return of results]]
+| Donors have a right to know the purpose of a biobank and what results it generates
+| When should all donors share general information and when does each donor have a personal right to personal information?
+|
+|-
+| rowspan="4"|[[Public consultation]]
+| Everyone wants the researchers and community to work together.
+| What resources should be spent doing outreach, and how much involvement does the community want, and what role should the community have?
+|
+|-
+| Communities should participate in writing laws, standards, and policies for research.
+| How can communities be encouraged to participate, who represents the community, and how much involvement should there be?
+|
+|-
+| Patients should be involved when there is research on diseases.
+| When people are desperate because of a disease, to what extent can they participate fairly without feeling obligation to support research?
+|
+|-
+| Communities which donate specimens to a biobank should have special involvement in their biobank.
+| What kind of involvement?
+|
+|-
+| rowspan="2"|Resource sharing
+| Research efficiency increases greatly when resources are shared.
+| How should beneficiaries share costs? This is especially problematic when a biobank is a national resource and another country wants access to it.
+|
+|-
+| Results of studies should go to the widest possible audience.
+| When should this happen and in what way? Can results be released with commercial licensing for use?
+|
+|-
+|}
+
+==Privacy for research participants==
+{{Main|Privacy for research participants}}
+There is broad consensus that when a person donates a specimen for research then that person has a right to privacy thereafter.  To this end, researchers balance the need for specimens to be [[Anonymity|anonymous]] or de-identified from [[protected health information]] with the need to have access to data about the specimen so that researchers can use the sample without knowing the identity of the donor.<ref name="whoowns">{{cite journal|last=Hawkins|first=Alice K.|coauthors=Kieran C. O'Doherty|title="Who owns your poop?": insights regarding the intersection of human microbiome research and the ELSI aspects of biobanking and related studies.|journal=BMC Medical Genomics|date=7 October 2011|volume=4|pages=72|accessdate=24 November 2011|pmid=21982589|doi=10.1186/1755-8794-4-72|pmc=3199231}}</ref> In the United States, for example, the [[Office for Human Research Protections]] often promotes a traditional system wherein data which could identify a participant is coded, and then elsewhere stored away from the data is key which could decipher the identities in special circumstances when required outside of usual research.<ref name="underpinnings"/>
+
+Complications arise in many situations, such as when the identity of the donor is released anyway or when the researchers want to contact the donor of the sample.<ref name="whoowns"/> Donor identities could become known if the data and decipher key are unsecure, but more likely, with rich datasets the identities of donors could be determined only from a few pieces of information which were thought unrelated to disturbing anonymity before the advent of computer communication.<ref name="underpinnings"/>
+
+Among the concerns which participants in biobanks have expressed are giving personal information to researchers and having data used against them somehow.<ref name="Public Opinion">{{cite doi|10.1016/j.ajhg.2009.10.002}}</ref>
+
+Scientists have demonstrated that in many cases where participants' names were removed from data, the data still contained enough information to make identification of the participants possible.<ref>{{cite journal|last=Ohm|first=Paul|title=Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization|journal=UCLA Law Review|date=17 August|year=2009|volume=57|pages=1701|url=http://ssrn.com/abstract=1450006|accessdate=24 November 2011}}</ref> This is because the historical methods of protecting confidentiality and anonymity have become obsolete when radically more detailed databases became available.<ref name ="underpinnings">{{cite DOI|10.1146/annurev.genom.7.080505.115721}}</ref> Another problem is that even small amounts of genetic data, such as a record of 100 [[single nucleotide polymorphisms]], can uniquely identify anyone.<ref name="zhenlin"/>
+
+There have been problems deciding what safeguards should be in place for storing medical research data.<ref>{{cite doi|10.1001/jama.2009.958 }}</ref> In response, some researchers have made efforts to describe what constitutes sufficient security and to recognize what seemingly anonymized information can be used to identify donors.<ref name="identifiability">{{cite PMID|21739176}}</ref>
+
+==Ownership of specimens==
+When a person donates a specimen to a researcher it is not easy to describe what the participant is donating because ownership of the specimen represents more rights than physical control over the specimen.<ref name="whoowns"/>
+
+The specimens themselves have commercial value, and research products made from specimens can also.  Fundamental research benefits all sectors, including government, non-profit, and commercial, and these sectors will not benefit equally.  Specimens may be subject to [[Biological patent|biological patenting]] or research results from specimen experimentation may lead to the development of products which some entity will own.  The extent to which a specimen donor should be able to restrict the way their specimen is used is a matter of debate.<ref name="whoowns"/>
+
+Some researchers make the argument that the specimens and data should be publicly owned.<ref>{{cite doi|10.1001/jama.2009.965}}</ref>  Other researchers say that by calling for donations and branding the process as altruistic the entities organizing biobank research are circumventing difficult ethical questions which participants and researchers ought to address.<ref>{{cite doi|10.1017/S1745855206004029}}</ref>
+
+==Return of results==
+{{Main|Return of results}}
+
+There is broad consensus that participants in clinical research have a right to know the results of a study in which they participant so that they can check the extent to which their participation delivered beneficial results to their community. The right to justice in the [[Belmont Report]] is a part of this idea.<ref name="whoowns"/> Despite the consensus that researchers should return some information to communities, there is no universally recognized authoritative policy on how researchers should return results to communities, and the views and practices of researchers in the field vary widely.<ref>{{cite doi|10.1016/S0065-2660(07)00418-X}}</ref>
+
+Returning results can be problematic for many reasons, such as increased difficulty of tracking participants who donated a sample as time passes, the conflict with the participant's right to privacy, the inability of researchers to meaningfully explain scientific results to participants, general disinterest of participants to study results, and deciding what constitutes a return of results.<ref name="whoowns"/>
+
+If genetic testing is done, then researches may get health information about participants, but in many cases there is no plan in place for giving participants information derived from their samples.<ref>{{cite doi|10.1186/gm25}}</ref>
+
+==Informed consent==
+{{main|Informed consent}}
+Because donating a specimen involves consideration of many issues, different people will have different levels of understanding of what they are doing when they donate a specimen.  Since it is difficult to explain every issue to everyone, problems of giving informed consent arise when researchers take samples.<ref name="whoowns"/>
+
+A special informed consent problem happened historically with biobanks. Previous to the advent of biobanks, researchers would ask specimen donors for consent to participate in a single study, and give participants information about that study. In a biobank system, a researcher may have many specimens collected over many years and then long after the donors gave the sample, that researcher may want to conduct a new study using those samples but have no good way to give donors information about that study and collect their consent. This problem was first identified in widespread publication in 1995<ref name="underpinnings"/> when an article on this topic was published.<ref>{{cite PMID|7500511}} This is the article which first discussed the issue</ref>
+
+Many people have the opportunity to donate samples to medical research in the course of their regular medical care, but there are ethical problems in having one's own doctor request specimens.<ref>{{cite doi|10.1001/jama.2009.959 }}</ref>
+
+Researchers support biobanking despite risk to participants because the benefit is high, it pays respect to people's wishes to involve themselves in research, current practices and culture support this kind of research, and consensus is that the risk of participation is low.<ref>{{cite doi|10.1136/jme.2008.024851}}</ref>
+
+Donors to biobanks frequently do not have a good understanding of the concept of a biobank or the implications of donating a specimen to one.<ref>{{cite doi|10.1017/S1745855206060029}}</ref>
+
+==References==
+{{div col|2}}
+{{reflist}}
+{{div col end}}
+
+{{Research participant rights}}
+
+[[Category:Biobanks]]
+[[Category:Medical ethics]]
+[[Category:Research ethics]]
+[[Category:Bioethics]]

@@ -1,0 +1,192 @@
+In medicine, '''''Kt/V''''' is a number used to quantify [[hemodialysis]] and [[peritoneal dialysis]] treatment adequacy.  
+
+*''K'' - dialyzer clearance of [[urea]]
+*''t'' - dialysis time 
+*''V'' - volume of distribution of urea, approximately equal to patient's total [[body water]]
+
+In the context of hemodialysis, Kt/V is a [[dimensionless number]].  In peritoneal dialysis, it is dimensionless only by definition.
+ 
+It was developed by [[Frank Gotch (MD)|Frank Gotch]] and John Sargent as a way for measuring the dose of dialysis when they analyzed the data from the National Cooperative Dialysis Study.<ref name=gotch_3934452>{{cite journal |author=Gotch FA, Sargent JA |title=A mechanistic analysis of the National Cooperative Dialysis Study (NCDS) |journal=Kidney int. |volume=28 |issue=3 |pages=526–34 |year=1985 |month=September |pmid=3934452 |doi= 10.1038/ki.1985.160|url=}}</ref> In hemodialysis the US National Kidney Foundation ''Kt''/''V'' target is ≥ 1.3, so that one can be sure that the delivered dose is at least 1.2.<ref name=kdoqi>{{cite journal | author = | title = Clinical practice guidelines for nutrition in chronic renal failure. K/DOQI, National Kidney Foundation. | journal = Am J Kidney Dis | volume = 35 | issue = 6 Suppl 2 | pages = S1–140 | year = 2000 | pmid = 10895784 |url=http://www.kidney.org/professionals/KDOQI/guidelines_updates/doqi_uptoc.html}}</ref> In peritoneal dialysis the target is ≥ 1.7/week.<ref name=kdoqi/>
+
+Despite the name, ''Kt''/''V'' is quite different from [[standardized Kt/V]].
+
+==Rationale for ''Kt''/''V'' as a marker of dialysis adequacy==
+''K'' (clearance) multiplied by ''t'' (time) is a volume (since mL/min x min = mL, or L/hr x hr = L), and (''K'' x ''t'') can be thought of as the mL or L of fluid (blood in this case) cleared of urea (or any other solute) during the course of a single treatment.  ''V'' also is a volume, expressed in mL or L. So the ratio of ''K'' x ''t'' / ''V'' is a so-called "dimensionless ratio" and can be thought of as a multiple of the volume of plasma cleared of urea divided by the distribution volume of urea.   When Kt/V = 1.0, a volume of blood equal to the distribution volume of urea has been completely cleared of urea.  
+
+The relationship between ''Kt''/''V'' and the concentration of urea ''C'' at the end of dialysis can be derived from the first-order [[differential equation]] that describes [[exponential decay]] and models the clearance of any substance from the body where the concentration of that substance decreases in an exponential fashion:  
+
+:<math>V \frac{dC}{dt} = -K \cdot C \qquad(1) </math>
+
+where
+* ''C'' is the concentration [mol/m³]
+* ''t'' is the time [s]
+* ''K'' is the clearance [m³/s]
+* ''V'' is the volume of distribution [m³]
+From the above definitions it follows that <math>\frac{dC}{dt}</math> is the first [[derivative]] of concentration with respect to time, i.e. the change in concentration with time. 
+
+This equation is [[separable differential equation|separable]] and can be integrated as follows:
+
+:<math>\int \frac{dC}{C} = \int -\frac{K}{V}\, dt. \qquad(2a)</math>
+
+After integration,
+
+:<math>\ln(C) = - \frac{K \cdot t}{V} + \mbox{const} \qquad(2b)</math>
+
+where
+* ''const'' is the constant of integration
+
+If one takes the [[antilog]] of ''Equation 2b'' the result is:
+
+:<math>C = e^{- \frac{K \cdot t}{V} + const } \qquad(2c)</math>
+
+where
+*[[E (mathematical constant)|e]] is the base of the [[natural logarithm]]
+
+By [[Exponentiation#Identities and properties|integer exponentiation]] this can be written as:
+
+:<math>C = C_0 e^{-\frac{K \cdot t}{V}} \qquad(3)</math>
+
+where
+* ''C''<sub>0</sub> is the concentration at the beginning of dialysis [mmol/L] or [mol/m³].
+
+The above equation can also be written as
+
+:<math> \frac{K \cdot t}{V} = \ln \frac{C_o}{C} \qquad(4)</math><ref name=gotch_3934452/>
+
+Normally we measure postdialysis serum urea nitrogen concentration ''C'' and compare this with the initial or predialysis level ''C''<sub>0</sub>.  The session length or time is ''t'' and this is measured by the clock.  The dialyzer clearance ''K'' is usually estimated, based on the urea transfer ability of the dialyzer (a function of its size and membrane permeability), the blood flow rate, and the dialysate flow rate.<ref>{{cite journal |author=Babb AL, Popovich RP, Christopher TG, Scribner BH |title=The genesis of the square meter-hour hypothesis |journal=Trans Am Soc Artif Intern Organs |volume=17 |issue= |pages=81–91 |year=1971 |pmid=5158139 |doi= |url=}}</ref>  In some dialysis machines, the urea clearance during dialysis is estimated by testing the ability of the dialyzer to remove a small salt load that is added to the dialysate during dialysis.
+
+==Relation to URR==
+The URR is simply the fractional reduction of urea during dialysis.  So by definition, URR = 1 -''C''/''C''<sub>0</sub>.  So 1-URR = ''C''/''C''<sub>0</sub>. So by algebra, substituting into equation (4) above, since ln ''C''/''C''<sub>0</sub> = - ln ''C''<sub>0</sub>/''C'', we get: 
+
+:<math>\frac{K \cdot t}{V} = -\ln (1-URR). \qquad(8)</math>
+
+===Sample calculation===
+Patient has a mass of 70&nbsp;kg (154&nbsp;lb) and gets a hemodialysis treatment that lasts 4 hours where the urea clearance is 215 ml/min.
+
+* ''K'' = 215 mL/min
+* ''t'' = 4.0 hours = 240 min
+* ''V'' = 70&nbsp;kg × 0.6 L of water/kg of body mass = 42 L = 42,000 mL
+
+Therefore:
+
+: ''Kt''/''V'' = 1.23
+
+This means that if you dialyze a patient to a Kt/V of 1.23, and measure the postdialysis and predialysis urea nitrogen levels in the blood, then calculate the URR, then -ln (1-URR) should be about 1.23.
+
+The math does not quite work out, and more complicated relationships have been worked-out to account for the fluid removal (ultrafiltration) during dialysis as well as urea generation(see [[urea reduction ratio]]).  Nevertheless, the URR and Kt/V are so closely related mathematically, that their predictive power has been shown to be no  different in terms of prediction of patient outcomes in observational studies.
+
+===Post-dialysis rebound===
+The above analysis assumes that urea is removed from a single compartment during dialysis. In fact, this Kt/V is usually called the "single-pool" Kt/V.  Due to the multiple compartments in the human body, a significant concentration rebound occurs following hemodialysis.  
+Usually rebound lowers the Kt/V by about 15%.  The amount of rebound depends on the rate of dialysis (K) in relation to the size of the patient (V).  Equations have been devised to predict the amount of rebound based on the ratio of K/V, but usually this is not necessary in clinical practice.  One can use such equations to calculate an "equilibrated Kt/V" or a "double-pool Kt/V", and some think that this should be used as a measure of dialysis adequacy, but this is not widely done in the United States, and the KDOQI guidelines (see below) recommend using the regular single pool Kt/V for simplicity.
+
+== Peritoneal dialysis ==
+''Kt''/''V'' (in the context of peritoneal dialysis) was developed by [http://biomed.brown.edu/Faculty/L/Lysaght.html Michael J. Lysaght] in a series of articles on peritoneal dialysis.<ref>{{cite journal |author=Lysaght MJ, Farrell PC |title=Membrane Phenomena and mass transfer kinetics in peritoneal dialysis |journal= Journal of Membrane Science|volume=44 |issue=1 |pages=5–33 |year=1989 |doi=10.1016/S0376-7388(00)82339-X}}</ref><ref>{{cite journal |author=Lysaght MJ, Pollock CA, Hallet MD, Ibels LS, Farrell PC |title=The relevance of urea kinetic modeling to CAPD |journal=ASAIO Trans. / American Society for Artificial Internal Organs |volume=35 |issue=4 |pages=784–90 |year=1989 |pmid=2611047 |doi= |url=}}</ref>
+
+The steady-state solution of a simplified [[mass transfer]] equation that is used to describe the mass exchange over a [[semi-permeable membrane]] and models [[peritoneal dialysis]] is
+
+:<math>C_B=\dot{m}/K. \qquad(6a)</math> 
+
+where
+*''C''<sub>B</sub> is the concentration in the blood [ mol/m³ ]
+*''K''<sub>''D''</sub> is the clearance [ m³/s ]
+*''<math>\dot{m}</math>'' is the urea mass generation [ mol/s ]
+
+This can also be written as:
+
+:<math>K=\dot{m}/C_B. \qquad(6b)</math>
+
+The mass generation (of urea), in [[steady state]], can be expressed as the mass (of urea) in the effluent per time:
+
+:<math>\dot m=\frac{C_E \cdot V_E}{t}. \qquad(6c)</math>
+
+where
+*''C''<sub>E</sub> is the concentration of urea in effluent [ mol/m³ ]
+*''V''<sub>E</sub> is the volume of effluent [ m³ ]
+*''t'' is the time [ s ]
+
+Lysaght, motivated by ''Equations 6b'' and ''6c'', defined the value ''K''<sub>''D''</sub>: 
+
+:<math> K_D  = \frac{C_E \cdot V_E}{C_B \cdot t} \qquad(6d)</math>
+
+Lysaght uses "ml/min" for the clearance.  In order to convert the above clearance (which is in m³/s) to ml/min one has to multiply by 60 x 1000 x 1000.
+
+Once ''K''<sub>''D''</sub> is defined the following equation is used to calculate ''Kt''/''V'':
+
+:<math> \frac{K \cdot t}{V} = \frac{7/3 \cdot K_D}{V_D} \qquad(7a)</math>
+
+where
+*''V'' is the volume of distribution.  It has to be in [[litre]]s (l), as the equation is not really non-dimensional.
+
+The 7/3 is used to adjust the ''Kt''/''V'' value so it can be compared to the ''Kt''/''V'' for hemodialysis, which is typically done thrice weekly in the USA.
+
+===Weekly ''Kt''/''V''===
+To calculate the ''weekly Kt/V'' (for peritoneal dialysis) K<sub>D</sub> has to be in litres/day.
+Weekly ''Kt''/''V'' is defined by the following equation: 
+
+:<math> \mbox{Weekly } Kt/V = \frac{7 K_D [l/\mbox{day}]}{V [l]}. \qquad(7b)</math>
+
+===Sample calculation===
+Assume:
+*<math>C_{B\mbox{ mean}}=22.817\mbox{ mmol/L}</math>
+*<math>C_{D}=17.524\mbox{ mmol/L}</math>
+*<math>V_{D}=3.75\mbox{ L per exchange or }15\mbox{ L/day}</math>
+*<math>V_{B}=40.6\ L</math>
+
+Then by ''Equation 6d'' ''K''<sub>''D''</sub> is: 1.3334e&minus;07 m³/s or 8.00 ml/min or 11.52 l/day.
+
+Kt/V and the weekly Kt/V by ''Equations 7a'' and ''7b'' respectively are thus: 0.45978 and 1.9863.
+
+===A simplified analysis of Kt/V in PD===
+On a practical level, in peritoneal dialysis the calculation of Kt/V is often relatively easy because the fluid drained is usually close to 100% saturated with urea,{{Citation needed|date=October 2007}} i.e. the dialysate has [[Diffusion equilibrium|equilibriated]] with the body.  Therefore, the daily amount of plasma cleared is simply the drain volume divided by an estimate of the patient's volume of distribution.  
+
+As an example, if someone is infusing four 2 liter exchanges a day, and drains out a total of 9 liters per day, then they drain 9 x 7 = 63 liters per week.  If the patient has an estimated total body water volume V of about 35 liters, then the weekly Kt/V would be 63/35, or about 1.8.
+
+The above calculation is limited by the fact that the serum concentration of urea is changing during dialysis.  
+In automated PD this change cannot be ignored; thus, blood samples are usually measured at some time point in the day and assumed to be representative of an average value. The clearance is then calculated using this measurement.
+
+==Reason for adoption==
+''Kt''/''V'' has been widely adopted because it was correlated with survival.  Before ''Kt''/''V'' nephrologists measured the serum [[urea]] concentration (specifically the
+[[time-averaged concentration of urea]] (TAC of urea)), which was found not to be correlated with survival (due to its strong dependence on [[protein]] intake) and thus deemed an unreliable marker of dialysis adequacy.
+
+==Criticisms/disadvantages of ''Kt''/''V''==
+* It is complex and tedious to calculate. Many nephrologists have difficulty understanding it.
+* [[Urea]] is not associated with toxicity.<ref>{{cite journal |author=Johnson WJ, Hagge WW, Wagoner RD, Dinapoli RP, Rosevear JW |title=Effects of urea loading in patients with far-advanced renal failure |journal=Mayo Clinic Proc. |volume=47 |issue=1 |pages=21–9 |year=1972 |month=January |pmid=5008253 |doi= |url=}}</ref>
+* ''Kt''/''V'' only measures a change in the concentration of urea and implicitly assumes the clearance of urea is comparable to other toxins.  (It ignores molecules larger than urea having [[diffusion|diffusion-limited]] transport - so called [[middle molecules]]).
+* ''Kt''/''V'' does not take into account the role of [[ultrafiltration]].
+* It ignores the [[mass transfer]] between body compartments and across the [[plasma membrane]] (i.e. [[intracellular]] to [[extracellular]] transport), which has been shown to be important for the clearance of molecules such as [[phosphate]].  Practical use of Kt/V requires adjustment for rebound of the urea concentration due to the multi-compartmental nature of the body.
+* ''Kt''/''V'' may disadvantage women and smaller patients in terms of the amount of dialysis received.  Normal kidney function is expressed as the [[Glomerular filtration rate]] or GFR.  GFR is usually normalized in people to body surface area.  A man and a woman of similar body surface areas will have markedly different levels of total body water (which corresponds to V).  Also, smaller people of either sex will have markedly lower levels of V, but only slightly lower levels of body surface area.  For this reason, any dialysis dosing system that is based on ''V'' may tend to underdose smaller patients and women.  Some investigators have proposed dosing based on surface area (S) instead of V, but clinicians usually measure the URR and then calculate Kt/V.  One can "adjust" the Kt/V, to calculate a "surface-area-normalized" or "SAN"-Kt/V as well as a "SAN"-standard Kt/V.  This puts a wrapper around Kt/V and normalizes it to body surface area.<ref>Daugirdas JT et al. Surface-area-normalized (SAN) adjustment to Kt/V and weekly standard Kt/V.  J Am Soc Nephrol (abstract) 2006.  and Appendix A. Handbook of Dialysis, 4th Edition. Daugirdas JT, Blake PB, Ing TS, editors. Lippincott Williams and Wilkins, Philadelphia, 2007.</ref>
+
+===Importance of total weekly dialysis time and frequency===
+''Kt''/''V'' has been criticized because quite high levels can be achieved, particularly in smaller patients, during relatively short dialysis sessions.  This is especially true for small people, where "adequate" levels of Kt/V often can be achieved over 2 to 2.5 hours.  One important part of dialysis adequacy has to do with adequate removal of salt and water, and also of solutes other than urea, especially larger molecular weight substances and phosphorus.  A number of studies suggest that a longer amount of time on dialysis, or more frequent dialysis sessions, lead to better results.  There have been various alternative methods of measuring dialysis adequacy, most of which have proposed some number based on Kt/V and number of dialysis sessions per week, e.g., the  [[standardized Kt/V]], or simply number of dialysis sessions per week squared multiplied by the hours on dialysis per session; e.g. the [[hemodialysis product]] by Scribner and Oreopoulos <ref name=scribner>{{cite journal |author=Scribner BH, Oreopoulos DG |title=The Hemodialysis Product (HDP): A Better Index of Dialysis Adequacy than Kt/V |journal=Dialysis & Transplantation |volume=31 |issue=1 |pages=13–5 |month=January |year=2002 |url=http://www.therenalnetwork.org/images/HDP.pdf |format=mirrored PDF}}</ref>  It is not practical to give long dialysis sessions (greater than 4.5 hours) 3x/week in a dialysis center during the day. Longer sessions can be practically delivered if dialysis is done at home.  Most experience has been gained with such long dialysis sessions given at night.  Some centers are offering every-other-night or 3x/week nocturnal dialysis.  The benefits of giving more frequent dialysis sessions is also an area of active study, and new easy-to-use machines are permitting easier use of home dialysis, where 2–3+ hr sessions can be given 4–7 days per week.
+
+===Kt/V minimums and targets for hemodialysis===
+One question in terms of Kt/V is, how much is enough?  The answer has been based on observational studies, and the NIH-funded HEMO trial done in the United States, and also, on kinetic analysis. 
+For a US perspective, see the <ref name=KDOQI_HD_adequacy_2006>KDOQI [http://www.kidney.org/professionals/kdoqi/guideline_upHD_PD_VA/index.htm Hemodialysis Adequacy] Update 2006.</ref>  and for a United Kingdom perspective see <ref name=RA_HD_adequacy_2006>U.K. Renal Association Clinical Practice Guidelines,  [http://www.renal.org/guidelines/module3a.html 2006 Update.]</ref>  According to the US guidelines, for 3x/week dialysis a Kt/V (without rebound) should be 1.2 at a minimum with a target value of 1.4 (15% above the minimum values).  However, there is suggestive evidence that larger amounts may need to be given to women, smaller patients, malnourished patients, and patients with clinical problems.  The recommended minimum Kt/V value changes depending on how many sessions per week are given, and is reduced for patients who have a substantial degree of residual renal function.
+
+===Kt/V minimums and targets for peritoneal dialysis===
+For a US perspective, see <ref name=KDOQI_PD_adequacy_2006>KDOQI [http://www.kidney.org/professionals/kdoqi/guideline_upHD_PD_VA/pd_guide2.htm Peritoneal Adequacy] Update 2006.</ref> For the United States, the minimum weekly Kt/V target used to be 2.0.  This was lowered to 1.7 in view of the results of a large randomized trial done in Mexico, the ADEMEX trial,<ref>{{cite journal |author=Paniagua R, Amato D, Vonesh E, ''et al.'' |title=Effects of increased peritoneal clearances on mortality rates in peritoneal dialysis: ADEMEX, a prospective, randomized, controlled trial |journal=J Am Soc Nephrol. |volume=13 |issue=5 |pages=1307–20 |year=2002 |month=May |pmid=11961019 |doi= |url=http://jasn.asnjournals.org/cgi/pmidlookup?view=long&pmid=11961019}}</ref> and also from reanalysis of previous observational study results from the perspective of residual kidney function.
+
+For a United Kingdom perspective see:<ref name=RA_PD_adequacy_2006>U.K. Renal Association Clinical Practice Guidelines, [http://www.renal.org/guidelines/module3b.html Peritoneal Dialysis.] 2006 Update.</ref>   This is still in draft form.
+
+==References==
+{{reflist}}
+
+==External links==
+
+===Hemodialysis===
+*[http://kidney.niddk.nih.gov/kudiseases/pubs/hemodialysisdose/#kt/v Hemodialysis Dose and Adequacy] - a description of URR and Kt/V from the Kidney and Urologic Diseases Clearinghouse. 
+*[http://patients.uptodate.com/topic.asp?file=dialysis/10323 Kt/V and the adequacy of hemodialysis] - UpToDate.com
+
+===Peritoneal dialysis===
+*[http://www.aakp.org/AAKP/pdadvisory.htm Advisory on Peritoneal Dialysis] - American Association of Kidney Patients
+*[http://kidney.niddk.nih.gov/kudiseases/pubs/peritonealdose/ Peritoneal Dialysis Dose and Adequacy] - a description of URR and Kt/V from the Kidney and Urologic Diseases Clearinghouse.
+
+===Calculators===
+*[http://www.kt-v.net '''free Kt/V calculators''', single pool and equilibrated HD, PD, no login needed, site used by dozens of dialysis centers around the world for over 10 years] - kt-v.net
+*[http://www.ureakinetics.org Web/javascript program that does formal 2-pool urea kinetics in multiple patients] - ureakinetics.org
+*[http://www.medindia.net/doctors/Clinical_cal/ktv.asp Kt/V calculator] - medindia.com
+*[http://www.hdcn.com/calcf/dzer.htm Kt/V] - HDCN
+{{Renal physiology}}
+
+{{DEFAULTSORT:Kt V}}
+[[Category:Renal dialysis]]

@@ -1,0 +1,44 @@
+[[Image:Complement pathway.png|thumb|right|270px|The classical and alternative complement pathways.]]
+[[Image:Droga alternatywna.png|thumb|right|270px|Alternative pathway. (Some labels are in Polish.)]]
+The '''alternative pathway''' of the [[complement system]] is an [[Innate immune system|innate]] component of the [[immune system]]'s natural defense against infections.
+
+The alternative pathway is one of three complement pathways that [[opsonize]] and kill pathogens.  The pathway is triggered when the C3b protein directly binds the microbe.
+
+==Cascade==
+It is initiated by the spontaneous [[hydrolysis]] of [[C3 (complement)|C3]], which is abundant in the blood plasma.
+"Tickover" occurs through the spontaneous cleavage of the thioester bond in C3 to form C3(H<SUB>2</SUB>O).  
+
+This change in shape allows the binding of plasma protein [[Complement factor B|Factor B]], which allows [[Factor D]] to cleave Factor B into Ba and Bb.  
+
+Bb remains part of the C3(H<SUB>2</SUB>O) to form C3(H<SUB>2</SUB>O)Bb. This complex is also known as a fluid-phase [[C3-convertase]].  This convertase, although only produced in small amounts, can cleave multiple C3 proteins into C3a and C3b.
+
+The alternative pathway C3-convertase consists of the activated B and C3b factors, forming an unstable compound that can become stable after binding [[properdin]], a serum protein. 
+
+After the creation of C3 convertase, the complement system follows the same path regardless of the means of activation (alternative, classical, or lectin). Binding of another C3b-fragment to the C3-convertase of the alternative pathway creates a C5-convertase analoguous to the lectin or classical pathway.
+
+The C5-convertase of the alternative pathway consists of C3bBbC3b also referred to as C3b<sub>2</sub>Bb (instead of C4b2a3b in the other pathways).
+
+==Regulation==
+Since C3b is free and abundant in the plasma, it can bind to either a host cell or a pathogen surface.  To prevent complement activation from proceeding on the host cell, there are several different kinds of regulatory proteins that disrupt the complement activation process:
+* Complement Receptor 1 (CR1 or [[CD35]]) and DAF ([[decay accelerating factor]] also known as [[CD55]]) compete with Factor B in binding with C3b on the cell surface and can even remove Bb from an already formed C3bBb complex
+* The formation of a C3 convertase can also be prevented when a plasma protease called [[complement factor I]] cleaves C3b into its inactive form, iC3b.  Factor I requires a C3b-binding protein cofactor such as complement factor H, CR1, or Membrane Cofactor of Proteolysis (MCP or [[CD46]])
+* [[Factor H|Complement Factor H]] can inhibit the formation of the C3 convertase by competing with factor B for binding to C3b;<ref>{{cite journal |author=Conrad DH, Carlo JR, Ruddy S |title=Interaction of beta1H globulin with cell-bound C3b: quantitative analysis of binding and influence of alternative pathway components on binding |journal=J. Exp. Med. |volume=147 |issue=6 |pages=1792–1805 |year=1978 |month=June |pmid=567241 |pmc=2184316 |doi= 10.1084/jem.147.6.1792|url=}}</ref> accelerate the decay of the C3 convertase;<ref>{{cite journal |author=Weiler JM, Daha MR, Austen KF, Fearon DT |title=Control of the amplification convertase of complement by the plasma protein beta1H |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=73 |issue=9 |pages=3268–72 |year=1976 |month=September |pmid=1067618 |pmc=431003 |doi= 10.1073/pnas.73.9.3268|url=}}</ref> and act as a cofactor for [[Complement factor I|Factor I]]-mediated cleavage of C3b.<ref>{{cite journal |author=Pangburn MK, Schreiber RD, Müller-Eberhard HJ |title=Human complement C3b inactivator: isolation, characterization, and demonstration of an absolute requirement for the serum protein beta1H for cleavage of C3b and C4b in solution |journal=J. Exp. Med. |volume=146 |issue=1 |pages=257–70 |year=1977 |month=July |pmid=301546 |pmc=2180748 |doi= 10.1084/jem.146.1.257|url=}}</ref> Complement factor H preferentially binds to vertebrate cells (because of affinity for sialic acid residues), allowing preferential protection of host (as opposed to bacterial) cells from complement-mediated damage.
+* [[CFHR5]] (Complement Factor H-Related protein 5) is able to bind to act as a cofactor for factor I, has decay accelerating activity and is able to bind preferentially to C3b at host surfaces.<ref>{{cite journal |author=McRae JL, Duthy TG, Griggs KM, ''et al.'' |title=Human factor H-related protein 5 has cofactor activity, inhibits C3 convertase activity, binds heparin and C-reactive protein, and associates with lipoprotein |journal=J. Immunol. |volume=174 |issue=10 |pages=6250–6 |year=2005 |month=May |pmid=15879123 |doi= |url=}}</ref>
+
+==See also==
+* [[Classical complement pathway]]
+* [[Lectin pathway]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*''Immunobiology''. Janeway, ''et al.'' 5th 3ed. ISBN 0-8153-4101-6. (5th ed. text online at [http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=imm.TOC&depth=10].)
+*[[BioCarta]]'s diagram of the alternative pathway, [http://www.biocarta.com/pathfiles/h_alternativePathway.asp]
+
+{{Immune system}}
+{{Complement system}}
+
+
+
+[[Category:Complement system]]

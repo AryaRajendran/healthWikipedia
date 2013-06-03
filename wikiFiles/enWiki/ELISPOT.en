@@ -1,0 +1,41 @@
+The '''Enzyme-linked immunosorbent spot''' ('''ELISPOT''')  assay is a common method for monitoring immune responses in humans and animals. It was developed by Cecil Czerkinsky in 1983.<ref>{{cite journal |author=Czerkinsky C, Nilsson L, Nygren H, Ouchterlony O, Tarkowski A |title=A solid-phase enzyme-linked immunospot (ELISPOT) assay for enumeration of specific antibody-secreting cells |journal=J Immunol Methods |volume=65 |issue=1–2 |pages=109–121 |year=1983 |pmid=6361139 |doi=10.1016/0022-1759(83)90308-3}}</ref>
+
+The ELISPOT assay is based on, and was developed from a modified version of the [[ELISA]] [[immunoassay]]. ELISPOT assays were originally developed to enumerate [[B cell]]s secreting antigen-specific [[antibody|antibodies]], and have subsequently been adapted for various tasks, especially the identification and enumeration of [[cytokine]]-producing cells at the single cell level. Simply put, at appropriate conditions the ELISPOT assay allows visualization of the secretory product of individual activated or responding cells. Each spot that develops in the assay represents a single reactive cell. Thus, the ELISPOT assay provides both qualitative (type of immune protein) and quantitative (number of responding cells) information.
+
+By virtue of exquisite sensitivity of the ELISPOT assay, frequency analysis of rare cell populations (e.g., antigen-specific responses) which were not possible before are now relatively easy. This exceptional sensitivity is in part because the product is rapidly captured around the secreting cell: before it is either diluted in the supernatant, captured by receptors of adjacent cells, or degraded. This makes ELISPOT assays much more sensitive than conventional ELISA measurements. Limits of detection are below 1/100,000 rendering  enumerate the actively producing cells. This allows much of the analysis process to be automated, and permits a greater level of accuracy than what can be achieved using manual inspection.
+
+==Procedure==
+
+As noted above, the ELISPOT assays employ a technique very similar to the sandwich enzyme-linked immunosorbent assay ([[ELISA]]) technique. Either a [[monoclonal antibodies|monoclonal]] (preferred for greater specificity) or [[polyclonal antibodies|polyclonal]] capture antibody that is coated aseptically onto a PVDF ([[polyvinylidene fluoride]]) -backed microplate. These antibodies are chosen for their specificity for the analyte in question.
+The plate is blocked, usually with a serum protein that is non-reactive with any of the antibodies in the assay. After this, cells of interest are plated out at varying densities, along with [[antigen]] or [[mitogen]], and then placed in a humidified 37°C [[carbon dioxide|CO<sub>2</sub>]] [[cell incubator|incubator]] for a specified period of time.
+
+Cytokine (or other cell product of interest) secreted by activated cells is captured locally by the coated antibody on the high surface area PVDF membrane. After washing the wells to remove cells, debris, and media components, a [[biotin]]ylated polyclonal antibody specific for the chosen analyte is added to the wells. This antibody is reactive with a distinct epitope of the target cytokine  and thus is employed to detect the captured cytokine.  Following a wash to remove any unbound biotinylated antibody, the detected cytokine is then visualized using an [[avidin]]-[[horseradish peroxidase|HRP]]or avidin-alvaline phosphatase (AP), and a precipitating substrate (e.g., AEC, [[5-Bromo-4-chloro-3-indolyl phosphate|BCIP]]/[[Nitro blue tetrazolium chloride|NBT]]). The colored end product (a spot, usually red (for HRP) or a blackish blue (for AP)) typically represents an individual cytokine-producing cell. The spots can be counted manually (e.g., with a [[Stereomicroscope#Stereo_microscope|dissecting microscope]]) or using an automated reader to capture the microwell images and to analyze spot number and size.
+Eli spot can also be used to quantitate the number of T cells producing Interferon Gamma.
+
+== Fluorospot Assay ==
+
+The [[FluoroSpot]] [[assay]] is a modification of the ELISPOT assay and is based on using multiple fluorescent anticytokines which makes it possible to spot two cytokines in the same assay.
+
+== Application ==
+Recently, in vitro tests based on detection of CMI for the diagnosis of TB have become commercially available. These tests use the MTB - specific antigens namely- Early Secretory Antigenic Target- 6 (ESAT-6) and Culture Filtrate Protein 10 (CFP-10) peptides to stimulate M. tuberculosis- sensitized T-cells for the production of IFN-γ.7,8 ESAT-6 and CFP-10 antigens are specific for MTB and are produced from genomic area called Region of Difference 1 [RD1]. Therefore ELISPOT based detection of CME can provide valuable information about the diagnosis of tuberculosis. Most importantly, a recent study have found that this test does not appear to have cross reactivity with leprosy even though L-ESAT, a M. leprae antigen is very homologous to the T-ESAT-6 used in this test. Therefore, this test can be even used in countries where leprosy is still endemic <ref>{{cite journal |author=Shrestha R, Gyawali P, Yadav BK, Dahal S, Poudel B, Khanal M, Jha B, Sapkota B. In-vitro assessment of cell-mediated immunity by demonstrating effector-t cells for diagnosis of tuberculosis in Nepalese subjects. Nepal Med Coll J. 2011 Dec;13(4):275-8}}</ref>
+
+== See also ==
+
+* [[Assay]]
+* [[ELISA]]
+* [[Immunoassay]]
+* [[Secretion assay]]
+
+==References==
+<references/>
+
+==External links==
+*[http://www.mabtech.com/main/Page.asp?PageId=16&PageName=About+ELISpot A flash animation of the ELISpot technique]
+*[http://www.immunospot.eu/elispot-animation.html An animated depiction of the cytokine ELISPOT assay process]
+*[http://elispot.com/elispot-wells.html  Examples of patterns formed in the course of an ELISPOT assay]
+*[http://www.gracebio.com/Products/Microarraying/Nitrocellulose_Film_Slides/EliSpot_Slides/ Novel ELISPOT Chambered slide provides a convenient, cost-effective slide based ELISA tool.]
+*[http://www.nmcth.edu/images/gallery/Original%20Articles/IUQ0Cr_shrestha.pdf]
+
+{{Hemic/lymphatic procedures}}
+
+[[Category:Immunologic tests]]

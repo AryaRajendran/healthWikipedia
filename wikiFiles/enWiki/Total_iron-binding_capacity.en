@@ -1,0 +1,70 @@
+{{Diagnostic infobox
+| Name            = Total iron-binding capacity
+| Image           = PBB Protein TF image.jpg
+| Alt             = 
+| Caption         = [[transferrin]]
+| DiseasesDB      = 
+| ICD10           = 
+| ICD9            = 
+| ICDO            =
+| MedlinePlus     = 003489
+| eMedicine       = 
+| MeshID          =
+| LOINC           = {{LOINC|14800-7}}, {{LOINC|35215-3}}, {{LOINC|2501-5}}
+| HCPCSlevel2     = 
+| Reference_range =  
+}}
+'''Total iron-binding capacity''' (TIBC) is a medical laboratory test that measures the blood's capacity to bind [[iron]] with [[transferrin]].<ref name="urlMedlinePlus Medical Encyclopedia: Total iron binding capacity">{{cite web |url=http://www.nlm.nih.gov/medlineplus/ency/article/003489.htm |title=MedlinePlus Medical Encyclopedia: Total iron binding capacity |format= |work= |accessdate=2008-12-31}}</ref> It is performed by [[phlebotomy|drawing blood]] and measuring the maximum amount of iron that it can carry, which indirectly measures [[transferrin]]<ref name="pmid12507977">{{cite journal |author=Yamanishi H, Iyama S, Yamaguchi Y, Kanakura Y, Iwatani Y |title=Total iron-binding capacity calculated from serum transferrin concentration or serum iron concentration and unsaturated iron-binding capacity |journal=Clin. Chem. |volume=49 |issue=1 |pages=175–8 |year=2003 |month=January |pmid=12507977 |doi= 10.1373/49.1.175|url=http://www.clinchem.org/cgi/pmidlookup?view=long&pmid=12507977}}</ref> since transferrin is the most dynamic carrier. TIBC is less expensive than a direct measurement of transferrin.<ref name="pmid12476940">{{cite journal |author=Kasvosve I, Delanghe J |title=Total iron binding capacity and transferrin concentration in the assessment of iron status |journal=Clin. Chem. Lab. Med. |volume=40 |issue=10 |pages=1014–8 |year=2002 |month=October |pmid=12476940 |doi=10.1515/CCLM.2002.176 |url=http://www.reference-global.com/doi/abs/10.1515/CCLM.2002.176}}</ref><ref name="pmid9439462">{{cite journal |author=Gambino R, Desvarieux E, Orth M, ''et al.'' |title=The relation between chemically measured total iron-binding capacity concentrations and immunologically measured transferrin concentrations in human serum |journal=Clin. Chem. |volume=43 |issue=12 |pages=2408–12 |year=1997 |month=December |pmid=9439462 |doi= |url=http://www.clinchem.org/cgi/pmidlookup?view=long&pmid=9439462}}</ref>
+
+The TIBC should not be confused with the UIBC, or "unsaturated iron binding capacity" ({{LOINC|22753-8}} and {{LOINC|35216-1}}). The UIBC is calculated by subtracting the serum iron from the TIBC. <ref name="urlIron Transport">{{cite web |url=http://library.med.utah.edu/NetBiochem/hi11a.htm |title=Iron Transport |format= |work= |accessdate=2008-12-31}}</ref>
+
+==Interpretation==
+Taken together with [[serum iron]] and [[percent transferrin saturation]] clinicians usually perform this test when they are concerned about [[anemia]], [[Iron deficiency (medicine)|iron deficiency]] or [[iron deficiency anemia]]. However, because the [[liver]] produces transferrin, alterations in function (such as [[cirrhosis]], [[hepatitis]], or [[liver failure]]) must be considered when performing this test. It can also be an indirect test of liver function, but is rarely used for this purpose.
+
+The percent transferrin saturation (i.e., the result of the formula of serum iron/TIBC x 100) can also be a useful indicator. 
+
+{| class="wikitable"
+|-
+! Condition
+! [[Serum iron]]
+! Transferrin and TIBC 
+! [[Percent transferrin saturation]]
+|-
+| [[iron deficiency anemia]]
+| Low
+| High. The [[liver]] produces more transferrin, presumably attempting to maximize use of the little iron that is available.
+| Low, as there is insufficient iron.
+|-
+| [[anemia of chronic disease]]
+| Low, as the body holds iron intracellularly with [[ferritin]].
+| Low. The body produces less transferrin (but more ferritin), presumably to keep iron away from [[pathogen]]s that require it for their metabolism. This is mainly regulated by increased [[hepcidin]] production.
+| Normal
+|-
+| [[pregnancy]] or use of [[hormonal contraception]], but without iron deficiency 
+| Normal
+| High. The liver increases the production of transferrin, thus raising TIBC.
+| Low, as there is excess transferrin with normal serum iron levels.
+|}
+
+These examples demonstrate that to properly understand a value for TIBC, one also must know the serum iron, the percent transferrin saturation, and the individual clinical situation.
+
+==Usual values==
+[[File:Blood values sorted by mass and molar concentration.png|thumb|450px|[[Reference ranges for blood tests]], comparing blood content of iron and related compounds (shown in brown and orange) with other constituents.]]
+
+Normal [[Reference_ranges_for_blood_tests#Electrolytes_and_Metabolites|reference range]]s are:
+* [[Serum iron]]: Male 65–177 μg/dL (11.6–31.7 μmol/L); Female 50–170 μg/dL  (9.0–30.4 μmol/L)
+* TIBC: 250–370 μg/dL  (45-66 μmol/L)<ref name="HarrisonPrinciples">Harrison's Principles of Internal Medicine. 17th Edition (2008). Pg. 2432 (Table 351-2)</ref>
+* [[Transferrin saturation]]: Male 20–50%; Female 15–50%
+* Serum ferritin: Male 20-250 μg/L, Female 15-150 μg/L<ref name="HarrisonPrinciples" />
+
+μg/dL = micrograms per deciliter; μmol/L = micromoles per litre.
+
+Laboratories often use different units and "normal" may vary by population and the lab techniques used. Look at the individual laboratory [[reference values]] to interpret a specific test (for instance, your own).
+
+==References==
+{{reflist|2}}
+
+{{Blood tests}}
+
+[[Category:Blood tests]]
+[[Category:Iron metabolism]]

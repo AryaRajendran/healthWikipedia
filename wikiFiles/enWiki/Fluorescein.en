@@ -1,0 +1,271 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 461101846
+| ImageFile = Fluorescein 2.svg 
+| ImageAlt = Skeletal formula
+| ImageFile1 = Fluorescein-3D-balls.png
+| ImageAlt1 = Ball-and-stick model
+| ImageFile2 = Fluorescein-sample.jpg 
+| ImageAlt2 = Sample of dark red powder
+| IUPACName = 
+| OtherNames = Fluorescein, resorcinolphthalein, C.I. 45350, solvent yellow 94, D & C yellow no. 7, angiofluor, Japan yellow 201, soap yellow
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 15968
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = TPY09G7XIR
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01261
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 177756
+| InChI = 1/C20H12O5/c21-11-5-7-15-17(9-11)24-18-10-12(22)6-8-16(18)20(15)14-4-2-1-3-13(14)19(23)25-20/h1-10,21-22H
+| InChIKey = GNBHRKFJIUUOQI-UHFFFAOYAZ
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H12O5/c21-11-5-7-15-17(9-11)24-18-10-12(22)6-8-16(18)20(15)14-4-2-1-3-13(14)19(23)25-20/h1-10,21-22H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GNBHRKFJIUUOQI-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 2321-07-5
+|   EINECS = 219-031-8
+|   PubChem = 16850
+|   DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00693
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31624
+| SMILES = c1ccc2c(c1)C(=O)OC23c4ccc(cc4Oc5c3ccc(c5)O)O
+|   MeSHName = Fluorescein
+  }}
+| Section2 = {{Chembox Properties
+|   C = 20
+|   H = 12
+|   O = 5
+|   Appearance = 
+|   Density = 1.602 g/mL
+|   MeltingPtCL = 314
+|   MeltingPtCH = 316
+|   BoilingPt = 
+|   Solubility = Slightly
+  }}
+| Section3 = {{Chembox Hazards
+|   MainHazards = 
+|   FlashPt = 
+|   RPhrases = 
+|   SPhrases = {{S26}} {{S36}}
+|   Autoignition = 
+  }}
+}}
+
+'''Fluorescein''' is a synthetic [[organic compound]] available as a dark orange/red powder soluble in water and alcohol. It is widely used as a [[fluorescent]] [[Flow tracer|tracer]] for many applications.
+
+Fluorescein is a [[fluorophore]] commonly used in [[microscopy]], in a type of [[dye laser]] as the [[gain medium]], in [[forensics]] and [[serology]] to detect latent blood stains, and in [[dye tracing]]. Fluorescein has an [[Absorption (optics)|absorption]] maximum at 494&nbsp;nm and [[Fluorescence|emission]] maximum of 521&nbsp;nm (in water). The major derivatives are fluorescein [[isothiocyanate]] ([[Fluorescein isothiocyanate|FITC]]) and, in [[oligonucleotide synthesis]], [[fluorescein amidite|6-FAM phosphoramidite]].
+
+Fluorescein also has an [[isosbestic point]] (equal absorption for all [[pH|pH values]]) at 460&nbsp;nm. Fluorescein is also known as a color additive ([[Federal Food, Drug, and Cosmetic Act|D&C]] Yellow no. 7).  The disodium salt form of fluorescein is known as '''uranine''' or [[Federal Food, Drug, and Cosmetic Act|D&C]] Yellow no. 8.
+
+The color of its aqueous solution varies from green to orange as a function of the way it is observed: by reflection or by transmission, as it can be noticed in [[spirit level|bubble levels]] in which fluorescein is added as a [[colorant]] to the [[alcohol]] filling the tube to increase the visibility of the air bubble and the precision of the instrument. More concentrated solutions of fluorescein can even appear red.
+
+==Chemical and physical properties==
+[[Image:Florescein.jpg|thumb|left|Fluorescein under [[Ultraviolet|UV]] illumination]]
+[[File:Fluorescein spectra.jpg|thumb|right|380px|Absorption and emission spectra of fluorescein]]
+
+The fluorescence of this molecule is very intense, and excitation occurs at 494 [[Nanometre|nm]] and emission at 521&nbsp;nm.  
+
+Fluorescein has a [[Acid dissociation constant|pK<sub>a</sub>]] of 6.4, and its ionization equilibrium leads to pH-dependent [[Absorption (optics)|absorption]] and [[Fluorescence|emission]] over the range of 5 to 9. Also, the fluorescence lifetimes of the protonated and deprotonated forms of fluorescein are approximately 3 and 4 ns, which allows for pH determination from nonintensity based measurements. The lifetimes can be recovered using [[time-correlated single photon counting]] or phase-modulation [[fluorimetry]].
+{{clear-left}}
+
+==Derivatives==
+[[Image:FITC FAM.png|thumb|left|400px|Fluorescein isothiocyanate and 6-FAM phosphoramidite]]
+There are many fluorescein derivatives. For example, [[fluorescein isothiocyanate]] '''1''', often abbreviated as FITC, is the original fluorescein molecule functionalized with an [[isothiocyanate]] group ('''-N=C=S'''), replacing a [[hydrogen]] atom on the bottom ring of the structure. This derivative is reactive towards primary [[amine]] groups of biologically relevant compounds including intracellular proteins to form a thiourea linkage.  A [[succinimidyl ester]] functional group attached to the fluorescein core, creating [[NHS-fluorescein]], forms another common amine-reactive derivative, yielding more stable amide adducts. [[Pentafluorophenyl esters]] (PFP) and [[tetrafluorophenyl esters]] (TFP) are other useful reagents. In [[oligonucleotide synthesis]], several phosphoramidite reagents containing protected fluorescein, ''e.g.'' [[fluorescein amidite|6-FAM phosphoramidite]] '''2''',<ref>Brush, C. K. Fluorescein Labelled Phosphoramidites. US Patent 5,583,236. [http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=15&f=G&l=50&co1=AND&d=PTXT&s1=5,583,236&OS=5,583,236&RS=5,583,236]</ref> are widely used for the preparation of fluorescein-labeled [[oligonucleotide]]s.
+
+Other green dyes include Oregon Green, Tokyo Green, SNAFL, and carboxynaphthofluorescein. These dyes, along with newer [[fluorophore]]s such as [[Alexa (fluor)|Alexa 488]], [[Fluoprobes|FluoProbes 488]] and [[DyLight Fluor|DyLight 488]], have been tailored for various chemical and biological applications where higher [[Photobleaching|photostability]], different spectral characteristics, or different attachment groups are needed.
+{{clear-left}}
+
+==Synthesis==
+Fluorescein was first synthesized by [[Adolf von Baeyer]] in 1871. It can be prepared from [[phthalic anhydride]] and [[resorcinol]] in the presence of [[zinc chloride]] via the [[Friedel-Crafts reaction]].
+[[Image:ZnCl2 fluorescein.png|center|500px]]
+
+A second method to prepare fluorescein uses [[methanesulfonic acid]] as a Brønsted acid catalyst. This route has a high yield under milder conditions.<ref>Sun, W. C.; Gee, K. R.; Klaubert, D. H.; Haugland, R. P., Synthesis of Fluorinated Fluoresceins. Journal of Organic Chemistry 1997, 62, (19), 6469-6475.</ref><ref>{{cite journal | doi = 10.1055/s-2004-829194 | title = Preparation of 5- and 6-Carboxyfluorescein | year = 2004 | last1 = Burgess | first1 = Kevin | last2 = Ueno | first2 = Yuichiro | last3 = Jiao | first3 = Guan-Sheng | journal = Synthesis | volume = 2004 | issue = 15 | pages = 2591–2593}}</ref>
+
+==Applications==
+===Biochemical research===
+In cellular biology, the [[isothiocyanate]] derivative of fluorescein is often used to label and track [[cell (biology)|cells]] in [[fluorescence microscopy]] applications (for example, [[flow cytometry]]).  Additional biologically active molecules (such as [[antibody|antibodies]]) may also be attached to fluorescein, allowing biologists to target the fluorophore to specific proteins or structures within cells.  This application is common in [[yeast display]].
+
+Fluorescein can also be conjugated to [[nucleoside triphosphate]]s and incorporated into a [[hybridization probe|probe]] enzymatically for [[in situ hybridisation]]. The use of fluorescein amidite shown above allows one to [[oligonucleotide synthesis|synthesize]] labeled [[oligonucleotide]]s for the same purpose. Yet another technique termed [[molecular beacon]]s makes use of synthetic fluorescein-labeled oligonucleotides.  Fluorescein-labelled probes can be imaged using [[fluorescent in situ hybridization|FISH]], or targeted by [[antibodies]] using [[immunohistochemistry]].  The latter is a common alternative to [[digoxigenin]], and the two are used together for labelling two genes in one sample.<ref>{{cite journal | author = Noga E. J., Udomkusonsri, P. | year = 2002 | title = Fluorescein: A Rapid, Sensitive, Nonlethal Method for Detecting Skin Ulceration in Fish | journal = Vet Pathol | volume = 39 | issue = 6| pages = 726–731(6) | pmid = 12450204  | doi = 10.1354/vp.39-6-726| url = http://www.vetpathology.org/cgi/reprint/39/6/726.pdf | accessdate = 2007-07-16}}</ref>
+
+===Health care applications===
+[[Image:Fluorescin in dropper.jpg|thumb|Fluorescein drops being inserted for an eye examination]]
+"Fluorescein sodium", the sodium salt of fluorescein, is used extensively as a diagnostic tool in the field of [[ophthalmology]] and [[optometry]], where topical fluorescein is used in the diagnosis of [[corneal abrasion]]s, [[corneal ulcer]]s and [[herpetic corneal infection]]s.  It is also used in [[rigid gas permeable]] contact lens fitting to evaluate the tear layer under the lens. It is available as sterile single-use sachets containing lint-free paper applicators soaked in fluorescein sodium.<ref>{{cite journal | pmc = 1831125 | title = New Drugs |  journal = [[Can Med Assoc J]] | year = 1959 | volume = 80 | pages = 997–998 | pmid=20325960 | issue = 12}}</ref>
+ 
+Intravenous or oral fluorescein is used in [[fluorescein angiography]] in research and to diagnose and categorize vascular disorders in e.g. legs, including retinal disease [[macular degeneration]], [[diabetic retinopathy]], inflammatory intraocular conditions, and intraocular [[tumor]]s, and, increasingly, during surgery for [[brain tumor]]s.
+
+===Air Sea Rescue===
+[[Image:Gemini 4 Recovery with Green Marker Dye - GPN-2000-001409.jpg|thumb|The [[Gemini 4]] spacecraft releases dye into the water, to aid location after [[splashdown (spacecraft landing)|splashdown]], June 1965]]
+During World War 2, German aircrew carried small containers of fluorescein. In the event of parachuting into the sea after being shot down, the dye would be released into the water. This produced a vivid marking that could be seen from the air over long distances and aided the [[Air-sea rescue]] of the downed crew. This was later adopted by other air forces.
+
+===Uses in river systems===
+One of its more recognizable uses was in the [[Chicago River]], where fluorescein was the first substance used to dye the river green on [[St. Patrick's Day]] in 1962. In 1966, environmentalists forced a change to a vegetable-based dye to protect local wildlife.<ref>http://www.greenchicagoriver.com/story.html</ref> 
+
+Other uses of fluorescein include using it as a water-soluble dye added to [[rainwater]] in environmental testing simulations to aid in locating and analyzing any water leaks, and in Australia and New Zealand as a [[methylated spirit]] dye.
+
+===Oilfield application===
+Fluorescein dye solutions, typically 15% active, are commonly used as an aid to leak detection during [[hydrostatic test]]ing of [[Subsea (technology)|subsea]] [[petroleum|oil and gas]] [[pipeline transport|pipelines]] and other subsea infrastructure. Leaks can be detected by divers carrying ultraviolet lights.
+
+==Safety==
+[[File:Fluorescein.jpg|thumb|right|Fluorescein under ultraviolet light]]
+Topical, oral, and intravenous use of fluorescein can cause [[Adverse effect (medicine)|adverse reaction]]s, including [[nausea]], [[vomiting]], [[urticaria|hives]], [[acute (medicine)|acute]] [[hypotension]], [[anaphylaxis]] and related [[anaphylaxis|anaphylactoid reaction]],<ref>The Diagnosis and Management of Anaphylaxis – XXI. Anaphylactoid reactions to fluorescein.
+J Allergy Clin Immunol 1998;101:S465-528. [http://www.jcaai.org/PP/anaph_21_ana_reacs.asp Free full text];  see also [http://www.guideline.gov/summary/summary.aspx?ss=15&doc_id=6887&nbr=4211 The diagnosis and management of anaphylaxis: an updated practice parameter.] from the National Guideline Clearinghouse.</ref> causing [[cardiac arrest]]<ref name="pmid8952662">{{cite journal
+| author = el Harrar N, Idali B, Moutaouakkil S, el Belhadji M, Zaghloul K, Amraoui A, Benaguida M
+| title = [Anaphylactic shock caused by application of fluorescein on the ocular conjunctiva]
+| language = French
+| journal = Presse Med
+| volume = 25
+| issue = 32
+| pages = 1546–7
+| year = 1996
+| pmid = 8952662
+| doi = 
+| issn = 
+}}</ref> and sudden death due to [[anaphylactic shock]].<ref name="pmid10356782">{{cite journal
+| author = Fineschi V, Monasterolo G, Rosi R, Turillazzi E
+| title = Fatal anaphylactic shock during a fluorescein angiography
+| journal = Forensic Sci. Int.
+| volume = 100
+| issue = 1–2
+| pages = 137–42
+| year = 1999
+| pmid = 10356782
+| doi = 10.1016/S0379-0738(98)00205-9 
+}}</ref><ref name="pmid15296251">{{cite journal
+| author = Hitosugi M, Omura K, Yokoyama T, Kawato H, Motozawa Y, Nagai T, Tokudome S
+| title = An autopsy case of fatal anaphylactic shock following fluorescein angiography: a case report
+| journal = Med Sci Law
+| volume = 44
+| issue = 3
+| pages = 264–5
+| year = 2004
+| pmid = 15296251
+| doi = 10.1258/rsmmsl.44.3.264| issn = 
+}}</ref>
+
+The most common adverse reaction is nausea, due to a difference in the pH from the body and the pH of the sodium fluorescein dye;  a number of other factors,{{specify|date=December 2010}} however, are considered contributors as well.{{Citation needed|date=December 2007}}  The nausea usually is transient and subsides quickly. [[Hives]] can range from a minor annoyance to severe, and a single dose of [[antihistamine]] may give complete relief.  Anaphylactic shock and subsequent cardiac arrest and sudden death are very rare, but because they occur within minutes, a health care provider who uses fluorescein should be prepared to perform emergency resuscitation.
+
+Intravenous use has the most reported adverse reactions, including sudden death, but this may reflect greater use rather than greater risk.  Both oral and topical uses have been reported to cause anaphylaxis,<ref name="pmid3195657">{{cite journal
+| author = Kinsella FP, Mooney DJ
+| title = Anaphylaxis following oral fluorescein angiography
+| journal = Am. J. Ophthalmol.
+| volume = 106
+| issue = 6
+| pages = 745–6
+| year = 1988
+| pmid = 3195657
+| doi = 
+| issn = 
+}}</ref><ref name="pmid1882930">{{cite journal
+| author = Gómez-Ulla F, Gutiérrez C, Seoane I
+| title = Severe anaphylactic reaction to orally administered fluorescein
+| journal = Am. J. Ophthalmol.
+| volume = 112
+| issue = 1
+| pages = 94
+| year = 1991
+| pmid = 1882930
+| doi = 
+| issn = 
+}}</ref> including one case of anaphylaxis with cardiac arrest ([[Cardiopulmonary resuscitation|resuscitated]]) following topical use in an eye drop.<ref name="pmid8952662"/> Reported rates of adverse reactions vary from 1% to 6%.<ref name="pmid16451256">{{cite journal
+| author = Kwan AS, Barry C, McAllister IL, Constable I
+| title = Fluorescein angiography and adverse drug reactions revisited: the Lions Eye experience
+| journal = Clin. Experiment. Ophthalmol.
+| volume = 34
+| issue = 1
+| pages = 33–8
+| year = 2006
+| pmid = 16451256
+| doi = 10.1111/j.1442-9071.2006.01136.x 
+}}</ref><ref name="pmid7930354">{{cite journal
+| author = Jennings BJ, Mathews DE
+| title = Adverse reactions during retinal fluorescein angiography
+| journal = J Am Optom Assoc
+| volume = 65
+| issue = 7
+| pages = 465–71
+| year = 1994
+| pmid = 7930354
+| doi = 
+| issn = 
+}}</ref><ref name="pmid1891225">{{cite journal
+| author = Kwiterovich KA, Maguire MG, Murphy RP, Schachat AP, Bressler NM, Bressler SB, Fine SL
+| title = Frequency of adverse systemic reactions after fluorescein angiography. Results of a prospective study
+| journal = Ophthalmology
+| volume = 98
+| issue = 7
+| pages = 1139–42
+| year = 1991
+| pmid = 1891225
+| doi = 
+| issn = 
+}}</ref><ref name="pmid8644545">{{cite journal
+| author = Matsuura M, Ando F, Fukumoto K, Kyogane I, Torii Y, Matsuura M
+| title = [Usefulness of the prick test for anaphylactoid reaction in intravenous fluorescein administration]
+| language = Japanese
+| journal = Nippon Ganka Gakkai Zasshi
+| volume = 100
+| issue = 4
+| pages = 313–7
+| year = 1996
+| pmid = 8644545
+| doi = 
+| issn = 
+}}</ref> The higher rates may reflect study populations that include a higher percentage of persons with prior adverse reactions.  The risk of an adverse reaction is 25 times higher if the person has had a prior adverse reaction.<ref name="pmid1891225"/>  The risk can be reduced with prior ([[prophylaxis|prophylactic]]) use of [[antihistamine]]s<ref name="pmid7257056">{{cite journal
+| author = Ellis PP, Schoenberger M, Rendi MA
+| title = Antihistamines as prophylaxis against side reactions to intravenous fluorescein
+| journal = Trans Am Ophthalmol Soc
+| volume = 78
+| issue = 
+| pages = 190–205
+| year = 1980
+| pmid = 7257056
+| doi = 
+| issn =
+| pmc = 1312139 
+}}</ref> 
+and prompt emergency management of any ensuing anaphylaxis.<ref name="pmid17698436">{{cite journal
+| author = Yang CS, Sung CS, Lee FL, Hsu WM
+| title = Management of anaphylactic shock during intravenous fluorescein angiography at an outpatient clinic
+| journal = J Chin Med Assoc
+| volume = 70
+| issue = 8
+| pages = 348–9
+| year = 2007
+| pmid = 17698436
+| doi = 10.1016/S1726-4901(08)70017-0 
+}}</ref>  A simple prick test may help to identify persons at greatest risk of adverse reaction.<ref name="pmid8644545"/>
+
+==See also==
+*Chemical derivatives of fluorescein:
+**[[Eosin]]
+**[[Carboxyfluorescein]]
+**[[Fluorescein isothiocyanate]] (FITC)
+**[[Fluorescein amidite]] (FAM)
+**[[Merbromin]]
+**[[Erythrosine]]
+**[[Rose Bengal]]
+**[[DyLight Fluor]], a product line of fluorescent dyes
+*[[Fluorescein diacetate hydrolysis]], a biochemistry laboratory test
+*Other dyes:
+**[[Methylene blue]]
+**[[Laser dye]]s
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://omlc.ogi.edu/spectra/PhotochemCAD/html/fluorescein(EtOH).html Absorption and Emission Spectra of Fluorescein in Ethanol] and [http://omlc.ogi.edu/spectra/PhotochemCAD/html/fluorescein-dibase.html Basic Ethanol] at [[OGI School of Science and Engineering]]
+*[http://probes.invitrogen.com/handbook/figures/0571.html Fluorescein Ionization Equilibria] at [[Invitrogen]]
+*[http://physchem.ox.ac.uk/MSDS/FL/fluorescein.html MSDS at Oxford University]
+*[http://omlc.ogi.edu/spectra/PhotochemCAD/html/fluorescein-dibase.html Absorption spectra and fluorescence emission spectra]
+
+[[Category:Fluorone dyes]]
+[[Category:Staining dyes]]
+[[Category:Fluorescent dyes]]
+[[Category:Laser gain media]]
+[[Category:Phenols]]
+[[Category:Benzoic acids]]

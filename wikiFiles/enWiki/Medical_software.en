@@ -1,0 +1,28 @@
+{{Multiple issues|
+{{expert-subject|date=April 2012}}
+{{refimprove|date=March 2008}}
+}}
+
+[[File:Medical Software Logo, by Harry Gouvas.JPG|thumb|Medical Software Logo, by Harry Gouvas]]
+
+The word '''medical software''' is an undefined term which can designate any software item or system used within a medical context (e.g. [[medical device]]s that monitor or control patients are predominantly controlled by [[software]]).
+
+Medical devices are frequently regulated and must comply with local and regional laws.<ref>http://en.wikipedia.org/wiki/Category:Regulation_of_medical_devices</ref> In the United States (US), as of the mid-1980s, the [[Food and Drug Administration|Food and Drug Administration (FDA)]] has increased its involvement in reviewing the development of medical device software, due to patient overdoses caused by coding errors in a radiation therapy device ([[Therac-25]]).<ref>{{cite web|title=A Formal Methods-based verification approach to medical device software analysis | last=Jones| first=Paul| publisher= Embedded Systems Design | date=2010-02-09 | url=http://embeddeddsp.embedded.com/design/opensource/222700533 | accessdate=2010-09-09}}</ref> The FDA is now focused on regulatory oversight in the medical device [[software development process]] and system-level testing.<ref>{{cite web|title=Infusion Pump Software Safety Research at FDA | last=FDA| first= | publisher = FDA | date=2010-09-08 | url=http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/GeneralHospitalDevicesandSupplies/InfusionPumps/ucm202511.htm | accessdate=2010-09-09}}</ref> Between 1995 and 2005, [[IEC 62304]] became the benchmark standard for the development of medical software in both the EU and the US.<ref>{{cite web|title=General Principles of Software Validation; Final Guidance for Industry and FDA Staff|url=http://www.fda.gov/downloads/RegulatoryInformation/Guidances/ucm126955.pdf|work=General Principles of Software Validation; Final Guidance for Industry and FDA Staff|publisher=Center for Devices and Radiological Health|accessdate=2 June 2012|author=U.S. Department Of Health and Human Services, Food and Drug Administration, Center for Devices and Radiological Health and Center for Biologics Evaluation and Research|date=11|month=January|year=2002}}</ref>
+
+Due to the broad scope covered by this term, manifold classifications can be proposed for various medical software, based for instance on their technical nature (embedded in a device or standalone), on their level of safety (from the most trivial to the most safety-critical ones), or on their primarily function (treatment, education, diagnostics, data management).
+
+Manifold examples can be found in the links below.
+
+== See also ==
+* [[Medical imaging]]
+* [[Telehealth]]
+* [[Health information technology]]
+* [[Radiology information system]]
+* [[Clinical decision support system]]
+
+==References==
+{{Reflist|2}}
+
+{{DEFAULTSORT:Medical Software}}
+[[Category:Medical software| ]]
+[[Category:Medical technology]]

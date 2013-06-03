@@ -1,0 +1,44 @@
+<div style="float:right;border:solid 10px white;">{{Renal worksheet}}</div>
+In the [[renal physiology|physiology]] of the [[kidney]], '''renal blood flow''' ('''RBF''') is the volume of [[blood]] delivered to the kidneys per unit time. In humans, the kidneys together receive roughly 22% of [[cardiac output]], amounting to 1.1 L/min in a 70-kg adult male. RBF is closely related to '''renal plasma flow''' ('''RPF'''), which is the volume of [[blood plasma]] delivered to the kidneys per unit time.
+
+While the terms generally apply to [[artery|arterial]] blood delivered to the kidneys, both RBF and RPF can be used to quantify the volume of [[vein|venous]] blood exiting the kidneys per unit time. In this context, the terms are commonly given subscripts to refer to arterial or venous blood or plasma flow, as in RBF<sub>a</sub>, RBF<sub>v</sub>, RPF<sub>a</sub>, and RPF<sub>v</sub>. Physiologically, however, the differences in these values are negligible so that arterial flow and venous flow are often assumed equal.
+
+==Renal plasma flow==
+Renal plasma flow is the volume of [[blood plasma|plasma]] that reaches the kidneys per unit time. Renal plasma flow is given by the [[Fick principle]]: 
+
+:<math>RPF = \frac{U_x V}{P_a - P_v}</math>
+
+This is essentially a [[conservation of mass]] equation which balances the renal inputs (the [[renal artery]]) and the renal outputs (the [[renal vein]] and [[ureter]]). Put simply, a non-metabolizable solute entering the kidney via the renal artery has two points of exit, the renal vein and the ureter. The mass entering through the artery per unit time must equal the mass exiting through the vein and ureter per unit time:
+
+:<math>RPF_a \times P_a = RPF_v \times P_v + U_x \times V</math>
+
+where ''P<sub>a</sub>'' is the arterial plasma concentration of the substance, ''P<sub>v</sub>'' is its venous plasma concentration, ''U<sub>x</sub>'' is its [[urine]] concentration, and ''V'' is the urine flow rate. The product of flow and concentration gives mass per unit time.
+
+As mentioned previously, the difference between arterial and venous blood flow is negligible, so ''RPF<sub>a</sub>'' is assumed to be equal to ''RPF<sub>v</sub>'', thus
+
+:<math>RPF \times P_a = RPF \times P_v + U_x V</math>
+
+Rearranging yields the previous equation for RPF:
+
+:<math>RPF = \frac{U_x V}{P_a - P_v}</math>
+
+==Measuring==
+{{main|PAH clearance}}
+Values of ''P<sub>v</sub>'' are difficult to obtain in patients. In practice, [[PAH clearance]] is used instead to calculate the [[effective renal plasma flow]] (eRPF). PAH ([[para-aminohippurate|''para''-aminohippurate]]) is freely filtered and it is not reabsorbed within the nephron. Although freely filtered not all PAH crosses into the primary urine within Bowman's capsule. PAH remaining in the vasa recta or peritubular capillaries is taken up actively by epithelial cells of the proximal convoluted tubule and secreted into the tubular lumen. In this way PAH, at low doses, is completely cleared from the blood during a single pass through the kidney. Accordingly, the venous plasma concentration of PAH is approximately zero. Setting ''P<sub>v</sub>'' to zero in the equation for RPF yields
+
+:<math>eRPF = \frac{U_x}{P_a} V</math>
+
+which is the equation for [[renal clearance]]. For PAH, this is commonly represented as
+
+:<math>eRPF = \frac{U_{PAH}}{P_{PAH}} V</math>
+
+Since the venous plasma concentration of PAH is not exactly zero (in fact, it is usually 10% of the PAH arterial plasma concentration), eRPF usually underestimates RPF by approximately 10%. This margin of error is generally acceptable considering the ease with which PAH infusion allows eRPF to be measured.
+
+==References==
+* {{cite book | author=Boron, Walter F., Boulpaep, Emile L. | year=2005 | title=Medical Physiology: A Cellular and Molecular Approach | publisher=Elsevier/Saunders | location=Philadelphia, PA | isbn=1-4160-2328-3}}
+* {{cite book | author=Eaton, Douglas C., Pooler, John P. | year=2004 | title=Vander's Renal Physiology | edition=8th edition | publisher=Lange Medical Books/McGraw-Hill | isbn=0-07-135728-9}}
+
+{{renal physiology}}
+
+{{DEFAULTSORT:Renal Blood Flow}}
+[[Category:Renal physiology]]

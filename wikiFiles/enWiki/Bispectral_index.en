@@ -1,0 +1,57 @@
+{{Expert-subject|medicine|article|date=November 2008}}
+{{Refimprove|date=April 2007}}
+[[Image:BIS JPN.jpg|thumb|right|BIS monitor.]]
+'''Bispectral index''' ('''BIS''') is one of several technologies which purport to monitor depth of anesthesia. BIS monitors are intended to replace or supplement [[Guedel's classification]] system for determining depth of anesthesia. Titrating [[general anaesthetic|anesthetic]] agents to a specific bispectral index during general anesthesia in adults (and children over 1 year old) allows the [[Anesthesiologist|anesthetist]] to adjust the amount of anesthetic agent to the needs of the patient, possibly resulting in a more rapid emergence from anesthesia. Use of the BIS monitor is thought to reduce the incidence of [[Anesthesia awareness|intraoperative awareness]] in surgeries. The algorithm is proprietary information, which means that it is kept secret by the company that developed it.
+
+The reliability of BIS has been questioned. According to a 2013 article in ''[[The Atlantic]]'', “Today, the BIS monitor has become the most controversial medical device in anesthesiology, if not all of surgery.”<ref>Lang, Joshua (2013), [http://www.theatlantic.com/magazine/archive/2013/01/awakening/309188/?single_page=true “Awakening”], ''[[The Atlantic]]'', January/February issue.</ref>
+
+==History==
+'''Bispectral index''' ('''BIS''') was introduced by Aspect Medical Systems, Inc. in 1994<ref>Sigl JC, Chamoun NG. (1994) "An introduction to bispectral analysis for the electroencephalogram." Journal of Clinical Monitoring. 1994 Nov;10(6):392-404.</ref> as a novel measure of the level of [[consciousness]] by algorithmic analysis of a patient's [[Electroencephalography|electroencephalogram]] during [[general anesthesia]]. This is used in conjunction with other physiologic monitoring such as [[electromyography]] to estimate the depth of anesthesia in order to minimize the possibility of intraoperative awareness. The US [[Food and Drug Administration]] (FDA) cleared BIS monitoring in 1996 for assessing the hypnotic effects of general anesthetics and [[sedative]]s. The FDA further stated in 2003 that "...A reduction in awareness provides a public health benefit, in that BIS technology can now provide anesthesiologists with a way to reduce this often debilitating, yet preventable medical error".  Aspect Medical was acquired by Covidien in 2009.<ref>http://investor.covidien.com/phoenix.zhtml?c=207592&p=irol-newsArticle&ID=1352467&highlight=</ref>
+
+==Calculation of BIS==
+[[File:BIS Monitor-Burst Suppression.JPG|220px|thumb|right|Bispectral index monitor indicating a nearly isoelectric pattern of [[Electroencephalography|electroencephalographic]] activity.]]
+
+The bispectral index is a statistically based, empirically derived complex parameter. It is a weighted sum of electroencephalographic subparameters, including a [[time domain]], [[frequency domain]], and high order spectral subparameters.<ref>{{cite journal
+|author=H.L. Kaul and Neerja Bharti
+|title=Monitoring depth of anaesthesia
+|journal=Indian J Anaesth
+|volume=46
+|issue=4
+|pages=323–332
+|year=2002
+|url=http://medind.nic.in/iad/t02/i4/iadt02i4p323.pdf
+|accessdate=3 August 2010}}</ref> The BIS monitor provides a single [[dimensionless]] number, which ranges from 0 (equivalent to EEG silence) to 100 (equivalent to fully awake and alert). A BIS value between 40 and 60 indicates an appropriate level for [[general anesthesia]], as recommended by the manufacturer. The BIS monitor thus gives the anesthetist an indication of how "deep" under anesthesia the patient is.<ref>A & A May 2000 vol. 90 no. 5 1114-1117</ref> The essence of BIS is to take a complex signal (the EEG), analyse it, and process the result into a single number. Several other systems claim to be able to perform the same thing. This calculation is very computer-intensive. The recent availability of cheap, fast [[computer processor]]s has enabled great advances in this field. When a subject is awake, the cerebral cortex is very active, and the EEG reflects vigorous activity. When asleep or under general anesthesia, the pattern of activity changes. Overall, there is a change from higher-frequency signals to lower-frequency signals (which can be shown by [[Fourier analysis]]), and there is a tendency for signal correlation from different parts of the cortex to become more random.
+
+The developers of the BIS monitor collected many (around 1000) EEG records from healthy adult volunteers at specific clinically important end points and [[hypnotic]] [[drug]] concentrations.{{Citation needed|date=April 2007}} They then fitted bispectral and power spectral variables in a multivariate statistical model to produce a BIS number.{{Citation needed|date=April 2007}} As with other types of EEG analysis, the calculation algorithm that the BIS monitor uses is proprietary. Therefore, although the principles of BIS and other monitors are well known, the exact method in each case is not.
+
+==BIS relevance==
+The BIS is an electroencephalogram-derived multivariant scale that correlates with the metabolic ratio of glucose (Akire M., ''Anesthesiology'' 1998). From this metabolic activity the brain obtains its functionality, the ability to capture information from outside and inside the body and integrate that information into conscious perception, with the ability to remember it later. Both loss of consciousness and awakening from anesthesia are correlated with this scale (Flashion R, et al. ''Anesthesiology'' 97). The efficacy of BIS index monitoring is not without controversy.<ref>Rosow, C, Manberg, PJ (2001) Bispectral index monitoring. Anesthesiol Clin North America 19(4): 947-66, xi.</ref> Some controlled studies have found that using the BIS reduced the incidence of memory but this was not confirmed in several very large multicenter studies on awareness.<ref>{{Cite web |url=http://www.anesthesia-analgesia.org/cgi/content/full/100/4/1221
+|title=Use of BIS Monitoring Was Not Associated with a Reduced Incidence of Awareness
+|work=Anesthesia and Analgesia}}</ref><ref>{{cite journal |url=http://content.nejm.org/cgi/content/short/358/11/1097
+|title=Anesthesia Awareness and the Bispectral Index
+|journal=New England Journal of Medicine | pmid=18337600 |year=2008 |last1=Avidan |first1=MS |last2=Zhang |first2=L |last3=Burnside |first3=BA |last4=Finkel |first4=KJ |last5=Searleman |first5=AC |last6=Selvidge |first6=JA |last7=Saager |first7=L |last8=Turner |first8=MS |last9=Rao |first9=S |volume=358 |issue=11 |pages=1097–108 |doi=10.1056/NEJMoa0707361}}</ref> The ''Sociedad de Anestesiología Reanimación y Terapéutica del Dolor de Madrid'' recommends monitoring of anesthetic depth in accordance with literature-based evidence. BIS, however, is not explicitly endorsed. In fact, they cite an [[American Society of Anesthesiologists]] (ASA) statement saying that the decision for cerebral function monitoring should be made on an individual basis.<ref>{{Cite web
+|url=http://www.sarmadrid.org/html/enl/enlacesDoc.html#docSedar
+|title=Enlaces
+|work=SAR Madrid}}</ref> The bispectral index has not been proven to measure the level of consciousness, independently of the cause of reduced consciousness (whether this be drugs, metabolic disease, [[hypothermia]], head [[Physical trauma|trauma]], [[hypovolemia]], natural [[sleep]] and so on).{{Citation needed|date=April 2007}} Not all unconscious patients will have a low BIS value, although the general clinical state may be very different from one to the other, and the prognosis may also differ.{{Citation needed|date=April 2007}} The bispectral index is prone to artifacts. Its numbers cannot be relied upon in all situations, including brain death, circulatory arrest or hypothermia.<ref>Anesth Analg. 2004 Mar;98(3):706-7. Eur J Anaesthesiol. 2006 Jul;23(7):618-9. Resuscitation. 2006 May;69(2):207-12. Intensive Care Med. 2007 Jan;33(1):133-6</ref> A monitor of the [[Autonomic Nervous System]] (such as the [[ANSiscope]]) may be more appropriate for purposely assessing the reaction to noxious stimuli during surgery. However, a monitor of the [[central nervous system]] may be more appropriate for monitoring consciousness. After the publication of the ''B-Aware Trial'' (P. Myles, K. Leslie et al. ''Lancet'' 2004) BIS is suggested as a parameter that allows the anesthetist to reduce the risk of [[anesthesia awareness]] during surgery for a 'high risk' group.<ref>[http://bja.oxfordjournals.org/cgi/content/full/92/3/454 How low can we go?]</ref> However, this result was not reproduced by a recently published randomized control trial, the "B-Unaware Trial".<ref>http://content.nejm.org/cgi/content/abstract/358/11/1097</ref> In it, the use of BIS monitoring was not associated with a lower incidence of anesthesia awareness. In some cases, the BIS may underestimate the depth of anesthesia, leading the anesthetist to administer a higher than necessary dose of anesthetic agent(s). In such cases, the patient may be anesthetized to a lower BIS level than is necessary for the surgery or procedure—this is called "treating the BIS," and may result in a deeper level of anesthesia than required).{{Citation needed|date=April 2007}} The monitoring of EEG in ICU patients has been employed in one form or other for more than two decades. BIS monitoring is also being used during transport of critically ill patients in [[ambulance]]s, [[helicopter]]s and other vehicles. Some studies show a greater incidence of intraoperative awareness in children, when compared to adults.{{Citation needed|date=April 2007}} The correlation between bispectral index in children over one year and state of consciousness has already been proven, although in younger patients the monitor is unreliable because of the differences between immature infant EEG patterns and the adult EEG patterns that the BIS algorithm utilises.{{Citation needed|date=April 2007}} According to a 2013 article in ''[[The Atlantic]]'', “Today, the BIS monitor has become the most controversial medical device in anesthesiology, if not all of surgery.”<ref>Lang,''Op. cit''.</ref>
+
+==See also==
+* [[Anaesthetic machine]]
+* [[Entropy monitoring]]
+* [[Evoked potentials]]
+* [[Spectral edge frequency]]
+* [[Respiratory monitoring]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite journal|author=Grover VK, Bharti N|title=Measuring depth of anaesthesia - an overview on the currently available monitoring systems|journal=The Indian Anaesthetists’ Forum|volume=1|issue=1|pages=1–33|year=2008|issn=0973-0311|url=http://www.theiaforum.org/Article_Folder/measuring-depth-of-anaesthesia-available-monitoring-systems.pdf|accessdate=2011-01-02}}
+
+==External links==
+(Commercial interest publications)
+*[http://www.biseducation.com/ BIS Education] BIS Education
+*[http://www.biseducation.com/UploadedFiles/Assets/0000000012.pdf Monitoring Consciousness] Using the Bispectral Index During Anesthesia by Scott D. Kelley M.D. (PDF)
+
+{{DEFAULTSORT:Bispectral Index}}
+[[Category:Anesthesia]]
+[[Category:Anesthetic equipment]]

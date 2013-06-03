@@ -1,0 +1,132 @@
+In [[medicine]], the '''clearance''' is a measurement of the renal [[excretion]] ability. Although clearance may also involve other organs than the kidney, it is almost synonymous with '''renal clearance''' or '''renal plasma clearance'''. Each substance has a specific clearance that depends on its filtration characteristics. Clearance is a function of [[glomerular filtration]], secretion from the [[peritubular capillaries]] to the [[nephron]], and reabsorption from the [[nephron]] back to the [[peritubular capillaries]]. Clearance is constant in [[first-order kinetics]] because a constant fraction of the drug is eliminated per unit time, but it is variable in [[First-order_kinetics#Zeroth-order_reactions|zero-order kinetics]], because a constant amount of drug is eliminated per unit time.<ref>http://www.pharmacology2000.com/General/Pharmacokinetics/kinobj1.htm</ref><ref>Kaplan Step1 Pharmacology 2010, page 14</ref>
+
+==Definition==
+[[File:Physiology of Nephron.png|300px|thumb|right|Diagram showing the basic physiologic mechanisms of the kidney]]
+When referring to the function of the [[kidney]], clearance is considered to be the ''amount of liquid filtered out of the blood that gets processed by the [[kidney]]s'' or ''the amount of blood cleaned per time'' because it has the units of a [[volumetric flow rate]] [ [[volume]] / [[time]] ]. However, it does not refer to a real value; "the kidney does not completely remove a substance from the total renal plasma flow."<ref>{{cite journal |author=Seldin DW |title=The development of the clearance concept |journal=J. Nephrol. |volume=17 |issue=1 |pages=166–71 |year=2004 |pmid=15151274}} Available at: [http://www.sin-italy.org/jnonline/Vol17n1/166.html http://www.sin-italy.org/jnonline/Vol17n1/166.html]. Accessed on: Sept 2, 2007.</ref>  From a [[mass transfer]] perspective<ref>{{cite journal |author=Babb AL, Popovich RP, Christopher TG, Scribner BH |title=The genesis of the square meter-hour hypothesis |journal=Transactions - American Society for Artificial Internal Organs |volume=17 |issue= |pages=81–91 |year=1971 |pmid=5158139}}</ref> and [[physiology|physiologically]], volumetric blood flow (to the dialysis machine and/or kidney) is only one of several factors that determine blood concentration and removal of a substance from the body.  Other factors include the [[mass transfer coefficient]], dialysate flow and dialysate recirculation flow for hemodialysis, and the [[glomerular filtration rate]] and the [[nephron|tubular]] reabsorption rate, for the kidney.  A physiologic interpretation of clearance (at steady-state) is that clearance is ''a ratio of the mass generation and blood (or [[blood plasma|plasma]]) concentration''.
+
+Its definition follows from the [[differential equation]] that describes [[exponential decay]] and is used to model kidney function and [[hemodialysis]] machine function:
+
+<math>V \frac{dC}{dt} = -K \cdot C + \dot{m} \qquad (1)</math>
+
+Where:
+*<math>\dot{m}</math> is the mass generation rate of the substance - assumed to be a constant, i.e. not a function of time (equal to zero for foreign substances/drugs) [mmol/min] or [mol/s]
+*t is dialysis time or time since injection of the substance/drug [min] or [s]
+*V is the [[volume of distribution]] or total [[body water]] [L] or [m³]
+*K is the clearance [mL/min] or [m³/s]
+*C is the concentration [mmol/L] or [mol/m³] (in the [[USA]] often [mg/mL])
+From the above definitions it follows that <math>\frac{dC}{dt}</math> is the first [[derivative]] of concentration with respect to time, i.e. the change in concentration with time. 
+
+It is derived from a mass balance.
+
+Clearance of a substance is sometimes expressed as the inverse of the [[time constant]] that describes its removal rate from the body divided by its [[volume of distribution]] (or total [[body water]]).  
+
+In steady-state, it is defined as the mass generation rate of a substance (which equals the mass removal rate) divided by its [[concentration]] in the [[blood]].
+
+==Effect of plasma protein binding==
+For substances that exhibit substantial [[plasma protein binding]], clearance is generally defined as the total concentration (free + protein-bound) and not the free concentration.<ref name=Winter>Basic clinical pharmacokinetics, [http://books.google.dk/books?id=JIajn4ebtq0C&pg=PA32&lpg=PA32&dq=Plasma+Protein+Binding Page 32: Plasma protein binding]
+By Michael E. Winter
+Edition: 4, illustrated
+Published by Lippincott Williams & Wilkins, 2003
+ISBN 0-7817-4147-5, ISBN 978-0-7817-4147-7
+511 pages</ref>
+
+Most plasma substances have primarily their free concentrations regulated, which thus remains the same, so extensive protein binding increases total plasma concentration (free + protein-bound). This gives a decreased clearance than what would have been the case with no protein binding.<ref name=Winter/> However, the mass removal rate is the same,<ref name=Winter/> because it depends only on concentration of free substance, and is independent on plasma protein binding, even with the fact that plasma proteins increase in concentration in the distal [[Glomerulus|renal glomerulus]] as plasma is filtered into Bowman's capsule, because the relative increases in concentrations of substance-protein and non-occupied protein are equal and therefore give no net binding or dissociation of substances from plasma proteins, thus giving a constant plasma concentration of free substance throughout the glomerulus, which also would have been the case without any plasma protein binding.
+
+In other sites than the kidneys, however, where clearance is made by [[membrane transport protein]]s rather than filtration, extensive plasma protein binding may increase clearance by keeping concentration of free substance fairly constant throughout the capillary bed, inhibiting a decrease in clearance caused by decreased concentration of free substance through the capillary.
+
+==Derivation of equation==
+Equation ''1'' is derived from a [[mass balance]]:
+:<math>\Delta m_{body}=(-\dot m_{out}+ \dot m_{in} +\dot m_{gen.})\Delta t \qquad (2)</math>
+
+where: 
+*<math>\Delta t</math> is a period of time
+*<math>\Delta m_{body}</math> the change in mass of the toxin in the body during <math>\Delta t</math>
+*<math>\dot m_{in}</math> is the toxin intake rate
+*<math>\dot m_{out}</math> is the toxin removal rate
+*<math>\dot m_{gen.}</math> is the toxin generation rate
+
+In words, the above equation states:
+:''The change in the mass of a toxin within the body (<math>\Delta m</math>) during some time <math>\Delta t</math> is equal to the toxin intake plus the toxin generation minus the toxin removal.
+
+Since
+
+:<math>m_{body} = C \cdot V \qquad (3)</math>
+
+and
+
+:<math>\dot m_{out}=K \cdot C \qquad (4)</math>
+
+Equation A1 can be rewritten as:
+:<math>\Delta (C \cdot V)=(-K \cdot C+ \dot m_{in} +\dot m_{gen.})\Delta t \qquad (5)</math>
+
+If one lumps the ''in'' and ''gen.'' terms together, i.e. <math>\dot m=\dot m_{in} +\dot m_{gen.}</math> and divides by <math>\Delta t</math> the result is a [[difference equation]]:
+:<math>\frac{\Delta (C \cdot V)}{\Delta t} = -K \cdot C + \dot{m} \qquad(6)</math>
+
+If one applies the [[limit (mathematics)|limit]] <math>\Delta t \rightarrow 0</math> one obtains a differential equation:
+:<math>\frac{d(C \cdot V)}{dt}= -K \cdot C + \dot{m} \qquad(7)</math>
+
+Using the [[Product Rule]] this can be rewritten as:
+
+:<math>C \frac{dV}{dt}+V \frac{dC}{dt} = -K \cdot C + \dot{m} \qquad(8)</math>
+
+If one assumes that the volume change is not significant, i.e. <math>C \frac{dV}{dt}=0</math>, the result is Equation ''1'':
+
+:<math>V \frac{dC}{dt} = -K \cdot C + \dot{m} \qquad(1)</math>
+
+==Solution to the differential equation==
+The general solution of the above differential equation (''1'') is:
+
+<math>C = \frac{\dot{m}}{K} + (C_{o}-\frac{\dot{m}}{K}) e^{-\frac{K \cdot t}{V}} \qquad (9)</math><ref name=gotch1998>{{cite journal |author=Gotch FA |title=The current place of urea kinetic modelling with respect to different dialysis modalities |journal=Nephrol. Dial. Transplant. |volume=13 Suppl 6 |issue= 90006|pages=10–4 |year=1998 |pmid=9719197 |doi=10.1093/ndt/13.suppl_6.10}} [http://ndt.oxfordjournals.org/cgi/reprint/13/suppl_6/10 Full Text]</ref><ref name=gotch2000>{{cite journal |author=Gotch FA, Sargent JA, Keen ML |title=Whither goest Kt/V? |journal=Kidney Int. Suppl. |volume=76 |issue= |pages=S3–18 |year=2000 |pmid=10936795 |doi=10.1046/j.1523-1755.2000.07602.x}}</ref>
+
+Where:
+*C<sub>o</sub> is the concentration at the beginning of dialysis ''or'' the initial concentration of the substance/drug (after it has distributed) [mmol/L] or [mol/m³]
+*[[E (mathematical constant)|e]] is the base of the [[natural logarithm]]
+
+===Steady-state solution===
+The solution to the above differential equation (''9'') at time infinity (steady state) is:
+
+<math> C_{\infty} = \frac {\dot{m}}{K} \qquad (10a)</math>
+
+The above equation (''10a'') can be rewritten as:
+
+<math> K = \frac {\dot{m}}{C_{\infty}} \qquad (10b)</math>
+
+The above equation (''10b'') makes clear the relationship between mass removal and ''clearance''.  It states that (with a constant mass generation) the concentration and clearance vary [[inversely proportional|inversely]] with one another.  If applied to creatinine (i.e. [[creatinine clearance]]), it follows from the equation that if the [[serum creatinine]] doubles the clearance halves and that if the serum creatinine quadruples the clearance is quartered.
+
+==Measurement of renal clearance==
+Renal clearance can be measured with a timed collection of [[urine]] and an analysis of its composition with the aid of the following equation (which follows directly from the derivation of (''10b'')):
+
+<math>K = \frac {C_U \cdot Q}{C_B} \qquad (11)</math>
+
+Where:
+*K is the clearance [mL/min]
+*C<sub>U</sub> is the urine concentration [mmol/L] (in the USA often [mg/mL])
+*Q is the urine flow (volume/time) [mL/min] (often [mL/24 hours])
+*C<sub>B</sub> is the plasma concentration [mmol/L] (in the USA often [mg/mL])
+
+When the substance "C" is creatinine, an endogenous chemical that is excreted only by filtration, the calculated clearance is equivalent to the [[glomerular filtration rate]]. [[Inulin]] clearance is also used to estimate glomerular filtration rate. 
+
+'''Note''' - the above equation (''11'') is valid ''only'' for the steady-state condition.  If the substance being cleared is ''not'' at a constant plasma concentration (i.e. ''not'' at steady-state) ''K'' must be obtained from the (full) solution of the differential equation (''9'').
+
+==See also==
+*[[Table of medication secreted in kidney]]
+*[[Sieving coefficient]]
+*[[Creatinine clearance]]
+*[[Kt/V]]
+*[[Pharmacokinetics]]
+*[[Renal clearance ratio]]
+*[[Standardized Kt/V]]
+*[[Urea reduction ratio]]
+
+==References==
+{{Cleanup-link rot|date=February 2013}}
+{{reflist}}
+
+{{renal physiology}}
+{{Pharmacology}}
+
+[[Category:Nephrology]]
+[[Category:Pharmacokinetics]]
+[[Category:Pharmacology]]
+
+[[de:Clearance (Medizin)]]

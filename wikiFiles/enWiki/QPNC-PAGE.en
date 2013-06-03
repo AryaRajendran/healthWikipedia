@@ -1,0 +1,123 @@
+{{refimprove|date=April 2011}}
+'''QPNC-PAGE''', or '''quantitative preparative native continuous polyacrylamide gel electrophoresis''', is a high-resolution technique applied in [[biochemistry]] and [[bioinorganic chemistry]] to separate [[protein]]s by [[isoelectric point]]. This variant of [[gel electrophoresis]] is used by [[biologists]] to isolate active or [[native state|native]] [[metalloprotein]]s in [[biology|biological]] [[Sample (material)|sample]]s and to resolve properly and improperly [[protein folding|folded]] metal [[Cofactor (biochemistry)|cofactor]]-containing proteins or [[protein isoform]]s in complex protein [[mixture]]s.<ref>{{cite journal
+|journal=Electrophoresis
+|date=2008 Jun
+|volume=29
+|pages=2617–36
+|title=Preparative isolation of protein complexes and other bioparticles by elution from polyacrylamide gels
+|author=Seelert H, Krause F
+|doi=10.1002/elps.200800061
+|pmid=18494038
+|issue=12 }}
+</ref>
+
+==Electrophoresis buffer and device==
+
+[[File:Electophor Chamber.tif|thumb|255px|[[Electrophoresis]] chamber for preparative polyacrylamide gel electrophoresis ([[gel electrophoresis|PAGE]]). The upper electrophoresis buffer corresponds to the [[cathode]] buffer and the lower electrophoresis buffer to the [[anode]] buffer. The separated [[protein]]s are eluted in the [[elution]] chamber and isolated in fractions]]
+The QPNC-PAGE procedure is accomplished in a special [[electrophoresis]] chamber for [[separation process|separating]] [[zwitterions|charged]] [[biomolecule]]s. Due to the specific properties of the prepared [[gel]] and electrophoresis [[buffer solution]] (which is basic and contains [[Tris]]-[[HCl]] and NaN<sub>3</sub>), most proteins of a [[biological system]] are charged negatively in the solution, and will migrate from the [[cathode]] to the [[anode]] due to the [[electric field]] (see Figure ''Electrophoresis chamber'').<ref>{{cite journal
+|journal=Biochemical Journal
+|date=1996-09-15
+|volume=318
+|pages=889–96
+|title=A novel nickel-containing superoxide dismutase from Streptomyces spp
+|author=Youn HD, Kim EJ, Roe JH, Hah YC, Kang SO
+|url=http://www.biochemj.org/bj/318/0889/bj3180889.htm
+|doi=
+|pmid=8836134
+|pmc=1217701
+|issue=Pt 3 }} (primary source)
+</ref>
+
+Although the [[pH]] value (10.00) of the electrophoresis buffer does not correspond to a [[physiology|physiological]] pH value within a [[cell (biology)|cell]] or [[biological tissue|tissue]] type, the separated ring-shaped protein bands are [[elute]]d continuously into a physiological buffer solution (pH 8.00) and isolated in different fractions (see Figure ''Electrophoresis chamber''). The separation system, including the electrophoresis chamber and a [[Fraction (chemistry)|fraction]] collector, is cooled in a refrigerator.<ref>{{cite journal
+|journal=Analytical Letters
+|issn=0003-2719
+|year=2008
+|volume=41
+|pages=1773–84
+|title=Molybdenum speciation in raw phloem sap of castor bean
+|author=Fitri N, Kastenholz B, Buchari B, Amran MB, Warganegara FM
+|doi=10.1080/00032710802162442
+|pmid=<!--journal not indexed -->
+|issue=10
+}}</ref>
+
+==Gel and gel properties==
+
+The time of [[polymerization]] of the [[gel]] may affect the peak-elution times of separated metalloproteins in the [[electropherogram]] due to the compression of the gels and their [[wiktionary:pore|pores]] with the longer incubation times (see Figure ''Electropherogram''). In order to obtain a fully polymerized gel for a PAGE run, the [[polyacrylamide gel]] is polymerized for a time period of 69 hr at [[room temperature]]. As a result, the prepared gel is [[homogeneous (chemistry)|homogeneous]], mechanically stable and free of [[monomer]]s or [[radical (chemistry)|radicals]]. The pore sizes of the gel are very large and therefore, sieving effects become minimized during the electrophoretic separations. For these reasons [[Chemical interaction|interaction]]s of the gel with the [[biomolecule]]s can be neglected. The separated [[metalloprotein]]s (e.g., metal [[chaperone (protein)|chaperone]]s, [[prion]]s, metal transport [[proteins]], [[amyloid]]s, metallo[[enzymes]], metallo[[peptides]]) are not dissociated into [[Apoenzyme#Cofactors|apoprotein]]s and [[metal]] [[cofactor (biochemistry)|cofactor]]s.<ref>{{cite journal
+|journal=Methods in Enzymology
+|year=2009
+|volume=463
+|pages=497–513
+|title=Chapter 29 one-dimensional gel electrophoresis
+|author=Garfin DE
+|url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B7CV2-4XKXD6J-18&_user=10&_coverDate=12%2F31%2F2009&_alid=1743047742&_rdoc=2&_fmt=high&_orig=search&_origin=search&_zone=rslt_list_item&_cdi=18066&_sort=r&_st=13&_docanchor=&view=c&_ct=3&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=551df5958c3532893d806c95cfa2385c&searchtype=a
+|doi=10.1016/S0076-6879(09)63029-9
+|pmid=19892189
+|issue= 
+|original-date=1990
+|series=Methods in Enzymology
+|isbn=978-0-12-374536-1}}
+</ref>
+
+==Reproducibility and recovery==
+
+[[File:Preparative Electroph.TIF|thumb|315px|[[Electropherogram]] showing four [[PAGE]] runs of a high molecular weight [[metalloproteins|metal protein]] as a function of time of polymerization of the gel. Detection method for metal cofactors: [[Graphite Furnace Atomic Absorption|GF-AAS]] (SIMAA 6000)]]
+The bioactive [[structure]]s ([[native state|native]] or [[Three-dimensional space|3D]] [[Protein structure|conformation]]) of the isolated [[protein]] [[molecule]]s do not undergo any significant conformational changes. Active metal cofactor-containing proteins can be isolated [[reproducibility|reproducibly]] in the same fraction after a PAGE run (see Figure ''Electropherogram''). A shifting peak in the respective [[electropherogram]] may indicate that a denatured [[metalloprotein]] is available in the original protein mixture to be separated. Metalloproteins with different [[molecular mass]] ranges have been recovered in biologically active form at a yield of more than 95%.<ref>{{cite journal
+|journal=Protein and Peptide Letters
+|year=2006
+|volume=13
+|pages=503–8
+|title=Important contributions of a new quantitative preparative native continuous polyacrylamide gel electrophoresis (QPNC-PAGE) procedure for elucidating metal cofactor metabolisms in protein-misfolding diseases&nbsp;– a theory
+|author=Kastenholz B
+|url=http://www.ingentaconnect.com/content/ben/ppl/2006/00000013/00000005/art00015
+|doi=10.2174/092986606776819637
+|pmid=16800806
+|issue=5 }}
+</ref>
+
+==Quantification and identification==
+
+Low concentrations ([[Parts per billion|ppb]]-range) of Fe, Cu, Zn, Ni, Mo, Pd, Co, Mn, Pt, Cr, Cd and other [[metal]] [[cofactor (biochemistry)|cofactor]]s can be identified and absolutely quantified by [[inductively coupled plasma mass spectrometry]] (ICP-MS), for example. Because of high purity and optimized [[concentration]] of the separated [[metalloprotein]]s, for example, therapeutic recombinant [[pharming (genetics)|plant-made pharmaceuticals]] such as copper [[Chaperone (protein)|chaperone]] for superoxide dismutase (CCS) from [[herbalism|medicinal plants]], in specific PAGE fractions, the related [[structure]]s of these [[analyte]]s can be elucidated quantitatively by using solution [[NMR spectroscopy]] under non-denaturing conditions.<ref>{{cite journal
+|journal=Protein and Peptide Letters
+|year=2009
+|volume=16
+|pages=116–120
+|title=Medicinal plants: a natural chaperones source for treating neurological disorders
+|author=Kastenholz B, Garfin DE
+|url=http://www.ingentaconnect.com/content/ben/ppl/2009/00000016/00000002/art00003
+|doi=10.2174/092986609787316234
+|pmid=19200033
+|issue=2
+}}</ref>
+
+==Applications==
+
+Improperly [[protein folding|folded]] metal proteins, for example, [[CCS (gene)|CCS]] or superoxide dismutase ([[SOD1]]) present in [[brain]], [[blood]] or other clinical samples, are indicative of [[neurodegenerative diseases]] like [[Alzheimer's disease]] or [[Amyotrophic Lateral Sclerosis]]. Active CCS or [[superoxide dismutase|SOD]] molecules contribute to intracellular [[homeostasis|homeostatic]] control of essential [[Metal Ions in Life Sciences|metal ions]] (e.g., [[copper in health|Cu<sup>1+/2+</sup>]], Zn<sup>2+</sup>, Fe<sup>2+/3+</sup>) in [[organisms]] and thus, these [[biomolecule]]s can balance pro-oxidative and antioxidative [[process (science)|processes]] in the [[cytoplasm]].<ref>{{cite journal
+|journal=Annual Review of Biochemistry
+|year=2010
+|volume=79
+|pages=537–562
+|title=Copper metallochaperones
+|author=Robinson NJ, Winge DR
+|url=http://www.annualreviews.org/eprint/nBShYjmeQPGIIM2RQ8pk/full/10.1146/annurev-biochem-030409-143539
+|doi=10.1146/annurev-biochem-030409-143539
+|pmid=20205585
+|issue=
+}}</ref>
+
+==See also==
+*[[Gel electrophoresis]]
+*[[Protein electrophoresis]]
+*[[Protein purification]]
+
+==References==
+
+{{reflist}}
+
+{{Protein methods}}
+{{Protein structure determination}}
+
+{{DEFAULTSORT:Qpnc-Page}}
+[[Category:Analytical chemistry]]
+[[Category:Electrophoresis]]
+[[Category:Laboratory techniques]]

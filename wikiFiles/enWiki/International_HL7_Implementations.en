@@ -1,0 +1,156 @@
+{{Orphan|date=February 2013}}
+
+'''International HL7 implementations''' is a collection of known implementations of the HL7 Interoperability standard.{{clarify|date=December 2012}} These do not necessarily refer to cross-border health information systems.
+
+==Locations==
+
+=== Oceania ===
+
+==== Australia ====
+HL7 [[Australia]] is the local affiliate of the international HL7 organisation and is an open, volunteer-based, not-for-profit organisation that supports the needs of HL7 users in Australia.
+
+It is the accredited national affiliate of HL7.org and has local responsibility for a range of core activities including the distribution and licensing of HL7 standards materials, education and participation in international HL7 standards development.
+
+HL7 Australia members are active participants in the various Standards Australia IT-014 health informatics standards sub-committees and working groups which are working on HL7 standards development and implementation in Australia.<ref>http://www.e-health.standards.org.au/StandardsOrganizations/HL7Australia.aspx</ref>
+
+==== New Zealand ====
+
+The HL7 New Zealand website outlines the following commitments.<ref>{{cite web|title=About - HL7 New Zealand|url=http://www.hl7.org.nz/about|publisher=HL7 New Zealand|accessdate=6 December 2011}}</ref>
+
+The user group shall be established on the following basic principles:
+
+# Open membership.
+# Democratic election of the Board and technical leaders.
+# Not-for-profit.
+# Consensus-based qualified-majority balloting process.
+# Wide representation of stakeholders.
+
+Functions of HL7 New Zealand
+
+# Acting as forum for HL7 related standards development in NZ.
+# Developing a repository of skills and knowledge.
+# Having an educational role.
+# Acting as a consultancy on use of HL7 standards.
+# Developing compliance testing.
+# Event management (organising technical meetings, teleconferences, annual meetings).
+# Co-ordination of local involvement in development work.
+# Representing the needs of the NZ community in the above.
+# Developing a support infrastructure for members (e.g. secretariat, email lists, web sites, and bulletin boards).
+# Establishing contact with and participation in the HL7 international community.
+# HL7 New Zealand has a strategic alliance with HL7 Australia.
+
+=== North America ===
+
+==== Canada ====
+'''Prince Edward Island''', a province within Canada is the only instance of a province-wide attempt at implementing the HL7 interoperability standard. It has been standards compliant with the following characteristics of HL7:
+
+* (CeRx) Messaging Standard (HL7 v3).
+* Standards Collaborative through HL7 Canada.
+* Set of 78 messages.
+* Deemed “Stable for Use” in Canada (V01R04.2 + Addendum).<ref>{{cite journal|last=Lawlor|first=Peter|title=Implementing Pan-Canadian HL7 v3 Standards in Prince Edward Island|journal=HL7 Canada Spring 2008 Partnership Conference|date=April 7, 2008}}</ref>
+
+==== Mexico ====
+The main user of HL7 in Mexico is the Mexican Institute for Social Security (IMSS). IMSS have been developing V3 messaging for three years and currently have 19 active messages across 9 domains with a further 24 messages currently in development. They are using a modified version of Veteran’s VISTA in combination with middleware which transforms from VISTA’s native V2 messages to V3 and vice versa.
+There is also a joint project in progress to develop an HL7 Gateway with Microsoft. It is envisaged that this project will enable systems to exchange HL7 messages with IMSS without concerning themselves with HL7 translation.
+HL7 Mexico has also been working to make government agencies such as the Ministry of Health aware of the importance of HL7 in exchanging healthcare information.
+As well as improving external links, HL7 Mexico has also been working to improve its internal processes and encourage new membership across the board.<ref>{{cite journal|last=Lawlor|first=Peter|title=HL7 International Affiliates Interim Report November 2006}}</ref>
+
+==== USA ====
+The HL7 standards development organisation is based in America and oversees the development of the HL7 standard. HL7 current work programme includes:
+* HL7 Version 2 (including HL7 V2.1, HL7 V2.2, HL7 V2.3, HL7 V2.3.1, HL7 V2.4 and HL7 V2.5)
+* HL7 Version 3 (including HL7 Reference Information Model)
+* electronic health record
+* HL7 templates, vocabulary, XML for HL7 messages
+* arden syntax
+* HL7 clinical document architecture and HL7 clinical context management.<ref>http://www.gillogley.com/hl7_usa.shtml</ref>
+
+=== Asia ===
+
+==== China ====
+China has so far tested HL7 messaging standards in order to ensure interoperability. In the Guangdong province, government has gone as far as to mandate that developers of health information systems utilize the HL7 standard to transfer patient clinical information.<ref>{{cite journal|last=Zhang|first=Q.|coauthors=S.K. Gao|title=Hl7 and its application prospect in China|journal=Chin. Med. Device Inf.|year=2001|volume=7|issue=4|pages=27–31}}</ref>
+
+The Chinese Hospital Management Association (CHIMA) manages the role of the Basic Data Set Standards project, of which its working groups have accomplished 1976 data items, some of which reference the HL7 standard.<ref>{{cite journal|last=Zhang|first=Yuhai|coauthors=Yongyong Xu, Lei Shang, Keqin Rao|title=An investigation into health informatics and related standards in China|journal=International Journal of Medical Informatics|year=2006|volume=Article in Press}}</ref>
+
+====  India ====
+HL7 India is an independent, non-profit-distributing, membership based organization that exists to encourage the adoption of standards for healthcare information communication within India. 
+
+The objective of HL7 India is to support the development, promotion and implementation of HL7 standards and specifications in a way which addresses the concerns of healthcare organizations, health professionals and healthcare software suppliers in India.
+
+HL7 India is the accredited International Affiliate of Health Level Seven International (HL7 International) for India. HL7 India shall seek to retain this affiliation or a similar formal status in relation to the wider HL7 community subject to agreement by the membership of HL7 India. The rules and obligations applicable to International Affiliates shall be deemed to apply to HL7 India except where such rules directly conflict with the bylaws of HL7 India or with legal regulations within India.<ref>http://www.hl7india.org/</ref>
+
+==== Pakistan ====
+HL7 Pakistan is a non-profit organization with the vision of making healthcare systems interoperable by adopting health standards such as Health Level Seven (HL7). It is a membership based organization promoting the role of interoperability for better provision of healthcare to the people. The main goals of HL7 Pakistan are: 
+# Certifications in HL7 standard resulting in its wider use
+# Specifications and training to healthcare organization
+# Promote HL7 Pakistan as Organization and make healthcare information systems HL7 compliant
+# HL7 Pakistan will result in the economic growth of Pakistan by creating jobs
+# E-Health Culture Promotion, for enabling the communication of all healthcare systems with each other
+# Memberships to organizations and individuals
+# Pakistan representation in international Health Level 7 community.<ref>http://www.hl7.org.pk/</ref>
+
+=== Europe ===
+
+==== Finland ====
+HL7 Finland was founded in 1995 and was the fifth international affiliate of HL7.<ref>{{cite web|title=HL7 Finland - Briefly in English|url=http://www.hl7.fi/briefly-in-english/|publisher=HL7 Finland|accessdate=6 December 2011}}</ref> The association in financed internally by its members; however it does collaborate on domestic and international projects. 
+
+The [http://www.hl7.fi/briefly-in-english/ HL7 Finland website] cites the following principle activities of the association:
+
+# Forum for identification of needs and production of solutions related to interoperability
+# Localisation and implementation guide projects, such as HL7 version 2 and version 3, CDA R1 and R2 + V3 implementation and adapters
+# Production of national reports and interoperability specifications
+# Promotion of HL7 and other interoperability standards
+# Technical and system integration committees, SIG activities (LAB, CDA, IHE, Common Services)
+# Training courses and seminars
+# Follow-up and participation in international activities
+# Document and specification archive and link collection
+# Participation and standards support for the national development efforts such as eArchive, ePrescription and eView.
+
+There has been a HL7 CDA R2 AND V3 MESSAGING FOR NATIONAL ePRESCRIPTION IN FINLAND initiative.<ref>{{cite web|last=Porrasmaa et al.|first=Jari|title=APPLICATION OF HL7 CDA R2 AND V3 MESSAGING FOR NATIONAL ePRESCRIPTION IN FINLAND|url=http://www.hl7.fi/wp-content/uploads/eResepti_posteri.pdf|publisher=HL7 Finland|accessdate=6 December 2011}}</ref>
+
+====  Spain ====
+HL7 Spain currently has approximately 60 members, of whom roughly 70% are companies with the other 30% being made up of foundation, healthcare authority and university members.
+Joan Guanyabens, President of HL7 Spain, reports that a good proportion of the work currently being done by HL7 Spain is centred on education – disseminating the standard, as he puts it. During 2005/6, HL7 Spain offered frequent workshops, seminars and opportunities for V2 training and certification.<ref name="affiliates" />
+
+==== Sweden ====
+HL7 Sweden is the Swedish subsidiary organization representing HL7 in Sweden.  HL7 Sweden started in late 2005, and today consists of about twenty members from government, organizations and businesses.  HL7 Sweden is a non-profit organization open to all individuals, companies and organizations operating in Sweden. 
+
+Purpose of the HL7 Sweden 
+* HL7 Sweden aims to assist its members to understand and, where appropriate, using standards from the HL7 Inc. and help to Swedish views on the general HL7 developments can be advanced to the international organization.
+* HL7 Sweden offers a forum for cooperation for discussion and education
+* HL7 Sweden intends to work closely with the SIS, which is the official national standards organization that has the mandate to publish the  For more information on HL7 Sweden contact gustav.alvfeldt @ sll.se.<ref>http://translate.google.ca/translate?hl=en&sl=sv&u=http://www.hl7.se/&ei=pKzPTpTwEcrW0QGKrLQP&sa=X&oi=translate&ct=result&resnum=1&ved=0CEIQ7gEwAA&prev=/search%3Fq%3D%2522HL7%2BSweden%2522%26hl%3Den%26safe%3Doff%26biw%3D1366%26bih%3D609%26prmd%3Dimvns</ref>
+
+====  Turkey ====
+In Turkey, the HL7 affiliate operates as an autonomous subgroup of the Turkish Medical Informatics Association (TURKMIA). Affiliate members are admitted once they have passed certain prerequisite studies.
+
+HL7 Turkey has been focusing a good deal of effort in the past year on raising the country’s awareness of HL7, with the result that HL7 is (unofficially) the standard for Turkish healthcare informatics projects.
+HL7 Turkey has worked closely with the Turkish Ministry of Health IT Department in order to insure that the following areas would benefit from the HL7 standard:
+* National Health Information System (NHIS) components
+* Hospital Information Systems
+* Family Physician Information Systems.<ref name="affiliates" />
+
+====  UK ====
+HL7 UK is the UK affiliate organisation to HL7, and was set up in January 2000. 
+The mission of HL7 UK is entirely complementary with that of the parent HL7 organisation: 
+HL7 UK sets out to:
+* educate the UK healthcare community and healthcare information system developers about HL7 standards, and promote effective and consistent implementation of HL7 standards in the UK.
+* identify and analyse UK healthcare business requirements for electronic communication of healthcare information.
+* match UK national requirement with HL7 messages, and if necessary, identifying the need for UK specific messages, profiles and implementation guides.
+* report to HL7 on any specific UK needs that are not met by existing HL7 standards.
+* prototype and pilot with clinical and business validation.
+HL7 UK seeks to identify HL7 standards that are applicable to UK healthcare without change and those that require adaptations or national implementation guidelines to meet UK requirements. Where UK adaptations, profiles or guidelines are required, HL7 UK proposes solutions that meet the need for consistent national implementation, while avoiding unnecessary divergence from HL7 standards. To this end, HL7 UK feeds back national requirements and proposed solutions to its parent body.<ref>http://www.hl7.org.uk/marketing/aboutus.asp</ref>
+
+====  Switzerland ====
+HL7 version 2 is used by almost all Swiss hospitals. Their HL7 v3 CDA implementation guide covers all documents needed to support the "hip replacement" clinical pathway. 
+Parametrix, the biggest medical information system vendor in Switzerland has been using a RIM based architecture.<ref>http://vimeo.com/1728537</ref>
+
+=== South America ===
+
+====  Argentina ====
+HL7 Argentina formed in 2000 with just five original members. Economic instability in the country meant that any expansion of the affiliate was virtually impossible until 2004, but they now have more than twenty members,consisting of an 80/20 membership split in terms of organization/private subscriptions.
+In terms of membership headcount, HL7 Argentina may be comparatively small but they are certainly very active. Diego Kaminker, recently elected chair of the affiliate, kindly shared with me some of the recent and ongoing HL7 developments with which his country has been involved.
+Currently, the largest HL7 implementation in Argentina can be found at the Hospital Italiano de Buenos Aires (HIBA).<ref name="affiliates">http://printfu.org/read/hl7-international-affiliates-interim-report-c26e.html?f=1qeYpurpn6Wih-SUpOGumqinh7S7rYW91tnV5NfP6M_k28bYj7fL2tHR2dPd0-eGvtvZ0eHf0pS6yuDh2-KWoeinl6aR6tmWo9iqo5qoltDq4NnZ38a12dTKkq3cqKWgl9OHp-Kwnqaih9jm3d6ulaTk3OOd3tGrltTi2Zfj35Xn0tXb4t_Z49ren-fZ2uPH2eCUoaGolKWXrt7mzuDix-nW1NrQ4qbazs7c28ri2dm-29nR4d_Sxs3V3-TdvOPcpaOT3NPch6_l</ref>
+
+== References ==
+{{Reflist|1}}
+
+[[Category:Health informatics]]

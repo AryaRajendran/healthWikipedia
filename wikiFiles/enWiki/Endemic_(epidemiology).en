@@ -1,0 +1,33 @@
+{{Unreferenced|date=March 2012}}
+{{about|the epidemiological meaning of "endemic"|the ecological meaning|endemism}}
+
+In [[epidemiology]], an [[infection]] is said to be '''endemic''' (from [[Greek language|Greek]] ''en-'' in or within + δῆμος ''demos'' people) in a [[population]] when that infection is maintained in the population without the need for external inputs.<ref>Last, A Dictionary of Epidemiology, 3d ed</ref> For example, [[chickenpox]] is endemic (steady state) in the [[UK]], but [[malaria]] is not. Every year, there are a few cases of malaria acquired in the UK, but these do not lead to sustained transmission in the population due to the lack of a suitable [[Vector (epidemiology)|vector]] (mosquitoes of the genus ''[[Anopheles]]'').
+
+For an infection that relies on person-to-person transmission to be endemic, each person who becomes infected with the disease must pass it on to one other person on average. Assuming a completely susceptible population, that means that the [[basic reproduction number]] (R<sub>0</sub>) of the infection must equal 1. In a population with some [[immune system|immune]] individuals, the basic reproduction number multiplied by the proportion of [[susceptible]] individuals in the population (''S'') must be 1. This takes account of the [[probability]] of each individual to whom the disease may be [[transmission (medicine)|transmitted]] actually being susceptible to it, effectively discounting the immune sector of the population.
+
+For the disease to be in an '''endemic steady state''':
+
+:<math>
+\ {R_0} \times {S} = {1}
+</math>
+
+In this way, the infection neither dies out nor does the number of infected people increase [[Exponential growth|exponentially]] but the infection is said to be in an endemic steady state. An infection that starts as an [[epidemic]] will eventually either die out (with the possibility of it resurging in a theoretically predictable cyclical manner) or reach the endemic steady state, depending on a number of factors, including the [[force of infection|virulence]] of the disease and its [[transmission (medicine)|mode of transmission]].
+
+If a disease is in endemic steady state in a population, the relation above allows us to estimate the [[basic reproduction number|R<sub>0</sub>]] (an important [[parameter]]) of a particular infection. This in turn can be fed into the [[Mathematical modelling in epidemiology|mathematical model]] of an epidemic.
+
+While it might be common to say that [[AIDS]] is "endemic" in Africa—meaning found in an area—this is a use of the word in its etymological not epidemiological form. [[AIDS_in_Africa|AIDS cases in Africa]] are still increasing, so the disease is ''not'' in an endemic steady state. It is correct to call the spread of AIDS in Africa an [[epidemic]].{{Citation needed|date=March 2012}}
+
+== References ==
+{{reflist}}
+
+== See also ==
+{{Wiktionary|endemic}}
+
+* [[Epidemic]]
+* [[Infectious disease]]
+* [[Pandemic]]
+* [[Mathematical modelling in epidemiology]]
+* [[Syndemic]]
+
+[[Category:Epidemiology]]
+[[Category:Prevention]]

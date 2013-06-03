@@ -1,0 +1,28 @@
+In [[epidemiology]], the '''absolute risk reduction''', '''risk difference''' or '''excess risk''' is the change in [[risk]] of a given activity or treatment in relation to a control activity or treatment.<ref>{{cite web| url=http://www.medepi.net/meta/lectures/An_Overview_of_Measurements_in_Epidemiology_V2_2003.pdf |title=An overview of measurements in epidemiology |accessdate=2010-02-01}}</ref>  It is the inverse of the [[number needed to treat]].<ref>{{cite journal | last1 = Laupacis | first1 = A | last2 = Sackett | first2 = DL | last3 = Roberts | first3 = RS | title = An assessment of clinically useful measures of the consequences of treatment. | journal = The New England Journal of Medicine | volume = 318 | issue = 26 | pages = 1728–33 | year = 1988 | pmid = 3374545 | doi = 10.1056/NEJM198806303182605 }}</ref>
+
+In general, absolute risk reduction is the difference between the control group’s event rate (CER) and the experimental group’s event rate (EER). The difference is usually calculated with respect to two treatments ''A'' and ''B'', with ''A'' typically a drug and ''B'' a [[placebo]]. For example, ''A'' could be a 5-year treatment with a hypothetical drug, and ''B'' is treatment with placebo, i.e. no treatment. A defined [[End point of clinical trials|endpoint]] has to be specified, such as a [[survival rate|survival]] or a [[response rate]]. For example: the appearance of lung cancer in a 5 year period. If the [[probability|probabilities]] ''p<sub>A</sub>'' and ''p<sub>B</sub>'' of this endpoint under treatments ''A'' and ''B'', respectively, are known, then the absolute risk reduction is computed as (''p<sub>B</sub>'' - ''p<sub>A</sub>'').
+
+The inverse of the absolute risk reduction, NNT, is an important measure in [[pharmacoeconomics]]. If a clinical endpoint is devastating enough (''e.g.'' [[death]], [[myocardial infarction|heart attack]]), drugs with a low absolute risk reduction may still be indicated in particular situations. If the endpoint is minor, [[health insurance|health insurers]] may decline to reimburse drugs with a low absolute risk reduction.
+
+==Presenting results==
+Consider a hypothetical drug which reduces the [[relative risk]] of [[colon cancer]] by 50% over five years. Even without the drug, colon cancer is fairly rare, maybe 1 in 3,000 in every five-year period. The rate of colon cancer for a five-year treatment with the drug is therefore 1/6,000, as by treating 6,000 people with the drug, one can expect to reduce the number of colon cancer cases from 2 to 1.
+
+The raw calculation of absolute risk reduction is a probability (0.003 fewer cases per person, using the colon cancer example above).  Authors such as [[Ben Goldacre]] believe that this information is best presented as a [[natural number]] in the context of the [[baseline risk]] ("reduces 2 cases of colon cancer to 1 case if you treat 6,000 people for five years").<ref name="isbn0-00-724019-8">{{cite book |author=Ben Goldacre |title=Bad Science |publisher=Fourth Estate |location=New York |year=2008 |pages=239–260 |isbn=0-00-724019-8 }}</ref>  Natural numbers, which are used in the ''number needed to treat'' approach, are easily understood by non-experts.
+
+==Worked example==
+{{ARR RRR worksheet}}
+
+==See also==
+* [[Absolute risk increase]]
+* [[Number needed to harm]]
+
+==References==
+<references/>
+
+==External links==
+* [http://gim.unmc.edu/dxtests/Effect1.htm Measures of effect size of an intervention] - unmc.edu.
+
+{{Medical research studies}}
+
+[[Category:Epidemiology]]
+[[Category:Medical statistics]]

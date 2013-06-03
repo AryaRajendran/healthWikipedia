@@ -1,0 +1,46 @@
+[[File:Recognition of conformational epitopes by B cells.PNG|thumb|300px|right| Recognition of conformational epitopes by B cells. Note how the segments widely separated in the primary structure have come in contact in the three dimensional tertiary structure forming part of the same epitope<ref name=goldsby3/>]]
+
+A '''conformational epitope''' is a sequence of subunits (usually, amino acids) composing an [[antigen]] that come in direct contact with a receptor of the immune system. 
+
+An antigen is any substance that the [[immune system]] can recognize as foreign. Since, antigens are usually proteins that are too large to bind as a whole to any [[Receptor (immunology)|receptor]], only specific segments that form the antigen bind with a specific receptor. Such segments are called [[epitope]]s. Likewise, it is only [[paratope]] of the receptor that comes in contact with the epitope.
+
+[[Protein]]s are composed of repeating [[nitrogen]]-containing subunits called [[amino acid]]s that in nature do not exist as straight chains called [[primary structure]], but as folded whorls with complex loops. The latter is known as the [[tertiary structure]] of a protein. So, whenever a receptor interacts with an undigested antigen, the surface amino acids that come in contact may not be continuous with each other if the protein is unwound. Such discontinuous amino acids that come together in three dimensional conformation and interact with the receptor's paratope are called conformational epitopes. In contrast, if the antigen is digested, small segments called [[peptide]]s are formed, which bind with [[major histocompatibility complex]] molecules, and then later with [[T cell receptor]]s through amino acids that are continuous in a line. These are known as [[linear epitope]]s.<ref name=goldsby3>{{cite book
+| last = Goldsby
+| first = Richard
+| authorlink = 
+| coauthors = Kindt, TJ; Osborne, BA; Janis Kuby
+| title = Immunology
+| accessdate =2008-06-27
+| edition = Fifth edition
+| publisher = W. H. Freeman and Company
+| year = 2003
+| location = New York
+| pages = 57&mdash;75
+| chapter = Antigens (Chapter 3)
+| url = 
+| doi = 
+| id = 
+| isbn = 0-7167-4947-5
+}}</ref>
+
+== See also ==
+* [[Antigen]]
+* [[Linear epitope]]
+* [[Epitope mapping]], finding (on an antigen protein) the epitope(s) for a specific antibody
+
+* EpiSearch, A new method to Predict conformational epitopes using phage display peptide sequences.  The method is available online at http://curie.utmb.edu/episearch.html
+
+== References ==
+
+{{Reflist}}
+
+{{Immune system}}
+
+== External links ==
+* [http://www.scivee.tv/node/5328 Antibody-protein interactions: benchmark datasets and prediction tools evaluation]
+
+{{DEFAULTSORT:Conformational Epitope}}
+[[Category:Molecular biology]]
+
+
+{{immunology-stub}}

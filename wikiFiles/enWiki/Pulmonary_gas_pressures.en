@@ -1,0 +1,60 @@
+{{Blood test sample values|align=right}}
+The factors that determine the values for alveolar PO<sub>2</sub> and PCO<sub>2</sub> are:
+*The pressure of outside air
+*The partial pressures of inspired oxygen and carbon dioxide
+*The rates of total body oxygen consumption and carbon dioxide production
+*The rates of alveolar ventilation and perfusion
+
+Following is a list of average [[partial pressure]]s (in [[torr]]) for a human at rest:
+
+==Partial pressure of oxygen==
+{| class="wikitable"
+! Location || [[oxygen partial pressure|''p''O<sub>2</sub>]]<br>([[mmHg]]) 
+ |- 
+ | Ambient air || 160 (P<sub>A</sub>O<sub>2</sub>)
+ |- 
+ | Arterial blood  || 80-100 (P<sub>a</sub>O<sub>2</sub>)
+ |- 
+ | Venous blood || 40-50
+ |- 
+ | Lung Capillaries  || 20-40 
+|}
+
+The alveolar oxygen [[partial pressure]] is lower than the atmospheric O<sub>2</sub> partial pressure for two reasons. 
+* Firstly, as the air enters the lungs, it is humidified by the upper airway and thus the partial pressure of water vapour (47 mmHg) reduces the oxygen partial pressure to about 150 mmHg. 
+* The rest of the difference is due to the continual uptake of oxygen by the [[pulmonary]] [[capillaries]], and the continual diffusion of CO<sub>2</sub> out of the capillaries into the alveoli. 
+
+The alveolar pO<sub>2</sub> is not routinely measured but is calculated from blood gas measurements by the [[Alveolar gas equation]].
+
+==Partial pressure of carbon dioxide==
+{| class="wikitable"
+! Location  || [[carbon dioxide|''p''CO<sub>2</sub><br>(Torr)]]
+ |- 
+ | Outside air - dry air at sea level || 0.3
+ |- 
+ | Alveolar air   || 35 
+ |- 
+ | Arteriole blood  || 40 
+ |- 
+ | Venous blood  || 50
+ |- 
+ | Cells  || 50
+|}
+
+The pCO2, along with the pH, can be used to distinguish among [[metabolic acidosis]], [[metabolic alkalosis]], [[respiratory acidosis]], and [[respiratory alkalosis]].
+
+==Pathology==
+[[Hypoventilation]] exists when the ratio of carbon dioxide production to alveolar ventilation increases above normal values. 
+
+[[Hyperventilation]] exists when the same ratio decreases.
+
+==See also==
+* [[Pulmonary alveolus]]
+* [[Alveolar-arterial gradient]]
+
+
+{{Respiratory physiology}}
+
+[[Category:Respiratory physiology]]
+
+{{medicine-stub}}

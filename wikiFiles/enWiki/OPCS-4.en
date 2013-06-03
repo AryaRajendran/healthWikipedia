@@ -1,0 +1,105 @@
+{{third-party|date = May 2012}}
+
+In [[UK health care]], '''[[Office of Population Censuses and Surveys]] Classification of Interventions and Procedures''' (OPCS-4) is a [[Procedure codes|procedural classification]] for the coding of operations, procedures and interventions performed during [[Inpatient care|in-patient]] stays, day case surgery and some [[Outpatient|out-patient]] attendances in the [[National Health Service]] (NHS). 
+
+Though the code structure is different, as a code set, OPCS-4 is comparable to the American Medical Association's [[Current Procedural Terminology]].
+
+OPCS-4 is split into two volumes; a tabular list (Volume I) and an alphabetical index (Volume II).<ref>{{cite web |title=NHS Connecting For Health: ''OPCS-4.6 Books'' |url=http://www.connectingforhealth.nhs.uk/systemsandservices/data/clinicalcoding/codingstandards/opcs4/books |accessdate=2011-05-01}}</ref> An electronic version is also available.<ref>{{cite web |title=NHS Connecting For Health: ''OPCS-4.6 eVersion'' |url=http://www.connectingforhealth.nhs.uk/systemsandservices/data/clinicalcoding/codingstandards/opcs4/eversion |accessdate=2011-05-01}}</ref>
+
+==Revision cycle==
+The first NHS procedural classification was published in 1987, by the [[OPCS|Office of Population Censuses and Surveys]] as the ''Classification of Surgical Operations''.<ref>{{cite web |title=NHS National Institute for Health and Clinical Excellence: ''Glossary'' |url=http://www.nice.org.uk/website/glossary/glossary.jsp?alpha=O |accessdate=2011-11-05}}</ref> In 1992 the 4th revision was released as the ''OPCS Classification of Surgical Operations and Procedures (4th revision)''<ref>{{cite web |title=NHS Connection for Health: ''Background to OPCS-4 development'' |url=http://www.connectingforhealth.nhs.uk/systemsandservices/data/clinicalcoding/codingstandards/opcs4/background |accessdate=2009-03-07}}</ref> (OPCS-4.2). Responsibility for the classifications used in the NHS, including OPCS-4, passed to the [[NHS Information Authority]] (NHS IA) when it formed in 1999. 
+
+By 2003, the NHS IA had realised OPCS-4.2 no longer accurately reflected many of the procedures being performed in the modern [[Health system|healthcare system]]. As a medium term measure, a project to replace OPCS-4 with a more robust method of procedure coding was proposed and partially developed. Rather than using a sequence of codes to capture activity, the new classification would have used a single alphanumeric code up to 15 characters long. When the NHS IA was superseded by [[NHS Connecting for Health]] (NHS CFH) in 2005, the project was placed on indefinite hold, and a program of annual revisions to OPCS-4 was implemented. Much of the development work for the redundant project was reused to produce the initial expansion and enhancement of OPCS-4.2 to OPCS-4.3. However, OPCS-4.2 remained the mandated method of procedural classification in the NHS setting until March 2006.
+
+Since the implementation of OPCS-4.3 in April 2006 there have been three further revisions to OPCS-4. Each becoming the mandated classification on 1 April in the year of publication.<ref>{{cite web |title=NHS Connection for Health: ''OPCS-4 Classification'' |url=http://www.connectingforhealth.nhs.uk/systemsandservices/data/clinicalcoding/codingstandards/opcs4 |accessdate=2011-11-05}}</ref>
+
+'''OPCS-4 version mandated for use (financial year)'''<ref>{{cite web |title=NHS Data Dictionary: ''OPCS Classification of Interventions and Procedures'' |url=http://www.datadictionary.nhs.uk/web_site_content/supporting_information/clinical_coding/opcs_classification_of_interventions_and_procedures.asp |accessdate=2012-05-01}}</ref>
+*Up to 31 March 2006 OPCS-4.2
+*2006-7 OPCS-4.3
+*2007-9 OPCS-4.4 (no revision for 2008)
+*2009-11 OPCS-4.5
+*2011-ongoing OPCS-4.6
+
+Whilst additions to OPCS-4 are reviewed on an annual basis, the long term plan remains to replace OPCS-4 with [[SNOMED CT]].<ref>{{cite web |title=Department of Health – NHS Financial Reforms: ''National intervention classifications'' |url=http://webarchive.nationalarchives.gov.uk/+/www.dh.gov.uk/en/Managingyourorganisation/Financeandplanning/NHSFinancialReforms/DH_4127040 |accessdate=2011-11-05}}</ref>
+
+On 31 March 2013 NHS CFH ceased to exist. Since 1 April 2013, responsibility for revision and maintenance of OPCS-4 has been with [[Health and Social Care Information Centre]] (HSCIC).
+
+==Code structure==
+OPCS-4 is an alphanumeric nomenclature, with a 4 character code system similar to that found in [[ICD-10]]. The differences being that OPCS-4 classifies procedures and interventions, rather than diagnoses, and that the chapters do not correlate (i.e. Chapter A of OPCS does not classify treatments for conditions in Chapter I of ICD-10).
+
+The first character is always a letter. Second, third and fourth characters are always numbers. A [[Full stop|.]] separates the third and fourth characters; for example
+{| class="wikitable" style="text-align: center;"
+|+ Syntax of an OPCS-4 code
+|-
+! 1st character
+! 2nd character
+! 3rd character
+! 4th character
+|-
+| A
+| 0
+| 1
+| .1
+|}
+
+==Chapter List==
+There are currently 24 chapters in Volume I of OPCS-4:
+*Chapter A - Nervous System
+*Chapter B - Endocrine System and Breast
+*Chapter C - Eye
+*Chapter D - Ear
+*Chapter E - Respiratory Tract
+*Chapter F - Mouth 
+*Chapter G - Upper Digestive System
+*Chapter H - Lower Digestive System
+*Chapter J - Other Abdominal Organs, Principally Digestive
+*Chapter K - Heart
+*Chapter L - Arteries and Veins
+*Chapter M - Urinary
+*Chapter N - Male Genital Organs
+*Chapter P - Lower Female Genital Tract
+*Chapter Q - Upper Female Genital Tract
+*Chapter R - Female Genital Tract Associated with Pregnancy, Childbirth and the Puerperium 
+*Chapter S - Skin
+*Chapter T - Soft Tissue
+*Chapter U - Diagnostic Imaging, Testing and Rehabilitation
+*Chapter V - Bones and Joints of Skull and Spine
+*Chapter W - Other Bones and Joints
+*Chapter X - Miscellaneous Operations
+*Chapter Y - Subsidiary Classification of Methods of Operation
+*Chapter Z - Subsidiary Classification of Sites of Operation
+
+==="Missing" chapters===
+
+====I codes====
+There is currently no Chapter I. Nor are there any codes beginning with an "I".
+
+====O codes====
+Whilst there is no Chapter O, codes beginning with an "O" can be found in OPCS-4. These were added to chapters when all the available 3-character code blocks were exhausted, but further classifications were needed. They are also referred to as "overflow codes", and are located at the end of the related chapter. When indexing a procedure or intervention that is classified to an O code, the letter denoting the chapter the code is found in is given in [[parentheses]] after the code.
+
+==Copyright==
+As an NHS publication, OPCS-4 is covered by [[Crown copyright#United Kingdom|Crown Copyright]].
+
+==Supplementary publications==
+There are a number of publications that supplement the tabular and index publications. 
+
+===Instruction Manual===
+The OPCS-4.6 Clinical Coding Instruction Manual is a reference book on how to use OPCS-4 to national standards. It is initially supplied to novice coders who attend a foundation course run by an Approved Trainer. Whilst each revision to OPCS-4 sees the issue of a new manual, updates are issued electronically, and the the onus is on coders to update them by hand.
+
+===The Coding Clinic===
+The Coding Clinic publication is how minor changes and coding advice for both ICD-10 and OPCS-4 are disseminated through the UK clinical coding community. Initially issued as a printed newsletter, in 2012 NHS CFH switched to a single, compendium-like electronic publication.
+
+===DH High Cost Drugs List===
+Maintained by the [[Department of Health (United Kingdom)|DH]] Payment by Results team, the High Cost Drugs List is a catalogue of drugs licensed for use in the NHS that are excluded from the Payment by Results tariff. 
+
+Issued annually - even in years with no revision to OPCS-4 - the list consists of the generic name of drugs next to its OPCS-4 code. The guidance section of the list states that it is down to the clinical staff to use the generic instead of brand names.
+
+===DH Chemotherapy Regimens List===
+The Chemotherapy Regimens List, also issued by the DH Payment by Results team, is for the coding of administration of [[Chemotherapy|antineoplastic drugs]]. Organised alphabetically, the list contains adult and paediatric chemotherapy regimens used in the NHS. Trials are excluded as they are usually financed by the pharmaceutical companies running the trial.
+
+==References==
+{{Reflist}}
+
+{{Medical classification}}
+
+[[Category:Medical manuals]]

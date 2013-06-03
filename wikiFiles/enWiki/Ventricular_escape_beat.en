@@ -1,0 +1,35 @@
+[[Image:ECG Principle fast.gif|thumb|Animation illustrating the normal activation of the [[electrical conduction system of the heart]]: starting from the [[sinoatrial node]], an electrical impulse spreads across the [[Atrium (heart)|atria]], then passes through the [[atrioventricular node]] (AV node) and conducts on via the [[bundle branch]]es towards the [[ventricle (heart)|ventricles]].]]
+
+In cardiology a '''ventricular escape beat''' is a self-generated electrical discharge initiated by, and causing contraction of, the [[Ventricle (heart)|ventricles]] of the [[heart]]; normally the heart rhythm is begun in the [[Atrium (heart)|atria]] of the heart and is subsequently transmitted to the ventricles. The ventricular escape beat follows a long pause in ventricular rhythm and acts to prevent [[cardiac arrest]]. It indicates a failure of the [[electrical conduction system of the heart]] to stimulate the ventricles (which would lead to the absence of heartbeats, unless ventricular escape beats occur).
+
+==Causes==
+
+Ventricular escape beats occur when the rate of electrical discharge reaching the ventricles (normally initiated by the heart's [[sinoatrial node]] (SA node), transmitted to the [[atrioventricular node]] (AV node), and then further transmitted to the ventricles) falls below the base rate determined by the ventricular pacemaker cells.<ref>C. Andreasen, et al. (2006) Mosby Elsevier, Mosby's Dictionary of Medicine, Nursing and Health Professions 7th edition, p1951</ref>
+An escape beat usually occurs 2–3 seconds after an electrical impulse has failed to reach the ventricles<ref name="pmid1122512">{{cite journal |author=Banka VS, Scherlag BJ, Helfant RH |title=Contractile and electrophysiological responses to progressive digitalis toxicity |journal=Cardiovasc. Res. |volume=9 |issue=1 |pages=65–72 |year=1975 |month=January |pmid=1122512 |doi= 10.1093/cvr/9.1.65|url=http://cardiovascres.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=1122512}}</ref>
+
+This phenomenon can be caused by the [[sinoatrial node]] (SA node) failing to initiate a beat, by a failure of the conductivity from the SA node to the [[atrioventricular node]] (AV node), or by [[atrioventricular block]] (especially [[third degree AV block]]). Normally, the pacemaker cells of the sinoatrial node discharge at the highest frequency and are thus dominant over other cells with pacemaker activity. The AV node normally has the second fastest discharge rate. When the sinus rate falls below the discharge rate of the AV node, this becomes the dominant pacemaker, and the result is called a [[junctional escape beat]]. If the rate from both the SA and AV node fall below the discharge rate of ventricular pacemaker cells, a ventricular escape beat ensues.
+
+An escape beat is a form of cardiac [[arrhythmia]], in this case known as an [[cardiac ectopy|ectopic beat]]. It can be considered a form of ectopic pacemaker activity that is unveiled by lack of other pacemakers to stimulate the ventricles. Ventricular pacemaker cells discharge at a slower rate than the SA or AV node. While the SA node typically initiates a rate of 70 beats per minute (BPM), the [[atrioventricular node]] (AV node) is usually only capable of generating a rhythm at 40-60 BPM or less. Ventricular contraction rate is thus reduced by 15-40 beats per minute.<ref>D.D. Costa, W.J. Brady, J. Edhouse (March 2002), BMJ Publishing Group Ltd., ABC of clinical electrocardiography, British Medical Journal: 324:535-538.</ref> 
+
+If there are only one or two ectopic beats, they are considered escape beats. If this causes a semi-normal rhythm to arise it is considered an [[idioventricular rhythm]].
+
+The escape [[arrhythmia]] is a compensatory mechanism that indicates a serious underlying problem with the SA node or conduction system (commonly due to [[myocardial infarction|heart attack]] or medication [[Adverse effect (medicine)|side effect]]), and because of its low rate, it can cause a drop in [[blood pressure]] and [[Syncope (medicine)|syncope]].
+
+==Diagnosis==
+An [[electrocardiogram]] can be used to identify a ventricular escape beat. The QRS portion of the [[electrocardiogram]] represents the ventricular [[depolarisation]]; in normal circumstances the QRS complex forms a sharp sudden peak. For a patient with a ventricular escape beat, the shape of the QRS complex is broader as the impulse can not travel quickly via the normal electrical conduction system.<ref name="pmid14503433">{{cite journal |author=Adams MG, Pelter MM |title=Ventricular escape rhythms |journal=Am. J. Crit. Care |volume=12 |issue=5 |pages=477–8 |year=2003 |month=September |pmid=14503433 |doi= |url=http://ajcc.aacnjournals.org/cgi/pmidlookup?view=long&pmid=14503433}}</ref>
+
+[[Image:ventricular escape beat cardiogram diagram.jpg|780px|thumb|center|The first 2.5 seconds show a normal cardiac cycle. This is followed by a period of delayed sinus activity which initiates a takeover response by the ventricular pacemaker cells resulting in a ventricular escape beat. Two escape beats are shown between 5-8 seconds.]]
+
+Ventricular escape beats differ from [[Premature ventricular contraction|ventricular extrasystole]]s (or premature ventricular contractions), which are spontaneous electrical discharges of the ventricles. These are not preceded by a pause; on the contrary they are often followed by a compensatory pause.
+
+==Factors affecting ventricular escape rhythm==
+===Cilostazol===
+[[Third degree AV block]] can be treated with [[Cilostazol]] which acts to increase Ventricular escape rate <ref name="pmid12684307">{{cite journal |author=Kodama-Takahashi K, Kurata A, Ohshima K, ''et al.'' |title=Effect of cilostazol on the ventricular escape rate and neurohumoral factors in patients with third-degree atrioventricular block |journal=Chest |volume=123 |issue=4 |pages=1161–9 |year=2003 |month=April |pmid=12684307 |doi= 10.1378/chest.123.4.1161|url=http://www.chestjournal.org/cgi/pmidlookup?view=long&pmid=12684307}}</ref>
+
+===Ouabain===
+[[Ouabain]] infusion decreases ventricular escape time and increases ventricular escape rhythm. However, a high dose of ouabain can lead to ventricular [[tachycardia]].<ref name="pmid1122512"/>
+
+== References ==
+{{reflist}}
+
+[[Category:Cardiac dysrhythmia]]

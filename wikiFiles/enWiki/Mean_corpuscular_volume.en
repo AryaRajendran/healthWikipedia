@@ -1,0 +1,58 @@
+The '''mean corpuscular volume''', or "mean cell volume" ('''MCV'''), is a measure of the average [[red blood cell]] volume that is reported as part of a standard [[complete blood count]]. The MCV is calculated by dividing the total volume of packed red blood cells (also known as [[hematocrit]]) by the total number of red blood cells. The resulting number is then multiplied by 10. The red blood cells get packed together when they are spun around at high speeds in a centrifuge.
+
+In patients with [[anemia]], it is the MCV measurement that allows classification as either a [[microcytic anemia]] (MCV below normal range), [[normocytic anemia]] (MCV within normal range) or [[macrocytic anemia]] (MCV above normal range). Normocytic anemia is usually deemed so because the bone marrow did not response yet to change the cell volume. It occurs occasionally in acute conditions, namely blood loss and hemolysis. 
+
+* To calculate the MCV, expressed in femtoliters ([[Femtolitre|fL]], or 10<sup>-15</sup>L), the following formula is used:10 x hematocrit (%) divided by RBC count (millions/μL</sup>). The normal range for MCV is: 80-99 fL.
+* Use of volume-sensitive automated blood cell counters, such as the Coulter counter. In this type of apparatus, the red cells pass one-by-one through a small aperture and generate a signal directly proportional to their volume.
+* Other automated counters measure red blood cell volume by means of techniques that measure refracted, diffracted, or scattered light.<ref>{{cite web |url=http://www.uptodate.com/contents/mean-corpuscular-volume |title=Mean corpuscular volume |author=Stanley L Schrier, MD Stephen A Landaw, MD, PhD |date=30 September 2011 |work= |publisher=uptodate.com }}</ref>
+
+If the MCV was determined by automated equipment, the result can be compared to RBC morphology on a [[peripheral blood smear]]. Any deviation would be indicative of either faulty equipment or technician error.
+
+For further specification, it can be used to calculate [[red blood cell distribution width]].
+
+==Interpretation==
+The normal [[reference range]] is typically 80-100 [[Femtolitre|fL]].<ref>[http://www.nlm.nih.gov/medlineplus/ency/article/003648.htm MedlinePlus Medical Encyclopedia: RBC indices]</ref>
+
+===High===
+In [[pernicious anemia]] (macrocytic), MCV can range up to 150 [[femtolitre]]s. An elevated MCV is also associated with [[alcoholism]]<ref>{{cite journal | doi = 10.1111/j.0954-6820.1986.tb03348.x | author = Tønnesen H, Hejberg L, Frobenius S, Andersen J | title = Erythrocyte mean cell volume--correlation to drinking pattern in heavy alcoholics | journal = Acta Med Scand | volume = 219 | issue = 5 | pages = 515–8 | year = 1986 | pmid = 3739755}}</ref> (as are an elevated [[Gamma glutamyl transpeptidase|GGT]] and a ratio of [[Aspartate transaminase|AST]]:[[Alanine transaminase|ALT]] of 2:1). [[Vitamin B12]] and/or [[folic acid]] deficiency has also been associated with [[macrocytic anemia]] (high MCV numbers).
+
+===Low===
+The most common causes of [[microcytic anemia]] are iron deficiency (due to inadequate [[diet (nutrition)|diet]]ary intake, [[Gastrointestinal bleeding|gastrointestinal blood loss]], or [[Menstruation|menstrual blood loss]]), [[thalassemia]], [[sideroblastic anemia]] or [[chronic disease]]. In [[iron deficiency anemia]] (microcytic anemia), it can be as low as 60 to 70 femtolitres. In some cases of [[thalassemia]], the MCV may be low even though the patient is not iron deficient. 
+
+A low MCV number in an elderly patient with a positive [[stool guaiac test]] (bloody stool) is highly suggestive of [[GI cancer]].
+
+==Worked example==
+{{Red blood cell indices worked example}}
+
+==Derivation==
+The MCV can be conceptualized as the total volume of a group of cells divided by their number.  For a real world sized example, image you had 10 small jellybeans with a combined volume of 10 uL.  The mean volume of a jellybean in this group would be 10 uL / 10 jellybeans = 1 uL / jellybean.  A similar calculation works for the MCV.  
+
+1.  You measure the RBC index in cells/uL.  Take the reciprocal (1/RBC index) to convert it to uL/cell.
+  
+1/5E6 (cells/uL) = 2E-7 (uL/cell).  
+
+
+2.  The 1 uL is only made of a proportion of red cells (e.g. 45%) with the rest of the volume composed of plasma.  Multiply by the hematocrit to take this into account. 
+
+2E-7 (uL/cell) * 0.4 (hematocrit has no units) = 8E-8 uL/cell.  
+
+
+3.  Finally convert the units of uL to fL by multiplying by 10^9.  The result would look like this.
+
+8E-8 uL/cell* (1E9 fL / 1 uL) = 80 fL/cell
+
+
+Note: The shortcut proposed above just makes the units work out:  10*40/5=80
+
+==References==
+{{reflist}}
+
+==See also==
+*[[Anemia#Differential_diagnosis|Anemia: Differential Diagnosis]]
+*[[Full blood count]]
+*[[Mean corpuscular hemoglobin]]
+
+{{Myeloid blood tests}}
+
+{{DEFAULTSORT:Mean Corpuscular Volume}}
+[[Category:Blood tests]]

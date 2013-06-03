@@ -1,0 +1,124 @@
+[[Image:Pump Silhouette and Meter.jpg|thumb|right|300px|The Medtronic Minimed Paradigm 515 pump (RF receiver), Silhouette infusion set, and UltraLink blood sugar meter (RF transmitter).]]
+'''MiniMed Paradigm''' is a series of [[insulin pump]]s manufactured by [[Medtronic]] for patients with [[diabetes mellitus]].  The pump operates with a single [[AAA battery]] and uses a piston-plunger [[pump]] to [[Route of administration|infuse]] a programmed amount of [[insulin]] into the patient through a length of tubing.  The Paradigm uses a one-way wireless [[radio frequency]] link to receive [[blood sugar]] measurements from select [[glucose meter]]s.  The Paradigm RT (Real Time) series adds the ability to receive data from a mated [[Blood glucose monitoring#Continuous blood glucose monitoring|continuous blood-glucose monitor]].  Although the pump can use these measurements to assist in calculating a dose of insulin, no actual change in insulin delivery occurs without manual user-intervention.
+<ref>http://www.cbsnews.com/stories/2003/07/08/tech/main562162.shtml</ref><ref>http://www.insulin-pumpers.org/faq/rv511.html</ref>
+
+In the [[United States]], the device is regulated by a [[Center for Devices and Radiological Health|branch]] of the [[Food and Drug Administration]].<ref>https://www.accessdata.fda.gov/scripts/cdrh/devicesatfda/index.cfm?db=pmn&id=K053177</ref>
+
+==Description==
+[[Image:Minimed 515 and Silhouette Infusion set.jpg|thumb|right|150px|Pump and infusion set (catheter) placement.]]
+[[Image:Insulin basal bolus.png|thumb|right|150px|Insulin basal bolus profile.]]
+
+Insulin pumps are [[drug delivery device]]s used to treat patients with [[Diabetes mellitus type 1|type 1]] and [[Diabetes mellitus type 2|type 2]] diabetes. The Minimed Paradigm REAL-Time and Continuous Glucose Monitoring (CGM) system, which received FDA clearance in 2006,<ref>http://www.highbeam.com/doc/1G1-144423779.html</ref> uses tubing and a reservoir with rapid-acting insulin. This "infusion set" is patient-connected via a catheter to the abdomen region. The infusion set can remain in the place for 3 days while the pump is clip-belt worn. There is a quick-disconnect feature for the tubing. The pump delivers insulin in two modes. In [[Basal rate]] mode, the delivery is continuous in small doses similar to a [[pancreas]], for example 0.15 units per hour throughout the day. Basal rates are set to meet individual [[metabolic rate]]s. In [[Bolus (medicine)|Bolus]] mode, the delivery is programmed to be a one-time delivery prior to eating or after an unexpected high, for example 18 units spread out to several hours. This type of continuous treatment is in contrast to traditional [[Conventional insulinotherapy|multiple daily injections]] (MDI) that use slower-acting insulin. Continuous treatment reduces glucose variability.<ref name = bcbs>https://www.bcbsal.org/providers/policies/final/046.pdf</ref>
+
+The Paradigm system consists of two basic parts: an insulin pump and an optional glucose sensor CGM worn for up to 3 days. The disposable sensor is [[subcutaneously]]-placed to make glucose measurements<ref>http://professional.diabetes.org/Abstracts_Display.aspx?TYP=1&CID=54140</ref> in [[interstitial fluid]] every 5 minutes and transmit the reading via low power radio frequency ([[ISM band]]) to the pump for realtime display. However, insulin therapy may be conducted without CGM and although there is not yet an automated insulin-regulation feedback mechanism between measure and infusion to control the amount and timing of insulin, this is clearly a future objective. So any change in basal or bolus is patient-driven by programming the pump using the Bolus Wizard<sup>TM</sup>. The latest model pumps are the MiniMed Paradigm 522 and 722 which differ in reservoir size, 176 versus 300 units, respectively. In 2007 the FDA approved a pediatric model for patients 7 to 17 years old.<ref>http://www.ingentaconnect.com/content/adis/end/2003/00000002/00000001/art00002?crawler=true</ref>
+
+'''The Minimed Paradigm System is composed of the following parts:'''
+*Insulin pump models 522/722
+*Glucose sensor kit (CGM)
+*Minilink [[Radio frequency|RF]] transmitter
+*Infusion set and reservoirs
+*CareLink [[USB]] upload device
+*CareLink therapy [[Diabetes management software|management software]]<ref>http://www.medtronic-diabetes.com.au/medical_prof-paradign-pal.html</ref>
+
+In addition to system parts, there are other necessary parts associated with overall [[Diabetes management|diabetes therapy]] including a glucose meter for finger stick [[calibration]]s and treatment verification, traditional injectors and supplies, [[ketones]] test supplies, test strip vials, skin preparation, [[glucagon]] supplements, etc. If using OneTouch UltraLink meter, readings are sent wirelessly to the pump.<ref>http://www.medtronicdiabetes.com/products/insulinpumps/components/index.html</ref>
+
+'''The development history of the Minimed pump goes back to the 1980s.'''<ref>http://www.minimed.com/about/history.html</ref>
+*1983 – 1st Pump MiniMed 502 (Eli Lilly makes synthetic insulin<ref>http://www.accessexcellence.org/RC/AB/BC/1977-Present.php</ref>)
+*1985 – MiniMed 504 Insulin Pump
+*1992 – Launch Of MiniMed 506 Insulin Pump
+*1996 – Introduction of MiniMed 507 Pump
+*1999 – Launch of the Model 507C
+*1999 – Introduction of MiniMed 508 Insulin Pump
+*2002 – Inauguration of the MiniMed Paradigm 511
+*2003 – 1st Wireless MiniMed Paradigm 512/712 (followed by 515/715)
+*2006 – MiniMed Paradigm REAL-Time 522/722
+*2010 – MiniMed Paradigm REAL-Time Revel 523/723<ref>http://wwwp.medtronic.com/Newsroom/NewsReleaseDetails.do?itemId=1268411129675&lang=en_US</ref>
+
+'''The [[Food and Drug Administration]] has at least six classifications for the various parts of the Minimed Paradigm System.'''
+
+{| class="wikitable" style="margin: 1em auto 1em auto"
+|+
+! Product code || Generic part name || Regulation number || Device classification code  || Description
+|-
+| MDS ||align=center| CGM || null  ||align=center| [[Premarket approval]]<ref>http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/PremarketSubmissions/PremarketApprovalPMA/default.htm</ref>  || Invasive glucose sensor
+|-
+| FMF ||align=center| Drug reservoir || 21CFR888.5860<ref>http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?FR=880.5860</ref> ||align=center| standards  || Piston syringe
+|-
+| NBW ||align=center| Glucose meter || 21CFR862.1345<ref>http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?FR=862.1345</ref>||align=center| standards  || Glucose test system
+|-
+| LZG/FRN ||align=center| Infusion/insulin pump || 21CFR888.5725<ref>http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?FR=880.5725</ref>||align=center| standards  || Infusion pump
+|-
+| FPA||align=center| Infusion set || 21CFR888.5440<ref>http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?FR=880.5440</ref>||align=center| standards  || Intravascular administration set
+|-
+| KZH ||align=center| Infusion set insertion system || 21CFR880.6920<ref>http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?FR=880.6920</ref>||align=center| standards  || Syringer needle introducer
+|}
+
+==Basis for CSII vs. MDI==
+Present day treatment has evolved from [[Conventional insulinotherapy|conventional 2 injections per day]], to multiple daily injections (MDI) 4-5 per day, to [[Intensive insulinotherapy|continuous subcutaneous insulin infusion]] (CSII) having basal doses of as little as 15 minutes and few bolus doses. The objective of CSII is to reduce the long-term variability of blood glucose by increasing the frequency of infusion. In 1995 the ADA issued the statement, "CSII is an acceptable alternative to multiple injection therapy in the management of Insulin Dependent Diabetes Mellitus".
+
+The [[Diabetes Control and Complications Trial]] (DCCT) study showed that CSII patients achieved an A1c of 7.3% (much better than the 9.1% achieved for conventional treatment).<ref>http://care.diabetesjournals.org/content/26/suppl_1/s28.full</ref> This large and controlled study also showed that improvement in [[glycemic control]] could reduce the incidence of microvascular complications for type 1 diabetes by 60%.<ref>http://diabetes.niddk.nih.gov/dm/pubs/control/</ref> The [[United Kingdom Prospective Diabetes Study]] (UKPDS) achieved similar conclusions when it studied glycemic control in patients with Type 2 diabetes. The UKPDS results proved that control of glucose levels to near-normal levels delays the onset and slow the progression of microvascular complications for Type 2 diabetes.
+
+The DCCT study did, however, find that there was an increase occurrence in episodes of [[hypoglycemia]] related to CSII as compared to conventional therapy. But at the time there were few studies on the use of combined CSII and [[blood glucose monitoring]]. Also, no rapid-acting insulin or pumps were in practice. Wainstein<ref>Wainstein, J. et al. Insulin pump therapy vs. MDI in obese Type 2 diabetic patients. Diabetes Medicine 2005; 22(8): 1037-1046.</ref> in 2005 reported on the [[efficacy]] of insulin therapy with CSII versus MDI in the treatment of 40 poorly controlled [[obese]] Type 2 diabetic patients. The results showed treatment with CSII significantly reduced HbAlc levels compared with treatment with MDI.<ref name = bcbs />
+
+One other study, the Epidemiology of Diabetes Interventions and Complications (EDIC) study, showed that treatment is durable. It was the first study to show that, in a 17 year span, controlling A1c with CSII can reduce risk of cardiovascular events by 42%.<ref>EDIC Study Research Group. Intensive diabetes treatment and cardiovascular disease in patients with type 1 diabetes. NEJM 2005; 353(25): 2643-2653</ref> But still little was published related to benefits of clinical use of combined CSII and blood glucose monitoring devices, especially CGM. Up until 2006 there were no clinical trials that reported outcomes comparing the use of insulin pumps in conjunction with glucose monitoring devices.<ref name = bcbs /> It was not until 2007 that clinical trials began: 1) Study to Compare Efficacy of the MiniMed Paradigm REAL-Time System Vs. MDI in Subjects Naive to Insulin Pump Therapy;<ref>http://clinicaltrials.gov/ct2/show/NCT00417989?intr=%22MiniMed+Paradigm+REAL-Time+System%22&rank=1</ref> 2) Feasibility Study of Effective Methods for Training Pump Naive Subjects To Use The Paradigm System And Evaluate Effectiveness.<ref>http://clinicaltrials.gov/ct2/show/NCT00530023?intr=%22MiniMed+Paradigm+REAL-Time+System%22&rank=2</ref> and 3) Use of Real-Time Continuous Glucose Monitoring System in Patients With Type 1 Diabetes Mellitus.<ref>http://clinicaltrials.gov/ct2/show/NCT00824148</ref>
+
+==Using the Paradigm==
+Using the Minimed Paradigm pump or CGM requires training.<ref>http://www.minimed.com/help/insulinpumps/</ref> There is a self-study provided by the manufacturer composed of the following basic steps:
+*Step 1: Open the box and remove the insulin pump.
+*Step 2: Read the Insulin Pump Therapy Workbook. Answer all questions in each section.
+*Step 3: Review chapters 1, 3, 4 in the Paradigm User Guide. Insert the battery. Practice pushing buttons as you follow the self-study materials. The pump is shipped in a mode that allows practicing without reservoir.
+*Step 4: Log onto "Pump School Online". Review all sections of the tutorial and practice using the insulin pump. Do the same for the CGM portion. Print the Certificate of Completion and bring to your training along with the physician prescription containing programmable pump data.
+
+The Minimed Paradigm pump or CGM should not be operated without training and consultation from a health care provider and manufacturer representative.
+
+==Benefits==
+The benefits of the Minimed Paradigm and CGM system are many, some highly significant in terms of reducing the probability of dangerous events, including overnight death or coma from extended period of untreated extreme [[hypoglycemia]], while others are a matter of convenience. These include high/low alarms for continuous nighttime monitoring and temporary basal rates. Others include immediate intervention capability to reduce glycemic variability; provides more frequent information that helps to understand cause and effect of life style; a better pancreas simulator compared to MDI; and more flexibility eating.<ref>Farkas-Hirsch R and Hirsch IB. Diabetes Spectrum. Vol 7 No 2. March/April 1994.</ref><ref>The Diabetes Control and Complications Trial Research Group. NEJM 1993;329:977–86.</ref><ref>Pharmacokinetics Of Continuous Subcutaneous Insulin Infusion. Lauritzen T, Pramming S, Deckert T, Binder C. Diabetologia.1983;24:326–9.</ref> Furthermore, it has been shown that CGM reduces long-term A1c, provides better control, and without increasing risk of hypoglycemia.<ref>Juvenile Diabetes Research Foundation (JDRF) Study per the ''New England Journal of Medicine''</ref>
+
+==Insurance coverage==
+{{globalize/USA|section|date=December 2010}}
+The MiniMed Paradigm 522 and 722 Insulin Pumps have a list price of $6,195 while the optional starter kit for the CGM components list for US $999.<ref>http://www.minimed.com/products/insulinpumps/faq.html#a10</ref> Insurance coverage for the CGM system is possible under pharmacy benefits (vs. durable medical benefits which have typically a 20% co-pay). Approximately 30% of American patients with typical "commercial" coverage can process their CGM under pharmacy, while 90% of American patients are actually eligible for coverage if they meet plan requirements. The estimated out-of-pocket cost is US $0.86 per day for pharmacy benefit or US $2.33 per day for durable medical benefit.<ref>"Achieving Better Diabetes Control Utilizing REAL-Time Glucose Technology", June 17, 2009 Medtronic, Inc.</ref>
+
+==Competitive devices==
+Competitive devices includes [[Deltec Cozmo]], [[Animas Corporation|Animas]] Ping, [[Insulet OmniPod]], [[Accu-chek]] Spirit Combo, and [[Sooil DiabecareIIS]].<ref>http://www.diabetesnet.com/diabetes_technology/insulin_pump_models.php</ref>
+
+==Future devices==
+It was 1996 when three Russian [[biomedical engineer]]s (Bobylev, Gromova, Toloknov) wrote, "To date, the feedback principle of insulin therapy is not fully implemented because the number of monitored [[physiological]] parameters is insufficient ... In the early 1960's, Kadish used a system consisting of a glucose sensor, a processor, and a pump to control glycemia in patients with diabetes." Later, this system was developed by Albisser.<ref>http://www.springerlink.com/content/q24421up322120t7/</ref> Today, nearly 50 years after Dr. Arnold Kadish's system, and after advancements as measured by [[Nobel prize]]s awarded in medicine, chemistry, and physics,<ref>http://nobelprize.org/nobel_prizes/medicine/laureates/</ref> and after more than 23 million people in the United States alone were diagnosed with diabetes in 2007, the industry continues to have the same basic description of a pump system in the marketplace, "a glucose sensor, a processor, and a pump" instead of "sensors, processors, and pumps".
+
+The ultimate long-term goal of future technology for a portable device for treating diabetes is to: a) eliminate all dependent peripheral devices, for example, calibration meter, injection syringes/pens, glucagon, etc.; b) manage very complex life situations with fully automated protocols, for example, respond to [[DKA]], sickness, extreme exercise/eating; and c) single on-off button control. This is absolutely not an impossible goal.
+
+There are vastly more complex and faster-responding systems that have sought solutions for control and whereby the engineering and mathematics of [[dynamical system]]s have provided such solutions. For starter, in [[control theory]] a true closed-loop feedback pump will have to infuse not just rapid-acting insulin for positive errors, but also infuse [[glucagon]] for negative errors. For managing complex life situations, the pump will need several [[Microelectromechanical systems|MEMS]]-based sensors to monitor more than just glucose, for example [[heart rate]], breathing, [[ECG]], temperature, [[Carbon dioxide|CO<sub>2</sub>]], [[Acidosis|blood pH]], dissolved [[Oxygen|O<sub>2</sub>]], etc.
+
+Currently, Medtronic has the following [[research and development]] projects in its pipeline: Next Generation REAL-Time Continuous Glucose Monitoring System; Next Generation Insulin Pump; Pre-filled Insulin Reservoirs; [[Artificial pancreas#First clinical tests: implantable insulin pumps and continuous glucose sensors|Implantable Insulin Pump]]; and [[Artificial pancreas]] (Semi-Automated System & Closed-Loop System).<ref>http://wwwp.medtronic.com/Newsroom/LinkedItemDetails.do?itemId=1101850830145&format=print&lang=en_US</ref> The industry trend in portable devices has piggybacked on the success of wireless technology<ref>http://iospress.metapress.com/content/qv5yaac7p1l5gvmh/</ref> but not on the success of other disciplines, such as [[dynamical system]], [[Cybernetics]] and [[adaptive systems]], for [[Root cause|root-cause]] solutions to close the "true" loop.<ref>http://www.google.com/patents/about?id=M293AAAAEBAJ</ref> While the slow-responding dynamics in the physiology of glucose regulation is not beyond the mathematics of [[PID controller]]s, 50 years of patient-perspective "advancement" says it is beyond the [[Corporate officer|corporate]], [[United States Congress|congressional]], and [[lobbying]] leaders. Also, the accuracy of existing continuous glucose monitoring systems poses a problem for an artificial pancreas.
+
+==References==
+*ADA - CSII [[Diabetes Care (journal)|Diabetes Care]] 2004; 27: S110.
+*ADA - Implications of the DCCT study. Diabetes Care 2002; 25: 25-27.
+*ADA - Implications of the UKPD Study. Diabetes Care 2002; 25: 28-32.
+*Bell D.S.H. and Fernando O. Improved glycemic control with use of CSII compared with MDI therapy. Endocrine Practice 2000; 6:257-360.
+*Binder C., Lauritzen T., Faber O., and Pramming S. Insulin pharmacokinetics. Diabetes Care 1984; 7:2
+*Bode B.W., Steed R.D., and Davidson P.C. Reduction in severe hypoglycemia with longterm CSII in type 1 diabetes, Diabetes Care 1996; 19:4.
+*Bode BW, et al. Diabetes Research and Clin Practice.1999;46:183-90; Diabetes Technol Ther.2004;6(2):105-13.
+*Boland E.A., Grey M., and et al. CSII - a new way to lower risk of severe hypoglycemia, improve metabolic control, and enhance coping in adolescents with type 1 diabetes. Diabetes Care 1999; 22: 11.
+*Carlton F.B. Recent advances in the pharmacologic management of diabetes mellitus. Emergency Medical Clinics of North America 2000; 18:4.
+*Chantelau E., Schiffers T., Schutze J., and Hansen B. Effect of patient-selected intensive insulin therapy on quality of life. Patient Education and Counseling 1997; 38: 167-713.
+*Crawford L.M., Sinha R.N., Odell R.M., and Comi R.J. Efficacy of insulin pump therapy: mealtime delivery is the key factor. Endocrine Practice 2000; 6:3.
+*The DCCT Research Group. [[JAMA (journal)|JAMA]]. 1997;227(5):374-4 Skyler JS. Diabtes Technol Ther. 2000.
+*The DCCT Research Group. Progression of retinopathy with intensive versus conventional treatment in the diabetes control and complications trial. 1994.
+*The DCCT/EDIC Study Research Group. Intensive diabetes treatment and cardiovascular disease in patients with type 1 diabetes. [[NEJM]] 2005; 353(25): 2643-2653.
+*The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus. Report of the expert committee on the diagnosis and classification of diabetes mellitus. Diabetes Care 2001; 24: 1.
+*[[Francine Ratner Kaufman|Kaufman FR]], et al. Diabetes Care. 2001;24(12):2030.
+*Floyd J.C., Cornell R.G., and et al. A prospective study identifying risk factors for discontinuance of insulin pump therapy. Diabetes Care. 1993; 16:11.
+*Haakens K., Hanssen K.F., and et al. CSII, MDI and conventional insulin therapy in self-selecting insulin-dependent diabetic patients. A comparison of metabolic control acute complications and patient preferences., J of Inter Med 1990; 228: 457-464.
+*Ludvigsson J, et al. [[Pediatrics (journal)|Pediatrics]]. 2003;111(5 Pt 1):933-8.
+*Marcus A.O. and Fernandez M.P. Insulin pump therapy; acceptable alternative to injecting therapy. [[Journal of Postgraduate Medicine|Postgraduate Medicine]] 1996; 99:3.
+*Mudaliar S. and Edelman S.V. Insulin therapy in type 2 diabetes. Endocrinology and Metabolism Clinics 2001; 39:4.
+*Pitzer KR, et al. Diabetes Care. 200;24:881-885.
+*Tsui E.Y.L, Chiasson J.L, and et al. Counterregulatory hormone responses after long-term CSII with lispro insulin. Diabetes Care 1998; 21:1.
+
+==Notes==
+{{Reflist}}
+
+[[Category:Medical equipment]]
+[[Category:Insulin therapies]]
+[[Category:Diabetes]]
+[[Category:Medtronic]]

@@ -1,0 +1,371 @@
+{{Infobox Disease
+| Name = Episodic ataxia
+| Image = 
+| Caption = 
+| DiseasesDB = 32380
+| ICDO = 
+| OMIM = 160120
+| OMIM_mult = {{OMIM2|108500}} {{OMIM2|606554}} {{OMIM2|606552}}
+| MedlinePlus = 
+| eMedicineSubj = neuro
+| eMedicineTopic = 556
+| MeshID = 
+}}
+'''Episodic ataxia''' (EA) is an [[autosomal dominant]] disorder characterized by sporadic bouts of [[ataxia]] (severe discoordination) with or without myokymia (continuous muscle movement). There are seven types recognised but the majority are due to two recognized entities.<ref name="Riant2011">Riant F, Vahedi K, Tournier-Lasserve E (2011) Hereditary episodic ataxia. Rev Neurol (Paris)</ref> Ataxia can be provoked by stress, startle, or heavy exertion such as exercise. Symptoms can first appear in infancy. There are at least 6 loci for EA, of which 4 are known genes. Some patients with EA also have migraine or progressive cerebellar degenerative disorders, symptomatic of either [[familial hemiplegic migraine]] or [[spinocerebellar ataxia]]. Some patients respond to [[acetazolamide]] though others do not.
+
+==Signs/Symptoms==
+Typically, episodic ataxia presents as bouts of [[ataxia]] induced by startle, stress, or exertion. Some patients also have continuous tremors of various motor groups, known as [[myokymia]]. Other patients have [[pathologic nystagmus|nystagmus]], [[vertigo (medical)|vertigo]], [[tinnitus]], [[diplopia]] or [[seizure]]s.
+
+==Cause==
+The various symptoms of EA are caused by dysfunction of differing areas. Ataxia, the most common symptom, is due to misfiring of [[Purkinje cell]]s in the [[cerebellum]]. This is either due to direct malfunction of these cells, such as in EA2, or improper regulation of these cells, such as in EA1. Seizures are likely due to altered firing of [[hippocampus|hippocampal]] [[neurons]] (KCNA1 null mice have seizures for this reason).
+
+==Pathophysiology==
+===EA1: KCNA1===
+[[Image:EA1.png|thumb|right|'''Figure 1.''' Schematic structure of K<sub>V</sub>1.1 with the episodic ataxia type 1 mutations noted in red.]]
+Type 1 episodic ataxia (EA1) is characterized by attacks of generalized [[ataxia]] induced by emotion or stress, with myokymia both during and between attacks. This disorder is also known as episodic ataxia with myokymia (EAM), hereditary paroxysmal ataxia with neuromyotonia and Isaacs-Mertens syndrome. Onset of EA1 occurs during early childhood to adolescence and persists throughout the patient's life. Attacks last from seconds to minutes. Mutations of the gene [[KCNA1]], which encodes the [[voltage-gated potassium channel]] K<sub>V</sub>1.1, are responsible for this subtype of episodic ataxia. K<sub>V</sub>1.1 is expressed heavily in basket cells and interneurons that form GABAergic synapses on [[Purkinje cell]]s. The channels aid in the repolarization phase of action potentials, thus affecting inhibitory input into Purkinje cells and, thereby, all motor output from the [[cerebellum]]. There are currently 17 K<sub>V</sub>1.1 mutations associated with EA1, Table 1 and Figure 1. 15 of these mutations have been at least partly characterized in [[cell culture]] based electrophysiological assays wherein 14 of these 15 mutations have demonstrated drastic alterations in channel function. As described in Table 1, most of the known EA1 associated mutations result in a drastic decrease in the amount of current through K<sub>V</sub>1.1 channels. Furthermore, these channels tend to activate at more positive potentials and slower rates, demonstrated by positive shifts in their V½ values and slower τ activation time constants, respectively. Some of these mutations, moreover, produce channels that deactivate at faster rates (deactivation τ), which would also result in decreased current through these channels. While these biophysical changes in channel properties likely underlie some of the decrease in current observed in experiments, many mutations also seem to result in misfolded or otherwise mistrafficked channels, which is likely to be the major cause of dysfunction and disease pathogenesis. It is assumed, though not yet proven, that decrease in K<sub>V</sub>1.1 mediated current leads to prolonged action potentials in interneurons and basket cells. As these cells are important in the regulation of Purkinje cell activity, it is likely that this results increased and aberrant inhibitory input into Purkinje cells and, thus, disrupted Purkinje cell firing and cerebellum output.
+{| class="wikitable" 
+|+Table 1. Mutations in ''KCNA1'' related to episodic ataxia type-1
+|- valign="bottom" 
+! rowspan="2" | Mutation
+! rowspan="2" | Position
+! rowspan="2" | Current amplitude<br>(% wild-type)
+! colspan="2" | Activation
+! rowspan="2" | Deactivation (τ)
+! rowspan="2" | Other
+! rowspan="2" | References
+|-
+! V½
+! τ
+|-
+! V174F
+| S1
+| style="background: red;" | 7.6%
+| style="background: red;" | 25mV positive
+| Unchanged
+| Unchanged
+| 
+| <ref name="Browne_1994">{{cite journal | author = Browne D, Gancher S, Nutt J, Brunt E, Smith E, Kramer P, Litt M | title = Episodic ataxia/myokymia syndrome is associated with point mutations in the human potassium channel gene, KCNA1. | journal = Nat Genet | volume = 8 | issue = 2 | pages = 136–40 | year = 1994 | pmid = 7842011 | doi = 10.1038/ng1094-136}}</ref><sup>,</sup><ref name="Browne_1995">{{cite journal | author = Browne D, Brunt E, Griggs R, Nutt J, Gancher S, Smith E, Litt M | title = Identification of two new KCNA1 mutations in episodic ataxia/myokymia families. | journal = Hum Mol Genet | volume = 4 | issue = 9 | pages = 1671–2 | year = 1995 | pmid = 8541859 | doi = 10.1093/hmg/4.9.1671}}</ref><sup>,</sup><ref name="Adelman_1995">{{cite journal | author = Adelman J, Bond C, Pessia M, Maylie J | title = Episodic ataxia results from voltage-dependent potassium channels with altered functions. | journal = Neuron | volume = 15 | issue = 6 | pages = 1449–54 | year = 1995 | pmid = 8845167 | doi = 10.1016/0896-6273(95)90022-5}}</ref><sup>,</sup><ref name="Zerr_1998">{{cite journal | author = Zerr P, Adelman J, Maylie J | title = Episodic ataxia mutations in Kv1.1 alter potassium channel function by dominant negative effects or haploinsufficiency. | journal = J Neurosci | volume = 18 | issue = 8 | pages = 2842–8 | year = 1998 | pmid = 9526001}}</ref>
+|-
+! I177N
+| S1
+| style="background: red;" | 5.9%
+| style="background: red;" | 60mV positive
+| style="background: red;" | Slower
+| style="background: red;" | Faster
+| Shorter mean open time and smaller single channel conductance
+| <ref name="Scheffer_1998">{{cite journal | author = Scheffer H, Brunt E, Mol G, van der Vlies P, Stulp R, Verlind E, Mantel G, Averyanov Y, Hofstra R, Buys C | title = Three novel KCNA1 mutations in episodic ataxia type I families. | journal = Hum Genet | volume = 102 | issue = 4 | pages = 464–6 | year = 1998 | pmid = 9600245 | doi = 10.1007/s004390050722}}</ref><sup>,</sup><ref name="Imbrici_2003">{{cite journal | author = Imbrici P, Cusimano A, D'Adamo M, De Curtis A, Pessia M | title = Functional characterization of an episodic ataxia type-1 mutation occurring in the S1 segment of hKv1.1 channels. | journal = Pflugers Arch | volume = 446 | issue = 3 | pages = 373–9 | year = 2003 | pmid = 12799903 | doi = 10.1007/s00424-002-0962-2}}</ref>
+|-
+! F184C
+| S1
+| style="background: red;" | 15.1%
+| style="background: red;" | 24mV positive
+| style="background: red;" | Slower
+| style="background: green;" | Slower
+| Fewer channels at membrane
+| <ref name="Browne_1995"/><sup>,</sup><ref name="Adelman_1995"/><sup>,</sup><ref name="Zerr_1998"/><sup>,</sup><ref name="Bretschneider_1999">{{cite journal | author = Bretschneider F, Wrisch A, Lehmann-Horn F, Grissmer S | title = Expression in mammalian cells and electrophysiological characterization of two mutant Kv1.1 channels causing episodic ataxia type 1 (EA-1). | journal = Eur J Neurosci | volume = 11 | issue = 7 | pages = 2403–12 | year = 1999 | pmid = 10383630 | doi = 10.1046/j.1460-9568.1999.00659.x}}</ref>
+|-
+! T226A
+| S2
+| style="background: red;" | 5%
+| style="background: red;" | 15mV positive
+| style="background: red;" | Slower
+| style="background: green;" | Slower
+| 
+| <ref name="Scheffer_1998"/><sup>,</sup><ref name="Zerr_1998b">{{cite journal | author = Zerr P, Adelman J, Maylie J | title = Characterization of three episodic ataxia mutations in the human Kv1.1 potassium channel. | journal = FEBS Lett | volume = 431 | issue = 3 | pages = 461–4 | year = 1998 | pmid = 9714564 | doi = 10.1016/S0014-5793(98)00814-X}}</ref>
+|-
+! T226M
+| S2
+| style="background: red;" | 5%
+| style="background: red;" | 15mV positive
+| style="background: red;" | Slower
+| style="background: red;" | Slower
+| 
+| <ref name="Zerr_1998"/><sup>,</sup><ref name="Comu_1996">{{cite journal | author = Comu S, Giuliani M, Narayanan V | title = Episodic ataxia and myokymia syndrome: a new mutation of potassium channel gene Kv1.1. | journal = Ann Neurol | volume = 40 | issue = 4 | pages = 684–7 | year = 1996 | pmid = 8871592 | doi = 10.1002/ana.410400422}}</ref>
+|-
+! T226R
+| S2
+| style="background: red;" | 3%
+| ?
+| ?
+| ?
+| 
+| <ref name="Zuberi_1999">{{cite journal | author = Zuberi S, Eunson L, Spauschus A, De Silva R, Tolmie J, Wood N, McWilliam R, Stephenson J, Kullmann D, Hanna M | title = A novel mutation in the human voltage-gated potassium channel gene (Kv1.1) associates with episodic ataxia type 1 and sometimes with partial epilepsy. | journal = Brain | volume = 122 | issue = 5| pages = 817–25 | year = 1999 | pmid = 10355668 | doi = 10.1093/brain/122.5.817}}</ref>
+|-
+! R239S
+| S2
+| style="background: red;" | 0%
+| NA
+| NA
+| NA
+| Improper trafficking
+| <ref name="Browne_1994"/><sup>,</sup><ref name="Adelman_1995"/><sup>,</sup><ref name="Zerr_1998b"/>
+|-
+! A242P
+| S2
+| style="background: red;" | 10%
+| style="background: green;" | 4mV Negative
+| style="background: red;" | Slower
+| style="background: green;" | Slower
+| 
+| <ref name="Eunson_2000">{{cite journal | author = Eunson L, Rea R, Zuberi S, Youroukos S, Panayiotopoulos C, Liguori R, Avoni P, McWilliam R, Stephenson J, Hanna M, Kullmann D, Spauschus A | title = Clinical, genetic, and expression studies of mutations in the potassium channel gene KCNA1 reveal new phenotypic variability | journal = Ann Neurol | volume = 48 | issue = 4 | pages = 647–56 | year = 2000 | pmid = 11026449 | doi = 10.1002/1531-8249(200010)48:4<647::AID-ANA12>3.0.CO;2-Q}}</ref>
+|-
+! P244H
+| S2-3
+| Unchanged
+| Unchanged
+| Unchanged
+| Unchanged
+| 
+| <ref name="Eunson_2000"/>
+|-
+! F249I
+| S2-3
+| style="background: red;" | 1%
+| Unchanged
+| Unchanged
+| style="background: green;" | Slower
+| Improper trafficking
+| <ref name="Browne_1994"/><sup>,</sup><ref name="Adelman_1995"/><sup>,</sup><ref name="Zerr_1998"/>
+|-
+! G311S
+| S3-4
+| style="background: red;" | 22.9%
+| style="background: red;" | 30mV positive
+| Unchanged
+| Unchanged
+| 
+| <ref name="Zerr_1998b"/>
+|-
+! E325D
+| S5
+| style="background: red;" | 7.7%
+| style="background: red;" | 52.4mV positive
+| style="background: green;" | Faster
+| style="background: red;" | Faster
+| Impaired translation or stability
+| <ref name="Browne_1995"/><sup>,</sup><ref name="Adelman_1995"/><sup>,</sup><ref name="Zerr_1998"/><sup>,</sup><ref name="D'Adamo_1998">{{cite journal | author = D'Adamo M, Liu Z, Adelman J, Maylie J, Pessia M | title = Episodic ataxia type-1 mutations in the hKv1.1 cytoplasmic pore region alter the gating properties of the channel | journal = EMBO J | volume = 17 | issue = 5 | pages = 1200–7 | year = 1998 | pmid = 9482717 | doi = 10.1093/emboj/17.5.1200 | pmc = 1170468}}</ref><sup>,</sup><ref name="D'Adamo_1999">{{cite journal | author = D'Adamo M, Imbrici P, Sponcichetti F, Pessia M | title = Mutations in the KCNA1 gene associated with episodic ataxia type-1 syndrome impair heteromeric voltage-gated K(+) channel function | journal = FASEB J | volume = 13 | issue = 11 | pages = 1335–45 | year = 1999 | pmid = 10428758}}</ref><sup>,</sup><ref name="Maylie_2002">{{cite journal | author = Maylie B, Bissonnette E, Virk M, Adelman J, Maylie J | title = Episodic ataxia type 1 mutations in the human Kv1.1 potassium channel alter hKvbeta 1-induced N-type inactivation | journal = J Neurosci | volume = 22 | issue = 12 | pages = 4786–93 | year = 2002 | pmid = 12077175}}</ref>
+|-
+! L329I
+| S5
+| ?
+| ?
+| ?
+| ?
+| 
+| <ref name="Knight_2000">{{cite journal | author = Knight M, Storey E, McKinlay Gardner R, Hand P, Forrest S | title = Identification of a novel missense mutation L329I in the episodic ataxia type 1 gene KCNA1--a challenging problem | journal = Hum Mutat | volume = 16 | issue = 4 | pages = 374 | year = 2000 | pmid = 11013453 | doi = 10.1002/1098-1004(200010)16:4<374::AID-HUMU15>3.0.CO;2-4}}</ref>
+|-
+! S342I
+| S5
+| ?
+| ?
+| ?
+| ?
+| 
+| <ref name="Lee_2004">{{cite journal | author = Lee H, Wang H, Jen J, Sabatti C, Baloh R, Nelson S | title = A novel mutation in KCNA1 causes episodic ataxia without myokymia | journal = Hum Mutat | volume = 24 | issue = 6 | pages = 536 | year = 2004 | pmid = 15532032 | doi = 10.1002/humu.9295}}</ref>
+|-
+! V404I
+| S6
+| Unchanged
+| style="background: red;" | 12mV positive
+| style="background: red;" | Slower
+| style="background: green;" | Slower
+| 
+| <ref name="Scheffer_1998"/><sup>,</sup><ref name="Eunson_2000"/>
+|-
+! V408A
+| C-terminus
+| style="background: red;" | 68%
+| Unchanged
+| style="background: green;" | Faster
+| style="background: red;" | Faster
+| Shorter mean open time, more and larger sIPSCs in Mice
+| <ref name="Browne_1994"/><sup>,</sup><ref name="Adelman_1995"/><sup>,</sup><ref name="Zerr_1998"/><sup>,</sup><ref name="Bretschneider_1999"/><sup>,</sup><ref name="D'Adamo_1998"/><sup>,</sup><ref name="D'Adamo_1999"/><sup>,</sup><ref name="Maylie_2002"/><sup>,</sup><ref name="Herson_2003">{{cite journal | author = Herson P, Virk M, Rustay N, Bond C, Crabbe J, Adelman J, Maylie J | title = A mouse model of episodic ataxia type-1 | journal = Nat Neurosci | volume = 6 | issue = 4 | pages = 378–83 | year = 2003 | pmid = 12612586 | doi = 10.1038/nn1025}}</ref>
+|-
+! R417X
+| C-terminus
+| style="background: red;" | 2%
+| style="background: red;" | 9mV positive
+| style="background: red;" | Slower
+| style="background: red;" | Faster
+| Misfolds and form membranous aggregates
+| <ref name="Eunson_2000"/><sup>,</sup><ref name="Manganas_2001">{{cite journal | author = Manganas L, Akhtar S, Antonucci D, Campomanes C, Dolly J, Trimmer J | title = Episodic ataxia type-1 mutations in the Kv1.1 potassium channel display distinct folding and intracellular trafficking properties | journal = J Biol Chem | volume = 276 | issue = 52 | pages = 49427–34 | year = 2001 | pmid = 11679591 | doi = 10.1074/jbc.M109325200}}</ref>
+|-
+| colspan="8" align="left" | Current amplitude refers to the amount of current through mutant versus wild-type channels in cell culture or oocyte assays. Activation V½ is the potential at which the population of channels is half maximally activated which the accompanying τ is the time constant of the populations activation. Deactivation τ is similar to that of activation, referring instead to the time constant of population closing. sIPSCs are spontaneous inhibitory post synaptic currents. Cells with a red background indicate that this property will result in decreased K<sub>V</sub>1.1 current while cells with a green background indicate increased current through this channel.
+|}
+
+===EA2: CACNA1A===
+[[Image:EA2.png|thumb|right|'''Figure 2.''' Schematic structure of Ca<sub>V</sub>2.1 with the episodic ataxia type 2 mutations noted in red.]]
+Type 2 episodic ataxia (EA2)is characterized by acetazolamide-responsive attacks of ataxia with or without migraine. Patients with EA2 may also present with progressive cerebellar atrophy, [[pathologic nystagmus|nystagmus]], vertigo, visual disturbances and dysarthria. These symptoms last from hours to days, in contrast with EA1, which lasts from seconds to minutes. Like EA1, attacks can be precipitated by emotional or physical stress, but also by [[coffee]] and [[alcohol]]. EA2 is caused by mutations in [[CACNA1A]], which encodes the P/Q-type voltage-gated calcium channel Ca<sub>V</sub>2.1, and is also the gene responsible for causing [[spinocerebellar ataxia type-6]] and [[familial hemiplegic migraine]] type-1. EA2 is also referred to as episodic ataxia with nystagmus, hereditary paroxysmal cerebellopathy, familial paroxysmal ataxia and acetazolamide-responsive hereditary paroxysmal cerebellar ataxia (AHPCA). There are currently 19 mutations associated with EA2, though only 3 have been characterized electrophysiologically, table 2 and figure 2. Of these, all result in decreased current through these channels. It is assumed that the other mutations, especially the splicing and frameshift mutations, also result in a drastic decrease in Ca<sub>V</sub>2.1 currents, though this may not be the case for all mutations. CACNA1A is heavily expressed in [[Purkinje cell]]s of the [[cerebellum]] where it is involved in coupling action potentials with neurotransmitter release. Thus, decrease in Ca<sup>2+</sup> entry through Ca<sub>V</sub>2.1 channels is expected to result in decreased output from Purkinje cells, even though they will fire at an appropriate rate. Alternatively, some CACNA1A mutations, such as those seen in [[familial hemiplegic migraine]] type-1, result in increased Ca<sup>2+</sup> entry and, thereby, aberrant transmitter release. This can also result in excitotoxicity, as may occur in some cases of [[spinocerebellar ataxia type-6]].
+{|class="wikitable"
+|+Table 2. Mutations in ''CACNA1A'' related to Episodic ataxia type-2
+! Mutation
+! Position
+! Effect
+! Cerebellar Signs
+! References
+|-
+! H253Y
+| D1-pore
+| ?
+| Yes
+| <ref name="Maagdenberg_2002">{{cite journal | author = van den Maagdenberg A, Kors E, Brunt E, van Paesschen W, Pascual J, Ravine D, Keeling S, Vanmolkot K, Vermeulen F, Terwindt G, Haan J, Frants R, Ferrari M | title = Episodic ataxia type 2. Three novel truncating mutations and one novel missense mutation in the CACNA1A gene | journal = J Neurol | volume = 249 | issue = 11 | pages = 1515–9 | year = 2002 | pmid = 12420090 | doi = 10.1007/s00415-002-0860-8}}</ref>
+|-
+! C271Y[[#asterisks|*]]
+| D1-pore
+| Decreased maximal current due to protein instability
+| Yes
+| <ref name="Wan_2005">{{cite journal | author = Wan J, Khanna R, Sandusky M, Papazian D, Jen J, Baloh R | title = CACNA1A mutations causing episodic and progressive ataxia alter channel trafficking and kinetics | journal = Neurology | volume = 64 | issue = 12 | pages = 2090–7 | year = 2005 | pmid = 15985579 | doi = 10.1212/01.WNL.0000167409.59089.C0}}</ref>
+|-
+! G293R[[#asterisks|*]]
+| D1-pore
+| Decreased maximal current due to protein instability
+| Yes
+| <ref name="Wan_2005"/><sup>,</sup><ref name="Yue_1997">{{cite journal | author = Yue Q, Jen J, Nelson S, Baloh R | title = Progressive ataxia due to a missense mutation in a calcium-channel gene | journal = Am J Hum Genet | volume = 61 | issue = 5 | pages = 1078–87 | year = 1997 | pmid = 9345107 | doi = 10.1086/301613 | pmc = 1716037}}</ref>
+|-
+! F624LfsX657
+| D2S5
+| ?
+| Yes
+| <ref name="Maagdenberg_2002"/>
+|-
+! Q681RfsX780
+| D2-pore
+| ?
+| Yes
+| <ref name="Maagdenberg_2002"/>
+|-
+! S753fsX780
+| D2S6
+| ?
+| Yes
+| <ref name="Denier_1999">{{cite journal | author = Denier C, Ducros A, Vahedi K, Joutel A, Thierry P, Ritz A, Castelnovo G, Deonna T, Gérard P, Devoize J, Gayou A, Perrouty B, Soisson T, Autret A, Warter J, Vighetto A, Van Bogaert P, Alamowitch S, Roullet E, Tournier-Lasserve E | title = High prevalence of CACNA1A truncations and broader clinical spectrum in episodic ataxia type 2 | journal = Neurology | volume = 52 | issue = 9 | pages = 1816–21 | year = 1999 | pmid = 10371528 | doi=10.1212/WNL.52.9.1816}}</ref>
+|-
+! P1266LfsX1293
+| D3S1
+| ?
+| Yes
+| <ref name="Denier_1999"/><sup>,</sup><ref name="Ophoff_1996">{{cite journal | author = Ophoff R, Terwindt G, Vergouwe M, van Eijk R, Oefner P, Hoffman S, Lamerdin J, Mohrenweiser H, Bulman D, Ferrari M, Haan J, Lindhout D, van Ommen G, Hofker M, Ferrari M, Frants R | title = Familial hemiplegic migraine and episodic ataxia type-2 are caused by mutations in the Ca2+ channel gene CACNL1A4 | journal = Cell | volume = 87 | issue = 3 | pages = 543–52 | year = 1996 | pmid = 8898206 | doi = 10.1016/S0092-8674(00)81373-2}}</ref>
+|-
+! R1278X
+| D3S1-2
+| ?
+| Yes
+| <ref name="Yue_1998">{{cite journal | author = Yue Q, Jen J, Thwe M, Nelson S, Baloh R | title = De novo mutation in CACNA1A caused acetazolamide-responsive episodic ataxia | journal = Am J Med Genet | volume = 77 | issue = 4 | pages = 298–301 | year = 1998 | pmid = 9600739 | doi = 10.1002/(SICI)1096-8628(19980526)77:4<298::AID-AJMG9>3.0.CO;2-J}}</ref>
+|-
+! F1391LfsX1429
+| D3S5
+| ?
+| Yes
+| <ref name="Maagdenberg_2002"/>
+|-
+! Y1443X
+| D3-pore
+| ?
+| Yes
+| <ref name="Denier_1999"/>
+|-
+! F1490K
+| D3S6
+| No current, though expressed
+| Yes
+| <ref name="Guida_2001">{{cite journal | author = Guida S, Trettel F, Pagnutti S, Mantuano E, Tottene A, Veneziano L, Fellin T, Spadaro M, Stauderman K, Williams M, Volsen S, Ophoff R, Frants R, Jodice C, Frontali M, Pietrobon D | title = Complete loss of P/Q calcium channel activity caused by a CACNA1A missense mutation carried by patients with episodic ataxia type 2 | journal = Am J Hum Genet | volume = 68 | issue = 3 | pages = 759–64 | year = 2001 | pmid = 11179022 | doi = 10.1086/318804 | pmc = 1274487}}</ref>
+|-
+! R1546X
+| D4S1
+| ?
+| Yes
+| <ref name="Denier_1999"/>
+|-
+! A1593_Y1594delinsD
+| D4S2
+| ?
+| Yes
+| <ref name="Denier_1999"/>
+|-
+! R1661H
+| D4S4
+| ?
+| Yes
+| <ref name="Friend_1999">{{cite journal | author = Friend K, Crimmins D, Phan T, Sue C, Colley A, Fung V, Morris J, Sutherland G, Richards R | title = Detection of a novel missense mutation and second recurrent mutation in the CACNA1A gene in individuals with EA-2 and FHM | journal = Hum Genet | volume = 105 | issue = 3 | pages = 261–5 | year = 1999 | pmid = 10987655 | doi = 10.1007/s004390051099}}</ref>
+|-
+! R1664Q[[#asterisks|*]]
+| D4S4
+| ?
+| Yes
+| <ref name="Tonelli_2006">{{cite journal | author = Tonelli A, D'Angelo M, Salati R, Villa L, Germinasi C, Frattini T, Meola G, Turconi A, Bresolin N, Bassi M | title = Early onset, non fluctuating spinocerebellar ataxia and a novel missense mutation in CACNA1A gene | journal = J Neurol Sci | volume = 241 | issue = 1–2 | pages = 13–7 | year = 2006 | pmid = 16325861 | doi = 10.1016/j.jns.2005.10.007}}</ref>
+|-
+! E1756K
+| D4-pore
+| ?
+| Yes
+| <ref name="Denier_2001">{{cite journal | author = Denier C, Ducros A, Durr A, Eymard B, Chassande B, Tournier-Lasserve E | title = Missense CACNA1A mutation causing episodic ataxia type 2 | journal = Arch Neurol | volume = 58 | issue = 2 | pages = 292–5 | year = 2001 | pmid = 11176968 | doi = 10.1001/archneur.58.2.292}}</ref>
+|-
+! Splicing
+| Intron 11
+| ?
+| Yes
+| <ref name="Denier_1999"/>
+|-
+! Splicing
+| Intron 26
+| ?
+| Yes
+| <ref name="Denier_1999"/>
+|-
+! Splicing
+| Intron 28
+| ?
+| Yes
+| <ref name="Ophoff_1996"/>
+|-
+| align="right" | <div id="asterisks">*</div>
+| colspan="4" | Also diagnosed as [[Spinocerebellar ataxia type-6]]
+|}
+
+===EA3: 1q42===
+Episodic ataxia type-3 (EA3) is similar to EA1 but often also presents with [[tinnitus]] and [[vertigo (medical)|vertigo]]. Patients typically present with bouts of ataxia lasting less than 30 minutes and occurring once or twice daily. During attacks, they also have vertigo, nausea, vomiting, tinnitus and [[diplopia]]. These attacks are sometimes accompanied by headaches and precipitated by stress, fatigue, movement and arousal after sleep. Attacks generally begin in early childhood and last throughout the patients' lifetime. Acetazolamide administration has proved successful in some patients.<ref name="Steckley_2001">{{cite journal | author = Steckley J, Ebers G, Cader M, McLachlan R | title = An autosomal dominant disorder with episodic ataxia, vertigo, and tinnitus | journal = Neurology | volume = 57 | issue = 8 | pages = 1499–502 | year = 2001 | pmid = 11673600}}</ref> As EA3 is extremely rare, there is currently no known causative gene. The locus for this disorder has been mapped to the long arm of chromosome 1 (1q42).<ref name="Cader_2005">{{cite journal | author = Cader M, Steckley J, Dyment D, McLachlan R, Ebers G | title = A genome-wide screen and linkage mapping for a large pedigree with episodic ataxia | journal = Neurology | volume = 65 | issue = 1 | pages = 156–8 | year = 2005 | pmid = 16009908 | doi = 10.1212/01.wnl.0000167186.05465.7c}}</ref>
+
+===EA4===
+Also known as periodic vestibulocerebellar ataxia, type-4 episodic ataxia (EA4) is an extremely rare form of episodic ataxia differentiated from other forms by onset in the third to sixth generation of life, defective smooth pursuit and gaze-evoked nystagmus. Patients also present with vertigo and ataxia. There are only two known families with EA4, both located in [[North Carolina]]. The locus for EA4 is unknown.
+
+===EA5: CACNB4===
+There are two known families with type-5 episodic ataxia (EA5). 
+
+These patients can present with an overlapping phenotype of ataxia and seizures similar to [[juvenile myoclonic epilepsy]]. 
+In fact, juvenile myoclonic epilepsy and EA5 are allelic and produce proteins with similar dysfunction. 
+
+Patients with pure EA5 present with recurrent episodes of ataxia with vertigo.
+Between attacks the have [[pathologic nystagmus|nystagmus]] and [[dysarthria]]. These patients are responsive to [[acetazolamide]]. 
+
+Both juvenile myoclonic epilepsy and EA5 are a result of mutations in [[CACNB4]], a gene that encodes the [[calcium channel]] β<sub>4</sub> subunit. This subunit coassembles with α-subunits and produces channels that slowly inactivate after opening.
+
+EA5 patients have a [[cysteine]] to [[phenylalanine]] mutation at position 104.
+
+Thus results in channels with 30% greater current than wild-type. 
+
+As this subunit is expressed in the [[cerebellum]], it is assumed that such increased current results in neuronal hyperexcitability
+
+Coding and noncoding variation of the human calcium-channel beta4-subunit gene CACNB4 in patients with idiopathic generalized epilepsy and episodic ataxia.
+
+===EA6: SLC1A3===
+Type-6 episodic ataxia (EA6) is a rare form of episodic ataxia, identified initially in a 10 year-old boy who first presented with 30 minute bouts of decreased muscle tone during infancy. He required "balance therapy" as a young child to aid in walking and has a number of ataxic attacks, each separated by months to years. These attacks were precipitated by fever. He has cerebellar atrophy and subclinical seizures. During later attacks, he also presented with distortions of the left hemifield, ataxia, slurred speech, followed by headache. After enrolling in school, he developed bouts of rhythmic arm jerking with concomitant confusion, also lasting approximately 30 minutes. He also has presented, at various times, with migraines. This patient carries a [[proline]] to [[arginine]] substitution in the fifth transmembrane-spanning segment of the gene [[SLC1A3]]. This gene encodes the excitatory amino acid transporter 1 (EAAT1) protein, which is responsible for [[glutamate]] uptake. In cell culture assays, this mutation results in drastically decreased glutamate uptake in a dominant-negative manner. This is likely due to decreased synthesis or protein stability. As this protein is expressed heavily in the [[brainstem]] and [[cerebellum]], it is likely that this mutation results in excitotoxicity and/or hyperexcitability leading to ataxia and seizures.<ref name="Jen_2005">{{cite journal | author = Jen J, Wan J, Palos T, Howard B, Baloh R | title = Mutation in the glutamate transporter EAAT1 causes episodic ataxia, hemiplegia, and seizures | journal = Neurology | volume = 65 | issue = 4 | pages = 529–34 | year = 2005 | pmid = 16116111 | doi = 10.1212/01.WNL.0000172638.58172.5a}}</ref> Mutations in EAAT1 (GLAST) have subsequently been identified in a family with episodic ataxia.<ref name="de Vries B 2009">{{cite journal | author = de Vries B, Mamsa H, Stam AH, et al. | title = Episodic ataxia associated with EAAT1 mutation C186S affecting glutamate reuptake | journal = Arch Neurol.| volume = 66 | issue = 1 | pages = 97–101 | year = 2009 |pmid = 19139306 | doi = 10.1001/archneurol.2008.535}}</ref>
+
+==Treatment==
+Depending on subtype, many patients find that [[acetazolamide]] therapy is useful in preventing attacks. In some cases, persistent attacks result in tendon shortening, for which surgery is required.
+
+==References==
+{{Reflist|2}}
+==External links==
+*[http://www.ataxia.org National Ataxia Foundation]
+*[http://www.episodicataxia.org Webpage of a patient with EA2, including information on EA in both English and Spanish including a blog on EA and a forum]
+* [http://www.ncbi.nlm.nih.gov/books/NBK25442/  GeneReviews/NCBI/NIH/UW entry on Episodic Ataxia Type 1,Episodic Ataxia with Myokymia, Hereditary Cerebellar Ataxia with Neuromyotonia]
+*[http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ea2  GeneReviews/NCBI/NIH/UW entry on Episodic ataxia type 2]
+
+
+{{Channelopathy}}
+{{Membrane transport protein disorders}}
+
+{{DEFAULTSORT:Episodic Ataxia}}
+[[Category:Channelopathy]]
+[[Category:Neurological disorders]]
+[[Category:Membrane transport protein disorders]]

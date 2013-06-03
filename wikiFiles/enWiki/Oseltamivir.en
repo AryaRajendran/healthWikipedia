@@ -1,0 +1,373 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459589411
+| IUPAC_name = ethyl (3R,4R,5S)-5-amino-4-acetamido-3-(pentan-3-yloxy)-cyclohex-1-ene-1-carboxylate
+| image = Oseltamivir.svg
+| image2 = Oseltamivir-3D-balls.png
+
+<!--Clinical data-->
+| tradename = Tamiflu
+| Drugs.com = {{drugs.com|monograph|tamiflu}}
+| MedlinePlus = a699040
+| pregnancy_AU = B1
+| pregnancy_US = C
+| legal_AU = Schedule 4
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = oral
+| licence_US = Oseltamivir
+| DailyMedID = 48517
+
+<!--Pharmacokinetic data-->
+| bioavailability = 75%
+| metabolism = [[Liver|Hepatic]], to GS4071
+| elimination_half-life = 6–10 hours
+| excretion = [[Kidney|Renal]] (GS4071)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 196618-13-0
+| ATC_prefix = J05
+| ATC_suffix = AH02
+| PubChem = 65028
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00198
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 58540
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 20O93L6F9H
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08306
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 7798
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1229
+
+<!--Chemical data-->
+| C=16 | H=28 | N=2 | O=4
+| molecular_weight = 312.4 g/mol
+| smiles = O=C(OCC)/C1=C/[C@@H](OC(CC)CC)[C@H](NC(=O)C)[C@@H](N)C1
+| InChI = 1/C16H28N2O4/c1-5-12(6-2)22-14-9-11(16(20)21-7-3)8-13(17)15(14)18-10(4)19/h9,12-15H,5-8,17H2,1-4H3,(H,18,19)/t13-,14+,15+/m0/s1
+| InChIKey = VSZGPKBBMSAYNT-RRFJBIMHBB
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H28N2O4/c1-5-12(6-2)22-14-9-11(16(20)21-7-3)8-13(17)15(14)18-10(4)19/h9,12-15H,5-8,17H2,1-4H3,(H,18,19)/t13-,14+,15+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VSZGPKBBMSAYNT-RRFJBIMHSA-N
+}}
+
+'''Oseltamivir''' [[International Nonproprietary Name|INN]] ({{IPAc-en|icon|ɒ|s|əl|ˈ|t|æ|m|ɨ|v|ɪər}}), marketed under the [[trade name]] '''Tamiflu''', is an [[antiviral drug]], which may slow the spread of [[influenza]] (flu) virus between cells in the body by stopping the virus from [[Viral neuraminidase|chemically cutting ties]] with its host cell.<ref name="pmid19665930">{{cite journal |author=Burch J |title=Prescription of anti-influenza drugs for healthy adults: a systematic review and meta-analysis |journal=Lancet Infect Dis |volume=9 |issue=9 |pages=537–45 |year=2009 |month=September |pmid=19665930 |doi=10.1016/S1473-3099(09)70199-9 |author-separator=, |author2=Corbett M |author3=Stock C |display-authors=3 |last4=Nicholson |first4=Karl |last5=Elliot |first5=Alex J |last6=Duffy |first6=Steven |last7=Westwood |first7=Marie |last8=Palmer |first8=Stephen |last9=Stewart |first9=Lesley }}</ref> The drug is taken orally in capsules or as a suspension. It is used to treat [[influenza A virus]] and [[influenza B virus]].
+Oseltamivir is a [[prodrug]], a (relatively) inactive chemical, which is converted into its active form by metabolic process after it is taken into the body. It was the first orally active [[neuraminidase inhibitor]] commercially developed.{{Citation needed|date=February 2010}} It was developed by C.U. Kim, W. Lew, and X. Chen of US-based [[Gilead Sciences]],<ref>{{cite journal| author = Lew W, Chen X, Kim CU| title = Discovery and development of GS 4104 (oseltamivir): an orally active influenza neuraminidase inhibitor| journal = Curr. Med. Chem.| volume = 7| issue = 6| pages = 663–72| year = 2000| month = June| pmid = 10702632}}</ref> and is marketed by [[Genentech]].<ref>
+{{cite web| work = Drugs@FDA| title = Tamiflu Approval, Review, and Labeling Information| publisher = [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA)| url = http://web.archive.org/web/20110521030440/http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.Overview&DrugName=TAMIFLU| accessdate = 2012-11-08}}</ref> 
+
+Several independent analyses of the dozens of double blind, randomized, controlled clinical trials have been published and generally conclude that neuramidase inhibitors such as oseltamivir are modestly effective in the treatment and prevention of influenza A and B infections,<ref>{{cite journal |author=Hsu J, Santesso N, Mustafa R, ''et al.'' |title=Antivirals for treatment of influenza: a systematic review and meta-analysis of observational studies |journal=Ann. Intern. Med. |volume=156 |issue=7 |pages=512–24 |year=2012 |month=April |pmid=22371849 |doi=10.1059/0003-4819-156-7-201204030-00411}}</ref><ref>{{cite journal |author=Muthuri SG, Myles PR, Venkatesan S, Leonardi-Bee J, Nguyen-Van-Tam JS |title=Impact of neuraminidase inhibitor treatment on outcomes of public health importance during the 2009-2010 influenza A(H1N1) pandemic: a systematic review and meta-analysis in hospitalized patients |journal=J. Infect. Dis. |volume=207 |issue=4 |pages=553–63 |year=2013 |month=February |pmid=23204175 |pmc=3549600 |doi=10.1093/infdis/jis726}}</ref><ref>{{cite journal |author=Wang K, Shun-Shin M, Gill P, Perera R, Harnden A |title=Neuraminidase inhibitors for preventing and treating influenza in children (published trials only) |journal=Cochrane Database Syst Rev |volume=4 |issue= |pages=CD002744 |year=2012 |pmid=22513907 |doi=10.1002/14651858.CD002744.pub4}}</ref> and together these studies suggest oseltamivir reduces the median time to symptom alleviation 0.5–1 day.<ref name="pmid19665930"/> There have been questions about its efficacy as the company that manufactures it ([[Hoffmann-La Roche|Roche]]) has refused to release the trial data for independent analysis.<ref name="pmid22258996"/>
+{{As of|2010|12|15|df=US}}, the [[World Health Organization]] (WHO) reported 314 samples of the prevalent [[2009 flu pandemic|2009 pandemic H1N1 flu]] tested worldwide have shown resistance to oseltamivir.<ref name="Update on oseltamivir resistance to influenza H1N1 (2009) viruses">{{cite web| url=http://www.who.int/csr/disease/influenza/2010_12_15_weekly_web_update_oseltamivir_resistance.pdf
+| title=Update on oseltamivir resistance to influenza H1N1 (2009) viruses
+| publisher=[[World Health Organization]] (WHO)
+| date= December 15, 2010
+| accessdate=December 30, 2010
+}}</ref>
+
+==Medical use==
+Oseltamivir is indicated for the treatment and prevention of infections due to influenza A and B viruses.<ref>[http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm107838.htm Tamiflu (oseltamivir phosphate) Information] [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA)</ref> The [[Centers for Disease Control and Prevention]] recommends physicians prioritize which patients to whom they prescribe oseltamivir: specifically, people hospitalized with more severe illness, children younger than two years old, adults over 65, pregnant women, people with certain chronic medical or immunosuppressive conditions and adults under 19 on long-term [[aspirin]] therapy. However, they also advise children and adults presenting with suspected flu who have symptoms of lower respiratory tract illness or clinical deterioration should also receive prompt empiric antiviral therapy, regardless of previous health or age.<ref>[http://www.cdc.gov/H1N1flu/antiviral.htm]{{verify source|date=December 2011}}</ref> The predominant strains of both influenza A and influenza B active during the 2012-2013 flu season in the US are sensitive to oseltamivir.<ref>http://www.cdc.gov/flu/about/qa/antiviralresistance.htm#antiviral-drugs</ref>
+
+The standard recommended dose incompletely suppresses viral replication in at least some patients with [[H5N1]] [[avian influenza]], increasing the risk of viral resistance and rendering therapy less effective.<ref name="de jong 2005">{{cite pmid|16371632}}</ref> Accordingly, higher doses and longer durations of therapy have been suggested for treatment of patients with the H5N1 virus.<ref name="de jong 2005"/><ref name="ward et al. 2005" >{{cite pmid|15709056}}</ref>
+
+Clinical trials for an increased dosage began in May 2007. All avian influenza cases in Indonesia, Thailand, and Vietnam were inducted into the trial. The trial also included 100 cases of severe seasonal influenza from each of those countries and the United States. Half received the current standard dose, and half received a double dose, but for the standard length of time.<ref>{{cite news
+|title = Double doses of Tamiflu for worst hit nations
+|url = http://www.iol.co.za/scitech/technology/double-doses-of-tamiflu-for-worst-hit-nations-1.320929
+|work = IOL
+|date = 2007-03-29
+|accessdate = 2009-07-29
+}}</ref>
+
+===Efficacy===
+The efficacy of Oseltamivir is disputed, as a significant amount of its clinical trial data remains unpublished by the drug's manufacturers. A meta-analysis done by Kaiser et al. and supported by manufacturer Hoffmann-La Roche, was published in 2003.<ref>{{cite journal |author=Kaiser L, Wat C, Mills T, Mahoney P, Ward P, Hayden F |title=Impact of oseltamivir treatment on influenza-related lower respiratory tract complications and hospitalizations|journal=Arch. Intern. Med. |volume=163 |issue=14 |pages=1667–72 |year=2003 |month=July |pmid=12885681|doi=10.1001/archinte.163.14.1667}}</ref> It concluded that oseltamivir can prevent complications of influenza such as pneumonia if it is taken within 48 hours of the first appearance of influenza symptoms. Kaiser's study was based on a summary of ten randomised controlled trials, of which only two had been published. The unpublished nature of most of the included trials would later cast doubts on Kaiser's conclusions.
+
+The [[Cochrane Collaboration]] had originally supported conclusions by Kaiser that the antiviral drug can ward off pneumonia and other serious conditions linked to influenza, but in 2009 reversed its previous findings. A previously published version of their review had included all trials mentioned in Kaiser's 2003 meta-analysis, even the unpublished ones. In 2009 they decided to exclude the unpublished trials. The Cochrane review reported an analysis of 20 studies which showed oseltamivir offered mild benefits in terms of duration of symptoms for healthy adults if taken within 24 hours of onset of symptoms, but found no clear evidence it prevented lower respiratory tract infections or other complications of influenza.<ref name="pmid19995812">{{cite journal |author=Jefferson T, Jones M, Doshi P, Del Mar C |title=Neuraminidase inhibitors for preventing and treating influenza in healthy adults: systematic review and meta-analysis |journal=BMJ |volume=339 |issue=|pages=b5106 |year=2009 |pmid=19995812 |pmc=2790574 |doi=10.1136/bmj.b5106|url=http://www.bmj.com/content/339/bmj.b5106.full}}</ref> These findings relate only to its use in healthy adults with influenza, not in patients judged to be at high risk of complications. It may still be a useful drug for reducing the duration of symptoms, although for this use it still has yet to be compared with [[non-steroidal anti-inflammatory drug|NSAID]]s or [[paracetamol]].<ref>{{cite journal|url=http://www.bmj.com/content/339/bmj.b5405.full|title=We want raw data, now|author=Fiona Godlee|journal=BMJ|year=2009|volume=339|page=b5405|doi=10.1136/bmj.b5405}}</ref>
+
+Roche commissioned an independent reanalysis of its data in 2011. One of the authors had received income from an organization sponsored by Roche previous but they were not funded by Roche for this analysis. They concluded that early oseltamivir use reduced the number of lower respiratory tract infection treated with antibiotics from 9.3% to  to 5.9% in hitherto healthy adults and children.<ref name=Her2011>{{cite journal |author=Hernán MA, Lipsitch M |title=Oseltamivir and risk of lower respiratory tract complications in patients with flu symptoms: a meta-analysis of eleven randomized clinical trials |journal=Clin. Infect. Dis. |volume=53 |issue=3 |pages=277–9 |year=2011 |month=August |pmid=21677258 |pmc=3137795 |doi=10.1093/cid/cir400}}</ref> No benefit occurred in those without an infection with influenza.<ref name=Her2011/>
+
+A subsequent Cochrane review, in 2012, maintains that significant parts of the clinical trials still remains unavailable for public scrutiny, and that the available evidence is not sufficient to conclude that oseltamivir decreases hospitalizations from influenza-like illnesses.<ref name="pmid22258996">{{cite journal |author=Jefferson T, Jones MA, Doshi P, ''et al.'' |title=Neuraminidase inhibitors for preventing and treating influenza in healthy adults and children |journal=Cochrane Database Syst Rev |volume=1 |issue= |pages=CD008965 |year=2012 |pmid=22258996 |doi=10.1002/14651858.CD008965.pub3}}</ref> As of October 2012, 60% of Roche's clinical data concerning oseltamivir remains unpublished.<ref>{{cite journal |author=Godlee F |title=Open letter to Roche about oseltamivir trial data |journal=BMJ|volume=345 |pages=e7305 |year=2012 |pmid=23109484 |doi=10.1136/bmj.e7305}}</ref>
+
+==Adverse effects==
+[[Image:Tamiflu.JPG|thumb|A package of capsules]]
+Common [[adverse drug reaction]]s (ADRs) associated with oseltamivir therapy (occurring in over 1&nbsp;percent of clinical trial participants) include: nausea, vomiting, diarrhea, abdominal pain, and headache. Rare ADRs include: [[hepatitis]] and elevated [[liver]] [[enzyme]]s, rash, allergic reactions including [[anaphylaxis]], and [[Stevens–Johnson syndrome]].<ref name="rocheinfo">[http://www.rocheusa.com/products/tamiflu/pi.pdf Tamiflu Prescribing Information]</ref><ref name="rossi 2006">Rossi S, editor. [[Australian Medicines Handbook]] 2006. Adelaide: Australian Medicines Handbook; 2006.</ref>
+
+Various other ADRs have been reported in postmarketing surveillance, including: [[toxic epidermal necrolysis]], [[cardiac arrhythmia]], seizure, confusion, aggravation of diabetes, and [[hemorrhage|haemorrhagic]] [[colitis]].<ref name="rocheinfo"/>
+
+There are concerns that oseltamivir may cause dangerous psychological, [[neuropsychiatric]] side effects including [[self-harm]] in some users. These dangerous side effects occur more commonly in children than in adults.<ref>{{cite news|url= http://www.medscape.com/viewarticle/547783 |title= Tamiflu May Be Linked to Risk for Self-Injury and Delirium|accessdate= 17 May 2008|last= Waknine|first= Yael |year= 2006 |work= Medscape }}</ref> This stems from cases in Japan, where the drug is most heavily prescribed, consuming 60&nbsp;percent of the world's production.<ref name="Parry - Times">{{cite news|url=http://www.timesonline.co.uk/tol/news/world/asia/article1549260.ece|title=Japan issues Tamiflu warning after child deaths|last=Parry|first=Richard Lloyd |date=March 21, 2007 |work=The Times|accessdate=2009-05-05|location=London}}</ref> Concern has focused on teenagers, but problems have also been reported in children and adults.{{citation needed|date=December 2011}}
+
+In March 2007, Japan's Health Ministry warned that oseltamivir should not be given to those aged 10 to 19. The Ministry had previously decided, in May 2004, to change the literature accompanying oseltamivir to include [[neurological]] and [[psychological]] disorders as possible adverse effects, including impaired consciousness, abnormal behavior, and [[hallucination]]s.<ref name="Parry - Times"/>
+
+According to Japan's Health Ministry, between 2004 and March 2007, fifteen people aged 10 to 19 have been injured or killed by jumps or falls from buildings after taking oseltamivir, and one 17-year-old died after he jumped in front of a truck.<ref name="Stock">{{cite news
+|title=Japan to keep stockpiling Tamiflu
+|url=http://www.smh.com.au/news/World/Japan-to-keep-stockpiling-Tamiflu/2007/03/28/1174761539222.html
+|agency=Reuters
+|newspaper=Sydney Morning Herald
+|date=2007-03-28
+|accessdate=2009-07-29
+}}</ref> A renewed investigation of the Japanese data was completed in April 2007. It found that 128 patients had been reported to behave abnormally after taking oseltamivir since 2001. Forty-three of them were under 10 years old, 57 patients were aged 10 to 19, and 28 patients were aged 20 or over. Eight people, including five teens and three adults, had died from these actions.<ref>{{cite news
+|title=Japan finds 128 abnormal cases in Tamiflu probe
+|work=Forbes
+|agency=AFX News Limited
+|url=http://www.forbes.com/feeds/afx/2007/04/05/afx3585482.html
+|date=2007-05-04
+|accessdate=2009-07-29
+}}</ref><!--nobreak
+--><ref name="Stock"/><ref>{{cite news
+|title=Japan links Tamiflu to 2 teen suicides
+|newspaper=San Francisco Chronicle
+|url=http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/11/15/MNG29FO9K71.DTL
+|last=Russell
+|first=Sabin
+|date=2005-11-15
+|accessdate=2009-07-29
+}}</ref>
+
+In October 2006, Shumpei Yokota, a professor of pediatrics at Yokohama City University, released the results of research involving around 2,800 children which found no difference in the behavior between those who took oseltamivir and those who did not. [[Chugai Pharmaceutical Co.]] (which produces oseltamivir in Japan{{citation needed|date=December 2011}}) gave Yokota's department 10 million yen (about US$105,000) over five years.<ref>{{cite doi|10.1038/446358a}}</ref>
+
+To determine whether to lift the 2007 ban, a research team from the Japanese Health, Labour and Welfare Ministry studied 10,000 children under the age of 18 who had been diagnosed with influenza since 2006. The study was finalized in April 2009. Taking into account all degrees of abnormal behavior, including minor behavioral problems such as incoherent speech, the study found children who took oseltamivir were 54 percent more likely to exhibit abnormal behaviour than those who did not take the drug. When the team limited its analysis to children who had displayed serious abnormal behavior that led to injury or death, it found those who had taken oseltamivir were 25&nbsp;percent more likely to behave unusually.<ref>{{cite news
+|title=Tamiflu linked to abnormal behaviour
+|url=http://www.smh.com.au/world/science/tamiflu-linked-to-abnormal-behaviour-20090420-ac3y.html
+|newspaper=[[Sydney Morning Herald]]
+|agency=Associated Press
+|date=2009-04-20
+|accessdate=2009-07-29
+}}</ref>
+
+In November 2006, the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) amended the warning label to include the possible side effects of [[delirium]], hallucinations, or other related behavior.<ref>{{cite news|title=Flu Drug Tamiflu May Cause Odd Behavior in Children|date=2006-11-13|url=http://www.forbes.com/forbeslife/health/feeds/hscout/2006/11/13/hscout536084.html|work=Forbes}} {{Dead link|date=December 2010|bot=RjwilmsiBot}}</ref> This went further than the FDA's previous pronouncement, from a year before, that there was insufficient evidence to claim a causal link between oseltamivir use and the deaths of 12 Japanese children (only two were from neurological problems, although more have died since then).<ref>Pediatric Advisory Committee. 2005. [http://www.fda.gov/ohrms/dockets/ac/05/briefing/2005-4180b_06_06_summary.pdf "Pediatric safety update for Tamiflu"]. [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA)</ref> The change to a more cautionary stance was attributed to 103 new reports the FDA received of delirium, hallucinations and other unusual psychiatric behavior, mostly involving Japanese patients, received between August 29, 2005 and July 6, 2006. This was an increase from the 126 similar cases logged between the drug's approval in 1999 and August 2005.<ref>{{cite news
+|title=FDA adds 'abnormal behavior' precaution to Tamiflu label
+|agency=Associated Press
+|newspaper =[[USA Today]]
+|date=2006-11-14
+|accessdate=2009-07-29
+|url=http://www.usatoday.com/news/health/2006-11-13-tamiflu_x.htm
+}}</ref>
+
+Roche points out{{when|date=December 2011}} that oseltamivir has been used to treat over 50 million people since 1999, and states the influenza may itself cause psychological problems.{{citation needed|date=December 2011}}
+
+In March 2007, the European Medicines Agency said that the benefits of oseltamivir outweighed the costs, but that it would closely monitor reports from Japan.{{citation needed|date=December 2011}}
+
+In April 2007, South Korea issued a safety warning against prescribing oseltamivir to teenagers except in special cases.<ref>{{cite news
+|title=SKorea suspends Tamiflu use for young people - official
+|url = http://www.forbes.com/feeds/afx/2007/04/05/afx3585631.html
+|date=2007-04-05
+|accessdate=2009-07-29
+|work=Forbes
+|agency=AFX News Limited
+}}</ref>
+
+A joint investigation by the British Medical Journal (BMJ) and British TV Channel 4 published in the BMJ on December 8, 2009,<ref name="pmid19995812"/> concluded that in otherwise healthy adults they "have no confidence in claims that oseltamivir reduces the risk of complications and hospital admission in people with influenza" and believe it should not be used in routine control of seasonal influenza. There was also concern about underreporting of side effects of the drug. In contrast, according to the BMJ, Roche has stated in media briefings that oseltamivir reduced hospital admissions by 61&nbsp;percent; secondary complications (including bronchitis, pneumonia, and sinusitis) by 67&nbsp;percent in otherwise healthy individuals and lower respiratory tract infections requiring antibiotics by 55&nbsp;percent.{{citation needed|date=December 2011}}
+
+BMJ editor Dr. Fiona Godlee, said "claims that oseltamivir reduces complications have been a key justification for promoting the drug's widespread use. Governments around the world have spent billions of pounds on a drug that the scientific community has found itself unable to judge."<ref>{{cite doi|10.1136/bmj.b5351}}</ref>
+
+There is evidence that oseltamivir has a modest effect in reducing some minor flu symptoms and contagiousness in otherwise healthy adults by about one day, but this is probably not the main reason most doctors are prescribing the drug for their patients. This less important benefit may well be offset by the risks of the drug.{{citation needed|date=December 2011}}
+
+===Mutagenesis===
+
+Although found to be nonmutagenic in the [[Ames test]] and the mouse [[micronucleus test]], oseltamivir tested positive in the Syrian hamster embryo (SHE) cell transformation test.<ref>http://www.drugs.com/pro/tamiflu.html</ref><ref>http://www.fda.gov/downloads/Drugs/DrugSafety/DrugShortages/UCM183850.pdf</ref>
+
+==Resistance==
+The vast majority of mutations conferring resistance are single [[amino acid]] residue substitutions (His274Tyr in N1) in the [[neuraminidase]] enzyme.<ref name="ward et al. 2005"/>
+
+===2009 pandemic H1N1 flu===
+{{As of|2010|12|15|df=US}}, the [[World Health Organization]] (WHO) reported 314 samples of the prevalent [[2009 flu pandemic|2009 pandemic H1N1 flu]] tested worldwide have shown resistance to oseltamivir.<ref name="Update on oseltamivir resistance to influenza H1N1 (2009) viruses"/>
+
+A study published in the June 2009 issue of [[Nature Biotechnology]] also emphasized the need for augmentation of oseltamivir stockpiles with additional antiviral drugs, including [[zanamivir]] (Relenza), based on an evaluation of the performance of these drugs in the scenario that the 2009 H1N1 neuraminidase (NA) were to acquire the oseltamivir-resistance mutation.<ref>{{cite journal | doi = 10.1038/nbt0609-510 | title = Extrapolating from sequence--the 2009 H1N1 'swine' influenza virus | author = Soundararajan V | coauthors = Tharakaraman K, Raman R, Raguram S, Shriver Z, Sasisekharan V, Sasisekharan R | date = 9 June 2009 | journal = [[Nature Biotechnology]] | volume = 27 | issue = 6 | pages = 510–3 | pmid = 19513050 }}</ref>
+
+===Seasonal flu===
+Resistance to Oseltamivir was widespread in seasonal flu from 2007-2009.  In the 2007-2008 flu season, the US CDC found 10.9% of H1N1 samples (n=1,020) to be resistant.<ref>http://www.cdc.gov/flu/weekly/weeklyarchives2007-2008/07-08summary.htm</ref>  In the 2008-2009 season, the proportion of resistant H1N1 increased to 99.4%.  Other seasonal strains (H3N2, B) showed no resistance.<ref>http://www.cdc.gov/flu/weekly/weeklyarchives2008-2009/08-09summary.htm</ref>  All Oseltamivir resistant strains maintained sensitivity to zanamivir.
+
+Resistance to Oseltamivir has been low in seasonal flu from 2009-2012.  In the 2010-2011 flu season, the US CDC reported maintained Oseltamivir sensitivity in 99.1% of H1N1 (n=4,229), 99.8% of H3N2 (n=806), and 100% of Influenza B (n=723) samples tested.<ref>http://www.cdc.gov/flu/weekly/weeklyarchives2010-2011/10-11summary.htm</ref>  As of January 2012, the US and European CDCs were reporting sensitivity to Oseltamivir for all (n=103) seasonal flu samples tested since October 2011.<ref>http://www.cdc.gov/flu/weekly/weeklyarchives2011-2012/weekly51.htm</ref><ref>http://www.ecdc.europa.eu/en/publications/Publications/111230_SUR_Weekly_Influenza_Surveillance_Overview.pdf</ref>
+
+===H3N2===
+[[Mutant]] [[H3N2]] influenza A virus isolates resistant to oseltamivir were found in 18&nbsp;percent of a group of 50 Japanese children treated with oseltamivir in 2002-2003.<ref name="kiso et al. 2004">{{cite pmid|15337401}}</ref> Several explanations were proposed by the authors of the studies for the higher-than-expected resistance rate detected. First, children typically have a longer infection period, giving a longer time for resistance to develop. Second, Kiso ''et al.'' claim to have used more rigorous detection techniques than previous studies.<ref name="kiso et al. 2004"/>  Inadequate dosage may also have been an issue.<ref name="ward et al. 2005" />
+
+===Influenza B===
+
+In 2007, Japanese investigators detected neuraminidase-resistant influenza B virus strains in individuals who had not been treated with these drugs. The prevalence was 1.7&nbsp;percent.<ref>{{cite pmid|17405969}}</ref> According to the CDC, {{as of|2009|October|3|df=US|lc=on}} no influenza B strains tested have shown any resistance to oseltamivir.
+
+===H5N1 avian influenza===
+High-level resistance has been detected in one girl suffering from H5N1 avian influenza in [[Vietnam]]. She was being treated with oseltamivir at time of detection.<ref>{{cite pmid|16228009}}</ref><ref>
+{{cite web
+|publisher=World Health Organization
+|title=WHO intercountry-consultation. Influenza A/H5N1 in humans in Asia. Manila, Philippines, 6–7 May 2005
+|date=May 2005
+|url=http://www.who.int/csr/resources/publications/influenza/WHO_CDS_CSR_GIP_2005_7/en/
+}}</ref> de Jong ''et al.'' (2005) describe resistance development in two more Vietnamese patients suffering from H5N1, and compare their cases with six others. They suggest the emergence of a [[resistant strain]] may be associated with a patient's clinical deterioration. They also note the recommended dosage of oseltamivir does not always completely suppress viral replication, a situation that could favor the emergence of resistant strains. Moscona (2005) gives a good overview of the resistance issue, and says that personal stockpiles of oseltamivir could lead to underdosage and thus the emergence of resistant strains of H5N1.<ref name="moscona 2005">{{cite pmid|16371626}}</ref>
+
+Resistance is of concern in the scenario of an influenza pandemic (Wong and Yuen 2005), and may be more likely to develop in avian influenza than seasonal influenza due to the potentially longer duration of infection by novel viruses. Kiso ''et al.'' suggest "a higher prevalence of resistant viruses should be expected" during a pandemic.<ref name="kiso et al. 2004"/> Resistant strains have also appeared in the [[EU]].<ref name=collins>{{cite journal| author=Collins PJ, Haire LF, Lin YP, Liu J, Russell RJ, Walker PA, Skehel JJ, Martin SR, Hay AJ, Gamblin SJ | title=Crystal structures of oseltamivir-resistant influenza virus neuraminidase mutants | journal=Nature | year=2008 | month = June | pages=1258–61 | volume=453
+| doi=10.1038/nature06956| pmid=18480754| issue=7199|bibcode = 2008Natur.453.1258C }}</ref><ref name=garcia-sosa>{{cite journal | author=Garcia-Sosa AT, Sild S, Maran U | title=Design of multi-binding-site inhibitors, ligand efficiency, and consensus screening of avian influenza H5N1 wild-type neuraminidase and of the oseltamivir-resistant H274Y variant | journal=J. Chem. Inf. Model. | year=2008 | month = October | pages=2074–80 | volume=48 | issue=10 | pmid=18847186 | doi=10.1021/ci800242z }}</ref>
+
+==Mechanism of action==
+The prodrug oseltamivir is itself not virally effective; however, once in the [[liver]] it is [[hydrolysis|hydrolysed]] to its active metabolite - the free [[carboxylic acid|carboxylate]] of oseltamivir (GS4071).<ref name="rocheinfo" />
+
+Oseltamivir is a [[neuraminidase inhibitor]], serving as a [[competitive inhibitor]] of the activity of the viral neuraminidase (NA) enzyme upon [[sialic acid]], found on [[glycoproteins]] on the surface of normal host cells. By blocking the activity of the enzyme, oseltamivir prevents new viral particles from being released by infected cells.<ref name="rocheinfo" />
+
+==Commercial issues==
+The [[patent]] for oseltamivir is held by Gilead Sciences and is valid at least until 2016. Gilead licensed the exclusive rights to Roche in 1996. The drug does not enjoy patent protection in Thailand, the Philippines, Indonesia and several other countries.<ref>[http://www.wipo.int/wipo_magazine/en/2006/02/article_0005.html Avian Flu Drugs: Patent Questions], WIPO Magazine, April 2006</ref> Gilead is politically well connected: [[Donald Rumsfeld]] served as chairman from 1997 until he became U.S. Secretary of Defense in 2001; former Secretary of State [[George Shultz]] and the wife of former California Governor [[Pete Wilson]] serve on the board.<ref>Schwartz, Nelson (October 31, 2005). [http://money.cnn.com/2005/10/31/news/newsmakers/fortune_rumsfeld/ "Rumsfeld's growing stake in Tamiflu: Defense Secretary, ex-chairman of flu treatment rights holder, sees portfolio value growing"]. ''Fortune''. Retrieved November 28, 2005.</ref>
+
+Oseltamivir was widely used during the H5N1 avian influenza [[epidemic]] in [[Southeast Asia]] in 2005. In response to the epidemic, various governments &ndash; including those of the [[United Kingdom]], [[Canada]], [[Israel]], [[United States]] and [[Australia]] &ndash; stockpiled quantities of oseltamivir in preparation for a possible [[pandemic]].{{citation needed|date=December 2011}}
+
+In late October 2005, Roche announced it was suspending shipments to pharmacies in the United States and Canada until the North American seasonal flu outbreak began, to address concerns about private stockpiling and to preserve supplies for seasonal influenza.<ref>{{cite news
+|title=Roche to suspend Tamiflu shipments to US private sector
+|url=http://www.forbes.com/feeds/afx/2005/10/27/afx2305441.html
+|agency=AFX News Limited
+|work=Forbes
+|date=2005-10-27
+|accessdate=2009-07-29
+}}</ref> Sales were suspended in Hong Kong as well, and on November 8, 2005, also in China. Roche said it would instead send all supplies to China's health ministry.<ref>{{cite news
+|title=Man dies of bird flu in Vietnam
+|date=2005-11-09
+|url=http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=59824&version=1&template_id=45&parent_id=25
+|work=Gulf Times
+|accessdate=2009-09-27
+}}</ref>
+
+On November 9, 2005, Vietnam became the first country to be granted permission by Roche to produce a generic version of oseltamivir.<ref>{{cite news
+|author=Tran Van Minh
+|title=Vietnam to produce generic bird-flu drug
+|date=2005-11-09
+|agency=Associated Press
+|newspaper=[[The Washington Post]]
+|accessdate=2009-07-29
+|url=http://www.washingtonpost.com/wp-dyn/content/article/2005/11/09/AR2005110900384.html
+}}</ref> The week before, Thai authorities said they would begin producing generic oseltamivir, claiming that Roche had not patented Tamiflu in Thailand.<ref>{{cite news
+|title=Roche lets Vietnam make Tamiflu
+|author=Le Thang Long
+|date=2005-11-10
+|newspaper=The Standard
+|accessdate=2009-07-29
+|url=http://www.thestandard.com.hk/news_print.asp?art_id=5316&sid=5402626
+}}</ref> The first Thai generic oseltamivir was produced in February 2006, and was to have been available to the public in July 2006.{{citation needed|date=December 2011}}
+
+In November 2005, U.S. President [[George W. Bush]] requested that Congress fund US$1&nbsp;billion for the production and stockpile of oseltamivir, after Congress had already approved $1.8&nbsp;billion for military use of the drug. Defense Secretary Rumsfeld recused himself from all government decisions regarding the drug.<ref>Shannon Brownlee and Jeanne Lenzer (November 2009) [http://www.theatlantic.com/doc/200911/brownlee-h1n1 "Does the Vaccine Matter?"], ''[[The Atlantic]]''</ref>
+
+In December 2005, Roche signed a sublicense for complete oseltamivir production with China's Shanghai Pharmaceuticals, and by March 2006, a sublicense had also been granted to India's Hetero.<ref name="people 1">{{cite news
+|title=China-made Tamiflu approved for production
+|work=People's Daily
+|date=2006-06-13
+|url=http://english.people.com.cn/200606/13/eng20060613_273717.html
+|accessdate=2009-07-29
+}}</ref><ref>{{cite news
+|title=Making Tamiflu
+|date=2006-03-20
+|work=Chemical & Engineering News
+|last=McCoy
+|first=Michael
+|url=http://pubs.acs.org/cen/news/84/i12/8412notw7.html
+|accessdate=2009-07-29
+}}</ref>
+
+In May 2006, the WHO asked Roche to be ready to ship an emergency stockpile of oseltamivir to Indonesia if needed. The alert was in response to suspected human-to-human transmission within a family, and was planned to last for two weeks.<ref>{{cite news
+|title=WHO puts Tamiflu maker on alert after suspected human-to-human transmission
+|date=2006-05-27
+|work=Medical News Today
+|accessdate=2009-07-29
+|url=http://www.medicalnewstoday.com/articles/44155.php
+}}</ref>
+
+In December 2008, the Indian drug company, [[Cipla]] won its case in India's court system allowing it to manufacture a cheaper generic version of Tamiflu, called Antiflu. In May 2009, Cipla won approval from the WHO certifying that its drug Antiflu was as effective as Tamiflu, and Antiflu is included in the WHO list of prequalified medicinal products.<ref>{{cite news
+|title=Cipla's anti-flu drug gets nod
+|date=2009-05-14
+|work=Times of India
+|accessdate=2009-07-29
+|url=http://timesofindia.indiatimes.com/Business/India-Business/Ciplas-anti-flu-drug-gets-nod/articleshow/4526891.cms
+}}</ref>
+[[Image:tamiflu-display-trailer-miami.jpg|thumb|right|300px|Marketing display used at festivals features a person living in a hermetically sealed environment]]
+
+===Production shortage/shikimic acid===
+In early 2005, Roche announced a production shortage. (See [[#Pandemic Fears|Pandemic Fears]], above). In 2006, however, Roche said production was about to reach 400-million treatment courses annually, that "capacity was well in excess of total government orders placed to date," and "the supply shortage no longer exists." Total government orders between 2005 and 2007 were estimated to be around 200 million treatment doses. In fact, Roche CEO William Burns said a shortage of orders could cause Roche to reduce production in the future. Roche attributes production increases in part to its agreements with 15 external contractors in 9 countries.<ref name="roche.com"/><ref name="Boost"/><ref>{{cite press release
+|title=Roche update on Tamiflu for pandemic influenza preparedness
+|date=2006-03-16
+|url=http://www.roche.com/med-cor-2006-03-16
+|accessdate=2009-07-29
+}}</ref>
+
+While current demand for seasonal influenza treatment and pandemic stockpiling are being met, it is unclear what the situation would be if a pandemic actually started. Doctors are now testing a doubling of the standard dose with the hope it would cut H5N1 influenza virus death rate.<ref>{{cite news
+|title=Doctors test double Tamiflu dose to cut H5N1 deaths
+|agency=Retuers
+|date=2007-03-28
+|accessdate=2009-07-29
+|url=http://www.alertnet.org/thenews/newsdesk/HKG133031.htm
+}}</ref> If this became the new standard, it would decrease the effective supply.
+
+According to Roche, the major bottleneck in oseltamivir production is the availability of [[shikimic acid]], which cannot be synthesised economically and is only effectively isolated from Chinese [[star anise]], an ancient cooking spice; the herb is also used in [[traditional Chinese medicine]]. Although most [[autotroph]]ic organisms produce shikimic acid, the isolation yield is low. A shortage of star anise is one of the key reasons why there was a worldwide shortage of Tamiflu in 2005. Star anise is grown in four provinces in China and harvested between March and May. It is also produced in [[Lạng Sơn Province]], Vietnam. The shikimic acid is extracted from the seeds in a ten-stage process. Thirteen grams of star anise make 1.3&nbsp;grams of shikimic acid, which can be made into 10 oseltamivir 75&nbsp;mg capsules. Ninety percent of the harvest is already used by Roche in making oseltamivir.{{citation needed|date=December 2011}}
+
+Some academic experts{{Who|date=April 2009}} and other drug companies are disputing the difficulty of producing [[shikimic acid]] by means other than [[star anise]] extraction. An alternative method for production of the acid involves fermentation of genetically modified bacteria. Recently, biosynthetic pathways in ''[[Escherichia coli]]'' have been enhanced to allow the organism to accumulate enough shikimic acid to be used commercially.<ref>{{cite doi|10.1038/nrd1917}}</ref><ref>
+{{cite doi|10.1016/j.ymben.2003.09.001}}</ref><ref>
+{{cite doi|10.1002/bit.20546}}</ref> Canadian generic drug company [[Apotex]] is attempting{{when|date=December 2011}} to modify oseltamivir to use a synthetic alternative to shikimic acid. Other potential sources of shikimic acid include the [[Liquidambar|sweetgum]] and [[Ginkgo biloba|ginkgo]] trees. [[Quinic acid]], derived from the bark of the [[cinchona]] tree, is a potential alternative base material for the production of oseltamivir. In addition, [[aminoshikimic acid]], biosynthesized via fermentation of genetically modified bacteria,<ref>{{cite doi|10.1021/ol049666e}}</ref> is a very promising alternative starting material for the production of oseltamivir.
+
+The multistep synthesis above shows that although the major bottleneck for Roche may be the availability of shikimic acid, production of oseltamivir is very involved. Increasing production volume (by Roche or others) would require construction of extensive new facilities (which may not be amenable to scaleup and, even if identical on paper, may not necessarily produce acceptable yields), and even if current facilities could handle a larger feedstock quantity, there would be a delay in production as the material makes it down the pipeline (~6 months or so). Producing large amounts of Tamiflu not only takes months to complete, but is also hazardous. Some of the steps in the synthesis require careful handling and relatively mild reaction conditions, as they involve the use of potentially explosive azide chemistry. Roche has explored ways to speed up production.<ref>{{cite doi|10.2533/000942904777677605}}</ref> It has developed an azide-free allylamine route from the epoxide to Tamiflu. It has also crafted routes that do not rely on (–)-shikimic acid: a Diels-Alder-based one that uses furan and ethyl acrylate as starting materials, and another that relies on catalytic hydrogenation of an [[isophthalic acid]] derivative followed by enzymatic desymmetrization. In addition, Frost and Guo at [[Michigan State University]] have developed a microbial synthesis of aminoshikimic acid, which could reduce the need for azide chemistry if used as a starting material.<ref>{{patent|US|7977077|"Synthesis of oseltamivir carboxylates"}}</ref>
+
+==Personal stockpiling==
+A short supply of oseltamivir prompted some individuals to stockpile the drug. Several American states issued advisories strongly discouraging this practice. Production has since caught up with current demand ([[#Production shortage/shikimic acid|see above]]).{{citation needed|date=December 2011}}
+
+In ''[[The New England Journal of Medicine]]'', Anne Moscona (2005) argues that the use of personal stockpiles of oseltamivir could result in the administration of low dosages, allowing for the development of drug-resistant virus strains.<ref name="moscona 2005"/> Many stockpilers will only have ten 75&nbsp;mg pills (the current{{when|date=December 2011}} recommended dosage for oseltamivir), but this may be insufficient for the treatment of H5N1.<ref name="de jong 2005" />
+
+Another argument against individual stockpiling is that limited drugs should be kept for more strategic deployment, that is, to hard-hit areas, to people in critical roles (e.g., healthcare and government workers), to people vulnerable to seasonal flu, or to people who actually have come down with avian influenza. Ethical arguments are sometimes made as to whether affluent people or nations should have preferred access to antiviral medications. Illegal importation might divert the drug from poorer countries where the risk of avian influenza is actually higher. A counter argument is that it is difficult to justify prohibition of individual stockpiling, when some of the same arguments are pertinent to [[corporate]] stockpiling, which is both allowed and encouraged.<ref name="roche.com">{{cite press release
+|title=Tamiflu readily available for 2006/2007 influenza season
+|publisher=Roche
+|date=2006-10-02
+|accessdate=2009-07-29
+|url=http://www.roche.com/med-cor-2006-10-02
+}}</ref>
+
+A third argument is that it would be difficult for home users to determine whether illegally imported Tamiflu is counterfeit. In December 2005, 53 packages of counterfeit Tamiflu tablets were intercepted by the US Customs Service in South San Francisco. The packages were labeled "Generic Tamiflu". Roche officials know of only one instance of counterfeit Tamiflu appearing outside of the United States: incorrectly labeled tablets found in Holland, which contained only vitamin C and lactose.<ref>{{cite pmid|15070787}}</ref>
+
+An argument in favor of individual stockpiling is that Roche is on the record as saying that without more orders, they may have to actually curtail production.<ref name="Boost">{{cite news
+|title=Roche boosts Tamiflu production; CDC cites signs of hoarding
+|work=CIDRAP
+|url=http://www.cidrap.umn.edu/cidrap/content/influenza/panflu/news/mar1606roche.html
+|date=2006-03-16
+|accessdate=2009-07-29
+}}</ref> Individual stockpiling could bring market forces to play, maintaining production capacity and allowing the total supply on hand to be higher in case demand again outstrips production in the future, for instance, during a sudden influenza outbreak.
+
+==Veterinary use==
+There have been reports of oseltamivir reducing disease severity and hospitalization time in [[canine parvovirus]] infection.<ref>{{Cite pmid|20230441}}</ref> The drug may limit the ability of the virus to invade the [[crypt (anatomy)|crypt]] cells of the [[small intestine]] and decrease gastrointestinal [[bacteria]]l colonization and toxin production.<ref>{{cite web | last = Macintire | first = Douglass K. | title = Treatment of Parvoviral Enteritis | work = Proceedings of the Western Veterinary Conference | year = 2006 | url = http://www.vin.com/Members/Proceedings/Proceedings.plx?CID=wvc2006&PID=pr12457&O=VIN | accessdate = 2007-06-09 }}</ref>
+
+==Chemical synthesis==
+{{Main|Oseltamivir total synthesis}}
+
+Aqueous solubility of oseltamivir in form of phosphate salt is 588&nbsp;mg/ml at {{convert|25|°C}}.<ref>http://www.medicinescomplete.com/mc/ahfs/current/a399040.htm</ref>
+
+The current{{when|date=December 2011}} production method features a number of reaction steps, two of which involve potentially hazardous [[azide]]s. A reported azide-free Roche synthesis of the drug is summarized graphically below<ref>{{cite journal|last=Karpf, Martin|coauthors=Trussardi, René|title=New, Azide-Free Transformation of Epoxides into 1,2-Diamino Compounds:  Synthesis of the Anti-Influenza Neuraminidase Inhibitor Oseltamivir Phosphate (Tamiflu)|journal=Journal of Organic Chemistry|date=February 24, 2001|volume=66|issue=6|pages=2044–2051|doi=10.1021/jo005702l|pmid=11300898}}</ref>
+
+[[Image:Oseltamivir azide-free synthesis.svg|center|400px|Synthesis of Tamiflu]]
+
+== Manufacturing ==
+Oseltamivir is marketed by [[Genentech]] under the trade name Tamiflu, as capsules (containing oseltamivir phosphate 98.5&nbsp;mg equivalent to oseltamivir 75&nbsp;mg) and as a powder for oral suspension (oseltamivir phosphate equivalent to oseltamivir 6&nbsp;mg/ml).<ref name="rocheinfo" /><ref>[http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021087s056_021246s039lbl.pdf Tamiflu Prescribing Information][[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA)</ref>
+
+==See also==
+*[[Amantadine]] and [[rimantadine]] — [[M2 protein|M2]] inhibitors, other drugs used for influenza treatment
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite news | author = Pollack, Andrew | title = Is Bird Flu Drug Really So Vexing? Debating the Difficulty of Tamiflu | work = [[The New York Times]] | date = November 5, 2005 | url = http://www.nytimes.com/2005/11/05/business/05tamiflu.html }}
+*{{cite pmid|16424427}}
+*{{cite doi|10.1021/jo980330q}}
+*{{cite doi|10.1021/jo005702l}}
+*{{cite doi|10.2533/000942904777677605}}
+*{{cite doi|10.1021/ja0616433}}
+*{{cite pmid|1951305}}
+
+==External links==
+{{Commons and category|Oseltamivir|Oseltamivir}}
+*{{Official website|http://www.tamiflu.com/}}
+*[http://www.nlm.nih.gov/medlineplus/druginfo/meds/a699040.html MedlinePlus Drug Information: oseltamivir (systemic)] –Last Revised - 05/01/2009 Advice for the Patient
+*[http://www.pharmasquare.org/flash/Tamiflu.html Pharmasquare – Tamiflu Mode of Action] – [[Macromedia Flash|Flash]] animation showing the mode of action of oseltamivir
+*[http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm107838.htm FDA information page on oseltamivir]
+*[http://www.niaid.nih.gov/factsheets/fludrugs.htm Flu Drugs FAQ] – U.S. National Institute of Allergy and Infectious Diseases
+*Reto U. Schneider: [http://www.nzzfolio.ch/www/d80bd71b-b264-4db4-afd0-277884b93470/showarticle/52e8d9fe-7076-4440-998f-b0afe1d1dd31.aspx The race to develop GS4104] - A comprehensive feature story about the development of Tamiflu published in January 2004 in NZZ-Folio, the magazine of the daily Neue Zürcher Zeitung in Switzerland (translated from German).
+
+{{RNA antivirals}}
+{{Influenza}}
+{{2009 swine flu}}
+
+[[Category:Acetamides]]
+[[Category:Ethyl esters]]
+[[Category:Gilead Sciences]]
+[[Category:Neuraminidase inhibitors]]

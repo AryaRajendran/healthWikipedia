@@ -1,0 +1,150 @@
+<!-- To obtain a blank version of this page, type subst:chembox supplement inside of double curly braces, {{}}, and save the page -->
+
+This page provides supplementary chemical '''data on [[Cocaine]]'''.
+
+== Material Safety Data Sheet == <!-- KEEP this header, it is linked to from the infobox on the main article page -->
+
+The handling of this chemical may incur notable safety precautions. It is highly recommend that you seek the Material Safety Datasheet ([[Material safety data sheet|MSDS]]) for this chemical from a reliable source  such as [http://www2.siri.org/msds/index.php SIRI], and follow its directions.
+
+== Structure and properties == <!-- KEEP this header, it is linked to from the infobox on the main article page -->
+
+{| border="1" cellspacing="0" cellpadding="3" style="margin: 0 0 0 0.5em; background: #FFFFFF; border-collapse: collapse; border-color: #C0C090;"
+! {{chembox header}} | Structure and properties
+|-
+| [[Index of refraction]], ''n''<sub>D</sub>
+| 1.5022 <ref name=crc>{{cite book|author=D. R. Lide|title=CRC Handbook of Chemistry and Physics 89th edition|publisher=CRC press|year=2009}}</ref>
+|-	 
+| [[Abbe number]]	
+|? <!-- Please omit if not applicable -->
+|- 
+| [[Dielectric constant]], ε<sub>r</sub>
+| ? ε<sub>0</sub> at ? °C <!-- Please omit if not applicable -->
+|- 
+| [[Bond strength]]
+| ? <!-- Specify which bond. Please omit if not applicable -->
+|- 
+| [[Bond length]]
+| ? <!-- Specify which bond. Please omit if not applicable -->
+|- 
+| [[Bond angle]]
+| ? <!-- Specify which angle, e.g. Cl-P-O. Please omit if not applicable -->
+|- 
+| [[Magnetic susceptibility]]
+| ? <!-- Please omit if not applicable -->
+|-
+| [[Melting Point]]
+| 98°C <ref name="crc"/>
+|-
+| [[Boiling Point]]
+| 187°C <ref name="crc"/>
+|-
+| [[Solubility]]
+| 1.7 g/L at 25°C <ref name="crc"/>
+|-
+|}
+
+== Thermodynamic properties == <!-- KEEP this header, it is linked to from the infobox on the main article page -->
+
+{| border="1" cellspacing="0" cellpadding="6" style="margin: 0 0 0 0.5em; background: #FFFFFF; border-collapse: collapse; border-color: #C0C090;"
+! {{chembox header}} | Phase behavior
+|-
+| [[Triple point]]
+| ? K (? °C), ? Pa
+|-
+| [[Critical point (chemistry)|Critical point]]
+| ? K (? °C), ? Pa
+|-
+| [[Standard enthalpy change of fusion|Std enthalpy change<br/>of fusion]], Δ<sub>fus</sub>''H''<sup><s>o</s></sup>
+| ? kJ/mol
+|-
+| [[Standard entropy change of fusion|Std entropy change<br/>of fusion]], Δ<sub>fus</sub>''S''<sup><s>o</s></sup>
+| ? J/(mol·K)
+|-
+| [[Standard enthalpy change of vaporization|Std enthalpy change<br/>of vaporization]], Δ<sub>vap</sub>''H''<sup><s>o</s></sup>
+| ? kJ/mol
+|-
+| [[Standard entropy change of vaporization|Std entropy change<br/>of vaporization]], Δ<sub>vap</sub>''S''<sup><s>o</s></sup>
+| ? J/(mol·K)
+|-
+! {{chembox header}} | Solid properties
+|-
+| [[Standard enthalpy change of formation|Std enthalpy change<br/>of formation]], Δ<sub>f</sub>''H''<sup><s>o</s></sup><sub>solid</sub>
+| ? kJ/mol
+|-
+| [[Standard molar entropy]],<br/>''S''<sup><s>o</s></sup><sub>solid</sub>
+| ? J/(mol K)
+|-
+| [[Specific heat capacity]], ''c<sub>p</sub>''
+| ? J/(mol K)
+|-
+! {{chembox header}} | Liquid properties
+|-
+| [[Standard enthalpy change of formation|Std enthalpy change<br/>of formation]], Δ<sub>f</sub>''H''<sup><s>o</s></sup><sub>liquid</sub>
+| ? kJ/mol
+|-
+| [[Standard molar entropy]],<br/>''S''<sup><s>o</s></sup><sub>liquid</sub>
+| ? J/(mol K)
+|-
+| [[Specific heat capacity]], ''c<sub>p</sub>''
+| ? J/(mol K)
+|-
+! {{chembox header}} | Gas properties
+|-
+| [[Standard enthalpy change of formation|Std enthalpy change<br/>of formation]], Δ<sub>f</sub>''H''<sup><s>o</s></sup><sub>gas</sub>
+| ? kJ/mol
+|-
+| [[Standard molar entropy]],<br/>''S''<sup><s>o</s></sup><sub>gas</sub>
+| ? J/(mol K)
+|-
+| [[Specific heat capacity]], ''c<sub>p</sub>''
+| ? J/(mol K)
+|-
+|}
+
+== Spectral data == <!-- KEEP this header, it is linked to from the infobox on the main article page -->
+
+{| border="1" cellspacing="0" cellpadding="3" style="margin: 0 0 0 0.5em; background: #FFFFFF; border-collapse: collapse; border-color: #C0C090;"
+! {{chembox header}} | [[UV/VIS spectroscopy|UV-Vis]]
+|-
+| [[Lambda-max|λ<sub>max</sub>]]
+| ? [[Nanometre|nm]]
+|-
+| [[Extinction coefficient]], ε
+| ? 
+|-
+! {{chembox header}} | [[Infrared|IR]]
+|-
+| Major absorption bands
+| ? cm<sup>&minus;1</sup>
+|-
+! {{chembox header}} | [[NMR Spectroscopy|NMR]]
+|-
+| [[Proton NMR]] <!-- Link to image of spectrum -->
+| &nbsp;
+|-
+| [[Carbon-13 NMR]] <!-- Link to image of spectrum -->
+| &nbsp;
+|-
+| Other NMR data <!-- Insert special data e.g. <sup>19</sup>F chem. shifts, omit if not used -->
+| &nbsp;
+|-
+! {{chembox header}} | [[Mass Spectrometry|MS]]
+|-
+| Masses of <br>main fragments
+| &nbsp; <!-- Give list of major fragments -->
+|-
+|}<includeonly>
+[[Category:Chemical data pages]]
+</includeonly><noinclude>
+
+== References ==
+<references/>
+<!-- [http://webbook.nist.gov/chemistry/ NIST Standard Reference Database] -->
+
+Except where noted otherwise, data relate to [[standard ambient temperature and pressure]].
+
+[[wikipedia:Chemical infobox|Disclaimer]] applies.
+
+[[Category:Chemical data pages]]
+</noinclude>
+{{DEFAULTSORT:Cocaine (Data Page)}}

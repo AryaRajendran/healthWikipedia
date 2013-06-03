@@ -1,0 +1,80 @@
+{{Infobox disease 
+ | Name            = Griscelli syndrome 
+ | Image           = 
+ | Caption         = 
+ | DiseasesDB      = 32776 
+ | DiseasesDB_mult = {{DiseasesDB2|34039}}  
+ | ICD10           = 
+ | ICD9            = 
+ | ICDO            = 
+ | OMIM            = 214450 
+ | OMIM_mult       = {{OMIM2|607624}} {{OMIM2|609227}} 
+ | MedlinePlus     = 
+ | eMedicineSubj   = derm 
+ | eMedicineTopic  = 926 
+ | MeshID          = 
+}}
+'''Griscelli syndrome''' is a rare [[autosomal recessive]]<ref name="pmid707528">{{cite journal |author=Griscelli C, Durandy A, Guy-Grand D, Daguillard F, Herzog C, Prunieras M |title=A syndrome associating partial albinism and immunodeficiency |journal=Am. J. Med. |volume=65 |issue=4 |pages=691–702 |year=1978 |pmid=707528 |doi=10.1016/0002-9343(78)90858-6}}</ref> disorder characterized by [[albinism]] (hypopigmentation) with [[immunodeficiency]], that usually causes death by early childhood.
+
+==Types==
+Griscelli syndrome is a disorder of [[melanosome]] transport, and divided into several types<ref name="Andrews">James, William; Berger, Timothy; Elston, Dirk (2005). ''Andrews' Diseases of the Skin: Clinical Dermatology''. (10th ed.). Saunders. ISBN 0-7216-2921-0.</ref>{{rp|866}}:
+
+{| class="wikitable"
+|-
+! [[OMIM]]
+! Name
+! Gene
+|-
+| {{OMIM2|214450}}
+| [[Elejalde syndrome|Griscelli syndrome type 1]] (Elejalde syndrome)
+| [[MYO5A]]
+|-
+| {{OMIM2|607624}}
+| [[Griscelli syndrome type 2]] (Partial albinism with immunodeficiency)
+| [[RAB27A]]
+|-
+| {{OMIM2|609227}}
+| [[Griscelli syndrome type 3]]
+| [[MLPH]]
+|}
+
+==Presentation==
+
+Griscelli syndrome is defined by the characteristic hypopigmentation, with frequent pyogenic infection, hepatosplenomegaly, neutropenia, thrombocytopenia, and immunodeficiency. Very often there is also impaired natural killer cell activity, absent delayed-type hypersensitivity and a poor cell proliferation response to antigenic challenge. This may be caused by the loss of three different genes, each of which has different additional effects, resulting in three types of syndrome. Its Inheritance is autosomal recessive.
+
+Examination of the hair in this syndrome may be useful. Under light microscopy, these hairs exhibit bigger and irregular melanin granules, distributed mainly near the medulla. Under polarized light microscopy, the hairs appear monotonously white.<ref name=Valente2006>Valente NY, Machado MC, Boggio P, Alves AC, Bergonse FN, Casella E, Vasconcelos DM, Grumach AS, de Oliveira ZN (2006) Polarized light microscopy of hair shafts aids in the differential diagnosis of Chédiak-Higashi and Griscelli-Prunieras syndromes. Clinics (Sao Paulo) 61(4):327-332.
+</ref>
+
+==Pathophysiology==
+
+[[Image:autorecessive.svg|thumb|right|Griscelli syndrome has an autosomal recessive pattern of [[inheritance]].]]
+
+In melanocytes, [[melanosomes]] ([[vesicle (biology)|vesicle]]s containing the pigment [[melanin]]) are transported on [[microtubules]]. They are then bound by [[Rab27]]A which recruits [[Slac2-a]] and [[myosin]] Va. This complex then transfers the melanosomes from the microtubules to [[actin]] filaments. This transfer is necessary for the transport of melanosomes from the perinuclear area to the cell periphery. The loss of any one of these proteins interrupts melanosome transport and results in the hypopigmentation. 
+
+However, these three proteins do not work together in other cells and Rab27A [[Effector (biology)|effectors]] may be 'mix and match' For example the knockout of Rab27 causes the hypopigmentation but also immunodeficiency due to deficiencies in cytotoxic killing activity in [[cytotoxic T cell]]s (something that also depends on [[Vesicle (biology)|vesicle]] transport). While, the knockout of myosin Va does not cause immunodeficiency, but it does cause neural defects. Though some neural problems (i.e. brain damage) can be seen in Rab27A deficient children, this is thought to be a secondary effect of the immune problems, and not directly due to the lack of Rab27A.
+
+==Eponym==
+It is named after [[Claude Griscelli]], professor of pediatry at Hôpital des Enfants-Malades in Paris (France).<ref>{{WhoNamedIt|synd|3872}}</ref><ref name="pmid730432">{{cite journal |author=Griscelli C, Prunieras M |title=Pigment dilution and immunodeficiency: a new syndrome |journal=Int. J. Dermatol. |volume=17 |issue=10 |pages=788–91 |year=1978 |pmid=730432 |doi=10.1111/j.1365-4362.1978.tb05980.x}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+*{{RareDiseases|2566|Griscelli syndrome type 1}} {{OMIM3|214450}}
+*{{RareDiseases|4483|Griscelli syndrome type 2}} {{OMIM3|607624}}
+*{{RareDiseases|9715|Griscelli syndrome type 3}} {{OMIM3|609227}}
+
+{{Pigmentation disorders}}
+{{Inherited disorders of trafficking}}
+
+{{DEFAULTSORT:Griscelli Syndrome}}
+[[Category:Pediatrics]]
+[[Category:Disturbances of human pigmentation]]
+[[Category:Noninfectious immunodeficiency-related cutaneous conditions]]
+[[Category:Autosomal recessive disorders]]
+[[Category:Rare diseases]]
+[[Category:Syndromes]]
+[[Category:Diseases of immune dysregulaton]]
+[[Category:Inherited disorders of trafficking]]
+
+{{genetic-disorder-stub}}

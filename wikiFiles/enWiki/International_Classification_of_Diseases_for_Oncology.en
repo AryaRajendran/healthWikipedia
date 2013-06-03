@@ -1,0 +1,353 @@
+The '''International Classification of Diseases for Oncology''' ('''ICD-O''') is a domain specific extension of the [[ICD|International Statistical Classification of Diseases and Related Health Problems]] for [[tumor]] diseases. This classification is widely used by [[cancer registry|cancer registries]].
+
+It is currently in its third revision (ICD-O-3). ICD-10 includes a list of morphology codes.  They stem from ICD-O second edition (ICD-O-2) that was valid at the time of publication.
+
+==Axes==
+
+The classification has two axes:  topography and morphology
+
+===Morphology===
+The morphology axis is for the [[morphology (biology)|morphology]] of the tumor.
+
+This axis has particular importance because the [[Systematized Nomenclature of Medicine]] ("SNOMED") has adopted the ICD-O classification of morphology. SNOMED has been changing continuously, and several different versions of SNOMED are in use. Accordingly, mapping of ICD-O codes to SNOMED requires careful assessment of whether entities are indeed true matches.
+
+====Examples of codes (ICD-O-3)====
+
+=====(8000–8009) Not otherwise specified=====
+* (8000–8004) [[Neoplasms]], NOS
+** ({{ICDO|8000|0}}) [[Neoplasm]], [[benign]]
+** ({{ICDO|8000|1}}) [[Neoplasm]], uncertain whether [[benign]] or [[malignant]]
+** ({{ICDO|8000|3}}) [[Neoplasm]], [[malignant]]
+** ({{ICDO|8000|6}}) [[Neoplasm]], [[metastatic]]
+** ({{ICDO|8000|9}}) [[Neoplasm]], [[malignant]], uncertain whether primary or [[metastatic]]
+
+=====(8010–8790) [[Epithelial]] =====
+* (8010–8040) [[Epithelial]] [[neoplasms]], NOS
+* (8050–8080) [[Squamous cell]] [[neoplasms]]
+** ({{ICDO|8070|3}}) [[Squamous cell carcinoma]], NOS
+* (8090–8110) [[Basal cell]] [[neoplasms]]
+** ({{ICDO|8090|3}}) [[Basal cell carcinoma]], NOS
+* (8120–8130) [[Transitional cell]] [[Papillomas]] And [[Carcinomas]]
+* (8140–8380) [[Adenomas]] And [[Adenocarcinomas]] ([[gland]]s)
+** ({{ICDO|8140|0}}) [[Adenoma]], NOS
+** ({{ICDO|8140|3}}) [[Adenocarcinoma]], NOS
+** ({{ICDO|8142|3}}) [[Linitis plastica]]
+** ({{ICDO|8151|0}}) [[Insulinoma]], NOS
+** ({{ICDO|8152|0}}) [[Glucagonoma]], NOS
+** ({{ICDO|8153|1}}) [[Gastrinoma]], NOS
+** ({{ICDO|8155|3}}) [[Vipoma]]
+** ({{ICDO|8160|3}}) [[Cholangiocarcinoma]]
+** ({{ICDO|8170|3}}) [[Hepatocellular carcinoma]], NOS
+** ({{ICDO|8200|3}}) [[Adenoid cystic carcinoma]]
+** ({{ICDO|8240|1}}) [[Carcinoid]] tumor, NOS, of [[Vermiform appendix|appendix]]
+** ({{ICDO|8271|0}}) [[Prolactinoma]]
+** ({{ICDO|8290|0}}) [[Oncocytoma]]
+** ({{ICDO|8290|0}}) [[Hurthle cell adenoma]]
+** ({{ICDO|8312|3}}) [[Renal cell carcinoma]]
+** ({{ICDO|8312|3}}) [[Grawitz tumor]]
+** ({{ICDO|8360|1}}) [[Multiple endocrine adenomas]]
+** ({{ICDO|8380|0}}) [[Endometrioid adenoma]], NOS
+* (8390–8420) [[Appendage|Adnexal]] And [[Skin appendage]] [[Neoplasms]]
+* (8430–8439) [[Mucoepidermoid]] [[Neoplasms]]
+* (8440–8490) [[Cystic]], [[Mucinous]] And [[Serous]] [[Neoplasms]]
+** ({{ICDO|8440|0}}) [[Cystadenoma]], NOS
+** ({{ICDO|8480|6}}) [[Pseudomyxoma peritonei]]
+* (8500–8540) Ductal, [[Lobular]] And [[wikt:Medullary|Medullary]] [[Neoplasms]]
+* (8550–8559) [[Acinar cell]] [[neoplasms]]
+* (8560–8580) [[Complex epithelial]] [[neoplasms]]
+** ({{ICDO|8561|0}}) [[Warthin's tumor]]
+** ({{ICDO|8580|0}}) [[Thymoma]], NOS
+* (8590–8670) Specialized [[gonadal]] [[neoplasms]]
+** ({{ICDO|8590|1}}) [[Sex cord-stromal tumor]]
+** ({{ICDO|8600|0}}) [[Thecoma]], NOS
+** ({{ICDO|8620|1}}) [[Granulosa cell tumor]], NOS
+** ({{ICDO|8630|1}}) [[Arrhenoblastoma]], NOS
+** ({{ICDO|8631|0}}) [[Sertoli-Leydig cell tumor]]
+* (8680–8710) [[Paragangliomas]] And [[Glomus tumor]]s
+** ({{ICDO|8680|1}}) [[Paraganglioma]], NOS
+** ({{ICDO|8700|0}}) [[Pheochromocytoma]], NOS
+** ({{ICDO|8711|0}}) [[Glomus tumor]]
+* (8720–8790) [[Nevi]] And [[Melanomas]]
+** ({{ICDO|8720|0}}) [[Melanocytic nevus]]
+** ({{ICDO|8720|3}}) [[Malignant melanoma]], NOS
+** ({{ICDO|8720|3}}) [[Melanoma]], NOS
+** ({{ICDO|8721|3}}) [[Nodular melanoma]]
+** ({{ICDO|8727|0}}) [[Dysplastic nevus]]
+** ({{ICDO|8742|3}}) [[Lentigo maligna melanoma]]
+** ({{ICDO|8743|3}}) [[Superficial spreading melanoma]]
+** ({{ICDO|8744|3}}) [[Acral lentiginous melanoma]], malignant
+** ({{ICDO|8745|3}}) [[Melanoma, desmoplastic, amelanotic]]
+
+=====(8800–9370) [[Connective tissue]]=====
+* (8800–8809) [[Soft tissue]] [[Tumors]] And [[Sarcomas]], Nos
+** ({{ICDO|8800|3}}) [[Sarcoma]], NOS
+** ({{ICDO|8800|3}}) [[Soft tissue sarcoma]]
+** ({{ICDO|8806|3}}) [[Desmoplastic small round cell tumor]]
+* (8810–8830) [[Fibromatous]] [[neoplasms]]
+** ({{ICDO|8810|0}}) [[Fibroma]], NOS
+** ({{ICDO|8810|3}}) [[Fibrosarcoma]], NOS
+* (8840–8849) [[Myxomatous]] [[neoplasms]]
+** ({{ICDO|8840|0}}) [[Myxoma]], NOS
+* (8850–8880) [[Lipomatous]] [[neoplasms]]
+** ({{ICDO|8850|0}}) [[Lipoma]], NOS
+** ({{ICDO|8850|3}}) [[Liposarcoma]], NOS
+* (8890–8920) [[Myomatous]] [[neoplasms]]
+** ({{ICDO|8890|0}}) [[Leiomyoma]], NOS
+** ({{ICDO|8890|3}}) [[Leiomyosarcoma]], NOS
+** ({{ICDO|8895|0}}) [[Myoma]]
+** ({{ICDO|8895|3}}) [[Myosarcoma]]
+** ({{ICDO|8900|0}}) [[Rhabdomyoma]], NOS
+** ({{ICDO|8900|3}}) [[Rhabdomyosarcoma]], NOS
+* (8930–8990) Complex Mixed And [[Stromal]] [[Neoplasms]]
+** ({{ICDO|8940|0}}) [[Pleomorphic adenoma]]
+** ({{ICDO|8960|3}}) [[Nephroblastoma]], NOS ([[Wilms's tumor]])
+* (9000–9030) [[Fibroepithelial]] [[Neoplasms]]
+** ({{ICDO|9000|0}}) [[Brenner tumor]], NOS
+* (9040–9049) [[Synovial]]-Like [[Neoplasms]]
+** ({{ICDO|9040|3}}) [[Synovial sarcoma]], NOS
+* (9050–9059) [[Mesothelial]] [[Neoplasms]]
+** ({{ICDO|9050|0}}) [[Mesothelioma]], benign
+** ({{ICDO|9050|3}}) [[Mesothelioma]], NOS
+* (9060–9090) [[Germ cell tumour|Germ cell Neoplasms]]
+** ({{ICDO|9060|3}}) [[Dysgerminoma]]
+** ({{ICDO|9064|3}}) [[Germ cell tumor]], NOS
+** ({{ICDO|9070|3}}) [[Embryonal carcinoma]], NOS
+** ({{ICDO|9071|3}}) [[Yolk sac tumor]]
+** ({{ICDO|9080|0}}) [[Teratoma]], benign
+** ({{ICDO|9080|3}}) [[Teratoma]], malignant, NOS
+** ({{ICDO|9084|0}}) [[Dermoid cyst]], NOS
+* (9100–9109) [[Trophoblastic]] [[neoplasms]]
+** ({{ICDO|9100|3}}) [[Choriocarcinoma]], NOS
+* (9110–9119) [[Mesonephroma]]s
+* (9120–9160) [[Blood vessel]] [[tumors]]
+** ({{ICDO|9120|0}}) [[Hemangioma]], NOS
+** ({{ICDO|9120|0}}) [[Angioma]], NOS
+** ({{ICDO|9120|3}}) [[Hemangiosarcoma]]
+** ({{ICDO|9120|3}}) [[Angiosarcoma]]
+** ({{ICDO|9130|0}}) [[Hemangioendothelioma]], benign
+** ({{ICDO|9130|1}}) [[Hemangioendothelioma]], NOS
+** ({{ICDO|9140|3}}) [[Kaposi's sarcoma]]
+** ({{ICDO|9150|0}}) [[Hemangiopericytoma]], benign
+** ({{ICDO|9150|1}}) [[Hemangiopericytoma]], NOS
+* (9170–9179) [[Lymphatic vessel]] [[tumors]]
+** ({{ICDO|9170|0}}) [[Lymphangioma]], NOS
+** ({{ICDO|9173|0}}) [[Cystic lymphangioma]]
+* (9180–9240) [[Osseous]] And [[Chondromatous]] [[neoplasms]]
+** ({{ICDO|9180|0}}) [[Osteoma]], NOS
+** ({{ICDO|9180|3}}) [[Osteosarcoma]], NOS
+** ({{ICDO|9210|0}}) [[Osteochondroma]]
+** ({{ICDO|9210|0}}) [[Cartilaginous]] [[exostosis]]
+** ({{ICDO|9220|0}}) [[Chondroma]], NOS
+** ({{ICDO|9220|3}}) [[Chondrosarcoma]], NOS
+* (9250–9259) [[Giant cell]] [[tumors]]
+* (9260–9269) Miscellaneous [[bone tumors]]
+** ({{ICDO|9260|3}}) [[Ewing's sarcoma]]
+* (9270–9340) [[Odontogenic]] [[tumors]]
+** ({{ICDO|9273|0}}) [[Cementoblastoma]], benign
+** ({{ICDO|9310|0}}) [[Ameloblastoma]], NOS
+* (9350–9370) Miscellaneous [[tumors]]
+** ({{ICDO|9350|1}}) [[Craniopharyngioma]]
+
+=====(9380–9589) [[Nervous system]]=====
+* (9380–9480) [[Gliomas]]
+** ({{ICDO|9382|3}}) Mixed [[oligoastrocytoma]]
+** ({{ICDO|9391|3}}) [[Ependymoma]], NOS
+** ({{ICDO|9400|3}}) [[Astrocytoma]], NOS
+*** (9421/3) [[Pilocytic astrocytoma]]
+*** (9440/3) [[Glioblastoma multiforme]]
+** ({{ICDO|9450|3}}) [[Oligodendroglioma]], NOS
+* (9490–9520) [[Neuroepitheliomatous]] [[neoplasms]]
+** ({{ICDO|9500|3}}) [[Neuroblastoma]], NOS
+** ({{ICDO|9510|3}}) [[Retinoblastoma]]
+* (9530–9539) [[Meningiomas]]
+* (9540–9570) [[Nerve sheath]] [[tumors]]
+** ({{ICDO|9540|0}}) [[Neurofibroma]], NOS
+** ({{ICDO|9540|1}}) [[Neurofibromatosis]], NOS
+** ({{ICDO|9560|0}}) [[Schwannoma]], NOS
+** ({{ICDO|9560|0}}) [[Neurinoma]]
+** ({{ICDO|9560|0}}) [[Acoustic neuroma]]
+** ({{ICDO|9570|0}}) [[Neuroma]], NOS
+* (9580–9589) [[Granular cell]] [[tumors]] and [[Alveolar]] [[soft part]] [[sarcoma]]
+
+=====(9590–9999) Hematologic ([[Leukemia]]s, [[Lymphoma]]s and related disorders)=====
+* (9590–9599) [[Malignant lymphoma]], NOS, Or [[diffuse]]
+** ({{ICDO|9590|3}}) [[Lymphoma]], NOS
+** ({{ICDO|9591|3}}) [[Non-Hodgkin's lymphoma]], NOS
+** ({{ICDO|9592|3}}) [[Lymphosarcoma]], NOS
+* (9650–9660) [[Hodgkin's disease]]
+** ({{ICDO|9650|3}}) [[Hodgkin's disease]], NOS
+** ({{ICDO|9651|3}}) [[Lymphocyte-rich classical Hodgkin lymphoma]]
+** ({{ICDO|9652|3}}) [[Mixed cellularity classical Hodgkin lymphoma]]
+** ({{ICDO|9653|3}}) [[Lymphocyte-depleted classical Hodgkin lymphoma]]
+** ({{ICDO|9659|3}}) [[Nodular lymphocyte predominant Hodgkin lymphoma]]
+** ({{ICDO|9663|3}}) [[Nodular sclerosis classical Hodgkin lymphoma]]
+* (9670–9680) [[Malignant lymphoma]] Specified Type, [[Diffuse]] Or Nos
+** ({{ICDO|9670|3}}) [[Small lymphocytic lymphoma]]
+** ({{ICDO|9671|3}}) [[Lymphoplasmacytic lymphoma]]
+** ({{ICDO|9673|3}}) [[Mantle cell lymphoma]]
+** ({{ICDO|9678|3}}) [[Primary effusion lymphoma]]
+** ({{ICDO|9679|3}}) [[Mediastinal (thymic) large cell lymphoma]]
+** ({{ICDO|9680|3}}) [[Diffuse large B-cell lymphoma]] or [[Intravascular large B-cell lymphoma]]
+** ({{ICDO|9687|3}}) [[Burkitt lymphoma]]
+** ({{ICDO|9689|3}}) [[Splenic marginal zone lymphoma]]
+* (9690–9699) [[Malignant lymphoma]], [[follicular lymphoma|Follicular]] Or [[Nodule (medicine)|Nodular]], With Or Without [[diffuse areas]]
+** ({{ICDO|9690|3}}) [[Follicular lymphoma]]
+** ({{ICDO|9698|3}}) [[Follicular lymphoma]]
+** ({{ICDO|9699|3}}) [[Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue]] ([[MALT-lymphoma]])
+** ({{ICDO|9699|3}}) [[Nodal marginal zone B-cell lymphoma]]
+* (9700–9709) Specified [[Cutaneous]] And [[Peripheral]] [[T-Cell]] [[Lymphomas]]
+** ({{ICDO|9700|3}}) [[Mycosis fungoides]]
+** ({{ICDO|9701|3}}) [[Sezary syndrome]]
+** ({{ICDO|9702|3}}) [[Peripheral T-cell lymphoma]], unspecified
+** ({{ICDO|9705|3}}) [[Angioimmunoblastic T-cell lymphoma]]
+** ({{ICDO|9708|3}}) [[Subcutaneous panniculitis-like T-cell lymphoma]]
+* (9710–9719) Other Specified [[Non-Hodgkin's lymphomas]]
+** ({{ICDO|9714|3}}) [[Anaplastic large cell lymphoma]]
+** ({{ICDO|9716|3}}) [[Hepatosplenic T-cell lymphoma]]
+** ({{ICDO|9717|3}}) [[Enteropathy type T-cell lymphoma]]
+** ({{ICDO|9718|1}}) [[Lymphomatoid papulosis]]
+** ({{ICDO|9718|3}}) [[Primary cutaneous anaplastic large cell lymphoma]]
+** ({{ICDO|9719|3}}) [[Extranodal NK/T cell lymphoma, nasal type]]
+* (9720–9729) Other [[Lymphoreticular]] [[neoplasms]]
+** ({{ICDO|9727|3}}) [[Blastic NK cell lymphoma]]
+** ({{ICDO|9728|3}}) [[Lymphoma]]
+** ({{ICDO|9729|3}}) [[Lymphoma]]
+* (9730–9739) [[Plasma cell]] [[tumors]]
+** ({{ICDO|9731|3}}) [[Plasmacytoma]], NOS or [[Extramedullary plasmacytoma]] or [[Solitary plasmacytoma of bone]]
+** ({{ICDO|9732|3}}) [[Multiple myeloma]] or [[Plasma cell myeloma]]
+** ({{ICDO|9734|3}}) [[Extraosseous plasmacytoma]]
+* (9740–9749) [[Mast cell]] [[Tumors]]
+** ({{ICDO|9740|1}}) [[Mastocytoma]], NOS or [[Extracutaneous mastocytoma]]
+** ({{ICDO|9740|3}}) [[Mast cell sarcoma]]
+** ({{ICDO|9741|1}}) Malignant [[mastocytosis]] or [[Indolent systemic mastocytosis]]
+** ({{ICDO|9741|3}}) [[Aggressive systemic mastocytosis]] or [[Systemic mastocytosis]] with [[associated clonal, hematological non-mast cell lineage disease]]
+** ({{ICDO|9742|3}}) [[Mast cell leukemia]]
+** ({{ICDO|9751|1}}) [[Langerhans cell histiocytosis]]
+** ({{ICDO|9755|3}}) [[Histiocytic sarcoma]]
+** ({{ICDO|9756|3}}) [[Langerhans cell sarcoma]]
+** ({{ICDO|9757|3}}) [[Dendritic cell sarcoma]], NOS or [[Interdigitating dendritic cell sarcoma]]/tumor
+** ({{ICDO|9758|3}}) [[Follicular dendritic cell sarcoma]]/tumor
+* (9760–9769) [[Immunoproliferative diseases]]
+** ({{ICDO|9761|3}}) [[Waldenstrom macroglobulinemia]]
+** ({{ICDO|9766|1}}) [[Lymphomatoid granulomatosis]]
+
+=====-- [[Lymphoid]] leukemias, and related conditions=====
+* (9800–9809) [[Leukemias]], NOS
+** ({{ICDO|9800|3}}) [[Leukemia]], NOS
+** ({{ICDO|9805|3}}) [[Acute leukemia of ambiguous lineage]]
+** ({{ICDO|9801|3}}) [[Acute leukemia]], NOS
+* (9820–9829) [[Lymphoid leukemias]]
+** ({{ICDO|9820|3}}) [[Lymphocytic leukemia]], NOS
+** ({{ICDO|9820|3}}) [[Lymphatic leukemia]], NOS
+** ({{ICDO|9821|3}}) [[Acute lymphoblastic leukemia]], NOS
+** ({{ICDO|9821|3}}) [[Acute lymphocytic leukemia]]
+** ({{ICDO|9823|3}}) [[Chronic lymphocytic leukemia]]
+** ({{ICDO|9826|3}}) [[Leukemia]]
+** ({{ICDO|9827|3}}) [[Adult T-cell leukemia/lymphoma]]
+* (9830–9839) [[Plasma cell]] [[leukemia]]
+** ({{ICDO|9831|3}}) [[T-cell large granular lymphocytic leukemia]]
+** ({{ICDO|9833|3}}) [[B-cell prolymphocytic leukemia]]
+** ({{ICDO|9834|3}}) [[T-cell prolymphocytic leukemia]]
+** ({{ICDO|9835|3}}) [[Precursor cell lymphoblastic leukemia]], NOS
+** ({{ICDO|9836|3}}) [[Precursor B lymphoblastic leukemia]]
+** ({{ICDO|9837|3}}) [[Precursor T lymphoblastic leukemia]]
+
+=====-- [[Myeloid]] leukemias, and related conditions=====
+* (9840–9849) [[Erythroleukemias]] ([[Acute myelogenous leukemia#French-American-British|FAB-M6]])
+** ({{ICDO|9840|3}}) [[Acute erythroid leukemia]]
+* (9850–9859) [[Lymphosarcoma]] cell [[leukemia]]
+* (9860–9869) [[Myeloid (Granulocytic) Leukemias]]
+** ({{ICDO|9860|3}}) [[Myeloid leukemia]], NOS
+** ({{ICDO|9860|3}}) [[Myelogenous leukemia]], NOS
+** ({{ICDO|9861|3}}) [[Acute myelogenous leukemia]] ([[Acute myelogenous leukemia#French-American-British|FAB-M1,M2]])
+** ({{ICDO|9863|3}}) [[Chronic myelogenous leukemia]]
+** ({{ICDO|9866|3}}) [[Acute promyelocytic leukemia]]  ([[Acute myelogenous leukemia#French-American-British|FAB-M3]])
+** ({{ICDO|9866|3}}) [[Acute promyelocytic leukemia (AML with t(15;17)(q22;q12), PML-RARa and variants)]]
+** ({{ICDO|9867|3}}) [[Acute (medical)|Acute]] [[myelomonocytic]] [[leukemia]] ([[Acute myelogenous leukemia#French-American-British|FAB-M4]])
+* (9870–9889) [[Basophilic]] [[leukemia]] and [[Eosinophilic]] [[leukemia]]
+** ({{ICDO|9870|3}}) [[Basophilic]] [[leukemia]] or [[Acute basophilic leukemia]]
+** ({{ICDO|9871|3}}) [[AML with inv(16)(p13q22) or t(16;16)(p13;q22), CBFb/MYH11]] (FAB M4Eo)
+** ({{ICDO|9872|3}}) [[Acute myeloid leukemia]], minimally [[cellular differentiation|differentiated]] (FAB type M0)
+** ({{ICDO|9873|3}}) [[Acute myeloid leukemia]], without maturation (FAB type M1)
+** ({{ICDO|9874|3}}) [[Acute myeloid leukemia]], with maturation (FAB M2)
+** ({{ICDO|9875|3}}) [[Chronic myelogenous leukemia]]
+** ({{ICDO|9876|3}}) [[Atypical chronic myelogenous leukemia]]
+** ({{ICDO|9880|3}}) [[Eosinophilic]] [[leukemia]]
+* (9890–9899) [[Monocytic leukemias]]
+** ({{ICDO|9890|3}}) [[Monocytic leukemia]], NOS ([[Acute myelogenous leukemia#French-American-British|FAB-M5]])
+** ({{ICDO|9891|3}}) [[Acute monoblastic and monocytic leukemia]] (FAB M5)
+** ({{ICDO|9895|3}}) [[Acute myeloid leukemia multilineage dysplasia]]
+** ({{ICDO|9896|3}}) [[AML with t(8;21)(q22;q22), AML1/ETO]]
+** ({{ICDO|9897|3}}) [[AML with 11q23 (MLL) abnormalities]]
+* (9900–9948) Other [[Leukemias]]
+** ({{ICDO|9910|3}}) [[Acute megakaryoblastic leukemia]] ([[Acute myelogenous leukemia#French-American-British|FAB-M7]])
+** ({{ICDO|9920|3}}) [[Acute myeloid leukemia and myelodysplastic syndrome, therapy related]]
+** ({{ICDO|9930|3}}) [[Chloroma]] or [[Myeloid sarcoma]]
+** ({{ICDO|9931|3}}) [[Acute panmyelosis with myelofibrosis]]
+** ({{ICDO|9940|3}}) [[Hairy cell leukemia]]
+** ({{ICDO|9946|3}}) [[Juvenile myelomonocytic leukemia]]
+** ({{ICDO|9948|3}}) [[Aggressive NK cell leukemia]]
+
+=====-- Other=====
+* (9950–9970) Miscellaneous [[Myeloproliferative]] And [[Lymphoproliferative disorders]]
+** ({{ICDO|9950|3}}) [[Polycythemia vera]]
+** ({{ICDO|9960|1}}) [[Myeloproliferative disease]], NOS
+** ({{ICDO|9961|3}}) Chronic idiopathic [[myelofibrosis]]
+** ({{ICDO|9962|3}}) [[Essential thrombocytemia]]
+** ({{ICDO|9963|3}}) [[Chronic neutrophilic leukemia]]
+** ({{ICDO|9964|3}}) [[Chronic eosinophilic leukemia]] / [[hypereosinophilic syndrome]]
+** ({{ICDO|9970|1}}) [[Post-transplant lymphoproliferative disorder, pleomorphic]]
+** ({{ICDO|9975|3}}) [[Chronic Myeloproliferative disease, unclassifiable]]
+** ({{ICDO|9975|3}}) [[Myelodysplastic / myeloproliferative diseases, unclassifiable]]
+* (9980–9989) [[Myelodysplastic syndrome]]
+** ({{ICDO|9980|3}}) [[Chronic myelomonocytic leukemia]] or [[Refractory anemia]]
+** ({{ICDO|9982|3}}) [[Refractory anemia with ringed sideroblasts]]
+** ({{ICDO|9983|3}}) [[Refractory anemia with excess blasts]]
+** ({{ICDO|9985|3}}) [[Refractory cytopenia with multilineage dysplasia]]
+** ({{ICDO|9986|3}}) [[Myelodysplastic syndrome associated with isolated del(5q) chromosome abnormality]]
+** ({{ICDO|9989|3}}) [[Myelodysplastic syndrome]], NOS
+
+===Topography===
+The topography axis is for the [[topographical codes]] of the tumor's site. It is standardized with the C section of [[ICD|ICD-10]]
+
+There were no changes in the topography axis between ICD-O-2 and ICD-O-3.
+
+See [[List of ICD-10 codes#(C00–C97) Malignant Neoplasms]] for examples.
+
+==See also==
+* [[Medical classification]]
+
+==External links==
+* [http://www.who.int/classifications/icd/adaptations/oncology/en/  Official page] at [[World Health Organization]]
+* [http://training.seer.cancer.gov/index.html Tutorial] at [[National Cancer Institute]]
+* [http://www.dimdi.de/static/en/klassi/diagnosen/icdo3/basisicdo3.htm Overview] at [[DIMDI]]
+* [http://www.healthyarkansas.com/arkcancer/publications/Multiple%20Primaries.ppt Overview of multiple primaries] at healthyarkansas.com (PPT)
+* [http://training.seer.cancer.gov/module_coding_primary/unit01_hist_bkgrnd01.html History of versions] at [[National Cancer Institute]]
+
+===Morphology===
+* [http://seer.cancer.gov/icd-o-3/ Cancer.gov – overview], includes link to [http://seer.cancer.gov/icd-o-3/sitetype.icd03.d20090401.xls Excel spreadsheet with codes] at [[National Cancer Institute]]
+* [http://training.seer.cancer.gov/module_coding_primary/table_who_class_hemo_1.html Overview] at [[National Cancer Institute]]
+* [http://training.seer.cancer.gov/module_icdo3/downloadables/Supplemental%20ICD-O-3%20List.DOC Word document – malignancies only] at [[National Cancer Institute]]
+* [http://uniklinikum-giessen.de/imi/konvi2t2.html?m=27 Overview] at [[University hospital Gießen und Marburg]]
+* [http://www.dimdi.de/static/en/klassi/diagnosen/icdo3/ Download table German version] at [[DIMDI]]
+* [http://www-p53.iarc.fr/Morphology.html Codes] at [[International Agency for Research on Cancer|IARC]]
+* [http://www.wolfbane.com/icd/index.html 1st, 2nd, and 3rd editions] at wolfbane.com
+* [http://www.ncri.ie/data.cgi/html/icdo2morphs.shtml List] at The National Cancer Registry Ireland
+* [http://www.celsius.lshtm.ac.uk/dataDict/appendices/MorphologyofNeoplasmsICDO2.html List] at [[London School of Hygiene & Tropical Medicine]]
+
+{{Medical classification}}
+{{Epithelial neoplasms}}
+{{Gonadal tumors, paraganglioma, glomus, nevi and melanomas}}
+{{Skin tumors, nevi and melanomas}}
+{{Soft tissue tumors and sarcomas}}
+{{Germ cell tumors}}
+{{Vascular tumors}}
+{{Osseous and chondromatous tumors}}
+{{Odontogenic tumors}}
+{{Nervous tissue tumors}}
+{{Hematological malignancy histology}}
+{{Myeloid malignancy}}
+
+[[Category:Medical manuals]]
+[[Category:Diagnosis classification]]
+[[Category:Classification systems]]

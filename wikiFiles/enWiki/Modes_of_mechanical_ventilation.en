@@ -1,0 +1,138 @@
+'''Modes of mechanical ventilation''' are one of the most important aspects of the usage of [[mechanical ventilation]]. The mode refers to the method of inspiratory support. Mode selection is generally based on [[Respiratory therapist|clinician]] familiarity and institutional preferences since there is a paucity of evidence indicating that the mode affects clinical outcome.  The most frequently used forms of volume-limited mechanical ventilation are IMV and CMV.<ref>Esteban A, Anzueto A, Alía I, et al. How is mechanical ventilation employed in the intensive care unit? An international utilization review. Am J Respir Crit Care Med 2000; 161:1450.</ref>  Substantial changes in the [[nomenclature of mechanical ventilation]] over the years but more recently has become standardized by many respirology/pulmonology groups.<ref name="pmid19399015">{{cite journal| author=Donn SM| title=Neonatal ventilators: how do they differ? | journal=J Perinatol | year= 2009 | volume= 29 Suppl 2 | issue=  | pages= S73-8 | pmid=19399015 | doi=10.1038/jp.2009.23 | pmc= | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=19399015  }}</ref><ref name="pmid22004898">{{cite journal| author=Chatburn RL, Volsko TA, Hazy J, Harris LN, Sanders S| title=Determining the Basis for a Taxonomy of Mechanical Ventilation. | journal=[[Respir Care]] | year= 2011 | volume=  57| issue=  4| pages=  514–24| pmid=22004898 | doi=10.4187/respcare.01327 | pmc= | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=22004898  }}</ref>  Writing a mode is most proper in all capital letters with a dash between the cycle and the strategy (i.e. PC-IMV, or VC-MMV etc.)
+
+== Cycle ==
+Cycling is the method for how a ventilator knows to give a breath and stop a breath.  Cycling is the governing system for how a breath will ultimately be applied.  Parameters vary but rate (<math>f</math>), I:E and other similar parameters are almost always set by the clinician alongside the cycle.
+
+=== Volume controlled ===
+[[File:Flow volume loop.png|thumb|Flow-volume loop]]
+Volume controlled systems of ventilation are based on a measured volume variable which is set by the clinician.  When the ventilator detects the set volume having been applied the ventilator cycles to exhalation.  This is measured various ways by each brand and model.  Some ventilators measure using a flow sensor at the circuit wye while some measure where the expiratory circuit plugs into the expiratory port on the ventilator body.
+
+=== Pressure controlled ===
+Pressure controlled cycling is based on an applied positive pressure that is set by the clinician.  In pressure controlled modes the total volume is variable as the ventilator is using only the pressure as a measurement for cycling.  Most ventilators calculate pressure at the expiratory circuit though some measure near the circuit with a proximal pressure line.
+
+=== Spontaneously controlled ===
+Spontaneously controlled cycling is a flow sensed mode dependent on a spontaneously breathing patient to cycle.  Spontaneously controlled ventilation is typically only in reference to continuous spontaneous ventilation, also called continuous positive airway pressure (CPAP).
+
+=== Negative pressure controlled ===
+[[Negative pressure ventilation]] cycles by producing a negative pressure around the chest and abdomen.  Negative pressure moves across the chest and diaphragm and causes air to move into the lungs in the normal fashion.<ref name="pmid3536343" />  When the negative pressure stops being applied, the chest returns to atmospheric pressure and the inspired air then is exhaled.<ref name="pmid3536343">{{cite journal| author=Hill NS| title=Clinical applications of body ventilators. | journal=Chest | year= 1986 | volume= 90 | issue= 6 | pages= 897–905 | pmid=3536343 | doi= | pmc= | url= }}</ref>
+
+== Strategy ==
+
+=== Airway pressure release ventilation ===
+[[File:Airway pressure release ventilation graph.png|thumb|Airway pressure release ventilation graph]]
+[[Airway pressure release ventilation]] is a time-cycled alternant between two levels of positive airway pressure, with the main time on the high level and a brief expiratory release to facilitate ventilation.<ref>{{Cite journal | author = [[Dietrich Henzler]] | title = What on earth is APRV? | journal = [[Critical care (London, England)]] | volume = 15 | issue = 1 | pages = 115 | year = 2011 | month =  | doi = 10.1186/cc9419 | pmid = 21345265 | pmc=3222047}}</ref>  
+
+Airway pressure release ventilation is usually utilized as a type of inverse ratio ventilation.  The exhalation time (T<sub>low</sub>) is shortened to usually less than one second to maintain alveoli inflation.  Fundamentally this is a continuous pressure with a brief release.  APRV currently the most efficient conventional mode for lung protective ventilation.<ref>{{Cite journal | author = [[Adrian A. Maung]] & [[Lewis J. Kaplan]] | title = Airway pressure release ventilation in acute respiratory distress syndrome | journal = [[Critical care clinics]] | volume = 27 | issue = 3 | pages = 501–509 | year = 2011 | month = July | doi = 10.1016/j.ccc.2011.05.003 | pmid = 21742214}}</ref>
+
+Different perceptions of this mode may exist around the globe. While 'APRV' is common to users in [[North America]], a very similar mode, biphasic positive airway pressure (BIPAP), was introduced in Europe.<ref>{{Cite journal | author = [[M. Baum]], [[H. Benzer]], [[C. Putensen]], [[W. Koller]] & [[G. Putz]] | title = &#91;Biphasic positive airway pressure (BIPAP)--a new form of augmented ventilation&#93; | journal = [[Der Anaesthesist]] | volume = 38 | issue = 9 | pages = 452–458 | year = 1989 | month = September | pmid = 2686487 }}</ref>  The term APRV has also been used in American journals where, from the ventilation characteristics, BIPAP would have been perfectly good terminology.<ref>{{Cite journal | author = [[C. Putensen]], [[S. Zech]], [[H. Wrigge]], [[J. Zinserling]], [[F. Stuber]], [[T. Von Spiegel]] & [[N. Mutz]] | title = Long-term effects of spontaneous breathing during ventilatory support in patients with acute lung injury | journal = [[American journal of respiratory and critical care medicine]] | volume = 164 | issue = 1 | pages = 43–49 | year = 2001 | month = July | pmid = 11435237 }}</ref> But BiPAP(tm) is a trademark for a noninvasive ventilation mode in a specific ventilator (Respironics Inc.). 
+
+Other manufacturers have followed with their own brand names (BILEVEL, DUOPAP, BIVENT). Although similar in modality, these terms describe how a mode is intended to inflate the lung, rather than defining the characteristics of synchronization or the way spontaneous breathing efforts are supported.
+
+=== Continuous mandatory ventilation ===
+Continuous mandatory ventilation (formerly known as Assist Control or AC) is a mode of ventilation where breaths are delivered based on set variables.  The patient may initiate breaths by attempting to breathe.  Once a breath is initiated, either by the patient or by the ventilator the set [[tidal volume]] is delivered.  Continuous mandatory ventilation used to also be called Volume Control or Assist Control Volume Control (AC/VC), though this is no longer recommended.  Since [[nomenclature of mechanical ventilation]] is only recently standardized<ref name="ReferenceA">Chatburn RL. Classification of ventilator modes: update and proposal for implementation. [[Respir Care]] 2007; 52:301–323.</ref> there are many different names that historically were used to reference CMV but now reference Assist Control.<ref name="ReferenceA"/> Names such as: volume control ventilation, and volume cycled ventilation in modern usage refer to the Assist Control mode.
+
+Controlled mechanical ventilation in its original form had no patient sensitivity.  A breath set was a breath delivered.  Continuous mandatory ventilation was created out of the need for patient-initiation in breaths.  Fundamentally, Continuous mandatory ventilation is controlled mechanical ventilation (CMV) with a sensitivity for patient breathing. The use of controlled mechanical ventilation requires the patient be completely unconscious, either pharmacokinetically or otherwise in a [[coma]].
+
+Continuous mandatory ventilation (formerly Assist Control or AC) is associated with profound diaphragm muscle dysfunction and atrophy.<ref name="pmid15201132">{{cite journal| author=Sassoon CS, Zhu E, Caiozzo VJ| title=Assist-control mechanical ventilation attenuates ventilator-induced diaphragmatic dysfunction. | journal=Am J Respir Crit Care Med | year= 2004 | volume= 170 | issue= 6 | pages= 626–32 | pmid=15201132 | doi=10.1164/rccm.200401-042OC | pmc= | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=15201132  }}</ref>  Continuous mandatory ventilation is no longer the preferred mode of mechanical ventilation.<ref name="pmid21813526">{{cite journal| author=Macintyre N| title=Counterpoint: Is Pressure Assist-Control Preferred Over Volume Assist-Control Mode for Lung Protective Ventilation in Patients With ARDS? No. | journal=Chest | year= 2011 | volume= 140 | issue= 2 | pages= 290–2 | pmid=21813526 | doi=10.1378/chest.11-1052 | pmc= | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=21813526  }}</ref>
+
+=== Intermittent mandatory ventilation ===
+[[Intermittent mandatory ventilation]] is similar to continuous mandatory ventilation in two ways: the minute ventilation (V<sub>E</sub>) is determined (by setting the respiratory rate and tidal volume); and the patient is able to increase the minute ventilation. However, IMV differs from continuous mandatory ventilation in the way that the minute ventilation is increased. Specifically, patients increase the minute ventilation by spontaneous breathing, rather than patient-initiated ventilator breaths.  The ventilator breaths are synchronized with patient inspiratory effort.<ref>Sassoon CS, Del Rosario N, Fei R, et al. Influence of pressure- and flow-triggered synchronous intermittent mandatory ventilation on inspiratory muscle work. Crit Care Med 1994; 22:1933.</ref><ref>{{cite journal | author = Christopher KL, Neff TA, Bowman JL ''et al.'' | year = 1985 | title = Demand and continuous flow intermittent mandatory ventilation systems | url = | journal = Chest | volume = 87 | issue = | page = 625 }}</ref>  IMV with pressure support is the most efficient and effective mode of mechanical ventilation.<ref>{{Cite journal | author = [[D. C. Shelledy]], [[J. L. Rau]] & [[L. Thomas-Goodfellow]] | title = A comparison of the effects of assist-control, SIMV, and SIMV with pressure support on ventilation, oxygen consumption, and ventilatory equivalent | journal = [[Heart & lung : the journal of critical care]] | volume = 24 | issue = 1 | pages = 67–75 | year = 1995 | month = January–February | pmid = 7706102 }}</ref> 
+
+Intermittent mandatory ventilation has not always had the synchronized feature, so the division of modes were understood to be SIMV (synchronized) vs IMV (not-synchronized). Since the [[American Association for Respiratory Care]] established a [[nomenclature of mechanical ventilation]] the "synchronized" part of the title has been dropped and now there is only IMV.
+
+=== Mandatory minute ventilation ===
+Mandatory minute ventilation (MMV) allows spontaneous breathing with automatic adjustments of mandatory ventilation to the meet the patient’s preset minimum minute volume requirement. If the patient maintains the minute volume settings for V<sub>T</sub> x f, no mandatory breaths are delivered. 
+
+If the patient's minute volume is insufficient, mandatory delivery of the preset tidal volume will occur until the minute volume is achieved.  The method for monitoring whether or not the patient is meeting the required minute ventilation (V<sub>E</sub>) differs by ventilator brand and model, but generally there is a window of monitored time, and a smaller window checked against the larger window (i.e., in the Dräger Evita® line of mechanical ventilators there is a moving 20-second window, and every 7 seconds the current tidal volume and rate are measured) to decide whether a mechanical breath is needed to maintain the minute ventilation.  
+
+MMV has been to be an optimal mode for weaning in neonatal and pediatric populations and has been shown to reduce long term complications related to mechanical ventilation.<ref>{{Cite journal  | author = [[Scott O. Guthrie]], [[Chris Lynn]], [[Bonnie J. Lafleur]], [[Steven M. Donn]] & [[William F. Walsh]] | title = A crossover analysis of mandatory minute ventilation compared to synchronized intermittent mandatory ventilation in neonates | journal = [[Journal of perinatology : official journal of the California Perinatal Association]] | volume = 25 | issue = 10 | pages = 643–646 | year = 2005 | month = October | doi = 10.1038/sj.jp.7211371 | pmid = 16079905 }}</ref>
+
+=== Pressure regulated volume control ===
+Pressure regulated volume control is an [[Intermittent mandatory ventilation|IMV]] based mode.  Pressure regulated volume control utilizes pressure-limited, volume-targeted, time-cycled breaths which can be either ventilator or patient initiated.
+
+The peak inspiratory pressure delivered by the ventilator is varied on a breath-to-breath basis to achieve a target tidal volume which is set by the clinician.
+
+For example, if a target tidal volume of 500 mL is set but the ventilator delivers 600 mL, the next breath will be delivered with a lower inspiratory pressure to achieve a lower tidal volume.  Though PRVC is regarded as a hybrid mode because of its tidal-volume (VC) settings and pressure-limiting (PC) settings fundamentally PRVC is a volume-control mode.
+
+===Continuous positive airway pressure===
+[[continuous positive airway pressure]] (CPAP) is a non-invasive positive pressure mode of ventilation (NPPV). CPAP is simply a pressure applied at the end of exhalation to keep the [[alveoli]] open and not fully deflate.  This mechanism for maintaining inflated alveoli helps increase partial pressure of oxygen in arterial blood, an appropriate increase in CPAP increases the PaO<sub>2</sub>.
+
+=== Bilevel positive airway pressure ===
+[[Bilevel positive airway pressure]] (BPAP) is a mode used during noninvasive positive pressure ventilation (NPPV).  First used in 1988 by Professor Benzer in Austria,<ref>Benzer H (1988) Ventilatory support by intermittent changes in PEEP levels. 4th European Congress on Intensive Care Medicine. Baveno-Stresa</ref> it delivers a preset inspiratory positive airway pressure (IPAP) and expiratory positive airway pressure (EPAP).  BPAP can be described as a Continuous Positive Airway Pressure system with a time-cycled change of the applied CPAP level.<ref>{{Cite journal | author = [[C. Hormann]], [[M. Baum]], [[C. Putensen]], [[N. J. Mutz]] & [[H. Benzer]] | title = Biphasic positive airway pressure (BIPAP)--a new mode of ventilatory support | journal = [[European Journal of Anaesthesiology]] | volume = 11 | issue = 1 | pages = 37–42 | year = 1994 | month = January | pmid = 8143712}}</ref> CPAP, BPAP and other non-invasive ventilation modes have been shown to be effective management tools for [[chronic obstructive pulmonary disease]] and [[acute respiratory failure]].<ref>{{Cite journal | author = [[M. A. Levitt]] | title = A prospective, randomized trial of BiPAP in severe acute congestive heart failure | journal = [[The Journal of emergency medicine]] | volume = 21 | issue = 4 | pages = 363–369 | year = 2001 | month = November | pmid = 11728761}}</ref>
+
+Often BPAP is incorrectly referred to as "BiPAP". BiPAP® is the name of a portable ventilator manufactured by [[Respironics Corporation]]; it is just one of many ventilators that can deliver BPAP.
+
+=== High-frequency ventilation (Active) ===
+The term '''active''' refers to the ventilators forced expiratory system.  In a HFV-A scenario, the ventilator uses pressure to apply an inspiratory breath and then applies an opposite pressure to force an expiratory breath.  In high-frequency oscillatory ventilation (sometimes abbreviated HFOV) the oscillation bellow and piston force positive pressure in and apply negative pressure to force an expiration.<ref name="pmid22094505">{{cite journal | author = Allardet-Servent J | year = 2011 | title = High-frequency oscillatory ventilation in adult patients with acute respiratory distress syndrome: Where do we stand and where should we go? | url = http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&retmode=ref&cmd=prlinks&id=22094505 | journal = Crit Care Med | volume = 39 | issue = 12| pages = 2761–2 | doi = 10.1097/CCM.0b013e31822a5c35 | pmid = 22094505 }}</ref>
+
+=== High-frequency ventilation (Passive) ===
+The term '''passive''' refers to the ventilators non-forced expiratory system.  In a HFV-P scenario, the ventilator uses pressure to apply an inspiratory breath and then simply returns to atmospheric pressure to allow for a passive expiration.  This is seen in High-Frequency Jet Ventilation, sometimes abbreviated HFJV.
+
+== Spontaneous breathing and support settings ==
+
+=== Positive-end expiratory pressure ===
+[[Positive end expiratory pressure]] is pressure applied upon expiration.  PEEP is applied either using a valve that is connected to the expiratory port and set manually or a valve managed internally by a mechanical ventilator.  
+
+PEEP is simply a pressure that an exhalation has to bypass, effectively causing [[alveoli]] to remain open and not fully deflate.  This mechanism for maintaining inflated alveoli helps increase partial pressure of oxygen in arterial blood, an increase in PEEP increases the PaO<sub>2</sub>.<ref name="D. P. Schuster, M. Klain & J. V. Snyder 1982 625–630">{{Cite journal | author = [[D. P. Schuster]], [[M. Klain]] & [[J. V. Snyder]] | title = Comparison of high frequency jet ventilation to conventional ventilation during severe acute respiratory failure in humans | journal = [[Critical care medicine]] | volume = 10 | issue = 10 | pages = 625–630 | year = 1982 | month = October | pmid = 6749433 }}</ref>
+
+=== Pressure support ===
+Pressure support is a spontaneous mode of ventilation also named ''Pressure Support Ventilation'' (PSV). The patient initiates every breath and the ventilator delivers support with the preset pressure value. With support from the ventilator, the patient also regulates their own [[respiratory rate]] and their [[Lung volumes|tidal volume]]. 
+
+In Pressure Support, the set inspiratory pressure [[Support (technical analysis)|support level]] is kept constant and there is a decelerating flow. The patient triggers all breaths. If there is a change in the mechanical properties of the lung/thorax and patient effort, the delivered tidal volume will be affected. The user must then regulate the pressure support level to obtain desired ventilation.<ref>MAQUET, "Modes of ventilation in SERVO-i, invasive and non-invasive", 2008 MAQUET [[Intensive care medicine|Critical Care]] AB, Order No 66 14 692</ref><ref>MAQUET, "Modes of ventilation in SERVO-s, invasive and non-invasive", 2009 MAQUET Critical Care AB, Order No 66 61 131</ref>
+
+Pressure support improves oxygenation,<ref name="pmid21263322">{{cite journal | author = Spieth PM, Carvalho AR, Güldner A, ''et al.'' | title = Pressure support improves oxygenation and lung protection compared to pressure-controlled ventilation and is further improved by random variation of pressure support | journal = [[Critical Care Medicine]] | volume = 39 | issue = 4 | pages = 746–55 | year = 2011 | month = April | pmid = 21263322 | doi = 10.1097/CCM.0b013e318206bda6 | url = http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0090-3493&volume=39&issue=4&spage=746 | issn = }}</ref> ventilation and decreases work of breathing.
+
+Also see adaptive support ventilation.
+
+== Other ventilation modes and strategies ==
+
+=== Closed loop systems ===
+
+====Adaptive Support Ventilation====
+Adaptive Support Ventilation is a brand-name of a closed-loop system on the Hamilton ventilators, is the only commercially available mode to date that uses "optimal targeting". This targeting scheme was first described by Tehrani in 1991,<ref>Tehrani FT. Method and apparatus for controlling an artificial respiratory. US patent 4,986,268, issued January 22, 1991.</ref><ref>Tehrani FT. Automatic control of an artificial respirator. Proc IEEE
+EMBS Conf 1991;13:1738-1739.</ref> and was designed to minimize the work rate of breathing, mimic natural breathing, stimulate spontaneous breathing, and reduce weaning time.<ref>Tehrani FT. Automatic control of mechanical ventilation. Part 2: The existing techniques and future trends J Clin Monit Comput 2008; 22(6):417-424.</ref>
+
+====Automatic Tube Compensation====
+Automatic Tube Compensation (ATC) is the simplest example of a computer-controlled targeting system on a ventilator.
+
+The goal of ATC is to support the resistive work of breathing through the artificial airway
+
+====Neurally Adjusted Ventilatory Assist====
+Neurally Adjusted Ventilatory Assist (NAVA) is adjusted by a computer (servo) and is similar to ATC but with more complex requirements for implementation.
+
+In terms of patient-ventilator synchrony, NAVA supports both resistive and elastic work of breathing in proportion to the patient’s inspiratory effort
+
+====Proportional Assist Ventilation====
+Proportional assist ventilation (PAV) is a mode in which the ventilator guarantees the percentage of work regardless of changes in [[pulmonary compliance]] and resistance.<ref>Younes M. Proportional assist ventilation, a new approach to ventilatory support. Theory. Am Rev Respir Dis 1992; 145(1):114-120.</ref>
+
+The ventilator varies the tidal volume and pressure based on the patients work of breathing, the amount it delivers is proportional to the percentage of assistance it is set to give.
+
+PAV, like NAVA, supports both resistive and elastic work of breathing in proportion to the patient’s inspiratory effort
+
+=== Liquid ventilation ===
+[[Liquid ventilation]] is a technique of mechanical ventilation in which the lungs are insufflated with an oxygenated perfluorochemical liquid rather than an oxygen-containing gas mixture. The use of perfluorochemicals, rather than nitrogen, as the inert carrier of oxygen and carbon dioxide offers a number of theoretical advantages for the treatment of acute lung injury, including:
+*Reducing surface tension by maintaining a fluid interface with alveoli
+*Opening of collapsed alveoli by hydraulic pressure with a lower risk of barotrauma
+*Providing a reservoir in which oxygen and carbon dioxide can be exchanged with pulmonary capillary blood
+*Functioning as a high efficiency heat exchanger
+Despite its theoretical advantages, efficacy studies have been disappointing and the optimal clinical use of LV has yet to be defined.<ref name="pmid8647601">{{cite journal| author=Degraeuwe PL, Vos GD, Blanco CE| title=Perfluorochemical liquid ventilation: from the animal laboratory to the intensive care unit. | journal=Int J Artif Organs | year= 1995 | volume= 18 | issue= 10 | pages= 674–83 | pmid=8647601 | doi= | pmc= | url= }}</ref>
+
+==== Total liquid ventilation ====
+In total liquid ventilation (TLV), the entire lung is filled with an oxygenated PFC liquid, and a liquid tidal volume of PFC is actively pumped into and out of the lungs. A specialized apparatus is required to deliver and remove the relatively dense, viscous PFC tidal volumes, and to extracorporeally oxygenate and remove carbon dioxide from the liquid.<ref name="pmid7780839">{{cite journal| author=Norris MK, Fuhrman BP, Leach CL| title=Liquid ventilation: it's not science fiction anymore. | journal=AACN Clin Issues Crit Care Nurs | year= 1994 | volume= 5 | issue= 3 | pages= 246–54 | pmid=7780839 | doi= | pmc= | url= }}</ref><ref name="pmid8732549">{{cite journal| author=Greenspan JS| title=Physiology and clinical role of liquid ventilation therapy. | journal=J Perinatol | year= 1996 | volume= 16 | issue= 2 Pt 2 Su | pages= S47-52 | pmid=8732549 | doi= | pmc= | url= }}</ref><ref name="pmid8852261">{{cite journal| author=Dirkes S| title=Liquid ventilation: new frontiers in the treatment of ARDS. | journal=Crit Care Nurse | year= 1996 | volume= 16 | issue= 3 | pages= 53–8 | pmid=8852261 | doi= | pmc= | url= }}</ref>
+
+==== Partial liquid ventilation ====
+In partial liquid ventilation (PLV), the lungs are slowly filled with a volume of PFC equivalent or close to the FRC during gas ventilation. The PFC within the lungs is oxygenated and carbon dioxide is removed by means of gas breaths cycling in the lungs by a conventional gas ventilator.<ref name="pmid8715647">{{cite journal| author=Cox CA, Wolfson MR, Shaffer TH| title=Liquid ventilation: a comprehensive overview. | journal=Neonatal Netw | year= 1996 | volume= 15 | issue= 3 | pages= 31–43 | pmid=8715647 | doi= | pmc= | url= }}</ref>
+
+==See also==
+* [[Table of modes of mechanical ventilation]]
+* [[Mechanical ventilation]]
+* [[Respiratory therapy]]
+
+==References==
+{{reflist|30em}}
+{{Mechanical ventilation}}
+
+[[Category:Respiratory therapy]]
+[[Category:Intensive care medicine]]
+[[Category:Mechanical ventilation]]
+[[Category:Pulmonology]]

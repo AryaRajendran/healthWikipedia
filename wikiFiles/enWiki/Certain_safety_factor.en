@@ -1,0 +1,20 @@
+The '''Certain Safety Factor''' is the ratio of the [[lethal dose]] to 1% of population to the [[Effective dose (pharmacology)|effective dose]] to 99% of the population (LD1/ED99). This is a better safety index than the [[Median lethal dose|LD<sub>50</sub>]] for materials that have both desirable and undesirable effects, because it factors in the ends of the spectrum where doses may be necessary to produce a response in one person but can, at the same dose, be lethal in another.
+
+<math>\mbox{Certain safety factor} = \frac{\mathrm{LD}_{1}}{\mathrm{ED}_{99}}</math>
+
+==See also==
+* [[Therapeutic index]]
+* [[Effective dose (pharmacology)|Effective dose]]
+* [[IC50|IC<sub>50</sub>]]
+* {{LD50}}
+* [[EC50|EC<sub>50</sub>]]
+* [[Toxicology]]
+
+==References==
+http://www.courses.vcu.edu/ptxed/m2/faqs_damaj.htm
+
+[[Category:Pharmacology]]
+[[Category:Toxicology]]
+
+{{pharma-stub}}
+{{med-toxic-stub}}

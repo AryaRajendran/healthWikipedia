@@ -1,0 +1,58 @@
+'''Electronic Prescriptions for Controlled Substances''' (EPCS) was originally a proposal for the DEA to revise its regulations to provide practitioners with the option of writing [[Electronic Prescribing|electronic prescriptions]] for [[controlled substances]]. These regulations would also permit pharmacies to receive, dispense, and archive these electronic prescriptions. These proposed regulations would be an addition to, not a replacement of, the existing rule.<ref name=history/> 
+
+In 2010, DEA regulations were modified which lifted previous restrictions against the use of electronic prescribing for controlled substances that have presented a major obstacle to e-prescribing proliferation. As healthcare providers move to implement these new regulations, e-prescribing can be expected to reduce paperwork for pharmacies and practitioners, reduce prescription forgery and help integrate prescription records in [[electronic medical records]].<ref name=QandA>
+{{cite web
+  | title =General Questions and Answers 
+  | work =Office of Diversion Control 
+  | publisher =U.S.Drug Enforcement Administration 
+  | date =March 31, 2010 
+  | url =http://www.deadiversion.usdoj.gov/ecomm/e_rx/faq/faq.htm 
+  | format =web page 
+  | accessdate =2011-09-03}} Provides a definition for this article regarding the Drug Enforcement Administration (DEA) Interim Final Rule for the "Electronic Prescriptions for Controlled Substances”.</ref>
+
+== Background ==
+The rule “Electronic Prescriptions for Controlled Substances” (75 FR 16236, March 31, 2010) [Docket No. DEA-218, RIN 1117-AA61] provides practitioners with the option of writing and transmitting prescriptions for controlled substances electronically. The regulations also permit pharmacies to receive, dispense, and archive these electronic prescriptions. The rule became effective on June 1, 2010.<ref>“[http://www.deadiversion.usdoj.gov/ecomm/e_rx/faq/faq.htm Electronic Prescriptions for Controlled Substances: General Questions and Answers],” U.S. Department of Justice, Drug Enforcement Administration, Office of Diversion Control, March 31, 2010.</ref>
+
+==History==
+
+===The mandate===
+In 1970, the DEA implemented  the ''[[Comprehensive Drug Abuse Prevention and Control Act of 1970]]'', also known as the [[Controlled Substances Act]] (CSA) (21 U.S.C. 801–971). At this time, most transactions, and particularly prescriptions were done on paper.<ref name=history/>
+
+These regulations ensure an adequate supply of controlled substances for legitimate medical, scientific, research, and industrial purposes. The regulations also deter the diversion of
+controlled substances to illegal purposes. The CSA mandates that DEA establish a closed system of control for manufacturing, distributing, and dispensing controlled substances. Part of CSA mandate included that some records must be created and kept on forms that DEA provides and that many controlled substance prescriptions must be manually signed.<ref name=history/> 
+
+===DEA examines revision===
+In 1999, in response to requests from the regulated community, the ''[[Drug Enforcement Administration]]'' (DEA) began to examine how to revise its regulations to allow the use of electronic systems within the limits imposed by the existing [[statute]]s, while being mindful that the records had to be usable in legal actions. On April 1, 2005, after extensive consultation with the regulated community, DEA published a final rule that allowed the electronic creation, signature, transmission, and ''retention of records'' of orders for [[Controlled Substances Act#Schedule I controlled substances|Schedule I]] and [[Controlled Substances Act#Schedule II controlled substances|Schedule II]] controlled substances, orders that prior to that time had to be created on preprinted forms that DEA issued.<ref name=history/>
+
+At the same time, DEA began to examine how to revise its rules to allow electronic prescriptions for [[controlled substance]]s. The DEA had to mindful that regulations on electronic prescriptions must be consistent with other statutory mandates and Federal regulations. Looking back,  ''[[E-SIGN Act|E-Sign]]'' was signed into law on June 30, 2000. It establishes the basic rules for using electronic signatures and records in commerce, and it electronic commerce by giving legal effect to electronic signatures and records and to protect consumers.<ref name=history/>
+
+===Electronic prescriptions===
+In 2003, the ''[[Medicare Prescription Drug, Improvement, and Modernization Act]]'' was implemented. It contained a requirement pertaining to electronic transmission of prescriptions and prescription-related information for its Medicare program. One of the considerations in support of this move to electronic prescriptions was the view that using electronic prescriptions in lieu of written or oral prescriptions could reduce medical errors that occur
+because handwriting is illegible or phoned-in prescriptions are misunderstood as a result of similar-sounding medication names. Another consideration is that, if prescription records are linked to other medical records, practitioners can be alerted at the time of prescribing to possible interactions with other drugs the patient is taking or allergies a patient might
+have. Electronic prescribing systems also can link to insurance formulary lists to inform the practitioner prior to prescribing whether a drug is covered by a patient’s insurance.<ref name=history/>
+
+The [[United States Secretary of Health and Human Services|Secretary of the Department of Health and Human Services]] (HHS) adopted a rule on the transmission standard for electronic prescriptions in November 2005 (revised in June 2006). The standard focuses on the format for the transmitted information, not with the process of creating the prescription or maintaining the record at the pharmacy. The standard specifies fields (name, date, address, etc.) and field lengths for certain transactions including issuing new prescriptions and refills. However, there is no requirement that practitioners or pharmacies use electronic prescriptions. It does require that companies that sponsor Medicare prescription drug coverage establish and maintain an electronic prescription program that meets the standard.<ref name=history/>
+
+===A distinct scope===
+The rule has been written to be consistent with the above delineated HHS standard. However, the context in which the HHS standard was issued was not specific to [[controlled substance]]s and therefore not designed to provide safeguards against the diversion of controlled substances. The responsibility for establishing regulatory safeguards against diversion of controlled substances falls upon DEA as the agency charged with administering and enforcing the CSA. Accordingly, while the DEA's rule is designed to work in tandem with the HHS standard, its scope is necessarily distinct from the HHS standard. <ref name=history> {{USGovernment|sourceURL=[http://www.gpo.gov/fdsys/pkg/FR-2008-06-27/pdf/E8-14405.pdf Federal Register / Vol. 73, No. 125 /], ''U.S. Drug Enforcement Administration''}} June 27, 2008. Accessdate 2011-09-03. </ref>
+
+== Impact on physicians and pharmacies ==
+
+Before issuing electronic prescriptions for controlled substances, practitioners must meet several key requirements. One, they must use a software application that conforms to regulatory standards. They must also be credentialed for [[two-factor authentication]], utilizing two of the following potential identification factors: (1) password or response to a question whose answer is known only to the practitioner (2) unique physical information, such as fingerprint or iris scan, otherwise know as [[biometric]] data or (3) physical object such as cryptographic key or hard token. Specific security measures must also be implemented. These include the requirement that two people need to authorize each controlled-drug e-prescription. One person confirms that the practitioner is authorized to sign the prescription. The second person is the practitioner who confirms his identity using the two-factor authentication system described above.<ref>[[Aaron Gilson]], “[http://www.medscape.com/viewarticle/738558 E-prescribing for Controlled Substances: Will It Work?],” ''[[Medscape Neurology]]'', March 14, 2011.</ref>
+ 
+Every provider workflow is likely to be somewhat different. One potential workflow for renewal requests would proceed as follows. The patient calls the pharmacy to request renewal. The pharmacy sends the electronic renewal request to the prescriber’s office. The prescriber reviews and authorizes. The response is then sent electronically to the pharmacy. Staff involvement in generating prescriptions for the prescriber to sign varies by practice. The new method of dispensing allows pharmacists to submit an accurate electronic request for a renewal, decreasing the burden of phone calls on medical office staff. No major changes are expected in the new prescription workflow since the prescriber is the primary actor in the current best practice and is expected to remain so after electronic prescriptions for controlled substances is implemented.<ref>“[https://files.pbworks.com/download/DjRDRauwDP/himsseprescribingwiki/41523461/20110517%20EPCS%20final%20draft(1)vk.pdf Topical Review: Electronic Prescribing of Controlled Substances],” ''[[Healthcare Information and Management Systems Society]]'', June 20, 2011.</ref> 
+
+The [[American Medical Association]] and four partner organizations in April 2011 issued an updated version of "A Clinician's Guide to Electronic Prescribing." The organizations said the guide reflects changes in the health care environment including the DEA's rule allowing electronic prescribing of controlled substances.<ref>Pamela Lewis Dolan, “[http://www.ama-assn.org/amednews/2011/05/02/bisf0505.htm AMA releases new edition of e-prescribing guide],” ''[[American Medical News]]'', May 5, 2011.</ref> 
+
+Some state laws and regulations will require changes before controlled substance e-prescribing will be fully legal. State boards of pharmacy are offering guidance to licensees regarding DEA e-prescribing software requirements and the legality of controlled substance e-prescribing in their respective states. While the legality of e-prescribing controlled substances will vary from state-to-state for some time to come, e-prescribing as a whole will likely take a firm hold throughout the country and devolve into a bloated, inefficient, and privacy-invasive system in what is on the surface supposed to be an assistance to patients access their medications.<ref>“[http://www.nabp.net/news/implementation-of-dea-cs-e-prescribing-rule-prompts-boards-to-offer-licensees-guidance/ Implementation of DEA CS e-prescribing Rule Prompts Boards to Offer Licensees Guidance],” [[National Association of Boards of Pharmacy]] Newsletter, December 2010.</ref>
+
+== References ==
+<!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+== See also ==
+
+* [http://www.deadiversion.usdoj.gov/ecomm/e_rx/index.html DEA regulations on Electronic Prescribing of Controlled Substances]
+
+[[Category:Drug policy of the United States]]
+[[Category:Drug Enforcement Administration]]

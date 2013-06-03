@@ -1,0 +1,142 @@
+{{chembox
+| verifiedrevid = 464361624
+|   ImageFile = Hydrogen fluoride.JPG
+|   ImageSize = 250px
+|   ImageName = Hydrofluoric acid
+|   ImageAlt = White plastic bottle with safety cap is labeled "QP Panreac" above smaller text "Hydrofloric Acid 40% QP" with 6 translations. In a bright orange region along the side, warning symbols are clearly visible.
+|   OtherNames = fluoric acid; fluorhydric acid
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 14214
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RGL5YE86CZ
+| InChI = 1/FH/h1H
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 29228
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/FH/h1H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KRHYYFGTRYWZRS-UHFFFAOYSA-N
+| SMILES = F
+| InChIKey = KRHYYFGTRYWZRS-UHFFFAOYAC
+| CASNo = 7664-39-3
+|    CASNo_Ref = {{cascite|correct|CAS}}
+|   RTECS = MW7875000
+|   EINECS = 231-634-8
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = HF (aq)
+|   MolarMass = not applicable<br/> (see [[hydrogen fluoride]])
+|   Appearance = Colorless solution
+|   Density = 1.15 g/mL (for 48% soln.)
+|   Solubility = [[Miscible]].
+|   MeltingPt = not applicable<br/> (see [[hydrogen fluoride]])
+|   BoilingPt = not applicable<br/> (see [[hydrogen fluoride]])
+|   pKa = 3.17 <ref>Harris, Daniel C. (2010) ''Quantitative Chemical Analysis'', W. H. Freeman and Company, p.AP14</ref>
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://msds.dupont.com/msds/pdfs/EN/PEN_09004a2f801b4efc.pdf duPont MSDS]
+|   EUIndex = 009-003-00-1
+|   EUClass = {{Hazchem T+}} {{Hazchem C}}
+|   NFPA-H = 4
+|   NFPA-F = 0
+|   NFPA-R = 1
+|   NFPA-O = 
+|   FlashPt = Non-flammable
+|   RPhrases = {{R26/27/28}}, {{R35}}
+|   SPhrases = {{S1/2}}, {{S7/9}}, {{S26}}, {{S36/37}}, {{S45}}
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions = [[Hydrochloric acid]]<br/>[[Hydrobromic acid]]<br/>[[Hydroiodic acid]]
+|   OtherCpds = [[Hydrogen fluoride]]
+  }}
+}}
+
+'''Hydrofluoric acid (HF)''' is a [[solution]] of [[hydrogen fluoride]] in [[water]].  It is a valued source of [[fluorine]] and is a precursor to numerous pharmaceuticals such as [[fluoxetine]] ([[Prozac]]) and diverse materials such as [[polytetrafluoroethylene|PTFE]] (Teflon).  
+
+Hydrofluoric acid is a highly corrosive acid, capable of dissolving many materials, especially [[oxide]]s.  Its ability to dissolve glass has been known since the 17th century, even before hydrofluoric acid had been prepared in large quantities by [[Carl Wilhelm Scheele]] in 1771.<ref>{{Greenwood&Earnshaw1st|page=921}}</ref> Because of its high reactivity toward glass and moderate reactivity toward many metals, hydrofluoric acid is usually stored in [[plastic]] containers (although [[polytetrafluoroethylene|PTFE]] is slightly permeable to it).<ref name=Ullmann/>
+
+Hydrogen fluoride gas is an acute poison that may immediately and permanently damage lungs and the corneas of the eyes. [[Aqueous]] hydrofluoric acid is a contact-poison with the potential for deep, initially painless burns and ensuing tissue death. By interfering with body calcium metabolism, the concentrated acid may also cause systemic toxicity and eventual cardiac arrest and fatality, after contact with as little as 160 cm<sup>2</sup> (25 square inches) of skin.
+
+==Acidity==
+Hydrofluoric acid is classified as a weak acid because of its lower dissociation constant compared to the strong acids. It [[ionization|ionizes]] in aqueous solution in a similar fashion to other common acids:<ref>{{cite journal | doi = 10.1063/1.2090259 | year = 2005 | month = Nov | author = Ayotte, P; Hébert, M; Marchand, P | title = Why is hydrofluoric acid a weak acid? | volume = 123 | issue = 18 | pages = 184501 | pmid = 16292908 | journal = [[J. Chem. Phys.]]}}</ref>
+:HF + H<sub>2</sub>O {{eqm}} H<sub>3</sub>O<sup>+</sup> + F<sup>−</sup>
+It is the only [[hydrohalic acid]] that is not considered a [[strong acid]], i.e. it does not fully ionize in dilute aqueous solutions.
+
+When the concentration of HF approaches 100%, the acidity increases dramatically because of the following equilibrium:
+:2 HF  {{eqm}}  H<sup>+</sup> + FHF<sup>−</sup>
+
+The [[bifluoride]] (FHF<sup>−</sup>) anion is stabilized by the very strong hydrogen–fluorine [[hydrogen bond]].
+
+==Production==
+Hydrofluoric acid is produced by treatment of the mineral [[fluorite]] (CaF<sub>2</sub>) with concentrated [[sulfuric acid]]. When combined at 265 °C, these two substances react to produce hydrogen fluoride and [[calcium sulfate]] according to the following [[chemical equation]]:
+
+:CaF<sub>2</sub>  +  H<sub>2</sub>SO<sub>4</sub>  →  2 HF  +  CaSO<sub>4</sub>
+
+Although bulk fluorite is a suitable precursor and a major source of world HF production, HF is also produced as a by-product of the production of [[phosphoric acid]], which is derived from the mineral [[apatite]]. Apatite sources typically contain a few percent of [[fluoroapatite]], acid digestion of which releases gaseous stream consisting of [[sulfur dioxide]] (from the H<sub>2</sub>SO<sub>4</sub>), water, and HF, as well as particulates.  After separation from the solids, the gases are treated with sulfuric acid and [[oleum]] to afford anhydrous HF.  Owing to the corrosive nature of HF, its production is accompanied by the dissolution of silicate minerals, and, in this way, significant amounts of [[fluorosilicic acid]] is generated.<ref name=Ullmann>J. Aigueperse, P. Mollard, D. Devilliers, M. Chemla, R. Faron, R. Romano, J. P. Cuer, “Fluorine Compounds, Inorganic” in Ullmann’s Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2005.{{DOI|10.1002/14356007.a11_307}}</ref>
+
+==Uses==
+===Oil refining===
+In a standard [[oil refinery]] process known as [[alkylation]], [[isobutane]] is alkylated with low-molecular-weight [[alkene]]s (primarily a mixture of [[propylene]] and [[butylene]]) in the presence of the strong acid [[catalyst]] derived from hydrofluoric acid. The catalyst protonates the alkenes (propylene, butylene) to produce reactive [[carbocation]]s, which alkylate isobutane. The reaction is carried out at mild temperatures (0 and 30 °C) in a two-phase reaction.
+
+===Production of organofluorine compounds===
+The principal use of hydrofluoric acid is in [[organofluorine chemistry]]. Many [[organofluorine compounds]] are prepared using HF as the fluorine source, including [[Polytetrafluoroethylene|Teflon]], [[fluoropolymer]]s, [[fluorocarbon]]s, and [[refrigeration|refrigerants]] such as [[freon]].<ref name=Ullmann/>
+
+===Production of fluorides===
+Most high-volume inorganic fluoride compounds are prepared from hydrofluoric acid.  Foremost are Na<sub>3</sub>AlF<sub>6</sub>, [[cryolite]], and AlF<sub>3</sub>, [[aluminium trifluoride]].  A molten mixture of these solids serves as a high-temperature solvent for the production of metallic [[aluminium]].  Given concerns about fluorides in the environment, alternative technologies are being sought. Other inorganic fluorides prepared from hydrofluoric acid include [[sodium fluoride]] and [[uranium hexafluoride]].<ref name=Ullmann/>
+
+===Etchant and cleaning agent===
+The ability of hydrofluoric acid to dissolve metal oxides is the basis of several applications. It removes oxide impurities from [[stainless steel]], a process called ''pickling,'' and [[silicon]] wafers in the [[semiconductor]] industry.  In this regard it is also referred to as BHF, (when Buffered with Ammonium Fluoride), and BOE (for Buffered Oxide Etch).  It is a significant constituent of [[Wright Etch]] and the similar HNA (HF+Nitric+Acetic Acid) etch. In similar manner, it is also used to etch [[glass]].  A 5% to 9% hydrofluoric acid gel is also commonly used to etch all ceramic dental restorations to improve bonding.<ref> Powers, John M. Powers. Craig's Restorative Dental Materials, 12th Edition. C.V. Mosby, 022006. 10.5.3 </ref> For similar reasons, dilute hydrofluoric acid is a component of household rust stain remover and in [[car wash]]es in "wheel cleaner" compounds.<ref>{{cite journal | last = Strachan | first = John | title = A deadly rinse: The dangers of hydrofluoric acid | journal = Professional Carwashing & Detailing | date=  January, 1999 | url =http://web.archive.org/web/20120425234944/http://secure.gvmg.com/carwash/articleprint.asp?print=1&IndexID=4230101|volume =23|issue= 1}}</ref>
+Hydrofluoric acid attacks glass by reaction with silicon dioxide to form gaseous or water-soluble silicon fluorides. This dissolution process proceeds as follows:
+
+:SiO<sub>2</sub>  +  4 HF  →   SiF<sub>4</sub> (g)  +  2 H<sub>2</sub>O
+:SiO<sub>2</sub>  +  6 HF   →   H<sub>2</sub>SiF<sub>6</sub>  +  2 H<sub>2</sub>O
+
+Because of its ability to dissolve iron oxides as well as silica-based contaminants, hydrofluoric acid is used in pre-commissioning boilers that produce high-pressure steam.
+
+===Niche applications===
+Because of its ability to dissolve oxides, hydrofluoric acid is useful for dissolving rock samples (usually powdered) prior to analysis. In similar manner, this acid is used in [[acid maceration]]s to extract organic fossils from silicate rocks.  Fossiliferous rock may be immersed directly into the acid, or a cellulose nitrate film may be applied (dissolved in amyl acetate), which adheres to the organic component and allows the rock to be dissolved around it.<ref name=Edwards1982>{{Cite journal
+ | last = Edwards | first =  D.
+ | year = 1982
+ | title = Fragmentary non-vascular plant microfossils from the late Silurian of Wales
+ | journal = Botanical Journal of the Linnean Society
+ | volume = 84
+ | issue = 3
+ | pages = 223–256
+ | doi = 10.1111/j.1095-8339.1982.tb00536.x
+}}</ref>
+
+Diluted hydrofluoric acid (1 to 3 %wt.) is used in the [[petroleum industry]] in a mixture with other acids (HCl or organic acids) in order to stimulate the production of water, oil, and gas wells specifically where sandstone is involved.{{Citation needed|date=October 2009}}
+
+Hydrofluoric acid is also used by some collectors of antique glass bottles to remove so-called 'sickness' from the glass, caused by acids (usually in the soil the bottle was buried in) attacking the soda content of the glass.{{Citation needed|date= February 2011}}
+
+==Health and safety==
+[[File:61569264 jamesheilman-224x2991.jpg|thumb|A hydrofluoric acid burn of the hand]]
+[[File:HF burned hands.jpg|thumb|250px|alt=left and right hands, two views, burned index fingers|HF burns, not evident until a day after]]
+
+Hydrofluoric acid is a highly [[corrosive]] liquid and is a contact [[poison]]. It should be handled with extreme care, beyond that accorded to other mineral acids.  Owing to its low [[dissociation constant]], HF as a neutral lipid-soluble molecule penetrates tissue more rapidly than typical mineral acids. Because of the ability of hydrofluoric acid to penetrate tissue, poisoning can occur readily through exposure of skin or eyes, or when inhaled or swallowed. Symptoms of exposure to hydrofluoric acid may not be immediately evident. HF interferes with nerve function, meaning that burns may not initially be painful. Accidental exposures can go unnoticed, delaying treatment and increasing the extent and seriousness of the injury.<ref name="pmid11505130">{{cite journal |author=Yamashita M, Yamashita M, Suzuki M, Hirai H, Kajigaya H |title=Ionophoretic delivery of calcium for experimental hydrofluoric acid burns |journal=Crit. Care Med. |volume=29 |issue=8 |pages=1575–8 |year=2001 |pmid=11505130|doi=10.1097/00003246-200108000-00013}}</ref> 
+
+Once absorbed into blood through the skin, it reacts with blood calcium and may cause cardiac arrest. Burns with areas larger than 25 square inches (160&nbsp;cm<sup>2</sup>) have the potential to cause serious systemic toxicity from interference with blood and tissue calcium levels.<ref name='RMTHFE' />  In the body, hydrofluoric acid reacts with the ubiquitous biologically important [[ion]]s [[calcium|Ca<sup>2+</sup>]] and [[magnesium|Mg<sup>2+</sup>]]. Formation of insoluble [[calcium fluoride]] is proposed as the etiology for both precipitous fall in serum calcium and the severe pain associated with tissue toxicity.<ref name=Goldfrank>Hoffman, Robert S. ''et al.'' (2007) ''Goldfrank's Manual of Toxicologic Emergencies''. New York: McGraw-Hill Professional, p. 1333, ISBN 0071509577.</ref> In some cases, exposures can lead to [[hypocalcemia]]. Thus, hydrofluoric acid exposure is often treated with [[calcium gluconate]], a source of Ca<sup>2+</sup> that sequesters the fluoride ions. HF [[chemical burn]]s can be treated with a water wash and 2.5% calcium gluconate gel.<ref name="pmid2741315">{{cite journal |author=el Saadi MS, Hall AH, Hall PK, Riggs BS, Augenstein WL, Rumack BH |title=Hydrofluoric acid dermal exposure |journal=Vet Hum Toxicol |volume=31 |issue=3 |pages=243–7 |year=1989 |pmid=2741315 |doi=}}</ref><ref name="pmid17091088">{{cite journal |author=Roblin I, Urban M, Flicoteau D, Martin C, Pradeau D |title=Topical treatment of experimental hydrofluoric acid skin burns by 2.5% calcium gluconate |journal=J Burn Care Res |volume=27 |issue=6 |pages=889–94 |year=2006 |pmid=17091088 |doi=10.1097/01.BCR.0000245767.54278.09}}</ref><ref>{{cite web|url=http://web.archive.org/web/20090408083821/http://www.research.northwestern.edu/ors/emerg/firstaid/calglugel.htm |title=Calcium Gluconate Gel as an Antidote to HF Acid Burns |accessdate=2012-10-01 |publisher=Northwestern University }}</ref> or special rinsing solutions.<ref name="pmid15461243">{{cite journal |author=Hultén P, Höjer J, Ludwigs U, Janson A |title=Hexafluorine vs. standard decontamination to reduce systemic toxicity after dermal exposure to hydrofluoric acid |journal=J. Toxicol. Clin. Toxicol. |volume=42 |issue=4 |pages=355–61 |year=2004 |pmid=15461243 |doi=10.1081/CLT-120039541}}</ref><ref>{{cite journal|title=News & Views|journal=Chemical Health and Safety |date=September–October 2005|volume= 12|issue=5|pages=35–37| doi = 10.1016/j.chs.2005.07.007 }}</ref> However, because it is absorbed, medical treatment is necessary;<ref name='RMTHFE'>{{cite web|url=http://www51.honeywell.com/sm/hfacid/common/documents/HF_medical_book.pdf |title=Recommended Medical Treatment for Hydrofluoric Acid Exposure |accessdate=2009-05-06 |format=PDF |publisher=Honeywell Specialty Materials }}</ref> rinsing off is not enough. Intra-arterial infusions of calcium chloride have also shown great effectiveness in treating burns.<ref>{{cite web|url=http://www.ncbi.nlm.nih.gov/pubmed/1567323 |title=Intra-arterial calcium infusion for hydrofluoric acid burns|accessdate=2010-01-03 |publisher=NCBI }}</ref>
+
+Hydrogen fluoride is generated upon combustion of many fluorine-containing compounds such as products containing [[Viton]] and [[Polytetrafluoroethylene| polytetrafluoroethylene (Teflon)]] parts. <ref>{{cite journal|last=Koch|first=Ernst-Christian|title=Metal-Fluorocarbon-Pyrolants IV: Thermochemical and Combustion Behaviour of Magnesium/Teflon/Viton (MTV)| doi = 10.1002/prep.200290004 | journal = Prop., Explos., Pyrotech. | volume = 27 | year = 2002 | pages = 340–351|issue=6}}</ref>
+
+==See also==
+*[[Vapour phase decomposition]]
+
+== References ==
+{{reflist|30em}}
+
+==External links==
+{{commonscat|Hydrogen fluoride}}
+* [http://www.cdc.gov/niosh/ipcsneng/neng0283.html International Chemical Safety Card 0283]
+* [http://www.npi.gov.au/database/substance-info/profiles/44.html National Pollutant Inventory – Fluoride and compounds fact sheet]
+* [http://www.cdc.gov/niosh/npg/npgd0334.html NIOSH Pocket Guide to Chemical Hazards]
+* {{PubChemLink|14917}} (HF)
+* {{PubChemLink|144681}} (5HF)
+* {{PubChemLink|141165}} (6HF)
+* {{PubChemLink|144682}} (7HF)
+* [http://content.nejm.org/cgi/reprint/356/6/e5.pdf Hydrofluoric Acid Burn, The New England Journal of Medicine] Acid burn case study
+
+[[Category:Fluorides]]
+[[Category:Nonmetal halides]]
+[[Category:Mineral acids]]

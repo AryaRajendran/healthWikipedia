@@ -1,0 +1,223 @@
+{{distinguish|Environmental disease}}
+{{copy edit|date=September 2012}}
+
+'''Disease burden''' is the impact of a [[health problem]] on an area measured by [[financial cost]], [[Mortality rate|mortality]], [[morbidity]], or other indicators. It is often quantified in terms of [[quality-adjusted life year]]s (QALYs) or [[disability-adjusted life year]]s (DALYs), both of which quantify the number of years lost due to disease. One DALY can be thought of as one year of healthy life lost, and the overall disease burden can be thought of as a measure of the gap between current health status and the ideal health status, where the individual lives to [[old age]] free from disease and [[disability]].<ref>{{cite web| url=http://www.who.int/quantifying_ehimpacts/publications/preventingdisease.pdf | last1=Prüss-Üstün | first1=Annette | last2 = Corvalán | first2=Carlos|year =2006 |title=Preventing disease through healthy environments: Towards an estimate of the environmental burden of disease | publisher =World Health Organization | work = Quantifying environmental health impacts }}</ref><ref name=kay00>{{ cite conference| first1=David |last1=Kay|first2=Annette|last2=Prüss|first3=Carlos|last3=Corvalán|year=2000|title=Methodology for assessment of Environmental burden of disease|book=ISEE session on environmental burden of disease|location=Buffalo|date=23–24 August 2000|url=http://www.who.int/quantifying_ehimpacts/methods/en/wsh0007.pdf}}</ref><ref name=pruss-ustun2003>{{cite book|first1=Annette|last1=Prüss-Üstün|first2=C.|last2=Mathers|fitst3=Carlos|last3=Corvalán|first4=A.|last4=Woodward|title=Assessing the environmental burden of disease at national and local levels: Introduction and methods|year=2003|publisher=World Health Organization|location=Geneva|isbn=9241546204|series=WHO Environmental Burden of Disease Series|volume=1|url=http://www.who.int/quantifying_ehimpacts/publications/9241546204/en/index.html}}</ref> These measures allow for comparison of disease burden, and have also been used to forecast the possible impacts of health interventions.
+
+The '''environmental burden of disease ''' is defined as the number of DALYs that can be attributed to [[environmental factor]]s.<ref name=pruss-ustun2003 /><ref name=knol09>{{cite journal|last=Knol|first=Anne B.|coauthors=Petersen, Arthur C.; van der Sluijs, Jeroen P.; Lebret, Erik|title=Dealing with uncertainties in environmental burden of disease assessment|journal=Environmental Health|date=1 January 2009|volume=8|issue=1|pages=21|doi=10.1186/1476-069X-8-21|url=http://www.ehjournal.net/content/8/1/21}}</ref><ref>{{cite journal|last=Briggs|first=D.|title=Environmental pollution and the global burden of disease|journal=British Medical Bulletin|date=1 December 2003|volume=68|issue=1|pages=1–24|doi=10.1093/bmb/ldg019|url=http://bmb.oxfordjournals.org/content/68/1/1.short}}</ref>
+
+The [[World Health Organization]] (WHO) has provided a set of detailed guidelines for measuring disease burden at the local or national level.<ref>{{cite web |url= http://www.who.int/quantifying_ehimpacts/national/en/index.html |title= Practical guidance for assessment of disease burden at national and local levels |accessdate= 2009-01-30 |author= World Health Organization (WHO) |year= | quote= |page=36}}</ref>
+
+A related concept used by WHO is '''years lost due to disability''' (YLD), which measures the years of what could have been a healthy life that were instead spent in states of less than full health. In 2004, the leading cause of YLD worldwide (i.e. leading to the most years lost) for both men and women was [[Major depressive disorder|unipolar depression]].<ref>{{cite web |url= http://www.who.int/healthinfo/global_burden_disease/GBD_report_2004update_part3.pdf |title= Disease incidence, prevalence and disability|work=The Global Burden of Disease|volume=3|accessdate= 2009-01-30 |author= World Health Organization (WHO) |year= 2004 |format= PDF |publisher= |pages=   |doi= | quote= }}</ref>
+
+==Statistics==
+In 2004, the World Health Organization calculated that 1.5 billion disability-adjusted life years were lost to disease and injury.<ref name=WHODALY>{{cite web |publisher=World Health Organization|url=http://www.who.int/entity/healthinfo/global_burden_disease/DALY14_2004.xls |work=Disease and injury regional estimates for 2004|title=Standard DALYs (3% discounting, age weights): WHO subregions|format=Excel spreadsheet}}</ref><ref name=WHOYLL>{{cite web |publisher=World Health Organization|url=http://www.who.int/entity/healthinfo/global_burden_disease/YLL14_2004.xls |work=Disease and injury regional estimates for 2004|title=Standard DALYs (3% discounting, age weights): WHO subregions (YLL)|format=Excel spreadsheet}}</ref>
+
+{| class="wikitable sortable"
+|-
+! Disease category
+! scope="col" width=10% | Percent of all [[YPLL]]s, worldwide<ref name=WHOYLL />
+! scope="col" width=10% | Percent of all DALYs, worldwide<ref name=WHODALY />
+! scope="col" width=10% | Percent of all YPLLs, Europe<ref name=WHOYLL />
+! scope="col" width=10% | Percent of all DALYs, Europe<ref name=WHODALY />
+! scope="col" width=10% | Percent of all YPLLs, US and Canada<ref name=WHOYLL />
+! scope="col" width=10% | Percent of all DALYs, US and Canada<ref name=WHODALY />
+|-
+| Infectious and parasitic diseases, especially [[lower respiratory tract infection]]s, [[diarrhea]], [[AIDS]], [[tuberculosis]], and [[malaria]]
+| 37%
+| 26%
+| 9%
+| 6%
+| 5%
+| 3%
+|-
+| [[Neuropsychiatric conditions]], such as depression
+| 2%
+| 13%
+| 3%
+| 19%
+| 5%
+| 28%
+|-
+| [[Injuries]], especially [[motor vehicle accidents]]
+| 14%
+| 12%
+| 18%
+| 13%
+| 18%
+| 10%
+|-
+| [[Cardiovascular disease]]s, principally [[heart attacks]] and [[stroke]]
+| 14%
+| 10%
+| 35%
+| 23%
+| 26%
+| 14%
+|-
+| [[Premature birth]] and other [[Template:Pediatric conditions originating in the perinatal period|perinatal]] deaths ([[infant mortality]])
+| 11%
+| 8%
+| 4%
+| 2%
+| 3%
+| 2%
+|-
+| [[Cancer]]
+| 8%
+| 5%
+| 19%
+| 11%
+| 25%
+| 13%
+|}
+
+==History==
+The first [[global burden of disease]] (GBD) study (conducted in 1990) quantified the health effects of more than 100 diseases and injuries for eight regions of the world, giving estimates of [[morbidity and mortality]] by age, sex, and region. It also introduced the DALY as a new metric to quantify the burden of diseases, injuries, and [[risk factor]]s.<ref name=pruss-ustun2003 /><ref name=aboutgbd>{{cite web|url=http://www.who.int/healthinfo/global_burden_disease/about/en/index.html|title=About the Global Burden of Disease (GBD) project|work=Health statistics and health information systems|publisher=World Health Organization}}</ref><ref name=globalburden>{{cite web|url=http://www.who.int/topics/global_burden_of_disease/en/|title=Global burden of disease|publisher=World Health Organization}}</ref>
+
+Murray and Lopez{{who|date=September 2012}} used DALYs in their extensive study on the global burden of disease study to introduce morbidity into the predominantly mortality-based health discussions. WHO then endorsed the DALY approach. In 2000–2002 the 1990 GBD study was updated to include a more extensive analysis using an analytic framework known as ''comparative risk factor assessment''.<ref name=aboutgbd />
+
+==Modifiable risk factors==
+In 2006, the WHO released a report entitled "''Preventing disease through healthy environments: towards an estimate of the global burden of disease''", which addressed the amount of global disease that could be prevented by reducing environmental risk factors.<ref name=knol09 /> The report found that approximately one-quarter of the global disease burden, and more than one-third of the burden among children, is due to modifiable environmental factors. The "environmentally-mediated" disease burden is much higher in developing countries, with the exception of certain [[non-communicable disease]]s, such as [[cardiovascular disease]]s and cancers, where the per capita disease burden is larger in [[developed countries]]. Children have the highest death toll, with more than 4 million environmentally-caused deaths yearly, mostly in [[developing countries]]. The [[infant death rate]] attributed to environmental causes is 12 times higher in developing countries. Moreover, the report stated that 85 out of the 102 major diseases and injuries classified by WHO can be attributed to environmental factors.<ref name=knol09 />
+
+To measure the environmental health impact, environment was defined as "all the physical, chemical and biological factors external to a person, and all the related behaviours".<ref name=whatisenv >{{cite web|url= http://www.who.int/quantifying_ehimpacts/publications/preventingdisease2.pdf|title=What is the environment in the context of health?|work=Environmental burden of disease series|publisher=World Health Organization}}</ref>
+
+Based on the definition of modifiable environment above, it includes:
+*Air, soil, and water pollution with [[chemical]]s or [[biological agent]]s
+*[[Ultraviolet]] and [[ionizing radiation]]
+*[[Noise]] and [[electromagnetic field]]s
+*[[Built environment]]
+*Agricultural methods and [[irrigation]] schemes
+*[[human impact on the environment|Anthropogenic]] [[climate change]]s and ecosystem degradation
+*[[Occupational hazard|Occupational risks]]
+*Individual behaviors related to the environment, such as hand-washing and [[food contamination]] due to unsafe water or dirty hands.<ref name=whatisenv /><ref name=quantification>{{cite web|title=Quantification of the disease burden attributable to environmental risk factors|year=2010|work=Programme on quantifying environmental heath impacts|author=Department of Public Health and Environment|publisher=World Health Organization|url=http://www.who.int/quantifying_ehimpacts/summaryEBD_updated.pdf}}</ref>
+
+Environmental factors that are excluded from this definition include:
+*Indoor smoke from [[solid fuel]] use
+*Outdoor air pollution
+*[[Second-hand smoke]]
+*Sanitation and hygiene problems
+*Solar [[ultraviolet radiation]]
+*Climate change
+*Occupational [[carcinogen]]s
+*Occupational [[Atmospheric particulate matter|airborne particulate]]s
+*Lead
+*[[Mercury (element)|Mercury]]<ref name=oberg10>{{cite web|author1=Öberg, M.|author2=Jaakkola, M.S.|author3=Prüss-Üstün, A.|author4=Schweizer, C.|author5=Woodward, A.|year=2010|title=Second-hand smoke: Assessing the environmental burden of disease at national and local levels|publisher=World Health Organization|work=Environmental Burden of Disease Series|volume=18}}</ref>
+
+== Estimating the burden ==
+The WHO developed a methodology to quantify the health state of a population using summary measures of population health (SMPH), which combine information on mortality and non-fatal health outcomes. The SMPH can be divided into two distinct categories: the measures of health gap and measures of health expectancies. The most commonly used health summary measure is the DALY.<ref name=kay00 /><ref name=globalburden /><ref name=quantification />
+
+The exposure-based approach, which measures exposure via [[pollutant]] levels, is used to calculate the environmental burden of disease.<ref name=knol05>{{cite web|last1=Knol|first1=A.B.|last2=Staatsen|first2=B.A.M.|title=Trends in the environmental burden of disease in the Netherlands, 1980–2020|date=8 August 2005|publisher=National Institute of Public Health and the Environment|url=http://www.rivm.nl/bibliotheek/rapporten/500029001.html}} '''Note''': For English version, click "Display English" on the right.</ref> This approach requires the following data:
+* Identification of outcomes associated with the relevant risk factor
+* Assessment of exposure in the [[study population]]
+* Exposure distribution of the study population
+* [[Dose-response relationship]]s
+
+A dose-response relationship is a function of the exposure parameter assessed for the study population.<ref name=kay00 /> Exposure distribution and dose-response relationships are combined to yield ''health impact distributions'' in the study population. Health impact distributions, usually expressed in terms of incidence, can then be converted into health summary measures, such as DALYs. Exposure-response relationships for a given risk factor are commonly obtained from [[epidemiological studies]], and the derived attributable fractions are then applied to disease burden, expressed in deaths or DALYs, associated with the risk factor.<ref name=kay00 /><ref name=pruss-ustun2003 /> For example, the disease burden of outdoor air pollution for [[Santiago, Chile|Santiago]], Chile, was calculated by measuring the concentration of [[atmospheric particulate matter]] (PM10), estimating the susceptible population, and combining these data with relevant dose-response relationships. A reduction of particulate matter levels in the air to recommended standards would cause a reduction of about 5200 deaths, 4700 respiratory [[hospital admission]]s, and 13,500,000 days of restricted activity per year, for a total population of 4.7 million.<ref name=kay00 />
+
+In 2002, the WHO estimated the environmental burden of disease globally by using a combination of comparative [[risk assessment]] data and expert judgment to develop environmentally attributable fractions (EAFs) of mortality and morbidity for 85 categories of disease.<ref name=kay00 /><ref name=pruss-ustun2003 /><ref name=fewtrell07 >{{cite web|url=http://whqlibdoc.who.int/publications/2007/9789241595759_eng.pdf|last1=Fewtrell|first1=Lorna|last2=Prüss-Üstün|first2=Annette|last3=Bos|first3=Robert|last4=Gore|first4=Fiona|last5=Bartram|first5=Jamie|title=Water, sanitation and hygiene: quantifying the health impact at national and local levels in countries with incomplete water supply and sanitation coverage|publisher=World Health Organization|year=2007|work=WHO Environmental Burden of Disease Series|volume=15}}</ref>
+
+In 2007, the WHO released the first country-by-country analysis of the impact environmental factors have on health for its then 192 member states. These country estimates were the first step to assist national decision-makers in the sectors of health and environment to set priorities for [[preventive action]]. It is divided into three parts:
+
+===Environmental burden of disease attributable to three selected risk factor===
+It presents the yearly burden, expressed in deaths and DALYs, attributable to the following three risk factors:
+
+* Indoor air pollution from solid fuel use
+* Outdoor air pollution
+* Unsafe water, [[sanitation]], and [[hygiene]]
+
+These results are calculated in accordance with the exposure-based approach, in which exposure data were available globally (indicators such as access to improved [[water source]]s, annual mean of particulate matter (PM10), etc.).
+
+===Preliminary estimates of the total environmental burden of disease for the country===
+Total number of deaths and DALYs per capita and percentage of the national burden of disease attributable to the environment represent the disease burden that could be avoided by modifying the environment as a whole.
+
+===Environmental burden by disease category===
+Each country summary is broken down by the disease group. It shows the annual amount of DALYs per capita attributable to environmental factors by the disease group. The country frequency expresses the number of DALYs per capita, which gives an indication of the diseases most affected by environmental factors are in the country.<ref name=pruss-ustun2003 />
+
+===Methodology===
+#Define parameters of interest
+#Set the framework - Select the study population of interest; define which geographical boundaries and age groups.
+#Select diseases of interest
+#Obtain key data
+#Collect health statistics (mortality, incidence or DALYs, for children under five and adults or alternative age groups), for the selected diseases.<ref name=pruss-ustun2003 /><ref name=fewtrell07 />
+#Assess prevalence of exposure within the study population
+#Estimate the disease burden among non-cases
+#Calculate the population attributable fractions&nbsp;– Use the formula for estimating the population attributable fraction (PAF) for each health outcome: ''PAF = [p(RR − 1)]/[p(RR − 1) + 1]'' where ''p'' = proportion exposed to the risk factor in the specified [[age group]], and ''RR'' = relative risk for outcome in a specified population group.<ref name=metrics-paf >{{cite web|publisher=World Health Organization|work=Health statistics and health information systems|title=Metrics: Population Attributable Fraction (PAF)|url=http://www.who.int/healthinfo/global_burden_disease/metrics_paf/en/index.html}}</ref>
+#Calculate attributable burdens&nbsp;– Where attributable burden can be defined as (burden of a given disease in a given population that is identified as due to a specific exposure). Consequently, that portion of disease burden in the population that could be reduced if causative exposure were eliminated.<ref name=pruss-ustun2003 /> It equals the number of people in a certain health state as a result of exposure to the (environmental) factor that is being analyzed.<ref name=knol05 />
+#Describe uncertainty - Describe the causes of uncertainty, and analyze the sensitivity of the calculated health burden to the assumptions made.
+#Write summary and conclusions.<ref name=pruss-ustun2003 />
+
+===Dealing with uncertainty===
+When estimating the environmental burden of disease, a number of potential sources of error may arise. These can come from:
+* Measure of exposure
+* Exposure-risk relationship
+* Assumptions made in applying the exposure or exposure-risk relationship to the country concerned
+* Health statistics
+* Expert opinions, if used
+
+Generally it is not possible to estimate a formal confidence interval, but it is possible to estimate a range of possible values the environmental disease burden may take (a sort of sensitivity analysis), based on different input parameters and assumptions. This analysis is not provided in the preliminary country profiles of the environmental burden of disease, but should be performed in the national process of reviewing these profiles.<ref name=kay00 /><ref name=pruss-ustun2003 /><ref name=knol09 />
+
+Results of an assessment are highly related to the definitions and system boundaries chosen but most of these definitions cannot be harmonized across assessments, because they are related to the purpose of a specific assessment. Few general guidelines can be given to deal with contextual uncertainties. Thus the chosen definitions and boundaries need to be discussed, reported and consistently used. This process may often need to engage relevant stakeholders. When more than one definition has to be made about an element in the assessment, multiple analyses can be run using different sets of definitions. Sensitivity and decision analyses can help to set which sources of uncertainty mostly affect the final results.<ref name=knol09 />
+
+Various EBD (environmental burden of disease) studies have assessed the need for uncertainty and sensitivity analyses. For example, these analyses are based primarily on statistical uncertainty of some parameters and input data. Only if both scientists and policy makers comprehend the potential extent of uncertainties and the way they may affect the assessment results, can these assessments result in truly informed policy making.<ref name=knol09 />
+
+==Implementation and interpretation==
+The public health impacts of air pollution (PM10&nbsp;– annual mean of particulate matter&nbsp;– and ozone), noise, radiation ([[radon]] and UV) and indoor dampness were quantified using DALYs. In DALY calculations:
+::DALYs = number of people with a certain disease  &times;  duration of the disease (or loss of [[life expectancy]] in case of mortality) &times;  severity of the disorder (varying from 0 for perfect health to 1 for death)
+According to this equation, morbidity and mortality can be expressed in one similar value, making environmental health problems more or less comparable and providing ways to plan or evaluate environmental health related policies. However, DALYs are a simplification of a very complex reality, and therefore only give a very crude indication of environmental health impact. A potential consequence of relying on DALYs to simplify this complex reality is that donors may take a narrow approach to health care programs. Foreign aid is most often directed at diseases with the highest DALYs, ignoring the fact that other diseases, although representing lower DALYs, are still major contributors to this disease burden. This narrow approach leaves less publicized diseases with little or no funding for health efforts. An example can be found in the issue surrounding maternal death, which is one of the top three killers in most poor countries today. Although maternal death and pediatric respiratory and intestinal infections maintain a high disease burden, safe pregnancy and the prevention of coughs in infants do not receive adequate funding. Without funding for diseases that represent lower DALYs, prevention of diseases that are deemed to have a high burden will not be achieved.<ref>Garrett, Laurie. 2007. The Challenge of Global Health. Foreign Affairs 86 (1):14-38.</ref> 
+
+The researchers appraised which effects are relevant to investigate each environmental factor, and which data are best to use. Necessary data include [[prevalence]] numbers, exposure-response relationships, and weighting factors that give an indication of the severity of a certain disorder. When information is missing or vague, experts will be consulted in order to decide which (alternative) data sources to use. An uncertainty analysis is carried out so as to analyze the effects of different assumptions.<ref name=knol05 />
+
+==Representative examples==
+
+===The Netherlands, 1980&nbsp;– 2020===
+Environmental factors can affect health and quality of life of the Dutch population in different ways. Air pollution is associated with respiratory and cardiovascular diseases, and exposure to certain forms of radiation can lead to the development of cancer. It is difficult to compare these environmental problems, since they differ in type and scope. So it can be useful to quantify the health impact of the environment in an integrated measure. DALYs were calculated for the health effects of air pollution, noise, radon, UV and indoor dampness for the period 1980 to 2020. In the Netherlands, roughly 2 to 5 percent of the total disease burden can be attributed to the effect of (short-term) exposure to air pollution, noise, radon, total natural UV and [[dampness]] in houses for the year 2000. This percentage can increase to up to 13% due to uncertainty, assuming no threshold. Among the investigated factors, the relatively uncertain effects of long-term PM10 exposure have the greatest impact on [[public health]] in the Netherlands. The levels of PM10 are decreasing, and therefore the related disease burden is also expected to decrease. Noise exposure and its associated disease burden is likely to increase to a level where the disease burden is similar to the disease burden attributable to traffic accidents. These rough estimates do not provide a complete picture of the environmental health burden, because data are uncertain, not all environmental-health relationships are known, not all environmental factors have been included, and it was not possible to assess all potential health effects. The effects of a number of these assumptions were evaluated in an uncertainty analysis.<ref name=knol05 />
+
+Time trends were studied by making calculations for the past (1980 or 1990) and for the future (2010 or 2020). It was concluded that the disease burden related to PM10 exposure may decrease, the noise-related disease burden will further increase, and the number of DALYs caused by radon and UV radiation is supposed to remain fairly similar.<ref name=knol05 />
+
+===Canada===
+Exposure to environmental hazards may cause many [[chronic disease]]s, so the magnitude of their contribution to the total disease burden in Canada is not well understood. To calculate the environmental burden of disease in Canada for respiratory disease, cardiovascular disease, cancer, and [[congenital]] affliction, the contribution of environmental exposures to the overall burden of disease could play an important role in determining public health and environmental policy priorities. To give an initial estimate of the environmental burden of disease in Canada for four major categories of disease, the EAFs - environmentally attributable fractions - developed by the WHO, EAFs developed by other researchers, and data from Canadian public health institutions were used.<ref name=wigmore>{{cite web|author=Wigmore, Cameron|date=2 November 2007|title=Study: Environmental burden of disease in Canada|url=http://www.greenparty.ca/fr/node/3079}}</ref> Results show: 10,000–25,000 deaths; 78,000–194,000 hospitalizations; 600,000–1.5 million days spent in hospital; 1.1 million–1.8 million (CAD) restricted activity days for [[asthma]] sufferers; 8000–24,000 new cases of cancer; 500–2500 low [[birth weight]] babies; and between $3.6 billion and $9.1 billion (CAD) in costs happen in Canada each year due to respiratory disease, cardiovascular illness, cancer, and congenital affliction associated with adverse environmental exposures. This suggests that the burden of illness in Canada resulting from adverse environmental exposures is significant. Stronger efforts to avoid adverse environmental exposures are demanded, including research, education, and regulation.<ref name=wigmore />
+
+==General significance==
+In environmental health research, the focus has moved from relatively simple to more complex issues. Environmental health impact assessment has turned into a valuable tool for decision support. These types of assessments increasingly use so-called environmental burden of disease (EBD) measures to express health impacts. The EBD can be seen as the gap&nbsp;– caused by environmental factors&nbsp;– between current health status and an alternative situation in which environmental exposures are reduced or eliminated. Burden of disease evaluations enable comparison of environmental health problems. This then assists policy makers to set priorities.<ref name=kay00 /><ref name=pruss-ustun2003 />
+
+There are several other reasons for performing EBD studies, such as:
+* Answering the following questions:
+** How much disease is caused by climate change?
+** How much disease could be avoided by making possible reductions in the exposure (avoidable burden of disease)?<ref name=mcmichael03>{{cite encyclopedia|title=Environmental Burden of Disease Assessment|author=McMichael, A.J|year=2003|encyclopedia=Global Burden of Disease|editor1=Murray, C.J.|editor2=Lopez, A.D.|publisher=World Health Organization|location=Geneva}}</ref>
+
+* Developing, evaluating and prioritizing health-related policy measures.
+* Prioritizing actions in health and the environment
+* Setting priorities in health research
+* Planning for preventive action
+* Planning for future needs
+* Comparing action and health gain
+* Enabling internal comparisons within or between countries 
+* Formulating health agendas
+* Assessing performance at national level.<ref name=kay00 /><ref name=pruss-ustun2003 /><ref name=knol09 /><ref name=mcmichael03 /><ref>{{cite web|title=The WHO guides on assessing the environmental burden of disease|url=http://www.who.int/quantifying_ehimpacts/publications/en/9241546204chap1.pdf|publisher=World Health Organization}}</ref>
+
+==Criticism==
+
+Disease burden methodologies, such as DALY's, measure the economic impact of reduced human productive capacity, and do not capture other aspects of disease and illness, such as pain and suffering, deterioration in quality of life, and emotional and physical impacts on families.<ref>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1497799/</ref>
+
+==References==
+{{Reflist}}
+
+<br />
+'''<big>By Eham Ajlouni - Environmental health Ph.D student - Alexandria University</big>'''
+
+===Citations===
+*{{cite web|first1=Mattias|last1=Öberg|first2=Maritta S.|last2=Jaakkola|first3=Alistair|last3=Woodward|first4=Armando|last4=Peruga|first5=Annette|last5=Prüss-Ustün|title=Worldwide burden of disease from exposure to second-hand smoke: a retrospective analysis of data from 192 countries|url=http://www.who.int/quantifying_ehimpacts/publications/smoking.pdf|date= 26 November 2010|publisher=World Health Organization}}
+*{{cite encyclopedia|first=Robyn|last=Lucas|title=Solar ultraviolet radiation: Assessing the environmental burden of disease at national and local levels|encyclopedia=Environmental burden of disease series|volume=17|url=http://www.who.int/quantifying_ehimpacts/publications/ebd17|publisher=World Health Organization}}
+*{{cite web|title=Quantifying environmental health impacts|url=http://www.who.int/quantifying_ehimpacts/en/|publisher=World Health Organization}}
+*{{cite web|first1=Annette|last1=Prüss|first2=Arie|last2=Havelaar|year=2001|title=The Global Burden of Disease study and applications in water, sanitation and hygiene|work=Water Quality: Guidelines, Standards and Health|editor1=Fewtrell, Lorna|editor2=Bartram, Jamie|publisher=IWA Publishing|location=London}}
+*{{cite web|work=Health statistics and health information systems|title=Metrics: Disability-Adjusted Life Year (DALY)|url=http://www.who.int/healthinfo/global_burden_disease/metrics_daly/en/index.html|publisher=World Health Organization}}
+
+== External links ==
+* [http://www.eea.europa.eu/soer/countries/nl/national-and-regional-story-netherlands-1 SOER National and regional story from Netherlands] from the European Environmental Agency
+
+{{DEFAULTSORT:Environmental Burden Of Disease}}
+[[Category:Global health]]
+[[Category:Articles created via the Article Wizard]]
+[[Category:Health informatics]]
+[[Category:Public health]]
+[[Category:Health economics]]

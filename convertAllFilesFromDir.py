@@ -7,7 +7,6 @@ from scoop import futures
 from convertHTMLText import convertFromHTMLToText 
 from convertWikiHTML import convertFromWikiToHTML
 
-
 def convertAll(argv):
 
     wpath, hpath, tpath = "", "", ""
@@ -34,19 +33,20 @@ def convertAll(argv):
     htmlFiles = [ htmlPath + "/" + f for f in files]
     textFiles = [ textPath + "/" + f for f in files]
 
-
     print "Converting ", len(files), "files."
 
     filesConvertedToHTML = futures.map(convertFromWikiToHTML, wikiFiles)
-
+    #filesConvertedToHTML = map(convertFromWikiToHTML, wikiFiles)
+    
     for file, content in zip(htmlFiles, filesConvertedToHTML):
         with open(file, "w") as f:
+            #print "Writing file:", f
             f.write(content)
-
+    
+    #filesConvertedToText = map(convertFromHTMLToText, htmlFiles)
     filesConvertedToText = futures.map(convertFromHTMLToText, htmlFiles)
 
-
-    for file, content in zip(htmlFiles, filesConvertedToHTML):
+    for file, content in zip(textFiles, filesConvertedToText):
         with open(file, "w") as f:
             f.write(content)
 

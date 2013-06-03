@@ -1,0 +1,44 @@
+{{Interventions infobox |
+  Name        = Thromboelastography |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = |
+  MeshID      = D013916 |
+  OtherCodes  = |
+}}
+'''Thromboelastography''' ('''TEG''') is a method of testing the efficiency of [[coagulation]] in the [[blood]]. It is especially important in [[surgery]] and  [[anesthesiology]].
+
+==The original method==
+In '''classical thrombelastography''', a small sample of blood (typically 0.36 ml) is placed into a [[cuvette]] (cup) which is rotated gently through 4º 45´ (cycle time 6/min) to imitate sluggish [[vein|venous flow]] and activate coagulation.  When a sensor shaft is inserted into the sample a clot forms between the cup and the sensor.  The speed and strength of clot formation is measured in various ways (now usually by computer), and depends on the activity of the [[blood plasma|plasmatic]] coagulation system, [[platelet]] function, [[fibrinolysis]] and other factors which can be affected by illness, environment and medications. If there is suspicion that the blood will have difficulty clotting (either through medication or disease) then the blood may be exposed to a thrombosis-inducing agent (such as kaolin) immediately prior to the start of the test.
+
+The patterns of changes in strength and elasticity in the clot provide information about how well the blood can perform [[hemostasis]] (the halting of blood flow), and how well or poorly different factors are contributing to clot formation.
+
+Four values that represent clot formation are determined by this test: the R value (or reaction time), the K value, the angle and the MA (maximum amplitude). The R value represents the time until the first evidence of a clot is detected. The K value is the time from the end of R until the clot reaches 20mm and this represents the speed of clot formation. The angle is the tangent of the curve made as the K is reached and offers similar information to K. The MA is a reflection of clot strength. A mathematical formula determined by the manufacturer can be used to determine a Coagulation Index (CI) (or overall assessment of coagulability) which takes into account the relative contribution of each of these 4 values into 1 equation.<ref>Donahue SM, Otto CM, Thromboelastography: a tool for measuring hypercoagulability, hypocoagulability, and fibrinolysis, Journal of Veterinary Emergency and Critical Care:15(1), March 2005, Pages: 9-16</ref>
+
+The classical method is used in the '''TEG''' (the name is a trademark of Haemoscope Corp. USA) and in the ThromboElastoMeter-Automated ('''TEM-A''').
+
+==Other methods==
+'''Rotational [[thromboelastometry]]''' or '''ROTEM ''' (the name is a trademark of Tem Innovations GmbH, Munich) is another version in which it is the sensor shaft rather than the cup which rotates. 
+Blood (300 µl, anticoagulated with [[citrate]]) is placed into the disposable cuvette using an electronic pipette.  A disposable pin is attached to a shaft which is connected with a thin spring (the equivalent to Hartert’s torsion wire in thrombelastography) and slowly [[oscillates]] back and forth. The signal of the pin suspended in the blood sample is transmitted via an optical detector system. The test is started by adding appropriate reagents. The instrument measures and graphically displays the changes in elasticity at all stages of the developing and resolving clot. The typical test temperature is 37°C, but different temperatures can be selected, e.g. for patients with hypothermia.<ref>Dirkmann D, Hanke AA, Görlinger K, Peters J. Hypothermia and acidosis synergistically impair coagulation in human whole blood.Anesth Analg. 2008;106:1627-32</ref> 
+In contrast to thrombelastography with its pendulum-like principle, the design of the TEM [[viscoelastic]] detection system (figure 1) makes it quite robust and insensitive against mechanical shocks or vibrations, making the transportation and installation of the instrument very simple.
+
+There is another version of Thromboelastography which is '''[http://www.sienco.com/ Sonoclot]'''. 
+Sonoclot incorporates a very sensitive visco-elastic detection system which is very sensitive to the changes in the developing clot. It gives more detailed information as compared to Thromboelastograph.
+* Outside Links for Sonoclot:
+* http://www.ncbi.nlm.nih.gov/pubmed/9305557
+* http://www.anesthesia-analgesia.org/content/93/4/878.full
+* http://bja.oxfordjournals.org/content/75/6/771.full.pdf
+
+==References==
+{{Reflist}}<!--added under references heading by script-assisted edit-->
+* Wenker, Olivier C.; Wojciechowski, Zbigniew; Sheinbaum, Roy; Zisman, Eli.  [http://www.ispub.com/ostia/index.php?xmlFilePath=journals/ija/vol1n3/teg.xml  "Thrombelastography"]. ''The Internet Journal of Anesthesiology''. 2000. Volume 1 Number 3.
+* Whitten, Charles W. M.D.; Greilich, Philip E. M.D.  [http://www.anesthesiology.org/pt/re/anes/fulltext.00000542-200005000-00008.htm;jsessionid=DXjpM23YXtXn5AtNCP0uY1Ln52P3vxF611MSsEekkmXVAAGrg2gl!-287926661!-949856145!9001!-1 "Thromboelastography: Past, Present, and Future"]. ''Anesthesiology''. 92(5):1226, May 2000.
+* [http://www.haemoscope.com/ Haemoscope Corporation: Thrombelastograph]
+* [http://www.sienco.com/ Sienco Inc: Sonoclot]
+* [http://www.rotem.de/ Tem Innovations GmbH: Thromboelastometry]
+* [http://www.gototema.com/ Framar Biomedica srl: Thromboelastography - TEM-A]
+* [http://vam.anest.ufl.edu/simulations/simulationportfolio.php  Free simulation of a thromboelastograph (Requires Registration)]
+{{Myeloid blood tests}}
+
+[[Category:Blood tests]]

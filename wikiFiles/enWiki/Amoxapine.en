@@ -1,0 +1,95 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 456692449
+| IUPAC_name = 2-chloro-11-(piperazin-1-yl)dibenzo[''b,f''][1,4]oxazepine
+| image = Amoxapine.svg
+| width = 200px
+
+<!--Clinical data-->
+| tradename = Asendin
+| Drugs.com = {{drugs.com|monograph|amoxapine}}
+| MedlinePlus = a682202
+| pregnancy_US = C
+| legal_AU = S4
+| legal_US = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| protein_bound = 90%<ref name="pmid6764165">{{cite journal | author = Kinney JL, Evans RL | title = Evaluation of amoxapine | journal = Clinical Pharmacy | volume = 1 | issue = 5 | pages = 417–24 | year = 1982 | pmid = 6764165 | doi = | url = }}</ref>
+| bioavailability = ?
+| metabolism = Hepatic ([[cytochrome P450|cytochrome P450 system]])
+| elimination_half-life = 8-10 hours (30 hours for major metabolites)<ref name="pmid6764165" />
+| excretion = Renal
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 14028-44-5
+| ATC_prefix = N06
+| ATC_suffix = AA17
+| PubChem = 2170
+| IUPHAR_ligand = 201
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00543
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2085
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R63VQ857OT
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00228
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2675
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1113
+
+<!--Chemical data-->
+| C = 17 | H = 16 | Cl = 1 | N = 3 | O = 1 
+| molecular_weight = 313.781 g/mol
+| smiles = Clc2ccc1Oc4c(/N=C(\c1c2)N3CCNCC3)cccc4
+| InChI = 1/C17H16ClN3O/c18-12-5-6-15-13(11-12)17(21-9-7-19-8-10-21)20-14-3-1-2-4-16(14)22-15/h1-6,11,19H,7-10H2
+| InChIKey = QWGDMFLQWFTERH-UHFFFAOYAA
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H16ClN3O/c18-12-5-6-15-13(11-12)17(21-9-7-19-8-10-21)20-14-3-1-2-4-16(14)22-15/h1-6,11,19H,7-10H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QWGDMFLQWFTERH-UHFFFAOYSA-N
+}}
+
+'''Amoxapine''' ('''Amokisan''', '''Asendin''', '''Asendis''', '''Defanyl''', '''Demolox''', '''Moxadil''') is a [[tetracyclic antidepressant]] of the [[dibenzoxazepine]] family, though it is often classified as a [[wiktionary:secondary amine|secondary amine]] [[tricyclic antidepressant]]. It is the N-demethylated metabolite of [[Loxapine]].
+
+== Uses ==
+Amoxapine is used in the treatment of [[clinical depression|depression]], [[anxiety disorder]]s, [[panic disorder]], and [[bipolar disorder]]. It also has properties similar to those of [[atypical antipsychotic]],<ref name="pmid6126130">{{cite journal | author = Cohen BM, Harris PQ, Altesman RI, Cole JO | title = Amoxapine: neuroleptic as well as antidepressant? | journal = The American Journal of Psychiatry | volume = 139 | issue = 9 | pages = 1165–7 | year = 1982 | month = September | pmid = 6126130 | doi = | url = http://ajp.psychiatryonline.org/article.aspx?volume=139&page=1165}}</ref><ref name="pmid15956984">{{cite journal | author = Apiquian R, Fresan A, Ulloa RE, ''et al.'' | title = Amoxapine as an atypical antipsychotic: a comparative study vs risperidone | journal = Neuropsychopharmacology | volume = 30 | issue = 12 | pages = 2236–2244 | year = 2005 | month = December | pmid = 15956984 | doi = 10.1038/sj.npp.1300796}}</ref> and may be used in the treatment of [[schizophrenic]] [[psychosis]] off-label.
+
+== Pharmacology ==
+Amoxapine possesses a wide array of pharmacological effects. It is a moderate and strong [[reuptake inhibitor]] of [[serotonin]] and [[norepinephrine]], respectively,<ref name="pmid9537821">{{cite journal | author = Tatsumi M, Groshan K, Blakely RD, Richelson E | title = Pharmacological profile of antidepressants and related compounds at human monoamine transporters | journal = European Journal of Pharmacology | volume = 340 | issue = 2–3 | pages = 249–58 | year = 1997 | month = December | pmid = 9537821 | doi = 10.1016/S0014-2999(97)01393-9| url = http://linkinghub.elsevier.com/retrieve/pii/S0014-2999(97)01393-9}}</ref> and binds to the [[5-HT2A receptor|5-HT<sub>2A</sub>]],<ref name="pmid8876023">{{cite journal | author = Pälvimäki EP, Roth BL, Majasuo H, ''et al.'' | title = Interactions of selective serotonin reuptake inhibitors with the serotonin 5-HT2c receptor | journal = Psychopharmacology | volume = 126 | issue = 3 | pages = 234–40 | year = 1996 | month = August | pmid = 8876023 | doi = 10.1007/BF02246453| url = http://link.springer.de/link/service/journals/00213/bibs/6126003/61260234.htm}}</ref> [[5-HT2B receptor|5-HT<sub>2B</sub>]],<ref name="pmid10821800">{{cite journal | author = Glusa E, Pertz HH | title = Further evidence that 5-HT-induced relaxation of pig pulmonary artery is mediated by endothelial 5-HT2B receptors | journal = [[British Journal of Pharmacology]] | volume = 130 | issue = 3 | pages = 692–8 | year = 2000 | month = June | pmid = 10821800 | pmc = 1572101 | doi = 10.1038/sj.bjp.0703341 | url = http://dx.doi.org/10.1038/sj.bjp.0703341}}</ref> [[5-HT2C receptor|5-HT<sub>2C</sub>]],<ref name="pmid8876023" /> [[5-HT3 receptor|5-HT<sub>3</sub>]],<ref name="pmid1666997">{{cite journal | author = Gozlan H, Saddiki-Traki F, Merahi N, Laguzzi R, Hamon M | title = [Preclinical pharmacology of amoxapine and amitriptyline. Implications of serotoninergic and opiodergic systems in their central effect in rats] | language = French | journal = L'Encéphale | volume = 17 Spec No 3 | issue = | pages = 415–22 | year = 1991 | month = December | pmid = 1666997 | doi = | url = }}</ref> [[5-HT6 receptor|5-HT<sub>6</sub>]],<ref name="pmid7908055">{{cite journal | author = Roth BL, Craigo SC, Choudhary MS, ''et al.'' | title = Binding of typical and atypical antipsychotic agents to 5-hydroxytryptamine-6 and 5-hydroxytryptamine-7 receptors | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 268 | issue = 3 | pages = 1403–10 | year = 1994 | month = March | pmid = 7908055 | doi = | url = http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=7908055}}</ref> [[5-HT7 receptor|5-HT<sub>7</sub>]],<ref name="pmid7908055" /> [[D2 receptor|D<sub>2</sub>]],<ref name="pmid6086881">{{cite journal | author = Richelson E, Nelson A | title = Antagonism by antidepressants of neurotransmitter receptors of normal human brain in vitro | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 230 | issue = 1 | pages = 94–102 | year = 1984 | month = July | pmid = 6086881 | doi = | url = http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=6086881}}</ref> [[alpha-1 adrenergic receptor|α<sub>1</sub>-adrenergic]],<ref name="pmid6086881" /> [[D3 receptor|D<sub>3</sub>]],<ref name="pmid16135699">{{cite journal | author = Burstein ES, Ma J, Wong S, ''et al.'' | title = Intrinsic efficacy of antipsychotics at human D2, D3, and D4 dopamine receptors: identification of the clozapine metabolite N-desmethylclozapine as a D2/D3 partial agonist | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 315 | issue = 3 | pages = 1278–87 | year = 2005 | month = December | pmid = 16135699 | doi = 10.1124/jpet.105.092155 | url = http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=16135699}}</ref> [[D4 receptor|D<sub>4</sub>]],<ref name="pmid16135699" /> and [[H1 receptor|H<sub>1</sub> receptor]]s<ref name="pmid6086881" /> with varying but significant [[affinity (pharmacology)|affinity]], where it acts as an [[receptor antagonist|antagonist]] (or [[inverse agonist]] depending on the receptor in question) at all sites. It has weak but negligible affinity for the [[dopamine transporter]] and the [[5-HT1A receptor|5-HT<sub>1A</sub>]],<ref name="pmid1666997" /> [[5-HT1B receptor|5-HT<sub>1B</sub>]],<ref name="pmid1666997" /> [[D1 receptor|D<sub>1</sub>]],<ref name="pmid1966571">{{cite journal | author = Wei HB, Niu XY | title = [Comparison of the affinities of amoxapine and loxapine for various receptors in rat brain and the receptor down-regulation after chronic administration] | language = Chinese | journal = Yao Xue Xue Bao = Acta Pharmaceutica Sinica | volume = 25 | issue = 12 | pages = 881–5 | year = 1990 | pmid = 1966571 | doi = | url = }}</ref> [[alpha-2 adrenergic receptor|α<sub>2</sub>-adrenergic]],<ref name="pmid6086881" /> [[H4 receptor|H<sub>4</sub>]],<ref name="pmid15947036">{{cite journal | author = Lim HD, van Rijn RM, Ling P, Bakker RA, Thurmond RL, Leurs R | title = Evaluation of histamine H1-, H2-, and H3-receptor ligands at the human histamine H4 receptor: identification of 4-methylhistamine as the first potent and selective H4 receptor agonist | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 314 | issue = 3 | pages = 1310–21 | year = 2005 | month = September | pmid = 15947036 | doi = 10.1124/jpet.105.087965 | url = http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=15947036}}</ref> [[muscarinic acetylcholine receptor|mACh]],<ref name="pmid6086881" /> and [[GABAA receptor|GABA<sub>A</sub> receptors]],<ref name="pmid1966571" /> and no affinity for the [[beta-adrenergic receptor|β-adrenergic receptor]]s or the [[allosteric regulation|allosteric]] [[benzodiazepine site]] on the GABA<sub>A</sub> receptor.<ref name="pmid1966571" />
+
+[[7-Hydroxyamoxapine]], a major [[active metabolite]] of amoxapine, is a more [[potency (pharmacology)|potent]] [[dopamine receptor]] antagonist and contributes to its neuroleptic efficacy,<ref name="pmid6126130" /> whereas [[8-hydroxyamoxapine]] is a [[norepinephrine reuptake inhibitor]] but a stronger [[serotonin reuptake inhibitor]] and helps to balance amoxapine's ratio of [[serotonin transporter|serotonin]] to [[norepinephrine transporter]] blockade.<ref name="pmid10507241">{{cite journal | author = Midha KK, Hubbard JW, McKay G, Rawson MJ, Hsia D | title = The role of metabolites in a bioequivalence study II: amoxapine, 7-hydroxyamoxapine, and 8-hydroxyamoxapine | journal = International Journal of Clinical Pharmacology and Therapeutics | volume = 37 | issue = 9 | pages = 428–38 | year = 1999 | month = September | pmid = 10507241 | doi = | url = }}</ref>
+
+== Side effects ==
+Common [[side effect]]s of amoxapine include [[hypotension]], [[drowsiness]], [[dry mouth]], [[constipation]], [[blurred vision]], [[Fatigue (medical)|fatigue]], and [[vertigo]].<ref name="pmid6764165" /> Additionally, due to the drug's and its metabolite 7-hyroxyamoxapine's potent blockade of dopamine receptors, it can cause [[neuroleptic malignant syndrome]] as well as acute [[extrapyramidal symptoms]] and [[tardive dyskinesia]]. Cardiovascular and [[anticholinergic]] side effects are much reduced compared to other tri- and tetracyclic antidepressants.
+
+== Contraindications ==
+The drug is contraindicated in children because it lowers the seizure threshold to the extent that fits may be precipitated.{{Citation needed|date=November 2011}}
+
+== See also ==
+* [[Loxapine]]
+
+== References ==
+{{Reflist|2}}
+
+{{Antidepressants}}
+{{Anxiolytics}}
+{{Antipsychotics}}
+{{Adrenergics}}
+{{Dopaminergics}}
+{{Histaminergics}}
+{{Serotonergics}}
+{{Piperazines}}
+{{Tricyclics}}
+{{Use dmy dates|date=December 2010}}
+
+[[Category:Norepinephrine reuptake inhibitors]]
+[[Category:Serotonin reuptake inhibitors]]
+[[Category:Piperazines]]
+[[Category:Treatment of bipolar disorder]]
+[[Category:Dibenzoxazepines]]
+[[Category:Organochlorides]]

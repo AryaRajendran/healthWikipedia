@@ -1,0 +1,120 @@
+'''Health physics''' or '''The Physics of Radiation Protection'''<ref>Health physics; principles of radiation protection. David John Rees. M.I.T. Press, 1967.</ref> is the science concerned with the recognition, evaluation, and control of health hazards to permit the safe use and application of ionizing radiation.  Health physics professionals promote excellence in the science and practice of radiation protection and safety.  Health physicists principally work at facilities where [[radionuclide]]s or [[ionizing radiation]] are used or produced; such as medical institutions, government laboratories, academic and research institutions, nuclear power plants, regulatory agencies and manufacturing plants.
+
+==Scope of Health physics==
+There are many sub-specialties in the field of health physics,<ref>[http://hps.org/publicinformation/hpcareers.html Careers in Health Physics<!-- Bot generated title -->]</ref> including
+
+* [[Ionising radiation]] instrumentation and measurement
+* [[Internal dosimetry]] and external [[dosimetry]]
+* [[Radioactive waste]] management
+* [[Radioactive contamination]], decontamination and decommissioning
+* Radiological [[engineering]] (shielding, holdup, etc.)
+* Environmental assessment, radiation monitoring and radon evaluation
+* Operational [[radiation protection]]/health physics
+* [[Particle accelerator physics]]
+* Radiological emergency response/planning - (e.g., [[Nuclear Emergency Support Team]])
+* Industrial uses of radioactive material
+* Medical health physics
+* Public information and communication involving radioactive materials
+* Biological effects/radiation biology
+* Radiation standards
+* Radiation risk analysis
+* Nuclear power
+* Radioactive materials and homeland security
+* Radiation protection
+* Nanotechnology
+
+===Medical Physics===
+The field of [[medical physics]] is similar to that of health physics since practitioners rely on the same fundamental science (i.e., radiation physics, biology, etc.).  Health physicists, however, focus on the evaluation and protection of human health from radiation, whereas medical health physicists and medical physicists use radiation and other physics-based technologies for the diagnosis and treatment of disease.<ref>[http://www.aapm.org/medical_physicist/default.asp AAPM - The Medical Physicist<!-- Bot generated title -->]</ref>
+
+==Radiation protection instruments==
+Practical ionising radiation measurement is essential for health physics. It enables the evaluation of protection measures, and the assessment of the radiation dose likely, or actually received by individuals. The provision of such instruments is normally controlled by law.  In the UK it is the Ionising Radiation Regulations 1999.
+
+The measuring instruments for radiation protection are both "installed" (in a fixed position) and portable (hand-held or transportable).
+
+===Installed instruments===
+Installed instruments are fixed in positions which are known to be important in assessing the general radiation hazard in an area. Examples are installed "area" radiation monitors, Gamma interlock monitors, personnel exit monitors, and airborne contamination monitors.
+
+The area monitor will measure the ambient radiation, usually X-Ray, Gamma or neutrons; these are radiations which can have significant radiation levels over a range in excess of tens of metres from their source, and thereby cover a wide area. 
+
+Interlock monitors are used in applications to prevent inadvertent exposure of workers to an excess dose by preventing personnel access to an area when a high radiation level is present. 
+
+Airborne contamination monitors measure the concentration of radioactive particles in the atmosphere to guard against radioactive particles being deposited in the lungs of personnel.
+    
+Personnel exit monitors are used to monitor workers who are exiting a "contamination controlled" or potentially contaminated area. These can be in the form of hand monitors, clothing frisk probes, or whole body monitors. These monitor the surface of the workers body and clothing to check if any [[radioactive contamination]] has been deposited. These generally measure alpha or beta or gamma, or combinations of these.
+
+The UK [[National Physical Laboratory (United Kingdom)|National Physical Laboratory]] has published a good practice guide through its Ionising Radiation Metrology Forum concerning the provision of such equipment and the methodology of calculating the alarm levels to be used.<ref>Operational Monitoring Good Practice Guide "The Selection of Alarm Levels for Personnel Exit Monitors" Dec 2009 - National Physical Laboratory, Teddington UK [http://www.npl.co.uk/upload/pdf/alarm_levels_personnel_exit_monitors.pdf]</ref>
+
+===Portable instruments===
+Portable instruments are hand-held or transportable.
+The hand-held instrument is generally used as a [[survey meter]] to check an object or person in detail, or assess an area where no installed instrumentation exists. They can also be used for personnel exit monitoring or personnel contamination checks in the field. These generally measure alpha, beta or gamma, or combinations of these.  
+
+Transportable instruments are generally instruments that would have been permanently installed, but are temporarily placed in an area to provide continuous monitoring where it is likely there will be a hazard. Such instruments are often installed on trolleys to allow easy deployment, and are associated with temporary operational situations.
+
+===Instrument types===
+A number of commonly used detection instruments are listed below. 
+
+*[[ionization chamber]]s
+*[[proportional counter]]s
+*[[Geiger counter]]s
+*[[Semiconductor detector]]s
+*[[Scintillation counter|Scintillation detectors]] 
+
+The links should be followed for a fuller description of each.
+
+===Guidance on use===
+In the [[United Kingdom]] the [[Health and Safety Executive|HSE]] has issued a user guidance note on selecting the correct radiation measurement instrument for the application concerned [http://www.hse.gov.uk/pubns/irp7.pdf]. This covers all ionising radiation instrument technologies, and is a useful comparative guide.
+
+===Radiation Dosimeters===
+[[Dosimeter]]s are devices worn by the user which measure the [[equivalent dose|radiation dose]] that the user is receiving.
+Common types of wearable dosimeters for ionizing radiation include:
+* [[Quartz fiber dosimeter]]
+* [[Film badge dosimeter]]
+* [[Thermoluminescent dosimeter]]
+* Solid state ([[MOSFET]] or silicon diode) dosimeter
+
+==Units of measure==
+
+===Practical units===
+The practical units in everyday use are described below.
+
+====Absorbed dose====
+The fundamental units do not take into account the amount of damage done to matter (especially living tissue) by ionizing radiation. This is more closely related to the amount of [[energy]] deposited rather than the charge. This is called the [[absorbed dose]].
+*The [[Gray (unit)|gray]] (Gy), with units J/kg, is the [[Systeme International|SI]] unit of absorbed dose, which represents the amount of radiation required to deposit 1 [[joule]] of energy in 1 kilogram of any kind of matter.
+*The [[rad (unit)|rad]] (radiation absorbed dose), is the corresponding traditional unit, which is 0.01&nbsp;J deposited per kg.  100 rad = 1 Gy.
+
+====Equivalent dose====
+Equal doses of different types or energies of radiation cause different amounts of damage to living tissue. For example, 1&nbsp;Gy of [[alpha radiation]] causes about 20 times as much damage as 1&nbsp;Gy of [[X-ray]]s. Therefore, the [[equivalent dose]] was defined to give an approximate measure of the biological effect of radiation. It is calculated by multiplying the absorbed dose by a weighting factor W<sub>R</sub>, which is different for each type of radiation (see above table). This weighting factor is also called the Q (quality factor), or RBE ([[relative biological effectiveness]] of the radiation).
+*The [[sievert]] (Sv) is the SI unit of equivalent dose. Although it has the same units as the gray, J/kg, it measures something different. For a given type and dose of radiation(s) applied to a certain body part(s) of a certain organism, it measures the magnitude of an X-rays or [[gamma radiation]] dose applied to the whole body of the organism, such that the probabilities of the two scenarios to induce cancer is the same according to current statistics.
+*The [[Röntgen equivalent man|rem]] (Roentgen equivalent man) is the traditional unit of equivalent dose. 1 sievert = 100 rem. Because the rem is a relatively large unit, typical equivalent dose is measured in millirem (mrem), 10<sup>−3</sup> rem, or in microsievert (μSv), 10<sup>−6</sup> Sv. 1 mrem = 10 μSv.
+*A unit sometimes used for low-level doses of radiation is the BRET ([[Background Radiation Equivalent Time]]). This is the number of days of an average person's [[background radiation]] exposure the dose is equivalent to. This unit is not standardized, and depends on the value used for the average background radiation dose. Using the 2000 [[UNSCEAR]] value (below), one BRET unit is equal to about 6.6&nbsp;μSv.
+
+For comparison, the average 'background' dose of natural radiation received by a person per day, based on 2000 UNSCEAR estimate, makes BRET 6.6 μSv (660 μrem). However local exposures vary, with the yearly average in the US being around 3.6 mSv (360 mrem),<ref>Radioactivity in Nature <http://www.physics.isu.edu/radinf/natural.htm></ref> and in a small area in India as high as 30&nbsp;mSv (3 rem).<ref>[http://www.doh.wa.gov/ehp/rp/factsheets/factsheets-htm/fs10bkvsman.htm "Background Radiation: Natural versus Man-Made"] Washington Stet Department of Health</ref><ref>[http://www.hindu.com/seta/2009/01/01/stories/2009010150131600.htm "Monazite sand does not cause excess cancer incidence "], ''The Hindu''</ref>  The lethal full-body dose of radiation for a human is around 4–5&nbsp;Sv (400–500 rem).<ref>[http://www.nrc.gov/reading-rm/basic-ref/glossary/lethal-dose-ld.html "Lethal dose"], NRC Glossary (August 2, 2010)</ref>
+
+==History==
+In 1898, The Rontgen Society (Currently the [[British Institute of Radiology]]) established a committee on X-ray injuries, thus initiating the discipline of radiation protection.<ref>Mould R. ''A Century of X-rays and Radioactivity in Medicine''. Bristol: IOP Publishing, 1993</ref>
+
+=== The term "Health Physics" ===
+According to Paul Frame:<ref>[http://www.hps.org/publicinformation/ate/q2561.html Origin of "health physics"<!-- Bot generated title -->]</ref>
+
+<blockquote>
+"The term Health Physics is believed to have originated in the Metallurgical Laboratory at the University of Chicago in 1942, but the exact origin is unknown. The term was possibly coined by Robert Stone or [[Arthur Compton]], since Stone was the head of the Health Division and Arthur Compton was the head of the Metallurgical Laboratory.  The first task of the Health Physics Section was to design shielding for reactor CP-1 that [[Enrico Fermi]] was constructing, so the original HPs were mostly physicists trying to solve health-related problems. The explanation given by Robert Stone was that '...the term Health Physics has been used on the Plutonium Project to define that field in which physical methods are used to determine the existence of hazards to the health of personnel.'<p>
+A variation was given by Raymond Finkle, a Health Division employee during this time frame. 'The coinage at first merely denoted the physics section of the Health Division... the name also served security: 'radiation protection' might arouse unwelcome interest; 'health physics' conveyed nothing.'"<p>
+</blockquote>
+
+==See also==
+*[[Certified Health Physicist]]
+*[[Radiological Protection of Patients]]
+*[[Radiation protection]]
+
+== References ==
+<references/>
+
+== External links ==
+*The [http://www.hps.org Health Physics Society] is a scientific and professional organization whose members specialize in occupational and environmental radiation safety.
+
+{{Radiation}}
+{{Occupational safety and health}}
+
+[[Category:Nuclear safety]]
+[[Category:Medical physics]]
+[[Category:Radiation health effects]]

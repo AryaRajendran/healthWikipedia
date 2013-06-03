@@ -1,0 +1,89 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464211515
+| ImageFile = Potassium-fluoride-3D-ionic.png
+| ImageSize = 
+| IUPACName = Potassium fluoride
+| OtherNames = 
+| Section1 = {{Chembox Identifiers
+| Abbreviations = 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 23006
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1644027
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9082WG1G3F
+| InChI = 1S/FH.K/h1H;/q;+1/p-1
+| InChIKey = NROKBHXJSPEDAR-REWHXWOFAI
+| SMILES = [F-].[K+]
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/FH.K/h1H;/q;+1/p-1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NROKBHXJSPEDAR-UHFFFAOYSA-M
+| InChIKey1 = NROKBHXJSPEDAR-UHFFFAOYSA-M
+| CASNo = 7789-23-3 (anhydrous) <br> 13455-21-1 (dihydrate)
+|    CASNo_Ref = {{cascite|changed|??}}
+| PubChem = 522689
+| EINECS = 232-151-5
+| RTECS = TT0700000 
+  }}
+| Section2 = {{Chembox Properties
+| Formula = KF
+| MolarMass = 58.0967 g/mol (anhydrous) <br> 94.1273 g/mol (dihydrate)
+| Appearance = white crystals
+| Density = 2.48 g/cm<sup>3</sup>
+| MeltingPt = 858 °C (anhydrous) <br> 41 °C (dihydrate) <br> 19.3 °C (trihydrate)
+| BoilingPt = 1502 °C
+| Solubility = ''anhydrous:'' <br> 92 g/100 mL (18 °C) <br> 102 g/100 mL (25 °C) <hr> ''dihydrate:'' <br> 349.3 g/100 mL (18 °C)
+| SolubleOther = soluble in [[hydrogen fluoride|HF]] <br> insoluble in [[alcohol]]
+| pKa = 
+  }}
+| Section3 = {{Chembox Structure
+| CrystalStruct = cubic
+  }}
+| Section7 = {{Chembox Hazards
+| EUClass = Toxic ('''T''')
+| EUIndex = 009-005-00-2
+| NFPA-H = 3
+| NFPA-F = 0
+| NFPA-R = 1
+| NFPA-O 
+| RPhrases = {{R23/24/25}}
+| SPhrases = {{S1/2}}, {{S26}}, {{S45}}
+| FlashPt = Non-flammable
+| PEL = 
+| LD50 = 245 mg/kg (oral, guinea pig)
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions = [[Potassium chloride]]<br/>[[Potassium bromide]]<br/>[[Potassium iodide]]
+|   OtherCations = [[Lithium fluoride]]<br/>[[Sodium fluoride]]<br/>[[Rubidium fluoride]]<br/>[[Caesium fluoride]]
+}}
+}}
+'''Potassium fluoride''' is the [[chemical compound]] with the formula KF.  After [[hydrogen fluoride]], KF is the primary source of the [[fluoride]] ion for applications in manufacturing and in chemistry.  It is an [[alkali halide]] and occurs naturally as the rare [[mineral]] [[carobbiite]].  Aqueous solutions of KF will etch glass due to the formation of soluble fluorosilicates, although [[Hydrofluoric_acid|HF]] is more effective.
+
+==Preparation==
+Potassium fluoride is prepared by dissolving [[potassium carbonate]] in excess [[hydrofluoric acid]]. Evaporation of the solution forms crystals of [[potassium bifluoride]]. The bifluoride on heating yields potassium fluoride:
+
+: K<sub>2</sub>CO<sub>3</sub> + 4HF → 2KHF<sub>2</sub> + CO<sub>2</sub>↑ + H<sub>2</sub>O
+: KHF<sub>2</sub> → KF + HF↑
+
+The salt must not be prepared in glass or porcelain vessels as HF and the aqueous solution of KF corrode glass and porcelain. Heat resistant plastic or platinum containers may be used.
+
+==Applications in organic chemistry==
+In [[organic chemistry]], KF is the preferred source of fluoride for the conversion of [[chlorocarbon]]s into [[fluorocarbon]]s.<ref>{{OrgSynth  | author = Vogel, A. I.; Leicester, J.; Macey, W. A. T. | title = n-Hexyl Fluoride | collvol = 4 | collvolpages = 525 | prep = cv4p0525}}</ref>  Such reactions usually employ polar solvents such as [[dimethyl formamide]], [[ethylene glycol]], and [[dimethyl sulfoxide]].<ref>Han, Q.; Li, H-Y. "Potassium Fluoride" in Encyclopedia of Reagents for Organic Synthesis, 2001 John Wiley & Sons,New York. {{doi|10.1002/047084289X.rp214}}</ref>
+
+==Safety considerations==
+Like other sources of the fluoride ion, F<sup><nowiki>&minus;</nowiki></sup>, KF is poisonous, although lethal doses approach gram levels for humans. It is harmful by inhalation and ingestion. It is highly corrosive, and skin contact may cause severe burns.
+
+==References==
+<references/>
+
+{{Potassium compounds}}
+
+[[Category:Inorganic compounds]]
+[[Category:Potassium compounds]]
+[[Category:Fluorides]]
+[[Category:Metal halides]]
+
+{{inorganic-compound-stub}}

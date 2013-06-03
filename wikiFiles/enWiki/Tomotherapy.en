@@ -1,0 +1,51 @@
+{{Refimprove|date=May 2009}}
+[[Image:Tomotherapy.jpg|thumb|350 px|Tomotherapy Hi Art]]
+
+'''Tomotherapy''' is a type of radiation therapy in which the radiation is delivered slice-by-slice (hence the use of the [[Ancient Greek|Greek]] prefix ''[[wikt:τομή|tomo-]]'', which means "slice"). This method of delivery differs from other forms of external beam radiation therapy in which the entire tumor volume is irradiated 
+at one time.
+
+==History==
+The first implementation of tomotherapy was the Corvus system developed by  Nomos Corporation.<ref>{{cite web | title=SU-FF-T-457: Whole-Body Dose for Helical Tomotherapy | url=http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=MPHYA6000033000006002150000004&idtype=cvips&gifs=yes | work= | publisher=Medical Physics | date= | accessdate=2009-05-19}}</ref>  This was the first commercial system for planning and delivering intensity modulated radiation therapy (IMRT). The original system, designed solely for use in the brain, incorporated a rigid skull-based fixation system to prevent patient motion between the delivery of each slice of radiation. But some users{{who|date=July 2010}} eschewed the fixation system and applied the technique to tumors in many different parts of the body.
+
+'''Tomotherapy''', or Helical Tomotherapy, is a form of [[X-ray computed tomography|computed tomography]] (CT) guided IMRT or [[Intensity Modulated Radiation Therapy]], which is a relatively new type of [[radiation therapy]] delivery system. The system was developed at the [[University of Wisconsin–Madison]] by professor [[Thomas Rockwell Mackie]], Ph.D. and Paul Reckwerdt. A small megavoltage x-ray source was mounted in a similar fashion to a CT x-ray source, and the geometry provided the opportunity to provide CT images of the body in the treatment setup position.  Although original plans were to include kilovoltage CT imaging, current models use megavoltage energies.  With this combination, the unit was one of the first devices capable of providing modern image-guided radiation therapy (IGRT).  The first patients were treated in 2002, at the University of Wisconsin under the guidance of Professor [[Minesh mehta|Minesh Mehta]], M.D., under the auspices of an NIH-funded Program Project Grant.
+
+==General Principles==
+In general, radiation therapy (or radiotherapy) has developed with a strong reliance on homogeneity of dose throughout the tumor.  Tomotherapy embodies the sequential delivery of radiation to different parts of the tumor which raises two important issues.  First, this method is known as "field matching" and brings with it the possibility of a less-than-perfect match between two adjacent fields with a resultant hot and/or cold spot within the tumor.  The second issue is that if the patient or tumor moves during this sequential delivery, then again, a hot or cold spot will result.  The first problem can be overcome, or at least minimized, by careful construction of the beam delivery system.  The second requires close attention to the position of the target throughout treatment delivery.
+
+The Corvus tomotherapy system achieved great popularity because it provided a mass market solution to IMRT very early compared to other vendors' systems.  Generally  speaking, dose homogeneity is less in IMRT than in 3D conformal radiation therapy which may account for the relative lack of concern regarding the field matching issue.
+
+At this time, the Hi-Art system manufactured by TomoTherapy Inc. is the primary tomotherapy device in use although there are still a number of Corvus systems being used. TomoTherapy TomoHD systems are also in use. Other radiation therapy equipment vendors have recently responded to the challenge of short treatment times coupled with a full 360 degree treatment arc by developing methods of delivering IMRT using arcs.  The major difference is that these methods are implemented on standard medical linear accelerators, thereby providing for complete volumetric irradiation.  
+[[File:Tomotherapy nci-vol-4478-300.jpg|left|thumb|Patient undergoing tomotherapy, face and body covered.]]
+TomoTherapy "beam on" times are comparable to normal [[radiation therapy]] treatment times (about 3&ndash;5 minutes beam on time for a common prostate treatment) but do add an additional 2&ndash;3 minutes for a daily CT. The daily CT is used to precisely place the radiation beam and allows the operator to modify the treatment should the patients anatomy change due to weight loss or tumor shrinkage (adaptive radiotherapy). [[Lung cancer]], head and neck [[tumor]]s, [[breast cancer]], [[prostate cancer]], stereotactic [[radiosurgery]](SRS) and [[stereotactic]] body radiotherapy (SBRT) are some examples of treatments commonly performed using TomoTherapy. 
+While the first clinical use of TomoTherapy was in 2002, at the University of Wisconsin, under the leadership of Dr. [[Minesh mehta|Minesh Mehta]], M.D., there are now more than 300 sites across [[Canada]], the [[United States]], [[Europe]] and [[Asia]].
+
+Due to their internal shielding and small footprint, TomoTherapy Hi-Art and TomoTherapy TomoHD treatment machines are the only radiotherapy treatment machines used in relocatable radiotherapy treatment suites. Two different types of suites are available: TomoMobile developed by TomoTherapy Inc. which is a moveable truck and Pioneer, developed by UK-based Oncology Systems Limited. The latter was developed to meet the requirements of UK and European transport law requirements and is a contained unit that is placed on a concrete pad, delivering radiotherapy treatments in less than five weeks.
+
+==TomoTherapy For Use in Dog==
+[[File:Nunya the Dog, going through TomoTherapy.png|thumbnail|right|Nunya, the Dog, going through TomoTherapy.  She had 20 sessions.]]
+Institutions like Texas A&M in College Station performs TomoTherapy treatments on dogs.<ref>{{cite web | title=My Dog has a Nasal Tumor | url=http://thomasloughlin.com/my-dog-has-snout-cancer/ | work= | publisher=Thomas Loughlin | date= | accessdate=2013-01-06}}</ref>  A typical treatment can last between 10 and 20 sessions.  Many patients experience radiation burns as a side effect.
+
+==See also==
+* [[Radiation therapy]]
+* [[Radiosurgery]]
+* [http://www.aapm.org/pubs/reports/RPT_148.pdf Quality Assurance for Helical Tomotherapy: Report of the AAPM Task Group 148]
+* [http://thomasloughlin.com/wp-content/uploads/2012/09/IMG_0869.jpg TomoTherapy burns on a Dog]
+
+== Notes ==
+{{Reflist}}
+
+==External links==
+*  [http://www.cancercenter.com/conventional-cancer-treatment/radiation-therapy/tomotherapy.cfm Tomotherapy at Cancer Treatment Centers of America]
+*[http://books.google.com/books?id=v68J1dgCEn8C&pg=PA967&lpg=PA967&dq=%22Tomotherapy%22+Corvus+system&source=bl&ots=bZyZyA7MCv&sig=Ag7nVHGTcVB6vf2oC8ngYqlPAFk&hl=cs&ei=mikTSob9EciQ_QbI0ZSpDw&sa=X&oi=book_result&ct=result&resnum=10  Handbook of radiotherapy physics]
+* [http://www.ncbi.nlm.nih.gov/pubmed/11339750 National Center for Biotechnology Information]
+* [http://www.tomotherapy.com TomoTherapy Website]
+* [http://www.osl.uk.com/rte.asp?id=52 Oncology Systems Limited Website]
+* [http://www.tomotherapy.com/centers/index TomoTherapy Treatment Centers]
+* [http://www.tomotherapy.com/microsite/NothingLikeTomo.html Tomotherapy information site]
+* [http://www.vantageoncology.com/tomotherapy.php Quick overview of Tomotherapy with Video]
+* [http://www.cancernetwork.com/cancer-management-11/chapter02/article/10165/1399960 Cancer Management Handbook: Principles of Radiation Therapy]
+
+{{Nuclear technology}}
+
+[[Category:Radiation therapy]]
+[[Category:Medical physics]]

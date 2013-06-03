@@ -1,0 +1,119 @@
+{{Diagnostic infobox |
+  Name        = Diffusion capacity |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = |
+  MeshID      = D011653 |
+  OPS301      = |
+  OtherCodes  = CPT: 94720 |
+}}
+'''Diffusing capacity''' (DL<sub>CO</sub>) is the part of a comprehensive series of tests (the [[Pulmonary function testing|pulmonary function tests]]) that is done to determine the overall ability of the [[lung]] to transport gas into and out of the blood.  DL<sub>CO</sub> is reduced in certain diseases of the lung and heart.  This test has been standardized according to a position paper<ref name="multiple">Macintyre N, Crapo RO, Viegi G, et al. 2005 Standardisation of the single-breath determination of carbon monoxide uptake in the lung. Eur Respir J. 26:720-35 PMID 16204605</ref> by a task force of the [[European Respiratory Society|European Respiratory]] and [[American Thoracic Society|American Thoracic]] Societies.
+
+In [[respiratory physiology]], the diffusing capacity has a long history of great utility, but the words themselves are now misleading because they are archaic: neither is [[diffusion]] measured nor is the value obtained from this test a [[Battery (electricity)|capacity]] nor even a [[capacitance]], but in fact a [[Electrical resistance and conductance|conductance]]. While the term diffusing capacity is retained in the United States for reasons of historical continuity, terminology using transfer factor is now preferred in Europe and elsewhere.  Nevertheless, there are 7 - 8 times more citations for the original terminology in [[PubMed]], so any change in usage will be slow to happen.
+
+Worse still, the term diffusing capacity is positively misleading, since gas transport is not diffusion limited in all but the most extreme cases, such as for oxygen uptake at very low ambient oxygen or at very high pulmonary blood flow.  Critics of the term "diffusion capacity" argue that it may be misleading for other reasons as well, and point out two problems with the term. The first is that the test measures not just ''diffusion'' across the alveolar-capillary membrane, but also takes into account factors affecting the chemical combination of a given gas with hemoglobin. The second criticism is that the test is typically measured under submaximal conditions and doesn't truly reflect a functional ''capacity''. For these reasons the term "transfer factor" has been proposed to better reflect the physiological process being measured.<ref name="multiple"/>
+
+Finally, the diffusing capacity does not directly measure the primary cause of [[hypoxemia]], or low blood oxygen, namely mismatch of [[Ventilation/perfusion ratio|ventilation to perfusion]]:<ref>West, J. 2011. Respiratory Physiology: The Essentials. 9e. ISBN 978-1-60913-640-6</ref>
+* Not all pulmonary arterial blood goes to areas of the lung where gas exchange can occur (the anatomic orphysiologic shunts), and this poorly oxygenated blood rejoins the well oxygenated blood from healthy lung in the pulmonary vein.  Together, the mixture has less oxygen than that blood from the healthy lung alone, and so is hypoxemic.
+* Similarly, not all inspired air goes to areas of the lung where gas exchange can occur (the [[Dead space (physiology)|anatomic and the physiological dead spaces]]), and so is wasted.
+
+== Calculation ==
+
+The diffusion capacity for oxygen <math>(D_{L_{O_2}})</math> is the proportionality factor relating the rate of oxygen uptake into the lung to the oxygen gradient between the capillary blood and the alveoli (per [[Fick's laws of diffusion]]). In [[respiratory physiology]], it is convenient to express the transport of gas molecules as changes in volume, since <math>{V_{O_2}}\propto {n_{O_2}}</math> (i.e., in a gas, a volume is proportional to the number of molecules in it).  Further, the oxygen concentration ([[partial pressure]]) in the pulmonary artery is taken to be representative of capillary blood.  Thus, <math>(D_{L_{O_2}})</math> can be calculated as the ratio of the volume of the oxygen taken up by the lung <math>(\dot{V}_{O_{2}})</math> divided by the oxygen gradient between the alveoli ("A") and the pulmonary artery ("a").
+{{NumBlk|::|<math>D_{L_{O_2}} =\frac {\dot{V}_{O_{2}}} {P_{A_{O_2}} - P_{a_{O_2}}} \simeq \frac {\dot{V}_{O_{2}}} {P_{A_{O_2}} - P_{v_{O_2}}}</math>   | {{EquationRef|1}} }}
+::(For <math>\dot{V}</math>, say "V dot".  This is the notation of [[Isaac Newton]] for a first derivative (or rate) and is commonly used in respiratory physiology for this purpose.)
+
+::::<math>\dot{V}_{O_{2}}</math> is the rate that oxygen is taken up by the lung (ml/min).
+::::<math>P_{A_{O_2}}</math> is the partial pressure of oxygen in the alveoli.
+::::<math>P_{a_{O_2}}</math> is the partial pressure of oxygen in the pulmonary artery.
+::::<math>P_{v_{O_2}}</math> is the partial pressure of oxygen in the systemic veins (where it can actually be measured).
+
+Thus, the higher the diffusing capacity <math>D_L</math>, the more gas will be transferred into the lung per unit time for a given gradient in partial pressure (or concentration) of the gas.  Since it can be possible to know the alveolar oxygen concentration and the rate of oxygen uptake - but not the oxygen concentration in the pulmonary artery - it is the venous oxygen concentration that is generally employed as a useful approximation in a clinical setting.
+
+Sampling the oxygen concentration in the pulmonary artery is a highly invasive procedure, but fortunately another similar gas can be used instead that obviates this need. [[Carbon monoxide]] (CO) is tightly and rapidly bound to hemoglobin in the blood, so the partial pressure of CO in the capillaries is negligible and the second term in the denominator can be ignored.  For this reason, CO is generally the test gas used to measure the diffusing capacity and the <math>D_L</math> equation simplifies to:
+{{NumBlk|::|<math>D_{L_{CO}} = \frac {\dot{V}_{CO}} {P_{A_{CO}} }</math>. | {{EquationRef|2}} }}
+
+== Test Performance ==
+
+The '''single-breath diffusing capacity test''' is the most common way to determine <math>D_L</math>.<ref name="multiple" /> The test is performed by having the subject blow out all of the air that he/she can, leaving only the [[Lung volumes|residual lung volume]] of gas.  The person then inhales a test gas mixture rapidly and completely, reaching the [[Lung volumes|total lung capacity]] as nearly as possible. This test gas mixture contains a small amount of carbon monoxide (usually 0.3%) and a ''tracer gas'' that is freely distributed throughout the alveolar space but which doesn't cross the alveolar-capillary membrane.  Helium and methane are two such gasses.  The test gas is held in the lung for about 10 seconds during which time the CO (but ''not'' the tracer gas) continuously moves from the alveoli into the blood.  Then the subject exhales.
+
+The anatomy of the airways brings with it complications, since the inspired air must pass through the mouth, trachea, bronchi and bronchioles before it gets to the alveoli where gas exchange will occur; on exhalation, alveolar gas must return along the same path, and so the exhaled sample will be purely alveolar only after a 500 to 1,000 ml of gas has left the subject.  While it is algebraically possible to approximate the effects of anatomy (the ''three-equation method''<ref>Graham BL, Mink JT, Cotton DJ. 1981. Improved accuracy and precision of single-breath CO diffusing capacity measurements. J Appl Physiol. 51:1306-13. PMID 7298468</ref>), disease states introduce considerable uncertainty to this approach. Instead, the first 500 to 1,000 ml of the expired gas is disregarded and the next portion which contain gas that has been in the alveoli is analyzed.<ref name="multiple" /> By analyzing the concentrations of carbon monoxide and inert gas in the inspired gas and in the exhaled gas, it is possible to calculate <math>(D_{L_{CO}})</math> according to Equation {{EquationRef|2}}. First, the ''rate'' at which CO is taken up by the lung is calculated according to:
+{{NumBlk|::|<math>\dot{V}_{CO} =\frac {\Delta{[CO]} * V_A} {\Delta{t}} </math> . | {{EquationRef|4}} }}
+::::The pulmonary function equipment monitors the change in the concentration of CO that occurred during the breath hold, <math>\Delta{[CO]}</math>, and also records the time <math>\Delta{t}</math>.
+::::The volume of the alveoli, <math>V_A</math>, is determined by the degree to which the tracer gas has been diluted by inhaling it into the lung.
+
+Similarly,
+{{NumBlk|::|<math>P_{A_{CO}} = V_B * F_{A_{CO_{O}}}  </math> . | {{EquationRef|5}} }}
+where
+::::<math>F_{A_{CO_{O}}}</math> is the initial alveolar fractional CO concentration, as calculated by the dilution of the tracer gas.
+::::<math>V_B</math> is the barometric pressure
+
+Other methods that are not so widely used at present can measure the diffusing capacity.  These include the steady state diffusing capacity that is performed during regular tidal breathing, or the rebreathing method that requires rebreathing from a reservoir of gas mixtures.
+
+== Interpretation ==
+
+In general, a healthy individual has a value of <math>D_{L_{CO}}</math> between 75% and 125% of the average.<ref name=uppsala>LUNGFUNKTION - Practice compendium for semester 6. Department of Medical Sciences, Clinical Physiology, Academic Hospital, Uppsala, Sweden. Retrieved 2010.</ref> However, individuals vary according to age, sex, height and a variety of other parameters.  For this reason, reference values have been published, based on populations of healthy subjects<ref>Miller A, Thornton JC, Warshaw R, Anderson H, Teirstein AS, Selikoff IJ. 1983 Single breath diffusing capacity in a representative sample of the population of Michigan, a large industrial state. Predicted values, lower limits of normal, and frequencies of abnormality by smoking history. Am Rev Respir Dis. 127:270-7. PMID 6830050.</ref><ref>Knudson RJ, Kaltenborn WT, Knudson DE, Burrows B. 1987 The single-breath carbon monoxide diffusing capacity. Reference equations derived from a healthy nonsmoking population and effects of hematocrit. Am Rev Respir Dis. 135:805-11. PubMed PMID 3565929.</ref><ref>Cotes JE, Chinn DJ, Quanjer PhH, Roca J, Yernault JC. 1993 Standardization of the measurement of transfer factor (Diffusing capacity). Eur Respir J Suppl 16:41–52. PMID 8499053</ref> as well as measurements made at altitude,<ref>Crapo RO, Morris AH, Gardner RM. 1982 Reference values for pulmonary tissue volume, membrane diffusing capacity, and pulmonary capillary blood volume. Bull Eur Physiopathol Respir. 18:893-9. PMID 6927541.</ref> for children<ref>Koopman M, Zanen P, Kruitwagen CL, van der Ent CK, Arets HG. 2011 Reference values for paediatric pulmonary function testing: The Utrecht dataset. Respir Med. 105:15-23. Erratum in: Respir Med. 2011 105:1970-1. PMID 20889322.</ref> and some specific population groups.<ref>Chin NK, Ng TP, Hui KP, Tan WC. 1997 Population based standards for pulmonary function in non-smoking adults in Singapore. Respirology. 1997 Jun;2(2):143-9. PMID 9441128.</ref><ref>Piirilä P, Seikkula T, Välimäki P. 2007 Differences between Finnish and European reference values for pulmonary diffusing capacity. Int J Circumpolar Health. 66:449-57. PubMed PMID 18274210.</ref><ref>Ip MS, Lam WK, Lai AY, ''et al.'' Hong Kong Thoracic Society. Reference values of diffusing capacity of non-smoking Chinese in Hong Kong. Respirology. 12:599-606. PMID 17587430.</ref>
+
+===Blood CO levels may not be negligible===
+
+In heavy smokers, blood CO is great enough to influence the measurement of <math>D_{L_{CO}}</math>, and requires an adjustment of the calculation when COHb is greater than 2% of the whole.
+
+====The two components of <math>D_{L_{CO}}</math>====
+While <math>(D_L)</math> is of great practical importance, being the overall measure of gas transport, the interpretation of this measurement is complicated by the fact that it does not measure any one part of a multi-step process. So as a conceptual aid in interpreting the results of this test, the time needed to transfer CO from the air to the blood can be divided into two parts.  First CO crosses the alveolar capillary membrane (represented by <math>D_M</math> ) and then CO combines with the hemoglobin in capillary red blood cells at a rate <math>\theta</math> times the volume of capillary blood present (<math>V_c</math>).<ref>Roughton FJ, Forster RE 1957 Relative importance of diffusion and chemical reaction rates in determining rate of exchange of gases in the human lung, with special reference to true diffusing capacity of pulmonary membrane and volume of blood in the lung capillaries. J Appl Physiol. 11:290-302. PMID 13475180.</ref> Since the steps are in series, the conductances add as the sum of the reciprocals:
+
+{{NumBlk|::|<math>\frac {1} {D_{L_{CO}}} =\frac {1} {D_M} + \frac {1} {\theta * V_c}</math> .  | {{EquationRef|3}} }}
+
+====Any change in <math>V_c</math> alters <math>D_{L_{CO}}</math>====
+
+The volume of blood in the lung capillaries, <math>V_c</math>, changes appreciably during ordinary activities such as [[Physical exercise|exercise]].  Simply breathing in brings some additional blood ''into'' the lung because of the negative intrathoracic pressure required for inspiration.  At the extreme, inspiring against a closed glottis, the [[Müller's maneuver]], pulls blood ''into'' the chest.  The opposite is also true, as exhaling increases the pressure within the thorax and so tends to push blood out; the [[Valsalva maneuver]] is an exhalation against a closed airway which can move blood ''out'' of the lung. So breathing hard during exercise will bring extra blood into the lung during inspiration and push blood out during expiration. But during exercise (or more rarely when there is a [[Atrioventricular septal defect|structural defect]] in the heart that allows blood to be shunted from the high pressure, systemic circulation to the low pressure, pulmonary circulation) there is also increased blood flow throughout the body, and the lung adapts by recruiting extra capillaries to carry the increased output of the heart, further increasing the quantity of blood in the lung.  Thus <math>D_{L_{CO}}</math> will appear to increase when the subject is not at rest, particularly during inspiration.
+
+In disease, [[Pulmonary hemorrhage|hemorrhage]] into the lung will increase its hemoglobin content, and so increase <math>D_{L_{CO}}</math>.
+
+Finally, <math>V_c</math> is increased in '''[[obesity]]''' and when the subject lies down, both of which increase the blood in the lung by compression and by gravity and thus both increase <math>D_{L_{CO}}</math>.
+
+====Reasons why <math>\theta</math> varies====
+
+The rate of CO uptake into the blood, <math>\theta</math>, depends on the concentration of hemoglobin in that blood, abbreviated [[Hemoglobin|Hb]] in the CBC ([[Complete Blood Count]]).  More hemoglobin is present in [[polycythemia]], and so <math>D_{L_{CO}}</math> is elevated.  In [[anemia]], the opposite is true.  In environments with high levels of CO in the inhaled air (such as [[smoking]]), a fraction of the blood's hemoglobin is rendered ineffective by its tight binding to CO, and so is analogous to anemia.  It is recommended that <math>D_{L_{CO}}</math> be adjusted when blood CO is high.<ref name="multiple" />
+
+The lung blood volume is also reduced when blood flow is interrupted by blood clots ([[pulmonary emboli]]) or reduced by bone deformities of the thorax, for instance [[scoliosis]] and [[kyphosis]].
+
+Varying the ambient concentration of oxygen also alters <math>\theta</math>.  At high altitude, inspired oxygen is low and more of the blood's hemoglobin is free to bind CO; thus <math>\theta</math> is increased and <math>D_{L_{CO}}</math> appears to be increased.  Conversely, supplemental oxygen increases Hb saturation, decreasing <math>\theta</math> and <math>D_{L_{CO}}</math>.
+
+====Lung diseases that reduce <math>D_M</math> and <math>\theta * V_c</math>====
+
+Diseases that alter lung tissue reduce both <math>D_M</math> and <math>\theta * V_c</math> to a variable extent, and so decrease <math>D_{L_{CO}}</math>.
+# Loss of lung parenchyma in diseases like [[emphysema]].
+# Diseases that scar the lung (the [[interstitial lung disease]]), such as [[idiopathic pulmonary fibrosis]], or [[sarcoidosis]]
+# Swelling of lung tissue ([[pulmonary edema]]) due to [[heart failure]], or due to an acute inflammatory response to allergens ([[acute interstitial pneumonitis]]).
+# Diseases of the blood vessels in the lung, either inflammatory ([[Vasculitis|pulmonary vasculitis]]) or hypertrophic ([[pulmonary hypertension]]).
+
+==History==
+
+In one sense, it is remarkable that DL<sub>CO</sub> has retained such clinical utility.  The technique was invented to settle one of the great controversies of pulmonary physiology a century ago, namely the question of whether oxygen and the other gases were actively transported into and out of the blood by the lung, or whether gas molecules diffused passively.<ref>Gjedde A. 2010 [http://advan.physiology.org/content/34/4/174.full#content-block Diffusive insights: on the disagreement of Christian Bohr and August Krogh ] Adv Physiol Educ 34: 174-185 PMID 21098384</ref> Remarkable too is the fact that both sides used the technique to gain evidence for their respective hypotheses. To begin with, [[Christian Bohr]] invented the technique, using a protocol analogous to the steady state diffusion capacity for carbon monoxide, and concluded that oxygen was actively transported into the lung.  His student, [[August Krogh]] developed the single breath diffusion capacity technique along with his wife [[August Krogh|Marie]], and convincingly demonstrated that gasses diffuse passively,<ref>Krogh A. 1910 On the oxygen metabolism of the blood. Skand Arch Physiol 23: 193–199</ref><ref>Krogh A. 1910 On the mechanism of the gas-exchange in the lungs of the tortoise. Skand Arch Physiol 23: 200–216.</ref><ref>Krogh A. 1910 On the combination of hæmoglobin with mixtures of oxygen and carbonic acid. Skand Arch Physiol 23: 217–223.</ref><ref>Krogh A. 1910 Some experiments on the invasion of oxygen and carbonic oxide into water. Skand Arch Physiol 23: 224–235</ref><ref>Krogh A. 1910 On the mechanism of gas exchange in the lungs. Skand Arch Physiol 23: 248–278</ref><ref>Krogh A, Krogh M. 1910 On the tensions of gases in arterial blood. Skand Arch Physiol 23: 179–192.</ref><ref>Krogh A, Krogh M. 1910 Rate of diffusion into lungs of man. Skand Arch Physiol 23: 236–247</ref> a finding that led to the demonstration that capillaries in the blood were recruited into use as needed - a Nobel prize winning idea.<ref>http://www.nobelprize.org/nobel_prizes/medicine/laureates/1920/krogh-bio.html</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Mason RJ, Broaddus VC, Martin T, King T,Jr., Schraufnagel D, Murray JF, Nadel JA. (2010) Textbook of Respiratory Medicine. 5e. ISBN 978-1-4160-4710-0.
+* Ruppel, G. L. (2008) Manual of Pulmonary Function Testing. 9e. ISBN 978-0-323-05212-2.
+* West, J. (2011) Respiratory Physiology: The Essentials. 9e. ISBN 978-1-60913-640-6.
+* West, J. (2012) Pulmonary Pathophysiology: The Essentials. 8e. ISBN 978-1-4511-0713-5.
+*
+
+== External links ==
+* {{MeshName|Pulmonary+diffusing+capacity}}
+* {{MedlinePlusEncyclopedia|003854}}
+* [http://www.rcjournal.com/cpgs/ American Association for Respiratory Care ''Clinical Practice Guidelines'']
+* [http://the-aps.org The American Physiological Society home page]
+* [http://thoracic.org The American Thoracic Society home page]
+* [http://ersnet.org The European Respiratory Society home page]
+
+{{Respiratory system procedures}}
+
+[[Category:Respiratory physiology]]
+
+[[de:Kohlenmonoxid-Transferfaktor]]
+[[pl:Badanie zdolności dyfuzji gazów w płucach]]
+[[zh:弥散量]]

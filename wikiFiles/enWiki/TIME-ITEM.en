@@ -1,0 +1,46 @@
+'''TIME-ITEM''' is an [[Ontology (computer science)|ontology]] of ''Topics'' that describes the content of undergraduate [[medical education]].  TIME is an acronym for "Topics for Indexing Medical Education"; ITEM is an acronym for "Index de thèmes pour l’éducation médicale."  Version 1.0 of the taxonomy has been released and the [[web application]] that allows users to work with it is still under development.  Its developers are seeking more collaborators to expand and validate the taxonomy and to guide future development of the web application.
+
+== History ==
+
+The development of TIME-ITEM began at the [[University of Ottawa]] in 2006.  It was initially developed to act as a content [[Index (publishing)|index]] for a [[Curriculum mapping|curriculum map]] being constructed there.  After its initial presentation at the 2006 conference of the [http://www.came-acem.ca/ Canadian Association for Medical Education],<ref>Willett T & Clarke M. A Map of Medical Concepts: A General-use Database for Applications in Medical Education.  AFMC Resource Group on Medical Informatics Reception.  At the Canadian Association for Medical Education Conference (May 2006) London, Canada</ref> early collaborators included the [[University of British Columbia]], [[McMaster University]] and [[Queen's University]].
+
+== Features ==
+
+The TIME-ITEM ontology is unique in that it is designed specifically for undergraduate medical education.  As such, it includes fewer strictly biomedical entries than other common medical [[Controlled vocabulary|vocabularies]] (such as [[Medical Subject Headings|MeSH]] or [[SNOMED CT]]) but more entries relating to the medico-social concepts of communication, collaboration, professionalism, etc.<ref>{{Cite journal  | last1 = Willett | first1 = TG. | last2 = Marshall | first2 = KC. | last3 = Broudo | first3 = M. | last4 = Clarke | first4 = M. | title = It's about TIME: a general-purpose taxonomy of subjects in medical education. | journal = Med Educ | volume = 42 | issue = 4 | pages = 432–8 | month = Apr | year = 2008 | doi = 10.1111/j.1365-2923.2008.03012.x | PMID = 18298447 }}</ref>
+
+Topics within TIME-ITEM are arranged poly-[[Hierarchy (object-oriented programming)|hierarchically]], meaning any Topic can have more than one [[Tree (data structure)|parent]].  Relationships are established based on the logic that learning about a Topic contributes to the learning of all its parent Topics. 
+
+In addition to housing the ontology of Topics, the TIME-ITEM web application can house multiple [[Curriculum framework|Outcome frameworks]].  All [[Outcome-based education|Outcomes]], whether private Outcomes entered by single institutions or publicly available medical education Outcomes (such as [[CanMeds 2005]]) are hierarchically linked to one or more Topics in the ontology.  In this way, the contribution of each Topic to multiple Outcomes is made explicit.<ref>Willett TG, Marshall KC, Broudo M & Clarke M.  TIME as a generic index for outcome-based medical education.  ''Medical Teacher'' 2008; 29(7):655-9.</ref>
+
+The structure of the [[XML]] documents exported from TIME-ITEM (which contain the hierarchy of Outcomes and TIME-ITEM Topics) is being developed alongside the [http://www.medbiq.org MedBiquitous] Competency standards.  
+
+The taxonomy currently exists in English only but translation to Canadian French is in progress.
+
+== Applications ==
+
+TIME-ITEM is intended to be a general-use ontology for medical [[Education Informatics|education informatics]].  It has two primary potential applications:
+# Inclusion in [[Curriculum mapping|curriculum maps]].  By mapping learning objects or sessions to TIME-ITEM Topics in a curriculum map, the map becomes searchable for both granular and broad concepts.  If one or more Outcome frameworks are included with the Topic ontology, then the contribution of each curricular element to one or more Outcomes is made explicit.  This also facilitates curriculum [[evaluation]] in terms of one or more outcome frameworks.
+# Indexing learning, assessment and portfolio objects.  Metatagging [[learning object]]s or [[assessment objects]] with a controlled vocabulary enhances the organization and retrieval of objects from a [[repository (publishing)|repository]].  Metatagging [[electronic portfolio]] entries allows one to show how multiple entries "add up" to a demonstration of competence with respect to certain educational outcomes.
+
+The possibility of expanding or modifying TIME-ITEM for use in postgraduate/continuing medical education and in nursing education is currently being explored.
+
+==See also==
+
+*[[Curriculum mapping]]
+*[[Outcome-based education]]
+*[[:Category:Medical classification]]
+*[[Ontology (computer science)]]
+*[[Controlled vocabulary]]
+*[[Education informatics]]
+
+== References ==
+{{reflist}}
+
+==External links==
+* http://www.time-item.org (Registration required, by application only)
+
+[[Category:Library cataloging and classification]]
+[[Category:Educational assessment and evaluation]]
+[[Category:Medical classification]]
+[[Category:Ontology (information science)]]
+[[Category:Medical education]]

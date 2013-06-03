@@ -1,0 +1,34 @@
+'''Intrinsic immunity''' refers to a set of recently discovered [[cell (biology)|cellular]]-based anti-viral defense mechanisms, notably genetically encoded [[proteins]] which specifically target [[eukaryotic]] [[retrovirus]]es. Unlike [[adaptive immunity|adaptive]] and [[innate immune system|innate]] immunity effectors, intrinsic immune proteins are usually expressed at a constant level, allowing a [[virus|viral]] infection to be halted quickly.
+
+== Background ==
+
+Eukaryotic organisms have been exposed to viral infections for millions of years. The development of the innate and adaptive immune system reflects the [[evolution]]ary importance of fighting [[infection]]. Some viruses, however, have proven to be so deadly or refractory to conventional immune mechanisms that specific, genetically encoded cellular defense mechanisms have evolved to combat them. Intrinsic immunity comprises cellular proteins which are always active and have evolved to block infection by specific viruses or viral [[taxa]].<ref name="pmid15496950">{{cite journal | author = Bieniasz PD | title = Intrinsic immunity: a front-line defense against viral attack | journal = Nat. Immunol. | volume = 5 | issue = 11 | pages = 1109–15 | year = 2004 | month = November | pmid = 15496950 | doi = 10.1038/ni1125 | url = | issn = }}</ref>
+
+The recognition of intrinsic immunity as a potent anti-viral defense mechanism is a recent discovery and is not yet discussed in most [[immunology]] courses or texts. Though the extent of protection intrinsic immunity affords is still unknown, it is possible that intrinsic immunity may eventually be considered a third branch of the traditionally bipartite [[immune system]].
+
+==Relationship to the immune system==
+Intrinsic Immunity combines aspects of the two traditional branches of the immune system - adaptive and innate immunity – but is mechanistically distinct. Innate cellular immunity recognizes viral infection using [[toll-like receptors]] (TLRs), or [[pattern recognition receptors]], which sense [[Pathogen-associated molecular pattern]]s (PAMPs), triggering the [[gene expression|expression]] of nonspecific antiviral proteins. Intrinsic immune proteins, however, are specific both in virus recognition and their mechanism of viral [[attenuation]]. Like innate immunity, however, the intrinsic immune system does not respond differently upon repeat infection by the same pathogen. Also, like adaptive immunity, intrinsic immunity is specifically tailored to a single type or class of pathogens, notably [[retroviruses]].
+
+Unlike adaptive and innate immunity, which must sense the infection to be turned on (and can in the case of adaptive immunity, take weeks to become effective) intrinsic immune proteins are constitutively expressed and ready to shut down infection immediately following viral entry. This is particularly important in retroviral infections since [[retroviral integration|viral integration]] into the host [[genome]] occurs quickly after entry and [[reverse transcription]] and is largely irreversible.
+
+Because the production of intrinsic immune mediating proteins cannot be increased during infection, these defenses can become saturated and ineffective if a cell is infected with a high level of virus.
+
+== Activities of canonical intrinsic immune proteins ==
+
+* [[TRIM5alpha|TRIM5α]] (Tripartite interaction motif five, [[RNA splicing|splice]] variant α) is one of the most studied intrinsic immune proteins due to its connection with [[human immunodeficiency virus]] (HIV) and [[simian immunodeficiency virus]] (SIV). This constitutively expressed protein recognizes the [[capsid]] proteins of entering retroviruses and prevents viral uncoating and reverse transcription through an unknown mechanism. The [[rhesus monkey]] TRIM5α variant is able to recognize and prevent HIV infection, whereas the [[human]] TRIM5α protein can prevent SIV infection. This variation helps explain why HIV and SIV infect humans and monkeys respectively, and probably reflects a previous [[epidemic]] of what we now call HIV among ancestors of current rhesus monkey populations.<ref name="pmid14985764">{{cite journal | author = Stremlau M, Owens CM, Perron MJ, Kiessling M, Autissier P, Sodroski J | title = The cytoplasmic body component TRIM5alpha restricts HIV-1 infection in Old World monkeys | journal = Nature | volume = 427 | issue = 6977 | pages = 848–53 | year = 2004 | month = February | pmid = 14985764 | doi = 10.1038/nature02343 | url = | issn = }}</ref>
+
+* [[APOBEC3G]] (Apolipoprotein editing complex 3 G) is another intrinsic immune protein which interferes with HIV infection. APOBEC3G is a [[cytidine deaminase]] against single stranded [[DNA]] which introduces [[transversion]] mutations into the HIV genome during reverse transcription by randomly changing [[cytidine]] [[Nucleobase|basepairs]] into [[uracil]]. Though this will not necessarily stop viral integration, the resulting progeny viral [[genome]]s are too riddled with [[mutations]] to be viable. APOBEC3G expression is disrupted by the HIV vif protein which induces its degradation through the [[ubiquitin]]/[[proteasome]] system. If an HIVΔvif deletion mutant is created it will be able to infect a cell, but will produce non-viable progeny virus due to the action of APOBEC3G.<ref name="pmid12167863">{{cite journal | author = Sheehy AM, Gaddis NC, Choi JD, Malim MH | title = Isolation of a human gene that inhibits HIV-1 infection and is suppressed by the viral Vif protein | journal = Nature | volume = 418 | issue = 6898 | pages = 646–50 | year = 2002 | month = August | pmid = 12167863 | doi = 10.1038/nature00939 | url = | issn = }}</ref>
+
+Other intrinsic immune proteins have been discovered which block [[Murine leukemia virus]] (MLV), [[Herpes simplex virus]] (HSV), and [[Human Cytomegalovirus]] (HCMV). In many cases, such as that of APOBEC3G above, viruses have evolved mechanisms for disrupting the actions of these proteins. Another example is the cellular protein [[Daxx]], which silences viral [[Promoter (biology)|promoter]]s, but is degraded by an active HCMV protein early in infection.<ref name="pmid16571803">{{cite journal | author = Saffert RT, Kalejta RF | title = Inactivating a cellular intrinsic immune defense mediated by Daxx is the mechanism through which the human cytomegalovirus pp71 protein stimulates viral immediate-early gene expression | journal = J. Virol. | volume = 80 | issue = 8 | pages = 3863–71 | year = 2006 | month = April | pmid = 16571803 | pmc = 1440479 | doi = 10.1128/JVI.80.8.3863-3871.2006 | url = | issn = }}</ref>
+
+==References==
+{{Reflist|1}}
+
+{{immune_system}}
+
+{{DEFAULTSORT:Intrinsic Immunity}}
+[[Category:Virology]]
+[[Category:Immunology]]
+[[Category:HIV/AIDS]]
+[[Category:Retroviruses]]
+[[Category:Cell biology]]

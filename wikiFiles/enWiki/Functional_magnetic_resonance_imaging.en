@@ -1,0 +1,702 @@
+{{redirect|FMRI|Fault Management Resource Identifier|OpenBSM}}
+[[File:Researcher-test.jpg|thumb|300px|right|Researcher checking fMRI images|alt=Researcher checking fMRI images]]
+
+'''Functional magnetic resonance imaging''' or '''functional MRI''' ('''fMRI''') is an [[Magnetic resonance imaging|MRI]] procedure that measures brain activity by detecting associated changes in blood flow.{{refn| {{harvtxt|Huettel|Song|McCarthy|2009}} }} This technique relies on the fact that cerebral blood flow and neuronal activation are coupled. When an area of the brain is in use, blood flow to that region also increases. 
+
+The primary form of fMRI uses the blood-oxygen-level-dependent (BOLD) contrast,{{refn| {{harvtxt|Huettel|Song|McCarthy|2009|p=26}} }} discovered by [[Seiji Ogawa]]. This is a type of specialized brain and body scan used to map [[neuron|neural]] activity in the [[brain]] or [[spinal cord]] of humans or other animals by imaging the change in blood flow ([[hemodynamic response]]) related to energy use by brain cells.{{refn| {{harvtxt|Huettel|Song|McCarthy|2009|p=26}} }}  Since the early 1990s, fMRI has come to dominate brain mapping research because it does not require people to undergo shots, surgery, or to ingest substances, or be exposed to radiation.{{refn| {{harvtxt|Huettel|Song|McCarthy|2009|p=4}} }} Another method of obtaining contrast is arterial spin labeling.{{refn| {{harvtxt|Detre|Rao|Wang|Chen|Wang|2012}} }}
+
+The procedure is similar to MRI but uses the change in magnetization between oxygen-rich and oxygen-poor blood as its basic measure. This measure is frequently corrupted by noise from various sources and hence statistical procedures are used to extract the underlying signal. The resulting brain activation can be presented graphically by color-coding the strength of activation across the brain or the specific region studied. The technique can localize activity to within millimeters but, using standard techniques, no better than within a window of a few seconds.{{citation needed|date=December 2012}}
+
+FMRI is used both in the research world, and to a lesser extent, in the clinical world. It can also be combined and complemented with other measures of brain physiology such as [[EEG]] and [[Near infrared spectroscopy|NIRS]]. Newer methods which improve both spatial and time resolution are being researched, and these largely use biomarkers other than the BOLD signal. Some companies have developed commercial products such as lie detectors based on fMRI techniques, but the research is not believed to be ripe enough for widespread commercialization.<ref name="Using Brain Imaging for Lie Detection: Where Science, Law, and Policy Collide">
+{{cite journal|last=Langleben|first=Daniel D.|coauthors=Campbell Moriarty|journal=Psychology, Public Policy and Law|year=2012|pages=1–15|doi=10.1037/a0028841|url=http://works.bepress.com/cgi/viewcontent.cgi?article=1019&context=jane_moriarty}}</ref>
+
+==Overview==
+The fMRI concept builds on the earlier MRI scanning technology and the discovery of properties of oxygen-rich blood. MRI brain scans use a strong, permanent, static magnetic field to align nuclei in the brain region being studied. Another magnetic field, the gradient field, is then applied to kick the nuclei to higher magnetization levels, with the effect depending on where they are located. When the gradient field is removed, the nuclei go slowly back to their original states, and the energy they emit is measured with a coil to recreate the positions of the nuclei. MRI thus provides a static structural view of brain matter. The central thrust behind fMRI was to extend MRI to capture functional changes in the brain caused by neuronal activity. Differences in magnetic properties between arterial (oxygen-rich) and venous (oxygen-poor) blood provided this link.{{refn| {{harvtxt|Huettel|Song|McCarthy|2009|pp=198&ndash;200, 208&ndash;211}} }}
+
+Since the 1890s it has been known that changes in [[blood flow]] and blood oxygenation in the [[brain]] (collectively known as [[hemodynamics]]) are closely linked to neural activity.{{refn |{{harvtxt|Huettel|Song|McCarthy|2009|p=168}}; {{harvtxt|Roy|Sherrington|1890}} }} When neurons become active, local blood flow to those brain regions increases, and oxygen-rich (oxygenated) blood displaces oxygen-depleted (deoxygenated) blood around 2 seconds later. This rises to a peak over 4–6 seconds, before falling back to the original level (and typically undershooting slightly). Oxygen is carried by the [[hemoglobin]] molecule in [[red blood cells]]. Deoxygenated hemoglobin (dHb) is more magnetic ([[paramagnetism|paramagnetic]]) than oxygenated hemoglobin (Hb), which is virtually resistant to magnetism ([[diamagnetism|diamagnetic]]). This difference leads to an improved MR signal since the diamagnetic blood interferes with the magnetic MR signal less. This improvement can be mapped to show which neurons are active at a time.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=198&ndash;200, 208&ndash;211}} }}
+
+===History===
+Charles Roy and [[Charles Sherrington]] first experimentally linked brain function to its blood flow, at [[Cambridge University]].{{refn|{{harvtxt|Raichle|2000|p=39}} }} At around the same time, [[Angelo Mosso]] tried to measure blood flow to the active brain by asking a subject to lie on a finely balanced bench with its fulcrum in the middle, expecting increase in brain weight from blood flow to tilt the bench. He reported a positive result, though it was likely overstated. The first step to resolving how to measure blood flow to the brain was [[Linus Pauling]]'s and Charles Coryell's discovery in 1936 that oxygen-rich blood with Hb was weakly repelled by magnetic fields, while oxygen-depleted blood with dHb was attracted to a magnetic field, though less so than ferromagnetic elements such as iron. [[Seiji Ogawa]] at [[Bell Labs|AT&T Bell labs]] recognized that this could be used to augment MRI, which could study just the static structure of the brain, since the differing magnetic properties of dHb and Hb caused by blood flow to activated brain regions would cause measurable changes in the MRI signal. BOLD is the MRI contrast of dHb, discovered in 1990 by Ogawa. In a seminal 1990 study based on earlier work by Thulborn et al., Ogawa and colleagues scanned rodents in a strong magnetic field (7.0&nbsp;T) MRI. To manipulate blood oxygen level, they changed the proportion of oxygen the animals breathed. As this proportion fell, a map of blood flow in the brain was seen in the MRI. They verified this by placing test tubes with oxygenated or deoxygenated blood and creating separate images. They also showed that gradient-echo images, which depend on a form of loss of magnetization called T<sub>2</sub><sup>*</sup> decay, produced the best images. To show these blood flow changes were related to functional brain activity, they changed the composition of the air breathed by rats, and scanned them while monitoring brain activity with EEG.{{refn| {{harvtxt|Logothetis|2008|p=S3}}; {{harvtxt|Ogawa|Lee|Nayak|Glynn|1990}} }} The first attempt to detect the regional brain activity using MRI was performed by Belliveau and others at [[Harvard University]] using the contrast agent Magnevist, a ferromagnetic substance remaining in the bloodstream after intravenous injection. However, this method is not popular in human fMRI, because any medically unnecessary injection is to a degree unsafe and uncomfortable, and because the agent stays in the blood only for a short time. {{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=204–5}} }}
+
+Three studies in 1992 were the first to explore using the BOLD contrast in humans. Kwong and colleagues, used a gradient-echo EPI sequence at a magnetic field strength of 1.5 T to study activation in the [[visual cortex]]. Ogawa and others conducted the study using a higher field (4.0 T) and showed that the BOLD signal depended on T2* loss of magnetization. T2* decay is caused by magnetized nuclei in a volume of space losing magnetic coherence (transverse magnetization) from both bumping into one another and from intentional differences in applied magnetic field strength across locations (field inhomogeneity from a spatial gradient). Bandettini and colleagues used EPI at 1.5 T to show activation in the primary motor cortex, a brain area the last stage of the circuitry controlling voluntary movements. The magnetic fields, pulse sequences and procedures and techniques used by these early studies are still used in current-day fMRI studies. But today researchers typically collect data from more slices (using stronger magnetic gradients), and preprocess and analyze data using statistical techniques.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=205–208}} }}
+
+===Physiology===
+The brain does not store glucose, the primary source of its energy. When neurons go active, getting them back to their original (polarized) state requires actively pumping ions back and forth across the neuronal cell membranes. The energy for these motor pumps is produced from glucose. More blood flows in to transport more glucose, also bringing in more oxygen in the form of oxygenated hemoglobin molecules in red blood cells. This is from both a higher rate of blood flow and an expansion of blood vessels. The blood-flow change is localized to within 2 or 3&nbsp;mm of where the neural activity is. Usually the brought-in oxygen is more than the oxygen consumed in burning glucose (it is not yet settled whether most glucose consumption is oxidative), and this causes a net decrease in dHb in that brain area's blood vessels. This changes the magnetic property of the blood, making it interfere less with the magnetization and its eventual decay induced by the MRI process.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=6–7}} }}
+
+The cerebral blood flow (CBF) corresponds differently to the consumed glucose in different brain regions. Initial results show there is more inflow than consumption of glucose in regions such as the [[amygdala]], [[basal ganglia]], [[thalamus]] and [[cingulate cortex]], all of which are recruited for fast responses. In regions that are more deliberative, such as the lateral [[frontal lobe|frontal]] and lateral [[parietal lobe|parietal]] lobes, it seems that incoming flow is less than consumption. This affects BOLD sensitivity.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|p=199}} }}
+
+Hemoglobin differs in how it responds to magnetic fields, depending on whether it has a bound oxygen molecule. The dHb molecule is more attracted to magnetic fields. Hence, it distorts the surrounding magnetic field induced by an MRI scanner, causing the nuclei there to lose magnetization faster via the T<sub>2</sub><sup>*</sup> decay. Thus MR pulse sequences sensitive to T<sub>2</sub><sup>*</sup> show more MR signal where blood is highly oxygenated and less where it is not. This effect increases with the square of the strength of the magnetic field. The fMRI signal hence needs both a strong (1.5&nbsp;T or higher) magnetic field and a pulse sequence such as EPI, which is sensitive to T<sub>2</sub><sup>*</sup> contrast.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|p=194}} }}
+
+The physiological blood-flow response largely decides the temporal sensitivity, that is how well we can measure when neurons are active, in BOLD fMRI. The basic time resolution parameter is the TR, which dictates how often a particular brain slice is excited and allowed to lose its magnetization.  TRs could vary from the very short (500&nbsp;ms) to the very long (3&nbsp;s). For fMRI specifically, the hemodynamic response lasts over 10 seconds, rising multiplicatively (that is, as a proportion of current value), peaking at 4 to 6 seconds, and then falling multiplicatively. Changes in the blood-flow system, the vascular system, integrate responses to neuronal activity over time. Because this response is a smooth continuous function, sampling with ever-faster TRs does not help; it just gives more points on the response curve obtainable by simple linear interpolation anyway. Experimental paradigms such as staggering when a stimulus is presented at various trials can improve temporal resolution, but reduces the number of effective data points obtained.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=220–229}} }}
+
+==BOLD hemodynamic response==
+The change in the MR signal from neuronal activity is called the hemodynamic response (HDR). It lags the neuronal events triggering it by 1 to 2&nbsp;seconds, since it takes that long for the vascular system to respond to the brain's need for glucose. From this point it typically rises to a peak at about 5&nbsp;seconds after the stimulus. If the neurons keep firing, say from a continuous stimulus, the peak spreads to a flat plateau while the neurons stay active. After activity stops, the BOLD signal falls below the original level, the baseline, a phenomenon called the undershoot. Over time the signal recovers to the baseline. There is some evidence continuous metabolic requirements in a brain region contribute to the undershoot.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=208&ndash;214}} }}
+
+The mechanism by which the neural system provides feedback to the vascular system of its need for more glucose is partly the release of glutamate as part of neuron firing. This glutamate affects nearby supporting cells, [[astrocytes]], causing a change in [[calcium]] ion concentration. This, in turn, releases [[nitric oxide]] at the contact point of astrocytes and intermediate-sized blood vessels, the [[arterioles]]. Nitric oxide is a [[vasodilator]] causing arterioles to expand and draw in more blood.{{refn|{{harvtxt|Ogawa|Sung|2007}} }}
+
+A single voxel's response signal over time is called its timecourse. Typically, the unwanted signal called the noise, from the scanner, random brain activity and similar elements, is as big as the signal itself. To eliminate these, fMRI studies repeat a stimulus presentation multiple times.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=243&ndash;45}} }}
+
+===Spatial resolution===
+Spatial resolution of an fMRI study refers to how well it discriminates between nearby locations. It is measured by the size of voxels, as in MRI. A voxel is a three-dimensional rectangular cuboid, whose dimensions are set by the slice thickness, the area of a slice, and the grid imposed on the slice by the scanning process. Full-brain studies use larger voxels, while those that focus on specific regions of interest typically use smaller sizes. Sizes range from 4 to 5&nbsp;mm to 1&nbsp;mm. Smaller voxels contain fewer neurons on average, incorporate less blood flow, and hence have less signal than larger voxels. Smaller voxels also take longer to scan, since scanning time directly rises with the number of voxels per slice and the number of slices. This can lead both to discomfort for the subject inside the scanner and to loss of the magnetization signal. A voxel typically contains a few million neurons and tens of billions of [[synapses]], with the actual number depending on voxel size and the area of the brain being imaged.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=214&ndash;220}} }}
+
+The vascular arterial system supplying fresh blood branches into smaller and smaller vessels as it enters the brain surface and within-brain regions, culminating in a connected [[capillary]] bed within the brain. The drainage system, similarly, merges into larger and larger [[veins]] as it carries away oxygen-depleted blood. The dHb contribution to the fMRI signal is from both the capillaries near the area of activity and larger draining veins that may be farther away. For good spatial resolution, the signal from the large veins needs to be suppressed, since it does not correspond to the area where the neural activity is. This can be achieved either by using strong static magnetic fields or by using spin-echo pulse sequences.{{refn|{{harvtxt|Logothetis|2008|pp=S4&ndash;S6}} }} With these, fMRI can examine a spatial range from millimeters to centimeters, and can hence identify [[Brodmann areas]] (centimers), subcortical nuclei such as the [[Caudate nucleus|caudate]], [[putamen]] and thalamus, and hippocampal subfields such as the combined [[dentate gyrus]]/[[Cornu Ammonis regions 3|CA3]], [[Cornu Ammonis area1|CA1]], and [[subiculum]].{{refn|{{harvtxt|Carr|Rissman|Wagner|2010}} }}
+
+===Temporal resolution===
+Temporal resolution is the smallest time period of neural activity reliably separated out by fMRI. One element deciding this is the sampling time, the TR. Below a TR of 1 or 2&nbsp;seconds, however, scanning just generates sharper HDR curves, without adding much information beyond what mathematically filling in the gaps of the curve produced by a higher TR would. Temporal resolution can be improved by staggering stimulus presentation across trials. If one-third of data trials are sampled normally, one-third at 1&nbsp;s, 4&nbsp;s, 7&nbsp;s and so on, and the last third at 2&nbsp;s, 5&nbsp;s and 8&nbsp;s, the combined data provide a resolution of 1&nbsp;s, though with only one-third as many total events.
+
+The time resolution needed depends on brain processing time for various events. An example of the broad range here is given by the visual processing system. What the eye sees is registered on the photoreceptors of the retina within a millisecond or so. These signals get to the primary visual cortex via the thalamus in tens of milliseconds. Neuronal activity related to the act of seeing lasts for more than 100&nbsp;ms. A fast reaction, such as swerving to avoid a car crash, takes around 200&nbsp;ms. By about half-a-second, awareness and reflection of the incident sets in. Remembering a similar event may take a few seconds, and emotional or physiological changes such as fear arousal may last minutes or hours. Learned changes, such as recognizing faces or scenes, may last days, months, or forever. Most fMRI experiments study brain processes lasting a few seconds, with the study conducted over some tens of minutes. Subjects may move their heads during that time, and this head motion needs to be corrected for. So does drift in the baseline signal over time. Boredom and learning may modify both subject behavior and cognitive processes.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=220&ndash;29}} }}
+
+===Linear addition from multiple activation===
+When a person performs two tasks simultaneously or in overlapping fashion, the BOLD response is expected to add linearly. This is a fundamental assumption of many fMRI studies. Linear addition means the only operation allowed on the individual responses before they are combined (added together) is a separate scaling of each. Since scaling is just multiplication by a constant number, this means an event that evokes, say, twice the neural response as another, can be modeled as the first event presented twice simultaneously. The HDR for the doubled-event is then just double that of the single event.
+
+This strong assumption was first studied in 1996 by Boynton and colleagues, who checked the effects on the primary visual cortex of patterns flickering 8&nbsp;times a second and presented for 3 to 24&nbsp;seconds. Their result showed that when visual contrast of the image was increased, the HDR shape stayed the same but its amplitude increased proportionally. With some exceptions, responses to longer stimuli could also be inferred by adding together the responses for multiple shorter stimuli summing to the same longer duration. In 1997, Dale and Buckner tested whether individual events, rather than blocks of some duration, also summed the same way, and found they did. But they also found deviations from the linear model at time intervals less than 2&nbsp;seconds.
+
+A source of nonlinearity in the fMRI response is from the refractory period, where brain activity from a presented stimulus suppresses further activity on a subsequent, similar, stimulus. As stimuli become shorter, the refractory period becomes more noticeable. The refractory period does not change with age, nor do the amplitudes of HDRs. The period differs across brain regions. In both the [[primary motor cortex]] and the visual cortex, the HDR ampltiude scales linearly with duration of a stimulus or response. In the corresponding secondary regions, the [[supplementary motor cortex]], which is involved in planning motor behavior, and the motion-sensitive V5 region, a strong refractory period is seen and the HDR amplitude stays steady across a range of stimulus or response durations. The refractory effect can be used in a way similar to [[habituation]] to see what features of a stimulus a person discriminates as new.{{refn |
+{{harvtxt|Huettel|Song|McCarthy|2009|pp=229–37}} }}
+
+==Matching neural activity to the BOLD signal==
+Researchers have checked the BOLD signal against both signals from implanted electrodes (mostly in monkeys) and signals of field potentials (that is the electric or magnetic field from the brain's activity, measured outside the skull) from [[EEG]] and [[Magnetoencephalography|MEG]]. The local field potential, which includes both post-neuron-synaptic activity and internal neuron processing, better predicts the BOLD signal. So the BOLD contrast reflects mainly the inputs to a neuron and the neuron's integrative processing within its body, and less the output firing of neurons. In humans, electrodes can be implanted only in patients who need surgery as treatment, but evidence suggests a similar relationship at least for the [[auditory cortex]] and the primary visual cortex. Activation locations detected by BOLD fMRI in cortical areas (brain surface regions) are known to tally with CBF-based functional maps from [[PET scans]]. Some regions just a few millimeters in size, such as the [[lateral geniculate nucleus]] (LGN) of the thalamus, which relays what we see from the eye to the visual cortex, have been shown to generate the BOLD signal correctly when presented with visual input. Nearby regions such as the [[pulvinar nucleus]] were not stimulated for this task, indicating millimeter resolution for the spatial extent of the BOLD response, at least in thalamic nuclei. In the rat brain, single-whisker touch has been shown to elicit BOLD signals from the [[somatosensory cortex]].{{refn| {{harvtxt|Kim|Lee|Goodyear|Silva|2000|pp=109&ndash;110}} }}
+
+However, the BOLD signal cannot separate feedback and feedforward active networks in a region; the slowness of the vascular response means the final signal is the summed version of the whole region's network; blood flow is not in spurts as the processing proceeds. Also, both inhibitory and excitatory input to a neuron from other neurons sum and contribute to the BOLD signal. Within a neuron they might cancel out.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=209&ndash;210}} }} The BOLD response can also be affected by a variety of factors, including disease, sedation, anxiety, medications that dilate blood vessels,{{refn|{{harvtxt|Bulte|2006|p=48}} }} and attention (neuromodulation){{refn|{{harvtxt|Logothetis|2008|p=S7&ndash;S8}} }}.
+
+The amplitude of the BOLD signal does not necessarily affect its shape. A higher-amplitude signal may be seen for stronger neural activity, but peaking at the same place as a weaker signal. Also, the amplitude does not necessarily reflect behavioral performance. A complex cognitive task may initially trigger high-amplitude signals associated with good performance, but as the subject gets better at it, the amplitude may come down with performance staying the same. This is expected to be from the brain more efficiently marshaling neurons to perform the task, decreasing wasteful energy expenditure.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=209&ndash;210}} }} The BOLD response across brain regions cannot be compared directly even for the same task, since the density of neurons and the blood-supply characteristics are not constant across the brain. However, the BOLD response can often be compared across subjects for the same brain region and the same task.{{refn|{{harvtxt|Kim|Lee|Goodyear|Silva|2000|pp=107&ndash;109}} }}
+
+==Clinical use==
+Physicians use fMRI to assess how risky brain surgery or similar invasive treatment is for a patient and to learn how a normal, diseased or injured brain is functioning. They map the brain with fMRI to identify regions linked to critical functions such as speaking, moving, sensing, or planning. This is useful to plan for surgery and radiation therapy of the brain. Clinicians also use fMRI to anatomically map the brain and detect the effects of tumors, stroke, head and brain injury, or diseases such as [[Alzheimer's]].{{refn| {{harv|Functional MR Imaging (fMRI) - Brain|2011}} }}
+[[File:100325 RS88UH 11 qc.gif| thumbnail|left|FMRI image of the brain of a participant in the [[Personal Genome Project]].]]
+Clinical use of fMRI still lags behind research use.{{refn|{{harvtxt|Rombouts|Barkhof|Sheltens|2007|p=1}} }} Patients with brain pathologies are more difficult to scan with fMRI than are young healthy volunteers, the typical research-subject population. Tumors and lesions can change the blood flow in ways not related to neural activity, masking the neural HDR. Drugs such as [[antihistamines]] and even [[caffeine]] can affect HDR.{{refn|{{harvtxt|Rombouts|Barkhof|Sheltens|2007|pp=4–5}} }} Some patients may be suffering from disorders such as compulsive lying, which makes certain studies impossible.{{refn|{{harvtxt|Rombouts|Barkhof|Sheltens|2007|p=10}} }} It is harder for those with clinical problems to stay still for long. Using head restraints or bite bars may injure epileptics who have a seizure inside the scanner; bite bars may also discomfit those with dental prostheses.{{refn|{{harvtxt|Rombouts|Barkhof|Sheltens|2007|p=14}} }}
+
+Despite these difficulties, fMRI has been used clinically to map functional areas, check left-right hemispherical asymmetry in language and memory regions, check the neural correlates of a seizure, study how the brain recovers partially from a stroke, test how well a drug or [[behavioral therapy]] works, detect the onset of Alzheimer's, and note the presence of disorders like depression. Mapping of functional areas and understanding lateralization of language and memory help surgeons avoid removing critical brain regions when they have to operate and remove brain tissue.  This is of particular importance in removing tumors and in patients who have intractable [[temporal lobe]] epilepsy. Lesioning tumors requires pre-surgical planning to ensure no functionally useful tissue is removed needlessly. Recovered depressed patients have shown altered fMRI activity in the cerebellum, and this may indicate a tendency to relapse. Pharmacological fMRI, assaying brain activity after drugs are administered, can be used to check how much a drug penetrates the [[blood–brain barrier]] and dose vs effect information of the medication.{{refn|{{harvtxt|Rombouts|Barkhof|Sheltens|2007|pp=18–26}} }}
+
+==Analyzing the data==
+The goal of fMRI data analysis is to detect correlations between brain activation and a task the subject performs during the scan. It also aims to discover correlations with the specific cognitive states, such as memory and recognition, induced in the subject.{{refn|{{harvtxt|Logothetis|2008}} }} The BOLD signature of activation is relatively weak, however, so other sources of noise in the acquired data must be carefully controlled. This means that a series of processing steps must be performed on the acquired images before the actual statistical search for task-related activation can begin.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=243&ndash;244}} }}
+
+===Sources of noise===
+Noise is unwanted changes to the MR signal from elements not of interest to the study. The five main sources of noise in fMRI are thermal noise, system noise, physiological noise, random neural activity and differences in both mental strategies and behavior across people and across tasks within a person. Thermal noise multiplies in line with the static field strength, but physiological noise multiplies as the square of the field strength. Since the signal also multiplies as the square of the field strength, and since physiological noise is a large proportion of total noise, higher field strengths above 3&nbsp;T do not always produce proportionately better images.
+
+Heat causes electrons to move around and distort the current in the fMRI detector, producing thermal noise. Thermal noise rises with the temperature. It also depends on the range of frequencies detected by the receiver coil and its electrical resistance. It affects all voxels similarly, independent of anatomy.{{refn| {{harvtxt|Huettel|Song|McCarthy|2009|pp=256–8}} }}
+
+System noise is from the imaging hardware. One form is scanner drift, caused by the superconducting magnet's field drifting over time. Another form is changes in the current or voltage distribution of the brain itself inducing changes in the receiver coil and reducing its sensitivity. A procedure called impedance matching is used to bypass this inductance effect. There could also be noise from the magnetic field not being uniform. This is often adjusted for by using shimming coils, small magnets physically inserted, say into the subject's mouth, to patch the magnetic field. The nonuniformities are often near brain sinuses such as the ear and plugging the cavity for long periods can be discomfiting. The scanning process acquires the MR signal in k-space, in which overlapping spatial frequencies (that is repeated edges in the sample's volume) are each represented with lines. Transforming this into voxels introduces some loss and distortions.{{refn| {{harvtxt|Huettel|Song|McCarthy|2009|pp=258–9}} }}
+
+Physiological noise is from head and brain movement in the scanner from breathing, heart beats, or the subject fidgeting, tensing, or making physical responses such as button presses. Head movements cause the voxel-to-neurons mapping to change while scanning is in progress. Since fMRI is acquired in slices, after movement, a voxel continues to refer to the same absolute location in space while the neurons underneath it would have changed. Another source of physiological noise is the change in the rate of blood flow, blood volume, and use of oxygen over time. This last component contributes to two-thirds of physiological noise, which, in turn, is the main contributor to total noise.{{refn| {{harvtxt|Huettel|Song|McCarthy|2009|pp=259–62}} }}
+
+Even with the best experimental design, it is not possible to control and constrain all other background stimuli impinging on a subject&mdash;scanner noise, random thoughts, physical sensations, and the like. These produce neural activity independent of the experimental manipulation. These are not amenable to mathematical modeling and have to be controlled by the study design.
+
+A person's strategies to respond or react to a stimulus, and to solve problems, often change over time and over tasks. This generates variations in neural activity from trial to trial within a subject. Across people too neural activity differs for similar reasons. Researchers often conduct pilot studies to see how participants typically perform for the task under consideration. They also often train subjects how to respond or react in a trial training session prior to the scanning one.{{refn| {{harvtxt|Huettel|Song|McCarthy|2009|pp=262–7}}; {{harvtxt|Lindquist|2008}} }}
+
+===Preprocessing===
+The scanner platform generates a 3&nbsp;D volume of the subject's head every TR. This consists of an array of voxel intensity values, one value per voxel in the scan. The voxels are arranged one after the other, unfolding the three-dimensional structure into a single line. Several such volumes from a session are joined together to form a 4&nbsp;D volume corresponding to a run, for the time period the subject stayed in the scanner without adjusting head position. This 4&nbsp;D volume is the starting point for analysis. The first part of that analysis is preprocessing.
+
+The first step in preprocessing is conventionally slice timing correction. The MR scanner acquires different slices within a single brain volume at different times, and hence the slices represent brain activity at different timepoints. Since this complicates later analysis, a timing correction is applied to bring all slices to the same timepoint reference. This is done by assuming the timecourse of a voxel is smooth when plotted as a dotted line. Hence the voxel's intensity value at other times not in the sampled frames can be calculated by filling in the dots to create a continuous curve.
+
+Head motion correction is another common preprocessing step. When the head moves, the neurons under a voxel move and hence its timecourse now represents largely that of some other voxel in the past. Hence the timecourse curve is effectively cut and pasted from one voxel to another. Motion correction tries different ways of undoing this to see which undoing of the cut-and-paste produces the smoothest timecourse for all voxels. The undoing is by applying a rigid-body transform to the volume, by shifting and rotating the whole volume data to account for motion. The transformed volume is compared statistically to the volume at the first timepoint to see how well they match, using a cost function such as [[correlation]] or [[mutual information]]. The transformation that gives the minimal cost function is chosen as the model for head motion. Since the head can move in a vastly varied number of ways, it is not possible to search for all possible candidates; nor is there right now an algorithm that provides a globally optimal solution independent of the first transformations we try in a chain.
+
+Distortion corrections account for field nonuniformities of the scanner. One method, as described before, is to use shimming coils. Another is to recreate a field map of the main field by acquiring two images with differing echo times. If the field were uniform, the differences between the two images also would be uniform. Note these are not true preprocessing techniques since they are independent of the study itself. Bias field estimation is a real preprocessing technique using mathematical models of the noise from distortion, such as [[Markov random fields]] and [[expectation maximization]] algorithms, to correct for distortion.
+
+In general, fMRI studies acquire both many functional images with fMRI and a structural image with MRI. The structural image is usually of a higher resolution and depends on a different signal, the T1 magnetic field decay after excitation. To demarcate regions of interest in the functional image, one needs to align it with the structural one. Even when whole-brain analysis is done, to interpret the final results, that is to figure out which regions the active voxels fall in, one has to align the functional image to the structural one. This is done with a coregistration algorithm that works similar to the motion-correction one, except that here the resolutions are different, and the intensity values cannot be directly compared since the generating signal is different.
+
+Typical MRI studies scan a few different subjects. To integrate the results across subjects, one possibility is to use a common brain atlas, and adjust all the brains to align to the atlas, and then analyze them as a single group. The atlases commonly used are the Talairach one, a single brain of an elderly woman created by [[Jean Talairach]], and the [[Montreal Neurological Institute]] (MNI) one. The second is a probabilistic map created by combining scans from over a hundred individuals. This normalization to a standard template is done by mathematically checking which combination of stretching, squeezing, and warping reduces the differences between the target and the reference. While this is conceptually similar to motion correction, the changes required are more complex than just translation and rotation, and hence optimization even more likely to depend on the first transformations in the chain that is checked.
+
+Temporal filtering is the removal of frequencies of no interest from the signal. A voxel's intensity change over time can be represented as the sum of a number of different repeating waves with differing periods and heights. A plot with these periods on the x-axis and the heights on the y-axis is called a [[power spectrum]], and this plot is created with the [[Fourier transform]] technique. Temporal filtering amounts to removing the periodic waves not of interest to us from the power spectrum, and then summing the waves back again, using the [[inverse Fourier transform]] to create a new timecourse for the voxel. A high-pass filter removes the lower frequencies, and the lowest frequency that can be identified with this technique is the reciprocal of twice the TR. A low-pass filter removes the higher frequencies, while a band-pass filter removes all frequencies except the particular range of interest.
+
+Smoothing, or spatial filtering, is the idea of averaging the intensities of nearby voxels to produce a smooth spatial map of intensity change across the brain or region of interest. The averaging is often done by [[convolution]] with a [[Gaussian filter]], which, at every spatial point, weights neighboring voxels by their distance, with the weights falling exponentially following the [[Normal distribution|bell curve]]. If the true spatial extent of activation, that is the spread of the cluster of voxels simultaneously active, matches the width of the filter used, this process improves the [[signal-to-noise ratio]]. It also makes the total noise for each voxel follow a bell-curve distribution, since adding together a large number of independent, identical distributions of any kind produces the bell curve as the limit case. But if the presumed spatial extent of activation does not match the filter, signal is reduced.{{refn |
+ Preprocessing is summarized from {{harvtxt|Huettel|Song|McCarthy|2009|pp=267&ndash;289}}, modified by the newer review by {{harvtxt|Lindquist|2008|pp=11&ndash;13}}.
+}}
+
+===Statistical analysis===
+[[File:Haxby2001.jpg|right|thumb|400px|alt=fMRI images from a study showing parts of the brain lighting up on seeing houses and other parts on seeing faces|These fMRI images are from a study showing parts of the brain lighting up on seeing houses and other parts on seeing faces. The 'r' values are correlations, with higher positive or negative values indicating a better match.]]
+One common statistical model used for fMRI data analysis is the univariate GLM model, which analyzes each voxel's data separately. The model assumes, at every time point, the HDR is equal to the scaled and summed version of the events active at that point. A researcher creates a design matrix specifying which events are active at any timepoint. One common way is to create a matrix with one column per overlapping event, and one row per time point, and to mark it with a one if a particular event, say a stimulus, is active at that time point. One then assumes a specific shape for the HDR, leaving only its amplitude changeable in active voxels. The design matrix and this shape are used to generate a prediction of the exact HDR response of the voxel at every timepoint, using the mathematical procedure of [[convolution]]. This prediction does not include the scaling required for every event before summing them.
+
+The basic model assumes the observed HDR is the predicted HDR scaled by the weights for each event and then added, with noise mixed in. This generates a set of linear equations with more equations than unknowns. A linear equation has an exact solution, under most conditions, when equations and unknowns match. Hence one could choose any subset of the equations, with the number equal to the number of variables, and solve them. But, when these solutions are plugged into the left-out equations, there will be a mismatch between the right and left sides, the error. The GLM model attempts to find the scaling weights that minimize the sum of the squares of the error. This method is provably optimal if the error were distributed as a bell curve, and if the [[linear model|scaling-and-summing model]] were accurate. For a more mathematical description of the GLM model, see [[generalized linear models]].
+
+The GLM model does not take into account any relationships between voxels. Neighboring voxels are likely to go active or inactive together, partly because neuronal networks do not exist as islands, partly because blood flood is not necessarily totally localized to the active neurons but spreads out, and partly because some preprocessing procedures such as smoothing intentionally correlate neighboring voxels.  Newer statistical models such as multivariate pattern analysis (MVPA), sometimes termed multivoxel pattern analysis, take a different approach, utilizing relationships across voxels. They take the entire voxel data set, and split it up by the various conditions in the experiment. They learn a training model summarizing the information in the voxels that best help discriminate between the conditions. They can then be run on test data to classify which condition is represented by those particular brain activity patterns. If the classifier is linear, then the training model is a set of weights used to scale the value in each voxel before summing them to generate a single number that tells us the condition associated with the data set. More information on training and testing classifiers is at [[statistical classification]].{{refn |
+ For the basic GLM model, see the description by {{harvtxt|Huettel|Song|McCarthy|2009|pp=343&ndash;256}}. MVPA and multivoxel pattern classification are covered in the same text in pp. 408&ndash;415.}}
+
+==Combining with other methods==
+
+It is common to combine fMRI signal acquisition with tracking of participants' responses and reaction times. Physiological measures such heart rate, breathing, skin conductance (rate of sweating), and eye movements are sometimes captured simultaneously with fMRI.{{refn|{{harv|About fMRI methods: frequently asked questions|2009}} }} The method can also be combined with other brain-imaging techniques such as [[Transcranial magnetic stimulation|transcranial stimulation]], [[direct cortical stimulation]] and, especially, [[EEG]].{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|p=449}} }} The fMRI procedure can also be combined with [[Near infrared spectroscopy]] (NIRS) to have supplementary information about both oxyhemoglobin and deoxyhemoglobin.
+
+Animals could also serve as subjects, primarily monkeys such as the [[rhesus macaque]]. These studies can be used both to check or predict human results and to validate the fMRI technique itself. But the studies are difficult because it is hard to motivate an animal to stay still and typical inducements such as juice trigger head movement while the animal swallows it. It is also expensive to maintain a colony of larger animals such as the macaque.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=476–80}} }}
+
+The fMRI technique can complement or supplement other techniques because of its unique strengths and gaps. It can noninvasively record brain signals without risks of ionising radiation inherent in other scanning methods, such as [[Computed tomography|CT]] or [[Positron emission tomography|PET]] scans.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|p=4}}; {{harvtxt|Logothetis|2008}} }} It can also record signal from all regions of the brain, unlike EEG/MEG, which are biased toward the cortical surface.{{refn|{{harvtxt|Ilmoniemi|Aronen|2000|p=454}}}} But fMRI temporal resolution is poorer than that of EEG since the HDR takes tens of seconds to climb to its peak. Combining EEG with fMRI is hence potentially powerful because the two have complementary strengths&mdash;EEG has high temporal resolution, and fMRI high spatial resolution. But simultaneous acquisition needs to account for the EEG signal from varying blood flow triggered by the fMRI gradient field, and the EEG signal from the static field.{{refn |{{harvtxt|Huettel|Song|McCarthy|2009|p=449}} }} For details, see [[EEG#EEG vs fMRI and PET|EEG vs fMRI]].
+
+==Risks==
+
+The most common risk to participants in an fMRI study is claustrophobia{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|p=53}} }}and there are reported risks for pregnant women to go through the scanning process.{{refn|{{harvtxt|Sahito|Slany|2012|p=60}} }} Scanning sessions also subject participants to loud high-pitched noises from [[Lorentz forces]] induced in the gradient coils by the rapidly switching current in the powerful static field. The gradient switching can also induce currents in the body causing nerve tingling. Implanted medical devices such as [[Cardiac pacemaker|pacemakers]] could malfunction because of these currents. The radio-frequency field of the excitation coil may heat up the body, and this has to be monitored more carefully in those running a fever, the diabetic, and those with circulatory problems. Local burning from metal necklaces and other jewelry is also a risk.{{refn|{{harvtxt|Huettel|Song|McCarthy|2009|pp=50–52}} }}
+
+While the strong static magnetic field has no known long-term harmful effect on biological tissue, it can cause damage by pulling in nearby heavy metal objects converting them to projectiles.{{refn| {{harvtxt|Huettel|Song|McCarthy|2009|p=44}} }}
+
+==Advanced methods==
+The first fMRI studies validated the technique against brain activity known, from other techniques, to be correlated to tasks. By the early 2000s, fMRI studies began to discover novel correlations. Still their technical disadvantages have spurred researchers to try more advanced ways to increase the power of both clinical and research studies.
+
+===Better spatial resolution===
+MRI, in general, has better spatial resolution than EEG and MEG, but not as good a resolution as invasive procedures such as single-unit electrodes. While typical resolutions are in the millimeter range, ultra-high-resolution MRI or MR spectroscopy works at a resolution of tens of micrometers. It uses 7&nbsp;T fields, small-bore scanners that can fit small animals such as rats, and external contrast agents such as fine iron oxide. Fitting a human requires larger-bore scanners, which make higher fields strengths harder to achieve, especially if the field has to be uniform; it also requires either internal contrast such as BOLD or a non-toxic external contrast agent unlike iron oxide.
+
+Parallel imaging is another technique to improve spatial resolution. This uses multiple coils for excitation and reception. Spatial resolution improves as the square root of the number of coils used. This can be done either with a phased array where the coils are combined in parallel and often sample overlapping areas with gaps in the sampling or with massive coil arrays, which are a much denser set of receivers separate from the excitation coils. These, however, pick up signals better from the brain surface, and less well from deeper structures such as the [[hippocampus]].
+
+===Better temporal resolution===
+Temporal resolution of fMRI is limited by: (1) the feedback mechanism that raises the blood flow operating slowly; (2) having to wait till net magnetization recovers before sampling a slice again; and (3) having to acquire multiple slices to cover the whole brain or region of interest. Advanced techniques to improve temporal resolution address these issues. Using multiple coils speeds up acquisition time in exact proportion to the coils used. Another technique is to decide which parts of the signal matter less and drop those. This could be either those sections of the image that repeat often in a spatial map (that is small clusters dotting the image periodically) or those sections repeating infrequently (larger clusters). The first, a high-pass filter in k-space, has been proposed by [[Gary H. Glover]] and colleagues at [[Stanford]]. These mechanisms assume the researcher has an idea of the expected shape of the activation image.
+
+Typical gradient-echo EPI uses two gradient coils within a slice, and turns on first one coil and then the other, tracing a set of lines in k-space. Turning on both gradient coils  can generate angled lines, which cover the same grid space faster. Both gradient coils can also be turned on in a specific sequence to trace a spiral shape in k-space. This spiral imaging sequence acquires images faster than gradient-echo sequences, but needs more math transformations (and consequent assumptions) since converting back to voxel space requires the data be in grid form (a set of equally spaced points in both horizontal and vertical directions).
+
+===New contrast mechanisms===
+BOLD contrast depends on blood flow, which is both slowly changing and subject to noisy influences. Other biomarkers now looked at to provide better contrast include temperature, acidity/alkalinity (pH), calcium-sensitive agents, neuronal magnetic field, and the Lorentz effect. Temperature contrast depends on changes in brain temperature from its activity. The initial burning of glucose raises the temperature, and the subsequent inflow of fresh, cold blood lowers it. These changes alter the magnetic properties of tissue. Since the internal contrast is too difficult to measure, external agents such [[thulium]] compounds are used to enhance the effect. Contrast based on pH depends on changes in the acid/alkaline balance of brain cells when they go active. This too often uses an external agent. Calcium-sensitive agents make MRI more sensitive to calcium concentrations, with calcium ions often being the messengers for [[cellular signalling]] pathways in active neurons. Neuronal magnetic field contrast measures the magnetic and electric changes from neuronal firing directly. Lorentz-effect imaging tries to measure the physical displacement of active neurons carrying an electric current within the strong static field.{{refn |{{harvtxt|Huettel|Song|McCarthy|2009|pp=420&ndash;40}}.}}
+
+==Commercial use==
+
+Some experiments have shown the neural correlates of peoples' brand preferences. [[Samuel M. McClure]] used fMRI to show the [[Dorsolateral prefrontal cortex]], hippocampus and [[midbrain]] were more active when people knowingly drank Coca Cola as opposed to when they drank unlabeled Coke.{{refn|{{harvtxt|Lowenberg|2008}}; {{harv|Brain scam?|2004}}; {{harvtxt|McClure|Li|Tomlin|Cypert|2004}} }}  Other studies have shown the brain activity that characterizes men's preference for sports cars, and even differences between Democrats and Republicans in their reaction to campaign commercials with images of the 9/11 attacks. Neuromarketing companies have seized on these studies as a better tool to poll user preferences than the conventional survey technique. One such company was BrightHouse,{{refn|{{harv|Brain scam?|2004}} }} now shut down{{refn| {{harvtxt|Lowenberg|2008}} }}. Another is Oxford, UK, based Neurosense,{{refn|{{harvtxt|Devlin|2012}} }} which advises clients how they could potentially use fMRI as part of their marketing business activity.{{refn|{{harv|Brain scam?|2004}} }} A third is Sales Brain in California.{{refn|{{harvtxt|Brammer|2004}} }}
+
+At least two companies have been set up to use fMRI in [[lie detection]]: [[No Lie MRI]] and the Cephos Corporation {{refn|{{harvtxt|Sahito|Slany|2012|p=57}} }}. No Lie MRI charges close to $5000 for its services. These companies depend on evidence such as that from a study by Joshua Greene at [[Harvard University]] suggesting the [[Prefrontal cortex]] is more active in those contemplating lying.{{refn|{{harvtxt|Narayan|2009}} }}
+
+However, there is still a fair amount of controversy over whether these techniques are reliable enough to be used in a legal setting {{refn|{{harvtxt|Sahito|Slany|2012|p=41}} }}. Some studies indicate that while there is an overall positive correlation, there is a great deal of variation between findings and in some cases considerable difficulty in replicating the findings.{{refn|{{harvtxt|Narayan|2009}} }} A federal magistrate judge in Tennessee prohibited fMRI evidence to back up a defendant's claim of telling the truth, on the grounds that such scans do not measure up to the legal standard of scientific evidence.{{refn|{{harvtxt|Miller|2010}} }}. Most researchers agree that the ability of fMRI to detect deception in a real life setting has not been established.<ref name=Langleben>Langleben, D. D., & Moriarty, J. C. (2012, September 17). Using Brain Imaging for Lie Detection: Where Science, Law, and Policy Collide. Psychology, Public Policy, and Law. Advance online publication. http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2139408, doi: 10.1037/a0028841</ref>{{refn|{{harvtxt|Narayan|2009}} }}
+
+==See also==
+* [[Brain Mapping]]
+* [[Issues in fMRI]]
+* [[Brain function]]
+* [[Event related fMRI]]
+* [[Signal enhancement by extravascular water protons|SEEP fMRI]]
+* [[List of neuroscience databases]]
+* [[Functional neuroimaging]]
+
+==Notes==
+{{reflist|3}}
+{{Reflist|group=lower-roman}}
+
+==References==
+<div style="padding-left: 2em; text-indent: -2em">
+<!-- Citation template; to add a reference copy, fill in needed fields and remove the rest. -->
+{{Citation
+  | first =
+  | last =
+  | first2 =
+  | last2 =
+  | title = Brain scam?
+  | isbn =
+  | publisher =
+  | url =  http://www.nature.com/neuro/journal/v7/n7/full/nn0704-683.html
+  | journal =  Nature Neuroscience
+  | volume = 7
+  | page = 683
+  | year = 2004
+  | doi = 10.1038/nn0704-683
+  | issue =7
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+  | ref = {{harvid|Brain scam?|2004}}
+}}
+
+{{Citation
+  | first = M.
+  | last = Brammer
+  | first2 =
+  | last2 =
+  | title = Correspondence: Brain scam?
+  | isbn =
+  | publisher =
+  | url = http://www.nature.com/neuro/journal/v7/n10/full/nn1004-1015.html
+  | journal = Nature Neuroscience
+  | volume = 7
+  | page = 1015
+  | year = 2004
+  | doi = 10.1038/nn1004-1015
+  | issue =10
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+}}
+
+{{Citation
+  | first = D.
+  | last = Bulte
+  | first2 =
+  | last2 =
+  | title = BOLD Physiology (Lecture slides)
+  | isbn =
+  | publisher = Center for FMRI of the Brain, University of Oxford
+  | url =  http://www.fmrib.ox.ac.uk/education/graduate-training-course/program/lectures/fundamentals/BOLD_lect_08.pdf
+  | journal =
+  | volume =
+  | pages =
+  | year = 2006
+  | doi =
+  | issue =
+  | bibcode =
+  | date =
+  | accessdate = December 31, 2011
+  | editor =
+}}
+
+{{Citation
+  | first = V. A.
+  | last = Carr
+  | first2 = J.
+  | last2 = Rissman
+  | first3 = A. D.
+  | last3 = Wagner
+  | title = Imaging the medial temporal lobe with high-resolution fMRI
+  | isbn =
+  | publisher =
+  | url = http://memorylab.stanford.edu/Publications/papers/CARR_NEURON10.pdf
+  | journal = Neuron
+  | volume = 65
+  | page = 298
+  | doi = 10.1016/j.neuron.2009.12.022
+  | issue =
+  | bibcode =
+  | date = 11 February 2010
+  | accessdate =
+  | editor =
+}}
+
+{{Citation
+  | first = H.
+  | last = Devlin
+  | first2 =
+  | last2 =
+  | title = Introduction to fMRI: Clinical and commercial use
+  | isbn =
+  | publisher = The Oxford Centre for Functional MRI of the Brain, University of Oxford, UK
+  | url = http://www.fmrib.ox.ac.uk/education/fmri/introduction-to-fmri/clinical-commercial-use/
+  | journal =
+  | volume =
+  | pages =
+  | year = 2012
+  | doi =
+  | issue =
+  | bibcode =
+  | date =
+  | accessdate = January 1, 2012
+  | editor =
+}}
+
+{{Citation
+  | first =
+  | last =
+  | first2 =
+  | last2 =
+  | title = Functional MR Imaging (fMRI) - Brain
+  | isbn =
+  | publisher = American College of Radiology & Radiological Society of North America
+  | url = http://www.radiologyinfo.org/en/info.cfm?pg=fmribrain
+  | journal =
+  | volume =
+  | pages =
+  | doi =
+  | issue =
+  | bibcode =
+  | date = May 24, 2011
+  | accessdate = December 30, 2011
+  | editor =
+  | ref = {{harvid|Functional MR Imaging (fMRI) - Brain|2011}}
+}}
+
+{{Citation
+  | first = S. A.
+  | last = Huettel
+  | first2 = A. W.
+  | last2 = Song
+  | first3 = G.
+  | last3 = McCarthy
+  | title = Functional Magnetic Resonance Imaging
+  | isbn = 978-0-87893-286-3
+  | publisher = Massachusetts: Sinauer
+  | url =
+  | journal =
+  | volume =
+  | pages =
+  | year = 2009
+  | doi =
+  | issue =
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+  | edition = 2
+}}
+
+{{Citation
+  | first = R. J.
+  | last = Ilmoniemi
+  | first2 = H. J.
+  | last2 = Aronen
+  | title = Medical Radiology: Diagnostic imaging, Functional MRI: Cortical excitability and connectivity reflected in fMRI, MEG, EEG, and TMS
+  | isbn = 3-540-67215-X
+  | publisher = Berlin: Springer
+  | url =
+  | journal =
+  | volume =
+  | pages =
+  | year = 2000
+  | doi =
+  | issue =
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor = Moonen, C. T. W., and Bandettini, P. A.
+}}
+
+{{Citation
+  | first = S. G.
+  | last = Kim
+  | first2 = S. P.
+  | last2 = Lee
+  | first3 = B.
+  | last3 = Goodyear
+  | first4 = A. C.
+  | last4 = Silva
+  | title = Medical Radiology: Diagnostic imaging, Functional MRI: Spatial resolution of BOLD and other fMRI techniques
+  | isbn = 3-540-67215-X
+  | publisher = Berlin: Springer
+  | url =
+  | journal =
+  | volume =
+  | pages =
+  | year = 2000
+  | doi =
+  | issue =
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor = Moonen, C. T. W., and Bandettini, P. A.
+}}
+
+{{Citation
+  | first = M. A.
+  | last = Lindquist
+  | first2 =
+  | last2 =
+  | title = The statistical analysis of fMRI data
+  | isbn =
+  | publisher =
+  | url =
+  | journal = Statistical Science
+  | volume = 23
+  | pages = 439–64
+  | year = 2008
+  | doi = 10.1214/09-STS282
+  | issue = 4
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+  | arxiv = 0906.3662
+}}
+
+{{Citation
+  | first = N. K.
+  | last = Logothetis
+  | first2 =
+  | last2 =
+  | title = What we can do and what we cannot do with fMRI
+  | isbn =
+  | publisher =
+  | url =
+  | journal = Nature
+  | volume = 453
+  | pages = 869–78
+  | doi = 10.1038/nature06976
+  | issue =
+  | bibcode =
+  | date = June 12, 2008
+  | accessdate =
+  | editor =
+}}
+
+{{Citation
+  | first = K.
+  | last = Lowenberg
+  | first2 =
+  | last2 =
+  | title = Neuro-Cola: Neuroscience’s ability to measure consumer preference
+  | isbn =
+  | publisher = Stanford Center for Law & the Biosciences Blog
+  | url = http://lawandbiosciences.wordpress.com/2008/10/07/neuro-cola-neuroscience%E2%80%99s-ability-to-measure-consumer-preference-part-1/
+  | journal =
+  | volume =
+  | pages =
+  | doi =
+  | issue =
+  | bibcode =
+  | date = October 7, 2008
+  | accessdate = January 1, 2012
+  | editor =
+}}
+
+{{Citation
+|last1=Mehagnoul-Schipper
+|first1=DJ
+|last2=van der Kallen
+|first2=BF
+|last3=Colier
+|first3=WNJM
+|last4=van der Sluijs
+|first4=MC
+|last5=van Erning
+|first5=LJ
+|last6=Thijssen
+|first6=HO
+|last7=Oeseburg
+|first7=B
+|last8=Hoefnagels
+|first8=WH
+|last9=Jansen
+|first9=RW
+|title=Simultaneous measurements of cerebral oxygenation changes during brain activation by near-infrared spectroscopy and functional magnetic resonance imaging in healthy young and elderly subjects.
+|volume=16
+|issue=1
+|pages=14–23
+|journal=Hum Brain Mapp
+| url = http://spin.ecn.purdue.edu/fmri/PDFLibrary/MehagnoulSchipperDJ_HBM_2002_16_14_23.pdf
+| doi = 10.1002/hbm.10026
+}}
+
+{{Citation
+  | first = S.
+  | last =  McClure
+  | first2 = J.
+  | last2 = Li
+  | first3 =  D.
+  | last3 = Tomlin
+  | first4 = K. S.
+  | last4 = Cypert
+  | first5 = L. M.
+  | last5 = Montague
+  | first6 = P. R.
+  | last6 = Montague
+  | title = Neural Correlates of Behavioral Preference for Culturally Familiar Drinks
+  | isbn =
+  | publisher =
+  | url = http://www.sciencedirect.com/science/article/pii/S0896627304006129#toc3
+  | journal = Neuron
+  | volume = 44
+  | pages = 379–387
+  | year = 2004
+  | doi = 10.1016/j.neuron.2004.09.019
+  | issue = 2
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+  | pmid=15473974
+}}
+
+{{Citation
+  | first = G.
+  | last = Miller
+  | first2 =
+  | last2 =
+  | title = fMRI lie detection fails a legal test
+  | isbn =
+  | publisher =
+  | url = http://www.sciencemag.org/content/328/5984/1336.1.summary?sid=eafe8dc6-d98f-49ac-afac-a43f2216c695
+  | journal = Science
+  | volume = 328
+  | page = 1336
+  | year = 2010
+  | doi = 10.1126/science.328.5984.1336-a
+  | issue = 5984
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+}}
+
+{{Citation
+  | first = A.
+  | last = Narayan
+  | first2 =
+  | last2 =
+  | title = The fMRI brain scan: A better lie detector?
+  | isbn =
+  | publisher = Time
+  | url = http://www.time.com/time/health/article/0,8599,1911546-1,00.html
+  | journal =
+  | volume =
+  | pages =
+  | doi =
+  | issue =
+  | bibcode =
+  | date = July 20, 2009
+  | accessdate = January 1, 2012
+  | editor =
+}}
+
+{{Citation
+  | first = S.
+  | last = Ogawa
+  | first2 = T. M.
+  | last2 = Lee
+  | first3 = A. S.
+  | last3 = Nayak
+  | first4 = P.
+  | last4 = Glynn
+  | title = Oxygenation-sensitive contrast in magnetic resonance image of rodent brain at high magnetic fields
+  | isbn =
+  | publisher =
+  | url =
+  | journal = Magnetic Resonance in Medicine
+  | volume = 14
+  | pages = 68–78
+  | year = 1990
+  | doi = 10.1002/mrm.1910140108
+  | issue = 1
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+  | pmid=2161986
+}}
+
+{{Citation
+  | first = S.
+  | last = Ogawa
+  | first2 = Y.
+  | last2 = Sung
+  | title =  Functional Magnetic Resonance Imaging
+  | isbn =
+  | publisher =
+  | url = http://www.scholarpedia.org/article/Functional_magnetic_resonance_imaging
+  | journal = Scholarpedia
+  | volume = 2
+  | page = 3105
+  | year = 2007
+  | doi = 10.4249/scholarpedia.3105
+  | issue = 10
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+}}
+
+{{Citation
+  | first = M. E.
+  | last = Raichle
+  | first2 =
+  | last2 =
+  | title = Brain mapping: the systems
+  | isbn = 978-0-12-692545-6
+  | publisher = London: Academic Press
+  | url = https://eselect.elsevier.com/e-book/brain-mapping-the-systems-prod3247.html
+  | journal =
+  | volume =
+  | pages =
+  | year = 2000
+  | doi =
+  | issue =
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor = Toga, A. W., and Mazziotta, J. C.
+}}
+
+{{Citation
+  | first = S. A. R. B.
+  | last = Rombouts
+  | first2 = F.
+  | last2 = Barkhof
+  | first3 = P.
+  | last3 = Sheltens
+  | title = Clinical applications of functional brain MRI
+  | isbn = 978-0-19-856629-8
+  | publisher = UK: Oxford University Press
+  | url =
+  | journal =
+  | volume =
+  | pages =
+  | year = 2007
+  | doi =
+  | issue =
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+}}
+
+{{Citation
+  | first = C. S.
+  | last = Roy
+  | first2 = C. S.
+  | last2 = Sherrington
+  | title =  On the regulation of the blood-supply of the brain
+  | isbn =
+  | publisher =
+  | url =
+  | journal = Journal of Physiology
+  | volume = 11
+  | pages = 85–158
+  | year = 1890
+  | doi =
+  | issue = 1-2
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+  | pmc = 1514242
+  | pmid=16991945
+}}
+
+{{Citation
+  | last = Langleben 
+  | first = D.D., et al
+  | title = Brain activity during simulated deception: an event-related functional magnetic resonance study.
+  | journal = Neuroimage
+  | volume = 15
+  | pages = 727–32
+  | year = 2002
+  | doi =
+  | issue = 3
+  |pmc = PMID 11848716
+}}
+
+{{Citation
+  | first = Farhan.
+  | last = Sahito
+  | first2 = Wolfgang.
+  | last2 = Slany
+  | title =  Functional Magnetic Resonance Imaging and the Challenge of Balancing Human Security with State Security
+  | isbn =
+  | publisher =European Training and Research Centre for Human Rights and Democracy (ETC), Graz, Austria
+  | url =http://www.isn.ethz.ch/isn/Digital-Library/Publications/Detail/?ord633=grp1&ots591=0c54e3b3-1e9c-be1e-2c24-a6a8c7060233&lng=en&id=152162
+  | journal = Human Security Perspectives 1 
+  | volume = 2012
+  | pages = 38–66
+  | year = 2012
+  | doi =
+  | issue = 1
+  | bibcode =
+  | date =
+  | accessdate =
+  | editor =
+  | pmc = 
+  | pmid=
+}}
+</div>
+
+===Textbooks===
+* Peter A. Rinck, ''An Introduction to Magnetic Resonance'', a Peer-Reviewed, Critical Introduction to Magnetic Resonance. The e-learning textbook of EMRF/TRTF http://www.magnetic-resonance.org 
+* Joseph P. Hornak, ''The basics of MRI'', http://www.cis.rit.edu/htbooks/mri/inside.htm
+* Richard B. Buxton, ''Introduction to functional magnetic resonance imaging: Principles and techniques'', Cambridge University Press, 2002, ISBN 0-521-58113-3
+* Roberto Cabeza and Alan Kingstone, Editors, ''Handbook of Functional Neuroimaging of Cognition, Second Edition'', MIT Press, 2006, ISBN 0-262-03344-5
+
+==External links==
+* [http://www.mri-tutorial.com www.mri-tutorial.com]- MRI-TUTORIAL.COM | A free learning repository about neuroimaging
+* [http://www.brainmapping.org BrainMapping.ORG project] Community web site for information Brain Mapping and methods
+* [http://www.radiologytube.com/category/f-mri-videos/ fMRI Videos] RadiologyTube.com - a collection of fMRI videos
+* [http://cognet.mit.edu/library/erefs/mitecs/ugurbil.html MIT Cognet]
+* [http://www.fmri.org/fmri.htm Columbia University Program for Imaging and Cognitive Sciences: fMRI]
+
+{{Medical imaging}}
+
+{{DEFAULTSORT:Functional Magnetic Resonance Imaging}}
+[[Category:Magnetic resonance imaging]]
+[[Category:Neuroimaging]]
+[[Category:Cognitive neuroscience]]
+
+[[fa:اف ام آر آی]]
+[[is:Starfræn segulómmyndun]]
+[[he:FMRI]]
+[[pt:Ressonância magnética]]

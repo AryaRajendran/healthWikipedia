@@ -1,0 +1,75 @@
+[[Image:Simple vestibulo-ocular reflex.PNG|thumb|300px|right|The vestibulo-ocular reflex. A rotation of the head is detected, which triggers an inhibitory signal to the [[extraocular muscles]] on one side and an excitatory signal to the muscles on the other side. The result is a compensatory movement of the eyes.]]
+
+The '''vestibulo-ocular reflex''' ('''VOR''') is a [[reflex]] [[eye movement (sensory)|eye movement]] that [[image stabilization|stabilizes images]] on the [[retina]] during head movement by producing an eye movement in the direction opposite to head movement, thus preserving the image on the center of the visual field. For example, when the head moves to the right, the eyes move to the left, and vice versa. Since slight head movement is present all the time, the VOR is very important for stabilizing vision: patients whose VOR is impaired find it difficult to read using print, because they cannot stabilize the eyes during small head tremors. The VOR does not depend on visual input and works even in total darkness or when the eyes are closed.  However, in the presence of light, the [[fixation reflex]] is also added to the movement.<ref name="eb">"Sensory Reception:  Human Vision: Structure and function of the Human Eye" vol. 27, p. 179  Encyclopaedia Britannica,  1987</ref>
+
+In lower animals, the gravity organs and eyes are strictly connected.  The fish, for instance, moves its eyes by reflex when its tail is moved.  Humans have semicircular canals, neck muscle  "stretch" receptors, and the [[Utricle (ear)|utricle]] (gravity organ).  Though the semicircular canals cause most of the reflexes which are responsive to acceleration, the maintaining of balance is mediated by the stretch of neck muscles and the pull of gravity on the utricle (otolith organ) of the inner ear.<ref name="eb"/>
+
+The VOR has both rotational and translational aspects. When the head rotates about any axis (horizontal, vertical, or torsional) distant visual images are stabilized by rotating the eyes about the same axis, but in the opposite direction.<ref name="Crawford1991">Crawford JD, Vilis T. (1991) Axes of eye rotation and Listing's law during rotations of the head. J Neurophysiol. 65(3):407-23.</ref> When the head translates, for example during walking, the visual fixation point is maintained by rotating gaze direction in the opposite direction, by an amount that depends on distance.<ref name="Angelaki2004">Angelaki DE. (2004) Eyes on target: what neurons must do for the vestibuloocular reflex during linear motion. J Neurophysiol. 92(1):20-35.</ref>
+
+==Circuit==
+[[Image:Vestibulo-ocular reflex EN.svg|thumb|300px]]
+
+The VOR is ultimately driven by signals from the vestibular apparatus in the [[inner ear]]. The [[semicircular canals]] detect head rotation and drive the rotational VOR, whereas the [[otolith]]s detect head translation and drive the translational VOR.
+The main "direct path" neural circuit for the horizontal rotational VOR is fairly simple. It starts in the [[vestibular system]], where semicircular canals get activated by head rotation and send their impulses via the [[vestibular nerve]] (cranial nerve VIII) through [[Scarpa's ganglion]] and end in the [[vestibular nuclei]] in the [[brainstem]]. From these nuclei, fibers cross to the contralateral cranial nerve VI nucleus ([[abducens nucleus]]). There they synapse with 2 additional pathways. One pathway projects directly to the [[lateral rectus]] of eye via the [[abducens nerve]]. Another nerve tract projects from the abducens nucleus by the [[medial longitudinal fasciculus]] to the contralateral [[oculomotor nucleus]], which contains [[motor neuron|motorneurons]] that drive eye [[muscle]] activity, specifically activating the [[medial rectus]] muscle of the eye through the [[oculomotor nerve]]. 
+
+Another pathway (not in picture) directly projects from the vestibular nucleus through the [[ascending tract of Dieters]] to the ipsilateral [[medial rectus]] [[motor neuron|motoneuron]]. In addition there are inhibitory vestibular pathways to the ipsilateral abducens nucleus. However no direct vestibular neuron to medial rectus motoneuron pathway exists.<ref>{{cite journal |author=Straka H, Dieringer N |title=Basic organization principles of the VOR: lessons from frogs |journal=Prog. Neurobiol. |volume=73 |issue=4 |pages=259–309 |year=2004 |pmid=15261395 |doi=10.1016/j.pneurobio.2004.05.003}}</ref>
+
+Similar pathways exist for the vertical and torsional components of the VOR.
+
+In addition to these direct pathways, which drive the velocity of eye rotation, there is an indirect pathway that builds up the position signal needed to prevent the eye from rolling back to center when the head stops moving. This pathway is particularly important when the head is moving slowly, because here position signals dominate over velocity signals. David A. Robinson discovered that the eye muscles require this dual velocity-position drive, and also proposed that it must arise in the brain by mathematically integrating the velocity signal and then sending the resulting position signal to the motoneurons. Robinson was correct: the 'neural integrator' for horizontal eye position was found in the nucleus prepositus hypoglossi<ref name="Cannon1987">Cannon SC, Robinson DA. (1987) Loss of the neural integrator of the oculomotor system from brain stem lesions in monkey. J Neurophysiol. 1987 57(5):1383-409.</ref> in the medulla, and the neural integrator for vertical and torsional eye positions was found in the interstitial nucleus of Cajal<ref name="Crawford1991#2">Crawford JD, Cadera W, Vilis T. (1991) Generation of torsional and vertical eye position signals by the interstitial nucleus of Cajal. Science. 252(5012):1551-3.</ref> in the midbrain. The same neural integrators also generate eye position for other conjugate eye movements such as saccades and smooth pursuit.
+
+===Excitatory example===
+For instance, if the head is turned [[clockwise]] as seen from above, then excitatory impulses are sent from the semicircular canal on the right side via the [[vestibular nerve]] (cranial nerve VIII) through [[Scarpa's ganglion]] and end in the right [[vestibular nuclei]] in the [[brainstem]]. From this nuclei excitatory fibers cross to the left abducens nucleus. There they project and stimulate the [[lateral rectus]] of the left eye via the [[abducens nerve]]. In addition, by the [[medial longitudinal fasciculus]] and [[oculomotor nuclei]], they activate the [[medial rectus]] muscles on the right eye. As a result, both eyes will turn counterclockwise.
+
+Furthermore, some neurons from the right vestibular nucleus directly stimulate the right [[medial rectus]] motoneurons, and inhibits the right abducens nucleus.
+
+==Speed==
+The vestibulo-ocular reflex needs to be fast: for clear vision, head movement must be compensated almost immediately; otherwise, vision corresponds to a photograph taken with a shaky hand. To achieve clear vision, signals from the semicircular canals are sent as directly as possible to the eye muscles: the connection involves only three neurons, and is correspondingly called the ''three neuron arc''. Using these direct connections, eye movements lag the head movements by less than 10 ms,<ref>Aw, S. T., G. M. Halmagyi, T. Haslwanter, I. S. Curthoys, R. A. Yavor and M. J. Todd (1996). "Three-dimensional vector analysis of the human vestibuloocular reflex in response to high-acceleration head rotations. II. responses in subjects with unilateral vestibular loss and selective semicircular canal occlusion." J Neurophysiol 76(6): 4021-30.</ref> and thus the vestibulo-ocular reflex is one of the fastest reflexes in the human body.
+
+==Gain==
+The "gain" of the VOR is defined as the change in the eye angle divided by the change in the head angle during the head turn. Ideally the gain of the rotational VOR is 1.0. The gain of the horizontal and vertical VOR is usually close to 1.0, but the gain of the torsional VOR (rotation around the line of sight) is generally low.<ref name="Crawford1991"/> The gain of the translational VOR has to be adjusted for distance, because of the geometry of motion parallax. When the head translates, the angular direction of near targets changes faster than the angular direction of far targets.<ref name="Angelaki2004"/>
+
+If the gain of the VOR is wrong (different from 1)&mdash;for example, if eye muscles are weak, or if a person puts on a new pair of eyeglasses&mdash;then head movement results in image motion on the retina, resulting in blurred vision. Under such conditions, [[motor learning]] adjusts the gain of the VOR to produce more accurate eye motion. This is what is referred to as VOR adaptation.
+
+[[Ethanol]] consumption can disrupt the VOR, reducing dynamic visual acuity.<ref>{{cite web|url=http://cat.inist.fr/?aModele=afficheN&cpsidt=15155766|title=Effect of Ethanol on visual-vestibular interactions during vertical linear body acceleration}}</ref>
+
+==Testing== <!--Rapid head impulse test and Halmagyi-Curthoys redirect here-->
+This reflex can be tested by the ''Rapid head impulse test'' or ''Halmagyi-Curthoys-test'', in which the head is rapidly moved to the side with force, and is controlled if the eyes succeed to remain looking in the same direction. When the function of the right balance system is reduced, by a disease or by an accident, quick head movement to the right cannot be sensed properly anymore. As a consequence, no compensatory eye movement is generated, and the patient cannot fixate a point in space during this rapid head movement. 
+
+Another way of testing the VOR response is a [[caloric reflex test]], which is an attempt to induce [[physiologic nystagmus|nystagmus]] (compensatory eye movement in the absence of head motion) by pouring cold or warm water into the ear.  Also available is bi-thermal air caloric irrigations, in which warm and cool air is administered into the ear.
+
+=== Comatose patients ===
+In comatose patients, once it has been determined that the cervical spine is intact, a test of the vestibulo-ocular reflex can be performed by turning the head to one side.  If the brainstem is intact, the eyes will move conjugately away from the direction of turning (as if still looking at the examiner rather than fixed straight ahead). Negative Doll's eyes would stay fixed midorbit, so having negative "doll's eyes" is a sign that a comatose patient's brainstem is not intact.
+
+===Testing complications===
+
+Currently, vestibulo-ocular reflexes can only be comprehensively tested in specially equipped laboratories.  The tests sometimes provide valuable diagnostic information; but the laboratory setting is unnatural, the tests are time-consuming, and the people being tested are often asymptomatic while in the lab{{cn|date=October 2012}}.
+
+==Role of cerebellum==
+The [[cerebellum]] is essential for motor learning to correct the VOR in order to ensure accurate eye movement. [[Motor learning]] in the VOR is in many ways analogous to classical [[eyeblink conditioning]], since the circuits are homologous and the molecular mechanisms are similar.
+
+==See also==
+*[[Caloric reflex test]]
+*[[Image stabilization]]
+*[[Pursuit movement]]
+*[[Semicircular canals]]
+*[[Vestibular system]]
+*[[Vestibulocerebellar syndrome]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.headimpulse.com (Video) Head Impulse Testing site] (vHIT) Site with thorough information about vHIT
+* [http://edboyden.org/03.09.boyden.html Motor Learning in the VOR in Mice] at edboyden.org
+* [http://www.jhu.edu/strucfunc/Archives/2004_files/2004_11_30.pdf Review on VOR adaptation via slides] at [[Johns Hopkins University]]
+* {{MeshName|Vestibulo-Ocular+Reflex}}
+* [http://www.cimit.org Center for Integration of Medicine and Innovative Technology - Testing device development]
+* {{eMedicine|ent|482}} - "Vestibuloocular Reflex Testing"
+
+{{Visual system}}
+{{Reflex}}
+
+{{DEFAULTSORT:Vestibulo-Ocular Reflex}}
+[[Category:Reflexes]]
+[[Category:Vision]]

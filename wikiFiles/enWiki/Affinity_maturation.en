@@ -1,0 +1,17 @@
+In [[immunology]], '''affinity maturation''' is the process by which [[B cell]]s produce [[antibodies]] with increased affinity for [[antigen]] during the course of an immune response. With repeated exposures to the same antigen, a host will produce antibodies of successively greater affinities.  A secondary response can elicit antibodies with several logfold greater affinity than in a primary response. The main principles of the ''in vivo'' affinity maturation, namely [[mutation]] and [[selection]], are utilised for the [[biotechnology|biotechnological]] approach of the ''in vitro'' affinity maturation.
+
+== ''In vivo'' affinity maturation ==
+The process is thought to involve two interrelated processes, occurring in the germinal centers of the secondary lymphoid organs:
+
+# [[Somatic hypermutation]] (SHM): Mutations in the variable, antigen-binding coding sequences (known as [[complementarity-determining regions]] (CDR)) of the immunoglobulin genes. The mutation rate is up to 1,000,000 times higher than in cell lines outside the lymphoid system. Although the exact mechanism of the somatic hypermutation is still not known, a major role for the [[Activation-Induced (Cytidine) Deaminase]] has been discussed. The increased mutation rate result in 1-2 mutations per CDR and cell generation. The mutations alter the binding specificity and binding affinities of the resultant antibodies.<ref name="Teng2007">{{cite journal |doi=10.1146/annurev.genet.41.110306.130340 |author=Teng, G. and Papavasiliou, F.N. |year=2007 |title=Immunoglobulin Somatic Hypermutation |journal=Annu. Rev. Genet. |volume=41 |pages=107–120 |pmid=17576170 |url=http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.genet.41.110306.130340}}</ref><ref name="isbn3-527-31453-9">{{cite book |author=Roskos L., Klakamp S., Liang M., Arends R., Green L. |title=Handbook of Therapeutic Antibodies |editor=Stefan Dübel |publisher=Wiley-VCH |location=Weinheim |year=2007 |pages=145–169 |isbn=3-527-31453-9 |oclc= |doi= |accessdate=}}</ref>
+# [[Clonal selection]]: B cells that have undergone SHM must compete for limiting growth resources, including the availability of antigen. The [[follicular dendritic cells]] (FDCs) of the germinal centers present antigen to the B cells, and only the B cell progeny with the highest affinities for antigen will be selected to survive.  B cell progeny that have undergone SHM, but bind antigen with lower affinity will be out-competed, and be deleted.  Over several rounds of selection, the resultant secreted antibodies produced will have effectively increased affinities for antigen.<ref name="isbn3-527-31453-9"/>
+
+== ''In vitro'' affinity maturation ==
+Like the natural prototype, the ''in vitro'' affinity maturation is based on the principles of mutation and selection. The ''in vitro'' affinity maturation has successfully been used to optimize antibodies, antibody fragments or other [[peptide]] molecules like [[antibody mimetic]]s. Random mutations inside the CDRs are introduced using [[radiation]], chemical [[mutagen]]s or [[error-prone PCR]]. In addition, the genetical diversity can be increased by [[chain shuffling]]. Two or three rounds of mutation and selection using display methods like [[phage display]] usually results in antibody fragments with affinities in the low nanomolar range.<ref name="isbn3-527-31453-9"/>
+
+== References ==
+<references/>
+
+[[Category:Immune system]]
+
+{{immunology-stub}}

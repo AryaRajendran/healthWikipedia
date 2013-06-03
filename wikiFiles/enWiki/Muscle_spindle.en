@@ -1,0 +1,90 @@
+{{Infobox Anatomy |
+Name         = {{PAGENAME}} |
+Latin        = fusus neuromuscularis |
+GraySubject  = |
+GrayPage     = |
+Image        = |
+Caption      = |
+Image2       = |
+Caption2     = |
+Precursor    = |
+System       = |
+Artery       = |
+Vein         = |
+Nerve        = |
+Lymph        = |
+MeshName     = |
+MeshNumber   = |
+Code         = [[Terminologia Histologica|TH]] H3.11.06.0.00018 |
+}}
+'''Muscle spindles''' are [[sensory receptor]]s within the belly of a [[muscle]], which primarily detect changes in the length of this muscle. They convey length information to the [[central nervous system]] via [[sensory neuron]]s. This information can be processed by the brain to determine the [[proprioception|position]] of body parts. The responses of muscle spindles to changes in length also play an important role in regulating the contraction of muscles, by activating motoneurons via the [[stretch reflex]] to resist muscle stretch.
+
+[[Image:muscle spindle model.jpg|thumb|450px|right|Mammalian muscle spindle showing typical position in a muscle (left), neuronal connections in spinal cord (middle) and expanded schematic (right).  The spindle is a stretch receptor with its own motor supply consisting of several intrafusal muscle fibres. The sensory endings of a primary (group Ia) afferent and a secondary (group II) afferent coil around the non-contractile central portions of the intrafusal fibres. Gamma motoneurons activate the intrafusal muscle fibres, changing the resting firing rate and stretch-sensitivity of the afferents. Animated version: [http://www.ualberta.ca/~aprochaz/research_interactive_receptor_model.html Arthur Prochazka's Lab, University of Alberta]]]
+
+[[File:Muscle Spindle LM HE stain.jpg|thumb|right|alt=A|Light microscope photograph of a muscle spindle. HE stain.]]
+
+Muscle spindles are found within the belly of [[muscle]]s, embedded in [[extrafusal muscle fiber]]s. Note that "fusus" is the Latin word for spindle.  Muscle spindles are composed of 3-12 [[intrafusal muscle fibers]], of which there are three types:
+* dynamic [[nuclear bag fiber]]s (bag<sub>1</sub> fibers)
+* static nuclear bag fibers (bag<sub>2</sub> fibers)
+* [[nuclear chain fiber]]s and the [[axons]] of sensory neurons.
+[[Axons]] of [[gamma motoneurons]] also terminate in muscle spindles; they make [[synapse]]s at either or both of the ends of the intrafusal muscle fibers and regulate the sensitivity of the sensory afferents, which are located in the non-contractile central (equatorial) region.<ref>{{cite journal |author=Hulliger M |title=The mammalian muscle spindle and its central control |journal=Rev. Physiol. Biochem. Pharmacol. |volume=101 |issue= |pages=1–110 |year=1984 |pmid=6240757 }}</ref>
+
+Muscle spindles are encapsulated by connective tissue, and are aligned [[parallel (geometry)|parallel]] to extrafusal muscle fibers, unlike [[Golgi tendon organs]], which are oriented in series.
+
+The muscle spindle has both sensory and motor components. 
+* [[Type Ia sensory fiber|Primary]] and [[Type II sensory fiber|secondary]] sensory nerve fibers spiral around and terminate on the central portions of the intrafusal muscle fibers, providing the sensory component of the structure via stretch-sensitive [[ion-channels]] of the axons.
+* In mammals including humans, the motor component is provided by up to a dozen [[gamma motoneuron]]s and to a lesser extent by one or two beta motoneurons. Gamma and beta motoneurons are called fusimotor neurons, because they activate the intrafusal muscle fibers. Gamma motoneurons only innervate intrafusal muscle fibers, whereas beta motoneurons innervate both extrafusal and intrafusal muscle fibers and so are referred to as skeletofusimotor neurons.
+*Fusimotor drive causes a contraction and stiffening of the end portions of the intrafusal muscle fibers.
+Fusimotor neurons are classified as static or dynamic according to the type of intrafusal muscle fibers they innervate and their physiological effects on the responses of the Ia and II sensory neurons innervating the central, non-contractile part of the muscle spindle. 
+* The static axons innervate the chain or bag<sub>2</sub> fibers. They increase the firing rate of Ia and II afferents at a given muscle length (see schematic of fusimotor action below).
+* The dynamic axons innervate the bag<sub>1</sub> intrafusal muscle fibers. They increase the stretch-sensitivity of the Ia afferents by stiffening the bag<sub>1</sub> intrafusal fibers.
+
+==Sensitivity modification==
+
+The function of the gamma motoneurons is not to supplement the force of muscle contraction provided by the extrafusal fibers, but to modify the sensitivity of the muscle spindle sensory afferents to stretch.  Upon release of [[acetylcholine]] by the active gamma motoneuron, the end portions of the intrafusal muscle fibers contract, thus elongating the non-contractile central portions (see "fusimotor action" schematic below).  This opens stretch-sensitive [[ion channels]] of the sensory endings, leading to an influx of [[sodium]] [[ion]]s.  This raises the [[resting potential]] of the endings, thereby increasing the probability of [[action potential]] firing, thus increasing the stretch-sensitivity of the muscle spindle afferents.  For an interactive animation created by Jan Kowalczewski at the University of Alberta, demonstrating spindle afferent responses to muscle stretch with and without gamma (fusimotor) action, go to: [http://www.ualberta.ca/~aprochaz/research_interactive_receptor_model.html Arthur Prochazka's Lab, University of Alberta]
+
+How does the central nervous system control gamma fusimotor neurons?  It has been difficult to record from gamma motoneurons during normal movement because they have very small axons. Several theories have been proposed, based on recordings from spindle afferents. 
+*1) ''Alpha-gamma coactivation.''  Here it is posited that gamma motoneurons are activated in parallel with alpha motoneurons to maintain the firing of spindle afferents when the extrafusal muscles shorten.<ref>{{cite journal |author=Vallbo AB, al-Falahe NA |title=Human muscle spindle response in a motor learning task |journal=J. Physiol. (Lond.) |volume=421 |issue= |pages=553–68 |year=1990 |month=February |pmid=2140862 |pmc=1190101 |url=http://www.jphysiol.org/cgi/pmidlookup?view=long&pmid=2140862}}</ref>
+*2) ''Fusimotor set:'' gamma motoneurons are activated according to the novelty or difficulty of a task.  Whereas static gamma motoneurons are continuously active during routine movements such as locomotion, dynamic gamma motoneoruns tend to be activated more during difficult tasks, increasing Ia stretch-sensitivity.<ref>{{cite book |last=Prochazka |first=A. |chapter=Proprioceptive feedback and movement regulation |editor1-last=Rowell |editor1-first=L. |editor2-last=Sheperd |editor2-first=J.T. |title=Exercise: Regulation and Integration of Multiple Systems |publisher=American Physiological Society |location=New York |year=1996 |isbn=0195091744 |pages=89–127 |series=Handbook of physiology }}</ref>
+*3) ''Fusimotor template of intended movement.''  Static gamma activity is a "temporal template" of the expected shortening and lengthening of the receptor-bearing muscle.  Dynamic gamma activity turns on and off abruptly, sensitizing spindle afferents to the onset of muscle lengthening and departures from the intended movement trajectory.<ref>{{cite journal |author=Taylor A, Durbaba R, Ellaway PH, Rawlinson S |title=Static and dynamic gamma-motor output to ankle flexor muscles during locomotion in the decerebrate cat |journal=J. Physiol. (Lond.) |volume=571 |issue=Pt 3 |pages=711–23 |year=2006 |month=March |pmid=16423858 |pmc=1805796 |doi=10.1113/jphysiol.2005.101634 |url=http://www.jphysiol.org/cgi/pmidlookup?view=long&pmid=16423858}}</ref>
+
+== Stretch reflex ==
+
+When a muscle is stretched, primary sensory fibers ([[Group Ia afferent neurons]]) of the muscle spindle respond to both changes in muscle length and velocity and transmit this activity to the [[spinal cord]] in the form of changes in the rate of [[action potentials]]. Likewise, secondary sensory fibers ([[Group II afferent neurons]]) respond to muscle length changes (but with a smaller velocity-sensitive component) and transmit this signal to the spinal cord. The Ia afferent signals are transmitted [[Reflex_arc#Monosynaptic_vs._polysynaptic|monosynaptically]] to many [[alpha motor neurons]] of the receptor-bearing muscle. The reflexly-evoked activity in the alpha motoneurons is then transmitted via their efferent axons to the extrafusal fibers of the muscle, which generate force and thereby resist the stretch.  The Ia afferent signal is also transmitted polysynaptically through [[interneurons]] ([[Renshaw cell]]s) which inhibit alpha motoneurons of antagonist muscles, causing them to relax. 
+
+After [[stroke]] or spinal cord injury in humans, [[spastic hypertonus]] ([http://en.wikipedia.org/w/index.php?title=Spastic_paralysis&redirect=no spastic paresis or spastic paralysis]) often develops, whereby the stretch reflex in flexor muscles of the arms and extensor muscles of the legs is overly sensitive.  This results in abnormal postures, stiffness and contractures. Hypertonus ([[Hypertonia]]) may be the result of over-sensitivity of alpha motoneurons and interneurons to the Ia and II afferent signals.<ref>{{cite journal |author=Heckmann CJ, Gorassini MA, Bennett DJ |title=Persistent inward currents in motoneuron dendrites: implications for motor output |journal=Muscle Nerve |volume=31 |issue=2 |pages=135–56 |year=2005 |month=February |pmid=15736297 |doi=10.1002/mus.20261 }}</ref>
+
+[[PNF stretching]], or proprioceptive neuromuscular facilitation, is a method of flexibility training that can reduce hypertonus, allowing muscles to relax and lengthen.
+
+== Development ==
+It is also believed that muscle spindles play a critical role in [[sensorimotor]] [[developmental psychology|development]].
+
+==Additional images==
+<gallery>
+Image:MuscleSpindle.svg|Muscle spindle
+ Image:Muskelspindel3.png|Gamma fiber
+ Image:Muskelspindel4.png|1A fiber
+ Image:Muskelspindel5.png|Alpha fiber
+Image:Fusimotor action.jpg|schematic of fusimotor action
+</gallery>
+
+== See also ==
+* [[Type Ia sensory fiber]]
+* [[Type II sensory fiber]]
+* [[Alpha motor neuron]]
+* [[Gamma motor neuron]]
+* [[Beta motor neuron]]
+* [[Intrafusal muscle fibre]]
+* [[Extrafusal muscle fiber]]
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{MeshName|Muscle+Spindles}}
+
+{{somatosensory system}}
+{{Muscle tissue}}
+
+{{DEFAULTSORT:Muscle Spindle}}
+[[Category:Sensory system]]

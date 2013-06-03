@@ -1,0 +1,50 @@
+The American National Standards Institute ([[ANSI]]) '''Healthcare Information Technology Standards Panel''' (HITSP) was created in 2005 as part of efforts by the [[Office of the National Coordinator for Health Information Technology]] (ONC, part of the [[United States Department of Health and Human Services]]) to promote interoperability in [[health care]] by harmonizing [[health information technology]] standards. HITSP is chaired by [[John Halamka]], MD, CIO of [[Harvard Medical School]].
+
+==Membership==
+Membership is by organization and there is currently no cost to join. Volunteers commit time to working on standards harmonization efforts as prioritized by the [[American Health Information Community]] (AHIC). 
+
+==Goals==
+According to their website, HITSP's mission is to "serve as a cooperative partnership between the public and private sectors for the purpose of achieving a widely accepted and useful set of standards specifically to enable and support widespread interoperability among healthcare software applications, as they will interact in a local, regional and national health information network for the United States."
+
+HITSP is generally organized around ''Use Cases'', which are profiles of specific interoperability needs that have been identified by AHIC as being important national priorities. The initial 2006 Use Cases were:
+* Consumer Empowerment
+** Registration Summary
+** Medication History
+* [[Electronic Health Records]] (EHRs)
+** Laboratory Result Reporting
+* Biosurveillance
+** Visit
+** Utilization
+** Clinical Data
+** Lab and Radiology
+
+The 2007 Use Cases are:
+* Consumer Access to Clinical Information
+** Access to Clinical Data
+** Provider Permissions
+** Personal Health Record (PHR) Transfer
+* Emergency Responder EHR
+** On-site Care
+** Emergency Care
+** Definitive Care
+** Provider Authentication and Authorization
+* Medication Management
+** Medication Reconciliation
+** Ambulatory Prescriptions
+** Contraindications
+* Quality
+** Hospital Measurement and Reporting
+** Clinician Measurement and Reporting
+** Feedback to Clinicians
+<!-- I read this bit several times and still can't make sense of it. I'm hiding it until someone with more insight can turn it into readable English.
+HITSP Technical Committees (TCs) create and ballot Interoperability Specifications based upon existing standards to address the Use Cases. The intent of the organization is to find common elements within each Interoperability Specification and reuse these "building blocks" to ensure that past work can be leveraged.
+-->
+==See also==
+*[[Health care in the United States]]
+
+== External links ==
+* [http://www.hitsp.org Healthcare Information Technology Standards Panel website]
+
+[[Category:Standards organizations]]
+[[Category:Health standards]]
+[[Category:ANSI standards]]

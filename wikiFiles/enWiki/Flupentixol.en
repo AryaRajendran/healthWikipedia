@@ -1,0 +1,94 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 457784839
+| IUPAC_name = (''EZ'')-2-[4-[3-[2-(trifluoromethyl)thioxanthen-9-ylidene]propyl]piperazin-1-yl]ethanol
+| image = E-Z-Isomers of Flupentixol.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|flupentixol}}
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = Oral, IM
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 19-39 hours
+| excretion =  
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 2709-56-0
+| ATC_prefix = N05
+| ATC_suffix = AF01
+| PubChem = 5281881
+| IUPHAR_ligand = 948
+| IUPHAR_ligand = 968
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+ | DrugBank = DB00875
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4445173
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = FA0UYH6QUO
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01044
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 42055
+
+<!--Chemical data-->
+| chemical_formula = C<sub>23</sub>H<sub>25</sub>F<sub>3</sub>N<sub>2</sub>OS
+
+| molecular_weight = 434.5219 g/mol
+| smiles = FC(F)(F)c2cc1C(\c3c(Sc1cc2)cccc3)=C/CCN4CCN(CCO)CC4
+| InChI = 1/C23H25F3N2OS/c24-23(25,26)17-7-8-22-20(16-17)18(19-4-1-2-6-21(19)30-22)5-3-9-27-10-12-28(13-11-27)14-15-29/h1-2,4-8,16,29H,3,9-15H2/b18-5-
+| InChIKey = NJMYODHXAKYRHW-DVZOWYKEBC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H25F3N2OS/c24-23(25,26)17-7-8-22-20(16-17)18(19-4-1-2-6-21(19)30-22)5-3-9-27-10-12-28(13-11-27)14-15-29/h1-2,4-8,16,29H,3,9-15H2/b18-5-
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NJMYODHXAKYRHW-DVZOWYKESA-N
+}}
+
+'''Flupentixol''' ([[International Nonproprietary Name|INN]]), also known as '''flupenthixol''' (former [[British Approved Name|BAN]]), marketed under brand names such as '''Depixol''' and '''Fluanxol''', is a [[typical antipsychotic]] [[drug]] of the [[thioxanthene]] class. In addition to single drug preparations, it is also available as Anxiset, Deanxit, Mixit, a combination product containing both [[melitracen]] and flupentixol.
+
+Flupentixol is not approved for use in the United States.
+
+== Indications ==
+
+It is also available under the name anxistream. Flupentixol's main use is as a long-acting injection given once in every two or three weeks to individuals with [[schizophrenia]] who have poor compliance with medication and suffer frequent relapses of illness.
+
+Flupentixol is also used in low doses as an [[antidepressant]].<ref name="pmid7291129">{{cite journal | author = Robertson MM, Trimble MR | title = The antidepressant action of flupenthixol | journal = The Practitioner | volume = 225 | issue = 1355 | pages = 761–3 | year = 1981 | month = May | pmid = 7291129 | doi = | url = }}</ref><ref name="pmid6674820">{{cite journal | author = Pöldinger W, Sieberns S | title = Depression-inducing and antidepressive effects of neuroleptics. Experiences with flupenthixol and flupenthixol decanoate | journal = Neuropsychobiology | volume = 10 | issue = 2-3 | pages = 131–6 | year = 1983 | pmid = 6674820 | doi = | url = }}</ref><ref name="pmid369298">{{cite journal | author = Johnson DA | title = A double-blind comparison of flupenthixol, nortriptyline and diazepam in neurotic depression | journal = Acta Psychiatrica Scandinavica | volume = 59 | issue = 1 | pages = 1–8 | year = 1979 | month = January | pmid = 369298 | doi = | url = }}</ref><ref name="pmid773506">{{cite journal | author = Young JP, Hughes WC, Lader MH | title = A controlled comparison of flupenthixol and amitriptyline in depressed outpatients | journal = British Medical Journal | volume = 1 | issue = 6018 | pages = 1116–8 | year = 1976 | month = May | pmid = 773506 | pmc = 1639983 | doi = | url = }}</ref><ref name="pmid961463">{{cite journal | author = Fujiwara J, Ishino H, Baba O, Hanaoka M, Sasaki K | title = Effect of flupenthixol on depression with special reference to combination use with tricyclic antidepressants. An uncontrolled pilot study with 45 patients | journal = Acta Psychiatrica Scandinavica | volume = 54 | issue = 2 | pages = 99–105 | year = 1976 | month = August | pmid = 961463 | doi = | url = }}</ref><ref name="pmid7093597">{{cite journal | author = Tam W, Young JP, John G, Lader MH | title = A controlled comparison of flupenthixol decanoate injections and oral amitriptyline in depressed out-patients | journal = The British Journal of Psychiatry : the Journal of Mental Science | volume = 140 | issue = | pages = 287–91 | year = 1982 | month = March | pmid = 7093597 | doi = | url = }}</ref>
+
+== Pharmacology ==
+
+Flupentixol acts as an [[receptor_antagonist|antagonist]] at various [[dopamine receptor|dopamine]] ([[D1 receptor|D<sub>1</sub>]]-[[D5 receptor|D<sub>5</sub>]]), [[serotonin receptor|serotonin]] ([[5-HT2 receptor|5-HT<sub>2</sub>]]), [[adrenergic receptor|adrenaline]] ([[alpha-1 adrenergic receptor|α<sub>1</sub>]]), and [[histamine receptor|histamine]] ([[H1 receptor|H<sub>1</sub>]]) [[receptor (biochemistry)|receptor]]s,<ref name="urlPDSP Database - UNC">{{cite web | url = http://pdsp.med.unc.edu/pdsp.php | title = PDSP Database - UNC}}</ref> without affecting the [[muscarinic acetylcholine receptor]]s.<ref name="pmid7052344">{{cite journal | author = Golds PR, Przyslo FR, Strange PG | title = The binding of some antidepressant drugs to brain muscarinic acetylcholine receptors | journal = [[British Journal of Pharmacology]] | volume = 68 | issue = 3 | pages = 541–9 | year = 1980 | month = March | pmid = 7052344 | pmc = 2044199 | doi = | url = }}</ref>
+
+Its antipsychotic effects are likely caused by D<sub>2</sub> and/or 5-HT<sub>2A</sub> antagonism, whereas its antidepressant effects at lower doses may be mediated by preferential D<sub>2</sub>/D<sub>3</sub> [[autoreceptor]] blockade, resulting in increased postsynaptic activation.
+
+== Adverse effects ==
+
+The side effects of flupentixol are similar to most other typical antipsychotics, namely [[extrapyramidal symptoms|extrapyramidal]] symptoms of [[akathisia]], [[muscle tremor]]s, and [[muscle rigidity|rigidity]] and [[antihistamine]] effects like [[sedation]] and [[somnolence]]. However, it lacks [[anticholinergic]] adverse effects.
+
+== See also ==
+* [[Typical antipsychotic]]
+* [[Thioxanthene]]
+
+== References ==
+{{Reflist|2}}
+
+{{Antipsychotics}}
+{{Antidepressants}}
+{{Anxiolytics}}
+{{Adrenergics}}
+{{Dopaminergics}}
+{{Histaminergics}}
+{{Serotonergics}}
+{{Piperazines}}
+{{Tricyclics}}
+
+[[Category:Organofluorides]]
+[[Category:Piperazines]]
+[[Category:Antidepressants]]
+[[Category:Thioxanthene antipsychotics]]

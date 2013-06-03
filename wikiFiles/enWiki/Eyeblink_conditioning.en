@@ -1,0 +1,97 @@
+{{refimprove|date= August 2007}}
+
+'''Eyeblink conditioning''' (EBC) is a form of [[classical conditioning]] that has been used extensively to study neural structures and mechanisms that underlie [[learning]] and [[memory]]. The procedure is relatively simple and usually consists of pairing an auditory or visual [[Stimulus (physiology)|stimulus]] (the [[conditioned stimulus]] (CS)) with an eye[[blink]]-eliciting [[unconditioned stimulus]] (US) (e.g. a mild puff of air to the cornea or a mild shock). Naïve organisms initially produce a reflexive, [[unconditioned response]] (UR) (e.g. blink or extension of nictitating membrane) that follows US onset. After many CS-US pairings, an association is formed such that a learned blink, or [[conditioned response]] (CR), occurs and precedes US onset. The magnitude of [[learning]] is generally gauged by the percentage of all paired CS-US [[trial]]s that result in a CR. Under optimal conditions, well-trained animals produce a high percentage of CRs (> 90%). The conditions necessary for, and the physiological mechanisms that govern, eyeblink CR learning have been studied across many [[mammalian]] species, including mice, rats, guinea pigs, rabbits, ferrets, cats, and humans. Historically, rabbits have been the most popular research subjects.
+
+==CS-US Contingency==
+
+The order in which stimuli are presented is an important factor in all forms of [[classical conditioning]]. [[Forward conditioning]] describes a presentation format in which the CS precedes the US in time. That is, from the perspective of the research subject, experiencing the US is ''contingent'' upon having just experienced the CS. EBC is usually, but not always, conducted in this manner. Other stimulus [[contingencies]] include [[backward conditioning]], in which US comes before CS, and [[simultaneous conditioning]], in which CS and US are presented at the same time. In any case, the time between CS onset and US onset is the [[interstimulus interval]] (ISI).
+
+===The Delay and Trace Procedures===
+
+In delay EBC, the CS onset precedes the US onset and the two stimuli overlap and coterminate. In the trace EBC, the CS precedes the US and there is a stimulus free period (trace interval) between CS offset and US onset. While both of these procedures require the [[cerebellum]], the trace procedure also requires the [[hippocampus]].<ref>Takehara, K., Kawahara, S., & Kirino, Y. (2003). Time-dependent reorganization of the brain components underlying memory retention in trace eyeblink conditioning. ''J. Neurosci.'', ''23'':9896–9905.</ref><ref>Squire, L. R., Stark, C. E. L., & R. E. Clark (2004). The medial temporal lobe. ''Annu. Rev. Neurosci.'' ''27'':279–306.</ref>
+
+==Neural Circuitry for EBC==
+===The Blink Reflex===
+When a US is delivered to the cornea of the eye, sensory information is carried to the [[trigeminal nucleus]] and relayed both directly and indirectly (via [[reticular formation]]) to the accessory [[abducens]] and abducens motor nuclei (see [[Cranial nerve nucleus]]).  Output from these nuclei control various eye muscles that work synergistically to produce an unconditioned blink response to corneal stimulation (reviewed, Christian & Thompson, 2003). [[Electromyogram]] (EMG) activity of the [[orbicularis oculi muscle]], which controls eyelid closure, is considered to be the most prominent and sensitive component of blinking (Lavond et al., 1990) and is, thus, the most common behaviorally-derived [[dependent variable]] in studies of EBC.
+
+===The US Pathway===
+
+The trigeminal nucleus also sends efferent projections to the [[inferior olive]] (IO), and this represents the US pathway for EBC. The critical region of the IO for eyeblink conditioning is the dorsal accessory olive (Brodal, 1981), and [[climbing fibers]] (CF) from this region send information about the US to the [[cerebellum]] (Brodal, Walberg & Hoddevik, 1975; Thompson, 1989).  Climbing fibers ultimately project to both the deep [[cerebellar nuclei]] and [[Purkinje cells]] (PCs) in the [[cerebellar cortex]].
+
+===The CS Pathway===
+
+The [[pontine nuclei]] (PN) can support different CS modalities (auditory tone, light, etc.) for EBC as they receive projections from auditory, visual, somatasensory, and association systems (Glickstein et al., 1980; Brodal, 1981; Schmahmann & Pandya, 1989; 1991; 1993). When the CS is a tone, auditory information is received via the [[cochlear nuclei]] (Steinmetz & Sengelaub, 1992). The PN give rise to [[mossy fiber (cerebellum)|mossy fiber]] (MF) [[axons]] that carry CS-related information (Steinmetz et al., 1987; Lewis et al., 1987; Thompson et al., 1997) to the cerebellum via the [[middle cerebellar peduncle]], and terminate in both the cerebellar nuclei, and at [[granule cells]] (GR) of the cerebellar cortex (Steinmetz & Sengelaub, 1992).  Granule cells give rise to [[parallel fiber]] (PF) axons which synapse onto PCs.
+
+===CS-US Convergence in the Cerebellum===
+	
+Two cerebellar sites of CS-US convergence are 1) cells of the deep nuclear region, and 2) PCs of the cortex.  In addition to receiving converging CS and US input via the PN and IO, respectively, cells of the cerebellar nuclei receive [[GABA]]-ergic inhibitory input from PCs of the cerebellar cortex.  Output from the interpositus nucleus includes projections to the [[red nucleus]], and the red nucleus sends projections to the facial and abducens nuclei.  These nuclei supply the motor output component of the reflexive eyeblink.  Therefore, in addition to being a site of stimulus convergence, the deep nuclei are also the cerebellum’s output structure.
+
+==Critical Role of the Interpositus Nucleus==
+
+Professor Richard F. Thompson and his colleagues initially identified the cerebellum as the essential structure for learning and executing eyeblink CRs.  Some scientists think that the [[Interpositus nucleus]] is the site critical to learning, retaining, and executing the conditioning blink response.
+
+===Lesion Studies===
+
+The first evidence for the role of the cerebellum in EBC came from McCormick et al. (1981).  They found that a unilateral cerebellar lesion which included both cortex and deep nuclei permanently abolished CRs.  In subsequent studies, it was determined that lesions of the lateral interpositus and medial dentate nuclei were sufficient to prevent acquisition of CRs in naïve animals (Lincoln et al., 1982) and abolished CRs in well-trained animals (McCormick & Thompson, 1984).<ref>McCormick DA, Thompson RF (1984) Cerebellum: essential involvement in the classically conditioned eyelid response. Science 223: 296-299.</ref>  Finally, the use of [[Kainic acid]] lesions, which destroy neuronal cell bodies and spare passing fibers, provided evidence for a highly localized region of cerebellar nuclear cells that are essential for learning and performing CRs (Lavond et al., 1985).  The population of cells critical for EBC appears to be restricted to a ~ 1 mm3 area of dorsolateral anterior INP [[ipsilateral]] to the conditioned eye.  Lesions to this area of INP result in an inability to acquire eyeblink CRs in naïve animals.  Additionally, the permanence of the localized lesion effect is remarkable.  In well-trained animals, CRs abolished as a result of lesion are not reacquired, even after extensive training that spans over 8 months (Steinmetz et al., 1992).  These results demonstrate that a highly localized region of cerebellum must be intact for CR learning to occur in EBC.
+
+===Reversible Inactivation Studies===
+
+Reversible inactivation of the INP has provided further evidence for its role in EC.  Methods used to temporarily inactivate nervous tissue include use of a cooling probe (< 10°C), and locally infusing [[Muscimol]] or [[Lidocaine]].  These methods are advantageous primarily because the experimenter can essentially turn neuteral tissue on and off, ''per se''.    The effect of each of these inactivation protocols on CR learning and execution has been tested throughout the cerebellum and associated brainstem structures.  When applied to the INP, temporary inactivation completely prevents learning of CRs in naïve animals, and learning occurs normally during post-inactivation training (Clark et al., 1992; Krupa et al., 1993; Nordholm et al., 1993; Krupa & Thompson, 1997).  Additionally, INP inactivation in well-trained animals results in a complete depression of conditioned responding, which returns to plateau levels when the INP comes back online (Clark et al., 1992).
+
+===Neural Recording Studies===
+
+Recordings of multiple-unit neuronal activity from rabbit INP during eyeblink conditioning have been possible with [[Chronic Electrode Implants]], and have revealed a population of cells that discharge prior to the initiation of the learned eyeblink CR and fire in a pattern of increased response frequency that predicted and modeled the temporal form of the behavioral CR (McCormick et al., 1981; 1982; 1983; Thompson, 1983; 1986; Foy et al., 1984; McCormick & Thompson, 1984a; b; Berthier & Moore, 1990; Gould & Steinmetz, 1996).  Similar results were found in the rat INP (Freeman & Nicholson, 2000; Stanton & Freemen, 2000; Rogers et al., 2001), thus demonstrating that underlying circuitry for this form of learning may be conserved across species.  Although samples of single-unit activity from the INP and surrounding nuclei have revealed a multitude of response patterns during EBC (Tracy, 1995), many of the cells in the anterior dorsolateral INP significantly increase their firing rate in a precise temporal pattern that is delayed from CS onset and precedes CR onset (Foy et al., 1984; Berthier & Moore, 1990).  This pattern of responding is indicative of a structure that is capable of encoding learning and/or executing learned behavioral responses.
+
+===Critical Sites for Learning Downstream?===
+ 
+Alternative sites of [[Synaptic plasticity]] critical to EBC have been posited to exist downstream from the cerebellum. Some proposed loci include the red nucleus (Tsukahara, Oda, and Notsu, 1981), the trigeminal nucleus and associated structures (Desmond & Moore, 1983), or the [[Facial motor nucleus]] (Woody et al., 1974).  All of these structures have been ruled out as potential sites of plasticity critical to learning the eyeblink CR (Krupa, Thompson, and Thompson, 1993; Clark and Lavond, 1996; Krupa, Weng, and Thompson, 1996).
+
+===Summary===
+
+Taken together, results from lesion, inactivation, and neural recording studies seem to demonstrate that the dorsolateral portion of the anterior interpositus nucleus (INP) of the cerebellum, ipsilateral to the trained eye, is an essential site for CR acquisition and expression in EBC (Lincoln et al., 1982; Lavond et al., 1984a,b).
+However recent studies (Nilaweera et al., 2006) found that temporary block of cerebellar output prevented normal acquisition of conditioned responses. The authors concluded that this form of associative learning in the rabbit eyeblink system requires extra-cerebellar learning and/or cerebellar learning that depends on the operation of cerebellar feedback loops.
+
+==Role of the Cerebellar Cortex==
+
+Two areas of cortex that are known to be involved in eyeblink conditioning are lobule HVI (Lavond et al., 1987; Lavond and Steinmetz, 1989; Yeo and Hardiman, 1992) and the anterior lobe ((ANT) Garcia, Steele, and Mauk, 1999).  '''The importance of cerebellar cortex in EBC, relative to INP, is a matter of debate in the scientific community.'''
+
+===Lesion Studies===
+
+Several studies have attempted to assess the role of the cerebellar cortex in eyeblink CR learning, and early studies focused on large aspiration lesions of cerebellar cortex.  Lavond and Steinmetz (1989) completely removed lobules HVI/HVIIa and significant portions of ANT, sparing INP, and found significant acquisition deficits. Compared to controls, lesioned animals took seven times longer to reach learning criterion.  Significant percentages of CRs were eventually reached by the cortically-lesioned animals, but the CRs were low in amplitude and poorly timed.  Finally, large lesions of cerebellar cortex after learning do not abolish learned CRs (Lavond et al., 1987).  One common factor in all of these cortical ablation studies was that portions of cortex were spared; making it possible to assume that other areas of cortex were compensating for the loss of tissue.
+
+===The ''pcd'' Mouse===
+
+Classical conditioning of a Purkinje cell deficient mutant mouse strain helped to determine the extent to which spared regions in cerebellar cortex were compensating for lesioned regions in the studies mentioned above.  These mice are born with PCs that die after about 3 weeks of life.  Because PCs are the sole output neuron of the cortex, this model effectively lesions all of cerebellar cortex.  Results of conditioning were similar to the cortical aspiration mice.  Mice took significantly longer to produce CRs, and the timing and gain of the response were distorted  (Chen et al., 1996).  Therefore, although eyeblink CR learning deficits are associated with cerebellar cortex lesions, the structure does not appear, ultimately, to be essential for CR learning or retention.
+
+===Reversible Inactivation Studies===
+
+Results from cerebellar cortical inactivation studies are similar to those reported for lesion studies.  For example, Krupa (1993) inactivated lobule HVI with the [[GABAA receptor|GABA<sub>A</sub> receptor]] [[agonist]] [[Muscimol]] and found significant acquisition deficits, but animals eventually learned.  Clark et al. (1997) replicated these results with a cooling probe in HVI.  Attwell, Rahman, and Yeo (2001) discovered similar disruption of with HVI inactivation.  They infused the AMPA receptor antagonist CNQX into HVI during acquisition training and found that [[CNQX]]-infused rabbits did not learn the eyeblink CR.  However, post-acquisition CNQX infusions did not affect retention.  These results are perplexing, given that animals ultimately learned the eyeblink CR in all other cerebellar cortical lesion and inactivation studies. One reason why this effect is so strong may be that Attwell et al., (2001) trained animals for only 4 days at an ISI that is outside of a range known to be optimal for learning [150-300 msec is an optimal CS-US interval and the magnitude of learning decreases as the ISI is increased (Schneiderman and Gormezano, 1964; Smith, Coleman, and Gormezano, 1969)].
+
+===Neural Recording Studies===
+
+Electrophysiological recording studies of cerebellar cortex have helped to better understand the role that PCs play in the eyeblink CR learning process.  McCormick and Thompson (1984b) recorded PC activity during eyeblink training and found cell populations that discharged in a pattern apparently related the behavioral CR, while other PC populations discharged in patterns that coincided with either presentation of the CS or US.  Similar results were found by Berthier and Moore (1986) with single unit recording of PCs in lobule HVI.  They found that populations of neurons fire in relation to various aspects of eyeblink training, including CS and US presentation and CR execution. (Berthier and Moore, 1986; Gould and Steinmetz, 1996). Recently, similar stimulus- and response-related PC activity has been found in ANT (Green and Steinmetz, 2005).  Finally, electrophysiological recordings of PCs in HVI and ANT have revealed a difference in the overall population responses of PCs.  The majority of PCs show excitatory patterns of activity during eyeblink conditioning in HVI (Berthier and Moore, 1986; Gould and Steinmetz, 1996; Katz and Steinmetz, 1997), and inhibitory patterns of activity in ANT (Green and Steinmetz, 2005). <br />In a single unit recording study where the  individual Purkinje cells were shown to be located in the area controlling blinks and to receive climbing fibre input on US presentations, only inhibitory responses were found.<ref>Hesslow G, Ivarsson M (1994) Suppression of cerebellar Purkinje cells during conditioned responses in ferrets. Neuroreport 5:649-652.</ref> In a recent study of similarly characterized Purkinje cells which were followed for up to more than fifteen hours, it was found that repeated presentations of the CS and US caused the gradual development of a pause in Purkinje cell firing.<ref>Jirenhed D-A, Bengtsson F, & Hesslow G (2007). Acquisition, Extinction, and Reacquisition of a Cerebellar Cortical Memory Trace. Journal of Neuroscience 27: 2493-2502</ref> This pause response, called a Purkinje cell CR, was also obtained when direct mossy fibre stimulation was used as the CS and direct climbing fibre stimulation as the US. Unpaired presentations of the CS and US caused extinction of the Purkinje cell CR. When paired presentations were reintroduced after extinction, Purkinje cell CRs reappeared rapidly, mirroring the "savings" phenomenon demonstrated at the behavioral level. Purkinje cell CRs were also adaptively timed.
+
+=== Feedback control of learning ===
+The deep cerebellar nuclei have been shown to inhibit the inferior olive and this inhbition probably serves a negative feedback control function.<ref>Bengtsson,F. and Hesslow,G. (2006). Cerebellar Control of the Inferior Olive. Cerebellum 5: 7-14</ref> As learning proceeds, the olive becomes inhibited and it has been shown that this inhibition has temporal properties that makes ideally suited to serve as a feedback signal for controlling learning. Stimulating this pathway during paired CS - US presentations causes extinction. Recordings from Purkinje cells show that the olive is depressed during the Purkinje cell CR.<ref>Rasmussen, A, Jirenhed, D.-A, Hesslow, G. (2008). Simple and Complex Spike Firing Patterns in Purkinje cells During Classical Conditioning. Cerebelllum. 7:563-566</ref>
+
+===Summary===
+
+Taken together, results from lesion, inactivation, and neural recording studies seem to demonstrate that the cerebellar cortex is not essential for basic eyeblink CR learning or retention, but that significant contributions from cortex underlie normal learning.
+
+==Synaptic Mechanisms Underlying EBC==
+===The Parallel Fiber - Purkinje Cell Synapse===
+
+[[Long term depression]] (LTD) at the PF-PC synapse is hypothesized to have significant functional consequences for learning the behavioral CR in EBC (Ito, 1984).  For example, as a result of training, INP cells discharge prior to CR execution and fire in a pattern of increased frequency of response that predicts the temporal form of the behavioral CR (McCormick & Thompson, 1984).  This pattern of activity clearly indicates that the INP is capable a generating a conditioned response. Purkinje cells of the cerebellar cortex tonically inhibit deep nuclear cells.  Therefore, an LTD-mediated decrease in PC activity at the appropriate time during a CS-US interval could release the INP from tonic inhibition and allow for execution of a CR.  An increase in PC activity could have the opposite effect, prohibiting or limiting CR execution.  It has been hypothesized that CRs are generated by the INP as a result of release from PC inhibition (i.e. Perrett et al., 1993).
+
+==See also==
+
+* [[Classical conditioning]]
+* [[Motor learning]]
+
+==References==
+<references />
+
+{{DEFAULTSORT:Eyeblink Conditioning}}
+[[Category:Experimental psychology]]
+[[Category:Cerebellum]]
+[[Category:Behavioral neuroscience]]

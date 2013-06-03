@@ -1,0 +1,49 @@
+{{Orphan|date=September 2010}}
+
+{{Drugbox
+| verifiedrevid = 451563029
+
+<!--Monoclonal antibody data-->
+| type = mab
+| mab_type = mab
+| source = o
+| target = [[T cell receptor|αβ T Cell Receptor]]
+
+<!--Clinical data-->
+| tradename =  
+| legal_status = Investigational New Drug (Renal Transplantation)
+| routes_of_administration = Intravenous
+
+<!--Chemical data-->
+}}
+
+'''TOL101''', is a [[murine]]-[[monoclonal]] [[antibody]] specific for the human [[αβ T cell receptor]]. In 2010 it was an [[Investigational New Drug]] under development by [[Tolera Therapeutics]], Inc.
+
+==Clinical progress==
+TOL101 is a clinical stage investigational drug. The safety and efficacy of TOL101 is currently the focus of a [[phase 2 clinical trial]] in [[renal transplant]] patients.[http://www.clinicaltrials.gov/ct2/results?term=tol101]
+
+==Orphan drug status==
+TOL101 was granted "orphan drug" status [http://www.fda.gov/ForIndustry/DevelopingProductsforRareDiseasesConditions/HowtoapplyforOrphanProductDesignation/default.htm] by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] for the treatment of recent onset immune-mediated [[Type 1 diabetes]] and for [[prophylaxis]] of [[acute rejection]] of [[solid organ]] [[Organ transplantation|transplant]]ation.
+
+==Rationale for development==
+There are numerous agents currently under investigation that are capable of modulating T cells. Currently used agents include [[anti-thymocyte globulin]](ATG) and [[alemtuzumab]], which not only affect T cells, but are also capable of modulating many other aspects of the immune system, often resulting in long-term broad spectrum immune suppression.<ref>{{Cite journal|doi=10.1056/NEJMoa060068 |author=Brennan, DC, Daller JA, Lake KD, Cibrik D, Del Castillo D |year=2006 |title=Rabbit antithymocyte globulin versus basiliximab in renal transplantation |journal=[[N Engl J Med]] |volume=355|issue=19 |pages=1967–77 |pmid=17093248 }}</ref><ref>{{Cite journal|pmid=17410187 |doi=10.1038/sj.leu.2404683|author=Mohty M |year=2007 |title=Mechanisms of action of antithymocyte globulin: T-cell depletion and beyond |journal=[[Leukemia (journal)|Leukemia]] |volume=21|issue=7 |pages=1387–94}}</ref> Antibodies specific for [[CD3]] such as [[teplizumab]] and [[otelixizumab]]<ref>{{Cite journal|pmid=20173776 |doi=10.1038/nrendo.2009.275 |author=Chatenoud L |year=2010 |title=Immune therapy for type 1 diabetes mellitus-what is unique about anti-CD3 antibodies? |journal=[[Nature (journal)|Nat Rev Endocrinol]] |volume=6 |issue=3 |pages=149–157}}</ref> show increased specificity for T cells compared to ATG and [[alemtuzumab]], but are still associated with infection and [[cytokine release syndrome]]. Targeting the [[αβ T cell]]s with TOL101 may reduce these issues through two mechanisms. First, infections are expected{{By whom|date=September 2010}} to be reduced through the preservation of [[γδ T cell]]s,<ref>{{Cite journal|pmid=18406365 |doi=10.1016/j.imbio.2007.10.006 |author=Beetz S, Wesch D, Marischen L, Welte S, Oberg HH, Kabelitz D |year=2008 |title=Innate immune functions of human gammadelta T cells |journal=[[Immunobiology (journal)|Immunobiology]] |volume=213|issue=3–4 |pages=173–82}}</ref> which have been shown to play an important role in controlling viruses such as [[cytomegalovirus]] (CMV),<ref>{{Cite journal|doi=10.1086/322843|pmid=11494158 |author=Lafarge X, Merville P, Cazin MC, Berge F, Potaux L, Moreau JF, Dechanet-Merville J |year=2001 |title=Cytomegalovirus infection in transplant recipients resolves when circulating gammadelta T lymphocytes expand, suggesting a protective antiviral role |journal=[[J Infect Dis]] |volume=184|issue=5 |pages=533–41}}</ref> often observed in antibody treated patients. Second, reductions in [[cytokine]] release are expected{{By whom|date=September 2010}} when targeting the αβ TCR because, unlike [[CD3 (immunology)|CD3 proteins]], the αβ TCR contains none of the [[immunoreceptor tyrosine-based activation motif]]s (ITAMS) required for T cell activation.{{Citation needed|date=September 2010}}
+
+==Mechanism of action==
+
+=== TOL101 modulates αβ T cells ===
+TOL101 has been shown in ''in vitro'' models to specifically modulate  αβ T cells. Incubation of [[peripheral blood monocyte]]s (PBMC) with TOL101 triggers rapid down modulation of the T cell receptor.<ref>{{Cite journal|author=Getts DR, Brown S, Siemionow M, Miller, SD |title=TOL101; a new aid to prevent allograft rejection |journal=[[American Journal of Transplantation]] |volume=9 |issue=Suppl 2 |pages=991–766, LB26}}</ref>{{Verify source|date=September 2010}} Importantly, this occurs without T cell proliferation or cytokine induction. Examination of the ability of TOL101 to modulate T cells in a humanized mouse model not only confirmed these ''in vitro'' results but also suggested that the T cell modulating capability of the drug occurred in a non-depletional fashion.<ref>{{Cite journal|author=Getts DR, Martin A, Siemionow M, Miller SD |title=Operational tolerance vs immune suppression, targeting the αβ TCR with TOL101 |journal=[[American Journal of Transplantation]] |volume=10 |issue=Suppl 4 1–608, LB07 }}</ref>
+
+===αβ T cells antibodies in experimental disease models===
+Targeting αβ T cells with antibodies has been tested in numerous experimental models of disease. The data suggest that in models of [[multiple sclerosis]] ([[Experimental autoimmune encephalomyelitis]]<ref>{{Cite journal|doi=10.1111/j.1365-3083.2006.01866.x|pmid=17212765 |author=Lavasani S, Dzhambazov B, ''et al.'' |year=2007 |title=Monoclonal antibody against T-cell receptor alphabeta induces self-tolerance in chronic experimental autoimmune encephalomyelitis |journal=[[Scandinavian Journal of Immunology]] |volume=65 |issue=1 |pages=39–47}}</ref>) and [[type 1 diabetes]] (Non-obese diabetic mice,<ref>{{Cite journal|doi=10.1002/eji.1830210511 |author=Sempe P, ''et al.'' |title=Anti-alpha/beta T cell receptor monoclonal antibody provides an efficient therapy for autoimmune diabetes in non-obese diabetic (NOD) mice|pmid=1828030 |journal=[[Eur J Immunol]] |volume=21|issue=5 |pages=1163–9 |year=1991 }}</ref>) anti-αβ TCR antibody therapy can ameliorate disease symptoms and progression.{{Verify source|date=September 2010}} The precise mechanism through which this occurs remains to be defined, however, it is likely to involve the induction of operational tolerance.{{Citation needed|date=September 2010}}
+
+==Chemistry==
+TOL101 is a murine IgM antibody.
+
+==References==
+{{Reflist}}
+{{Use dmy dates|date=September 2010}}
+
+{{DEFAULTSORT:Tol101}}
+[[Category:Antibodies]]
+[[Category:Immunomodulating drugs]]
+[[Category:Receptor modulators]]

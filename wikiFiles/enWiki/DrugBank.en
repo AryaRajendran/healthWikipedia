@@ -1,0 +1,39 @@
+The '''DrugBank''' database, available at the [[University of Alberta]], is a [[bioinformatics]] and [[cheminformatics]] resource that combines detailed drug (i.e., chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e., sequence, structure, pathway) information.<ref name="pmid18048412">{{cite journal |author=Wishart DS, Knox C, Guo AC, ''et al.'' |title=DrugBank: a knowledgebase for drugs, drug actions and drug targets |journal=[[Nucleic Acids Research]] |volume=36 |issue=Database issue |pages=D901–6 |year=2008 |pmid=18048412 |doi=10.1093/nar/gkm958 |url=http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=18048412 |pmc=2238889}}</ref><ref name="pmid21059682">{{cite journal|last=Knox|first=C|coauthors=Law, V, Jewison, T, Liu, P, Ly, S, Frolkis, A, Pon, A, Banco, K, Mak, C, Neveu, V, Djoumbou, Y, Eisner, R, Guo, AC, Wishart, DS|title=DrugBank 3.0: a comprehensive resource for 'omics' research on drugs.|journal=Nucleic Acids Research|date=2011 Jan|volume=39|issue=Database issue|pages=D1035–41|pmid=21059682|doi=10.1093/nar/gkq1126|pmc=3013709}}</ref> The database contains nearly 4800 drug entries including:
+* more than 1480 [[Food and Drug Administration (United States)|FDA]]-approved small molecule drugs
+* 128 FDA-approved biotech ([[protein]]/[[peptide]]) drugs
+* more than 71 [[nutraceutical]]s
+* more than 3200 experimental drugs<ref name="pmid16381955">{{cite journal |author=Wishart DS, Knox C, Guo AC, ''et al.'' |title=DrugBank: a comprehensive resource for in silico drug discovery and exploration |journal=[[Nucleic Acids Research]] |volume=34 |issue=Database issue|pages=D668–D672 |year=2006 |pmid=16381955|doi=10.1093/nar/gkj067 |url=http://nar.oxfordjournals.org/cgi/content/full/34/suppl_1/D668 |pmc=1347430}}</ref>
+
+More than 2500 protein (i.e., drug target, non-redundant) sequences are linked to these drug entries.<ref name="pmid16381955"/>
+
+Each ''DrugCard'' entry contains 148 data fields with half of the information being devoted to drug/chemical data and the other half devoted to drug target or protein data.<ref name="pmid21059682"/>
+
+It is maintained by David Wishart and Craig Knox.<ref name="pmid18048412"/>
+
+==Access==
+Users may query DrugBank in a number of ways:
+* Simple text queries of the entire textual component of the database are supported. Clicking on the ''Browse'' button generates a tabular synopsis of DrugBank's content. This view allows users to casually scroll through the database or re-sort its contents.
+* Clicking on a given ''DrugCard'' button brings up the full data content for the corresponding drug. A complete explanation of all the DrugCard fields and sources is given there.
+* The ''PharmaBrowse'' button allows users to browse through drugs as grouped by their indication. This is particularly useful for pharmacists and physicians, but also for pharmaceutical researchers looking for potential drug leads.
+* The ''ChemQuery'' button allows users to draw (using the [[MarvinSketch]] or [[ChemSketch]] applets) or write (as a [[SMILES]] string) a chemical compound and to search DrugBank for chemicals similar or identical to the query compound.
+* The ''TextQuery'' button supports a more sophisticated text search (partial word matches, case sensitive, misspellings, etc.) of the text portion of DrugBank.
+* The ''SeqSearch'' button allows users to conduct [[BLASTP]] (protein) sequence searches of the 18,000 sequences contained in DrugBank. Both single and multiple sequence (i.e. whole proteome) BLAST queries are supported.
+* The ''Data Extractor'' button opens an easy-to-use relational query search tool that allows users to select or search over various combinations of subfields. The ''Data Extractor'' is the most sophisticated search tool for DrugBank.
+* Users may download selected text components and sequence data from DrugBank and track the latest DrugBank statistics by clicking on the Download button.
+
+==See also==
+* [[ChemSpider]]
+* [[eMolecules]]
+* [[PubChem]]
+* [[Therapeutic Targets Database]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official|http://www.drugbank.ca }}
+* [http://www.panamp.ca/ The Metabolomics Innovation Centre]
+
+[[Category:Chemical databases]]
+[[Category:Metabolomic databases]]
+{{med-org-stub}}

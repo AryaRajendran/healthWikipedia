@@ -1,0 +1,139 @@
+{{see also|Twitch (disambiguation)|Tremor}}
+{{Merge from|Sliding filament model|date=February 2011}}
+[[File:Skeletal muscle.jpg|right|thumb|Top-down view of skeletal muscle]]
+[[Muscle fiber]] generates tension during the action of [[actin]] and [[myosin]] cross-bridge cycling.  While under tension, the [[muscle]] may [[#Eccentric contraction|lengthen]], [[#Concentric contraction|shorten]], or [[#Isometric contraction|remain the same]]. Although the term '''contraction''' implies shortening, when referring to the muscular system, it means muscle fibers generating tension with the help of [[motor neuron]]s (the terms '''twitch tension''', '''twitch force''', and '''fiber contraction''' are also used).
+
+Voluntary muscle contraction is controlled by the central nervous system. The brain sends signals, in the form of action potentials, through the nervous system to the motor neuron that [[nerve|innervates]] several muscle fibers. In the case of some reflexes, the signal to contract can originate in the spinal cord through a feedback loop with the [[grey matter]]. Involuntary muscles such as the heart or smooth muscles in the gut and vascular system contract as a result of non-conscious brain activity or stimuli proceeding in the body to the muscle itself.
+
+==Contractions, by muscle type==
+{{Unreferenced section|date=August 2009}}
+For voluntary muscles, all contraction (excluding reflexes) occurs as a result of conscious effort originating in the [[brain]]. The brain sends signals, in the form of [[action potential]]s, through the [[nervous system]] to the [[motor neuron]] that [[nerve|innervates]] several muscle fibers.<ref>{{cite book |last=Tassinary |last2=Cacioppo |year=2000 |chapter=The Skeletomotor system: surface electromyography |title=Handbook of Psychophysiology |edition=Second |editor1-first=John T. |editor1-last=Cacioppo |editor2-first=Luois G. |editor2-last=Tassinary |editor3-first=Gary G. |editor3-last=Berntson |location=Cambridge |publisher=Cambridge University Press |isbn=0-521-62634-X }}</ref> In the case of some [[reflexes]], the signal to contract can originate in the [[spinal cord]] through a feedback loop with the grey matter. Involuntary muscles such as the [[heart]] or [[smooth muscle]]s in the gut and vascular system contract as a result of [[Autonomic nervous system|non-conscious brain activity]] or stimuli endogenous to the muscle itself.  Other actions such as locomotion, breathing, and chewing have a reflex aspect to them: the contractions can be initiated consciously or unconsciously.
+
+There are three general types of muscle tissues:
+* [[Skeletal muscle]] responsible for movement
+* [[Cardiac muscle]] responsible for pumping blood
+* [[Smooth muscle]] responsible for sustained contractions in the blood vessels, [[gastrointestinal tract]], and other areas in the body.
+
+Skeletal and cardiac muscles are called [[striated muscle]] because of their striped appearance under a microscope, which is due to the highly organized alternating pattern of A band and I band.
+
+While nerve impulse profiles are, for the most part, always the same, skeletal muscles are able to produce varying levels of contractile force.  This phenomenon can be best explained by Force Summation.  Force Summation describes the addition of individual twitch contractions to increase the intensity of overall muscle contraction.  This can be achieved in two ways:<ref>{{cite journal |first=E. |last=Shwedyk |first2=R. |last2=Balasubramanian |first3=R. N. |last3=Scott |year=1977 |title=A nonstationary model for the Electromyogram |journal=IEEE Transactions on Biomedical Engineering |volume=24 |issue=5 |pages=417–424 |doi=10.1109/TBME.1977.326175 }}</ref> by increasing the number and size of contractile units simultaneously, called ''multiple fiber summation'', and by increasing the frequency at which action potentials are sent to muscle fibers, called ''frequency summation''.
+* '''Multiple fiber summation''' – When a weak signal is sent by the CNS to contract a muscle, the smaller motor units, being more excitable than the larger ones, are stimulated first.  As the [[Summation (neurophysiology)|strength of the signal]] increases, more motor units are excited in addition to larger ones, with the largest motor units having as much as 50 times the contractile strength as the smaller ones.  As more and larger motor units are activated, the force of muscle contraction becomes progressively stronger.  A concept known as the size principle, allows for a gradation of muscle force during weak contraction to occur in small steps, which then become progressively larger when greater amounts of force are required.
+*'''Frequency summation''' – For [[skeletal muscle]]s, the force exerted by the muscle is controlled by varying the frequency at which [[action potential]]s are sent to muscle fibers. Action potentials do not arrive at muscles synchronously, and, during a contraction, some fraction of the fibers in the muscle will be firing at any given time. In a typical circumstance, when a human is exerting a muscle as hard as he/she is consciously able, roughly one-third of the fibers in that muscle will be firing at once, though this ratio can be affected by various physiological and psychological factors (including [[Golgi tendon organ]]s and [[Renshaw cell]]s).  This 'low' level of contraction is a protective mechanism to prevent [[avulsion fracture|avulsion]] of the tendon&mdash;the force generated by a 95% contraction of all fibers is sufficient to damage the body.
+
+===Skeletal muscle contractions===
+[[File:Sarcomere.svg|right|thumb|Muscle fibers in relaxed (above) and contracted (below) positions]]
+[[File:Muskel-molekulartranslation.png|right|thumb|Molecular mechanisms of skeletal muscular function]]
+Skeletal muscles contract according to the ''[[sliding filament model]]'' see also ''[[Excitation-contraction coupling]]''
+
+#An [[action potential]] originating in the CNS reaches an [[alpha motor neuron]], which then transmits an action potential down its own [[axon]].
+#The action potential propagates by activating voltage-gated sodium channels along the axon toward the [[neuromuscular junction]]. When it reaches the junction, it causes a calcium ion influx through [[Calcium channel|voltage-gated calcium channels]].
+#The Ca<sup>2+</sup> influx causes vesicles containing the neurotransmitter [[acetylcholine]] to fuse with the plasma membrane, releasing acetylcholine out into the extracellular space between the motor neuron terminal and the neuromuscular junction of the skeletal muscle fiber.
+#The acetylcholine diffuses across the synapse and binds to and activates [[nicotinic acetylcholine receptors]] on the neuromuscular junction. Activation of the nicotinic receptor opens its intrinsic [[sodium]]/[[potassium]] channel, causing sodium to rush in and potassium to trickle out. Because the channel is more permeable to sodium, the charge difference between internal and external surfaces of the muscle fiber membrane becomes less negative, triggering an action potential.
+#The action potential spreads through the muscle fiber's network of [[T-tubule]]s, [[depolarization|depolarizing]] the inner portion of the muscle fiber.
+#The depolarization activates L-type voltage-dependent calcium channels ([[dihydropyridine receptor]]s) in the T tubule membrane, which are in close proximity to calcium-release channels ([[ryanodine receptor]]s) in the adjacent [[Endoplasmic reticulum#Sarcoplasmic reticulum|sarcoplasmic reticulum]].
+#Activated voltage-gated calcium channels physically interact with calcium-release channels to activate them, causing the sarcoplasmic reticulum to release calcium.
+#The calcium binds to the [[troponin C]] present on the [[actin]]-containing thin filaments of the [[myofibril]]s. The troponin then [[allosteric regulation|allosterically modulates]] the [[tropomyosin]]. Under normal circumstances, the tropomyosin sterically obstructs binding sites for myosin on the thin filament; once calcium binds to the troponin C and causes an allosteric change in the troponin protein, [[troponin T]] allows tropomyosin to move, unblocking the binding sites.
+#Myosin (which has [[Adenosine diphosphate|ADP]] and inorganic phosphate bound to its nucleotide binding pocket and is in a ready state) binds to the newly uncovered binding sites on the thin filament (binding to the thin filament is very tightly coupled to the release of inorganic phosphate). Myosin is now bound to actin in the strong binding state. The release of ADP and inorganic phosphate are tightly coupled to the power stroke (actin acts as a [[Cofactor (biochemistry)|cofactor]] in the release of inorganic phosphate, expediting the release). This will pull the Z-bands towards each other, thus shortening the [[sarcomere]] and the I-band.
+#[[Adenosine triphosphate|ATP]] binds to myosin, allowing it to release actin and be in the weak binding state (a lack of ATP makes this step impossible, resulting in the rigor state characteristic of [[rigor mortis]]). The myosin then hydrolyzes the ATP and uses the energy to move into the "cocked back" conformation. In general, evidence (predicted and ''in vivo'') indicates that each skeletal muscle myosin head moves 10–12&nbsp;nm each power stroke, however there is also evidence (''in vitro'') of variations (smaller and larger) that appear specific to the myosin isoform.
+#Steps 9 and 10 repeat as long as ATP is available and calcium is present on thin filament.
+#While the above steps are occurring, calcium is [[Active transport|actively pumped]] back into the sarcoplasmic reticulum. When calcium is no longer present on the thin filament, the tropomyosin changes conformation back to its previous state so as to block the binding sites again. The myosin ceases binding to the thin filament, and the contractions cease.
+
+The calcium ions leave the troponin molecule in order to maintain the calcium ion concentration in the sarcoplasm. The active pumping of calcium ions into the sarcoplasmic reticulum creates a deficiency in the fluid around the myofibrils. This causes the removal of calcium ions from the troponin. Thus, the tropomyosin-troponin complex again covers the binding sites on the actin filaments and contraction ceases.
+
+====Classification of voluntary muscular contractions====
+
+Skeletal muscle contractions can be broadly separated into twitch and [[tetanic contractions]].  In a twitch contraction, a short burst of stimulation causes the muscle to contract, but the duration is so short that the muscle begins relaxing before reaching peak force.  The shape of the graph of force vs time in a twitch contraction can give information about the relative rates of calcium release and re-uptake from the sarcoplasmic reticulum.  If the stimulation is long enough, the muscle reaches peak force and plateaus at this level, resulting in a tetanic contraction.  If the stimulation is not intense enough, force will oscilate during the plateau and be submaximal, but with sufficient stimulation, there will be a constant force level until stimulation stops.
+
+Voluntary muscular contractions can be further classified according to either length changes or force levels.  In spite of the fact that the muscle actually shortens only in concentric contractions, all are typically referred to as "contractions".
+
+* In [[#Concentric contraction|''concentric'' contraction]], the force generated is sufficient to overcome the resistance, and the muscle shortens as it contracts.  This is what most people think of as a muscle contraction.
+* In [[#Eccentric contraction|''eccentric'' contraction]], the force generated is insufficient to overcome the external load on the muscle and the muscle fibers lengthen as they contract.  An eccentric contraction is used as a means of decelerating a body part or object, or lowering a load gently rather than letting it drop.
+* In [[isometric contraction]], the muscle remains the same length.  An example would be holding an object up without moving it; the muscular force precisely matches the load, and no movement results.
+* In [[Isotonic (exercise physiology)|''isotonic'' contraction]], the tension in the muscle remains constant despite a change in muscle length. This can occur only when a muscle's maximal force of contraction exceeds the total load on the muscle.
+* In ''isovelocity'' contraction  (sometimes called "isokinetic"), the muscle contraction velocity remains constant, while force is allowed to vary.  True isovelocity contractions are rare in the body, and are primarily an analysis method used in experiments on isolated muscles that have been dissected out of the organism.
+
+In reality, muscles rarely perform under any sort of constant force, velocity, or speed, but these contractions are useful for understanding overall muscle properties present in more complex contractions that occur in vivo.  Cyclic in vivo contractions can be modeled using [[Work Loop|work loop]]s.
+
+
+===Smooth muscle contraction===
+{{See|Smooth muscle}}
+The interaction of sliding actin and myosin filaments is similar in [[smooth muscle]]. There are differences in the proteins involved in contraction in vertebrate smooth muscle compared to cardiac and skeletal muscle. Smooth muscle does not contain troponin, but does contain the thin filament protein tropomyosin and other notable proteins – caldesmon and calponin. Contractions are initiated by  the calcium-activated phosphorylation of myosin rather than calcium binding to troponin. Contractions in vertebrate smooth muscle are initiated by agents that increase intracellular calcium. This is a process of depolarizing the [[sarcolemma]] and extracellular calcium entering through L-type calcium channels, and intracellular calcium release predominately from the sarcoplasmic reticulum. Calcium release from the sarcoplasmic reticulum is from Ryanodine receptor channels (calcium sparks) by a redox process and Inositol triphosphate receptor channels by the second messenger inositol triphosphate. The intracellular calcium binds with [[calmodulin]], which then binds and activates [[myosin light-chain kinase]]. The calcium-calmodulin-myosin light-chain kinase complex phosphorylates myosin on the 20 [[Atomic mass unit|kilodalton]] (kDa) myosin light chains on amino acid residue-serine 19, initiating contraction and activating the [[myosin ATPase]]. The phosphorylation of caldesmon and calponin by various kinases is suspected to play a role in smooth muscle contraction.
+
+Phosphorylation of the 20 kDa myosin light chains correlates well with the shortening velocity of smooth muscle. During this period, there is a rapid burst of energy utilization as measured by oxygen consumption. Within a few minutes of initiation, the calcium level markedly decreases, the 20 kDa myosin light chains' phosphorylation decreases, and energy utilization decreases; however, force in tonic smooth muscle is maintained. During contraction of muscle, rapidly cycling crossbridges form between activated actin and phosphorylated myosin, generating force. It is hypothesized that the maintenance of force results from dephosphorylated "latch-bridges" that slowly cycle and maintain force. A number of kinases such as [[Rho kinase]], [[Zip kinase]], and [[Protein Kinase C]] are believed to participate in the sustained phase of contraction, and calcium flux may be significant.
+
+====Invertebrate smooth muscles====
+In invertebrate smooth muscle, contraction is initiated with calcium directly binding to myosin and then rapidly cycling cross-bridges generating force.  Similar to vertebrate tonic smooth muscle, there is a low calcium and low energy utilization catch phase. This sustained phase or catch phase has been attributed to a catch protein that is similar to myosin light-chain kinase and [[titin]], called [[twitchin]].
+
+==Contractions==
+=== Concentric contraction ===<!-- This section is linked from [[Weight training]] -->
+
+A '''concentric contraction''' or '''shortening contraction'''<ref name=Faulkner2003>{{cite pmid|12851415}}</ref> is a type of [[muscle]] contraction in which the muscles shorten while generating force. This occurs when the force generated by the muscle exceeds the load opposing its contraction.
+
+During a concentric contraction, a muscle is stimulated to contract according to the [[sliding filament mechanism]].  This occurs throughout the length of the muscle, generating force at the [[Tendon|musculo-tendinous junction]], causing the muscle to shorten and changing the angle of the joint.  In relation to the [[Elbow-joint|elbow]], a concentric contraction of the [[biceps]] would cause the [[arm]] to bend at the elbow as the hand moved from the leg to the shoulder (a [[biceps curl]]).  A concentric contraction of the [[Triceps brachii muscle|triceps]] would change the angle of the joint in the opposite direction, straightening the arm and moving the hand towards the leg.
+
+=== Eccentric contraction ===
+During an '''eccentric contraction'''  ('''lengthening contraction'''), the muscle elongates while under tension due to an opposing force greater than the muscle generates.<ref name = Ucal>{{cite web | url = http://muscle.ucsd.edu/musintro/contractions.shtml | title = Types of contractions | accessdate = 2007-10-02 | date = 2006-05-31  }}</ref>  Rather than working to pull a joint in the direction of the muscle contraction, the muscle acts to [[Acceleration|decelerate]] the joint at the end of a movement or otherwise control the repositioning of a load.  This can occur involuntarily (e.g., when attempting to move a weight too heavy for the muscle to lift) or voluntarily (e.g., when the muscle is 'smoothing out' a movement).  Over the short-term, [[strength training]] involving both eccentric and concentric contractions appear to increase [[muscular strength]] more than training with concentric contractions alone.<ref name="Colliander"/>  However, exercise-induced muscle damage is also greater during lengthening contractions.<ref>{{cite doi|10.1242/jeb.067470}}</ref>
+
+During an eccentric contraction of the [[Biceps brachii muscle|biceps muscle]], the [[elbow]] starts the movement while bent and then straightens as the hand moves away from the [[shoulder]].  During an eccentric contraction of the [[Triceps brachii muscle|triceps muscle]], the elbow starts the movement straight and then bends as the hand moves towards the shoulder.  [[Desmin]], [[titin]], and other z-line [[protein]]s are involved in eccentric contractions, but their mechanism is poorly understood in comparison to cross-bridge cycling in concentric contractions.<ref name = Ucal/>
+
+Though the muscle is doing a negative amount of [[mechanical work]], (work is being done ''on'' the muscle), chemical energy (in [[fat]], [[glucose]] or [[Adenosine triphosphate|ATP]]) is nevertheless consumed, although less than would be consumed during a concentric contraction of the same force.  For example, one expends more energy going up a flight of stairs than going down the same flight.
+
+Muscles undergoing heavy eccentric loading suffer greater damage when overloaded (such as during [[Muscle hypertrophy|muscle building]] or [[strength training]] exercise) as compared to concentric loading.  When eccentric contractions are used in weight training, they are normally called ''negatives''.  During a concentric contraction, muscle fibers slide across each other, pulling the Z-lines together.  During an eccentric contraction, the filaments slide past each other the opposite way, though the actual movement of the myosin heads during an eccentric contraction is not known.  Exercise featuring a heavy eccentric load can actually support a greater weight (muscles are approximately 40% stronger during eccentric contractions than during concentric contractions) and also results in greater muscular damage and [[delayed onset muscle soreness]] one to two days after training.  Exercise that incorporates both eccentric and concentric muscular contractions (i.e., involving a strong contraction and a controlled lowering of the weight) can produce greater gains in strength than concentric contractions alone.<ref name = Colliander>{{cite journal |author=Colliander EB, Tesch PA |title=Effects of eccentric and concentric muscle actions in resistance training |journal=Acta Physiol. Scand. |volume=140 |issue=1 |pages=31–9 |year=1990 |pmid=2275403 |doi=10.1111/j.1748-1716.1990.tb08973.x}}</ref><ref>{{cite book | last = Brooks | first =  G.A |coauthors = Fahey, T.D. & White, T.P. |year = 1996| title = Exercise Physiology: Human Bioenergetics and Its Applications. (2nd ed.). | publisher = Mayfield Publishing Co}}</ref>  While unaccustomed heavy eccentric contractions can easily lead to [[overtraining]], moderate training may confer protection against injury.<ref name = Colliander/>
+
+==== Eccentric contractions in movement ====
+Eccentric contractions normally occur as a braking force in opposition to a concentric contraction to protect joints from damage.  During virtually any routine movement, eccentric contractions assist in keeping motions smooth, but can also slow rapid movements such as a punch or throw.  Part of training for rapid movements such as [[pitcher|pitching]] during baseball involves reducing eccentric braking allowing a greater power to be developed throughout the movement.
+
+Eccentric contractions are being researched for their ability to speed rehab of weak or injured tendons. [[Achilles tendinitis]] has been shown to benefit from high-load eccentric contractions.<ref>{{cite journal |author=Alfredson H, Pietilä T, Jonsson P, Lorentzon R |title=Heavy-load eccentric calf muscle training for the treatment of chronic Achilles tendinosis |journal=Am J Sports Med |volume=26 |issue=3 |pages=360–6 |year=1998 |pmid=9617396 |doi= |url=http://ajs.sagepub.com/cgi/pmidlookup?view=long&pmid=9617396}}</ref><ref>{{cite journal | title = Effectiveness of physical therapy for Achilles tendinopathy: An evidence based review of eccentric exercises | url = http://iospress.metapress.com/openurl.asp?genre=article&issn=0959-3020&volume=14&issue=1&spage=71 | journal = |Isokinetics and Exercise Science | volume = 14 | issue = 1 | year = 2006 | pages = 71–80 | last = Satyendra1, | first = L | coauthors = Byl N }}</ref>
+
+=== Isometric contraction ===
+{{Main|Isometric exercise}}
+An '''isometric contraction''' of a muscle generates force without changing length.  An example can be found when the muscles of the [[hand]] and [[forearm]] grip an object; the [[joint]]s of the hand do not move, but muscles generate sufficient force to prevent the object from being dropped.
+
+==Force-length and force-velocity relationships==
+{{Details|Hill's muscle model}}
+
+Unlike mechanical systems such as motors, the force a muscle can generate depends upon both the length and shortening velocity of the muscle.
+
+[[File:Lengthtension.jpg|thumb|left|Muscle length versus isometric force]]
+''Force-length relationship'', also called the length-tension curve, relates the strength of an isometric contraction to the length of the muscle at which the contraction occurs. Muscles operate with greatest active force when close to an ideal length (often their resting length).  When stretched or shortened beyond this (whether due to the action of the muscle itself or by an outside force), the maximum active force generated decreases.<ref name="1stLT">{{cite journal |last=Gordon |first=A. M. |last2=Huxley |first2=A. F. |last3=Julian |first3=F. J. |year=1966 |title=Variation in isometric tension with sarcomere length in vertebrate muscle ﬁbres |journal=Journal of Physiology |location=London |volume=184 |issue=1 |pages=170–192 |doi= |pmc=1357553 }}</ref>  This decrease is minimal for small deviations, but the force drops off rapidly as the length deviates further from the ideal.  As a result, in most biological systems, the range of muscle contraction will remain on the peak of the length-tension curve, in order to maximize contraction force (a notable exception is cardiac muscle which functions on ascending limb so it can increase force when stretched by an increase in preload-Starling's law).  Due to the presence of elastic proteins within a muscle (such as titin), as the muscle is stretched beyond a given length, there is an entirely passive force, which opposes lengthening.  Combined together, we see a strong resistance to lengthening an active muscle far beyond the peak of active force.
+
+[[Image:Muscle Force Velocity relationship.png|thumb|300px|Force–velocity relationship of muscle contraction|Force–velocity relationship: right of the vertical axis concentric contractions (the muscle is shortening), left of the axis excentric contractions (the muscle is lengthened under load); power developed by the muscle in red.]]
+''Force–velocity relationship'': The speed at which a muscle changes length (usually regulated by external forces, such as load or other muscles) also affects the force it can generate.  Force declines in a hyperbolic fashion relative to the isometric force as the shortening velocity increases, eventually reaching zero at some maximum velocity. The reverse holds true for when the muscle is stretched – force increases above isometric maximum, until finally reaching an absolute maximum.  This has strong implications for the rate at which muscles can perform mechanical work (power).  Since power is equal to force times velocity, the muscle generates no power at either isometric force (due to zero velocity) or maximal velocity (due to zero force).  Instead, the optimal shortening velocity for power generation is approximately one-third of maximum shortening velocity.
+
+These two fundamental properties of muscle have numerous biomechanical consequences, including limiting running speed, strength, and jumping distance and height.
+
+==See also==
+* [[Exercise physiology]]
+* [[Cramp]]
+* [[Dystonia]]
+* [[Fasciculation]]
+* [[Hypnic jerk]]
+* [[In vitro muscle testing]]
+* [[Myoclonus]]
+* [[Spasm]]
+* [[Supination]]
+* [[Uterine contraction]]
+* [[Hill's muscle model]]
+
+==Additional images==
+<gallery>
+File:Querbrückenzyklus 1.png|Phase 1
+File:Querbrückenzyklus 2.png|Phase 2
+File:Querbrückenzyklus 3.png|Phase 3
+File:Querbrückenzyklus 4.png|Phase 4
+</gallery>
+
+==References==
+<references/>
+
+==External links==
+* [http://medchrome.com/basic-science/physiology/mechanism-of-skeletal-muscle-contraction Physiology of Skeletal Muscle contraction | Medchrome]
+* [http://highered.mcgraw-hill.com/sites/0072495855/student_view0/chapter10/animation__myofilament_contraction.html Animation: Myofilament Contraction]
+
+{{Muscular system}}
+{{Musculoskeletal physiology}}
+
+{{DEFAULTSORT:Muscle Contraction}}
+[[Category:Exercise physiology]]
+[[Category:Muscular system]]
+[[Category:Skeletal muscle]]

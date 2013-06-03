@@ -1,0 +1,20 @@
+'''Number needed to vaccinate''' (NNV) is a metric used in the evaluation of [[vaccine]]s,<ref name="pmid15149776">{{cite journal |author=Kelly H, Attia J, Andrews R, Heller RF |title=The number needed to vaccinate (NNV) and population extensions of the NNV: comparison of influenza and pneumococcal vaccine programmes for people aged 65 years and over |journal=Vaccine |volume=22 |issue=17–18 |pages=2192–8 |year=2004 |month=June |pmid=15149776 |doi=10.1016/j.vaccine.2003.11.052 |url=http://linkinghub.elsevier.com/retrieve/pii/S0264410X03008570}}</ref><ref name="pmid19009921">{{cite journal |author=Brisson M |title=Estimating the number needed to vaccinate to prevent herpes zoster-related disease, health care resource use and mortality |journal=Can J Public Health |volume=99 |issue=5 |pages=383–6 |year=2008 |pmid=19009921 |doi= |url=}}</ref><ref name="pmid17766517">{{cite journal |author=Lewis EN, Griffin MR, Szilagyi PG, Zhu Y, Edwards KM, Poehling KA |title=Childhood influenza: number needed to vaccinate to prevent 1 hospitalization or outpatient visit |journal=Pediatrics |volume=120 |issue=3 |pages=467–72 |year=2007 |month=September |pmid=17766517 |doi=10.1542/peds.2007-0167 |url=http://pediatrics.aappublications.org/cgi/pmidlookup?view=long&pmid=17766517}}</ref> and in the determination of vaccination policy. It is a specific application of the [[number needed to treat]] metric (NNT) that incorporates the implications of [[herd immunity]].
+
+In order to determine a NNV, it is necessary to identify a specific population and a defined endpoint, because these can vary:
+* [[Tuberculosis]] vaccination rates are much higher in Europe than in the United States.
+* When evaluating a vaccine against [[chickenpox]], it is necessary to define whether or not the endpoint would include shingles due to reactivation.
+* If evaluating a [[HIV vaccine]], the NNV may vary depending upon the expected standard of care in the absence of a vaccine, which may vary from continent to continent.
+* If an infectious disease is acute and highly lethal, there may be large differences in the impact of the vaccine upon [[Incidence (epidemiology)|incidence]] and [[prevalence]].
+
+For example, one study reported a number needed to vaccinate of 5206 for invasive [[pneumococcal]] disease.<ref name="pmid18433473">{{cite journal |author=Mooney JD, Weir A, McMenamin J, ''et al.'' |title=The impact and effectiveness of pneumococcal vaccination in Scotland for those aged 65 and over during winter 2003/2004 |journal=BMC Infect. Dis. |volume=8|pages=53 |year=2008 |pmid=18433473 |pmc=2386805 |doi=10.1186/1471-2334-8-53 |url=http://www.biomedcentral.com/1471-2334/8/53}}</ref>
+
+Still, despite the limitations, the NNV can serve as a useful resource. For example, it can be used to report the results of computer simulations of varying vaccination strategies.<ref name="pmid15297068">{{cite journal |author=Van Rie A, Hethcote HW |title=Adolescent and adult pertussis vaccination: computer simulations of five new strategies |journal=Vaccine |volume=22 |issue=23–24 |pages=3154–65 |year=2004 |month=August |pmid=15297068 |doi=10.1016/j.vaccine.2004.01.067 |url=http://linkinghub.elsevier.com/retrieve/pii/S0264410X04001793}}</ref>
+
+==References==
+{{reflist|2}}
+
+{{Vaccines}}
+
+[[Category:Vaccination]]
+[[Category:Medical statistics]]
+[[Category:Epidemiology]]

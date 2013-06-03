@@ -1,0 +1,106 @@
+{{protein
+|Name= [[IL2RA|interleukin 2 receptor, alpha]]
+|caption=
+| image = Protein_IL2RA_PDB_1z92.png
+| image_source = [[Protein_Data_Bank|PDB]] rendering based on 1z92.
+|width=
+|HGNCid=6008
+|Symbol=[[IL2RA]]
+|AltSymbols=IL2R CD25
+|EntrezGene=3559
+|OMIM=147730
+|RefSeq=NM_000417
+|UniProt=P01589
+|PDB=
+|ECnumber=
+|Chromosome=10
+|Arm=p
+|Band=15.1
+|LocusSupplementaryData=
+}}
+{{protein
+|Name= [[IL2RB|interleukin 2 receptor, beta]]
+|caption=
+| image = Protein_IL2RB_PDB_2b5i.png
+| image_source = [[Protein_Data_Bank|PDB]] rendering based on 2b5i.
+|width=
+|HGNCid=6009
+|Symbol=[[IL2RB]]
+|AltSymbols=CD122
+|EntrezGene=3560
+|OMIM=146710
+|RefSeq=NM_000878
+|UniProt=P14784
+|PDB=
+|ECnumber=
+|Chromosome=22
+|Arm=q
+|Band=13
+|LocusSupplementaryData=
+}}
+{{protein
+|Name= [[IL2RG|interleukin 2 receptor, gamma]] ([[severe combined immunodeficiency]])
+|caption=
+|image = Protein_IL2RG_PDB_2b5i.png
+|image_source = Crystallographic structure of [[Interleukin 2|IL-2]] (center [[alpha helix|alpha helices]]) complexed with the common gamma chain (IL2RG; 10 O'Clock to 1 O'Clock), [[IL2RA]]  (4 O'Clock), and [[IL2RB]] (7 O'Clock to 9 O'Clock).  Each protein is individually rainbow colored ([[N-terminus]] = blue, [[C-terminus]] = red).<ref name="pmid16293754">{{PDB|2B5I}}{{cite journal | author = Wang X, Rickert M, Garcia KC | title = Structure of the quaternary complex of interleukin-2 with its alpha, beta, and gammac receptors | journal = Science | volume = 310 | issue = 5751 | pages = 1159–63 | year = 2005 | month = November | pmid = 16293754 | doi = 10.1126/science.1117893 | url = | issn = }}</ref>
+|width=
+|HGNCid=6010
+|Symbol=[[IL2RG]]
+|AltSymbols=SCIDX1, IMD4, CD132
+|EntrezGene=3561
+|OMIM=308380
+|RefSeq=NM_000206
+|UniProt=P31785
+|PDB=
+|ECnumber=
+|Chromosome=X
+|Arm=q
+|Band=13
+|LocusSupplementaryData=
+}}
+
+The '''interleukin-2 receptor''' ('''IL-2R''') is a [[trimer (biochemistry)|heterotrimeric]] protein expressed on the surface of certain immune cells, such as [[lymphocyte]]s, that binds and responds to a [[cytokine]] called IL-2.  The IL-2R is made up of 3 subunits - α (CD25), β (CD122) and γ (CD132) - [[non-covalent]]ly associating.  The α and β chains are involved in binding IL-2, while [[signal transduction]] following cytokine interaction is carried out by the γ-chain, along with the β subunit.  The β and γ chains of the IL-2R are members of the [[type I cytokine receptor]] family.
+
+==Discovery and characterization==
+
+The IL-2 receptor (IL-2R) was the first [[interleukin]] receptor to be described and characterized by Kendall Smith and his team at Dartmouth Medical School.<ref name="pmid6975347">{{cite journal | author = Robb RJ, Munck A, Smith KA | title = T cell growth factor receptors. Quantitation, specificity, and biological relevance | journal = J. Exp. Med. | volume = 154 | issue = 5 | pages = 1455–74 | year = 1981 | pmid = 6975347 | doi = 10.1084/jem.154.5.1455 | pmc = 2186509 }}</ref> It was found to have a high affinity binding site and is expressed by antigen-activated T lymphocytes ([[T cell]]s). Radiolabeled IL-2 concentrations found to saturate these sites (e.g. 1-100 pM) were identical to those determined to promote T cell [[cell growth|proliferation]]. Subsequently, the three distinct receptor chains, termed alpha ([[IL2RA|α]]),<ref name="pmid6815536">{{cite journal | author = Leonard WJ, Depper JM, Uchiyama T, Smith KA, Waldmann TA, Greene WC | title = A monoclonal antibody that appears to recognize the receptor for human T-cell growth factor; partial characterization of the receptor | journal = Nature | volume = 300 | issue = 5889 | pages = 267–9 | year = 1982 | pmid = 6815536 | doi = 10.1038/300267a0 }}</ref> beta ([[IL2RB|β]])<ref name="pmid3095922">{{cite journal | author = Sharon M, Klausner RD, Cullen BR, Chizzonite R, Leonard WJ | title = Novel interleukin-2 receptor subunit detected by cross-linking under high-affinity conditions | journal = Science | volume = 234 | issue = 4778 | pages = 859–63 | year = 1986 | pmid = 3095922 | doi = 10.1126/science.3095922 }}</ref><ref name="pmid3098894">{{cite journal | author = Teshigawara K, Wang HM, Kato K, Smith KA | title = Interleukin 2 high-affinity receptor expression requires two distinct binding proteins | journal = J. Exp. Med. | volume = 165 | issue = 1 | pages = 223–38 | year = 1987 | pmid = 3098894 | doi = 10.1084/jem.165.1.223 | pmc = 2188268 }}</ref><ref name="pmid3108887">{{cite journal | author = Tsudo M, Kozak RW, Goldman CK, Waldmann TA | title = Contribution of a p75 interleukin 2 binding peptide to a high-affinity interleukin 2 receptor complex | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 84 | issue = 12 | pages = 4215–8 | year = 1987 | pmid = 3108887 | doi = 10.1073/pnas.84.12.4215 | pmc = 305055 }}</ref> and gamma ([[IL2RG|γ]])<ref name="pmid1545122">{{cite journal | author = Takeshita T, Ohtani K, Asao H, Kumaki S, Nakamura M, Sugamura K | title = An associated molecule, p64, with IL-2 receptor beta chain. Its possible involvement in the formation of the functional intermediate-affinity IL-2 receptor complex | journal = J. Immunol. | volume = 148 | issue = 7 | pages = 2154–8 | year = 1992 | pmid = 1545122 | doi = | issn = | url = http://www.jimmunol.org/cgi/content/abstract/148/7/2154 }}</ref> were identified.  The high [[Affinity (pharmacology)|affinity]] of IL-2 binding is created by a rapid association rate (k = 10<sup>7</sup>/M/s) contributed by the alpha chain, and a relatively slow dissociation rate (k' = 10<sup>−4</sup>/s) contributed by the beta and gamma chains.<ref name="pmid3116143">{{cite journal | author = Wang HM, Smith KA | title = The interleukin 2 receptor. Functional consequences of its bimolecular structure | journal = J. Exp. Med. | volume = 166 | issue = 4 | pages = 1055–69 | year = 1987 | pmid = 3116143 | doi = 10.1084/jem.166.4.1055 | pmc = 2188729 }}</ref><ref name="pmid8049354">{{cite journal | author = Johnson K, Choi Y, Wu Z, Ciardelli T, Granzow R, Whalen C, Sana T, Pardee G, Smith K, Creasey A | title = Soluble IL-2 receptor beta and gamma subunits: ligand binding and cooperativity | journal = Eur. Cytokine Netw. | volume = 5 | issue = 1 | pages = 23–34 | year = 1994 | pmid = 8049354 | doi = | issn = }}</ref>
+
+==Structure-activity relationships of the IL-2/IL-2R interaction==
+{{unclear|date=April 2012}}
+Detailed experiments over a decade (1990s) using a rigorous reductionist approach with isolated purified receptor chains and [[Surface plasmon resonance]] revealed that the alpha chain of the IL-2R can bind to the beta chain before receptor interaction with IL-2, and that the IL-2Rα/β heterodimer formed has a faster association rate and a slower dissociation rate when binding IL-2 versus either chain alone.<ref name="pmid10556880">{{cite journal | author = Liparoto SF, Ciardelli TL | title = Biosensor analysis of the interleukin-2 receptor complex | journal = J. Mol. Recognit. | volume = 12 | issue = 5 | pages = 316–21 | year = 1999 | pmid = 10556880 | doi = 10.1002/(SICI)1099-1352(199909/10)12:5<316::AID-JMR468>3.0.CO;2-1 }}</ref> The gamma chain alone has a very weak affinity for IL-2 (K<sub>d</sub> > 700 uM), but after IL-2 is bound to the α/β heterodimer, the gamma chain becomes recruited to the IL2/IL2R complex to form a very stable [[macromolecular]] quaternary ligand/receptor complex. These data were recently confirmed and extended by energetics experiments using [[Isothermal Titration Calorimetry]] and Multi-Angle Light [[Scattering]].<ref name="pmid15178252">{{cite journal | author = Rickert M, Boulanger MJ, Goriatcheva N, Garcia KC | title = Compensatory energetic mechanisms mediating the assembly of signaling complexes between interleukin-2 and its alpha, beta, and gamma(c) receptors | journal = J. Mol. Biol. | volume = 339 | issue = 5 | pages = 1115–28 | year = 2004 | pmid = 15178252 | doi = 10.1016/j.jmb.2004.04.038 }}</ref>
+
+The 3-dimensional structure of the three IL-2R chains binding IL-2 was determined by [[X-ray crystallography]].<ref name="pmid16293754">{{cite journal | author = Wang X, Rickert M, Garcia KC | title = Structure of the quaternary complex of interleukin-2 with its alpha, beta, and gammac receptors | journal = Science | volume = 310 | issue = 5751 | pages = 1159–63 | year = 2005 | pmid = 16293754 | doi = 10.1126/science.1117893 }}</ref><ref name="pmid16477002">{{cite journal | author = Stauber DJ, Debler EW, Horton PA, Smith KA, Wilson IA | title = Crystal structure of the IL-2 signaling complex: paradigm for a heterotrimeric cytokine receptor | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 103 | issue = 8 | pages = 2788–93 | year = 2006 | pmid = 16477002 | doi = 10.1073/pnas.0511161103 | pmc = 1413841 }}</ref>
+
+The sites on the IL-2 molecule that interact with the three receptor chains do not overlap, except for a small but significant region. The IL-2 molecule is composed of four antiparallel [[alpha helix|alpha helices]] and it is held between the beta and gamma chains, which converge to form a Y shape; IL-2 is held in the fork of the Y. The other side of the IL-2 molecule binds to the IL-2R alpha chain.  The alpha chain itself does not contact either beta or gamma chain of the IL-2R. Following the binding of IL-2, the beta chain undergoes a conformational change that evidently increases its affinity for the gamma chain, thereby attracting it to form a stable quaternary molecular complex.
+
+==Signaling==
+
+The three IL-2 receptor chains span the [[cell membrane]] and extend into the cell, thereby delivering biochemical signals to the cell interior. The alpha chain does not participate in signaling, but the beta chain is complexed with an [[enzyme]] called [[Janus kinase 1]] (JAK1), that is capable of adding phosphate groups to molecules.  Similarly the gamma chain  complexes with another [[tyrosine kinase]] called [[Janus kinase|JAK3]].<ref name="pmid7514277">{{cite journal | author = Nelson BH, Lord JD, Greenberg PD | title = Cytoplasmic domains of the interleukin-2 receptor beta and gamma chains mediate the signal for T-cell proliferation | journal = Nature | volume = 369 | issue = 6478 | pages = 333–6 | year = 1994 | pmid = 7514277 | doi = 10.1038/369333a0 }}</ref><ref name="pmid7973658">{{cite journal | author = Russell SM, Johnston JA, Noguchi M, Kawamura M, Bacon CM, Friedmann M, Berg M, McVicar DW, Witthuhn BA, Silvennoinen O | title = Interaction of IL-2R beta and gamma c chains with Jak1 and Jak3: implications for XSCID and XCID | journal = Science | volume = 266 | issue = 5187 | pages = 1042–5 | year = 1994 | pmid = 7973658 | doi = 10.1126/science.7973658 }}</ref> These enzymes are activated by IL-2 binding to the external domains of the IL-2R. As a consequence, three intracellular signaling pathways are initiated, the [[MAPK/ERK pathway|MAP kinase pathway]],<ref name="pmid1708096">{{cite journal | author = Zmuidzinas A, Mamon HJ, Roberts TM, Smith KA | title = Interleukin-2-triggered Raf-1 expression, phosphorylation, and associated kinase activity increase through G1 and S in CD3-stimulated primary human T cells | journal = Mol. Cell. Biol. | volume = 11 | issue = 5 | pages = 2794–803 | year = 1991 | pmid = 1708096 | doi = | issn = | url = http://mcb.asm.org/cgi/content/abstract/11/5/2794 | pmc = 360057 }}</ref> the [[Phosphoinositide 3-kinase]] (PI3K) pathway,<ref name="pmid14660677">{{cite journal | author = Moon JJ, Rubio ED, Martino A, Krumm A, Nelson BH | title = A permissive role for phosphatidylinositol 3-kinase in the Stat5-mediated expression of cyclin D2 by the interleukin-2 receptor | journal = J. Biol. Chem. | volume = 279 | issue = 7 | pages = 5520–7 | year = 2004 | pmid = 14660677 | doi = 10.1074/jbc.M308998200 }}</ref> and the [[JAK-STAT pathway]].<ref name="Moriggl_1999">{{cite journal | author = Moriggl R, Topham DJ, Teglund S, Sexl V, McKay C, Wang D, Hoffmeyer A, van Deursen J, Sangster MY, Bunting KD, Grosveld GC, Ihle JN | title = Stat5 is required for IL-2-induced cell cycle progression of peripheral T cells | journal = Immunity | volume = 10 | issue = 2 | pages = 249–59 | year = 1999 | pmid = 10072077 | doi = 10.1016/S1074-7613(00)80025-4 }}</ref>
+
+==T cell proliferation==
+
+Once IL-2 binds to the external domains of the IL-2R and the cytoplasmic domains are engaged, signaling continues until the IL-2/IL-2R complex is internalized and degraded. However, each cell only decides to make the irrevocable commitment to replicate its DNA and undergo mitosis and [[cytokinesis]] when a critical number of IL-2Rs have been triggered.<ref name="pmid6427923">{{cite journal | author = Cantrell DA, Smith KA | title = The interleukin-2 T-cell system: a new cell growth model | journal = Science | volume = 224 | issue = 4655 | pages = 1312–6 | year = 1984 | pmid = 6427923 | doi = 10.1126/science.6427923 }}</ref> Given that the half-time for internalization of IL-2 occupied IL-2Rs is ~ 15 minutes,<ref name="pmid2688708">{{cite journal | author = Smith KA | title = The interleukin 2 receptor | journal = Annu. Rev. Cell Biol. | volume = 5 | issue = 1| pages = 397–425 | year = 1989 | pmid = 2688708 | doi = 10.1146/annurev.cb.05.110189.002145 }}</ref> it is possible to calculate the number of triggered IL-2Rs necessary. Thus, the critical number of triggered IL-2Rs is ~ 30,000. In as much that the mean number of high affinity IL-2Rs on antigen-activated T cells is only ~ 1,000, it appears that new receptors must be synthesized before the cell makes the quantal, all-or-none decision to  divide.<ref name="pmid16467871">{{cite journal | author = Smith KA | title = The quantal theory of immunity | journal = Cell Res. | volume = 16 | issue = 1 | pages = 11–9 | year = 2006 | pmid = 16467871 | doi = 10.1038/sj.cr.7310003 }}</ref> Accordingly, a mean of at least 11 hours of IL-2/IL-2R interaction are necessary before a cell decides to undergo DNA replication.
+
+Until recently, the intracellular molecules activated by the IL-2R at the cell membrane that are responsible for promoting cell cycle progression were obscure. However, early on it was shown that IL-2Rs triggered the expression of [[cyclin]] D2 and cyclin D3.<ref name="pmid8268127">{{cite journal | author = Turner JM | title = IL-2-dependent induction of G1 cyclins in primary T cells is not blocked by rapamycin or cyclosporin A | journal = Int. Immunol. | volume = 5 | issue = 10 | pages = 1199–209 | year = 1993 | pmid = 8268127 | doi = 10.1093/intimm/5.10.1199 }}</ref> Now it is known that the [[STAT protein|STAT5a]]/b molecules activated by the IL-2R via the JAK1/3 kinases promote the transcriptional activation of the D cyclins.<ref name="Moriggl_1999"/> As well, via the activation of the PI3K pathway, an inhibitor of cyclin-D/CDK activity (p27) is targeted for degradation.<ref name="pmid7990932">{{cite journal | author = Nourse J, Firpo E, Flanagan WM, Coats S, Polyak K, Lee MH, Massague J, Crabtree GR, Roberts JM | title = Interleukin-2-mediated elimination of the p27Kip1 cyclin-dependent kinase inhibitor prevented by rapamycin | journal = Nature | volume = 372 | issue = 6506 | pages = 570–3 | year = 1994 | pmid = 7990932 | doi = 10.1038/372570a0 }}</ref> Both of these biochemical events, as well as others activated via the IL-2R<ref name="pmid11160217">{{cite journal | author = Martino A, Holmes JH, Lord JD, Moon JJ, Nelson BH | title = Stat5 and Sp1 regulate transcription of the cyclin D2 gene in response to IL-2 | journal = J. Immunol. | volume = 166 | issue = 3 | pages = 1723–9 | year = 2001 | pmid = 11160217 | doi = | issn = | url = http://www.jimmunol.org/cgi/content/abstract/166/3/1723 }}</ref> ultimately promote progression through G1 of the cell cycle and through the G1 restriction point, thereby triggering the onset of DNA synthesis and replication. 
+
+The IL-2R also signals negative feedback loops that function to inhibit IL-2 gene expression. These loops either shut down signaling via the T cell antigen receptor by activating the expression of CTLA-4, or by activating the expression of FOXP3, which as a negative regulator of IL-2 transcription operates at the level of the IL-2 promoter. 
+
+Other recent data indicate that T cells that express FOXP3 (T regulatory cells) can suppress other T  cells by binding IL-2 via the high affinity IL-2R, and followed by internalization of the quaternary IL-2/IL-2R complex, degrade IL-2. Thus, the concentration of IL-2 available determines the tempo, magnitude and extent of T cell immune responses.
+
+==Clinical implications==
+Drugs that inhibit IL-2 receptors, such as [[basiliximab]] and [[daclizumab]] are used in conjunction with other drugs to prevent [[Transplant rejection|immune rejection of transplants]].
+
+==See also==
+[[CD25 deficiency]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{MeshName|Interleukin-2+Receptors}}
+
+{{Cytokine receptors}}
+{{Clusters of differentiation}}
+
+[[Category:Cytokine receptors]]
+[[Category:Integral membrane proteins]]

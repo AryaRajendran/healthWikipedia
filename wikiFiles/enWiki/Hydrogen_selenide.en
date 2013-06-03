@@ -1,0 +1,105 @@
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 451943251
+|   Name = Hydrogen selenide
+|   ImageFileL1 = Hydrogen-selenide-2D-dimensions.png
+|   ImageSizeL1 = 130px
+|   ImageNameL1 = Structural diagram of the hydrogen selenide molecule
+|   ImageFileR1 = Hydrogen-selenide-3D-vdW.png
+<!-- | ImageSizeR1 = 120px  -->
+|   ImageNameR1 = Space-filling model of the hydrogen selenide molecule
+|   IUPACName = Hydrogen selenide
+|   OtherNames = Hydroselenic acid<br />selane<br />selenium hydride
+| Section1 = {{Chembox Identifiers
+|   PubChem = 533
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C01528
+| InChI = 1/H2Se/h1H2
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 16503
+| SMILES = [SeH2]
+| InChIKey = SPVXKVOXSXTJOY-UHFFFAOYAF
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/H2Se/h1H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SPVXKVOXSXTJOY-UHFFFAOYSA-N
+| CASNo = 7783-07-5
+|    CASNo_Ref = {{cascite|correct|CAS}}
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 518
+|   RTECS = X1050000
+|   UNNumber = 2202
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = H<sub>2</sub>Se
+|   MolarMass = 80.98 g/mol
+|   Appearance = Colorless gas
+|   Odor = [[horseradish]]
+|   Density = 3.553 g/cm<sup>3</sup>
+|   Solubility = 0.70 g/100 mL
+|   SolubleOther = soluble in [[carbon disulfide|CS<sub>2</sub>]], [[phosgene]]
+|   MeltingPtC = -65.73
+|   BoilingPtC = -41.25
+|   pKa = 3.89
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = Bent
+|   Dipole =
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://www.inchem.org/documents/icsc/icsc/eics0284.htm ICSC 0284]
+|   EUIndex = 034-002-00-8
+|   EUClass = Highly Flammable ('''F+''')<br/> Toxic ('''T''')<br/>Dangerous for the environment ('''N''')
+|   RPhrases = {{R23/25}}, {{R33}}, {{R50/53}}
+|   SPhrases = {{S1/2}}, {{S20/21}}, {{S28}}, {{S45}}, {{S60}}, {{S61}}
+|   NFPA-H = 4
+|   NFPA-F = 4
+|   NFPA-R = 0
+|   FlashPt = flammable gas
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions = [[water (molecule)|H<sub>2</sub>O]]<br />[[hydrogen sulfide|H<sub>2</sub>S]]<br />[[hydrogen telluride|H<sub>2</sub>Te]]<br />[[hydrogen polonide|H<sub>2</sub>Po]]
+|   OtherCations = [[sodium selenide|Na<sub>2</sub>Se]]<br />[[silver(I) selenide|Ag<sub>2</sub>Se]]
+|   OtherCpds = [[Arsine]]
+  }}
+}}
+'''Hydrogen selenide''' is an [[inorganic compound]] with the formula H<sub>2</sub>Se. It is the simplest (and virtually the only) [[hydride]] of [[selenium]]. H<sub>2</sub>Se is a colorless, flammable gas under standard conditions. It is [[Selenium#Toxicity|the most toxic selenium compound]]<ref name="EPA">http://www.epa.gov/ttnatw01/hlthef/selenium.html, US Environmental Protection Agency, Air Toxins website</ref> with an exposure limit of 0.05 [[parts per million|ppm]] over an 8 hour period.<ref name="IDLHC">http://www.cdc.gov/niosh/idlh/7783075.html, Documentation of Immediately Dangerous to Life or Health Concentrations: Hydrogen Selenide, The National Institute for Occupational Safety and Health</ref><ref name="OHG">http://www.cdc.gov/niosh/docs/81-123/pdfs/0336.pdf Occupational Health Guideline for Hydrogen Selenide, The National Institute for Occupational Safety and Health, 1978</ref> This compound has a very irritating smell resembling that of decayed [[horseradish]] but smells of rotten eggs at higher concentrations. 
+
+==Structure and properties==
+H<sub>2</sub>Se adopts a "bent" structure with a H-Se-H bond angle of 91°. Consistent with this structure, three [[Infrared|IR]]-active vibrational bands are observed: 2358, 2345, and 1034&nbsp;cm<sup>−1</sup>. 
+
+The properties of [[Hydrogen sulfide|H<sub>2</sub>S]] and H<sub>2</sub>Se are similar, although the selenide is more acidic with p''K''<sub>a</sub> = 3.89, and the second p''K''<sub>a</sub> = 11.0 at 25 °C. Reflecting its acidity, H<sub>2</sub>Se is soluble in water.
+
+==Preparation==
+Industrially, it is produced by treating elemental [[selenium]] at T&nbsp;>&nbsp;300&nbsp;°C with hydrogen gas.<ref name=Ullmann/> A number of routes to H<sub>2</sub>Se have been reported, which are suitable for both large and small scale preparations. In the laboratory, H<sub>2</sub>Se is usually prepared by the action of water on Al<sub>2</sub>Se<sub>3</sub>, concomitant with formation of hydrated [[alumina]]. A related reaction involves the acid hydrolysis of FeSe.<ref>Féher, F. In "Handbook of Preparative Inorganic Chemistry"; Brauer, E., Ed.; Academic: New York, 1963; 1, p 418.</ref>
+::Al<sub>2</sub>Se<sub>3</sub>  +  6 H<sub>2</sub>O  {{unicode|⇌}} 2 Al(OH)<sub>3</sub>  +  3 H<sub>2</sub>Se
+H<sub>2</sub>Se can also be prepared by means of different methods based on the ''in situ'' generation in aqueous solution using [[boron hydride]], [[Marsh test]] and [[Devarda's alloy]]. According to the Sonoda method, H<sub>2</sub>Se is generated from the reaction of H<sub>2</sub>O and CO on Se in the presence of [[Triethylamine|Et<sub>3</sub>N]].<ref>Sonoda, N.; Kondo K.; Nagano, K.; Kambe, N.; Morimoto, F. Angewandte Chemie, International Edition English 1980, vol. 19, page 308</ref> H<sub>2</sub>Se can be purchased in cylinders.
+
+===Reactions===
+Elemental selenium can be recovered from H<sub>2</sub>Se through a reaction with aqueous [[sulfur dioxide]] (SO<sub>2</sub>).
+::2 H<sub>2</sub>Se + SO<sub>2</sub> {{unicode|⇌}} 2 H<sub>2</sub>O + Se + S
+Its decomposition is used to prepare highly pure Se metal.
+
+==Applications==
+H<sub>2</sub>Se is commonly used in the synthesis of Se-containing compounds. It adds across alkenes. Illustrative is the synthesis of [[selenoureas]] from nitriles.<ref>V.I. Cohen "A Convenient Synthesis of Mono-, N,N′-Di-, and Trisubstituted Selenoureas from Methyl Carbamimidothioates (S-Methylpseudothioureas)" Synthesis, 1980, 60-3 (1980).</ref>
+
+[[Image:SelenoureaRxn1.PNG|Selenourea reaction]]
+
+H<sub>2</sub>Se gas is used to [[doping (semiconductor)|dope]] semiconductors with selenium.
+
+==Safety==
+Hydrogen selenide is hazardous, being the most [[Selenium#Toxicity|toxic selenium]] compound<ref name="EPA" /> and far more toxic than its congener [[hydrogen sulfide]]. The [[threshold limit value]] is 0.05 ppm. The gas acts as an irritant at concentrations higher than 0.3 ppm, which is the main warning sign of exposure; below 1 ppm, this is "insufficient to prevent exposure", while at 1.5 ppm the irritation is "intolerable".<ref name="OHG" /> Exposure at high concentrations, even for less than a minute, causes the gas to attack the eyes and mucous membranes; this causes cold-like symptoms for at least a few days afterwards. In Germany, the limit in drinking water is 0.008 mg/L, and the US EPA recommends a maximum contamination of 0.01 mg/L.<ref name=Ullmann>Bernd E. Langner "Selenium and Selenium Compounds" in Ullmann's Encyclopedia of Industrial Chemistry, 2005, Wiley-VCH, Weinheim. {{DOI|10.1002/14356007.a23_525}}.</ref><ref>http://www.osha.gov/dts/chemicalsampling/data/CH_246700.html, OSHA GENERAL INDUSTRY PEL: 0.05 ppm, 0.2 mg/m3 ,OSHA CONSTRUCTION INDUSTRY PEL: 0.05 ppm, 0.2 mg/m3 TWA</ref>
+
+Despite being highly toxic, no human fatalities have yet been reported. It is suspected that this is due to the gas' tendency to oxidise to form red selenium in mucous membranes; elemental selenium is less toxic than selenides are.<ref name="IDLHC" />
+
+==References==
+<references/>
+
+==External links==
+* [http://www.webelements.com/webelements/compounds/text/H/H2Se1-7783075.html WebElements page on compound's properties]
+
+{{Hydrogen compounds}}
+
+{{DEFAULTSORT:Hydrogen Selenide}}
+[[Category:Hydrogen compounds]]
+[[Category:Selenides]]

@@ -1,0 +1,86 @@
+The science of epidemiology has matured significantly from the times of [[Hippocrates]] and [[John Snow (physician)|John Snow]]. The techniques for gathering and analyzing epidemiological data vary depending on the type of disease being monitored but each study will have overarching similarities.
+
+==Outline of the process of an epidemiological study==
+#Establish that a problem exists
+#*Full epidemiological studies are expensive and laborious undertakings. Before any study is started, a case must be made for the importance of the research.
+#Confirm the homogeneity of the events
+#*Any conclusions drawn from inhomogeneous cases will be suspicious. All events or occurrences of the disease must be true cases of the disease.
+#Collect all the events
+#*It is important to collect as much information as possible about each event in order to inspect a large number of possible risk factors. The events may be collected from varied methods of [[Epidemiology#Types of studies|epidemiological study]] or from censuses or hospital records.
+#*The events can be characterized by [[incidence (epidemiology)|Incidence]] rates and [[prevalence]] rates.
+#Characterize the events as to epidemiological factors
+##Predisposing factors
+##*Non-environmental factors that increase the likelihood of getting a disease. Genetic history, age, and gender are examples.
+##Enabling/disabling factors
+##*Factors relating to the environment that either increase or decrease the likelihood of disease. Exercise and good diet are examples of disabling factors. A weakened immune system and poor nutrition are examples of enabling factors.
+##Precipitation factors
+##*This factor is the most important in that it identifies the source of exposure. It may be a germ, toxin or gene.
+##Reinforcing factors
+##*These are factors that compound the likelihood of getting a disease. They may include repeated exposure or excessive environmental stresses.
+#Look for patterns and trends
+#*Here one looks for similarities in the cases which may identify major risk factors for contracting the disease. [[Outbreak#Types|Epidemic curves]] may be used to identify such risk factors.
+#Formulate a hypothesis
+#*If a trend has been observed in the cases, the researcher may postulate as to the nature of the relationship between the potential disease-causing agent and the disease.
+#Test the hypothesis
+#*Because epidemiological studies can rarely be conducted in a laboratory the results are often polluted by uncontrollable variations in the cases. This often makes the results difficult to interpret. Two methods have evolved to assess the strength of the relationship between the disease causing agent and the disease.
+#*[[Koch's postulates]] were the first criteria developed for epidemiological relationships. Because they only work well for highly contagious bacteria and toxins, this method is largely out of favor.
+#*[[Epidemiology#Bradford Hill criteria|Bradford-Hill Criteria]] are the current standards for epidemiological relationships. A relationship may fill all, some, or none of the criteria and still be true.
+#Publish the results<ref>Austin, Donald F., and S. B. Werner. Epidemiology for the health sciences a primer on epidemiological concepts and their uses. Springfield, Ill: C. C. Thomas, 1974. Print.</ref>
+
+== Measures ==
+Epidemiologist are famous for their use of rates. Each measure serves to characterize the disease giving valuable information about contagiousness, incubation period, duration, and mortality of the disease.
+
+=== Measures of occurrence ===
+# [[incidence (epidemiology)|Incidence]] measures
+## [[Incidence rate]], where cases included are defined using a [[case definition]]
+## [[Hazard rate]]
+## [[Cumulative incidence]]
+# [[Prevalence]] measures
+## [[Point prevalence]]
+## [[Period prevalence]]
+
+=== Measures of association ===
+# Relative measures
+## [[Risk ratio]]
+## [[Rate ratio]]
+## [[Odds ratio]]
+## [[Hazard ratio]]
+# Absolute measures
+## [[Absolute risk reduction]]
+## [[Attributable risk]]
+### [[Attributable risk in exposed]]
+### [[Percent attributable risk]]
+### [[Levin’s attributable risk]]
+
+=== Other measures ===
+# [[Virulence]] and [[Infectivity]]
+# [[Mortality rate]] and [[Morbidity rate]]
+# [[Case fatality]]
+# [[Sensitivity (tests)]] and [[Specificity (tests)]]
+
+==See also==
+* [[Study design]]
+* [[Epidemiology]]
+* [[OpenEpi]]
+* [[Epi Info]]
+* [[Sanitary epidemiological reconnaissance]]
+
+==External links==
+* [http://www.Epidemiologic.org/ Epidemiologic.org] Epidemiologic Inquiry online weblog for epidemiology researchers
+* [http://www.epidemiologic.org/forum/ Epidemiology Forum] A discussion and forum community for epi analysis support and fostering questions, debates, and collaborations in epidemiology
+* [http://www.cebm.net/toolbox.asp The Centre for Evidence Based Medicine] at Oxford maintains an on-line "Toolbox" of [[evidence based medicine]] methods.
+* [http://www.epimonitor.net/index.htm Epimonitor] has a comprehensive list of links to associations, agencies, bulletins, etc.
+* [http://www.bmj.com/about-bmj/resources-readers/publications/epidemiology-uninitiated Epidemiology for the Uninitiated] On line text, with easy explanations.
+* [http://www.sph.unc.edu/nccphp/training/ North Carolina Center for Public Health Preparedness Training] On line training classes for epidemiology and related topics.
+* [http://www.epidemiology.ch/history/betaversion.htm People's Epidemiology Library]
+
+==References==
+<references/>Austin, Donald F., and S. B. Werner. Epidemiology for the health sciences a primer on epidemiologic concepts and their uses. Springfield, Ill: C. C. Thomas, 1974. Print.
+
+{{Medical research studies}}
+
+{{DEFAULTSORT:Epidemiological Methods}}
+[[Category:Epidemiology]]
+
+
+{{med-stub}}

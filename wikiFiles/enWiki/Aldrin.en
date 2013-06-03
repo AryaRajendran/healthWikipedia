@@ -1,0 +1,85 @@
+{{otheruses}}
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 454571745
+|   Name = Aldrin
+|   ImageFile = Aldrin.svg
+|   ImageSize = 200px
+|   ImageName = Aldrin
+|   ImageFile1 = Aldrin-from-xtal-3D-balls.png
+|   IUPACName = 1,2,3,4,10,10-Hexachloro-<br />1,4,4a,5,8,8a-hexahydro-<br />1,4:5,8-dimethanonaphthalene
+| Section1 = {{Chembox Identifiers
+|   InChI = 1/C12H8Cl6/c13-8-9(14)11(16)7-5-2-1-4(3-5)6(7)10(8,15)12(11,17)18/h1-2,4-7H,3H2/t4-,5+,6+,7-,10+,11-
+| InChIKey = QBYJBZPUGVGKQQ-SJJAEHHWBI
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H8Cl6/c13-8-9(14)11(16)7-5-2-1-4(3-5)6(7)10(8,15)12(11,17)18/h1-2,4-7H,3H2/t4-,5+,6+,7-,10+,11-
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QBYJBZPUGVGKQQ-SJJAEHHWSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 309-00-2
+|   UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = OZE3CLY605
+| SMILES = ClC4(Cl)[C@@]2(Cl)C(/Cl)=C(/Cl)[C@]4(Cl)[C@@H]3[C@@H]\1C[C@@H](/C=C/1)[C@H]23
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID=10292747
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C07552
+  }}
+| Section2 = {{Chembox Properties
+|C=12|H=8|Cl=6
+|   Appearance = colorless solid
+|   MeltingPtC = 104
+|   VaporPressure = 7.5 × 10<sup>−5</sup> mmHg @ 20&nbsp;°C
+|   Solubility = slightly soluble
+  }}
+| Section7 = {{Chembox Hazards
+|   NFPA-H = 2
+|   NFPA-F =
+|   NFPA-R =
+|   FlashPt = {{convert|66|C|F}}
+  }}
+}}
+
+'''Aldrin''' is an [[organochlorine compound|organochlorine]] [[insecticide]] that was widely used until the 1970s, when it was banned in most countries. It is a colourless solid. Before the ban, it was heavily used as a pesticide to treat seed and soil.  Aldrin and related "cyclodiene" pesticides became notorious as [[persistent organic pollutant]]s.<ref name=Ullmann>Robert L. Metcalf “Insect Control” in Ullmann’s Encyclopedia of Industrial Chemistry” Wiley-VCH, Weinheim, 2002. {{DOI|10.1002/14356007.a14_263}}</ref>
+
+==Production==
+Aldrin is produced by combining [[hexachlorocyclopentadiene]] with [[norbornadiene]] in a [[Diels-Alder reaction]] to give the adduct.<ref name="Tedder">{{cite book |first=A. H. | last=Jubb |year=1975
+  | title=Basic Organic Chemistry, Part 5 Industrial products | publisher=Wiley
+  | location=London | isbn=0-471-85014-4 }}</ref>
+
+[[Image:AldrinSynthesis.png|thumbnail|left|470px|Synthesis of Aldrin via a [[Diels-Alder reaction]]]]<br style="clear:left;"/>
+
+Similarly, an [[isomer]] of aldrin, known as '''isodrin''' is produced by reaction of hexachloronobornadiene with [[cyclopentadiene]].<ref>{{cite journal | doi = 10.1039/JR9610004809 | title = 946. Cyclisations and rearrangements in the isodrin?aldrin series | year = 1961 | last1 = Bird | first1 = C. W. | last2 = Cookson | first2 = R. C. | last3 = Crundwell | first3 = E. | journal = Journal of the Chemical Society (Resumed) | pages = 4809 }}</ref>
+
+Aldrin is named after the German chemist [[Kurt Alder]], one of the coinventors of this kind of reaction.  An estimated 270 million kilograms of aldrin and related cyclodiene pesticides were produced between 1946 and 1976.
+
+In soil, on plant surfaces, or in the digestive tracts of insects, aldrin oxidizes to the [[epoxide]] [[dieldrin]], which is more strongly insecticidal.
+
+==Environmental impact and regulation==
+Like related polychlorinated pesticides, aldrin is highly lipophilic.  Its solubility in water is only 0.027 mg/L, which exacerbates its persistence in the environment.  It was banned by the [[Stockholm Convention on Persistent Organic Pollutants]].  In the U.S., aldrin was cancelled in 1974. The substance is banned from use for plant protection by the [[EU]]. <ref name=bnpuk>{{cite web
+  | last = [[Chemicals Regulation Directorate]]
+  | first = 
+  | authorlink = 
+  | coauthors = 
+  | title = Banned and Non-Authorised Pesticides in the United Kingdom
+  | work =
+  | publisher = 
+  | date = 
+  | url = http://www.pesticides.gov.uk/approvals.asp?id=55
+  | doi =
+  | accessdate = 1 December 2009}}</ref>
+
+==Safety and environmental aspects==
+Aldrin has rat {{LD50}} of 39 to 60 mg/kg (oral in rats).  For fish however, it is extremely toxic, with an [[LC50]] of 0.006– 0.01 for [[trout]] and [[blue gill]].<ref name=Ullmann/>
+
+==References==
+{{Reflist}}
+
+{{insecticides}}
+
+[[Category:IARC Group 3 carcinogens]]
+[[Category:Organochloride insecticides]]
+[[Category:Endocrine disruptors]]
+[[Category:Neurotoxins]]
+[[Category:Persistent Organic Pollutants under the Stockholm Convention]]
+[[Category:Persistent Organic Pollutants under the Convention on Long-Range Transboundary Air Pollution]]

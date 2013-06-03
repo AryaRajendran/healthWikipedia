@@ -1,0 +1,63 @@
+==Introduction==
+'''Agitoxin''' is a [[toxin]] found in the [[venom]] of the scorpion ''[[Deathstalker|Leiurus quinquestriatus hebraeus]]'' (yellow scorpion). Other [[toxins]] found in this species include [[charybdotoxin]] (CTX). CTX is a close homologue of Agitoxin. <ref>{{cite pmid|1720574}} </ref>
+
+==Structure==
+{{Infobox protein family
+| Symbol = Toxin_2
+| Name = Scorpion short toxin
+| image = 1agt.png
+| width = 
+| caption = Agitoxin-2.  Disulphide bonds are highlighted. [[Protein Data Bank|PDB]] {{PDBe|1agt}} <ref name="struct">{{cite pmid|8520473}}</ref>
+| Pfam = PF00451
+| Pfam_clan = CL0054
+| InterPro = IPR001947
+| SMART = 
+| PROSITE = PDOC00875 
+| MEROPS =
+| SCOP = 
+| OPM family = 61
+| OPM protein = 3odv
+| CAZy = 
+| CDD =
+}}
+Agitoxin can be purified using [[High-performance liquid chromatography|HPLC]] techniques. 
+
+'''Primary structure:'''
+
+Three types of agitoxin can be distinguished, each identified as comprising 38 [[amino acid]]s. They are highly homologous, differing only in the identity of the residues at positions 7, 15, 29 and 31. 
+
+[[File:Agitoxinalignment.png|Alignment of Agitoxins. Disulphide bonds are indicated beneath the alignment.]]
+
+*'''Agitoxin-1''' Gly-Val-Pro-Ile-Asn-Val-Lys-Cys-Thr-Gly-Ser-Pro-Gln-Cys-Leu-Lys-Pro-Cys-Lys-Asp-Ala-Gly-Met-Arg-Phe-Gly-Lys-Cys-Ile-Asn-Gly-Lys-Cys-His-Cys-Thr-Pro-Lys ([[molecular weight]] = 4014.87 [[Atomic mass unit|Da]], molecular formula = C<sub>169</sub>H<sub>278</sub>N<sub>52</sub>O<sub>47</sub>S<sub>7</sub>)
+
+*'''Agitoxin-2''' Gly-Val-Pro-Ile-Asn-Val-Ser-Cys-Thr-Gly-Ser-Pro-Gln-Cys-Ile-Lys-Pro-Cys-Lys-Asp-Ala-Gly-Met-Arg-Phe-Gly-Lys-Cys-Met-Asn-Arg-Lys-Cys-His-Cys-Thr-Pro-Lys (molecular weight = 4090.95 Da, molecular formula = C<sub>169</sub>H<sub>278</sub>N<sub>54</sub>O<sub>48</sub>S<sub>8</sub>)
+
+*'''Agitoxin-3''' Gly-Val-Pro-Ile-Asn-Val-Pro-Cys-Thr-Gly-Ser-Pro-Gln-Cys-Ile-Lys-Pro-Cys-Lys-Asp-Ala-Gly-Met-Arg-Phe-Gly-Lys-Cys-Met-Asn-Arg-Lys-Cys-His-Cys-Thr-Pro-Lys (molecular weight = 4100.98 Da, molecular formula = C<sub>171</sub>H<sub>280</sub>N<sub>54</sub>O<sub>47</sub>S<sub>8</sub>, [[CAS registry number|CAS Number]] 155646-23-4)
+
+'''Secondary and tertiary structure:'''
+
+Agitoxin consists of a triple-stranded antiparallel [[Beta sheet|beta-sheet]] in which the C-terminal strand sits in the centre of the sheet, and a single [[alpha-helix]] covering one face of the beta-sheet (see image on the right). The [[cysteine|cysteine side chains]] connect the beta-sheet and the helix via [[disulphide bonds]] to form the core of the molecule. 
+
+The fold of agitoxin is homologous to the previously determined folds of scorpion venom toxins, classified as 'Scorpion short toxins' by [[Pfam]].
+This fold, and the location of the disulphide bonds, are a shared element between toxins stemming from arthropods. The structure of agitoxin-2, has been determined by NMR. <ref name="struct"></ref>
+
+==Function==
+Agitoxin binds to the [[shaker gene|Shaker]] ''K''<sup>+</sup> channel in ''[[Drosophila]]'' as well as to its mammalian homologue. It blocks this channel by binding with high affinity (''K''<sub>d</sub>&nbsp;< 1&nbsp;[[nanomole|nmol]]/[[liter|L]]) to its external vestibule. 
+
+This high affinity to the ‘Shaker K’ channel is dependent on the residues of Arg <sup>24</sup>, Lys <sup>27</sup>, and Arg <sup>31</sup>. <ref name="struct"></ref> The ability of the agitoxin to block the ‘Shaker K’ channel suggests a docking mechanism whereby the toxin sits on the channel and then prevents its opening through flexible movements of the side chains thereby allowing for various protein-protein complexes to be enacted. <ref>{{cite pmid|12414693}}</ref> AgTx2 has been found to undergo conformational changes when bound to the ‘Shaker K’ channel which suggests the [[induced fit]] model may be present in toxin-channel interaction. This mode of interaction goes along with and explains the flexible side chains. <ref>{{cite pmid|12414963}} </ref> The [[amino acid]] make up of the toxin determines the way each interacts with [[Shaker]] K channels. <ref name="struct"></ref> 
+
+In Agitoxin, for example, the arginine interacts electrostatically with the aspartate of the ‘Shaker K’ channel. <ref name="struct"></ref> The final blocking of the pore in the Shaker K + channel occurs via the side chain of Lys <sup>27</sup>.  <ref>{{cite pmid|12414693}} </ref> Lys <sup> 27</sup> interacts with the Shaker K by plugging the selectivity filter and hydrogen bonding with carbonyls of Tyr <sup>395</sup> of each potassium channel subunit. <ref>{{cite pmid|12833539}} </ref> Important stabilizing hydrogen bonding between various residues on the AgTx2 and the subunits of the channel hold the toxin-channel complex together. Mutations in Arg24Ala, Lys27Met, and Asn30Ala increased the dissociation, or break-down, of the complex, suggesting they all play important roles in holding the toxin on the channel.<ref>{{cite pmid|12833539}} </ref>
+
+
+
+== References ==
+
+* {{cite journal | author=Garcia ML ''et al.'' | title=Purification and characterization of three inhibitors of voltage-dependent K<sup>+</sup> channels from ''Leiurus quinquestriatus var. hebraeus'' venom | journal=Biochemistry | year=1994 | volume=33 | issue=22 | pages= 6834–6839 | doi=10.1021/bi00188a012 | pmid=8204618}}
+* {{cite journal | author=Gao YD ''et al.'' | title=Interaction of agitoxin2, charybdotoxin, and iberiotoxin with potassium channels: selectivity between voltage-gated and Maxi-K channels | journal=Proteins | year=2003 | volume=52 | issue=2 | pages= 146–154 | doi=10.1002/prot.10341 | pmid=12833539}}
+<references/>
+
+{{Toxins}}
+
+[[Category:Neurotoxins]]
+[[Category:Ion channel toxins]]
+[[Category:Invertebrate toxins]]

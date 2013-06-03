@@ -1,0 +1,80 @@
+{{Infobox Disease |
+  Name           = Short QT syndrome |
+  Image          = SinusRhythmLabels.svg |
+  Caption        = Schematic representation of normal ECG trace ''([[sinus rhythm]]),'' with waves, segments, and intervals labeled. |
+  DiseasesDB     = 11105 |
+  ICD10          = {{ICD10|R|94|3|r|94}}|
+  ICD9           = |
+  ICDO           = |
+  OMIM           = |
+  MedlinePlus    = |
+  eMedicineSubj  = |
+  eMedicineTopic = |
+  MeshID         = |
+}}
+'''Short QT syndrome''' is a [[genetics|genetic]] disease of the electrical system of the [[heart]].  It consists of a constellation of signs and symptoms, consisting of a short [[QT interval]] on an [[EKG]] (≤ 300 [[millisecond|ms]]) that does not significantly change with heart rate, tall and peaked T waves, and a structurally normal heart.  Short QT syndrome appears to be inherited in an [[autosomal dominant]] pattern, and a few affected families have been identified.
+
+==Symptoms and signs==
+[[Image:Autosomal dominant - en.svg|thumb|right|Short QT syndrome is inherited in an [[autosomal dominant]] pattern.]]
+Some individuals with short QT syndrome frequently complain of palpitations and may have unexplained [[Syncope (medicine)|syncope]] (loss of consciousness). Mutations in the ''[[KCNH2]]'', ''[[KCNJ2]]'', and ''[[KCNQ1]]'' genes cause short QT syndrome. These genes provide instructions for making proteins that act as channels across the cell membrane. These channels transport positively charged atoms (ions) of potassium into and out of cells. In [[cardiac muscle]], these ion channels play critical roles in maintaining the heart's normal rhythm. Mutations in the ''KCNH2'', ''KCNJ2'', or ''KCNQ1'' gene increase the activity of the channels, which changes the flow of potassium ions between cells. This disruption in ion transport alters the way the heart beats, leading to the abnormal heart rhythm characteristic of short QT syndrome. Short QT syndrome appears to have an autosomal dominant pattern of inheritance.
+
+Short QT syndrome is associated with an increased risk of sudden cardiac death, most likely due to [[ventricular fibrillation]].
+
+==Diagnosis==
+
+Recent diagnostic criteria have been published out of the Arrhythmia Research Laboratory at the [[University of Ottawa Heart Institute]] from Drs. Michael H Gollob and Jason D Roberts.<ref>{{cite journal | author=Gollob M, Redpath C, Roberts J. | title= The Short QT syndrome: Proposed Diagnostic Criteria | journal=J Am Coll Cardiol | year=2011 | pages=802–812 | volume=57 | issue=7 | pmid=21310316 | doi=10.1016/j.jacc.2010.09.048}}</ref>
+
+The Short QT Syndrome diagnostic criteria is based on a point system as follows:
+
+QTc in milliseconds
+    <370                                              1
+    <350                                              2
+    <330                                              3
+
+Jpoint-Tpeak interval
+    <120                                              1
+
+Clinical History
+    Sudden cardiac arrest                             2
+    Polymorphic VT or VF                              2
+    Unexplained syncope                               1
+    Atrial fibrillation                               1
+
+Family History
+    1st or 2nd degree relative with SQTS              2
+    1st or 2nd degree relative with sudden death      1
+    Sudden infant death syndrome                      1
+
+Genotype
+    Genotype positive                                 2
+    Mutation of undetermined significance             1 
+    in a culprit gene  
+
+Patients are deemed high-probability (> or equal to 4 points), intermediate probability (3 points) or low probability (2 or less points).
+
+==Etiology==
+
+The etiology of short QT syndrome is unclear at this time.  A current [[hypothesis]] is that short QT syndrome is due to increased activity of outward potassium currents in phase 2 and 3 of the [[cardiac action potential]].  This would cause a shortening of the plateau phase of the action potential (phase 2), causing a shortening of the overall action potential, leading to an overall shortening of refractory periods and the QT interval.
+
+In the families afflicted by short QT syndrome, [[mutation]]s have been described in three genes, [[KvLQT1]], the ''human ether-a-go-go [[gene]] ([[HERG]])'', and KCNJ2.
+
+==Treatment==
+
+Currently, some individuals with short QT syndrome have had implantation of an [[implantable cardioverter-defibrillator]] (ICD) as a preventive action, although it has not been demonstrated that cardiac problems have occurred before deciding to implant an ICD.
+
+A recent study has suggested the use of certain [[antiarrhythmic agents]], particularly [[quinidine]], may be of benefit in individuals with short QT syndrome due to their effects on prolonging the action potential and by their action on the I<sub>K</sub> channels.<ref>{{cite journal | author=Gaita F, Giustetto C, Bianchi F, Schimpf R, Haissaguerre M, Calo L, Brugada R, Antzelevitch C, Borggrefe M, Wolpert C. | title=Short QT syndrome: pharmacological treatment | journal=J Am Coll Cardiol | year=2004 | pages=1494–1499 | volume=43 | issue=8 | pmid=15093889 | doi=10.1016/j.jacc.2004.02.034}}</ref> Some trials are currently under way but do not show a longer QT statistically.
+
+==See also==
+* [[Long QT syndrome]]
+
+==References==
+{{Reflist}}
+*National Library of Medicine. [http://ghr.nlm.nih.gov/condition=shortqtsyndrome?wf=1 Short QT syndrome]
+
+{{Heart diseases}}
+
+[[Category:Cardiac dysrhythmia]]
+[[Category:Channelopathy]]
+[[Category:Autosomal dominant disorders]]
+[[Category:Syndromes]]
+[[Category:Cardiogenetic disorders]]

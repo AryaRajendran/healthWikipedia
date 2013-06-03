@@ -1,0 +1,48 @@
+A '''tumor suppressor gene''', or '''anti-oncogene''', is a [[gene]] that protects a [[cell (biology)|cell]] from one step on the path to cancer. When this gene is [[mutated]] to cause a loss or reduction in its function, the cell can progress to cancer, usually in combination with other genetic changes.
+
+==Two-hit hypothesis==
+[[Image:Models_of_tumour_suppression.svg|right|thumb|Models of tumour suppression]]
+'''Unlike [[oncogene]]s''', tumor suppressor genes generally follow the "[[two-hit hypothesis]]," which implies that both alleles that code for a particular protein must be affected before an effect is manifested. This is because if only one allele for the gene is damaged, the second can still produce the correct protein. In other words, mutant tumor suppressors' alleles are usually [[Dominance relationship|recessive]] whereas mutant oncogene alleles are typically [[Dominance relationship|dominant]]. The two-hit hypothesis was first proposed by A.G. Knudson for cases of [[retinoblastoma]].<ref>{{cite journal|author=Knudson AG|title=Mutation and Cancer: Statistical Study of Retinoblastoma|journal=Proc Natl Acad of Sci|volume=68|issue=4|pages=820–3|year=1971|pmid=5279523|doi=10.1073/pnas.68.4.820|pmc=389051}}</ref>  Knudson observed that the age of onset of retinoblastoma followed [[Rate_equation#Second-order_reactions|2nd order kinetics]], implying that two independent genetic events were necessary.  He recognized that this was consistent with a recessive mutation involving a single gene, but requiring biallelic mutation.  [[Oncogene]] mutations, in contrast, generally involve a single allele because they are gain-of-function mutations.   There are exceptions to the "two-hit" rule for tumor suppressors, such as certain mutations in the [[p53 (protein)|p53 gene product]].  p53 mutations can function as a "dominant negative," meaning that a mutated p53 protein can prevent the function of normal protein from the un-mutated allele.<ref>{{cite journal|author=Baker SJ, Markowitz S, Fearon ER, Willson JK, Vogelstein B.|title=Suppression of human colorectal carcinoma cell growth by wild-type p53|journal=Science|volume=249|issue=4971|pages=912–5|year=1990|pmid= 2144057|doi=10.1126/science.2144057}}</ref>  Other tumor-suppressor genes that are exceptions to the "two-hit" rule are those that exhibit [[haploinsufficiency]] for example PTCH in medulloblastoma.  An example of this is the [[p27 (gene)|p27Kip1]] cell-cycle inhibitor, in which mutation of a single allele causes increased carcinogen susceptibility.<ref>{{cite journal|author=Fero ML, Randel E, Gurley KE, Roberts JM, Kemp CJ|title=The murine gene p27Kip1 is haplo-insufficient for tumour suppression|journal=Nature|volume=396|issue=6707|pages=177–80|year=1998|pmid=9823898|doi=10.1038/24179}}</ref>
+
+==Functions==
+Tumor-suppressor genes, or more precisely, the [[protein]]s for which they [[code for|code]], either have a dampening or repressive effect on the regulation of the [[cell cycle]] or promote [[apoptosis]], and sometimes do both. The functions of tumor-suppressor proteins fall into several categories including the following:<ref name="pmid14744434">{{cite journal| author=Sherr CJ| title=Principles of tumor suppression| journal=Cell| volume=116| issue=2| pages=235–46| year=2004| month=January| pmid=14744434| doi=10.1016/S0092-8674(03)01075-4| url=  }}</ref>
+# [[gene repression|Repression of genes]] that are essential for the ''continuing'' of the cell cycle. If these genes are not [[protein expression|expressed]], the cell cycle does not continue, effectively inhibiting [[cell division]].
+# [[Coupling]] the cell cycle to [[DNA damage]]. As long as there is damaged [[DNA]] in the cell, it should not divide. If the damage can be repaired, the cell cycle can continue. 
+# If the damage ''cannot'' be repaired, the cell should initiate [[apoptosis]] (programmed cell death) to remove the threat it poses for the greater good of the organism.
+# Some proteins involved in [[cell adhesion]] prevent tumor cells from dispersing, block loss of [[contact inhibition]], and inhibit [[metastasis]]. These proteins are known as [[metastasis suppressor]]s.<ref name="pmid11058615">{{cite journal| author=Yoshida BA, Sokoloff MM, Welch DR, Rinker-Schaeffer CW| title=Metastasis-suppressor genes: a review and perspective on an emerging field| journal=J. Natl. Cancer Inst.| volume=92| issue=21| pages=1717–30| year=2000| month=November| pmid=11058615| doi=10.1093/jnci/92.21.1717| url=  }}</ref><ref>{{cite journal|author=Hirohashi S, Kanai Y|title=Cell adhesion system and human cancer morphogenesis|journal=[[Cancer Sci]]|volume=94|issue=7|pages=575–81|year=2003|pmid=12841864| doi=10.1111/j.1349-7006.2003.tb01485.x}}</ref>
+# [[DNA repair]] proteins are usually classified as tumor suppressors as well, as mutations in their genes increase the risk of cancer, for example mutations in [[HNPCC]], [[MEN1]] and [[BRCA mutation|BRCA]]. Furthermore, increased mutation rate from decreased DNA repair leads to increased inactivation of other tumor suppressors and activation of oncogenes.<ref>{{cite journal |author=Markowitz S |title=DNA repair defects inactivate tumor suppressor genes and induce hereditary and sporadic colon cancers |journal=J. Clin. Oncol. |volume=18 |issue=21 Suppl |pages=75S–80S |year=2000 |month=November |pmid=11060332 |doi= |url=}}</ref>
+
+==Examples==
+The first tumor-suppressor protein discovered was the [[Retinoblastoma protein]] (pRb) in human [[retinoblastoma]]; however, recent evidence has also implicated pRb as a tumor-survival factor. 
+
+Another important tumor suppressor is the [[p53]] tumor-suppressor protein encoded by the [[TP53]] gene. Homozygous loss of p53 is found in 65% of colon cancers, 30–50% of breast cancers, and 50% of lung cancers. Mutated p53 is also involved in the pathophysiology of leukemias, lymphomas, sarcomas, and neurogenic tumors. Abnormalities of the p53 gene can be inherited in [[Li-Fraumeni syndrome]] (LFS), which increases the risk of developing various types of cancers.
+
+[[PTEN]] acts by opposing the action of [[PI3K]], which is essential for anti-apoptotic, pro-tumorogenic [[Akt]] activation.
+
+Other examples of tumor suppressors include VHL, [[APC (gene)|APC]], [[CD95]], [[ST5 (gene)|ST5]], [[YPEL3]], [[ST7]], and [[ST14]].
+
+==See also==
+*[[Metastasis suppressor]]
+*[[APC (gene)|Adenomatosis polyposis coli]]
+*[[Oncogene]]
+*[[Cancer]]
+*[[DNA repair]]
+*[[Signal transduction]]
+*[[Von Hippel Lindau Binding protein 1]]
+*[[BRCA1]]
+*[[p53]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://researchnews.osu.edu/archive/lungcagn.htm TCF21 gene discovery at Ohio State University]
+* [http://www.sdbonline.org/fly/aignfam/tumorsup.htm ''Drosophila'' Oncogenes and Tumor Suppressors - The Interactive Fly] 
+*[http://www.intechopen.com/books/show/title/tumor-suppressor-genes Online book: Tumor Suppressor Genes, published in 2012]
+
+{{Tumors}}
+{{Tumor suppressor genes}}
+
+{{DEFAULTSORT:Tumor Suppressor Gene}}
+[[Category:Carcinogenesis]]
+[[Category:Tumor suppressor genes]]

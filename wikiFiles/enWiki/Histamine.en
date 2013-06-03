@@ -1,0 +1,169 @@
+{{About||the use as an immunostimulant drug|Histamine dihydrochloride}}
+{{chembox 
+| verifiedrevid = 443858090
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageFile=Histamin - Histamine.svg
+|ImageSize=
+|ImageFile2=Histamine3d.png
+|ImageSize2=200px
+|IUPACName=2-(1''H''-imidazol-4-yl)ethanamine
+|OtherNames=
+|Section1= {{Chembox Identifiers
+|  UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 820484N8I3
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08040
+| InChI = 1/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)
+| InChIKey = NTYJJOPFIAHURM-UHFFFAOYAP
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 90
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NTYJJOPFIAHURM-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo=51-45-6
+| PubChem=774
+| IUPHAR_ligand = 1204
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 753
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 18295
+| SMILES = n1cc(nc1)CCN
+| MeSHName=Histamine
+| ATCCode_prefix = L03
+| ATCCode_suffix = AX14
+| ATC_Supplemental = ([[histamine dihydrochloride|2HCl]])<br />{{ATC|V04|CG03}} (phosphate)
+  }}
+|Section2= {{Chembox Properties
+| C=5|H=9|N=3
+|  MolarMass=111.145
+|  Appearance=
+|  Density=
+|  MeltingPt= 83.5 °C (182.3 °F)
+|  BoilingPt= 209.5 °C (409.1 °F)
+|  pK<sub>imidazole</sub> 6.04
+|  pK<sub>NH2</sub> 9.75
+|  Solubility=Easily soluble in cold water, hot water<ref name="sciencelab.com">http://www.sciencelab.com/msds.php?msdsId=9924264</ref>
+| SolubleOther=Easily soluble in methanol. Very slightly soluble in diethyl ether.<ref name="sciencelab.com"/> Easily soluble in ethanol.
+  }}
+|Section3= {{Chembox Hazards
+|  MainHazards=
+|  FlashPt=
+|  Autoignition=
+  }}
+}}
+'''Histamine''' is an organic nitrogen compound involved in local [[immune system|immune responses]] as well as regulating physiological function in the gut and acting as a [[neurotransmitter]].<ref>{{cite book |author=Marieb, E. |title=Human anatomy & physiology |publisher=Benjamin Cummings |location=San Francisco |year=2001 |pages=414 |isbn=0-8053-4989-8 }}</ref>  Histamine triggers the [[inflammatory response]].  As part of an immune response to foreign [[pathogens]], histamine is produced by [[basophil]]s and by [[mast cell]]s found in nearby connective tissues.  Histamine increases the permeability of the capillaries to white blood cells and some proteins, to allow them to engage pathogens in the infected tissues.<ref>{{cite book |title=Nelson Biology 12 |author=Di Giuseppe, M., et al. |year=2003 |publisher=Thomson Canada |location=Toronto |isbn=0-17-625987-2 |page=473 }}</ref>
+
+==Properties==
+
+Histamine forms color [[hygroscopic]] [[crystal]]s that melt at 84°C, and are easily dissolved in [[water]] or [[ethanol]], but not in [[diethyl ether|ether]]. In [[aqueous solution]] histamine exists in two [[tautomer]]ic forms, ''N<sup>π</sup>-H''-histamine and ''N<sup>τ</sup>-H''-histamine. The imidazole ring has two nitrogens. The nitrogen farthest away from the side chain is the 'tele' nitrogen and is denoted by a lowercase tau sign. The nitrogen closest to the side chain is the 'pros' nitrogen and is denoted by the pi sign. The position of the nitrogen with the hydrogen on it determines how the tautomer is named. If the nitrogen with the hydrogen is in the tele position, then histamine is in the tele-tautomer form. The tele-tautomer is preferred in solution. 
+
+{|align="left"
+[[Image:Histamine tautomers.svg|thumb|350px|Tautomers of histamine]]
+|}
+Histamine has two [[base (chemistry)|basic]] centres, namely the [[aliphatic]] [[amino group]] and whichever [[nitrogen]] atom of the [[imidazole]] ring does not already have a [[hydrogen|proton]]. Under physiological conditions, the aliphatic amino group (having a [[dissociation constant|pK]]<sub>a</sub> around 9.4) will be [[protonated]], whereas the second nitrogen of the imidazole ring (pK<sub>a</sub> ≈ 5.8) will not be protonated.<ref name="Paiva 1970">{{cite journal | doi = 10.1021/jm00298a025 | last1 = Paiva | first1 = T. B. | last2 = Tominaga | first2 = M. | last3 = Paiva | first3 = A. C. M. | year = 1970 | title = Ionization of histamine, N-acetylhistamine, and their iodinated derivatives | journal = Journal of Medicinal Chemistry | volume = 13 | issue = 4| pages = 689–692 | pmid = 5452432 }}</ref>
+Thus, histamine is normally protonated to a singly charged [[cation]].
+
+==Synthesis and metabolism==
+Histamine is derived from the [[decarboxylation]] of the [[amino acid]] [[histidine]], a reaction [[catalyst|catalyzed]] by the [[enzyme]] [[L-histidine decarboxylase]]. It is a [[hydrophilic]] [[vasoactive]] [[amine]].
+
+[[Image:Histidine decarboxylase.svg|thumb|center|433px|Conversion of [[histidine]] to histamine by [[histidine decarboxylase]]]]
+
+Once formed, histamine is either stored or rapidly inactivated by its primary [[degradative enzyme]]s, [[histamine-N-methyltransferase]] or [[diamine oxidase]]. In the central nervous system, histamine released into the [[synapse]]s is primarily broken down by [[histamine-N-methyltransferase]], while in other tissues both enzymes may play a role. Several other enzymes, including [[MAO-B]] and [[ALDH2]], further process the immediate metabolites of histamine for excretion or recycling.  
+
+Bacteria also are capable of producing histamine using histidine decarboxylase enzymes unrelated to those found in animals.  A non-infectious form of foodborne disease, [[scombroid poisoning]], is due to histamine production by bacteria in spoiled food, particularly fish.  Fermented foods and beverages naturally contain small quantities of histamine due to a similar conversion performed by fermenting bacteria or yeasts.  Sake contains histamine in the 20–40&nbsp;mg/L range; wines contain it in the 2–10&nbsp;mg/L range.<ref>http://astrobiology.berkeley.edu/PDFs_articles/WineAnalysisAnalChem.pdf</ref>
+
+==Storage and release==
+[[Image:SMCpolyhydroxysmall.jpg|thumb|Mast cells.]]
+Most histamine in the body is generated in granules in [[mast cells]] or in white blood cells called [[basophils]].  Mast cells are especially numerous at sites of potential injury — the nose, mouth, and feet, internal body surfaces, and blood vessels.  Non-mast cell histamine is found in several tissues, including the [[brain]], where it functions as a neurotransmitter.  Another important site of histamine storage and release is the [[enterochromaffin-like cell|enterochromaffin-like (ECL) cell]] of the [[stomach]].
+
+The most important pathophysiologic mechanism of mast cell and basophil histamine release is [[immune system|immunologic]].  These cells, if sensitized by [[IgE]] [[antibody|antibodies]] attached to their [[cell membrane|membranes]], [[degranulation|degranulate]] when exposed to the appropriate [[antigen]].  Certain [[amine]]s and [[alkaloid]]s, including such drugs as [[morphine]], and [[curare alkaloid]]s, can displace histamine in granules and cause its release. [[Antibiotic]]s like [[polymyxin]] are also found to stimulate histamine release.
+
+Histamine release occurs when allergens bind to mast-cell-bound IgE antibodies. Reduction of IgE overproduction may lower the likelihood of allergens finding sufficient free IgE to trigger a mast-cell-release of histamine.
+
+==Mechanism of action==
+Histamine exerts its actions by combining with specific cellular [[histamine receptors]]. The four histamine receptors that have been discovered in humans and animals are designated H1 through H4, and are all [[G protein-coupled receptor]]s (GPCR).
+
+Histamine biology is a series of weak interactions. In all of the known physiological reactions, the histamine backbone is unchanged.<ref name="Noszal, B. pp 15-28">{{cite book |author=Noszal, B.; Kraszni, M.; Racz, A. |chapter=Histamine: fundamentals of biological chemistry |editor=Falus, A.; Grosman, N.; Darvas, Z.  |title=Histamine: Biology and Medical Aspects |publisher=SpringMed |location=Budapest |year=2004 |isbn=380557715X |pages=15–28 }}</ref>
+
+In the H2 receptor mechanism, histamine is protonated at the end-chain amine group. This amine group interacts with aspartic acid in the transmembrane domains of cells. The other nitrogens in the molecule interact with threonine and aspartic acid in different transmembrane domains. This is a three-pronged interaction. It brings the transmembrane domains close to each other, causing a signal transduction cascade.<ref name="Noszal, B. pp 15-28"/>
+  
+Histamine receptors in insects, like ''[[Drosophila melanogaster]]'', are histamine-gated [[chloride channel]]s that function in inhibition of neurons.<ref>
+{{cite journal |author=Hardie RC |title=A histamine-activated chloride channel involved in neurotransmission at a photoreceptor synapse |journal=Nature |volume=339 |issue=6227 |pages=704–6 |year=1989 |month=June |pmid=2472552 |doi=10.1038/339704a0 }}
+</ref> Histamine-gated chloride channels are implicated in neurotransmission of peripheral sensory information in insects, especially in photoreception/vision. Two receptor subtypes have been identified in ''Drosophila'': HClA and HClB.<ref>
+{{cite journal |author=Pantazis A, Segaran A, Liu CH, ''et al.'' |title=Distinct roles for two histamine receptors (hclA and hclB) at the Drosophila photoreceptor synapse |journal=J. Neurosci. |volume=28 |issue=29 |pages=7250–9 |year=2008 |month=July |pmid=18632929 |doi=10.1523/JNEUROSCI.1654-08.2008 |url=http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=18632929}}</ref> There are no known GPCRs for histamine in insects. 
+
+{| class="wikitable"
+| '''Type''' || '''Location''' || '''Function''' 
+ |- 
+ | [[Histamine H1 receptor|H<sub>1</sub> histamine receptor]]  || Found on [[smooth muscle]], [[endothelium]], and [[central nervous system]] tissue || Causes [[bronchoconstriction]], bronchial [[smooth muscle]] contraction, [[vasodilation]], separation of [[endothelial cells]] (responsible for [[hives]]), and [[pain]] and [[itching]] due to insect stings; the primary receptors involved in [[hay fever|allergic rhinitis]] symptoms and [[motion sickness]]; sleep and appetite suppression. 
+ |- 
+ | [[Histamine H2 receptor|H<sub>2</sub> histamine receptor]]  || Located on [[parietal cells]] and [[vascular smooth muscle cells]] || Primarily involved in vasodilation. Also stimulate [[gastric acid]] secretion
+ |- 
+ | [[Histamine H3 receptor|H<sub>3</sub> histamine receptor]]  || Found on [[central nervous system]] and to a lesser extent [[peripheral nervous system]] tissue  || Decreased [[neurotransmitter]] release: histamine, [[acetylcholine]], [[norepinephrine]], [[serotonin]]
+ |- 
+ | [[Histamine H4 receptor|H<sub>4</sub> histamine receptor]]  || Found primarily in the  [[basophil]]s and in the [[bone marrow]]. It is also found on [[thymus]], [[small intestine]], [[spleen]], and [[colon (anatomy)|colon]].  || Plays a role in [[chemotaxis]].
+|}
+
+=== Effects on nasal mucous membrane {{Anchor|Effects on Nasal Mucosa}} ===
+Increased vascular permeability causes fluid to escape from capillaries into the tissues, which leads to the classic symptoms of an allergic reaction: a runny nose and watery eyes. Allergens can bind to [[IgE]]-loaded [[mast cell]]s in the [[nasal cavity]]'s [[mucous membrane]]s. This can lead to three clinical responses:<ref>
+{{cite journal |author=Monroe EW, Daly AF, Shalhoub RF |title=Appraisal of the validity of histamine-induced wheal and flare to predict the clinical efficacy of antihistamines |journal=J. Allergy Clin. Immunol. |volume=99 |issue=2 |pages=S798–806 |year=1997 |month=February |pmid=9042073 }}</ref>
+
+# sneezing due to histamine-associated sensory neural stimulation
+# hyper-[[secretion]] from glandular tissue
+# nasal congestion due to vascular engorgement associated with [[vasodilation]] and increased [[capillary]] [[permeation|permeability]]
+
+== Roles in the body ==
+Although histamine is small compared to other biological molecules (containing only 17 atoms), it plays an important role in the body. It is known to be involved in 23 different physiological functions. Histamine is known to be involved in so many physiological functions because of its chemical properties that allow it to be so versatile in binding. It is Coulombic (able to carry a charge), conformational, and flexible. This allows it to interact and bind more easily.<ref name="Noszal, B. pp 15-28"/>
+
+=== Sleep regulation ===
+Histamine is released as a neurotransmitter. The cell bodies of ''histaminergics'', the neurons which release histamine, are found in the posterior [[hypothalamus]], in various [[tuberomammillary nucleus|tuberomammillary nuclei]]. From here, these neurons project throughout the brain, to the [[brain|cortex]] through the [[medial forebrain bundle]]. Histaminergic action is known to modulate [[sleep]]. Classically, [[Histamine antagonist|antihistamines]] (H1 histamine receptor antagonists) produce sleep. Likewise, destruction of histamine releasing neurons, or inhibition of histamine synthesis leads to an inability to maintain [[Alertness|vigilance]]. Finally, [[H3_receptor_antagonist|H3 receptor antagonists]] increase wakefulness.
+
+It has been shown that histaminergic cells have the most wakefulness-related firing pattern of any neuronal type thus far recorded. They fire rapidly during waking, fire more slowly during periods of relaxation/tiredness and completely stop firing during [[Rapid eye movement sleep|REM]] and [[NREM]] (non-REM) sleep. Histaminergic cells can be recorded firing just before an animal shows signs of waking.
+
+===Suppressive effects ===
+
+While histamine has stimulatory effects upon neurons, it also has  suppressive ones that protect against the  susceptibility to convulsion, drug sensitization, denervation supersensitivity, ischemic lesions and stress.<ref>{{cite journal | last1 = Yanai | first1 = K | last2 = Tashiro | first2 = M | title = The physiological and pathophysiological roles of neuronal histamine: an insight from human positron emission tomography studies. | journal = Pharmacology & therapeutics | volume = 113 | issue = 1 | pages = 1–15 | year = 2007 | pmid = 16890992 | doi = 10.1016/j.pharmthera.2006.06.008 }}</ref> It has also been suggested that histamine controls the mechanisms by which memories and learning are forgotten.<ref>{{cite journal | last1 = Alvarez | first1 = EO | title = The role of histamine on cognition. | journal = Behavioural Brain Research | volume = 199 | issue = 2 | pages = 183–9 | year = 2009 | pmid = 19126417 | doi = 10.1016/j.bbr.2008.12.010 }}</ref>
+
+===Erection and sexual function===
+
+Libido loss and erectile failure can occur following histamine (H2) antagonists such as [[cimetidine]] and [[ranitidine]].<ref name="White">{{cite journal | last1 = White | first1 = JM | last2 = Rumbold | first2 = GR | title = Behavioural effects of histamine and its antagonists: a review. | journal = Psychopharmacology | volume = 95 | issue = 1 | pages = 1–14 | year = 1988 | pmid = 3133686 }}</ref> The injection of histamine into the [[corpus cavernosum penis|corpus cavernosum]] in men with psychogenic impotence  produces full or partial erections in 74% of them.<ref>{{cite journal | last1 = Cará | first1 = AM | last2 = Lopes-Martins | first2 = RA | last3 = Antunes | first3 = E | last4 = Nahoum | first4 = CR | last5 = De Nucci | first5 = G | title = The role of histamine in human penile erection. | journal = British Journal of Urology | volume = 75 | issue = 2 | pages = 220–4 | year = 1995 | pmid = 7850330 | doi = 10.1111/j.1464-410X.1995.tb07315.x }}</ref> It has been suggested that H2 antagonists may cause sexual difficulties by reducing the uptake{{clarify|date=November 2010}} of testosterone.<ref name="White"/>
+
+=== Schizophrenia ===
+
+Metabolites of histamine are increased in the cerebrospinal fluid of people with [[schizophrenia]], while the efficiency of H(1) receptor binding sites is decreased. Many atypical [[antipsychotic]] medications have the effect of increasing histamine turnover.<ref>{{cite journal | last1 = Ito | first1 = C | title = The role of the central histaminergic system on schizophrenia | journal = Drug News & Perspectives | volume = 17 | issue = 6 | pages = 383–7 | year = 2004 | pmid = 15334189 | doi = 10.1358/dnp.2004.17.6.829029 }}</ref>
+
+=== Multiple Sclerosis ===
+Histamine therapy for treatment of multiple sclerosis is currently being studied. The different H receptors have been known to have different effects on the treatment of this disease. The H1 and H4 receptors, in one study, have been shown to be counterproductive in the treatment of MS. The H1 and H4 receptors are thought to decrease permeability in the Blood Brain Barrier, thus increasing infiltration of unwanted cells in the Central Nervous System. This can cause inflammation, and MS symptom worsening. The H2 and H3 receptors are thought to be helpful when treating MS patients. Histamine has been shown to help with T-cell differentiation. This is important because in MS, the immune system attacks its own myelin sheaths on nerve cells (which causes loss of signaling function and eventual nerve degeneration). By helping T cells to differentiate, the T cells will be less likely to attack the body's own cells, and instead attack invaders.<ref>{{cite journal |author=Jadidi-Niaragh F, Mirshafiey A |title=Histamine and histamine receptors in pathogenesis and treatment of multiple sclerosis |journal=Neuropharmacology |volume=59 |issue=3 |pages=180–9 |year=2010 |month=September |pmid=20493888 |doi=10.1016/j.neuropharm.2010.05.005 |url=http://linkinghub.elsevier.com/retrieve/pii/S0028-3908(10)00130-9}}</ref>
+
+== Disorders ==
+As an integral part of the immune system, histamine may be involved in [[immune system disorder]]s and [[allergies]].
+''[[Mastocytosis]]'' is a rare disease in which there is a proliferation of mast cells that produce excess histamine.<ref>{{cite journal |author=Valent P, Horny HP, Escribano L, ''et al.'' |title=Diagnostic criteria and classification of mastocytosis: a consensus proposal |journal=Leuk. Res. |volume=25 |issue=7 |pages=603–25 |year=2001 |month=July |pmid=11377686 |url=http://linkinghub.elsevier.com/retrieve/pii/S0145-2126(01)00038-8}}</ref>
+
+==History==
+The properties of histamine, then called β-iminazolylethylamine, were first described in 1910 by the British scientists [[Henry Hallett Dale|Henry H. Dale]] and [[Patrick Laidlaw|P.P. Laidlaw]].<ref>{{cite journal |author=Dale HH, Laidlaw PP |title=The physiological action of β-iminazolylethylamine |journal=J. Physiol. (Lond.) |volume=41 |issue=5 |pages=318–44 |year=1910 |month=December |pmid=16993030 |pmc=1512903 |url=http://jp.physoc.org/content/41/5/318.full.pdf |format=PDF}}</ref>
+
+"H substance" or "substance H" are occasionally used in medical literature for histamine or a hypothetical histamine-like diffusible substance released in allergic reactions of skin and in the responses of tissue to inflammation.{{citation needed|date=October 2011}}
+
+== See also ==
+* [[Scombroid food poisoning]]
+* [[Histamine antagonist]]
+* [[Allergic rhinitis|Hay fever (allergic rhinitis)]]
+
+== References ==
+<references/>
+
+==External links==
+*{{DrugBank|EXPT01785}}
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=HSM Histamine bound to proteins] in the [[Protein Data Bank|PDB]]
+{{Histaminergics}}
+{{Neurotransmitters}}
+
+[[Category:Biogenic amines]]
+[[Category:Ethylamines]]
+[[Category:Imidazoles]]
+[[Category:Immune system]]
+[[Category:Vasodilators]]
+[[Category:Immunostimulants]]
+[[Category:Neurotransmitters]]

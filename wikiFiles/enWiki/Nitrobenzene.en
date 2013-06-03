@@ -1,0 +1,102 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408770297
+|   Name = '''Nitrobenzene'''
+|   ImageFileL1 = Nitrobenzol.svg
+|   ImageSizeL1 = 80px
+|   ImageNameL1 = Nitrobenzene
+|   ImageFileR1 = Nitrobenzene-3D-vdW.png
+|   ImageSizeR1 = 120px
+|   ImageNameR1 = Nitrobenzene
+|   ImageFile2 = Sample of Nitrobenzene.jpg
+|   OtherNames = Nitrobenzol<br />Oil of mirbane
+| Section1 = {{Chembox Identifiers
+|   UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = E57JCN6SSY
+| SMILES = c1ccc(cc1)[N+](=O)[O-]
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7138
+| PubChem = 7416
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C06813
+| InChI = 1/C6H5NO2/c8-7(9)6-4-2-1-3-5-6/h1-5H
+| InChIKey = LQNUZADURLCDLV-UHFFFAOYAA
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 15750
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H5NO2/c8-7(9)6-4-2-1-3-5-6/h1-5H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LQNUZADURLCDLV-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 98-95-3
+|   ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 27798
+|   RTECS = DA6475000
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub>
+|   MolarMass = 123.06 g/mol
+|   Appearance = yellowish liquid
+|   Density = 1.199 g/cm<sup>3</sup>
+|   Solubility = 0.19 g/100 ml at 20 °C
+|   MeltingPt = 5.7 °C
+|   BoilingPt = 210.9 °C
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = 
+|   EUClass = Toxic ('''T''')<br />[[Carcinogen|Carc. Cat. 3]]<br />Repr. Cat. 3<br />Dangerous for the environment ('''N''')<br/>Flammable('''F''')
+|   RPhrases = {{R10}}, {{R23/24/25}}, {{R40}},<br />{{Rlink|R48/23/24}}, {{R51/53}}, {{R62}}
+|   SPhrases = {{S1/2}}, {{S28}}, {{S36/37}},<br />{{S45}}, {{S61}}
+||   NFPA-H = 2
+|   NFPA-F = 3
+|   NFPA-R = 1
+|   NFPA-P = poi|   FlashPt = 88 °C
+|   Autoignition = 525 °C
+  }}
+| Section8 = {{Chembox Related
+|   OtherCpds = [[Aniline]]<br />[[Benzenediazonium chloride]]<br />[[Nitrosobenzene]]
+  }}
+}}
+'''Nitrobenzene''' is an [[organic compound]] with the [[chemical formula]] [[Phenyl|C<sub>6</sub>H<sub>5</sub>]][[Nitro compound|NO<sub>2</sub>]].  It is a water-insoluble pale yellow oil with an [[almond]]-like odor.  It freezes to give greenish-yellow crystals.  It is produced on a large scale from [[benzene]] as a precursor to [[aniline]].  In the laboratory, it is occasionally used as a [[solvent]], especially for [[electrophilic]] [[reagent]]s.
+
+==Production==
+Nitrobenzene is prepared by [[nitration]] of benzene with a mixture of concentrated [[sulfuric acid]], [[water]], and [[nitric acid]].  This mixture is sometimes called "mixed acid."  The production of nitrobenzene is one of the most dangerous processes conducted in the chemical industry because of the exothermicity of the reaction (Δ''H'' = −117 kJ/mol).<ref name=Booth/>
+
+:[[Image:NitrationofPh.png|280px]]
+World capacity for nitrobenzene in 1985 was about 1.7×10<sup>6</sup> [[tonnes]].<ref name=Booth>Gerald Booth (2007). "Nitro Compounds, Aromatic". In: ''Ullmann's Encyclopedia of Industrial Chemistry''. John Wiley & Sons: New York. {{DOI|10.1002/14356007.a17_411}}</ref>
+
+===Mechanism of nitration===
+{{main|nitration}}
+The reaction pathway entails formation of an adduct between the [[Lewis acid]]ic [[nitronium]] ion (NO<sub>2</sub><sup>+</sup>) and benzene.   The nitronium ion is generated in situ by the reaction of nitric acid and an acidic dehydration agent, typically sulfuric acid:
+:HNO<sub>3</sub>  +  H<sup>+</sup>   {{eqm}}  NO<sub>2</sub><sup>+</sup>  +  H<sub>2</sub>O
+
+==Uses==
+Approximately 95% of nitrobenzene is consumed in the production of [[aniline]],<ref name=Booth/> which is a precursor to [[rubber]] chemicals, [[pesticide]]s, [[dye]]s, [[explosives]], and [[pharmaceutical]]s.
+
+===Specialized applications===
+Nitrobenzene is also used in shoe and floor polishes, leather dressings, paint [[solvent]]s, and other materials to mask unpleasant odors.  Redistilled, as oil of mirbane, nitrobenzene has been used as an inexpensive perfume for [[soap]]s.  A significant merchant market for nitrobenzene is its use in the production of the [[analgesic]] [[paracetamol]] (also known as acetaminophen) (Mannsville 1991).<ref>{{cite journal |author=Bhattacharya A.; Purohit V. C.; Suarez, V.; Tichkule, R; Parmer, G.; Rinaldi, F. |title=One-step reductive amidation of nitro arenes: application in the synthesis of Acetaminophen |journal=Tetrahedron Letters |volume=47 |issue=11 |pages=1861–1864 |year=2006 |pmid= |doi=10.1016/j.tetlet.2005.09.196 |url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THS-4J555V1-1&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=fe6796487e91354be14cc99413b05808}}</ref> Nitrobenzene is also used in [[Kerr cell]]s, as it has an unusually large [[Kerr effect|Kerr constant]].
+
+===Organic reactions===
+Aside from its conversion to aniline, nitrobenzene is readily converted to related derivatives such as [[azobenzene]],<ref>{{OrgSynth | author = Bigelow, H. E.; Robinson, D. B. | title = Azobenzene | collvol = 3 | collvolpages = 103 | year = 1955 | prep = CV3P0103}}</ref> [[nitrosobenzene]],<ref>{{OrgSynth | author = G. H. Coleman, C. M. McCloskey, F. A. Stuart | title = Nitrosobenzene | collvol = 3 | collvolpages = 668 | prep = CV3P0668}}</ref> and  [[phenylhydroxylamine]].<ref>{{OrgSynth | author = O. Kamm | title = &beta;-Phenylhydroxylamine | collvol = 1 | collvolpages = 445 | prep = cv1p0445}}</ref> The nitro- group is deactivating, thus substitution tends to occur at the ''meta''-position.
+
+==Safety==
+Nitrobenzene is highly toxic ([[Threshold Limit Value]] 5&nbsp;mg/m<sup>3</sup>) and readily absorbed through the skin.
+
+Prolonged exposure may cause serious damage to the central [[nervous system]], impair vision, cause liver or kidney damage, anemia and lung irritation.  Inhalation of vapors may induce headache, nausea, fatigue, dizziness, [[cyanosis]], weakness in the arms and legs, and in rare cases may be fatal.  The oil is readily absorbed through the skin and may increase heart rate, cause convulsions or rarely death.  Ingestion may similarly cause headaches, dizziness, nausea, vomiting and gastrointestinal irritation, loss of sensation/use in limbs and also causes internal bleeding.<ref>{{OrgSynth | author = G. H. Coleman, C. M. McCloskey, F. A. Stuart | title = Nitrosobenzene | collvol = 3 | collvolpages = 668 | prep = CV3P0668}}</ref>
+
+Nitrobenzene is considered a likely human carcinogen by the United States Environmental Protection Agency,<ref>http://cfpub.epa.gov/ncea/iris/index.cfm?fuseaction=iris.showQuickView&substance_nmbr=0079</ref> and is classified by the [[International Agency for Research on Cancer|IARC]] as a [[List of IARC Group 2B carcinogens|Group 2B carcinogen]] which is "possibly carcinogenic to humans".<ref>[http://monographs.iarc.fr/ENG/Classification/ClassificationsGroupOrder.pdf Agents Classified by the IARC Monographs], [[International Agency for Research on Cancer]]</ref>  It has been shown to cause liver, kidney, and thyroid adenomas and carcinomas in rats.<ref>National Institutes of Health · U.S. Department of Health and Human Services, [http://ntp.niehs.nih.gov/ntp/newhomeroc/roc11/NB_RG2summary-final.pdf Nomination: Nitrobenzene Review committee], 02/02/2010</ref>
+
+==References==
+<references/>
+
+==External links==
+*[http://www.inchem.org/documents/icsc/icsc/eics0065.htm International Chemical Safety Card 0065]
+*[http://www.cdc.gov/niosh/npg/npgd0450.html NIOSH Pocket Guide to Chemical Hazards]
+*[http://monographs.iarc.fr/ENG/Monographs/vol65/mono65-11.pdf IARC Monograph: "Nitrobenzene"]
+*[http://www.epa.gov/chemfact/nitro-sd.pdf US EPA factsheet]
+
+[[Category:Nitrobenzenes| ]]
+[[Category:Nitro solvents]]
+[[Category:IARC Group 2B carcinogens]]
+[[Category:Nonlinear optical materials]]

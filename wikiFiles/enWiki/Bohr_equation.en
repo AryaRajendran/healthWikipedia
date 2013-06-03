@@ -1,0 +1,45 @@
+The '''Bohr equation''', named after [[Denmark|Danish]] physician [[Christian Bohr]] (1855–1911), describes the amount of [[Dead space (physiology)|physiological dead space]] in a person's lungs.  This is given as a [[ratio]] of dead space to [[tidal volume]].  It differs from [[Dead_space_(physiology)#Anatomical_dead_space|anatomical dead space]] as measured by [[Fowler's method]] as it includes [[Pulmonary alveolus|alveolar]] dead space.
+
+== Description ==
+
+The Bohr equation is used to quantify the ratio of physiological dead space to the total tidal volume, and gives an indication of the extent of wasted ventilation. It is stated as follows:<ref>Respiratory Physiology: The Essentials, '''J. West''', 2005, 7th ed, Page 169</ref>
+
+:<math>\frac{\mathbf{V}_{\mathrm{d}}}{\mathbf{V}_{\mathrm{t}}} = \frac{{\mathrm{P}_{\mathrm{a}}{\mathrm{CO}}_{\mathrm{2}}} - {\mathrm{P}_{\mathrm{e}}{\mathrm{CO}}_{\mathrm{2}}}}{\mathrm{P}_{\mathrm{a}}{\mathrm{CO}}_{\mathrm{2}}}</math>
+
+== Derivation ==
+
+Its derivation is based on the fact that only the ventilated gases involved in gas exchange (<math>V_a</math>) will produce [[Carbon dioxide|CO<sub>2</sub>]].  Because the Total tidal volume (<math>V_t</math>) is made up of <math>V_a+V_d</math> (alveolar volume + dead space volume), we can substitute <math>V_a</math> for <math>V_t-V_d</math>.
+
+Initially, Bohr tells us Vt = Vd + Va. The Bohr equation helps us find the amount of any expired gas, {{CO2}}, N<sub>2</sub>, O<sub>2</sub>, etc.  In this case we will focus on {{CO2}}. Defining Fe as the fraction of expired {{CO2}} and Fa as the fraction of expired alveolar {{CO2}}, and Fd as fraction of expired dead space volume {{CO2}}, we can say <br>
+Vt x Fe = ( Vd x Fd ) + (Va x Fa ). This merely means all the {{CO2}} expired comes from two parts, the dead space volume and the alveolar volume. <br>
+If we suppose that Fd = 0 (since carbon dioxide concentration in air is normally negligible), then we can say that:<ref>Davies, Andrew, and Carl Moores. The Respiratory System. Systems of the body. Edinburgh: Churchill Livingstone, 2003.</ref>
+
+:<math> V_t \times F_e = V_a \times F_a </math>          Where F<sub>e</sub> = Fraction expired CO<sub>2</sub>, and Fa = Alveolar fraction of CO<sub>2</sub>.
+
+:<math>V_t \times F_e = (V_t - V_d) \times F_a </math>    Substituted as above.
+
+:<math>V_t \times F_e = V_t \times F_a - V_d \times F_a </math>   Multiply out of the brackets.
+
+:<math>V_d \times F_a = V_t \times F_a - V_t \times F_e </math>   Rearrange.
+
+:<math>V_d \times F_a = V_t \times (F_a - F_e)</math>
+
+:<math> V_d/V_t = \frac{F_a - F_e}{F_a}</math>  Divide by V<sub>t</sub> and by F<sub>a</sub>.
+The above equation makes sense because it describes the total {{CO2}} being measured by the spirometer. The only source of the {{CO2}} we are assuming to measure is from the alveolar space where {{CO2}} and O<sub>2</sub> exchange takes place. Thus alveolar's fractional component, F<sub>a</sub>, will always be higher than the total {{CO2}} content of the expired air, F<sub>e</sub>, thus we will  be always yielding a positive number.
+
+Where Ptot is the total pressure, we obtain:
+*<math>F_a \times Ptot = PaCO_2</math> and
+*<math>F_e \times Ptot = PeCO_2</math>
+
+Therefore:
+
+:<math>V_d/V_t = \frac{FaCO_2 - FeCO_2}{FaCO_2} \times \frac{Ptot}{Ptot} </math>
+
+This is simplified as:
+
+:<math>V_d/V_t = \frac{PaCO_2 - PeCO_2}{PaCO_2}</math>
+
+== References ==
+{{Reflist}}
+
+[[Category:Respiratory physiology]]

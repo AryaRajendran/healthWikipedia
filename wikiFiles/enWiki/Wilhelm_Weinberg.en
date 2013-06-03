@@ -1,0 +1,71 @@
+{{Infobox person
+| name =
+| image =  Wilhelm Weinberg.jpg
+| alt = Wilhelm Weinberg
+| caption = Wilhelm Weinberg
+| birth_name =
+| birth_date = {{Birth date|1862|12|25}}
+| birth_place = [[Stuttgart]]
+| death_date = {{Death date and age|1937|11|27|1862|12|25}}
+| death_place = [[Tübingen]]
+| nationality = [[Germany|German]]
+| other_names =
+| known_for = [[Hardy-Weinberg principle]]<br />[[ascertainment bias]]
+| occupation = Obstetrician-[[Gynecology|gynecologist]]
+}}
+
+Dr '''Wilhelm Weinberg'''  ([[Stuttgart]], December 25, 1862 – [[Tübingen]], November 27, 1937)  was a German half-Jewish physician and obstetrician-gynecologist, practicing in [[Stuttgart]], who in a 1908 paper (Jahresheft des Vereins für vaterländische Naturkunde in Württemberg (Annals of the Society of the National Natural History in Württemberg)  published in [[German (language)|German]], expressed the concept that would later come to be known as the [[Hardy-Weinberg principle]].
+
+Weinberg is also credited as the first to explain the effect of [[ascertainment bias]] on observations in genetics.
+
+== Hardy-Weinberg principle ==
+
+{{main|Hardy-Weinberg principle}}
+
+Weinberg developed the principle of [[genetic equilibrium]] independently of British mathematician [[G.H. Hardy]]. He delivered an exposition of his ideas in a lecture on January 13, 1908, before the ''Verein für vaterländische Naturkunde in Württemberg'' (Society for the Natural History of the Fatherland in Württemberg), about six months before Hardy's paper was published in English. His lecture was printed later that year in the society's yearbook.
+
+Weinberg's contributions were unrecognized in the [[Anglosphere|English speaking world]] for more than 35 years. [[Curt Stern (geneticist)|Curt Stern]], a German scientist who immigrated to the United States before [[World War II]], pointed out in a brief paper in ''Science'' that Weinberg's exposition was both earlier and more comprehensive than Hardy's.<ref name="stern">{{cite journal | first=Curt | last=Stern | authorlink=Curt Stern (geneticist) | year=1943 | title=The Hardy–Weinberg law | journal=Science | volume=97 | pages=137–138 | pmid=17788516 | issue=2510 | doi=10.1126/science.97.2510.137 | jstor=1670409}}</ref> Before 1943, the concepts in [[genetic equilibrium]] that are known today as the [[Hardy-Weinberg principle]] had been known as "Hardy's law" or "Hardy's formula" in English language texts.
+
+[[James F. Crow]] writes: “Why was Weinberg’s paper, published the same year as Hardy’s, neglected for 35 years? The reason, I am sure, is that he wrote in German. At the time, genetics was largely dominated by English speakers and, sadly, work in other languages was often ignored.”<ref name="crow1999">{{cite journal | first=James F. | last=Crow | authorlink=James F. Crow | year=1999 | title=Hardy, Weinberg and language impediments | journal=Genetics | volume=152 | pages=821–825 | pmid=10388804 | issue=3 | pmc=1460671 }}</ref>
+
+== Ascertainment bias and analysis of phenotypic variance ==
+
+{{main|Ascertainment bias}}
+
+Weinberg pioneered in [[twin studies|studies of twins]], developing techniques for analysis of [[phenotype|phenotypic]] variation that partitioned this variance into genetic and environmental components. In the process, he recognized that ascertainment bias was affecting many of his calculations, and he produced methods to correct for it.<ref name="crow1999"/>
+
+Weinberg observed that proportions of [[homozygotes]] in familial studies of classic [[autosomal recessive]] genetic diseases generally exceed the expected Mendelian ratio of 1:4, and he explained how this is the result of ascertainment bias. In his work with [[albino]] children, he recognized that in some families where both parents carry a recessive mutation, no disease occurs by chance. He reasoned that many carrier couples were not being counted, and he demonstrated methods for correcting results to produce the expected Mendelian ratios.<ref name="crow1999"/>
+
+He discovered the answer to several seeming paradoxes caused by ascertainment bias. For example, he explained that the reason that parents as a whole are more fertile than their children is because children must necessarily come from fertile parents.
+
+By the same token, he recognized that ascertainment was responsible for a phenomenon known as [[anticipation (genetics)|anticipation]], the tendency for a genetic disease to manifest earlier in life and with increased severity in later generations. Weinberg recognized that this was because those later generations were the offspring of that selected group of earlier carriers that had successfully reproduced.<ref name="crow1999"/> Subsequent researchers have reasoned that such carriers who reproduce might be expected to carry favorable [[genetic modifiers]] that allowed them to reproduce successfully in spite of their disease. In a class of [[autosomal dominant|autosomal]] and [[X-linked dominant]] diseases known as [[trinucleotide repeat disorders]] (for example, [[Huntington's disease]]), a molecular mechanism for anticipation has also been demonstrated. It is caused by the instability of repeating [[nucleotide]] sequences that tend to undergo expansion, causing disease at an earlier and earlier age as trinucleotide repeats accumulate.
+
+== Biography ==
+
+Weinberg was born in [[Stuttgart]] and studied [[medicine]] at [[Tübingen]], [[Berlin]] and [[Munich]], receiving an M.D. in 1886. He returned to [[Stuttgart]] in 1889, where he remained running a large practice as a [[gynecologist]] and [[obstetrician]] until he retired to [[Tübingen]] a few years before his death in 1937. Much of his academic life he spent studying [[genetics]] especially focusing on applying the laws of inheritance to [[populations]].<ref name="stern2">{{cite journal | first=Curt | last=Stern | authorlink=Curt Stern (geneticist) | year=1962 | title=Wilhelm Weinberg  | journal=Genetics | volume=47 | pages=1–5 }}</ref>
+
+Additional contributions by Weinberg to statistical genetics included the first estimate of the rate of twinning – Realizing that identical twins would have to be same-sex, while [[dizygotic twins]] could be either same or opposite sex, Weinberg derived the formula for estimating the frequency of [[monozygotic]] and dizygotic twins from the ratio of same sex and opposite twins to the total of maternities.<ref name="crow1999"/> Weinberg also estimated that the heritability of twinning itself was close to zero.
+
+==References==
+
+{{reflist}}
+* Dorothee Früh: ''Wilhelm Weinberg (1862 – 1937), Armenarzt und Populationsgenetiker – Anmerkung zu Leben und Werk'' in: Biologisches Zentralblatt 115 (1996) S. 112-119
+* Sarah Atorf: ''Die nationale und internationale Rezeption der genetischen Arbeiten Wilhelm Weinbergs (1862 – 1937).''(2011) Diplomarbeit an der Universität zu Köln
+
+{{Authority control|VIAF=30308812}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Weinberg, Wilhelm
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = German geneticist
+| DATE OF BIRTH     = December 25, 1862
+| PLACE OF BIRTH    = [[Stuttgart]]
+| DATE OF DEATH     = November 27, 1937
+| PLACE OF DEATH    = [[Tübingen]]
+}}
+{{DEFAULTSORT:Weinberg, Wilhelm}}
+[[Category:Population geneticists]]
+[[Category:German Jews]]
+[[Category:Jewish scientists]]
+[[Category:1862 births]]
+[[Category:1937 deaths]]

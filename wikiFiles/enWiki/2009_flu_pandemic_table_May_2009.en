@@ -1,0 +1,281 @@
+{{Main|2009 swine flu outbreak}}
+{{Further|2009 swine flu outbreak by country}}
+{{See also|2009 swine flu outbreak timeline}}
+
+This is a table containing the figures from the [[World Health Organization|WHO]] Influenza A Situation Updates issued in May 2009 roughly once a day.<ref>[http://www.who.int/csr/disease/swineflu/updates/en/index.html WHO Situation Updates]</ref>  Where more than one update was issued in a day, the corresponding figures are from the last update that day.  The table can by sorted by country, date of first confirmed case or date of first confirmed case by continent.
+
+This presentation of the data in this and other tables shows the progression, peaks, and, eventually, decline of the epidemic in each country and continent.
+
+[[2009 flu pandemic table April 2009|Previous month]] | [[2009 flu pandemic table June 2009|Next month]]
+
+==Chart==
+{|align="center"
+|- align="center"
+| <u> WHO figures chart of progression </u> <ref>[http://www.who.int/csr/disease/swineflu/updates/en/index.html WHO: Situation updates - Influenza A(H1N1)]</ref>
+|-
+|
+<timeline>
+ImageSize  = width:750 height:730
+PlotArea   = width:680 height:720 left:70 bottom:0
+AlignBars  = late
+
+Period = from:0 till:16384
+TimeAxis   = orientation:horizontal
+
+BarData=
+  bar:01/05 text:"01/05/09"
+  bar:02/05 text:"02/05/09"
+  bar:03/05 text:"03/05/09" link:http://whoterrance.vo.msecnd.net/mediacentre/swine%5Fflu/GlobalSubnationalMaster%5F20090503%5F1630%5Flrg.jpg
+  bar:04/05 text:"04/05/09" link:http://www.who.int/csr/don/H1N1map20090504.jpg
+  bar:05/05 text:"05/05/09" link:http://whoterrance.vo.msecnd.net/mediacentre/swine%5Fflu/GlobalSubnationalMaster%5F20090505%5F1610.jpg
+  bar:06/05 text:"06/05/09" link:http://www.who.int/csr/don/h1b120090506%5F730PM.jpg
+  bar:07/05 text:"07/05/09" link:http://www.who.int/csr/don/GlobalSubnationalMaster%5F20090507%5F1800.png
+  bar:08/05 text:"08/05/09" link:http://www.who.int/csr/don/GlobalSubnationalMaster%5F20090508%5F1815.jpg
+  bar:09/05 text:"09/05/09" link:http://www.who.int/csr/don/GlobalSubnationalMaster%5F20090509%5F0805.jpg
+  bar:10/05 text:"10/05/09" link:http://www.who.int/csr/don/GlobalSubnationalMaster%5F20090510%5F0800.jpg
+  bar:11/05 text:"11/05/09" link:http://www.who.int/csr/don/GlobalSubnationalMaster%5F20090510%5F0800.jpg
+  bar:12/05 text:"12/05/09" link:http://www.who.int/csr/don/h1n1%5F20090512%5F0600.jpg
+  bar:13/05 text:"13/05/09" link:http://www.who.int/csr/don/h1n1%5F20090513%5F0600.jpg
+  bar:14/05 text:"14/05/09" link:http://www.who.int/csr/don/h1n1%5F20090514%5F0800.jpg
+  bar:15/05 text:"15/05/09" link:http://www.who.int/csr/don/GlobalSubnationalMaster%5F20090515%5F0800.jpg
+  bar:16/05 text:"16/05/09" link:http://www.who.int/csr/don/GlobalSubnationalMaster%5F20090516%5F1000.png
+  bar:17/05 text:"17/05/09" link:http://www.who.int/csr/don/H1N1map200905017.jpg
+  bar:18/05 text:"18/05/09" link:http://www.who.int/csr/don/h1n1%5F20090518%5F0600.jpg
+  bar:19/05 text:"19/05/09" link:http://www.who.int/csr/don/h1n1%5F20090519%5F0600.jpg
+  bar:20/05 text:"20/05/09" link:http://www.who.int/csr/don/h1n1%5F20090520%5F0600.jpg
+  bar:21/05 text:"21/05/09" link:http://www.who.int/csr/don/h1n1%5F20090521%5F0600.jpg
+  bar:22/05 text:"22/05/09" link:http://www.who.int/csr/don/GlobalSubnationalMaster%5F20090522%5F06001.jpg
+  bar:23/05 text:"23/05/09" link:http://www.who.int/csr/don/ah1n1%5F20090523%5F8AM.jpg
+  bar:25/05 text:"25/05/09" link:http://www.who.int/csr/don/GlobalSubnationalMaster%5F20090525%5F1000.png
+  bar:26/05 text:"26/05/09" link:http://www.who.int/csr/don/GlobalSubnationalMaster%5F20090526%5F0800.jpg
+  bar:27/05 text:"27/05/09" link:http://www.who.int/csr/don/h1n1%5F20090527%5F0800.jpg
+  bar:29/05 text:"29/05/09"
+
+PlotData=
+  width:15 textcolor:blue fontsize:M
+  bar:01/05 color:red from:0 till:367 text:367 shift:(50,-04)
+  bar:01/05 color:black from:0 till:10 text:10 shift:(0,-03)
+  bar:02/05 color:red from:0 till:658 text:658 shift:(50,-04)
+  bar:02/05 color:black from:0 till:17 text:17 shift:(0,-03)
+  bar:03/05 color:red from:0 till:898 text:898 shift:(50,-04)
+  bar:03/05 color:black from:0 till:20 text:20 shift:(0,-03)
+  bar:04/05 color:red from:0 till:1085 text:1.085 shift:(50,-04)
+  bar:04/05 color:black from:0 till:26 text:26 shift:(0,-03)
+  bar:05/05 color:red from:0 till:1490 text:1.490 shift:(50,-04)
+  bar:05/05 color:black from:0 till:30 text:30 shift:(0,-03)
+  bar:06/05 color:red from:0 till:1893 text:1.893 shift:(50,-04)
+  bar:06/05 color:black from:0 till:31 text:31 shift:(0,-03)
+  width:15 textcolor:white fontsize:M
+  bar:07/05 color:red from:0 till:2371 text:2.371 shift:(0,-04)
+  bar:07/05 color:black from:0 till:44 text:44 shift:(0,-03)
+  bar:08/05 color:red from:0 till:2500 text:2.500 shift:(0,-03)
+  bar:08/05 color:black from:0 till:46 text:46 shift:(0,-03)
+  bar:09/05 color:red from:0 till:3440 text:3.440 shift:(0,-03)
+  bar:09/05 color:black from:0 till:48 text:48 shift:(0,-03)
+  bar:10/05 color:red from:0 till:4379 text:4.379 shift:(0,-03)
+  bar:10/05 color:black from:0 till:49 text:49 shift:(0,-03)
+  bar:11/05 color:red from:0 till:4694 text:4.694 shift:(0,-03)
+  bar:11/05 color:black from:0 till:49 text:53 shift:(0,-03)
+  bar:12/05 color:red from:0 till:5251 text:5.251 shift:(0,-03)
+  bar:12/05 color:black from:0 till:61 text:61 shift:(0,-03)
+  bar:13/05 color:red from:0 till:5728 text:5.728 shift:(0,-03)
+  bar:13/05 color:black from:0 till:61 text:61 shift:(0,-03)
+  bar:14/05 color:red from:0 till:6497 text:6.497 shift:(0,-03)
+  bar:14/05 color:black from:0 till:65 text:65 shift:(0,-03)
+  bar:15/05 color:red from:0 till:7520 text:7.520 shift:(0,-03)
+  bar:15/05 color:black from:0 till:65 text:65 shift:(0,-03)
+  bar:16/05 color:red from:0 till:8451 text:8.451 shift:(0,-03)
+  bar:16/05 color:black from:0 till:72 text:72 shift:(0,-03)
+  bar:17/05 color:red from:0 till:8480 text:8.480 shift:(0,-03)
+  bar:17/05 color:black from:0 till:72 text:72 shift:(0,-03)
+  bar:18/05 color:red from:0 till:8829 text:8.829 shift:(0,-03)
+  bar:18/05 color:black from:0 till:74 text:74 shift:(0,-03)
+  bar:19/05 color:red from:0 till:9830 text:9.830 shift:(0,-03)
+  bar:19/05 color:black from:0 till:79 text:79 shift:(0,-03)
+  bar:20/05 color:red from:0 till:10243 text:10.243 shift:(0,-03)
+  bar:20/05 color:black from:0 till:80 text:80 shift:(0,-03)
+  bar:21/05 color:red from:0 till:11034 text:11.034 shift:(0,-03)
+  bar:21/05 color:black from:0 till:85 text:85 shift:(0,-03)
+  bar:22/05 color:red from:0 till:11168 text:11.168 shift:(0,-03)
+  bar:22/05 color:black from:0 till:86 text:86 shift:(0,-03)
+  bar:23/05 color:red from:0 till:12022 text:12.022 shift:(0,-03)
+  bar:23/05 color:black from:0 till:86 text:86 shift:(0,-03)
+  bar:25/05 color:red from:0 till:12515 text:12.515 shift:(0,-03)
+  bar:25/05 color:black from:0 till:91 text:91 shift:(0,-03)
+  bar:26/05 color:red from:0 till:12954 text:12.954 shift:(0,-03)
+  bar:26/05 color:black from:0 till:92 text:92 shift:(0,-03)
+  bar:27/05 color:red from:0 till:13398 text:13.398 shift:(0,-03)
+  bar:27/05 color:black from:0 till:95 text:95 shift:(0,-03)
+  bar:29/05 color:red from:0 till:15510 text:15.510 shift:(0,-03)
+  bar:29/05 color:black from:0 till:99 text:99 shift:(0,-03)
+
+TextData =
+  pos:(310,725) textcolor:black fontsize:M
+  text:Deaths
+  pos:(362,725) textcolor:brightblue fontsize:M
+  text: /
+  pos:(375,725) textcolor:red fontsize:M
+  text:Cases
+  pos:(295,700) textcolor:brightblue fontsize:S
+  text:( Mortality Rate 0,51% )
+
+</timeline>
+|}
+
+==Confirmed cases==
+
+{| border="1" cellpadding="5" cellspacing="0" class="wikitable sortable" align="center"
+|+'''Swine flu cases, May 2009'''
+! By date
+! By cont.
+! Country
+! 1 !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! 8 !! 9 !! 10
+! 11 !! 12 !! 13 !! 14 !! 15 !! 16 !! 17 !! 18 !! 19 !! 20
+! 21 !! 22 !! 23 !! 25 !! 26 !! 27 !! 29
+|-
+| 0 || 0 || {{noflag}} ''[[World]]'' || 367 || 658 || 898 || 1085 || 1490 || 1894 || 2371 || 2500 || 3440 || 4379 || 4694 || 5251 || 5728 || 6397 || 7520 || 8451 || 8480 || 8829 || 9830 || 10243 || 11034 || 11168 || 12021 || 12514 || 12950 || 13394 || 15501
+|-
+| 0 || 0 || Days to double (approx) || 2 || 2 || 2 || 3 || 3 || 3 || 3 || 4 || 4 || 4 || 5 || 4 || 5 || 6 || 6 || 7 || 8 || 8 || 8 || 9 || 9 || 10 || 10 || 12 || 12 || 13 || 14
+|-
+| 0 || 0 || Countries || 13 || 16 || 18 || 21 || 21 || 23 || 24 || 25 || 29 || 29 || 30 || 30 || 33 || 33 || 34 || 36 || 39 || 40 || 40 || 41 || 41 || 42 || 44 || 47 || 47 || 49 || 54
+|-
+| 1 || 1.01 || {{flagicon|Mexico}} [[Mexico]] || 156 || 397 || 506 || 590 || 822 || 942 || 1112 || 1204 || 1364 || 1626 || 1626 || 2059 || 2059 || 2446 || 2446 || 2895 || 2895 || 3103 || 3648 || 3648 || 3892 || 3892 || 3892 || 4174 || 4174 || 4541 || 4910
+|-
+| 2 || 1.02 || {{flagicon|United States of America}} [[United States of America]] || 141 || 160 || 226 || 286 || 403 || 642 || 896 || 896 || 1639 || 2254 || 2532 || 2600 || 3009 || 3352 || 4298 || 4714 || 4714 || 4714 || 5123 || 5469 || 5710 || 5764 || 6552 || 6552 || 6764 || 6764 || 7927
+|-
+| 3 || 1.03 || {{flagicon|Canada}} [[Canada]] || 34 || 51 || 85 || 101 || 140 || 165 || 201 || 214 || 242 || 280 || 284 || 330 || 358 || 289 || 449 || 496 || 496 || 496 || 496 || 496 || 719 || 719 || 719 || 805 || 921 || 921 || 1118
+|-
+| 16 || 1.04 || {{flagicon|Costa Rica}} [[Costa Rica]] ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 8 || 8 || 8 || 8 || 8 || 8 || 9 || 9 || 9 || 9 || 9 || 20 || 20 || 20 || 28 || 33 || 33 || 33
+|-
+| 19 || 1.05 || {{flagicon|El Salvador}} [[El Salvador]] ||  ||  ||  || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 4 || 4 || 4 || 4 || 4 || 4 || 4 || 4 || 6 || 6 || 6 || 6 || 6 || 6 || 6 || 11 || 11
+|-
+| 22 || 1.06 || {{flagicon|Guatemala}} [[Guatemala]] ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 4 || 4 || 4 || 4 || 4 || 5 || 5
+|-
+| 27 || 1.07 || {{flagicon|Panama}} [[Panama]] ||  ||  ||  ||  ||  ||  ||  ||  || 2 || 3 || 15 || 16 || 29 || 29 || 40 || 43 || 54 || 54 || 59 || 65 || 69 || 73 || 76 || 76 || 76 || 76 || 107
+|-
+| 33 || 1.08 || {{flagicon|Cuba}} [[Cuba]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 3 || 3 || 3 || 3 || 3 || 3 || 4 || 4 || 4 || 4 || 4 || 4 || 4
+|-
+| 46 || 1.09 || {{flagicon|Honduras}} [[Honduras]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1
+|-
+| 52 || 1.1 || {{flagicon|Dominican Republic}} [[Dominican Republic]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2
+|-
+| 4 || 2.01 || {{flagicon|Spain}} [[Spain]] || 13 || 13 || 40 || 54 || 57 || 73 || 81 || 88 || 88 || 93 || 95 || 95 || 98 || 100 || 100 || 100 || 103 || 103 || 103 || 107 || 111 || 113 || 126 || 133 || 136 || 138 || 143
+|-
+| 7 || 2.02 || {{flagicon|United Kingdom}} [[United Kingdom]] || 8 || 15 || 15 || 18 || 27 || 28 || 32 || 34 || 34 || 39 || 47 || 55 || 68 || 71 || 71 || 78 || 82 || 101 || 102 || 102 || 109 || 112 || 117 || 122 || 137 || 137 || 203
+|-
+| 9 || 2.03 || {{flagicon|Austria}} [[Austria]] || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+| 8 || 2.04 || {{flagicon|Germany}} [[Germany]] || 4 || 6 || 8 || 8 || 9 || 9 || 10 || 11 || 11 || 11 || 11 || 12 || 12 || 12 || 12 || 14 || 14 || 14 || 14 || 14 || 14 || 14 || 17 || 17 || 17 || 17 || 19
+|-
+| 10 || 2.05 || {{flagicon|Netherlands}} [[Netherlands]] || 1 || 1 || 1 || 1 || 1 || 1 || 2 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3
+|-
+| 11 || 2.06 || {{flagicon|Switzerland}} [[Switzerland]] || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 2 || 3 || 3 || 3 || 4
+|-
+| 13 || 2.07 || {{flagicon|Denmark}} [[Denmark]] || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+| 14 || 2.08 || {{flagicon|France}} [[France]] ||  || 2 || 2 || 4 || 4 || 5 || 5 || 12 || 12 || 12 || 13 || 13 || 13 || 14 || 14 || 14 || 14 || 14 || 14 || 15 || 16 || 16 || 16 || 16 || 16 || 16 || 21
+|-
+| 17 || 2.09 || {{flagicon|Ireland}} [[Ireland]] ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 3
+|-
+| 18 || 2.1 || {{flagicon|Italy}} [[Italy]] ||  ||  || 1 || 2 || 5 || 5 || 5 || 6 || 6 || 9 || 9 || 9 || 9 || 9 || 9 || 9 || 9 || 9 || 9 || 9 || 10 || 10 || 14 || 19 || 19 || 23 || 26
+|-
+| 21 || 2.11 || {{flagicon|Portugal}} [[Portugal]] ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+| 23 || 2.12 || {{flagicon|Sweden}} [[Sweden]] ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 2 || 2 || 2 || 2 || 2 || 2 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 4
+|-
+| 24 || 2.13 || {{flagicon|Poland}} [[Poland]] ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 2 || 2 || 2 || 2 || 3 || 3 || 3 || 4
+|-
+| 30 || 2.14 || {{flagicon|Norway}} [[Norway]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 3 || 3 || 4 || 4 || 4 || 4 || 4
+|-
+| 31 || 2.15 || {{flagicon|Finland}} [[Finland]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 3
+|-
+| 34 || 2.16 || {{flagicon|Belgium}} [[Belgium]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 2 || 4 || 5 || 5 || 5 || 5 || 5 || 7 || 7 || 7 || 7 || 8
+|-
+| 41 || 2.17 || {{flagicon|Greece}} [[Greece]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 3
+|-
+| 43 || 2.18 || {{flagicon|Russia}} [[Russia]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 2 || 2 || 2
+|-
+| 47 || 2.19 || {{flagicon|Iceland}} [[Iceland]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1
+|-
+| 50 || 2.2 || {{flagicon|Romania}} [[Romania]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3
+|-
+| 53 || 2.21 || {{flagicon|Czech Republic}} [[Czech Republic]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1
+|-
+| 54 || 2.22 || {{flagicon|Slovakia}} [[Slovakia]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1
+|-
+| 6 || 3.01 || {{flagicon|Israel}} [[Israel]] || 2 || 3 || 3 || 4 || 4 || 4 || 6 || 7 || 7 || 7 || 7 || 7 || 7 || 7 || 7 || 7 || 7 || 7 || 7 || 7 || 7 || 7 || 7 || 8 || 8 || 9 || 11
+|-
+| 12 || 3.02 || {{flagicon|China}} [[China]] || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 2 || 2 || 3 || 4 || 4 || 4 || 5 || 6 || 7 || 7 || 8 || 11 || 11 || 15 || 20 || 22 || 30
+|-
+| 15 || 3.03 || {{flagicon|Korea, Republic of}} [[Korea, Republic of]] ||  || 1 || 1 || 1 || 2 || 2 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 21 || 21 || 33
+|-
+| 26 || 3.04 || {{flagicon|Japan}} [[Japan]] ||  ||  ||  ||  ||  ||  ||  ||  || 3 || 4 || 4 || 4 || 4 || 4 || 4 || 4 || 7 || 125 || 159 || 210 || 259 || 294 || 321 || 345 || 350 || 360 || 364
+|-
+| 32 || 3.05 || {{flagicon|Thailand}} [[Thailand]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2
+|-
+| 38 || 3.06 || {{flagicon|India}} [[India]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+| 37 || 3.07 || {{flagicon|Malaysia}} [[Malaysia]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2
+|-
+| 39 || 3.08 || {{flagicon|Turkey}} [[Turkey]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2
+|-
+| 42 || 3.09 || {{flagicon|Philippines}} [[Philippines]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 2 || 2 || 6
+|-
+| 44 || 3.10 || {{flagicon|Taiwan}} [[Taiwan]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 4 || 4 || 4
+|-
+| 45 || 3.11 || {{flagicon|Kuwait}} [[Kuwait]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 18 || 18 || 18 || 18
+|-
+| 48 || 3.12 || {{flagicon|Bahrain}} [[Bahrain]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1
+|-
+| 49 || 3.13 || {{flagicon|Singapore}} [[Singapore]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 4
+|-
+| 5 || 4.01 || {{flagicon|New Zealand}} [[New Zealand]] || 4 || 4 || 4 || 6 || 6 || 6 || 5 || 5 || 5 || 7 || 7 || 7 || 7 || 7 || 7 || 9 || 9 || 9 || 9 || 9 || 9 || 9 || 9 || 9 || 9 || 9 || 9
+|-
+| 29 || 4.02 || {{flagicon|Australia}} [[Australia]] ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 3 || 7 || 12 || 16 || 19 || 39 || 147
+|-
+| 20 || 5.01 || {{flagicon|Colombia}} [[Colombia]] ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 3 || 3 || 6 || 7 || 10 || 11 || 11 || 11 || 11 || 12 || 12 || 12 || 12 || 13 || 16 || 16 || 17
+|-
+| 25 || 5.02 || {{flagicon|Brazil}} [[Brazil]] ||  ||  ||  ||  ||  ||  ||  || 4 || 6 || 6 || 8 || 8 || 8 || 8 || 8 || 8 || 8 || 8 || 8 || 9 || 9 || 9 || 10 || 10 || 10 || 11 || 15
+|-
+| 28 || 5.03 || {{flagicon|Argentina}} [[Argentina]] ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 2 || 5 || 19 || 37
+|-
+| 35 || 5.04 || {{flagicon|Ecuador}} [[Ecuador]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 8 || 8 || 10 || 24 || 28 || 32
+|-
+| 36 || 5.05 || {{flagicon|Peru}} [[Peru]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 2 || 3 || 3 || 5 || 5 || 25 || 27 || 27 || 31
+|-
+| 40 || 5.06 || {{flagicon|Chile}} [[Chile]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1 || 4 || 5 || 5 || 24 || 24 || 44 || 74 || 86 || 165
+|-
+| 51 || 5.07 || {{flagicon|Uruguay}} [[Uruguay]] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2
+|-
+|}
+
+==Deaths==
+
+{| border="1" cellpadding="5" cellspacing="0" class="wikitable sortable" align="center"
+|+'''Swine flu deaths, May 2009'''
+! By date
+! By cont.
+! Country
+! 1 !! 2 !! 3 !! 5 !! 6 !! 8 !! 9 !! 10 !! 11 !! 13 !! 15 !! 17 !! 18 !! 19 !! 20 !! 21 !! 22 !! 25 !! 26 !! 27 !! 29
+|-
+| 0 || 0 || {{noflag}} ''[[World]]'' || 10 || 17 || 20 || 26 || 31 || 46 || 48 || 49 || 53 || 61 || 65 || 72 || 74 || 79 || 80 || 85 || 86 || 91 || 92 || 95 || 99
+|-
+| 0 || 0 || Countries || 2 || 2 || 2 || 2 || 2 || 2 || 3 || 4 || 4 || 4 || 4 || 4 || 4 || 4 || 4 || 4 || 4 || 4 || 4 || 4 || 4
+|-
+| 1 || 1.01 || {{flagicon|Mexico}} [[Mexico]] || 9 || 16 || 19 || 25 || 29 || 44 || 45 || 45 || 48 || 56 || 60 || 66 || 68 || 72 || 72 || 75 || 75 || 80 || 80 || 83 || 85
+|-
+| 2 || 1.02 || {{flagicon|United States of America}} [[United States of America]] || 1 || 1 || 1 || 1 || 2 || 2 || 2 || 2 || 3 || 3 || 3 || 4 || 4 || 5 || 6 || 8 || 9 || 9 || 10 || 10 || 11
+|-
+| 3 || 1.03 || {{flagicon|Canada}} [[Canada]] ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 2
+|-
+| 4 || 1.04 || {{flagicon|Costa Rica}} [[Costa Rica]] ||  ||  ||  ||  ||  ||  ||  || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|}
+
+==References==
+<references/>
+
+==See also==
+{{2009 flu pandemic}}
+
+{{DEFAULTSORT:2009 Flu Pandemic Table May 2009}}
+[[Category:2009 flu pandemic by month|May 2009]]

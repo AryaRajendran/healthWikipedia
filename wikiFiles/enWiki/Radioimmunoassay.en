@@ -1,0 +1,35 @@
+{{Interventions infobox |
+  Name        = Radioimmunoassay |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = |
+  MeshID      = D011863 |
+  OtherCodes  = |
+}}
+'''Radioimmunoassay''' (RIA) is a very sensitive [[in vitro]] [[assay]] technique used to measure concentrations of [[antigen]]s (for example, [[hormone]] levels in the [[blood]]) by use of antibodies. As such, it can be seen as the inverse of a [[radiobinding assay]], which quantifies an antibody by use of corresponding antigens.
+
+Although the RIA technique is extremely [[sensitivity (tests)|sensitive]] and extremely [[Specificity (tests)|specific]], requiring specialized equipment, it remains the least expensive method to perform such tests. It requires special precautions and licensing, since radioactive substances are used. Today it has been supplanted by the [[ELISA]] method, where the antigen-antibody reaction is measured using [[colorimetry|colorimetric]] signals instead of a radioactive signal. However, because of its robustness, consistent results and low price per test, RIA methods are again becoming popular. It is generally simpler to perform than a [[bioassay]].
+
+The [[RAST test]] (radioallergosorbent test) is an example of radioimmunoassay. It is used to detect the causative [[allergen]] for an [[allergy]].
+
+==Method==
+To perform a radioimmunoassay, a known quantity of an [[antigen]] is made [[radioactivity|radioactive]], frequently by labeling it with gamma-radioactive [[isotope]]s of [[iodine]] attached to [[tyrosine]]. This radiolabeled antigen is then mixed with a known amount of [[antibodies|antibody]] for that antigen, and as a result, the two specifically bind to one another. Then, a sample of [[Blood serum|serum]] from a patient containing an unknown quantity of that same antigen is added. This causes the unlabeled (or "cold") antigen from the serum to compete with the radiolabeled antigen ("hot") for antibody binding sites. As the [[concentration]] of "cold" antigen is increased, more of it binds to the antibody, displacing the radiolabeled variant, and reducing the ratio of antibody-bound radiolabeled antigen to free radiolabeled antigen. The bound antigens are then separated from the unbound ones, and the radioactivity of the free antigen remaining in the [[supernatant]] is measured using a [[gamma counter]]. Using known standards, a [[binding curve]] can then be generated which allows the amount of antigen in the patient's serum to be derived.
+
+==History==
+This technique was developed in the 1950s by [[Rosalyn Yalow]] and [[Solomon Berson|Solomon Aaron Berson]] working at the Bronx Veterans Administration Hospital affiliated with the [[Mount Sinai School of Medicine]].<ref>{{cite journal | last1 = Yalow | first1 = RS | last2 = Berson | first2 = SA | title = IMMUNOASSAY OF ENDOGENOUS PLASMA INSULIN IN MAN | journal = The Journal of Clinical Investigation | volume = 39 | pages = 1157–75 | year = 1960 | pmid = 13846364  | author-separator =, | pmc = 441860 | author-name-separator= | doi=10.1172/JCI104130 | issue = 7}}</ref>  In 1977, Dr.[[ Yalow]] received the [[Nobel Prize in Medicine]] for the development of the RIA for insulin: the precise measurement of minute amounts of such a [[hormone]] revolutionized the field of [[endocrinology]].  By allowing the precise measurement of blood levels of hormones the mechanism of hormone deficiency diseases could be identified, and better treated.<ref name="Glick2011">{{cite journal |author=Glick S |title=Rosalyn Sussman Yalow (1921–2011) |journal=Nature. |volume=474 |issue=7353 |page=580 |year=2011 |pmid= 21720355 |doi=10.1038/474580a}}</ref>    Yalow and Berson refused to patent the assay, because they felt that it should be freely available to the field of medicine.<ref name="Glick2011" /> 
+
+With this technique, separating bound from unbound antigen is crucial. Initially, the method of separation employed was the use of a second "anti-antibody" directed against the first for precipitation and centrifugation. The use of charcoal suspension for precipitation was extended but replaced later by Drs. Werner and Acebedo at Columbia University for RIA of T3 and T4.<ref>{{cite journal |author=Werner SC, Acebedo G, Radichevich I |title=Rapid radioimmunoassay for both T4 and T3 in the same sample of human serum |journal=J. Clin. Endocrinol. Metab. |volume=38 |issue=3 |pages=493–5 |year=1974 |pmid=4815178 |doi=10.1210/jcem-38-3-493}}</ref> An ultramicro RIA for human TSH was published in BBRC (1975) by Drs. Acebedo, Hayek et al.<ref>{{cite journal |author=Acebedo G, Hayek A, Klegerman M, Crolla L, Bermes E, Brooks M |title=A rapid ultramicro radioimmunoassay for human thyrotropin |journal=Biochem. Biophys. Res. Commun. |volume=65 |issue=2 |pages=449–56 |year=1975 |doi=10.1016/S0006-291X(75)80168-9 |pmid=1148002}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{MeshName|Radioimmunoassay}}
+* http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/R/Radioimmunoassay.html
+
+{{Immunologic techniques and tests}}
+
+[[Category:Endocrine procedures]]
+[[Category:Immunologic tests]]
+[[Category:Radiobiology]]

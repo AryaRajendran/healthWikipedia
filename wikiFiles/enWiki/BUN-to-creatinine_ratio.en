@@ -1,0 +1,96 @@
+{{Diagnostic infobox
+| Name            = BUN-to-creatinine ratio
+| Image           =
+| Alt             =
+| Caption         =
+| DiseasesDB      =
+| ICD10           =
+| ICD9            =
+| ICDO            =
+| MedlinePlus     =
+| eMedicine       =
+| MeshID          =
+| LOINC           = {{LOINC|44734-2}}, {{LOINC|3097-3}}
+| HCPCSlevel2     =
+| Reference_range =
+}}
+In [[medicine]], the '''BUN-to-creatinine ratio''' is the [[ratio]] of two serum laboratory values, the [[blood urea nitrogen]] (BUN) (mg/dL) and [[serum creatinine]] (mg/dL) (Cr). Outside the [[United States]], particularly in [[Canada]] and [[Europe]], the truncated term [[urea]] is used (though it is still the same blood chemical) and the units are different (mmol/L). The units of creatinine are also different (umol/L), and this value is termed the '''urea-to-creatinine ratio'''. The ratio may be used to determine the cause of [[acute kidney injury]] or [[dehydration]].
+
+The principle behind this ratio is the fact that both urea (BUN) and creatinine are freely filtered by the [[glomerulus]], however urea reabsorbed by the tubules can be regulated (increased or decreased) whereas creatinine reabsorption remains the same (minimal reabsorption).
+
+==Interpretation==
+{{Blood test  sample values|align=right}}
+Normal serum values
+{| class="wikitable"
+|-
+! Test
+! SI units
+! US units
+|-
+| BUN (Urea)
+|
+| 7–20&nbsp;mg/dL
+|-
+| Urea
+| 2.5-10.7&nbsp;mmol/L
+|
+|-
+| Creatinine
+| 62-106 μmol/L
+| 0.7-1.2&nbsp;mg/dL
+|}
+
+Serum Ratios
+{| class="wikitable"
+|-
+! BUN:Cr
+! UNa
+! Location
+! Mechanism
+|-
+| >20:1
+| >100:1
+| [[Acute kidney injury#Prerenal|Prerenal]] (before the [[kidney]])
+| BUN reabsorption is increased. BUN is disproportionately elevated relative to creatinine in serum. Dehydration is suspected.
+|-
+| 10-20:1
+| 40-100:1
+| Normal or [[Acute kidney injury#Postrenal|Postrenal]] (after the kidney)
+| Normal range.  Can also be postrenal disease. BUN reabsorption is within normal limits.
+|-
+| <10:1
+| <40:1
+| [[Acute kidney injury#Intrarenal|Intrarenal]] (within kidney)
+| Renal damage causes reduced reabsorption of BUN, therefore lowering the BUN:Cr ratio.
+|}
+
+An elevated  BUN:Cr due to a low or low-normal creatinine and a BUN within the  reference range is unlikely to be of clinical significance.
+
+==Specific causes of elevation==
+
+===Acute Kidney Injury (previously termed Acute Renal Failure)===
+The ratio is predictive of prerenal injury when BUN:Cr exceeds 20<ref>{{cite journal |author=Morgan DB, Carver ME, Payne RB |title=Plasma creatinine and urea: creatinine ratio in patients with raised plasma urea |journal=Br Med J |volume=2 |issue=6092 |pages=929–32 |year=1977 |month=October |pmid=912370 |pmc=1631607 }}</ref> or when urea:Cr exceeds 100 and urea is greater than 10.<ref>{{cite web |title=Acute renal failure: urea:creatinine ratio was not very helpful in diagnosing prerenal failure |work=Evidence-Based On-Call database |url=http://www.eboncall.org/CATs/1844.htm}}</ref>  In prerenal injury, urea increases disproportionately to creatinine due to enhanced proximal tubular reabsorption that follows the enhanced transport of sodium and water.
+
+===Gastrointestinal bleeding===
+The ratio is useful for the diagnosis of [[upper gastrointestinal bleeding|bleeding]] from the [[gastrointestinal tract|gastrointestinal (GI) tract]] in patients who do not present with overt vomiting of blood.<ref>{{cite journal |author=Witting MD, Magder L, Heins AE, Mattu A, Granja CA, Baumgarten M |title=ED predictors of upper gastrointestinal tract bleeding in patients without hematemesis |journal=Am J Emerg Med |volume=24 |issue=3 |pages=280–5 |year=2006 |month=May |pmid=16635697 |doi=10.1016/j.ajem.2005.11.005 |url=http://linkinghub.elsevier.com/retrieve/pii/S0735-6757(05)00427-4}}</ref> In children, a BUN:Cr ratio of 30 or greater has a sensitivity of 68.8% and a specificity of 98% for upper gastrointestinal bleeding.<ref>{{cite journal |author=Urashima M, Toyoda S, Nakano T, ''et al.'' |title=BUN/Cr ratio as an index of gastrointestinal bleeding mass in children |journal=J. Pediatr. Gastroenterol. Nutr. |volume=15 |issue=1 |pages=89–92 |year=1992 |month=July |pmid=1403455 }}</ref>
+
+A common assumption is that the ratio is elevated because of amino acid digestion, since blood, (excluding water) consists largely of the [[protein]] [[hemoglobin]], is broken down by [[digestive enzyme]]s of the upper GI tract into amino acids, which are then reabsorbed in the GI tract and [[amino acid catabolism|broken down]] into urea.  However, elevated BUN:Cr ratios are not observed when other high protein loads (e.g., steak) are consumed.{{Citation needed|date=September 2011}} Renal hypoperfusion secondary to the blood lost from the GI  bleed has been postulated to explain the elevated BUN:Cr ratio. However, other research has found that renal hypoperfusion cannot fully explain the elevation.<ref>{{cite journal |author=Mortensen PB, Nøhr M, Møller-Petersen JF, Balslev I. |title=The diagnostic value of serum urea/creatinine ratio in distinguishing between upper and lower gastrointestinal bleeding. A prospective study. |journal=Danish Medical Bulletin. |year=1994 |month=April}}</ref>
+
+===Advanced age===
+Because of decreased [[muscle]] mass, elderly patients may have an elevated BUN:Cr at baseline.<ref>{{cite journal |author=Feinfeld DA, Bargouthi H, Niaz Q, Carvounis CP |title=Massive and disproportionate elevation of blood urea nitrogen in acute azotemia |journal=Int Urol Nephrol |volume=34 |issue=1 |pages=143–5 |year=2002 |pmid=12549657 |url=http://www.kluweronline.com/art.pdf?issn=0301-1623&volume=34&page=143}}</ref>
+
+===Other causes===
+Hypercatabolic states, high-dose glucocorticoids, and resorption of large hematomas have all been cited as causes of a disproportionate rise in BUN relative to the creatinine.<ref>{{cite book|last=Irwin, RS. Rippe, JM.|title=Irwin and Rippe's Intensive Care Medicine|year=2008|publisher=Lippincott Williams & Wilkins|location=Philadelphia|isbn=0781791537}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External==
+*{{cite journal |author=Agrawal M, Swartz R |title=Acute renal failure |journal=Am Fam Physician |volume=61 |issue=7 |pages=2077–88 |year=2000 |month=April |pmid=10779250 |url=http://www.aafp.org/afp/20000401/2077.html}}
+
+{{Blood tests}}
+{{Renal physiology}}
+
+{{DEFAULTSORT:Bun-to-creatinine ratio}}
+[[Category:Nephrology]]
+[[Category:Gastroenterology]]

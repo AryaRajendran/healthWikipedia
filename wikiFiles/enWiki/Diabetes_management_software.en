@@ -1,0 +1,88 @@
+[[Image:logbook 1.JPG|thumb|right|Example 1: An electronic logbook that can collect and manage data from multiple sources]]
+[[Image:standard day data plot 1.JPG|thumb|right|Example 2: Data plots of blood glucose readings useful to analyze patterns and improve insulin delivery]]
+[[Image:Trend analysis 1.JPG|thumb|right|Example 3: Charts prepared to look for patterns and improve insulin delivery]]
+[[Image:Pumping day 1.JPG|thumb|right|Example 4: A summary of a "pumping day" including total insulin delivered and blood glucose testing statistics]]
+[[Image:Continuous glucose monitoring.png|thumb|right|Example 7: A plot utilizing data from a continuous glucose monitoring system.]]
+
+'''Diabetes Management Software''' refers to software tools that run on [[personal computers]] and [[personal digital assistants]] to help persons with Type 1 and Type 2 diabetes manage the data associated with: 
+*blood test results from a [[glucose meter]]
+*diabetes logbooks
+*[[basal (medicine)|basal]] and [[Bolus (medicine)|bolus]] settings for an [[insulin pump]]
+*records of actual insulin delivery
+*records of carbohydrates eaten and bolused to cover
+*statistical evaluation
+*manual log entries for exercise and other factors
+*coaching of dose corrections
+*prediction of future blood sugars, etc.
+
+==Features and uses==
+There are many products available to help maintain records and analyze trends related to diabetes care. Some support a single diabetes tool such as one manufacturers glucose meter,<ref>[http://www.abbottdiabetescare.com/copilot-health-management-system.html CoPilot Health Management System] by Abbott Diabetes Care will download from any of their FreeStyle and Precision meters.</ref> while others are intended to interface with many manufacturers products.<ref>[http://www.diabetespartner.com/Features.aspx Diabetes Partner] &mdash; online diabetes management system supported by [http://www.numedics.com NuMedics]</ref>  Some diabetes management software is [[List_of_freeware_health_software#Diabetes|free to download]] or can be used on-line, while others are for sale (or shareware).  Some are simple and easy to use for a single user, while others have very powerful features that support many users in a clinical setting.<ref>[http://numedics.com/clinipro.aspx CliniPro] &mdash; administrative and clinical suite, featuring multiple diabetes management modules.</ref> The emergence of user-friendly mobile devices has resulted in renewed interest in diabetes mobile applications, and there is a 2011 review article of the currently available features compared against evidence-based recommendations for diabetes self-management.<ref>Chomutare T, Fernandez-Luque L, Arsand E, Hartvigsen G. (2011). [http://www.jmir.org/2011/3/e65/ Features of mobile diabetes applications] ''J Med Internet Res.'';13(3):e65. PMID 21979293</ref>
+
+Depending on the product selected, there are a variety of features which include:
+*summary tables or diabetes logbook data that can be:
+**imported from multiple sources,
+**viewed on the screen,
+**saved and archived for personal use,
+**printed, faxed, emailed or shared online with your diabetes care team.
+*charts to analyze:
+**visualization of repeating patterns,
+**blood glucose trends for evaluation of
+***compliance with goals, and
+***consideration for new insulin adjustments, and
+***future predictions of blood glucose levels,
+*control screens for:
+**insulin pump setup and control,
+**continuous blood glucose monitoring setup and control.
+
+==Examples==
+
+
+===Logbook===
+Example 1 shows a logbook can combine readings from multiple meters (such as one at home and another at work or school) in one place.  Breakfast, lunch, and dinner readings are lined up vertically to help look for trends.  The logbook automatically colors the box red for a low blood sugar, and blue for a high blood sugar.  In the example chart, a pattern is easy to visualize: mornings tend to be a bit high (more insulin is needed at night) and there is a pattern of lows occurring after dinner (perhaps dinner insulin or the afternoon basal rates could be turned down).
+
+===Standard day data plots===
+The Standard day [[data plot]]s, see example 2, shows that trends are easy to see.  The blood glucose readings are plotted at their level versus the time of day.  Multiple days are plotted on top of each other, creating a scatter of points.  In the example shown, it is easy to see the glycemic excursions to high blood sugars following breakfast and lunch.  Once identified, this can be improved by using a faster acting insulin, or injecting insulin 20 minutes before eating, or by selecting carbohydrates to eat that are slower to peak in the bloodstream.
+
+===Pie charts===
+Example 3 shows that pie charts are a quick way to judge performance of insulin doses throughout the day relative to the goal of keeping 75% of premeal blood glucose readings within boundaries. Sub-charts automatically break down to breakfast, lunch, dinner, and late night, as well as show pre-meal versus post-meal statistics.  In the example pie chart shown, it appears there is an opportunity to improve morning lows and afternoon highs with insulin adjustments.
+
+===Daily views===
+Example 4 evaluates the delivery from an [[insulin pump]], showing blood glucose plots along the top, carbohydrates eaten (bubbles in the middle of the chart), basal and bolus insulin delivered at the bottom.  This is a good example of the flexibility in lifestyle afforded to an insulin pump user as carbohydrates are not "scheduled" to match insulin profiles, and yet the glycemic excursions are well controlled.  In this chart, it is also easy to see that the pump user had a meal at 3pm but forgot to test blood glucose beforehand.
+
+===Basal pattern control===
+Example 5 shows a control screen for basal delivery from an insulin pump.  Time of day and basal rate in units per hour can be modified to create a custom basal rate pattern to match the insulin needs of the pump user.  Icons are shown which save or read data from the PC, or to upload and download it from the pump.
+
+===Bolus control===
+Example 6 shows bolus control on this screen.  The insulin to carbohydrate ratio is stored in the pump as a function of the meal eaten (time of day).  This screen selects grams of carbohydrate as the input parameter from the user, such that the pump can calculate the insulin bolus desired from the grams entered and the insulin to carb ratio that is stored.
+
+===CGMS===
+Example 7 shows a data plot from a continuous glucose monitoring system (CGMS).  This plot shows the blood sugar levels between meals and also during the night, when other BG testing methods using a finger prick sample would typically miss the data available between samples.  CGMS data is a new technology that it intended to give immediate feedback between finger sticks and also predict what may be happening soon to give the diabetic person a chance to correct a high or low blood sugar condition before it becomes urgent.  This curve also illustrates the [[dawn effect]].
+
+===Diabetes Management Systems===
+Diabetes management system (DMS) is designed for hospitals and healthcare providers with the intention of preventing or delaying the short and long term complications caused by Diabetes. A doctor defines a treatment plan for a diabetic based on his diabetes type, age, sex etc factors. The software, then , sends reminders to patients to ensure better compliance with the treatment plan. Once the patients, undergo tests, the data is captured in the system. Doctors, can then, view the progress of individual patient and take necessary interventions, if needed.
+
+==External links==
+* Free offers
+** [http://diabetic.al Diabetical]
+** [http://www.ManageBGL.com ManageBGL.com Diabetes BGL Prediction and Live Sharing tool]
+* Commercial offers
+** [http://www.carelogger.com CareLogger Diabetes Logbook]
+** [http://www.dbees.com/ dbees.com]
+** [http://www.diabetesmgtcenter.com Diabetes Management Center]
+** [http://www.diabetespilot.com Diabetes Pilot]
+** [http://www.diasend.com Diasend]
+** [http://www.medtronicdiabetes.com/products/carelinkpersonalsoftware/ Medtroic-CareLink (formerly Minimed)]
+** [https://www.abbottdiabetescare.com/products/patient/data-management/copilot-health-mgmt-system.html Abbott CoPilot Health Management System]
+** [http://www.sidiary.org/ SINOVO SiDiary]
+* Open Source products
+** [http://ggc.sourceforge.net/ GNU Glyco Control]
+** [http://cran.r-project.org/web/packages/sugaR/index.html sugaR R package] (plots for statistics suite, non-trivial data entry)
+** [http://www.opensourcediabetes.org Open Source Diabetes]
+Diabetes Management Systems
+**[http://www.medopsplus.in MedopsPlus]
+
+==References==
+<references />
+
+[[Category:Diabetes-related supplies and medical equipment]]
+[[Category:Insulin therapies]]

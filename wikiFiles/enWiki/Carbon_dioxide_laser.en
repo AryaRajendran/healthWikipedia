@@ -1,0 +1,81 @@
+[[Image:Carbon Dioxide Laser At The Laser Effects Test Facility.jpg|thumb|right|400px|A test target is vaporized and bursts into flame upon irradiation by a high power continuous wave carbon dioxide laser emitting tens of kilowatts of [[infrared light]].]]
+The '''carbon dioxide laser''' ('''CO<sub>2</sub> laser''') was one of the earliest [[gas laser]]s to be developed (invented by [[Kumar Patel]] of [[Bell Labs]] in 1964<ref>{{cite journal
+ | last = Patel
+ | first =  C. K. N. 
+ | authorlink = C. Kumar N. Patel
+ | year = 1964
+ | title = Continuous-Wave Laser Action on Vibrational-Rotational Transitions of CO<sub>2</sub>
+ | journal =  Physical Review
+ | volume =  136
+ | issue = 5A
+ | pages = A1187–A1193
+ | doi = 10.1103/PhysRev.136.A1187|bibcode = 1964PhRv..136.1187P }}</ref>), and is still one of the most useful. [[Carbon dioxide]] lasers are the highest-power continuous wave [[laser]]s that are currently available.  They are also quite efficient: the ratio of output power to [[Laser pumping|pump]] power can be as large as 20%.
+
+The CO<sub>2</sub> laser produces a beam of [[infrared light]] with the principal [[wavelength]] bands centering around 9.4 and 10.6&nbsp;[[Micrometre|micrometers]].
+
+==Amplification==
+{{unreferenced section|date=October 2009}}
+The [[active laser medium]] (laser gain/[[Amplifier|amplification]] medium) is a [[gas discharge]] which is air-cooled (water-cooled in higher power applications).
+
+The filling gas within the discharge tube consists primarily of:
+* [[Carbon dioxide]] ({{chem|CO|2}}) (around 10–20%)
+* [[Nitrogen]] ({{chem|N|2}}) (around 10–20%)
+* [[Hydrogen]] ({{chem|H|2}}) and/or [[xenon]] (Xe) (a few percent; usually only used in a sealed tube.)
+* [[Helium]] (He) (The remainder of the gas mixture)
+The specific proportions vary according to the particular laser.
+
+The [[population inversion]] in the laser is achieved by the following sequence:
+# [[Electron]] impact excites vibrational motion of the nitrogen. Because nitrogen is a [[homonuclear molecule]], it cannot lose this energy by [[photon]] emission, and its excited vibrational levels are therefore [[metastability|metastable]] and live for a long time.
+# Collisional energy transfer between the nitrogen and the carbon dioxide molecule causes vibrational excitation of the carbon dioxide, with sufficient efficiency to lead to the desired population inversion necessary for laser operation.
+# The nitrogen molecules are left in a lower excited state.  Their transition to ground state takes place by collision with cold helium atoms.  The resulting hot helium atoms must be cooled in order to sustain the ability to produce a population inversion in the carbon dioxide molecules.  In sealed lasers, this takes place as the helium atoms strike the walls of the container.  In flow-through lasers, a continuous stream of CO<sub>2</sub> and nitrogen is excited by the plasma discharge and the hot gas mixture is exhausted from the resonator by pumps.
+
+==Construction==
+{{see also|Laser construction}}
+Because CO<sub>2</sub> lasers operate in the infrared, special materials are necessary for their construction. Typically, the [[mirror]]s are silvered, while windows and lenses are made of either [[germanium]] or [[zinc selenide]]. For high power applications, gold mirrors and zinc selenide windows and lenses are preferred. There are also [[diamond]] windows and even lenses in use. Diamond windows are extremely expensive, but their high thermal conductivity and hardness make them useful in high-power applications and in dirty environments. Optical elements made of diamond can even be [[sand blasting|sand blasted]] without losing their optical properties. Historically, lenses and windows were made out of salt (either [[sodium chloride]] or [[potassium chloride]]). While the material was inexpensive, the lenses and windows degraded slowly with exposure to atmospheric moisture. 
+
+The most basic form of a CO<sub>2</sub> laser consists of a gas discharge (with a mix close to that specified above) with a total [[Reflection (physics)|reflector]] at one end, and an output coupler (usually a semi-reflective coated zinc selenide mirror) at the output end. The reflectivity of the [[output coupler]] is typically around 5–15%. The laser output may also be edge-coupled in higher power systems to reduce optical heating problems.
+
+The CO<sub>2</sub> laser can be constructed to have CW powers between [[milliwatt]]s (mW) and hundreds of [[kilowatt]]s (kW).<ref>[http://www.afrlhorizons.com/Briefs/Feb04/ML0315.html Air Force Research Lab's 150 kW CO2 Laser]</ref> It is also very easy to actively [[Q-switching|Q-switch]] a CO<sub>2</sub> laser by means of a rotating mirror or an electro-optic switch, giving rise to Q-switched peak powers of up to [[gigawatt]]s (GW).<ref>[http://www.bnl.gov/atf/core_capabilities/co2amp.asp Brookhaven National Lab's Carbon Dioxide Amplifier]</ref>
+
+Because the laser transitions are actually on vibration-rotation bands of a linear triatomic molecule, the rotational structure of the P and R bands can be selected by a tuning element in the [[laser cavity]]. Because transmissive materials in the infrared are rather lossy, the [[frequency]] tuning element is almost always a [[diffraction grating]]. By rotating the diffraction grating, a particular rotational line of the vibrational transition can be selected. The finest frequency selection may also be obtained through the use of an [[etalon]].  In practice, together with [[isotopic substitution]], this means that a continuous comb of frequencies separated by around 1&nbsp;cm<sup>−1</sup> (30&nbsp;GHz) can be used that extend from 880 to 1090&nbsp;cm<sup>−1</sup>. Such "line-tuneable" carbon dioxide lasers<ref>[[F. J. Duarte]] (ed.), ''Tunable Lasers Handbook'' (Academic, New York, 1995) Chapter 4.</ref> are principally of interest in research applications.
+
+==Applications==
+[[Image: Sharplan 40C.jpg|thumb|right|A medical CO<sub>2</sub> laser]]
+Because of the high power levels available (combined with reasonable cost for the laser), CO<sub>2</sub> lasers are frequently used in industrial applications for [[cutting]] and [[laser beam welding|welding]], while lower power level lasers are used for engraving.<ref>{{cite journal
+ | last = Andreeta
+ | first =  M. R. B. 
+ | last2 = Cunha
+ | first2 =  L. S. 
+ | last3 = Vales
+ | first3 =  L. F. 
+ | last4 = Caraschi
+ | first4 =  L. C.
+ | last5 = Jasinevicius
+ | first5 =  R. G.
+ | year = 2011
+ | title = Bidimensional codes recorded on an oxide glass surface using a continuous wave CO<sub>2</sub> laser
+ | journal = Journal of Micromechanics and Microengineering
+ | volume =  21
+ | issue = 2
+ | pages = 025004
+ | doi = 10.1088/0960-1317/21/2/025004|bibcode = 2011JMiMi..21b5004A }}</ref> They are also very useful in surgical procedures because water (which makes up most [[biological tissue]]) absorbs this frequency of light very well. Some examples of medical uses are [[Laser applications#Medical|laser surgery]], [[Laser resurfacing|skin resurfacing]] ("laser [[facelift]]s") (which essentially consist of burning the skin to promote collagen formation), and [[dermabrasion]].  Also, it could be used to treat certain skin conditions such as [[hirsuties papillaris genitalis]] by removing embarrassing or annoying bumps, podules, etc. Researchers in Israel are experimenting with using CO<sub>2</sub> lasers to weld human tissue, as an alternative to traditional [[Surgical suture|suture]]s.<ref>{{cite web |url=http://www.israel21c.org/bin/en.jsp?enDispWho=Articles%5El2338&enPage=BlankPage&enDisplay=view&enDispWhat=object&enVersion=0&enZone=Health |title=Israeli researchers pioneer laser treatment for sealing wounds |work=Israel21c |date=November 16, 2008 |accessdate=Mar. 8, 2009}}</ref>
+
+The common plastic [[poly (methyl methacrylate)]] (PMMA) absorbs IR light in the 2.8–25&nbsp;µm wavelength band, so CO<sub>2</sub> lasers have been used in recent years for fabricating [[microfluidic device]]s from it, with channel widths of a few hundred micrometers.<ref>{{cite web |url=http://www.rsc.org/delivery/_ArticleLinking/DisplayArticleForFree.cfm?doi=b206409j |title=CO2-laser micromachining and back-end processing for rapid production of PMMA-based microfluidic systems|accessdate=21 October 2009}}</ref>
+
+Because the [[Earth's atmosphere|atmosphere]] is quite transparent to infrared light, CO<sub>2</sub> lasers are also used for military [[Rangefinder|rangefinding]] using [[LIDAR]] techniques.
+
+==See also==
+* [[Beam homogenizer]]
+* [[Laser beam profiler]]
+* [[TEA laser]]
+
+==References==
+<references/>
+
+==External links==
+* [http://repairfaq.ece.drexel.edu/sam/lasercc2.htm Home-built Carbon dioxide laser]
+
+{{DEFAULTSORT:Carbon Dioxide Laser}}
+[[Category:American inventions]]
+[[Category:Gas lasers]]
+[[Category:Dental lasers]]

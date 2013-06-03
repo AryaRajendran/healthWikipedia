@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461936512
+| IUPAC_name =  
+| image =Dextrin_skeletal.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|icodextrin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx
+| routes_of_administration = [[Intraperitoneal]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 40% in 12 hours
+| protein_bound =  
+| metabolism = [[Alpha-amylase]]
+| elimination_half-life =  
+| excretion = [[Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 337376-15-5
+| ATC_prefix = B05
+| ATC_suffix = DA
+| ATC_supplemental =  
+| PubChemSubstance = 17397419
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00702
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2NX48Z0A9G
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D03266
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201472
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = NA
+
+<!--Chemical data-->
+| chemical_formula = (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)<sub>n</sub>
+
+| molecular_weight = 13–19 [[kDa]]
+| smiles =  
+| synonyms =  
+}}
+
+'''Icodextrin''' ([[International Nonproprietary Name|INN]], [[United States Adopted Name|USAN]]) is a [[colloid]] [[osmotic]] agent, derived from [[maltodextrin]],<ref name="maltod">{{cite book |title=Clinical evidence, Issue 14 |pages=1046 |author=American College of Physicians--American Society of Internal Medicine |year=2005 |publisher=BMJ Pub. Group}}</ref> used in form of an [[aqueous]] solution for [[peritoneal dialysis]] under the trade name '''Extraneal''',<ref name="RxList" /> and after gynecological [[laparoscopic]] surgery for the reduction of post-surgical [[adhesion (medicine)|adhesion]]s (fibrous bands that form between tissues and organs) under the trade name '''Adept'''.<ref name="FDA" />
+
+==Physical and chemical properties==
+Icodextrin is a [[starch]]-derived, branched, water-soluble [[glucose]] [[polymer]] linked by α-(1→4) and less than 10% α-(1→6) [[glycosidic bond]]s, making it a type of [[dextrin]]. Its weight-average molecular weight is between 13,000 and 19,000 [[Dalton (unit)|Dalton]]s and its number-average molecular weight between 5,000 and 6,500 Daltons. The substance is a white to off-white solid, and the solution is clear and colourless to pale yellow.<ref name="FDA" />
+
+==Mechanism of action==
+The osmotic activity of icodextrin keeps the solution inside the [[peritoneum]] for three to four days, separating tissues and thus reducing adhesion between them when [[fibrin]] is formed after a surgery. In other words, the tissues are kept from gluing together.<ref name="FDA" />
+
+[[File:DP branchement.svg|thumb|left|upright|[[Peritoneal dialysis]]]]
+When used for peritoneal dialysis, the icodextrin solution absorbs waste products from the blood, and is removed from the peritoneum after a few hours together with the waste.<ref>{{pmid|12962523}}</ref>
+
+==Pharmacokinetics==
+Icodextrin is not significantly metabolised inside the peritoneum. Instead, it is absorbed slowly (40% after 12 hours) into the bloodstream via the [[lymph vessel]]s. There it is broken down into [[oligosaccharide]]s by the enzyme [[alpha-amylase]]. In patients with intact kidney function, both icodextrin and its fragments are excreted via the kidney by [[glomerular filtration]].<ref name="RxList">RxList.com: [http://www.rxlist.com/extraneal-drug.htm Extraneal]</ref><ref name="FDA">FDA: [http://www.accessdata.fda.gov/cdrh_docs/pdf5/P050011c.pdf Adept (4% Icodextrin) Adhesion Reduction Solution]</ref>
+
+==Contraindications==
+Icodextrin is contraindicated in patients with cornstarch allergy, [[maltose]] or [[isomaltose]] intolerance, [[glycogen storage disease]], or severe [[lactic acidosis]].<ref name="Drugs.com">Drugs.com: [http://www.drugs.com/pro/extraneal.html Extraneal]</ref>
+
+==Adverse effects==
+Adverse effects include [[peritonitis]], [[respiratory infection]], [[hypertension]] (high blood pressure), [[rash]]es, and headache. Of these side effects, only hypertension and rashes occurred significantly more often than under glucose solution; the other events seem to be related to peritoneal dialysis in general.<ref name="Drugs.com" />
+
+==Interactions==
+Icodextrin can mimic increased [[blood glucose]] levels, depending on the used testing system. Specifically, glucose dehydrogenase pyrroloquinolinequinone (GDH-PQQ) or glucose-dye-oxidoreductase (GDO) based tests can erroneously show high blood glucose in patients that have been treated with icodextrin.<ref name="Drugs.com" />
+
+==References==
+{{reflist}}
+
+{{B03, B05, B06}}
+
+[[Category:Renal dialysis]]
+[[Category:Polysaccharides]]

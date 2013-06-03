@@ -1,0 +1,224 @@
+{{medref|date=March 2013}}
+{{OriginalResearch|date=March 2013}}
+
+'''Cancer immunotherapy''' is the use of the [[immune system]] to reject [[cancer]].  The main premise is stimulating the patient's immune system to attack the malignant [[tumor]] cells that are responsible for the disease.  This can be either through [[immunization]] of the patient (e.g., by administering a [[cancer vaccine]], such as Dendreon's [[Provenge]]), in which case the patient's own immune system is trained to recognize tumor cells as targets to be destroyed, or through the administration of [[Monoclonal antibody#Applications|therapeutic antibodies]] as drugs, in which case the patient's immune system is recruited to destroy tumor cells by the therapeutic antibodies.  Cell based immunotherapy is another major entity of cancer immunotherapy.  This involves immune cells such as the Natural killer Cells (NK cells), Lymphokine Activated killer cell(LAK), Cytotoxic T Lymphocytes(CTLs), Dendritic Cells (DC), etc., which are either activated in vivo by administering certain cytokines such as Interleukins or they are isolated, enriched and transfused to the patient to fight against cancer. 
+
+Since the immune system responds to the environmental factors it encounters on the basis of discrimination between self and non-self, many kinds of tumor [[cell (biology)|cell]]s that arise as a result of the onset of cancer are more or less tolerated by the patient's own immune system since the tumor cells are essentially the patient's own cells that are growing, [[cell division|dividing]] and spreading without proper regulatory control.
+
+In spite of this fact, however, many kinds of tumor cells display unusual [[antigen]]s that are either inappropriate for the cell type and/or its environment, or are only normally present during the organisms' development (e.g. [[fetus|fetal]] antigens).  Examples of such antigens include the [[glycosphingolipid]] [[GD2]], a [[disialoganglioside]] that is normally only expressed at a significant level on the outer surface membranes of [[neuron]]al cells, where its exposure to the immune system is limited by the [[blood–brain barrier]].  GD2 is expressed on the surfaces of a wide range of tumor cells including [[neuroblastoma]], [[medulloblastoma]]s, [[astrocytoma]]s, [[melanoma]]s, [[small-cell lung cancer]], [[osteosarcoma]]s and other [[soft tissue sarcoma]]s.  GD2 is thus a convenient tumor-specific target for immunotherapies.
+
+Other kinds of tumor cells display [[cell surface receptor]]s that are rare or absent on the surfaces of healthy cells, and which are responsible for activating cellular [[signal transduction]] pathways that cause the unregulated growth and division of the tumor cell.  Examples include [[ErbB2]], a constitutively active cell surface receptor that is produced at abnormally high levels on the surface of [[breast cancer]] tumor cells.
+
+The use of some agents can lead to the re-activation of latent [[tuberculosis]] (TB) and this must be assessed for before those agents are used therapeutically.[http://www.thedoctorschannel.com/go/reuters/2153.html][http://www.brit-thoracic.org.uk/guidelines/tuberculosis-guidelines.aspx]
+
+==Cell Based immunotherapy==
+
+Adoptive Cell based Immunotherapy was first introduced by Rosenberg and his Colleagues of NIH, USA and it is now widely being used in various countries. 
+It involves isolation of either allogenic or autologous immune cells, enriching them outside the body and transfusing them back to the patient. The injected immune cells are highly cytotoxic to the Cancer cells thereby helping to fight the cancer cells.  This therapy is in routine clinical practice in Japan and [[Autologous immune enhancement therapy]] involving Natural Killer Cells (NK) cells and cytotoxic T Lymphocytes(CTLs) is being practised in various Asian Countries especially in Japan and Malaysia.  In addition, a method derived from the adoptive cell based therapy ideas begun by Rosenberg et al. called ALECSAT is currently undergoing phase I clinical trials in Denmark.<ref>{{cite web|title=Safety Study of Repeated Dosing of a Cytotoxic Lymphocytes (CTL) Based Prostate Cancer Therapy ([[ALECSAT]])|url=http://clinicaltrials.gov/ct2/show/NCT01422850|accessdate=29 April 2012}}</ref>
+
+==Monoclonal antibody therapy==
+{{main|Monoclonal antibody therapy}}
+[[Antibody|Antibodies]] are a key component of the [[adaptive immune system|adaptive immune response]], playing a central role in both in the recognition of foreign antigens and the stimulation of an immune response to them.  It is not surprising therefore, that many immunotherapeutic approaches involve the use of antibodies. The advent of [[monoclonal antibody]] technology has made it possible to raise antibodies against specific antigens such as the unusual antigens that are presented on the surfaces of tumors.
+
+Types of monoclonal antibodies
+Two types of monoclonal antibodies are used in cancer treatments:
+•	Naked mAbs are antibodies that work by themselves. There is no drug or radioactive material attached to them. These are the most commonly used mAbs at this time.
+•	Conjugated mAbs are those joined to a chemotherapy drug, radioactive particle, or a toxin (a substance that poisons cells). These mAbs work, at least in part, by acting as homing devices to take these substances directly to the cancer cells.
+Conjugated mAbs are also sometimes referred to as tagged, labeled, or loaded antibodies. They can be divided into groups depending on what they are linked to.
+•	mAbs with radioactive particles attached are referred to as Radiolabeled, and treatment with this type of antibody is known as radioimmunotherapy (RIT).
+•	mAbs with chemotherapy drugs attached are referred to as Chemolabeled.
+•	mAbs attached to cell toxins are called Immunotoxins.
+
+A number of therapeutic monoclonal antibodies have been approved for use in humans; approvals mentioned here are by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA).
+{| class="wikitable" style="margin: 1em auto 1em auto"
+|+ '''Cancer immunotherapy:Monoclonal antibodies'''<ref name=Waldmann>{{cite journal
+  |author=Waldmann, Thomas A.
+  |title=Immunotherapy: past, present and future
+  |journal=Nature Medicine
+  |year=2003
+  |volume=9
+  |issue=3
+  |pages= 269&ndash;277
+  |url=http://www.nature.com/cgi-taf/DynaPage.taf?file=/nm/journal/v9/n3/full/nm0303-269.html&filetype=pdf
+  |doi=10.1038/nm0303-269
+  |pmid=12612576
+}}</ref>
+! Antibody||Brand name || Approval date ||Type || Target ||Approved treatment(s) 
+|-
+| [[Alemtuzumab]] || Campath|| 2001 || humanized || [[CD52]]|| [[Chronic lymphocytic leukemia]]
+|-
+| [[Bevacizumab]] || Avastin || 2004 || humanized ||[[vascular endothelial growth factor]]|| [[colorectal cancer]] 
+|-
+| [[Brentuximab vedotin]] || Adcetris || 2011|| chimeric ||[[CD30]]|| [[Hodgkin lymphoma]], [[Anaplastic large-cell lymphoma]]
+|-
+| [[Cetuximab]] || Erbitux || 2004|| chimeric ||[[epidermal growth factor receptor]] ||[[colorectal cancer]]
+|-
+| [[Gemtuzumab ozogamicin]] || Mylotarg || 2000|| humanized|| [[CD33]] ||[[acute myelogenous leukemia]] (with [[calicheamicin]])
+|-
+| [[Ibritumomab tiuxetan]] || Zevalin || 2002|| murine || [[CD20]]|| [[non-Hodgkin lymphoma]] (with [[Yttrium|yttrium-90]] or [[Indium|indium-111]])
+|-
+| [[Panitumumab]] || Vectibix || 2006|| human||[[epidermal growth factor receptor]] ||[[colorectal cancer]]
+|-
+| [[Rituximab]] || Rituxan, Mabthera || 1997|| chimeric ||[[CD20]] ||[[non-Hodgkin lymphoma]]
+|-
+| [[Trastuzumab]] || Herceptin || 1998|| humanized ||[[ErbB2]]|| [[breast cancer]]
+|-
+|}
+
+===Alemtuzumab===
+[[Alemtuzumab]] is an anti-[[CD52]] humanized IgG1 monoclonal antibody indicated for the treatment of [[Chronic lymphocytic leukemia]](CLL), the most frequent form of [[leukaemia]] in Western countries.<ref>Byrd JC, Stilgenbauer S, Flinn IW. [http://www.asheducationbook.org/cgi/content/full/2004/1/163 Chronic Lymphocytic Leukemia.] Hematology (Am Soc Hematol Educ Program) 2004: 163-183. Date retrieved: 26/01/2006.</ref> The function of CD52 is unknown, but it is found on >95% of peripheral blood [[lymphocyte]]s and [[monocyte]]s.  Upon binding to CD52, alemtuzumab initiates its cytotoxic effect by [[complement system|complement]] fixation and antibody-dependent cell-mediated cytotoxicity mechanisms.  Alemtuzumab therapy is also indicated for T-prolymphocytic leukaemia (TPPL), for which no standard treatment exists.  This is a highly aggressive tumour, with a median survival of 7.5 months.<ref>{{cite journal | doi = 10.1200/JCO.20.1.205 | last1 = Keating | first1 = MJ | last2 = Cazin | first2 = B | last3 = Coutre | first3 = S | author-separator =, | last4 = Birhiray | author-name-separator=  | first4 = R| year = 2002 | last5 = Kovacsovics | first5 = T | last6 = Langer | first6 = W | last7 = Leber | first7 = B | last8 = Maughan | first8 = T | last9 = Rai | first9 = K | title = Campath-1H treatment of T-cell prolymphocytic leukemia in patients for whom at least one prior chemotherapy regimen has failed | url = | journal = J Clin Oncol | volume = 20 | issue = 1| pages = 205–213 | pmid = 11773171 }}</ref>
+
+===Bevacizumab===
+[[Bevacizumab]] is a humanized IgG1 monoclonal antibody which binds to and [[steric]]ally interferes with the [[vascular endothelial growth factor]]-A (VEGF-A), preventing [[Receptor (biochemistry)|receptor]] activation.  A marked increase in [[Vascular endothelial growth factor|VEGF]] expression is thought to play a role in [[tumor]] [[angiogenesis]].  Bevacizumab is indicated for [[colon cancer]]; but has been applied to numerous other cancers in small scale studies, especially [[renal cell carcinoma]].  Results obtained showed that bevacizumab increased the duration of survival, progression-free survival, the rate of response and the duration of response in a statistically relevant manner.<ref>{{cite journal | doi = 10.1056/NEJMoa032691 | last1 = Hurwitz | first1 = H | last2 = Fehrenbacher | first2 = L | last3 = Novotny | first3 = W | author-separator =, | last4 = Cartwright | author-name-separator=  | first4 = T| year = 2004 | last5 = Hainsworth | first5 = J | last6 = Heim | first6 = W | last7 = Berlin | first7 = J | last8 = Baron | first8 = A | last9 = Griffing | first9 = S | title = Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic colorectal cancer | url = | journal = N Engl J Med | volume = 350 | issue = 23| pages = 2335–2342 | pmid = 15175435 }}</ref>
+
+=== Cetuximab ===
+[[Cetuximab]] is a chimeric IgG1 monoclonal antibody which targets the extracellular domain of the [[epidermal growth factor receptor]] (EGFR). It functions by competitively inhibiting [[ligand]] binding, thereby preventing EGFR activation, and is indicated for the treatment of [[colorectal cancer]]. Studies have also been carried out on numerous other malignancies, especially [[non-small cell lung cancer]] and [[head and neck cancer]].
+As a single agent, cetuximab showed a response rate of 10.8% in patients with EGFR overexpressed metastatic colon cancer.<ref name=Waldmann/> Other anti-EGFR monoclonal antibodies in development include: [[ABX-EGF]], hR3, and [[EMD 72000]]. Although they hold significant promise for the future, none of the agents are currently beyond phase I [[clinical trial]]s.
+
+=== Gemtuzumab ozogamicin ===
+[[Gemtuzumab ozogamicin]] is an “immuno-conjugate” of an anti-[[CD33]] antibody chemically linked to [[calicheamicin]], a cytotoxic agent. It is indicated for the treatment of [[acute myeloid leukaemia]] (AML). The patient group most likely to benefit from gemtuzumab is young adults, and trials have reported high complete responses (85%), when combined with intensive chemotherapy. There are minimal side-effects associated with Gemtuzumab therapy.<ref>De Angelo D, Stone R, Durant S, et al. Gemtuzumab ozogamicin (Mylotarg) in combination with induction chemotherapy for the treatment of patients with de novo acute myeloid leukemia: Two age-specific phase 2 trials. ''Blood'' 2003; 102: 100a [abstract].</ref>
+
+=== Rituximab ===
+[[Rituximab]] is a chimeric monoclonal antibody specific for [[CD20]]. CD20 is widely expressed on B-cells. Although the function of CD20 is relatively unknown it has been suggested that CD20 could play a role in [[calcium]] influx across [[plasma membrane]], maintaining intracellular calcium concentration and allowing for the activation of [[B cells]].<ref name=Janeway>{{cite book | last = Janeway | first = Charles | authorlink = Charles Janeway | coauthors = Paul Travers, Mark Walport, and Mark Shlomchik | title = Immunobiology; Fifth Edition | publisher = Garland Science | year = 2001 | location = New York and London| pages =  | url = http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=imm.TOC&depth=10| doi =  | isbn = 0-8153-4101-6}}.</ref> The exact mode of action of rituximab is also unclear, but it has been found to have a general regulatory effect on the [[cell cycle]] and on immune-receptor expression.<ref name=Waldmann/>  Experiments involving [[primate]]s showed that treatment with anti-CD20 reduced peripheral B-cells by 98%, and peripheral [[lymph node]] and [[bone marrow]] B-cells by up to 95%.<ref>{{cite journal | last1 = Reff | first1 = ME | last2 = Carner | first2 = K | last3 = Chambers | first3 = KS | author-separator =, | last4 = Chinn | author-name-separator= | year = 1994 | first4 = PC | last5 = Leonard | first5 = JE | last6 = Raab | first6 = R | last7 = Newman | first7 = RA | last8 = Hanna | first8 = N | last9 = Anderson | first9 = DR | title = Depletion of B cells ''in vivo'' by a chimeric mouse human monoclonal antibody to CD20 | url = | journal = Blood | volume = 83 | issue = 2| pages = 435–445 | pmid = 7506951 }}</ref>
+
+=== Trastuzumab ===
+[[Trastuzumab]] is a monoclonal IgG1 humanized antibody specific for the [[epidermal growth factor receptor]] 2 protein ([[HER2]]). It received FDA-approval in 1998, and is clinically used for the treatment of [[breast cancer]]. The use of Trastuzumab is restricted to patients whose tumours over-express HER-2, as assessed by [[immunohistochemistry]] (IHC) and either chromogenic or [[fluorescence|Fluorescent]] [[in situ]] [[nucleic acid hybridization|hybridisation]] ([[Fluorescent in situ hybridization|FISH]]), as well as numerous [[PCR]]-based methodologies. 
+
+HER-2 is a member of the epidermal growth factor receptor (EGFR) family of transmembrane [[tyrosine kinases]], and is normally involved in regulation of [[cell proliferation]] and [[differentiation (cellular)|differentiation]].<ref>{{cite journal | pmid = 10376526 | author-separator =, | last1 = Jones | author-name-separator=  | first1 = FE| doi=10.1038/sj.onc.1202698 | last2 = Stern | first2 = DF | title = Expression of dominant-negative ErbB2 in the mammary gland of transgenic mice reveals a role in lobuloalveolar development and lactation. | journal = Oncogene | volume=18 | issue=23 | year=1999 | month=June | pages=3481–90}}</ref> Amplification or overexpression of HER-2 is present in 25-30% of breast carcinomas and has been associated with aggressive tumour phenotype, poor [[prognosis]], non-responsiveness to [[hormonal therapy]] and reduced sensitivity to conventional chemotherapeutic agents.<ref>{{cite journal | doi = 10.1126/science.2470152 | last1 = Slamon | first1 = DJ | last2 = Godolphin | first2 = W | last3 = Jones | first3 = LA | author-separator =, | last4 = Holt | author-name-separator=  | first4 = JA| year = 1989 | last5 = Wong | first5 = SG | last6 = Keith | first6 = DE | last7 = Levin | first7 = WJ | last8 = Stuart | first8 = SG | last9 = Udove | first9 = J | title = Studies of the HER-2/neu proto oncogene in human breast and ovarian cancer | url = | journal = Science | volume = 244 | issue = 4905| pages = 707–712 | pmid = 2470152 }}</ref>
+
+== Radioimmunotherapy ==
+
+[[Radioimmunotherapy]] involves the use of [[radioactive]]ly conjugated murine antibodies against cellular antigens. Most research currently involved their application to [[lymphomas]], as these are highly radio-sensitive malignancies. To limit radiation exposure, murine antibodies were especially chosen, as their high immunogenicity promotes rapid clearance from the body.
+
+===Ibritumomab tiuxetan===
+[[Ibritumomab tiuxetan]] is a murine antibody chemically linked to a chelating agent which binds [[yttrium-90]]. <sup>90</sup>Y is a [[beta radiation|beta]] radiator, has a [[half-life]] of 64 h and a tissue penetration of 1-5 millimetres. Its use has been investigated, primarily in the treatment of [[follicular lymphoma]].<ref>{{cite journal | last1 = Shipley | first1 = DL | last2 = Spigel | first2 = DR | last3 = Carrell | first3 = DL | last4 = Dannaher | first4 = C | last5 = Greco | first5 = FA | last6 = Hainsworth | first6 = JD. | author-separator =, | author-name-separator= | year = 2004 | title = Phase II trial of rituximab and short duration chemotherapy followed by 90Y-ibritumomab tiuxetan as first-line treatment for patients with follicular lymphoma: A Minnie Pearl Cancer Research Network phase II trial | url = | journal = J Clin Oncol | volume = 22 | issue = | page = 6519 }}</ref>
+
+===Tositumomab/iodine (<sup>131</sup>I) tositumomab regimen===
+[[Tositumomab]] is a murine IgG2a anti-[[CD20]] antibody. Iodine (<sup>131</sup>I) tositumomab is covalently bound to [[Iodine]] 131. <sup>131</sup>I emits both [[beta radiation|beta]] and [[gamma radiation]], and is broken down rapidly in the body.<ref>{{cite journal | doi = 10.3121/cmr.3.3.157 | last1 = Rao | first1 = AV | last2 = Akabani | first2 = G | last3 = Rizzieri | first3 = DA. | author-separator =, | author-name-separator= | year = 2005 | title = Radioimmunotherapy for Non-Hodgkin's Lymphoma | url = | journal = Clin Med Res | volume = 3 | issue = 3| pages = 157–165 | pmid = 16160070 | pmc = 1237157 }}</ref> Clinical trials have established the efficacy of a sequential application of tositumomab and iodine (<sup>131</sup>I) tositumomab in patients with [[relapse]]d [[follicular lymphoma]].<ref>{{cite journal | doi = 10.1056/NEJMoa041511 | last1 = Kaminski | first1 = MS | last2 = Tuck | first2 = M | last3 = Estes | first3 = J | author-separator =, | last4 = Kolstad | author-name-separator=  | first4 = A| year = 2005 | last5 = Ross | first5 = CW | last6 = Zasadny | first6 = K | last7 = Regan | first7 = D | last8 = Kison | first8 = P | last9 = Fisher | first9 = S | title = 131I-tositumomab therapy as initial treatment for follicular lymphoma | url = | journal = N Engl J Med | volume = 352 | issue = 5| pages = 441–449 | pmid = 15689582 }}</ref>
+
+==Advances in immunotherapy==
+The development and testing of second generation immunotherapies are already under way. While antibodies targeted to disease-causing antigens can be effective under certain circumstances, in many cases, their efficacy may be limited by other factors. In the case of cancer tumors, the microenvironment is [[immunosuppression|immunosuppressive]], allowing even those tumors that present unusual antigens to survive and flourish in spite of the immune response generated by the cancer patient, against his or her own tumor tissue. Certain members of a group of molecules known as [[cytokine]]s, such as [[Interleukin-2]] also play a key role in modulating the immune response, and have been tried in conjunction with antibodies in order to generate an even more devastating immune response against the tumor. While the therapeutic administration of such cytokines may cause systemic inflammation, resulting in serious [[adverse effect|side effect]]s and [[toxicity]], a new generation of [[chimera (protein)|chimeric]] molecules consisting of an immune-stimulatory cytokine attached to an antibody that targets the cytokine's activity to a specific environment such as a tumor, are able to generate a very effective yet localized immune response against the tumor tissue, destroying the cancer-causing cells without the unwanted side-effects. A different type of chimeric molecule is an [[artificial T cell receptor]].
+
+The targeted delivery of cytokines by anti-tumor antibodies is one example of using antibodies to delivery payloads rather than simply relying on the antibody to trigger an immune response against the target cell.  
+Another strategy is to deliver a lethal radioactive dose directly to the target cell, which has been utilized in the case of the [[Ibritumomab tiuxetan|Zevalin]] therapeutic.  
+A third strategy is to deliver a lethal chemical dose to the target, as used in the [[Gemtuzumab ozogamicin|Mylotarg]] therapeutic (an [[antibody-drug conjugate]]).  Engineering the antibody-payload pair in such a way that they separate after entry into a cell by [[endocytosis]] can potentially increase the efficacy of the payload.  One strategy to accomplish this is the use of a [[Disulfide bond|disulfide linkage]] which could be severed by the [[Redox|reducing]] conditions in the cellular interior.  However, recent evidence suggests that the actual intracellular trafficking of the antibody-payload after endocytosis is such to make this strategy not generally applicable.  Other potentially useful linkage types include [[hydrazone]] and [[Peptide bond|peptide]] linkages.<ref>{{cite journal
+  |author=Austin C.D.
+  |title=Oxidizing potential of endosomes and lysosomes limits intracellular cleavage of disulfide-based antibody–drug conjugates
+  |journal=Proc Natl Acad Sci U S A
+  |year=2005
+  |volume=102
+  |issue=50
+  |pages= 17987&ndash;17992
+  |doi=10.1073/pnas.0509035102
+  |pmid=16322102
+  |pmc=1298180
+  |author-separator=,
+  |display-authors=1
+  |last2=Wen
+  |first2=X
+  |last3=Gazzard
+  |first3=L
+  |last4=Nelson
+  |first4=C
+  |last5=Scheller
+  |first5=RH
+  |last6=Scales
+  |first6=SJ
+}}</ref>
+
+=== Immune checkpoint blockade ===
+<!-- initial text copied from PD-L1#Cancer -->
+It appears that upregulation of [[PD-L1]] may allow cancers to evade the host immune system. PD-L1 on the tumor cell surface inhibits T cells that might otherwise attack the tumor cell.
+An analysis of 196 tumor specimens from patients with [[Renal cell carcinoma]] found that high tumor expression of PD-L1 was associated with increased tumor aggressiveness and a 4.5-fold increased risk of death.<ref name="pmid15569934">{{cite journal | author = Thompson RH, Gillett MD, Cheville JC, Lohse CM, Dong H, Webster WS, Krejci KG, Lobo JR, Sengupta S, Chen L, Zincke H, Blute ML, Strome SE, Leibovich BC, Kwon ED | title = Costimulatory B7-H1 in renal cell carcinoma patients: Indicator of tumor aggressiveness and potential therapeutic target | journal =  Proc Natl Acad Sci USA | volume = 101 | issue = 49 | pages = 17174–9 | year = 2004 | month = December | pmid = 15569934 | pmc = 534606 | doi = 10.1073/pnas.0406351101| url = }}</ref> [[Ovarian cancer]] patients with higher expression of PD-L1 had a significantly poorer prognosis than those with lower expression. PD-L1 expression correlated inversely with intraepithelial CD8+ T-lymphocyte count, suggesting that PD-L1 on tumor cells may suppress antitumor CD8+ T cells.<ref name="pmid17360651">{{cite journal | author = Hamanishi J, Mandai M, Iwasaki M, Okazaki T, Tanaka Y, Yamaguchi K, Higuchi T, Yagi H, Takakura K, Minato N, Honjo T, Fujii S.
+ | title = Programmed cell death 1 ligand 1 and tumor-infiltrating CD8+ T lymphocytes are prognostic factors of human ovarian cancer | journal =  Proc Natl Acad Sci USA | volume = 104 | issue = 9 | pages = 3360–5 | year = 2007 | month = February | pmid = 17360651 | pmc = 1805580 | doi = 10.1073/pnas.0611533104| url = }}</ref> This has encouraged development of [[PD-L1 blocker]]s (a type of [[immune checkpoint blockade]]) which {{as of|2013|4}} have started clinical trials.<ref>[http://www.medpagetoday.com/MeetingCoverage/AACR/38388?utm_content=&utm_source=WC&xid=NL_DHE_2013-04-11&eun=g431352d0r&mu_id=5529190 Immune Therapy Safe in Early Trial. April 2012]</ref> 
+
+Cytotoxic T-lymphocyte-associated antigen 4 ([[CTLA-4|CTLA4]]) antibodies were the first of this class of immunotherapeutics to achieve US FDA approval.<ref name=Pardoll2012>{{cite journal |url=http://www.ncbi.nlm.nih.gov/pubmed/22437870 |title=The blockade of immune checkpoints in cancer immunotherapy. |autheor=Pardoll |year=2012}}</ref> [[Ipilimumab]] was approved by US FDA for melanoma in 2011.
+
+==Natural products==
+{{Main|Medicinal mushrooms}}
+Some types of natural products have shown promise to stimulate the immune system.  Research suggests that mushrooms like [[Reishi]] and ''[[Agaricus subrufescens]]'', (often mistakenly called ''Agaricus blazei'') may be able to stimulate the immune system.  Research has shown that ''[[Agaricus subrufescens]]'' may be a potent stimulator of [[natural killer cells]].<ref name="STUDIES ON THE EFFECT OF LENTINAN ON HUMAN IMMUNE SYSTEM. II. IN VIVO EFFECT ON NK ACTIVITY, MLR
+ INDUCED KILLER ACTIVITY AND PHA INDUCED BLASTIC RESPONSE OF LYMPHOCYTES IN CANCER PATIENTS.">
+{{Cite journal
+ | last1 = Amino
+ | first1 = M
+ | title = STUDIES ON THE EFFECT OF LENTINAN ON HUMAN IMMUNE SYSTEM. II. IN VIVO EFFECT ON NK ACTIVITY, MLR INDUCED KILLER ACTIVITY AND PHA INDUCED BLASTIC RESPONSE OF LYMPHOCYTES IN CANCER PATIENTS
+ | journal = Gan to Kagaku Ryoho
+ | volume = 10
+ | pages = 2000–6
+ | publisher = 
+ | location = 
+ | year = 1983
+ | url = 
+ | doi = 
+ | id = 
+ | accessdate =
+ | pmid = 6225393
+ | last2 = Noguchi
+ | first2 = R
+ | last3 = Yata
+ | first3 = J
+ | last4 = Matsumura
+ | first4 = J
+ | last5 = Hirayama
+ | first5 = R
+ | last6 = Abe
+ | first6 = O
+ | last7 = Enomoto
+ | first7 = K
+ | last8 = Asato
+ | first8 = Y
+ | issue = 9
+ | postscript = <!--None--> }}</ref>
+''[[Agaricus subrufescens]]'' is rich in proteoglucans and [[beta-glucans]], which are potent stimulators of [[macrophages]].<ref name="b-1,3-glucan reduces growth of Mycobacterium
+bovis in macrophage cultures.">
+{{Cite journal
+ | last1 = Hetland 
+ | first1 = G
+ | title = b-1,3-glucan reduces growth of Mycobacterium bovis in macrophage cultures
+ | journal = FEMS Immunol Med Microbiol
+ | volume = 33
+ | pages = 41–45
+ | publisher = 
+ | location = 
+ | year = 2002
+ | url = 
+ | doi = 10.1111/j.1574-695X.2002.tb00570.x
+ | id = 
+ | accessdate =
+ | pmid = 11985967
+ | last2 = Sandven
+ | first2 = P
+ | issue = 1
+ | postscript = <!--None--> }}</ref>
+
+Research on the compounds in [[medicinal mushrooms]] most responsible for up-regulating the immune system and providing an anti-cancer effect, are a diverse collection of [[polysaccharide]] compounds, particularly [[beta-glucans]].  Beta-glucans are known as "biological response modifiers", and their ability to activate the immune system is well documented.  Specifically, beta-glucans stimulate the [[innate immune system|innate]] branch of the immune system.  Research has shown beta-glucans have the ability to stimulate [[macrophage]], [[NK cells]], [[T cells]], and immune system [[cytokines]].  The mechanisms in which beta-glucans stimulate the immune system is only partially understood.  One mechanism in which beta-glucans are able to activate the immune system, is by interacting with the [[Complement Receptor 3|Macrophage-1 antigen]] ([[CD18]]) [[cell receptor|receptor]] on immune cells.<ref name=pmid15084502>{{cite pmid|15084502}} (review)</ref>
+
+Highly purified compounds isolated from medicinal mushrooms such as [[lentinan]] (isolated from [[Shiitake]]), and [[Polysaccharide-K]], (isolated from ''[[Trametes versicolor]]''), have become incorporated into the health care system of a few countries, such as [[Japan]].<ref name="psk">
+{{Cite web
+ | title = Coriolus Versicolor
+ | url = http://www.cancer.org/docroot/ETO/content/ETO_5_3X_Coriolous_Versicolor.asp
+ | postscript = <!--None-->
+}}</ref>  Japan's [[Ministry of Health, Labour and Welfare (Japan)|Ministry of Health, Labour and Welfare]] approved the use of [[Polysaccharide-K]] in the 1980s, to stimulate the immune systems of patients undergoing chemotherapy. In [[Australia]], a pharmaceutical based on a mixture of several mycological extracts including lentinan and Polysaccharide-K is sold commercially as [[MC-S]].
+
+==See also==
+* [[5T4|Antigen 5T4]]
+* [[Cancer vaccine]]
+* [[Immunotherapy]]
+* [[Coley's Toxins]]
+* [[Tumor antigen]]
+
+==External links==
+* [http://www.immunotreatment.org Autologous Immune Enhancement therapy for Cancer]
+* [http://www.c-imt.org Association for Immunotherapy of Cancer]
+* [http://www.sitcancer.org Society for Immunotherapy of Cancer]
+* [http://www.cancerresearch.org/programs/research/Cancer-Immunotherapy-Consortium Cancer Immunotherapy Consortium]
+* [http://www.parenteaubc.com/alliance/index.html Cancer Immunotherapy Explained]
+* [http://www.fightcancerwithimmunotherapy.com Immunotherapy Information]
+
+==References==
+{{Reflist|2}}
+{{Tumors}}
+{{Chemotherapeutic agents}}
+
+[[Category:Immune system]]
+[[Category:Monoclonal antibodies for tumors]]

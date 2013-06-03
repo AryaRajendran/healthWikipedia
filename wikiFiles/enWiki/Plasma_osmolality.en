@@ -1,0 +1,80 @@
+Plasma osmolarity measures the body's electrolyte-water balance.<ref>"[http://labtestsonline.org/understanding/analytes/osmolality/tab/glance Osmolality]," ''Lab Tests Online'', accessed 2012-01-11.</ref> There are multiple methods for arriving at this quantity through measurement and calculation.
+
+[[molality#Osmolality|Osmolality]] and [[osmolarity]] are measures that are technically different, but functionally the same for normal use, as explained shortly below. Whereas osmolality (with an "ℓ") is a measure of the [[osmole (unit)|osmole]]s (Osm) of solute per [[kilogram]] of [[solvent]] (osmol/kg or Osm/kg), osmolarity (with an "r") is defined as the number of osmoles of solute per [[litre]] (L) of [[solution]] (osmol/L or Osm/L).
+
+==Measured osmolality (MO)==
+Osmolality can be measured on an analytical instrument called an [[osmometer]]. It works on the method of depression of [[freezing point]].
+
+==Osmolality versus osmolarity==
+
+Osmolarity is affected by changes in water content, as well as temperature and pressure. In contrast, osmolality is independent of temperature and pressure. For a given solution, [[osmolarity]] is slightly less than osmolality, because the total solution weight (the [[Division (mathematics)|divisor]] used for osmolality) excludes the weight of any solutes, whereas the total solution volume (used for osmolarity) includes solute content. Otherwise, one litre of plasma would be equivalent to one kilogram of plasma, and plasma osmolarity and plasma osmolality would be equal. However, at low concentrations (below about 500 mM), the mass of the solute is negligible compared to the mass of the solvent, and osmolarity and osmolality are very similar. 
+
+Technically, the terms can be compared as follows:<ref name="pmid14524639">{{cite journal |author=Erstad BL |title=Osmolality and osmolarity: narrowing the terminology gap |journal=Pharmacotherapy |volume=23 |issue=9 |pages=1085–6 |year=2003 |month=September |pmid=14524639 |doi= 10.1592/phco.23.10.1085.32751|url=http://www.medscape.com/viewarticle/461379}}</ref>
+
+{| class="wikitable"
+|-
+! Origin
+! Source
+! Appropriate term
+|-
+| clinical laboratories
+| osmometer ([[freezing point depression]] [[osmometer]], or [[vapor pressure]] depression [[osmometer]])
+| osmolality
+|-
+| bedside calculations
+| derived from lab data that were measured in solutions
+| osmolarity 
+|}
+
+Therefore, bedside calculations are actually in units of [[osmolarity]], whereas laboratory measurements will provide readings in units of [[osmolality]]. In practice, there is almost negligible difference between the absolute values of the different measurements.  For this reason, both terms are often used interchangeably, even though they refer to different units of measurement.
+
+==Ranges==
+===Human===
+Normal human [[Reference_ranges_for_blood_tests#Electrolytes_and_Metabolites|reference range]] of osmolality in plasma is about 285-295 milli-osmoles per kilogram.<ref>{{cite web |url=http://path.upmc.edu/cases/case422.html |title=Case 422 —Neuropathology Case |accessdate=2009-03-04}}</ref>
+
+===Nonhuman===
+Plasma osmolarity of some reptiles, especial those from a freshwater aquatic environment may be lower than that of mammals (e.g.  < 260 mOsm/L) during favourable conditions. Consequently, solutions osmotically balanced for mammals (e.g., 0.9% normal saline) are likely to be mildly hypertonic for such animals. 
+Many arid species of reptiles and hibernating [[uricotelic]] species allow major elevations of plasma osmolarity (e.g.  > 400 mOsm/L) that could be fatal to some mammals.
+
+===Clinical relevance===
+
+As [[cell membrane]]s in general are freely permeable to water, the osmolality of the [[extracellular fluid]] (ECF) is approximately equal to that of the [[intracellular fluid]] (ICF). Therefore, plasma osmolality is a guide to intracellular osmolality. This is important, as it shows that changes in ECF osmolality have a great effect on ICF osmolality — changes that can cause problems with normal cell functioning and volume. If the ECF was to become too [[Tonicity#Hypotonicity|hypotonic]], water would readily fill surrounding cells, increasing their volume and potentially [[lysis|lysing]] them ([[cytolysis]]).
+
+Osmolality of [[blood]] increases with [[dehydration]] and decreases with overhydration. In normal people, increased osmolality in the blood will stimulate secretion of [[antidiuretic hormone]] (ADH). This will result in increased water reabsorption, more concentrated [[urine]], and less concentrated blood plasma. A low serum osmolality will suppress the release of ADH, resulting in decreased water reabsorption and more concentrated plasma.
+
+Increased osmolarity frequently occurs following illness due to chronic [[Neurotoxin|neurotoxic]] diseases such as [[Lyme disease]].<ref>{{cite journal |author=Shoemaker RC, Hudnell HK |title=Possible estuary-associated syndrome: symptoms, vision, and treatment |journal=Environ. Health Perspect. |volume=109 |issue=5 |pages=539–45 |year=2001 |month=May |pmid=11401768 |pmc=1240316 }}</ref>
+
+Elevation may be associated with stroke mortality.<ref name="pmid10978027">{{cite journal |author=Bhalla A, Sankaralingam S, Dundas R, Swaminathan R, Wolfe CD, Rudd AG |title=Influence of raised plasma osmolality on clinical outcome after acute stroke |journal=Stroke |volume=31 |issue=9 |pages=2043–8 |year=2000 |month=September |pmid=10978027 |url=http://stroke.ahajournals.org/cgi/pmidlookup?view=long&pmid=10978027}}</ref>
+
+==Calculated osmolarity (CO)==
+
+In medical lab reports, this quantity often appears as "Osmo, Calc" or "Osmo (Calc)." According to the international SI unit use the following equation :
+
+Calculated osmolarity = 2 Na + Glucose + Urea ( all in mmol/L).
+
+or
+
+Calculated osmolarity = 2 Na + 2 K + Glucose + Urea ( all in mmol/L).
+
+To calculate plasma osmolarity use the following equation (typical in the US):
+* = 2[{{chem|Na|+}}] + [Glucose]/18 + [ [[BUN]] ]/2.8<ref name="pmid11719745">{{cite journal |author=Purssell RA, Pudek M, Brubacher J, Abu-Laban RB |title=Derivation and validation of a formula to calculate the contribution of ethanol to the osmolal gap |journal=Ann Emerg Med |volume=38 |issue=6 |pages=653–9 |year=2001 |month=December |pmid=11719745 |doi=10.1067/mem.2001.119455 |url=http://linkinghub.elsevier.com/retrieve/pii/S0196-0644(01)16666-7}}</ref> where [Glucose] and [BUN] are measured in mg/dL.
+
+Simplifications are sometimes used:<ref>{{cite web |url=http://www.medicine.uiowa.edu/path_handbook/Appendix/Chem/OSMO_GAP.html |title=Osmolality Gap — Calculation and Interpretation |accessdate=2009-03-04}}</ref>
+
+* = 2[{{chem|Na|+}}] + [Glucose]/20 + BUN/3 – 2
+
+==Osmolar gap (OG)==
+{{main|Osmolal gap}}
+The ''[[osmolar gap]]'' is the difference between the measured osmolality and the calculated osmolarity.  The difference in units is attributed to the difference in the way that blood solutes are measured in the laboratory versus the way they are calculated.  The laboratory value measures the freezing point depression, properly called [[osmolality]] while the calculated value is given in units of [[osmolarity]].  Even though these values are presented in different units, when there is a small amount of solute compared to total volume of solution, the absolute values of osmolality vs. osmolarity are very close.  Often, this results in confusion as to which units are meant.  For practical purposes, the units are considered interchangeable.  The resulting "osmolar gap" can be thought of as either osmolar or osmolal, since both units have been used in its derivation.  This is acceptable because, as stated above, the absolute values of these units will be very close under clinical circumstances, as because the value is meant only as an estimate to help in the differential diagnosis of the clinical issue at hand.
+
+Measured osmolality is abbreviated "MO", calculated osmolarity is abbreviated "CO", and the osmolality gap is abbreviated "OG".<ref>http://www.medicine.uiowa.edu/path_handbook/Appendix/Chem/OSMO_GAP.html</ref>
+
+==See also==
+*[[Osmolarity#Plasma osmolarity vs. osmolality]]
+
+==References==
+{{Reflist|2}}
+
+{{Blood tests}}
+
+[[Category:Blood tests]]

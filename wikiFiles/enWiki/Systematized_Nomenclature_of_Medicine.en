@@ -1,0 +1,111 @@
+{{For|the collection of information officially organized with the SNOMED system|SNOMED CT}}
+
+The '''Systematized Nomenclature of Medicine''' ('''SNOMED''') is a systematic, computer-processable collection of [[medical terms]], in human and [[veterinary medicine]], to provide codes, terms, synonyms and definitions which cover [[anatomy]], [[diseases]], findings, procedures, [[microorganisms]], substances, etc. It allows a consistent way to index, store, retrieve, and aggregate medical data across specialties and sites of care. Although now international, SNOMED was started in the [[United States|U.S.]] by the [[College of American Pathologists]]<ref name=Design/> in 1973 and revised into the 1990s, then in 2002, SNOMED was merged and expanded with the [[United Kingdom|UK]] [[National Health Service]] (NHS).
+
+Versions of SNOMED released prior to 2001 were based on a multiaxial, [[hierarchical]] classification system.<ref name=Design>
+   Roger A. Côté (1986).
+   [http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=2245000<!--
+   -->&blobtype=pdf  "Architecture of SNOMED"] (PDF). PubMed,
+   pubmedcentral.nih.gov. p. 1. Retrieved April 29, 2013.
+</ref> As in any such system, a disease may be located in a body [[organ (anatomy)]], which results in a code in a topography axis and may lead to [[Morphology (biology)|morphological]] alterations represented by a morphology code.
+
+In 2002 the first release of [[SNOMED CT]] adopted a completely different structure. A sub-type hierarchy, supported by defining relationships based on description logic, replaced the axes described in this article. Versions of SNOMED prior to SNOMED CT are planned to be formally deprecated from 2017.<ref name=Deprecate>[http://www.ihtsdo.org/snomed-ct/history0/ Deprecation of Antecedent Versions of SNOMED by IHTSDO General Assembly]</ref> Therefore readers interested in current information about SNOMED are directed to the article on [[SNOMED CT]].
+
+==Purpose==
+SNOMED was designed as a comprehensive [[nomenclature]] of clinical medicine for the purpose of accurately storing and/or retrieving records of clinical care in human and [[veterinary medicine]].
+The metaphor used by [[Roger A. Côté]], the first editorial chair, was that SNOMED would become the [[periodical table of elements]] of medicine because of its definitional organization beyond the hierarchical design.  Indeed, diseases and procedures were ordered hierarchically and are further referenced back to more elementary terms (see Reference Ontology and Multi-Axial Design, below).
+
+==History==
+SNOMED was originally conceived by Dr. [[Roger A. Côté]] as an extension of the design of the Systematized Nomenclature of Pathology (SNOP) applicable for all medicine. SNOP was originally designed by Dr. Arnold Pratt to describe pathological specimen according to their morphology and anatomy (topography). The ambitious development of SNOMED required many more axises (see multi-axial design, below). SNOMED was jointly proposed for development to the [[College of American Pathologists]] by Drs. Côté and Dr. Arnold Pratt and the former was appointed as Editorial Chair of the Committee on Nomenclature and Classification of Diseases of the College of American Pathologists and developed the Systematized Nomenclature of Medicine (SNOMED) from 1973 to 1997. In 1998, Dr. [[Kent Spackman]] was appointed Chair of this Committee and spearheaded the transformation of the multi-axis systems into a highly computable form (See [[SNOMED CT]]): a directed acyclic graph anchored in formal representation logic. In 2007, the newly formed [[International Health Terminology Standards Development Organisation]] ([[IHTSDO]]) acquired all the Intellectual Property of [[SNOMED CT]] and all antecedent SNOMED versions.
+
+Brief timeline:
+* 1965 SNOP
+* 1974 SNOMED
+* 1979 SNOMED II
+* 1993 SNOMED International 3.0
+* 1995 [[SNOMED Microglossary of Signs and Symptoms]]
+* 1993-98 SNOMED International versions 3.1-3.5
+* 2002 First release of [[SNOMED CT]]
+* 2007 All versions of SNOMED acquired by [[IHTSDO]]
+* 2017 All SNOMED versions except [[SNOMED CT]] will be formally deprecated by [[IHTSDO]]
+
+==Reference ontology==
+SNOMED was designed from its inception with complex concepts defined in term of simpler ones. For example, a disease can be defined in terms of its abnormal anatomy, abnormal functions and [[morphology (biology)|morphology]]. In some cases, the [[etiology]] of the disease is known and can be attributed to an infectious agent, a physical trauma or a chemical or pharmaceutical agent.
+
+==Multi-axial design==
+
+The current concept uses eleven (11) axes that comprise terms organised in hierarchical trees. The axes and some examples are provided below:
+
+=== T (Topography) &ndash; Anatomic terms===
+
+* (T-28000) [[Lung]]
+* (T-32000) [[Heart]]
+* (T-51000) [[Mouth]]
+* (T-D2500) [[Hip]]
+* (T-D9600) [[Heel]]
+
+=== M (Morphology) &ndash; Changes found in cells, tissues and organs===
+* (M-40000) [[Inflammation]]
+* (M-44000) [[Granuloma]]
+* (M-54700) [[Infarcted]]
+* (M-54701) [[Microscopic infarct]]
+
+''For the Morphology axis, SNOMED has [http://www.snomed.org/clinical/anatomic.html agreed] to collaborate and use the same harmonized codes shared with  [[International Classification of Diseases for Oncology]]. Additional examples on topology are provided on that page.''
+
+=== L (Living organisms) &ndash; Bacteria and viruses===
+* (L-21801) [[Mycobacterium tuberculosis]]
+* (L-25116) [[Streptococcus pneumoniae]]
+
+=== C (Chemical) &ndash; Drugs===
+* (C-C137A) [[Bufferin]] [[Analgesic]] [[Tablet (pharmacy)|Tablets]]
+* (C-C137B) [[Bufferin]] [[Analgesic]] [[Caplets]]
+
+=== F (Function) &ndash; Signs and symptoms===
+* (F-03003) [[Fever]]
+
+=== J (Occupation) &ndash; Terms that describe the occupation===
+* Kindergarten teacher (13420)
+* Computer programmer (08420)
+* Doctor (06105)
+* Professional Nurse (General) (07110)
+* Beautician (57040)
+
+=== D (Diagnosis) &ndash; Diagnostic terms===
+* (D-13510) [[Pneumococcal pneumonia]]
+* (D-14800) [[Tuberculosis]]
+* (D3-15000) [[Myocardial infarction]]
+
+=== P (Procedure) &ndash; Administrative, diagnostic and therapeutic procedures===
+
+=== A (Physical agents, forces, activities) &ndash; Devices and activities associated with the disease===
+
+=== S (Social context) &ndash; Social conditions and important relationships in medicine===
+* (S-10120) [[Mother]]
+
+=== G (General) &ndash; Syntactic linkages and qualifiers===
+
+==See also==
+* [[Diagnosis codes]]
+* [[Medical classification]]
+* [[SNOMED CT]]
+* [[Medical Dictionary for Regulatory Activities]] (MedDRA)
+* [[DOCLE]]
+
+==References==
+<references/>
+
+==External links==
+* [http://www.snomed.org/  Official page at snomed.org] (now redirects to [http://www.ihtsdo.org/ www.ihtsdo.org])
+* [http://ontology.buffalo.edu/medo/SNOMED_Smith.html Studies of the formal structure of SNOMED CT at buffalo.edu]
+* [http://terminology.vetmed.vt.edu/SCT/menu.cfm Browser at vetmed.vt.edu]
+* [http://www.snoflake.co.uk/ Dataline SNOMED Browser: Looks up clinical terms online for free.]
+* [http://eagl.unige.ch/SNOCat/ SNOCat: the SNOMED Categorizer/Browser to automatically encode medical narratives - provided by the BiTeM group (http://bitem.hesge.ch) !]
+
+{{Medical classification}}
+
+[[Category:Diagnosis classification]]
+[[Category:Clinical procedure classification]]
+[[Category:Classification systems]]
+[[Category:Health standards]]
+
+[[de:SNOMED]]

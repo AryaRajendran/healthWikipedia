@@ -1,0 +1,79 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 457132392
+| IUPAC_name = 
+| image = 
+
+<!--Clinical data-->
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = 
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 
+| ATC_prefix = L04
+| ATC_suffix = AA03
+| ATC_supplemental =  {{ATC|L04|AA04}}
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201596
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = NA
+
+<!--Chemical data-->
+| chemical_formula = 
+
+| molecular_weight = 
+}}
+<!-- linked from redirect [[rATG]] -->
+'''Anti-thymocyte globulin''' (ATG) is an infusion of horse or rabbit-derived antibodies against human [[T cells]] which is used in the prevention and treatment of [[Transplant rejection|acute rejection]] in [[organ transplant]]ation and therapy of [[aplastic anemia]].
+
+==Uses==
+Two antithymocyte globulin (ATG) agents licensed for clinical use in the United States are Thymoglobulin (rabbit ATG, rATG, Genzyme) and Atgam (equine ATG, eATG, Pfizer). Thymoglobulin and Atgam are currently licensed for use in the treatment of renal allograft rejection; Atgam is additionally licensed for use in the treatment of aplastic anemia. Both drugs are used in off-label applications, especially as immunosuppression induction agents before and/or during kidney transplantation. An rATG product made by '''Fresenius''' is marketed outside of the United States.
+
+ATG administration very substantially reduces immune competence in patients with normal immune systems, through a combination of actions, some explicitly understood and some more hypothetical. rATG in particular effects large reductions (through cell lysis) in the number of circulating T-lymphocytes, hence preventing (or at least delaying) the cellular rejection of transplanted organs. However, medical opinion remains divided as to when the benefit of this profound reduction in T-cells outweighs the concomitant increased risks of infection and malignancy.  
+
+In the [[United States]] it is frequently given at the time of the transplant to prevent [[graft-versus-host disease]],<ref>[http://www.cancer.gov/dictionary?CdrID=45600 Antithymocyte globulin] entry in the public domain NCI Dictionary of Cancer Terms</ref> although many European centers prefer to reserve its use for the treatment of [[steroid]]-resistant acute rejection, as European centres generally serve more homogeneous populations and rejection tends to be less of a problem. (We need a reference for this generalizing statement.)
+
+==Complications and alternatives==
+ATG use can induce [[cytokine release syndrome]], and has been thought to increase the risk of [[post-transplant lymphoproliferative disorder]] (PTLD); however, this association may not apply when lower dosing regimens are used. There is some evidence to suggest that inducing immunosuppression with rATG at organ transplantation may create conditions in the patient's immune system favorable to the development of immunological tolerance, but the exact basis for such a development remains largely speculative. Temporary depletion of the T-cell population at the time of the transplant also risks delayed acute rejection, which may be missed and cause severe damage to the graft.
+
+'''Anti-IL-2Rα receptor antibodies''' such as [[basiliximab]] and [[daclizumab]] are increasingly being used in place of ATG as an induction therapy, as they do not cause cytokine release syndrome and (theoretically) improve the development of tolerance.
+
+The cytokine release syndrome associated with ATG administration frequently causes high grade fevers (over 39<sup>o</sup>C), chills, and possibly rigors during administration, for which reason steroids (normally methylprednisolone), [[diphenhydramine]] 25–50&nbsp;mg, and [[acetaminophen]] 650&nbsp;mg are usually co-administered. Such adverse reactions can often be controlled by slowing the infusion rate.
+
+==History==
+
+The first report of immunizing an animal of one species (Guinea pig) against the immune cells of another species (mouse lymphocytes) was by Metchnikoff in 1899. He reported injecting cells recovered from mouse lymph nodes into Guinea pigs and waiting for the immunization to result in the accumulation of anti-mouse antibodies in the Guinea pig blood. When he subsequently collected serum from these Guinea pigs and injected it into normal mice he observed a marked depletion in the number of circulating mouse lymphocytes.
+
+=== Status in graft-versus-host disease ===
+
+Rabbit ATG has been used in two randomised trials to reduce acute Graft versus Host (aGVH) disease in recipients receiving [[progenitor cell]] transplants.<ref>{{cite journal |author=Bacigalupo A, Lamparelli T, Bruzzi P, ''et al.'' |title=Antithymocyte globulin for graft-versus-host disease prophylaxis in transplants from unrelated donors: 2 randomized studies from Gruppo Italiano Trapianti Midollo Osseo (GITMO) |journal=Blood |volume=98 |issue=10 |pages=2942–7 |year=2001 |month=November |pmid=11698275 |doi=10.1182/blood.V98.10.2942}}</ref>
+While higher doses (15&nbsp;mg/kg) reduced aGVH this was offset by increased infections. However a long term follow up showed that at both high and low (7.5&nbsp;mg/kg) doses chronic GVH (cGVH) was reduced.<ref>{{cite journal |author=Bacigalupo A, Lamparelli T, Barisione G, ''et al.'' |title=Thymoglobulin prevents chronic graft-versus-host disease, chronic lung dysfunction, and late transplant-related mortality: long-term follow-up of a randomized trial in patients undergoing unrelated donor transplantation |journal=Biology of Blood and Marrow Transplantation |volume=12 |issue=5 |pages=560–5 |year=2006 |month=May |pmid=16635791 |doi=10.1016/j.bbmt.2005.12.034}}</ref>
+A similar trial of anti-lymphocyte globulin showed a trend in reduction of aGVH that was not statistically significant, but a reduction in cGVH.<ref>{{cite journal |author=Finke J, Bethge WA, Schmoor C, ''et al.'' |title=Standard graft-versus-host disease prophylaxis with or without anti-T-cell globulin in haematopoietic cell transplantation from matched unrelated donors: a randomised, open-label, multicentre phase 3 trial |journal=The Lancet Oncology |volume=10 |issue=9 |pages=855–64 |year=2009 |month=September |pmid=19695955 |doi=10.1016/S1470-2045(09)70225-6}}</ref>
+The [[Canadian Blood and Marrow Transplant Group]] is currently conducting the first randomised trial in cGVH using an even lower dose of rabbit ATG (4.5&nbsp;mg/kg) in an attempt to confirm these observations. The endpoint is the reduction in the proportion of patients with cGVH at 1 year, off [[immunosuppressants]].
+<ref>[http://www.controlled-trials.com/ISRCTN29899028/ Thymoglobulin to prevent chronic graft versus host disease in hematopoietic progenitor cell transplantation patients ]</ref>
+
+== References ==
+{{reflist}}
+
+{{Immunosuppressants}}
+
+[[Category:Polyclonal antibodies]]
+[[Category:Immunosuppressants]]

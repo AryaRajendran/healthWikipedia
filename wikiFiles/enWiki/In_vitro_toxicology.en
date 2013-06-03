@@ -1,0 +1,59 @@
+{{DISPLAYTITLE:''In vitro'' toxicology}}
+
+
+'''''In vitro'' [[toxicology testing|toxicity testing]]''' is the [[scientific]] [[Scientific method|analysis]] of the effects of [[toxic]] [[chemical substance]]s on cultured [[bacteria]] or [[mammalian]] [[cell (biology)|cells]].  ''In vitro'' (literally 'in glass') testing methods are employed primarily to identify potentially hazardous chemicals and/or to confirm the lack of certain toxic properties in the early stages of the development of potentially useful new substances such as therapeutic [[Medication|drugs]], [[agricultural]] chemicals and food additives.
+
+In vitro assays for xenobiotic toxicity are recently carefully considered by key government agencies (e.g. EPA; NIEHS/NTP; FDA), to better assess human risks.  There are substantial activities in using in vitro systems to advance mechanistic understanding of toxicant activities, and the use of human cells and tissue to define human-specific toxic effects. <ref>
+{{Cite web
+| title = Tox21
+| publisher = [[Source: U.S. Environmental Protection Agency]]
+| url = http://www.epa.gov/ncct/Tox21/
+| accessdate = 2011-10-29
+}}</ref>
+
+==Improvement over animal testing==
+
+
+Most toxicologists believe that ''in vitro'' toxicity testing methods can be more useful, more time and cost-effective than toxicology studies in living animals (which are termed ''in vivo'' or "in life" methods).  
+
+Due to regulatory constraints and ethical considerations, the quest for alternatives to animal testing has gained a new momentum. In many cases the in vitro tests are better than animal tests because they can be used to develop safer products. <ref>
+{{Cite web
+| title = Vision and Roadmap for the 21st Century 
+| publisher = [[Source: National Toxicology Program]]
+| url = http://ntp.niehs.nih.gov/go/vision
+| accessdate = 2011-10-29
+}}</ref>
+
+
+[[Image:Microtiter plate.JPG|thumb|A 96-well [[microtiter plate]] being used for ELISA.]]
+
+==Example cell viability (cytotoxicity) assays used for ''In-vitro'' toxicology==
+Many methods of analysis exist for assaying test substances for cytotoxicity and other cellular responses.
+
+===MTT===
+MTT assay is used often in determining cell viability and has been validated for use by international organisations.  MTT assay involves two steps of introducing the assay to the chemicals and then a solubilisation step
+
+===MTS===
+The colourimetric MTS (3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2Htetrazolium) in vitro assay is an updated version of the validated MTT method, MTS assay has the advantage of being soluble and hence no solubilisation step is required.
+
+===ATP===
+ATP assay has the main advantage of providing results quickly (within 15 minutes) and only requires fewer sample cells.  The assay performs lysis on the cells and the following chemical reaction between the assay and ATP content of cells produces luminescence.  The amount of luminescence is then measured by a photometer and can be translated into number cells alive since
+*ATP assay assumes alive cells still have ATP inside them.
+*Luminescence level recorded is proportional to the ATP content in the sample cells
+
+===Neutral Red===
+Another cell viability endpoint can be Neutral Red uptake.  Neutral Red(NR), a weak cationic dye penetrates cellular membranes by non-diffusion and accumulates intercelluarly in lysosomes.  Viable cells take up the NR dye, damaged or dead cells do not.
+
+===Enzyme-linked immunosorbent assay (ELISA)===
+ELISA kits can be used to examine up and down regulation of proinflammatory mediators such as cytokines (IL-1, TNF alpha, PGE2)....
+
+Measurement of these types of cellular responses can be windows into the interaction of the test article on the test models (monolayer cell cultures, 3D tissue models, tissue explants).
+
+== References ==
+{{Reflist}}
+{{Toxicology}}
+
+
+{{DEFAULTSORT:In Vitro Toxicology}}
+[[Category:Toxicology]]
+[[Category:Alternatives to animal testing]]

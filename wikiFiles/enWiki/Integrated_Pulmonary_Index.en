@@ -1,0 +1,41 @@
+'''Integrated Pulmonary Index (IPI)''' is a patient pulmonary index which uses information from [[capnography]] and [[pulse oximetry]] to provide a single value that describes the patient’s respiratory status. IPI may be used by clinicians to quickly assess the patient’s respiratory status to determine the need for additional clinical assessment or intervention. 
+
+The Integrated Pulmonary Index (IPI) is a patient index which provides a simple indication in real time of the patient’s overall ventilatory status as an integer ranging from 1 to 10.  IPI integrates four major physiological parameters provided by a patient monitor, using this information along with an algorithm to produce the IPI score.  The IPI score is not intended to replace current patient respiratory parameters, but to provide an additional integrated score or index of the patient ventilation status to the caregiver.
+
+== Mechanism ==
+[[Image:IPIChart.jpg|thumb|right|alt=IPI Chart|IPI chart]]
+The IPI incorporates four patient parameters (end-tidal CO<sub>2</sub> and respiratory rate measured by [[capnography]], as well as pulse rate and blood oxygenation Sp<sub>O<sub>2</sub></sub> as measured by [[pulse oximetry]]) into a single index value.<ref>Taft, et. al., 2008, Introduction</ref> The IPI value on the patient monitor indicates the patient ventilatory status, where a score of 10 is normal, indicating optimal pulmonary status, and a score of 1 or 2 requires immediate intervention. 
+
+The IPI algorithm was developed based on data from a group of medical experts (anesthesiologists, nurses, respiratory therapists, and physiologists) who evaluated cases with varying parameter values and assigned an IPI value to a predefined patient status.<ref>Taft, et. al., 2008, Methods</ref> A mathematical model was built using patient normal ranges for these parameters and the ratings given to various combinations of the parameters by these professionals.  [[Fuzzy logic]], a mathematical method which mimics human logical thinking, was used to develop the IPI model. 
+
+Clinical validation studies indicate that the IPI value produced by the IPI algorithm accurately reflects the patient’s ventilatory status. In studies on both adult and pediatric patients, in which experts’ ratings of ventilatory status were collected along with IPI data, the IPI scores were found to be highly correlated with the experts’ annotated ratings.<ref>Y. Gozal, et. al., 2009, Results</ref><ref>D. Gozal, et. al., 2009, Results</ref> 
+
+Studies conducted to validate the index also concluded that the single numeric value of IPI along with IPI trend may be valuable for promoting early awareness to changes in patient ventilatory status <ref>D. Gozal, et. al., 2009, Conclusion</ref> and in simplifying the monitoring of patients in busy clinical environments.<ref>Y. Gozal, et. al., 2009, Conclusion</ref>
+
+==How does IPI help clinicians? ==
+IPI is a real-time patient value, updated every second, always available to the caregiver. An IPI trend graph also shows IPI scores over the previous hour (or other set time period), indicating if the IPI is remaining steady or trending up or down, thus reflecting changes in pulmonary status over time. In the example seen here, the changing IPI score indicates changes in the ventilatory status of the patient; IPI improves after a stimulus is applied.
+
+IPI can promote early awareness to changes in a patient’s ventilatory status. The caregiver can view the IPI trend, which indicates changes in IPI over time.  A quick view of the IPI trend can show that if the IPI has changed over the previous minutes or hours, to help the clinician ascertain if the patient’s overall ventilatory status is worsening, remaining steady, or improving. This information can help determine the next steps in patient care. Thus, IPI can simplify the monitoring of patients in clinical environments. The caregiver can quickly and easily assess a patient’s ventilatory status by following one number, the IPI, before checking the four parameters that make up this number.  The four parameters continue to be displayed on the monitor screen.  A significant change in the IPI is a “red flag” indicator, indicating that the clinician should review other monitored data and assess the patient.  
+
+In the clinical environment, a quick check of the IPI value and IPI trend is a first indicator of pulmonary status of the patient and may be used to determine if further patient assessment is warranted. 
+
+IPI can increase patient safety, by indicating the presence of slow-developing patient respiratory issues not easily identified with individual instantaneous data to the caregiver in real time. This enables timely decisions and interventions to reduce patient risk, improve outcomes and increase patient safety.
+
+==Availability==
+Currently, IPI is only available in [[Oridion]] capnography/pulse oximetry monitors. It can be used only in a monitor that measures both CO<sub>2</sub> and Sp<sub>O<sub>2</sub></sub>, as these measured parameters are used to produce the IPI score. The Capnostream 20 monitor with Integrated Pulmonary Index received an FDA 510(k) clearance in February 2009.
+
+Since normal values for the physiological parameters are different for different age categories, the IPI algorithm differs for different age groups (three pediatric age groups and adult). IPI is not available for neonatal and infant patients (up to the age of 1 year).
+
+== See also==
+* [[Anesthesia]]
+* [[Medical tests]]
+
+== Footnotes ==
+{{Reflist|2}}
+
+==References==
+* A Novel Integrated Pulmonary Index (IPI) Quantifies Heart Rate, Etco2, Respiratory Rate and Sp<sub>O<sub>2</sub></sub>% [http://www.asaabstracts.com/strands/asaabstracts/abstract.htm;jsessionid=6485E4FDEAF8997C15C65A3E2D41053D?year=2008&index=8&absnum=1597], Arthur Taft, Ph.D., Michal Ronen, Ph.D., Chad Epps, M.D., Jonathan Waugh, Ph.D., Richard Wales, B.S.,  presented at the Annual meeting of the American Society of Anesthesiologists, 2008
+* Reliability of the Integrated Pulmonary Index Postoperatively [http://www.anestech.org/media/Publications/Annual_2009/2009_STA_Abstracts.pdf  ], D. Gozal, MD, Y. Gozal, MD, presented at Society for Technology in Anesthesia (STA) in 2009
+* The Integrated Pulmonary Index: Validity and Application in the Pediatric Population [http://www.anestech.org/media/Publications/Annual_2009/2009_STA_Abstracts.pdf  ], D. Gozal, MD, Y. Gozal, MD, presented at Society for Technology in Anesthesia (STA) in 2009
+
+[[Category:Medical technology]]

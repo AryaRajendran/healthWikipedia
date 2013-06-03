@@ -1,0 +1,211 @@
+{{Infobox protein family
+| Symbol = 
+| Name = Ferritin
+| image = Ferritin.png
+| width = 
+| caption = Structure of the murine ferritin complex. {{PDBe|1lb3}}<ref name="pmid12459904">; {{cite journal | author = Granier T, Langlois d'Estaintot B, Gallois B, Chevalier JM, Précigoux G, Santambrogio P, Arosio P | title = Structural description of the active sites of mouse L-chain ferritin at 1.2 A resolution | journal = J. Biol. Inorg. Chem. | volume = 8 | issue = 1–2 | pages = 105–11 | year = 2003 | month = January | pmid = 12459904 | doi = 10.1007/s00775-002-0389-4 | url =  }}</ref>
+| Pfam = PF00210
+| Pfam_clan = CL0044
+| InterPro = IPR008331
+| SMART = 
+| PROSITE = 
+| MEROPS =
+| SCOP = 1fha
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD =
+}}
+{{protein
+| Name = [[Ferritin light chain|ferritin, light polypeptide]]
+| caption = 
+| image = 
+| width = 
+| HGNCid = 3999
+| Symbol = [[Ferritin light chain|FTL]]
+| AltSymbols =
+| EntrezGene = 2512
+| OMIM = 134790
+| RefSeq = NM_000146
+| UniProt = P02792
+| PDB =
+| ECnumber
+| Chromosome = 19
+| Arm = q
+| Band = 13.3–13.4
+| LocusSupplementaryData =
+}}
+{{protein
+| Name = [[FTH1|ferritin, heavy polypeptide 1]]
+| caption =
+| image =
+| width =
+| HGNCid = 3976
+| Symbol = [[FTH1]]
+| AltSymbols = FTHL6
+| EntrezGene = 2495
+| OMIM = 134770
+| RefSeq = NM_002032
+| UniProt = P02794
+| PDB =
+| ECnumber =
+| Chromosome = 11
+| Arm = q
+| Band = 13
+| LocusSupplementaryData =
+}}
+{{protein
+| Name = ferritin mitochondrial
+| caption = Crystallographic structure of mitochondrial ferritin.<ref name="pmid15201052">{{PDB|1r03}}; {{cite journal | author = Langlois d'Estaintot B, Santambrogio P, Granier T, Gallois B, Chevalier JM, Précigoux G, Levi S, Arosio P | title = Crystal structure and biochemical properties of the human mitochondrial ferritin and its mutant Ser144Ala | journal = J. Mol. Biol. | volume = 340 | issue = 2 | pages = 277–93 | year = 2004 | month = July | pmid = 15201052 | doi = 10.1016/j.jmb.2004.04.036 | url =  }}</ref>
+| image = Mitochondrial_Ferritin.png
+| width =
+| HGNCid = 17345
+| Symbol = FTMT
+| AltSymbols =
+| EntrezGene = 94033
+| OMIM = 608847
+| RefSeq = NM_177478
+| UniProt = Q8N4E7
+| PDB =
+| ECnumber =
+| Chromosome = 5
+| Arm = q
+| Band = 23.1
+| LocusSupplementaryData =
+}}
+{{Expert-verify|date=May 2008}}
+
+'''Ferritin''' is a ubiquitous intracellular protein that stores iron and releases it in a controlled fashion.  The amount of ferritin stored reflects the amount of iron stored. The protein is produced by almost all living organisms, including algae, bacteria, higher plants, and animals. In humans, it acts as a buffer against iron deficiency and iron overload.<ref>[http://www.chemistry.wustl.edu/~edudev/LabTutorials/Ferritin/Ferritin.html Iron Use and Storage in the Body: Ferritin and Molecular Representations], Rachel Casiday and Regina Frey, Department of Chemistry, Washington University, St. Louis.</ref>
+
+Ferritin is a [[globular protein]] complex consisting of 24 protein subunits and is the primary ''intracellular iron-storage protein'' in both [[prokaryote]]s and [[eukaryote]]s, keeping iron in a soluble and non-toxic form.  Ferritin that is not combined with iron is called '''apoferritin'''.
+
+== Description ==
+Ferritin is a protein of 450 kDa consisting of 24 subunits that is present in every cell type.<ref name=Theil1987/> In vertebrates, these subunits are both the light (L) and the heavy (H) type with an  apparent molecular weight of 19 kDA or 21 kDA respectively; their sequences are about 50% homologous.<ref name=Theil1987/> Amphibians have an additional ("M") type of ferritin;<ref name=Andrews1992/> the single ferritin of plants and bacteria most closely resembles the vertebrate H-type.<ref name=Andrews1992/>  Two types have been recovered in the gastropod ''Lymnaea'', the somatic ferritin being distinct from the yolk ferritin (see below).<ref name=Andrews1992/>  An additional subunit resembling ''Lymnaea'' soma ferritin is associated with shell formation in the pearl oyster.<ref name='Zhang2003'>{{cite doi | 10.1016/S1096-4959(03)00050-2 }}</ref>  Two types are present in the parasite ''[[Schistosoma]]'', one in males, the other in females.<ref name=Andrews1992/>  All the aforementioned ferritins are similar, in terms of their primary sequence, with the vertebrate H-type.<ref name=Andrews1992/>  In ''E. coli'', a 20% similarity to human H-ferritin is observed.<ref name=Andrews1992/>  Inside the ferritin shell, iron ions form [[crystallite]]s together with [[phosphate]] and [[hydroxide]] ions. The resulting particle is similar to the mineral [[ferrihydrite]]. Each ferritin complex can store about 4500 [[iron]] (Fe<sup>3+</sup>) ions.<ref name=Theil1987/><ref name='Andrews1992'>{{cite doi | 10.1016/0162-0134(92)84062-R }}</ref>
+
+Some ferritin complexes in [[vertebrate]]s are hetero-oligomers of two highly related [[gene]] products with slightly different [[physiological]] properties. The ratio of the two [[Homology (biology)|homologous]] [[protein]]s in the complex depends on the relative expression levels of the two genes.
+
+[[Mitochondrial ferritin]] was recently identified as a protein precursor, and is classified as a metal-binding protein that is located within the mitochondria.<ref name="pmid11323407">{{cite journal | author = Levi S, Corsi B, Bosisio M, Invernizzi R, Volz A, Sanford D, Arosio P, Drysdale J | title = A human mitochondrial ferritin encoded by an intronless gene | journal = J. Biol. Chem. | volume = 276 | issue = 27 | pages = 24437–40 | year = 2001 | month = July | pmid = 11323407 | doi = 10.1074/jbc.C100141200 | url = | issn = }}</ref> After the protein is taken up by the mitochondria it can be processed into a mature protein and assemble to form functional ferritin shells. Its structure was determined at 1.70 angstroms through the use of X-ray diffraction and contains 182 residues. It is 67% helical. The [[Ramachandran plot]] <ref>http://www.rcsb.org/pdb/images/1R03_ram_m_500.pdf</ref> shows that the structure of mitochondrial ferritin is mainly alpha helical with a low prevalence of beta sheets. Unlike other human ferritin, it appears to have no introns in its genetic code.
+
+===Genetic structure===
+In human ferritin, [[intron]]s are present between the 34/5th,{{Clarify|date=May 2010}} 82/3rd, and 14/5th amino acid residues; in addition, one to two hundred untranslated bases grace either end of the combined exons.<ref name=Theil1987/>
+The Tyrosine residue at amino acid position 27 is thought to be associated with biomineralization.<ref name=deZoysa2007>{{cite doi|10.1016/j.fsi.2007.01.013}}</ref>
+
+== Function==
+===Iron storage===
+Ferritin serves to store iron in a non-toxic form, to deposit it in a safe form, and to transport it to areas where it is required.<ref>{{cite doi|10.1080/01904168209362966}}</ref>  The function and structure of the expressed ferritin protein varies in different cell types.  This is controlled primarily by how much mRNA is [[Translation_(biology)|translated]], and how stable the mRNA is.  mRNA concentration is further tweaked by changes to how it is stored and how efficiently it is transcribed.<ref name=Theil1987>{{cite doi|10.1146/annurev.bi.56.070187.001445}}</ref>  The presence of iron itself is a major trigger for the production of ferritin,<ref name=Theil1987/> with some exceptions (such as the yolk ferritin of the gastropod ''[[Lymnaea]]'', which lacks an iron-responsive unit).<ref name=Andrews1992/>
+
+Free iron is [[toxic]] to [[Cell (biology)|cells]] as it acts as a catalyst in the formation of free radicals from [[reactive oxygen species]] via the [[Fenton Reaction]].<ref>{{cite doi | 10.1042/0264-6021:3570241}}</ref> Hence vertebrates use an elaborate set of protective mechanisms to bind iron in various [[Biological tissue|tissue]] compartments. Within cells, iron is stored in a protein complex as ferritin or [[hemosiderin]]. Apoferritin binds to free ferrous iron and stores it in the ferric state. As ferritin accumulates within cells of the [[reticuloendothelial system]], protein aggregates are formed as [[hemosiderin]]. Iron in ferritin or hemosiderin can be extracted for release by the RE cells although hemosiderin is less readily available. Under [[steady state]] conditions, the [[Blood serum|serum]] ferritin level correlates with total body iron stores; thus, the serum ferritin FR5Rl is the most convenient laboratory test to estimate iron stores.
+
+Because iron is an important mineral in mineralization, ferritin is employed in the shells of organisms such as molluscs to control the concentration and distribution of iron, thus sculpting shell morphology and colouration.<ref name='Jackson2007'>{{cite doi | 10.1186/1471-2148-7-160 }}</ref><ref>{{cite pmid|16626988}}</ref>  It also plays a role in the haemolymph of the [[polyplacophora]] where it serves to rapidly transport iron to the mineralizing [[radula]].<ref>{{cite doi|10.1016/0304-4165(86)90188-1 }}</ref>
+
+===Ferroxidase activity===
+The heavy chain of Ferritin also possesses [[ferroxidase]] activity, this involves the conversion of iron from the ferrous (Fe2+) to ferric (Fe 3+) forms. This limits the deleterious reaction which occurs between ferrous iron and [[hydrogen peroxide]] known as the [[Fenton reaction]] which produces the highly damaging [[hydroxyl radical]].
+
+=== Immune response===
+Ferritin concentrations increase drastically in the presence of an infection or cancer; this is necessary to counter the infective agent's attempt to bind iron from the host's tissue.<ref name=Ong2005>{{cite pmid|16262999}}</ref>  The inflammatory response may cause ferritin to migrate from the interstitial space to plasma, elevating the serum ferritin level, in order to deny iron to the infective agent.<ref name=Ong2005/>
+
+=== Stress response ===
+The concentration of ferritin has been shown to increase in response to stresses such as [[Oxygen toxicity|anoxia]];<ref>{{Cite doi|10.1242/jeb.00872}}</ref> this implies that it is an [[acute-phase protein|acute phase protein]].<ref>{{cite pmid|11687259}}</ref>
+
+=== Mitochondria ===
+[[Mitochondrial ferritin]] has many roles pertaining to molecular function. It participates in ferroxidase activity, binding, iron ion binding, oxidoreductase activity, ferric iron binding, metal ion binding as well as transition metal binding. Within the realm of biological processes it participates in oxidation-reduction, iron ion transport across membranes and cellular iron ion homeostasis.
+
+=== Yolk ===
+In some snails, the protein component of the egg yolk is primarily ferritin;<ref name=Bottke1988>{{cite doi|10.1007/BF00398988}}</ref> this is a different ferritin, with a different genetic sequence, from the somatic ferritin.  It is produced in the midgut glands and secreted into the haemolymph, whence it is transported to the eggs.<ref name=Bottke1988/>
+
+=== Industrial applications ===
+Ferritin is also used in materials science as a precursor in making iron [[nanoparticle]]s for [[carbon nanotube]] growth by [[chemical vapor deposition]].
+
+== Expression ==
+In vertebrates, ferritin is usually found within cells, although it is also present in smaller quantities in the plasma.<ref name=Ong2005/>
+
+== Diagnostic uses ==
+[[blood plasma|Serum]] ferritin levels are measured in [[medical laboratory|medical laboratories]] as part of the iron studies workup for [[anemia]] and for [[restless legs syndrome]]. The ferritin levels measured usually have a direct correlation with the total amount of iron stored in the body. However, ferritin levels may be artificially high in cases of [[anemia of chronic disease]] where ferritin is elevated in its capacity as an [[acute phase protein]] and not as a marker for iron overload.
+
+===Normal ranges===
+A normal ferritin blood level, referred to as the [[reference interval]] is determined by many [[Medical laboratory|testing laboratories]]. The ranges for ferritin can vary between laboratories but are usually between 30–300 ng/mL (=μg/L) for males, and 15–200 ng/mL (=μg/L) for females.
+{| class="wikitable"
+|-
+| '''Men''' || 18-270 nanograms per milliliter (ng/mL) or 18-270 micrograms per liter (mcg/L)
+|-
+| '''Women''' || 18-160 ng/mL or 18-160 mcg/L
+|-
+| '''Children''' (6 months to 15 years) || 7-140 ng/mL or 7-140 mcg/L
+|-
+| '''Infants''' (1 to 5 months) || 50-200 ng/mL or 50-200 mcg/L
+|-
+| '''Neonates''' || 25-200 ng/mL or 25-200 mcg/L
+|}<ref name=WebMD>{{cite web|title=Ferritin|url=http://www.webmd.com/a-to-z-guides/ferritin?page=2|publisher=WebMD|accessdate=18 February 2013}}</ref>
+
+===Low===
+If the ferritin level is low, there is a risk for lack of iron, which could lead to [[anemia]]. 
+
+In the setting of [[anemia]], low [[Blood serum|serum]] ferritin is the most [[specificity (tests)|specific]] lab test for [[iron deficiency anemia]].<ref>{{cite journal | author = Guyatt G, Patterson C, Ali M, Singer J, Levine M, Turpie I, Meyer R | title = Diagnosis of iron-deficiency anemia in the elderly | journal = Am J Med | volume = 88 | issue = 3 | pages = 205–9 | year = 1990 | pmid = 2178409 | doi = 10.1016/0002-9343(90)90143-2}}</ref> However it is less [[sensitivity (tests)|sensitive]], since its levels are increased in the blood by infection or any type of chronic inflammation,<ref name=Firkin1997>[http://www.australianprescriber.com/magazine/20/3/74/6 Interpretation of biochemical tests for iron deficiency: diagnostic difficulties related to limitations of individual tests] by Frank Firkin and Bryan Rush. Aust Prescr 1997;20:74-6</ref> and these conditions may convert what would otherwise be a low level of ferritin from lack of iron, into a value in the normal range. For this reason, low ferritin levels carry more information than those in the normal range.
+
+Low ferritin may also indicate [[hypothyroidism]], [[vitamin C]] deficiency or [[celiac disease]] 
+
+In adolescents and teenagers, ferritin levels that are low but yet above those causing anemia and sickness (12<ref name=medline>[http://www.nlm.nih.gov/medlineplus/ency/article/003490.htm Ferritin] by: Mark Levin, MD, Hematologist and Oncologist, Newark, NJ. Review provided by VeriMed Healthcare Network</ref> to 50 ng/mL) may cause symptoms of [[restless legs syndrome]].<ref name="sleepmed3">
+{{cite journal
+ | author = Kryger MH, Otake K, Foerster J
+ | title = Low body stores of iron and restless legs syndrome: a correctable cause of insomnia in adolescents and teenagers
+ | journal = Sleep Med.
+ | volume = 3
+ | issue = 2
+ | pages = 127–32
+ | year = 2002
+ | month = March
+ | pmid = 14592231
+ | doi = 10.1016/S1389-9457(01)00160-5
+ | url = }}
+</ref>
+
+A ''falsely low'' blood ferritin (equivalent to a [[false positive]] test) is very uncommon,<ref name=Firkin1997/> but can result from a [[hook effect]] of the measuring tools in extreme cases.<ref>[http://books.google.se/books?id=9VBFVkMX3N0C&pg=PA236 Page 341] in: {{cite book |author=Burnett, David; Crocker, John R. |title=The Science of Laboratory Diagnosis |publisher=ISIS Medical Media |location= |year=1999 |pages= |isbn=1-899066-62-4 |oclc= |doi= |accessdate=}}</ref>
+
+[[Vegetarianism]] may contribute to low levels of serum ferritin, with one study finding 40% of vegetarians tested with low serum ferritin levels 
+<ref>{{cite journal
+ | author = W Pongstaporn, A Bunyaratavej 
+ | title = Hematological parameters, ferritin and vitamin B12 in vegetarians
+ | journal = J Med Assoc Thai.  
+
+ | volume = 82
+ | issue = 3
+ | pages = 304–11
+ | year = 1999
+ | month = March
+ | pmid = 10410487
+ | url = http://lib.bioinfo.pl/pmid:10410487 }}
+</ref>
+
+===Elevated===
+If ferritin is high, there is iron in excess or else there is an acute inflammatory reaction in which ferritin is mobilized without iron excess. For example, ferritins may be high in infection without signalling body iron overload.
+
+Ferritin is also used as a [[Biomarker|marker]] for [[iron overload disorder]]s, such as [[hemochromatosis]] or [[hemosiderosis]]. [[Adult-onset Still's disease]], some [[porphyrias]], and [[hemophagocytic lymphohistiocytosis]]/[[macrophage activation syndrome]] are diseases in which the ferritin level may be abnormally raised.
+
+As ferritin is also an [[acute phase proteins|acute-phase reactant]], it is often elevated in the course of [[disease]]. A normal [[C-reactive protein]] can be used to exclude elevated ferritin caused by acute phase reactions.
+
+According to a study of [[anorexia nervosa]] patients, ferritin can be elevated during periods of acute [[malnutrition|malnourishment]], perhaps due to iron going into storage as intravascular volume and thus the number of red blood cells falls.<ref>{{cite journal | author = Kennedy A, Kohn M, Lammi A, Clarke S | title = Iron status and haematological changes in adolescent female inpatients with anorexia nervosa | journal = J Paediatr Child Health | volume = 40 | issue = 8 | pages = 430–2 | year = 2004 | pmid = 15265182 | doi = 10.1111/j.1440-1754.2004.00432.x}}</ref>
+
+== Application ==
+Cavities formed by ferritin and mini-ferritins ([[Dps (DNA-binding proteins from starved cells)|Dps]]) proteins have been successfully used as the reaction chamber for the fabrication of metal [[nanoparticles]] (NPs).<ref>{{cite doi | 10.1021/ja910918b}} {{cite pmid|20170158}}</ref><ref>{{cite doi | 10.1021/ja0655690}} {{cite pmid|17177411}}</ref><ref>{{cite doi | 10.1002/smll.200700199}} {{cite pmid|17768776}}</ref><ref>{{cite doi | 10.1002/anie.200353436}} {{cite pmid|15127443}}</ref> [[Protein]] shells served as a template to restrain particle growth and as a coating to prevent coagulation/aggregation between NPs. Using various sizes of protein shells, various sizes of NPs can be easily synthesized for chemical, physical and bio-medical applications
+
+== See also ==
+*[[Bacterioferritin]]
+*[[DNA-binding protein from starved cells]]
+*[[Ferritin light chain]]
+*[[Transferrin]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{MeshName|Ferritins}}
+
+{{Iron-binding proteins}}
+{{Metal metabolism}}
+{{Blood tests}}
+
+[[Category:Iron metabolism]]
+[[Category:Blood tests]]
+[[Category:Chemical pathology]]
+[[Category:Acute phase proteins]]

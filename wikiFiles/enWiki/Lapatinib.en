@@ -1,0 +1,118 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462089041
+| IUPAC_name = ''N''-[3-chloro-4-[(3-fluorophenyl)methoxy]phenyl]-6-<br>[5-[(2-methylsulfonylethylamino)methyl]-2-furyl]<br>quinazolin-4-amine
+| image = Lapatinib.svg
+| width = 250
+| image2 = Lapatinib 1XKK.png
+
+<!--Clinical data-->
+| tradename = Tykerb, Tyverb
+| Drugs.com = {{drugs.com|monograph|lapatinib-ditosylate}}
+| MedlinePlus = a607055
+| licence_EU = Tyverb
+| licence_US = Lapatinib
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = D
+| legal_AU = S4
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = Variable, increased with food
+| protein_bound = >99%
+| metabolism = [[Liver|Hepatic]], mostly [[CYP3A]]-mediated (minor [[CYP2C19|2C19]] and [[CYP2C8|2C8]] involvement)
+| elimination_half-life = 24 hours
+| excretion = Mostly fecal
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 231277-92-2
+| CAS_supplemental = <br />{{CAS|388082-78-8}} (ditosylate)
+| ATC_prefix = L01
+| ATC_suffix = XE07
+| PubChem = 208908
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01259
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 181006
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0VUA21238F
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D04024
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 49603
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 554
+
+<!--Chemical data-->
+| C=29 | H=26 | Cl=1 | F=1 | N=4 | O=4 | S=1 
+| molecular_weight = 581.058 g/mol
+| smiles = CS(=O)(=O)CCNCc1ccc(o1)c2ccc3c(c2)c(ncn3)Nc4ccc(c(c4)Cl)OCc5cccc(c5)F
+| InChI = 1/C29H26ClFN4O4S/c1-40(36,37)12-11-32-16-23-7-10-27(39-23)20-5-8-26-24(14-20)29(34-18-33-26)35-22-6-9-28(25(30)15-22)38-17-19-3-2-4-21(31)13-19/h2-10,13-15,18,32H,11-12,16-17H2,1H3,(H,33,34,35)
+| InChIKey = BCFGMOOMADDAQU-UHFFFAOYAL
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C29H26ClFN4O4S/c1-40(36,37)12-11-32-16-23-7-10-27(39-23)20-5-8-26-24(14-20)29(34-18-33-26)35-22-6-9-28(25(30)15-22)38-17-19-3-2-4-21(31)13-19/h2-10,13-15,18,32H,11-12,16-17H2,1H3,(H,33,34,35)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BCFGMOOMADDAQU-UHFFFAOYSA-N
+}}
+'''Lapatinib''' ([[International Nonproprietary Name|INN]]), used in the form of '''lapatinib di[[tosylate]]''', ([[United States Adopted Name|USAN]]) ('''Tykerb'''/'''Tyverb''', [[GlaxoSmithKline|GSK]]) is an orally active [[chemotherapy|drug]] for [[breast cancer]] and other [[solid tumour]]s.<ref name="pmid15163842">{{cite journal |author=Burris HA |title=Dual kinase inhibition in the treatment of breast cancer: initial experience with the EGFR/ErbB-2 inhibitor lapatinib |journal=Oncologist |volume=9 Suppl 3 |issue= |pages=10–5 |year=2004 |pmid=15163842 |doi= 10.1634/theoncologist.9-suppl_3-10|url=http://theoncologist.alphamedpress.org/cgi/pmidlookup?view=long&pmid=15163842}}</ref> It is a dual [[tyrosine kinase inhibitor]] which interrupts the [[HER2/neu]] and [[epidermal growth factor receptor]] (EGFR) pathways.<ref name="futuredrugs"/> It is used in [[combination therapy]] for HER2-positive breast cancer. It is used for the treatment of patients with advanced or metastatic breast cancer whose tumors overexpress HER2 (ErbB2).<ref name="FDA">{{cite web |url=http://www.ncbi.nlm.nih.gov/pubmed/20187722 |title=FDA Approval for Lapatinib Ditosylate |publisher=Cancer.gov |date=14 January 2011 |first=Richard |last=Pazdur}}</ref>
+
+==Status==
+On March 13, 2007, the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) approved lapatinib in [[combination therapy]] for breast cancer patients already using [[capecitabine]] (Xeloda, [[Hoffmann–La Roche|Roche]]).<ref name= futuredrugs /><ref name = "FDA"/>  In January 2010, Tykerb received accelerated approval for the treatment of postmenopausal women with hormone receptor positive metastatic breast cancer that overexpresses the HER2 receptor and for whom hormonal therapy is indicated.<ref name="FDA" />
+
+Pharmaceutical company [[GlaxoSmithKline]] (GSK) markets the drug under the propriety names Tykerb (mostly US) and Tyverb (mostly Europe).<ref name="GSK marketing">{{cite press release
+  | title = GlaxoSmithKline receives marketing authorisation in the EU for Tyverb (lapatinib), the first oral targeted therapy for ErbB2-positive breast cancer
+  | publisher = [[GlaxoSmithKline]]
+  | date = 2008-06-12
+  | url = http://www.gsk.com/media/pressreleases/2008/2008_pressrelease_10063.htm
+  | accessdate = 2008-06-21
+}}</ref>
+The drug currently has approval for sale and clinical use in the US,<ref name= futuredrugs /><ref name="GSK marketing"/> Australia,<ref name= futuredrugs /> Bahrain,<ref name= futuredrugs /> Israel, Kuwait,<ref name= futuredrugs /> Venezuela,<ref name= futuredrugs /> Brazil,<ref name=PR>{{cite press release |url=http://www.medicalnewstoday.com/articles/72987.php |title=GlaxoSmithKline Reports Positive New Data On Tykerb (lapatinib) At The 2007 American Society Of Clinical Oncology (ASCO) Annual Meeting |date=June 4, 2007 |publisher=Medical News Today}} Retrieved December 2, 2008.</ref> New Zealand,<ref name=PR/><ref>{{cite web |url=http://www.medsafe.govt.nz/profs/datasheet/t/tykerbtab.htm |title=Data Sheet: TYKERB |date=March 12, 2008 |publisher=New Zealand Medicines and Medical Devices Safety Authority |work=Medsafe}} Retrieved December 2, 2008.</ref> South Korea,<ref name=PR/> Switzerland,<ref name="GSK marketing"/> Japan, the European Union, Lebanon, India and Pakistan.<ref name="GSK marketing"/>
+
+The drug lapatinib ditosylate is classified as S/NM (a synthetic compound
+showing competitive inhibition of the natural product) that is naturally derived or inspired
+substrate (Gordon M. Cragg, Paul G. Grothaus, and David J. Newman, Impact of Natural Products on Developing New Anti-Cancer Agents, Chem. Rev. 2009, 109, 3012–3043)
+
+==Mode of action==
+===Biochemistry===
+Lapatinib [[enzyme inhibitor|inhibits]] the [[tyrosine kinase]] activity associated with two [[oncogene]]s, [[Epidermal growth factor receptor|EGFR]] (epidermal growth factor receptor) and [[HER2/neu]] (Human EGFR type 2).<ref>{{cite journal | last1 = Wood | first1 = ER | last2 = Truesdale | first2 = AT | last3 = McDonald | first3 = OB | last4 = Yuan | first4 = D | last5 = Hassell | first5 = A | last6 = Dickerson | first6 = SH | last7 = Ellis | first7 = B | last8 = Pennisi | first8 = C | last9 = Horne | first9 = E | title = A unique structure for epidermal growth factor receptor bound to GW572016 (Lapatinib): relationships among protein conformation, inhibitor off-rate, and receptor activity in tumor cells. | journal = Cancer Research | volume = 64 | issue = 18 | pages = 6652–9 | year = 2004 | pmid = 15374980  | author-separator =, | author-name-separator= | doi = 10.1158/0008-5472.CAN-04-1168 }}</ref> Over expression of HER2/neu can be responsible for certain types of high-risk breast cancers in women.<ref name="futuredrugs">{{cite journal |author=Higa GM & Abraham J |year=2007 |month=September |title=Lapatinib in the treatment of breast cancer |journal=Expert Review of Anticancer Therapy |volume=7 |issue=9 |pages= 1183–92 |publisher= Future Drugs |pmid=17892419 |doi=10.1586/14737140.7.9.1183 |url=http://www.expert-reviews.com/doi/abs/10.1586/14737140.7.9.1183 |format=log in required }}</ref> 
+Like [[Sorafenib]], lapatinib is a [[protein kinase inhibitor]] shown to decrease tumor-causing breast [[cancer stem cells]].
+<ref name="European Breast Cancer Conference 6">{{cite conference|author=Dr. Angel Rodriguez |year=2008 |month=April |title=New type of drug shrinks primary breast cancer tumors significantly in just six weeks; research provides leads to a new target in cancer treatment – the cancer stem cell |url=http://www.ecco-org.eu/News/Press-room/Press-release/page.aspx/439?xf_itemId=265&xf_catId=27 }}</ref> 
+Lapatinib inhibits receptor signal processes by binding to the ATP-binding pocket of the EGFR/HER2 protein [[kinase]] [[protein domain|domain]], preventing self-[[phosphorylation]] and subsequent activation of the signal mechanism (see [[Receptor tyrosine kinase#Signal transduction]]).<ref name="pmid16418322">{{cite journal |author=Nelson MH, Dolder CR |title=Lapatinib: a novel dual tyrosine kinase inhibitor with activity in solid tumors |journal=Ann Pharmacother |volume=40 |issue=2 |pages=261–9 |year=2006 |month=February |pmid=16418322 |doi=10.1345/aph.1G387 }}</ref>
+
+===Clinical application===
+
+====Breast cancer====
+
+Lapatinib is used as a treatment for women's breast cancer in treatment naive, ER+/EGFR+/HER2+ breast cancer patients(now often called "triple positive") and in patients who have HER2-positive advanced breast cancer that has progressed after previous treatment with other chemotherapeutic agents, such as [[anthracycline]], [[taxane]]-derived drugs,  or [[trastuzumab]] (Herceptin, [[Genentech]]).
+
+A 2006 GSK-supported randomized clinical trial on female breast cancer previously being treated with those agents (anthracycline, a taxane and trastuzumab) demonstrated that administrating lapatinib in combination with [[capecitabine]] delayed the time of further cancer growth compared to regimens that use capecitabine alone. The study also reported that risk of disease progression was reduced by 51%, and that the combination therapy was not associated with increases in toxic side effects.<ref name="NEJM +">{{cite journal |author=Geyer CE, Forster J, Lindquist D, ''et al.'' |title=Lapatinib plus capecitabine for HER2-positive advanced breast cancer |journal=N. Engl. J. Med. |volume=355 |issue=26 |pages=2733–43 |year=2006 |month=December |pmid=17192538 |doi=10.1056/NEJMoa064320 |url=}}</ref>  The outcome of this study resulted in a somewhat complex and rather specific initial [[indication (medicine)|indication]] for lapatinib—use only in [[combination therapy|combination]] with capecitabine for HER2-positive breast cancer in women whose cancer have progressed following previous chemotherapy with anthracycline, taxanes and trastuzumab.
+
+==Adverse effects==
+Like many small molecule tyrosine kinase inhibitors, lapatinib is regarded as well tolerated. The most common [[adverse effect|side effects]] reported are [[diarrhea]], [[Fatigue (medical)|fatigue]], [[nausea]] and [[rash]]es.<ref name=futuredrugs /><ref name="pmid15955900">{{cite journal |author=Burris HA, Hurwitz HI, Dees EC, ''et al.'' |title=Phase I safety, pharmacokinetics, and clinical activity study of lapatinib (GW572016), a reversible dual inhibitor of epidermal growth factor receptor tyrosine kinases, in heavily pretreated patients with metastatic carcinomas |journal=J. Clin. Oncol. |volume=23 |issue=23 |pages=5305–13 |year=2005 |month=August |pmid=15955900 |doi=10.1200/JCO.2005.16.584 |url=}}</ref> In ongoing studies the drug has been shown to provoke toxic hepatitis, the toxicity is reversible when the treatment is stopped.{{Citation needed|date=September 2008}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.cancer.gov/cancertopics/druginfo/lapatinibditosylate Lapatinib Ditosylate - National Cancer Institute]
+* [http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070603/cancer_drug_070603/20070603?hub=Health  Canadian drug touted for advanced breast cancer]
+
+{{Extracellular chemotherapeutic agents}}
+{{GlaxoSmithKline}}
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Furans]]
+[[Category:Quinazolines]]
+[[Category:GlaxoSmithKline brands]]
+[[Category:Organofluorides]]
+[[Category:Phenol ethers]]
+[[Category:Organochlorides]]
+[[Category:Aromatic amines]]
+[[Category:Amines]]
+[[Category:Sulfones]]
+[[Category:Anilines]]

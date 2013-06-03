@@ -1,0 +1,212 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 461098524
+| IUPAC_name = (3''R'',4''S'')-1-(4-fluorophenyl)-3-[(3''S'')-3-(4-fluorophenyl)-3-hydroxypropyl]-4-(4-hydroxyphenyl)azetidin-2-one
+| image = Ezetimibe.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename = Zetia
+| Drugs.com = {{drugs.com|monograph|ezetimibe}}
+| MedlinePlus = a603015
+| pregnancy_category = C <small>([[Australia|Au]])</small>, C <small>([[United States|U.S.]])</small>
+| legal_status = S4 <small>(Au)</small>, POM <small>([[United Kingdom|UK]])</small>, ℞-only <small>(U.S.)</small>
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 35–65%
+| protein_bound = >90%
+| metabolism = Intestinal wall, hepatic
+| elimination_half-life = 19–30 hours
+| excretion = Renal 11%, faecal 78%
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 163222-33-1
+| ATC_prefix = C10
+| ATC_suffix = AX09
+| PubChem = 150311
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00973
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 132493
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = EOR26LQQ24
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01966
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 49040
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1138
+
+<!--Chemical data-->
+| C=24 | H=21 | F=2 | N=1 | O=3 
+| molecular_weight = 409.4&nbsp;g·mol<sup>−1</sup>
+| smiles = Fc1ccc(cc1)[C@@H](O)CC[C@H]4C(=O)N(c2ccc(F)cc2)[C@@H]4c3ccc(O)cc3
+| InChI = 1/C24H21F2NO3/c25-17-5-1-15(2-6-17)22(29)14-13-21-23(16-3-11-20(28)12-4-16)27(24(21)30)19-9-7-18(26)8-10-19/h1-12,21-23,28-29H,13-14H2/t21-,22+,23-/m1/s1
+| InChIKey = OLNTVTPDXPETLC-XPWALMASBY
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H21F2NO3/c25-17-5-1-15(2-6-17)22(29)14-13-21-23(16-3-11-20(28)12-4-16)27(24(21)30)19-9-7-18(26)8-10-19/h1-12,21-23,28-29H,13-14H2/t21-,22+,23-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OLNTVTPDXPETLC-XPWALMASSA-N
+| melting_point = 164
+| melting_high = 166
+}}
+'''Ezetimibe''' ({{IPAc-en|icon|ɛ|ˈ|z|ɛ|t|i-|m|ɪ|b}}) is a drug that lowers plasma [[cholesterol]] levels. It acts by decreasing cholesterol absorption in the [[intestine]]. It may be used alone (marketed as Zetia or Ezetrol), when other cholesterol-lowering medications are not tolerated, or together with [[statin]]s (e.g., [[ezetimibe/simvastatin]], marketed as [[Vytorin]] and [[Inegy]]) when statins alone do not control cholesterol. 
+
+Ezetimibe decreases cholesterol levels, but has not been shown to improve outcomes in cardiovascular disease patients by decreasing atherosclerotic or vascular events compared to placebo.  Ezetimibe is endorsed in the Canadian Lipid Guidelines and is considered a well-tolerated option for an add-on agent to statin, to help patients achieve their LDL (or bad cholesterol) targets.
+<ref>{{cite journal
+ |author=Mitka M
+ |title=Cholesterol drug controversy continues
+ |journal=JAMA
+ |volume=299
+ |issue=19
+ |pages=2266
+ |year=2008
+ |month=May
+ |pmid=18492963
+ |doi=10.1001/jama.299.19.2266
+}}</ref>  Ezetimibe is the only add-on to statin therapy that has successfully shown cardiovascular benefit when combined with statin, but has not been proven to have an incremental benefit compared to statins alone. 
+<ref name="TVSa2113"/> Britain's NICE statement, published in 2007, endorses its use for monotherapy if statins are not tolerated or as add-on therapy.<ref>{{citation|url=http://guidance.nice.org.uk/TA132}}</ref>
+
+==Pharmacology==
+Ezetimibe localises at the [[brush border]] of the [[small intestine]], where it inhibits the absorption of [[cholesterol]] from the intestine. Specifically, it appears to bind to a critical mediator of cholesterol absorption, the [[Niemann-Pick C1-Like 1]] (NPC1L1) protein on the [[gastrointestinal tract]] [[epithelial]] cells<ref name="Garcia-Calvo2005">Garcia-Calvo M, Lisnock J, Bull HG, Hawes BE, Burnett DA, Braun MP, et al. The target of ezetimibe is Niemann-Pick C1-Like 1 (NPC1L1). [[Proceedings of the National Academy of Sciences of the United States of America|Proc Natl Acad Sci U S A]] 2005;102(23):8132-7. PMID 15928087</ref> as well as in [[hepatocytes]].<ref name="Temel">Temel, Ryan E., Tang, Weiqing, Ma, Yinyan, Rudel, Lawrence L., Willingham, Mark C., Ioannou, Yiannis A., Davies, Joanna P., Nilsson, Lisa-Mari, Yu, Liqing.
+Hepatic Niemann-Pick C1-like 1 regulates biliary cholesterol concentration and is a target of ezetimibe
+J. Clin. Invest. 2007 0: JCI30060</ref> In addition to this direct effect, decreased cholesterol absorption leads to an upregulation of LDL-receptors on the surface of cells and an increased [[LDL]]-cholesterol uptake into cells, thus decreasing levels of LDL in the [[blood plasma]] which contribute to atherosclerosis and cardiovascular events.<ref>DiPiro JT, Talbert RL, Yee GC, Marzke GR, Wells BG, Posey LM, editors. Pharmacotherapy:a pathophysiologic approach. 7th ed. New York: The McGraw-Hill Companies, Inc.; 2008.</ref>
+
+==Clinical use==
+
+===Indications===
+Ezetimibe is indicated as an adjunct to dietary measures in the management of:
+*[[Hypercholesterolaemia]]
+*Homozygous [[sitosterolemia]] (phytosterolemia)<ref name="AMH2006">Rossi S, editor. [[Australian Medicines Handbook]] 2006. Adelaide: Australian Medicines Handbook; 2006. ISBN 0-9757919-2-3
+</ref>
+
+On 9 June 2006, US regulators approved the use of ezetimibe in combination with [[fenofibrate]] to treat [[hyperlipidemia|mixed hyperlipidaemia]].
+
+===Adverse effects===
+Common [[adverse drug reaction]]s (≥1% of patients) associated with ezetimibe therapy include: headache and/or diarrhea (steathorrea). Infrequent adverse effects (0.1–1% of patients) include: [[myalgia]] and/or raised [[liver function test]] ([[alanine aminotransferase|ALT]]/[[aspartate aminotransferase|AST]]) results. Rarely (<0.1% of patients), [[hypersensitivity]] reactions (rash, [[angioedema]]) or [[myopathy]] may occur.<ref name="AMH2006" />
+
+In 2005, the manufacturer of Ezetrol, [[Merck Frosst/Schering Pharmaceuticals]] issued a warning through [[Health Canada]] associating Ezetrol (ezetimibe) with "[[myalgia]], [[rhabdomyolysis]], [[hepatitis]], [[pancreatitis]], and [[thrombocytopenia]]". Also noted were possible changes in [[liver function tests]] as described above and longer clotting times if the patient is currently on [[warfarin]] while on the cholesterol-lowering medication.<ref>http://www.hc-sc.gc.ca/dhp-mps/medeff/advisories-avis/public/_2005/ezetrol_pa-ap-eng.php</ref>
+
+===Dosage forms===
+Ezetimibe is available as 10-mg tablets in most markets. A combination preparation [[ezetimibe/simvastatin]], which combines ezetimibe with a [[statin]], is also available.
+
+===Side effects===
+Side effects include gastrointestinal disturbances, headache, fatigue, [[myalgia]]; rarely [[arthralgia]], hypersensitivity reactions (including rash, [[angioedema]], and [[anaphylaxis]]), [[hepatitis]]; AND very rarely [[pancreatitis]], [[cholelithiasis]], [[cholecystitis]], [[thrombocytopenia]], raised [[creatine kinase]], [[myopathy]], and [[rhabdomyolysis]].<ref>http://www.bnf.org/bnf/bnf/current/128035.htm?q="ezetimibe"#_hit</ref>
+
+===Efficacy===
+A clinical study, results of which were presented at the 2009 annual meeting of the [[American Heart Association]] and published in the [[New England Journal of Medicine]] suggest that in combination with [[statin]]s, Niaspan, a slow-release form of [[niacin]], is more effective than ezetimibe at reducing arterial plaque buildup.<ref>
+{{cite news
+ |title=Study Raises Questions About Cholesterol Drug's Benefit
+ |first=Natasha
+ |last=Singer
+ |date=November 15, 2009
+ |accessdate=November 16, 2009
+ |newspaper=[[The New York Times]]
+ |url=http://www.nytimes.com/2009/11/16/health/research/16heart.html
+}}</ref>
+
+===Pharmacokinetics===
+Ezetimibe is available as 10-mg tablets; the recommended dose is one tablet once daily without regard to meals for all its approved indications. Within 4–12 hours of the oral administration of a 10-mg dose to fasting adults, the attained mean ezetimibe peak plasma concentration (C<sub>max</sub>) was 3.4–5.5&nbsp;ng/ml. Following oral administration, ezetimibe is absorbed and extensively conjugated to a phenolic glucuronide (active metabolite). Mean C<sub>max</sub> (45–71&nbsp;ng/ml) of ezetimibe-glucuronide is attained within 1–2 h. The concomitant administration of food (high-fat vs. nonfat meals) has no effect on the extent of absorption of ezetimibe. However, coadministration with a high-fat meal increases the C<sub>max</sub> of ezetimibe by 38%0.5.  The absolute bioavailability cannot be determined, since ezetimibe is insoluble in aqueous media suitable for injection. Ezetimibe and its active metabolite are highly bound to human plasma proteins (90%).
+
+Ezetimibe is primarily metabolized in the liver and the small intestine via glucuronide conjugation with subsequent renal and biliary excretion. Both the parent compound and its active metabolite are eliminated from plasma with a half-life of approximately 22 hours allowing for once-daily dosing. Ezetimibe lacks significant inhibitor or inducer effects on cytochrome P-450 isoenzymes, which explains its limited number of drug interactions. No dose adjustment is needed in patients with renal insufficiency or mild hepatic dysfunction (Child-Pugh score 5–6). Due to insufficient data, the manufacturer does not recommend ezetimibe for patients with moderate to severe hepatic impairment (Child-Pugh score 7–15). In patients with mild, moderate, or severe hepatic impairment, the mean AUC values for total ezetimibe are increased approximately 1.7-fold, 3– to 4-fold, and 5– to 6-fold, respectively, compared to healthy subjects
+
+==Clinical trial controversy==
+The ENHANCE trial of Vytorin (ezetimibe and simvastatin) was designed to show that ezetimibe could reduce the growth of [[Atheromatous plaque|fatty plaques]] in arteries. Instead, it reported in 2008 that ezetimibe resulted in "no change" of plaque.<ref name=nyt>
+{{cite news
+ | url=http://www.nytimes.com/2008/01/14/business/14cnd-drug.html?em&ex=1200459600&en=fe4f047fcd65a68e&ei=5070
+ | title=Drug Has No Benefit in Trial, Makers Say
+ | author= Berenson, A
+ | publisher=NY Times
+ | date=2008-01-14
+ | accessdate=2008-01-14
+}}</ref>
+
+The ENHANCE trial was not a clinical-outcome trial, but an imaging study of the thickness of plaque in arteries. The American College of Cardiology (ACC) maintains that ezetimibe may be a reasonable option for patients who cannot tolerate a statin or cannot be controlled on a high-dose statin.<ref name=acc>
+{{cite news
+ |url=http://acc.org/enhance.htm|title=ACC Statement on ENHANCE Trial
+ |publisher=ACC
+ |date=2008-01-15
+ |accessdate=2008-02-04
+}}</ref> The primary outcome in the treatment of hypercholesterolemia is prevention of cardiovascular events, such as death from cardiovascular disease. While the ENHANCE trial did not have the power to detect significant differences in death, it measured the difference in artery thickness (in the carotid and femoral intima-media) to detect reductions in atherosclerotic plaque. At the end of two years, no significant difference was found in artery thickness between patients taking simvastatin and ezetimibe versus patients taking simvastatin alone.<ref>[http://content.nejm.org/cgi/content/short/358/14/1431 Kastelein JJP, Akdim F, Stroes ESG, Zwinderman AH, Bots ML, Stalenhoef AFH, et al. Simvastatin with or without ezetimibe in familial hypercholesterolemia.] The New England Journal of Medicine: 2008; 358(14) 1431-1443.</ref> 
+
+Since in the ENHANCE trial ezetimibe did not reduce cardiovascular events, atherosclerosis or death, despite the reduction in LDL, doctors have been trying to figure out whether it has any use. They have also concluded that reducing LDL does not always reduce atherosclerosis.  Reviewers of the ENHANCE trial have raised the possibility that it did not last long enough for ezetimibe to work.  Also, many patients had already been treated on statins for a long time, so their artery thickness was already lower. Perhaps if they had not used statins, ezetimibe might have had a greater effect.<ref>[http://content.nejm.org/cgi/content/full/358/14/1504 Brown BG, Taylor AJ. Does ENHANCE diminish confidence in lowering LDL or in ezetimibe? New England Journal of Medicine: 2005; 358: 1504-1547.]</ref>
+
+Results from the trial have provoked three large clinical-outcome trials. 
+
+The ARBITER 6–HALTS trial<ref name="TVSa2113">
+{{cite journal
+ |url=http://content.nejm.org/cgi/content/full/NEJMoa0907569
+ |author=Taylor A.J., Villnes T.C., Stanek E.J., et al.
+ |title=Extended-Release Niacin or Ezetimibe and Carotid Intima-Media Thickness
+ |journal= N Engl J Med
+ |volume=361
+ |issue=22
+ |date=26 November 2009
+ |format=
+ |work=
+ |accessdate=
+ |doi=10.1056/NEJMoa0907569
+ |pmid=19915217
+ |pages=2113–22
+ |unused_data=web
+}}</ref> enrolled patients with coronary artery disease, or an equivalent risk condition such as diabetes, who were already taking statins. They were randomized to additionally take either extended-release niacin or ezetimibe, and the primary end point was change in artery wall thickness. Both drugs reduced LDL cholesterol levels. Niacin reduced artery wall thickness, but ezetimibe paradoxically '''increased''' artery wall thickness. Patients on ezetimibe also had more major cardiovascular events. The trial was terminated early after 208 volunteers had completed the study. 
+
+The results from the other trials will be presented in the next three years. Even before completion of ARBITER 6–HALTS, though, a March 30, 2008, meeting of the ACC resulted in negative press for drugs such as Zetia, as Yale University Cardiologist Harlan Krumholz and concurring colleagues called into question the efficacy of such drugs.<ref>
+{{cite news
+ |url=http://www.businessweek.com/bwdaily/dnflash/content/mar2008/db20080331_704360.htm?
+ |title=A Weak Prognosis for Vytorin and Zetia
+ |author= Carey, J
+ |publisher=Business Week
+ |date=2008-03-31
+ |accessdate=2008-04-01
+}}</ref> Krumholz' statements maintained that such pharmaceuticals should not be the first or even second option for prescribing doctors.  Definitive conclusions of the efficacy and safety of Zetia can be made at such a time when the results of more substantial and comprehensive trials are released, such as the upcoming SHARP trial, which has an enrollment of 9000 patients and will report in 2010, and the IMPROVE-IT trial, which has an enrollment of 18,000 patients and will report in 2012.
+
+Results of the Simvastatin and Ezetimibe in Aortic Stenosis trial<ref>(ClinicalTrials.gov number, NCT00092677 [ClinicalTrials.gov])</ref> showed a potential increase in cancer in association with the use of these drugs together.<ref>(www.nejm.org September 2, 2008 (10.1056/NEJMe0807200).</ref> The actual significance has yet to be determined.
+
+Trials of ezetimibe in combination with simvastatin have proven more favourable than those for ezetimibe alone, however. A 2010 study found this combination was more effective at lowering lipid levels than alternative agents [[rosuvastatin]] and [[atorvastatin]].<ref name="pjonline.com">http://www.pjonline.com/news/ezetimibe_and_simvastatin_combination_therapy_more_effective_than_atorvastatin_and_rosuvastati</ref>
+In the SHARP study, cardiovascular events were lowered by combining ezetimibe and simvastatin.
+
+==Chemical properties==
+Ezetimibe is highly soluble in alcohols (methanol, ethanol, 1-propanol, 2-propanol, etc.) and insoluble in water.
+
+Degradation behaviour: HPLC studies on ezetimibe under different stress conditions suggested the following degradation behaviour.
+*Acidic condition: The drug gradually decreased with time on heating at 80&nbsp;°C in 1&nbsp;M HCl by forming degradation products. The rate of hydrolysis in acid was slower as compared to that of alkali or water.
+*Neutral (water) condition: Upon heating, the drug solution in water at 80°C for 1&nbsp;h, almost complete degradation of the drug was observed.
+*In alkali: The drug was found to be highly labile to alkaline hydrolysis. The reaction in 0.1&nbsp;M NaOH at 80°C was so fast,  all of the drug was degraded in 0&nbsp;min. Subsequently, studies were performed in 0.01&nbsp;M NaOH at 40°C and complete degradation of the drug was observed in 4&nbsp;h.
+*Oxidative conditions: The drug was stable to hydrogen peroxide (3 and 20%) at room temperature.
+*Photolytic conditions: No major degradation product was observed after exposure of drug solution in 1 M HCl to sunlight for 2 d, only minor degradation products were formed. The nature of degradation in light and dark was found to be similar, indicating that light had no effect on the degradation of the drug in acid. On the other hand, the samples in water degraded under sunlight for 2 d. Corresponding rate of degradation in dark was much slower.
+*Solid-state study: The solid-state studies showed ezetimibe was stable to the effect of temperature. When the drug powder was exposed to dry heat at 50°C for 45&nbsp;d and at 60°C for 7 d, no decomposition of the drug was seen.
+
+==Synthesis==
+The key to the construction of this compound involves formation of an [[azetidone]]. [[Imine]] formation between p-benzyloxybenzaldehyde and p-fluoroaniline provides one of the required reactants. This compound is then treated with the depicted acid chloride in the presence of [[triethylamine]]. In all likelihood, this first dehydrohalogenates under reaction conditions to form the substituted [[ketene]]. The transient intermediate reacts with the imine in a 2 + 2 [[cycloaddition]] to afford a four-membered ring. The reaction proceeds to give the trans isomer almost exclusively. The ester group is then hydrolyzed by means of lithium hydroxide. Condensation with the zinc reagent formed in situ from p-fluoromagnesium bromide and zinc chloride affords the ketone. The carbonyl group is then reduced with diborane to afford the alcohol. Removal of the benzyl protecting group by hydrogenolysis over palladium finally affords ezetimibe.
+
+[[File:Ezetimibe rxn.png|600px]]
+
+{{Cite journal|last1=Vaccaro|first1=W|title=Carboxy-substituted 2-azetidinones as cholesterol absorption inhibitors|journal=Bioorganic & Medicinal Chemistry Letters|volume=8|pages=319–22|year=1998|doi=10.1016/S0960-894X(98)00009-2|pmid=9871677|last2=Sher|first2=Rosy|last3=Davis|first3=Harry R|issue=3}}
+
+==See also==
+*[[Ezetimibe/simvastatin]]
+*[[Statin]]
+*[[Niacin]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.zetia.com Zetia]
+*[http://www.zetia.com/ezetimibe/zetia/consumer/product_information/pi/index.jsp U.S. Prescribing Information]
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Ezetimibe U.S. National Library of Medicine: Drug Information Portal - Ezetimibe]
+
+{{Merck&Co}}
+{{Lipid modifying agents}}
+
+[[Category:Hypolipidemic agents]]
+[[Category:Lactams]]
+[[Category:Merck]]
+[[Category:Schering-Plough]]
+[[Category:Azetidines]]
+[[Category:Organofluorides]]
+[[Category:Phenols]]

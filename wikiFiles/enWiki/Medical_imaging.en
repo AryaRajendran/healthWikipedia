@@ -1,0 +1,241 @@
+{{About|imaging techniques and modalities for the human body|imaging of animals in research|Preclinical imaging}}
+{{Diagnostic infobox 
+  | Name        = Medical imaging 
+  | Image       = RupturedAAA.png
+  | Width       = 250px
+  | Caption     = A [[CT scan]] image showing a ruptured [[abdominal aortic aneurysm]]
+  | ICD10       = {{ICD10PCS|B|B}} 
+  | ICD9unlinked  = {{ICD9proc|87}}-{{ICD9proc|88}} 
+  | MedlinePlus     = 007451
+  | MeshID      = D003952 
+  | OPS301      = {{OPS301|3}} 
+  | OtherCodes  = 
+}}
+{{Refimprove|date=June 2009}}
+'''Medical imaging''' is the technique and process used to create [[image]]s of the [[human body]] (or parts and function thereof) for clinical purposes ([[medical procedure]]s seeking to reveal, [[medical diagnosis|diagnose]], or examine [[disease]]) or medical 
+science (including the study of normal [[anatomy]] and [[physiology]]). Although imaging of removed [[organ (anatomy)|organ]]s and [[Tissue (biology)|tissues]] can be performed for medical reasons, such procedures are not usually referred to as medical imaging, but rather are a part of [[pathology]].
+
+As a discipline and in its widest sense, it is part of [[biological imaging]] and incorporates [[radiology]] (in the wider sense), [[nuclear medicine]], investigative [[radiological sciences]], [[endoscopy]], (medical) [[thermography]], [[medical photography]], and [[microscopy]] (e.g. for human pathological investigations). A majority of diagnostic imaging centers are located in California, followed by Texas and Florida.<ref>[http://www.pellresearch.com/Diagnostic-Imaging-Centers.htm Diagnostic Imaging Centers Industry Research]</ref>
+
+Measurement and recording techniques which are not primarily designed to produce [[image]]s, such as [[electroencephalography]] (EEG), [[magnetoencephalography]] (MEG), [[electrocardiography]] (EKG), and others, but which produce data susceptible to be represented as [[map]]s (i.e., containing positional information), can be seen as forms of medical imaging.
+
+Up until 2010, 5&nbsp;billion medical imaging studies had been conducted worldwide.<ref>{{cite journal |author=Roobottom CA, Mitchell G, Morgan-Hughes G |title=Radiation-reduction strategies in cardiac computed tomographic angiography |journal=Clin Radiol |volume=65 |issue=11 |pages=859–67 |year=2010 |month=November |pmid=20933639 |doi=10.1016/j.crad.2010.04.021 |url=}}</ref> Radiation exposure from medical imaging in 2006 made up about 50% of total ionizing radiation exposure in the United States.<ref name=Science09>{{cite web |url=http://www.sciencedaily.com/releases/2009/03/090303125809.htm |title=Medical Radiation Exposure Of The U.S. Population Greatly Increased Since The Early 1980s |work= |accessdate=}}</ref>
+
+In the clinical context, "invisible light" medical imaging is generally equated to [[radiology]] or "clinical imaging" and the medical practitioner responsible for interpreting (and sometimes acquiring) the images is a [[radiologist]]. "Visible light" medical imaging involves digital video or still pictures that can be seen without special equipment.  Dermatology and wound care are two modalities that utilize visible light imagery. Diagnostic [[radiography]] designates the technical aspects of medical imaging and in particular the acquisition of medical images. The ''[[radiographer]]'' or ''radiologic technologist'' is usually responsible for acquiring medical images of diagnostic quality, although some radiological interventions are performed by [[radiologist]]s. While radiology is an evaluation of anatomy, nuclear medicine provides functional assessment.
+
+As a field of scientific investigation, medical imaging constitutes a sub-discipline of [[biomedical engineering]], [[medical physics]] or [[medicine]] depending on the context: Research and development in the area of instrumentation, image acquisition (e.g. [[radiography]]), modeling and quantification are usually the preserve of [[biomedical engineering]], [[medical physics]], and [[computer science]]; Research into the application and interpretation of [[medical image]]s is usually the preserve of [[radiology]] and the medical sub-discipline relevant to medical condition or area of medical science ([[neuroscience]], [[cardiology]], [[psychiatry]], [[psychology]], etc.) under investigation. Many of the techniques developed for medical imaging also have [[Science|scientific]] and [[Industry|industrial]] applications.
+
+Medical imaging is often perceived to designate the set of techniques that noninvasively produce images of the internal aspect of the body. In this restricted sense, medical imaging can be seen as the solution of [[Mathematics|mathematical]] [[inverse problem]]s. This means that cause (the properties of living tissue) is inferred from effect (the observed signal). In the case of ultrasonography the probe consists of ultrasonic pressure waves and echoes inside the tissue show the internal structure. In the case of projection radiography, the probe is [[X-ray]] [[electromagnetic radiation|radiation]] which is absorbed at different rates in different tissue types such as bone, muscle and fat.
+
+The term noninvasive is a term based on the fact that following medical imaging modalities do not penetrate the skin physically. But on the electromagnetic and radiation level, they are quite invasive. From the high energy photons in X-Ray Computed Tomography, to the 2+ Tesla coils of an MRI device, these modalities alter the physical and chemical environment of the body in order to obtain data.
+
+==Imaging technology==
+
+===Radiography===
+{{Main|Medical radiography}}
+Two forms of radiographic images are in use in medical imaging; projection radiography and fluoroscopy, with the latter being useful for catheter guidance. These 2D techniques are still in wide use despite the advance of 3D tomography due to the low cost, high resolution, and depending on application, lower radiation dosages. This imaging modality utilizes a wide beam of [[x rays]] for image acquisition and is the first imaging technique available in modern medicine.
+
+*''[[Fluoroscopy]]'' produces real-time images of internal structures of the body in a similar fashion to [[radiography]], but employs a constant input of x-rays, at a lower dose rate. [[Contrast media]], such as barium, iodine, and air are used to visualize internal organs as they work. Fluoroscopy is also used in image-guided procedures when constant feedback during a procedure is required. An image receptor is required to convert the radiation into an image after it has passed through the area of interest. Early on this was a fluorescing screen, which gave way to an Image Amplifier (IA) which was a large vacuum tube that had the receiving end coated with [[cesium iodide]], and a mirror at the opposite end. Eventually the mirror was replaced with a TV camera.
+
+*''[[Projectional radiography|Projectional radiograph]]s'', more commonly known as x-rays, are often used to determine the type and extent of a fracture as well as for detecting pathological changes in the lungs. With the use of [[radio-opaque]] contrast media, such as [[barium]], they can also be used to visualize the structure of the stomach and intestines - this can help diagnose ulcers or certain types of [[colon cancer]].
+
+===Magnetic resonance imaging (MRI)===
+{{Main|Magnetic resonance imaging}}
+[[Image:Brain Mri nevit.svg|thumb|A brain MRI representation]]
+A magnetic resonance imaging instrument ([[MRI scanner]]), or "nuclear magnetic resonance (NMR) imaging" scanner as it was originally known, uses powerful magnets to polarise and excite [[hydrogen]] nuclei (single [[proton]]) in water molecules in human tissue, producing a detectable signal which is spatially encoded, resulting in images of the body. The MRI machine emits an RF (radio frequency) pulse that specifically binds only to hydrogen. The system sends the pulse to the area of the body to be examined. The pulse makes the protons in that area absorb the energy needed to make them spin in a different direction. This is the "resonance" part of MRI. The RF pulse makes them (only the one or two extra unmatched protons per million) spin at a specific frequency, in a specific direction. The particular frequency of resonance is called the Larmour frequency and is calculated based on the particular tissue being imaged and the strength of the main magnetic field. MRI uses three [[electromagnetic field]]s: a very strong (on the order of units of [[tesla (unit)|teslas]]) static magnetic field to polarize the hydrogen nuclei, called the static field; a weaker time-varying (on the order of 1&nbsp;kHz) field(s) for spatial encoding, called the gradient field(s); and a weak [[radio-frequency]] ([[Radio frequency|RF]]) field for manipulation of the hydrogen nuclei to produce measurable signals, collected through an [[antenna (radio)|RF antenna]]. 
+
+Like [[Computed tomography|CT]], MRI traditionally creates a two dimensional image of a thin "slice" of the body and is therefore considered a [[tomography|tomographic]] imaging technique. Modern MRI instruments are capable of producing images in the form of 3D blocks, which may be considered a generalisation of the single-slice, tomographic, concept. Unlike CT, MRI does not involve the use of [[ionizing radiation]] and is therefore not associated with the same health hazards. For example, because MRI has only been in use since the early 1980s, there are no known long-term effects of exposure to strong static fields (this is the subject of some debate; see 'Safety' in [[MRI]]) and therefore there is no limit to the number of scans to which an individual can be subjected, in contrast with [[X-ray]] and [[Computed tomography|CT]]. However, there are well-identified health risks associated with tissue heating from exposure to the RF field and the presence of implanted devices in the body, such as pace makers. These risks are strictly controlled as part of the design of the instrument and the scanning protocols used.
+
+Because CT and MRI are sensitive to different tissue properties, the appearance of the images obtained with the two techniques differ markedly. In CT, X-rays must be blocked by some form of dense tissue to create an image, so the image quality when looking at soft tissues will be poor. In MRI, while any nucleus with a net nuclear spin can be used, the proton of the hydrogen atom remains the most widely used, especially in the clinical setting, because it is so ubiquitous and returns a large signal. This nucleus, present in water molecules, allows the excellent soft-tissue contrast achievable with MRI.
+
+===Fiduciary Markers===
+
+Fiduciary markers are used in a wide range of medical imaging applications. Images of the same subject produced with two different imaging systems may be correlated (called image registration) by placing a fiduciary marker in the area imaged by both systems.  In this case, a marker which is visible in the images produced by both imaging modalities must be used.  By this method, functional information from [[SPECT]] or [[positron emission tomography]] can be related to anatomical information provided by [[magnetic resonance imaging]] (MRI).<ref>[http://www.ajnr.org/cgi/content/abstract/14/3/713 Correlation of single photon emission CT with MR image data using fiduciary markers.] BJ Erickson and CR Jack Jr., ''American Journal of Neuroradiology'', Vol 14, Issue 3 713-720.</ref> Similarly, fiducial points established during MRI can be correlated with brain images generated by [[Magnetoencephalography#Magnetic source imaging|magnetoencephalography]] to localize the source of brain activity.
+
+===Nuclear medicine===
+{{Main|Nuclear medicine}}
+Nuclear medicine encompasses both diagnostic imaging and treatment of disease, and may also be referred to as molecular medicine or molecular imaging & therapeutics.<ref>[http://www.snm.org Society of Nuclear Medicine]</ref>  Nuclear medicine uses certain properties of isotopes and the energetic particles emitted from radioactive material to diagnose or treat various pathology. Different from the typical concept of anatomic radiology, nuclear medicine enables assessment of physiology. This function-based approach to medical evaluation has useful applications in most subspecialties, notably oncology, neurology, and cardiology. ''[[Gamma camera]]s'' are used in e.g. scintigraphy, SPECT and PET to detect regions of biologic activity that may be associated with disease. Relatively short lived [[isotope]], such as [[Iodine-123|<sup>123</sup>I]] is administered to the patient. Isotopes are often preferentially absorbed by biologically active tissue in the body, and can be used to identify tumors or [[fracture]] points in bone. Images are acquired after collimated photons are detected by a crystal that gives off a light signal, which is in turn amplified and converted into count data.
+
+* ''[[Scintigraphy]]'' ("scint") is a form of diagnostic test wherein [[radioisotope]]s are taken internally, for example intravenously or orally. Then, gamma cameras capture and form two-dimensional<ref>[http://medical-dictionary.thefreedictionary.com/scintigraphy thefreedictionary.com - scintigraphy] Citing: Dorland's Medical Dictionary for Health Consumers, 2007 by Saunders; Saunders Comprehensive Veterinary Dictionary, 3 ed. 2007; McGraw-Hill Concise Dictionary of Modern Medicine, 2002 by The McGraw-Hill Companies</ref> images from the radiation emitted by the radiopharmaceuticals.
+*''[[single photon emission computed tomography|SPECT]]'' is a 3D tomographic technique that uses gamma camera data from many projections and can be reconstructed in different planes. A dual detector head gamma camera combined with a CT scanner, which provides localization of functional SPECT data, is termed a SPECT/CT camera, and has shown utility in advancing the field of molecular imaging. In most other medical imaging modalities, energy is passed through the body and the reaction or result is read by detectors. In SPECT imaging, the patient is injected with a radioisotope, most commonly Thallium 201TI, Technetium 99mTC, Iodine 123I, and Gallium 67Ga.<ref name="Dhawan P 2003">Dhawan P, A. (2003). Medical Imaging Analysis. Hoboken, NJ: Wiley-Interscience Publication</ref> The radioactive gamma rays are emitted through the body as the natural decaying process of these isotopes takes place. The emissions of the gamma rays are captured by detectors that surround the body. This essentially means that the human is now the source of the radioactivity, rather than the medical imaging devices such as  X-Ray or CT.
+*''[[Positron emission tomography]]'' (PET) uses coincidence detection to image functional processes. Short-lived positron emitting isotope, such as [[Fluorine-18|<sup>18</sup>F]], is incorporated with an organic substance such as [[glucose]], creating F18-fluorodeoxyglucose, which can be used as a marker of metabolic utilization. Images of activity distribution throughout the body can show rapidly growing tissue, like tumor, metastasis, or infection. PET images can be viewed in comparison to [[computed tomography]] scans to determine an anatomic correlate. Modern scanners may integrate PET, allowing [[PET-CT]], or [[PET/MRI]] to optimize the image reconstruction involved with positron imaging. This is performed on the same equipment without physically moving the patient off of the gantry. The resultant hybrid of functional and anatomic imaging information is a useful tool in non-invasive diagnosis and patient management.
+
+===Photoacoustic imaging===
+{{Main|Photoacoustic imaging in biomedicine}}
+Photoacoustic imaging is a recently developed hybrid biomedical imaging modality based on the photoacoustic effect. It combines the advantages of optical absorption contrast with ultrasonic spatial resolution for deep imaging in (optical) diffusive or quasi-diffusive regime. Recent studies have shown that photoacoustic imaging can be used in vivo for tumor angiogenesis monitoring, blood oxygenation mapping, functional brain imaging, and skin melanoma detection, etc.
+
+=== Breast Thermography ===
+There are three different thermographic techniques for breast diagnosis: the ''tele-[[thermography (medical)|thermography]]'', the ''[[contact thermography]]'' and the ''[[dynamic angiothermography]]''. These digital infrared imaging [[thermography|thermographic]] techniques are based on the principle that metabolic activity and vascular circulation in both pre-cancerous tissue and the area surrounding a developing breast cancer is almost always higher than in normal breast tissue. Cancerous tumors require an ever-increasing supply of nutrients and therefore increase circulation to their cells by holding open existing blood vessels, opening dormant vessels, and creating new ones (neo-[[angiogenesis]] theory).
+<br />
+Tele-thermography and contact thermography supporters claim this process results in an increase in regional surface temperatures of the breast, however there is little evidence that thermography is an accurate means of identifying breast tumours. Thermography is not approved for breast cancer screening in the United States or Canada, and medical authorities have issued warnings against thermography in both countries.<ref>{{cite web|last=CBC News.|title=Health Canada issues advisory about thermography tests|url=http://www.cbc.ca/news/health/story/2012/11/28/mb-thermography-health-canada-advisory.html|accessdate=1 December 2012}}</ref><br />
+Dynamic angiothermography utilizes [[thermal imaging]] but with important differences with the tele-thermography and contact thermography, that impact detection performance. First, the probes are improved over the previous liquid crystal plates; they include better spatial resolution, contrastive performance, and the image is formed more quickly. The more significant difference<ref>A new type of breast contact thermography plate: a preliminary and qualitative investigation of its potentiality on phantoms, Montruccoli GC, Montruccoli Salmi D, Casali F, Physica Medica, Vol. XX, N.1, January–March 2004 pp.27-31.[http://www.torrossa.it/resources/an/2196411]</ref> lies in identifying the thermal changes due to changes in vascular network to support the growth of the tumor/lesion. Instead of just recording the change in heat generated by the tumor, the image is now able to identify changes due to the vascularization of the mammary gland. It is currently used in combination with other techniques for diagnosis of breast cancer. This diagnostic method is a low cost one compared with other techniques. ''The angiothermography is not a test that substitutes for other tests, but stands in relation to them as a technique that gives additional information to clarify the clinical picture and improve the quality of diagnosis.''
+
+=== Tomography ===
+{{Main|Computed tomography}}
+[[Tomography]] is the method of imaging a single plane, or slice, of an object resulting in a [[tomogram]]. There are several forms of [[tomography]]:
+* Linear tomography: This is the most basic form of tomography. The X-ray tube moved from point "A" to point "B" above the patient, while the cassette holder (or "bucky") moves simultaneously under the patient from point "B" to point "A." The [[Lever|fulcrum]], or pivot point, is set to the area of interest. In this manner, the points above and below the [[focal plane]] are blurred out, just as the background is blurred when panning a camera during exposure. No longer carried out and replaced by [[computed tomography]].
+* Poly tomography: This was a complex form of tomography. With this technique, a number of geometrical movements were programmed, such as hypocycloidic, circular, figure 8, and elliptical. Philips Medical Systems [http://www.medical.philips.com/main/index.asp] produced one such device called the 'Polytome.' This unit was still in use into the 1990s, as its resulting images for small or difficult physiology, such as the inner ear, was still difficult to image with CTs at that time. As the resolution of CTs got better, this procedure was taken over by the CT.
+* Zonography: This is a variant of linear tomography, where a limited arc of movement is used. It is still used in some centres for visualising the kidney during an intravenous urogram (IVU).
+*Orthopantomography (OPT or OPG): The only common tomographic examination in use. This makes use of a complex movement to allow the radiographic examination of the mandible, as if it were a flat bone. It is often referred to as a "Panorex", but this is incorrect, as it is a trademark of a specific company.
+*Computed Tomography (CT), or Computed Axial Tomography (CAT: A CT scan, also known as a [[CAT scan]]), is a helical tomography (latest generation), which traditionally produces a 2D image of the structures in a thin section of the body. It uses [[X-ray]]s. It has a greater [[ionizing radiation]] dose burden than projection radiography; repeated scans must be limited to avoid health effects. CT is based on the same principles as X-Ray projections but in this case, the patient is enclosed in a surrounding ring of detectors assigned with 500-1000 scintillation detectors<ref name="Dhawan P 2003"/> (fourth-generation X-Ray CT scanner geometry). Previously in older generation scanners, the X-Ray beam was paired by a translating source and detector.
+
+===Ultrasound===
+{{Main|Medical ultrasonography}}
+[[Image:UltrasoundBPH.jpg|thumb|right|Ultrasound representation of [[Urinary bladder]] (black butterfly-like shape) and hyperplastic [[prostate]]]]
+[[Medical ultrasonography]] uses high frequency [[broadband]] sound waves in the [[megahertz]] range that are reflected by tissue to varying degrees to produce (up to 3D) images. This is commonly associated with imaging the [[fetus]] in pregnant women. Uses of ultrasound are much broader, however.  Other important uses include imaging the abdominal organs, heart, breast, muscles, tendons, arteries and veins.  While it may provide less anatomical detail than techniques such as CT or MRI, it has several advantages which make it ideal in numerous situations, in particular that it studies the function of moving structures in real-time, emits no [[ionizing radiation]], and contains [[speckle]] that can be used in [[elastography]]. Ultrasound is also used as a popular research tool for capturing raw data, that can be made available through an [[ultrasound research interface]], for the purpose of tissue characterization and implementation of new image processing techniques. The concepts of ultrasound differ from other medical imaging modalities in the fact that it is operated by the transmission and receipt of sound waves. The high frequency sound waves are sent into the tissue and depending on the composition of the different tissues; the signal will be attenuated and returned at separate intervals.  A path of reflected sound waves in a multilayered structure can be defined by an input acoustic impedance (ultrasound sound wave) and the Reflection and transmission coefficients of the relative structures<ref name="Dhawan P 2003"/>
+. It is very safe to use and does not appear to cause any adverse effects. It is also relatively inexpensive and quick to perform. Ultrasound scanners can be taken to critically ill patients in intensive care units, avoiding the danger caused while moving the patient to the radiology department. The real time moving image obtained can be used to guide drainage and biopsy procedures. Doppler capabilities on modern scanners allow the blood flow in arteries and veins to be assessed.
+
+===Echocardiography===
+
+When ultrasound is used to image the heart it is referred to as an Echocardiogram.  [[Echocardiography]] allows physicians to see detailed structures of the heart, including chamber size, heart function, the valves of the heart, as well as the pericardium (the sac around the heart).  Echocardiography uses 2D, 3D, and Doppler imaging to create pictures of the heart and visualize the blood flowing through each of the four heart valves. Echocardiography is widely used in an array of patients ranging from those experiencing symptoms, such as shortness of breath or chest pain, to those undergoing cancer treatments. Transthoracic ultrasound has been proven to be safe for patients of all ages, from infants to the elderly, without risk of harmful side effects or radiation, differentiating it from other imaging modalities. Echocardiography is one of the most commonly used imaging modalities in the world due to its portability and use in a variety of applications. In emergency situations, echocardiography is quick, easily accessible, and able to be performed at the bedside, making it the modality of choice for many physicians.
+
+== Medical imaging topics ==
+
+===Image Gently and Image Wisely Campaigns===
+In response to increased concern by the public over radiation doses and the ongoing progress of best practices, The Alliance for Radiation Safety in Pediatric Imaging was formed within the [[Society for Pediatric Radiology]]. In concert with The [[American Society of Radiologic Technologists]], The [[American College of Radiology]] and The [[American Association of Physicists in Medicine]], the Society for Pediatric Radiology developed and launched the Image Gently Campaign which is designed to maintain high quality imaging studies while using the lowest doses and best radiation safety practices available on pediatric patients.<ref>http://www.pedrad.org/associations/5364/ig/?page=365</ref> This initiative has been endorsed and applied by a growing list of various Professional Medical organizations around the world and has received support and assistance from companies that manufacture equipment used in Radiology.
+
+Following upon the success of the Image Gently campaign, the American College of Radiology, the Radiological Society of North America, the American Association of Physicists in Medicine and the American Society of Radiologic Technologists have launched a similar campaign to address this issue in the adult population called Image Wisely.<ref>http://www.imagewisely.org/</ref> The [[World Health Organization]] and [[International Atomic Energy Agency]] (IAEA) of the United Nations have also been working in this area and have ongoing projects designed to broaden best practices and lower patient radiation dose.<ref>http://new.paho.org/hq10/index.php?option=com_content&task=view&id=3365&Itemid=2164</ref><ref>https://rpop.iaea.org/RPOP/RPoP/Content/index.htm</ref><ref>http://www.who.int/ionizing_radiation/about/GI_TM_Report_2008_Dec.pdf</ref>
+
+===Maximizing imaging procedure use===
+The amount of data obtained in a single MR or CT scan is very extensive. Some of the data that radiologists discard could save patients time and money, while reducing their exposure to radiation and risk of complications from invasive procedures.<ref>Freiherr G. [http://www.diagnosticimaging.com/news/display/article/113619/1541872 Waste not, want not: Getting the most from imaging procedures]. ''Diagnostic Imaging.'' March 19, 2010.</ref>
+
+===Creation of three-dimensional images===
+Recently, techniques have been developed to enable CT, MRI and ultrasound scanning software to produce 3D images for the physician.<ref name="ref3">
+Udupa, J.K. and Herman, G. T., 3D Imaging in Medicine, 2nd Edition, CRC Press, 2000 
+</ref> Traditionally CT and MRI scans produced 2D static output on film. To produce 3D images, many scans are made, then combined by computers to produce a 3D model, which can then be manipulated by the physician. 3D ultrasounds are produced using a somewhat similar technique.
+In diagnosing disease of the viscera of abdomen, ultrasound is particularly sensitive on imaging of biliary tract, urinary tract and female reproductive organs (ovary, fallopian tubes).  As for example, diagnosis of gall stone by dilatation of common bile duct and stone in common bile duct.
+With the ability to visualize important structures in great detail, 3D visualization methods are a valuable resource for the diagnosis and surgical treatment of many pathologies. It was a key resource for the famous, but ultimately unsuccessful attempt by Singaporean surgeons to separate Iranian twins [[Ladan and Laleh Bijani]] in 2003. The 3D equipment was used previously for similar operations with great success.
+
+Other proposed or developed techniques include:
+* [[Diffuse optical tomography]]
+* [[Elastography]]
+* [[Electrical impedance tomography]]
+* [[Optoacoustic imaging]]
+* [[Ophthalmology]]
+** [[A-scan]]
+** [[B-scan]]
+** [[Corneal topography]]
+** [[Optical coherence tomography]]
+** [[Scanning laser ophthalmoscopy]]
+
+Some of these techniques are still at a research stage and not yet used in clinical routines.
+
+===Compression of medical images===
+Medical imaging techniques produce very large amounts of data, especially from CT, MRI and PET modalities.  As a result, storage and communications of electronic image data are prohibitive without the use of compression.  [[JPEG 2000]] is the state-of-the-art image compression [[DICOM]] standard for storage and transmission of medical images.  The cost and feasibility of accessing large image data sets over low or various bandwidths are further addressed by use of another DICOM standard, called [[JPIP]], to enable efficient streaming of the [[JPEG 2000]] compressed image data.
+
+=== Non-diagnostic imaging ===
+[[Neuroimaging]] has also been used in experimental circumstances to allow people (especially disabled persons) to control outside devices, acting as a [[brain computer interface]].
+
+Many medical imaging software applications ([[3DSlicer]], [[ImageJ]], [[MIPAV]] [http://mipav.cit.nih.gov/], etc.)  are used for non-diagnostic imaging, specifically because they  don't have an FDA approval<ref>FDA: Device Approvals and Clearances, - [http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/DeviceApprovalsandClearances/default.htm]. Retrieved 2012-31-08</ref> and  not allowed to use in [[clinical research]] for patient diagnosis.<ref>{{cite web|title=FDA: Statistical Guidance for Clinical Trials of Non Diagnostic Medical Devices |url= http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm106757.htm |publisher=Fda.gov|accessdate=August 31, 2012}}</ref> Note that many [[clinical research]] studies are not designed for patient diagnosis anyway.<ref>{{cite news |title=Genes Now Tell Doctors Secrets They Can't Utter |first=Gina last=Kolata |publisher=The New York Times |date=August 25, 2012 |url=http://www.nytimes.com/2012/08/26/health/research/with-rise-of-gene-sequencing-ethical-puzzles.html?pagewanted=all |accessdate=August 31, 2012}}</ref>
+
+=== Archiving and recording ===
+Used primarily in [[ultrasound]] imaging, capturing the image produced by a medical imaging device is required for archiving and [[telemedicine]] applications. In most scenarios, a [[frame grabber]] is used in order to capture the video signal from the medical device and relay it to a computer for further processing and operations.<ref>[http://www.epiphan.com/solutions_new/?arid=16 Treating Medical Ailments in Real Time]</ref>
+
+===Medical Imaging in the Cloud===
+There has been growing trend to migrate from [[Picture archiving and communication system|PACS]] to a [[Cloud computing|Cloud Based RIS]]. A recent article by Applied Radiology said, "As the digital-imaging realm is embraced across the healthcare enterprise, the swift transition from terabytes to petabytes of data has put radiology on the brink of information overload. Cloud computing offers the imaging department of the future the tools to manage data much more intelligently."<ref name="Applied Radiology1">{{Applied Radiology|title=Imaging on the Cloud|series=Vol 40, Number 05,May 2011 |first=Rasu B.|last=Shrestha, MD, MBA}}</ref>
+
+=== Use in pharmaceutical clinical trials ===
+Medical imaging has become a major tool in clinical trials since it enables rapid diagnosis with visualization and quantitative assessment.  
+
+A typical [[clinical trial]] goes through multiple phases and can take up to eight years. [[Clinical endpoint]]s or outcomes are used to determine whether the therapy is safe and effective. Once a patient reaches the endpoint, he/she is generally excluded from further experimental interaction. Trials that rely solely on [[clinical endpoint]]s are very costly as they have long durations and tend to need large number of patients.
+
+In contrast to clinical endpoints, [[surrogate endpoint]]s have been shown to cut down the time required to confirm whether a drug has clinical benefits. Imaging [[biomarkers]] (a characteristic that is objectively measured by an imaging technique, which is used as an indicator of pharmacological response to a therapy) and surrogate endpoints have shown to facilitate the use of small group sizes, obtaining quick results with good statistical power.<ref name=hajnal>Hajnal, J. V., Hawkes, D. J., & Hill, D. L. (2001). Medical [[Image Registration]]. CRC Press.</ref>  
+
+Imaging is able to reveal subtle change that is indicative of the progression of therapy that may be missed out by more subjective, traditional approaches.  Statistical bias is reduced as the findings are evaluated without any direct patient contact.  
+
+For example, measurement of [[tumour]] shrinkage is a commonly used surrogate endpoint in solid tumour response evaluation.  This allows for faster and more objective assessment of the effects of anticancer drugs.  In evaluating the extent of [[Alzheimer's disease]], it is still prevalent to use behavioural and [[cognitive tests]].  [[MRI]] scans on the entire brain can accurately pinpoint hippocampal atrophy rate while PET scans is able to measure the brain's metabolic activity by measuring regional glucose metabolism.<ref name=hajnal/>
+
+An imaging-based trial will usually be made up of three components: 
+
+# A realistic imaging protocol.  The protocol is an outline that standardizes (as far as practically possible) the way in which the images are acquired using the various modalities ([[Positron emission tomography|PET]], [[SPECT]], [[Computed tomography|CT]], [[Magnetic resonance imaging|MRI]]).  It covers the specifics in which images are to be stored, processed and evaluated.
+# An imaging centre that is responsible for collecting the images, perform quality control and provide tools for data storage, distribution and analysis.  It is important for images acquired at different time points are displayed in a standardised format to maintain the reliability of the evaluation.  Certain specialised imaging contract research organizations provide to end medical imaging services, from protocol design and site management through to data quality assurance and image analysis.
+# Clinical sites that recruit patients to generate the images to send back to the imaging centre.
+
+===Shielding===
+{| class="wikitable" style = "float: right; margin-left:15px; text-align:center"
+|-
+!X-rays generated by peak voltages below !! Minimum thickness<br /> of lead
+|-
+|75 kV || 1.0&nbsp;mm
+|-
+|100 kV || 1.5&nbsp;mm
+|-
+|125 kV || 2.0&nbsp;mm
+|-
+|150 kV || 2.5&nbsp;mm
+|-
+|175 kV || 3.0&nbsp;mm
+|-
+|200 kV || 4.0&nbsp;mm
+|-
+|225 kV || 5.0&nbsp;mm
+|-
+|300 kV || 9.0&nbsp;mm
+|-
+|400 kV || 15.0&nbsp;mm
+|-
+|500 kV || 22.0&nbsp;mm
+|-
+|600 kV || 34.0&nbsp;mm
+|-
+|900 kV || 51.0&nbsp;mm
+|}
+[[Lead]] is the most common shield against X-rays because of its high density (11340&nbsp;kg/m<sup>3</sup>), stopping power, ease of installation and low cost. The maximum range of a high-energy photon such as an X-ray in matter is infinite; at every point in the matter traversed by the photon, there is a probability of interaction. Thus there is a very small probability of no interaction over very large distances. The shielding of photon beam is therefore exponential (with an [[attenuation length]] being close to the [[radiation length]] of the material); doubling the thickness of shielding will square the shielding effect.
+
+The following table shows the recommended thickness of lead shielding in function of X-ray energy, from the Recommendations by the Second International Congress of Radiology.<ref>Alchemy Art Lead Products – [http://www.alchemycastings.com/pdf/SheetLead.pdf Lead Shielding Sheet Lead For Shielding Applications]. Retrieved 2008-12-07.</ref>
+{{-}}
+<!--PLEASE RESPECT ALPHABETICAL ORDER-->
+
+== See also ==
+{{Col-begin}}
+{{Col-1-of-3}}
+* [[Biomedical informatics]]
+* [[Cardiac PET]]
+* [[Digital Imaging and Communications in Medicine]]
+* [[Digital mammography]]
+* [[eMix]]
+* [[Fotofinder]]
+* [[Full-body scan]]
+* [[JPEG 2000]] compression
+* [[JPIP]] streaming
+* [[Magnetic field imaging]]
+{{Col-2-of-3}}
+* [[Medical examination]]
+* [[Medical image computing]]
+* [[Medical radiography]]
+* [[Medical test]]
+* [[Multiscale motion mapping]]
+* [[Neuroimaging]]
+* [[Non-invasive (medical)]]
+* [[Olea Medical]]
+* [[PACS (medical imaging)|PACS]]
+{{Col-3-of-3}}
+* [[Pneumoencephalogram]]
+* [[Preclinical imaging]]
+* [[Radiology information system]]
+* [[Segmentation (image processing)]]
+* [[Signal-to-noise ratio]]
+* [[Society for Imaging Science and Technology]]
+* [[Tomogram]]
+* [[Virtopsy]]
+* [[VoluMedic]]
+{{Col-end}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Medical imaging}}
+*{{dmoz|Health/Medicine/Imaging/|Medical imaging}}
+* [http://rad.usuhs.edu/medpix/parent.php3?mode=home_page MedPix] Free Medical Image Database, Search & Download Images
+* [http://iprg.co.in IPRG] Open group related to image processing research resources
+
+{{Image Processing_Software}}
+{{Visualization}}
+{{Medical imaging}}
+
+{{DEFAULTSORT:Medical Imaging}}
+[[Category:Image processing]]
+[[Category:Medical imaging| ]]
+[[Category:Medical physics]]
+[[Category:Nuclear medicine]]

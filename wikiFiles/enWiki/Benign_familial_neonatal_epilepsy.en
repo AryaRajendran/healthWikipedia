@@ -1,0 +1,284 @@
+{{Infobox Disease |
+  Name           = Benign familial neonatal epilepsy<ref name=ilae2010>{{cite journal |author=Berg AT, Berkovic SF, Brodie MJ, ''et al.'' |title=Revised terminology and concepts for organization of seizures and epilepsies: report of the ILAE Commission on Classification and Terminology, 2005-2009 |journal=Epilepsia |volume=51 |issue=4 |pages=676–85 |year=2010 |month=April |pmid=20196795 |doi=10.1111/j.1528-1167.2010.02522.x |url=http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2010.02522.x/full}}</ref>|
+  Image          = |
+  Caption        = |
+  DiseasesDB     = 33689 |
+  ICD10          = {{ICD10|G|40|3|g|40}}|
+  ICD9           = |
+  ICDO           = |
+  OMIM           = 121200 |
+  OMIM_mult      = {{OMIM2|121201}} {{OMIM2|608217}} |
+  MedlinePlus    = |
+  eMedicineSubj  = neuro |
+  eMedicineTopic = 32 |
+  MeshID         = D020936 |
+}}
+'''Benign familial neonatal epilepsy''' (BFNE), formerly called '''Benign familial neonatal convulsions''' (BFNC) or '''Benign familial neonatal seizures''' (BFNS), is a rare [[autosomal dominant]] inherited form of [[epilepsy]]. It manifests in newborns, normally within the first 7 days of life, as [[tonic-clonic seizures]]. Infants are otherwise normal between attacks and develop without incident. Attacks normally spontaneously cease within the first 15 weeks of life. Lifetime susceptibility to [[seizures]] is increased, as 16% of those diagnosed with BFNE earlier in life will go on to have seizures versus a 2% lifetime risk for the general population. There are three known genetic causes of BFNE, two being the [[voltage-gated potassium channel]]s [[KCNQ2]] (BFNC1) and [[KCNQ3]] (BFNC2) and the third being a chromosomal inversion (BFNC3). There is no obvious correlation between most of the known mutations and clinical variability seen in BFNE.<br>
+
+==Signs and symptoms==
+The only sign of BFNE are [[seizures]], generally tonic-clonic, which occur within the first week of life. Seizures often begin as [[apnea]], [[cyanosis]], and [[hypertonia]] and last less than 1 minute.
+
+Patients with BFNE are more likely to develop epileptic seizures later in life. Some BFNE patients also develop myokymia (spontaneous involuntary contraction of muscle groups).
+
+==Pathophysiology==
+===BFNC1===
+The most prevalent known cause of BFNE is mutation of KCNQ2, a gene encoding a [[voltage-gated potassium channel]] (K<sub>V</sub>7.2). There are at least 35 such mutations, see Table 1, primarily located in the voltage sensitive S4 segment through the C-terminus. Of these mutations, 5 are [[nonsense mutation]]s, 13 are [[missense mutation]]s and 11 cause a [[frameshift]] in the coding sequence. There are also 5 splice variants, one of which has been characterized at the protein level and leads to a [[nonsense mutation]]. Finally, there is one large deletion that removes much of the carboxy-terminus of the channel.
+
+While most BFNC1 mutations have not been further characterized, 14 have and all seem to lead to functional defects. Two of the mutations in the voltage-sensitive S4 segment, R207W and R214W, do not lead to a decrease in the whole-cell current produced by KCNQ2 channels but to a change in channel kinetics. The R207W mutation takes fourfold longer and the R214W mutation takes twofold longer to reach maximal current compared to wild-type channels.<ref name="Dedek_2001">{{cite journal | author = Dedek K, Kunath B, Kananura C, Reuner U, Jentsch T, Steinlein O | title = Myokymia and neonatal epilepsy caused by a mutation in the voltage sensor of the KCNQ2 K+ channel. | journal = Proc Natl Acad Sci USA | volume = 98 | issue = 21 | pages = 12272–7 | year = 2001 | pmid = 11572947 | doi = 10.1073/pnas.211431298 | pmc = 59804}}</ref> Since the time-course of an [[action potential]] is shorter than the time required for mutant KCNQ2 channels to reach proper levels of inactivation these mutants are expected to lead to neuronal hyperexcitability.
+
+Though many of the other characterized mutations lead to decreased whole-cell current that has not been further delineated, three mutations have. Y534fsX538, for example, leads to a truncation that removes much of the carboxy-terminus of the channel. This mutant has been studied and shown to not traffic properly to the membrane.<ref name="Schwake_2000">{{cite journal | author = Schwake M, Pusch M, Kharkovets T, Jentsch T | title = Surface expression and single channel properties of KCNQ2/KCNQ3, M-type K+ channels involved in epilepsy. | journal = J Biol Chem | volume = 275 | issue = 18 | pages = 13343–8 | year = 2000 | pmid = 10788442 | doi = 10.1074/jbc.275.18.13343}}</ref> Two other mutations, P709fs929X and W867fsX931, lead to altered carboxy-termini, though they actually lengthen rather than truncate the protein. These abnormal extended proteins have been shown to be more rapidly degraded within cells and, thus, produce little current.<ref name="Soldovieri_2006">{{cite journal | author = Soldovieri M, Castaldo P, Iodice L, Miceli F, Barrese V, Bellini G, Miraglia del Giudice E, Pascotto A, Bonatti S, Annunziato L, Taglialatela M | title = Decreased subunit stability as a novel mechanism for potassium current impairment by a KCNQ2 C terminus mutation causing benign familial neonatal convulsions. | journal = J Biol Chem | volume = 281 | issue = 1 | pages = 418–28 | year = 2006 | pmid = 16260777 | doi = 10.1074/jbc.M510980200}}</ref>
+
+{| class="wikitable"
+|+Table 1. Mutations in KCNQ2 associated with BFNE
+|- style="vertical-align: bottom;"
+! colspan="2" | Mutation
+! rowspan="2" | Region
+! rowspan="2" | Functional Consequence
+! rowspan="2" | References
+|-
+![[Nucleotide]]
+![[Amino acid]]
+|-
+! c.232delC
+! Q78fsX132
+| N-Terminus
+|
+| <ref name="Claes_2004">{{cite journal | author = Claes L, Ceulemans B, Audenaert D, Deprez L, Jansen A, Hasaerts D, Weckx S, Claeys K, Del-Favero J, Van Broeckhoven C, De Jonghe P | title = De novo KCNQ2 mutations in patients with benign neonatal seizures. | journal = Neurology | volume = 63 | issue = 11 | pages = 2155–8 | year = 2004 | pmid = 15596769}}</ref>
+|-
+! c.314_316delCCT
+! S105CfsX872
+| S1
+|
+| <ref name="Claes_2004"/>
+|-
+! c.387+1G→T
+! [[Splicing (genetics)|Splicing]]
+| S2
+|
+| <ref name="Singh_2003">{{cite journal | author = Singh N, Westenskow P, Charlier C, Pappas C, Leslie J, Dillon J, Anderson V, Sanguinetti M, Leppert M | title = KCNQ2 and KCNQ3 potassium channel genes in benign familial neonatal convulsions: expansion of the functional and mutation spectrum. | journal = Brain | volume = 126 | issue = Pt 12 | pages = 2726–37 | year = 2003 | pmid = 14534157 | doi = 10.1093/brain/awg286}}</ref>
+|-
+! c.584_593del10insA
+! S195X
+| S4
+| 
+| <ref name="Bassi_2005">{{cite journal | author = Bassi M, Balottin U, Panzeri C, Piccinelli P, Castaldo P, Barrese V, Soldovieri M, Miceli F, Colombo M, Bresolin N, Borgatti R, Taglialatela M | title = Functional analysis of novel KCNQ2 and KCNQ3 gene variants found in a large pedigree with benign familial neonatal convulsions (BFNC). | journal = Neurogenetics | volume = 6 | issue = 4 | pages = 185–93 | year = 2005 | pmid = 16235065 | doi = 10.1007/s10048-005-0012-2}}</ref>
+|-
+! c.C587T+c.T590C
+! A196V+L197P
+| S4
+| 
+| <ref name="Moulard_2001">{{cite journal | author = Moulard B, Picard F, le Hellard S, Agulhon C, Weiland S, Favre I, Bertrand S, Malafosse A, Bertrand D | title = Ion channel variation causes epilepsies. | journal = Brain Res Brain Res Rev | volume = 36 | issue = 2–3 | pages = 275–84 | year = 2001 | pmid = 11690625 | doi = 10.1016/S0165-0173(01)00104-7}}</ref>
+|-
+! c.C619T
+! R207W
+| S4
+| style="background: #FFC7CE;" | Slowed activation
+| <ref name="Dedek_2001"/>
+|-
+! c.G622A
+! M208V
+| S4
+| style="background: #FFC7CE;" | Current decreased by ~50%
+| <ref name="Singh_2003"/>
+|-
+! c.C641T
+! R214W
+| S4
+| style="background: #FFC7CE;" | Slowed activation and increased deactivation
+| <ref name="Dedek_2001"/><sup>,</sup><ref name="del_Giudice_2000">{{cite journal | author = Miraglia del Giudice E, Coppola G, Scuccimarra G, Cirillo G, Bellini G, Pascotto A | title = Benign familial neonatal convulsions (BFNC) resulting from mutation of the KCNQ2 voltage sensor | journal = Eur J Hum Genet | volume = 8 | issue = 12 | pages = 994–7 | year = 2000 | pmid = 11175290 | doi = 10.1038/sj.ejhg.5200570}}</ref><sup>,</sup><ref name="Castaldo_2002">{{cite journal | author = Castaldo P, del Giudice E, Coppola G, Pascotto A, Annunziato L, Taglialatela M | title = Benign familial neonatal convulsions caused by altered gating of KCNQ2/KCNQ3 potassium channels | journal = J Neurosci | volume = 22 | issue = 2 | pages = RC199 | year = 2002 | pmid = 11784811}}</ref>
+|-
+! c.C674G
+! H228Q
+| S4-S5
+| 
+| <ref name="Singh_2003"/>
+|-
+! c.T727C
+! L243F
+| S5
+| 
+| <ref name="Singh_2003"/>
+|-
+! c.C740G
+! S247W
+| S5
+| style="background: #FFC7CE;" | No current and [[dominant negative]]
+| <ref name="Singh_2003"/>
+|-
+! c.G807A
+! W269X
+| Pore
+| 
+| <ref name="Singh_2003"/>
+|-
+! c.848_849insGT
+! K283fsX329
+| Pore
+| 
+| <ref name="Singh_2003"/><sup>,</sup><ref name="Singh_1998">{{cite journal | author = Singh N, Charlier C, Stauffer D, DuPont B, Leach R, Melis R, Ronen G, Bjerre I, Quattlebaum T, Murphy J, McHarg M, Gagnon D, Rosales T, Peiffer A, Anderson V, Leppert M | title = A novel potassium channel gene, KCNQ2, is mutated in an inherited epilepsy of newborns | journal = Nat Genet | volume = 18 | issue = 1 | pages = 25–9 | year = 1998 | pmid = 9425895 | doi = 10.1038/ng0198-25}}</ref>
+|-
+! c.A851G
+! Y284C
+| Pore
+| style="background: #FFC7CE;" | Current decreased by ~50%
+| <ref name="Schwake_2000"/><sup>,</sup><ref name="Singh_2003"/><sup>,</sup><ref name="Castaldo_2002"/><sup>,</sup><ref name="Singh_1998"/><sup>,</sup><ref name="Schroeder_1998">{{cite journal | author = Schroeder B, Kubisch C, Stein V, Jentsch T | title = Moderate loss of function of cyclic-AMP-modulated KCNQ2/KCNQ3 K+ channels causes epilepsy | journal = Nature | volume = 396 | issue = 6712 | pages = 687–90 | year = 1998 | pmid = 9872318 | doi = 10.1038/25367}}</ref>
+|-
+! c.G916A
+! A306T
+| S6
+| style="background: #FFC7CE;" | Current decreased by ~80%
+| <ref name="Schwake_2000"/><sup>,</sup><ref name="Singh_2003"/><sup>,</sup><ref name="Singh_1998"/><sup>,</sup><ref name="Schroeder_1998"/>
+|-
+! c.C967T
+! Q323X
+| C-Terminus
+| style="background: #FFC7CE;" | Current reduction by ~50%
+| <ref name="Singh_2003"/>
+|-
+! c.G998A
+! R333Q
+| C-Terminus
+| style="background: #FFC7CE;" | Current reduction by ~40%
+| <ref name="Singh_2003"/>
+|-
+! c.T1016G
+! R339L
+| C-Terminus
+| 
+| <ref name="Moulard_2001"/>
+|-
+! c.1118+1G→A
+! [[Splicing (genetics)|Splicing]]
+| C-Terminus
+| 
+| <ref name="Claes_2004"/>
+|-
+! c.[[Intron]] 8_[[3' UTR]] del
+! Deletion 382→[[3' UTR]]
+| C-Terminus
+| 
+| <ref name="Singh_2003"/><sup>,</sup><ref name="Singh_1998"/>
+|-
+! c.1217+2T→G
+! [[Splicing (genetics)|Splicing]]
+| C-Terminus
+| 
+| <ref name="Lee_2000">{{cite journal | author = Lee W, Biervert C, Hallmann K, Tay A, Dean J, Steinlein O | title = A KCNQ2 splice site mutation causing benign neonatal convulsions in a Scottish family | journal = Neuropediatrics | volume = 31 | issue = 1 | pages = 9–12 | year = 2000 | pmid = 10774989 | doi = 10.1055/s-2000-15290}}</ref>
+|-
+! c.C1342T
+! R448X
+| C-Terminus
+| style="background: #FFC7CE;" | Current reduction by ~40%
+| <ref name="Singh_2003"/><sup>,</sup><ref name="Moulard_2001"/>
+|-
+! c.1369_1370delAA
+! K457EfsX458
+| C-Terminus
+| 
+| <ref name="Pereira_2004">{{cite journal | author = Pereira S, Roll P, Krizova J, Genton P, Brazdil M, Kuba R, Cau P, Rektor I, Szepetowski P | title = Complete loss of the cytoplasmic carboxyl terminus of the KCNQ2 potassium channel: a novel mutation in a large Czech pedigree with benign neonatal convulsions or other epileptic phenotypes | journal = Epilepsia | volume = 45 | issue = 4 | pages = 384–90 | year = 2004 | pmid = 15030501 | doi = 10.1111/j.0013-9580.2004.47703.x}}</ref>
+|-
+! c.1564_1576del
+! S522fsX524
+| C-Terminus
+| 
+| <ref name="Singh_2003"/><sup>,</sup><ref name="Singh_1998"/>
+|-
+! c.1600_1601insGCCCT
+! Y534fsX538
+| C-Terminus
+| style="background: #FFC7CE;" | No current due to no trafficking
+| <ref name="Schwake_2000"/><sup>,</sup><ref name="Schroeder_1998"/><sup>,</sup><ref name="Biervert_1998">{{cite journal | author = Biervert C, Schroeder B, Kubisch C, Berkovic S, Propping P, Jentsch T, Steinlein O | title = A potassium channel mutation in neonatal human epilepsy | journal = Science | volume = 279 | issue = 5349 | pages = 403–6 | year = 1998 | pmid = 9430594 | doi = 10.1126/science.279.5349.403}}</ref>
+|-
+! c.1630-1G→A
+! [[Splicing (genetics)|Splicing]]
+| C-Terminus
+| 
+| <ref name="Singh_2003"/><sup>,</sup><ref name="Singh_1998"/>
+|-
+! c.G1658A
+! R553Q
+| C-Terminus
+| 
+| <ref name="Moulard_2001"/>
+|-
+! c.G1662T[[#asterisks|*]]
+! K554N
+| C-Terminus
+| style="background: #FFC7CE;" | Decreased voltage sensitivity of activation
+| <ref name="Borgatti_2004">{{cite journal | author = Borgatti R, Zucca C, Cavallini A, Ferrario M, Panzeri C, Castaldo P, Soldovieri M, Baschirotto C, Bresolin N, Dalla Bernardina B, Taglialatela M, Bassi M | title = A novel mutation in KCNQ2 associated with BFNC, drug resistant epilepsy, and mental retardation | journal = Neurology | volume = 63 | issue = 1 | pages = 57–65 | year = 2004 | pmid = 15249611}}</ref>
+|-
+! c.C1741T
+! R581X
+| C-Terminus
+| 
+| <ref name="Singh_2003"/>
+|-
+! c.1764-6C→A
+! [[Splicing (genetics)|Splicing]] (V589X)
+| C-Terminus
+| 
+| <ref name="de_Haan_2006">{{cite journal | author = de Haan G, Pinto D, Carton D, Bader A, Witte J, Peters E, van Erp G, Vandereyken W, Boezeman E, Wapenaar M, Boon P, Halley D, Koeleman B, Lindhout D | title = A novel splicing mutation in KCNQ2 in a multigenerational family with BFNC followed for 25 years | journal = Epilepsia | volume = 47 | issue = 5 | pages = 851–9 | year = 2006 | pmid = 16686649 | doi = 10.1111/j.1528-1167.2006.00552.x}}</ref>
+|-
+! c.1931delG
+! S644TfsX901(extX56)
+| C-Terminus
+|
+| <ref name="Tang_2004">{{cite journal | author = Tang B, Li H, Xia K, Jiang H, Pan Q, Shen L, Long Z, Zhao G, Cai F | title = A novel mutation in KCNQ2 gene causes benign familial neonatal convulsions in a Chinese family | journal = J Neurol Sci | volume = 221 | issue = 1–2 | pages = 31–4 | year = 2004 | pmid = 15178210 | doi = 10.1016/j.jns.2004.03.001}}</ref>
+|-
+! c.1959del?
+! T653fsX929(extX56)
+| C-Terminus
+| 
+| <ref name="Singh_2003"/>
+|-
+! c.2127delT
+! P709fs929X(extX57)
+| C-Terminus
+| style="background: #FFC7CE;" | No current due to increased [[proteolysis|degradation]]
+| <ref name="Soldovieri_2006"/><sup>,</sup><ref name="Coppola_2003">{{cite journal | author = Coppola G, Castaldo P, Miraglia del Giudice E, Bellini G, Galasso F, Soldovieri M, Anzalone L, Sferro C, Annunziato L, Pascotto A, Taglialatela M | title = A novel KCNQ2 K+ channel mutation in benign neonatal convulsions and centrotemporal spikes | journal = Neurology | volume = 61 | issue = 1 | pages = 131–4 | year = 2003 | pmid = 12847176}}</ref><sup>,</sup><ref name="Zimprich_2006">{{cite journal | author = Zimprich F, Ronen G, Stögmann W, Baumgartner C, Stögmann E, Rett B, Pappas C, Leppert M, Singh N, Anderson V | title = Andreas Rett and benign familial neonatal convulsions revisited | journal = Neurology | volume = 67 | issue = 5 | pages = 864–6 | year = 2006 | pmid = 16966552 | doi = 10.1212/01.wnl.0000234066.46806.90}}</ref>
+|-
+! c.2597delG
+! G866AfsX929(extX56)
+| C-Terminus
+| style="background: #FFC7CE;" | Current decreased by ~95% due to increased [[proteolysis|degradation]]
+| <ref name="Soldovieri_2006"/><sup>,</sup><ref name="Coppola_2003"/><sup>,</sup><ref name="Lerche_1999">{{cite journal | author = Lerche H, Biervert C, Alekov A, Schleithoff L, Lindner M, Klinger W, Bretschneider F, Mitrovic N, Jurkat-Rott K, Bode H, Lehmann-Horn F, Steinlein O | title = A reduced K+ current due to a novel mutation in KCNQ2 causes neonatal convulsions | journal = Ann Neurol | volume = 46 | issue = 3 | pages = 305–12 | year = 1999 | pmid = 10482260 | doi = 10.1002/1531-8249(199909)46:3<305::AID-ANA5>3.0.CO;2-5}}</ref>
+|-
+! c.2599_2600insGGGCC
+! W867fsX931(extX58)
+| C-Terminus
+| style="background: #FFC7CE;" | Current reduction by ~75%
+| <ref name="Singh_2003"/>
+|-
+| colspan="5" | <div id="asterisks">* Misreported (twice in the same article) as G1662A (G1620A in the original numbering), which would not cause an amino acid change.</div>
+|-
+| colspan="5" | '''N.B.''' Mutations nucleotide/amino acid positions in terms of transcript variant 1 ([http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=nucleotide&val=110611240 NM_172107]) available from [[Pubmed]]. Consequently, some mutation positions differ from those reported in the original literature.
+|}
+
+===BFNC2===
+Shortly after the discovery of mutations in KCNQ2 related to BFNE, a novel voltage-gated potassium channel was found that is highly homologous to KCNQ2 and contains mutations also associated with BFNE. This gene, KCNQ3, contains 3 known mutations associated with BFNE, all within the pore region of the channel. The first of these mutations, G310V, leads to a 50% reduction in whole-cell current compared to cells expressing wild-type channels.<ref name="Singh_2003"/><ref name="Schroeder_1998"/><ref name="Charlier_1998">{{cite journal | author = Charlier C, Singh N, Ryan S, Lewis T, Reus B, Leach R, Leppert M | title = A pore mutation in a novel KQT-like potassium channel gene in an idiopathic epilepsy family | journal = Nat Genet | volume = 18 | issue = 1 | pages = 53–5 | year = 1998 | pmid = 9425900 | doi = 10.1038/ng0198-53}}</ref> The reason for this change is unknown as the mutation does not lead to altered protein trafficking.<ref name="Schwake_2000"/>
+
+A second mutation, W309G, has also been found to be associated with BFNE. This mutation was only found in one family and has not been further characterized.<ref name="Hirose_2000">{{cite journal | author = Hirose S, Zenri F, Akiyoshi H, Fukuma G, Iwata H, Inoue T, Yonetani M, Tsutsumi M, Muranaka H, Kurokawa T, Hanai T, Wada K, Kaneko S, Mitsudome A | title = A novel mutation of KCNQ3 (c.925T-->C) in a Japanese family with benign familial neonatal convulsions | journal = Ann Neurol | volume = 47 | issue = 6 | pages = 822–6 | year = 2000 | pmid = 10852552 | doi = 10.1002/1531-8249(200006)47:6<822::AID-ANA19>3.0.CO;2-X}}</ref>
+
+The final known BFNC2 mutation, D305G is also in the pore region of the channel. This mutation leads to an approximately 40% reduction in whole-cell current compared to wild-type expressing cells. The underlying mechanism for this current decrease has not been further delineated.<ref name="Singh_2003"/>
+
+===BFNC3===
+The rarest cause of BFNE, occurring in only one known family, is a [[chromosome inversion|chromosomal inversion]]. This occurs on [[chromosome 5]] and the inversion is of the p15 through q11 area. Affected individuals, thus, have the [[karyotype]] 46,XY,inv(5)(p15q11). Why this inversion leads to the BFNE phenotype is unknown.<ref name="Concolino_2002">{{cite journal | author = Concolino D, Iembo M, Rossi E, Giglio S, Coppola G, Miraglia Del Giudice E, Strisciuglio P | title = Familial pericentric inversion of chromosome 5 in a family with benign neonatal convulsions | journal = J Med Genet | volume = 39 | issue = 3 | pages = 214–6 | year = 2002 | pmid = 11897828 | doi = 10.1136/jmg.39.3.214 | pmc = 1735071}}</ref>
+
+==Treatment/Management==
+Neonatal seizures are often controlled with [[phenobarbital]] administration. Recurrent seizures later in life are treated in the standard ways (covered in the main [[Epilepsy#Treatment|epilepsy article]]).  Depending on the severity, some infants are sent home with heart and oxygen monitors that are hooked to the child with stick on electrodes to signal any seizure activity.  Once a month the monitor readings are downloaded into a central location for the doctor to be able to read at a future date.  This monitor is only kept as a safeguard as usually the medication wards off any seizures.  Once the child is weaned off the phenobarbital, the monitor is no longer necessary.
+
+==History==
+BFNE was first described in 1964 by Andreas Rett<ref name="Rett_1964">{{cite journal | author = Rett A, Teubel R | title = Neugeborenenkrämpfe im Rahmen einer epileptisch belasteten Familie | journal = Wien Klin Wochenschr | volume = 74 | issue = | pages = 609–13 | year = 1964 | id = }}</ref> and named by another group four years later.<ref name="Bjerre_1968">{{cite journal | author = Bjerre I, Corelius E | title = Benign familial neonatal convulsions | journal = Acta Paediatr Scand | volume = 57 | issue = 6 | pages = 557–61 | year = 1968 | pmid = 5706374 | doi = 10.1111/j.1651-2227.1968.tb06980.x}}</ref> Andreas Rett is better known for his later characterization of [[Rett syndrome]].<ref name="Zimprich_2006"/>
+
+==References==
+* {{cite journal | author = Mulley J, Scheffer I, Petrou S, Berkovic S | title = Channelopathies as a genetic cause of epilepsy | journal = Curr Opin Neurol | volume = 16 | issue = 2 | pages = 171–6 | year = 2003 | pmid = 12644745 | doi = 10.1097/00019052-200304000-00009}}
+
+* {{cite journal | author = Gardiner M | title = Genetics of idiopathic generalized epilepsies | journal = Epilepsia | volume = 46 Suppl 9 | issue = | pages = 15–20 | year = 2005| pmid = 16302872 | doi = 10.1111/j.1528-1167.2005.00310.x}}
+
+==Footnotes==
+{{Reflist|2}}
+
+{{Seizures and epilepsy}}
+{{Channelopathy}}
+[[Category:Channelopathy]]
+[[Category:Epilepsy types]]

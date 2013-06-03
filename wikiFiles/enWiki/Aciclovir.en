@@ -1,0 +1,179 @@
+<!--Please do not change "aciclovir" to "acyclovir". "Aciclovir" is the International Nonproprietary Name, and is thus preferred. -->
+{{Drugbox
+| verifiedrevid = 477240648
+| IUPAC_name = 2-Amino-1,9-dihydro-9-((2-hydroxyethoxy)methyl)-6''H''-purin-6-one
+| image = Aciclovir standard.svg
+| image2 = Acyclovir 3D.png
+
+<!--Clinical data-->
+| tradename = Zovirax
+| Drugs.com = {{drugs.com|monograph|acyclovir}}
+| MedlinePlus = a681045
+| licence_US = Acyclovir
+| pregnancy_AU = B3
+| pregnancy_US = B
+| pregnancy_category = 
+| legal_AU = S4
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = [[intravenous therapy|Intravenous]], oral, topical
+
+<!--Pharmacokinetic data-->
+| bioavailability = 10–20% (oral)
+| protein_bound = 9–33%
+| metabolism = Viral thymidine kinase
+| elimination_half-life = 2.2–20 hours
+| excretion = [[Renal]]
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 59277-89-3
+| ATC_prefix = J05
+| ATC_suffix = AB01
+| ATC_supplemental =  {{ATC|D06|BB03}} {{ATC|S01|AD03}}
+| PubChem = 2022
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00787
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 1945
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = X4HES1O11F
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00222
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2453
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 184
+
+<!--Chemical data-->
+ | C=8 | H=11 | N=5 | O=3 
+| molecular_weight = 225.21 g/mol
+| smiles = O=C2/N=C(\Nc1n(cnc12)COCCO)N
+| InChI = 1/C8H11N5O3/c9-8-11-6-5(7(15)12-8)10-3-13(6)4-16-2-1-14/h3,14H,1-2,4H2,(H3,9,11,12,15)
+| InChIKey = MKUXAQIIEYXACX-UHFFFAOYAG
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H11N5O3/c9-8-11-6-5(7(15)12-8)10-3-13(6)4-16-2-1-14/h3,14H,1-2,4H2,(H3,9,11,12,15)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MKUXAQIIEYXACX-UHFFFAOYSA-N
+| synonyms = acycloguanosine
+| melting_point = 256.5
+}}
+[[Image:Guanosine-acyclovir-comparison.png|200px|thumb|Structures of [[guanosine]] and aciclovir compared]]
+
+'''Aciclovir''' ([[International Nonproprietary Name|INN]]) ({{IPAc-en|icon|eɪ|ˈ|s|aɪ|k|l|ɵ|v|ɪər}}) or '''acyclovir''' ([[United States Adopted Name|USAN]], former [[British Approved Name|BAN]]), chemical name '''acycloguanosine''', abbreviated as '''ACV''',<ref name=deClercq2005>{{Cite news
+ | last = de Clercq | first = Erik | last2 = Field | first2 = Hugh J
+ | publication-date = January 2006 | date = 5 October 2005 | title = Antiviral prodrugs – the development of successful prodrug strategies for antiviral chemotherapy
+ | periodical = [[British Journal of Pharmacology]] | publisher = Wiley-Blackwell
+ | volume = 147 | issue = 1
+ | pages = 1–11| url =  | issn =
+ | pmid= 16284630 | pmc= 1615839 | doi = 10.1038/sj.bjp.0706446
+ | postscript = <!--None-->
+}}</ref>
+is a [[guanosine]] [[nucleic acid analogues|analogue]] [[antiviral drug]], marketed under trade names such as ''Cyclovir'', ''Herpex'', ''Acivir'', ''Acivirax'', ''Zovirax'', ''Zoral'', and ''Xovir''. One of the most commonly used antiviral drugs, it is primarily used for the treatment of [[herpes simplex virus]] infections, as well as in the treatment of [[varicella zoster virus|varicella zoster (chickenpox)]] and [[herpes zoster|herpes zoster (shingles)]]. 
+
+==History==
+Aciclovir was seen as the start of a new era in antiviral therapy,<ref name=deClercq2005/> as it is extremely selective and low in [[cytotoxicity]]. [[Nucleoside]]s isolated from a Caribbean [[sponge (animal)|sponge]], ''[[Cryptotethya crypta]]'', were the basis for the synthesis of aciclovir.<ref>{{cite book|last=Garrison|first=Tom|title=Oceanography: An Invitation to Marine Science, 3rd ed.|year=1999|publisher=Wadsworth Publishing Company|location=Belmont, CA|pages=471}}</ref><ref name=bioactive>{{Cite doi|10.1081/TXR-100100318}}</ref><ref name=Laport2009>{{Cite pmid|19149592}}</ref> It was codiscovered by Howard Schaffer following his work with Robert Vince, S. Bittner and S. Gurwara on the adenosine analog acycloadenosine which showed promising antiviral activity.<ref>{{cite journal|last=Schaffer|first=Howard|coauthors=Robert Vince, S. Bittner, S. Gurwara|title=Novel substrate of adenosine deaminase|journal=Journal of Medicinal Chemistry|year=1971|volume=14|issue=4|pages=367–369|doi=10.1021/jm00286a024|pmid=5553754}}</ref>  Later, Schaffer joined Burroghs-Wellcome and continued the development of aciclovir with [[Pharmacology|Pharmacologist]] [[Gertrude B. Elion]].<ref>{{cite journal|last=Elion|first=Gertrude|coauthors=Furman, Fyfe, Miranda, Beauchamp and Schaffer|journal=Proc Natl Acad Sci USA|year=1977|volume=74|issue=12|pages=5716–5720|title= Selectivity of action of an antiherpetic agent, 9-(2-hydroxyethoxymethyl)guanine | pmid=202961 | pmc=431864|doi=10.1073/pnas.74.12.5716}}</ref>  Vince later went on to invent [[abacavir]], an [[Reverse-transcriptase inhibitor#Nucleoside analog reverse-transcriptase inhibitors (NARTIs or NRTIs)|nRTI]] drug for HIV patients.<ref>Vince, R. "A brief history of the development of Ziagen" Chemtracts 2008, 21, 127–134.</ref> Elion was awarded the 1988 [[Nobel Prize in Physiology or Medicine|Nobel Prize in Medicine]], partly for the development of aciclovir. Dr. Richard Whitley, a [[University of Alabama at Birmingham]] researcher and pioneer in antiviral therapy, was the first to successfully use the drug in humans.
+
+==Pharmacology==
+===Mechanism of action===
+Aciclovir differs from previous [[nucleoside analogues]] in containing only a partial [[nucleoside]] structure: the [[pentose|sugar ring]] is replaced with an open-chain structure. It is selectively converted into acyclo-[[guanosine monophosphate]] (acyclo-GMP) by viral [[thymidine kinase]], which is far more effective (3000 times) in [[phosphorylation]] than cellular thymidine kinase. Subsequently, the ''monophosphate'' form is further phosphorylated into the active ''triphosphate'' form, acyclo-[[guanosine triphosphate]] (acyclo-GTP), by cellular [[kinase]]s. Acyclo-GTP has approximately 100 times greater affinity for viral than cellular polymerase.  As a substrate, acyclo-GTP is incorporated into viral DNA, resulting in premature [[protein biosynthesis#Transcription|chain termination]]. Although aciclovir resembles a nucleotide, it has no 3' end. Therefore, after its incorporation into a growing DNA strand, no further nucleotides can be added to this strand.  It has also been shown that viral [[enzyme]]s cannot remove acyclo-GTP from the chain, which results in inhibition of further activity of DNA polymerase. Acyclo-GTP is fairly rapidly [[metabolism|metabolised]] within the cell, possibly by cellular [[phosphatase]]s. 
+
+In sum, aciclovir can be considered a [[prodrug]]: it is administered in an inactive (or less active) form and is metabolised into a more active species after administration.
+
+===Microbiology===
+Aciclovir is active against most species in the [[herpesvirus]] family. In descending order of activity:<ref name="OBrien1989">{{cite journal |title=Aciclovir. An updated review of its antiviral activity, pharmacokinetic properties and therapeutic efficacy |journal=Drugs |year=1989 |volume=37 |issue=3 |pages=233–309 |pmid=2653790 |author=O'Brien JJ, Campoli-Richards DM.}}</ref>
+*[[Herpes simplex virus]] type I (HSV-1)
+*[[Herpes simplex virus]] type II (HSV-2)
+*[[Varicella zoster virus]] (VZV)
+*[[Epstein-Barr virus]] (EBV)
+*[[Cytomegalovirus]] (CMV)  – least activity
+
+Activity is predominantly against HSV, and to a lesser extent VZV. It is only of limited efficacy against EBV and CMV. It is inactive against latent viruses in [[ganglion|nerve ganglia]].
+
+===Resistance===
+Resistance to aciclovir is rare, but is more common in patients on chronic antiviral prophylaxis (transplant recipients, people with [[AIDS|acquired immunodeficiency syndrome]] due to HIV infection). Mechanisms of resistance in HSV include deficient viral thymidine kinase; and mutations to viral thymidine kinase and/or DNA polymerase, altering substrate sensitivity.<ref name="Martindale34">Sweetman S, editor. Martindale: The complete drug reference. 34th ed. London: Pharmaceutical Press; 2004. ISBN 0-85369-550-4</ref>  Aciclovir has also shown cross-resistance with [[valaciclovir]] and [[famciclovir]].
+
+== Pharmacokinetics ==
+Aciclovir is poorly water soluble and has poor oral [[bioavailability]] (15–30%), hence [[intravenous]] administration is necessary if high concentrations are required. When orally administered, peak plasma concentration occurs after 1–2 hours. Aciclovir has a high distribution rate; protein binding is reported to range from 9 to 33%.<ref name="emc SPC">[http://www.medicines.org.uk/EMC/medicine/23721/SPC/Aciclovir+Tablets+BP+400mg Aciclovir Tablets BP 400mg - Summary of Product Characteristics (SPC) - (eMC)<!-- Bot generated title -->]</ref> The [[elimination half-life]] of aciclovir is approximately 3 hours. It is renally excreted, partly by [[Renal physiology#Glomerular filtration|glomerular filtration]] and partly by [[Renal physiology#Tubular secretion|tubular secretion]].
+
+The poor oral bioavailability may also be improved by administering [[valaciclovir]], which has an oral bioavailability of about 55%. Valaciclovir is then converted to aciclovir by esterases via hepatic [[first-pass metabolism]].
+
+==Clinical use==
+
+[[Image:Acyclovir pills.jpg|thumb|400 mg pills of aciclovir]]
+[[File:Aciclovir substance photo.jpg|thumb|Photo of pure Aciclovir]]
+
+=== Indications ===
+Aciclovir is indicated for the treatment of HSV and VZV infections, including:<ref name="AMH2006">Rossi S, editor. [[Australian Medicines Handbook]] 2006. Adelaide: Australian Medicines Handbook; 2006. ISBN 0-9757919-2-3</ref>
+* Genital [[herpes simplex]] (treatment and [[prophylaxis]])
+* Herpes simplex labialis ([[cold sores]])
+* [[Herpes zoster]] (shingles)
+* Acute [[chickenpox]] in [[immunodeficiency|immunocompromised]] [[patient]]s
+* [[Herpes simplex encephalitis]]
+* Acute mucocutaneous HSV infections in immunocompromised patients
+* [[Herpes of the eye|Herpes simplex keratitis]] (ocular herpes)
+* Herpes simplex [[blepharitis]]  (not to be mistaken with ocular herpes)
+* Prophylaxis against herpesviruses in immunocompromised patients (such as patients undergoing cancer chemotherapy)<ref name="Cancer">{{cite journal |author=Elad S, Zadik Y, Hewson I, ''et al.'' |title=A systematic review of viral infections associated with oral involvement in cancer patients: a spotlight on Herpesviridea |journal=Support Care Cancer |volume=18 |issue=8 |pages=993–1006 |year=2010 |month=August |pmid=20544224 |doi=10.1007/s00520-010-0900-3}}</ref>
+
+It has been claimed that the evidence for the effectiveness of topically applied cream for recurrent labial outbreaks is weak.<ref>{{cite journal 
+| author=Graham Worrall 
+| title=Evidence for efficacy of topical acyclovir in recurrent herpes labialis is weak 
+| journal=BMJ | year=1996 | month=July | volume=313 | page=46 |pmc=2351426 | pmid=8664786
+| issue=7048 
+| doi=10.1136/bmj.313.7048.46a}} – Letter
+</ref>
+An earlier review of scientific literature showed there is some effect in reducing the number and duration of lesions if aciclovir is applied at an early stage of an outbreak.<ref>{{cite journal | author=Graham Worrall | title=Acyclovir in recurrent herpes labialis | journal=BMJ | year=1996 | month=6 Jan | volume=312 | page=6 | url=http://www.bmj.com/cgi/content/full/312/7022/6 | pmid=8555890 | issue=7022 | pmc=2349724 | doi=10.1136/bmj.312.7022.6}} – Editorial</ref>  
+However, oral therapy for episodes was found to be  inappropriate for most nonimmunocompromised patients based on costs and benefits, presumably in countries where aciclovir is only available on prescription. There is evidence for an oral prophylactic role in preventing recurrences.
+
+Aciclovir trials show that this agent has no role in preventing [[HIV]] transmission, but it can help slow HIV disease progression in people not taking [[Management of HIV/AIDS|anti-retroviral therapy (ART)]]. This finding emphasizes the importance of testing simple, inexpensive non-ART strategies, such as aciclovir and [[Trimethoprim/sulfamethoxazole|cotrimoxazole]], in people with HIV.<ref>{{cite journal|last=Mascolinli|first=M|coauthors=Kort, R|title=5th International AIDS Society Conference on HIV Pathogenesis, Treatment and Prevention: summary of key research and implications for policy and practice - biomedical prevention.|journal=Journal of the International AIDS Society|date=2010 Jun 1|volume=13 Suppl 1|pages=S4|pmid=20519025}}</ref>
+
+=== Dosage and route ===
+Aciclovir is commonly marketed as tablets (200&nbsp;mg, 400&nbsp;mg, 800&nbsp;mg and 1&nbsp;gram),<ref>http://xpil.medicines.org.uk/ViewPil.aspx?DocID=18026</ref> topical cream (5%), intravenous injection (25&nbsp;mg/mL) and ophthalmic ointment (3%). 
+* Cream preparations are used primarily for [[lip|labial]] herpes simplex. 
+* The ophthalmic ointment preparation is only used for [[Herpes of the eye|herpes simplex keratitis]].
+* The intravenous injection is used when high concentrations of aciclovir are required such as in in [[Herpesviral encephalitis|HSV encephalitis]], [[Acute retinal necrosis]], and disseminated [[zoster]] disease.<ref name=razonable>{{cite journal|last=Razonable|first=RR|title=Antiviral drugs for viruses other than human immunodeficiency virus.|journal=Mayo Clinic proceedings. Mayo Clinic|date=2011 Oct|volume=86|issue=10|pages=1009-26|pmid=21964179}}</ref>
+
+== Adverse effects ==
+===Systemic therapy===
+Common [[adverse drug reaction]]s (≥1% of patients) associated with systemic aciclovir therapy (oral or IV) include: nausea, vomiting, diarrhea and/or headache. In high doses, [[hallucination]]s have been reported. Infrequent adverse effects (0.1–1% of patients) include: agitation, [[vertigo (medical)|vertigo]], confusion, dizziness, [[oedema]], [[arthralgia]], sore throat, constipation, abdominal pain, hair loss, rash and/or weakness. Rare adverse effects (<0.1% of patients) include: coma, seizures, [[neutropenia]], [[leukopenia]], [[crystalluria]], [[anorexia (symptom)|anorexia]], fatigue, [[hepatitis]], [[Stevens–Johnson syndrome]], [[toxic epidermal necrolysis]] and/or [[anaphylaxis]].<ref name="AMH2006" />
+
+Additional common adverse effects, when aciclovir is administered IV, include [[encephalopathy]] (1% of patients) and injection site reactions. The injection formulation is [[alkaline]] ([[pH]] 11), and [[extravasation]] may cause local tissue pain and irritation.<ref name="AMH2006" />
+
+Intravenous acyclovir may cause reversible nephrotoxicity in 5% to 10% of patients because of precipitation of acyclovir crystals in kidney. Acyclovir crystalline nephropathy is more common when acyclovir is given as a rapid infusion and in patients with dehydration and preexisting renal impairment. Adequate hydration, a slower rate of infusion, and dosing based on renal function may reduce this risk.<ref name=razonable/><ref name="pmid6285711">{{cite journal |author=Brigden D, Rosling AE, Woods NC |title=Renal function after acyclovir intravenous injection |journal=The American Journal of Medicine |volume=73 |issue=1A |pages=182–5 |year=1982 |month=July |pmid=6285711 |doi= 10.1016/0002-9343(82)90087-0|url=}}</ref><ref name="pmid3376977">{{cite journal |author=Sawyer MH, Webb DE, Balow JE, Straus SE |title=Acyclovir-induced renal failure. Clinical course and histology |journal=The American Journal of Medicine |volume=84 |issue=6 |pages=1067–71 |year=1988 |month=June |pmid=3376977 |doi= 10.1016/0002-9343(88)90313-0|url=}}</ref>
+
+===Topical therapy===
+Aciclovir topical cream is commonly associated (≥1% of patients) with: dry or flaking skin or transient stinging/burning sensations. Infrequent adverse effects include [[erythema]] or itch.<ref name="AMH2006" /> When applied to the eye, aciclovir is commonly associated (≥1% of patients) with transient mild stinging. Infrequently (0.1–1% of patients), ophthalmic aciclovir is associated with superficial [[punctate keratitis]] or allergic reactions.<ref name="AMH2006" />
+
+===Toxicity===
+Since cellular [[DNA]] can incorporate aciclovir into itself, the drug acts as a [[chromosome]] [[mutagen]]; therefore it ''"...should not be used during pregnancy unless the potential benefit justifies the potential risk to the foetus..."''<ref>[http://www.medsafe.govt.nz/profs/datasheet/g/Globalaciclovirtab.htm GLOBAL ACYCLOVIR], Medsafe Website</ref>  However, it has not been shown to have any [[teratogen]]ic or [[carcinogen]]ic effects and is frequently prescribed for pregnant women, to prevent transmission of HSV to the neonate.{{Citation needed|date=May 2008}} The acute toxicity ({{LD50}}) of aciclovir when given orally is greater than 1 g/kg, due to its low oral bioavailability.{{Citation needed|date=May 2008}} Patients with renal impairment often exhibit elimination half-lives for the drug that are five to six times longer than in those with normal renal function, leading to accumulation of aciclovir in the plasma and the likelihood of development of toxic reactions, such as lethargy, confusion and [[myoclonus]].<ref name="DT8">R. Baselt, ''Disposition of Toxic Drugs and Chemicals in Man'', 8th edition, Biomedical Publications, Foster City, CA, 2008, pp. 29–31.</ref>
+
+[[Cotard delusion]] has also been the result of adverse drug reactions to aciclovir. The symptoms were associated with high serum concentrations of  9-carboxymethoxymethylguanine (CMMG), the principal metabolite of aciclovir.
+
+===Detection in biological fluids===
+Aciclovir may be quantitated in plasma or serum to monitor for drug accumulation in patients with renal dysfunction or to confirm a diagnosis of poisoning in acute overdose victims.<ref name="DT8" />
+
+== See also ==
+*[[Idoxuridine]]
+
+==References==
+{{reflist|30em}}
+
+== Further reading ==
+* Harvey Stewart C. in Remington’s Pharmaceutical Sciences 18th edition: (ed. Gennard, Alfonso R.)  Mack Publishing Company, 1990.  ISBN 0-912734-04-3.
+* Huovinen P., Valtonen V. in Kliininen Farmakologia (ed. Neuvonen ''et al.'').  Kandidaattikustannus Oy, 1994.  ISBN 951-8951-09-8.
+* Périgaud C., Gosselin G., Imbach J. -L.: Nucleoside analogues as chemotherapeutic agents: a review.  Nucleosides and nucleotides 1992; 11(2–4)
+* Rang H.P., Dale M.M., Ritter J.M.: Pharmacology, 3rd edition.  Pearson Professional Ltd, 1995. 2003 (5th) edition ISBN 0-443-07145-4; 2001 (4th) edition ISBN 0-443-06574-8; 1990 edition ISBN 0-443-03407-9.
+
+== External links ==
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Acyclovir U.S. National Library of Medicine: Drug Information Portal – Aciclovir]
+
+{{Antibiotics and chemotherapeutics for dermatological use}}
+{{Antivirals}}
+{{GlaxoSmithKline}}
+[[Category:Antivirals]]
+[[Category:GlaxoSmithKline brands]]
+[[Category:Purines]]
+[[Category:World Health Organization essential medicines]]

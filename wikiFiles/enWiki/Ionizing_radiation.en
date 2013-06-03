@@ -1,0 +1,336 @@
+[[Image:Radioactive.svg|thumb|Ionizing radiation hazard symbol]]
+[[File:Logo iso radiation.svg|thumb|right|2007 ISO [[radioactivity]] danger logo. The red background is intended to convey urgent danger, and the sign is intended to be used in long-term [[radioactive waste]] depositories, which might survive into a distant future where other danger symbols may be forgotten or misinterpreted.]]
+
+'''Ionizing''' (or '''ionising''') '''radiation''' is [[radiation]] composed of particles that individually carry enough [[kinetic energy]] to liberate an [[electron]] from an [[atom]] or [[molecule]], [[ionization|ionizing]] it. Ionizing radiation is generated through nuclear reactions, either artificial or natural, by very high temperature (e.g. [[plasma (physics)|plasma]] discharge or the [[corona]] of the Sun), via production of high energy particles in [[particle accelerators]], or due to acceleration of charged particles by the electromagnetic fields produced by natural processes, from lightning to [[supernova]] explosions. 
+
+When ionizing radiation is emitted by or absorbed by an atom, it can liberate an [[atomic particle]] (typically an electron, [[proton]], or [[neutron]], but sometimes an entire [[Atomic nucleus|nucleus]]) from the atom. Such an event can alter chemical bonds and produce [[ions]], usually in [[Ion-pair(radiometric)|ion-pairs]], that are especially chemically reactive. This greatly magnifies the chemical and biological damage per unit energy of radiation because chemical bonds will be broken in this process. If the atom was inside a [[crystal]] lattice in a [[solid phase]], then a "hole" will exist where the original atom was.
+
+Ionizing radiation includes [[cosmic ray]]s, [[Alpha particle]]s, [[Beta particle]]s, [[Gamma ray]]s, [[X-rays]], and in general any charged particle moving at [[relativistic speed]]s. [[Neutron]]s are considered ionizing radiation at any speed. Ionizing radiation includes some portion of the [[ultraviolet]] spectrum, depending on context. [[Radio waves]], [[microwave]]s, [[infrared]] light, and visible [[light]] are normally considered [[non-ionizing radiation]], although very high intensity beams of these radiations can produce sufficient heat to exhibit some similar properties to ionizing radiation, by altering chemical bonds and removing electrons from atoms. 
+
+Ionizing radiation is ubiquitous in the environment, and comes from naturally occurring [[radioactive]] materials and [[cosmic ray]]s. Common artificial sources are artificially produced radioisotopes, [[X-ray tube]]s and [[particle accelerator]]s. Ionizing radiation is invisible and not directly detectable by human senses, so instruments such as [[Geiger counter]]s are usually required to detect its presence. In some cases it may lead to secondary emission of visible light upon interaction with matter, such as in [[Cherenkov radiation]] and [[radioluminescence]]. It has many practical uses in [[medicine]], research, construction, and other areas, but presents a health hazard if used improperly. Exposure to ionizing radiation causes damage to living [[tissue (anatomy)|tissue]], and can result in [[mutation]], [[radiation sickness]], [[cancer]], and [[death]].
+
+==Ionization and the definition problem==
+[[File:Cyclotron with glowing beam.jpg|thumb|250px|right|Ionized air glows blue around a beam of particulate ionizing radiation from a [[cyclotron]]]]
+The boundary between ionizing and [[non-ionizing radiation]] is [[fuzzy logic|fuzzy]].<ref>{{cite web|last=Health Physics Society|title=Is ultraviolet radiation ionizing?|url=http://hps.org/publicinformation/ate/q2111.html|work=Ask the Experts|accessdate=17 June 2012}}</ref> In general, if the characteristic energy ([[kinetic energy]] in the case of massive particles, [[photon energy]] in the case of electromagnetic radiation, or [[mass energy]] in the case of antimatter) of the radiation particles is greater than the [[ionization energy]] of the target material, then each particle collision can be expected to ionize a target atom, no matter how low the power of the beam. This is an appealing [[bright line]] between ionizing and non-ionizing radiation, but it is subject to several caveats:
+# Most targets are composed of a variety of atoms which will have a range of ionization energies.
+# Particles can impart glancing blows that will only transfer part of their energy to the target.
+# Neutron capture can produce much higher energies than the neutron's original kinetic energy.
+# Full ionization and ion-pair production may not be necessary to trigger chemical reactions; the [[activation energy]] may be more relevant.
+# Radiation intensity may increase the frequency of collisions to the point that atoms may ionize from multiple excitations.
+
+The boundary of greatest interest is for low intensity [[photon]] radiation striking organic material. Since the first ionization energy of hydrogen and oxygen are both 14 eV,<ref>[http://www.chemguide.co.uk/atoms/properties/ies.html] elemental ionization energies.</ref> the spectrum of ionizing radiation is commonly defined to start at approximately 10 eV (equivalent to a far [[ultraviolet]] wavelength of 124 [[nanometer]]s).<ref>{{cite web|title=Ionizing Radiation|url=http://hyperphysics.phy-astr.gsu.edu/hbase/nuclear/radrisk.html|accessdate=17 June 2012}}</ref><ref>[http://transition.fcc.gov/Bureaus/Engineering_Technology/Documents/bulletins/oet56/oet56e4.pdf] Questions and Answers about
+Biological Effects and Potential Hazards of Radiofrequency Electromagnetic Fields. OET [[Office of Engineering and Technology]] BULLETIN 56 Fourth Edition August 1999.</ref> Some sources use the ionization energy of air to define the boundary at 33.97 eV (36.50&nbsp;nm).<ref>{{cite book|title=Radiation Oncology Physics: A Handbook for Teachers and Students|year=2005|publisher=International Atomic Energy Agency|location=Vienna|isbn=92–0–107304–6|url=http://www-pub.iaea.org/mtcd/publications/pdf/pub1196_web.pdf|editor=Podgorsak, E. B.|accessdate=25 November 2012}}</ref>{{rp|305}} Others draw a boundary at 100&nbsp;eV (12.4&nbsp;nm).<ref>{{cite book|last1=Choppin |first1=Gregory |first2=Jan-Olov |last2=Liljenzin |first3=Jan |last3=Rydberg |title=Radiochemistry and Nuclear Chemistry|year=2002|publisher=Butterwort-Heinemann|url=http://jol.liljenzin.se/KAPITEL/CH06NY3.PDF|edition=3rd|accessdate=29 November 2012|page=125|chapter=6 - Absorption of Nuclear Radiation}}</ref>  Since the energy of a carbon-carbon bond is 4.9 eV (250&nbsp;nm),<ref>{{cite book|last=Cox|first=James D.|title=Radiation Oncology: Rationale, Technique, Results|year=2010|location=Philadelphia|isbn=978-0-323-04971-9|edition=9th|coauthors=Kie Kian Ang|accessdate=17 June 2012}}</ref> it might be just as reasonable to draw a conservative boundary there. (Although cleavage of such bonds would produce [[free radical]]s, not ions.) All of these figures lie partway within the spectrum of [[ultraviolet]] light. [[X-ray]]s and [[gamma ray]]s are above all of these definitions and are always considered ionizing radiation.
+
+When considering high-intensity long exposure scenarios, as in suntanning, the probability of multiphoton ionization increases.<ref>{{cite web|last=Swanson|first=Jim|title=Photon Energy for Ionization|url=http://www.newton.dep.anl.gov/askasci/phy05/phy05283.htm|work=Newton Ask a Scientist|accessdate=4 November 2012}}</ref> However, ultraviolet light even of low intensity can cause [[radiation burn]]s similar to those produced by x-ray or gamma radiation. This is the result of UV's ability to produce [[free radical]]s and [[reactive oxygen species]] in skin, even at photon energies that do not produce ionization or significant heating. Ultraviolet can also cause damage to skin as a result of [[photochemistry|photoreactions]] in [[collagen]], which are non-ionizing but cause similar types of single-molecule damage. DNA molecules may be directly or indirectly damaged by UV radiation carrying enough energy to excite certain [[molecular bond]]s to form [[thymine dimer]]s ([[pyrimidine dimer]]s) (this causes [[sunburn]]).<ref>J Invest Dermatol. 2012 Feb 9. doi: 10.1038/jid.2011.476. Irradiation of Skin with Visible Light Induces Reactive Oxygen Species and Matrix-Degrading Enzymes. Liebel F, et al. PMID 22318388</ref> The major difference in the effect of ultraviolet and X-rays is that skin is largely opaque to ultraviolet, and therefore protects internal tissues from ultraviolet damage. 
+
+Even microwave radiation, which has a photon energy well below that of visible light and is usually considered non-ionizing, can be considered ionizing if it is intense enough.<ref>{{cite web|last=Shepelyansky|first=Dima|title=Microwave ionization of hydrogen atoms|url=http://www.scholarpedia.org/article/Microwave_ionization_of_hydrogen_atoms|work=Scholarpedia|accessdate=17 June 2012}}</ref>
+
+Truly non-ionizing radiation can still heat materials, cause ordinary burns, and even raise materials to their [[ionization temperature]]. Such heating does not produce [[free radical]]s until higher temperatures (for example, flame temperatures or "browning" temperatures, and above) are attained. In contrast, ionizing radiation produces free radicals, such as [[reactive oxygen species]], even at room temperatures and below. Free radical production is a primary basis for the particular danger to biological systems of relatively small amounts of ionizing radiation that are far smaller than needed to produce significant heating. Free radicals easily damage DNA, and ionizing radiation may also directly damage DNA by ionizing or breaking DNA molecules.
+
+Free neutrons are able to cause many nuclear reactions in a variety of substances no matter their energy, because in many substances they give rise to high-energy [[nuclear reaction]]s, and these (or their products) liberate enough energy to cause ionization. For this reason, free neutrons are normally considered effectively ionizing radiation, at any energy (see [[neutron radiation]]). Examples of other ionizing particles are [[alpha particle]]s, [[beta particle]]s, and [[cosmic ray]]s, including natural [[muon]]s . These charged particles are produced by nuclear decay or stellar explosions, so their kinetic energy inevitably exceeds the ionization threshold of 10 or 33 eV, and commonly exceed thousands or even millions of eV of energy.
+
+==Types of ionizing radiation==
+[[Image:Alfa beta gamma neutron radiation.svg|250px|thumb|Alpha ('''α''') radiation consists of a fast moving [[helium-4]] ([[Helium-4|{{SimpleNuclide|Helium|4}}]]) nucleus and is [[Stopping power (particle radiation)|stopped]] by a sheet of paper. Beta ('''β''') radiation, consisting of [[electron]]s, is halted by an aluminium plate. Gamma ('''γ''') radiation, consisting of energetic [[photon]]s, is eventually absorbed as it penetrates a dense material. Neutron ('''n''') radiation consists of free neutrons that are blocked using light elements, like hydrogen, which slow and/or capture them. Not shown: [[galactic cosmic rays]] that consist of energetic charged nuclei like [[proton]]s, [[helium]] nuclei, and high-charged nuclei called [[HZE ions]].]]
+{{main|particle radiation}}
+Ionizing radiation is categorized by the nature of the particles making up the radiation. The various particles have different ionization mechanisms, and these may be grouped as directly or indirectly ionizing.
+
+===Directly Ionizing===
+Any charged massive particle can ionize atoms [[fundamental interaction|directly]] through [[Coulomb force]]s if it carries sufficient kinetic energy. This includes [[atomic nuclei]], [[electron]]s, [[muon]]s, charged [[pion]]s, [[proton]]s, and energetic charged nuclei stripped of their electrons, all of which must be moving at relativistic speeds in order to carry the required kinetic energy. The first two to be recognized were given special names which persist today: helium nuclei at relativistic speeds are called [[alpha particle]]s, and electrons at relativistic speeds are called [[beta particle]]s. Natural [[cosmic ray]]s are primarily made up of relativistic protons, but also include heavier atomic nuclei like [[helium]] ions and [[HZE ions]] and muons. Charged pions are very short-lived and only seen in large amounts in particle accelerators.
+
+A single charged massive particle can ionize a number of atoms along its path, gradually slowing down and dissipating its kinetic energy. This is a grave concern for astronauts who are outside the [[earth's magnetic field]] who receive solar particles from [[solar proton event]]s and [[galactic cosmic rays]] from cosmic sources. These high-energy charged nuclei are blocked by earth's magnetic field but pose a [[Health threat from cosmic rays|major health concern]] for astronauts traveling to the moon and to any distant location beyond the earth orbit. Highly-charged HZE ions in particular are known to be extremely damaging, although protons make up the vast majority of galactic cosmic rays.
+
+====Beta====
+High-energy beta particles may produce [[bremsstrahlung]] as they pass through matter, or [[secondary electron]]s ([[delta ray]]); both can ionize in turn as an indirect ionization effect. Energetic Beta-particles, like those emitted by <sup>32</sup>P, are quickly decelerated by surrounding matter. The energy lost to deceleration is emitted in the form of X-rays called "bremsstrahlung," which translates to "braking radiation". Bremsstrahlung is of concern when shielding beta emitters. The intensity of bremsstrahlung increases with the increase in energy of the electrons and the atomic number of the absorbing medium.
+
+===Indirectly Ionizing===
+
+====Photons====
+Photon radiation is called [[gamma ray]]s if produced by a [[nuclear reaction]], [[subatomic particle]] decay, or [[radioactive decay]], and is otherwise called [[x-ray]]s if produced outside the nucleus.<ref>{{cite book
+ |last = Feynman
+ |first = Richard
+ |coauthors = Robert Leighton, Matthew Sands
+ |title = The Feynman Lectures on Physics, Vol.1
+ |publisher = Addison-Wesley
+ |year = 1963
+ |location = USA
+ |pages = 2–5
+ |isbn = 0-201-02116-1}}</ref><ref>{{cite book
+ |last = L'Annunziata
+ |first = Michael
+ |coauthors = Mohammad Baradei
+ |title = Handbook of Radioactivity Analysis
+ |publisher = Academic Press
+ |year = 2003
+ |page = 58
+ |url = http://books.google.com/?id=b519e10OPT0C&pg=PA58 |isbn = 0-12-436603-1}}</ref><ref>{{cite book
+ |last = Grupen
+ |first = Claus
+ |coauthors = G. Cowan, S. D. Eidelman, T. Stroh
+ |title = Astroparticle Physics
+ |publisher = Springer
+ |year = 2005
+ |page = 109
+ |isbn = 3-540-25312-2}}</ref> X-rays normally have a lower energy than gamma rays, and an older convention was to define the boundary as a wavelength of 10<sup>−11</sup> m or a photon energy of 100 keV.<ref>{{cite book
+ |last = Charles Hodgman, Ed.
+ |title = CRC Handbook of Chemistry and Physics, 44th Ed.
+ |publisher = Chemical Rubber Co.
+ |year = 1961
+ |location = USA
+ |page = 2850
+}}</ref> That threshold was driven by limitations of older X-ray tubes and low awareness of [[isomeric transition]]s. Modern technologies and discoveries have resulted in a complete overlap between X-ray and gamma energies. In many fields they are functionally identical, differing for terrestrial studies only in origin of the radiation. In astronomy, however, where radiation origin often cannot be reliably determined, the old energy division has been preserved, with X-rays defined as being between about 120 eV and 120 keV, and gamma rays as being of any energy above 100 to 120 keV, regardless of source. Most astronomical "[[gamma-rays|gamma-ray astronomy]]" are known ''not'' to originate in nuclear radioactive processes, but rather result from processes like those that produce astronomical X-rays, except driven by much more energetic electrons. 
+
+Even though photons are electrically neutral, they can ionize atoms directly through the [[photoelectric effect]] and the [[Compton effect]]. Either of those interactions will eject an electron at relativistic speeds, turning it into a beta particle that will ionize many more atoms. Since most of the affected atoms are ionized indirectly by the [[secondary beta]] particles, photons are considered to be indirectly ionizing.<ref>{{cite web|last=European Centre of Technological Safety|title=Interaction of Radiation with Matter|url=http://www.tesec-int.org/TechHaz-site%2008/Radiation-interaction.pdf|work=Radiation Hazard|accessdate=5 November 2012}}</ref>
+
+[[File:Types of radiation.svg|350px|thumb|Types of radiation - gamma rays are represented by wavy lines, charged particles and neutrons by straight lines. The little circles show where ionization processes occur.]] <!-- There is a .svg version of this image, but there are known rendering problems in MediaWiki with text in .svg images-->
+Photoelectric absorption is the dominant mechanism in organic materials for photon energies below 100 keV, typical of classical X-ray tube originated [[X-ray]]s. At energies beyond 100 keV, photons ionize matter increasingly through the [[Compton effect]], and then indirectly through [[pair production]] at energies beyond 5 MeV. The diagram to the right shows two Compton scatterings happening sequentially. In every scattering event, the gamma ray transfers energy to an electron, and it continues on its path in a different direction and with reduced energy.
+
+====Charged nuclei====
+Charged nuclei are characteristic of mainly galactic cosmic rays and solar particle events and have no natural sources on the earth. In space, however, very high energy protons, helium nuclei, and HZE ions can be initially stopped by relatively thin layers of shielding, clothes, or skin. However, the resulting interaction will generate secondary radiation and cause cascading biological effects. If just one atom of tissue is displaced by an energetic proton, for example, the collision will cause further interactions in the body. This is called "[[linear energy transfer]]" (LET) which utilizes [[elastic scattering]]. LET can be visualized as a billiard ball hitting another in the manner of the [[conservation of momentum]], sending both away with the energy of the first ball divided between the two unequally. When a charged nucleus strikes a relatively slow-moving nucleus of an object in space, LET occurs and neutrons, alpha particles, low-energy protons, and other nuclei will be released by the collisions and contribute to the total absorbed dose of tissue.<ref name="NASA/TP-1999-209320">[http://hdl.handle.net/2060/19990051001 Contribution of High Charge and Energy (HZE) Ions During Solar-Particle Event of September 29, 1989] Kim, Myung-Hee Y.; Wilson, John W.; Cucinotta, Francis A.; Simonsen, Lisa C.; Atwell, William; Badavi, Francis F.; Miller, Jack, NASA Johnson Space Center; Langley Research Center, May 1999.</ref>
+
+====Neutrons====
+[[Neutron]]s have zero electrical charge and cannot ''directly'' cause ionization. For the best shielding of neutrons, hydrocarbons are used which have an abundance of [[hydrogen]]. However, fast neutrons will interact with the protons in hydrogen via LET, and this mechanism scatters the nuclei of the materials in the target area. When neutrons strike the hydrogen nuclei, proton radiation ([[proton therapy|fast protons]]) results. These protons are ionizing because they are of high energy, are charged, and interact with the electrons in matter. Neutrons that strike other nuclei besides hydrogen will transfer less energy to the other particle if LET does occur.
+
+But for many nuclei struck by neutrons, [[inelastic scattering]] occurs. Whether elastic or inelastic scatter occurs is dependent on the speed of the neutron, whether [[Neutron temperature|fast]] or [[Neutron temperature|thermal]] or somewhere in between. It is also dependent on the nuclei it strikes and its [[neutron cross section]]. In inelastic scattering, neutrons are readily absorbed in a process called [[neutron capture]] and attributes to the [[neutron activation]] of the nucleus. Neutron interactions with most types of matter in this manner usually produce [[radioactive]] nuclei. The abundant [[isotopes of oxygen|oxygen-16]] nucleus, for example, undergoes neutron activation, rapidly decays by a proton emission forming [[isotopes of nitrogen|nitrogen-16]], which decays to oxygen-16. This process contributes enormously to the radiation generated by a water-cooled [[nuclear reactor]] while operating, because the short-lived nitrogen-16 decay emits a powerful gamma ray and a proton. Another dramatic activation occurs when small amounts of [[cobalt-59]] are activated to [[cobalt-60]], one of the most significant, long-lasting radioactive isotopes of nuclear power generation due to the half-life of <sup>60</sup>Co.
+
+In [[fissile]] materials, secondary neutrons may produce [[nuclear chain reaction]]s, causing a larger amount of ionization from the [[daughter product]]s of fission.
+
+Neutrons of all energies are also radioactive, and thus produce a small amount of ionization via [[beta decay]], which generates a proton and an electron. 
+
+In the diagram to the right, a neutron collides with a proton of the target material, and then becomes a fast recoil proton that ionizes in turn. At the end of its path, the neutron is captured by a nucleus in an (n,γ)-reaction that leads to the emission of a [[neutron capture]] photon. Such photons always have enough energy to qualify as ionizing radiation.
+
+====Antimatter====
+Positrons that are common artificial sources of ionizing radiation in medical [[PET scan]]s, and this is due to the energy of annihilation with electrons in ordinary matter, which produces secondary [[gamma radiation]].
+
+== Effects ==
+{{main|radiation damage}}
+
+=== Nuclear effects ===
+Neutron radiation, alpha radiation, and extremely energetic gamma (> ~20 MeV) can cause [[nuclear transmutation]] and [[induced radioactivity]]. The relevant mechanisms are [[Neutron activation]], [[alpha absorption]], and [[photodisintegration]]. A large enough number of transmutations can change macroscopic properties and cause targets to become radioactive themselves, even after the original source is removed.
+
+=== Chemical effects ===
+{{main|radiation chemistry}}
+Ionization of molecules can lead to [[radiolysis]], (breaking chemical bonds,) and formation of highly reactive [[free radicals]]. These free radicals may then react chemically with neighbouring materials even after the original radiation has stopped. (e.g. [[ozone cracking]] of polymers by ozone formed by ionization of air). Ionizing radiation can disrupt crystal lattices in metals, causing them to become amorphous, with consequent swelling, [[material creep]], and embrittlement. Ionizing radiation can also accelerate existing chemical reactions such as polymerization and corrosion, by contributing to the activation energy required for the reaction. Optical materials darken under the effect of ionizing radiation.
+
+High-intensity ionizing radiation in air can produce a visible [[ionized air glow]] of telltale bluish-purplish color. The glow can be observed e.g. during [[criticality accident]]s, around [[mushroom cloud]]s shortly after a [[nuclear explosion]], or inside of a damaged nuclear reactor like during the [[Chernobyl disaster]].
+
+Monoatomic fluids, e.g. molten [[sodium]], have no chemical bonds to break and no crystal lattice to disturb, so they are immune to the chemical effects of ionizing radiation. Simple diatomic compounds with very negative [[enthalpy of formation]], such as [[hydrogen fluoride]] will reform rapidly and spontaneously after ionization.
+
+=== Electronic effects ===
+Ionization of materials temporarily increases their conductivity, potentially permitting damaging current levels. This is a particular hazard in [[semiconductor]] microelectronics employed in electronic equipment, with subsequent currents introducing operation errors or even permanently damaging the devices. Devices intended for high radiation environments such as the nuclear industry and extra atmospheric (space) applications may be made [[radiation hardening|''radiation hard'']] to resist such effects through design, material selection, and fabrication methods.
+
+Proton radiation found in space can also cause [[Single-event upset]]s in digital circuits.
+
+[[Vacuum tube]]s are much less sensitive to radiation effects.
+
+The electrical effects of ionizing radiation are exploited in gas-filled radiation detectors, e.g. the [[Geiger tube]]. The electrical discharge plasma however tends to cause aging of the gas and/or the detector electrodes.
+
+=== Biological effects ===
+{{main|radiobiology}}
+Ionizing radiation is generally harmful and potentially lethal to living things but can have health benefits in [[radiation therapy]] for the treatment of cancer and [[thyrotoxicosis]]. Its most common impact is the [[radiation-induced cancer|induction of cancer]] with a [[latent period]] of years or decades after exposure. High doses can cause visually dramatic [[radiation burns]], and/or rapid fatality through [[acute radiation syndrome]]. Controlled doses are used for [[medical imaging]] and [[radiotherapy]]. Some scientists suspect that low doses may have a mild [[radiation hormesis|hormetic effect]] that can improve health.<ref>{{cite web|url= http://www.groenerekenkamer.com/grkfiles/images/parsons.pdf|title=RADIATION HORMESIS CHALLENGING LNT THEORY VIA ECOLOGICAL AND EVOLUTIONARY CONSIDERATIONS|work=Publication date 2002|publisher=Health Physics Society|accessdate=2010-12-11}}</ref> 
+
+Some effects of ionizing radiation on human health are [[stochastic]], meaning that their probability of occurrence increases with dose, while the severity is independent of dose. [[Radiation-induced cancer]], [[teratogenesis]], [[Radiation induced cognitive decline|cognitive decline]], and [[heart disease]] are all examples of stochastic effects. Other conditions such as [[radiation burn]]s, [[acute radiation syndrome]], [[chronic radiation syndrome]], and [[radiation-induced thyroiditis]] are [[deterministic]], meaning they reliably occur above a threshold dose, and their severity increases with dose. Deterministic effects are not necessarily more or less serious than stochastic effects; either can ultimately lead to a temporary nuisance or a fatality.
+
+==Measurement==
+The human body cannot sense ionizing radiation except in very high doses, but the effects of ionization can be used to characterize the radiation. Parameters of interest include disintegration rate, particle flux, particle type, beam energy, kerma, dose rate and cummulative dose received by a target. Particle type is determined by differential measurements in the presence of electrical fields, magnetic fields, or varying amounts of shielding. Dose values may represent absorbed, equivalent, effective, or committed dose. The monitoring and calculation of doses to safeguard human health is called [[dosimetry]].
+
+{| class="wikitable"
+|-
+! Quantity !! [[Particle detector]] !! [[CGS units]] !! [[SI units]] !! Other units
+|-
+| Disintegration rate || || [[curie]] || [[becquerel]] ||
+|-
+| Particle [[flux]] || [[geiger counter]], [[proportional counter]], [[scintillator]] || ||  || [[counts per minute]], particles per cm<sup>2</sup> per sec
+|-
+| Energy [[Fluence]] || [[thermoluminescent dosimeter]], [[Film badge dosimeter]] || || {{sfrac|joule|metre<sup>2</sup>}} ||
+|-
+| Beam energy  || [[proportional counter]] ||  [[electronvolt]] || [[joule]] ||
+|-
+| [[Linear energy transfer]] || derived quantity || {{sfrac|MeV|cm}} || || {{sfrac|keV|μm}}
+|-
+| [[Kerma (physics)|Kerma]] || [[ionization chamber]], [[semiconductor detector]], [[quartz fiber dosimeter]], [[Kearny Fallout Meter]] ||  {{sfrac|[[Statcoulomb|esu]]|cm<sup>3</sup>}} || {{sfrac|[[coulomb]]|kilogram}} || [[roentgen (unit)|roentgen]]
+|-
+| [[Absorbed dose]] || [[calorimeter]] || [[rad (unit)|rad]] || [[gray (unit)|gray]] || [[Röntgen equivalent physical|rep]]
+|-
+| [[Equivalent dose]] || derived quantity || [[rem (unit)|rem]] || [[sievert]] ||
+|-
+| [[Effective dose (radiation)|Effective dose]] || derived quantity || [[rem (unit)|rem]] || [[sievert]] || [[Background radiation equivalent time|BRET]]
+|-
+| [[Committed dose]] || derived quantity || [[rem (unit)|rem]] || [[sievert]] || [[banana equivalent dose]]
+|}
+
+Radiation measuring instruments are commonly calibrated to provide readouts of more sophisticated quantities than what is actually measured. For example, most dosimeter give instantaneous readouts of equivalent dose or even effective dose, even though the directly measured quantity is actually fluence or sometimes kerma. Such calibrations make assumptions about the radiation type, beam energy, field uniformity, and [[Range (particle radiation)|range]] based on the expected use of the instrument. These assumptions are not universally applicable, and may produce very erroneous readings in some situations.<ref>{{cite book|last=Radiation Safety Institute of Canada|title=Independent Review of the Exposure of Workers to Alpha Radiation at Bruce A restart, Reactor Unit 1|year=2011|location=Bruce Power, Ontario|url=http://www.brucepower.com/wp-content/.../RSIC-Final-Report.pdf|accessdate=11 November 2012}}</ref>
+
+== Uses ==
+{{main|nuclear technology}}
+Ionizing radiation has many industrial, military, and medical uses. Its usefulness must be balanced with its hazards, a compromise that has shifted over time. For example, at one time, assistants in shoe shops [[Shoe-fitting fluoroscope|used X-rays to check a child's shoe size]], but this practice was halted when the risks of ionizing radiation were better understood.<ref>{{cite journal|title=THE SHOE-FITTING FLUOROSCOPE AS A RADIATION HAZARD|journal=California Medicine|first=Leon|last=Lewis |coauthors=Paul E Caplan|volume=72|issue=1|pmid=15408494|date=January 1, 1950|pmc=1520288|pages=26–30 [27]}}</ref>
+
+Neutron radiation is essential to the working of [[nuclear reactor]]s and [[nuclear weapon]]s. The penetrating power of x-ray, gamma, beta, and positron radiation is used for [[medical imaging]], [[nondestructive testing]], and a variety of industrial gauges. [[Radioactive tracers]] are used in medical and industrial applications, as well as biological and [[radiation chemistry]]. Alpha radiation is used in [[static eliminator]]s and [[smoke detectors]]. The sterilizing effects of ionizing radiation are useful for cleaning medical instruments, [[food irradiation]], and the [[sterile insect technique]].  Measurements of [[Carbon-14]], can be used to [[radiocarbon dating|date]] the remains of long-dead organisms (such as wood that is thousands of years old).
+
+== Sources ==
+Ionizing radiation is generated through nuclear reactions, nuclear decay, by very high temperature, or via acceleration of charged particles in electromagnetic fields. Natural sources include the sun, lightning and supernova explosions. Artificial sources include nuclear reactors, particle accelerators, and [[x-ray tube]]s.
+
+The [[United Nations Scientific Committee on the Effects of Atomic Radiation]] (UNSCEAR) itemized types of human exposures.
+
+{| class="wikitable"
+|+ Type of radiation exposures
+|-
+| colspan=3 bgcolor=#DFFFDF | '''Public exposure'''
+|-
+| rowspan=10 | Natural Sources || rowspan=2 |Normal occurrences || [[Cosmic radiation]]
+|-
+| [[Terrestrial radiation]]
+|-
+| rowspan=8 | Enhanced sources || [[Metal mining]] and [[smelting]]
+|-
+| [[Phosphate]] industry
+|-
+| [[Coal mining]] and power production from coal
+|-
+| [[Oil well|Oil]] and gas drilling
+|-
+| [[Rare earth mineral|Rare earth]] and [[titanium dioxide]] industries
+|-
+| [[Zirconium]] and [[ceramics]] industries
+|-
+| Application of [[radium]] and [[thorium]]
+|-
+| Other exposure situations
+|-
+| rowspan=5 | Man-made sources || rowspan=3 |Peaceful purposes || [[Nuclear power]] production
+|-
+| Transport of nuclear and radioactive material
+|-
+| Application other than nuclear power
+|-
+| rowspan=2 |Military purposes || [[Nuclear tests]]
+|-
+| Residues in the environment. [[Nuclear fallout]]
+|-
+| colspan=3| Historical situations
+|-
+| colspan=3| Exposure from accidents
+|-
+| colspan=3 bgcolor=#DFFFDF | '''Occupational radiation exposure'''
+|-
+| rowspan=4 | Natural Sources ||  || Cosmic ray exposures of [[aircrew]] and [[Astronaut|space crew]]
+|-
+|  || Exposures in extractive and processing industries
+|-
+|  || Gas and oil extraction industries
+|-
+|  || Radon exposure in workplaces other than mines
+|-
+| rowspan=5 | Man-made sources || rowspan=4 |Peaceful purposes || Nuclear power industries
+|-
+| [[Radiology|Medical uses of radiation]]
+|-
+| Industrial uses of radiation
+|-
+| Miscellaneous uses
+|-
+| Military purposes || Other exposed workers
+|-
+| colspan=3| <small>Source [http://www.unscear.org/docs/reports/2008/09-86753_Report_2008_Annex_B.pdf UNSCEAR 2008 Annex B] retrieved 2011-7-4</small>
+|}
+
+=== Background ===
+{{main|Background radiation}}
+The global average exposure of humans to ionizing radiation is about 3 mSv (0.3 rem) per year, 80% of which comes from nature. The remaining 20% results from exposure to human-made radiation sources, primarily for [[medical imaging]]. Average exposure is much higher in developed countries, mostly due to people having [[CT scans]] and receiving [[nuclear medicine]]. However, in some areas, the average background dose can be over 1,000 mrem (10 mSv) per year. An important source of natural radiation is [[radon]] gas, which seeps continuously from bedrock but can, because of its high density, accumulate in poorly ventilated houses.
+
+The background rate for radiation varies considerably with location, being as low as 1.5 mSv/a (1.5 mSv per year) in some areas and over 100 mSv/a in others. The highest level of purely natural radiation recorded on the Earth's surface is 90µGy/h (0.8 Gy/yr) on a Brazilian black beach composed of [[monazite]].<ref>{{cite book|last=[[United Nations Scientific Committee on the Effects of Atomic Radiation]]|title=Sources and Effects of Ionizing Radiation|year=2000|publisher=United Nations|url=http://www.unscear.org/unscear/publications/2000_1.html|accessdate=11 November 2012|page=121|volume=vol. 1|chapter=Annex B}}</ref> The highest background radiation in an inhabited area is found in [[Ramsar, Mazandaran|Ramsar]], primarily due to naturally radioactive limestone used as a building material. Some 2000 of the most exposed residents receive an average [[radiation dose]] of 10 [[mGy]] per year, (1 [[rad (unit)|rad]]/yr) ten times more than the ICRP recommended limit for exposure to the public from artificial sources.<ref name="Mortazavi2005">{{cite journal|last=Mortazavi|first=S.M.J.|coauthors=P.A. Karamb|title=Apparent lack of radiation susceptibility among residents of the high background radiation area in Ramsar, Iran: can we relax our standards?|journal=Radioactivity in the Environment|year=2005|volume=7|pages=1141–1147|url=http://dx.doi.org/10.1016/S1569-4860(04)07140-2|issn=1569-4860}}</ref> Record levels were found in a house where the [[effective radiation dose]] due to external radiation was 135 mSv/yr, (13.5 rem/yr) and the [[committed dose]] from [[radon]] was 640 mSv/yr. (64.0 rem/yr)<ref name="Sohrabi2005">{{cite journal|last=Sohrabi|first=Mehdi|coauthors=Babapouran, Mozhgan|title=New public dose assessment from internal and external exposures in low- and elevated-level natural radiation areas of Ramsar, Iran|journal=Proceedings of the 6th International Conference on High Levels of Natural Radiation and Radon Areas|year=2005|volume=1276|pages=169–174|url=http://www.sciencedirect.com/science/article/pii/S053151310401742X|doi=10.1016/j.ics.2004.11.102}}</ref> This unique case is over 200 times higher than the world average background radiation.
+
+Natural [[background radiation]] comes from five primary sources: cosmic radiation, solar radiation, external terrestrial sources, radiation in the human body and [[radon]].
+
+====Cosmic radiation====
+{{see also|Cosmic ray}}
+The Earth, and all living things on it, are constantly bombarded by radiation from outside our solar system. This cosmic radiation consists of relativistic particles: positively-charged nuclei (ions) from 1 [[Atomic mass unit|amu]] [[proton]]s (about 85% of it) to 26 amu [[iron]] [[atomic nucleus|nuclei]] and even beyond. (The high-atomic number particles are called [[HZE ions]].) The energy of this radiation can far exceed that which humans can create, even in the largest [[particle accelerator]]s (see [[ultra-high-energy cosmic ray]]). This radiation interacts in the atmosphere to create secondary radiation that rains down, including [[x-rays]], [[muon]]s, protons, [[alpha particle]]s, [[pion]]s, [[electron]]s, and [[neutron]]s.
+
+The [[Dose (biochemistry)|dose]] from cosmic radiation is largely from muons, neutrons, and electrons, with a dose rate that varies in different parts of the world and based largely on the geomagnetic field, altitude, and solar cycle. The cosmic-radiation dose rate on airplanes is so high that, according to the United Nations UNSCEAR 2000 Report (see links at bottom), airline flight crew workers receive more dose on average than any other worker, including those in nuclear power plants. Airline crews receive more cosmic rays if they routinely work flight routes that take them close to the Earth's north pole at high altitudes, where this type of radiation is maximal.
+
+Cosmic rays also include high-energy gamma rays which are far beyond the energies produced by solar or human sources.
+
+====External terrestrial sources====
+Most materials on Earth contain some radioactive atoms, even if in small quantities. Most of the dose received from these sources is from gamma-ray emitters in building materials, or rocks and soil when outside. The major [[radionuclide]]s of concern for '''terrestrial radiation''' are isotopes of [[potassium]], [[uranium]], and [[thorium]]. Each of these sources has been decreasing in activity since the formation of the Earth.
+
+====Internal radiation sources====
+All earthly materials that are the building-blocks of life contain a radioactive component. As humans, plants, and animals consume food, air, and water, an inventory of radioisotopes builds up within the organism (see [[banana equivalent dose]]). Some radionuclides, like [[potassium-40]], emit a high-energy gamma ray that can be measured by sensitive electronic radiation measurement systems. These internal radiation sources contribute to an individual's total radiation dose from [[natural background radiation]].
+
+====Radon====
+[[Radon]]-222 is a gas produced by the decay of [[radium]]-226.  Both are a part of the natural [[uranium]] decay chain.  Uranium is found in soil throughout the world in varying concentrations.  Since radon is a gas, it can accumulate in homes.  Accumulation is dependent upon home location as well as building methods.  Among non-smokers, radon is the number one cause of lung cancer and, overall, the second leading cause.<ref>{{cite web|url=http://www.epa.gov/radon/healthrisks.html |title=Health Risks &#124; Radon &#124; US EPA |publisher=Epa.gov |date= |accessdate=2012-03-05}}</ref>
+
+=== Artificial sources ===
+
+Above the background level of radiation exposure, the U.S. [[Nuclear Regulatory Commission]] (NRC) requires that its licensees limit human-made radiation exposure for individual members of the public to 100 [[roentgen equivalent man|mrem]] (1 [[sievert|mSv]]) per year, and limit occupational radiation exposure to adults working with radioactive material to 5,000 mrem (50 mSv) per year.
+Occupationally exposed individuals are exposed according to the sources with which they work.
+The radiation exposure of these individuals is carefully monitored with the use of pocket-pen-sized instruments called [[dosimeter]]s.
+
+Examples of industries where occupational exposure is a concern include:
+*Airline crew (the most exposed population)
+*[[Industrial radiography]]
+*Medical [[radiology]] and [[nuclear medicine]]<ref>{{cite journal|doi=10.1088/0952-4746/16/4/004|author=Pattison, J.E., Bachmann, D.J., Beddoe, A.H.|title=Gamma Dosimetry at Surfaces of Cylindrical Containers|journal=Journal of Radiological Protection|volume= 16|issue=4|pages=249–261|year=1996|bibcode = 1996JRP....16..249P }}</ref><ref>{{cite journal|doi=10.1097/00004032-199911000-00006|author=Pattison, J.E.|title= Finger Doses Received during Samarium-153 Injections|journal=Health Physics|volume=77|issue=5|pages=530–5|year=1999|pmid=10524506}}</ref>
+*Uranium mining
+*[[Nuclear power plant]] and [[nuclear fuel reprocessing plant]] workers
+*Research laboratories (government, university and private)
+
+Some human-made radiation sources affect the body through direct radiation, while others take the form of [[radioactive contamination]] and [[irradiate]] the body from within.
+
+Medical procedures, such as diagnostic [[X-ray]]s, [[nuclear medicine]], and [[radiation therapy]] are by far the most significant source of human-made radiation exposure to the general public. Some of the major [[radionuclide]]s used are [[iodine|I-131]], [[technetium|Tc-99]], [[cobalt|Co-60]], [[iridium|Ir-192]], and [[caesium|Cs-137]]. These are rarely released into the environment.{{Quantify|date=November 2012}} The public also is exposed to radiation from consumer products, such as [[tobacco]] ([[polonium]]-210), building materials, combustible fuels (gas, [[coal]], etc.), ophthalmic [[glass]] {{citation needed|date=February 2010}}, [[television]]s, luminous [[watch]]es and dials ([[tritium]]), airport [[X-ray]] systems, [[smoke detector]]s ([[americium]]), road construction materials,{{citation needed|date=November 2012}} electron tubes, [[fluorescent lamp]] starters,{{citation needed|date=November 2012}} and [[lantern]] mantles ([[thorium]]). A typical dose for [[radiation therapy]] might be 7 Gy spread daily (on weekdays) over two months{{Citation needed|date=March 2011}}.
+
+Of lesser magnitude, members of the public are exposed to radiation from the [[nuclear fuel]] cycle, which includes the entire sequence from mining and milling of [[uranium]] to the disposal of the spent fuel, as well as the coal power cycle due to the release and emission of radioactive contaminants that were trapped in the coal. The effects of such exposure have not been reliably measured due to the extremely low doses involved. Estimates of exposure are low enough that proponents of nuclear power liken them to the mutagenic power of wearing trousers for two extra minutes per year (because heat causes mutation).{{citation needed|date=November 2012}} Opponents use a cancer per dose model to assert that such activities cause several hundred cases of cancer per year, an application of the widely accepted [[Linear no-threshold model]] (LNT).
+
+In a [[Nuclear warfare|nuclear war]], gamma rays from [[Nuclear fallout|fallout]] of [[nuclear weapon]]s would probably cause the largest number of casualties.{{citation needed|date=November 2012}} Immediately downwind of targets, doses would exceed 300 [[Gray (unit)|Gy]] per hour.{{citation needed|date=November 2012}} As a reference, 4.5 Gy (around 15,000 times the average annual background rate) is fatal to half of a normal population, without medical treatment.
+
+Some of the radionuclides of concern include [[cobalt]]-60, [[caesium]]-137, [[americium]]-241, and [[iodine]]-131.
+
+====Spaceflight====
+During [[human spaceflight]]s, in particular flights beyond [[low Earth orbit]], astronauts are exposed to both [[galactic cosmic ray|galactic cosmic radiation]] (GCR) and possibly [[Solar proton event|solar particle event]] (SPE) radiation. Evidence indicates past SPE radiation levels that would have been lethal for unprotected astronauts.<ref>{{cite web|url=http://www.newscientist.com/article/dn7142|title=Superflares could kill unprotected astronauts|publisher=New Scientist|date=21 March 2005}}</ref> GCR levels that might lead to acute radiation poisoning are not as well-understood.<ref>{{cite web|url=http://www.nap.edu/catalog.php?record_id=11760|title=Space Radiation Hazards and the Vision for Space Exploration|publisher=NAP|year=2006}}</ref>
+
+====Air travel====
+Air travel exposes people on aircraft to increased radiation from space as compared to sea level, including [[cosmic rays]] and from [[solar flare]] events.<ref name=davis>[http://books.google.com/books?id=_6hymYAgC6MC&pg=PA229&dq=Epcard&hl=en&ei=bvbrTJKaHoT68AbYveW5AQ&sa=X&oi=book_result&ct=result&resnum=7&ved=0CD4Q6AEwBg#v=onepage&q=Epcard&f=false Jeffrey R. Davis, Robert Johnson, Jan Stepanek - '''Fundamentals of Aerospace Medicine''' (2008) - Page 221-230] (Google Books Link 2010)</ref> Software programs such as [[Epcard]], [[CARI]], [[SIEVERT]], [[PCAIRE]] are attempts to simulate exposure by aircrews and passengers.<ref name=davis/> An example of a measured dose (not simulated dose) is 6 μSv per hour from London Heathrow to Tokyo Narita on a high-latitude polar route.<ref name=davis/> However, dosages can vary, such as during periods of high solar activity.<ref name=davis/> The United States FAA requires airlines to provide flight crew with information about cosmic radiation, and an [[ICRP]] recommendation for the general public is no more than 1 mSv per year.<ref name=davis/> In addition, many airlines do not allow [[pregnancy|pregnant]] flightcrew members, to comply with a European Directive.<ref name=davis/> The FAA has a recommended limit of 1 mSv total for a pregnancy, and no more than 0.5 mSv per month.<ref name=davis/> Information originally based on ''Fundamentals of Aerospace Medicine'' published in 2008.<ref name=davis/>
+
+==Limiting exposure==
+There are three standard ways to limit exposure:
+# Time: For people who are exposed to radiation in addition to natural background radiation, limiting or minimizing the exposure time will reduce the dose from the radiation source.
+# Distance: Radiation intensity decreases sharply with distance, according to an [[inverse-square law]] (in an absolute vacuum).<ref name=Camphausen>Camphausen KA, Lawrence RC. [http://www.cancernetwork.com/cancer-management-11/chapter02/article/10165/1399960 "Principles of Radiation Therapy"] in Pazdur R, Wagman LD, Camphausen KA, Hoskins WJ (Eds) [http://www.cancernetwork.com/cancer-management-11/ Cancer Management: A Multidisciplinary Approach]. 11 ed. 2008.</ref>
+# Shielding: Air or skin can be sufficient to substantially attenuate low-energy alpha and beta radiation. Barriers of [[lead]], [[concrete]], or water give effective protection from more energetic particles such as gamma rays and [[neutron]]s. Some radioactive materials are stored or handled underwater or by [[remote control]] in rooms constructed of thick concrete or lined with lead. There are special [[plastic]] shields that stop beta particles, and air will stop most alpha particles. The effectiveness of a material in shielding radiation is determined by its [[half-value layer|half-value thicknesses]], the thickness of material that reduces the radiation by half. This value is a function of the material itself and of the type and energy of ionizing radiation. Some generally accepted thicknesses of attenuating material are 5&nbsp;mm of aluminum for most beta particles, and 3&nbsp;inches of lead for gamma radiation.
+
+'''Containment''' is a combination of shielding and distance: Radioactive materials are confined in the smallest possible space and kept out of the environment. [[Radioactive isotope]]s for medical use, for example, are dispensed in closed handling facilities, while [[nuclear reactor]]s operate within closed systems with multiple barriers that keep the radioactive materials contained. Rooms have a reduced air pressure so that any leaks occur into the room and not out of it.
+An example of containment is an effective [[fallout shelter]], which in a [[nuclear warfare|nuclear war]], reduces human exposure at least 1,000 times. 
+
+Other [[civil defense]] measures can help reduce exposure of populations by reducing ingestion of isotopes and occupational exposure during war time and nuclear reactor accidents. One available measure is the use of [[potassium iodide]] (KI) tablets, which effectively blocks the uptake of [[iodine-131|radioactive iodine]] (one of the major radioisotope products of [[nuclear fission]]) into the human [[thyroid]] gland.
+
+==See also==
+*[[Hormesis]]
+*[[Ionometer]]
+*[[Irradiated mail]]
+*[[National Council on Radiation Protection and Measurements]]
+*[[Nuclear safety]]
+*[[Nuclear semiotics]]
+*[[Radiant energy]]
+*[[Radiation protection]]
+*[[Radiation protection of patients]]
+*[[Radiation Protection Convention, 1960]] 
+*[[Treatment of infections after accidental or hostile exposure to ionizing radiation]]
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* [http://www.nrc.gov The Nuclear Regulatory Commission] regulates most commercial radiation sources and non-medical exposures in the US:
+* [http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@na+@rel+ionizing+radiation NLM Hazardous Substances Databank &ndash; Ionizing Radiation]
+* [[United Nations Scientific Committee on the Effects of Atomic Radiation]] 2000 Report [http://www.unscear.org/unscear/en/publications/2000_1.html Volume 1: Sources], [http://www.unscear.org/unscear/en/publications/2000_2.html Volume 2: Effects]
+* [http://www.npl.co.uk/educate-explore/posters/ionising-radiation/ Beginners Guide to Ionising Radiation Measurement]
+* [http://www.xrayrisk.com Radiation Risk Calculator] Calculate cancer risk from CT scans and xrays.
+* [http://www.x-raysafety.com/rad-safety.htm Free Radiation Safety Course]
+* [http://www.radiationanswers.org Health Physics Society Public Education Website]
+* [http://www.ornl.gov/sci/env_rpt/aser95/appa.htm Oak Ridge Reservation] Basic Radiation Facts
+
+{{Nuclear Technology}}
+{{Radiation poisoning}}
+{{Radiation}}
+{{Carcinogen}}
+
+{{DEFAULTSORT:Ionizing Radiation}}
+[[Category:Radioactivity]]
+[[Category:Radiobiology]]
+[[Category:Radiation health effects]]

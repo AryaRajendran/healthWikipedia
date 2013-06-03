@@ -1,0 +1,100 @@
+[[File:Air purifier.JPG|thumb|250px|A Sharp FU-888SV Plasmacluster air purifier.]]
+[[File:Air purifier internal.JPG|thumb|250px|The same air purifier, cover removed.]]
+
+An '''air purifier''' is a device which removes [[contaminant]]s from the air. These devices are commonly marketed as being beneficial to [[allergy]] sufferers and [[asthma]]tics, and at reducing or eliminating [[passive smoking|second-hand tobacco smoke]]. Commercial grade air purifiers are manufactured as either small stand-alone units or larger units that can be affixed to an air handler unit (AHU) or to an [[HVAC]] unit found in the medical, industrial, and commercial industries.
+
+== Use and benefits of purifiers ==
+Dust, [[pollen]], pet [[dander]], [[mold]] [[spore]]s, and [[dust mite]] [[feces]] can act as [[allergens]], triggering [[allergies]] in sensitive people. Smoke [[particulate|particles]] and [[volatile organic compound]]s (VOCs) can pose a risk to health. Exposure to various components such as VOCs increases the likelihood of experiencing symptoms of [[sick building syndrome]].<ref name="ang">H.M. Ang, M Tade, S Wang. (2007). "Volatile organic compounds in the indoor environment and photo-catalytic oxidation: state of the art". Environmental International 33: 694-705.</ref> Additionally, with the advancement in technology{{Vague|date=January 2013}}, air purifiers are becoming increasingly capable of capturing a greater number of bacterial, virus, and DNA damaging particulates.{{Citation needed|date=October 2012}} Air purifiers are used to reduce the concentration of these airborne [[pollution|contaminants]] and can be useful for people who suffer from allergies and asthma.<ref>[http://www.allergyuk.org/prod_soa_air.aspx The British Allergy Foundation seal of approval]</ref>
+
+== Purifying techniques ==
+Several different processes of varying effectiveness can be used to purify air.
+
+* [[Ultraviolet germicidal irradiation]] - UVGI can be used to sterilize air that passes UV lamps via forced air. Air purification UVGI systems can be freestanding units with shielded UV lamps that use a fan to force air past the UV light. Other systems are installed in forced air systems so that the circulation for the premises moves micro-organisms past the lamps. Key to this form of sterilization is placement of the UV lamps and a good filtration system to remove the dead micro-organisms. For example, forced air systems by design impede line-of-sight, thus creating areas of the environment that will be shaded from the UV light. However, a UV lamp placed at the coils and drainpan of cooling system will keep micro-organisms from forming in these naturally damp places. The most effective method for treating the air rather than the coils is in-line duct systems, these systems are placed in the center of the duct and parallel to the air flow.
+
+* [[Air filter|Filter]] - based purification traps airborne particles by size exclusion. Air is forced through a filter and particles are physically captured by the filter.
+:[[HEPA]] filters remove at most 99.97% of 0.3-micrometer particles, and are usually more effective for particles which are larger. HEPA purifiers which filter all the air going into a [[clean room]] must be arranged so that no air bypasses the HEPA filter. In dusty environments, a HEPA filter may follow an easily cleaned conventional filter (prefilter) which removes coarser impurities so that the HEPA filter needs cleaning or replacing less frequently. HEPA filters do not generate ozone or harmful byproducts.
+
+:Filter for HVAC at [[Minimum Efficiency Reporting Value|MERV]] 14 or above are rated to remove airborne particles of 0.3 micrometers or larger. A high efficiency MERV 14 filter has a capture rate of at least 75% for particles between 0.3 to 1.0 micrometers. Although the capture rate of a MERV filter is lower than that of a HEPA filter, a central air system can move significantly more air in the same period of time. Using a high-grade MERV filter can be more effective than using a high-powered HEPA machine at a fraction of the initial capital expenditure. Unfortunately, most furnace filters are slid in place without an [[hermetic seal|airtight seal]], which allows air to pass around the filters. This problem is worse for the higher-efficiency MERV filters because of the increase in [[drag (physics)|air resistance]]. Higher-efficiency MERV filters are usually denser and increase air resistance in the central system, requiring a greater [[air pressure]] drop and consequently increasing energy costs.
+
+* [[Activated carbon]] is a [[porosity|porous]] material that can [[adsorption|adsorb]] volatile chemicals on a molecular basis, but does not remove larger particles. The adsorption process when using activated carbon must reach equilibrium thus it may be difficult to completely remove contaminants.<ref name="zeltner" /> Activated carbon is merely a process of changing contaminants from a gaseous phase to a solid phase, when aggravated or disturbed contaminants can be regenerated in indoor air sources.<ref name="lee">C.H. Ao, S.C. Lee. (2004). “Combination effect of activated carbon with TiO2 for the photo degradation of binary pollutants at typical indoor air level”. Journal of Photochemistry and Photobiology 161: 131-140.</ref> Activated carbon can be used at room temperature and has a long history of commercial use. It is normally used in conjunction with other filter technology, especially with HEPA. Other materials can also absorb chemicals, but at higher cost.
+
+* Polarized-Media Electronic Air Cleaners use an active electronically-enhanced media to combine elements of both electronic air cleaners and passive mechanical filters. Most Polarized-Media Electronic Air Cleaners convert 24 volt current to safe DC voltage to establish the polarized electric field.  Airborne particles become polarized as they pass through the electric field and adhere to a disposable fiber media pad. Ultra-fine particles (UFPs) that are not collected on their initial pass through the media pad are polarized and agglomerate to other particles, odor and VOC molecules and are collected on subsequent passes.  The efficiency of Polarized-Media Electronic Air Cleaners increases as they load, providing high efficiency filtration with air resistance typically equal to or less than passive filters. Polarized-media technology is non-ionizing which means no Ozone is produced.
+
+* Photocatalytic Oxidation (PCO) is an emerging technology in the HVAC industry.<ref>[http://www.genesisair.com/documents/PhotocatalysisIAQSensitive.pdf Photocatalysis: Considerations for IAQ-Sensitive Engineering Designs], David J Branson, P.E.., ''Engineered Systems'', April 2006</ref> In addition to the prospect of Indoor Air Quality (IAQ) benefits, it has the added potential for limiting the introduction of unconditioned air to the building space, thereby presenting an opportunity to achieve energy savings over previous prescriptive designs. As of May 2009<ref>[http://www.genesisair.com/documents/FormaldehydeTestReportApril2009.pdf], Formaldehyde Test Report: Genesis Air Populated Catalyst Panel RTI Report Number: A03230901 May 2009</ref><ref>[http://www.genesisair.com/documents/OfficeMixTestReportMay2009.pdf], Office VOC Mixture Test Report: Genesis Air Populated Catalyst Panel RTI Report Number: A03230902, May 2009</ref> there was no more disputable concern raised by the Lawrence Berkeley National Laboratory data that PCO may significantly increase the amount of formaldehyde in real indoor environments.<ref>[http://allergyclean.com/news/uvpcoformaldehyde.htm Photocatalytic Oxidation (PCO) Produces Formaldehyde as a Byproduct in Indoor Air]</ref> As with other advanced technologies, sound engineering principles and practices should be employed by the HVAC designer to ensure proper application of the technology. [[Photocatalysis|Photocatalytic]] oxidation systems are able to completely oxidize and degrade organic contaminants. For example, Volatile Organic Compounds found low concentrations within a few hundred ppmv or less are the most likely to be completely oxidized.<ref name="zeltner">W.A. Zeltner, D.T. Tompkins. (2005). “Shedding light on photo catalysis”. ASHRAE Transactions 3: 523-534.</ref>(PCO) uses short-wave [[ultraviolet]] light (UVC), commonly used for [[Sterilization (microbiology)|sterilization]], to energize the catalyst (usually titanium dioxide (TiO2)<ref>[http://www.epa.gov/iaq/pubs/residair.html#Photocatalytic_Oxidation_Cleaners Residential Air Cleaners (Second Edition) | Indoor Air | US Environmental Protection Agency<!-- Bot generated title -->]</ref>) and oxidize [[bacteria]] and [[virus]]es.<ref>[http://txspace.tamu.edu/bitstream/handle/1969.1/6782/ESL-HH-00-05-15.pdf?sequence=1 The Application of Ultraviolet Germicidal Technology in HVAC Systems], Michael J. Taylor, Product Manager, Carrier Corporation, Syracuse, NY</ref> PCO in-duct units can be mounted to an existing forced-air [[HVAC]] system. PCO is not a filtering technology, as it does not trap or remove particles. It is sometimes coupled with other filtering technologies for air purification. UV sterilization bulbs must be replaced about once a year; manufacturers may require periodic replacement as a condition of [[warranty]]. Photocatalytic Oxidation systems often have high commercial costs.<ref name="zeltner" />
+
+* [[Air ionizer|Ionizer purifiers]] use charged electrical surfaces or needles to generate electrically charged air or gas [[ion]]s. These ions attach to airborne particles which are then [[electrostatic]]ally attracted to a charged collector plate. This mechanism produces trace amounts of [[ozone]] and other oxidants as by-products.<ref name="ang" /> Most ionizers produce less than 0.05 [[Parts per million|ppm]] of ozone, an industrial safety standard. There are two major subdivisions: the fanless ionizer and fan-based ionizer. Fanless ionizers are noiseless and use little power, but are less efficient at air purification. Fan-based ionizers clean and distribute air much faster. Permanently mounted home and industrial ionizer purifiers are called [[electrostatic precipitator]]s.
+
+* Ozone generators produce ozone, and are sometimes sold as whole house air cleaners. Unlike ionizers, ozone generators are designed to produce significant amounts of ozone, a strong [[oxidant]] gas which can oxidize many other chemicals. The only safe use of ozone generators is in unoccupied rooms, utilising "shock treatment" commercial ozone generators that produce over 3000&nbsp;mg of ozone per hour. Restoration contractors use these types of ozone generators to remove smoke odors after fire damage, musty smells after flooding, [[mold remediation|mold]] (including [[toxic mold]]s), and the stench caused by decaying flesh which cannot be removed by bleach or anything else except for ozone. However, it is not healthy to breathe ozone gas, and one should use extreme caution when buying a room air purifier that also produces ozone.<ref>[http://www.hc-sc.gc.ca/cps-spc/house-domes/electron/cleaners-air-purificateurs-eng.php Ozone Generators: air cleaners intentionally designed to generate ozone<!-- Bot generated title -->]</ref>
+
+*[[Titanium dioxide]] (TiO<sub>2</sub>) technology - [[nanoparticles]] of  TiO<sub>2</sub>, together with calcium carbonate to neutralize any [[acid]]ic gasses that may be adsorbed, is mixed into slightly porous paint. [[Photocatalysis]]  initiates the decomposition of airborne contaminants at the surface.<ref>{{Cite journal
+  | last = Hogan
+  | first = Jenny
+  | authorlink = Jenny Hogan
+  | coauthors =
+  | title = Smog-busting paint soaks up noxious gases
+  | journal = [[New Scientist]]
+  | volume =
+  | issue =
+  | pages =
+  | publisher = Reed Business Information
+  | location = London
+  | date = 4 February 2004
+  | url =
+  | issn =
+  | doi =
+  | id =
+  | accessdate = }}</ref>
+
+== Consumer concerns ==
+Other aspects of air cleaners are hazardous gaseous by-products, noise level, frequency of filter replacement, electrical consumption, and visual appeal. Ozone production is typical for air ionizing purifiers. Although high concentration of ozone is dangerous, most air ionizers produce low amounts (<0.05 ppm). The noise level of a purifier can be obtained through a customer service department and is usually reported in [[decibel]]s (dB). The noise levels for most purifiers are low compared to many other home appliances.{{Fact|date=March 2013}}  Frequency of filter replacement and electrical consumption are the major operation costs for any purifier. There are many types of filters; some can be cleaned by water, by hand or by [[vacuum cleaner]], while others need to be replaced every few months or years. In the United States, some purifiers are certified as [[Energy Star]] and are [[Efficient energy use|energy efficient]].
+
+HEPA technology is used in portable air purifiers as it removes common airborne allergens. The [[United States Department of Energy|US Department of Energy]] has requirements manufacturers must pass to meet HEPA requirements. The HEPA specification requires removal of at least 99.97% of 0.3 micrometers airborne pollutants. Products that claim to be "HEPA-type", "HEPA-like", or "99% HEPA" do not satisfy these requirements and may not have been tested in independent laboratories.
+
+Air purifiers may be rated on: CADR; efficient area coverage; air changes per hour, which indicates how frequently the air purifier can exchange all the air in a given room; the clean air delivery rate, which determines how well air has been purified; energy usage; and the cost of the replacement filters.<ref>[http://www.achooallergy.com/air-purifier-buying-guide.asp Air Purifier Buying Guide], AchooAllergy</ref> Two other important factors to consider are the length that the filters are expected to last (measured in months or years) and the noise produced (measured in [[decibel]]s) by the various settings that the purifier runs on. This information is available from most manufacturers.<ref>[http://www.airpurifiersource.com/air-purifier-buyers-guide The Official Air Purifier Buyer's Guide], AirPurifierSource.com</ref>
+
+== Potential ozone hazard ==
+
+As with other health-related appliances, there is controversy surrounding the claims of certain companies, especially involving [[Air ioniser|ionic air purifiers]]. Many air purifiers generate some ozone, an energetic [[allotrope]] of three [[oxygen]] atoms, and in the presence of humidity, small amounts of [[Nitrogen oxide|NO<sub>x</sub>]].  Because of the nature of the ionization process, ionic air purifiers tend to generate the most ozone.{{Citation needed|date=January 2011}}  This is a serious concern, because ozone is a [[criteria air pollutant]] regulated by health-related U.S. federal and state standards.  In a controlled experiment, in many cases, ozone concentrations were well in excess of public and/or industrial safety levels established by U.S. Environmental Protection Agency, particularly in poorly ventilated rooms.<ref>{{cite journal
+| url=http://www.ncbi.nlm.nih.gov/pubmed/16739796
+| title=Quantiﬁcation of Ozone Levels in Indoor Environments Generated by Ionization and Ozonolysis Air Puriﬁers
+| author=Britigan, Nicole; Alshawa, Ahmad; and Nizkorodov, Sergey A.
+| journal=Journal of the Air & Waste Management Association
+| year=2006
+| month=May
+| volume=56
+| pages=601–610
+| ISSN=1047-3289
+| accessdate=2011-01-08}}</ref>
+
+Ozone can damage the lungs, causing chest pain, coughing, shortness of breath and throat irritation. It can also worsen chronic respiratory diseases such as asthma and compromise the ability of the body to fight respiratory infections—even in healthy people.  People who have asthma and allergy are most prone to the adverse effects of high levels of ozone.<!-- {{Citation needed|date=January 2011}} --><ref>{{cite web|title=Health Effects of Ozone in Patients with Asthma|url=http://www.epa.gov/o3healthtraining/effects.html|work=U.S. Environmental Protection Agency}}</ref>  For example, increasing ozone concentrations to unsafe levels can increase the risk of asthma attacks. Due to the below average performance and potential health risks, [[Consumer Reports]] has advised against using ozone producing air purifiers.<ref>[http://www.consumerreports.org/cro/appliances/heating-cooling-and-air/air-cleaners/air-purifiers-sub/ozone-generators/ozone-generators-not-acceptable.htm Consumer Reports Article: Not Acceptable: Ozone generators]</ref>
+[[Ozone]] generators used for shock treatments (unoccupied rooms) which are needed by smoke, mold, and odor remediation contractors as well as crime scene cleanup companies to oxidize and permanently remove smoke, mold, and odor damage are however considered a valuable and effective tool when used correctly for commercial and industrial purposes.  However, there is a growing body of evidence that these machines can produce undesirable by-products.<ref>{{cite web|title=Ozone Generators that are Sold as Air|url=http://www.epa.gov/iaq/pubs/ozonegen.html|work=U.S. Environmental Protection Agency}}</ref>
+
+In September 2007, the California Air Resources Board announced a ban of in-home ozone producing air purifiers. This law, which took effect in 2009, will require testing and certification of all types of air purifiers to verify that they do not generate excessive ozone. This ban does not affect shock treatment ozone generators for commercial and industrial use.
+
+== See also ==
+
+* [[Air filter]]
+* [[Air ioniser]]
+* [[Air sanitizer]]
+* [[Nose filter]]
+* [[Electrostatic precipitator]]
+* [[Ozone generator]]
+* [[HEPA]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://www.aham.org/ AHAM] Association of Home Appliance Manufacturers
+* [http://www.cadr.org/ CADR.org] Information on Clean Air Delivery Rate by AHAM
+* [http://www.epa.gov/iaq/pubs/ozonegen.html EPA report on the effectiveness of ozone generators]
+* [http://www.epa.gov/iaq/pubs/insidest.html EPA report on indoor air quality]
+* [http://www.besthumidifierreviewsonline.com Information on humidifiers]
+* [http://homer.ornl.gov/nuclearsafety/ns/techstds/tsdrafts/doe-std-3020-yr.pdf DOE HEPA Filter Standards] HEPA filter specifications for DOE contractors
+* [http://air-purifier-reviewsite.com/blog/15-house-plants-you-can-use-as-air-purifiers/  15 House Plants You Can Use As Air Purifiers]
+* [http://www.arb.ca.gov/research/indoor/aircleaners/certified.htm California Certified Air Cleaning Devices]
+* [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3080954/ Potera, C. (2011), Wood-Burning Stoves Get Help from HEPA Filters] [[National Institutes of Health|US National Institutes of Health]]
+
+{{DEFAULTSORT:Air Purifier}}
+[[Category:Building biology]]
+[[Category:Medical equipment]]

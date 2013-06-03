@@ -1,0 +1,805 @@
+{{ICD-10}}
+== S00–T14 – [[Injury]] ==
+
+{| class="wikitable"
+|   || '''Superficial''' || '''Open''' || '''[[Fracture]]''' || '''[[Joint dislocation|D]]/[[sprain|S]]/[[Strain (injury)|S]]''' || '''Crush''' || '''[[Amputation]]''' || '''Other'''
+ |-
+ | [[Human head|head]] || S00 || S01 || S02 || S03 || S07 || S08 || S09
+ |-
+ | [[neck]] || S10 || S11 || S12 || S13 || S17 || S18 || S19
+ |-
+ | [[thorax]] || S20 || S21 || S22 || S23 || S27 || S28 || S29
+ |-
+ | [[abdomen]], [[lower back]], [[lumbar spine]] and [[human pelvis|pelvis]] || S30 || S31 || S32 || S33 || S37 || S38 || S39
+ |-
+ | [[shoulder]] and [[upper arm]] || S40 || S41 || S42 || S43 || S47 || S48 || S49
+ |-
+ | [[Elbow-joint|elbow]] and [[forearm]] || S50 || S51 || S52 || S53 || S57 || S58 || S59
+ |-
+ | [[wrist]] and [[hand]] || S60 || S61 || S62 || S63 || S67 || S68 || S69
+ |-
+ | [[hip]] and [[thigh]] || S70 || S71 || S72 || S73 || S77 || S78 || S79
+ |-
+ | [[knee]] and [[lower leg]] || S80 || S81 || S82 || S83 || S87 || S88 || S89
+ |-
+ | [[ankle]] and [[foot]] || S90 || S91 || S92 || S93 || S97 || S98 || S99
+ |-
+ | multiple regions || T00 || T01 || T02 || T03 || T04 || T05 || T06-7
+|}
+
+=== (S00–S09) [[Human head|head]] ===
+* ({{ICD10|S|00||s|00}}) Superficial [[injury of head]]
+** ({{ICD10|S|00|0|s|00}}) Superficial injury of [[scalp]]
+** ({{ICD10|S|00|1|s|00}}) [[Contusion]] of [[eyelid]] and [[periocular area]]
+*** [[Black eye]]
+** ({{ICD10|S|00|2|s|00}}) Other superficial injuries of [[eyelid]] and [[periocular area]]
+** ({{ICD10|S|00|3|s|00}}) Superficial injury of [[Human nose|nose]]
+** ({{ICD10|S|00|4|s|00}}) Superficial injury of [[ear]]
+** ({{ICD10|S|00|5|s|00}}) Superficial injury of [[lip]] and [[oral cavity]]
+** ({{ICD10|S|00|7|s|00}}) Multiple superficial injuries of [[Human head|head]]
+** ({{ICD10|S|00|8|s|00}}) Superficial injury of other parts of [[Human head|head]]
+** ({{ICD10|S|00|9|s|00}}) Superficial injury of [[Human head|head]], part unspecified
+* ({{ICD10|S|01||s|00}}) Open wound of [[Human head|head]]
+* ({{ICD10|S|02||s|00}}) [[Fracture of skull]] and [[facial bones]]
+** ({{ICD10|S|02|0|s|00}}) [[Fracture of vault of skull]]
+** ({{ICD10|S|02|1|s|00}}) [[Fracture of base of skull]]
+** ({{ICD10|S|02|2|s|00}}) [[Fracture of nasal bones]]
+** ({{ICD10|S|02|3|s|00}}) [[Fracture of orbital floor]]
+** ({{ICD10|S|02|4|s|00}}) [[Fracture of malar and maxillary bones]]
+** ({{ICD10|S|02|5|s|00}}) [[Fracture of tooth]]
+** ({{ICD10|S|02|6|s|00}}) [[Fracture of mandible]]
+** ({{ICD10|S|02|7|s|00}}) [[Multiple fractures involving skull and facial bones]]
+** ({{ICD10|S|02|8|s|00}}) [[Fractures of other skull and facial bones]]
+** ({{ICD10|S|02|9|s|00}}) [[Fracture of skull and facial bones]], part unspecified
+* ({{ICD10|S|03||s|00}}) [[Dislocation]], [[sprain]] and [[Strain (injury)|strain]] of [[joints]] and [[ligaments]] of [[Human head|head]]
+** ({{ICD10|S|03|0|s|00}}) [[Dislocation of jaw]]
+** ({{ICD10|S|03|1|s|00}}) [[Dislocation of septal cartilage of nose]]
+** ({{ICD10|S|03|2|s|00}}) [[Dislocation of tooth]]
+** ({{ICD10|S|03|3|s|00}}) [[Dislocation of other and unspecified parts of head]]
+** ({{ICD10|S|03|4|s|00}}) [[Sprain and strain of jaw]]
+** ({{ICD10|S|03|5|s|00}}) [[Sprain and strain of joints and ligaments of other and unspecified parts of head]]
+* ({{ICD10|S|04||s|00}}) Injury of [[cranial nerves]]
+** ({{ICD10|S|04|0|s|00}}) [[Injury of optic nerve and pathways]]
+** ({{ICD10|S|04|1|s|00}}) [[Injury of oculomotor nerve]]
+** ({{ICD10|S|04|2|s|00}}) [[Injury of trochlear nerve]]
+** ({{ICD10|S|04|3|s|00}}) [[Injury of trigeminal nerve]]
+** ({{ICD10|S|04|4|s|00}}) [[Injury of abducent nerve]]
+** ({{ICD10|S|04|5|s|00}}) [[Injury of facial nerve]]
+** ({{ICD10|S|04|6|s|00}}) [[Injury of acoustic nerve]]
+** ({{ICD10|S|04|7|s|00}}) [[Accessory nerve disorder|Injury of accessory nerve]]
+** ({{ICD10|S|04|8|s|00}}) Injury of other [[cranial nerves]]
+** ({{ICD10|S|04|9|s|00}}) Injury of unspecified [[cranial nerve]]
+* ({{ICD10|S|05||s|00}}) Injury of [[human eye|eye]] and [[orbit]]
+** ({{ICD10|S|05|0|s|00}}) Injury of [[conjunctiva]] and [[corneal abrasion]] without mention of [[foreign body]]
+** ({{ICD10|S|05|1|s|00}}) [[Contusion of eyeball]] and [[orbital tissues]]
+** ({{ICD10|S|05|2|s|00}}) [[Ocular laceration]] and [[wikt:rupture|rupture]] with [[prolapse]] or loss of [[intraocular tissue]]
+** ({{ICD10|S|05|3|s|00}}) [[Ocular laceration]] without [[prolapse]] or loss of [[intraocular tissue]]
+** ({{ICD10|S|05|4|s|00}}) [[Penetrating wound]] of [[orbit]] with or without [[foreign body]]
+** ({{ICD10|S|05|5|s|00}}) [[Penetrating wound]] of [[human eye|eyeball]] with [[foreign body]]
+** ({{ICD10|S|05|6|s|00}}) [[Penetrating wound]] of [[human eye|eyeball]] without [[foreign body]]
+** ({{ICD10|S|05|7|s|00}}) [[Avulsion injury|Avulsion]] of [[human eye|eye]]
+** ({{ICD10|S|05|8|s|00}}) Other injuries of [[human eye|eye]] and [[orbit]]
+** ({{ICD10|S|05|9|s|00}}) Injury of [[human eye|eye]] and [[orbit]], unspecified
+* ({{ICD10|S|06||s|00}}) [[Intracranial injury]]
+** ({{ICD10|S|06|0|s|00}}) [[Concussion]]
+** ({{ICD10|S|06|1|s|00}}) [[Traumatic cerebral oedema]]
+** ({{ICD10|S|06|2|s|00}}) [[Diffuse brain injury]] NOS
+** ({{ICD10|S|06|3|s|00}}) [[Focal brain injury]]
+** ({{ICD10|S|06|4|s|00}}) [[Epidural haemorrhage]]
+** ({{ICD10|S|06|5|s|00}}) [[Traumatic subdural haemorrhage]]
+** ({{ICD10|S|06|6|s|00}}) [[Traumatic subarachnoid haemorrhage]]
+** ({{ICD10|S|06|7|s|00}}) [[Intracranial injury with prolonged coma]]
+** ({{ICD10|S|06|8|s|00}}) Other [[Intracranial injury|intracranial injuries]]
+** ({{ICD10|S|06|9|s|00}}) [[Intracranial injury]], unspecified
+* ({{ICD10|S|07||s|00}}) Crushing injury of [[Human head|head]]
+* ({{ICD10|S|08||s|00}}) [[Traumatic amputation]] of part of [[Human head|head]]
+* ({{ICD10|S|09||s|00}}) Other and unspecified injuries of [[Human head|head]]
+** ({{ICD10|S|09|0|s|00}}) [[Injury of blood vessels of head]], not elsewhere classified
+** ({{ICD10|S|09|1|s|00}}) [[Injury of muscle and tendon of head]]
+** ({{ICD10|S|09|2|s|00}}) [[Traumatic rupture of ear drum]]
+** ({{ICD10|S|09|7|s|00}}) [[Multiple injuries of head]]
+** ({{ICD10|S|09|8|s|00}}) [[Other specified injuries of head]]
+** ({{ICD10|S|09|9|s|00}}) [[Unspecified injury of head]]
+
+=== (S10–S19) [[neck]] ===
+* ({{ICD10|S|10||s|10}}) Superficial injury of [[neck]]
+* ({{ICD10|S|11||s|10}}) Open wound of [[neck]]
+* ({{ICD10|S|12||s|10}}) [[Fracture of neck]]
+** ({{ICD10|S|12|0|s|10}}) Fracture of [[first cervical vertebra]]
+** ({{ICD10|S|12|1|s|10}}) Fracture of [[second cervical vertebra]]
+** ({{ICD10|S|12|2|s|10}}) Fracture of other specified [[cervical vertebra]]
+** ({{ICD10|S|12|7|s|10}}) Multiple fractures of [[cervical spine]]
+** ({{ICD10|S|12|8|s|10}}) Fracture of other parts of [[neck]]
+** ({{ICD10|S|12|9|s|10}}) Fracture of [[neck]], part unspecified
+* ({{ICD10|S|13||s|10}}) [[Dislocation]], [[sprain]] and [[Strain (injury)|strain]] of [[joints]] and [[ligaments]] at [[neck]] level
+** ({{ICD10|S|13|0|s|10}}) [[Traumatic rupture of cervical intervertebral disc]]
+** ({{ICD10|S|13|1|s|10}}) [[Dislocation of cervical vertebra]]
+** ({{ICD10|S|13|2|s|10}}) [[Dislocation of other and unspecified parts of neck]]
+** ({{ICD10|S|13|3|s|10}}) [[Multiple dislocations of neck]]
+** ({{ICD10|S|13|4|s|10}}) [[Sprain and strain of cervical spine]]
+*** [[Whiplash injury]]
+** ({{ICD10|S|13|5|s|10}}) [[Sprain and strain of thyroid region]]
+** ({{ICD10|S|13|6|s|10}}) [[Sprain and strain of joints and ligaments of other and unspecified parts of neck]]
+* ({{ICD10|S|14||s|10}}) Injury of [[nerves]] and [[spinal cord]] at [[neck]] level
+** ({{ICD10|S|14|0|s|10}}) [[Concussion]] and [[oedema]] of [[cervical spinal cord]]
+** ({{ICD10|S|14|1|s|10}}) Other and unspecified injuries of [[cervical spinal cord]]
+** ({{ICD10|S|14|2|s|10}}) Injury of nerve root of [[cervical spine]]
+** ({{ICD10|S|14|3|s|10}}) [[Injury of brachial plexus]]
+** ({{ICD10|S|14|4|s|10}}) Injury of peripheral nerves of [[neck]]
+** ({{ICD10|S|14|5|s|10}}) Injury of cervical [[sympathetic nerves]]
+** ({{ICD10|S|14|6|s|10}}) Injury of other and unspecified nerves of [[neck]]
+* ({{ICD10|S|15||s|10}}) Injury of [[blood vessels]] at [[neck]] level
+* ({{ICD10|S|16||s|10}}) Injury of [[muscle]] and [[tendon]] at neck level
+* ({{ICD10|S|17||s|10}}) Crushing injury of [[neck]]
+* ({{ICD10|S|18||s|10}}) [[Traumatic amputation]] at [[neck]] level
+* ({{ICD10|S|19||s|10}}) Other and unspecified injuries of [[neck]]
+
+=== (S20–S29) [[thorax]] ===
+* ({{ICD10|S|20||s|20}}) Superficial injury of [[thorax]]
+* ({{ICD10|S|21||s|20}}) Open wound of [[thorax]]
+* ({{ICD10|S|22||s|20}}) [[Fracture]] of [[rib]](s), [[Human sternum|sternum]] and [[thoracic spine]]
+** ({{ICD10|S|22|0|s|20}}) [[Fracture of thoracic vertebra]]
+** ({{ICD10|S|22|1|s|20}}) [[Multiple fractures of thoracic spine]]
+** ({{ICD10|S|22|2|s|20}}) [[Fracture of sternum]]
+** ({{ICD10|S|22|3|s|20}}) [[Rib fracture|Fracture of rib]]
+** ({{ICD10|S|22|4|s|20}}) [[Multiple fractures of ribs]]
+** ({{ICD10|S|22|5|s|20}}) [[Flail chest]]
+** ({{ICD10|S|22|8|s|20}}) [[Fracture of other parts of bony thorax]]
+** ({{ICD10|S|22|9|s|20}}) [[Fracture of bony thorax]], part unspecified
+* ({{ICD10|S|23||s|20}}) [[Dislocation]], [[sprain]] and [[Strain (injury)|strain]] of [[joints]] and [[ligaments]] of [[thorax]]
+* ({{ICD10|S|24||s|20}}) Injury of [[nerves]] and [[spinal cord]] at [[thorax level]]
+* ({{ICD10|S|25||s|20}}) Injury of [[blood vessels]] of [[thorax]]
+** ({{ICD10|S|25|0|s|20}}) [[Traumatic aortic rupture|Injury of thoracic aorta]]
+** ({{ICD10|S|25|1|s|20}}) Injury of [[Brachiocephalic artery|innominate]] or [[subclavian artery]]
+** ({{ICD10|S|25|2|s|20}}) Injury of [[superior vena cava]]
+** ({{ICD10|S|25|3|s|20}}) Injury of [[Brachiocephalic vein|innominate]] or [[subclavian vein]]
+** ({{ICD10|S|25|4|s|20}}) Injury of [[pulmonary blood vessels]]
+** ({{ICD10|S|25|5|s|20}}) Injury of [[intercostal blood vessels]]
+** ({{ICD10|S|25|7|s|20}}) Injury of multiple [[blood vessels of thorax]]
+** ({{ICD10|S|25|8|s|20}}) Injury of other [[blood vessels of thorax]]
+** ({{ICD10|S|25|9|s|20}}) Injury of unspecified [[blood vessel of thorax]]
+* ({{ICD10|S|26||s|20}}) Injury of [[heart]]
+** ({{ICD10|S|26|0|s|20}}) [[Injury of heart]] with [[haemopericardium]]
+** ({{ICD10|S|26|8|s|20}}) Other [[injuries of heart]]
+** ({{ICD10|S|26|9|s|20}}) [[Injury of heart]], unspecified
+* ({{ICD10|S|27||s|20}}) Injury of Other and unspecified [[intrathoracic organs]]
+** ({{ICD10|S|27|0|s|20}}) Traumatic [[pneumothorax]]
+** ({{ICD10|S|27|1|s|20}}) Traumatic [[haemothorax]]
+** ({{ICD10|S|27|2|s|20}}) Traumatic [[haemopneumothorax]]
+** ({{ICD10|S|27|3|s|20}}) Other [[injuries of lung]]
+** ({{ICD10|S|27|4|s|20}}) Injury of [[bronchus]]
+** ({{ICD10|S|27|5|s|20}}) Injury of [[thoracic trachea]]
+** ({{ICD10|S|27|6|s|20}}) Injury of [[pleura]]
+** ({{ICD10|S|27|7|s|20}}) Multiple injuries of [[intrathoracic organs]]
+** ({{ICD10|S|27|8|s|20}}) Injury of other specified [[intrathoracic organs]]
+*** [[Thoracic diaphragm|Diaphragm]]
+*** [[Lymphatic thoracic duct]]
+*** [[Oesophagus]] (thoracic part)
+*** [[Thymus gland]]
+** ({{ICD10|S|27|9|s|20}}) Injury of unspecified [[intrathoracic organ]]
+* ({{ICD10|S|28||s|20}}) Crushing injury of [[thorax]] and [[traumatic amputation]] of part of [[thorax]]
+* ({{ICD10|S|29||s|20}}) Other and unspecified injuries of [[thorax]]
+
+=== (S30–S39) [[abdomen]], [[lower back]], [[lumbar spine]] and [[human pelvis|pelvis]] ===
+* ({{ICD10|S|30||s|30}}) Superficial injury of [[abdomen]], [[lower back]] and [[human pelvis|pelvis]]
+* ({{ICD10|S|31||s|30}}) Open wound of [[abdomen]], [[lower back]] and [[human pelvis|pelvis]]
+* ({{ICD10|S|32||s|30}}) [[Fracture]] of [[lumbar spine]] and [[human pelvis|pelvis]]
+** ({{ICD10|S|32|0|s|30}}) [[Fracture of lumbar vertebra]]
+** ({{ICD10|S|32|1|s|30}}) [[Fracture of sacrum]]
+** ({{ICD10|S|32|2|s|30}}) [[Fracture of coccyx]]
+** ({{ICD10|S|32|3|s|30}}) [[Fracture of ilium]]
+** ({{ICD10|S|32|4|s|30}}) [[Fracture of acetabulum]]
+** ({{ICD10|S|32|5|s|30}}) [[Fracture of pubis]]
+** ({{ICD10|S|32|7|s|30}}) [[Multiple fractures of lumbar spine and pelvis]]
+** ({{ICD10|S|32|8|s|30}}) [[Fracture of other and unspecified parts of lumbar spine and pelvis]]
+* ({{ICD10|S|33||s|30}}) [[Dislocation]], [[sprain]] and strain of [[joints]] and [[ligaments]] of [[lumbar spine]] and [[human pelvis|pelvis]]
+* ({{ICD10|S|34||s|30}}) Injury of [[nerves]] and [[lumbar spinal cord]] at [[abdomen]], [[lower back]] and [[human pelvis|pelvis]] level
+* ({{ICD10|S|35||s|30}}) Injury of [[blood vessels]] at [[abdomen]], [[lower back]] and [[human pelvis|pelvis]] level
+** ({{ICD10|S|35|0|s|30}}) [[Traumatic aortic rupture|Injury of abdominal aorta]]
+** ({{ICD10|S|35|1|s|30}}) Injury of [[inferior vena cava]]
+** ({{ICD10|S|35|2|s|30}}) Injury of [[Celiac artery|coeliac]] or [[mesenteric artery]]{{dn|date=June 2012}}
+** ({{ICD10|S|35|3|s|30}}) Injury of [[Hepatic portal vein|portal]] or [[splenic vein]]
+** ({{ICD10|S|35|4|s|30}}) Injury of [[renal blood vessels]]
+** ({{ICD10|S|35|5|s|30}}) Injury of [[iliac blood vessels]]
+** ({{ICD10|S|35|7|s|30}}) Injury of multiple [[blood vessels at abdomen]], lower back and pelvis level
+** ({{ICD10|S|35|8|s|30}}) Injury of other [[blood vessels at abdomen]], lower back and pelvis level
+** ({{ICD10|S|35|9|s|30}}) Injury of unspecified [[blood vessel at abdomen]], lower back and pelvis level
+* ({{ICD10|S|36||s|30}}) Injury of intra-[[abdominal]] [[Organ (anatomy)|organs]]
+** ({{ICD10|S|36|0|s|30}}) Injury of [[spleen]]
+*** [[Ruptured spleen]]
+* ({{ICD10|S|37||s|30}}) Injury of [[human pelvis|pelvic]] and [[urinary organs]]
+* ({{ICD10|S|38||s|30}}) Crushing injury and [[traumatic amputation]] of part of [[abdomen]], [[lower back]] and [[human pelvis|pelvis]]
+* ({{ICD10|S|39||s|30}}) Other and unspecified injuries of [[abdomen]], [[lower back]] and [[human pelvis|pelvis]]
+
+=== (S40–S49) [[shoulder]] and [[upper arm]] ===
+* ({{ICD10|S|40||s|40}}) Superficial injury of [[shoulder]] and [[upper arm]]
+* ({{ICD10|S|41||s|40}}) Open wound of [[shoulder]] and [[upper arm]]
+* ({{ICD10|S|42||s|40}}) [[Fracture]] of [[shoulder]] and [[upper arm]]
+** ({{ICD10|S|42|0|s|40}}) [[Clavicle fracture|Fracture of clavicle]]
+** ({{ICD10|S|42|1|s|40}}) [[Fracture of scapula]]
+** ({{ICD10|S|42|2|s|40}}) [[Fracture]] of upper end of [[humerus]]
+** ({{ICD10|S|42|3|s|40}}) [[Fracture]] of shaft of [[humerus]]
+** ({{ICD10|S|42|4|s|40}}) [[Fracture]] of lower end of [[humerus]]
+** ({{ICD10|S|42|7|s|40}}) Multiple [[fractures]] of [[clavicle]], [[scapula]] and [[humerus]]
+** ({{ICD10|S|42|8|s|40}}) [[Fracture]] of other parts of [[shoulder]] and [[upper arm]]
+** ({{ICD10|S|42|9|s|40}}) [[Fracture]] of [[shoulder girdle]], part unspecified
+* ({{ICD10|S|43||s|40}}) [[Dislocation]], [[sprain]] and strain of [[joints]] and [[ligaments]] of [[shoulder girdle]]
+** ({{ICD10|S|43|0|s|40}}) [[Dislocation of shoulder joint]]
+** ({{ICD10|S|43|1|s|40}}) [[Dislocation]] of [[acromioclavicular joint]]
+** ({{ICD10|S|43|2|s|40}}) [[Dislocation]] of [[sternoclavicular joint]]
+** ({{ICD10|S|43|3|s|40}}) [[Dislocation]] of other and unspecified parts of [[shoulder girdle]]
+** ({{ICD10|S|43|4|s|40}}) [[Sprain]] and strain of [[shoulder joint]]
+** ({{ICD10|S|43|5|s|40}}) [[Sprain]] and strain of [[acromioclavicular joint]]
+** ({{ICD10|S|43|6|s|40}}) [[Sprain]] and [[Strain (injury)|strain]] of [[sternoclavicular joint]]
+** ({{ICD10|S|43|7|s|40}}) [[Sprain]] and [[Strain (injury)|strain]] of other and unspecified parts of [[shoulder girdle]]
+* ({{ICD10|S|44||s|40}}) Injury of [[nerves]] at [[shoulder]] and [[upper arm]] level
+** ({{ICD10|S|44|0|s|40}}) [[Injury of ulnar nerve]] at [[upper arm]] level
+** ({{ICD10|S|44|1|s|40}}) [[Injury of median nerve]] at [[upper arm]] level
+** ({{ICD10|S|44|2|s|40}}) [[Injury of radial nerve]] at [[upper arm]] level
+** ({{ICD10|S|44|3|s|40}}) [[Injury of axillary nerve]]
+** ({{ICD10|S|44|4|s|40}}) [[Injury of musculocutaneous nerve]]
+** ({{ICD10|S|44|5|s|40}}) Injury of [[cutaneous sensory nerve]] at [[shoulder]] and [[upper arm]] level
+** ({{ICD10|S|44|7|s|40}}) Injury of multiple [[nerves]] at [[shoulder]] and [[upper arm]] level
+** ({{ICD10|S|44|8|s|40}}) Injury of other [[nerves]] at [[shoulder]] and [[upper arm]] level
+** ({{ICD10|S|44|9|s|40}}) Injury of unspecified [[nerve]] at [[shoulder]] and [[upper arm]] level
+* ({{ICD10|S|45||s|40}}) Injury of [[blood vessels]] at [[shoulder]] and [[upper arm]] level
+* ({{ICD10|S|46||s|40}}) Injury of [[muscle]] and [[tendon]] at [[shoulder]] and [[upper arm]] level
+** ({{ICD10|S|46|0|s|40}}) Injury of tendon of the [[rotator cuff]] of [[shoulder]]
+*** [[Rotator cuff tear]]
+** ({{ICD10|S|46|1|s|40}}) Injury of muscle and tendon of long head of [[biceps]]
+** ({{ICD10|S|46|2|s|40}}) Injury of muscle and tendon of other parts of [[biceps]]
+** ({{ICD10|S|46|3|s|40}}) Injury of muscle and tendon of [[triceps]]
+** ({{ICD10|S|46|7|s|40}}) Injury of multiple muscles and tendons at [[shoulder]] and [[upper arm]] level
+** ({{ICD10|S|46|8|s|40}}) Injury of other muscles and tendons at [[shoulder]] and [[upper arm]] level
+** ({{ICD10|S|46|9|s|40}}) Injury of unspecified muscle and tendon at [[shoulder]] and [[upper arm]] level
+* ({{ICD10|S|47||s|40}}) Crushing injury of [[shoulder]] and [[upper arm]]
+* ({{ICD10|S|48||s|40}}) [[Traumatic amputation]] of [[shoulder]] and [[upper arm]]
+* ({{ICD10|S|49||s|40}}) Other and unspecified [[injuries]] of [[shoulder]] and [[upper arm]]
+
+=== (S50–S59) [[Elbow-joint|elbow]] and [[forearm]] ===
+* ({{ICD10|S|50||s|50}}) Superficial injury of [[forearm]]
+* ({{ICD10|S|51||s|50}}) Open wound of [[forearm]]
+* ({{ICD10|S|52||s|50}}) [[Fracture]] of [[forearm]]
+** ({{ICD10|S|52|0|s|50}}) [[Fracture]] of [[upper end of ulna]]
+*** [[Monteggia fracture|Monteggia's fracture-dislocation]]
+** ({{ICD10|S|52|1|s|50}}) [[Fracture]] of [[upper end of radius]]
+** ({{ICD10|S|52|2|s|50}}) [[Fracture]] of [[shaft of ulna]]
+** ({{ICD10|S|52|3|s|50}}) [[Fracture]] of [[shaft of radius]]
+*** [[Galeazzi fracture]]
+** ({{ICD10|S|52|4|s|50}}) [[Fracture]] of shafts of both [[ulna]] and [[radius]]
+** ({{ICD10|S|52|5|s|50}}) [[Fracture]] of [[lower end of radius]]
+*** [[Colles' fracture]]
+*** [[Smith's fracture]]
+** ({{ICD10|S|52|6|s|50}}) [[Fracture]] of lower end of both [[ulna]] and [[radius]]
+** ({{ICD10|S|52|7|s|50}}) [[Multiple fractures of forearm]]
+** ({{ICD10|S|52|8|s|50}}) [[Fracture]] of other parts of [[forearm]]
+** ({{ICD10|S|52|9|s|50}}) [[Fracture]] of [[forearm]], part unspecified
+* ({{ICD10|S|53||s|50}}) [[Dislocation]], [[sprain]] and [[Strain (injury)|strain]] of [[joints]] and [[ligaments]] of [[Elbow-joint|elbow]]
+** ({{ICD10|S|53|0|s|50}}) [[Dislocation]] of [[radial head]]
+** ({{ICD10|S|53|1|s|50}}) [[Dislocation]] of [[elbow]], unspecified
+** ({{ICD10|S|53|2|s|50}}) Traumatic rupture of [[Radial collateral ligament of elbow joint|radial collateral ligament]]
+** ({{ICD10|S|53|3|s|50}}) Traumatic rupture of [[Ulnar collateral ligament of elbow joint|ulnar collateral ligament]]
+** ({{ICD10|S|53|4|s|50}}) [[Sprain]] and [[Strain (injury)|strain]] of [[elbow]]
+* ({{ICD10|S|54||s|50}}) Injury of [[nerves]] at [[forearm]] level
+** ({{ICD10|S|54|0|s|50}}) [[Injury of ulnar nerve]] at [[forearm]] level
+** ({{ICD10|S|54|1|s|50}}) [[Injury of median nerve]] at [[forearm]] level
+** ({{ICD10|S|54|2|s|50}}) [[Injury of radial nerve]] at [[forearm]] level
+** ({{ICD10|S|54|3|s|50}}) Injury of [[cutaneous sensory nerve]] at [[forearm]] level
+** ({{ICD10|S|54|7|s|50}}) Injury of multiple [[nerves]] at [[forearm]] level
+** ({{ICD10|S|54|8|s|50}}) Injury of other [[nerves]] at [[forearm]] level
+** ({{ICD10|S|54|9|s|50}}) Injury of unspecified [[nerve]] at [[forearm]] level
+* ({{ICD10|S|55||s|50}}) Injury of [[blood vessels]] at [[forearm]] level
+* ({{ICD10|S|56||s|50}}) Injury of [[muscle]] and [[tendon]] at [[forearm]] level
+* ({{ICD10|S|57||s|50}}) Crushing injury of [[forearm]]
+* ({{ICD10|S|58||s|50}}) Traumatic [[amputation]] of [[forearm]]
+* ({{ICD10|S|59||s|50}}) Other and unspecified [[injuries]] of [[forearm]]
+
+=== (S60–S69) [[wrist]] and [[hand]] ===
+* ({{ICD10|S|60||s|60}}) Superficial injury of [[wrist]] and [[hand]]
+* ({{ICD10|S|61||s|60}}) Open wound of [[wrist]] and [[hand]]
+* ({{ICD10|S|62||s|60}}) Fracture at [[wrist]] and [[hand]] level
+** ({{ICD10|S|62|0|s|60}}) [[Fracture]] of [[navicular]] (scaphoid) bone of hand
+** ({{ICD10|S|62|1|s|60}}) [[Fracture]] of other [[carpal bone]](s)
+** ({{ICD10|S|62|2|s|60}}) [[Fracture]] of [[first metacarpal bone]]
+*** [[Bennett's fracture]]
+** ({{ICD10|S|62|3|s|60}}) [[Fracture]] of other [[metacarpal bone]]
+** ({{ICD10|S|62|4|s|60}}) Multiple [[fractures]] of [[metacarpal bones]]
+** ({{ICD10|S|62|5|s|60}}) [[Fracture]] of [[thumb]]
+** ({{ICD10|S|62|6|s|60}}) [[Fracture]] of other [[finger]]
+** ({{ICD10|S|62|7|s|60}}) Multiple [[fractures]] of fingers
+** ({{ICD10|S|62|8|s|60}}) [[Fracture]] of other and unspecified parts of wrist and hand
+* ({{ICD10|S|63||s|60}}) [[Dislocation]], [[sprain]] and [[Strain (injury)|strain]] of [[joint]]s and [[ligament]]s at [[wrist]] and [[hand]] level
+* ({{ICD10|S|64||s|60}}) Injury of [[nerves]] at [[wrist]] and [[hand]] level
+** ({{ICD10|S|64|0|s|60}}) [[Injury of ulnar nerve]] at [[wrist]] and [[hand]] level
+** ({{ICD10|S|64|1|s|60}}) [[Injury of median nerve]] at [[wrist]] and [[hand]] level
+** ({{ICD10|S|64|2|s|60}}) [[Injury of radial nerve]] at [[wrist]] and [[hand]] level
+** ({{ICD10|S|64|3|s|60}}) Injury of [[Dorsal digital nerves of ulnar nerve|digital nerve]] of [[thumb]]
+** ({{ICD10|S|64|4|s|60}}) Injury of [[Dorsal digital nerves of ulnar nerve|digital nerve]] of other [[finger]]
+** ({{ICD10|S|64|7|s|60}}) Injury of multiple [[nerves]] at [[wrist]] and [[hand]] level
+** ({{ICD10|S|64|8|s|60}}) Injury of other [[nerve]]s at [[wrist]] and [[hand]] level
+** ({{ICD10|S|64|9|s|60}}) Injury of unspecified [[nerve]] at [[wrist]] and [[hand]] level
+* ({{ICD10|S|65||s|60}}) Injury of [[blood vessels]] at [[wrist]] and [[hand]] level
+* ({{ICD10|S|66||s|60}}) Injury of [[muscle]] and [[tendon]] at [[wrist]] and [[hand]] level
+* ({{ICD10|S|67||s|60}}) Crushing injury of [[wrist]] and [[hand]]
+* ({{ICD10|S|68||s|60}}) [[Traumatic amputation]] of [[wrist]] and [[hand]]
+* ({{ICD10|S|69||s|60}}) Other and unspecified injuries of [[wrist]] and [[hand]]
+
+=== (S70–S79) [[hip]] and [[thigh]] ===
+* ({{ICD10|S|70||s|70}}) Superficial injury of [[hip]] and [[thigh]]
+* ({{ICD10|S|71||s|70}}) Open wound of [[hip]] and [[thigh]]
+* ({{ICD10|S|72||s|70}}) [[Fracture of femur]]
+** ({{ICD10|S|72|0|s|70}}) Fracture of [[neck of femur]]
+*** [[Hip fracture|Fracture of hip]] NOS
+** ({{ICD10|S|72|1|s|70}}) [[Pertrochanteric fracture]]
+** ({{ICD10|S|72|2|s|70}}) [[Subtrochanteric fracture]]
+** ({{ICD10|S|72|3|s|70}}) Fracture of [[shaft of femur]]
+** ({{ICD10|S|72|4|s|70}}) Fracture of [[lower end of femur]]
+** ({{ICD10|S|72|7|s|70}}) Multiple fractures of [[femur]]
+** ({{ICD10|S|72|8|s|70}}) Fractures of other parts of [[femur]]
+** ({{ICD10|S|72|9|s|70}}) [[Fracture of femur]], part unspecified
+* ({{ICD10|S|73||s|70}}) [[Dislocation]], [[sprain]] and [[Strain (injury)|strain]] of [[joint]] and [[ligaments]] of [[hip]]
+** ({{ICD10|S|73|0|s|70}}) [[Dislocation of hip]]
+** ({{ICD10|S|73|1|s|70}}) [[Sprain]] and [[Strain (injury)|strain]] of [[hip]]
+* ({{ICD10|S|74||s|70}}) Injury of [[nerves]] at [[hip]] and [[thigh]] level
+* ({{ICD10|S|75||s|70}}) Injury of [[blood vessels]] at [[hip]] and [[thigh]] level
+* ({{ICD10|S|76||s|70}}) Injury of [[muscle]] and [[tendon]] at [[hip]] and [[thigh]] level
+* ({{ICD10|S|77||s|70}}) Crushing injury of [[hip]] and [[thigh]]
+* ({{ICD10|S|78||s|70}}) [[Traumatic amputation]] of [[hip]] and [[thigh]]
+* ({{ICD10|S|79||s|70}}) Other and specified injuries of [[hip]] and [[thigh]]
+
+=== (S80–S89) [[knee]] and [[lower leg]] ===
+* ({{ICD10|S|80||s|80}}) Superficial injury of [[lower leg]]
+* ({{ICD10|S|81||s|80}}) Open wound of [[lower leg]]
+* ({{ICD10|S|82||s|80}}) [[Fracture]] of [[lower leg]], including [[ankle]]
+** ({{ICD10|S|82|0|s|80}}) [[Fracture of patella]]
+** ({{ICD10|S|82|1|s|80}}) [[Fracture]] of [[upper end of tibia]]
+** ({{ICD10|S|82|2|s|80}}) [[Fracture]] of [[shaft of tibia]]
+** ({{ICD10|S|82|3|s|80}}) [[Fracture]] of [[lower end of tibia]]
+** ({{ICD10|S|82|4|s|80}}) [[Fracture]] of [[fibula]] alone
+** ({{ICD10|S|82|5|s|80}}) [[Fracture]] of [[medial malleolus]]
+** ({{ICD10|S|82|6|s|80}}) [[Fracture]] of [[lateral malleolus]]
+** ({{ICD10|S|82|7|s|80}}) [[Multiple fractures]] of [[lower leg]]
+** ({{ICD10|S|82|8|s|80}}) [[Fractures]] of other parts of [[lower leg]]
+*** [[Trimalleolar fracture]]
+** ({{ICD10|S|82|9|s|80}}) [[Fracture]] of [[lower leg]], part unspecified
+* ({{ICD10|S|83||s|80}}) [[Dislocation]], [[sprain]] and [[Strain (injury)|strain]] of [[joints]] and [[ligaments]] of [[knee]]
+** ({{ICD10|S|83|0|s|80}}) [[Dislocation of patella]]
+** ({{ICD10|S|83|1|s|80}}) [[Dislocation of knee]]
+** ({{ICD10|S|83|2|s|80}}) [[Tear of meniscus]], current
+** ({{ICD10|S|83|3|s|80}}) Tear of [[articular cartilage]] of knee, current
+** ({{ICD10|S|83|4|s|80}}) [[Sprain]] and [[Strain (injury)|strain]] involving (fibular)(tibial) [[Fibular collateral ligament|collateral ligament of knee]]
+** ({{ICD10|S|83|5|s|80}}) [[Sprain]] and [[Strain (injury)|strain]] involving (anterior)(posterior) [[cruciate ligament of knee]]
+** ({{ICD10|S|83|6|s|80}}) [[Sprain]] and [[Strain (injury)|strain]] of other and unspecified parts of [[knee]]
+** ({{ICD10|S|83|7|s|80}}) Injury to multiple structures of [[knee]]
+* ({{ICD10|S|84||s|80}}) Injury of [[nerves]] at [[lower leg level]]
+* ({{ICD10|S|85||s|80}}) Injury of [[blood vessels]] at [[lower leg level]]
+* ({{ICD10|S|86||s|80}}) Injury of [[muscle and tendon]] at [[lower leg level]]
+* ({{ICD10|S|87||s|80}}) Crushing injury of [[lower leg]]
+* ({{ICD10|S|88||s|80}}) [[Traumatic amputation]] of [[lower leg]]
+* ({{ICD10|S|89||s|80}}) Other and unspecified injuries of [[lower leg]]
+
+=== (S90–S99) [[ankle]] and [[foot]] ===
+* ({{ICD10|S|90||s|90}}) Superficial injury of [[ankle]] and [[foot]]
+* ({{ICD10|S|91||s|90}}) Open wound of [[ankle]] and [[foot]]
+* ({{ICD10|S|92||s|90}}) [[Fracture of foot]], except [[ankle]]
+** ({{ICD10|S|92|0|s|90}}) [[Fracture]] of [[calcaneus]]
+** ({{ICD10|S|92|1|s|90}}) [[Fracture]] of [[Talus bone|talus]]
+** ({{ICD10|S|92|2|s|90}}) [[Fracture]] of other [[tarsus (skeleton)|tarsal]] bone(s)
+** ({{ICD10|S|92|3|s|90}}) [[Fracture]] of [[metatarsal]] bone
+*** [[Jones fracture]]
+** ({{ICD10|S|92|4|s|90}}) [[Fracture]] of [[great toe]]
+** ({{ICD10|S|92|5|s|90}}) [[Fracture]] of other [[toe]]
+** ({{ICD10|S|92|7|s|90}}) Multiple [[fractures]] of [[foot]]
+** ({{ICD10|S|92|9|s|90}}) [[Fracture]] of [[foot]], unspecified
+* ({{ICD10|S|93||s|90}}) [[Dislocation]], [[sprain]] and [[Strain (injury)|strain]] of [[joints]] and [[ligaments]] at [[ankle]] and [[foot]] level
+** ({{ICD10|S|93|0|s|90}}) [[Dislocation]] of [[ankle joint]]
+** ({{ICD10|S|93|1|s|90}}) [[Dislocation]] of [[toe]](s)
+** ({{ICD10|S|93|2|s|90}}) [[wikt:rupture|Rupture]] of [[ligaments]] at [[ankle]] and [[foot]] level
+** ({{ICD10|S|93|3|s|90}}) [[Dislocation]] of other and unspecified parts of [[foot]]
+** ({{ICD10|S|93|4|s|90}}) [[Sprain]] and [[Strain (injury)|strain]] of [[ankle]]
+** ({{ICD10|S|93|5|s|90}}) [[Sprain]] and [[Strain (injury)|strain]] of [[toe]](s)
+*** [[Interphalangeal articulations of foot|Interphalangeal]] (joint(s))
+*** [[Metatarsophalangeal]] (joint(s)) ([[Turf toe]])
+** ({{ICD10|S|93|6|s|90}}) [[Sprain]] and [[Strain (injury)|strain]] of other and unspecified parts of [[foot]]
+* ({{ICD10|S|94||s|90}}) Injury of [[nerves at ankle]] and [[foot]] level
+* ({{ICD10|S|95||s|90}}) Injury of [[blood vessels at ankle]] and [[foot]] level
+* ({{ICD10|S|96||s|90}}) Injury of [[muscle and tendon at ankle]] and [[foot]] level
+* ({{ICD10|S|97||s|90}}) Crushing injury of [[ankle]] and [[foot]]
+* ({{ICD10|S|98||s|90}}) [[Traumatic amputation]] of [[ankle]] and [[foot]]
+* ({{ICD10|S|99||s|90}}) Other and unspecified injuries of [[ankle]] and [[foot]]
+
+=== (T00–T07) involving multiple body regions ===
+* ({{ICD10|T|00||t|00}}) [[Superficial injuries]] involving multiple body regions
+* ({{ICD10|T|01||t|00}}) [[Open wound]]s involving multiple body regions
+* ({{ICD10|T|02||t|00}}) [[Fractures]] involving multiple body regions
+* ({{ICD10|T|03||t|00}}) [[Dislocations]], [[sprains]] and [[Strain (injury)|strains]] involving multiple body regions
+* ({{ICD10|T|04||t|00}}) [[Crushing injuries]] involving multiple body regions
+* ({{ICD10|T|05||t|00}}) [[Traumatic amputation]]s involving multiple body regions
+* ({{ICD10|T|06||t|00}}) Other injuries involving [[multiple body regions]], not elsewhere classified
+* ({{ICD10|T|07||t|00}}) Unspecified multiple [[injuries]]
+
+=== (T08–T14) unspecified parts of [[torso|trunk]], [[Limb (anatomy)|limb]] or body region ===
+* ({{ICD10|T|08||t|08}}) [[Fracture of spine]], level unspecified
+* ({{ICD10|T|09||t|08}}) Other injuries of [[Vertebral column|spine]] and [[torso|trunk]], level unspecified
+** ({{ICD10|T|09|0|t|08}}) [[Superficial injury of trunk]], level unspecified
+** ({{ICD10|T|09|1|t|08}}) [[Open wound of trunk]], level unspecified
+** ({{ICD10|T|09|2|t|08}}) [[Dislocation, sprain and strain]] of unspecified joint and ligament of trunk
+** ({{ICD10|T|09|3|t|08}}) [[Injury of spinal cord]], level unspecified
+** ({{ICD10|T|09|4|t|08}}) [[Injury of unspecified nerve]], spinal nerve root and plexus of trunk
+** ({{ICD10|T|09|5|t|08}}) [[Injury of unspecified muscle]] and [[tendon]] of trunk
+** ({{ICD10|T|09|6|t|08}}) [[Traumatic amputation of trunk]], level unspecified
+** ({{ICD10|T|09|8|t|08}}) Other specified [[injuries of trunk]], level unspecified
+** ({{ICD10|T|09|9|t|08}}) Unspecified [[injury of trunk]], level unspecified
+* ({{ICD10|T|10||t|08}}) Fracture of [[upper limb]], level unspecified
+* ({{ICD10|T|11||t|08}}) Other [[injuries of upper limb]], level unspecified
+* ({{ICD10|T|12||t|08}}) [[Fracture of lower limb]], level unspecified
+* ({{ICD10|T|13||t|08}}) Other [[injuries of lower limb]], level unspecified
+* ({{ICD10|T|14||t|08}}) [[Injuries]] of unspecified body region
+** ({{ICD10|T|14|0|t|08}}) Superficial [[injury]] of unspecified body region
+*** [[Abrasion (medical)|Abrasion]], NOS
+*** [[Blister]] (nonthermal), NOS
+*** [[Bruise]], NOS
+*** [[Contusion]], NOS
+*** [[Haematoma]], NOS
+*** Injury from superficial [[foreign body]] (splinter) without major open wound, NOS
+*** [[Insect bite]] (nonvenomous), NOS
+** ({{ICD10|T|14|1|t|08}}) [[Open wound]] of unspecified body region
+*** [[Animal bite]], NOS
+*** [[Cut (wound)|Cut]], NOS
+*** [[Laceration]], NOS
+*** [[Open wound]], NOS
+*** [[Puncture wound]] with (penetrating) [[foreign body]]
+** ({{ICD10|T|14|2|t|08}}) [[Fracture]] of unspecified body region
+** ({{ICD10|T|14|3|t|08}}) [[Joint dislocation|Dislocation]], [[sprain]] and [[Strain (injury)|strain]] of unspecified body region
+** ({{ICD10|T|14|4|t|08}}) [[Injury of nerve]](s) of unspecified body region
+** ({{ICD10|T|14|5|t|08}}) [[Injury of blood vessel]](s) of unspecified body region
+** ({{ICD10|T|14|6|t|08}}) [[Injury of muscles]] and [[tendons]] of unspecified body region
+** ({{ICD10|T|14|7|t|08}}) [[Crushing injury]] and [[traumatic amputation]] of unspecified body region
+** ({{ICD10|T|14|8|t|08}}) Other [[injuries]] of unspecified body region
+** ({{ICD10|T|14|9|t|08}}) [[Injury]], unspecified
+
+==T15–T98 – [[Poison]]ing and certain other consequences of external causes==
+=== (T15–T19) Effects of [[foreign body]] entering through natural [[Body orifice|orifice]] ===
+* ({{ICD10|T|15||t|15}}) [[Foreign body]] on [[external eye]]
+* ({{ICD10|T|16||t|15}}) [[Foreign body]] in [[ear]]
+* ({{ICD10|T|17||t|15}}) [[Foreign body]] in [[respiratory tract]]
+* ({{ICD10|T|18||t|15}}) [[Foreign body]] in [[alimentary tract]]
+* ({{ICD10|T|19||t|15}}) [[Foreign body]] in [[genitourinary tract]]
+
+=== (T20–T32) [[burn (injury)|Burns]] and [[corrosions]] ===
+* ({{ICD10|T|20||t|20}}) [[burn (injury)|Burn]] and [[corrosion]] of [[Human head|head]] and [[neck]]
+* ({{ICD10|T|21||t|20}}) [[burn (injury)|Burn]] and [[corrosion]] of [[torso|trunk]]
+* ({{ICD10|T|22||t|20}}) [[burn (injury)|Burn]] and [[corrosion]] of [[shoulder]] and [[upper limb]], except [[wrist]] and [[hand]]
+* ({{ICD10|T|23||t|20}}) [[burn (injury)|Burn]] and [[corrosion]] of [[wrist]] and [[hand]]
+* ({{ICD10|T|24||t|20}}) [[burn (injury)|Burn]] and [[corrosion]] of [[hip]] and [[lower limb]], except [[ankle]] and [[foot]]
+* ({{ICD10|T|25||t|20}}) [[burn (injury)|Burn]] and [[corrosion]] of [[ankle and foot]]
+* ({{ICD10|T|29||t|20}}) [[burn (injury)|Burns]] and [[corrosions]] of multiple body regions
+* ({{ICD10|T|30||t|20}}) [[burn (injury)|Burn]] and [[corrosion]], body region unspecified
+* ({{ICD10|T|31||t|20}}) [[burn (injury)|Burns]] classified according to extent of body surface involved
+* ({{ICD10|T|32||t|20}}) [[Corrosion]]s classified according to extent of body surface involved
+
+=== (T33–T35) [[Frostbite]] ===
+* ({{ICD10|T|33||t|33}}) [[Superficial frostbite]]
+* ({{ICD10|T|34||t|33}}) [[Frostbite with tissue necrosis]]
+* ({{ICD10|T|35||t|33}}) [[Frostbite]] involving multiple body regions and unspecified frostbite
+
+=== (T36–T50) [[Poison]]ing by [[medication|drugs]], [[medicaments]] and [[biotic material|biological substances]] ===
+* ({{ICD10|T|36||t|36}}) [[Poison]]ing by [[systemic antibiotics]]
+* ({{ICD10|T|37||t|36}}) [[Poison]]ing by other systemic [[anti-infectives]] and [[antiparasitics]]
+** ({{ICD10|T|37|0|t|36}}) [[Sulfonamides]]
+** ({{ICD10|T|37|1|t|36}}) [[Antimycobacterial]] drugs
+** ({{ICD10|T|37|2|t|36}}) [[Antimalarials]] and drugs acting on other blood protozoa
+** ({{ICD10|T|37|3|t|36}}) Other [[antiprotozoal]] drugs
+** ({{ICD10|T|37|4|t|36}}) [[Anthelminthics]]
+** ({{ICD10|T|37|5|t|36}}) [[Antiviral drug]]s
+** ({{ICD10|T|37|8|t|36}}) Other specified systemic [[anti-infectives]] and [[antiparasitics]]
+** ({{ICD10|T|37|9|t|36}}) Systemic [[anti-infective]] and [[antiparasitic]], unspecified
+* ({{ICD10|T|38||t|36}}) [[Poison]]ing by [[hormones]] and their synthetic substitutes and [[Receptor antagonist|antagonists]], not elsewhere classified
+* ({{ICD10|T|39||t|36}}) [[Poison]]ing by [[nonopiod analgesics]], [[antipyretics]] and [[antirheumatics]]
+** ({{ICD10|T|39|0|t|36}}) [[Salicylates]]
+** ({{ICD10|T|39|1|t|36}}) [[4-Aminophenol]] derivatives
+** ({{ICD10|T|39|2|t|36}}) [[Pyrazolone]] derivatives
+** ({{ICD10|T|39|3|t|36}}) Other [[nonsteroidal anti-inflammatory drugs]] (NSAID)
+** ({{ICD10|T|39|4|t|36}}) [[Antirheumatics]], not elsewhere classified
+* ({{ICD10|T|40||t|36}}) [[Poison]]ing by [[narcotics]] and [[psychodysleptics]] ([[Psychedelics, dissociatives and deliriants|hallucinogens]])
+** ({{ICD10|T|40|0|t|36}}) [[Opium]]
+** ({{ICD10|T|40|1|t|36}}) [[Heroin]]
+** ({{ICD10|T|40|2|t|36}}) Other [[opioids]]
+*** [[Codeine]]
+*** [[Morphine]]
+** ({{ICD10|T|40|3|t|36}}) [[Methadone]]
+** ({{ICD10|T|40|4|t|36}}) Other synthetic [[narcotics]]
+*** [[Pethidine]]
+** ({{ICD10|T|40|5|t|36}}) [[Cocaine]]
+** ({{ICD10|T|40|6|t|36}}) Other and unspecified [[narcotics]]
+** ({{ICD10|T|40|7|t|36}}) [[Cannabis]] (derivatives)
+** ({{ICD10|T|40|8|t|36}}) [[Lysergide]] (LSD)
+** ({{ICD10|T|40|9|t|36}}) Other and unspecified [[psychodysleptics]] ([[hallucinogens]])
+*** [[Mescaline]]
+*** [[Psilocin]]
+*** [[Psilocybine]]
+* ({{ICD10|T|41||t|36}}) [[Poison]]ing by [[anaesthetics]] and [[therapeutic gases]]
+* ({{ICD10|T|42||t|36}}) [[Poison]]ing by [[antiepileptic]], [[sedative-hypnotic]] and [[antiparkinsonism]] drugs
+** ({{ICD10|T|42|0|t|36}}) [[Hydantoin]] derivatives
+** ({{ICD10|T|42|1|t|36}}) [[Iminostilbenes]]
+** ({{ICD10|T|42|2|t|36}}) [[Succinimides]] and [[oxazolidinedione]]s
+** ({{ICD10|T|42|3|t|36}}) [[Barbiturates]]
+** ({{ICD10|T|42|4|t|36}}) [[Benzodiazepines]]
+** ({{ICD10|T|42|5|t|36}}) Mixed [[antiepileptics]], not elsewhere classified
+** ({{ICD10|T|42|6|t|36}}) Other [[antiepileptic]] and [[sedative-hypnotic]] drugs
+** ({{ICD10|T|42|7|t|36}}) [[Antiepileptic]] and [[sedative-hypnotic]] drugs, unspecified
+** ({{ICD10|T|42|8|t|36}}) [[Antiparkinsonism]] drugs and other central muscle-tone depressants
+* ({{ICD10|T|43||t|36}})  by [[psychotropic drugs]], not elsewhere classified
+* ({{ICD10|T|44||t|36}})  by drugs primarily affecting the [[autonomic nervous system]]
+* ({{ICD10|T|45||t|36}}) [[Poison]]ing by primarily [[:wikt:systemic|systemic]] and [[haematological agents]], not elsewhere classified
+* ({{ICD10|T|46||t|36}}) [[Poison]]ing by agents primarily affecting the [[cardiovascular system]]
+* ({{ICD10|T|47||t|36}}) [[Poison]]ing by agents primarily affecting the [[gastrointestinal system]]
+* ({{ICD10|T|48||t|36}}) [[Poison]]ing by agents primarily acting on smooth and [[skeletal muscles]] and the [[respiratory system]]
+* ({{ICD10|T|49||t|36}}) [[Poison]]ing by [[topical agents]] primarily affecting [[skin]] and [[mucous membrane]] and by [[ophthalmological]], [[otorhinolaryngological]] and [[dentistry|dental]] drugs
+* ({{ICD10|T|50||t|36}}) [[Poison]]ing by [[diuretics]] and other unspecified drugs, medicaments and biological substances
+
+=== (T51–T65) [[Toxic effects]] of substances chiefly nonmedicinal as to source ===
+* ({{ICD10|T|51||t|51}}) Toxic effect of [[alcohol]]
+** ({{ICD10|T|51|0|t|51}}) [[Ethanol]]
+** ({{ICD10|T|51|1|t|51}}) [[Methanol]]
+** ({{ICD10|T|51|2|t|51}}) [[2-Propanol]]
+** ({{ICD10|T|51|3|t|51}}) [[Fusel oil]]
+* ({{ICD10|T|52||t|51}}) Toxic effect of [[organic solvents]]
+** ({{ICD10|T|52|0|t|51}}) [[Petroleum products]]
+*** [[Gasoline]]
+*** [[Kerosine]]
+*** [[Paraffin wax]]
+** ({{ICD10|T|52|1|t|51}}) [[Benzene]]
+** ({{ICD10|T|52|2|t|51}}) [[Homologues of benzene]]
+*** [[Toluene]]
+*** [[Xylene]]
+** ({{ICD10|T|52|3|t|51}}) [[Glycols]]
+** ({{ICD10|T|52|4|t|51}}) [[Ketones]]
+* ({{ICD10|T|53||t|51}}) Toxic effect of halogen derivatives of [[aliphatic]] and [[aromatic hydrocarbons]]
+** ({{ICD10|T|53|0|t|51}}) [[Carbon tetrachloride]]
+*** [[Tetrachloromethane]]
+** ({{ICD10|T|53|1|t|51}}) [[Chloroform]]
+*** [[Trichloromethane]]
+** ({{ICD10|T|53|2|t|51}}) [[Trichloroethylene]]
+*** [[Trichloroethene]]
+** ({{ICD10|T|53|3|t|51}}) [[Tetrachloroethylene]]
+*** [[Perchloroethylene]]
+*** [[Tetrachloroethene]]
+** ({{ICD10|T|53|4|t|51}}) [[Dichloromethane]]
+*** [[Methylene chloride]]
+** ({{ICD10|T|53|5|t|51}}) [[Chlorofluorocarbons]]
+* ({{ICD10|T|54||t|51}}) Toxic effect of [[corrosive]] substances
+** ({{ICD10|T|54|0|t|51}}) [[Phenol]] and phenol homologues
+** ({{ICD10|T|54|1|t|51}}) Other corrosive [[organic compounds]]
+** ({{ICD10|T|54|2|t|51}}) Corrosive [[acids]] and acid-like substances
+** ({{ICD10|T|54|3|t|51}}) Corrosive [[alkalis]] and alkali-like substances
+* ({{ICD10|T|55||t|51}}) Toxic effect of [[soaps]] and [[detergents]]
+* ({{ICD10|T|56||t|51}}) Toxic effect of [[metals]]
+** ({{ICD10|T|56|0|t|51}}) [[Lead poisoning|Lead and its compounds]]
+** ({{ICD10|T|56|1|t|51}}) [[Mercury poisoning|Mercury and its compounds]]
+** ({{ICD10|T|56|2|t|51}}) [[Chromium toxicity|Chromium and its compounds]]
+** ({{ICD10|T|56|3|t|51}}) [[Cadmium poisoning|Cadmium and its compounds]]
+** ({{ICD10|T|56|4|t|51}}) [[Copper toxicity|Copper and its compounds]]
+** ({{ICD10|T|56|5|t|51}}) [[Zinc toxicity|Zinc and its compounds]]
+** ({{ICD10|T|56|6|t|51}}) [[Tin poisoning|Tin and its compounds]]
+** ({{ICD10|T|56|7|t|51}}) [[Beryllium poisoning|Beryllium and its compounds]]
+** ({{ICD10|T|56|8|t|51}}) [[Other metals]]
+* ({{ICD10|T|57||t|51}}) Toxic effect of other inorganic substances
+** ({{ICD10|T|57|0|t|51}}) [[Arsenic poisoning|Arsenic and its compounds]]
+** ({{ICD10|T|57|1|t|51}}) [[Phosphorus]] and its compounds
+** ({{ICD10|T|57|2|t|51}}) [[Manganism|Manganese and its compounds]]
+** ({{ICD10|T|57|3|t|51}}) [[Hydrogen cyanide]]
+* ({{ICD10|T|58||t|51}}) [[Carbon monoxide poisoning|Toxic effect of carbon monoxide]]
+* ({{ICD10|T|59||t|51}}) Toxic effect of other [[gases]], fumes and [[Vapor|vapours]]
+** ({{ICD10|T|59|0|t|51}}) [[Nitrogen oxides]]
+** ({{ICD10|T|59|1|t|51}}) [[Sulfur dioxide]]
+** ({{ICD10|T|59|2|t|51}}) [[Formaldehyde]]
+** ({{ICD10|T|59|3|t|51}}) [[Lacrimogenic gas]]
+*** [[Tear gas]]
+** ({{ICD10|T|59|4|t|51}}) [[Chlorine gas]]
+** ({{ICD10|T|59|5|t|51}}) [[Fluorine gas]] and [[hydrogen fluoride]]
+** ({{ICD10|T|59|6|t|51}}) [[Hydrogen sulfide]]
+** ({{ICD10|T|59|7|t|51}}) [[Carbon dioxide]]
+* ({{ICD10|T|60||t|51}}) Toxic effect of [[pesticides]]
+** ({{ICD10|T|60|0|t|51}}) [[Organophosphate]] and [[carbamate]] [[insecticides]]
+** ({{ICD10|T|60|1|t|51}}) [[Halogenated]] [[insecticides]]
+** ({{ICD10|T|60|2|t|51}}) Other [[insecticides]]
+** ({{ICD10|T|60|3|t|51}}) [[Herbicides]] and [[fungicides]]
+** ({{ICD10|T|60|4|t|51}}) [[Rodenticides]]
+* ({{ICD10|T|61||t|51}}) Toxic effect of [[Poison|noxious]] substances eaten as [[seafood]]
+** ({{ICD10|T|61|0|t|51}}) [[Ciguatera]] fish poisoning
+** ({{ICD10|T|61|1|t|51}}) [[Scombroid]] fish poisoning
+* ({{ICD10|T|62||t|51}}) Toxic effect of others [[Poison|noxious]] substances eaten as [[food]]
+** ({{ICD10|T|62|0|t|51}}) Ingested [[mushrooms]]
+** ({{ICD10|T|62|1|t|51}}) Ingested [[berries]]
+** ({{ICD10|T|62|2|t|51}}) Other ingested (parts of) [[plant]](s)
+** ({{ICD10|T|62|8|t|51}}) Other specified noxious substances eaten as [[food]]
+** ({{ICD10|T|62|9|t|51}}) [[Poison|Noxious]] substance eaten as food, unspecified
+* ({{ICD10|T|63||t|51}}) Toxic effect of [[venomous animals]]
+** ({{ICD10|T|63|0|t|51}}) [[Snake venom]]
+** ({{ICD10|T|63|1|t|51}}) [[Venom]] of other [[reptiles]]
+** ({{ICD10|T|63|2|t|51}}) [[Venom]] of [[scorpion]]
+** ({{ICD10|T|63|3|t|51}}) [[Venom]] of [[spider]]
+** ({{ICD10|T|63|4|t|51}}) [[Venom]] of other [[arthropods]]
+** ({{ICD10|T|63|5|t|51}}) [[Toxic]] effect of contact with [[fish]]
+** ({{ICD10|T|63|6|t|51}}) [[Toxic]] effect of contact with other [[Marine (ocean)|marine]] animals
+** ({{ICD10|T|63|8|t|51}}) [[Toxic]] effect of contact with other [[venomous]] animals
+** ({{ICD10|T|63|9|t|51}}) [[Toxic]] effect of contact with unspecified [[venomous]] animal
+* ({{ICD10|T|64||t|51}}) Toxic effect of [[aflatoxin]] and other [[mycotoxin]] food contaminants
+* ({{ICD10|T|65||t|51}}) Toxic effect of other and unspecified substances
+** ({{ICD10|T|65|0|t|51}}) [[Cyanide poisoning|Cyanides]]
+** ({{ICD10|T|65|1|t|51}}) [[Strychnine]] and its salts
+** ({{ICD10|T|65|2|t|51}}) [[Tobacco]] and [[nicotine]]
+** ({{ICD10|T|65|3|t|51}}) [[Nitroderivatives]] and aminoderivatives of [[benzene]] and its homologues
+*** [[Aniline]]
+*** [[Nitrobenzene]]
+*** [[Trinitrotoluene]]
+** ({{ICD10|T|65|4|t|51}}) [[Carbon disulfide]]
+** ({{ICD10|T|65|5|t|51}}) [[Nitroglycerin]] and other nitric acids and esters
+** ({{ICD10|T|65|6|t|51}}) [[Paints]] and [[dyes]], not elsewhere classified
+** ({{ICD10|T|65|8|t|51}}) [[Toxic effect of other specified substances]]
+** ({{ICD10|T|65|9|t|51}}) [[Toxic effect of unspecified substance]]
+*** [[Poison]]ing NOS
+
+=== (T66–T78) Other and unspecified effects of [[external causes]] ===
+* ({{ICD10|T|66||t|66}}) Unspecified effects of [[radiation]]
+** [[Radiation sickness]]
+* ({{ICD10|T|67||t|66}}) Effects of [[heat]] and [[light]]
+** ({{ICD10|T|67|0|t|66}}) [[Heatstroke]] and [[sunstroke]]
+** ({{ICD10|T|67|1|t|66}}) [[Heat syncope]]
+*** [[Heat collapse]]
+** ({{ICD10|T|67|2|t|66}}) [[Heat cramp]]
+** ({{ICD10|T|67|3|t|66}}) [[Heat exhaustion]], [[anhydrotic]]
+** ({{ICD10|T|67|4|t|66}}) [[Heat exhaustion]] due to [[salt depletion]]
+** ({{ICD10|T|67|5|t|66}}) [[Heat exhaustion]], unspecified
+** ({{ICD10|T|67|6|t|66}}) [[Heat fatigue]], [[wikt:transience|transient]]
+** ({{ICD10|T|67|7|t|66}}) [[Heat oedema]]
+** ({{ICD10|T|67|8|t|66}}) Other effects of [[heat]] and [[light]]
+** ({{ICD10|T|67|9|t|66}}) Effect of [[heat]] and [[light]], unspecified
+* ({{ICD10|T|68||t|66}}) [[Hypothermia]]
+* ({{ICD10|T|69||t|66}}) Other effects of reduced [[temperature]]
+** ({{ICD10|T|69|0|t|66}}) [[:wikt:immersion|Immersion]] [[hand]] and [[foot]]
+*** [[Trench foot]]
+** ({{ICD10|T|69|1|t|66}}) [[Chilblains]]
+* ({{ICD10|T|70||t|66}}) Effects of [[air pressure]] and [[water pressure]]
+** ({{ICD10|T|70|0|t|66}}) [[Otitic barotrauma]]
+** ({{ICD10|T|70|1|t|66}}) [[Sinus barotrauma]]
+** ({{ICD10|T|70|2|t|66}}) Other and unspecified effects of [[high altitude]]
+*** [[Alpine sickness]]
+*** [[Hypoxia (medical)|Anoxia]] due to high altitude
+*** [[Barotrauma]] NOS
+*** [[Hypobaropathy]]
+*** [[Altitude sickness|Mountain sickness]]
+** ({{ICD10|T|70|3|t|66}}) [[Caisson disease]] ([[decompression sickness]])
+* ({{ICD10|T|71||t|66}}) [[Asphyxiation]]
+* ({{ICD10|T|73||t|66}}) Effects of other [[wikt:deprivation|deprivation]]
+** ({{ICD10|T|73|0|t|66}}) Effects of [[hunger]]
+*** [[Deprivation of food]]
+*** [[Starvation]]
+** ({{ICD10|T|73|1|t|66}}) [[Effects of thirst]]
+*** [[Deprivation of water]]
+** ({{ICD10|T|73|2|t|66}}) Exhaustion due to [[Hypothermia|exposure]]
+** ({{ICD10|T|73|3|t|66}}) [[Exhaustion]] due to [[excessive exertion]]
+*** [[Overexertion]]
+** ({{ICD10|T|73|8|t|66}}) Other effects of [[wikt:deprivation|deprivation]]
+** ({{ICD10|T|73|9|t|66}}) Effect of [[wikt:deprivation|deprivation]], unspecified
+* ({{ICD10|T|74||t|66}}) [[Maltreatment]] syndromes
+** ({{ICD10|T|74|0|t|66}}) [[Neglect]] or [[abandonment]]
+** ({{ICD10|T|74|1|t|66}}) [[Physical abuse]]
+** ({{ICD10|T|74|2|t|66}}) [[Sexual abuse]]
+** ({{ICD10|T|74|3|t|66}}) [[Psychological abuse]]
+* ({{ICD10|T|75||t|66}}) Effects of other [[external causes]]
+** ({{ICD10|T|75|0|t|66}}) Effects of [[lightning]]
+** ({{ICD10|T|75|1|t|66}}) [[Drowning]] and nonfatal [[wikt:submersion|submersion]]
+** ({{ICD10|T|75|2|t|66}}) Effects of [[oscillation|vibration]]
+*** [[Vertigo (medical)|Vertigo]] from [[infrasound]]
+** ({{ICD10|T|75|3|t|66}}) [[Motion sickness]]
+*** [[Airsickness]]
+*** [[Seasickness]]
+*** [[Travel sickness]]
+** ({{ICD10|T|75|4|t|66}}) Effects of [[electric current]]
+*** [[electric shock|Electrocution]]
+*** [[Shock from electric current]]
+* ({{ICD10|T|78||t|66}}) [[Adverse effects]], not elsewhere classified
+** ({{ICD10|T|78|0|t|66}}) [[Anaphylactic shock]] due to [[adverse food reaction]]
+** ({{ICD10|T|78|1|t|66}}) Other [[adverse food reactions]], not elsewhere classified
+** ({{ICD10|T|78|2|t|66}}) [[Anaphylactic shock]], unspecified
+** ({{ICD10|T|78|3|t|66}}) [[Angioneurotic oedema]]
+** ({{ICD10|T|78|4|t|66}}) [[Allergy]], unspecified
+*** [[Allergic reaction]] NOS
+*** [[Hypersensitivity]] NOS
+*** [[Idiosyncrasy]] NOS
+** ({{ICD10|T|78|8|t|66}}) Other [[adverse effects]], not elsewhere classified
+** ({{ICD10|T|78|9|t|66}}) [[Adverse effect]], unspecified
+
+=== (T79) Certain early complications of [[Physical trauma|trauma]] ===
+* ({{ICD10|T|79||t|79}}) Certain early complications of [[Physical trauma|trauma]], not elsewhere classified
+** ({{ICD10|T|79|0|t|79}}) [[Air embolism]] (traumatic)
+** ({{ICD10|T|79|1|t|79}}) [[Fat embolism]] (traumatic)
+** ({{ICD10|T|79|2|t|79}}) [[Physical trauma|Traumatic]] secondary and recurrent [[haemorrhage]]
+** ({{ICD10|T|79|3|t|79}}) [[Post-traumatic]] [[wound]] [[infection]], not elsewhere classified
+** ({{ICD10|T|79|4|t|79}}) [[Physical trauma|Traumatic]] [[Shock (circulatory)|shock]]
+** ({{ICD10|T|79|5|t|79}}) [[Physical trauma|Traumatic]] [[anuria]]
+*** [[Crush syndrome]]
+** ({{ICD10|T|79|6|t|79}}) [[Physical trauma|Traumatic]] [[ischaemia]] of [[muscle]]
+*** [[Compartment syndrome]]
+*** [[Volkmann's ischaemic contracture]]
+** ({{ICD10|T|79|7|t|79}}) [[Physical trauma|Traumatic]] [[subcutaneous]] [[emphysema]]
+** ({{ICD10|T|79|8|t|79}}) Other [[early complications]] of [[Physical trauma|trauma]]
+** ({{ICD10|T|79|9|t|79}}) Unspecified [[early complication]] of [[Physical trauma|trauma]]
+
+=== (T80–T88) [[Complication (medicine)|Complications]] of surgical and medical care, not elsewhere classified ===
+* ({{ICD10|T|80||t|80}}) [[Complication (medicine)|Complications]] following [[infusion]], [[Blood transfusion|transfusion]] and therapeutic [[Injection (medicine)|injection]]
+** ({{ICD10|T|80|0|t|80}}) [[Air embolism]] following [[infusion]], [[Blood transfusion|transfusion]] and [[therapeutic injection]]
+** ({{ICD10|T|80|1|t|80}}) [[Vascular complications]] following [[infusion]], [[Blood transfusion|transfusion]] and [[therapeutic injection]]
+** ({{ICD10|T|80|2|t|80}}) [[Infections]] following [[infusion]], [[Blood transfusion|transfusion]] and [[therapeutic injection]]
+** ({{ICD10|T|80|3|t|80}}) [[ABO incompatibility reaction]]
+** ({{ICD10|T|80|4|t|80}}) [[Rh incompatibility reaction]]
+** ({{ICD10|T|80|5|t|80}}) [[Anaphylactic shock]] due to [[wikt:serum|serum]]
+** ({{ICD10|T|80|6|t|80}}) Other [[serum reactions]]
+*** [[Serum sickness]]
+** ({{ICD10|T|80|8|t|80}}) Other complications following [[infusion]], [[Blood transfusion|transfusion]] and [[therapeutic injection]]
+** ({{ICD10|T|80|9|t|80}}) Unspecified complication following [[infusion]], [[Blood transfusion|transfusion]] and [[therapeutic injection]]
+* ({{ICD10|T|81||t|80}}) [[Complication (medicine)|Complications]] of procedures, not elsewhere classified
+** ({{ICD10|T|81|0|t|80}}) [[Haemorrhage and haematoma complicating a procedure]], not elsewhere classified
+** ({{ICD10|T|81|1|t|80}}) [[Shock during or resulting from a procedure]], not elsewhere classified
+** ({{ICD10|T|81|2|t|80}}) [[Accidental puncture and laceration during a procedure]], not elsewhere classified
+** ({{ICD10|T|81|3|t|80}}) [[Disruption of operation wound]], not elsewhere classified
+** ({{ICD10|T|81|4|t|80}}) [[Infection]] following a [[List of surgical procedures|procedure]], not elsewhere classified
+** ({{ICD10|T|81|5|t|80}}) [[Foreign body accidentally left in body cavity or operation wound following a procedure]]
+** ({{ICD10|T|81|6|t|80}}) [[Acute reaction to foreign substance accidentally left during a procedure]]
+** ({{ICD10|T|81|7|t|80}}) [[Vascular complications following a procedure]], not elsewhere classified
+** ({{ICD10|T|81|8|t|80}}) Other [[complications of procedures]], not elsewhere classified
+** ({{ICD10|T|81|9|t|80}}) Unspecified [[complication of procedure]]
+* ({{ICD10|T|82||t|80}}) [[Complication (medicine)|Complications]] of [[cardiac]] and [[Blood vessel|vascular]] [[prosthetic devices]], [[implant (medicine)|implants]] and [[grafts]]
+* ({{ICD10|T|83||t|80}}) [[Complication (medicine)|Complications]] of [[genitourinary]] [[prosthetic devices]], [[implant (medicine)|implants]] and [[grafts]]
+* ({{ICD10|T|84||t|80}}) [[Complication (medicine)|Complications]] of internal [[orthopaedic]] [[prosthetic devices]], [[implant (medicine)|implants]] and [[grafts]]
+* ({{ICD10|T|85||t|80}}) [[Complication (medicine)|Complications]] of other internal [[prosthetic devices]], [[implant (medicine)|implants]] and [[grafts]]
+* ({{ICD10|T|86||t|80}}) [[Failure]] and [[Transplant rejection|rejection]] of [[transplanted organs]] and [[Biological tissue|tissues]]
+** ({{ICD10|T|86|0|t|80}}) [[Bone-marrow transplant rejection]]
+*** [[Graft-versus-host reaction]] or disease
+* ({{ICD10|T|87||t|80}}) [[Complication (medicine)|Complications]] peculiar to [[reattachment]] and [[amputation]]
+* ({{ICD10|T|88||t|80}}) Other complications of [[surgical]] and medical care, not elsewhere classified
+** ({{ICD10|T|88|0|t|80}}) [[Infection following immunization]]
+** ({{ICD10|T|88|1|t|80}}) Other [[complications following immunization]], not elsewhere classified
+** ({{ICD10|T|88|2|t|80}}) [[Shock due to anaesthesia]]
+** ({{ICD10|T|88|3|t|80}}) [[Malignant hyperthermia]] due to [[anaesthesia]]
+** ({{ICD10|T|88|4|t|80}}) [[Failed or difficult intubation]]
+** ({{ICD10|T|88|5|t|80}}) Other [[complications of anaesthesia]]
+** ({{ICD10|T|88|6|t|80}}) [[Anaphylactic shock due to adverse effect of correct drug or medicament properly administered]]
+** ({{ICD10|T|88|7|t|80}}) Unspecified [[adverse effect of drug or medicament]]
+** ({{ICD10|T|88|8|t|80}}) [[Other specified complications of surgical and medical care]], not elsewhere classified
+** ({{ICD10|T|88|9|t|80}}) [[Complication of surgical and medical care]], unspecified
+
+=== (T90–T98) [[Sequelae]] of [[injuries]], of [[Poison]]ing and of other consequences of [[external causes]] ===
+* ({{ICD10|T|90||t|90}}) [[Sequelae]] of injuries of [[Human head|head]]
+* ({{ICD10|T|91||t|90}}) [[Sequelae]] of injuries of [[neck]] and [[torso|trunk]]
+* ({{ICD10|T|92||t|90}}) [[Sequelae]] of injuries of [[upper limb]]
+* ({{ICD10|T|93||t|90}}) [[Sequelae]] of injuries of [[lower limb]]
+* ({{ICD10|T|94||t|90}}) [[Sequelae]] of injuries involving multiple and unspecified body regions
+* ({{ICD10|T|95||t|90}}) [[Sequelae]] of [[burn (injury)|burns]], [[corrosions]] and [[frostbite]]
+* ({{ICD10|T|96||t|90}}) [[Sequelae]] of [[poison]]ings by drugs, [[medicaments]] and biological substances
+* ({{ICD10|T|97||t|90}}) [[Sequelae]] of toxic effects of substances chiefly nonmedicinal as to source
+* ({{ICD10|T|98||t|90}}) [[Sequelae]] of Other and unspecified effects of external causes
+
+==See also==
+* [[List of ICD-10 codes]]
+* [[ICD|International Statistical Classification of Diseases and Related Health Problems]]
+* [[List of ICD-9 codes 800–999: injury and poisoning]]
+
+==References==
+{{reflist}}
+{{Medical conditions}}
+{{Fractures}}
+{{Dislocations, sprains and strains}}
+{{Nonmusculoskeletal injuries of head, neck, and thorax}}
+{{Chest trauma}}
+{{Nonmusculoskeletal injuries of abdomen and pelvis}}
+{{General injuries}}
+{{Neurotrauma}}
+{{Foreign bodies, burns, corrosion, and frostbite}}
+{{Poisoning and toxicity}}
+{{Consequences of external causes}}
+{{Certain early complications of trauma}}
+{{Complications of surgical and medical care}}
+[[Category:Medical manuals]]

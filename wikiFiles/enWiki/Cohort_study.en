@@ -1,0 +1,91 @@
+{{for|other senses of this word|cohort (disambiguation)}}
+{{linkrot|date=April 2013}}
+A '''cohort study''' or '''panel study''' is a form of [[longitudinal study]] (a type of [[observational study]]) used in [[medicine]], [[social science]], [[actuarial science]], and [[ecology]]. It is an analysis of [[risk factors]] and follows a group of people who do not have the disease, and uses correlations to determine the absolute risk of subject contraction. It is one type of [[clinical study design]] and should be compared with a [[cross-sectional study]]. Cohort studies are largely about the life histories of segments of populations, and the individual people who constitute these segments.<ref>http://www.socialresearchmethods.net/tutorial/Cho2/cohort.html</ref><ref>Porta M (editor). A dictionary of epidemiology. 5th. edition. New York: Oxford University Press, 2008. [http://www.oup.com/us/catalog/general/subject/Medicine/EpidemiologyBiostatistics/?view=usa&ci=9780195314502]</ref>
+
+A [[cohort (statistics)|cohort]] is a group of people who share a common characteristic or experience within a defined period (e.g., are born, are exposed to a drug or vaccine or pollutant, or undergo a certain medical procedure). Thus a group of people who were born on a day or in a particular period, say 1948, form a birth cohort. The comparison group may be the general population from which the cohort is drawn, or it may be another cohort of persons thought to have had little or no exposure to the substance under investigation, but otherwise similar. Alternatively, subgroups within the cohort may be compared with each other.
+
+[[Randomized controlled trial]]s are a superior methodology in the hierarchy of evidence in therapy, because they limit the potential for any biases by randomly assigning one patient pool to an intervention and another patient pool to non-intervention (or placebo). This minimizes the chance that the incidence of [[confounding]] (particularly unknown confounding) variables will differ between the two groups. However, it is important to note that RCTs may not be suitable in all cases and other methodologies could be much more suitable to investigate the study's objective.
+
+Cohort studies can either be conducted prospectively, or retrospectively from archived records.<ref>http://www.ehib.org/faq.jsp?faq_key=37</ref>
+
+== Application ==
+
+In medicine, a cohort study is often undertaken to obtain evidence to try to refute the existence of a suspected association between cause and effect; failure to refute a hypothesis strengthens confidence in it. Crucially, the cohort is identified before the appearance of the disease under investigation. The study groups follow a group of people who do not have the disease for a period of time and see who develops the disease (new incidence). The cohort cannot therefore be defined as a group of people who already have the disease. Prospective (longitudinal) cohort studies between exposure and disease strongly aid in studying causal associations, though distinguishing true causality usually requires further corroboration from further experimental trials.
+
+The advantage of prospective cohort study data is that it can help determine risk factors for contracting a new disease because it is a longitudinal observation of the individual through time, and the collection of data at regular intervals, so recall error is reduced. However, cohort studies are expensive to conduct, are sensitive to [[Attrition (medicine, epidemiology)|attrition]] and take a long follow-up time to generate useful data. Nevertheless, the results that are obtained from long-term cohort studies are of substantially superior quality to those obtained from retrospective/cross-sectional studies. Prospective cohort studies are considered to yield the most reliable results in observational epidemiology. They enable a wide range of exposure-disease associations to be studied.
+
+Some cohort studies track groups of children from their birth, and record a wide range of information (exposures) about them. The value of a cohort study depends on the researchers' capacity to stay in touch with all members of the cohort. Some studies have continued for decades.
+
+In a cohort study the population under investigation consists of individuals who are at risk of developing a specific disease or health outcome.<ref>http://www.who.int/water_sanitation_health/dwq/iwachap7.pdf</ref>
+
+== Examples ==
+{{Cleanup|section|date=July 2011}}
+
+An example of an epidemiological question that can be answered by the use of a cohort study is: does exposure to X (say, smoking) associate with outcome Y (say, lung cancer)? Such a study would recruit a group of smokers and a group of non-smokers (the unexposed group) and follow them for a set period of time and note differences in the incidence of lung cancer between the groups at the end of this time. The groups are ''matched'' in terms of many other variables such as economic status and other health status so that the variable being assessed, the [[independent variable]] (in this case, smoking) can be isolated as the cause of the [[dependent variable]] (in this case, lung cancer).
+In this example, a [[Statistical significance|statistically significant]] increase in the incidence of lung cancer in the smoking group as compared to the non-smoking group is evidence in favor of the hypothesis. However, rare outcomes, such as lung cancer, are generally not studied with the use of a cohort study, but are rather studied with the use of a [[case-control]] study.
+
+Shorter term studies are commonly used in medical research as a form of [[clinical trial]], or means to test a particular hypothesis of clinical importance. Such studies typically follow two groups of patients for a period of time and compare an endpoint or outcome measure between the two groups.
+
+[[Randomized controlled trial]]s, or RCTs are a superior methodology in the hierarchy of evidence, because they limit the potential for bias by randomly assigning one patient pool to an intervention and another patient pool to non-intervention (or placebo). This minimizes the chance that the incidence of confounding variables will differ between the two groups.
+
+Nevertheless, it is sometimes not practical or ethical to perform RCTs to answer a clinical question. To take our example, if we already had reasonable evidence that smoking causes lung cancer then persuading a pool of non-smokers to take up smoking in order to test this hypothesis would generally be considered quite unethical.
+
+Two examples of cohort studies that have been going on for more than 50 years are the [[Framingham Heart Study]] and the [[National Child Development Study]] (NCDS), the most widely-researched of the [[British birth cohort studies]].
+
+Key findings of NCDS and a detailed profile of the study appear in the ''International Journal of Epidemiology''.<ref>{{cite journal |author=Power C and Elliott J |title=Cohort profile: 1958 British Cohort Study |journal=International Journal of Epidemiology |volume=35 |issue=1 |pages=34–41 |year=2006 |doi=10.1093/ije/dyi183 |pmid=16155052}}</ref>
+
+International Journal of Epidemiology<ref>{{cite journal |doi=10.1093/ije/dyr096 |date=2011-06-29 |author= Richard J Pinder, Neil Greenberg, Edward J Boyko, Gary D Gackstetter, Tomoko I Hooper, Dominic Murphy, Margaret AK Ryan, Besa Smith, Tyler C Smith, Timothy S Wells and Simon Wessely |title=Profile of two cohorts: UK and US prospective studies of military health   |url=http://ije.oxfordjournals.org/content/early/2011/06/29/ije.dyr096.full |publisher=Oxford Journals |journal=International Journal of Epidemiology}}</ref> comparison of two Cohorts, [[Millennium Cohort Study (United States)]] and The King’s Cohort (United Kingdom)
+
+The largest cohort study in women is the [[Nurses' Health Study]]. Started in 1976, it is tracking over 120,000 nurses and has been analyzed for many different conditions and outcomes.
+
+The largest cohort study in Africa is the [[Birth to Twenty]] Study which began in 1990 and tracks a cohort of over 3,000 children born in the weeks following [[Nelson Mandela]]'s release from prison.
+
+Other famous examples are the [[Grant Study]] tracking a number of Harvard graduates from ca. 1950.77, and the [[Whitehall Study]] tracking 10,308 British civil servants.
+
+==Variations==
+<gallery>
+Image:ExplainingCaseControlSJW.jpg
+|Case-Control Study vs. Cohort on a Timeline
+</gallery>
+
+The diagram indicates the starting point and direction of cohort and case-control studies. 
+In Case-control studies the analysis proceeds from documented disease and investigations are made to arrive at the possible causes of the disease. In cohort studies the assessments starts with the putative cause of disease, and observations are made of the occurrence of disease relative to the hypothesized causal agent'''.<ref name="gfmer.ch">http://www.gfmer.ch/Books/Reproductive_health/Cohort_and_case_control_studies.html</ref>
+
+===Current and Historical cohort===
+{{main|Retrospective cohort study}}
+
+A current cohort study represents a true prospective study where the data concerning exposure are assembled prior to the occurrence of disease. E.g. Oxford Family Planning Association Study in the United Kingdom, which aimed to provide a balanced view of the beneficial and harmful effects of different methods of contraception. This study has provided a large amount of information on the efficacy and safety of contraceptive methods, and in particular oral contraceptives (OCs), diaphragms and intrauterine device (IUDs).
+
+In Historical cohort study the data concerning exposure and occurrence of disease are collected after the events have taken place, and the subjects (those exposed and unexposed to the agent under study) are assembled from existing records or health care registers. 
+
+A "[[prospective cohort]]" defines the groups before the study is done, while historical studies, which are sometimes referred to as "[[retrospective cohort]]", defines the grouping after the data is collected. Examples of a [[retrospective cohort]] are ''Long-Term Mortality after Gastric Bypass Surgery''.<ref name="pmid17715409">{{cite journal |author=Adams TD |title=Long-term mortality after gastric bypass surgery |journal=N. Engl. J. Med. |volume=357 |issue=8 |pages=753–61 |year=2007 |pmid=17715409 |doi=10.1056/NEJMoa066603 |author-separator=, |author2=Gress RE |author3=Smith SC |display-authors=3 |last4=Halverson |first4=R. Chad |last5=Simper |first5=Steven C. |last6=Rosamond |first6=Wayne D. |last7=Lamonte |first7=Michael J. |last8=Stroup |first8=Antoinette M. |last9=Hunt |first9=Steven C.}}</ref> and ''[[The Lothian Birth Cohort Studies]]''.<ref>{{cite web|url=http://www.psy.ed.ac.uk/research/lbc/LBC.html|title=The Lothian Birth Cohort Studies|accessdate=8 May 2011|publisher=University of Edinburgh}}</ref>
+
+Though historical studies are sometimes referred to as retrospective study, it a misnomer as the methodological principles of historical cohort studies and prospective studies are the same.<ref name="gfmer.ch"/>
+
+===Nested case-control study===
+{{main|Nested case-control study}}
+An example of a [[nested case-control study]] is ''Inflammatory markers and the risk of coronary heart disease in men and women'', which was a case control analyses extracted from the [[Framingham Heart Study]] cohort.<ref name="pmid15602020">{{cite journal |author=Pai JK |title=Inflammatory markers and the risk of coronary heart disease in men and women |journal=N. Engl. J. Med. |volume=351 |issue=25 |pages=2599–610 |year=2004 |pmid=15602020 |doi=10.1056/NEJMoa040967 |author-separator=, |author2=Pischon T |author3=Ma J |display-authors=3 |last4=Manson |first4=Joann E. |last5=Hankinson |first5=Susan E. |last6=Joshipura |first6=Kaumudi |last7=Curhan |first7=Gary C. |last8=Rifai |first8=Nader |last9=Cannuscio |first9=Carolyn C.}}</ref>
+
+===Household panel survey===
+Household panel surveys are an important sub-type of cohort study. These draw representative samples of households and survey them, following all individuals through time on a usually annual basis. Examples include the US [[Panel Study of Income Dynamics]] (since 1968), the ''German'' [[Socio-Economic Panel]] (since 1984), the [[British Household Panel Survey]] (since 1991), the [[Household, Income and Labour Dynamics in Australia Survey]] (since 2001) and the [[European Community Household Panel]] (1994–2001).
+
+== See also ==
+* [[Panel analysis]]
+* [[Cohort (statistics)]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://clio.stanford.edu:7080/cocoon/cliomods/trailmaps/design/design/prospectiveCohort/index.html Prospective cohorts]
+* [http://clio.stanford.edu:7080/cocoon/cliomods/trailmaps/design/design/retrospectiveCohort/index.html Retrospective cohorts]
+* [http://www.vet.cornell.edu/hospital/imaging/tutorial/index.html Study Design Tutorial] Cornell University College of Veterinary Medicine
+* [http://www.esds.ac.uk/longitudinal/resources/international.asp Birth cohort study timelines (ESDS Longitudinal)]
+* [http://www.cls.ioe.ac.uk Centre for Longitudinal Studies]
+
+{{Medical research studies}}
+{{Use dmy dates|date=July 2011}}
+
+{{DEFAULTSORT:Cohort Study}}
+[[Category:Cohort studies|*]]
+[[Category:Cohort study methods|*]]

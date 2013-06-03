@@ -1,0 +1,259 @@
+'''Childhood absence epilepsy''' (CAE), also known as '''pyknolepsy''', is an [[idiopathic generalized epilepsy]] which occurs in otherwise normal children. The age of onset is between 4–10 years with peak age between 5–7 years. Children have [[absence seizures]] which although brief (~4–20 seconds), they occur frequently, sometimes in the hundreds per day. The absence seizures of CAE involve abrupt and severe impairment of consciousness. Mild [[Automatisms (medicine)|automatisms]] are frequent, but major motor involvement early in the course excludes this diagnosis. The EEG demonstrates characteristic "typical 3Hz spike-wave" discharges. Prognosis is excellent in well-defined cases of CAE with most patients "growing out" of their epilepsy.<ref name="Hirsch 2007">{{cite journal | author = Hirsch E, THomas P, Panayiotopoulos C. | title = Childhood and absence epilepsies. | journal = Epilepsy: a comprehensive textbook | pages = 2397–2411 | year = 2007}}</ref>
+
+==Causes==
+CAE is a [[Genetic disorder#Multifactoral and polygenic disorders|complex polygenic disorder]]. Particularly in the [[Han Chinese]] population there is association between mutations in CACNA1H and CAE. These mutations cause increased channel activity and associated increased neuronal excitability. Seizures are believed to originate in the thalamus, where there is an abundance of T-type [[calcium channels]] such as those encoded by CACNA1H.
+
+==Pathophysiology==
+There are currently 20 mutations in CACNA1H associated with CAE. These mutations are likely not wholly causative and should instead be thought of as giving susceptibility. This is particularly true since some groups have found no connection between CAE and CACNA1H mutations.<ref name="Chioza_2006">{{cite journal | author = Chioza B, Everett K, Aschauer H, Brouwer O, Callenbach P, Covanis A, Dulac O, Durner M, Eeg-Olofsson O, Feucht M, Friis M, Heils A, Kjeldsen M, Larsson K, Lehesjoki A, Nabbout R, Olsson I, Sander T, Sirén A, Robinson R, Rees M, Gardiner R | title = Evaluation of CACNA1H in European patients with childhood absence epilepsy. | journal = Epilepsy Res | volume = 69 | issue = 2 | pages = 177–81 | year = 2006 | pmid = 16504478 | doi = 10.1016/j.eplepsyres.2006.01.009}}</ref> Many of the CACNA1H mutations have a measurable effect on channel kinetics, including activation time constant and voltage dependence, deactivation time constant, and inactivation time constant and voltage dependence (summarized in Table 1). Many of these mutations should lead to neuronal excitability, though others may lead to hypoexcitability. These predictions are due to mathematical modeling and may differ from what will occur in real neurons where other proteins, some of which may interact with CACNA1H, are present.
+
+Along with mutations in CACNA1H, two mutations in the gene encoding a GABA<sub>A</sub> receptor γ subunit are also associated with a CAE like phenotype that also overlaps with [[generalized epilepsy with febrile seizures plus#Type 3|generalized epilepsy with febrile seizures plus type-3]]. The first of these, R43Q, abolishes [[benzodiazepine]] potentiation of [[GABA]] induced currents.<ref name="Wallace_2001">{{cite journal | author = Wallace R, Marini C, Petrou S, Harkin L, Bowser D, Panchal R, Williams D, Sutherland G, Mulley J, Scheffer I, Berkovic S | title = Mutant GABA(A) receptor gamma2-subunit in childhood absence epilepsy and febrile seizures. | journal = Nat Genet | volume = 28 | issue = 1 | pages = 49–52 | year = 2001 | pmid = 11326275 | doi = 10.1038/88259}}</ref><ref name="Marini_2003">{{cite journal | author = Marini C, Harkin L, Wallace R, Mulley J, Scheffer I, Berkovic S | title = Childhood absence epilepsy and febrile seizures: a family with a GABA(A) receptor mutation. | journal = Brain | volume = 126 | issue = Pt 1 | pages = 230–40 | year = 2003 | pmid = 12477709 | doi = 10.1093/brain/awg018}}</ref> The second associated mutation, C588T has not been further characterized.
+
+{| class="wikitable" style="text-align:center"
+|+'''Table 1.''' Summary of mutations in CACNA1H associated with childhood absence epilepsy
+|- valign="bottom"
+ ! rowspan="2" | Mutation
+ ! rowspan="2" | Region
+ ! colspan="2" | Activation
+ ! rowspan="2" | Deactivation
+ ! colspan="2" | Inactivation
+ ! rowspan="2" | Excitability Prediction
+ ! rowspan="2" | References
+|-
+ ! V<sub>50</sub>
+ ! Tau
+ ! V<sub>50</sub>
+ ! Tau
+|-
+ ! F161L
+ | D1S2-3
+ | Unchanged[[#asterisks|*]]
+ | Unchanged
+ | style="background: green;" | Depolarized
+ | style="background: green;" | Accelerated
+ | Unchanged
+ | style="background: red;" | Hypoexcitable
+ | <ref name="Chen_2003">{{cite journal | author = Chen Y, Lu J, Pan H, Zhang Y, Wu H, Xu K, Liu X, Jiang Y, Bao X, Yao Z, Ding K, Lo W, Qiang B, Chan P, Shen Y, Wu X | title = Association between genetic variation of CACNA1H and childhood absence epilepsy. | journal = Ann Neurol | volume = 54 | issue = 2 | pages = 239–43 | year = 2003 | pmid = 12891677 | doi = 10.1002/ana.10607}}</ref><sup>,</sup><ref name="Khosravani_2004">{{cite journal | author = Khosravani H, Altier C, Simms B, Hamming K, Snutch T, Mezeyova J, McRory J, Zamponi G | title = Gating effects of mutations in the Cav3.2 T-type calcium channel associated with childhood absence epilepsy. | journal = J Biol Chem | volume = 279 | issue = 11 | pages = 9681–4 | year = 2004 | pmid = 14729682 | doi = 10.1074/jbc.C400006200}}</ref><sup>,</sup><ref name="Vitko_2005">{{cite journal | author = Vitko I, Chen Y, Arias J, Shen Y, Wu X, Perez-Reyes E | title = Functional characterization and neuronal modeling of the effects of childhood absence epilepsy variants of CACNA1H, a T-type calcium channel. | journal = J Neurosci | volume = 25 | issue = 19 | pages = 4844–55 | year = 2005 | pmid = 15888660 | doi = 10.1523/JNEUROSCI.0847-05.2005}}</ref>
+|-
+ ! E282K
+ | D1S5-6
+ | style="background: red;" | Hyperpolarized
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | style="background: red;" | Hypoexcitable
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Khosravani_2004"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ ! P314S
+ | D1-2
+ | ?
+ | ?
+ | ?
+ | ?
+ | ?
+ | ?
+ | <ref name="Liang_2006">{{cite journal | author = Liang J, Zhang Y, Wang J, Pan H, Wu H, Xu K, Liu X, Jiang Y, Shen Y, Wu X | title = New variants in the CACNA1H gene identified in childhood absence epilepsy. | journal = Neurosci Lett | volume = 406 | issue = 1–2 | pages = 27–32 | year = 2006 | pmid = 16905256 | doi = 10.1016/j.neulet.2006.06.073}}</ref>
+|-
+ ! C456S
+ | D1-2
+ | style="background: red;" | Hyperpolarized
+ | style="background: green;" | Accelerated
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | style="background: green" | Hyperexcitable
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Khosravani_2004"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ ! A480T
+ | D1-2
+ | ?
+ | Unchanged
+ | ?
+ | ?
+ | Unchanged
+ | ?
+ | <ref name="Heron_2004">{{cite journal | author = Heron S, Phillips H, Mulley J, Mazarib A, Neufeld M, Berkovic S, Scheffer I | title = Genetic variation of CACNA1H in idiopathic generalized epilepsy | journal = Ann Neurol | volume = 55 | issue = 4 | pages = 595–6 | year = 2004 | pmid = 15048902 | doi = 10.1002/ana.20028}}</ref><sup>,</sup><ref name="Khosravani_2005">{{cite journal | author = Khosravani H, Bladen C, Parker D, Snutch T, McRory J, Zamponi G | title = Effects of Cav3.2 channel mutations linked to idiopathic generalized epilepsy | journal = Ann Neurol | volume = 57 | issue = 5 | pages = 745–9 | year = 2005 | pmid = 15852375 | doi = 10.1002/ana.20458}}</ref>
+|-
+ ! P492S
+ | D1-2
+ | ?
+ | ?
+ | ?
+ | ?
+ | ?
+ | ?
+ | <ref name="Liang_2006"/><sup>,</sup><ref name="Liang_2006"/>
+|-
+ ! G499S
+ | D1-2
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ ! P618L
+ | D1-2
+ | ?
+ | style="background: green;" | Accelerated
+ | ?
+ | ?
+ | style="background: green;" | Accelerated
+ | ?
+ | <ref name="Heron_2004"/><sup>,</sup><ref name="Khosravani_2005"/>
+|-
+ ! V621fsX654
+ | D1-2
+ | ?
+ | ?
+ | ?
+ | ?
+ | ?
+ | ?
+ | <ref name="Heron_2004"/>
+|-
+ ! P648L
+ | D1-2
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | style="background: green" | Depolarized
+ | style="background: red" | Slowed
+ | style="background: green" | Hyperexcitable
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ ! R744Q
+ | D1-2
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ ! A748V
+ | D1-2
+ | Unchanged
+ | style="background: green;" | Accelerated
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ ! G755D
+ | D1-2
+ | ?
+ | Unchanged
+ | ?
+ | ?
+ | style="background: green;" | Accelerated
+ | ?
+ | <ref name="Heron_2004"/><sup>,</sup><ref name="Khosravani_2005"/>
+|-
+ ! G773D
+ | D1-2
+ | style="background: green;" | Depolarized
+ | style="background: red;" | Slowed
+ | style="background: red;" | Slowed
+ | style="background: green;" | Depolarized
+ | style="background: red;" | Slowed
+ | style="background: green" | Hyperexcitable
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ ! G784S
+ | D1-2
+ | Unchanged
+ | style="background: red;" | Slowed
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ ! R788C
+ | D1-2
+ | style="background: green;" | Depolarized
+ | style="background: red;" | Slowed
+ | style="background: red;" | Slowed
+ | Unchanged
+ | style="background: red;" | Slowed
+ | style="background: green" | Hyperexcitable
+ | <ref name="Vitko_2005"/><sup>,</sup><ref name="Liang_2006"/>
+|-
+ ! G773D + R788C
+ | D1-2
+ | Unchanged
+ | Unchanged
+ | style="background: red;" | Slowed
+ | Unchanged
+ | Unchanged
+ | style="background: green" | Hyperexcitable
+ | <ref name="Vitko_2005"/>
+|-
+ ! V831M
+ | D2S2
+ | Unchanged
+ | style="background: red;" | Hyperpolarized
+ | style="background: red;" | Slowed
+ | style="background: green;" | Depolarized
+ | style="background: red;" | Slowed
+ | style="background: red;" | Hypoexcitable
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Khosravani_2004"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ ! G848S
+ | D2S2
+ | Unchanged
+ | Unchanged
+ | style="background: red;" | Slowed
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ ! D1463N
+ | D2S5-6
+ | Unchanged
+ | style="background: green;" | Accelerated
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | Unchanged
+ | <ref name="Chen_2003"/><sup>,</sup><ref name="Khosravani_2004"/><sup>,</sup><ref name="Vitko_2005"/>
+|-
+ | align="right" | <div name="asterisks">*</div>
+ | align="left" colspan="8" | Depending on experimental paradigm
+|}
+
+==Diagnosis==
+Diagnosis is made upon history of [[absence seizure]]s during early childhood and the observation of ~3&nbsp;Hz spike-and-wave discharges on an [[EEG]].{{citation required|date=April 2013}}
+
+==Treatment/Management==
+{{main|Epilepsy|Absence seizure}}
+
+==Epidemiology==
+Childhood absence epilepsy is a fairly common disorder with a prevalence of 1 in 1000 people.{{fact|date=April 2013}} Few of these people will likely have mutations in CACNA1H or GABRG2{{citation required|date=April 2013}} as the prevalence of those in the studies presented is 10% or less.{{fact|date=April 2013}}
+
+==See also==
+* [[Generalized epilepsy with febrile seizures plus]]
+* [[Calcium channel]]
+* [[Spike and Wave]]
+
+==References==
+* {{cite journal | author = Perez-Reyes E | title = Molecular characterization of T-type calcium channels | journal = Cell Calcium | volume = 40 | issue = 2 | pages = 89–96 | year = 2006 | pmid = 16759699 | doi = 10.1016/j.ceca.2006.04.012}}
+
+==Footnotes==
+{{Reflist|2}}
+
+==External links==
+* [http://www.scholarpedia.org/article/Spike-and-Wave_Oscillations Mechanisms of absence seizures (Scholarpedia)]
+
+{{Seizures and epilepsy}}
+
+{{DEFAULTSORT:Childhood Absence Epilepsy}}
+[[Category:Channelopathy]]
+[[Category:Epilepsy types]]
+[[Category:Seizure types]]

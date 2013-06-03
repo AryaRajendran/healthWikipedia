@@ -1,0 +1,81 @@
+{{Interventions infobox |
+  Name        = {{PAGENAME}} |
+  Image       = |
+  Caption     = |
+  ICD10       = {{ICD10PCS|D|D}}?0 |
+  ICD9        = {{ICD9proc|92.21}}-{{ICD9proc|92.26}} |
+  MeshID      = |
+  OPS301      = |
+  OtherCodes  = |
+}}
+[[Image:Radiation therapy.jpg|thumb|Radiation therapy of the [[human pelvis|pelvis]]. Lasers and a mould under the legs are used to determine exact position.]]
+[[Image:External beam radiotherapy retinoblastoma nci-vol-1924-300.jpg|thumb|Historical image showing Gordon Isaacs, the first patient treated with linear accelerator radiation therapy (in this case an electron beam) for [[retinoblastoma]] in 1957. Gordon's right eye was removed January 11, 1957 because the cancer had spread. His left eye, however, had only a localized tumor that prompted [[Henry Kaplan (doctor)|Henry Kaplan]] to try to treat it with the electron beam.]]
+'''External beam radiotherapy''' or '''teletherapy''' is the most common form of [[radiotherapy]]. The patient sits or lies on a couch and an external source of [[radiation]] is pointed at a particular part of the body. In contrast to internal radiotherapy ([[brachytherapy]]), in which the radiation source is inside the body, external beam radiotherapy directs the radiation at the tumour from outside the body. Kilovoltage ("superficial") X-rays are used for treating skin cancer and superficial structures. Megavoltage ("deep") X-rays are used to treat deep-seated tumours (e.g. bladder, bowel, prostate, lung, or brain).
+
+While X-ray and electron beams are by far the most widely used sources for external beam radiotherapy, a small number of centers operate experimental and pilot programs employing heavier particle beams, particularly proton sources.
+
+==Photons==
+Conventionally, the energy of diagnostic and therapeutic [[gamma rays|gamma-]] and [[X-rays]] is expressed in [[kilovolt]]s or [[megavolt]]s (kV or MV), whilst the energy of therapeutic electrons is expressed in terms of [[megaelectronvolt]]s (MeV). In the first case, this voltage is the maximum electric potential used by a [[linear accelerator]] to produce the [[photon]] beam. The beam is made up of a spectrum of energies: the ''maximum'' energy is approximately equal to the beam's maximum electric potential times the electron charge. Thus a 1 MV beam will produce photons of no more than about 1 MeV. The ''mean'' X-ray energy is only about 1/3 of the maximum energy. Beam quality and hardness may be improved by special filters, which improve the homogeneity of the X-ray spectrum.
+
+In the medical field, useful X-rays are produced when electrons are accelerated to a high energy. Some examples of X-ray energies used in medicine are:
+
+*[[diagnostic X-rays]] - 20 to 150 kV
+*[[superficial X-rays]] - 50 to 200 kV
+*[[orthovoltage X-rays]] - 200 to 500 kV
+*[[supervoltage X-rays]] - 500 to 1000 kV
+*[[megavoltage X-rays]] - 1 to 25 MV
+
+Of these energy ranges, megavoltage X-rays are by far most common in radiotherapy. Orthovoltage X-rays do have limited applications, and the other energy ranges are not typically used clinically.
+
+Medically useful photon beams can also be derived from a radioactive source such as [[iridium]]-192, [[Cs-137|caesium-137]] or [[radium]]-226 (which is no longer used clinically), or [[cobalt-60]]. Such photon beams, derived from radioactive decay, are more or less [[monochromatic]] and are properly termed [[gamma ray]]s. The usual energy range is between 300 keV to 1.5 MeV, and is specific to the isotope.
+
+Therapeutic radiation is mainly generated in the radiotherapy department using the following equipment:
+# [[Orthovoltage]] units. These are also known as "deep" and "superficial" machines depending on their energy range. Orthovoltage units have essentially the same design as [[diagnostic X-ray machines]]. These machines are generally limited to less than 600 kV.
+# [[Linear accelerator]]s ("linacs") which produce [[megavoltage]] X-rays. The first use of a linac for medical radiotherapy was in 1953 (see also [[radiotherapy]]). Commercially available medical linacs produce X-rays and electrons with an energy range from 4 MeV up to around 25 MeV. The X-rays themselves are produced by the rapid deceleration of electrons in a target material, typically a [[tungsten]] alloy, which produces an X-ray spectrum via [[bremsstrahlung]] radiation. The shape and intensity of the beam produced by a linac may be modified or collimated by a variety of means. Thus, conventional, conformal, intensity-modulated, tomographic, and stereotactic radiotherapy are all produced by specially-modified linear accelerators.
+# [[Cobalt unit]]s which produce stable, dichromatic beams of 1.17 and 1.33 MeV, resulting in an average beam energy of 1.25 MeV. The role of the cobalt unit has partly been replaced by the linear accelerator, which can generate higher energy radiation. Cobalt treatment still has a useful role to play in certain applications (for example the [[Gamma Knife]]) and is still in widespread use worldwide, since the machinery is relatively reliable and simple to maintain compared to the modern linear accelerator.
+
+==Electrons==
+{{main|Electron therapy}}
+X-rays are generated by bombarding a high atomic number material with electrons. If the target is removed (and the beam current decreased) a high energy electron beam is obtained. Electron beams are useful for treating superficial lesions because the maximum of dose deposition occurs near the surface. The dose then decreases rapidly with depth, sparing underlying tissue. Electron beams usually have nominal energies in the range 4-20 MeV. Depending on the energy this translates to a treatment range of approximately 1–5&nbsp;cm (in water-equivalent tissue). Energies above 18 MeV are used very rarely. Although the X-ray target is removed in electron mode, the beam must be fanned out by sets of thin scattering foils in order to achieve flat and symmetric dose profiles in the treated tissue.
+
+==Hadron therapy==
+{{main|Particle therapy}}
+[[Hadron]] therapy involves the therapeutic use of  [[proton]]s, [[neutron]]s, and heavier [[ion]]s (fully ionized atomic nuclei).  Of these, [[proton therapy]] is by far the most common, though still quite rare compared to other forms of external beam radiotherapy.
+
+==Multi-leaf collimator==
+A typical multi-leaf collimator (MLC) consists of 2 sets of 40-80 leaves, each around 5mm to 10mm thick and several cm in the other two dimensions.  Newer MLCs now have up to 160 leaves.  Each leaf in the MLC is aligned parallel to the radiation field and can be moved independently to block part of the field.  This allows the [[dosimetrist]] to match the radiation field to the shape of the tumor (by adjusting the position of the leaves), thus minimizing the amount of healthy tissue being exposed to radiation. On a machine without an MLC this must be accomplished using several hand-crafted blocks.
+
+==Intensity modulated radiation therapy==
+Intensity modulated radiation therapy (IMRT) is an advanced radiotherapy technique used to minimize the amount of normal tissue being irradiated in the treatment field.  In some systems this intensity modulation is achieved by moving the leaves in the MLC during the course of treatment, thereby delivering a radiation field with a non-uniform (i.e. modulated) intensity. With IMRT, radiation oncologists are able to break up the radiation beam into many "beamlets." This allows [[radiation oncologists]] to vary the intensity of each beamlet. With IMRT, doctors are often able to further limit the amount of radiation received by healthy tissue near the tumor. Doctors have found this sometimes allowed them to safely give a higher dose of radiation to the tumor, potentially increasing the chance of a cure.<ref>http://www.rtanswers.com/treatmentinformation/treatmenttypes/externalbeamradiation.aspx</ref>
+
+==Image-guided radiation therapy==
+[[Image-guided radiation therapy]] (IGRT) augments radiotherapy with imaging to increase the accuracy and precision of target localization, thereby reducing the amount of healthy tissue in the treatment field. 
+The more advanced the treatment techniques become in terms of dose deposition accuracy, the higher become the requirements for IGRT. In order to allow patients to benefit from sophisticated treatment techniques as IMRT or Hadron Therapy, patient alignment accuracies of 0.5 mm and less become desirable. Therefore, new methods like stereoscopic digital kilovoltage imaging based patient position verification (PPVS) <ref>Boris Peter Selby, Georgios Sakas et al. (2007) 3D Alignment Correction for Proton Beam Treatment. In: Proceedings of Conf. of the German Society for Biomedical Engineering (DGBMT). Aachen.</ref> to alignment estimation based on in-situ Cone-Beam CT enrich the range of modern IGRT approaches.
+
+==See also==
+*[[CyberKnife]]
+*[[Gamma knife]]
+*[[Tomotherapy]]
+*[[Radiation therapy]]
+*[[IOERT]]
+*[[IORT]]
+*[[Brachytherapy]]
+*[[Boron neutron capture therapy]]
+*[[Prostate - Rectum Spacers]]
+
+==References==
+{{reflist}}
+
+==General references==
+*''Radiotherapy physics in practice'', edited by JR Williams and DI Thwaites, Oxford University Press UK (2nd edition 2000), ISBN 0-19-262878-X
+* [http://www.ionactive.co.uk/multi-media_video.html?m=8 Linear Particle Accelerator (Linac)Animation by Ionactive ]
+**http://www.myradiotherapy.com
+
+*[http://xstrahl.com/medical.htm Superficial radiation therapy]
+*[http://www.nirs.go.jp/ENG/index.html NATIONAL INSTITUTE OF RADIOLOGICAL SCIENCES] (Japan)
+
+
+{{DEFAULTSORT:External Beam Radiotherapy}}
+{{Radiation oncology}}
+[[Category:Electron beams in medical applications]]
+[[Category:Radiation therapy]]

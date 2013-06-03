@@ -1,0 +1,82 @@
+{{Refimprove|date=January 2008}}
+[[File:Bandes_de_mach.PNG|thumb|Along the boundary between adjacent shades of grey in the [[Mach bands]] illusion, lateral inhibition makes the darker area falsely appear even darker and the lighter area falsely appear even lighter.]]
+In [[neurobiology]], '''lateral inhibition''' is the capacity of an excited [[neuron]] to reduce the activity of its neighbors.  Lateral inhibition sharpens the spatial profile of excitation in response to a localized stimulus.
+
+==Sensory inhibition==
+
+[[File:Lateral Inhibition.png|thumb|350px|right|A stimulus affecting all three neurons, but which affects B strongest or first, can be sharpened if B sends lateral signals to neighbors A and C not to fire, thereby ''inhibiting'' them. Lateral inhibition is used in vision to sharpen signals to the brain (pink arrow).]]
+
+[[Georg von Békésy]], in his book ''Sensory Inhibition'',<ref>{{cite book | title = Sensory Inhibition | author = Georg Von Békésy | year = 1967 | publisher = Princeton University Press }}</ref> explores a wide range of inhibitory phenomena in [[sensory systems]], and interprets them in terms of sharpening.
+
+When, for instance, the skin is touched by an object, several sensory neurons in the skin next to one another are stimulated. Neurons that are firing suppress the stimulation of neighbouring neurons.  In the face of inhibition, only the neurons that are most stimulated and least inhibited will fire, so the firing pattern tends to concentrate at stimulus peaks.
+
+Lateral inhibition increases the [[contrast (vision)|contrast]] and sharpness in visual response.  This phenomenon occurs in the mammalian [[retina]], for example.  In the dark, a small light stimulus will be enhanced by the different [[photoreceptor cell|photoreceptors]] ([[rod cells]]).  The rods in the center of the stimulus will [[signal transduction|transduce]] the "light" signal to the brain, whereas different rods on the outside of the stimulus will send a "dark" signal to the brain.  This contrast between the light and dark creates a sharper image. (Compare [[unsharp masking]] in digital processing). This mechanism also creates the [[Mach band]] visual effect.  
+
+Artificial lateral inhibition has been incorporated into artificial sensory systems, such as vision chips,<ref>{{cite book | title = Vision Chips | author = Alireza Moini | publisher = Springer | year = 2000 | isbn = 0-7923-8664-7 | url = http://books.google.com/?id=iuxqcj7IwbYC&pg=PA19&dq=lateral-inhibition+vision+chips }}</ref>   hearing systems,<ref>{{cite book | title = Artificial Neural Networks: ICANN 96 | author = Christoph von der Malsburg et al. (editors) | publisher = Springer | year = 1996 | isbn = 3-540-61510-5 | url = http://books.google.com/?id=gp6wX1J4FFoC&pg=PA679&dq=lateral-inhibition+electronic+cochlea }}</ref> and optical mice.<ref>{{cite web | url = http://sl-div-bi-pb.web.cern.ch/sl-div-bi-pb/PrivatePBpage/Electronics/Electronics-Misc/Vision/vis_new.pdf | title = Vision Chips | author = Alireza Moini | year = 1997  }}</ref><ref>{{citation | author = Richard F. Lyon | authorlink = Richard Francis Lyon | title = The Optical Mouse and an Architectural Methodology for Smart Digital Sensors | year = 1981 | work = Xerox PARC report VLSI-81-1 | url = http://dicklyon.com/tech/OMouse/OpticalMouse-Lyon.pdf}}</ref>
+
+An often under-appreciated point is that although lateral inhibition is visualised in a spatial sense, it is also thought to exist in what are known as "lateral inhibition across abstract dimensions". This refers to lateral inhibition between neurons that are not adjacent in a spatial sense, but in terms of modality of stimulus, for example. This phenomenon is thought to aid in colour discrimination.<ref>{{cite book | title = Neurophysiology | author = RHS Carpenter | year = 1997 | publisher = Arnold, London }}</ref>
+
+==History==
+
+The concept of neural inhibition (in motor systems) was well known to [[Descartes]] and his contemporaries.<ref>
+{{cite book
+ | title = Foundations of neuroscience
+ | edition = 2nd 
+ | author = Marcus Jacobson
+ | publisher = Springer
+ | year = 1993
+ | isbn = 978-0-306-44540-8
+ | page = 277
+ | url = http://books.google.com/?id=iFXBY299ikgC&pg=PA277&dq=Lateral+inhibition+descartes&q=Lateral%20inhibition%20descartes
+ }}</ref>  
+Sensory inhibition in vision was inferred by [[Ernst Mach]] in 1865.<ref>
+{{cite book
+ | title = Neural computation: a beginner's guide
+ | author = G. A. Orchard and W. A. Phillips
+ | publisher = Taylor & Francis
+ | year = 1991
+ | isbn = 978-0-86377-235-1
+ | page = 26
+ | url = http://books.google.com/?id=Hpfhp72P2bEC&pg=PA26&dq=Lateral+inhibition+ernst+mach&q=Lateral%20inhibition%20ernst%20mach
+ }}</ref>
+Inhibition in single sensory neurons was discovered and investigated starting in 1949 by Hartline,<ref>
+{{cite book
+ | title = Brain Theory: Reprint Volume
+ | author = Gordon L. Shaw and G. Palm (editors)
+ | publisher = World Scientific
+ | year = 1988
+ | isbn = 9971-5-0484-7
+ | url = http://books.google.com/?id=Wi549-09eZcC&pg=PA711&dq=lateral-inhibition+hartline+1949 }}</ref> 
+and 1956 by Hartline, Wagner, and Ratliff.<ref>
+{{cite journal
+ | title = Cognitive Psychology and Information Processing: An Introduction
+ | author = Roy Lachman, Janet Lachman, Earl C. Butterfield
+ | publisher = Lawrence Erlbaum Associates
+ | year = 1979
+ | isbn = 0-89859-131-7
+ | url = http://books.google.com/?id=W4GPnZ2qeWkC&pg=PA496&dq=lateral-inhibition+1956
+ }}</ref>
+
+==Embryology==
+
+In embryology, the concept of lateral inhibition has been adapted to describe processes in the development of cell types.<ref>{{cite journal | title = Biological Pattern Formation Involving Lateral Inhibition | author = Alfred Gierer and Hans Meinhardt | journal = Some Mathematical Questions in Biology VI: Mathematical Aspects of Chemical and Biochemical Problems and Quantum Chemistry | editor = Donald S. Cohen | publisher = American Mathematical Society | year = 1974 | volume = 7 | url = http://books.google.com/?id=JQ-ME8oY1agC&pg=PA164&dq=embryology++lateral-inhibition+date:0-1995 | isbn = 978-0-8218-1328-7 }}</ref>  It is a type of cell–cell interaction whereby a cell that adopts a particular fate inhibits its immediate neighbours from doing likewise. Lateral inhibition is well documented in flies, worms and vertebrates. In all of these organisms, the transmembrane proteins [[Notch signaling pathway|Notch and Delta]] (or their homologues) have been identified as mediators of the interaction. 
+
+Neuroblast with slightly more Delta protein on its cell surface will inhibit its neighboring cells from becoming neurons. In flies, frogs, and chicks, Delta is found in those cells that will become neurons, while Notch is elevated in those cells that become the glial cells.
+
+==See also==
+
+* [[Mach band]]
+* [[Cornsweet illusion]]
+* [[Grid illusion]]
+* [[Range fractionation]]
+
+==References==
+
+{{reflist}}
+
+==External links==
+*[http://www.michaelbach.de/ot/lum_herGrid/index.html Refutation of classical explanation of Hermann Grid Illusion]
+
+{{NeuroethologyNavbox}}
+
+[[Category:Neurophysiology]]

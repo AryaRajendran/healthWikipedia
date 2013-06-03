@@ -1,0 +1,138 @@
+[[File:Limits of Electron Microscope.png|thumb|375px|'''Resolution limits of the electron microscope''' The electron microscope can achieve a resolution of up to 100 picometers. Eukaryotic cells, prokaryotic cells, viruses, ribosomes, and even single atoms can be visualized. The scale is a logarithmic scale where each measurement represents a tenfold increase or decrease in length.]]
+
+'''Transmission electron microscopy DNA sequencing''' is an emerging third-generation, single-molecule [[DNA sequencing|sequencing]] technology that uses [[Transmission electron microscopy|transmission electron microscopy techniques]]. [[DNA]] is visible under the [[electron microscope]]; however, it must be labeled with heavy atoms so that the [[Nucleobase|DNA bases]] can be clearly visualized. In addition, specialized imaging techniques and [[Optical aberration|aberration corrected]] optics are beneficial for obtaining the resolution required to image the labeled DNA molecule. Transmission electron microscopy DNA sequencing advantageously may provide extremely long read lengths, but it is not yet commercially available.
+
+==History==
+
+Only a few years after [[James D. Watson|James Watson]] and [[Francis Crick]] deduced the [[Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid|structure of DNA]], and nearly two decades before [[Frederick Sanger]] published the first method for rapid [[DNA sequencing]], [[Richard Feynman]], an American physicist, envisioned the [[electron microscope]] as the tool that would one day allow biologists to “see the order of [[nucleobase|bases]] in the [[DNA]] chain”.<ref name="Feynman1959">Feynman R. (1959) [http://www.zyvex.com/nanotech/feynman.html There’s plenty of room at the bottom]. Caltech lecture.</ref> Feynman believed that if the electron microscope could be made powerful enough, then it would become possible to visualize the atomic structure of any and all chemical compounds, including DNA.
+
+To this day, despite the invention of a multitude of chemical and fluorescent sequencing technologies, [[microscopy]] is still being explored as a means of performing single-molecule DNA sequencing. Two biotechnology companies have conceived of methods for high throughput, direct detection of DNA bases by [[transmission electron microscopy]]; however, these studies are still in their infancy and are far from being commercially available. The following progress in these technologies has been reported:
+
+* '''1970''' [[Albert Crewe]] developed the high-angle [[annular dark-field imaging]] (HAADF) imaging technique in a [[scanning transmission electron microscope]]. Using this technique, he visualized individual heavy atoms on thin amorphous carbon films.<ref>{{cite journal
+|last=Crewe|first=Albert V|coauthors=Wall, J. & Langmore, J.|year=1970|title=Visibility of a single atom
+|journal=Science|volume=168|pages=1338–1340|doi=10.1126/science.168.3937.1338|pmid=17731040
+|issue=3937|bibcode = 1970Sci...168.1338C }}</ref>
+* '''April 2008''': [http://www.zsgenetics.com/ ZS Genetics] presented its plans for development of a transmission electron microscopy-based single-molecule sequencing platform at the Cambridge Health-tech Institute (CHI) Sequencing Conference in San Diego, held from 23–24 April 2008.<ref name="Gupta2008">{{cite journal|author=Gupta PK|title=Single-molecule DNA sequencing technologies for future genomics research|doi=10.1016/j.tibtech.2008.07.003|journal=Trends in Biotechnology|volume=26|issue=11|pages=602–11|year=2008|pmid=18722683}}</ref>
+* '''March 2010''': Krivanek and colleagues reported several technical improvements to the HAADF method, including a combination of aberration corrected electron optics and low accelerating voltage. The latter is crucial for imaging biological objects, as it allows to reduce damage by the beam and increase the image contrast for light atoms. As a result, single atom substitutions in a boron nitride monolayer could be imaged.<ref name="Krivanek2010">{{cite journal|author=Krivanek OL, ''et al.''|title=Atom-by-atom structural and chemical analysis by [[annular dark-field imaging|annular dark-field]] electron microscopy|journal=Nature|volume=464|issue=7288|pages=571–4|year=2010|doi=10.1038/nature08879|pmid=20336141|bibcode = 2010Natur.464..571K }}</ref> [http://halcyonmolecular.com/ Halcyon Molecular] is developing its single-molecule sequencing platform based on the technology utilized in this paper.
+* '''September 2010''': The [http://www.cchem.berkeley.edu/~toste/ Toste research group] at [[University of California, Berkeley]], received an Advanced Sequencing Technology Award from the [[National Human Genome Research Institute]] to continue research into single-molecule sequencing by transmission electron microscopy, in collaboration with Halcyon Molecular.
+
+* '''October 2012''': A collaboration between scientists at Harvard University, the University of New Hampshire and ZS Genetics demonstrate the ability to read long sequences of DNA.<ref name="Bell2009">{{cite journal|author=Bell D, Thomas W, Murtagh K, Dionne C, Grahm A, Anderson J and Glover W|title=DNA Base Identification by Electron Microscopy|doi=10.1017/S1431927612012615|journal=Microscopy and Microanalysis|volume=18|issue=5|pages=1049–1053|year=2012|pmid=23046798}}</ref>
+
+==Principle==
+
+The [[electron microscope]] has the capacity to obtain a resolution of up to 100 pm, whereby microscopic biomolecules and structures such as viruses, ribosomes, proteins, lipids, small molecules and even single atoms can be observed.<ref name= "“Campbell2002">Campbell NA and Reece JB. (2002) Biology (6th ed.). San Francisco: Benjamin Cummings. ISBN 0-8053-6624-5</ref> 
+
+Although [[DNA]] is visible when observed with the electron microscope, the resolution of the image obtained is not high enough to allow for deciphering the sequence of the individual [[nucleobase|bases]], ''i.e.'', [[DNA sequencing]]. However, upon differential labeling of the DNA bases with heavy atoms or metals, it is possible to both visualize and distinguish between the individual bases. Therefore, [[electron microscopy]] in conjunction with differential heavy atom DNA labeling could be used to directly image the DNA in order to determine its sequence.<ref name="Gupta2008" /><ref name="Dear2003">{{cite journal|author=Dear PH|title=One by one: Single molecule tools for genomics|doi=10.1093/bfgp/1.4.397|journal=Briefings in Functional Genomics and Proteomics|volume=1|issue=4|pages=397–416|year=2003|pmid=15239886}}</ref><ref name="Xu2009">{{cite journal|author=Xu, M ''et al.''|title=Perspectives and Challenges of Emerging Single-Molecule DNA Sequencing Technologies|doi=10.1002/smll.200900976|journal=Small|volume=5|issue=23|pages=2638–49|year=2009|pmid=19904762}}</ref><ref name="Schadt2010">{{cite journal|author=Schadt EE, ''et al.''|title=A window into third-generation sequencing|doi=10.1093/hmg/ddq416|journal=Human Molecular Genetics|volume=19|issue=R2|pages=R227|year=2010|pmid= 20858600}}</ref>
+
+==Workflow==
+
+[[File:TEM-SMS-Workflow.png|thumb|850px|center|'''Workflow of transmission electron microscopy DNA sequencing''']]
+
+===Step 1 – DNA denaturation===
+
+As in a standard [[Polymerase chain reaction|polymerase chain reaction (PCR)]], the double stranded DNA molecules to be sequenced must be [[denaturation (biochemistry)|denatured]] before the second strand can be synthesized with labeled nucleotides.
+
+===Step 2 – Heavy atom labeling===
+
+The elements that make up biological molecules ([[carbon|C]], [[hydrogen|H]], [[nitrogen|N]], [[oxygen|O]], [[phosphorus|P]], [[sulfur|S]]) are too light (low [[atomic number|atomic number, Z]]) to be clearly visualized as individual atoms by [[transmission electron microscopy]]. To circumvent this problem, the DNA [[nucleobase|bases]] can be labeled with heavier atoms (higher Z). Each [[nucleotide]] is tagged with a characteristic heavy label, so that they can be distinguished in the transmission electron micrograph.
+* ZS Genetics proposes using three heavy labels: [[bromine]] (Z=35), [[iodine]] (Z=53), and [[trichloromethane]] (total Z=63). These would appear as differential dark and light spots on the micrograph, and the fourth DNA base would remain unlabeled.
+* Halcyon Molecular, in collaboration with the Toste group, proposes that [[purine]] and [[pyrimidine]] bases can be functionalized with platinum diamine or osmium tetraoxide bipyridine, respectively. Heavy metal atoms such as [[osmium]] (Z=76), [[iridium]] (Z=77), [[gold]] (Z=79), or [[uranium]] (Z=92) can then form metal-metal bonds with these functional groups to label the individual bases.<ref>[http://www.genome.gov/27541189 Advanced Sequencing Technology Awards 2010]. Genome.gov. Retrieved on 2011-02-25.</ref>
+
+===Step 3 – DNA alignment on substrate===
+
+The DNA molecules must be stretched out on a thin, solid substrate so that order of the labeled bases will be clearly visible on the electron micrograph. [[Chromosome combing|Molecular combing]] is a technique that utilizes the force of a receding air-water interface to extend DNA molecules, leaving them irreversibly bound to a silane layer once dry.<ref name="Bensimon1994">{{cite journal|author=Bensimon A, ''et al.''|title=Alignment and sensitive detection of DNA by a moving interface|doi=10.1126/science.7522347|journal=Science|volume=265|issue=5181|pages=2096–8|year=1994|pmid= 7522347|bibcode = 1994Sci...265.2096B }}</ref><ref name="Michalet1997">{{cite journal|author=Michalet X, ''et al.''|title=Dynamic Molecular Combing: Stretching the Whole Human Genome for High-Resolution Studies|doi=10.1126/science.277.5331.1518|journal=Science|volume=277|issue=5331|pages=1518–23|year=1997|pmid=9278517}}</ref> This is one means by which alignment of the DNA on a solid substrate may be achieved.
+
+===Step 4 – TEM imaging===
+
+[[File:RibosomaleTranskriptionsEinheit.jpg|thumb|400px|Electron microscopy image of DNA: ribosomal transcription units of ''Chrironumus pallidivitatus''. The image was recorded with the relatively old technology (ca. 2005).]]
+Transmission electron microscopy (TEM) produces high magnification, [[High-resolution transmission electron microscopy|high resolution images]] by passing a beam of electrons through a very thin sample. Whereas atomic resolution has been demonstrated with conventional TEM, further improvement in spatial resolution requires correcting the [[spherical aberration|spherical]] and chromatic aberrations of the microscope [[objective (optics)|lenses]]. This has only been possible in [[scanning transmission electron microscopy]] where the image is obtained by scanning the object with a finely focused electron beam, in a way similar to a [[cathode ray tube]]. However, the achieved improvement in resolution comes together with irradiation of the studied object by much higher beam intensities, the concomitant sample damage and the associated imaging artefacts.<ref name="Haider2009">{{cite journal|author=Haider M, ''et al.''|journal=Nature|volume=392|pages=768|year=1998|doi=10.1038/33823|bibcode = 1998Natur.392..768H|issue=6678}}</ref> Different imaging techniques are applied depending on whether the sample contains heavy or light atoms:
+* [[Annular dark-field imaging]] measures the scattering of electrons as they deflect off the nuclei of the atoms in the transmission electron microscopy sample.<ref name="Krivanek2010" /> This is best suited to samples containing heavy atoms, as they cause more scattering of electrons. The technique has been used to image atoms as light as [[boron]], [[nitrogen]], and [[carbon]];<ref name="Krivanek2010" /> however, the signal is very weak for such light atoms. If annular dark-field microscopy is put to use for transmission electron microscopy DNA sequencing, it will certainly be necessary to label the DNA bases with heavy atoms so that a strong signal can be detected.
+* Annular bright-field imaging detects electrons transmitted directly through the sample, and measures the wave interference produced by their interactions with the atomic nuclei. This technique can detect light atoms with greater sensitivity than annular dark-field imaging methods. In fact, [[oxygen]],<ref name="Okunishi2009">{{cite journal|author=Okunishi E, ''et al.''|title=Visualization of Light Elements at Ultrahigh Resolution by STEM Annular Bright Field Microscopy|journal=Microscopy and Microanalysis|volume=15|pages=164|year=2009|doi=10.1017/S1431927609093891|bibcode = 2009MiMic..15..164O }}</ref> [[nitrogen]],<ref name="Okunishi2009" /> [[lithium]],<ref name="Oshima2010">{{cite journal|author=Oshima Y, ''et al.''|title=Direct imaging of lithium atoms in LiV<sub>2</sub>O<sub>4</sub> by spherical aberration-corrected electron microscopy|journal=Journal of Electron Microscopy|volume=59|issue=6|pages=457–61|year=2010|pmid=20406731|doi=10.1093/jmicro/dfq017}}</ref> and [[hydrogen]]<ref name="Ishikawa2011">{{cite journal|author=Ishikawa R, ''et al.''|doi=10.1038/nmat2957|title=Direct imaging of hydrogen-atom columns in a crystal by annular bright-field electron microscopy|journal=Nature Materials|year=2011|pmid=21317899|bibcode = 2011NatMa..10..278I|volume=10|issue=4|pages=278–281}}</ref> in crystalline solids have been imaged using annular bright-field electron microscopy. Thus, it is theoretically possible to obtain direct images of the atoms in the DNA chain; however, the structure of DNA is much less geometric than crystalline solids, so direct imaging without prior labeling may not be achievable.
+
+===Step 5 – Data analysis===
+
+Dark and bright spots on the electron micrograph, corresponding to the differentially labeled DNA bases, are analyzed by computer software.
+
+==Applications==
+Transmission electron microscopy DNA sequencing is not yet commercially available, but the long read lengths that this technology may one day provide will make it useful in a variety of contexts.
+
+===''De novo'' genome assembly===
+
+When sequencing a genome, it must be broken down into pieces that are short enough to be sequenced in a single read. These reads must then be put back together like a jigsaw puzzle by aligning the regions that overlap between reads; this process is called ''de novo'' [[genome assembly]]. The longer the read length that a sequencing platform provides, the longer the overlapping regions, and the easier it is to assemble the genome. From a computational perspective, [[microfluidic Sanger sequencing]] is still the most effective way to sequence and assemble genomes for which no [[reference genome]] sequence exists. The relatively long read lengths provide substantial overlap between individual sequencing reads, which allows for greater statistical confidence in the assembly.  In addition, long Sanger reads are able to span most regions of [[Repeated sequence (DNA)|repetitive DNA sequence]] which otherwise confound sequence assembly by causing false alignments. However, ''de novo'' genome assembly by Sanger sequencing is extremely expensive and time consuming. [[High-throughput sequencing|Second generation sequencing technologies]],<ref name="Shendure2008">{{cite journal|author=Shendure J and Ji H|title=Next-generation DNA sequencing|doi=10.1038/nbt1486|journal=Nature Biotechnology|volume=26|issue=10|pages=1135–45|year=2008|pmid=18846087}}</ref> while less expensive, are generally unfit for ''de novo'' genome assembly due to short read lengths. In general, third generation sequencing technologies,<ref name="Schadt2010" /> including transmission electron microscopy DNA sequencing, aim to improve read length while maintaining low sequencing cost. Thus, as third generation sequencing technologies improve, rapid and inexpensive ''de novo'' genome assembly will become a reality.
+
+===Full haplotypes===
+
+A [[haplotype]] is a series of linked [[allele]]s that are inherited together on a single chromosome. DNA sequencing can be used to [[genotyping|genotype]] all of the [[single-nucleotide polymorphism|single nucleotide polymorphisms (SNPs)]] that constitute a haplotype. However, short DNA sequencing reads often cannot be phased; that is, [[heterozygous]] variants cannot be confidently assigned to the correct haplotype. In fact, haplotyping with short read DNA sequencing data requires very high coverage (average >50x coverage of each DNA base) to accurately identify SNPs, as well as additional sequence data from the parents so that [[Mendelian inheritance|Mendelian transmission]] can be used to estimate the haplotypes.<ref name="The 1000 Genomes Project Consortium2010">{{cite journal|last1=Durbin|first1=Richard M.|last2=Altshuler|first2=David L.|last3=Durbin|first3=Richard M.|last4=Abecasis|first4=Gonçalo R.|last5=Bentley|first5=David R.|last6=Chakravarti|first6=Aravinda|last7=Clark|first7=Andrew G.|last8=Collins|first8=Francis S.|last9=De La Vega|first9=Francisco M.|title=A map of human genome variation from population-scale sequencing|doi=10.1038/nature09534|journal=Nature|volume=467|issue=7319|pages=1061–73|year=2010|pmc=3042601|pmid=20981092|bibcode = 2010Natur.467.1061T }}</ref> Sequencing technologies that generate long reads, including transmission electron microscopy DNA sequencing, can capture entire haploblocks in a single read. That is, haplotypes are not broken up among multiple reads, and the genetically linked alleles remain together in the sequencing data. Therefore, long reads make haplotyping easier and more accurate, which is beneficial to the field of [[population genetics]].
+
+===Copy number variants===
+
+Genes are normally present in two copies in the [[diploid]] human genome; genes that deviate from this standard copy number are referred to as [[copy-number variation|copy number variants (CNVs)]]. Copy number variation can be benign (these are usually common variants, called copy number polymorphisms) or pathogenic.<ref name="Rodruiguez-Revenga2007">{{cite journal|author=Rodruiguez-Revenga L. ''et al.''|title=Structural variation in the human genome: the impact of copy number variants on clinical diagnosis|doi=10.1097/GIM.0b013e318149e1e3|journal=Genetics in Medicine|volume=9|issue=9|pages=600–6|year=2007|pmid=17873648}}</ref> CNVs are detected by [[Fluorescence in situ hybridization|fluorescence in situ hybridization (FISH)]] or [[Comparative genomic hybridization|comparative genomic hybridization (CGH)]]. To detect the specific breakpoints at which a deletion occurs, or to detect genomic lesions introduced by a duplication or amplification event, CGH can be performed using a [[tiling array]] ([[array comparative genomic hybridization|array CGH]]), or the variant region can be sequenced. Long sequencing reads are especially useful for analyzing duplications or amplifications, as it is possible to analyze the orientation of the amplified segments if they are captured in a single sequencing read.
+
+===Cancer===
+
+Cancer genomics, or [[oncogenomics]], is an emerging field in which [[high-throughput sequencing|high-throughput, second generation DNA sequencing]] technology is being applied to sequence entire cancer genomes. Analyzing this short read sequencing data encompasses all of the problems associated with ''de novo'' genome assembly using short read data.<ref name="Tucker2009">{{cite journal|author=Tucker T, ''et al.''|title=Massively Parallel Sequencing: The Next Big Thing in Genetic Medicine|doi=10.1016/j.ajhg.2009.06.022|journal=The American Journal of Human Genetics|volume=85|issue=2|pages=142–54|pmc=2725244|year=2009|pmid=19679224}}</ref> Furthermore, cancer genomes are often [[aneuploidy|aneuploid]].<ref name="Torres2008">{{cite journal|author=Torres EM, ''et al.''|title=Aneuploidy: Cells Losing Their Balance|doi=10.1534/genetics.108.090878|journal=Genetics|volume=179|issue=2|pages=737–46|pmc=2429870|year=2008|pmid=18558649}}</ref> These aberrations, which are essentially large scale copy number variants, can be analyzed by second-generation sequencing technologies using read frequency to estimate the copy number.<ref name="Tucker2009" /> Longer reads would, however, provide a more accurate picture of copy number, orientation of amplified regions, and SNPs present in cancer genomes.
+
+===Microbiome sequencing===
+
+The [[microbiome]] refers the total collection of microbes present in a microenvironment and their respective genomes. For example, an estimated 100 trillion microbial cells colonize the human body at any given time.<ref name="Savage1977">{{cite journal|author=Savage DC|title=Microbial Ecology of the Gastrointestinal Tract|doi=10.1146/annurev.mi.31.100177.000543|journal=Annual Review of Microbiology|volume=31|pages=107–33|year=1977|pmid= 334036}}</ref> The human microbiome is of particular interest, as these [[commensalism|commensal bacteria]] are important for human health and immunity. Most of the Earth's bacterial genomes have not yet been sequenced; undertaking a microbiome sequencing project would require extensive ''de novo'' genome assembly, a prospect which is daunting with short read DNA sequencing technologies.<ref name="Hamady2009">{{cite journal|author=Hamady M and Knight R|title=Microbial community profiling for human microbiome projects: Tools, techniques, and challenges|doi=10.1101/gr.085464.108|journal=Genome Research|volume=19|issue=7|pages=1141–52|year=2009|pmid=19383763}}</ref> Longer reads would greatly facilitate the assembly of new microbial genomes.
+
+==Strengths and weaknesses==
+Compared to other second- and third-generation DNA sequencing technologies, transmission electron microscopy DNA sequencing has a number of potential key strengths and weaknesses, which will ultimately determine its usefulness and prominence as a future DNA sequencing technology.
+
+===Strengths===
+
+* '''Longer read lengths''': ZS Genetics has estimated potential read lengths of transmission electron microscopy DNA sequencing to be 10,000 to 20,000 base pairs with a rate of 1.7 billion base pairs per day.<ref name="Gupta2008" /> Such long read lengths would allow easier ''de novo'' genome assembly and direct detection of haplotypes, among other applications.<ref name="Schadt2010" />
+* '''Lower cost''': Transmission electron microscopy DNA sequencing is estimated to cost just US$5,000-US$10,000 per human genome, compared to the more expensive second-generation DNA sequencing alternatives.<ref name="Xu2009" />
+* '''No dephasing''': Dephasing of the DNA strands due to loss in synchronicity during synthesis is a major problem of second-generation sequencing technologies. For transmission electron microscopy DNA sequencing and several other third-generation sequencing technologies, sychronization of the reads is unnecessary as only one molecule is being read at a time.<ref name="Gupta2008" /><ref name="Schadt2010" />
+* '''Shorter turnaround time''': The capacity to read native fragments of DNA renders complex template preparation an unnecessary step in the general workflow of whole genome sequencing. Consequently, shorter turnaround times are possible.<ref name="Schadt2010" />
+
+===Weaknesses===
+
+* '''High capital cost''': A transmission electron microscope with sufficient resolution required for transmission electron microscopy DNA sequencing costs approximately US$1,000,000, therefore pursuing DNA sequencing by this method requires a substantial investment.<ref name="Xu2009" />
+* '''Technically challenging''': Selective heavy atom labeling and attaching and straightening the labeled DNA to a substrate are a serious technical challenge.<ref name="Xu2009" /> Further, the DNA sample should be stable to the high vacuum of electron microscope and irradiation by a focused beam of high-energy electrons.
+* '''Potential [[PCR]] bias and artefacts''': Although PCR is only being utilized in transmission electron microscopy DNA sequencing as a means to label the DNA strand with heavy atoms or metals, there could be the possibility of introducing bias in template representation or errors during the single amplification.<ref name="Xu2009" />
+
+===Comparison to other sequencing technologies===
+
+Many non-Sanger second- and third-generation DNA sequencing technologies have been or are currently being developed with the common aim of increasing throughput and decreasing cost such that personalized genetic medicine can be fully realized.
+
+Both the US$10 million [[Archon X Prize]] for Genomics supported by the [[X Prize Foundation]] (Santa Monica, CA, USA) and the US$70 million in grant awards supported by the [[National Human Genome Research Institute]] of the [[National Institutes of Health]] (NIH-NHGRI) are fueling the rapid burst of research activity in the development of new DNA sequencing technologies.<ref name="Gupta2008" /> 
+
+Since different approaches, techniques, and strategies are what define each DNA sequencing technology, each has its own strengths and weaknesses. Comparison of important parameters between various second- and third-generation DNA sequencing technologies are presented in Table 1.
+
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|+ '''Table 1. Second- and third-generation DNA sequencing platforms<ref name="Xu2009" />'''
+! scope="col"|Platform 
+! scope="col"|Generation
+! scope="col"|Read length (bp)
+! scope="col"|Accuracy
+! scope="col"|Cost per human genome (US$) 
+! scope="col"|Cost of instrument (US$)
+! scope="col"|Run time (h/Gbp)<ref name="Gupta2008" />
+|-
+| Massively parallel pyrosequencing by synthesis ([http://www.454.com/ Roche/454: GS FLX Titanium Series]) || Second || 400–500 || Q20 read length of 40 bases (99% at 400 bases and higher for prior bases) || 1,000,000 || 500,000 || 75
+|-
+| Sequencing by synthesis ([http://www.illumina.com/ Illumina/Solexa: Genome Analyzer IIx]) || Second || 2×75 || Base call with Q30 (>70%) || 60,000 || 450,000 || 56
+|-
+| Bead-based massively parallel clonal ligation based sequencing ([http://ww3.appliedbiosystems.com/AB_Home/index.htm Applied Biosystems: SOLiD 3 System])  || Second || 100 || 99.94% || 60,000 || 591,000 || 42
+|-
+| Massively parallel single-molecule sequencing by synthesis ([http://www.helicosbio.com/ Helicos/Stanford Univ.])  || Third || 30–35 || 99.995% at >20×coverage (raw error rate: ≤ 5%) || 70,000 || 1,350,000 || ~12
+|-
+| Single molecule, real time sequencing by synthesis ([http://www.pacificbiosciences.com/ Pacific BioSciences/Cornell Univ.])  ||  Third || 1000–1500 || 99.3% at 15×coverage (error rate of a single read: 15–20%) || – || – || <1
+|-
+| Nanopore sequencing ([http://www.nanoporetech.com/ Oxford Nanopore Technologies/Harvard Univ.])  || Third || Potentially unlimited? || -- || -- || -- || >20
+|-
+| '''Transmission electron microscopy single-molecule sequencing (ZS Genetics, Halcyon Molecular) || '''Third''' || '''Potentially unlimited?''' || '''--''' || '''~10,000''' || '''~1,000,000''' || '''~14'''
+|}
+
+==References==
+<!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{reflist|colwidth=30em}}
+
+[[Category:DNA sequencing]]
+[[Category:Electron microscopy]]
+[[Category:Laboratory techniques]]
+[[Category:Microbiology techniques]]
+[[Category:Microscopy]]
+[[Category:Molecular biology techniques]]
+[[Category:Scientific techniques]]

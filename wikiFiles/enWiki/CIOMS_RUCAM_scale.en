@@ -1,0 +1,131 @@
+{{cleanup|date=May 2008}}
+
+The '''CIOMS/RUCAM scale''' is a tool to predict whether [[liver]] damage can be attributed to a particular [[medication]].
+
+==Hepatotoxicity==
+Determining [[hepatotoxicity]] (toxic effects of a substance on the liver) remains a major challenge in clinical practice due to lack of reliable markers.<ref name="pmid17230599">{{cite journal |author=Andrade RJ, Robles M, Fernández-Castañer A, López-Ortega S, López-Vega MC, Lucena MI |title=Assessment of drug-induced hepatotoxicity in clinical practice: a challenge for gastroenterologists |journal=World J. Gastroenterol. |volume=13 |issue=3 |pages=329–40 |year=2007 |pmid=17230599 |url=http://www.wjgnet.com/1007-9327/13/329.asp|doi=}}</ref> Many other conditions lead to similar clinical as well as pathological picture. To diagnose hepatotoxicity, a causal relationship between the use of the toxin or drug and subsequent liver damage has to be established, but might be difficult, especially when idiosyncratic reaction is suspected.<ref>{{cite journal |author=Arundel C, Lewis JH |title=Drug-induced liver disease in 2006 |journal=Curr. Opin. Gastroenterol. |volume=23 |issue=3 |pages=244–54 |year=2007 |pmid=17414839 |doi=10.1097/MOG.0b013e3280b17dfb}}</ref> Simultaneous use of multiple drugs may add to the complexity. As in [[acetaminophen]] toxicity, well established dose dependent pharmacological hepatotoxicity is easier to spot.
+
+==Interpretation==
+The [[Council for International Organizations of Medical Sciences|CIOMS]]/RUCAM scale has been proposed to establish causal relationship between offending drug and liver damage. The CIOMS/RUCAM scale involves a scoring system which categorizes the suspicion into "definite or highly probable" (score > 8), "probable" (score 6-8), "possible" (score 3-5), "unlikely" (score 1-2) and "excluded" (score ≤ 0). In clinical practice physicians put more emphasis on the presence or absence of similarity between the biochemical profile of the patient and known biochemical profile of the suspected toxicity ( e.g. cholestatic damage in [[Co-amoxiclav|amoxycillin-clauvonic acid]] ).<ref name="pmid17230599"/>
+
+==Elements of the scale==
+{| class="wikitable"
+|+ '''CIOMS/RUCAM scale'''
+|-
+! Type of liver injury
+! colspan="2" | Hepatocellular
+! colspan="2" | Cholestatic/mixed
+! Points
+|-
+! Time of onset of the event
+| first exposure
+| second exposure
+| first exposure
+| second exposure
+| —
+|-
+! rowspan="2" | Time from drug intake<br> until reaction onset
+| 5 to 90 days
+| 1 to 15 days
+| 5 to 90 days
+| 1 to 90 days
+| +2
+|-
+| <5 or >90 days
+| >15 days
+| <5 or >90 days
+| >90 days
+| +1
+|-
+! Time from drug withdrawal<br> until reaction onset
+| ≤15 days
+| ≤15 days
+| ≤30 days
+| ≤30 days
+| +1
+|-
+! rowspan="2" | Risk factors
+| colspan="2" | Alcohol
+| colspan="2" | Alcohol or pregnancy
+| +1
+|-
+| colspan="2" | Age ≥ 55 years
+| colspan="2" | Age ≥ 55 years
+| +1
+|-
+! rowspan="5" | Course of the reaction
+| colspan="2" | >50% improvement 8 days
+| colspan="2" | —
+| +3
+|-
+| colspan="2" | >50% improvement 30 days
+| colspan="2" | >50% improvement 180 days
+| +2
+|-
+| colspan="2" | —
+| colspan="2" | <50% improvement 180 days
+| +1
+|-
+| colspan="2" | Lack of information or no improvement
+| colspan="2" | Lack of information or no improvement
+| +0
+|-
+| colspan="2" | Worsening or<br> <50% improvement 30 days
+| colspan="2" | —
+| -1
+|-
+|}
+ 
+* ''Concomitant therapy:''
+**Time to onset incompatible:  +0
+**Time to onset compatible but with unknown reaction:  -1
+**Time to onset compatible but known reaction:  -2
+**Role proved in this case:  -3
+**None or information not available:  +0
+
+* ''Exclusion of nondrug-related causes:''
+**Rule out:  +2
+**“Possible” to “not investigated”:  -2 to +1
+**Probable:  -3
+
+* ''Previous information on hepatotoxicity:''
+**Reaction unknown:  +0
+**Reaction published but unlabeled:  +1
+**Reaction labeled in the product's characteristics:  +2
+
+* ''Response to re-administration:''
+**Positive:  +3
+**Compatible:  +1
+**Negative:  -2
+**Not available or not interpretable:  +0
+**or plasma concentration of drug known as toxic:  +3
+**or validated laboratory test with high specificity, sensitivity, and predictive values:  
+***Positive:  +3
+***Negative:  -3
+***Not interpretable or not available:  +0
+
+==Score analysis==
+Points are summed and the total compared to this chart:
+
+* 0 or lower:  relationship with the drug excluded
+* 1-2:  unlikely
+* 3-5:  possible
+* 6-8:  probable
+* >8:  highly probable
+
+If the results are incompatible with a connection, then the case is considered "unrelated".
+In some cases, insufficient information is available; these cases are recorded as "insufficiently documented".
+
+==See also==
+* [[Hepatotoxicity]]
+
+==External links==
+*[http://farmacologiaclinica.info/scales/CIOMS-RUCAM Online calculator]
+
+==References==
+{{reflist|2}}
+
+{{DEFAULTSORT:CIOMS RUCAM scale}}
+[[Category:Toxicology]]
+[[Category:Gastroenterology]]
+[[Category:Hepatology]]

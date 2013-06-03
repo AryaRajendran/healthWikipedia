@@ -1,0 +1,129 @@
+{{refimprove|date=February 2007}}
+{{Redirect|Blood count|the Billy Strayhorn composition|Blood Count}}
+{{Diagnostic infobox
+| Name            = Complete blood count
+| Image           = Complete blood count CBC diagram.png
+| Alt             =
+| Caption         = Schematics (also called "Fishbones") of shorthand for complete blood count commonly used by clinicians. The shorthand on the right is used more often in the [[United States|US]]. Hgb=[[Hemoglobin]], WBC=[[White blood cell]]s, Plt=[[Platelet]]s, Hct=[[Hematocrit]].
+| DiseasesDB      =
+| ICD10           = 
+| ICD9            = 
+| ICDO            =
+| OMIM            =
+| MedlinePlus     = 003642
+| eMedicine   = 94020
+| MeshID          = D001772
+| LOINC = {{SearchLOINC|CBC|Codes for CBC}}, e.g., {{LOINC|57021-8}}
+| HCPCSlevel2     = {{HCPCSlevel2|G|0306}}
+| Reference_range = Hgb: 120–175 g/L;<br/>WBC: 3.5–11 x 10<sup>9</sup>/L;<br/>Plt: 140–450 x 10<sup>9</sup>/L;<br/>Hct: 31–53%
+}}
+
+A '''complete blood count''' ('''CBC'''), also known as '''full blood count''' ('''FBC''') or '''full blood exam''' ('''FBE''') or '''blood panel''', is a [[test panel]] requested by a [[physician|doctor]] or other [[medical professional]] that gives information about the cells in a patient's blood. A scientist or lab technician performs the requested testing and provides the requesting medical professional with the results of the CBC.
+
+Alexander Vastem is widely regarded as being the first person to use the complete blood count for clinical purposes.{{Fact|date=March 2008}} Reference ranges used today stem from his clinical trials in the early 1960s.
+
+The [[Cell (biology)|cells]] that circulate in the [[blood]]stream are generally divided into three types: white blood cells ([[leukocytes]]), red blood cells ([[erythrocytes]]), and platelets ([[thrombocytes]]). Abnormally high or low counts may indicate the presence of many forms of disease, and hence blood counts are amongst the most commonly performed [[blood test]]s in medicine, as they can provide an overview of a patient's general health status. A CBC is routinely performed during annual [[physical examination]]s in some jurisdictions.
+
+==Methods==
+===Samples===
+[[File:CBC blood test.ogv|thumb|200px|CBC being performed in a hospital using an [[Abbott Laboratories|Abbott]] Cell-Dyn 1700 automatic analyzer.]]
+A [[phlebotomist]] collects the sample, drawing the blood into a [[test tube]] containing an [[anticoagulant]] ([[EDTA]], sometimes [[citrate]]) to stop it from [[coagulation|clotting]].  The sample is then transported to a [[laboratory]]. Sometimes the sample is drawn off a finger prick using a [[Pasteur pipette]] for immediate processing by an automated counter. 
+
+In the past, counting the cells in a patient's blood was performed manually, by viewing a slide prepared with a sample of the patient's blood under a [[microscope]] (a [[blood film]], or peripheral smear). Nowadays, this process is generally automated by use of an [[automated analyzer]], with only approximately 10-20% of samples now being examined manually.
+
+===Automated blood count===
+[[File:CBC report.JPG|thumb|Complete blood count performed by an [[automated analyser]]. Differentials missing.]]
+The blood is well mixed (though not shaken) and placed on a rack in the analyzer. This instrument has many different components to analyze different elements in the blood.  The cell counting component counts the numbers and types of different cells within the blood. The results are printed out or sent to a computer for review.
+
+Blood counting machines aspirate a very small amount of the specimen through narrow tubing. Sensors count the number of cells passing through the tubing, and can identify the type of cell; this is [[flow cytometry]]. The two main sensors used are light detectors and electrical [[Electrical impedance|impedance]]. One way the instrument can tell what type of blood cell is present is by size. Other instruments measure different characteristics of the cells to categorize them.
+
+Because an automated cell counter samples and counts so many cells, the results are very precise. However, certain abnormal cells in the blood may not be identified correctly, requiring manual review of the instrument's results and identification of any abnormal cells the instrument could not categorize.
+
+In addition to counting, measuring and analyzing red blood cells, white blood cells and platelets, automated hematology analyzers also measure the amount of hemoglobin in the blood and within each red blood cell. This information can be very helpful to a physician who, for example, is trying to identify the cause of a patient's anemia. If the red cells are smaller or larger than normal, or if there is a lot of variation in the size of the red cells, this data can help guide the direction of further testing and expedite the diagnostic process so patients can get the treatment they need quickly.
+
+===Manual blood count===
+Counting chambers that hold a specified volume of diluted blood (as there are far too many cells if it is not diluted) are used to calculate the number of red and white cells per litre of blood.
+
+To identify the numbers of different white cells, a [[blood film]] is made, and a large number of white cells (at least 100) are counted. This gives the percentage of cells that are of each type. By multiplying the percentage with the total number of [[white blood cell]]s, the absolute number of each type of white cell can be obtained.
+
+Manual counting is useful in cases where automated analyzers cannot reliably count abnormal cells, such as those cells that are not present in normal patients and are only seen in peripheral blood with certain haematological conditions.  Manual counting is subject to sampling error because so few cells are counted compared with automated analysis.
+
+Medical technologists examine blood film via a microscope for some CBCs, not only to find abnormal white cells, but also because variation in the shape of red cells is an important diagnostic tool. Although automated analysers give fast, reliable results regarding the number, average size, and variation in size of red blood cells, they do not detect cells' shapes. Also, some normal patients' platelets will clump in EDTA anticoagulated blood, which causes automatic analyses to give a falsely low platelet count. The person viewing the slide in these cases will see clumps of platelets and can estimate if there are low, normal, or high numbers of platelets.
+
+==Results==
+
+''For examples of standard values, see [[Reference ranges for blood tests#Hematology]].''
+
+[[Image:SEM blood cells.jpg|thumb|right|A scanning electron microscope (SEM) image of normal circulating human blood. One can see red blood cells, several knobby white blood cells including lymphocytes, a monocyte, a neutrophil, and many small disc-shaped platelets.]]
+
+A complete blood count will normally include:
+===Red cells===
+*Total [[red blood cell]]s&nbsp;— The number of red cells is given as an absolute number per litre.
+**{{SearchLOINC|rbc+whole+blood+ncnc+-wbc|LOINC codes for Whole Blood RBC Counting}}
+*[[Hemoglobin]] - The amount of hemoglobin in the blood, expressed in grams per decilitre. (Low hemoglobin is called [[anemia]].)
+**{{SearchLOINC|component%3Ahemoglobin+whole+blood+mcnc|LOINC codes for this test}}(Note: not all the codes in the search result are suitable for this test.)
+*[[Hematocrit]] or packed cell volume (PCV) - This is the fraction of whole blood volume that consists of red blood cells.
+*[[Red blood cell indices]]
+**[[Mean corpuscular volume]] (MCV) - the average volume of the red cells, measured in [[femtolitre]]s. [[Anemia]] is classified as [[microcytic anemia|microcytic]] or [[macrocytic anemia|macrocytic]] based on whether this value is above or below the expected normal range. Other conditions that can affect MCV include  [[thalassemia]], [[reticulocytosis]] and [[alcoholism]].
+**[[Mean corpuscular hemoglobin]] (MCH) - the average amount of hemoglobin per red blood cell, in [[picogram]]s.
+**[[Mean corpuscular hemoglobin concentration]] (MCHC) - the average concentration of hemoglobin in the cells.
+**[[Red blood cell distribution width]] (RDW) - the variation in cellular volume of the RBC population.
+
+===White cells===
+*Total [[white blood cells]]&nbsp;— All the white cell types are given as a percentage and as an absolute number per litre.
+
+A complete blood count with differential will also include:
+*[[Neutrophil granulocyte]]s&nbsp;— May indicate [[bacteria]]l infection. May also be raised in acute viral infections.  Because of the segmented appearance of the nucleus, neutrophils are sometimes referred to as "segs." The nucleus of less mature neutrophils is not segmented, but has a band or rod-like shape. Less mature neutrophils&nbsp;— those that have recently been released from the bone marrow into the bloodstream&nbsp;— are known as "bands" or "stabs". Stab is a German term for rod.<ref name="rnceus1">[http://www.rnceus.com/cbc/cbcdiff.html Complete Blood count with Differential<!-- Bot generated title -->]</ref>
+*[[Lymphocyte]]s&nbsp;— Higher with some [[virus|viral]] infections such as [[glandular fever]] and. Also raised in [[chronic lymphocytic leukemia]] (CLL). Can be decreased by HIV infection. In adults, lymphocytes are the second most common WBC type after neutrophils. In young children under age 8, lymphocytes are more common than neutrophils.<ref name="rnceus1"/>
+*[[Monocyte]]s&nbsp;— May be raised in bacterial infection, tuberculosis, malaria, Rocky Mountain spotted fever, monocytic leukemia, chronic ulcerative colitis and regional enteritis <ref name="rnceus1"/>
+*[[Eosinophil granulocyte]]s&nbsp;— Increased in [[parasite|parasitic]] infections, asthma, or allergic reaction.
+*[[Basophil granulocyte]]s&nbsp;— May be increased in bone marrow related conditions such as leukemia or lymphoma. <ref name="rnceus1"/>
+
+A manual count will also give information about other cells that are not normally present in peripheral blood, but may be released in certain disease processes.
+
+===Platelets===
+* [[Platelet]] numbers are given, as well as information about their size and the range of sizes in the blood.
+* [[Mean platelet volume]] (MPV) - a measurement of the average size of platelets.
+
+==Interpretation==
+<!-- Image with unknown copyright status removed: [[File:CBCResults KP EpicSys.png|thumb|300px|A healthy patient's view of a Complete Blood Count (CBC) test result as delivered on the Web by Kaiser-Permenente HMO in San Jose, CA. It is formatted through Epic Systems Corporation's MyChart system.]] -->
+Certain [[disease]] states are defined by an absolute increase or decrease in the number of a particular type of cell in the bloodstream.  For example:
+
+{| class="wikitable"
+|-
+! Type of Cell || Increase || Decrease
+ |-
+ | '''[[Red blood cell|Red Blood Cells]]''' (RBC) || [[erythrocytosis]] or [[polycythemia]] || [[anemia]] or [[Erythroblastopenia (disambiguation)|erythroblastopenia]]
+ |-
+ | '''[[White blood cell|White Blood Cells]]''' (WBC): || [[leukocytosis]] || [[leukopenia]]
+ |-
+ | -- [[lymphocyte]]s || -- [[lymphocytosis]] || -- [[lymphocytopenia]]
+ |-
+ | -- [[granulocyte]]s: || -- [[granulocytosis]] || -- [[granulocytopenia]] or [[agranulocytosis]]
+ |-
+ | -- --[[Neutrophil granulocyte|neutrophils]] || -- --[[neutrophilia]] || -- --[[neutropenia]]
+ |-
+ | -- --[[Eosinophil granulocyte|eosinophils]] || -- --[[eosinophilia]] || -- --[[eosinopenia]]
+ |-
+ | -- --[[Basophil granulocyte|basophils]] || -- --[[basophilia]] || -- --[[basopenia]]
+ |-
+ | '''[[Platelet]]s''' || [[thrombocytosis]] || [[thrombocytopenia]]
+ |-
+ | '''All cell lines''' || - || [[pancytopenia]]
+|}
+
+Many disease states are heralded by changes in the blood count:
+* [[leukocytosis]] can be a sign of infection.
+* [[thrombocytopenia]] can result from drug toxicity.
+* [[pancytopenia]] is generally referred to as the result of decreased production from the [[bone marrow]], and is a common complication of [[cancer]] [[chemotherapy]].
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.ncbi.nlm.nih.gov/books/NBK2261 Blood Groups and Red Cell Antigens.] Free online book at [[National Center for Biotechnology Information|NCBI]] Bookshelf ID: NBK2261
+*[http://www.labtestsonline.org/understanding/analytes/cbc/test.html Complete Blood Count]
+
+{{Myeloid blood tests}}
+{{Infectious and inflammatory blood tests}}
+[[Category:Blood tests]]

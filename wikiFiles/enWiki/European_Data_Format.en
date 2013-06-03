@@ -1,0 +1,22 @@
+'''European Data Format''' ('''EDF''')  is a standard [[file format]] designed for exchange and storage of medical [[time series]]. Being an open and non-proprietary format, EDF(+) is commonly used to archive, exchange and analyse data from commercial devices in a format that is independent of the acquisition system. In this way, the data can be retrieved and analyzed by independent software. EDF(+) software (browsers, checkers, ...) and example files are freely available.
+
+EDF was published in 1992 and stores multichannel data, allowing different sample rates for each signal. Internally it includes a header and one or more data records. The header contains some general information (patient identification, start time...) and technical specs of each signal (calibration, sampling rate, filtering, ...), coded as ASCII characters. The data records contain samples as little-[[endian]] [[16-bit]] integers. EDF is a popular format for [[polysomnography]] (PSG) recordings.
+
+EDF+ was published in 2003 and is largely compatible to EDF: all existing EDF viewers also show EDF+ signals. But EDF+ files also allow coding discontinuous recordings as well as annotations, stimuli and events in [[UTF-8]] format. EDF+ has applications in PSG, [[electroencephalography]] (EEG), [[electrocardiography]] (ECG), [[electromyography]] (EMG), and Sleep scoring. EDF+ can also be used for nerve conduction studies, evoked potentials and other data acquisition studies.
+
+== References ==
+*{{cite journal |author=Kemp B, Värri A, Rosa AC, Nielsen KD, Gade J |title=A simple format for exchange of digitized polygraphic recordings |journal=Electroencephalogr Clin Neurophysiol |volume=82 |issue=5 |pages=391–3 |year=1992 |month=May |pmid=1374708 }} — EDF reference.
+*{{cite journal |author=Kemp B, Olivan J |title=European data format 'plus' (EDF+), an EDF alike standard format for the exchange of physiological data |journal=Clin Neurophysiol |volume=114 |issue=9 |pages=1755–61 |year=2003 |month=September |pmid=12948806 |doi= |url=http://linkinghub.elsevier.com/retrieve/pii/S1388245703001238}}
+*[http://www.edfplus.info/ EDF specification, examples and tools]
+
+== External links ==
+*[http://tech.groups.yahoo.com/group/EDF The EDFgroup]
+*[http://www.physionet.org/physiobank/database/sleep-edf/ A sample of normal sleep recordings in EDF format]
+
+[[Category:Electroencephalography|*]]
+[[Category:Electrophysiology]]
+[[Category:Neurophysiology]]
+[[Category:Neurotechnology]]
+[[Category:Bioinformatics]]
+[[Category:Computer file formats]]
+[[Category:Health standards]]

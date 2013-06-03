@@ -460,6 +460,9 @@ def toLeaves(node):
     childNodes = Nodes()
     for childNode in node.value:
         # recursion: first doActions branch child to leaves itself
+        if isinstance(childNode, unicode):
+          continue
+
         if childNode.kind == Node.LEAF:
             childNodes.append(childNode)
         # recursion: first doActions branch child to leaves itself
@@ -576,6 +579,7 @@ def join(node):
     toLeaves(node)
     childTexts = []
     for child in node.value:
+        
         if isinstance(child.value, unicode):
             childTexts.append(unicode(child.value))
         else:

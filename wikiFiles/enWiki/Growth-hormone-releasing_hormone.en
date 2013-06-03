@@ -1,0 +1,80 @@
+{{Protein
+   |Name=Growth hormone releasing hormone
+   |image=
+   |caption=
+   |Symbol=GHRH
+   |AltSymbols=GRF, GHRF
+   |HGNCid=4265
+   |Chromosome=20
+   |Arm=p
+   |Band=
+   |LocusSupplementaryData=12 or q11.2-q12
+   |ECnumber=
+   |OMIM=139190
+   |EntrezGene=2691
+   |RefSeq=NM_021081
+   |UniProt=P01286
+   |PDB=
+}}
+
+'''Growth-hormone-releasing hormone''' ('''GHRH'''), also known as '''growth-hormone-releasing factor''' ('''GRF''', '''GHRF'''), '''somatoliberin''' or '''somatocrinin''', is a [[releasing hormone]] for [[growth hormone]]. It is a 44<ref name=GeneGlobe/>-[[amino acid]] [[peptide hormone]] produced in the [[arcuate nucleus]] of the [[hypothalamus]]. 
+
+GHRH first appears in the human hypothalamus between 18 and 29 weeks of gestation, which corresponds to the start of production of growth hormone and other somatotropes in fetuses.<ref name=GeneGlobe/>
+
+== Origin ==
+
+GHRH is released from neurosecretory nerve terminals of these arcuate neurons, and is carried by the hypothalamo-[[hypophyseal portal system]] to the [[anterior pituitary gland]] where it stimulates [[growth hormone]] (GH) secretion by stimulating the [[growth hormone-releasing hormone receptor]]. GHRH is released in a pulsatile manner, stimulating similar pulsatile release of GH.  In addition, GHRH also promotes [[slow-wave sleep]] directly.<ref>{{cite journal | author = Obál F, Krueger J | title = The somatotropic axis and sleep. | journal = Rev Neurol (Paris) | volume = 157 | issue = 11 Pt 2 | pages = S12–5 | year = 2001 | pmid = 11924022}}</ref> Growth hormone is required for normal postnatal growth, bone growth, regulatory effects on protein, carbohydrate, and lipid metabolism.<ref name=GeneGlobe>[https://www1.qiagen.com/GeneGlobe/PathwayView.aspx?pathwayID=199 GeneGlobe -> GHRH Signaling] Retrieved on May 31, 2009</ref>
+
+== Effect ==
+
+GHRH stimulates GH production and release by binding to the GHRH Receptor (GHRHR) on cells in the anterior pituitary.
+
+=== Receptor ===
+
+{{Main|Growth hormone-releasing hormone receptor}}
+
+The GHRHR is a member of the [[secretin family]] of [[G protein-coupled receptor]]s, and is located on [[chromosome 7]]. This protein is transmembranous with seven folds, and its molecular weight is approximately 44 [[kilodalton|kD]].<ref name=GeneGlobe/>
+
+=== Signal transduction ===
+
+GHRH binding to GHRHR results in increased GH production mainly by the [[cAMP dependent pathway]],<ref name=boron>{{cite book |author=Walter F., PhD. Boron |title=Medical Physiology: A Cellular And Molecular Approaoch |publisher=Elsevier/Saunders |location= |year=2003 |pages=1300 |isbn=1-4160-2328-3 |oclc= |doi=}}</ref> but also by the [[phospholipase C pathway]] (IP<sub>3</sub>/DAG pathway),<ref name=GeneGlobe/> and other minor pathways.<ref name=GeneGlobe/> 
+
+The [[cAMP-dependent pathway]] is initiated by GHRH binding to its receptor, causing receptor conformation that activates [[Gs alpha subunit|G<sub>s</sub> alpha subunit]] of the closely associated G-Protein complex on the intracellular side. This results in stimulation of membrane-bound [[adenylyl cyclase]] and increased intracellular [[cyclic adenosine monophosphate]] (cAMP). cAMP binds to and activates the regulatory subunits of [[protein kinase A]] (PKA), allowing the free catalytic subunits to translocate to the nucleus and phosphorylate the transcription factor [[cAMP response element binding protein]] (CREB). Phosphorylated CREB, together with its coactivators, [[p300]] and [[CREB binding protein]] (CBP) enhances the transcription of GH by binding to CREs [[cAMP-response element]]s in the [[promoter region]] of the GH gene. It also increases transcription of the GHRHR gene, providing [[positive feedback]].<ref name=GeneGlobe/>
+
+In the [[phospholipase C pathway]], GHRH stimulates phospholipase C (PLC) through the [[βγ-complex]] of [[heterotrimeric G-proteins]]. PLC activation produces both [[Diglyceride|diacylglycerol]] (DAG) and [[inositol triphosphate]] (IP<sub>3</sub>), the latter leading to release of intracellular Ca<sup>2+</sup> from the [[endoplasmic reticulum]], increasing cytosolic Ca<sup>2+</sup> concentration, resulting in [[vesicle fusion]] and release of secretory vesicles containing premade growth hormone.<ref name=GeneGlobe/>
+
+Some Ca<sup>2+</sup> influx is also a direct action of cAMP, which is distinct from the usual ''cAMP dependent pathway'' of activating ''protein kinase A''.<ref name=GeneGlobe/>
+
+Activation of GHRHRs by GHRH also conveys opening of [[sodium channel|Na+ channel]]s by [[phosphatidylinositol 4,5-bisphosphate]], causing cell depolarization. The resultant change in the intracellular voltage opens a [[voltage-dependent calcium channel]], resulting in [[vesicle fusion]] and release of GH.<ref name=GeneGlobe/>
+
+== Relationship of GHRH and somatostatin ==
+
+The actions of GHRH are opposed by [[somatostatin]] (growth-hormone-inhibiting hormone). Somatostatin is released from neurosecretory nerve terminals of periventricular somatostatin neurons, and is carried by the [[hypothalamo-hypophysial portal circulation]] to the anterior pituitary where it inhibits GH secretion. Somatostatin and GHRH are secreted in alternation, giving rise to the markedly pulsatile secretion of GH.
+
+== Other functions ==
+
+GHRH expression has been demonstrated in peripheral cells and tissues outside its main site in the hypothalamus, for example, in the pancreas, epithelial mucosa of the gastrointestinal tract and, pathologically, in tumour cells.<ref name=GeneGlobe/>
+
+== Sequence ==
+
+The [[amino acid sequence]] (44 long) of human GHRH is:
+
+HO - Tyr - Ala - Asp - Ala - Ile - Phe - Thr - Asn - Ser - Tyr - Arg - Lys - Val - Leu - Gly - Gln - Leu - Ser - Ala - Arg - Lys - Leu - Leu - Gln - Asp - Ile - Met - Ser - Arg - Gln - Gln - Gly - Glu - Ser - Asn - Gln - Glu - Arg - Gly - Ala - Arg - Ala - Arg - Leu - NH<sub>2</sub>
+
+== GHRH analog drug development ==
+The GHRH analog [[tesamorelin]] (trade name Egrifta) is a drug for the treatment of [[lipodystrophy]] in [[HIV]] patients under [[highly active antiretroviral therapy]],<ref>{{cite journal|doi=10.1007/PL00002220|title=Das HIV-assoziierte Lipodystrophiesyndrom |year=2001 |last1=Mauss|first1=Stefan|last2=Schmutz|first2=GüNther |journal=Medizinische Klinik |volume=96|issue=7|pages=391–401|pmid=11494914}}</ref> approved by the U.S. [[Food and Drug Administration]] in November 2010.<ref>{{cite web |url=http://www.hivandhepatitis.com/recent/2010/1111_2010_a.html |title=FDA approval of tesamorelin |date=10 Nov 2010 }}</ref> Chemically it is (3''E'')-hex-3-enoyl-GHRH.<ref>World Health Organisation: [http://whqlibdoc.who.int/druginfo/INN_2007_list58.pdf INN List 57]</ref> It may also reduce cognitive decline in older humans.<ref>{{cite news |url=http://www.medpagetoday.com/MeetingCoverage/ICAD/27675 |title=ICAD: Tesamorelin Boosts Cognition in Oldsters |date=July 2011 }}</ref>
+
+See also earlier work on Pro-Pro-hGHRH(1-44)-Gly-Gly-Cys.<ref>{{cite journal |pmid=15525469 |title=Construction and activity of a novel GHRH analog, Pro-Pro-hGHRH(1-44)-Gly-Gly-Cys. |year=2004 | volume=25 |issue=11 |author=Tang SS, Zhang JH, Du MH, Wu J, Liu JJ |journal=Acta Pharmacol. Sin. |pages=1464–70}}</ref> [[CJC-1295]], [[CJC-1293]] and [[Sermorelin]].
+
+== References ==
+{{Reflist|2}}
+
+{{Hormones}}
+{{Neuropeptides}}
+{{Neurotransmitters}}
+
+[[Category:Peptide hormones]]
+[[Category:Hormones of the somatotropic axis]]
+[[Category:Neuroendocrinology]]
+[[Category:Human hormones]]
+[[Category:Hormones of the hypothalamus]]

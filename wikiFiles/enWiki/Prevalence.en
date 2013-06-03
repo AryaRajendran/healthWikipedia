@@ -1,0 +1,39 @@
+In [[epidemiology]], the '''prevalence''' or '''prevalence proportion''' is the proportion of a population found to have a condition (typically a disease or a risk factor such as smoking or seat-belt use). It is arrived at by comparing the number of people found to have the condition with the total number of people studied, and is usually expressed as a fraction, as a percentage or as the number of cases per 10,000 or 100,000 people. "Point prevalence" is the proportion of a population that has the condition at a specific point in time. "Period prevalence" is the proportion of a population that has the condition at some time during a given period ("12-month prevalence", etc.), and includes people who already have the condition at the start of the study period as well as those who acquire it during that period. {{anchor|Lifetime prevalence}}"Lifetime prevalence" (LTP) is the proportion of a population that at some point in their life (up to the time of assessment) have experienced the condition.<ref name="Rothman2012">{{cite book|author=Kenneth J. Rothman|title=Epidemiology: An Introduction|url=http://books.google.com/books?id=tKs7adtH-_IC&pg=PA53|date=21 June 2012|publisher=Oxford University Press|isbn=978-0-19-975455-7|page=53}}</ref>
+
+Prevalence estimates are used by epidemiologists, health care providers, government agencies and insurers. 
+Prevalence is contrasted with [[incidence (epidemiology)|incidence]], which is a measure of ''new'' cases arising in a population over a given period (month, year, etc.).
+
+==Examples and utility==
+In science, ''prevalence'' describes a [[proportion]] (typically expressed as a [[percentage]]).  For example, the prevalence of obesity among American adults in 2001 was estimated by the U. S. [[Centers for Disease Control and Prevention|Centers for Disease Control (CDC)]] at approximately 20.9%.<ref>http://www.cdc.gov/nccdphp/dnpa/obesity/trend/prev_reg.htm</ref>
+
+Prevalence is distinct from [[incidence (epidemiology)|incidence]]. Prevalence is a measurement of ''all'' individuals affected by the disease at a particular time, whereas incidence is a measurement of the number of ''new'' individuals who contract a disease during a particular period of time.
+
+To illustrate, a long term disease that was spread widely in a community in 2002 will have a high prevalence at a given point of 2003 (assuming it has a long duration) but it might have a low incidence rate during 2003 (i.e. lots of existing cases, but not many new ones in that year). Conversely, a disease that is easily transmitted but has a short duration might spread widely during 2002 but is likely to have a low prevalence at any given point in 2003 (due to its short duration) but a high incidence during 2002 (as many people develop the disease). As such, prevalence is a useful parameter when talking about long lasting diseases, such as [[HIV]], but incidence is more useful when talking about diseases of short duration, such as [[chickenpox]].
+
+'''Lifetime prevalence''' (LTP) is the number of individuals in a statistical population that at some point in their life (up to the time of assessment) have experienced a "case" (e.g., a disorder), compared to the total number of individuals (i.e. it is expressed as a ratio or percentage). Often, a 12-month prevalence (or some other type of "period prevalence") is used in conjunction with lifetime prevalence. There is also point prevalence, the prevalence of disorder at a more specific (a month or less) point in time. There is also a related figure lifetime morbid risk - the theoretical prevalence at any point in life for anyone, regardless of time of assessment.
+
+==Limitations==
+
+It can be said that a very small error applied over a very large number of individuals (that is, those who are *not affected* by the condition in the general population during their lifetime; for example, over 95%) produces a relevant, non-negligible number of subjects who are incorrectly classified as having the condition or any other condition which is the object of a survey study: these subjects are the so-called false positives; such reasoning applies to the 'false positive' but not the 'false negative' problem where we have an error applied over a relatively very small number of individuals to begin with (that is, those who are *affected* by the condition in the general population; for example, less than 5%). Hence, a very high percentage of subjects who seem to have a history of a disorder at interview are false positives for such a medical condition and apparently never suffered a fully clinical [[syndrome]]. 
+
+A different but related problem in evaluating the public health significance of psychiatric conditions has been highlighted by [[Robert Spitzer (psychiatrist)|Robert Spitzer]] of [[Columbia University]]: fulfillment of [[diagnostic criteria]] and the resulting [[medical diagnosis|diagnosis]] do not necessarily imply need for treatment.<ref name=Spitzer1998>{{cite journal | first = Robert | last = Spitzer | month = February | year = 1998 | title = Diagnosis and need for treatment are not the same | journal = Archives of General Psychiatry | volume = 55 | issue = 2 | pages = 120 |url=http://archpsyc.ama-assn.org/cgi/pmidlookup?view=long&pmid=9477924 | doi = 10.1001/archpsyc.55.2.120 | pmid = 9477924}}</ref>
+
+A well-known statistical problem arises when ascertaining rates for disorders and conditions with a relatively low population prevalence or base-rate. Even assuming that lay interview diagnoses are highly accurate in terms of [[Sensitivity (tests)|sensitivity]] and [[Specificity (tests)|specificity]] and their corresponding area under the [[ROC curve]] (that is, [[Area under the curve|AUC]], or area under the [[receiver operating characteristic]] curve), a condition with a relatively low prevalence or base-rate is bound to yield high [[Type I and type II errors|false positive]] rates, which exceed [[Type I and type II errors|false negative]] rates; in such a circumstance a limited [[positive predictive value]], PPV, yields high [[false positive]] rates even in presence of a specificity which is very close to 100%.<ref name=Baldessarini1993>{{cite journal | first = Ross J. | last = Baldessarini | coauthors = Finklestein S., Arana G. W.| month = May | year = 1983 | title =The predictive power of diagnostic tests and the effect of prevalence of illness | journal = Archives of General Psychiatry | volume = 40 | issue = 5 | pages = 569–73 |pmid=6838334}}</ref>
+
+==See also==
+*[[Denominator data]]
+*[[Rare disease]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Wiktionary|prevalence}}
+* [http://www.plusnews.org/country-profile.aspx PlusNews, the UN's HIV/AIDS news service provides HIV prevalence rates for nearly 60 countries worldwide]
+* [http://medicine.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pmed.0020146 Synopsis of article on "How Prevalent Is Schizophrenia?" from Public Library of Science]
+
+{{Medical research studies}}
+
+[[Category:Epidemiology]]
+[[Category:Medical statistics]]
+[[Category:Statistical ratios]]

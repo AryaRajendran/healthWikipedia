@@ -1,0 +1,61 @@
+'''Positive end-expiratory pressure''' ('''PEEP''') is the pressure in the lungs ([[alveolar pressure]]) above [[atmospheric pressure]] (the pressure outside of the body) that exists at the end of expiration.<ref>[http://medical-dictionary.thefreedictionary.com/positive+end-expiratory+pressure+%28PEEP%29 thefreedictionary.com > positive end-expiratory pressure (PEEP)] Citing: Saunders Comprehensive Veterinary Dictionary, 2007</ref> The two types of PEEP are extrinsic PEEP (PEEP applied by a ventilator) and intrinsic PEEP (PEEP caused by a non-complete exhalation). Pressure that is applied or increased during an inspiration is termed [[pressure support]].
+
+== Intrinsic PEEP (auto) ==
+'''Auto (intrinsic) PEEP''' — Incomplete expiration prior to the initiation of the next breath causes progressive air trapping ([[Hyperaeration#Hyperaeration|hyperinflation]]). This accumulation of air increases alveolar pressure at the end of expiration, which is referred to as auto-PEEP.
+
+Auto-PEEP develops commonly in high minute ventilation ([[hyperventilation]]), expiratory flow limitation (obstructed airway) and expiratory resistance (narrow airway).
+
+Once auto-PEEP is identified, steps should be taken to stop or reduce the pressure build-up.<ref name="pmid16003057"/> When auto-PEEP persists despite management of its underlying cause, applied PEEP may be helpful if the patient has an expiratory flow limitation (obstruction).<ref name="pmid3053583"/><ref name="pmid15054570"/>
+
+== Extrinsic PEEP (applied) ==
+'''Applied (extrinsic) PEEP''' — is usually one of the first [[Modes of mechanical ventilation|ventilator settings]] chosen when [[mechanical ventilation]] is initiated. It is set directly on the [[ventilator]].
+
+A small amount of applied PEEP (3 to 5 cmH<sub>2</sub>O) is used in most mechanically ventilated patients to mitigate end-expiratory alveolar collapse.<ref name="pmid18664777"/> A higher level of applied PEEP (>5 cmH<sub>2</sub>O) is sometimes used to improve hypoxemia or reduce [[ventilator-associated lung injury]] in patients with acute lung injury, acute respiratory distress syndrome, or other types of hypoxemic respiratory failure.<ref>Smith, RA. Physiologic PEEP. Respir Care 1988; 33:620.</ref>
+
+Reduces air-trapping in susceptible patients 
+Promotes increased mobilization and clearance of secretions from the airways 
+Enhances collateral ventilation and opens airways behind mucus obstructions, improving pulm. mech & facilitating gas exchange
+http://www.respiratoryupdate.com/members/Bronchial_Hygiene_Therapy__Positive_Expiratory_Pressure_PEP_Therapy.cfm
+
+=== Complications ===
+* PEEP can cause a decrease in venous return
+* PEEP can cause Barotrauma — Pulmonary [[barotrauma]] is lung injury that results from the hyperinflation of alveoli past the rupture point.
+*PEEP is not indicated for patients with increased intracranial pressure — In people with normal [[lung compliance]], PEEP may increase the intracranial pressure (ICP) due to an impedance of venous return from the head.<ref name="pmid327031"/>
+*PEEP may cause alterations of renal functions and electrolyte imbalances, due to decreased venous return metabloism of certain drugs are altered and acid-base balance is impeded.  (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC471250/)
+
+==See also==
+* [[Positive pressure ventilation]]
+* [[Positive airway pressure]]
+
+==References==
+{{reflist|refs=
+<ref name="pmid21851022">{{cite journal| author=Eremenko AA, Borisov RIu, Egorov VM|journal=Anesteziol Reanimatol | year= 2011 |pages= 43–7 | pmid=21851022| title=Evaluating the effectiveness of "open lung" maneuvre| issue=3 }}</ref>
+
+<ref name="pmid21856815">{{cite journal| author=Hillman NH, Nitsos I, Berry C, Jane Pillow J, Kallapur SG, Jobe AH| title=Positive end-expiratory pressure and surfactant decrease lung injury during initiation of ventilation in fetal sheep| journal=Am J Physiol Lung Cell Mol Physiol | year= 2011 | volume= 301 | issue= 5 | pages= L712–20 | pmid=21856815 | doi=10.1152/ajplung.00157.2011| pmc=3290453}}</ref>
+
+<ref name="pmid18664777">{{cite journal| author=Manzano F| title=Positive-end expiratory pressure reduces incidence of ventilator-associated pneumonia in nonhypoxemic patients| journal=[[Crit Care Med]] | year= 2008 | volume= 36 | issue= 8 | pages= 2225–31 | pmid=18664777 | doi=10.1097/CCM.0b013e31817b8a92| author-separator=,| author2=Fernández-Mondéjar E| author3=Colmenero M| author4=Poyatos ME| author5=Rivera R| author6=Machado J| display-authors=6| last7=Catalán| first7=Iñaki| last8=Artigas| first8=Antonio }}</ref>
+
+<ref name="pmid16003057">{{cite journal| author=Caramez MP| title=Paradoxical responses to positive end-expiratory pressure in patients with airway obstruction during controlled ventilation| journal=Crit Care Med | year= 2005 | volume= 33 | issue= 7 | pages= 1519–28 | pmid=16003057 | pmc=2287196| author2=Borges JB| author3=Tucci MR| author4=Okamoto VN| author5=Carvalho CR| author6=Kacmarek RM| doi=10.1097/01.CCM.0000168044.98844.30| last7=Malhotra| first7=A| last8=Velasco| first8=IT| last9=Amato| first9=MB }}</ref>
+
+<ref name="pmid3053583">{{cite journal| author=Smith TC, Marini JJ| title=Impact of PEEP on lung mechanics and work of breathing in severe airflow obstruction| journal=J Appl Physiol | year= 1988 | volume= 65 | issue= 4 | pages= 1488–99 | pmid=3053583}}</ref>
+
+<ref name="pmid15054570">{{cite journal| author=Kondili E, Alexopoulou C, Prinianakis G, Xirouchaki N, Georgopoulos D| title=Pattern of lung emptying and expiratory resistance in mechanically ventilated patients with chronic obstructive pulmonary disease| journal=[[Intensive Care Med]] | year= 2004 | volume= 30 | issue= 7 | pages= 1311–8 | pmid=15054570 | doi=10.1007/s00134-004-2255-z }}</ref>
+
+<ref name="pmid7804800">{{cite journal| author=Kaczmarczyk G| title=Pulmonary-renal axis during positive-pressure ventilation| journal=New Horiz | year= 1994 | volume= 2 | issue= 4 | pages= 512–7 | pmid=7804800 }}</ref>
+
+<ref name="pmid20446776">{{cite journal| author=Dehne MG, Meister M, Röhrig R, Katzer C, Mann V| title=Effects of inverse ratio ventilation with PEEP on kidney function| journal=Renal Failure | year= 2010 | volume= 32 | issue= 4 | pages= 411–6 | pmid=20446776 | doi=10.3109/08860221003672176 }}</ref>
+
+<ref name="pmid327031">{{cite journal| author=Frost EA| title=Effects of positive end-expiratory pressure on intracranial pressure and compliance in brain-injured patients| journal=[[J Neurosurg]] | year= 1977 | volume= 47 | issue= 2 | pages= 195–200 | pmid=327031 | doi=10.3171/jns.1977.47.2.0195 }}</ref>
+
+<ref name="pmid12352486">{{cite journal| author=Huynh T, Messer M, Sing RF, Miles W, Jacobs DG, Thomason MH| title=Positive end-expiratory pressure alters intracranial and cerebral perfusion pressure in severe traumatic brain injury| journal=J Trauma | year= 2002 | volume= 53 | issue= 3 | pages= 488–93 | pmid=12352486 | doi=10.1097/01.TA.0000025657.37314.2F }}</ref>
+
+<ref name="pmid7037709">{{cite journal| author=Hasan FM, Beller TA, Sobonya RE, Heller N, Brown GW| title=Effect of positive end-expiratory pressure and body position in unilateral lung injury | journal=J Appl Physiol | year= 1982 | volume= 52 | issue= 1 | pages= 147–54 | pmid=7037709 }}</ref>
+}}
+
+==External links==
+* {{MeshName|Positive+End-Expiratory+Pressure}}
+
+[[Category:Respiratory system procedures]]
+[[Category:Intensive care medicine]]
+[[Category:Mechanical ventilation]]
+[[Category:Respiratory therapy]]

@@ -1,0 +1,187 @@
+{{protein
+| Name = clathrin, light polypeptide (Lca)
+| width = 200
+| HGNCid = 2090
+| Symbol = CLTA
+| AltSymbols = 
+| EntrezGene = 1211
+| OMIM = 118960
+| RefSeq = NM_007096
+| UniProt = P09496
+| PDB = 
+| ECnumber = 
+| Chromosome = 12
+| Arm = q
+| Band = 23
+| LocusSupplementaryData = -q24
+}}
+{{protein
+| Name = clathrin, light polypeptide (Lcb)
+| caption = 
+| image = 
+| width = 
+| HGNCid = 2091
+| Symbol = CLTB
+| AltSymbols = 
+| EntrezGene = 1212
+| OMIM = 118970
+| RefSeq = NM_001834
+| UniProt = P09497
+| PDB = 
+| ECnumber = 
+| Chromosome = 4
+| Arm = q
+| Band = 
+| LocusSupplementaryData = 
+}}
+{{Infobox protein family
+| Symbol = Clathrin_lg_ch
+| Name = Clathrin light chain
+| image = 
+| width = 
+| caption = 
+| Pfam = PF01086
+| Pfam_clan =  
+| InterPro = IPR000996
+| SMART = 
+| PROSITE = PDOC00196
+| MEROPS = 
+| SCOP = 
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+{{protein
+| Name = [[CLTC|clathrin, heavy polypeptide (Hc)]]
+| caption = 
+| image = 
+| width = 
+| HGNCid = 2092
+| Symbol = CLTC
+| AltSymbols = CLTCL2
+| EntrezGene = 1213
+| OMIM = 118955
+| RefSeq = NM_004859
+| UniProt = Q00610
+| PDB = 
+| ECnumber = 
+| Chromosome = 17
+| Arm = q
+| Band = 11
+| LocusSupplementaryData = -qter
+}}
+{{protein
+| Name = clathrin, heavy polypeptide-like 1
+| caption = 
+| image = 
+| width = 
+| HGNCid = 2093
+| Symbol = CLTCL1
+| AltSymbols = CLTCL
+| EntrezGene = 8218
+| OMIM = 601273
+| RefSeq = NM_001835
+| UniProt = P53675
+| PDB = 
+| ECnumber = 
+| Chromosome = 22
+| Arm = q
+| Band = 11.2
+| LocusSupplementaryData = 
+}}
+{{Infobox protein family
+| Symbol = Clathrin_propel
+| Name = Clathrin propeller repeat
+| image = PDB 1utc EBI.jpg
+| width = 
+| caption = clathrin terminal domain complexed with tlpwdlwtt
+| Pfam = PF01394
+| Pfam_clan = CL0020 
+| InterPro = IPR022365
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 1bpo
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+{{Infobox protein family
+| Symbol = Clathrin-link
+| Name = Clathrin heavy-chain linker
+| image = PDB 1utc EBI.jpg
+| width = 
+| caption = clathrin terminal domain complexed with tlpwdlwtt
+| Pfam = PF09268
+| Pfam_clan = CL0020 
+| InterPro = IPR015348
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 1utc
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+'''Clathrin''' is a [[protein]] that plays a major role in the formation of coated [[Vesicle (biology)|vesicles]]. Clathrin was first isolated and named by [[Barbara Pearse]] in 1975.<ref name="pmid1063406">{{cite journal | author = Pearse BM | title = Clathrin: a unique protein associated with intracellular transfer of membrane by coated vesicles | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 73 | issue = 4 | pages = 1255–9 | year = 1976 | month = April | pmid = 1063406 | pmc = 430241 | doi = 10.1073/pnas.73.4.1255 | url =  }}</ref> It forms a [[triskelion]] shape composed of three clathrin heavy chains and three light chains. When the triskelia interact they form a [[dihedral group|polyhedral]] lattice that surrounds the vesicle. Coat-proteins, like clathrin, are used to build small vesicles in order to safely transport molecules within and between cells. The endocytosis and exocytosis of vesicles allows cells to transfer nutrients, to import signaling receptors, to mediate an immune response after sampling the extracellular world, and to clean up the cell debris left by tissue inflammation. On occasion, this mechanism also provides a pathway for raiding pathogens or toxins.
+
+== Structure ==
+{{Gallery
+|Image:Clathrin.png|Clathrin coat structure
+||Clathrin Cage and Triskelion
+}}
+The clathrin triskelion is composed of three clathrin heavy chains and three light chains interacting at their C-termini. The three heavy chains provide the structural backbone of the clathrin lattice, and the three light chains are thought to regulate the formation and disassembly of a clathrin lattice. Clathrin heavy chain is, in concept, broken down into multiple subdomains, starting with the N-terminal domain, followed by the ankle, distal leg, knee, proximal leg, and trimerization domains. The N-terminal domain consists of a seven-bladed β-propeller structure. The other domains form a super-helix of short alpha helices. This was originally determined from the structure of the proximal leg domain that identified and is composed of a smaller structural module referred to as clathrin heavy chain repeat motifs. The light chains bind primarily to the proximal leg portion of the heavy chain with some interaction near the trimerization domain. When triskelia assemble together in solution, they can interact with enough flexibility to form 6-sided rings that yield a flatter lattice, or 5-sided rings that are necessary for curved lattice formation. When many triskelions connect, they can form a basket-like structure.
+
+The structure shown above, is built of 36 triskelia, one of which is highlighted in green. When triskelia snap together in solution, they can interact with enough flexibility to form either 6-sided rings that yield a flatter surface or 5-sided rings with higher curvature. In a cell, a triskelion floating in the cytoplasm binds to an adaptor protein (shown on the next page), linking one of its three feet to the membrane at a time. This triskelion will bind to other membrane-attached triskelia to form a rounded lattice of hexagons and pentagons, reminiscent of the panels on a soccer ball, that pulls the membrane into a bud. By constructing different combinations of 5-sided and 6-sided rings, vesicles of different sizes may assemble. The structure shown here represents the second-smallest possible cage structure, which is actually too small to contain a functional vesicle. It was created in the laboratory by reconstituting triskelions without a lipid vesicle. The smallest clathrin cage commonly photographed, called a mini-coat, has 12 pentagons and only two hexagons. Even smaller cages with zero hexagons probably do not form from the native protein, because the feet of the triskelia are too bulky.
+
+== Function ==
+[[Image:Itrafig2.jpg|thumb|300px|Mechanism of clathrin-dependent endocytosis.]]
+Like many proteins, clathrin represents a perfect case of form following function; it performs critical roles in shaping rounded vesicles in the [[cytoplasm]] for intracellular trafficking. Clathrin-coated vesicles (CCV) selectively sort cargo at the [[cell membrane]], trans-[[golgi apparatus|Golgi network]], and [[endosome|endosomal]] compartments for multiple membrane traffic pathways. After a vesicle buds into the cytoplasm, the coat rapidly disassembles, allowing the clathrin to recycle while the vesicle gets transported to a variety of locations. Adaptor molecules are responsible for self-assembly and recruitment. Two examples of [[adaptor protein]]s are [[AP180]]<ref name="urlClathrin and its interactions with AP180">{{cite web | url = http://www.endocytosis.org/AP180/Clathrin.html | title = Clathrin and its interactions with AP180. | author = McMahon HT | authorlink = | coauthors = | date = | work = | publisher = MRC Laboratory of Molecular Biology | pages = | language = | archiveurl = | archivedate = | quote = micrographs of clathrin assembly | accessdate = 2009-04-17}}</ref> and [[epsin]].<ref name="urlEpsin 1 EM gallery">{{cite web | url = http://www.endocytosis.org/epsin/EM/MonolayerEMs.html | title = Epsin 1 EM gallery | author = McMahon HT | authorlink = | coauthors = | date = | work = | publisher = MRC Laboratory of Molecular Biology, | pages = | language = | archiveurl = | archivedate = | quote =  micrographs of vesicle budding | accessdate = 2009-04-17}}</ref><ref name="pmid11161218">{{cite journal | author = Ford MG, Pearse BM, Higgins MK, Vallis Y, Owen DJ, Gibson A, Hopkins CR, Evans PR, McMahon HT | title = Simultaneous binding of PtdIns(4,5)P2 and clathrin by AP180 in the nucleation of clathrin lattices on membranes | journal = Science | volume = 291 | issue = 5506 | pages = 1051–5 | year = 2001 | month = February | pmid = 11161218 | doi = 10.1126/science.291.5506.1051 | url = http://www.endocytosis.org/epsin/EM/ford.pdf }}</ref><ref name="pmid12076538">{{cite journal | author = Higgins MK, McMahon HT | title = Snap-shots of clathrin-mediated endocytosis | journal = Trends in Biochemical Sciences | volume = 27 | issue = 5 | pages = 257–63 | year = 2002 | month = May | pmid = 12076538 | doi = 10.1016/S0968-0004(02)02089-3 | url =  http://www.endocytosis.org/epsin/EM/mcmahon.pdf }}</ref> AP180 is used in synaptic vesicle formation. It recruits clathrin to membranes and also promotes its [[polymerization]]. Epsin also recruits clathrin to membranes and promotes its polymerization, and can help deform the membrane, and thus clathrin-coated vesicles can bud. In a cell, a triskelion floating in the cytoplasm binds to an adaptor protein, linking one of its feet to the membrane at a time. The skelion will bind to other ones attached to the membrane to form a polyhedral lattice, skelion, which pulls the membrane into a bud. The skelion does not bind directly to the membrane, but binds to the adaptor proteins that recognize the molecules on the membrane surface. 
+
+Clathrin has another function aside from the coating of [[organelle]]s. In non-dividing cells, the formation of clathrin-coated vesicles occurs continuously. Formation of clathrin-coated vesicles is shut down in cells undergoing [[mitosis]]. During mitosis, clathrin binds to the [[spindle apparatus]]. Clathrin aids in the congression of chromosomes by stabilizing fibres of the [[mitotic spindle]]. Clathrin is bound directly through the amino-terminal domain of the clathrin heavy chain. During mitosis the clathrin binds directly to the [[microtubule]]s or microtubule-associated proteins. The stabilization of [[kinetochore]] fibres requires the trimetric structure of clathrin in order to strengthen the spindle fibres.<ref name="Clathrin is required for the function of the mitotic spindle">{{cite journal | author = Royle SJ, Bright NA, Lagnado L | title = Clathrin is required for the function of the mitotic spindle | journal = Nature | volume = 434 | pages = 1152–1157 | year = 2005 | month = April | doi = 10.1038/nature03502 | url = http://www.nature.com/nature/journal/v434/n7037/full/nature03502.html | pmid = 15858577 | issue = 7037}}</ref>
+
+Clathrin-mediated endocytosis (CME) regulates many cellular physiological processes such as the internalization of growth factors and receptors, entry of pathogens, and synaptic transmission. It is believed that cellular invaders use the nutrient pathway to gain access to a cell's replicating mechanisms. Certain signalling molecules open the nutrients pathway. Two chemical compounds called Pitstop 1 and Pitstop 2, selective clathrin inhibitors, can interfere with the pathogenic activity, and thus protect the cells against invasion. These two compounds selectively block the endocytic ligand association with the clathrin terminal domain.<ref>Role of the Clathrin Terminal Domain in Regulating Coated Pit Dynamics Revealed by Small Molecule Inhibition|Cell, Volume 146, Issue 3, 471-484, 5 August 2011 [http://www.cell.com/abstract/S0092-8674%2811%2900667-2 Abstract]</ref>
+
+==See also==
+* [[AP180]]
+* [[Cap formation]]
+* [[Cell migration]]
+* [[Endocytic cycle]]
+* [[Epsin]]
+* [[Synaptic vesicle]]
+* [[Adaptin]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+{{refbegin | 2}}
+* {{cite journal | author = Wakeham DE, Chen CY, Greene B, Hwang PK, Brodsky FM | title = Clathrin self-assembly involves coordinated weak interactions favorable for cellular regulation | journal = The EMBO Journal | volume = 22 | issue = 19 | pages = 4980–90 | year = 2003 | month = October | pmid = 14517237 | pmc = 204494 | doi = 10.1093/emboj/cdg511 | url =  }}
+* {{cite journal | author = Ford MG, Mills IG, Peter BJ, Vallis Y, Praefcke GJ, Evans PR, McMahon HT | title = Curvature of clathrin-coated pits driven by epsin | journal = Nature | volume = 419 | issue = 6905 | pages = 361–6 | year = 2002 | month = September | pmid = 12353027 | doi = 10.1038/nature01020 | url =  }}
+* {{cite journal | author = Fotin A, Cheng Y, Sliz P, Grigorieff N, Harrison SC, Kirchhausen T, Walz T | title = Molecular model for a complete clathrin lattice from electron cryomicroscopy | journal = Nature | volume = 432 | issue = 7017 | pages = 573–9 | year = 2004 | month = December | pmid = 15502812 | doi = 10.1038/nature03079 | url =  }}
+* {{cite journal | author = Mousavi SA, Malerød L, Berg T, Kjeken R | title = Clathrin-dependent endocytosis | journal = The Biochemical Journal | volume = 377 | issue = Pt 1 | pages = 1–16 | year = 2004 | month = January | pmid = 14505490 | pmc = 1223844 | doi = 10.1042/BJ20031000 | url =  }}
+* {{cite journal | author = Smith CJ, Grigorieff N, Pearse BM | title = Clathrin coats at 21 A resolution: a cellular assembly designed to recycle multiple membrane receptors | journal = The EMBO Journal | volume = 17 | issue = 17 | pages = 4943–53 | year = 1998 | month = September | pmid = 9724631 | pmc = 1170823 | doi = 10.1093/emboj/17.17.4943 | url =  }} (Model of Clathrin assembly)
+* {{cite journal | author = Pérez-Gómez J, Moore I | title = Plant endocytosis: it is clathrin after all | journal = Current Biology : CB | volume = 17 | issue = 6 | pages = R217–9 | year = 2007 | month = March | pmid = 17371763 | doi = 10.1016/j.cub.2007.01.045 | url =  }}  (Review on involvement of clathrin in plant endocytosis - proven recently)
+* {{cite journal | author = Royle SJ, Bright NA, Lagnado L | title = Clathrin is required for the function of the mitotic spindle | journal = Nature | volume = 434 | issue = 7037 | pages = 1152–7 | year = 2005 | month = April | pmid = 15858577 | doi = 10.1038/nature03502 | url =  }}
+* {{cite journal | author = Knuehl C, Chen CY, Manalo V, Hwang PK, Ota N, Brodsky FM | title = Novel binding sites on clathrin and adaptors regulate distinct aspects of coat assembly | journal = Traffic (Copenhagen, Denmark) | volume = 7 | issue = 12 | pages = 1688–700 | year = 2006 | month = December | pmid = 17052248 | doi = 10.1111/j.1600-0854.2006.00499.x | url =  }}
+* {{cite journal | author = Edeling MA, Smith C, Owen D | title = Life of a clathrin coat: insights from clathrin and AP structures | journal = Nature Reviews Molecular Cell Biology | volume = 7 | issue = 1 | pages = 32–44 | year = 2006 | month = January | pmid = 16493411 | doi = 10.1038/nrm1786 | url =  }}
+{{refend}}
+
+== External links ==
+* {{ELM| LIG_Clathr_ClatBox_1}}
+* {{ELM| LIG_Clathr_ClatBox_2}}
+* [http://www-als.lbl.gov/als/science/sci_archive/clathrin.html Clathrin structure]
+* [http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=bnchm.section.114 Membrane Dynamics]
+* [http://cellimages.ascb.org/images/7760 Clathrin Dynamics] ASCB Image & Video Library
+
+{{Vesicular transport proteins}}
+
+[[Category:Proteins]]
+[[Category:Cell biology]]
+[[Category:Peripheral membrane proteins]]

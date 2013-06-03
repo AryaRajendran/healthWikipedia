@@ -1,0 +1,86 @@
+<!-- 
+
+NOTE:
+
+This article uses the parenthetical, or "Harvard", style of inline citations.  For more information, please see [[WP:PAREN]].
+
+ -->
+'''Depolarization-induced suppression of inhibition (DSI)''' is the classical and original [[electrophysiology|electrophysiological]] example of [[endocannabinoid]] function in the [[central nervous system]]. Prior to the demonstration that DSI was dependent on the cannabinoid [[Cannabinoid receptor|CB1]] receptor function, there was no way of producing an ''in vitro'' [[endocannabinoid]] mediated effect.
+
+DSI is classically produced in a brain slice experiment (i.e. a 300-400&nbsp;µm slice of brain, with intact axons and synapses) where a single neuron is "depolarized" (the normal −70 mV potential across the neuronal membrane is reduced, usually to −30 to 0 mV) for a period of 1 to 10 seconds. After the depolarization, inhibitory [[GABA]] mediated neurotransmission is reduced. This has been demonstrated to be caused by the release of endogenous cannabinoids from the depolarized neuron which diffuses to nearby neurons, and binds and activates [[Cannabinoid receptor|CB1]] receptors, which act presynaptically to reduce neurotransmitter release.
+
+==History==
+
+DSI was discovered in 1992 by Vincent et al., (1992) working in purkinje cells of the [[cerebellum]] then confirmed in the [[hippocampus]] by Pitler & Alger, 1992.
+
+These groups were studying the responses of large pyramidal projection neurons to [[GABA]], the main inhibitory [[neurotransmitter]] in the central nervous system. [[GABA]] is typically released by small [[interneurons]] in many regions of the brain, where its job is to inhibit the activity of primary neurons, such as the CA1 pyramidal neurons of the hippocampus or the Purkinje cells of the cerebellum.  Activation of GABA receptors on these cells, whether they are [[ionotropic]] or [[metabotropic]], typically results in the influx of chloride ions into that target cell.  This build-up of negative charge from the chloride ions results in the [[Hyperpolarization (biology)|hyperpolarization]] of the target cell, making it less likely to fire an [[action potential]].  Accordingly, any ionic current that hyperpolarizes a cell is called an inhibitory current.  
+
+In their experiments with projection neurons in the hippocampus and cerebellum, both groups noticed that a train of [[action potentials]] in these cells resulted in a temporary reduction in inhibitory currents caused by GABA-ergic interneurons.  Since this reduction of inhibitory currents could be invoked simply by [[depolarization]] of the target cell, this phenomenon was termed depolarization-induced suppression of inhibition, or DSI.  While initially discovered in CA1 neurons of the hippocampus and Purkinje cells in the cerebellum, DSI is a pretty ubiquitous phenomenon and has been demonstrated in other areas of the brain such as the [[basal ganglia]], the [[Cerebral cortex|cortex]], the [[amygdala]], and the [[hypothalamus]] (Katona ''et al.'' 2001, Jo ''et al.'' 2005, Bodor ''et al.'' 2005, Matyas ''et al.'' 2006)
+
+==DSI mediation by endocannabinoids==
+
+DSI was thought to be due to a reduction in pre-synaptic neurotransmitter release for 2 reasons.  1) The magnitudes of spontaneously evoked inhibitory post-synaptic currents ([[inhibitory postsynaptic current|IPSC]]s), caused by the release of a single pre-synaptic vesicle filled with GABA, remained unchanged and 2) The cellular responses to exogenously applied GABA remained the same.  These observations suggested that no changes occurred in the post-synaptic cell to change its responsiveness to GABA during DSI.  Somehow, DSI appeared to be mediated by a retrograde synaptic messenger whose synthesis or release was stimulated by the depolarization of the target cell.  This messenger then diffused "backwards" to the pre-synaptic cell, where it caused a reduction in neurotransmitter release.  
+
+The chemical messengers presumed to be responsible for mediating DSI was discovered by three separate groups in 2001.  Wilson & Nicoll (2001) published their work in the prestigious journal, Nature, while the other two groups, Kreitzer & Regehr (2001) and Ohno-Shosaku ''et al.'' (2001), published in the same issue of another reputable journal, Neuron.  All three demonstrated heavy involvement of the CB1 [[cannabinoid receptor]] in DSI, suggesting that the [[endocannabinoids]] were the brain's mediators of DSI.  They showed that [[cannabinoid receptor]] agonists, drugs that mimic the actions of endocannabinoids or THC, could evoke the same reduction in inhibitory currents caused by DSI.  They also demonstrated that DSI could be prevented by [[cannabinoid receptor]] [[Receptor antagonist|antagonists]], drugs that block the actions of cannabinoid compounds.
+
+Other lines of evidence support the role of the CB1 receptor in DSI.  This receptor is distributed very widely throughout the brain, covering all areas where DSI has been observed (Herkenham ''et al.'' 1990).  The CB1 receptor also appears to be expressed mainly on GABA-ergic pre-synaptic terminals, making it an excellent candidate for mediating DSI (Matyas ''et al.'' 2006, Katona ''et al.'' 1999).  In 2005, other groups began to demonstrate the involvement of the CB1 receptor in DSI in other regions of the brain (Jo ''et al.'' 2005, Bodor ''et al.'' 2005).  Lastly, DSI research was finally applied to mice that had the CB1 receptor genetically "knocked-out".  So far, these knock-out mice are not known to exhibit DSI in any regions of the brain, suggesting that the CB1 receptor is the crucial mediator for DSI (Kreitzer & Regehr 2001a, Ohno-Shosaku ''et al.'' 2002).
+
+The discovery that DSI is mediated by endocannabinoids finally explained why both the CB1 receptor and the endocannabinoids are both so widely distributed in the brain.  DSI is a very common form of short-term plasticity and thus needs to be mediated by a commonly found neurotransmitter.  The use of endocannabinoids such as [[anandamide]] and [[2-arachidonoyl glycerol]] in this method of signalling is quite logical, since both molecules can be synthesized relatively easily from lipids in the plasma membrane, a fundamental constituent of all cells.  DSI is therefore the primary cortical process mediated by the endocannabinoids, and may contribute to many forms of cortical plasticity and synaptic strengthening, such as in [[long-term potentiation]] (Carlson ''et al.'' 2002).
+
+==A note on DSE==
+
+While working with the cerebellum, Kreitzer's group also discovered that depolarization of Purkinje cells could also cause a temporary reduction in excitatory input into these cells from both climbing fibres and parallel fibres (Kreitzer ''et al.'' 2001b).  This phenomenon was termed depolarization-induced suppression of excitation (DSE), and differs from DSI only by the kind of neurotransmitter whose release is reduced.  In the case of DSI, the result is a reduction in inhibitory GABA release, while in DSE the effect is a reduction in excitatory [[glutamate]] release.  DSE was also found to occur in other regions of the brain, however the evidence for the involvement of the endocannabinoid receptor CB1 in this process is not as solid as it is for DSI.  Both DSI and DSE have been studied in the CB1 [[Knockout mouse| knock-out mice]].  Some groups show that both DSI and DSE are lacking in these mice, while others have shown that DSE, but not DSI, can still be evoked in the knock-outs (Ohno-Shosaku ''et al.'' 2002, Hajos ''et al.'' 2001).  The endocannabinoids may still mediate DSE too, but by acting at a yet unknown cannabinoid receptor.  Interestingly, some work has shown that [[anandamide]] can bind to the [[TRPV1|vannilloid receptor VR1]], the receptor responsible for mediating the effects of [[capsaicin]].  This receptor is present in the brain, and anandamide actions at this receptor may potentially contribute to DSE (Cristino ''et al.'' 2006, Hajos ''et al.'' 2002).  However DSE is currently a largely unexplored phenomenon and more research is needed to draw any firm conclusions.
+
+==References==
+{{reflist}}
+* {{Cite journal
+ | author = Bodor AL, Katona I, Nyiri G, Mackie K, Ledent C, Hajos N, Freund TF.
+ | year = 2005
+ | title = Endocannabinoid signaling in rat somatosensory cortex: laminar differences and involvement of specific interneuron types
+ | journal = [[J Neurosci.]]
+ | month = July
+ | volume = 25
+ | issue = 29
+ | pages = 6845–6856
+ | doi = 10.1523/JNEUROSCI.0442-05.2005
+ | pmid = 16033894
+}}
+*Carlson G, Wang Y, Alger BE. (2002) Endocannabinoids facilitate the induction of LTP in the hippocampus. Nat Neurosci. Aug;5(8):723-4.
+
+*Cristino L, de Petrocellis L, Pryce G, Baker D, Guglielmotti V, Di Marzo V. (2006) Immunohistochemical localization of cannabinoid type 1 and vanilloid transient receptor potential vanilloid type 1 receptors in the mouse brain. Neuroscience. Apr 5; In Press.
+
+*Hajos N, Freund TF. (2002) Pharmacological separation of cannabinoid sensitive receptors on hippocampal excitatory and inhibitory fibers. Neuropharmacology. Sep;43(4):503-10.
+
+*Hajos N, Ledent C, Freund TF. (2001) Novel cannabinoid-sensitive receptor mediates inhibition of glutamatergic synaptic transmission in the hippocampus. Neuroscience. 106(1):1-4.
+
+*Herkenham M, Lynn AB, Little MD, Johnson MR, Melvin LS, de Costa BR, Rice KC. (1990) Cannabinoid receptor localization in brain. Proc Natl Acad Sci U S A. Mar;87(5):1932-6.
+
+*Jo YH, Chen YJ, Chua SC Jr, Talmage DA, Role LW. (2005) Integration of endocannabinoid and leptin signaling in an appetite-related neural circuit. Neuron. Dec 22;48(6):1055-66.
+
+*Katona I, Rancz EA, Acsady L, Ledent C, Mackie K, Hajos N, Freund TF. (2001) Distribution of CB1 cannabinoid receptors in the amygdala and their role in the control of GABAergic transmission. J Neurosci. Dec 1;21(23):9506-18.
+
+*Katona I, Sperlagh B, Sik A, Kofalvi A, [[Vizi ES]], Mackie K, Freund TF. (1999) Presynaptically located CB1 cannabinoid receptors regulate GABA release from axon terminals of specific hippocampal interneurons. J Neurosci. Jun 1;19(11):4544-58.
+
+*Kreitzer AC, Regehr WG. (2001a). Retrograde inhibition of presynaptic calcium influx by endogenous cannabinoids at excitatory synapses onto Purkinje cells. Neuron. 29(3):717-27
+
+*Kreitzer AC, Regehr WG. (2001b) Cerebellar depolarization-induced suppression of inhibition is mediated by endogenous cannabinoids. J Neurosci. Oct 15;21(20):RC174.
+
+*Matyas F, Yanovsky Y, Mackie K, Kelsch W, Misgeld U, Freund TF. (2006) Subcellular localization of type 1 cannabinoid receptors in the rat basal ganglia. Neuroscience.137(1):337-61.
+
+*Ohno-Shosaku T, Tsubokawa H, Mizushima I, Yoneda N, Zimmer A, Kano M. (2002) Presynaptic cannabinoid sensitivity is a major determinant of depolarization-induced retrograde suppression at hippocampal synapses. J Neurosci. May 15;22(10):3864-72.
+
+*Ohno-Shosaku T, Maejima T, Kano M. (2001) Endogenous cannabinoids mediate retrograde signals from depolarized postsynaptic neurons to presynaptic terminals. Neuron. 29(3):729-38
+
+*Pitler TA, Alger BE. (1992). Postsynaptic spike firing reduces synaptic GABAA responses in hippocampal pyramidal cells. J Neurosci 12:4122-4132.
+
+*Vincent P, Armstrong CM, Marty A. (1992) Inhibitory synaptic currents in rat cerebellar Purkinje cells: modulation by postsynaptic depolarization. J. Physiol. (London) 456, p. 453–471.
+
+*Wilson RI, Nicoll RA. (2001) Endogenous cannabinoids mediate retrograde signalling at hippocampal synapses.  Nature. 410(6828):588-92
+
+==Further reading==
+*Alger BE. (2002). Retrograde signaling in the regulation of synaptic transmission: focus on endocannabinoids. Prog Neurobiol 68:247-286.
+
+*Freund TF, Katona I, Piomelli D. (2003). Role of endogenous cannabinoids in synaptic signaling. Physiol Rev 83:1017-1066.
+
+[[Category:Neurophysiology]]
+[[Category:Electrophysiology]]

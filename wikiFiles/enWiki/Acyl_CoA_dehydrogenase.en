@@ -1,0 +1,75 @@
+'''Acyl-CoA dehydrogenases''' are a class of [[enzymes]] that function to catalyze the initial step in each cycle of fatty acid [[β-oxidation]] in the [[mitochondria]] of [[cell (biology)|cells]].  Their action results in the introduction of a [[:wikt:trans-|trans]] [[double-bond]] between C2 and C3 of the acyl-CoA [[thioester]] substrate.<ref name=Thorpe>{{cite journal |author=Thorpe C, Kim JJ |title=Structure and mechanism of action of the acyl-CoA dehydrogenases |journal=FASEB J. |volume=9 |issue=9 |pages=718–25 |year=1995 |month=June |pmid=7601336 |url=http://www.fasebj.org/cgi/pmidlookup?view=long&pmid=7601336}}</ref> [[FAD]] is a required co-factor in the mechanism in order for the [[enzyme]] to bind to its appropriate [[substrate (biology)|substrate]].
+
+The following reaction is the [[oxidation]] of the [[fatty acid]] by [[FAD]].
+
+[[Image:Beta-Oxidation1.svg|500px|center]]
+
+Acyl-CoA dehydrogenases can be categorized into three distinct groups based on their specificity for short-, medium-, or long-chain [[fatty acid]] [[acyl-CoA]] substrates.  While different dehydrogenases target [[fatty acids]] of varying chain length, all types of acyl-CoA dehydrogenases are mechanistically similar.  Differences in the enzyme occur based on the location of the active site along the [[amino acid]] sequence.<ref name=Kim93/>
+
+Acyl-CoA dehydrogenases are an important class of [[enzymes]] in [[mammalian]] [[cell (biology)|cells]] because of their role in metabolizing [[fatty acids]] present in ingested food materials.  This [[enzyme|enzyme's]] action represents the first step in [[fatty acid]] [[metabolism]] (the process of breaking long chains of fatty acids into acetyl CoA molecules). Deficiencies in these [[enzymes]] are linked to [[genetics|genetic]] disorders involving [[fatty acid]] [[oxidation]] (i.e. metabolic disorders).<ref name=Touma92/>
+
+It is classified as {{EC number|1.3.99.3}}.
+
+== Structure ==
+
+[[Image:Acyl CoA tetramer.jpg|thumb|left|400px|'''Image 1: '''Structure of the medium-chain acyl-CoA dehydrogenase tetramer. FAD molecules are shown in yellow. PDB code: 1egc.]]
+
+The medium chain acyl-CoA dehydrogenase is the best known structure of all acyl-CoA dehydrogenases, and is the most commonly deficient [[enzyme]] within the class that leads to metabolic disorders in animals.<ref name=Thorpe/> The molecule is a homotetramer with each subunit containing roughly 400 [[amino acids]] and one equivalent of [[FAD]].  The tetramer is classified as a “dimer of dimers” with an overall diameter of approximately 90 [[Å]].<ref name=Kim93>{{cite journal |doi=10.1073/pnas.90.16.7523 |author=Kim JJ, Wang M, Paschke R |title=Crystal structures of medium-chain acyl-CoA dehydrogenase from pig liver mitochondria with and without substrate |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=90 |issue=16 |pages=7523–7 |year=1993 |month=August |pmid=8356049 |pmc=47174 }}</ref>
+
+The interface between the two monomers of a single dimer of acyl-CoA dehydrogenase contains the [[FAD]] [[binding sites]] and has extensive bonding interactions.  In contrast, the interface between the two dimers has few interactions. There are a total of 4 active sites within the tetramer, each of which contains a single [[FAD]] molecule and an [[acyl-CoA]] substrate.  This gives a total of four [[FAD]] molecules and four [[acyl-CoA]] substrates per enzymatic molecule. 
+
+[[FAD]] is bound between the three domains of the monomer, where only the nucleotide portion is accessible.  [[FAD]] binding contributes significantly to overall [[enzyme]] stability.  The [[acyl-CoA]] substrate is bound completely within each monomer of the [[enzyme]].  The active site is lined with the residues F252, T255, V259, T96, T99, A100, L103, Y375, Y375, and E376.  The area of interest within the substrate becomes wedged between Glu 376 and FAD, lining up the molecules into an ideal position for the reaction.<ref name=Thorpe/>
+
+Medium-chain acyl-CoA dehydrogenases can bind to a rather broad range of chain-lengths in the [[acyl-CoA]] substrate, however studies show that its specificity tends to target [[octanoyl-CoA]] (C8-CoA).<ref name=Volker>{{cite journal |doi=10.1111/j.1432-1033.1997.00548.x |author=Kieweg V, Kräutle FG, Nandy A, ''et al.'' |title=Biochemical characterization of purified, human recombinant Lys304→Glu medium-chain acyl-CoA dehydrogenase containing the common disease-causing mutation and comparison with the normal enzyme |journal=Eur. J. Biochem. |volume=246 |issue=2 |pages=548–56 |year=1997 |month=June |pmid=9208949 |url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0014-2956&date=1997&volume=246&issue=2&spage=548}}</ref>
+
+== Mechanism ==
+
+[[Image:AcylCoAdehydrogenase.gif|thumb|right|275px|'''Image 2: '''The overall mechanism of Acyl-CoA dehydrogenase.]]
+
+The acyl-CoA dehydrogenase mechanism proceeds through an E2 elimination.  This elimination is initiated by a [[glutamate]] residue, which, while necessary for the mechanism, is not conserved.<ref name=Thorpe/>
+
+The residue appears in a wide range of locations within the different types of the [[enzyme]] (it is Glu 376 in medium-chain acyl-CoA dehydrogenase).  The [[glutamate]] residue deprotonates the pro-R [[hydrogen]] of the alpha [[carbon]].  [[Hydrogen]] bonding of the substrate’s carbonyl oxygen to both the 2’-OH of the ribityl side-chain of [[FAD]] and to the main chain N-H of the previously mentioned [[glutamate]] residue lowers the pKa of this [[proton]], allowing it to be readily removed by [[glutamate]].<ref name=Thorpe/>
+
+As the alpha [[carbon]] is being deprotonated, the pro-R [[hydrogen]] of the beta [[carbon]] leaves as a hydride to [[FAD]].  It adds to the Re face of FAD at the N-5 position, and the [[enzyme]] holds [[FAD]] in place by [[hydrogen]] bonding with the [[pyrimidine]] portion and [[hydrophobic]] interactions with the dimethylbenzene portion.  The [[substrate (biology)|substrate]] has now been transformed into an alpha-beta [[Saturated and unsaturated compounds|unsaturated]] [[thioester]].<ref name=Thorpe/>
+
+As [[FAD]] picks up the hydride, the carbonyl oxygen adjacent to the N-1 [[nitrogen]] becomes negatively charged.  These [[electrons]] are in resonance with the N-1 [[nitrogen]], distributing and stabilizing the resulting negative charge.  The charge is also stabilized by hydrogen bonding between the [[oxygen]] and [[nitrogen]] of interest and various residues within the [[enzyme]].<ref name=Thorpe/>
+
+[[Image:Acyl CoA dehydrogenase active site.jpg|thumb|left|500px|'''Image 3: '''Close-up of the medium-chain acyl-CoA dehydrogenase active site. FAD is bound. The substrate will bind in the space between Glu-376 and FAD when fatty acid oxidation is initialized.  PDB code: 3mdd.]]
+
+== Deficiencies of Acyl CoA dehydrogenase Linked to Metabolic [[Disease]] ==
+
+Deficiencies in acyl-CoA dehydrogenases result in decreased ability to oxidize [[fatty acids]], thereby signifying metabolic dysfunction.  Medium-chain acyl-CoA dehydrogenase deficiencies ([[MCADD]]) are well known and characterized because they occur most commonly among acyl-CoA dehydrogenases, leading to [[fatty acid]] [[oxidation]] disorders and the potential of life-threatening metabolic [[diseases]]. Some symptoms of medium-chain acyl-CoA dehydrogenase deficiency include intolerance to [[fasting]], [[hypoglycemia]], and [[sudden infant death syndrome]]. These symptoms are seen as directly connected to the inability to metabolize [[fat]]s.  Intolerance to [[fasting]] and [[hypoglycemia]] result from the inability to gain [[energy]] and make [[sugar]] from [[fat]] stores, which is how most of humans' excess energy is stored.  Also, [[fatty acid]]s can begin to accumulate in the [[blood]], lowering the blood's [[pH]] and causing [[acidosis]].<ref name=Thorpe/>
+
+MCAD is related to / has an association with [[Sudden Infant Death]].  Approximately 90% of cases of MCAD are due to a single point [[mutation]] where the [[Lysine]] at position 304 (Lys304)is replaced by a [[Glutamate]] residue and this prevents the [[enzyme]] from properly functioning.<ref name=Thorpe/> It is reported that, every year, 1 in 20,000 [[infants]] is born with a [[deficiency (medicine)|deficiency]] in his/her medium-chain acyl-CoA dehydrogenases that is caused by a [[mutation]]. The [[mutation]] is [[recessive]], and often [[parents]] of [[children]] who suffer from the deficiency can be diagnosed afterward as carriers.<ref name=Touma92>{{cite journal |doi=10.1136/adc.67.1.142 |author=Touma EH, Charpentier C |title=Medium chain acyl-CoA dehydrogenase deficiency |journal=Arch. Dis. Child. |volume=67 |issue=1 |pages=142–5 |year=1992 |month=January |pmid=1739332 |pmc=1793557 }}</ref>
+
+In [[humans]] the most common naturally occurring [[mutation]] in the medium-chain acyl-CoA dehydrogenase is located at [[amino acid]] residue Lys-304.<ref name=Thorpe/> The altered residue occurs as a result of a single-point [[mutation]] in which the [[lysine]] side chain is replaced by a [[glutamate]]. Lys-304 typically interacts with surrounding [[amino acid]] residues by forming [[hydrogen bonds]] with Gln-342, Asp-300, and Asp-346.  When a [[mutation]] causes [[glutamate]] to take the place of [[lysine]], an additional negative charge is introduced at that site, which disrupts the normally occurring H-bonding. Such a disruption alters the folding pattern of the [[enzyme]], ultimately compromising its stability and inhibiting its function in [[fatty acid]] [[oxidation]].<ref name=Volker/> The efficiency of the mutated [[protein]] is about 10 times lower than that of the natural [[protein]].<ref>{{cite journal |author=Nasser I, Mohsen AW, Jelesarov I, Vockley J, Macheroux P, Ghisla S |title=Thermal unfolding of medium-chain acyl-CoA dehydrogenase and iso(3)valeryl-CoA dehydrogenase: study of the effect of genetic defects on enzyme stability |journal=Biochim. Biophys. Acta |volume=1690 |issue=1 |pages=22–32 |year=2004 |month=September |pmid=15337167 |doi=10.1016/j.bbadis.2004.04.008 |url=http://linkinghub.elsevier.com/retrieve/pii/S0925443904000602}}</ref> This can lead to the symptoms of the deficiency listed above.
+
+== References ==
+{{reflist|2}}
+
+[6] "Molecular graphics images were produced using the UCSF Chimera package from the Resource for Biocomputing, Visualization, and Informatics at the University of California, San Francisco (supported by NIH P41 RR-01081). "
+
+{{cite journal |author=Pettersen EF, Goddard TD, Huang CC, ''et al.'' |title=UCSF Chimera—a visualization system for exploratory research and analysis |journal=J Comput Chem |volume=25 |issue=13 |pages=1605–12 |year=2004 |month=October |pmid=15264254 |doi=10.1002/jcc.20084}}
+
+{{cite journal |author=Lee HJ, Wang M, Paschke R, Nandy A, Ghisla S, Kim JJ |title=Crystal structures of the wild type and the Glu376Gly/Thr255Glu mutant of human medium-chain acyl-CoA dehydrogenase: influence of the location of the catalytic base on substrate specificity |journal=Biochemistry |volume=35 |issue=38 |pages=12412–20 |year=1996 |month=September |pmid=8823176 |doi=10.1021/bi9607867}}
+
+== Further reading ==
+*{{cite journal |author=Wenz A, Thorpe C, Ghisla S |title=Inactivation of general acyl-CoA dehydrogenase from pig kidney by a metabolite of hypoglycin A |journal=J. Biol. Chem. |volume=256 |issue=19 |pages=9809–12 |year=1981 |month=October |pmid=7275979 |url=http://www.jbc.org/cgi/pmidlookup?view=long&pmid=7275979}}
+
+*{{cite journal |author=Engst S, Vock P, Wang M, Kim JJ, Ghisla S |title=Mechanism of activation of acyl-CoA substrates by medium chain acyl-CoA dehydrogenase: interaction of the thioester carbonyl with the flavin adenine dinucleotide ribityl side chain |journal=Biochemistry |volume=38 |issue=1 |pages=257–67 |year=1999 |month=January |pmid=9890906 |doi=10.1021/bi9815041}}
+
+== See also ==
+
+* [[Acyl CoA]]
+
+== External links ==
+
+* {{MeshName|Acyl-CoA+Dehydrogenase}}
+
+{{Flavoproteins}}
+
+{{CH-CH oxidoreductases}}
+
+{{Lipid metabolism enzymes}}
+
+[[Category:Enzymes]]

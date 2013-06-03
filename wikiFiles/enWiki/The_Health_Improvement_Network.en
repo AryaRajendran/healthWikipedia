@@ -1,0 +1,54 @@
+'''The Health Improvement Network (THIN)''' is a large [[database]] of anonymised electronic [[medical record]]s collected at [[Primary Care]] clinics throughout the UK. The THIN database is managed by [[Cegedim]] Strategic Data - Medical Research UK in collaboration with In Practice Systems UK.<ref>[http://www.ucl.ac.uk/pcph/research-groups-themes/thin-pub/database THIN Database] - University College London</ref>
+
+==History==
+
+The THIN database is similar in structure and content to the [[General Practice Research Database]] (GPRD), which is now managed by the United Kingdom Medicines and Healthcare products Regulatory Agency ([[Medicines and Healthcare products Regulatory Agency|MHRA]]). 
+
+Between 1994 and 2002, EPIC (UK), a [[not-for-profit]] company, held a non-exclusive licence to use GPRD for research benefitting public health. On the expiry of that licence, THIN was developed by EPIC as an alternative to the GPRD, and a substantial number of primary care practitioners now contribute data to both resources.  
+
+In 2005 EPIC was acquired by [[Cegedim]] SA, a global technology and services company specialising in the healthcare field. EPIC is now part of the Cegedim Strategic Data - Medical Research UK (CSD-MR UK) division within Cegedim, which can also provide researchers with access to similar data from 9 million patients in Europe and other parts of the world.<ref>[http://epi.grants.cancer.gov/pharm/pharmacoepi_db/thin.html The Health Improvement Network] - US National Cancer Institute</ref>  
+
+Unlike the GPRD, THIN is not restricted to use for not-for-profit activities in the public benefit.
+
+==Data==
+
+Data collection commenced in January 2003, using information extracted from [[Vision (PMS)|Vision]], a widely used general [[Medical practice management software|practice management software]] package developed by [[In Practice Systems]], a company also owned by Cegedim SA. 
+
+The database is regularly updated and currently contains data on over 10 million individuals living in the [[United Kingdom]].<ref>[http://www.ucl.ac.uk/pcph/research-groups-themes/thin-pub/database UCL THIN database user group]</ref>
+
+Clinical data in THIN are catalogued using [[Read codes]], a comprehensive and searchable classification scheme for medical conditions, symptoms and important background information. This system is complemented by a set of Additional Health Data (AHD) codes which provide a [[standardization|standardised]] system for the recording of a wide variety of clinical measurements, and by Multilex codes which identify prescribed medications.
+
+Since 2004, the UK [[Quality and Outcomes Framework]], a [[performance-related pay]] scheme for primary care practitioners, has effectively mandated the use of computer systems (such as Vision) to maintain patient medical records, and has imposed standardised recording methods for a wide range of important medical conditions. In addition, practitioners contributing data to THIN receive training to ensure consistent recording of important clinical outcomes and indicators including:-
+
+*[[Asthma]]
+*[[Coronary heart disease]]
+*[[Diabetes mellitus]]
+*[[Epilepsy]]
+*[[Menopause]]
+*[[Hypertension]]
+*[[Hypothyroidism]]
+*Leg [[Ulcer (dermatology)|ulcers]]
+*[[Congestive heart failure|Heart failure]]
+*[[Warfarin]] use
+*[[Lithium salt|Lithium]] use
+*Use of [[hormonal contraception]]
+*[[Pernicious anemia|Pernicious anaemia]]
+*[[Rheumatoid arthritis]]
+*[[Stroke#Prevention|Secondary stroke prevention]]
+*[[Low back pain|Lower back pain]]
+*[[Mental health]]
+*[[Tobacco smoking|Smoking]] status
+
+THIN is an important resource in the fields of [[epidemiology]],<ref>[http://csdmruk.cegedim.com/THINBibliography.pdf List of peer-reviewed publications using THIN] Cegedim Strategic Data - Medical Research UK</ref> drug safety<ref>Lewis et al., “Validation Studies of the Health Improvement Network (THIN) Database for Pharmacoepidemiology Research.” [http://www.ncbi.nlm.nih.gov/pubmed/17066486]</ref> and health outcomes research, providing an inexpensive means to study the causes of disease and effectiveness of [[Health intervention|interventions]] in a large, representative<ref>Bourke, Dattani, and Robinson, “Feasibility Study and Methodology to Create a Quality-evaluated Database of Primary Care Data.” [http://www.ncbi.nlm.nih.gov/pubmed/15606990]</ref> population.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://csdmruk.cegedim.com/ Cegedim Strategic Data - Medical Research UK]
+*[http://www.cegedimstrategicdata.com Cegedim Strategic Data]
+*[http://www.cegedim.com Cegedim SA]
+
+{{DEFAULTSORT:Health Improvement Network}}
+[[Category:Health in the United Kingdom]]
+[[Category:Databases in the United Kingdom]]

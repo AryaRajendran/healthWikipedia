@@ -1,0 +1,49 @@
+'''Cardiac glycosides''' are [[medication|drugs]] used in the treatment of [[congestive heart failure]] and cardiac [[arrhythmia]]. These [[glycoside]]s are found as [[secondary metabolite]]s in several [[plant]]s, but also in some animals, such as the [[milkweed butterfly|milkweed butterflies]]. [[File:Oleandrin.svg|thumb|Example of the chemical structure of [[oleandrin]], one of the cardiac glycosides.]]
+
+==Function==
+Therapeutic uses of cardiac glycosides primarily involve the treatment of cardiac failure. Their utility results from an increased [[cardiac output]] by increasing the [[Inotrope|force of contraction]]. By increasing intracellular calcium as described below, cardiac glycosides increase [[calcium-induced calcium release]] and thus contraction. 
+
+Drugs such as [[ouabain]] and [[digoxin]] are cardiac glycosides. [[Digoxin]] from the foxglove plant is used clinically, whereas [[ouabain]] is used only experimentally due to its extremely high potency.
+
+Normally, [[Na+/K+-ATPase|sodium-potassium pumps]] in the membrane of cells (in this case, [[cardiac myocytes]]) pump potassium ions in and sodium ions out. Cardiac glycosides inhibit this pump by stabilizing it in the [[E2-P]] transition state, so that sodium cannot be extruded: intracellular sodium concentration therefore increases. A second membrane ion exchanger, [[Sodium-calcium exchanger|NCX]], is responsible for 'pumping' calcium ions out of the cell and sodium ions in (3Na/Ca); raised intracellular sodium levels inhibit this pump, so calcium ions are not extruded and will also begin to build up inside the cell.
+
+Increased cytoplasmic calcium concentrations cause increased calcium uptake into the [[sarcoplasmic reticulum]] via the SERCA2 transporter. Raised calcium stores in the SR allow for greater calcium release on stimulation, so the myocyte can achieve faster and more powerful contraction by cross-bridge cycling. The refractory period of the AV node is increased, so cardiac glycosides also function to regulate heart rate. 
+
+Binding of cardiac glycoside to Na-K ATPase is slow, and also, after binding, intracellular calcium increases gradually. Thus, the action of [[Digoxin|digitalis]] (even on [[Intravenous|IV injection]]) is delayed.
+ 
+Raised extracellular potassium decreases binding of cardiac glycoside to Na-K ATPase.  Consequently, increased toxicity of these drugs is observed in the presence of [[Hypokalemia]].
+
+If SR calcium stores become too high, some ions are released spontaneously through SR [[ryanodine receptor]]s. This effect leads initially to [[bigeminy]]: regular [[ectopic beats]] following each ventricular contraction. If higher glycoside doses are given, rhythm is lost and ventricular tachycardia ensues, followed by fibrillation.
+
+==Examples==
+Examples of plants producing cardiac glycosides:
+* [[Cardenolide]] type:
+** ''[[Antiaris toxicaria]]''
+** ''[[Strophanthus]]'' – [[ouabain]] g/k/e-strophanthin
+** ''[[Digitalis]] lanata'' and ''Digitalis purpurea'' – [[digoxin]], [[digitoxin]]
+** ''[[Nerium oleander]]'' - [[oleandrin]]
+** ''[[Asclepias]] sp.''
+** ''[[Calotropis gigantea]]''<ref>
+  Z. N. Wang, M. Y. Wang, W. L. Mei, Z. Han, and H. F. Dai (2008) [http://www.ncbi.nlm.nih.gov/pubmed/19052526 ''A new cytotoxic pregnanone from ''Calotropis gigantea''.''] Molecules, volume 12, issue 12, pages 3033-3039. {{doi|10.3390/molecules13123033}}
+</ref>
+* [[Bufadienolide]] type:
+** ''[[Drimia maritima]]
+** ''[[Kalanchoe daigremontiana]]'' and other ''[[Kalanchoe]]'' species – [[daigremontianin]] and others
+Examples of animals producing cardiac glycosides:
+* Bufadienolide type:
+** ''[[Bufo]]'' toads
+
+{{Glycosides}}
+{{Cardiac glycosides}}
+
+==References==
+{{Reflist}}
+*{{cite web|title=Digoxin, oral.|url=http://galenet.galegroup.com.ezproxy.sfcollege.edu:2048/servlet/HWRC/hits?r=d&origSearch=true&rlt=1&o=DateDescend&bucket=ref&n=10&l=d&searchTerm=2NTA&index=BA&basicSearchOption=KE&tcit=1_1_1_0_0_1&c=1&docNum=A281568160&locID=lincclin_sfcc&secondary=false&t=KW&s=1&SU=Cardiac+glycoside|publisher=RelayHealth|accessdate=7 May 2012}}
+{{cite web|title=The Electrophysiological Effects of Cardiac Glycosides in Human iPSC-derived Cardiomyocytes and in Guinea Pig Isolated Hearts.|url=http://web.ebscohost.com.ezproxy.sfcollege.edu:2048/ehost/detail?vid=6&hid=104&sid=f68ea03e-45ac-4e95-b97b-881fea95e783%40sessionmgr112&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=a9h&AN=61407336|publisher=Cell Physiol Biochem|accessdate=7 May 2012}}
+{{refimprove|date=December 2009}}
+==External links==
+* [http://www.people.vcu.edu/~urdesai/car.htm VCU School of Pharmacy Cardiac Glycosides]
+
+{{DEFAULTSORT:Cardiac Glycoside}}
+[[Category:Pharmacy]]
+[[Category:Cardiac glycosides| ]]

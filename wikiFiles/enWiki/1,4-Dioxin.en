@@ -1,0 +1,73 @@
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 399104661
+|   Name = 1,4-Dioxin
+|   ImageFile = 1,4-Dioxin.svg
+|   ImageSize = 120px
+|   ImageFileL1 = 1,4-Dioxin-3D-balls.png
+|   ImageSizeL1 = 125px
+|   ImageFileR1 = 1,4-Dioxin-3D-spacefill.png
+|   ImageSizeR1 = 115
+|   OtherNames = ''p''-dioxin,  dioxin
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 71301
+| InChI = 1/C4H4O2/c1-2-6-4-3-5-1/h1-4H
+| InChIKey = KVGZZAHHUNAVKZ-UHFFFAOYAD
+| SMILES = O\1/C=C\O/C=C/1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C4H4O2/c1-2-6-4-3-5-1/h1-4H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KVGZZAHHUNAVKZ-UHFFFAOYSA-N
+| CASNo = 290-67-5 
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = C<sub>4</sub>H<sub>4</sub>O<sub>2</sub>
+|   MolarMass = 84.07 g/mol 
+|   Appearance = Colorless liquid 
+|   Density =  
+|   Solubility =  
+|   MeltingPt =  
+|   BoilingPtC = 75 <!-- CRC Handbook of Data on Organic Compounds, 2nd Edition, Weast, R.C and Grasselli, J.G., ed(s)., CRC Press, Inc., Boca Raton, FL, 1989, 1. -->
+  }}
+| Section7 = {{Chembox Hazards
+|   MainHazards = highly flammable
+|   EUClass = 
+|   NFPA-H = 
+|   NFPA-F = 
+|   NFPA-R = 
+|   RPhrases = 
+|   SPhrases = 
+  }}
+| Section8 = {{Chembox Related
+|   OtherCpds = [[1,2-dioxin]], [[dibenzodioxin]]}}
+}}
+
+'''1,4-Dioxin''' (also referred as '''dioxin''' or '''''p''-dioxin''') is a [[heterocyclic compound|heterocyclic]], [[Organic compound|organic]], [[Antiaromaticity|antiaromatic]] [[chemical compound|compound]] with the [[chemical formula]] C<sub>4</sub>H<sub>4</sub>O<sub>2</sub>. There is an [[isomer]]ic form of 1,4-dioxin, [[1,2-dioxin]] (or ''o''-dioxin). 1,2-Dioxin is very unstable due to its [[peroxide]]-like characteristics.
+[[File:Dioxin isomers.svg|thumb|none|[[Skeletal formula]]s and [[substituent]] numbering schemes of '''dioxin isomers''']]
+The term “dioxin” is most commonly used for a family of derivatives of dioxin, known as [[polychlorinated dibenzodioxins]] (PCDDs).
+
+== Preparation ==
+1,4-Dioxin can be prepared by [[cycloaddition]], namely by the [[Diels–Alder reaction]] of [[furan]] and [[maleic anhydride]]. The [[adduct]] formed has a carbon-carbon double bond, which is [[Epoxide#Olefin peroxidation|converted to an epoxide]]. The epoxide then undergoes a [[retro-Diels–Alder reaction]], forming 1,4-dioxin and regenerating maleic anhydride.<ref>{{cite journal | doi = 10.1039/p19940000927 | journal = J. Chem. Soc., Perkin Trans. |volume=1 |issue=8 | year = 1994 | pages = 927–931 | title = Effect of ring strain on the formation and pyrolysis of some Diels–Alder adducts of 2-sulfolene (2,3-dihydrothiophene 1,1-dioxide) and maleic anhydride with 1,3-dienes and products derived therefrom | first=R. Alan |last=Aitken |first2=J. I. G. |last2=Cadogan |lastauthoramp=yes |first3=Ian |last3=Gosneya }}</ref>
+
+[[File:Synthesis-of-1,4-dioxin-1994-2D-skeletal.png|600px|Scheme describing the 1994 synthesis of 1,4-dioxin]]
+
+== Derivatives ==
+[[File:Dibenzo-p-dioxin-numbering-2D-skeletal.png|thumb|Figure 1: The [[skeletal formula]] and [[substituent]] numbering scheme of [[Dibenzodioxin|dibenzo-1,4-dioxin]], the parent compound of PCDDs]]
+The word “dioxin” can refer in a general way to compounds which have a dioxin core skeletal structure with [[substituent]] molecular groups attached to it. For example, [[dibenzo-1,4-dioxin]] is a compound whose structure consists of two benzo- groups fused onto a 1,4-dioxin ring.  
+
+=== Polychlorinated dibenzodioxins ===
+{{Main|polychlorinated dibenzodioxins}}
+Because of their extreme importance as environmental pollutants, current scientific literature uses the name '''dioxins''' commonly for simplification to denote the chlorinated derivatives of dibenzo-1,4-dioxin, more precisely the [[polychlorinated dibenzodioxins]] (PCDDs), among which [[2,3,7,8-Tetrachlorodibenzodioxin|2,3,7,8-tetrachlorodibenzodioxin]] (TCDD), a tetrachlorinated derivative, is the best known. The polychlorinated dibenzodioxins, which can also be classified in the family of [[Halocarbon|halogenated organic compounds]], have been shown to [[bioaccumulate]] in humans and [[wildlife]] due to their [[lipophilic]] properties, and are known [[teratogens]], [[mutagens]], and [[carcinogens]]. 
+
+PCDDs are formed through [[combustion]], [[chlorine]] bleaching and [[manufacturing]] processes.<ref name="mgov">[http://maine.gov/dep/dioxin/ Dioxin] from [http://maine.gov/dep/index.shtml State of Maine's Department of Environmental Protection]</ref> The combination of heat and chlorine creates dioxin.<ref name="mgov"/> Since chlorine is often a part of the Earth's [[natural environment|environment]], natural ecological activity such as volcanic activity and forest fires can lead to the formation of PCDDs.<ref name="mgov"/> Nevertheless, PCDDs are mostly produced by human activity.<ref name="mgov"/>
+
+Famous PCDD exposure cases include [[Agent Orange]] produced by [[Monsanto]] sprayed over vegetation during the Vietnam war, the [[Seveso disaster]], and the poisoning of [[Viktor Yushchenko]].
+
+[[Polychlorinated dibenzofurans]] are a related class compounds to PCDDs which are often included within the general term “dioxins”.
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Dioxin, 1,4-}}
+[[Category:Dioxins]]

@@ -1,0 +1,195 @@
+{{Interventions infobox |
+  Name        = Urinalysis |
+  Image       = Pyuria2.JPG |
+  Caption     = [[White blood cell]]s seen under a microscope from a urine sample. |
+  ICD10       = |
+  ICD9        = |
+  MeshID      = D016482 |
+  MedlinePlus = 003579 |
+  OtherCodes  = {{SearchLOINC|Urinalysis+panel+ur+-CHEM+-DRUG|LOINC Codes for Urinalysis panels}} |
+}}
+A '''urinalysis''' ('''UA'''), also known as '''routine and microscopy''' ('''R&M'''),  is an array of tests performed on [[urine]], and one of the most common methods of [[medical diagnosis]].<ref name="pmid15791892">{{cite journal |author=Simerville JA, Maxted WC, Pahira JJ |title=Urinalysis: a comprehensive review |journal=American Family Physician |volume=71 |issue=6 |pages=1153–62 |year=2005 |month=March |pmid=15791892 |doi= |url=http://www.aafp.org/afp/20050315/1153.html |accessdate=}}</ref>  The word is a [[portmanteau]] of the words ''urine'' and ''analysis''.<ref name=oed>{{cite web|last=Harper|first=Douglas|title=Urinalysis|url=http://www.etymonline.com/index.php?term=urinalysis&allowed_in_frame=0|work=Online Etymology Dictionary|accessdate=26 September 2011}}</ref> 
+
+The target parameters that can be measured or quantified in urinalysis include many substances and cells, as well as other properties, such as [[specific gravity]].
+
+A part of a urinalysis can be performed by using [[urine test strips]], in which the test results can be read as color changes. Another method is [[light microscopy]] of urine samples.
+
+==Target parameters==
+In addition to the substances mentioned in tables below, other tests include a description of color and appearance.
+
+===Ions and trace metals===
+{| class="wikitable"
+! Target !! Lower limit !! Upper limit !! Unit !! Comments !! [[LOINC]] Codes
+|-
+| [[Nitrite test|Nitrite]] || n/a || 0 / negative<ref name=southwest/> ||  || The presence of nitrites in urine, termed [[nitrituria]], indicates the presence of coliform bacteria. <p>{{Further|Nitrite test}} || {{LOINC|5802-4}}
+|-
+| [[Sodium]] (Na) – per day || 150<ref name=uppsala>Reference range list from Uppsala University Hospital ("Laborationslista"). Artnr 40284 Sj74a. Issued on April 22, 2008</ref> || 300<ref name=uppsala/> || mmol / 24 [[hours|h]]  || A urinalysis is frequently ordered during the workup of acute renal failure. Full kidney function can be detected through the simple dipstick method.    || {{LOINC|2956-1}}
+|-
+| [[Potassium]] (K) – per day || 40<ref name=uppsala/> || 90<ref name=uppsala/> || mmol / 24 h  || Urine K may be ordered in the workup of hypokalemia. In case of gastrointestinal loss of K, the urine K will be low. In case of renal loss of K, the urine K levels will be high. Decreased levels of urine K are also seen in hypoaldosteronism and adrenal insufficiency. || {{LOINC|2829-0}}
+|-
+|rowspan=2| [[Urinary calcium]] (Ca) – per day || 15<ref name=foley&boccuzzi>[http://www.medscape.com/viewarticle/732914 medscape.com > Urine Calcium: Laboratory Measurement and Clinical Utility] By Kevin F. Foley, PhD, DABCC; Lorenzo Boccuzzi, DO. Posted: 12/26/2010; Laboratory Medicine. 2010;41(11):683–686. © 2010 American Society for Clinical Pathology. In turn citing: 
+*Wu HBA. Tietz Guide to Clinical Laboratory Tests. 4th ed. St. Louis, MO: Saunders, Elsevier; 2006.</ref> || 20<ref name=foley&boccuzzi/> || mmol / 24 h ||rowspan=2| An abnormally high level is called [[hypercalciuria]] and an abnormally low rate is called [[hypocalciuria]].<p>{{Further|Urinary calcium}} || {{LOINC|14637-3}}
+|-
+| 100<ref name=foley&boccuzzi/> || 250<ref name=foley&boccuzzi/> || mg / 24 hours || {{LOINC|6874-2}}
+|-
+| [[Phosphate]] (P) – per day || n/a<ref name=uppsala/> || 38<ref name=uppsala/> || mmol / 24 h || {{visible anchor|Phosphaturia}} is the hyperexcretion of [[phosphate]] in the [[urine]]. This condition is divided into primary and secondary types. Primary hypophosphatemia is characterized by direct excess excretion of phosphate by the [[kidneys]], as from primary renal dysfunction, and also the direct action of many classes of [[diuretic]]s on the kidneys. Additionally, secondary causes, including both types of [[hyperparathyroidism]], cause hyperexcretion of phosphate in the urine. ||  {{LOINC|14881-7}}
+|-
+|}
+
+A sodium-related parameter is [[fractional sodium excretion]], which is the percentage of the sodium filtered by the kidney which is excreted in the urine. It is a useful parameter in [[acute renal failure]] and [[oliguria]], with a value below 1% indicating a [[prerenal disease]] and a value above 3%<ref name="urlMedlinePlus Medical Encyclopedia: Fractional excretion of sodium">{{cite web |url=http://www.nlm.nih.gov/medlineplus/ency/article/003602.htm |title=MedlinePlus Medical Encyclopedia: Fractional excretion of sodium |work= |accessdate=2009-05-02}}</ref> indicating [[acute tubular necrosis]] or other kidney damage.
+
+===Proteins and enzymes===
+{| class="wikitable"
+! Target !! Lower limit !! Upper limit !! Unit !! Comments
+|-
+| Protein || 0 || trace amounts<ref name=southwest/><br>/ 20 || mg/dl || Proteins may be measured with the [[Albustix test]]. Since proteins are very large molecules (macromolecules), they are not normally present in measurable amounts in the glomerular filtrate or in the urine. The detection of protein in urine, called [[proteinuria]], may indicate the [[Vascular permeability|permeability]] of the glomerulus is abnormally increased. This may be caused by renal infections or by other diseases that have secondarily affected the kidneys, such as [[hypertension]], [[diabetes mellitus]], [[jaundice]], or [[hyperthyroidism]].
+{{Further|Proteinuria}}
+|-
+| [[Human chorionic gonadotropin]] |hCG || – || 50<ref name=Ajubi2005>{{cite pmid|15653445}}</ref> || U/l || This hormone appears in the urine of [[pregnancy|pregnant]] [[woman|women]]. Home [[pregnancy test]]s commonly detect this substance.
+|-
+|}
+
+===Blood cells===
+{| class="wikitable"
+! Target !! Lower limit !! Upper limit !! Unit !! Comments
+|-
+| [[Red blood cell]]s (RBCs) /<br> erythrocytes
+| 0<ref name=southwest/><ref name="urlmedical.history.interview: Lab Values">{{cite web |url=http://sitemaker.umich.edu/medical.history.interview/lab_values |title=medical.history.interview: Lab Values |format= |work= |accessdate=2008-10-21}}</ref>
+| 2<ref name=southwest/> – 3<ref name="urlmedical.history.interview: Lab Values"/>
+|rowspan=3| per <br>[[High Power Field]]<br> (HPF)
+|May be present as intact RBCs, which indicate bleeding. Even trace amount of blood is enough to give the entire urine sample a red/pink hue, and it is difficult to judge the amount of bleeding from a gross examination. [[Hematuria]] may be due to a generalized bleeding diathesis or a urinary tract-specific problem (trauma, stone, infection, malignancy, etc.) or artefact of catheterization in case the sample is taken from a collection bag, in which case a fresh urine sample should be sent for a repeat test. 
+If the RBCs are of renal or glomerular origin (due to [[glomerulonephritis]]), the RBCs incur mechanical damage during the glomerular passage, and then osmotic damage along the tubules, so get dysmorphic features. The [[dysmorphic]] RBCs in urine which are most characteristic of glomerular origin are called "G1 cells", which are doughnut-shaped rings with protruding round blebs sometimes looking like Mickey Mouse (with ears).
+
+Painless hematuria of nonglomerular origin may be a sign of urinary tract malignancy, which may warrant a more thorough cytological investigation.
+{{Further|Hematuria}}
+|-
+| [[Urinary cast#Red blood cell casts|RBC casts]]
+| n/a
+| 0 / negative<ref name=southwest/>
+|
+|-
+|rowspan=2| [[White blood cell]]s (WBCs) /<br> leukocytes /<br> (pus cells)
+| 0<ref name=southwest/>
+| 2<ref name=southwest/> / negative<ref name=southwest/>
+| {{Further|Pyuria}}
+|-
+| –
+| 10
+| per [[microlitre|µl]] or<br> mm<sup>3</sup>
+| "Significant [[pyuria]]" at greater than or equal to 10 leucocytes per [[microlitre]] (µl) or cubic millimeter (mm<sup>3</sup>)
+|-
+| "[[Blood]]" /<br> (actually  [[hemoglobin]]) || n/a || 0 / negative<ref name=southwest/> || dip-stick qualitative scale of 0 to 4+|| [[Hemoglobinuria]] is suggestive of ''in vivo'' hemolysis, but must be distinguished from [[hematuria]]. In case of hemoglobinuria, a urine dipstick shows presence of blood, but no RBCs are seen on microscopic examination. If hematuria is followed by artefactual ''ex vivo'' or ''in vitro'' hemolysis in the collected urine, then the dipstick test also will be positive for hemoglobin and will be difficult to interpret. The urine color may also be red due to excretion of reddish pigments or drugs.
+|-
+|}
+
+===Other molecules===
+{| class="wikitable"
+! Target !! Lower limit !! Upper limit !! Unit !! Comments
+|-
+| [[Glucose]] || n/a || 0 / negative<ref name=southwest/> || || Glucose can be measured with [[Benedict's test]]. Although glucose is easily filtered in the glomerulus, it is not present in the urine because all of the glucose filtered is normally reabsorbed from the renal tubules back into the blood. Presence of glucose in the urine is called [[glucosuria]].
+{{Further|Glucosuria}}
+|-
+| [[Ketone bodies]] || n/a || 0 / negative<ref name=southwest/> ||  || With [[carbohydrate]] deprivation, such as starvation or high-protein diets, the body relies increasingly on the [[metabolism]] of fats for energy. This pattern is also seen in people with diabetes mellitus, when a lack of the hormone [[insulin]] prevents the body cells from using the large amounts of [[glucose]] available in the blood. This happens because insulin is necessary for the transport of glucose from the blood into the body cells. The metabolism of fat proceeds in a series of steps. First, [[triglycerides]] are [[hydrolyzed]] to fatty acids and [[glycerol]]. Second, the fatty acids are hydrolyzed into smaller intermediate compounds (acetoacetic acid, betahydroxybutyric acid, and acetone). Thirdly, the intermediate products are used in aerobic [[cellular respiration]]. When the production of the intermediate products of fatty acid metabolism (collectively known as ketone bodies) exceeds the ability of the body to metabolize these compounds, they accumulate in the blood and some end up in the urine ([[ketonuria]]).
+{{Further|Ketonuria}}
+|-
+| [[Bilirubin]] || n/a || 0 / negative<ref name=southwest/> ||  || The fixed phagocytic cells of the spleen and bone marrow destroy old red blood cells and convert the heme groups of hemoglobin to the pigment bilirubin. The bilirubin is secreted into the blood and carried to the liver, where it is bonded to (conjugated with) glucuronic acid, a derivative of glucose. Some of the [[conjugated bilirubin]] is secreted into the blood and the rest is excreted in the bile as bile pigment that passes into the small intestine. The blood normally contains a small amount of free and conjugated bilirubin. An abnormally high level of blood bilirubin may result from an increased rate of red blood cell destruction, liver damage (as in [[hepatitis]] and [[cirrhosis]]), and obstruction of the common bile duct as with gallstones. An increase in blood bilirubin results in jaundice, a condition characterized by a brownish-yellow pigmentation of the skin and of the [[sclera]] of the eyes.
+{{Further|Bilirubinuria}}
+|-
+| [[Urobilinogen]]
+| 0.2<ref name=southwest>[http://pathcuric1.swmed.edu/PathDemo/nrrt.htm Normal Reference Range Table] from The University of Texas Southwestern Medical Center at Dallas. Used in Interactive Case Study Companion to Pathologic basis of disease.</ref>
+| 1.0 <ref name=southwest/>
+| [[Ehrlich unit]]s <br> or mg/dL
+|-
+| [[Creatinine]] – per day || 4.8<ref name=uppsala/> || 19<ref name=uppsala/> || mmol / 24 h ||
+|-
+| Free [[catecholamine]]s,<br> [[dopamine]] – per day
+| 90  <ref name="urlUniversity of Colorado Laboratory Reference Ranges">{{cite web |url=http://clinlab.uch.edu/asp/test_review/reference_ranges_all.asp |title=University of Colorado Laboratory Reference Ranges |format= |work= |accessdate=2008-10-21}}</ref>
+| 420 <ref name="urlUniversity of Colorado Laboratory Reference Ranges"/>
+| μg / 24 hours
+|
+|-
+|rowspan=2| Free [[cortisol]] || 28<ref name=cortisol-mass>Converted from µg/24 h, using molar mass of 362.460 g/mol</ref> or 30<ref name=Gorges1999>{{cite pmid|10342356}}</ref> || 280<ref name=cortisol-mass/> or 490<ref name=Gorges1999/> || [[nanomole|nmol]]/24 h ||rowspan=2| Values below threshold indicate [[Addison's disease]], while values above indicate [[Cushing's syndrome]]. A value smaller than 200 nmol/24 h (72&nbsp;µg/24 h<ref name=cortisol-molar/>) strongly indicates absence of Cushing's syndrome.<ref name=Gorges1999/>
+|-
+| 10<ref name=medlineplus>[http://www.nlm.nih.gov/medlineplus/ency/article/003703.htm MedlinePlus > Cortisol – urine]. Update Date: 11/23/2009. Updated by: Ari S. Eckman. Also reviewed by David Zieve.</ref> or 11<ref name=cortisol-molar>Converted from nmol/24h, using molar mass of 362.460 g/mol</ref> || 100<ref name=medlineplus/> or 176<ref name=cortisol-molar/> || [[microgram|µg]]/24 [[hours|h]]
+|-
+| [[Phenylalanine]] ||  || 30.0 || mg/L<ref name=Kim2010/> || In neonatal screening, a value above the upper limit defines phenylketonuria.<ref name=Kim2010>{{cite pmid|20494631}}</ref>
+|-
+|}
+
+===Other urine parameters===
+{| class="wikitable"
+!colspan=2| Test !! Lower limit !! Upper limit !! Unit !! Comments
+|-
+|colspan=2| [[Urine specific gravity]]
+| 1.003 <ref name="pmid15791892"/><ref name=southwest/>
+| 1.030<ref name="pmid15791892"/><ref name=southwest/>
+|no unit
+| This test detects the ion concentration of urine.  Small amounts of protein or [[ketoacidosis]] tend to elevate the urine's [[specific gravity]] (SG). This value is measured using a [[urinometer]] and indicates hydration or dehydration. If the SG is under 1.010, the patient is [[hydrated]]; an SG value above 1.020 indicates [[dehydrated|dehydration]].
+|-
+|colspan=2| [[Osmolality]]
+| 400<ref name=uppsala/>
+| n/a<ref name=uppsala/>
+| m[[Osmole (unit)|Osm]]/kg
+|
+|-
+|colspan=2| [[pH]] || 5<ref name=southwest/> || 7<ref name=southwest/> || (unitless)
+|
+|-
+|rowspan=2| [[Urine culture|Bacterial cultures]] || by [[urination]] || – || 100,000 ||rowspan=2| [[colony forming unit]]s per millilitre (CFU/mL) || [[Bacteriuria]] can be confirmed if a single bacterial species is isolated in a concentration greater than 100,000 CFU/ml of urine in clean-catch midstream urine specimens (one for men, two consecutive specimens with the same bacterium for women).
+{{further|Bacteriuria}}
+|-
+| by [[bladder catheterisation]] || – || 100 || For urine collected via [[bladder catheterisation]], the threshold is 100 CFU/ml of a single species.
+{{further|Bacteriuria}}
+|}
+
+==Methods==
+When doctors order a urinalysis, they will request either a routine urinalysis or a [[routine and microscopy]] (R&M) urinalysis, with the difference being a routine urinalysis does not include microscopy or culture.
+
+===Urine test strip===
+A [[urine test strip]] can quantify:
+*[[white blood cell|Leukocytes]] – with presence in urine known as [[leukocyturia]]
+*[[Nitrite]] – with presence in urine known as [[nitrituria]]
+*[[Protein]] – with presence in urine known as [[proteinuria]], [[albuminuria]], or [[microalbuminuria]]
+*[[red blood cell|Blood]] – with presence in urine known as hematuria]]
+*[[Specific gravity (kidney)|specific gravity]]
+
+===Microscopic examination===
+[[Image:Urinary phase-contrast microscopy.jpg|right|thumb|A urine sample is about to be examined under a phase-contrast microscope using a Neubauer [[counting chamber]]. The urine is under the cover slide, in the upper segment formed by the H-shaped grooves.]]
+The numbers and types of [[cell (biology)|cell]]s and/or material such as [[urinary casts]] can yield a great detail of information and may suggest a specific diagnosis.
+*[[Hematuria]] – associated with [[kidney stone]]s, [[infection]]s, [[tumor]]s and other conditions
+*[[Pyuria]] – associated with [[Urinary tract infection|urinary infections]]
+*[[Eosinophiluria]] – associated with [[allergic interstitial nephritis]], [[cholesterol embolism|atheroembolic disease]]
+*[[urinary casts#Red blood cell casts|Red blood cell casts]] – associated with [[glomerulonephritis]], [[vasculitis]], or [[malignant hypertension]]
+*[[urinary casts#White blood cell casts|White blood cell casts]] – associated with [[acute interstitial nephritis]], exudative [[glomerulonephritis]], or severe [[pyelonephritis]]
+*(Heme) granular casts – associated with [[acute tubular necrosis]]
+*[[Crystalluria]] – associated with [[acute urate nephropathy]] (or acute uric acid nephropathy, AUAN)
+*[[calcium oxalate|Calcium oxalatin]] – associated with [[ethylene glycol]] toxicity
+
+===Other methods of urinalysis===
+* Urine culture – a [[microbiological culture]] of urine samples, detecting [[bacteriuria]], is indicated when a [[urinary tract infection]] is suspected.
+*Ictotest – this test is used to detect the destruction of old red blood cells in the urine.
+*[[Hemoglobin]] test – this tests for [[hemolysis]] in the blood vessels, a rupture in the [[capillaries]] of the [[glomerulus]], or [[hemorrhage]] in the urinary system, which cause [[hemoglobin]] to appear in the urine.
+
+==See also==
+*[[Uroscopy]], the ancient form of this analysis
+*[[Medical technologist]]
+*[[Urinary casts]]
+*[[Proteinuria]]
+*[[Urine test strip]]
+*[[Urine collection device]]
+*[[Drug test]]
+*[[Pregnancy test]], measures [[Human chorionic gonadotropin|hCG]] levels in urine
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Urinalysis}}
+*[http://www.labtestsonline.org/understanding/analytes/urinalysis/glance.html Lab Tests Online: Urinalysis]
+*[http://www.redurine.com/medical_tests/urine_test.html Different Types of Urinalysis]
+
+{{Urine tests}}
+{{Abnormal clinical and laboratory findings for urine}}
+
+[[Category:Nephrology]]
+[[Category:Urine tests| ]]

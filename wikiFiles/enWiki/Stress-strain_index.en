@@ -1,0 +1,21 @@
+The '''[[Stress (physics)|stress]]–[[Strain (materials science)|strain index]]''' (SSI), of a [[bone]], is a surrogate measure of bone [[Strength of materials|strength]]<ref>{{cite journal | author = Ward K, Roberts S, Adams J, Mughal M | title = Bone geometry and density in the skeleton of pre-pubertal gymnasts and school children. | journal = Bone | volume = 36 | issue = 6 | pages = 1012–8 | year = 2005 | pmid = 15876561 | doi = 10.1016/j.bone.2005.03.001}}</ref> determined from a cross-sectional scan by QCT or [[pQCT]] ([[radiology|radiological scan]]). The stress–strain index is used to compare the structural parameters determined by analysis of QCT/pQCT cross-sectional scans to the results of [[Three point flexural test|three point bending test]].
+
+==Definition==
+It is calculated using the following formula:<ref name=hasegawa>{{cite journal | author = Hasegawa Y, Schneider P, Reiners C | title = Age, sex, and grip strength determine architectural bone parameters assessed by peripheral quantitative computed tomography (pQCT) at the human radius. | journal = J Biomech | volume = 34 | issue = 4 | pages = 497–503 | year = 2001 | pmid = 11266673 | doi = 10.1016/S0021-9290(00)00211-6}}</ref>
+
+<math>SSI = \sum_{i=0}^n {{r_i^2 a ({{CD} \over {ND}})} \over {r_{max}}}</math>
+
+Where:
+*r<sub>max</sub> is the distance of voxel from centre
+*CD is the apparent [[cortical bone|cortical (bone)]] [[density]]
+*ND is the normal (cortical bone) [[density]]
+*r<sub>i</sub> is the pixel position from the centre
+*a is the [[area]] of a [[pixel]]
+
+==History and relation to moments of inertia==
+It was developed by the manufacturer of a [[peripheral quantitative computed tomography|peripheral quantitative CT]] (pQCT) scanner,<ref name=hasegawa/> and is considered to be by some an improvement over the information provided by calculating the [[area moment of inertia|area moments of inertia]] and [[polar moment of inertia|polar moments of inertia]].
+
+==References==
+<references/>
+
+[[Category:Orthopedic surgery]]

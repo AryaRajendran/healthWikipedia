@@ -1,0 +1,88 @@
+In [[pathology]], '''grading''' is a measure of the cell appearance in [[tumor]]s and other [[neoplasm]]s.  Some pathology grading systems apply only to [[malignant]] neoplasms ([[cancer]]); others apply also to [[benign]] neoplasms. The '''neoplastic grading''' is a measure of cell [[anaplasia]] (reversion of [[Cellular differentiation|differentiation]]) in the sampled tumor and is based on the resemblance of the tumor to the tissue of origin.<ref>{{cite web|last=Abrams|first=Gerald|title=Neoplasia II|url=http://open.umich.edu/education/med/m1/patientspop-genetics/fall2008/materials|accessdate=24 January 2012}}</ref> Grading in cancer is distinguished from [[cancer staging|staging]], which is a measure of the extent to which the cancer has [[metastasis|spread]].  
+
+Pathology grading systems classify the microscopic cell appearance abnormality and deviations in their rate of growth with the goal of predicting developments at tissue level (see also the 4 major histological changes in [[dysplasia]]).
+
+Cancer is a disorder of '''[[cell cycle|cell life cycle]] alteration''' that leads (non-trivially) to excessive [[cell proliferation]] rates, typically longer cell lifespans and poor differentiation. The grade score (numerical: G1 up to G4) increases with the lack of cellular differentiation - it reflects how much the tumor cells differ from the cells of the normal tissue they have originated from (see [[Grading_(tumors)#Categories|'Categories']] below).  Tumors may be graded on four-tier, three-tier, or two-tier scales, depending on the institution and the tumor type.
+
+The [[histology|histologic]] tumor grade score along with the [[metastasis|metastatic]] (whole-body-level cancer-spread) staging are used to evaluate each specific cancer patient, develop their individual treatment strategy and to predict their prognosis.  A cancer that is very poorly differentiated is called ''[[anaplastic]]''.
+
+==Categories==
+The most commonly used system of grading is as per the guidelines of the American Joint Commission on Cancer.{{Citation needed|date=July 2007}} As per their standards, the following are the grading categories.
+*GX                Grade cannot be assessed
+*G1                Well differentiated (Low grade)
+*G2                Moderately differentiated (Intermediate grade)
+*G3                Poorly differentiated (High grade)
+*G4                Undifferentiated (High grade)
+
+==Systems==
+Grading systems are also different for each type of cancer.
+
+The [[Gleason Grading System|Gleason system]],<ref>{{cite journal
+|doi=10.1016/S0022-5347(02)80309-3
+|last=Gleason
+|first=Donald F
+|authorlink=
+|coauthors=Mellinger George T,
+|year=2002|month=Feb.
+|title=Prediction of prognosis for prostatic adenocarcinoma by combined histological grading and clinical staging. 1974
+|journal=J. Urol.
+|volume=167
+|issue=2 Pt 2
+|pages=953–8; discussion 959
+|publisher= |location = [[United States]]| issn = 0022-5347| pmid = 11905924
+| bibcode = | oclc =| id = | url = |  language = eng| format = | accessdate = | laysummary = | laysource = | laydate = | quote =
+ }}</ref> named after [[Donald Floyd Gleason]],  used to grade the adenocarcinoma cells in prostate cancer is the most famous. This system uses a grading score ranging from 2 to 10. Lower Gleason scores describe well-differentiated less aggressive tumors.
+Other systems include the Bloom-Richardson system (breast cancer) and the Fuhrman system (kidney cancer).
+
+==Examples of grading schemes==
+{| border="1" cellspacing=0
+|+'''Four-tier grading scheme'''
+|-
+|Grade 1 || Low grade || Well-differentiated 
+|-
+|Grade 2 || Intermediate grade || Moderately-differentiated
+|-
+|Grade 3 || High grade || Poorly-differentiated
+|-
+|Grade 4 || Anaplastic || Anaplastic
+|}
+
+{|border="1" cellspacing=0
+|+'''Three-tier grading scheme'''
+|- 
+|Grade 1 || Low grade || Well-differentiated 
+|-
+|Grade 2 || Intermediate grade || 
+|-
+|Grade 3 || High grade || Poorly-differentiated
+|}
+
+{| border="1" cellspacing=0
+|+'''Two-tier grading scheme'''
+|-
+|Grade 1 || Low grade || Well-differentiated 
+|-
+|Grade 2 || High grade || Poorly-differentiated
+|}
+
+==Tumor volume estimation==
+Experimental cancer studies involve the implantation of tumors subcutaneously in mice.  Such studies require a simple mechanism by which to evaluate tumor burden.  One such method is to approximate the tumor shape by a [[spheroid]].  Two researchers [[blind experiment|blindly measure]] the tumor length ''L'' and width ''W'', in [[millimeter]]s, with [[caliper]]s.  The depth is not measured and is assumed to equal the width ''W''. The tumor's volume in cubic millimeters is then approximately 0.52''W''<sup>2</sup>''L''.<ref>W. Su & Q. Wang: Inhibition of Human Prostate Cancer Growth and Prevention of Metastasis Development by Antiangiogenic Activities of Pigment Epithelium-Derived Factor.  The Internet Journal of Oncology, 2007 Volume 4 Number 1</ref>
+
+==See also==
+* [[TNM staging system#Other parameters|TNM staging system (Other parameters)]]
+* Tumor kinds that have their own grading system:
+**[[Teratoma]]
+* [[Gleason score]]
+
+==References==
+<references/>
+
+==External links==
+* [http://www.cancer.gov/cancertopics/factsheet/Detection/tumor-grade National Cancer Institute]
+* [http://cancerweb.ncl.ac.uk/cancernet/600059.html CancerWeb]
+* [http://anocef.org/atlas/en/intro.html Atlas Interactif de Neuro-Oncologie]
+
+{{Tumors}}
+
+[[Category:Oncology]]
+[[Category:Pathology]]

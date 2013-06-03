@@ -1,0 +1,1156 @@
+{{Featured article}}
+{{Infobox disease
+ | Name            = ''Helicobacter pylori'' infection
+ | Image           = Immunohistochemical detection of Helicobacter (1) histopatholgy.jpg
+ | Caption         = [[Immunohistochemistry|Immunohistochemical]] staining of ''H. pylori'' from a [[gastric biopsy]]
+ | DiseasesDB      = 5702
+ | ICD10           ={{ICD10|B|98|0|b|98}}
+ | ICD9            = {{ICD9|041.86}}
+ | ICDO            =
+ | OMIM            =
+ | MedlinePlus     = 000229
+ | eMedicineSubj   = med
+ | eMedicineTopic  = 962
+ | eMedicine_mult  =
+ | MeshID          = D016481
+}}
+
+'''''Helicobacter pylori''''' ({{IPAc-en|ˌ|h|ɛ|l|ɪ|k|ɵ|ˈ|b|æ|k|t|ər|_|p|aɪ|ˈ|l|ɔər|aɪ}}; '''''H. pylori'''''), previously named '''''Campylobacter pyloridis''''', is a [[Gram-negative]], [[microaerophile|microaerophilic]] [[bacterium]] found in the [[stomach]]. It was identified in 1982 by [[Barry Marshall]] and [[Robin Warren]], who found that it was present in patients with chronic [[gastritis]] and [[Peptic ulcer|gastric ulcers]], conditions that were not previously believed to have a [[Microorganism|microbial]] cause. It is also linked to the development of [[duodenum|duodenal]] ulcers and [[stomach cancer]]. However, over 80 percent of individuals infected with the bacterium are [[asymptomatic]] and it has been postulated that it may play an important role in the natural stomach ecology.<ref>{{Cite journal
+| last1 = Blaser | first1 = M. J.
+| title = Who are we? Indigenous microbes and the ecology of human diseases
+| doi = 10.1038/sj.embor.7400812
+| journal = EMBO Reports
+| volume = 7
+| issue = 10
+| pages = 956–60
+| year = 2006
+| pmid = 17016449
+| pmc =1618379
+| url = http://www.nature.com/embor/journal/v7/n10/pdf/7400812.pdf
+}}</ref>
+
+More than 50% of the world's population harbor ''H. pylori'' in their upper [[gastrointestinal tract]]. Infection is more prevalent in developing countries, and incidence is decreasing in Western countries. ''H. pylori'''s helix shape (from which the [[genus|generic]] name is derived) is thought to have evolved to penetrate the [[mucus|mucoid]] lining of the stomach.<ref name= YamaokaY>{{cite book
+|author=Yamaoka, Yoshio
+|title=''Helicobacter pylori'': Molecular Genetics and Cellular Biology
+|publisher=Caister Academic Pr
+|year=2008
+|isbn=1-904455-31-X
+}}</ref><ref name="Brown">{{cite journal
+|author=Brown LM
+|title=''Helicobacter pylori'': epidemiology and routes of transmission
+|journal=Epidemiol Rev
+|volume=22
+|issue=2
+|pages=283–97
+|year=2000
+|pmid=11218379
+|doi=10.1093/oxfordjournals.epirev.a018040
+|url=http://epirev.oxfordjournals.org/content/22/2/283.full.pdf
+}}</ref>
+
+==Signs and symptoms==
+Over 80% of people infected with ''H. pylori'' show no symptoms.<ref name= "BoyanovaL">{{cite book | author= Boyanova, L (editor) | year=2011 | title=''Helicobacter pylori'' | publisher=[[Caister Academic Press]] | isbn= 978-1-904455-84-4}}</ref> [[Acute (medicine)|Acute]] infection may appear as an acute [[gastritis]] with [[abdominal pain]] (stomach ache) or [[nausea]].<ref>{{Cite book |title=Gastroenterology: An Illustrated Colour Text |last=Butcher |first=Graham P. |year=2003 |publisher=Elsevier Health Sciences |location= |isbn=0-443-06215-3 |page=25 |url=http://books.google.com/?id=yx22Lgl1uYkC&pg=PAx25v=onepage&q |ref=harv}}</ref> Where this develops into chronic gastritis, the symptoms, if present, are often those of non-ulcer [[dyspepsia]]: stomach pains, nausea, [[bloating]], [[belching]], and sometimes [[vomiting]] or black [[human feces|stool]].<ref>{{harvnb|Butcher|2003|pp=24–5}}</ref><ref>{{cite book|last=Ryan|first=Kenneth|title=Sherris Medical Microbiology|year=2010|publisher=McGraw-Hill|isbn=978-0-07-160402-4|pages=573, 576}}</ref>
+
+Individuals infected with ''H. pylori'' have a 10 to 20% lifetime risk of developing [[peptic ulcers]] and a 1 to 2% risk of acquiring [[stomach cancer]].<ref name="Kusters2006">{{cite journal |author=Kusters JG, van Vliet AH, Kuipers EJ |title=Pathogenesis of ''Helicobacter pylori'' Infection |journal=Clin Microbiol Rev |volume=19 |issue=3 |pages=449–90 |year=2006 |month=July |pmid=16847081 |pmc=1539101 |doi=10.1128/CMR.00054-05 }}</ref> Inflammation of the [[pyloric antrum]] is more likely to lead to [[duodenum|duodenal]] ulcers, while inflammation of the [[Body of stomach|corpus]] (body of the stomach) is more likely to lead to [[stomach|gastric]] ulcers and gastric [[carcinoma]].<ref name="Suerbaum2002">{{cite journal |author=Suerbaum S, Michetti P |title=''Helicobacter pylori'' infection |journal=N. Engl. J. Med. |volume=347 |issue=15 |pages=1175–86 |year=2002 |month=October |pmid=12374879 |doi=10.1056/NEJMra020542 |url=}}</ref> However, it is possible that ''H. pylori'' plays a role only in the first stage that leads to common chronic inflammation, but not in further stages leading to carcinogenesis.<ref name="Brown"/> A meta-analysis conducted in 2009 concluded that the eradication of ''H. pylori'' reduces gastric cancer risk in previously infected individuals, suggesting that the continued presence of ''H. pylori'' is a risk factor for gastric cancer.<ref>{{cite journal|last=Fuccio|first=L|title=Meta-analysis: can ''Helicobacter pylori'' eradication treatment reduce the risk for gastric cancer?|journal=Ann Intern Med|year=2009|pmid=19620164|last2=Zagari|first2=RM|last3=Eusebi|first3=LH|last4=Laterza|first4=L|last5=Cennamo|first5=V|last6=Ceroni|first6=L|last7=Grilli|first7=D|last8=Bazzoli|first8=F|volume=151|issue=2|pages=121–8}}</ref>
+
+==Microbiology==
+{{Taxobox
+| image = EMpylori.jpg
+| image_width=190px
+| domain = [[Bacteria]]
+| phylum = [[Proteobacteria]]
+| classis = [[Epsilonproteobacteria]]
+| ordo = [[Campylobacterales]]
+| familia = [[Helicobacteraceae]]
+| genus = ''[[Helicobacter]]''
+| species = '''''H. pylori'''''
+| binomial = ''Helicobacter pylori''
+| binomial_authority = (Marshall ''et al.'' 1985) Goodwin ''et al.'', 1989
+}}
+[[Image:Helicobacter pylori.jpg|left|thumb|Scanning electron micrograph of ''H. pylori'']]
+''H. pylori'' is a [[helix]]-shaped (classified as a curved [[Bacillus (shape)|rod]], not [[spirochaete]]) [[Gram-negative]] bacterium about 3&nbsp;micrometres long with a diameter of about 0.5&nbsp;micrometres. It is [[microaerophilic]]; that is, it requires [[oxygen]], but at lower concentration than is found in the [[earth's atmosphere|atmosphere]]. It contains a [[hydrogenase]] which can be used to obtain energy by oxidizing molecular [[hydrogen]] (H<sub>2</sub>) produced by [[Gut flora|intestinal bacteria]].<ref>{{cite journal
+|author=Olson JW, Maier RJ
+|title=Molecular hydrogen as an energy source for ''Helicobacter pylori''
+|journal=Science
+|volume=298
+|issue=5599
+|pages=1788–90
+|year=2002
+|month=November
+|pmid=12459589
+|doi=10.1126/science.1077123
+}}</ref> It produces [[oxidase]], [[catalase]], and [[urease]]. It is capable of forming [[biofilm]]s<ref>
+{{cite journal
+|author=Stark RM
+|title=Biofilm formation by ''Helicobacter pylori''
+|journal=Lett Appl Microbiol
+|volume=28
+|issue=2
+|pages=121–6
+|year=1999
+|month=February
+|pmid=10063642
+|doi=10.1046/j.1365-2672.1999.00481.x
+|author-separator=,
+|author2=Gerwig GJ
+|author3=Pitman RS
+|display-authors=3
+|last4=Potts
+|first4=L. F.
+|last5=Williams
+|first5=N. A.
+|last6=Greenman
+|first6=J.
+|last7=Weinzweig
+|first7=I. P.
+|last8=Hirst
+|first8=T. R.
+|last9=Millar
+|first9=M. R.
+}}</ref> and can convert from spiral to a possibly [[viable but nonculturable]] [[coccus|coccoid]] form,<ref>
+{{cite journal
+|author=Chan WY, Hui PK, Leung KM, Chow J, Kwok F, Ng CS
+|title=Coccoid forms of ''Helicobacter pylori'' in the human stomach
+|journal=Am J Clin Pathol
+|volume=102
+|issue=4
+|pages=503–7
+|year=1994
+|month=October
+|pmid=7524304
+}}</ref> both likely to favor its survival and be factors in the [[epidemiology]] of the bacterium.
+
+''H. pylori'' possesses five major [[Bacterial outer membrane|outer membrane]] protein (OMP) families.<ref name="Kusters2006" /> The largest family includes known and [[putative]] [[adhesins]]. The other four families are [[Porin (protein)|porin]]s, iron transporters, [[flagella|flagellum]]-associated proteins, and proteins of unknown function. Like other typical Gram-negative bacteria, the outer membrane of ''H. pylori'' consists of [[phospholipids]] and [[lipopolysaccharide]] (LPS). The [[O antigen]] of LPS may be [[fucose|fucosylated]] and mimic Lewis [[Blood type|blood group antigens]] found on the gastric epithelium.<ref name="Kusters2006"/> The outer membrane also contains [[cholesterol]] glucosides, which are found in few other bacteria.<ref name="Kusters2006"/> ''H. pylori'' has four to six lophotrichous [[flagellum|flagella]]; all gastric and enterohepatic ''Helicobacter'' species are highly motile owing to flagella.<ref>{{cite journal
+|author=Josenhans C, Eaton KA, Thevenot T, Suerbaum S
+|title=Switching of Flagellar Motility in ''Helicobacter pylori'' by Reversible Length Variation of a Short Homopolymeric Sequence Repeat in fliP, a Gene Encoding a Basal Body Protein
+|journal=Infect Immun
+|volume=68
+|issue=8
+|pages=4598–603
+|year=2000
+|month=August
+|pmid=10899861
+|pmc=98385
+|doi=10.1128/IAI.68.8.4598-4603.2000
+}}</ref> The characteristic sheathed flagellar filaments of ''Helicobacter'' are composed of two copolymerized flagellins, FlaA and FlaB.<ref name= Rustetal>{{cite book
+|isbn=1-904455-31-X
+|chapterurl=http://www.horizonpress.com/hpl2
+|author= Rust M, Schweinitzer T, Josenhans C
+|year=2008
+|chapter=Helicobacter Flagella, Motility and Chemotaxis
+|title=''Helicobacter pylori'': Molecular Genetics and Cellular Biology
+|editor=Yamaoka Y
+|publisher=Caister Academic Press
+}}</ref>
+
+===Genome===
+''H. pylori'' consists of a large diversity of strains, and the [[genome]]s of three have been completely [[sequencing|sequenced]].<ref name="Tomb 1997">{{cite journal
+|author=Tomb JF
+|title=The complete genome sequence of the gastric pathogen ''Helicobacter pylori''
+|journal=Nature
+|volume=388
+|issue=6642
+|pages=539–47
+|year=1997
+|month=August
+|pmid=9252185
+|doi=10.1038/41483
+|author-separator=,
+|author2=White O
+|author3=Kerlavage AR
+|display-authors=3
+|last4=Clayton
+|first4=Rebecca A.
+|last5=Sutton
+|first5=Granger G.
+|last6=Fleischmann
+|first6=Robert D.
+|last7=Ketchum
+|first7=Karen A.
+|last8=Klenk
+|first8=Hans Peter
+|last9=Gill
+|first9=Steven
+}}</ref><ref>{{cite web
+|url=http://genolist.pasteur.fr/PyloriGene
+|title= Genome information for the ''H. pylori'' 26695 and J99 strains
+|publisher=Institut Pasteur
+|year=2002
+|format=
+|work=
+|accessdate=2008-09-01
+}}</ref><ref name="genome26695">{{cite web
+|url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=genome&cmd=Retrieve&dopt=Overview&list_uids=128
+|title=''Helicobacter pylori'' 26695, complete genome
+|publisher=National Center for Biotechnology Information
+|format=
+|work=
+|accessdate=2008-09-01
+}}</ref><ref>{{cite web
+|url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=genome&cmd=Retrieve&dopt=Overview&list_uids=139
+|title=''Helicobacter pylori'' J99, complete genome
+|publisher=National Center for Biotechnology Information
+|format=
+|work=
+|accessdate=2008-09-01
+}}</ref><ref name="pmid16788065">{{cite journal
+|author=Oh JD
+|title=The complete genome sequence of a chronic atrophic gastritis ''Helicobacter pylori'' strain: Evolution during disease progression
+|journal=Proc Natl Acad Sci U.S.A.
+|volume=103
+|issue=26
+|pages=9999–10004
+|year=2006
+|month=June
+|pmid=16788065
+|pmc=1480403
+|doi=10.1073/pnas.0603784103
+|author-separator=,
+|author2=Kling-Bäckhed H
+|author3=Giannakis M
+|display-authors=3
+|last4=Xu
+|first4=J
+|last5=Fulton
+|first5=RS
+|last6=Fulton
+|first6=LA
+|last7=Cordum
+|first7=HS
+|last8=Wang
+|first8=C
+|last9=Elliott
+|first9=G
+}}</ref> The genome of the strain "26695" consists of about 1.7 million [[base pair]]s, with some 1,550 genes. The two sequenced strains show large genetic differences, with up to 6% of the [[nucleotides]] differing.<ref name="genome26695"/>
+
+Study of the ''H. pylori'' genome is centered on attempts to understand [[pathogenesis]], the ability of this [[organism]] to cause disease. Approximately 29% of the loci are in the "pathogenesis" category of the genome database. Two of sequenced strains have an approximately 40-[[Kilo-base pair|kb]]-long Cag [[pathogenicity island]] (a common [[Gene|gene sequence]] believed responsible for pathogenesis) that contains over 40 genes. This pathogenicity island is usually absent from ''H. pylori'' strains isolated from humans who are carriers of ''H. pylori'' but remain [[asymptomatic]].<ref name="Baldwin2007">{{cite journal
+|author=Baldwin DN
+|title=Identification of ''Helicobacter pylori'' Genes That Contribute to Stomach Colonization
+|journal=Infect Immun
+|volume=75
+|issue=2
+|pages=1005–16
+|year=2007
+|month=February
+|pmid=17101654
+|pmc=1828534
+|doi=10.1128/IAI.01176-06
+|author-separator=,
+|author2=Shepherd B
+|author3=Kraemer P
+|display-authors=3
+|last4=Hall
+|first4=M. K.
+|last5=Sycuro
+|first5=L. K.
+|last6=Pinto-Santini
+|first6=D. M.
+|last7=Salama
+|first7=N. R.
+}}</ref>
+
+The ''[[cagA]]'' gene codes for one of the major ''H. pylori'' [[virulence]] proteins. Bacterial strains that have the ''cagA'' gene are associated with an ability to cause [[Peptic ulcer|ulcer]]s.<ref name="pmid11283049">{{cite journal
+|author=Broutet N
+|title=cagA Status and Eradication Treatment Outcome of Anti-''Helicobacter pylori'' Triple Therapies in Patients with Nonulcer Dyspepsia
+|journal=J Clin Microbiol
+|volume=39
+|issue=4
+|pages=1319–22
+|year=2001
+|month=April
+|pmid=11283049
+|pmc=87932
+|doi=10.1128/JCM.39.4.1319-1322.2001
+|url=http://jcm.asm.org/content/39/4/1319.full.pdf
+|author-separator=,
+|author2=Marais A
+|author3=Lamouliatte H
+|display-authors=3
+|last4=De Mascarel
+|first4=A.
+|last5=Samoyeau
+|first5=R.
+|last6=Salamon
+|first6=R.
+|last7=Megraud
+|first7=F.
+}}</ref> The ''cagA'' gene codes for a relatively long (1186 [[amino acid]]) protein. The ''cag'' pathogenicity island (PAI) has about 30 genes, part of which code for a complex [[Secretion#Type IV secretion system (T4SS)|type IV secretion system]]. The low [[GC-content]] of the ''cag'' PAI relative to the rest of the ''Helicobacter'' genome suggests the island was acquired by [[horizontal gene transfer|horizontal transfer]] from another bacterial species.<ref name="Tomb 1997"/>
+
+==Pathophysiology==
+[[Image:Helicobacter Pylori Urease.png|thumb|Molecular model of ''H. pylori'' urease enzyme]]
+To colonize the stomach, ''H. pylori'' must survive the acidic pH of the [[Lumen (anatomy)|lumen]] and use its flagella to burrow into the [[mucus]] to reach its [[Ecological niche|niche]], close to the stomach's epithelial cell layer.<ref name="Amieva2008">{{cite journal |author=Amieva MR, El-Omar EM |title=Host-bacterial interactions in ''Helicobacter pylori'' infection |journal=Gastroenterology |volume=134 |issue=1 |pages=306–23 |year=2008 |month=January |pmid=18166359 |doi=10.1053/j.gastro.2007.11.009 |url=}}</ref> Many bacteria can be found deep in the mucus, which is continuously secreted by mucus-secreting cells and removed on the luminal side. To avoid being carried into the lumen, ''H. pylori'' senses the pH gradient within the mucus layer by [[chemotaxis]] and swims away from the acidic contents of the lumen towards the more neutral pH environment of the epithelial cell surface.<ref name="pmid15044704">{{cite journal
+|author=Schreiber S
+|title=The spatial orientation of ''Helicobacter pylori'' in the gastric mucus
+|journal=Proc. Natl. Acad. Sci. U.S.A.
+|volume=101
+|issue=14
+|pages=5024–9
+|year=2004
+|month=April
+|pmid=15044704
+|pmc=387367
+|doi=10.1073/pnas.0308386101
+|author-separator=,
+|author2=Konradt M
+|author3=Groll C
+|display-authors=3
+|last4=Scheid
+|first4=P
+|last5=Hanauer
+|first5=G
+|last6=Werling
+|first6=HO
+|last7=Josenhans
+|first7=C
+|last8=Suerbaum
+|first8=S
+}}</ref> ''H. pylori'' is also found on the inner surface of the stomach [[epithelial cell]]s and occasionally inside epithelial cells.<ref name="pmid12738380">{{cite journal
+|author=Petersen AM, Krogfelt KA
+|title=''Helicobacter pylori'': an invading microorganism? A review
+|journal=FEMS Immunol. Med. Microbiol.
+|volume=36
+|issue=3
+|pages=117–26
+|year=2003
+|month=May
+|pmid=12738380
+|doi=10.1016/S0928-8244(03)00020-8
+}}</ref> It produces [[adhesin]]s which bind to membrane-associated [[lipids]] and [[carbohydrates]] and help it adhere to epithelial cells. For example, the adhesin BabA binds to the [[blood type|Lewis b antigen]] displayed on the surface of stomach epithelial cells.<ref name="pmid9430586">{{cite journal
+|author=Ilver D
+|title=''Helicobacter pylori'' adhesin binding fucosylated histo-blood group antigens revealed by retagging
+|journal=Science
+|volume=279
+|issue=5349
+|pages=373–7
+|year=1998
+|month=January
+|pmid=9430586
+|doi=10.1126/science.279.5349.373
+|author-separator=,
+|author2=Arnqvist A
+|author3=Ogren J
+|display-authors=3
+|last4=Frick
+|first4=IM
+|last5=Kersulyte
+|first5=D
+|last6=Incecik
+|first6=ET
+|last7=Berg
+|first7=DE
+|last8=Covacci
+|first8=A
+|last9=Engstrand
+|first9=L
+}}</ref> ''H. pylori'' produces large amounts of the enzyme [[urease]], molecules of which are localized inside and outside of the bacterium. Urease breaks down [[urea]] (which is normally secreted into the stomach) to [[carbon dioxide]] and [[ammonia]]. The ammonia is converted to ammonium by accepting a proton (H<sup>+</sup>), which neutralizes [[gastric acid]]. The survival of ''H. pylori'' in the acidic stomach is dependent on urease. The ammonia produced is toxic to the epithelial cells, and, along with the other products of ''H. pylori''—including [[protease]]s, vacuolating cytotoxin A (VacA), and certain [[phospholipase]]s,— damages those cells.<ref>{{cite journal
+|author=Smoot DT
+|title=How does ''Helicobacter pylori'' cause mucosal damage? Direct mechanisms
+|journal=Gastroenterology
+|volume=113
+|issue=6 Suppl
+|pages=S31–4; discussion S50
+|year=1997
+|month=December
+|pmid=9394757
+|doi=10.1016/S0016-5085(97)80008-X
+}}</ref>
+
+Inflammatory processes of ''H. pylori'' infections are also mediated by highly disulfide-bridged proteins. Helicobacter cysteine-rich proteins (Hcp), particularly HcpA (hp0211), triggers an immune response through the differentiation of human [[myeloid]] Thp1 [[monocytes]] into [[macrophages]]. In analogy to [[eukaryotic]] [[cytokines]], they interfere with host cell functions and change the morphology of monocytes, inducing the expression of the surface marker protein CD11b, [[phagocytic]] activity, as well as cell adherence, which are indicative of monocyte differentiation into macrophages.<ref name="pmid19393649">{{cite journal
+| author = Dumrese C
+| title = The secreted Helicobacter cysteine-rich protein A causes adherence of human monocytes and differentiation into a macrophage-like phenotype
+| journal = [[FEBS Letters]]
+| volume = 583
+| issue = 10
+| pages = 1637–43
+| year = 2009
+| month = May
+| pmid = 19393649
+| pmc = 2764743
+| doi = 10.1016/j.febslet.2009.04.027
+| url =
+| author-separator = ,
+| author2 = Slomianka L
+| author3 = Ziegler U
+| display-authors = 3
+| last4 = Choi
+| first4 = Sung Sook
+| last5 = Kalia
+| first5 = Awdhesh
+| last6 = Fulurija
+| first6 = Alma
+| last7 = Lu
+| first7 = Wei
+| last8 = Berg
+| first8 = Douglas E.
+| last9 = Benghezal
+| first9 = Mohammed
+}}</ref>
+
+Colonization of the stomach by ''H. pylori'' results in chronic gastritis, an inflammation of the stomach lining. The severity of the inflammation is likely to underlie ''H. pylori''-related diseases.<ref name="Shiotani 2002">{{cite journal
+|author=Shiotani A, Graham DY
+|title=Pathogenesis and therapy of gastric and duodenal ulcer disease
+|journal=Med. Clin. North Am.
+|volume=86
+|issue=6
+|pages=1447–66, viii
+|year=2002
+|month=November
+|pmid=12510460
+|doi=10.1016/S0025-7125(02)00083-4
+}}</ref> [[Duodenum|Duodenal]] and stomach ulcers result when the consequences of inflammation allow the acid and [[pepsin]] in the stomach lumen to overwhelm the mechanisms that protect the stomach and duodenal mucosa from these caustic substances. The type of ulcer that develops depends on the location of chronic gastritis, which occurs at the site of ''H. pylori'' colonization.<ref name="pmid10749087">{{cite journal
+|author=Dixon MF
+|title=Patterns of inflammation linked to ulcer disease
+|journal=Baillieres Best Pract Res Clin Gastroenterol
+|volume=14
+|issue=1
+|pages=27–40
+|year=2000
+|month=February
+|pmid=10749087
+|doi=10.1053/bega.1999.0057
+}}</ref> The acidity within the stomach lumen affects the colonization pattern of ''H. pylori'', and therefore ultimately determines whether a duodenal or gastric ulcer will form. In people producing large amounts of acid, ''H. pylori'' colonizes the [[antrum]] of the stomach to avoid the acid-secreting [[parietal cell]]s located in the [[Body of stomach|corpus]] (main body) of the stomach.<ref name="Kusters2006"/> The inflammatory response to the bacteria induces [[G cells]] in the antrum to secrete the hormone [[gastrin]], which travels through the bloodstream to the corpus.<ref name="pmid14755326">{{cite journal
+|author=Blaser MJ, Atherton JC
+|title=''Helicobacter pylori'' persistence: biology and disease
+|journal=J. Clin. Invest.
+|volume=113
+|issue=3
+|pages=321–33
+|year=2004
+|month=February
+|pmid=14755326
+|pmc=324548
+|doi=10.1172/JCI20925
+}}</ref> Gastrin stimulates the parietal cells in the corpus to secrete even more acid into the stomach lumen. Chronically increased gastrin levels eventually cause the number of parietal cells to also increase, further escalating the amount of acid secreted.<ref name="Schubert 2008">{{cite journal
+|author=Schubert ML, Peura DA
+|title=Control of gastric acid secretion in health and disease
+|journal=Gastroenterology
+|volume=134
+|issue=7
+|pages=1842–60
+|year=2008
+|month=June
+|pmid=18474247
+|doi=10.1053/j.gastro.2008.05.021
+}}</ref> The increased acid load damages the duodenum, and ulceration may eventually result. In contrast, gastric ulcers are often associated with normal or reduced gastric acid production, suggesting the mechanisms that protect the gastric mucosa are defective.<ref name="Schubert 2008"/> In these patients, ''H. pylori'' can also colonize the corpus of the stomach, where the acid-secreting [[parietal cells]] are located. However chronic inflammation induced by the bacteria causes further reduction of acid production and, eventually, [[atrophy]] of the stomach lining, which may lead to gastric ulcer and increases the risk for [[stomach cancer]].<ref name="Suerbaum 2002">{{cite journal
+|author=Suerbaum S, Michetti P
+|title=''Helicobacter pylori'' infection
+|journal=N. Engl. J. Med.
+|volume=347
+|issue=15
+|pages=1175–86
+|year=2002
+|month=October
+|pmid=12374879
+|doi=10.1056/NEJMra020542
+}}</ref>
+
+About 50–70% of ''H. pylori'' strains in Western countries carry the ''cag'' pathogenicity island (''cag'' PAI).<ref name="Peek 2006">{{cite journal
+|author=Peek RM, Crabtree JE
+|title=''Helicobacter'' infection and gastric neoplasia
+|journal=J. Pathol.
+|volume=208
+|issue=2
+|pages=233–48
+|year=2006
+|month=January
+|pmid=16362989
+|doi=10.1002/path.1868
+}}</ref> Western patients infected with strains carrying the ''cag'' PAI have a stronger inflammatory response in the stomach and are at a greater risk of developing peptic ulcers or stomach cancer than those infected with strains lacking the island.<ref name="Kusters2006"/> Following attachment of ''H. pylori'' to stomach epithelial cells, the [[secretion#Type IV Secretion System (T4SS)|type IV secretion system]] expressed by the ''cag'' PAI "injects" the [[inflammation]]-inducing agent, [[peptidoglycan]], from their own [[cell wall]] into the epithelial cells. The injected peptidoglycan is recognized by the cytoplasmic [[pattern recognition receptor]] (immune sensor) Nod1, which then stimulates expression of [[cytokines]] that promote [[inflammation]].<ref>{{cite journal
+|author=Viala J
+|title=Nod1 responds to peptidoglycan delivered by the ''Helicobacter pylori'' ''cag'' pathogenicity island
+|journal=Nat. Immunol.
+|volume=5
+|issue=11
+|pages=1166–74
+|year=2004
+|month=November
+|pmid=15489856
+|doi=10.1038/ni1131
+|author-separator=,
+|author2=Chaput C
+|author3=Boneca IG
+|display-authors=3
+|last4=Cardona
+|first4=Ana
+|last5=Girardin
+|first5=Stephen E
+|last6=Moran
+|first6=Anthony P
+|last7=Athman
+|first7=Rafika
+|last8=Mémet
+|first8=Sylvie
+|last9=Huerre
+|first9=Michel R
+}}</ref>
+
+The type IV [[secretion]] apparatus also injects the ''cag'' PAI-encoded protein CagA into the stomach's epithelial cells, where it disrupts the [[cytoskeleton]], adherence to adjacent cells, intracellular signaling, [[Epithelial polarity|cell polarity]], and other cellular activities.<ref name="Backert 2008">{{cite journal
+|author=Backert S, Selbach M
+|title=Role of type IV secretion in ''Helicobacter pylori'' pathogenesis
+|journal=Cell. Microbiol.
+|volume=10
+|issue=8
+|pages=1573–81
+|year=2008
+|month=August
+|pmid=18410539
+|doi=10.1111/j.1462-5822.2008.01156.x
+}}</ref> Once inside the cell, the CagA protein is [[Phosphorylation|phosphorylated]] on [[Protein kinase#Tyrosine-specific protein kinases|tyrosine residues]] by a host cell membrane-associated [[tyrosine kinase]] (TK). CagA then allosterically activates [[protein tyrosine phosphatase]]/[[protooncogene]] [[Shp2]].<ref name=pmid15343275>{{Cite journal|doi= 10.1038/nrc1433|last=Hatakeyama |first=M |authorlink= |coauthors= |year=2004|month=Sep. |title=Oncogenic mechanisms of the ''Helicobacter pylori'' CagA protein |journal=Nat Rev Cancer|volume=4 |issue=9 |pages=688–94 |publisher= |location = United States| pmid = 15343275| bibcode = | oclc =| id = | url = | language = | format = | accessdate = | laysummary = | laysource = | laydate = | quote = }}</ref> Pathogenic strains of ''H. pylori'' have been shown to activate the [[epidermal growth factor receptor]] (EGFR), a [[membrane protein]] with a tyrosine kinase [[protein domain|domain]]. Activation of the EGFR by ''H. pylori'' is associated with altered [[signal transduction]] and [[gene expression]] in host epithelial cells that may contribute to pathogenesis. It has also been suggested that a [[C-terminus|C-terminal]] region of the CagA protein (amino acids 873–1002) can regulate host cell [[Transcription (genetics)|gene transcription]], independent of protein tyrosine phosphorylation.<ref name="Baldwin2007"/><ref name="pmid11283049"/> There is a great deal of diversity between strains of ''H. pylori'', and the strain with which one is infected is predictive of the outcome.
+
+Two related mechanisms by which ''H. pylori'' could promote [[cancer]] are under investigation. One mechanism involves the enhanced production of [[free radical]]s near ''H. pylori'' and an increased rate of host cell [[mutation]]. The other proposed mechanism has been called a "perigenetic pathway",<ref>{{cite journal
+|author=Tsuji S, Kawai N, Tsujii M, Kawano S, Hori M
+|title=Review article: inflammation-related promotion of gastrointestinal carcinogenesis--a perigenetic pathway
+|journal=Aliment. Pharmacol. Ther.
+|volume=18
+|issue=Suppl 1
+|pages=82–9
+|year=2003
+|month=July
+|pmid=12925144
+|doi=10.1046/j.1365-2036.18.s1.22.x
+}}</ref> and involves enhancement of the transformed host cell phenotype by means of alterations in cell [[protein]]s, such as [[cell adhesion|adhesion]] proteins. ''H. pylori'' has been proposed to induce [[inflammation]] and locally high levels of [[TNF-α]] and/or [[interleukin 6]] (IL-6). According to the proposed perigenetic mechanism, inflammation-associated signaling molecules, such as TNF-α, can alter gastric epithelial cell adhesion and lead to the dispersion and migration of mutated epithelial cells without the need for additional mutations in [[tumor suppressor gene]]s, such as genes that code for cell adhesion proteins.<ref>{{cite journal
+|author=Suganuma M
+|title=TNF-α-inducing protein, a carcinogenic factor secreted from ''H. pylori'', enters gastric cancer cells
+|journal=Int. J. Cancer
+|volume=123
+|issue=1
+|pages=117–22
+|year=2008
+|month=July
+|pmid=18412243
+|doi=10.1002/ijc.23484
+|author-separator=,
+|author2=Yamaguchi K
+|author3=Ono Y
+|display-authors=3
+|last4=Matsumoto
+|first4=Haruo
+|last5=Hayashi
+|first5=Tomonori
+|last6=Ogawa
+|first6=Takahiko
+|last7=Imai
+|first7=Kazue
+|last8=Kuzuhara
+|first8=Takashi
+|last9=Nishizono
+|first9=Akira
+}}</ref>
+
+==Diagnosis==
+[[Image:pylorigastritis.jpg|thumb|right|''H. pylori'' colonized on the surface of regenerative epithelium (image from [[Warthin–Starry stain|Warthin-Starry's silver stain]])]]
+Colonization with ''H. pylori'' is not a disease in and of itself but a condition associated with a number of disorders of the [[upper gastrointestinal tract]].<ref name="Kusters2006"/> Testing for ''H. pylori'' is recommended if there is [[peptic ulcer disease]], low grade gastric [[MALT lymphoma]], after endoscopic resection of early [[gastric cancer]], if there are first degree relatives with gastric cancer, and in certain cases of [[dyspepsia]],<ref name="Stenström B, Mendis A, Marshall B 2008 608–12">{{cite journal|author=Stenström B, Mendis A, Marshall B|title=''Helicobacter pylori''—The latest in diagnosis and treatment|journal=Aust Fam Physician|volume=37|issue=8|pages=608–12|year=2008|month=August|pmid=18704207|doi=|url=}}</ref> not routinely.<ref name="Kusters2006"/> Several ways of testing exist. One can test noninvasively for ''H. pylori'' infection with a [[blood]] [[antibody]] test, stool [[antigen]] [[stool test|test]], or with the [[Urea breath test|carbon urea breath test]] (in which the patient drinks [[carbon-14|<sup>14</sup>C]]—or [[carbon-13|<sup>13</sup>C]]-labelled [[urea]], which the bacterium metabolizes, producing labelled [[carbon dioxide]] that can be detected in the breath).<ref name="Stenström B, Mendis A, Marshall B 2008 608–12" /> However, the most reliable method for detecting ''H. pylori'' infection is a [[biopsy]] check during [[endoscopy]] with a [[rapid urease test]], [[histological]] examination, and microbial culture.{{qn|date=March 2013}} There is also a urine [[ELISA]] test with a 96% sensitivity and 79% specificity. None of the test methods is completely failsafe. Even biopsy is dependent on the location of the biopsy. Blood antibody tests, for example, range from 76% to 84% [[sensitivity (tests)|sensitivity]]. Some drugs can affect ''H. pylori'' urease activity and give [[false negative]]s with the urea-based tests.<ref name="Logan">{{cite journal
+|author=Logan RP, Walker MM
+|title=Epidemiology and diagnosis of ''Helicobacter pylori'' infection
+|journal=BMJ
+|volume=323
+|issue=7318
+|pages=920–2
+|year=2001
+|month=October
+|pmid=11668141
+|pmc=1121445
+|doi=10.1136/bmj.323.7318.920
+}}</ref>
+
+==Prevention==
+''H. pylori'' is a major cause of certain diseases of the upper gastrointestinal tract. Rising [[antibiotic resistance]] increases the need to search for new therapeutic strategies; this might include prevention in form of vaccination.<ref>{{cite journal
+|author=Selgrad M, Malfertheiner P
+|title=New strategies for ''Helicobacter pylori'' eradication
+|journal=Curr Opin Pharmacol
+|volume=8
+|issue=5
+|pages=593–7
+|year=2008
+|month=June
+|pmid=18555746
+|doi=10.1016/j.coph.2008.04.010
+}}</ref> Extensive vaccine studies in mouse models have shown promising results.<ref>{{cite journal
+|author=Hoffelner H, Rieder G, Haas R
+|title=''Helicobacter pylori'' vaccine development: optimisation of strategies and importance of challenging strain and animal model
+|journal=Int. J. Med. Microbiol.
+|volume=298
+|issue=1–2
+|pages=151–9
+|year=2008
+|month=January
+|pmid=17714988
+|doi=10.1016/j.ijmm.2007.07.006
+}}</ref> Researchers are studying different [[adjuvant]]s, [[antigens]], and routes of immunization to ascertain the most appropriate system of immune protection; however, most of the research only recently moved from animal to human trials.<ref>{{cite journal
+|author=Kabir S
+|title=The current status of ''Helicobacter pylori'' vaccines: a review
+|journal=Helicobacter
+|volume=12
+|issue=2
+|pages=89–102
+|year=2007
+|month=April
+|pmid=17309745
+|doi=10.1111/j.1523-5378.2007.00478.x
+}}</ref>
+===Vaccines===
+Vaccines against ''H. pylori'' could be used as prophylactic vaccines to prevent the infection or as therapeutic vaccines to cure the infection, to improve the eradication success of standard regimens or to reduce the bacterial density in the gastric mucosa and the risk for emergence of antibiotic resistant strains. In recent years, many attempts, using various ''H. pylori'' antigens such as urease, CagA, HP-NAP, HspA or combinations, many adjuvants and different routes of immunisation have been made to create vaccines against ''H. pylori'' infection. Although some attempts are promising, no effective and safe vaccine against ''H. pylori'' is currently available for humans. New directions for immunization with the use of DNA, living vectors, microspheres etc. are currently under evaluation. The vaccination plan and the groups who should receive vaccination are still to be determined, but the vaccination will be useful, especially in developing countries.<ref name="BoyanovaL"/> An [[intramuscular injection|intramuscular]] vaccine against ''H. pylori'' infection is undergoing [[Phase I trial|Phase I clinical trials]], and has shown an antibody response against the bacterium. Its clinical usefulness requires further study.<ref>{{cite journal
+|author=Malfertheiner P
+|title=Safety and Immunogenicity of an Intramuscular ''Helicobacter pylori'' Vaccine in Noninfected Volunteers: A Phase I Study
+|journal=Gastroenterology
+|volume=135
+|issue=3
+|pages=787–95
+|year=2008
+|month=May
+|pmid=18619971
+|doi=10.1053/j.gastro.2008.05.054
+|author-separator=,
+|author2=Schultze V
+|author3=Rosenkranz B
+|display-authors=3
+|last4=Kaufmann
+|first4=Stefan H.E.
+|last5=Ulrichs
+|first5=Timo
+|last6=Novicki
+|first6=Deborah
+|last7=Norelli
+|first7=Francesco
+|last8=Contorni
+|first8=Mario
+|last9=Peppoloni
+|first9=Samuele
+}}</ref>
+==Treatment==
+{{See|Helicobacter pylori eradication protocols}}
+Once ''H. pylori'' is detected in a person with a [[peptic ulcer]], the normal procedure is to eradicate it and allow the ulcer to heal. The standard [[First line treatment|first-line therapy]] is a one week "triple therapy" consisting of [[proton pump inhibitors]] such as [[omeprazole]] and the antibiotics [[clarithromycin]] and [[amoxicillin]].<ref>{{cite journal|last=Malfertheiner|first=P|coauthors=Megraud, F; O'Morain, CA; Atherton, J; Axon, AT; Bazzoli, F; Gensini, GF; Gisbert, JP; Graham, DY; Rokkas, T; El-Omar, EM; Kuipers, EJ; European Helicobacter Study, Group|title=Management of ''Helicobacter pylori'' infection—the Maastricht IV/ Florence Consensus Report|journal=Gut|date=2012 May|volume=61|issue=5|pages=646–64|pmid=22491499|url=http://gut.bmj.com/content/61/5/646.long|doi=10.1136/gutjnl-2012-302084}}</ref> Variations of the triple therapy have been developed over the years, such as using a different proton pump inhibitor, as with [[pantoprazole]] or [[rabeprazole]], or replacing amoxicillin with [[metronidazole]] for people who are allergic to [[penicillin]].<ref name=Maastricht_2_Consensus_Report>{{cite journal
+|author=Malfertheiner P
+|title=Current concepts in the management of ''Helicobacter pylori'' infection: the Maastricht III Consensus Report
+|journal=Gut
+|volume=56
+|issue=6
+|pages=772–81
+|year=2007
+|month=June
+|pmid=17170018
+|doi=10.1136/gut.2006.101634
+|pmc=1954853
+|author-separator=,
+|author2=Megraud F
+|author3=O'Morain C
+|display-authors=3
+|last4=Bazzoli
+|first4=F
+|last5=El-Omar
+|first5=E
+|last6=Graham
+|first6=D
+|last7=Hunt
+|first7=R
+|last8=Rokkas
+|first8=T
+|last9=Vakil
+|first9=N
+}}</ref> Such a therapy has revolutionized the treatment of peptic ulcers and has made a cure to the disease possible; previously, the only option was symptom control using [[antacids]], [[H2 antagonist|H<sub>2</sub>-antagonists]] or proton pump inhibitors alone.<ref name="pmid1971318">{{cite journal
+|author=Rauws EA, Tytgat GN
+|title=Cure of duodenal ulcer associated with eradication of ''Helicobacter pylori''
+|journal=Lancet
+|volume=335
+|issue=8700
+|pages=1233–5
+|year=1990
+|month=May
+|pmid=1971318
+|doi=10.1016/0140-6736(90)91301-P
+}}</ref><ref name="pmid1854110">{{cite journal
+|author=Graham DY, Lew GM, Evans DG, Evans DJ, Klein PD
+|title=Effect of triple therapy (antibiotics plus bismuth) on duodenal ulcer healing. A randomized controlled trial
+|journal=Ann. Intern. Med.
+|volume=115
+|issue=4
+|pages=266–9
+|year=1991
+|month=August
+|pmid=1854110
+}}</ref>
+
+An increasing number of infected individuals are found to harbor [[antibiotic resistance|antibiotic-resistant]] bacteria. This results in initial treatment failure and requires additional rounds of antibiotic therapy or alternative strategies, such as a quadruple therapy, which adds a [[bismuth]] [[colloid]], such as [[bismuth subsalicylate]].<ref name="Stenström B, Mendis A, Marshall B 2008 608–12"/><ref>{{cite journal
+|author=Fischbach L, Evans EL
+|title=Meta-analysis: the effect of antibiotic resistance status on the efficacy of triple and quadruple first-line therapies for ''Helicobacter pylori''
+|journal=Aliment. Pharmacol. Ther.
+|volume=26
+|issue=3
+|pages=343–57
+|year=2007
+|month=August
+|pmid=17635369
+|doi=10.1111/j.1365-2036.2007.03386.x
+}}</ref><ref>{{cite journal
+|author=Graham DY, Shiotani A
+|title=Newer concepts regarding resistance in the treatment ''Helicobacter pylori'' infections
+|journal=Nat Clin Pract Gastroenterol Hepatol
+|volume=5
+|issue=6
+|pages=321–31
+|year=2008
+|month=June
+|pmid=18446147
+|doi=10.1038/ncpgasthep1138
+|pmc=2841357
+}}</ref> For the treatment of [[clarithromycin]]-resistant strains of ''H. pylori'', the use of [[levofloxacin]] as part of the therapy has been suggested.<ref>{{cite journal
+|author=Perna F, Zullo A, Ricci C, Hassan C, Morini S, Vaira D
+|title=Levofloxacin-based triple therapy for ''Helicobacter pylori'' re-treatment: role of bacterial resistance
+|journal=Dig Liver Dis
+|volume=39
+|issue=11
+|pages=1001–5
+|year=2007
+|month=November
+|pmid=17889627
+|doi=10.1016/j.dld.2007.06.016
+}}</ref><ref>{{cite journal
+|author=Hsu PI
+|title=Quadruple rescue therapy for ''Helicobacter pylori'' infection after two treatment failures
+|journal=Eur. J. Clin. Invest.
+|volume=38
+|issue=6
+|pages=404–9
+|year=2008
+|month=June
+|pmid=18435764
+|doi=10.1111/j.1365-2362.2008.01951.x
+|author-separator=,
+|author2=Wu DC
+|author3=Chen A
+|display-authors=3
+|last4=Peng
+|first4=N. J.
+|last5=Tseng
+|first5=H. H.
+|last6=Tsay
+|first6=F. W.
+|last7=Lo
+|first7=G. H.
+|last8=Lu
+|first8=C. Y.
+|last9=Yu
+|first9=F. J.
+}}</ref>
+
+An article in the ''[[American Journal of Clinical Nutrition]]'' found evidence that "ingesting [[lactic acid bacteria]] exerts a suppressive effect on ''Helicobacter pylori'' infection in both animals and humans," noting that "supplementing with [[Lactobacillus]]-and-[[Bifidobacterium]]-containing yogurt (AB-yogurt) was shown to improve the rates of eradication of ''H. pylori'' in humans."<ref name="pmid15321816">{{cite journal
+| author = Wang KY
+| title = Effects of ingesting Lactobacillus- and Bifidobacterium-containing yogurt in subjects with colonized ''Helicobacter pylori''
+| journal = [[The American Journal of Clinical Nutrition]]
+| volume = 80
+| issue = 3
+| pages = 737–41
+| year = 2004
+| month = September
+| pmid = 15321816
+| doi =
+| url = http://www.ajcn.org/content/80/3/737.full.pdf
+| author-separator = ,
+| author2 = Li SN
+| author3 = Liu CS
+| display-authors = 3
+| last4 = Perng
+| first4 = DS
+| last5 = Su
+| first5 = YC
+| last6 = Wu
+| first6 = DC
+| last7 = Jan
+| first7 = CM
+| last8 = Lai
+| first8 = CH
+| last9 = Wang
+| first9 = TN
+}}</ref>
+
+==Prognosis==
+[[File:Ulcer-causing Bacterium (H.Pylori) Crossing Mucus Layer of Stomach.jpg|thumbnail|left|Diagram showing how the h.pylori reaches the epithelium of the stomach.]]
+''H. pylori'' colonizes the stomach and induces chronic [[gastritis]], a long-lasting inflammation of the stomach. The bacterium persists in the stomach for decades in most people. Most individuals infected by ''H. pylori'' will never experience clinical symptoms despite having chronic gastritis. Approximately 10–20% of those colonized by ''H. pylori'' will ultimately develop gastric and duodenal ulcers.<ref name="Kusters2006"/> ''H. pylori'' infection is also associated with a 1–2% lifetime risk of [[gastric carcinoma|stomach cancer]] and a less than 1% risk of gastric [[MALT lymphoma]].<ref name="Kusters2006"/> 
+
+In the absence of treatment, ''H. pylori'' infection—once established in its gastric niche—is widely believed to persist for life.<ref name="Brown"/> In the elderly, however, it is likely infection can disappear as the stomach's mucosa becomes increasingly [[Atrophy|atrophic]] and inhospitable to colonization. The proportion of acute infections that persist is not known, but several studies that followed the natural history in populations have reported apparent spontaneous elimination.<ref name=Goodman_2005>{{cite journal
+|author=Goodman KJ
+|title=Dynamics of ''Helicobacter pylori'' infection in a US-Mexico cohort during the first two years of life
+|journal=Int J Epidemiol
+|volume=34
+|issue=6
+|pages=1348–55
+|year=2005
+|month=December
+|pmid=16076858
+|doi=10.1093/ije/dyi152
+|author-separator=,
+|author2=O'rourke K
+|author3=Day RS
+|display-authors=3
+|last4=Wang
+|first4=C
+|last5=Nurgalieva
+|first5=Z
+|last6=Phillips
+|first6=CV
+|last7=Aragaki
+|first7=C
+|last8=Campos
+|first8=A
+|last9=De La Rosa
+|first9=JM
+}}</ref><ref name=Goodman_2001>{{cite journal
+|author=Goodman KJ, Cockburn M
+|title=The role of epidemiology in understanding the health effects of ''Helicobacter pylori''
+|journal=Epidemiology
+|volume=12
+|issue=2
+|pages=266–71
+|year=2001
+|month=March
+|pmid=11246592
+|doi=10.1097/00001648-200103000-00023
+}}</ref>
+
+Mounting evidence suggests that ''H. pylori'' has an important role in protecting from some diseases. The incidence of [[gastroesophageal reflux disease|acid reflux disease]], [[Barrett's esophagus]], and [[esophageal cancer]] have been rising dramatically at the same time as ''H. pylori'''s presence decreases.<ref name = Blaser_2005 /> In 1996, [[Martin J. Blaser]] advanced the hypothesis that ''H. pylori'' has a beneficial effect: by regulating the acidity of the stomach contents.<ref name="pmid14755326"/><ref name = Blaser_2005 /> The hypothesis is not universally accepted as several [[randomized controlled trials]] failed to demonstrate worsening of acid reflux disease symptoms following eradication of ''H. pylori''.<ref name="Graham 2007">{{cite journal
+|author=Graham DY, Yamaoka Y, Malaty HM
+|title=Contemplating the Future without ''Helicobacter pylori'' and the Dire Consequences Hypothesis
+|journal=Helicobacter
+|volume=12
+|issue=Suppl 2
+|pages=64–8
+|year=2007
+|month=November
+|pmid=17991179
+|doi=10.1111/j.1523-5378.2007.00566.x
+|pmc=3128250
+}}</ref><ref name="Delaney 2005">{{cite journal
+|author=Delaney B, McColl K
+|title=Review article: ''Helicobacter pylori'' and gastro-oesophageal reflux disease
+|journal=Aliment. Pharmacol. Ther.
+|volume=22
+|issue=Suppl 1
+|pages=32–40
+|year=2005
+|month=August
+|pmid=16042657
+|doi=10.1111/j.1365-2036.2005.02607.x
+}}</ref> Nevertheless, Blaser has refined his view to assert that ''H. pylori'' is a member of the [[normal flora]] of the stomach.<ref name="Blaser 2006">{{cite journal
+|author=Blaser MJ
+|title=Who are we? Indigenous microbes and the ecology of human diseases
+|journal=EMBO Reports
+|volume=7
+|issue=10
+|pages=956–60
+|year=2006
+|month=October
+|pmid=17016449
+|pmc=1618379
+|doi=10.1038/sj.embor.7400812
+}}</ref> He postulates that the changes in gastric physiology caused by the loss of ''H. pylori'' account for the recent increase in incidence of several diseases, including [[type 2 diabetes]], [[obesity]], and [[asthma]].<ref name="Blaser 2006"/><ref name="Blaser 2008">{{cite journal
+|author=Blaser MJ, Chen Y, Reibman J
+|title=Does ''Helicobacter pylori'' protect against asthma and allergy?
+|journal=Gut
+|volume=57
+|issue=5
+|pages=561–7
+|year=2008
+|month=May
+|pmid=18194986
+|doi=10.1136/gut.2007.133462
+}}</ref> His group has recently shown that ''H. pylori'' colonization is associated with a lower [[incidence (epidemiology)|incidence]] of childhood asthma.<ref>{{cite journal
+|author=Chen Y, Blaser MJ
+|title=''Helicobacter pylori'' colonization is inversely associated with childhood asthma
+|journal=J. Infect. Dis.
+|volume=198
+|issue=4
+|pages=553–60
+|year=2008
+|month=August
+|pmid=18598192
+|doi=10.1086/590158
+}}</ref>
+
+==Survival of H. pylori depends on transformation and recombinational DNA repair==
+The pathogenesis of ''H. pylori'' depends on its ability to survive in the harsh gastric environment characterized by acidity, peristalsis, and attack by phagocytes accompanied by release of reactive oxygen species.<ref>{{cite journal |author=Olczak AA, Olson JW, Maier RJ |title=Oxidative-stress resistance mutants of ''Helicobacter pylori'' |journal=J. Bacteriol. |volume=184 |issue=12 |pages=3186–93 |year=2002 |month=June |pmid=12029034 |pmc=135082 |url=http://jb.asm.org/cgi/pmidlookup?view=long&pmid=12029034 |doi=10.1128/JB.184.12.3186-3193.2002}}</ref> In particular, ''H. pylori'' elicits an oxidative stress response during host colonization.  This oxidative stress response induces potentially lethal and mutagenic oxidative DNA adducts in the ''H. pylori'' genome.<ref>{{cite journal |author=O'Rourke EJ, Chevalier C, Pinto AV, ''et al.'' |title=Pathogen DNA as target for host-generated oxidative stress: role for repair of bacterial DNA damage in ''Helicobacter pylori'' colonization |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=100 |issue=5 |pages=2789–94 |year=2003 |month=March |pmid=12601164 |pmc=151419 |doi=10.1073/pnas.0337641100 |url=http://www.pnas.org/cgi/pmidlookup?view=long&pmid=12601164}}</ref>  
+
+As reviewed by Michod et al.,<ref>{{cite journal |author=Michod RE, Bernstein H, Nedelcu AM |title=Adaptive value of sex in microbial pathogens |journal=Infect. Genet. Evol. |volume=8 |issue=3 |pages=267–85 |year=2008 |month=May |pmid=18295550 |doi=10.1016/j.meegid.2008.01.002 |url=http://linkinghub.elsevier.com/retrieve/pii/S1567-1348(08)00004-X}}</ref> vulnerability to oxidative stress and oxidative DNA damage occurs commonly in many studied bacterial pathogens including ''Neisseria gonorrhoeae, Hemophilus influenzae, Streptococcus pneumoniae, Streptococcus mutans'' and ''Helicobacter pylori''.  For each of these pathogens, surviving the DNA damage induced by oxidative stress appears to be supported by transformation-mediated recombinational repair.  Thus, transformation and recombinational repair appear to contribute to successful infection.
+
+As summarized in [[Transformation (genetics)]], transformation (the transfer of DNA from one bacterial cell to another through the intervening medium) appears to be part of an adaptation for DNA repair.  ''H. pylori'' is naturally competent for transformation.  While many organisms are competent only under certain environmental conditions, such as starvation, ''H. pylori'' is competent throughout logarithmic growth.<ref name=Dorer>{{cite journal |author=Dorer MS, Fero J, Salama NR |title=DNA damage triggers genetic exchange in ''Helicobacter pylori'' |journal=PLoS Pathog. |volume=6 |issue=7 |pages=e1001026 |year=2010 |pmid=20686662 |pmc=2912397 |doi=10.1371/journal.ppat.1001026 |url=http://dx.plos.org/10.1371/journal.ppat.1001026 |editor1-last=Blanke |editor1-first=Steven R}}</ref>  As pointed out by Dorer et al.,<ref name=Dorer /> all organisms encode genetic programs for response to stressful conditions including those that cause DNA damage. In ''H. pylori'', homologous recombination is required for repairing DNA double strand breaks (DSBs). The AddAB helicase-nuclease complex resects DSBs and loads RecA onto single strand DNA (ssDNA), which then mediates strand exchange, leading to homologous recombination and repair. The requirement of RecA plus AddAB for efficient gastric colonization suggests that in the stomach ''H. pylori'' is either exposed to double strand DNA damage that must be repaired or requires some other recombination-mediated event.  In particular, natural transformation is increased by DNA damage in ''H. pylori'', and Dorer et al.<ref name=Dorer /> found a connection between the DNA damage response and DNA uptake in ''H. pylori'', suggesting that natural competence contributes to persistence of ''H. pylori'' in its human host and explains the retention of competence in most clinical isolates.
+
+RuvC protein is essential to the process of recombinational repair since it resolves intermediates in this process termed Holliday junctions.  ''H. pylori'' mutants that are defective in ruvC have increased sensitivity to DNA damaging agents and to oxidative stress, exhibit reduced survival within macrophages, and are unable to establish successful infection in a mouse model.<ref>{{cite journal |author=Loughlin MF, Barnard FM, Jenkins D, Sharples GJ, Jenks PJ |title=''Helicobacter pylori'' mutants defective in RuvC Holliday junction resolvase display reduced macrophage survival and spontaneous clearance from the murine gastric mucosa |journal=Infect. Immun. |volume=71 |issue=4 |pages=2022–31 |year=2003 |month=April |pmid=12654822 |pmc=152077 |url=http://iai.asm.org/cgi/pmidlookup?view=long&pmid=12654822 |doi=10.1128/IAI.71.4.2022-2031.2003}}</ref>  Similarly, RecN protein plays an important role in DSB repair in ''H. pylori''.<ref name=Wang>{{cite journal |author=Wang G, Maier RJ |title=Critical role of RecN in recombinational DNA repair and survival of ''Helicobacter pylori'' |journal=Infect. Immun. |volume=76 |issue=1 |pages=153–60 |year=2008 |month=January |pmid=17954726 |pmc=2223656 |doi=10.1128/IAI.00791-07 |url=http://iai.asm.org/cgi/pmidlookup?view=long&pmid=17954726}}</ref> An ''H. pylori'' ''recN'' mutant displays an attenuated ability to colonize mouse stomachs, highlighting the importance of recombinational DNA repair in survival of ''H. pylori'' within its host.<ref name=Wang />
+
+==Epidemiology==
+At least half the world's population are infected by the bacterium, making it the most widespread infection in the world.<ref name=Pounder95>{{cite journal
+|author=Pounder RE, Ng D
+|title=The prevalence of ''Helicobacter pylori'' infection in different countries
+|journal=Aliment. Pharmacol. Ther.
+|volume=9
+|issue=Suppl 2
+|pages=33–9
+|year=1995
+|pmid=8547526
+|doi=
+}}</ref> Actual infection rates vary from nation to nation; the [[developing world]] has much higher infection rates than the West ([[Western Europe]], [[North America]], [[Australasia]]), where rates are estimated to be around 25%.<ref name=Pounder95/> The age at which this bacterium is acquired seems to influence the possible pathologic outcome of the infection : people infected with it at an early age are likely to develop more intense inflammation that may be followed by atrophic gastritis with a higher subsequent risk of gastric ulcer, gastric cancer or both. Acquisition at an older age brings different gastric changes more likely to lead to duodenal ulcer.<ref name="Brown"/> Infections are usually acquired in early childhood in all countries.<ref name="Kusters2006"/> However, the infection rate of children in developing nations is higher than in [[Developed country|industrialized nations]], probably due to poor sanitary conditions. In developed nations it is currently uncommon to find infected children, but the percentage of infected people increases with age, with about 50% infected for those over the age of 60 compared with around 10% between 18 and 30 years.<ref name=Pounder95/> The higher prevalence among the elderly reflects higher infection rates when they were children rather than infection at later ages.<ref name="Kusters2006"/> In the United States, prevalence appears to be higher in [[African American|African-American]] and [[Hispanic and Latino Americans|Hispanic]] populations, most likely due to socioeconomic factors.<ref>{{cite journal
+|author=Smoak BL, Kelley PW, Taylor DN
+|title=Seroprevalence of ''Helicobacter pylori'' infections in a cohort of US Army recruits
+|journal=Am. J. Epidemiol.
+|volume=139
+|issue=5
+|pages=513–9
+|year=1994
+|month=March
+|pmid=8154475
+}}</ref><ref>{{cite journal
+|author=Everhart JE, Kruszon-Moran D, Perez-Perez GI, Tralka TS, McQuillan G
+|title=Seroprevalence and ethnic differences in ''Helicobacter pylori'' infection among adults in the United States
+|journal=J. Infect. Dis.
+|volume=181
+|issue=4
+|pages=1359–63
+|year=2000
+|month=April
+|pmid=10762567
+|doi=10.1086/315384
+}}</ref> The lower rate of infection in the West is largely attributed to higher hygiene standards and widespread use of antibiotics. Despite high rates of infection in certain areas of the world, the overall frequency of ''H. pylori'' infection is declining.<ref name="pmid17382273">{{cite journal
+|author=Malaty HM
+|title=Epidemiology of ''Helicobacter pylori'' infection
+|journal=Best Pract Res Clin Gastroenterol
+|volume=21
+|issue=2
+|pages=205–14
+|year=2007
+|pmid=17382273
+|doi=10.1016/j.bpg.2006.10.005
+}}</ref> However, [[antibiotic resistance]] is appearing in ''H. pylori''; there are already many [[metronidazole]]- and [[clarithromycin]]-resistant strains in most parts of the world.<ref>{{cite journal
+|author=Mégraud F
+|title=H pylori antibiotic resistance: prevalence, importance, and advances in testing
+|journal=Gut
+|volume=53
+|issue=9
+|pages=1374–84
+|year=2004
+|month=September
+|pmid=15306603
+|pmc=1774187
+|doi=10.1136/gut.2003.022111
+}}</ref>
+
+''H. pylori'' is contagious, although the exact route of transmission is not known.<ref name=Meg95>{{cite journal
+|author=Mégraud F
+|title=Transmission of ''Helicobacter pylori'': faecal–oral versus oral–oral route
+|journal=Aliment. Pharmacol. Ther.
+|volume=9
+|issue=Suppl 2
+|pages=85–91
+|year=1995
+|pmid=8547533
+}}</ref><ref>{{cite journal
+|author=Cave DR
+|title=Transmission and epidemiology of ''Helicobacter pylori''
+|journal=Am. J. Med.
+|volume=100
+|issue=5A
+|pages=12S–17S; discussion 17S–18S
+|year=1996
+|month=May
+|pmid=8644777
+}}</ref> 
+Person-to-person transmission by either the oral-oral or [[fecal-oral route]] is most likely. Consistent with these transmission routes, the bacteria have been isolated from [[feces]], [[saliva]] and [[dental plaque]] of some infected people. Findings suggest that H. pylori is more easily transmitted via gastric mucus than via saliva<ref name="Brown"/> Transmission occurs mainly within families in developed nations yet can also be acquired from the community in developing countries.<ref name="pmid17382274">{{cite journal
+|author=Delport W, van der Merwe SW
+|title=The transmission of ''Helicobacter pylori'': the effects of analysis method and study population on inference
+|journal=Best Pract Res Clin Gastroenterol
+|volume=21
+|issue=2
+|pages=215–36
+|year=2007
+|pmid=17382274
+|doi=10.1016/j.bpg.2006.10.001
+}}</ref> ''H. pylori'' may also be transmitted orally by means of fecal matter through the ingestion of waste-tainted water, so a hygienic environment could help decrease the risk of ''H. pylori'' infection.<ref name="Brown"/>
+
+==Evolution==
+''Helicobacter pylori'' migrated out of Africa along with its human host circa 60,000 years ago.<ref name=Correa2012>{{cite journal |author=Correa P, Piazuelo MB |title=Evolutionary History of the ''Helicobacter pylori'' Genome: Implications for Gastric Carcinogenesis |journal=Gut Liver |volume=6 |issue=1 |pages=21–8 |year=2012 |month=January |pmid=22375167 |pmc=3286735 |doi=10.5009/gnl.2012.6.1.21 |url=http://gutnliver.org/journal/journal_view.html?year=2012&vol=006&num=01&page=21}}
+</ref> Its subsequent evolution created seven prototypes—Europe (isolated from Europe, the Middle East, India and Iran), NE Africa (from Northeast Africa), Africa1 (from countries in Western Africa and South Africa), Africa2 (from South Africa), Asia2 (from Northern India and among isolates from Bangladesh, Thailand and Malaysia), Sahul (from Australian Aboriginals and Papua New Guineans) and East Asia with the subpopulations E Asia (from East Asians), Maori (from Taiwanese Aboriginals, Melanesians and Polynesians) and Amerind (Native Americans). The precursors of these prototypes have been named ancestral Europe1, ancestral Europe2, ancestral East Asia, ancestral Africa1, ancestral Africa2 and ancestral Sahul. These ancestral prototypes appear to have originated in Africa, Central and East Asia.  European and African strains were introduced into the Americas along with its colonisation—both thousands of years ago and more recently— the slave trade.
+
+Recent research states that [[genetic diversity]] in ''H. pylori'' increases with geographic distance from [[Eastern Africa|East Africa]], the birthplace of modern humans. Using the genetic diversity data, the researchers have created simulations that indicate the bacteria seem to have spread from East Africa around 58,000 years ago. Their results indicate modern humans were already infected by ''H. pylori'' before their migrations out of Africa, and it has remained associated with human hosts since that time.<ref>{{cite journal
+|author=Linz B
+|title=An African origin for the intimate association between humans and ''Helicobacter pylori''
+|journal=Nature
+|volume=445
+|issue=7130
+|pages=915–8
+|year=2007
+|month=February
+|pmid=17287725
+|pmc=1847463
+|doi=10.1038/nature05562
+|author-separator=,
+|author2=Balloux F
+|author3=Moodley Y
+|display-authors=3
+|last4=Manica
+|first4=Andrea
+|last5=Liu
+|first5=Hua
+|last6=Roumagnac
+|first6=Philippe
+|last7=Falush
+|first7=Daniel
+|last8=Stamer
+|first8=Christiana
+|last9=Prugnolle
+|first9=Franck
+}}</ref>
+
+==History==
+{{See also|Timeline of peptic ulcer disease and Helicobacter pylori}}
+''Helicobacter pylori'' was first discovered in the stomachs of patients with gastritis and stomach ulcers in 1982 by Dr. [[Barry Marshall]] and Dr. [[Robin Warren]] of [[Perth, Western Australia]]. At the time, the conventional thinking was that no bacterium can live in the human stomach, as the stomach produced extensive amounts of acid of a strength similar to the acid found in a [[car battery]]. Marshall and Warren rewrote the textbooks with reference to what causes gastritis and gastric ulcers.
+In recognition of their discovery, they were awarded the 2005 [[Nobel Prize in Physiology or Medicine]].<ref>{{cite web
+|url=http://nobelprize.org/medicine/laureates/2005/index.html
+|title=The Nobel Prize in Physiology or Medicine 2005
+|accessdate=2008-08-02}}</ref>
+
+Previous to the research of Marshall and Warren, German scientists found spiral-shaped [[bacteria]] in the lining of the human stomach in 1875, but they were unable to [[Microbiological culture|culture]] it, and the results were eventually forgotten.<ref name=Blaser_2005>{{cite journal
+|author=Blaser MJ
+|title=An endangered species in the stomach
+|journal=Sci. Am.
+|volume=292
+|issue=2
+|pages=38–45
+|year=2005
+|month=February
+|pmid=15715390
+|doi=10.1038/scientificamerican0205-38
+}}</ref>
+The Italian researcher [[Giulio Bizzozero]] described similarly shaped bacteria living in the acidic environment of the stomach of dogs in 1893.<ref>{{cite journal
+|author=Bizzozero G
+|authorlink=Giulio Bizzozero
+|year=1893
+|title=Ueber die schlauchförmigen Drüsen des Magendarmkanals und die Beziehungen ihres Epitheles zu dem Oberflächenepithel der Schleimhaut |journal=Archiv für mikroskopische Anatomie
+|volume=42
+|pages=82–152
+|doi=10.1007/BF02975307
+}}</ref> Professor [[Walery Jaworski]] of the [[Jagiellonian University]] in [[Kraków]] investigated sediments of [[gastric washing]]s obtained from humans in 1899. Among some rod-like bacteria, he also found bacteria with a characteristic spiral shape, which he called ''Vibrio rugula''. He was the first to suggest a possible role of this organism in the pathogenesis of gastric diseases. This work was included in the ''Handbook of Gastric Diseases'', but it had little impact, as it was written in Polish.<ref>{{cite journal
+|author=Konturek JW
+|title=Discovery by Jaworski of ''Helicobacter pylori'' and its pathogenetic role in peptic ulcer, gastritis and gastric cancer
+|journal=J. Physiol. Pharmacol.
+|volume=54 |issue=Suppl 3
+|pages=23–41
+|year=2003
+|month=December
+|pmid=15075463
+|url=http://www.jpp.krakow.pl/journal/archive/1203_s3/pdf/23_1203_s3_article.pdf
+|accessdate=2008-08-25
+|format=PDF |archiveurl = http://web.archive.org/web/20040930111720/http://www.jpp.krakow.pl/journal/archive/1203_s3/pdf/23_1203_s3_article.pdf |archivedate = September 30, 2004}}</ref> Several small studies conducted in the early 20th century demonstrated the presence of curved rods in the stomach of many patients with peptic ulcers and stomach cancer.<ref name="Egan 2007">{{cite journal
+|author=Egan BJ, O'Morain CA
+|title=A historical perspective of ''Helicobacter'' gastroduodenitis and its complications
+|journal=Best Pract Res Clin Gastroenterol
+|volume=21
+|issue=2
+|pages=335–46
+|year=2007
+|pmid=17382281
+|doi=10.1016/j.bpg.2006.12.002
+}}</ref> Interest in the bacteria waned, however, when an American study published in 1954 failed to observe the bacteria in 1180 stomach biopsies.<ref name="Palmer 1954">{{cite journal
+|author=Palmer ED
+|title=Investigation of the gastric mucosa spirochetes of the human
+|journal=Gastroenterology
+|volume=27
+|issue=2
+|pages=218–20
+|year=1954
+|month=August
+|pmid=13183283
+}}</ref>
+
+Interest in understanding the role of bacteria in stomach diseases was rekindled in the 1970s, with the visualization of bacteria in the stomach of gastric ulcer patients.<ref name="Steer 1975">{{cite journal
+|author=Steer HW
+|title=Ultrastructure of cell migration through the gastric epithelium and its relationship to bacteria
+|journal=J. Clin. Pathol.
+|volume=28
+|issue=8
+|pages=639–46
+|year=1975
+|month=August
+|pmid=1184762
+|pmc=475793
+|doi=10.1136/jcp.28.8.639
+|url=http://jcp.bmj.com/content/28/8/639.long
+|format = PDF
+}}</ref> The bacterium had also been observed in 1979, by Australian pathologist [[Robin Warren]], who did further research on it with Australian physician [[Barry Marshall]] beginning in 1981. After numerous unsuccessful attempts at culturing the bacteria from the stomach, they finally succeeded in visualizing colonies in 1982, when they unintentionally left their [[Petri dishes]] incubating for 5 days over the [[Easter]] weekend. In their original paper, Warren and Marshall contended that most stomach ulcers and gastritis were caused by infection by this bacterium and not by [[stress (medicine)|stress]] or [[Spice|spicy food]], as had been assumed before.<ref>{{cite journal
+|author=Marshall BJ, Warren JR
+|title=Unidentified curved bacilli in the stomach of patients with gastritis and peptic ulceration
+|journal=Lancet
+|volume=1
+|issue=8390
+|pages=1311–5
+|year=1984
+|month=June
+|pmid=6145023
+|doi=10.1016/S0140-6736(84)91816-6
+}}</ref>
+
+Although there was some skepticism initially, within several years numerous research groups verified the association of ''H. pylori'' with gastritis and, to a lesser extent, ulcers.<ref>{{cite web
+|url=http://www.csicop.org/si/show/bacteria_ulcers_and_ostracism_h._pylori_and_the_making_of_a_myth/
+|title=Bacteria, Ulcers, and Ostracism? ''H. pylori'' and the making of a myth
+|year=2004
+|author=Atwood IV KC
+|accessdate=2008-08-02}}</ref> To demonstrate ''H. pylori'' caused gastritis and was not merely a bystander, Marshall drank a beaker of ''H. pylori'' culture. He became ill with nausea and vomiting several days later. An [[endoscopy]] ten days after inoculation revealed signs of gastritis and the presence of ''H. pylori''. These results suggested ''H. pylori'' was the causative agent of gastritis. Marshall and Warren went on to demonstrate that antibiotics are effective in the treatment of many cases of gastritis. In 1987, the Sydney [[Gastroenterology|gastroenterologist]] [[Thomas Borody]] invented the first triple therapy for the treatment of duodenal ulcers.<ref name=Borody_1989>{{cite journal
+|author=Borody TJ
+|title=Recurrence of duodenal ulcer and ''Campylobacter pylori'' infection after eradication
+|journal=Med. J. Aust.
+|volume=151
+|issue=8
+|pages=431–5
+|year=1989
+|month=October
+|pmid=2687668
+|author-separator=,
+|author2=Cole P
+|author3=Noonan S
+|display-authors=3
+|last4=Morgan
+|first4=A
+|last5=Lenne
+|first5=J
+|last6=Hyland
+|first6=L
+|last7=Brandl
+|first7=S
+|last8=Borody
+|first8=EG
+|last9=George
+|first9=LL
+}}</ref> In 1994, the [[National Institutes of Health]] (USA) published an opinion stating most recurrent duodenal and gastric ulcers were caused by ''H. pylori'', and recommended [[antibiotics]] be included in the treatment regimen.<ref>{{cite web
+|title=''Helicobacter pylori'' in peptic ulcer disease
+|work=NIH Consensus Statement Online Jan 7–9;12(1):1–23
+|accessdate=2004-12-21
+|url=http://consensus.nih.gov/1994/1994HelicobacterPyloriUlcer094html.htm}}</ref>
+
+The bacterium was initially named ''Campylobacter pyloridis'', then renamed ''C. pylori'' (pylori being the [[genitive]] of [[pylorus]]) to correct a [[Latin grammar]] error. When [[16S ribosomal RNA]] [[DNA sequencing|gene sequencing]] and other research showed in 1989 that the bacterium did not belong in the genus ''[[Campylobacter]]'', it was placed in its own [[genus]], ''[[Helicobacter]]''. The genus derived from the [[ancient Greek]] ''hělix''/έλιξ "spiral" or "coil".<ref name=Liddell1980>{{cite book
+|author=[[Henry George Liddell|Liddell HG]] and [[Robert Scott (philologist)|Scott R]]
+|title=A Lexicon: Abridged from Liddell and Scott's Greek-English Lexicon
+|publisher=Oxford University Press
+|location=Oxford [Oxfordshire]
+|year=1966
+|isbn=0-19-910207-4
+}}</ref> The specific epithet ''pylōri'' means "of the pylorus" or [[pyloric valve]] (the circular opening leading from the stomach into the [[duodenum]]), from the Ancient Greek word ''πυλωρός'', which means [[gatekeeper]].<ref name=Liddell1980/>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Spoken Wikipedia|HelicobacterPylori.ogg|2009-02-24}}
+{{wikispecies}}
+{{Commons category|Helicobacter pylori}}
+* [http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0015937/ Information on tests for ''H. pylori''] from the [[National Institutes of Health]]
+
+{{Gram-negative bacterial diseases}}
+
+{{DEFAULTSORT:Helicobacter Pylori}}
+[[Category:Conditions diagnosed by stool test]]
+[[Category:Gastroenterology]]
+[[Category:Gram-negative bacteria]]
+[[Category:IARC Group 1 carcinogens]]
+[[Category:Proteobacteria]]
+
+{{Link GA|ru}}
+{{Link GA|uk}}
+{{Link FA|es}}
+{{Link FA|ja}}
+{{Link FA|pl}}

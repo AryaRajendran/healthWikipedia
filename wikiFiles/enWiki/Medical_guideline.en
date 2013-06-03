@@ -1,0 +1,47 @@
+{{distinguish|clinical pathway}}
+A '''medical guideline''' (also called a '''clinical guideline''', '''clinical protocol''' or '''clinical practice guideline''') is a document with the aim of guiding decisions and criteria regarding diagnosis, management, and treatment in specific areas of [[healthcare]]. Such documents have been in use for thousands of years during the entire [[history of medicine]]. 
+
+However, in contrast to previous approaches, which were often based on tradition or authority, modern medical guidelines are based on an examination of current evidence within the paradigm of [[evidence-based medicine]].<ref>Burgers JS, Grol R, Klazinga NS, Mäkelä M, Zaat J, for the AGREE Collaboration. Towards evidence-based clinical practice: an international survey of 18 clinical guideline programs. Int J Qual Health Care 2003;15:31-45</ref><ref>The AGREE Collaboration. Development and validation of an international appraisal instrument for assessing the quality of clinical practice guidelines: the AGREE project. [http://www.ncbi.nlm.nih.gov/pubmed/12571340 Qual Saf Health Care 2003;12:18-23.]</ref><ref>Institute of Medicine (edt.) [http://books.nap.edu/openbook.php?record_id=13058 Clinical practice guidelines we can trust]. Washington DC, 2011</ref> They usually include summarized [[consensus (medical)|consensus statements]] on best practice in [[healthcare]]. A healthcare provider is obliged to know the medical guidelines of his or her profession, and has to decide whether or not to follow the recommendations of a guideline for an individual treatment.<ref>Council of Europe. [http://www.leitlinien.de/mdb/edocs/pdf/literatur/coe-rec-2001-13.pdf Developing a methodology for drawing up guidelines on best medical practice. Recommendation Rec(2001)13 and explanatory memorandum. Strasbourg: Council of Europe Publishing, 2002.]</ref>
+
+Modern clinical guidelines identify, summarize and evaluate the highest quality evidence and most current data about [[preventive medicine|prevention]], [[diagnosis]], [[prognosis]], therapy including dosage of medications, [[risk-benefit analysis|risk/benefit]] and [[cost-effectiveness]]. Then they define the most important questions related to clinical practice and identify all possible [[medical decision making|decision options]] and their [[upside outcomes|outcomes]]. Some guidelines contain decision or computation [[algorithm (medical)|algorithms]] to be followed. Thus, they integrate the identified decision points and respective courses of action with the clinical judgment and experience of practitioners. Many guidelines place the treatment alternatives into classes to help providers in deciding which treatment to use.
+
+Additional objectives of clinical guidelines are to [[standardization|standardize]] medical care, to raise quality of care, to reduce several kinds of risk (to the patient, to the healthcare provider, to [[medical insurance|medical insurers]] and health plans) and to achieve the best balance between cost and medical parameters such as [[effectiveness]], [[specificity (tests)|specificity]], [[sensitivity (tests)|sensitivity]], resolutiveness, etc. It has been demonstrated repeatedly that the use of guidelines by healthcare providers such as [[hospitals]] is an effective way of achieving the objectives listed above, although they are not the only ones.
+
+Special [[computer software]] packages known as [[guideline execution engine]]s have been developed to facilitate the use of medical guidelines in concert with an [[electronic medical record]] system. 
+The ''Guideline Interchange Format (GLIF)'' is a computer representation format for clinical guidelines that can be used with such engines.<ref>[http://www.openclinical.org/gmm_glif.html GLIF website]</ref>
+
+It has been found<ref>[[Gina Kolata]] "[http://www.nytimes.com/2004/12/25/health/25medicine.html?ex=1104982386&ei=1&en=404dbf44fc67b089 Program Coaxes Hospitals to See Treatments Under Their Noses]". ''[[New York Times]]'' December 25, 2004.</ref> that some simple clinical practice guidelines are not routinely followed to the extent they might be. It has been found that providing a [[nurse]] or other medical assistant with a [[checklist]] of recommended procedures can result in the attending physician being reminded in a timely manner regarding procedures that might have been overlooked.
+
+Guidelines are usually produced at national or international levels by medical associations or governmental bodies, such as the ''US Agency for Healthcare Research and Quality''. Local healthcare providers may produce their own set of guidelines or adapt them from existing top-level guidelines. 
+
+The USA and other countries maintain medical guideline [[wikt:clearing house|clearinghouses]]. In the USA, the [http://www.guideline.gov/ National Guideline Clearinghouse] maintains a catalog of high-quality guidelines published by various organizations (mostly professional physician organizations) {{Clarify|date=July 2009}}. In the United Kingdom, clinical practice guidelines are published primarily by the [[National Institute for Health and Clinical Excellence]] (NICE). In The Netherlands, two bodies (CBO and NHG) publish specialist and primary care guidelines, respectively {{Citation needed|date=July 2009}}. In Germany, the  [[German Agency for Quality in Medicine]] (ÄZQ) coordinates a national program for disease management guidelines. All these organisations are now members of the [[Guidelines International Network]] (G-I-N), an international network of organisations and individuals involved in clinical practice guidelines. [http://www.g-i-n.net G-I-N] is owner of the International Guideline Library – the largest web based data base of medical guidelines worldwide - and pursue a set of activities aiming at promoting best practice and reducing duplication.
+
+==Examples==
+* The [[American Heart Association]] Guidelines for the [[Dental antibiotic prophylaxis|Prevention]] of [[Infective endocarditis|Infective Endocarditis]]<ref>{{cite journal |author=Wilson W, Taubert KA, Gewitz M, ''et al.'' |title=Prevention of infective endocarditis: guidelines from the American Heart Association |journal=Circulation |volume=116 |issue=15 |pages=1736–54 |year=2007 |month=October |pmid=17446442 |doi=10.1161/CIRCULATIONAHA.106.183095 |url=http://circ.ahajournals.org/cgi/pmidlookup?view=long&pmid=17446442}}</ref>
+
+==See also==
+* [[Clinical prediction rule]]
+* [[Clinical trial protocol]]
+* ''[[Treatment Guidelines from The Medical Letter]]''
+
+==References==
+<references/>
+
+==External links==
+* [http://www.bcguidelines.ca British Columbia Medical Guidelines] - In Canada, British Columbia's guidelines and protocols are developed under the direction of the Guidelines and Protocols Advisory Committee (GPAC), jointly sponsored by the B.C. Medical Association and the B.C. Ministry of Health Services.
+* [http://www.cochrane.org/ The Cochrane Collaboration] - The Cochrane Collaboration is an international, independent, not-for-profit organisation of over 27,000 contributors from more than 100 countries, dedicated to making up-to-date, accurate information about the effects of health care readily available worldwide.
+* [http://www.guiasalud.es/web/guest/gpc-sns GuiaSalud. Clinical Practice Guidelines for the National Health System (Spain)] - Contains clinical practice guidelines developed in Spain translated into English.
+* [http://gem.med.yale.edu/ Guideline Elements Model] - The Guideline Elements Model (GEM) is an ASTM standard for the representation of practice guidelines in XML format.
+* [http://mis.hevra.haifa.ac.il/~morpeleg/Intermed/ Guideline Interchange Format] - The [[Guideline Interchange Format]] (GLIF) is a specification for structured representation of guidelines.
+* [http://www.g-i-n.net Guidelines International Network]. Contains the largest online guideline library.
+* [http://www.hospitalqualityalliance.org/ Hospital Quality Alliance] - A project of the [http://www.medicare.gov/Hospital/Home.asp?version=alternate&browser=IE%7C5%7CMacPPC&language=English&defaultstatus=1&pagelist=Home Hospital Quality Initiative] (HQI) of the Centers for Medicare and Medicaid Services.
+* [http://www.guideline.gov/ National Guideline Clearinghouse] (NGC), a public resource for evidence-based clinical practice guidelines. NGC is an initiative of the [[Agency for Healthcare Research and Quality]] (AHRQ), [[U.S. Department of Health and Human Services]]
+* [http://www.sign.ac.uk Scottish Intercollegiate Guidelines Network (SIGN)]. Contains 113 evidence-based clinical guidelines – published, in development, or under review.
+*{{cite journal |author=Samanta A, Samanta J, Gunn M |title=Legal considerations of clinical guidelines: Will NICE make a difference? |journal=J R Soc Med |volume=96 |issue=3 |pages=133–8 |year=2003 |month=March |pmid=12612117 |doi=10.1258/jrsm.96.3.133 |pmc=539423}}
+
+{{DEFAULTSORT:Medical Guideline}}
+[[Category:Medical literature]]
+[[Category:Health informatics]]
+[[Category:Medical terminology]]
+[[Category:Healthcare quality]]
+[[Category:Medical guidelines]]

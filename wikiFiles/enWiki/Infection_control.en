@@ -1,0 +1,215 @@
+'''Infection control''' is the discipline concerned with preventing [[nosocomial infection|nosocomial]] or healthcare-associated infection, a practical (rather than academic) sub-discipline of [[epidemiology]].  It is an essential, though often underrecognized and undersupported, part of the infrastructure of health care. Infection control and hospital epidemiology are akin to [[public health]] practice, practiced within the confines of a particular health-care delivery system rather than directed at society as a whole.
+
+Infection control addresses factors related to the spread of infections within the health-care setting (whether patient-to-patient, from patients to staff and from staff to patients, or among-staff), including prevention (via hand hygiene/hand washing, cleaning/disinfection/sterilization, vaccination, surveillance), monitoring/investigation of demonstrated or suspected spread of infection within a particular health-care setting (surveillance and outbreak investigation), and management (interruption of outbreaks).  It is on this basis that the common title being adopted within health care is "Infection Prevention & Control."
+
+==Infection control in healthcare facilities==
+[[Aseptic technique]] is a key component of all invasive medical procedures.  Similarly, infection control measures are most effective when Standard Precautions (health care) are applied because undiagnosed infection is common.
+
+=== Hand hygiene ===
+Independent studies by [[Ignaz Semmelweis]] in 1847 in [[Vienna]] and [[Oliver Wendell Holmes, Sr.|Oliver Wendell Holmes]] in 1843 in [[Boston]] established a link between the hands of health care workers and the spread of [[Nosocomial infection|hospital-acquired]] disease.<ref>[http://www.cdc.gov/mmwr/preview/mmwrhtml/rr5116a1.htm CDC Guideline for Hand Hygiene in Health-Care Settings]</ref> The [[Centers for Disease Control and Prevention|Centers for Disease Control and Prevention (CDC)]] has stated that “It is well documented that the most important measure for preventing the spread of pathogens is effective handwashing.” <ref>[http://www.cdc.gov/nceh/vsp/cruiselines/hand_hygiene_general.htm CDC General information on Hand Hygiene]</ref>  In the United States, [[Hand washing#Medical hand washing|hand washing]] is mandatory in most health care settings and required by many different state and local regulations.<ref>http://www.safechemdirect.co.uk</ref>
+
+In the United States, [[Occupational Safety and Health Administration|Occupational Safety and Health Administration (OSHA)]] standards<ref>[http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=10051 OSHA Bloodborne Pathogens Regulations 1910.1030]</ref> require that employers must provide readily accessible hand washing facilities, and must ensure that employees wash hands and any other skin with soap and water or flush mucous membranes with water as soon as feasible after contact with blood or other potentially infectious materials (OPIM).
+
+<div style="float:right; padding-left:3.0em"><table class="wikitable">
+<caption>Mean percentage changes in bacterial numbers</caption>
+<tr><th>Method used</th><th>Change in<br/>bacteria present</th></tr>
+<tr><td>Paper towels (2-ply 100% recycled).</td><td>{{green|- 48.4%}}</td></tr>
+<tr><td>Paper towels (2-ply through-air dried, 50% recycled)</td><td>{{green|- 76.8%}}</td></tr>
+<tr><td>Warm air dryer</td><td>{{Red|+ 254.5%}}</td></tr>
+<tr><td>Jet air dryer</td><td>{{Red|+ 14.9%}}</td></tr>
+</table></div>
+Drying is an essential part of the hand hygiene process.  In November 2008, a non-peer-reviewed<ref>According to p. 35 of the Redway/Fawdar presentation, "Note: this study has not been peer reviewed but it is intended that the test methods described in this document are provided in sufficient detail to allow
+replication by those who wish to confirm the results."</ref> study was presented to the European Tissue Symposium by the [[University of Westminster]], London, comparing the bacteria levels present after the use of [[paper towel]]s, warm air hand dryers, and modern jet-air hand dryers.<ref>{{cite web| url=http://www.europeantissue.com/pdfs/090402-2008%20WUS%20Westminster%20University%20hygiene%20study,%20nov2008.pdf | work=Table 4| page=13 | title=A comparative study of three different hand drying methods: paper towel, warm air dryer, jet air dryer’| author=Keith Redway and Shameem Fawdar (School of Biosciences, University of Westminster London) | date=November 2008| publisher=European Tissue Symposium|accessdate=2009-10-31}}</ref>  Of those three methods, only paper towels reduced the total number of bacteria on hands, with "through-air dried" towels the most effective.
+
+The presenters also carried out tests to establish whether there was the potential for cross-contamination of other washroom users and the washroom environment as a result of each type of drying method. They found that:
+
+* the jet air dryer, which blows air out of the unit at claimed speeds of 400&nbsp;mph, was capable of blowing micro-organisms from the hands and the unit and potentially contaminating other washroom users and the washroom environment '''up to 2 metres away'''
+* use of a warm air hand dryer spread micro-organisms '''up to 0.25 metres''' from the dryer
+* paper towels showed '''no significant spread''' of micro-organisms.
+
+In 2005, in a study conducted by TUV Produkt und Umwelt, different hand drying methods were evaluated.<ref>TÜV Produkt und Umwelt GmbH Report No. 425-452006 [http://www.europeantissue.com/pdfs/090410%20T%C3%9CV%20-%20Study%20of%20different%20methods%20used%20for%20drying%20hands%20Sept%202005.pdf  A report concerning a study conducted with regard to the different methods used for drying hands; September 2005]</ref> The following changes in the bacterial count after drying the hands were observed:
+
+{|class="wikitable" border="1"
+|-
+!  Drying method
+!  Effect on bacterial count
+|-
+|Paper towels and roll
+|Decrease of 24%
+|-
+|Hot-air drier
+|Increase of 117%
+|}
+
+===Cleaning, disinfection and sterilization===
+
+{{Expand section|date=June 2008}}
+
+Sterilization is a process intended to kill all microorganisms and is the highest level of microbial kill that is possible. Sterilizers may be heat only, steam, or liquid chemical.<ref name="miller">(Miller, Chris H.. Infection Control and Management of Hazardous Materials for the Dental Team, 4th Edition. Mosby Elsevier Health Science, 2010. chpt 11).</ref>
+Effectivness of the sterilizer (e.g., a steam autoclave) is determined in three ways.<ref name="miller"/>
+First, mechanical indicators and gauges on the machine itself indicate proper operation of the machine. Second heat sensitive indicators or tape on the sterilizing bags change color which indicate proper levels of heat or steam. And, third (most importantly) is biological testing in which a highly heat and chemical resistant microorganism (often the bacterial endospore) is selected as the standard challenge. If the process kills this microorganism, the sterilizer is considered to be effective. It should be noted that in order to be effective, instruments must be cleaned, otherwise the debris may form a protective barrier, shielding the microbes from the lethal process. Similarly care must be taken after sterilization to ensure sterile instruments do not become contaminated prior to use.<ref name="miller"/>
+
+Disinfection refers to the use of liquid chemicals on surfaces and at room temperature to kill disease causing microorganisms. Disinfection is a less effective process than sterilization because it does not kill bacterial endospores.<ref name="miller"/>
+
+Sterilization, if performed properly, is an effective way of preventing [[bacteria]] from spreading. It should be used for the cleaning of the medical instruments or [[gloves]], and basically any type of medical item that comes into contact with the [[blood stream]] and sterile tissues.
+
+There are four main ways in which such items can be sterilized: [[autoclave]] (by using high-pressure [[steam]]), dry [[heat]] (in an oven), by using chemical sterilants such as glutaraldehydes or [[formaldehyde]] solutions or by [[radiation]] (with the help of physical agents). The first two are the most used methods of sterilizations mainly because of their accessibility and availability. Steam sterilization is one of the most effective types of sterilizations, if done correctly which is often hard to achieve. Instruments that are used in [[health care facilities]] are usually sterilized with this method. The general rule in this case is that in order to perform an effective sterilization, the steam must get into contact with all the surfaces that are meant to be disinfected. On the other hand, dry heat sterilization, which is performed with the help of an oven, is also an accessible type of sterilization, although it can only be used to disinfect instruments that are made of [[metal]] or [[glass]]. The very high [[temperatures]] needed to perform sterilization in this way are able to melt the instruments that are not made of glass or metal.
+
+Steam sterilization is done at a temperature of 121 C (250 F) with a pressure of 106 kPa (15&nbsp;lbs/in2). In these conditions, unwrapped items must be sterilized for 20 minutes, and wrapped items for 30 minutes. The time is counted once the temperature that is needed has been reached. Steam sterilization requires four conditions in order to be efficient: adequate contact, sufficiently high temperature, correct time and sufficient [[moisture]].<ref name="Sterilization">{{cite web|url=http://www.reproline.jhu.edu/english/4morerh/4ip/IP_manual/11_Sterilization.pdf|title=Sterilization|date=|accessdate= 2010-07-27}}</ref> Sterilization using steam can also be done at a temperature of 132 C (270 F), at a double pressure. Dry heat sterilization is performed at 170 C (340 F) for one hour or two hours at a temperature of 160 C (320 F). Dry heat sterilization can also be performed at 121 C, for at least 16 hours.<ref>{{cite web|url=http://www.mansfield.ohio-state.edu/~sabedon/black12.htm|title=Eliminating Microbes|date=|accessdate= 2010-07-27}}</ref>
+
+Chemical sterilization, also referred to as cold sterilization, can be used to sterilize instruments that cannot normally be disinfected through the other two processes described above. The items sterilized with cold sterilization are usually those that can be damaged by regular sterilization. Commonly, glutaraldehydes and formaldehyde are used in this process, but in different ways. When using the first type of disinfectant, the instruments are soaked in a 2-4% solution for at least 10 hours while a solution of 8% formaldehyde will sterilize the items in 24 hours or more. Chemical sterilization is generally more expensive than steam sterilization and therefore it is used for instruments that cannot be disinfected otherwise. After the instruments have been soaked in the chemical solutions, they are mandatory to be rinsed with sterile water which will remove the residues from the [[disinfectants]]. This is the reason why [[Hypodermic needle|needles]] and [[syringes]] are not sterilized in this way, as the residues left by the chemical solution that has been used to disinfect them cannot be washed off with [[water]] and they may interfere with the administered treatment. Although formaldehyde is less expensive than glutaraldehydes, it is also more irritating to the [[Human eyes|eyes]], [[Human skin|skin]] and [[respiratory tract]] and is classified as a potential [[carcinogen]].<ref name="Sterilization"/>
+
+Other sterilization methods exist, though their efficiency is still controversial. These methods include [[gas]] sterilization, UV sterilization, and sterilization with other chemical agents such as [[peroxyacetic acid]], [[paraformaldehyde]] and [[gas plasma]] sterilization.
+
+Infections can be prevented from occurring in homes as well. In order to reduce their chances to contract an infection, individuals are recommended to maintain a good hygiene by washing their hands after every contact with questionable areas or bodily fluids and by disposing the [[waste|garbage]] at regular intervals to prevent [[Microorganism|germs]] from growing.<ref>{{cite web|url=http://www.preventinginfection.com/|title=Preventing Infections Adequately|date=|accessdate= 2010-07-27}}</ref>
+
+===Personal protective equipment===
+[[Image:Disp-med-ppe.jpg|thumb|120px|Disposable PPE]]
+[[Personal protective equipment|Personal protective equipment (PPE)]] is specialized clothing or equipment worn by a worker for protection against a hazard. The hazard in a health care setting is exposure to blood, saliva, or other bodily fluids or aerosols that may carry infectious materials such as [[Hepatitis C]], [[HIV]], or other blood borne or bodily fluid [[pathogen]]. PPE prevents contact with a potentially infectious material by creating a physical barrier between the potential infectious material and the healthcare worker.
+
+In the United States, the [[Occupational Safety and Health Administration|Occupational Safety and Health Administration (OSHA)]] requires the use of [[Personal protective equipment|Personal protective equipment (PPE)]] by workers to guard against blood borne pathogens if there is a reasonably anticipated exposure to blood or other potentially infectious materials.<ref>[http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=10051#1910.1030(d)(2)(i) OSHA Bloodborne Pathogens Regulations 1910.1030(d)(2)(i)]</ref>
+
+Components of [[Personal protective equipment|Personal protective equipment (PPE)]] include [[Medical gloves|gloves]], [[Hospital gown|gowns]], bonnets, shoe covers, [[face shield]]s, [[CPR mask]]s, [[goggles]], [[surgical mask]]s, and respirators. How many components are used and how the components are used is often determined by regulations or the infection control protocol of the facility in question. Many or most of these items are [[disposable]] to avoid carrying infectious materials from one patient to another patient and to avoid difficult or costly [[disinfection]]. In the United States, [[Occupational Safety and Health Administration|OSHA]] requires the immediate removal and disinfection or disposal of worker's PPE prior to leaving the work area where exposure to infectious material took place.<ref>[http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=10051#1910.1030(d)(3)(vii) OSHA 1910.1030(d)(3)(vii)]</ref>
+
+===Antimicrobial surfaces===
+[[Microorganisms]] are known to survive on non-antimicrobial in animate ‘touch’ surfaces (e.g., bedrails, over-the-bed trays, call buttons, bathroom hardware, etc.) for extended periods of time.<ref>Wilks, S.A., Michels, H., Keevil, C.W., 2005, The Survival of Escherichia Coli O157 on a Range of Metal Surfaces, International Journal of Food Microbiology, Vol. 105, pp. 445–454. and  Michels, H.T. (2006), Anti-Microbial Characteristics of Copper, ASTM Standardization News, October, pp. 28-31</ref> This can be especially troublesome in hospital environments where patients with [[immunodeficiencies]] are at enhanced risk for contracting nosocomial infections.
+
+{{main|Antimicrobial copper-alloy touch surfaces}}
+
+Products made with [[Antimicrobial copper-alloy touch surfaces|antimicrobial copper alloy]] ([[brass]]es, [[bronze]]s, [[cupronickel]], copper-nickel-zinc, and others) surfaces destroy a wide range of microorganisms in a short period of time.<ref name="Copper Touch Surfaces">[http://coppertouchsurfaces.org/antimicrobial/bacteria/index.html Copper Touch Surfaces]</ref>
+The [[United States Environmental Protection Agency]] has approved the registration of 355 different [[Antimicrobial copper-alloy touch surfaces|antimicrobial copper alloys]] that kill ''[[Escherichia coli|E. coli]]'' O157:H7, [[methicillin]]-resistant ''[[Staphylococcus aureus]]'' ([[Methicillin-resistant Staphylococcus aureus|MRSA]]), ''[[Staphylococcus]]'', ''Enterobacter aerogenes,'' and ''Pseudomonas aeruginosa'' in less than 2 hours of contact. Other investigations have demonstrated the efficacy of antimicrobial copper alloys to destroy 
+''[[Clostridium difficile]]'', [[influenza A virus]], [[Adenoviridae|adenovirus]], and [[Fungus|fungi]].<ref name="Copper Touch Surfaces"/> As a public hygienic measure in addition to regular cleaning, [[Antimicrobial copper-alloy touch surfaces|antimicrobial copper alloys]] are being installed in healthcare facilities in the U.K., Ireland, Japan, Korea, France, Denmark, and Brazil.
+
+==Vaccination of health care workers==
+Health care workers may be exposed to certain infections in the course of their work.  [[Vaccine]]s are available to provide some protection to workers in a healthcare setting. Depending on regulation, recommendation, the specific work function, or personal preference, healthcare workers or first responders may receive vaccinations for [[Hepatitis B#Prevention|hepatitis B]]; [[Influenza vaccine|influenza]]; [[MMR vaccine|measles, mumps and rubella]]; [[TDaP|Tetanus, diphtheria, pertussis]]; [[Neisseria meningitidis#Vaccines|N. meningitidis]]; and [[Varicella vaccine|varicella]]. In general, [[vaccine]]s do not guarantee complete protection from disease, and there is [[Vaccine#Potential for adverse side effects in general|potential]] for adverse effects from receiving the vaccine.<ref>[http://www.cdc.gov/node.do/id/0900f3ec8005df1f CDC Vaccine Site]</ref>
+
+==Post exposure prophylaxis==
+In some cases where vaccines do not exist Post Exposure prophylaxis is another method of protecting the health care worker exposed to a life threatening infectious disease. For example, the viral particles for HIV-AIDS can be precipitated out of the blood through the use of an antibody injection if given within 4 hours of a significant exposure.
+
+==Surveillance for emerging infections==
+
+{{main|Disease surveillance}}
+
+Surveillance is the act of infection investigation using the CDC definitions.  Determining an infection requires an Infection Control Practitioner (ICP) to review a patient's chart and see if the patient had the signs and symptom of an infection.  Surveillance definition cover infections of the bloodstream, urinary tract, pneumonia, and surgical sites.
+
+Surveillance traditionally involved significant manual data assessment and entry in order to assess preventative actions such as isolation of patients with an infectious disease. Increasingly, integrated computerised software solutions, such as [http://formic.com/solutions/healthcare/for-infection-control/ Formic Fusion] are becoming available that assess incoming risk messages from microbiology and other online sources. By reducing the need for data entry, this software significantly reduces the data workload of ICPs, freeing them to concentrate on clinical surveillance.
+
+As approximately [http://www.cdc.gov/ncidod/eid/vol4no3/weinstein.htm one third of healthcare acquired infections are preventable], surveillance and preventative activities are increasingly a priority for hospital staff. In the United States, a study on the Efficacy of Nosocomial Infection Control Project (SENIC) by the CDC found that hospitals reduced their nosocomial infection rates by approximately 32 per cent by focusing on surveillance activities and prevention efforts.
+
+==Isolation==
+
+{{main|Isolation (health care)}}
+
+In the health care context, isolation refers to various physical measures taken to interrupt nosocomial spread of contagious diseases. Various forms of isolation exist, and are applied depending on the type of infection and agent involved, to address the likelihood of spread via airborne particles or droplets, by direct skin contact, or via contact with body fluid
+
+==Outbreak investigation==
+When an unusual cluster of illness is noted, infection control teams undertake an investigation to determine whether there is a true outbreak, a pseudo-outbreak (a result of contamination within the diagnostic testing process), or just random fluctuation in the frequency of illness.  If a true outbreak is discovered, infection control practitioners try to determine what permitted the outbreak to occur, and to rearrange the conditions to prevent ongoing propagation of the infection.  Often, breaches in good practice are responsible, although sometimes other factors (such as construction) may be the source of the problem.
+
+Outbreaks investigations have more than a single purpose. These investigations are carried out in order to prevent additional cases in the current outbreak, prevent future outbreaks, learn about a new disease or learn something new about an old disease. Reassuring the public, minimizing the economic and social disruption as well as teaching [[epidemiology]] are some other obvious objectives of outbreak investigations.<ref>{{cite web|url=http://www.idready.org/slides/03outbreak-slides.pdf|title=Conducting an Outbreak Investigation|date=|accessdate= 2010-07-27}}</ref>
+
+According to the [[WHO]], outbreak investigations are meant to detect what is causing the outbreak, how the pathogenic agent is transmitted, where it all started from, what is the carrier, what is the population at risk of getting infected and what are the risk factors.
+
+The results of outbreak investigations are always made public in the means of a report in which the findings are communicated to the authorities, media, scientific community and so on. These reports are commonly used as pedagogical tools.
+
+==Training in infection control and health care epidemiology==
+Practitioners can come from several different educational streams. Many begin as nurses, some as medical technologists (particularly in clinical microbiology), and some as physicians (typically infectious disease specialists). Specialized training in infection control and health care epidemiology are offered by the professional organizations described below. Physicians who desire to become infection control practitioners often are trained in the context of an infectious disease fellowship.
+
+In the United States, [http://www.cbic.org Certification Board of Infection Control and Epidemiology] is a private company that certifies infection control practitioners based on their educational background and professional experience, in conjunction with testing their knowledge base with standardized exams. The credential awarded is CIC, Certification in Infection Control and Epidemiology.  It is recommended that one has 2 years of Infection Control experience before applying for the exam.  Certification must be renewed every five years.
+
+A [http://www.shea-online.org/about/shea_courses.cfm course] in hospital epidemiology (infection control in the hospital setting) is offered jointly each year by the Centers for Disease Control and Prevention (CDC) and the Society for Healthcare Epidemiology of America.
+
+The [[Association for Professionals in Infection Control and Epidemiology]], Inc. (APIC) offers training and courses in infection control.<ref>http://www.apic.org/AM/Template.cfm?Section=Education</ref>
+
+== Standardization ==
+=== Australia ===
+In 2002, the [[Royal Australian College of General Practitioners]] published a revised standard for office-based infection control which covers the sections of managing immunisation, sterilisation and disease surveillance.<ref name=racgp>{{cite web
+  | last = The Royal Australian College of General Practitioners
+  | first =
+  | authorlink =
+  | coauthors =
+  | title =  RACGP Infection Control Standards for Office-based Practices (4th Edition)
+  | work =
+  | publisher =
+  | date =
+  | url = http://www.racgp.org.au/infectioncontrol
+  | format =
+  | doi =
+  | accessdate = 8 November 2008
+  }}</ref><ref name=sracgp>{{cite web
+  | last = The Royal Australian College of General Practitioners
+  | first =
+  | authorlink =
+  | coauthors =
+  | title =  Slides - RACGP Infection Control Standards for Office-based Practices (4th Edition)
+  | work =
+  | publisher =
+  | date =
+  | url = http://www.racgp.org.au/Content/NavigationMenu/PracticeSupport/StandardsforGeneralPractices/200708RACGP_Infection_Control_Standards.pdf
+  |format=PDF| doi =
+  | accessdate = 8 November 2008
+  }}</ref>  However, the document on the personal hygiene of health workers is only limited to hand hygiene, waste and linen management, which may not be sufficient since some of the pathogens are air-born and could be spread through air flow.<ref name=aphf>{{cite web
+  | last = Dix
+  | first = Kathy
+  | authorlink =
+  | coauthors =
+  | title = Airborne Pathogens in Healthcare Facilities
+  | work =
+  | publisher =
+  | date =
+  | url = http://www.infectioncontroltoday.com/articles/581clinical.html
+  | doi =
+  | accessdate = 11 December 2008
+  }}</ref><ref name=turs>{{cite journal
+  | last = Nicas
+  | first = Mark ''et al.''
+  | authorlink =
+  | coauthors =
+  | title = Toward Understanding the Risk of Secondary Airborne Infection: Emission of Respirable Pathogens
+  | journal = Journal of Occupational and Environmental Hygiene
+  | volume = 2
+  | issue = 3
+  | pages = 143–154
+  | publisher =
+  | location =
+  | year = 2005
+  | url =
+  | doi = 10.1080/15459620590918466
+  | id =
+  | accessdate = 11 December 2008
+  | pmid = 15764538
+  | last2 = Nazaroff
+  | first2 = WW
+  | last3 = Hubbard
+  | first3 = A }}</ref>
+
+=== United States ===
+Currently, the federal regulation that describes infection control standards is found at 29 CFR Part 1910.1030 Bloodborne pathogens.<ref>http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=10051</ref>
+
+== See also ==
+* [[Infectious disease]]
+* [[Nosocomial infection]]
+* [[Royal Australian College of General Practitioners]]
+
+== Footnotes ==
+{{Reflist|2}}
+# 22 Devnani M, Kumar R, Sharma RK, Gupta AK. A survey of hand-washing facilities in the outpatient department of a tertiary care teaching hospital in India. J Infect Dev Ctries 2011;5(2):114-118.
+
+==External links==
+* [http://www.apic.org Association for Professionals in Infection Control and Epidemiology] is primarily composed of infection  prevention and control professionals with nursing or medical technology backgrounds
+* [http://shea-online.org The Society for Healthcare Epidemiology of America] is more heavily weighted towards practitioners who are physicians or doctoral-level epidemiologists.
+* [http://www.picnetbc.ca The Provincial Infection Control Network of British Columbia]
+* [http://www.ricn.org Regional Infection Control Networks]
+* [http://www.cbic.org The Certification Board of Infection Control and Epidemiology, Inc.]
+* [http://www.apic.org Association for Professionals in Infection Control and Epidemiology]
+
+{{Public health}}
+{{Occupational safety and health}}
+
+
+{{Use dmy dates|date=January 2011}}
+
+{{DEFAULTSORT:Infection Control}}
+[[Category:Epidemiology]]
+[[Category:Medical hygiene]]
+[[Category:Public health]]
+[[Category:Infectious diseases]]

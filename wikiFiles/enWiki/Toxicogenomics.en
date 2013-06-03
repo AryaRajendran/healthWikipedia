@@ -1,0 +1,41 @@
+'''Toxicogenomics''' is a field of [[science]] that deals with the collection, interpretation, and storage of information about [[gene]] and [[protein]] activity within particular [[Cell (biology)|cell]] or [[Tissue (biology)|tissue]] of an [[organism]] in response to [[toxin|toxic substances]]. Toxicogenomics combines [[toxicology]] with [[genomics]] or other high throughput molecular profiling technologies such as [[transcriptomics]], [[proteomics]] and [[metabolomics]].<ref>The National Academies Press: Communicating Toxicogenomics Information to Nonexperts: A Workshop Summary (2005) [http://books.nap.edu/openbook.php?record_id=11179&page=3]</ref><ref>{{cite book |title=Toxicogenomics: Principles and Applications |editor=Hamadeh HK, Afshari CA |year=2004 |publisher=Wiley-Liss |location=Hoboken, NJ |isbn=0-471-43417-5 |author=ed. by Hisham K. Hamadeh; Cynthia A. Afshari. }}<br/>{{cite journal |author=Omenn GS |title=Toxicogenomics: Principles and Applications |journal=Environ Health Perspect. |volume=112 |issue=16 |pages=A962 |month=November |year=2004 |pmc=1247673 }}</ref> Toxicogenomics endeavors to elucidate molecular mechanisms evolved in the expression of toxicity, and to derive molecular expression patterns (i.e., molecular biomarkers) that predict toxicity or the genetic susceptibility to it.
+
+In pharmaceutical research toxicogenomics is defined as the study of the structure and function of the genome as it responds to adverse xenobiotic exposure.  It is the toxicological subdiscipline of pharmacogenomics, which is broadly defined as the study of inter-individual variations in whole-genome or candidate gene single-nucleotide polymorphism maps, haplotype markers, and alterations in gene expression that might correlate with drug responses (Lesko and Woodcock 2004, Lesko et al. 2003). Though the term toxicogenomics first appeared in the literature in 1999 (Nuwaysir et al.) it was already in common use within the pharmaceutical industry as its origin was driven by marketing strategies from vendor companies. The term is still not universal accepted, and others have offered alternative terms such as chemogenomics to describe essentially the same area (Fielden et al., 2005). 
+
+The nature and complexity of the data (in volume and variability) demands highly developed processes of automated handling and storage. The analysis usually involves a wide array of [[bioinformatics]] and [[statistics]],<ref>{{cite journal |author=Mattes WB, Pettit SD, Sansone SA, Bushel PR, Waters MD |title=Database development in toxicogenomics: issues and efforts |journal=Environ. Health Perspect. |volume=112 |issue=4 |pages=495–505 |year=2004 |month=March |pmid=15033600 |pmc=1241904 |url=http://ehp.niehs.nih.gov/txg/members/2004/6697/6697.html |doi=10.1289/ehp.6697}}</ref> regularly involving [[Statistical classification|classification]] approaches.<ref>{{cite journal |author=Ellinger-Ziegelbauer H, Gmuender H, Bandenburg A, Ahr HJ |title=Prediction of a carcinogenic potential of rat hepatocarcinogens using toxicogenomics analysis of short-term in vivo studies |journal=Mutat. Res. |volume=637 |issue=1–2 |pages=23–39 |year=2008 |month=January |pmid=17689568 |doi=10.1016/j.mrfmmm.2007.06.010 }}</ref>
+
+In pharmaceutical [[drug discovery]] and [[Drug development|development]] toxicogenomics is used to study [[adverse effect (medicine)|adverse]], i.e. [[toxic]], effects, of pharmaceutical [[drug]]s in defined [[Model organism|model systems]] in order to draw conclusions on the toxic risk to patients or the environment.
+Both the [[United States Environmental Protection Agency|EPA]] and the [[U.S. Food and Drug Administration]] currently preclude basing regulatory decision making on genomics data alone. However, they do encourage the voluntary submission of well-documented, quality genomics data. Both agencies are considering the use of submitted data on a case-by-case basis for assessment purposes (e.g., to help elucidate mechanism of action or contribute to a weight-of-evidence approach) or for populating relevant comparative databases by encouraging parallel submissions of genomics data and traditional toxicologic test results.<ref>{{cite journal |author=Corvi R, Ahr HJ, Albertini S, ''et al.'' |title=Meeting Report: Validation of Toxicogenomics-Based Test Systems: ECVAM–ICCVAM/NICEATM Considerations for Regulatory Use |journal=Environ Health Perspect. |volume=114 |issue=3 |pages=420–9 |year=2006 |month=March |pmid=16507466 |pmc=1392237 |doi= 10.1289/ehp.8247|url=http://www.ehponline.org/members/2005/8247/8247.html}}</ref>
+
+==Public Toxicogenomics Projects==
+* [http://cebs.niehs.nih.gov Chemical Effects in Biological Systems (CEBS)] - Project  hosted by the [[National Institute of Environmental Health Sciences]] (NIEHS) building a knowledgebase of toxicology studies including study design, clinical pathology, and histopathology and toxicogenomics data.<ref>{{cite journal |author=Collins BC, Clarke A, Kitteringham NR, Gallagher WM, Pennington SR |title=Use of proteomics for the discovery of early markers of drug toxicity |journal=Expert Opin Drug Metab Toxicol |volume=3 |issue=5 |pages=689–704 |year=2007 |month=October |pmid=17916055 |doi=10.1517/17425225.3.5.689 }}</ref>
+* [[InnoMed PredTox]] assessing the value of combining results from omics technologies together with the results from more conventional toxicology methods in more informed decision making in preclinical safety evaluation.<ref name=Mattes>{{cite doi|10.1007/978-1-60327-048-9_11}}</ref>
+* [http://www.fda.gov/oc/initiatives/criticalpath/projectsummary/consortium.html Predictive Safety Testing Consortium] aiming to identify and clinically qualify safety biomarkers for regulatory use as part of the [[U.S. Food and Drug Administration|FDA's]] [http://www.fda.gov/oc/initiatives/criticalpath/ Critical Path Initiative]<ref name=Mattes/>
+* [http://www.epa.gov/ncct/toxcast/ ToxCast] program for Predicting Hazard, Characterizing Toxicity Pathways, and Prioritizing the Toxicity Testing of Environmental Chemicals at the [[United States Environmental Protection Agency]]<ref>{{cite journal |author=Dix DJ, Houck KA, Martin MT, Richard AM, Setzer RW, Kavlock RJ |title=The ToxCast program for prioritizing toxicity testing of environmental chemicals |journal=Toxicol. Sci. |volume=95 |issue=1 |pages=5–12 |year=2007 |month=January |pmid=16963515 |doi=10.1093/toxsci/kfl103 }}</ref>
+
+==See also==
+*[[Comparative Toxicogenomics Database]]
+*[[Genomics]]
+** [[Chemogenomics]]
+** [[Structural genomics]]
+** [[Pharmacogenetics]]
+** [[Pharmacogenomics]]
+* [[InnoMed PredTox]]
+* [[Toxicology]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://ctdbase.org/ Comparative Toxicogenomics Database] - a public database that integrates toxicogenomic data for chemicals, genes, and diseases from the scientific literature.
+* [http://www.ohsu.edu/croet/research/centers/toxicogenomics/whatis.html Center for Research on Occupational and Environmental Toxicology] definition by the CROET Research Centers: (Neuro)toxicogenomics and Child Health Research Center.
+* [http://www.innomed-predtox.com/ InnoMed PredTox] - official project website
+* [http://www.toxicogenomics.nl/ Netherlands Toxicogenomics Centre] - official project website
+* [http://www.epa.gov/ncct/toxcast/ ToxCast] - official project website
+* [http://www.genelogic.com/knowledge-suites/toxexpress-program/ ToxExpress® Program] - Gene Logic's ToxExpress® Program
+
+{{genomics-footer}}
+{{Toxicology}}
+
+[[Category:Genomics]]
+[[Category:Toxicology]]

@@ -1,0 +1,241 @@
+'''Artificial T cell receptors''' (also known as '''chimeric T cell receptors, chimeric immunoreceptors, chimeric antigen receptors (CARs)''') are engineered receptors, which graft an arbitrary specificity onto an [[T cell|immune effector cell]]. Typically, these receptors are used to graft the specificity of a [[monoclonal antibody]] onto a [[T cell]]; with transfer of their coding sequence facilitated by [[viral vector|retroviral vectors]]. In this way, a large number of [[cancer]]-specific T cells can be generated for [[adoptive cell transfer]].<ref>{{cite journal | title= Artificial T-cell receptors| journal=Cytotherapy| year=2003| volume=5| issue=3| pages=211–26| last=Pule| first=M| coauthors=Finney H, Lawson A | doi= 10.1080/14653240310001488 | pmid= 12850789}}</ref> Phase I clinical studies of this approach show efficacy.
+
+== Structure ==
+
+The most common form of these molecules are fusions of [[single-chain variable fragment]]s (scFv) derived from monoclonal antibodies, fused to [[CD3 (immunology)|CD3-zeta]] transmembrane and endodomain. Such molecules result in the transmission of a zeta signal in response to recognition by the scFv of its target. An example of such a construct is 14g2a-Zeta, which is a fusion of a scFv derived from [[hybridoma]] 14g2a (which recognizes [[disialoganglioside]] [[GD2]]). When T cells express this molecule (usually achieved by oncoretroviral vector transduction), they recognize and kill target cells that express [[GD2]] (e.g. [[neuroblastoma]] cells).  To target malignant B cells, investigators have redirected the specificity of T cells using a chimeric immunoreceptor specific for the B-lineage molecule, CD19.
+
+[[File:CAR cartoon.png|180px|right|thumb|Different components of an artificial [[T-cell receptor|TCR]]]]
+The variable portions of an [[immunoglobulin]] heavy and light chain are fused by a flexible linker to form a scFv. This scFv is preceded by a [[signal peptide]] to direct the nascent protein to the [[endoplasmic reticulum]] and subsequent surface expression (this is cleaved). A flexible spacer allows to the scFv to orient in different directions to enable antigen binding. The transmembrane domain is a typical hydrophobic [[alpha helix]] usually derived from the original molecule of the signalling endodomain which protrudes into the cell and transmits the desired signal.
+
+The fact that these molecules actually work is at first glance surprising. At second glance one remembers that type I proteins are in fact two protein domains linked by a transmembrane alpha helix in between. The [[cell membrane]] lipid bilayer, through which the [[transmembrane domain]] passes, acts to isolate the inside portion (endodomain) from the external portion ([[ectodomain]]). It is not so surprising hence that attaching an ectodomain from one protein to an endodomain of another protein results in a molecule that combines the recognition of the former to the signal of the latter.
+
+=== Ectodomain ===
+
+==== Signal peptide ====
+
+A [[signal peptide]] directs the nascent protein into the endoplasmic reticulum. This is essential if the receptor is to be glycosylated and anchored in the cell membrane. Any eukaryotic signal peptide sequence usually works fine. Generally, the signal peptide natively attached to the amino-terminal most component is used (e.g. in a scFv with orientation [[light chain]] - linker - [[heavy chain]], the native signal of the light-chain is used
+
+==== Antigen recognition region ====
+
+The [[antigen recognition]] domain is usually an scFv. There are however many alternatives. An antigen recognition domain from native [[T-cell receptor]] (TCR) alpha and beta single chains have been described, as have simple ectodomains (e.g. [[CD4]] ectodomain to recognize [[HIV]] infected cells) and more exotic recognition components such as a linked [[cytokine]] (which leads to recognition of cells bearing the [[cytokine]] receptor). In fact almost anything that binds a given target with high affinity can be used as an antigen recognition region.
+
+==== Spacer ====
+
+A [[molecular spacer|spacer region]] links the antigen binding domain to the transmembrane domain. It should be flexible enough to allow the antigen binding domain to orient in different directions to facilitate antigen recognition. The simplest form is the hinge region from IgG1. Alternatives include the CH<sub>2</sub>CH<sub>3</sub> region of immunoglobulin and portions of CD3. For most scFv based constructs, the IgG1 hinge suffices. However the best spacer often has to be determined empirically.
+
+=== Transmembrane domain ===
+
+The [[transmembrane domain]] is a hydrophobic [[alpha helix]] that spans the membrane. Generally, the transmembrane domain from the most membrane proximal component of the endodomain is used. Interestingly, using the [[CD3 (immunology)|CD3-zeta]] transmembrane domain may result in incorporation of the artificial [[T-cell receptor|TCR]] into the native TCR a factor that is dependent on the presence of the native CD3-zeta transmembrane charged [[aspartic acid]] residue<ref>{{cite journal | doi= 10.4049/jimmunol.0901766 | title= The Optimal Antigen Response of Chimeric Antigen Receptors Harbouring the CD3zeta Transmembrane Domain Is Dependent Upon Incorporation of the Receptor Into the Endogenous TCR/CD3 Complex| journal=Journal of Immunology| year=2010| volume=184| issue=12| pages=6938–49| last=Bridgeman| first=JS| coauthors=Hawkins RE, Bagley S, Blaylock M, Holland M, Gilham DE | pmid=  20483753}}</ref>
+. Different transmembrane domains result in different receptor stability. The [[CD28]] transmembrane domain results in a brightly expressed, stable receptor.
+
+=== Endodomain ===
+
+This is the "business-end" of the receptor. After antigen recognition, receptors cluster and a signal is transmitted to the cell. The most commonly used endodomain component is [[CD3]]-zeta which contains 3 ITAMs. This transmits an activation signal to the T cell after antigen is bound.  [[CD3]]-zeta may not provide a fully competent activation signal and additional co-stimulatory signaling is needed.  For example, chimeric [[CD28]] and [[OX40]] can be used with [[CD3]]-Zeta to transmit a proliferative / survival signal, or all three can be used together.
+
+== Evolution of CAR T-cell design ==
+[[File:Depiction of 3 generations of CARs.jpg|thumb|Depiction of first, second, and third generation chimeric antigen receptors with the scFv segments in green and the various TCR signalling components in red, blue and yellow.<ref>{{cite journal|last=Casucci|first=Monica|coauthors=Attilio Bondanza|title=Suicide Gene Therapy to Increase the Safety of Chimeric Antigen Receptor-Redirected T Lymphocytes|journal=Journal of Cancer|year=2011|pages=378–382|pmid=21750689|url=http://www.jcancer.org/v02p0378.htm|accessdate=30 April 2012|volume=2|pmc=3133962}}</ref>]]
+
+“First-generation” CARs typically had the intracellular domain from the CD3 ξ- chain, which is the primary transmitter of signals from endogenous TCRs. “Second-generation” CARs add intracellular signaling domains from various costimulatory protein receptors (e.g., CD28, 41BB, ICOS) to the cytoplasmic tail of the CAR to provide additional signals to the T cell. Preclinical studies have indicated that the second generation of CAR designs improves the antitumor activity of T cells. More recent,“third-generation” CARs combine multiple signaling domains, such as CD3z-CD28-41BB or CD3z-CD28-OX40, to further augment potency.
+
+== History ==
+*http://www.nejm.org/doi/full/10.1056/NEJMe1106965
+
+== Clinical studies ==
+
+This method is based on the reprogramming by the [[Vector (molecular biology)|vector]] (for example viral), and chimeric antigen receptor, that redirects them against malignant cell and enables their destruction. There has been interest of sciences in the use of CAR-modified T cell as [[cancer immunotherapy]]. In the pre-clinical and clinical [[trial]], there has been a focus upon optimizing in field of structural and signaling.
+
+The first generation of CAR-modified T cell showed success in pre-clinical trial and entered phase I clinical trials. Clinical trials included of ovarian cancer, neuroblastoma and various type of leukemia and lymphoma. The clinical trials showed little evidence of anti-tumor with insufficient activation, persistence and homing to cancer tissue. Some anti-tumor responses being reported in patient with B-lymphoma (treated with alfaCD20-CD3zeta CARs-modified T cell) and neuroblastoma (treated with ScFv-CD3zeta CARs-modified T cell) were reported partial response, stable diseases and remission.
+
+The second and the third generation CAR-modification T cells are capable of delivering enhancement of activation signal, proliferation, production of cytokines and effector function of CAR-modified T cell in pre-clinical trials. Both the second and the third generation CAR-modified T cell entering to the clinical trial now. The first clinical trial have shown some promising result. In study with alfaCD19.4-1BB.CD3zeta T cell in patient with chronic lymphocyte leukemia has been complete remission has been ongoing 10 month after treatment. The CAR-modified T cell were found to expand 3-logs in this patient(s), that infiltrated and lysed cancer tissue. Interestingly, a fraction of these [[Cell (biology)|cell]] displayed a memory phenotype of T cell for preventiv tumor relapses. Although, these CAR-modified T cell produced significant therapeutic effect, their activity lead to life-threatening tumorlysis 3 weeks after the first infusion CAR-modified T cell.
+
+Recently adverse events were reported which highlight the need for caution while using second and third generation of CAR-modified T cells. One patient died 5 days after cyclophosphamide chemotherapy, followed by infusion of CAR-modified T cells. The toxicity lead to a clinically signifiant release of pro-inflammatory cytokines, pulmonary toxicity, multi-organ failure and eventual death of the patient. The next problem is off target cytotoxicity, that leads to autoimmune reactions, because most of tumor-associated antigens are expressed on normal tissue cells.
+
+The great promise of cancer immunotherapy is the cure of tumor without the toxicity of conventional treatments. The pre-clinical and clinical trial of CAR-modified T cells have given hope in cancer therapy. The treatment of cancer with modified T cells has several advantages: [[Human leukocyte antigen|HLA]]-independent recognition of antigen, broad applicability for many patients and the rapid delivery of CAR-modified T cells. The successful application of cell will require the identification of target antigen, that are expressed only on tumor cells, thereby minimizing the risk of toxicity,<ref>{{cite journal | title= The promise and potential| journal=J Gene Med| year=2012| volume=14| issue=6| pages=405–415| last=Curran| first=Kevin J.| coauthors=Pengram Hollie J, Brentjens Renier J | doi= 10.1002/jgm.2604|pmid=22262649|url=http://onlinelibrary.wiley.com/doi/10.1002/jgm.2604/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+on+15+September+from+10%3A00-12%3A00+BST+%2805%3A00-07%3A00+EDT%29+for+essential+maintenance|accessdate=5 January 2012|pmc=}}</ref><ref>{{cite journal | title= Target immunotherapy of cancer with CAR T cell: achievements and challenges| journal=Cancer Immunol Immunother| year=2012| volume=61| issue=7| pages=953–962| last=Lipovska-Bhalla| first=Grazyna| coauthors=Gilham David E., Hawkins Robert E., Rothwell Dominic G. | doi= 10.1007/s00262-012-1254-0 | pmid=22527245|url=http://www.springerlink.com/content/k5ut41118800r615/?MUD=MP|accessdate=25 March 2012|pmc=}}</ref>
+
+Actual list of tumors antigens and CARs in [[in vitro]] and [[in vivo]] trials,:<ref>{{cite journal | title= Target immunotherapy of cancer with CAR T cell: achievements and challenges| journal=Cancer Immunol Immunother| year=2012| volume=61| issue=7| pages=953–962| last=Lipowska-Bhalla| first=Grazina| coauthors=Gilham David E., Hawkins Robert E., Rothwell Dominic G. | doi= 10.1007/s00262-012-1254-0 | pmid=22527245|url=http://www.springerlink.com/content/k5ut41118800r615/?MUD=MP|accessdate=25 March 2012|pmc=}}</ref><ref>{{cite journal | title= The promise and potential pitfalls of chimeric antigen receptor| journal=Curr Opin Immunol| year=2009| volume=21| issue=2| pages=215–223| last=Sadelain| first=M.| coauthors=Gilham David E., Hawkins Robert E., Rothwell Dominic G. | doi= 10.1016/j.coi.2009.02.009 | pmid=19327974 }}</ref>
+
+{| class="wikitable"
+|-
+! Target antigen !! Associated malignanci !! Receptor type !! CARs generation
+|-
+| α-Folate receptor || Ovarian cancer || ScFv-FcεRIγCAIX || First
+|-
+| CAIX || Renal cell carcinoma || ScFv-FcεRIγ || First
+|-
+| CAIX || Renal cell carcinoma || ScFv-FcεRIγ || Second
+|-
+| CD19 || B-cell malignancies || ScFv-CD3ζ (EBV) || First
+|-
+| CD19 || B-cell malignancies, CLL || ScFv-CD3ζ || First
+|-
+| CD19 || B-ALL || ScFv-CD28-CD3ζ || Second
+|-
+| CD19 || ALL || CD3ζ(EBV) || First
+|-
+| CD19 || ALL post-HSCT || ScFv-CD28-CD3ζ || Second
+|-
+| CD19 || Leukemia, lymphoma, CLL || ScFv-CD28-CD3ζ vs. CD3ζ || First and Second
+|-
+| CD19 || B-cell malignancies || ScFv-CD28-CD3ζ || Second
+|-
+| CD19 || B-cell maligniancies post-HSCT || ScFv-CD28-CD3ζ || Second
+|-
+| CD19 || Refractory Follicular Lymphoma || ScFv-CD3ζ || First
+|-
+| CD19 || B-NHL || ScFv -CD3ζ || First
+|-
+| CD19 || B-lineage lymphoid malignancies post-UCBT || ScFv-CD28-CD3ζ || Second
+|-
+| CD19 || CLL, B-NHL || ScFv-CD28-CD3ζ || Second
+|-
+| CD19 || B-cell malignancies, CLL, B-NHL || ScFv-CD28-CD3ζ || Second
+|-
+| CD19 || ALL, lymphoma || ScFv-41BB-CD3ζ vs CD3ζ || First and Second
+|-
+| CD19 || ALL || ScFv-41BB-CD3ζ || Second
+|-
+| CD19 || B-cell malignancies || ScFv-CD3ζ (Influenza MP-1) || First
+|-
+| CD19 || B-cell malignancies || ScFv-CD3ζ (VZV) || First
+|-
+| CD20 || Lymphomas || ScFv-CD28-CD3ζ || Second
+|-
+| CD20 || B-cell malignancies|| ScFv-CD4-CD3ζ || Second
+|-
+| CD20 || B-cell lymphomas || ScFv-CD3ζ || First
+|-
+| CD20 || Mantle cell lymphoma || ScFv-CD3ζ || First
+|-
+| CD20 || Mantle cell lymphoma, indolent B-NHL || CD3 ζ /CD137/CD28  || Third
+|-
+| CD20 || indolent B cell lymphomas || ScFv-CD28-CD3ζ || Second
+|-
+| CD20 || Indolent B cell lymphomas || ScFv-CD28-41BB-CD3ζ || Third
+|-
+| CD22 || B-cell malignancies || ScFV-CD4-CD3ζ || Second
+|-
+| CD30 || Lymphomas || ScFv-FcεRIγ || First
+|-
+| CD30 || Hodgkin lymphoma || ScFv-CD3ζ (EBV) || First
+|-
+| CD33 || AML || ScFv-CD28-CD3ζ || Second
+|-
+| CD33 || AML || ScFv-41BB-CD3ζ || Second
+|-
+| CD44v7/8 || Cervical carcinoma || ScFv-CD8-CD3ζ || Second
+|-
+| CEA || Breast cancer || ScFv-CD28-CD3ζ || Second
+|-
+| CEA || Colorectal cancer || ScFv-CD3ζ || First
+|-
+| CEA || Colorectal cancer || ScFv-FceRIγ || First
+|-
+| CEA || Colorectal cancer || ScFv-CD3ζ || First
+|-
+| CEA || Colorectal cancer || ScFv-CD28-CD3ζ || Second
+|-
+| CEA || Colorectal cancer || ScFv-CD28-CD3ζ || Second
+|-
+| EGP-2 || Multiple malignancies || scFv-CD3ζ || First
+|-
+| EGP-2 || Multiple malignancies || scFv-FcεRIγ || First
+|-
+| EGP-40 || Colorectal cancer || scFv-FcεRIγ || First
+|-
+| erb-B2 || Colorectal cancer || CD28/4-1BB-CD3ζ || Third
+|-
+| erb-B2 || Breast and others || ScFv-CD28-CD3ζ || Second
+|-
+| erb-B2 || Breast and others || ScFv-CD28-CD3ζ (Influenza) || Second
+|-
+| erb-B2 || Breast and others || ScFv-CD28mut-CD3ζ || Second
+|-
+| erb-B2 || Prostate cancer || ScFv-FcεRIγ || First
+|-
+| erb-B 2,3,4 || Breast and others || Heregulin-CD3ζ || Second
+|-
+| erb-B 2,3,4 || Breast and others || ScFv-CD3ζ || First
+|-
+| FBP || Ovarian cancer || ScFv-FcεRIγ || First
+|-
+| FBP || Ovarian cancer || ScFv-FcεRIγ (alloantigen) || First
+|-
+| Fetal acethylcholine receptor || Rhabdomyosarcoma || ScFv-CD3ζ || First
+|-
+| GD2 || Neuroblastoma || ScFv-CD28 || First
+|-
+| GD2 || Neuroblastoma || ScFv-CD3ζ || First
+|-
+| GD2 || Neuroblastoma || ScFv-CD3ζ || First
+|-
+| GD2 || Neuroblastoma || ScFv-CD28-OX40-CD3ζ || Third
+|-
+| GD2 || Neuroblastoma || ScFv-CD3ζ (VZV) || First
+|-
+| GD3 || Melanoma || ScFv-CD3ξ || First
+|-
+| GD3 || Melanoma || ScFv-CD3ξ || First
+|-
+| Her2/neu || Medulloblastoma || ScFv-CD3ξ || First
+|-
+| Her2/neu || Lung malignancy || ScFv-CD28-CD3ζ || Second
+|-
+| Her2/neu || Advanced osteosarcoma || ScFv-CD28-CD3ζ || Second
+|-
+| Her2/neu || Glioblastoma || ScFv-CD28-CD3ζ || Second
+|-
+| IL-13R-a2 || Glioma || IL-13-CD28-4-1BB-CD3ζ || Third
+|-
+| IL-13R-a2 || Glioblastoma || IL-13-CD3ζ || Second
+|-
+| IL-13R-a2 || Medulloblastoma || IL-13-CD3ζ || Second
+|-
+| KDR || Tumor neovasculature || ScFv-FcεRIγ || First
+|-
+| k-light chain || B-cell malignancies || ScFv-CD3ζ || First
+|-
+| k-light chain || (B-NHL, CLL) || ScFv-CD28-CD3ζ vs CD3ζ || Second
+|-
+| LeY || Carcinomas || ScFv-FcεRIγ || First
+|-
+| LeY || Epithelial derived tumors || ScFv-CD28-CD3ζ || Second
+|-
+| L1 cell adhesion molecule || Neuroblastoma || ScFv-CD3ζ || First
+|-
+| MAGE-A1 || Melanoma || ScFV-CD4-FcεRIγ || Second
+|-
+| MAGE-A1 || Melanoma || ScFV-CD28-FcεRIγ || Second
+|-
+| Murine CMV infected cells || Murine CMV || Ly49H-CD3ζ || Second
+|-
+| MUC1 || Breast, Ovary || ScFV-CD28-OX40-CD3ζ || Third
+|-
+| NKG2D ligands || Various tumors || NKG2D-CD3ζ || First
+|-
+| Oncofetal antigen (h5T4) || Various tumors || ScFV-CD3ζ (vaccination) || First
+|-
+| PSCA || Prostate carcinoma || ScFv-b2c-CD3ζ || Second
+|-
+| PSMA || Prostate/tumor vasculature || ScFv-CD3ζ || First
+|-
+| PSMA || Prostate/tumor vasculature || ScFv-CD28-CD3ζ || Second
+|-
+| PSMA || Prostate/tumor vasculature || ScFv-CD3ζ || First
+|-
+| TAA targeted by mAb IgE || Various tumors || FceRI-CD28-CD3ζ (+ a-TAA IgE mAb) || Third
+|-
+| TAG-72 || Adenocarcinomas || scFv-CD3ζ || First
+|-
+| VEGF-R2 || Tumor neovasculature || scFv-CD3ζ || First
+|}
+
+== Adoptive transfer of CAR-modified cells as a cancer therapeutic ==
+[[File:CAR-Engineered T-Cell Adoptive Transfer.jpg|thumb|Depiction of adoptive cell transfer therapy with CAR-engineered T cells]]
+
+[[Adoptive cell transfer|Adoptive transfer]] of T cells expressing chimeric antigen receptors is a promising anti-cancer therapeutic as CAR-modified T cells can be engineered to target virtually any [[tumor associated antigen]]. There is great potential for this approach to improve patient-specific cancer therapy in a profound way. Following the collection of a patient's T cells, the cells are genetically engineered to express CARs specifically directed towards antigens on the patient's tumor cells, then infused back into the patient.<ref>{{cite journal|last=Jacobson|first=Caron|coauthors=Jerome Ritz|title=Time to put the CAR-T before the horse|journal=Blood|date=3|year=2011|month=November|volume=118|issue=18|pages=4761–4762|pmid=22053170|url=http://bloodjournal.hematologylibrary.org/content/118/18/4761.full|accessdate=7 May 2012|doi=10.1182/blood-2011-09-376137}}</ref> Although adoptive transfer of CAR-modified T-cells is a unique and promising cancer therapeutic, there are significant safety concerns. Clinical trials of this therapy have revealed potential toxic effects of these CARs when healthy tissues express the same target antigens as the tumor cells, leading to outcomes similar to [[graft-versus-host disease]] (GVHD). A potential solution to this problem is engineering a [[suicide gene]] into the modified T cells. In this way, administration of a prodrug designed to activate the suicide gene during GVHD triggers apoptosis in the suicide gene-activated CAR T cells. This method has been used safely and effectively in [[hematopoietic stem cell transplantation]] (HSCT). Adoption of suicide gene therapy to the clinical application of CAR-modified T cell adoptive cell transfer has potential to alleviate GVHD while improving overall anti-tumor efficacy.<ref>{{cite journal|last=Casucci|first=Monica|coauthors=Attilio Bondanza|title=Suicide Gene Therapy to Increase the Safety of Chimeric Antigen Receptor-Redirected T Lymphocytes|journal=Journal of Cancer|year=2011|pages=378–382|pmid=21750689|url=http://www.jcancer.org/v02p0378.htm|accessdate=30 April 2012|volume=2|pmc=3133962}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Immune system]]
+[[Category:T cells]]

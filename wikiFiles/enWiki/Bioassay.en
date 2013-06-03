@@ -1,0 +1,81 @@
+{{cleanup|date=November 2009}}
+
+'''Bioassay''' (commonly used shorthand for '''biological assay'''), or '''biological standardization''' is a type of scientific [[experiment]]. Bioassays are typically conducted to measure the effects of a substance on a living [[organism]] and are essential in the development of new [[drugs]] and in monitoring environmental [[pollutant]]s. Both are procedures by which the [[potency (pharmacology)|potency]] or the nature of a substance is estimated by studying its effects on [[living matter]]. Bioassay is a procedure for the determination of the concentration of a particular constitution of a mixture.
+
+== Use ==
+Bioassays are procedures that can determine the concentration of purity or biological activity of a substance such as vitamin, hormone, and plant growth factor. While measuring the effect on an organism, tissue cells, enzymes or the receptor is preparing to be compared to a standard preparation. Bioassays may be [[Wiktionary:qualitative|qualitative]] or [[Wiktionary:quantitative|quantitative]].  Qualitative bioassays are used for assessing the physical effects of a substance that may not be quantified, such as abnormal development or [[deformity]].  An example of a qualitative bioassay includes [[Arnold Adolph Berthold]]'s famous experiment on castrated chickens. This analysis found that by removing the testes of a chicken, it would not develop into a rooster because the endocrine signals necessary for this process were not available. Quantitative bioassays involve estimation of the concentration or potency of a substance by measurement of the biological response that it produces.  Quantitative bioassays are typically analyzed using the methods of [[biostatistics]].
+
+== Definition ==
+''"The determination of the relative strength of a substance (as a drug) by comparing its effect on a test organism with that of a standard preparation."
+
+==Purpose==
+# Measurement of the [[pharmacology|pharmacological]] activity of new or chemically undefined substances
+# Investigation of the function of [[endogenous mediator]]s
+# Determination of the [[Adverse effect (medicine)|side-effect profile]], including the degree of [[drug toxicity]]
+# Measurement of the concentration of known substances (alternatives to the use of whole animals have made this use obsolete)
+# Assessing the amount of pollutants being released by a particular source, such as [[wastewater]] or [[urban area|urban]] [[Surface runoff|runoff]].
+# Determining the specificity of certain enzymes to certain substrates.
+
+==Types==
+Bioassays are of two types:
+
+===Quantal===
+A quantal assay involves an "all or none response". For example: Insulin induced hypoglycemic convulsive reaction or the cardiac arrest caused by digitalis. The response is either +ve or -ve, there is no intermediate response e.g.&mdash;either convulsion occurs or doesn't occur; similarly is with cardiac arrest.
+
+<br />
+In case of toxicity studies, the animal receiving a dose of drug either dies or does not die. Also, no intermediate response is possible.
+This is also known as the "all or none" response assay. The quantal method though not precise is employed for bioassay of substance in the following ways:
+<br />
+(a)  Comparison of threshold response or
+<br />
+(b)  Comparison of [[effective dose (pharmacology)|effective dose]] (ED<sub>50</sub>)   or [[median lethal dose]] (LD<sub>50</sub>)
+
+===Graded===
+Graded assays are based on the observation that there is a proportionate increase in the observed response following an increase in the concentration or dose. The parameters employed in such bioassays are based on the nature of the effect the substance is expected to produce. For example: contraction of smooth muscle preparation for assaying histamine or the study of blood pressure response in case of adrenaline.
+
+A graded bioassay can be performed by employing any of the below-mentioned techniques. The choice of procedure depends on:
+
+# the precision of the assay required
+# the quantity of the sample substance available
+# the availability of the experimental animals.
+
+==Techniques==
+# Matching Bioassay
+# Interpolation Method
+# Bracketing Method
+# Multiple Point Bioassay (i.e.-Three-point, Four-point and Six Point Bioassay)
+
+Matching Bioassay:
+It is the simplest type of the bioassay. In this type of bioassay, response of the test substance taken first and the observed response is tried to match with the standard response. Several responses of the standard drug are recorded till a close matching point to that of the test substance is observed. A corresponding concentration is thus calculated. This assay is applied when the sample size is too small. Since the assay does not involve the recording of concentration response curve, the sensitivity of the preparation is not taken into consideration. Therefore, precision and reliability is not very good.
+
+Interpolation bioassay:
+Bioassays are conducted by determining the amount of preparation of unknown potency required to produce a definite effect on suitable test animals or organs or tissue under standard conditions. This effect is compared with that of a standard. Thus the amount of the test substance required to produce the same biological effect as a given quantity the unit of a standard preparation is compared and the potency of the unknown is expressed as a % of that of the standard by employing a simple formula.
+
+<br />
+Many times, a reliable result cannot be obtained using this calculation. Therefore it may be necessary to adopt more precise methods of calculating potency based upon observations of relative, but not necessarily equal effects, likewise, statistical methods may also be employed.
+The data (obtained from either of assay techniques used) on which bioassay are based may be classified as quantal or graded response.
+Both these depend ultimately on plotting or making assumption concerning the form of DRC.
+
+==Environmental bioassays==
+Environmental bioassays are generally a broad-range survey of [[toxicity]]. A toxicity identification evaluation is conducted to determine what the relevant [[toxicant]]s are. Although bioassays are beneficial in determining the biological activity within an organism, they can often be time-consuming and laborious. Organism-specific factors may result in data that is not applicable to others in that species. For these reasons, other biological techniques are often employed, including [[radioimmunoassay]]s. ''See [[bioindicator]].''
+
+[[Water pollution]] control requirements in the [[United States]] require some industrial dischargers and municipal [[sewage treatment]] plants to conduct bioassays.  These procedures, called [[whole effluent toxicity]] tests, include acute toxicity tests as well as chronic test methods. The methods involve exposing living aquatic organisms to samples of wastewater.<ref>United States Environmental Protection Agency (EPA). Washington, DC. [http://www.epa.gov/waterscience/methods/wet/disk2/atx.pdf "Methods for Measuring the Acute Toxicity of Effluents and Receiving Waters to Freshwater and Marine Organisms."] October 2002. Document No. EPA-821-R-02-012.</ref><ref>US EPA. [http://www.epa.gov/waterscience/methods/wet/ "Whole Effluent Toxicity / Clean Water Act Analytical Methods."] Accessed December 16, 2008.</ref>
+
+== See also ==
+* [[Dilution assay]]
+* [[Drug discovery]]
+* [[Pharmacodynamics]]
+* [[Pharmacokinetics]]
+* [[Water quality]]
+* [[Bioassay-directed fractionation]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://www.nj.gov/dep/oqa/powerpoint/DEPBasicsCourse.ppt Whole Effluent Toxicity Basics (PowerPoint file)] - New Jersey Department of Environmental Protection
+
+[[Category:Aquatic ecology]]
+[[Category:Environmental science]]
+[[Category:Pharmacology]]
+[[Category:Water pollution]]

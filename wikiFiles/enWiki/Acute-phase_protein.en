@@ -1,0 +1,86 @@
+'''Acute-phase proteins''' are a class of [[protein]]s whose plasma concentrations increase (positive acute-phase proteins) or decrease (negative acute-phase proteins) in response to [[inflammation]]. This response is called the ''acute-phase reaction'' (also called acute-phase response).
+[[Image:Segmented neutrophils.jpg|thumb|120px|Inflammatory cells and [[red blood cell]]s]]
+In response to injury, local [[inflammation|inflammatory]] cells ([[neutrophil granulocyte]]s and [[macrophage]]s) secrete a number of [[cytokine]]s into the bloodstream, most notable of which are the [[interleukin]]s [[Interleukin 1|IL-1]], [[Interleukin 6|IL-6]] and [[Interleukin 8|IL-8]], and [[tumor necrosis factor-alpha|TNF-α]].  The [[liver]] responds by producing a large number of '''acute-phase reactants'''. At the same time, the production of a number of other proteins is reduced; these are, therefore, referred to as "negative" acute-phase reactants. Increased acute phase proteins from the liver may also contribute to the promotion of [[sepsis]].
+
+==Positive==
+Positive acute-phase proteins serve different physiological functions for the [[immune system]]. Some act to destroy or inhibit growth of microbes, e.g., [[C-reactive protein]], [[mannose-binding protein]],<ref>B L Herpers, H Endeman, B A W de Jong, B M de Jongh, J C Grutters, D H Biesma, and H van Velzen-Blad. Acute-phase responsiveness of mannose-binding lectin in community-acquired pneumonia is highly dependent upon MBL2 genotypes. Clin Exp Immunol. 2009 Jun;156(3):488-94. PMID 19438602</ref> [[complement factors]], [[ferritin]], [[ceruloplasmin]], [[Serum amyloid A]] and [[haptoglobin]]. Others give [[negative feedback]] on the inflammatory response, e.g. [[serpin]]s. [[Alpha 2-macroglobulin]] and coagulation factors affect coagulation, mainly stimulating it. This pro-coagulant effect may limit infection by trapping pathogens in local blood clots. Also, some products of the coagulation system can contribute to the [[innate immune system]] by their ability to increase vascular permeability and act as [[chemotactic agent]]s for [[phagocytic cell]]s.  
+
+{| class="wikitable"
+|+ "Positive" acute-phase proteins:
+! Protein !! [[Immune system]] function
+|-
+! [[C-reactive protein]]
+| [[Opsonin]] on microbes <ref name=Immunology182>Lippincott's Illustrated Reviews: Immunology. Paperback: 384 pages. Publisher: Lippincott Williams & Wilkins; (July 1, 2007). Language: English. ISBN 0-7817-9543-5. ISBN 978-0-7817-9543-2. Page 182</ref>
+|-
+! [[Serum amyloid P component]]
+| Opsonin
+|-
+! [[Serum amyloid A]]
+|
+*Recruitment of immune cells to inflammatory sites
+*Induction of [[enzyme]]s that degrade [[extracellular matrix]]
+|-
+! [[Complement system|Complement]] factors
+| Opsonization, [[lysis]] and clumping of target cells. [[Chemotaxis]]
+|-
+! [[Mannan-binding lectin]]
+| [[Mannan-binding lectin pathway]] of complement activation
+|-
+! [[Fibrinogen]], [[prothrombin]], [[factor VIII]],<br> [[von Willebrand factor]]
+| [[Coagulation factors]], trapping invading microbes in blood clots.<br> Some cause chemotaxis
+|-
+! [[Plasminogen]]
+| Degradation of blood clots
+|-
+! [[alpha-2-Macroglobulin|Alpha 2-macroglobulin]]
+| 
+*Inhibitor of [[coagulation]] by inhibiting [[thrombin]].<ref>{{cite journal | last1 = Boer | first1 = JP | last2 = Creasey | first2 = AA | last3 = Chang | first3 = A | last4 = Abbink | first4 = JJ ''et al.'' | author-separator =, | author-name-separator= | year = 1993 | title = Alpha-2-macroglobulin functions as an inhibitor of fibrinolytic, clotting, and neutrophilic proteinases in sepsis: studies using a baboon model | url = | journal = Infect Immun | volume = 61 | issue = 12| pages = 5035–5043 }}</ref>
+*Inhibitor of [[fibrinolysis]] by inhibiting [[plasmin]]
+|-
+! [[Ferritin]]
+| Binding iron, inhibiting microbe iron uptake
+|-
+! [[Hepcidin]]<ref>{{cite journal |author=Vecchi C, Montosi G, Zhang K, ''et al.'' |title=ER stress controls iron metabolism through induction of hepcidin |journal=Science |volume=325 |issue=5942 |pages=877–80 |year=2009 |month=August |pmid=19679815 |pmc=2923557 |doi=10.1126/science.1176639 |url=}}</ref>
+| Stimulates the internalization of [[ferroportin]], preventing release of [[iron]] bound by [[ferritin]] within intestinal [[enterocytes]] and [[macrophages]]
+|-
+! [[Ceruloplasmin]]
+| Oxidizes iron, facilitating for ferritin, inhibiting microbe iron uptake
+|-
+! [[Haptoglobin]]
+| Binds [[hemoglobin]], inhibiting microbe iron uptake
+|-
+! [[Orosomucoid|Orosomucoid<br> (Alpha-1-acid glycoprotein, AGP)]]
+| Steroid carrier
+|-
+! [[Alpha 1-antitrypsin]]
+| Serpin, downregulates inflammation
+|-
+! [[Alpha 1-antichymotrypsin]]
+| Serpin, downregulates inflammation
+|-
+|}
+
+==Negative==
+"Negative" acute-phase proteins decrease in inflammation. Examples include [[albumin]],<ref name=Ritchie>{{cite journal |author=Ritchie RF, Palomaki GE, Neveux LM, Navolotskaia O, Ledue TB, Craig WY |title=Reference distributions for the negative acute-phase serum proteins, albumin, transferrin, and transthyretin: a practical, simple and clinically relevant approach in a large cohort |journal=J. Clin. Lab. Anal. |volume=13 |issue=6 |pages=273–9 |year=1999 |pmid=10633294 |doi=10.1002/(SICI)1098-2825(1999)13:6<273::AID-JCLA4>3.0.CO;2-X}}</ref> [[transferrin]],<ref name=Ritchie/> [[transthyretin]],<ref name=Ritchie/> [[retinol-binding protein]], [[antithrombin]], [[transcortin]]. The decrease of such proteins may be used as markers of inflammation. The physiological role of decreased synthesis of such proteins is generally to save [[amino acid]]s for producing "positive" acute-phase proteins more efficiently. Theoretically, a decrease in transferrin could additionally be decreased by an upregulation of [[transferrin receptor]]s, but the latter does not appear to change with inflammation.<ref>{{cite journal |author=Chua E, Clague JE, Sharma AK, Horan MA, Lombard M |title=Serum transferrin receptor assay in iron deficiency anaemia and anaemia of chronic disease in the elderly |journal=QJM |volume=92 |issue=10 |pages=587–94 |year=1999 |month=October |pmid=10627880 |doi= |url=http://qjmed.oxfordjournals.org/content/92/10/587.full}}</ref>
+
+==Clinical significance==
+Measurement of acute-phase proteins, especially C-reactive protein, is a useful marker of inflammation in both medical and veterinary [[clinical pathology]]. It correlates with the [[erythrocyte sedimentation rate]] (ESR).
+
+They may also indicate liver failure.<ref>{{cite journal |author=Ananian P, Hardwigsen J, Bernard D, Le Treut YP |title=Serum acute-phase protein level as indicator for liver failure after liver resection |journal=Hepatogastroenterology |volume=52 |issue=63 |pages=857–61 |year=2005 |pmid=15966220 |doi=}}</ref>
+
+==See also==
+* [[Wikipedia:MeSH_D12.776#MeSH_D12.776.124.050_---_acute-phase_proteins]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{MeshName|Acute-Phase+Proteins}}
+
+{{Acute phase proteins}}
+
+{{DEFAULTSORT:Acute-Phase Protein}}
+[[Category:Acute phase proteins|*]]
+[[Category:Immune system]]
+
+{{immunology-stub}}

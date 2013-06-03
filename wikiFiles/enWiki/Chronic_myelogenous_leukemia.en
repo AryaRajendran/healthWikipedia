@@ -1,0 +1,119 @@
+{{Infobox disease |
+  Name           = Chronic myelogenous leukemia |
+  ICD10          = {{ICD10|C|92|1|c|81}} |
+  ICD9           = {{ICD9|205.1}} |
+  ICDO           = {{ICDO|9875|3}} |
+  Image          = bcrablmet.jpg|thumb|
+  Caption        = The [[Philadelphia chromosome]] as seen by metaphase [[fluorescent in situ hybridization|FISH]].|
+  OMIM           = |
+  OMIM_mult      = |
+  MedlinePlus    = 000570 |
+  eMedicineSubj  = med |
+  eMedicineTopic = 371 |
+  DiseasesDB     = 2659 |
+  MeshID         = D015464 |
+}}
+'''Chronic myelogenous (or myeloid) leukemia''' ('''CML'''), also known as '''chronic granulocytic leukemia (CGL)''', is a cancer of the [[white blood cell]]s. It is a form of [[leukemia]] characterized by the increased and unregulated growth of predominantly [[myeloid]] cells in the [[bone marrow]] and the accumulation of these cells in the blood. CML is a clonal bone marrow [[stem cell]] disorder in which proliferation of mature [[granulocyte]]s ([[neutrophil]]s, [[eosinophil]]s, and [[basophil]]s) and their precursors is the main finding. It is a type of [[myeloproliferative disease]] associated with a characteristic [[chromosomal translocation]] called the [[Philadelphia chromosome]]. CML is now largely treated with targeted drugs called [[tyrosine kinase inhibitor]]s (TKIs), such as Gleevec/Glivec ([[imatinib]]), Sprycel ([[dasatinib]]), Tasigna ([[nilotinib]]), or Bosulif ([[bosutinib]]) which have led to dramatically improved long term survival rates (95.2%) since the introduction of Gleevec in 2001.  These drugs have revolutionized treatment of this disease and allow most patients to have a good quality of life when compared to the former chemotherapy drugs.
+
+==Signs and symptoms==
+Patients are often [[asymptomatic]] at diagnosis, presenting incidentally with an elevated [[white blood cell]] count on a routine laboratory test. In this setting, CML must be distinguished from a [[leukemoid reaction]], which can have a similar appearance on a [[blood film|blood smear]]. Symptoms of CML may include: enlarged spleen causing pain on the left side, [[malaise]], joint and/or hip pain, [[low-grade fever]], increased susceptibility to [[infection]]s, [[anemia]], and [[thrombocytopenia]] with easy [[bruising]] (although an ''increased'' [[platelet]] count ([[thrombocytosis]]) may also occur in CML).<ref name="Faderl1990"/><ref name="Tefferi">{{cite journal|title=Classification, diagnosis and management of myeloproliferative disorders in the JAK2V617F era|author=Tefferi A|journal=Hematology Am Soc Hematol Educ Program|year=2006|pages=240–5|pmid=17124067|doi=10.1182/asheducation-2006.1.240|volume=2006}}</ref>
+
+==Diagnosis==
+[[Image:Chronic Myeloid Leukemia smear 2009-04-09.JPG|thumb|right|Peripheral blood (MGG stain): marked leucocytosis with granulocyte left shift]][[Image:Hypolobated small megakaryocyte.jpg|thumb|right|A small, hypolobated megakaryocyte (center of field) in a bone marrow aspirate, typically of chronic myelogenous leukemia.]]
+CML is often suspected on the basis of a [[complete blood count]], which shows increased [[granulocyte]]s of all types, typically including mature [[myelocyte|myeloid cells]]. [[Basophil]]s and [[eosinophil]]s are almost universally increased; this feature may help differentiate CML from a [[leukemoid reaction]]. A [[bone marrow biopsy]] is often performed as part of the evaluation for CML, and CML is diagnosed by detecting the [[Philadelphia chromosome]]. This characteristic [[Chromosome abnormality|chromosomal abnormality]] can be detected by routine [[cytogenetics]], by [[fluorescent in situ hybridization]], or by [[polymerase chain reaction|PCR]] for the bcr-abl fusion gene.<ref name="Tefferi"/>
+
+Controversy exists over so-called ''Ph-negative'' CML, or cases of suspected CML in which the Philadelphia chromosome cannot be detected. Many such patients in fact have complex chromosomal abnormalities that mask the (9;22) translocation, or have evidence of the translocation by [[fluorescent in situ hybridization|FISH]] or [[RT-PCR]] in spite of normal routine karyotyping.<ref>{{cite journal|title=Clinical features at diagnosis in 430 patients with chronic myeloid leukaemia seen at a referral centre over a 16-year period|author=Savage DG; Szydlo RM; Goldman JM|journal=Br J Haematol|year=1997|volume=96|issue=1|pages=111–6|pmid=9012696|doi=10.1046/j.1365-2141.1997.d01-1982.x}}</ref> The small subset of patients without detectable molecular evidence of bcr-abl fusion may be better classified as having an undifferentiated [[myelodysplastic/myeloproliferative disorder]], as their clinical course tends to be different from patients with CML.<ref name="WHO">{{cite journal|title=Proposals and rationale for revision of the World Health Organization diagnostic criteria for polycythemia vera, essential thrombocythemia, and primary myelofibrosis: recommendations from an ad hoc international expert pane|author=Tefferi A, Thiele J, Orazi A, Kvasnicka HM, Barbui T, Hanson CA, Barosi G, Verstovsek S, Birgegard G, Mesa R, Reilly JT, Gisslinger H, Vannucchi AM, Cervantes F, Finazzi G, Hoffman R, Gilliland DG, Bloomfield CD, Vardiman JW|year=2007|journal=Blood|volume=110|issue=4|pages=1092–7|pmid=17488875|doi=10.1182/blood-2007-04-083501}}</ref>
+
+==Pathophysiology==
+CML was the first malignancy to be linked to a clear genetic abnormality, the [[chromosomal translocation]] known as the [[Philadelphia chromosome]]. This chromosomal abnormality is so named because it was first discovered and described in 1960 by two scientists from [[Philadelphia, Pennsylvania]], USA: Peter Nowell of the [[University of Pennsylvania]] and David Hungerford of [[Fox Chase Cancer Center]].<ref>{{cite journal|title=Discovery of the Philadelphia chromosome: a personal perspective|author=Nowell PC|year=2007|journal=Journal of Clinical Investigation|volume=117|issue=8|pages=2033–5|pmid=17671636|doi=10.1172/JCI31771|pmc=1934591}}</ref>
+
+In this translocation, parts of two chromosomes (the 9th and 22nd by conventional [[karyotype|karyotypic]] numbering) switch places. As a result, part of the [[BCR gene|BCR]] ("breakpoint cluster region") gene from chromosome 22 is fused with the [[Abl gene|ABL]] gene on chromosome 9. This abnormal "fusion" gene generates a protein of p210 or sometimes p185 weight (p210 is short for 210 [[kDa]] protein, a shorthand used for characterizing proteins based solely on size). Because abl carries a domain that can add [[phosphate]] groups to tyrosine residues (a [[tyrosine kinase]]), the ''bcr-abl'' fusion gene product is also a tyrosine kinase.<ref name="Faderl1990"/><ref name="Hehlmann">{{cite journal|title=Chronic myeloid leukaemia|author=Hehlmann R, Hochhaus A, Baccarani M; European LeukemiaNet|journal=Lancet|volume=370|issue=9584|pages=342–50|year=2007|pmid=17662883|doi=10.1016/S0140-6736(07)61165-9}}</ref>
+
+The fused BCR-ABL protein interacts with the [[Interleukin-3 receptor|interleukin 3beta(c) receptor]] subunit. The BCR-ABL transcript is continuously active and does not require activation by other cellular messaging proteins. In turn, BCR-ABL activates a cascade of proteins that control the [[cell cycle]], speeding up cell division. Moreover, the BCR-ABL protein inhibits [[DNA repair]], causing genomic instability and making the cell more susceptible to developing further genetic abnormalities. The action of the BCR-ABL protein is the pathophysiologic cause of chronic myelogenous leukemia. With improved understanding of the nature of the BCR-ABL protein and its action as a tyrosine kinase, [[targeted therapy|targeted therapies]] (the first of which was [[imatinib mesylate]]) that specifically inhibit the activity of the BCR-ABL protein have been developed. These tyrosine kinase inhibitors can induce complete remissions in CML, confirming the central importance of bcr-abl as the cause of CML.<ref name="Hehlmann"/>
+
+==Classification==
+CML is often divided into three phases based on clinical characteristics and laboratory findings. In the absence of intervention, CML typically begins in the ''chronic'' phase, and over the course of several years progresses to an ''accelerated'' phase and ultimately to a ''blast crisis''. Blast crisis is the terminal phase of CML and clinically behaves like an [[acute leukemia]]. Drug treatment will usually stop this progression if started early. One of the drivers of the progression from chronic phase through acceleration and blast crisis is the acquisition of new chromosomal abnormalities (in addition to the Philadelphia chromosome).<ref name="Faderl1990"/> Some patients may already be in the accelerated phase or blast crisis by the time they are diagnosed.<ref name="Tefferi"/>
+
+===Chronic phase===
+Approximately 85% of patients with CML are in the chronic phase at the time of diagnosis. During this phase, patients are usually asymptomatic or have only mild symptoms of fatigue, left side pain, joint and/or hip pain, or abdominal fullness. The duration of chronic phase is variable and depends on how early the disease was diagnosed as well as the therapies used. In the absence of treatment, the disease progresses to an accelerated phase.<ref name="Tefferi"/>
+
+===Accelerated phase===
+Criteria for diagnosing transition into the accelerated phase are somewhat variable; the most widely used criteria are those put forward by investigators at [[M.D. Anderson Cancer Center]],<ref>{{cite journal | author = Kantarjian H, Dixon D, Keating M, Talpaz M, Walters R, McCredie K, Freireich E | title = Characteristics of accelerated disease in chronic myelogenous leukemia | journal = Cancer | volume = 61 | issue = 7 | pages = 1441–6 | year = 1988 |pmid=3162181 | doi = 10.1002/1097-0142(19880401)61:7<1441::AID-CNCR2820610727>3.0.CO;2-C}}</ref> by Sokal et al.,<ref>{{cite journal | author = Sokal J, Baccarani M, Russo D, Tura S | title = Staging and prognosis in chronic myelogenous leukemia | journal = Semin Hematol | volume = 25 | issue = 1 | pages = 49–61 | year = 1988 | pmid = 3279515}}</ref> and the [[World Health Organization]].<ref name="WHO"/><ref>{{cite journal | author = Vardiman J, Harris N, Brunning R | title = The World Health Organization (WHO) classification of the myeloid neoplasms | journal = Blood | volume = 100 | issue = 7 | pages = 2292–302 | year = 2002 |pmid=12239137|url=http://www.bloodjournal.org/cgi/content/full/100/7/2292|accessdate=2007-09-22 | doi = 10.1182/blood-2002-04-1199}}</ref> The WHO criteria are perhaps most widely used, and define the accelerated phase by any of the following:
+*10&ndash;19% [[myeloblast]]s in the blood or [[bone marrow]]
+*>20% [[basophil]]s in the blood or bone marrow
+*[[Platelet]] count <100,000, unrelated to therapy
+*Platelet count >1,000,000, unresponsive to therapy
+*Cytogenetic evolution with new abnormalities in addition to the Philadelphia chromosome
+*Increasing [[splenomegaly]] or white blood cell count, unresponsive to therapy
+
+The patient is considered to be in the accelerated phase if any of the above are present. The accelerated phase is significant because it signals that the disease is progressing and transformation to blast crisis is imminent. Drug treatment often becomes less effective in the advanced stages.<ref name="WHO"/>
+
+===Blast crisis===
+Blast crisis is the final phase in the evolution of CML, and behaves like an [[acute leukemia]], with rapid progression and short survival.<ref name="Tefferi"/> Blast crisis is diagnosed if any of the following are present in a patient with CML:<ref>{{cite journal|title=Blastic phase of chronic myelogenous leukemia|author=Karbasian Esfahani M, Morris EL, Dutcher JP, Wiernik PH|year=2006|journal=Current Treatment Options in Oncology|volume=7|issue=3|pages=189–199|pmid= 16615875|doi=10.1007/s11864-006-0012-y}}</ref>
+*>20% [[myeloblast]]s or [[lymphoblast]]s in the blood or bone marrow
+*Large clusters of blasts in the bone marrow on [[bone marrow biopsy|biopsy]]
+*Development of a [[chloroma]] (solid focus of leukemia outside the bone marrow)
+
+==Treatment==
+{{Expand section|date=August 2012}}
+
+===Chronic phase===
+In the past, antimetabolites (e.g., [[cytarabine]], [[hydroxyurea]]), [[alkylating antineoplastic agent|alkylating agent]]s, [[Interferon|interferon alfa 2b]], and [[steroid]]s were used as treatments of CML in the chronic phase, but since the 2000s have been replaced by [[Bcr-Abl tyrosine-kinase inhibitor|TK inhibitor]]<ref name=CancerMedicine>{{Cite book |editor1=Kufe DW |editor2=Pollack RE |editor3=Weichselbau RR |editor4=et al. |year=2003 |title=Holland-Frei Cancer Medicine |chapter=Tyrosine Kinase Inhibitors: Targeting Considerations |type=[[NCBI bookshelf]] book |edition=6<sup>th</sup> |publisher=[[BC Decker]] |publication-place=[[Hamilton, Ontario]] |isbn=1-55009-213-8 |url=http://www.ncbi.nlm.nih.gov/books/NBK13641/ |accessdate=October 27, 2012 |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref> drugs that specifically target BCR-ABL, the constitutively activated tyrosine kinase fusion protein caused by the [[Philadelphia chromosome]] translocation. IRIS, an international study that compared interferon/cytarabine combination and the first of these new drugs imatinib, with long-term follow up, demonstrated the clear superiority of TK-targeted inhibition over existing treatments. [[Bone marrow transplant]]ation was also used as initial treatment for CML before the advent of imatinib, but is now used less often, and primarily for those who fail drug treatment. While transplantation can often be curative, the rate of transplant-related mortality, though improving, now makes use of the option more limited.{{Citation needed|date=June 2011}}
+
+====Imatinib====
+The first of this new class of drugs was [[Imatinib|imatinib mesylate]] (marketed as Gleevec or Glivec), approved by the U.S. [[Food and Drug Administration]] (FDA) in 2001. Imatinib was found to inhibit the progression of CML in a the majority of patients (65–75%) sufficiently to achieve regrowth of their normal bone marrow  stem cell population (a cytogenetic response) with stable proportions of maturing white blood cells.  Because some leukemic cells (as evaluated by [[RT-PCR]]) persist in nearly all patients, the treatment has to be continued indefinitely. Since the advent of imatinib, CML has become the first cancer in which a standard medical treatment may give to the patient a normal life expectancy.<ref name=GambacortiPasserini2011>{{cite pmid|21422402}}</ref>
+
+====Dasatinib and nilotinib====
+To overcome imatinib resistance and to increase responsiveness to TK inhibitors, two novel agents were later developed. The first, [[dasatinib]], blocks several further oncogenic proteins, in addition to more potent inhibition of the BCR-ABL protein, and was initially approved in 2007 by the US FDA to treat CML in patients who were either resistant to or intolerant of imatinib. A second new TK inhibitor, [[nilotinib]], was also approved by the FDA for the same indication. In 2010, nilotinib and dasatinib were also approved for first-line therapy, making three drugs in this class available for treatment of newly diagnosed CML.
+
+====Treatment-resistant CML====
+Whilst capable of producing significantly improved responses compared with the action of imatinib, neither dasatinib nor nilotinib could overcome drug resistance caused by one particular mutation found to occur in the structure of BCR-ABL known as the T315I mutation. Two approaches were developed to the treatment of CML as a result.
+
+In 2007, [[Cephalon#chemgenex|Chemgenex]] released results of an open-label Phase 2/3 study (CGX-635-CML-202) that investigated the use of a non BCR-ABL targeted agent [[omacetaxine]], administered subcutaneously in patients who had failed with imatinib and exhibited T315I kinase domain mutation.<ref name=Jabbour>{{cite pmid|17431887}}</ref><ref name=Kimura2006>{{cite pmid|17076652}}</ref> This is a study which is ongoing through 2014.<ref>{{Cite web
+ |author= |last= |first= |coauthors= |editor= |publication-date= |year= |month= |title=Homoharringtonine (Omacetaxine Mepesuccinate) in Treating Patients With Chronic Myeloid Leukemia (CML) With the T315I BCR-ABL Gene Mutation |type=database recprd |work=ClinicalTrial.gov |url=http://clinicaltrials.gov/ct2/show/results/NCT00375219 |accessdate=October 27, 2012
+ |postscript= <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref> In September 2012,the FDA approved omacetaxine for the treatment of CML in the case of resistance to other chemotherapeutic agents.<ref name=FDA27Oct2012>{{Cite document |publication-date=October 26, 2012 |title=FDA approves Synribo for chronic myelogenous leukemia |type=press release |publisher=U.S. [[Food and Drug Administration]] |url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm325895.htm |accessdate=October 27, 2012 |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref><ref>{{Cite document
+ |publication-date=September 4, 2012 |title=FDA approves new orphan drug for chronic myelogenous leukemia |type=press re;ease |publisher=U.S. [[Food and Drug Administration]] |url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm318160.htm |accessdate=October 27, 2012
+ |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref>
+
+Independently, ARIAD pharmaceuticals, adapting the chemical structures from first and second-generation TK inhibitors, arrived at a new pan-BCR-ABL inhibitor which showed (for the first time)  efficacy against T315I, as well as all other known mutations of the oncoprotein. The drug, [[Ponatinib]], gained FDA approval in December 2012 for treatment of patients with resistant or intolerant CML. Just as with second generation TK inhibitors, early approval is being sought to extend the use of Ponatinib to newly diagnosed CML also.{{citation needed|date=December 2012}}
+
+=== Vaccination ===
+In 2005, encouraging but mixed results of [[vaccination]] were reported with the ''BCR/abl'' p210 fusion protein in patients with stable disease, with [[GM-CSF]] as an adjuvant.<ref name=Bocchia2005>{{cite pmid|15721470}}</ref>
+
+==Prognosis==
+A follow-up on patients using imatinib published in the New England Journal of Medicine in 2006 showed an overall survival rate of 89% after five years.<ref>{{cite journal|title=Five-Year Follow-up of Patients Receiving Imatinib for Chronic Myeloid Leukemia|author=Druker BJ, Guilhot F, O'Brien SG et al. |year=2006|volume=355|issue=20| pages=2408–17|doi=10.1056/NEJMoa062867| url=http://content.nejm.org/cgi/content/full/355/23/2408|pmid=17151364|journal=New England Journal of Medicine}}</ref>
+In 2011, an independent study performed in 832 CML patients worldwide reported that the group of patients who achieve a stable cytogenetic response with imatinib shows an overall survival rate of 95.2% after 8 years, which is similar to the rate in the general population. Only 1% of patients died because of leukemia progression.<ref name="GambacortiPasserini2011" />
+
+==Epidemiology==
+CML occurs in all age groups, but most commonly in the middle-aged and elderly. Its annual [[incidence (epidemiology)|incidence]] is 1&ndash;2 per 100,000 people, and slightly more men than women are affected. CML represents about 15&ndash;20% of all cases of adult leukemia in Western populations.<ref name="Faderl1990">{{cite journal|title=Chronic myelogenous leukemia: biology and therapy|author=Faderl S, Talpaz M, Estrov Z, Kantarjian HM|journal=Annals of Internal Medicine|year=1999|volume=131|issue=3|pages=207–219|pmid=10428738}}</ref> The only well-described risk factor for CML is exposure to [[ionizing radiation]]; for example, increased rates of CML were seen in people exposed to the [[atomic bombings of Hiroshima and Nagasaki]]<ref>{{cite journal|title=Radiogenic leukemia revisited|author=Moloney WC|year=1987|journal=Blood|volume=70|issue=4|pages=905–8|pmid=3477299}}</ref>
+
+Leukemia is also rarely associated with pregnancy, affecting only about 1 in 10,000 pregnant women.<ref name=Shapira /><ref name=Menezes>{{cite journal|author=Menezes J, et al.|title=Occurrence of Acute Myeloid Leukemia in Young Pregnant Women|journal=Clinical Medicine: Blood Disorders|volume=1|pages=27–31|year=2008|month=June|doi=10.4137/CMBD.S823|url=http://www.la-press.com/occurrence-of-acute-myeloid-leukemia-in-young-pregnant-women-article-a878}}, Occurrence of 1 case of AML per 75,000 pregnancies</ref>  Chronic myelogenous leukemia can be treated with relative safety at any time during pregnancy with [[Interferon-alpha]] hormones.<ref name=Shapira>{{cite journal
+|author=Shapira T, Pereg D, Lishner M
+|title=How I treat acute and chronic leukemia in pregnancy
+|journal=Blood Rev.
+|volume=22
+|issue=5
+|pages=247–59
+|year=2008
+|month=September
+|pmid=18472198
+|doi=10.1016/j.blre.2008.03.006}}</ref>
+
+==References==
+{{reflist|2}}
+
+== External links ==
+* [http://pubweb.fccc.edu/philadelphiachromosome/ 50th Anniversary Symposium of Discovery (US)]
+* [http://www.nationalcmlsociety.org The National CML Society (US)]
+* [http://www.cmleukemia.com/ CMLeukemia]
+* [http://www.cancer.org/docroot/CRI/CRI_2_3x.asp?dt=83 Chronic Myeloid Leukemia] at [[American Cancer Society]]
+* [http://www.leukemia-lymphoma.org/all_page?item_id=8501 CML information] from The Leukemia & Lymphoma Society
+* {{MerckHome|14|176|e||Chronic Myelocytic Leukemia (CML)}}
+* [http://www.spirit-cml.org/spirit-2-home.aspx SPIRIT 2 Website]
+
+{{Myeloid malignancy}}
+
+{{DEFAULTSORT:Chronic Myelogenous Leukemia}}
+[[Category:Myeloid leukemia]]
+
+{{Link GA|de}}

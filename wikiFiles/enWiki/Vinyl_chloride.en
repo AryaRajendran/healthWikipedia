@@ -1,0 +1,158 @@
+{{chembox
+| verifiedrevid = 476992265
+|   Name = Vinyl chloride
+|   ImageFileL1 = Vinyl-chloride-2D.png
+|   ImageSizeL1 = 100px
+|   ImageNameL1 = Structural formula of vinyl chloride
+|   ImageFileR1 = Vinyl-chloride-3D-vdW.png
+|   ImageSizeR1 = 120px
+|   ImageNameR1 = Space-filling model
+|   IUPACName = Chloroethene
+|   OtherNames = Vinyl chloride monomer<br />VCM<br />Chloroethylene
+| Section1 = {{Chembox Identifiers
+|   ChEBI_Ref = {{ebicite|correct|EBI}}
+|   ChEBI = 28509
+|   SMILES = ClC=C
+|   PubChem = 6338
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+|   ChemSpiderID = 6098
+|   KEGG_Ref = {{keggcite|correct|kegg}}
+|   KEGG = C06793
+|   InChI = 1/C2H3Cl/c1-2-3/h2H,1H2
+|   InChIKey = BZHJMEDXRYGGRV-UHFFFAOYAW
+|   StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+|   StdInChI = 1S/C2H3Cl/c1-2-3/h2H,1H2
+|   StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+|   StdInChIKey = BZHJMEDXRYGGRV-UHFFFAOYSA-N
+|   CASNo = 75-01-4
+|   CASNo_Ref = {{cascite|correct|CAS}}
+  }}
+| Section2 = {{Chembox Properties
+|   C=2|H=3|Cl=1
+|   Appearance = Colorless gas
+|   Density = 0.911 g/ml
+|   Solubility = 2.7 g/L (0.0432 mol/L)
+|   MeltingPtC = -153.8
+|   BoilingPtC = -13.4 
+|   Viscosity = 
+  }}
+| Section3 = {{Chembox Structure
+|   Dipole =
+  }}
+| Section4 = {{Chembox Thermochemistry
+|   DeltaHf = -94.12 kJ/mol (solid)
+|   HeatCapacity = 0.8592 J/K/g (gas)<br>0.9504 J/K/g (solid)
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = <!--[http:// External MSDS]-->
+|   EUIndex = 602-023-00-7
+|   EUClass = {{Hazchem F+}} {{Hazchem T}}
+|   MainHazards =
+|   NFPA-H = 2
+|   NFPA-F = 4
+|   NFPA-R = 2
+|   NFPA-O = 
+|   RPhrases = {{R12}}, {{R45}}
+|   SPhrases =  {{S45}}, {{S53}}
+|   FlashPt = {{convert|-61|C|F}}
+  }}
+| Section8 = {{Chembox Related
+|   Function = 
+|   OtherFunctn = 
+|   OtherCpds = 
+  }}
+}}
+
+'''Vinyl chloride''' is the [[organochloride]] with the formula H<sub>2</sub>C:CHCl. It is also called '''vinyl chloride monomer''', '''VCM''' or '''chloroethene'''. This colorless compound is an important industrial chemical chiefly used to produce the [[polymer]] [[polyvinyl chloride]] (PVC).<ref name=Ullmann/> About 13 billion kilograms are produced annually. Vinyl chloride is a gas with a sweet odor. It is highly toxic, flammable, and carcinogenic.
+
+== History ==
+Vinyl chloride was first produced in 1835 by [[Justus von Liebig]] and his student [[Henri Victor Regnault]]. They obtained it by treating [[1,2-Dichloroethane|1,2-dichloroethane]] with a solution of [[potassium hydroxide]] in [[ethanol]].
+
+In 1912, Frans, a German chemist working for Griesheim-Elektron, patented a means to produce vinyl chloride from [[acetylene]] and [[hydrochloric acid|hydrogen chloride]] using [[mercuric chloride]] as a [[catalyst]]. While this method was widely used during the 1930s and 1940s in the West, it has since been superseded by more economical processes based on ethylene in the United States and Europe. It remains the main production method in China.
+
+== Production ==
+Vinyl chloride is produced on a substantial scale - approximately 31.1 million tons (7.5 Bel tons) were produced in 2000.<ref>Klaus Weissermel, Hans-Jürgen Arpe in "Industrial organic chemistry"</ref> Two methods are employed, the [[Hydrohalogenation|hydrochlorination]] of acetylene and the [[Dehydrohalogenation|dehydrochlorination]] of ethylene dichloride ([[1,2-dichloroethane]]).<ref name=Ullmann>E.-L. Dreher, T. R. Torkelson, K. K. Beutel "Chlorethanes and Chloroethylenes" in Ullmann's Encyclopedia of Industrial Chemistry 2011, Wiley-VCH, Weinheim. {{DOI|10.1002/14356007.o06_o01}}</ref>
+
+=== Manufacturing details from ethylene dichloride ===
+About 95% of vinyl chloride is produced by an integrated set of reactions starting with chlorine, ethylene, and air. Two processes are used to generate 1,2-dichloroethane (EDC).
+
+==== Direct chlorination ====
+EDC is prepared by reacting [[ethylene]] and [[chlorine]].<ref>{{cite web|publisher=[[United States Environmental Protection Agency]] | work = Green Engineering | title = Chapter 4 - Industrial Ecology | author = Allen, D. T. | url = http://www.epa.gov/opptintr/greenengineering/pubs/ch14_summary.html}}</ref> In the presence of [[iron(III) chloride]] as a catalyst, these compounds [[chemical reaction|react]] exothermically:
+:CH<sub>2</sub>=CH<sub>2</sub> + Cl<sub>2</sub> →  ClCH<sub>2</sub>CH<sub>2</sub>Cl
+This process is very selective, resulting in high purity EDC and high yields. However any dissolved catalyst and moisture must be removed before EDC enters the vinyl chloride production process.
+
+==== Oxychlorination ====
+Vinyl chloride plants use recycled HCl to produce more EDC via [[oxychlorination]], which entails the reaction of ethylene, oxygen, and hydrogen chloride over a [[copper(II) chloride]] catalyst to produce EDC:
+:CH<sub>2</sub>=CH<sub>2</sub> + 2 HCl + ½ O<sub>2</sub> → ClCH<sub>2</sub>CH<sub>2</sub>Cl + [[water|H<sub>2</sub>O]].
+The reaction is highly exothermic.
+
+Due to the relatively low cost of ethylene, compared to acetylene, most vinyl chloride has been produced via this technique since the late 1950s. This is despite the lower yields, lower product purity and higher costs for waste treatment. By-products of the oxychlorination reaction, may be recovered, as feedstocks for chlorinated solvents production. One useful byproduct of the oxychlorination is [[Chloroethane|ethyl chloride]], a topical anesthetic.
+
+==== Thermal cracking ====
+When heated to 500 °C at 15–30 atm (1.5 to 3 [[Pascal (unit)|MPa]]) pressure, EDC vapor decomposes to produce vinyl chloride and anhydrous HCl.
+:ClCH<sub>2</sub>CH<sub>2</sub>Cl → CH<sub>2</sub>=CHCl + [[Hydrogen chloride|HCl]]
+
+The thermal cracking reaction is highly endothermic, and is generally carried out in a fired heater. Even though residence time and temperature are carefully controlled, it produces significant quantities of chlorinated hydrocarbon side products. In practice, EDC conversion is relatively low (50 to 60 percent). The furnace effluent is immediately quenched with cold EDC to stop undesirable side reactions. The resulting vapor-liquid mixture then goes to a purification system. Some processes use an absorber-stripper system to separate HCl from the chlorinated hydrocarbons, while other processes use a refrigerated [[continuous distillation]] system.
+
+==== Waste treatment ====
+For environmental reasons, the acidic aqueous wastestream is treated to remove organic compounds and neutralized before it can be sent to the plant's "outfall". An outfall is a monitored wastewater stream that must conform to the plant's standards. Some very hazardous wastes are generated in the recovery of the product vinyl chloride. These wastes require specialized procedures. These wastes are burned onsite in hazardous waste burners that again are subject to strict standards.
+
+=== Production from acetylene ===
+[[Acetylene]] reacts with anhydrous [[hydrogen chloride]] gas over a mercuric chloride catalyst to give vinyl chloride:
+:C<sub>2</sub>H<sub>2</sub> + HCl → CH<sub>2</sub>=CHCl
+The reaction is exothermic and highly selective. Product purity and yields are generally very high.
+
+This industrial route to vinyl chloride was common before ethylene became widely distributed. When vinyl chloride producers shifted to using the thermal cracking of EDC described above, some used byproduct HCl in conjunction with a colocated acetylene-based unit. The hazards of storing and shipping acetylene meant that the vinyl chloride facility needed to be located very close to the acetylene generating facility.
+
+=== Storage ===
+Vinyl chloride is stored as a liquid. Often, the storage containers for the product vinyl chloride are high capacity spheres. The spheres have an inside sphere and an outside sphere. Several inches of empty space separate the inside sphere from the outside sphere. This void area between the spheres is purged with an inert gas such as nitrogen. As the nitrogen purge gas exits the void space it passes through an analyzer that is designed to detect if any vinyl chloride is leaking from the internal sphere. If vinyl chloride starts to leak from the internal sphere or if a fire is detected on the outside of the sphere then the contents of the sphere are automatically dumped into an emergency underground storage container.
+
+== Uses ==
+Vinyl chloride is a chemical intermediate, not a final product. Due to the hazardous nature of vinyl chloride to human health there are no end products that use vinyl chloride in its monomer form. Polyvinyl chloride is very stable, storable, and nowhere near as acutely hazardous as the monomer.
+
+Vinyl chloride liquid is fed to polymerization reactors where it is converted from a monomer to a polymer [[polyvinyl chloride|PVC]]. The final product of the polymerization process is PVC in either a flake or pellet form. From its flake or pellet form PVC is sold to companies that heat and mold the PVC into end products such as [[polyvinyl chloride|PVC]] pipe and bottles. Tens of billions of pounds of PVC are sold on the global market each year.
+
+Until 1974, vinyl chloride was used in [[aerosol spray#Propellant|aerosol spray propellant]]. Prior to the removal of vinyl chloride from hair spray the accumulation of vinyl chloride vapor in [[hair salon]]s may have exceeded the NOAEL (No Observable Adverse Effect Level) exposure guidelines.
+
+Vinyl chloride was briefly used as an [[inhalational anaesthetic]], in a similar vein to [[Chloroethane|ethyl chloride]], though its toxicity forced this practice to be abandoned.
+
+==Fire and explosion hazard==
+OSHA lists vinyl chloride as a Class IA Flammable Liquid, with an [[National Fire Protection Association]] Flammability Rating of 4. Because of its low boiling point, liquid VCM will undergo [[flash evaporation]] (i.e., autorefrigerate) upon its release to atmospheric pressure. The portion vaporized will form a dense cloud (more than twice as heavy as the surrounding air). The risk of subsequent explosion or fire is significant. According to OSHA, the flash point of vinyl chloride is -78 °C (-108 °F). Its flammable limits in air are: lower 3.6 volume% and upper 33.0 volume%. Fire may release toxic [[hydrogen chloride]] (HCl) and [[carbon monoxide]] (CO).<ref>"Occupational Safety and Health Guideline for Vinyl Chloride"1988.</ref>
+
+== Health effects ==
+
+Almost all vinyl chloride is used to produce [[polymer]]s, primarily polyvinyl chloride.<ref>The Vinyl Institute; www.vinylinfo.org/aboutvi/vi_commitment2.html</ref> 
+
+The hepatotoxicity of vinyl chloride has long been established since the 1930s when the PVC industry was just in its infant stages. In the very first study about the dangers of vinyl chloride, published by Patty in 1930, it was disclosed that exposure of test animals to just a single short-term high dose of vinyl chloride caused liver damage.<ref>Patty, F.A. et al. "Acute Response of Guinea Pigs to Vapors of Some Commercial Organic Compounds." Public Health Reports. Volume 45, Number 24. August 22, 1930</ref> In 1949, a Russian publication by Tribukh discussed the finding that vinyl chloride caused liver injury among workers.<ref>Tribukh, S L et al. "Working Conditions and Measures for Their Improvement in Production and Use of Vinylchloride Plastics" (1949)</ref> In 1954, Rex Wilson, Medical Director, and William McCormick, Industrial Hygienist and Toxicologist, both of B.F. Goodrich Chemical, published an article that stated that it was known vinyl chloride caused liver injury for short-term exposures; but almost nothing was known about its long-term effects. They also stated that long-term animal toxicology studies should be performed to fill this void of information. The study noted that if a chemical did not justify the cost of testing, and its ill-effects on workers and the public were known, the chemical should not be made.<ref>Wilson, Rex H et al. "Toxicology of Plastics and Rubber- Plastomers and Monomers." Reprinted from Industrial Medicine and Surgery. 23:11, 479-786. November 1954.</ref> Thereafter, in 1963, Lester and Greenberg published an article reporting their findings from research paid for in part by Allied Chemical. They too found liver damage in test animals from exposures below 500 parts per million (ppm).<ref>Lester, D. et al. "Effects of Single and Repeated Exposures of Humans and Rats to Vinyl Chloride" Laboratory of applied biodynamics, Yale University and Department of Pathology. School of Medicine, Yale University, New Haven, Connecticut.</ref> Then, in 1963, a Romanian researcher, Suciu, published his findings of liver disease in vinyl chloride workers.<ref>Suciu, I et al. "Clinical Manifestations in Vinyl Chloride Poisoning" Clinic of Professional Diseases. Cluj, Romania.</ref> In 1968, Mutchler and Kramer, two Dow researchers, reported their finding that exposures as low as 300 ppm caused liver damage in vinyl chloride workers thus confirming earlier animal data in humans.<ref>Kramer, G.C., M.D. "The Correlation of Clinical and Environmental Measurements for Workers Exposed to Vinyl Chloride." The Dow Chemical Company. Midland Michigan.</ref> In a 1969 presentation given in Japan, P. L. Viola, a European researcher working for the European vinyl chloride industry, indicated, "every monomer used in V.C. manufacture is hazardous....various changes were found in bone and liver. Particularly, much more attention should be drawn to liver changes. The findings in rats at the concentration of 4 to 10 ppm are shown in pictures." In light of the finding of liver damage in rats from just 4-10 ppm of vinyl chloride exposure, Viola added that he "should like some precautions to be taken in the manufacturing plants polymerizing vinyl chloride, such as a reduction of the threshold limit value of monomer …" <ref>Viola, P.L. "Pathology of Vinyl Chloride" International Congress on Occupational Health. Japan. 1969.</ref> In 1970, Viola, reported that test animals exposed to 30,000 ppm of vinyl chloride developed cancerous tumors. Viola began his research looking for the cause of liver and bone injuries found in vinyl chloride workers. Viola's findings in 1970 were a "red flag" to [[Goodrich Corporation|B.F. Goodrich]] and the industry.<ref>Viola, P L. "Carcinogenic Effect of Vinyl Chloride" Presented at the Tenth International Cancer Congress. Huston, Texas. May 22–29, 1970.</ref> In 1972, Maltoni, another Italian researcher for the European vinyl chloride industry, found liver tumors (including angiosarcoma) from vinyl chloride exposures as low as 250 ppm for four hours a day.<ref>Maltoni, C. "Cancer Detection and Prevention" (1972) Presented at the Second International Symposium on Cancer Detection and Prevention. Bologna, April 9–12, 1973.</ref>
+
+In the late 1960s, the cancers that all of these studies warned of finally manifested themselves in workers. John Creech from [[Goodrich Corporation|B.F. Goodrich]] discovered [[angiosarcoma]] (a very rare cancer) in the liver of a worker at the B.F. Goodrich plant in Louisville, Kentucky. Then, finally, on January 23, 1974, [[Goodrich Corporation|B.F. Goodrich]] informed the government and issued a press release stating that it was "investigating whether the cancer deaths of three employees in the polyvinyl chloride operations at its Louisville, Ky. plant were related to occupational causes." By then there really was no doubt that vinyl chloride caused [[angiosarcoma]] of the liver; it had been shown in both animal studies and worker experience.
+
+A 1997 U.S. [[Centers for Disease Control and Prevention]] (CDC) report concluded that the development and acceptance by the PVC industry of a closed loop polymerization process in the late 1970s "almost completely eliminated worker exposures" and that "new cases of hepatic angiosarcoma in vinyl chloride polymerization workers have been virtually eliminated."<ref>Epidemiologic Notes and Reports Angiosarcoma of the Liver Among Polyvinyl Chloride Workers – Kentucky, Centers for Disease Control and Prevention Web site. 1997. Available at: http://www.cdc.gov/mmwr/preview/mmwrhtml/00046136.htm</ref>
+
+According to the [[United States Environmental Protection Agency]] (EPA), "vinyl chloride emissions from polyvinyl chloride (PVC), ethylene dichloride (EDC), and vinyl chloride monomer (VCM) plants cause or contribute to air pollution that may reasonably be anticipated to result in an increase in mortality or an increase in serious irreversible, or incapacitating reversible illness. Vinyl chloride is a known human carcinogen that causes a rare cancer of the liver."<ref>National Emission Standards for Hazardous Air Pollutants (NESHAP) for Vinyl Chloride Subpart F, OMB Control Number 2060-0071, EPA ICR Number 0186.09 ([http://www.epa.gov/fedrgstr/EPA-AIR/2001/September/Day-25/a23920.htm Federal Register: September 25, 2001 (Volume 66, Number 186)])</ref> EPA's 2001 updated Toxicological Profile and Summary Health Assessment for VCM in its Integrated Risk Information System (IRIS) database lowers EPA's previous risk factor estimate by a factor of 20 and concludes that "because of the consistent evidence for liver cancer in all the studies...and the weaker association for other sites, it is concluded that the liver is the most sensitive site, and protection against liver cancer will protect against possible cancer induction in other tissues."<ref>EPA Toxicologica Review of Vinyl Chloride i Support of Information on the IRIS. May 2000</ref> 
+
+A 1998 front-page series in the Houston Chronicle claimed the vinyl industry has manipulated vinyl chloride studies to avoid liability for worker exposure and to hide extensive and severe chemical spills into local communities.<ref>Jim Morris, "In Strictest Confidence. The chemical industry's secrets," Houston Chronicle. Part One: "Toxic Secrecy," June 28, 1998, pgs. 1A, 24A-27A; Part Two: "High-Level Crime," June 29, 1998, pgs. 1,A, 8A, 9A; and Part Three: "Bane on the Bayou," July 26, 1998, pgs. 1A, 16A.</ref> Retesting of community residents in 2001 by the U.S. [[Agency for Toxic Substances and Disease Registry]] (ATSDR) found [[dioxins and dioxin-like compounds|dioxin]] levels similar to those in a comparison community in Louisiana and to the U.S. population.<ref>"ATSDR Study Finds Dioxin Levels in Calcasieu Parish Residents Similar to National Levels," available at: http://www.atsdr.cdc.gov/NEWS/calcasieula031506.html; "ATSDR Study Finds Dioxin Levels Among Lafayette Parish Residents Similar to National Levels," available at: http://www.atsdr.cdc.gov/NEWS/lafayettela031606.html; ATSDR Report: Serum Dioxin Levels In Residents Of Calcasieu Parish, Louisiana, October 2005, Publication Number PB2006-100561, available from the National Technical Information Services, Springfield, Virginia, phone: 1-800-553-6847/1-703-605-6244</ref> Cancer rates in the community were similar to Louisiana and US averages.<ref>"Calcasieu Cancer Rates Similar to State/National Averages." News Release, State of Louisiana Dept. of Health and Hospitals. January 17, 2002</ref>
+
+== See also ==
+*[[Vinyl]]
+
+== References ==
+{{Reflist|2}}
+
+==Further reading==
+*{{cite news|url=http://www.time.com/time/magazine/article/0,9171,908587,00.html|title=Medicine: The Plastic Peril - TIME|date=Monday, May 13, 1974|work=[[Time (magazine)|Time]]|accessdate=2 July 2010}}
+
+== External links ==
+* [http://www.chemicalindustryarchives.org/dirtysecrets/vinyl/5.asp Information on the aerosol propellant controversy]
+* [http://www.atsdr.cdc.gov/toxprofiles/tp.asp?id=282&tid=51 ATSDR Toxicological Profile for chloroethene / vinyl chloride]
+* [http://cameochemicals.noaa.gov/chemical/1692 Chemical Identifiers for Vinyl Chloride from CAMEO Chemicals]
+
+{{HealthIssuesOfPlastics}}
+
+{{DEFAULTSORT:Vinyl Chloride}}
+[[Category:Organochlorides]]
+[[Category:Hazardous air pollutants]]
+[[Category:Monomers]]
+[[Category:IARC Group 1 carcinogens]]
+
+{{Link FA|ru}}

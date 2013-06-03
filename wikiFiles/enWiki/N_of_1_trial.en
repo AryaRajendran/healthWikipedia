@@ -1,0 +1,55 @@
+
+An '''N of 1''' trial is a [[clinical trial]] in which a single patient is the entire trial, a single case study. A trial in which [[random allocation]] can be used to determine the order in which an experimental and a control intervention are given to a patient is an N of 1 [[randomized controlled trial]]. The order of experimental and control interventions can also be fixed by the [[researcher]].
+
+This type of study has enabled practitioners to achieve experimental progress without the overwhelming work of designing a [[group comparison study]]. It can be very effective in confirming [[causality]]. This can be achieved in many ways. One of the most common procedures is the ABA withdrawal experimental design, where the patient problem is measured before a treatment is introduced (baseline) and then measured again during the treatment and finally when the treatment has terminated. If the problem vanished during the treatment it can be established that the treatment was effective. A variation of [[experimental design]] in single [[case studies]] is great. But the N=1 study can also be executed in an AB [[Quasi-experiment|quasi experimental]] way; this means that causality cannot be definitively demonstrated. Another variation is non-concurrent experimental design where different points in time are compared with one another. This experimental design also has a problem with causality. But the [[Replication (statistics)|replication]] of studies has a great value and can be as effective as a group study. The single case experimental design has been very effective in psychology and other field of behavior science.
+
+==List of variation in N of 1 trial==
+
+{| class="wikitable"
+|-
+! Design
+! Causality
+! Use
+|-
+| A-B
+| Quasi experiment
+| Often the only possible method
+|-
+| A-A<sup>1</sup>-A
+| Experiment
+| Placebo design where A is no drug and A<sup>1</sup> is a placebo
+|-
+| A-B-A
+| Experiment
+| Withdrawal design where effects of B face can be established
+|-
+| A-B-A-B
+| Experiment
+| Withdrawal design where effects of B face can be established
+|-
+| A-B-A-B-A-B
+| Experiment
+| Withdrawal design where effects of B face can be established
+|-
+| A-B<sup>1</sup>-B<sup>2</sup>-B<sup>3</sup>-B<sup>n</sup>-A
+| Experiment
+| Establishing the effect of different versions of B face
+|}
+
+<small>Quasi experiment means that causality cannot be definitively demonstrated.<br>
+Experiment means that it can be demonstrated.</small>
+
+==See also==
+* [[Single-subject design]]
+* [[Applied behavior analysis]]
+* [[BF Skinner]]
+
+== Sources ==
+*{{cite journal | year = 1990 | author = Guyatt GH, Keller JL, Jaeschke R, Rosenbloom D, Adachi JD, Newhouse MT | title = The n-of-1 randomized controlled trial: clinical usefulness. Our three-year experience | journal = Ann. Intern. Med. | volume = 112 | issue = 4 | pages = 293–9 | month = February | pmid = 2297206}}
+*{{cite journal | year = 2004 | author = Johnston BC, Mills E | title = N-Of-1 Randomized Controlled Trials: An Opportunity for Complementary and Alternative Medicine Evaluation | journal = J Altern Complement Med | volume = 10 | issue = 6 | pages = 979–84 | month = December | pmid = 15673992 | doi = 10.1089/acm.2004.10.979 }}
+*{{cite journal | year = 2005 | author = Avins AL, Bent S, Neuhaus JM | title = Use of an embedded N-of-1 trial to improve adherence and increase information from a clinical study | journal = Contemporary Clinical Trials | volume = 26 | issue = 3 | pages = 397–401 | month = June | pmid = 15911473 | doi = 10.1016/j.cct.2005.02.004}}
+*{{cite journal | year = 2006 | author = Nikles CJ, Mitchell GK, Del Mar CB, Clavarino A, McNairn N | title = An n-of-1 trial service in clinical practice: testing the effectiveness of stimulants for attention-deficit/hyperactivity disorder | journal = [[Pediatrics (journal)|Pediatrics]] | volume = 117 | issue = 6 | pages = 2040–6 | month = June | pmid = 16740846 | doi = 10.1542/peds.2005-1328}}
+
+{{DEFAULTSORT:N Of 1 Trial}}
+[[Category:Clinical trials]]
+[[Category:Design of experiments]]

@@ -1,0 +1,162 @@
+{{DISPLAYTITLE:Acquired immune system}}
+{{See also|Immune system|Passive immunity|Innate immune system}} 
+[[Image:SEM Lymphocyte.jpg|thumb|right|200px|A [[scanning electron microscope]] (SEM) image of a single human [[lymphocyte]]]]
+The '''adaptive immune system''', also known as the '''acquired immune system''' or, more rarely, as the  '''specific immune system''', is composed of highly specialized, systemic cells and processes that eliminate or prevent [[pathogen]] growth. 
+
+This mechanism can be contrasted with '''innate immunity''' in that pathogen-specific receptors of innate immunity are encoded in the germline, whereas pathogen-specific receptors of acquired immunity are acquired through a somatic expression process during the lifetime of the organism.  Both immune systems are "adaptive" in the physiological and evolutionary sense of allowing the organism to adapt to changing external circumstances. Both can be maladaptive in sense that over-activity can lead to pathological inflammation and/or autoimmunity. The pathogen-receptors of innate and acquired immune mechanisms are both specific, but the specificities of the former have evolved over evolutionary time for highly conserved molecular features of the microbial world, while the specificities of the latter mature in each organism. For this reason, the term '''acquired''' is generally preferred over '''adaptive''' or '''specific'''.  
+
+Both jawless (class Agnatha) and jawed vertebrates have acquired immune systems. The former generates acquired immune receptors using LRR (leucine-rich repeat)-based variable segments rearranged at the DNA level through the activity of a cytosine deaminase enzyme.  In contrast, Jawed vertebrates generate acquired immune receptors using immunoglobulin family-related variable segments rearranged at the DNA level through RAG recombinase. The acquired immune system is activated by the “non-specific” and evolutionarily older [[innate immune system]] (which is the major system of host defense against pathogens in nearly all other living things). The acquired immune response provides the vertebrate immune system with the ability to recognize and remember specific pathogens (to generate [[immunity (medical)|immunity]]), and to mount stronger attacks each time the pathogen is encountered. It is 'adaptive' in the sense that it prepares the body's immune system for future challenges by the same or related pathogen.  Conversely, it is 'maladaptive' when it results in autoimmunity. 
+
+The system is highly [[adaptation|adaptable]] because of [[somatic hypermutation]] (a process of accelerated [[Somatic cell|somatic]] [[mutation]]s), and [[V(D)J recombination]] (an irreversible [[genetic recombination]] of antigen receptor gene segments). This mechanism allows a small number of genes to generate a vast number of different antigen receptors, which are then uniquely expressed on each individual [[lymphocyte]]. Because the gene rearrangement leads to an irreversible change in the [[DNA]] of each cell, all of the [[offspring|progeny]] (offspring) of that cell will then inherit genes encoding the same receptor specificity, including the [[Memory B cell]]s and [[Memory T cells]] that are the keys to long-lived specific immunity.
+
+[[Immune network theory]] is a theory due chiefly to [[Niels Kaj Jerne]] of how the acquired immune system works, that is based on interactions between 'idiotypes' (unique molecular features" of one clonotype) and 'anti-idiotypes" (antigen receptors that react with the idiotype as if it were a foreign antigen).
+
+==Functions==
+Acquired immunity is triggered in vertebrates when a pathogen evades the innate immune system and (1) generates a threshold level of antigen and (2) generates "stranger" or "danger" signals activating dendritic cells.<ref name=Janeway>{{cite book | author = Janeway, C.A., Travers, P., Walport, M., and Shlomchik, M.J. | title =Immunobiology |edition=5th | publisher = Garland Science | year = 2001 | location = New York and London| pages =  | url = http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=imm.TOC&depth=10| doi =  | isbn = 0-8153-4101-6}}.</ref>
+
+The major functions of the acquired immune system include: 
+*the recognition of specific “non-self” antigens in the presence of “self”, during the process of [[antigen presentation]].
+*the generation of responses that are tailored to maximally eliminate specific pathogens or pathogen-infected cells.
+*the development of [[#Immunological memory|immunological memory]], in which each pathogen is “remembered” by a signature antibodies or T cell receptors. These memory cells can be called upon to quickly eliminate a pathogen should subsequent infections occur.
+
+==Lymphocytes ==
+{{main|Lymphocyte}}
+The cells of the acquired immune system are T and B [[lymphocytes]]; lymphocytes are a subset of [[leukocyte]]. [[B cell]]s and [[T cell]]s are the major types of lymphocytes. The human body has about 2 trillion lymphocytes, constituting 20-40% of white blood cells (WBCs); their total mass is about the same as the [[brain]] or liver.<ref name=Alberts>{{cite book | author= Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., and Walters, P. | title = Molecular Biology of the Cell |edition =4th | publisher = Garland Science| year = 2002 | location = New York and London | url = http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=mboc4.TOC&depth=2 | isbn = 0-8153-3218-1}}</ref> The peripheral blood contains 2% of circulating lymphocytes; the rest move within the tissues and [[lymphatic system]].<ref name=Alberts/> 
+
+B cells and T cells are derived from the same [[multipotent hematopoietic stem cell]]s, and are morphologically indistinguishable from one another until after they are activated.<ref name=Janeway6>{{cite book | author =  Janeway C.A., Travers, P., Walport, M., Shlomchik, M.J. | title = Immunobiology. | edition = 6th | publisher = Garland Science | year = 2005 | isbn = 0-443-07310-4}}</ref> B cells play a large role in the [[humoral immune response]], whereas T cells are intimately involved in [[cell-mediated immune response]]s. In  all [[vertebrate]]s except [[Agnatha]], B cells and T cells are produced by stem cells in the bone marrow.<ref name=Janeway6/> 
+T progenitors migrate from the bone marrow to the [[thymus]] where they are called thymocytes and where they develop into T cells. In humans, approximately 1-2% of the lymphocyte pool recirculates each hour to optimize the opportunities for antigen-specific lymphocytes to find their specific antigen within the secondary lymphoid tissues.<ref name=USC>[http://pathmicro.med.sc.edu/book/immunol-sta.htm Microbiology and Immunology On-Line Textbook]: USC School of Medicine</ref>
+
+In an adult animal, the peripheral lymphoid organs contain a mixture of B and T cells in at least three stages of differentiation: 
+*[[naive cell]]s that have matured, left the bone marrow or thymus, have entered the lymphatic system, but that have yet to encounter their cognate antigen,
+*[[effector cell]]s that have been activated by their cognate antigen, and are actively involved in eliminating a pathogen.
+*memory cells – the long-lived survivors of past infections.
+
+==Antigen presentation==
+{{main|Antigen presentation}}
+Acquired immunity relies on the capacity of immune cells to distinguish between the body's own cells and unwanted invaders. 
+The host's cells express "self" [[antigens]]. These antigens are different from those on the surface of bacteria or on the surface of virus-infected host cells (("non-self" or ""foreign" antigens)). The acquired immune response is triggered by recognizing foreign antigen in the cellular context of a danger-activated dendritic cell. 
+
+With the exception of non-nucleated cells (including [[erythrocyte]]s), all cells are capable of presenting antigen through the function of major histocompatibility complex (MHC)molecules .<ref name=Janeway6/> Some cells are specially equipped to present antigen, and to prime naive T cells. [[Dendritic cells]] and B-cells (and to a lesser extent [[macrophages]]) are equipped with special "co-stimulatory" ligands recognized by co-stimulatory receptors on T cells, and are termed professional [[antigen presenting cells]] (APC). 
+
+Several T cells subgroups can be activated by professional APCs, and each type of T cell is specially equipped to deal with each unique toxin or bacterial and viral pathogen.  The type of T cell activated, and the type of response generated depends, in part, on the context in which the APC first encountered the antigen.<ref name=Janeway/>
+
+===Exogenous antigens===
+[[Image:Antigen presentation.svg|thumb|220px|right|Antigen presentation stimulates T cells to become either "cytotoxic" CD8+ cells or "helper" CD4+ cells.]]
+Dendritic cells engulf [[exogenous]] pathogens, such as bacteria, parasites or toxins in the tissues and then migrate, via [[chemotactic]] signals, to the T cell enriched lymph nodes. During migration, dendritic cells undergo a process of maturation in which they lose most of their ability to engulf other pathogens and develop an ability to communicate with T-cells.  The dendritic cell uses [[enzyme]]s to chop the pathogen into smaller pieces, called [[antigen]]s. In the lymph node, the dendritic cell will display these "non-self" antigens on its surface by coupling them to a "self"-receptor called the [[Major histocompatibility complex]], or MHC (also known in humans as [[Human leukocyte antigen]] (HLA)).<ref name=Janeway/> This MHC:antigen complex is recognized by T-cells passing through the lymph node. Exogenous antigens are usually displayed on [[MHC class II]] molecules, which activate CD4+ helper T-cells.<ref name=Janeway/>
+
+===Endogenous antigens===
+[[Endogenous]] antigens are produced by viruses replicating within a host cell.<ref name=Janeway/> The host cell uses enzymes to digest virally associated proteins, and displays these pieces on its surface to T-cells by coupling them to MHC. Endogenous antigens are typically displayed on [[MHC class I]] molecules, and activate CD8+ cytotoxic T-cells. With the exception of non-nucleated cells (including [[erythrocyte]]s), MHC class I is expressed by all host cells.<ref name=Janeway/>
+
+==T lymphocytes==
+{{main|T cell}}
+
+===CD8+ T lymphocytes and cytotoxicity===
+{{main|Cytotoxic T cell}}
+Cytotoxic T cells (also known as TC, killer T cell, or cytotoxic T-lymphocyte (CTL)) are a sub-group of T cells which induce the death of cells that are infected with viruses (and other pathogens), or are otherwise damaged or dysfunctional.<ref name=Janeway/>
+
+Naive cytotoxic T cells are activated when their T-cell receptor (TCR) strongly interacts with a peptide-bound MHC class I molecule. This affinity depends on the type and orientation of the antigen/MHC complex, and is what keeps the CTL and infected cell bound together.<ref name=Janeway/> Once activated, the CTL undergoes a process called [[clonal expansion]] in which it gains functionality, and divides rapidly, to produce an army of “armed”-effector cells. Activated CTL will then travel throughout the body in search of cells bearing that unique MHC Class I + peptide.
+
+When exposed to these infected or dysfunctional [[somatic cell]]s, effector CTL release [[perforin]] and [[granulysin]]: cytotoxins which form pores in the target cell's [[plasma membrane]], allowing [[ion]]s and water to flow into the infected cell, and causing it to burst or [[Lysis|lyse]].<ref name=Janeway/> CTL release [[granzyme]], a [[serine protease]] that enters cells via pores to induce [[apoptosis]] (cell death). To limit extensive tissue damage during an infection, CTL activation is tightly controlled and generally requires a very strong MHC/antigen activation signal, or additional activation signals provided by "helper" T-cells (see below).<ref name=Janeway/> 
+
+Upon resolution of the infection, most of the effector cells will die and be cleared away by phagocytes, but a few of these cells will be retained as memory cells.<ref name=Janeway6/> Upon a later encounter with the same antigen, these memory cells quickly differentiate into effector cells, dramatically shortening the time required to mount an effective response.<br style="clear:both" />
+
+===Helper T-cells===
+{{main|T helper cell}} [[Image:T cell activation.svg|thumb|280px|right|The T lymphocyte activation pathway. T cells contribute to immune defenses in two major ways: some direct and regulate immune responses; others directly attack infected or cancerous cells.<ref name=NIAID>The [[NIAID]] resource booklet [http://www.niaid.nih.gov/publications/immune/the_immune_system.pdf "Understanding the Immune System (pdf)"].</ref>]]
+CD4+ lymphocytes, or helper T cells, are immune response mediators, and play an important role in establishing and maximizing the capabilities of the acquired immune response.<ref name=Janeway/> These cells have no cytotoxic or phagocytic activity; and cannot kill infected cells or clear pathogens, but, in essence "manage" the immune response, by directing other cells to perform these tasks. 
+
+Helper T cells express T cell receptors (TCR) that recognize antigen bound to Class II MHC molecules. The activation of a naive helper T-cell causes it to release cytokines, which influences the activity of many cell types, including the APC (Antigen Presenting Cell) that activated it.  Helper T-cells require a much milder activation stimulus than cytotoxic T cells. Helper T cells can provide extra signals that "help" activate cytotoxic cells.<ref name=Janeway6/>
+
+====Th1 and Th2: helper T cell responses====
+Two types of effector CD4+ T helper cell responses can be induced by a professional APC, designated Th1 and Th2, each designed to eliminate different types of pathogens. The factors that dictate whether an infection will trigger a Th1 or Th2 type response are not fully understood, but the response generated does play an important role in the clearance of different pathogens.<ref name=Janeway/> 
+
+The Th1 response is characterized by the production of [[Interferon-gamma]], which activates the [[bactericidal]] activities of macrophages, and induces B cells to make opsonizing (coating) and complement-fixing antibodies, and leads to "[[cell-mediated immunity]]".<ref name=Janeway/>  The Th2 response is characterized by the release of [[Interleukin 4]], which results in the activation of B cells to make neutralizing non-cytolytic antibodies, leading to "[[humoral immunity]]".<ref name=Janeway/> Generally, Th1 responses are more effective against [[intracellular]] pathogens (viruses and bacteria that are inside host cells), while Th2 responses are more effective against [[extracellular]] bacteria, parasites including helminths and [[toxin]]s.<ref name=Janeway/> Like cytotoxic T cells, most of the CD4+ helper cells will die upon resolution of infection, with a few remaining as CD4+ memory cells.
+
+[[HIV]] is able to subvert the immune system by attacking the CD4+ T cells, precisely the cells that could drive the destruction of the virus, but also the cells that drive immunity against all other pathogens encountered during an organism's lifetime.<ref name=Janeway6/> 
+
+A third type of T lymphocyte, the [[regulatory T cells]] (Treg), limits and [[immune tolerance|suppresses]] the immune system, and may control aberrant immune responses to self-antigens; an important mechanism in controlling the development of autoimmune diseases.<ref name=Janeway6/>
+
+===γδ T cells===
+{{main|gamma/delta T cells}}
+[[gamma/delta T cells|γδ T cell]]s (gamma delta cells) possess an alternative [[T cell receptor]] (TCR) as opposed to CD4+ and CD8+ αβ T cells and share characteristics of helper T cells, cytotoxic T cells and natural killer cells. Like other 'unconventional' T cell subsets bearing invariant TCRs, such as [[CD1d receptor|CD1d]]-restricted [[Natural Killer T cell]]s, γδ T cells exhibit characteristics that place them at the border between innate and acquired immunity. On one hand, γδ T cells may be considered a component of acquired immunity in that they rearrange TCR genes via [[V(D)J recombination]], which also produces [[junctional diversity]], and develop a memory phenotype. On the other hand however, the various subsets may also be considered part of the innate immune system where a restricted TCR and/or NK receptors may be used as a [[pattern recognition receptor]]. For example, according to this paradigm, large numbers of Vγ9/Vδ2 T cells respond within hours to [[non-peptidic antigen|common molecules]] produced by microbes, and highly restricted intraepithelial Vδ1 T cells will respond to stressed epithelial cells.
+
+==B lymphocytes and antibody production==
+{{main|B cell}}[[Image:B cell activation.png|thumb|230px|right|The B lymphocyte activation pathway. B cells function to protect the host by producing antibodies that identify and neutralize foreign objects like bacteria and viruses.<ref name=NIAID/>]] 
+B Cells are the major cells involved in the creation of [[antibodies]] that circulate in [[blood plasma]] and lymph, known as [[humoral immunity]]. Antibodies (also known as immunoglobulin, Ig), are large Y-shaped proteins used by the immune system to identify and neutralize foreign objects. In mammals there are five types of antibody: [[IgA]], [[IgD]], [[IgE]], [[IgG]], and [[IgM]], differing in biological properties, each has evolved to handle different kinds of antigens. Upon activation, B cells produce antibodies, each of which recognizes a unique antigen, and neutralize specific pathogens.<ref name=Janeway/> 
+
+Like the T cell receptor, B cells express a unique B cell receptor (BCR), in this case, an immobilized antibody molecule. All the BCR of any one clone of B cells recognizes and binds to only one particular antigen. A critical difference between B cells and T cells is how each cell "sees" an antigen. T cells recognize their cognate antigen in a processed form - as a peptide in the context of an MHC molecule,<ref name=Janeway/> while B cells recognize antigens in their native form.<ref name=Janeway/> Once a B cell encounters its cognate (or specific) antigen (and receives additional signals from a [[helper T cell]] (predominately Th2 type)), it further [[cellular differentiation|differentiate]]s into an effector cell, known as a plasma cell.<ref name=Janeway/> 
+
+[[Plasma cells]] are short lived cells (2–3 days) which secrete antibodies. These antibodies bind to antigens, making them easier targets for phagocytes, and trigger the [[complement cascade]].<ref name=Janeway/> About 10% of plasma cells will survive to become long-lived  antigen specific [[memory B cell]]s.<ref name=Janeway/> Already primed to produce specific antibodies, these cells can be called upon to respond quickly if the same pathogen re-infects the host; while the host experiences few, if any, symptoms.
+
+==Alternative acquired immune system==
+Although the classical molecules of the acquired immune system (e.g. [[antibody|antibodies]] and [[T cell receptor]]s) exist only in jawed vertebrates, a distinct [[lymphocyte]]-derived molecule has been discovered in primitive [[agnatha|jawless vertebrates]], such as the [[lamprey]] and [[hagfish]].  These animals possess a large array of molecules called variable lymphocyte receptors (VLRs for short) that, like the antigen receptors of jawed vertebrates, are produced from only a small number (one or two) of [[gene]]s.  These molecules are believed to bind pathogenic [[antigen]]s in a similar way to antibodies, and with the same degree of specificity.<ref>{{cite journal | author = M.N. Alder, I.B. Rogozin, L.M. Iyer, G.V. Glazko, M.D. Cooper, Z. Pancer | title = Diversity and Function of Adaptive Immune Receptors in a Jawless Vertebrate | journal = Science| volume = 310 | issue = 5756 | pages = 1970–1973 | year = 2005 | pmid = 16373579 | doi = 10.1126/science.1119420}}</ref>
+
+==Immunological memory==
+{{details|Immunity (medical)}}
+When B cells and T cells are activated some will become ''memory cells''. Throughout the lifetime of an animal these memory cells form a database of effective B and T lymphocytes. Upon interaction with a previously encountered antigen, the appropriate memory cells are selected and activated. In this manner, the second and subsequent exposures to an antigen produce a stronger and faster immune response. This is "adaptive" because the body's immune system prepares itself for future challenges, but is "maladaptive" of course if the receptors are autoimmune. Immunological memory can either be in the form of ''passive'' short-term memory or ''active'' long-term memory.
+
+===Passive memory===
+Passive memory is usually short-term, lasting between a few days and several months. Newborn [[infant]]s have had no prior exposure to microbes and are particularly vulnerable to infection. Several layers of passive protection are provided by the mother. ''[[Uterus|In utero]]'', [[maternal]] IgG is transported directly across the [[placenta]], so that at birth, human babies have high levels of antibodies, with the same range of antigen specificities as their mother.<ref name=Janeway/> [[Breast milk]] contains antibodies that are transferred to the gut of the infant, protecting against bacterial infections, until the newborn can synthesize its own antibodies.<ref name=Janeway/>
+
+This is [[passive immunization|passive immunity]] because the fetus does not actually make any memory cells or antibodies: It only borrows them. Short-term passive immunity can also be transferred artificially from one individual to another via antibody-rich [[blood plasma|serum]].
+
+===Active Memory===
+Active immunity is generally long-term and can be acquired by infection followed by B cells and T cells activation, or artificially acquired by vaccines, in a process called immunization.
+
+====Immunization====
+Historically, infectious disease has been the leading cause of death in the human population. Over the last century, two important factors have been developed to combat their spread; [[sanitation]] and [[immunization]].<ref name=Janeway6/> Immunization (commonly referred to as [[vaccination]]) is the deliberate induction of an immune response, and represents the single most effective manipulation of the immune system that scientists have developed.<ref name=Janeway6/> Immunizations are successful because they utilize the immune system's natural specificity as well as its inducibility.
+
+The principle behind immunization is to introduce an antigen, derived from a disease-causing organism, that stimulates the immune system to develop protective immunity against that organism, but which does not '''itself''' cause the pathogenic effects of that organism. An [[antigen]] (short for ''anti''body ''gen''erator), is defined as any substance that binds to a specific antibody and elicits an [[adaptive immune response]].<ref name=Alberts/>
+
+Most viral [[vaccine]]s are based on live [[Attenuated vaccine|attenuated]] viruses, while many bacterial vaccines are based on [[acellular]] components of microorganisms, including harmless [[toxin]] components.<ref name=Alberts/> Many antigens derived from acellular vaccines do not strongly induce an acquired response, and most bacterial vaccines require the addition of ''[[Immunologic adjuvant|adjuvant]]s'' that activate the antigen presenting cells of the [[innate immune system]] to enhance immunogenicity.<ref name=Janeway6/>
+
+==Immunological diversity==
+Most large molecules, including virtually all [[protein]]s and many [[polysaccharide]]s, can serve as antigens.<ref name=Janeway/> The parts of an antigen that interact with an antibody molecule or a lymphocyte receptor, are called [[epitope]]s. Most antigens contain a variety of epitopes and can stimulate the production of antibodies, specific T cell responses, or both.<ref name=Janeway/> [[Image:Antibody.jpg|thumb|130px|left|An antibody is made up of two heavy chains and two light chains. The unique variable region allows an antibody to recognize its matching antigen.<ref name=NIAID/>]]  A very small proportion (less than 0.01%) of the total lymphocytes are able to bind to a particular antigen, which suggests that only a few cells will respond to each antigen.<ref name=Janeway6/> 
+
+For the acquired response to "remember" and eliminate a large number of pathogens the immune system must be able to distinguish between many different antigens,<ref name=Alberts/> and the receptors that recognize antigens must be produced in a huge variety of configurations, essentially one receptor (at least) for each different pathogen that might ever be encountered. Even in the absence of antigen stimulation, a human is capable of producing more than 1 trillion different antibody molecules.<ref name=Janeway6/> Millions of genes would be required to store the genetic information used to produce these receptors, but, the entire human genome contains fewer than 25,000 [[gene]]s.<ref name="IHSGC2004">{{cite journal | author = International Human Genome Sequencing Consortium | title = Finishing the euchromatic sequence of the human genome| url= http://www.nature.com/nature/journal/v431/n7011/full/nature03001.html| journal = Nature | volume = 431 | issue = 7011 | pages = 931–45 | year = 2004 | pmid = 15496913 | doi = 10.1038/nature03001}}</ref>    
+
+This myriad of receptors are produced through a process known as [[clonal selection]].<ref name=Janeway/><ref name=Alberts/>  According to the clonal selection theory, at birth, an animal will randomly generate a vast diversity of lymphocytes (each bearing a unique antigen receptor) from information encoded in a small family of genes. In order to generate each unique antigen receptor, these genes will have undergone a process called [[V(D)J recombination]], or ''combinatorial diversification'', in which one gene segment recombines with other gene segments to form a single unique gene. It is this assembly process that generates the enormous diversity of receptors and antibodies, before the body ever encounters antigens, and enables the immune system to respond to an almost unlimited diversity of antigens.<ref name=Janeway/> Throughout the lifetime of an animal, those lymphocytes that can react against the antigens an animal actually encounters, will be selected for action, directed against anything that expresses that antigen.
+
+It is important to note that the innate and acquired portions of the immune system work together and not in spite of each other. The acquired arm, B and T cells, would be unable to function without the input of the innate system. T cells are useless without antigen-presenting cells to activate them, and B cells are crippled without T cell help. On the other hand, the innate system would likely be overrun with pathogens without the specialized action of the acquired immune response.
+
+==Acquired immunity during pregnancy==
+The cornerstone of the immune system is the recognition of "self" versus "non-self". Therefore, the mechanisms which protect the human [[fetus]] (which is considered "non-self") from attack by the immune system, are particularly interesting. Although no comprehensive explanation has emerged to explain this mysterious, and often repeated, lack of rejection, two classical reasons may explain how the fetus is tolerated. The first is that the fetus occupies a portion of the body protected by a non-immunological barrier, the [[uterus]], which the immune system does not routinely patrol.<ref name=Janeway/> The second is that the fetus itself may promote local immunosuppression in the mother, perhaps by a process of active nutrient depletion.<ref name=Janeway/> A more modern explanation for this induction of tolerance is that specific glycoproteins expressed in the uterus during [[pregnancy]] suppress the uterine immune response (see [[eu-FEDS]]).
+
+During pregnancy in [[vivipary|viviparous]] mammals (all mammals except [[Monotreme]]s), [[endogenous retroviruses]] (ERVs) are activated and produced in high quantities during the implantation of the embryo. They are currently known to possess immunosuppressive properties, suggesting a role in protecting the embryo from its mother's immune system. Also [[viral fusion proteins]] apparently cause the formation of the placental [[syncytium]]<ref>{{cite journal |author=Mi S, Lee X, Li X, ''et al.'' |title=Syncytin is a captive retroviral envelope protein involved in human placental morphogenesis |journal=Nature |volume=403 |issue=6771 |pages=785–9 |year=2000 |month=Feb |pmid=10693809 |doi=10.1038/35001608 }}
+</ref> in order to limit the exchange of migratory cells between the developing embryo and the body of the mother (something an [[epithelium]] will not do sufficiently, as certain blood cells are specialized to be able to insert themselves between adjacent epithelial cells). The immunodepressive action was the initial normal behavior of the virus, similar to HIV. The fusion proteins were a way to spread the infection to other cells by simply merging them with the infected one (HIV does this too). It is believed that the ancestors of modern [[vivipary|viviparous]] mammals evolved after an infection by this virus, enabling the fetus to survive the immune system of the mother.<ref>{{cite web 
+|url=http://www.dbc.uci.edu/~faculty/villarreal/new1/erv-placental.html
+|title=The Viruses That Make Us: A Role For Endogenous Retrovirus In The Evolution Of Placental Species
+|author=Luis P. Villarreal
+|publisher=University of California, Irvine (lecture notes)
+|accessdate=2008-02-03 }} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+The [[human genome project]] found several thousand [[endogenous retrovirus|ERV]]s classified into 24 families.<ref>{{cite journal
+|url=http://newsarchive.asm.org/oct01/feature1.asp
+|title=Persisting Viruses Could Play Role in Driving Host Evolution
+|author=Luis P. Villarreal
+|journal=ASM News (American Society for Microbiology)
+|month=Oct |year=2001
+}}</ref>
+
+==See also==
+{{commons category|Immunology}}
+* [[Affinity maturation]]
+* [[Allelic exclusion]]
+* [[Anergy]]
+* [[Immune tolerance]]
+* [[Immunosuppression]]
+* [[Original antigenic sin]]
+* [[Somatic hypermutation]]
+* [[Polyclonal response]]
+
+== External links ==
+* [http://www.modelingimmunity.org The Center for Modeling Immunity to Enteric Pathogens (MIEP)]
+
+==References==
+{{reflist}}
+
+{{immune_system}}
+{{lymphatic system}}
+{{organ systems}}
+
+{{DEFAULTSORT:Adaptive Immune System}}
+[[Category:Immune system]]

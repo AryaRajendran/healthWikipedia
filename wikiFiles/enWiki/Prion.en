@@ -1,0 +1,351 @@
+{{About||the bird|Prion (bird)|the theoretical subatomic particle|Preon}}
+
+{{Infobox disease
+| Name = Prion Diseases (TSEs)
+| Image = Histology bse.jpg
+| Caption = Microscopic "holes" are characteristic in prion-affected tissue sections, causing the tissue to develop a "spongy" architecture.
+| ICD10 = {{ICD10|A|81||a|81}}
+| ICD9 = {{ICD9|046}}
+}}
+
+A '''prion''' ({{IPAc-en|audio=Pronunciation prion.ogg|ˈ|p|r|iː|ɒ|n}}<ref>{{OED|Prion}}</ref>) in the Scrapie form (PrP<sup>Sc</sub>) is an [[infectious agent]] composed of [[protein]] in a [[Protein folding|misfolded]] form.<ref name=Sherris>{{cite book |editors=Ryan KJ, Ray CG, ''et al'' |title=Sherris Medical Microbiology |edition=4th |publisher=McGraw Hill |year=2004 |isbn=0-8385-8529-9 |pages=624–8}}</ref> This is the central idea of the Prion Hypothesis, which remains debated.<ref>{{cite journal |author=Somerville RA. |title=TSE agent strains and PrP: reconciling structure and function |journal=Trends in Biochemical Sciences |volume=27 |issue=12 |pages=606–612 year=2002 |pmid=12468229 |year=2002}}</ref> This would be in contrast to all other known infectious agents ([[virus]]/[[bacteria]]/[[fungus]]/[[parasite]]) which must contain [[nucleic acid]]s (either [[DNA]], [[RNA]], or both).  The word ''prion'', coined in 1982 by [[Stanley B. Prusiner]], is derived from the words ''protein'' and ''infection''.<ref name="Nobel">{{cite web |url=http://nobelprize.org/nobel_prizes/medicine/laureates/1997/prusiner-autobio.html |title=Stanley B. Prusiner&nbsp;— Autobiography |publisher=NobelPrize.org |accessdate=2007-01-02}}</ref> Prions are responsible for the [[transmissible spongiform encephalopathy|transmissible spongiform encephalopathies]] in a variety of [[mammal]]s, including [[bovine spongiform encephalopathy]] (BSE, also known as "mad cow disease") in [[cattle]].  In humans prions cause [[Creutzfeldt-Jakob Disease]] (CJD), variant Creutzfeldt-Jakob Disease (vCJD), [[Gerstmann–Sträussler–Scheinker syndrome]], [[Fatal Familial Insomnia]] and [[Kuru (disease)|Kuru]]. <ref>http://www.cdc.gov/ncidod/dvrd/prions/</ref> All known prion diseases affect the structure of the [[brain]] or other [[neuron|neural]] tissue and all are currently untreatable and universally fatal.<ref>{{cite journal |author=Prusiner SB |title=Prions |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=95 |issue=23 |pages=13363–83 |year=1998|pmid=9811807 |pmc=33918 |doi=10.1073/pnas.95.23.13363|bibcode = 1998PNAS...9513363P }}</ref>
+
+Prions propagate by transmitting a [[protein folding|misfolded protein]] state.  When a prion enters a healthy organism, it induces existing, properly folded proteins to convert into the disease-associated, prion form; the prion acts as a template to guide the misfolding of more proteins into prion form.  These newly formed prions can then go on to convert more proteins themselves; this triggers a chain reaction that produces large amounts of the prion form.<ref>{{cite journal |author=Aguzzi A |title=Unraveling prion strains with cell biology and organic chemistry |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=105 |issue=1 |pages=11–2 |year=2008 |pmid=18172195 |pmc=2224168 |doi=10.1073/pnas.0710824105 |bibcode = 2008PNAS..105...11A }}</ref> All known prions induce the formation of an [[amyloid]] fold, in which the protein polymerises into an aggregate consisting of tightly packed [[beta sheet]]s. Amyloid aggregates are fibrils, growing at their ends, and replicating when breakage causes two growing ends to become four growing ends. The [[incubation period]] of prion diseases is determined by the [[exponential growth]] rate associated with prion replication, which is a balance between the linear growth and the breakage of aggregates.<ref name="Masel 99">{{cite journal |doi=10.1016/S0301-4622(99)00016-2 |author=Masel J, Jansen VAA, Nowak MA |title=Quantifying the kinetic parameters of prion replication |journal=Biophysical Chemistry |volume=77 |issue=2–3 |pages=139–152 |year=1999 |month=March |pmid=10326247}}</ref>  (Note that the propagation of the prion depends on the presence of normally folded protein in which the prion can induce misfolding; animals which do not express the normal form of the prion protein cannot develop nor transmit the disease.)
+
+This altered structure is extremely stable and accumulates in infected tissue, causing tissue damage and cell death.<ref>{{cite journal |author=Christopher M. Dobson |title=The structural basis of protein folding and its links with human disease |journal=Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences |volume=356 |issue=1406 |pages=133–45 |year=2001 |month=February |pmid=11260793 |pmc=1088418 |doi=10.1098/rstb.2000.0758 |url=http://rstb.royalsocietypublishing.org/content/356/1406/133.full.pdf+html?sid=b4dec236-78b0-44b9-8d64-3b37b1ddc0c9 |format=PDF |accessdate=2011-11-09}}</ref> This structural stability means that prions are resistant to [[denaturation (biochemistry)|denaturation]] by chemical and physical agents, making disposal and containment of these particles difficult. Prions come in different strains, each with a slightly different structure, and most of the time, strains breed true. Prion replication is nevertheless subject to occasional [[epimutation]] and then [[natural selection]] just like other forms of replication.<ref>{{cite journal |author=Li J, Browning S, Mahal SP, Oelschlegel AM, Weissmann C |title=Darwinian evolution of prions in cell culture |journal=Science |volume=327 |issue=5967 |pages=869–72 |year=2010 |pmid=20044542 |pmc=2848070 |doi=10.1126/science.1183218 |laysummary=http://news.bbc.co.uk/2/hi/health/8435320.stm|bibcode = 2010Sci...327..869L }}</ref> However, the number of possible distinct prion strains is likely far smaller than the number of possible [[DNA sequences]], so evolution takes place within a limited space.
+
+All known mammalian prion diseases are caused by the so-called prion protein, [[PRNP|PrP]].  The endogenous, properly folded, form is denoted PrP<sup>C</sup> (for '''''C'''ommon'' or '''''C'''ellular'') while the disease-linked, misfolded form is denoted PrP<sup>Sc</sup> (for [[scrapie|'''''Sc'''rapie'']], after one of the diseases first linked to prions and neurodegeneration.)<ref name=Krull /><ref>{{cite journal |author=Laurén J, Gimbel DA, Nygaard HB, Gilbert JW, Strittmatter SM |title=Cellular prion protein mediates impairment of synaptic plasticity by amyloid-beta oligomers |journal=Nature |volume=457 |issue=7233 |pages=1128–32 |year=2009 |month=February |pmid=19242475 |pmc=2748841 |doi=10.1038/nature07761|bibcode = 2009Natur.457.1128L }}</ref> The precise structure of the prion is not known, though they can be formed by combining PrP<sup>C</sup>, polyadenylic acid, and lipids in a [[Protein Misfolding Cyclic Amplification]] (PMCA) reaction.<ref name="minimal prion" />
+
+Proteins showing prion-type behavior are also found in some [[fungus|fungi]], which has been useful in helping to understand mammalian prions. [[Fungal prions]] do not appear to cause disease in their hosts.<ref>{{cite journal |author=Lindquist S, Krobitsch S, Li L, Sondheimer N |title=Investigating protein conformation-based inheritance and disease in yeast |journal=Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences |volume=356 |issue=1406 |pages=169–76 |year=2001 |month=February |pmid=11260797 |pmc=1088422 |doi=10.1098/rstb.2000.0762 |url=http://rstb.royalsocietypublishing.org/content/356/1406/169.full.pdf+html?sid=db8e07ba-e75f-4d47-a608-7af3e1298bd1 |accessdate=2011-11-09}}</ref>
+
+== Discovery ==
+During the 1960s, two London-based researchers, radiation biologist [[Tikvah Alper]] and mathematician [[John Stanley Griffith]] developed the hypothesis that some [[transmissible spongiform encephalopathy|transmissible spongiform encephalopathies]] are caused by an infectious agent consisting solely of proteins.<ref>{{cite journal |author=Alper T, Cramp WA, Haig DA, Clarke MC |title=Does the agent of scrapie replicate without nucleic acid? |journal=Nature |volume=214 |issue=5090 |pages=764–6 |year=1967 |month=May |pmid=4963878 |doi=10.1038/214764a0  |url= |bibcode = 1967Natur.214..764A }}</ref><ref>{{cite journal |author=Griffith JS |title=Self-replication and scrapie |journal=Nature |volume=215 |issue=5105 |pages=1043–4 |year=1967 |month=September |pmid=4964084 |doi=10.1038/2151043a0 |url= |bibcode = 1967Natur.215.1043G }}
+</ref> Alper and Griffith wanted to account for the discovery that the mysterious infectious agent causing the diseases [[scrapie]] and [[Creutzfeldt–Jakob disease]] resisted [[ionizing radiation]]. (A single ionizing "hit" normally destroys an entire infectious particle, and the dose needed to hit half the particles depends on the size of the particles. The data suggested that the infectious agent was too small to be a virus.)
+
+[[Francis Crick]] recognized the potential importance of the Griffith protein-only hypothesis for scrapie propagation in the second edition of his "[[Central dogma of molecular biology]]" (1970): while asserting that the flow of sequence information from protein to protein, or from protein to RNA and DNA was "precluded", he noted that Griffith's hypothesis was a potential contradiction (although it was not so promoted by Griffith).<ref>
+{{cite journal |author=Crick F |title=Central dogma of molecular biology |journal=Nature |volume=227 |issue=5258 |pages=561–3 |year=1970 |month=August |pmid=4913914 |doi = 10.1038/227561a0 |url=  |bibcode=1970Natur.227..561C}}
+</ref>  The revised hypothesis was later formulated, in part, to accommodate [[reverse transcription]] (which both [[Howard Martin Temin|Howard Temin]] and [[David Baltimore]] discovered in 1970).{{cn|date=November 2012}}
+
+In 1982, [[Stanley B. Prusiner]] of the [[University of California, San Francisco]] announced that his team had purified the hypothetical infectious prion, and that the infectious agent consisted mainly of a specific protein&nbsp;– though they did not manage to isolate the protein until two years after Prusiner's announcement.<ref>
+{{cite journal |last=Taubes| first= Gary | authorlink=Gary Taubes |title=The game of name is fame. But is it science? |journal=Discover |volume=7 |issue=12 |pages= 28–41 |date=December 1986}}</ref> 
+While the infectious agent was named a prion, the specific protein that the prion was composed of is also known as the '''Pr'''ion '''P'''rotein (PrP), though this protein may occur both in infectious and non-infectious forms. Prusiner won the [[Nobel Prize in Physiology or Medicine]] in 1997 for his research into prions.<ref name="nobel">
+{{cite web|url=http://nobelprize.org/nobel_prizes/medicine/laureates/1997/|title=The Nobel Prize in Physiology or Medicine, 1997|accessdate=2010-02-28|publisher=NobelPrize.org}}
+</ref>
+
+== Structure ==
+{{See also|PrP structure}}
+
+=== Isoforms ===
+The protein that prions are made of (PrP) is found throughout the body, even in healthy people and animals. However, PrP found in infectious material has a different structure and is resistant to [[protease]]s, the enzymes in the body that can normally break down proteins. The normal form of the protein is called '''PrP<sup>C</sup>''', while the infectious form is called '''PrP<sup>Sc</sup>'''&nbsp;— the ''C'' refers to 'cellular' or 'common' PrP, while the ''Sc'' refers to '[[scrapie]]', a prion disease occurring in sheep.<ref name="sci5621">{{cite journal |author=Priola SA, Chesebro B, Caughey B |title=Biomedicine. A view from the top—prion diseases from 10,000 feet |journal=Science |volume=300 |issue=5621 |pages=917–9 |year=2003 |pmid=12738843 |doi=10.1126/science.1085920}}</ref> While '''PrP<sup>C</sup>''' is structurally well-defined, '''PrP<sup>Sc</sup>''' is certainly [[polydisperse]] and defined at a relatively poor level. PrP can be induced to fold into other more-or-less well-defined isoforms in vitro, and their relationship to the form(s) that are pathogenic in vivo is not yet clear.
+
+==== PrP<sup>C</sup> ====
+PrP<sup>C</sup> is a normal protein found on the [[cell membrane|membranes]] of [[cell (biology)|cells]]. It has 209 [[amino acid]]s (in humans), one [[disulfide bond]], a molecular mass of 35–36 [[Atomic mass unit|kDa]] and a mainly [[alpha helix|alpha-helical]] structure. Several [[Membrane topology|topological]] forms exist; one cell surface form anchored via [[glycolipid]] and two [[transmembrane]] forms.<ref>{{cite journal |author=Hegde RS, Mastrianni JA, Scott MR, ''et al.'' |title=A transmembrane form of the prion protein in neurodegenerative disease |journal=Science |volume=279 |issue=5352 |pages=827–34 |year=1998|pmid=9452375 |doi=10.1126/science.279.5352.827 |bibcode = 1998Sci...279..827H }}</ref> The normal protein is not sedimentable; meaning it cannot be separated by centrifuging techniques.<ref name=Krull>{{cite book |author=Krull, Ira S.; Brian K. Nunnally |title=Prions and mad cow disease |publisher=Marcel Dekker |location=New York, N.Y |year=2004 |page=6 |isbn=0-8247-4083-1 |url=http://books.google.com/?id=WjeuaHopV5UC&pg=PA6}}</ref> Its function is a complex issue that continues to be investigated. PrP<sup>C</sup> binds [[copper]] (II) [[ion]]s with high affinity.<ref>{{cite journal |author=Brown DR, Qin K, Herms JW, ''et al.'' |title=The cellular prion protein binds copper in vivo |journal=Nature |volume=390 |issue=6661 |pages=684–7 |year=1997 |pmid=9414160 |doi=10.1038/37783|bibcode = 1997Natur.390..684B }}</ref> The significance of this finding is not clear, but it presumably relates to PrP structure or function. PrP<sup>C</sup> is readily digested by [[proteinase K]] and can be liberated from the cell surface in vitro by the enzyme [[phospholipase C|phosphoinositide phospholipase C]] (PI-PLC), which cleaves the [[glycophosphatidylinositol]] (GPI) glycolipid anchor.<ref name="weissmann">{{cite journal |author=Weissmann C |title=The state of the prion |journal=Nature Reviews. Microbiology |volume=2 |issue=11 |pages=861–71 |year=2004 |month=November |pmid=15494743 |doi=10.1038/nrmicro1025}}</ref>  PrP has been reported to play important roles in cell-cell adhesion and intracellular signaling ''in vivo'', and may therefore be involved in cell-cell communication in the brain.<ref>{{cite journal |author=Málaga-Trillo E, Solis GP, Schrock Y, ''et al.'' |title=Regulation of embryonic cell adhesion by the prion protein |journal=PLoS Biology |volume=7 |issue=3 |pages=e55 |year=2009 |month=March |pmid=19278297 |pmc=2653553 |doi=10.1371/journal.pbio.1000055 |url=http://dx.plos.org/10.1371/journal.pbio.1000055 |accessdate=2010-02-28 |editor1-last=Weissmann |editor1-first=Charles}}</ref>
+
+==== PrP<sup>Sc</sup> ====
+The infectious [[isoform]] of PrP, known as PrP<sup>Sc</sup>, is able to convert normal PrP<sup>C</sup> proteins into the infectious isoform by changing their [[Protein structure|conformation]], or shape; this, in turn, alters the way the proteins interconnect. Although the exact 3D structure of PrP<sup>Sc</sup> is not known, it has a higher proportion of [[beta sheet|β-sheet]] structure in place of the normal [[alpha helix|α-helix]] structure.<ref>{{cite journal |author=Pan KM, Baldwin M, Nguyen J, ''et al.'' |title=Conversion of alpha-helices into beta-sheets features in the formation of the scrapie prion proteins |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=90 |issue=23 |pages=10962–6 |year=1993 |month=December |pmid=7902575 |pmc=47901 |doi= 10.1073/pnas.90.23.10962|bibcode = 1993PNAS...9010962P }}</ref> Aggregations of these abnormal isoforms form highly structured [[amyloid]] fibers, which accumulate to form plaques. It is unclear if these aggregates are the cause of cell damage or are simply a side effect of the underlying disease process.<ref>Baker, Harry F., and Rosalind M. Ridley, eds. Prion diseases. Totowa, N.J: Humana, 1996</ref> The end of each fiber acts as a template onto which free protein molecules may attach, allowing the fiber to grow. Under most circumstances, only PrP molecules with an identical amino acid sequence to the infectious PrP<sup>Sc</sup> are incorporated into the growing fiber.<ref name=Krull /> However, rare cross-species transmission is also possible. In a different prion, [[sup35p]] was shown to be able to be incorporated into existing aggregations even when three of the five oligopeptide repeats normally present were deleted.<ref>{{cite doi|10.1093/emboj/20.9.2111}}</ref>
+
+== Prion replication mechanism ==
+[[File:Prion propagation.svg|thumb|left|Heterodimer model of prion propagation]]
+[[File:Prion replication.png|thumb|right|Fibril model of prion propagation.]]
+
+The first hypothesis that tried to explain how prions replicate in a protein-only manner was the '''heterodimer model'''.<ref>{{cite journal |author=Cohen FE, Pan KM, Huang Z, Baldwin M, Fletterick RJ, Prusiner SB |title=Structural clues to prion replication |journal=Science |volume=265 |issue=5178 |pages=530–531 |year=1994 |pmid=7909169 |doi=10.1126/science.7909169|bibcode = 1994Sci...264..530C }}</ref> This model assumed that a single PrP<sup>Sc</sup> molecule binds to a single PrP<sup>C</sup> molecule and [[enzyme|catalyzes]] its conversion into PrP<sup>Sc</sup>. The two PrP<sup>Sc</sup> molecules then come apart and can go on to convert more PrP<sup>C</sup>. However, a model of prion replication must explain both how prions propagate, and why their spontaneous appearance is so rare. [[Manfred Eigen]] showed that the heterodimer model requires PrP<sup>Sc</sup> to be an extraordinarily effective [[enzyme|catalyst]], increasing the rate of the conversion reaction by a factor of around 10<sup>15</sup>.<ref name="Eigen96">{{cite journal |author=Eigen M |title=Prionics or the kinetic basis of prion diseases |journal=Biophysical Chemistry| volume=63 |issue=1 |pages=A1–18 |year=1996 |pmid=8981746  |doi=10.1016/S0301-4622(96)02250-8 }}</ref> This problem does not arise if PrP<sup>Sc</sup> exists only in aggregated forms such as [[amyloid]], where [[cooperativity]] may act as a barrier to spontaneous conversion. What is more, despite considerable effort, infectious monomeric PrP<sup>Sc</sup> has never been isolated.
+
+An alternative model assumes that PrP<sup>Sc</sup> exists only as fibrils, and that fibril ends bind PrP<sup>C</sup> and convert it into PrP<sup>Sc</sup>. If this were all, then the quantity of prions would increase [[linear function|linearly]], forming ever longer fibrils. But [[exponential growth]] of both PrP<sup>Sc</sup> and of the [[Median lethal dose|quantity of infectious particles]] is observed during prion disease.<ref>{{cite journal |doi=10.1099/0022-1317-72-12-2905 |author=Bolton DC, Rudelli RD, Currie JR, Bendheim PE |title=Copurification of sp33-37 and scrapie agent from hamster brain prior to detectable histopathology and clinical-disease |journal=Journal of General Virology| volume=72 | pages=2905–2913 |year=1991 |pmid=1684986 |issue=12}}</ref><ref>{{cite journal |author=Jendroska K, Heinzel FP, Torchia M, Stowring L, Kretzschmar HA, Kon A, Stern A, Prusiner SB, DeArmond SJ |title=Proteinase-resistant prion protein accumulation in syrian-hamster brain correlates with regional pathology and scrapie infectivity |journal=Neurology| volume=41 |issue=9 | pages=1482–1490 |year=1991| url=http://www.neurology.org/cgi/content/abstract/41/9/1482?ck=nck |pmid=1679911}}</ref><ref>{{cite journal |doi=10.1099/0022-1317-77-8-1925 |author=Beekes M, Baldauf E, Diringer H |title=Sequential appearance and accumulation of pathognomonic markers in the central nervous system of hamsters orally infected with scrapie |journal=Journal of General Virology| volume=77 | pages=1925–1934 |year=1996 |pmid=8760444 |issue=8}}</ref> This can be explained by taking into account fibril breakage.<ref>{{cite journal |author=Bamborough P, Wille H, Telling GC, Yehiely F, Prusiner SB, Cohen FE |title=Prion protein structure and scrapie replication: theoretical, spectroscopic, and genetic investigations |journal=Cold Spring Harbor Symposium on Quantitative Biology| volume=61 | pages=495–509 |year=1996| pmid=9246476 |doi=10.1101/SQB.1996.061.01.050}}</ref> A mathematical solution for the exponential growth rate resulting from the combination of fibril growth and fibril breakage has been found.<ref name="Masel 99" /> The exponential growth rate depends largely on the [[square root]] of the PrP<sup>C</sup> concentration.<ref name="Masel 99" /> The [[incubation period]] is determined by the exponential growth rate, and [[in vivo]] data on prion diseases in [[transgenic mice]] match this prediction.<ref name="Masel 99" /> The same square root dependence is also seen [[in vitro]] in experiments with a variety of different [[amyloid|amyloid proteins]].<ref>{{cite journal |doi=10.1126/science.1178250 |author=Knowles TPJ, Waudby CA, Devlin GL, Cohen SIA, Aguzzi A, Vendruscolo M, Terentjev EM, Welland ME, Dobson CM |title=An Analytical Solution to the Kinetics of Breakable Filament Assembly |journal=Science| volume=326 |issue=5959 | pages=1533–1537 |year=2009 |pmid=20007899|bibcode = 2009Sci...326.1533K }}</ref>
+
+The mechanism of prion replication has implications for designing drugs. Since the incubation period of prion diseases is so long, an effective drug does not need to eliminate all prions, but simply needs to slow down the rate of exponential growth. Models predict that the most effective way to achieve this, using a drug with the lowest possible dose, is to find a drug that binds to fibril ends and blocks them from growing any further.<ref>{{cite journal |author=Masel J, Jansen VAA |title=Designing drugs to stop the formation of prions and other amyloids | journal=Biophysical Chemistry| volume=88 |issue=1–3 | pages=47–59 |year=2000 |pmid=11152275 |doi= 10.1016/S0301-4622(00)00197-6 }}</ref>
+
+== PrP function ==
+It has been proposed that neurodegeneration caused by prions may be related to abnormal function of PrP. However, the physiological function of the prion protein remains a controversial matter. While data from in vitro experiments suggest many dissimilar roles, studies on PrP knockout mice have provided only limited information because these animals exhibit only minor abnormalities. In recent research done in mice, it was found that the cleavage of PrP proteins in peripheral nerves causes the activation of [[myelin]] repair in [[Schwann Cells]] and that the lack of PrP proteins caused demyelination in those cells.<ref>{{cite journal  | title= Healthy prions protect nerves | journal=Nature | author=Abbott A | doi=10.1038/news.2010.29 | date=2010-01-24 }}</ref>
+
+=== PrP and long-term memory ===
+A review of evidence in 2005 suggested that PrP may have a normal function in maintenance of [[long-term memory]].<ref>{{cite journal |author=Shorter J, Lindquist S |title=Prions as adaptive conduits of memory and inheritance |journal=Nature Reviews. Genetics |volume=6 |issue=6 |pages=435–50 |year=2005 |month=June |pmid=15931169 |doi=10.1038/nrg1616}}</ref> As well, a 2004 study found that mice lacking genes for normal cellular PrP protein show altered [[hippocampus|hippocampal]] [[long-term potentiation]].<ref>{{cite journal |author=Maglio LE, Perez MF, Martins VR, Brentani RR, Ramirez OA |title=Hippocampal synaptic plasticity in mice devoid of cellular prion protein |journal=Brain Research. Molecular Brain Research |volume=131 |issue=1–2 |pages=58–64 |year=2004 |pmid=15530652 |doi=10.1016/j.molbrainres.2004.08.004}}</ref><ref>{{cite journal | author=Caiati MD, Safiulina VF, Fattorini G, Sivakumaran S, Legname G, Cherubini E. | title=PrPC Controls via Protein Kinase A the Direction of Synaptic Plasticity in the Immature Hippocampus. |journal=The Journal of Neuroscience |volume=33 |issue=7 |pages=2973-83 |year=2013 |pmid=23407955 |doi=10.1523/JNEUROSCI.4149-12.2013}}</ref>
+
+=== PrP and stem cell renewal ===
+A 2006 article from the Whitehead Institute for Biomedical Research indicates that PrP expression on stem cells is necessary for an organism's self-renewal of [[bone marrow]].  The study showed that all long-term [[hematopoietic stem cell]]s expressed PrP on their cell membrane and that hematopoietic tissues with PrP-null stem cells exhibited increased sensitivity to cell depletion.<ref>{{cite journal |author=Zhang CC, Steele AD, Lindquist S, Lodish HF |title=Prion protein is expressed on long-term repopulating hematopoietic stem cells and is important for their self-renewal |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=103 |issue=7 |pages=2184–9 |year=2006|pmid=16467153 |pmc=1413720 |doi=10.1073/pnas.0510577103|bibcode = 2006PNAS..103.2184Z }}</ref>
+
+== Prion disease ==
+{{Main|Transmissible spongiform encephalopathy}}
+{| class = "wikitable" style = "width:50%; float:right; font-size:90%; margin-left:15px"
+|+Diseases caused by prions
+|-
+!Affected animal(s) !! Disease
+|-
+|[[Domestic sheep|sheep]], [[goat]]
+|[[Scrapie]]<ref name="ictvdb-prions">{{cite web | url=http://www.ncbi.nlm.nih.gov/ICTVdb/Ictv/fs_prion.htm | title = 90. Prions | work=ICTVdB Index of Viruses | publisher= U.S. National Institutes of Health website | date=2002-02-14 | accessdate=2010-02-28}}</ref>
+|-
+|[[cattle]]
+|[[Bovine spongiform encephalopathy]] (BSE), mad cow disease<ref name="ictvdb-prions" />
+|-
+|[[mink]]<ref name="ictvdb-prions" />
+|[[Transmissible mink encephalopathy]] (TME)
+|-
+|white-tailed deer, elk, mule deer, moose<ref name="ictvdb-prions" />
+|[[Chronic wasting disease]] (CWD)
+|-
+|[[cat]]<ref name="ictvdb-prions" />
+|[[Feline spongiform encephalopathy]] (FSE)
+|-
+|[[nyala]], [[oryx]], [[greater Kudu|greater kudu]]<ref name="ictvdb-prions" />
+|[[Exotic ungulate encephalopathy]] (EUE)
+|-
+|[[ostrich]]<ref name="hussein2004">{{cite journal |author= Hussein MF, Al-Mufarrej SI |year= 2004 |url=http://www3.kfu.edu.sa/sjournal/eng/pdffiles/b526.pdf |format=PDF |title=Prion Diseases: A Review; II. Prion Diseases in Man and Animals |journal=Scientific Journal of King Faisal University (Basic and Applied Sciences) |issue= 2 |page=139 |accessdate=2010-02-28 |volume=5}}</ref>
+|Spongiform encephalopathy<br>(Has not been shown to be transmissible.)
+|-
+|rowspan=8|human
+|[[Creutzfeldt–Jakob disease]] (CJD)<ref name="ictvdb-prions" />
+|-
+|[[Iatrogenesis|Iatrogenic]] Creutzfeldt–Jakob disease (iCJD)
+|-
+|Variant Creutzfeldt–Jakob disease (vCJD)
+|-
+|Familial Creutzfeldt–Jakob disease (fCJD)
+|-
+|Sporadic Creutzfeldt–Jakob disease (sCJD)
+|-
+|[[Gerstmann–Sträussler–Scheinker syndrome]] (GSS)<ref name="ictvdb-prions" />
+|-
+|[[Fatal familial insomnia]] (FFI)<ref>{{cite news | date=1999-05-28 | url=http://news.bbc.co.uk/2/hi/health/355297.stm | title=BSE proteins may cause fatal insomnia. | publisher=BBC News | accessdate=2010-02-28}}</ref>
+|-
+|[[Kuru (disease)|Kuru]]<ref name="ictvdb-prions" />
+|}
+
+Prions cause neurodegenerative disease by aggregating extracellularly within the [[central nervous system]] to form plaques known as [[amyloid]], which disrupt the normal [[tissue (biology)|tissue]] structure. This disruption is characterized by "holes" in the tissue with resultant spongy architecture due to the [[vacuole]] formation in the neurons.<ref name="robspath">{{cite book |editor=Robbins SL, Cotran RS, Kumar V, Collins T |title=Robbins pathologic basis of disease |publisher=Saunders |location=Philadelphia |year=1999 |pages= |isbn=0-7216-7335-X }}</ref> Other histological changes include [[astrogliosis]] and the absence of an [[inflammation|inflammatory reaction]].<ref name="belay">{{cite journal |author=Belay ED |title=Transmissible spongiform encephalopathies in humans |journal=Annual Review of Microbiology |volume=53 |issue= |pages=283–314 |year=1999 |pmid=10547693 |doi=10.1146/annurev.micro.53.1.283}}</ref> While the [[incubation period]] for prion diseases is generally quite long{{vague|date=December 2011}}, once symptoms appear the disease progresses rapidly, leading to brain damage and death.<ref name="cdc">{{cite web|url=http://www.cdc.gov/ncidod/dvrd/prions/|title=Prion Diseases| date=2006-01-26 | accessdate = 2010-02-28 | publisher=US Centers for Disease Control}}</ref> Neurodegenerative symptoms can include [[convulsion]]s, [[dementia]], [[ataxia]] (balance and coordination dysfunction), and behavioural or personality changes.
+
+All known prion diseases, collectively called ''transmissible spongiform encephalopathies'' (TSEs), are untreatable and fatal.<ref name="gilch">{{cite journal |author=Gilch S, Winklhofer KF, Groschup MH, ''et al.'' |title=Intracellular re-routing of prion protein prevents propagation of PrP(Sc) and delays onset of prion disease |journal=The EMBO Journal |volume=20 |issue=15 |pages=3957–66 |year=2001 |month=August |pmid=11483499 |pmc=149175 |doi=10.1093/emboj/20.15.3957}}</ref> A vaccine has been developed in mice, however, that may provide insight into providing a vaccine in humans to resist prion infections.<ref>{{cite web | author = New York University Medical Center and School of Medicine | title = Active Vaccine Prevents Mice From Developing Prion Disease| work = Science Daily | url = http://www.sciencedaily.com/releases/2005/05/050514111648.htm |date=2005-05-14 | accessdate = 2010-02-28 }}</ref> Additionally, in 2006 scientists announced that they had genetically engineered cattle lacking a necessary gene for prion production&nbsp;– thus theoretically making them immune to BSE,<ref>{{cite news |first= Rick|last=Weiss |title=Scientists Announce Mad Cow Breakthrough. |url=http://www.washingtonpost.com/wp-dyn/content/article/2006/12/31/AR2006123100672.html|publisher=The Washington Post|date=2007-01-01|quote=Scientists said yesterday that they have used genetic engineering techniques to produce the first cattle that may be biologically incapable of getting mad cow disease. |accessdate=2010-02-28}}</ref> building on research indicating that mice lacking normally occurring prion protein are resistant to infection by scrapie prion protein.<ref>{{cite journal |author=Büeler H, Aguzzi A, Sailer A, ''et al.'' |title=Mice devoid of PrP are resistant to scrapie |journal=Cell |volume=73 |issue=7 |pages=1339–47 |year=1993|pmid=8100741 |doi=10.1016/0092-8674(93)90360-3 }}</ref>
+
+Many different mammalian species can be affected by prion diseases, as the prion protein (PrP) is very similar in all mammals.<ref>{{cite journal |author=Collinge J |title=Prion diseases of humans and animals: their causes and molecular basis |journal=Annual Review of Neuroscience |volume=24 |issue= |pages=519–50 |year=2001 |pmid=11283320 |doi=10.1146/annurev.neuro.24.1.519}}</ref> Due to small differences in PrP between different species it is unusual for a prion disease to be transmitted from one species to another. The human prion disease variant Creutzfeldt-Jakob disease, however, is believed to be caused by a prion which typically infects cattle, causing [[Bovine spongiform encephalopathy]] and is transmitted through infected meat.<ref name="ironside">{{cite journal |author=Ironside JW |title=Variant Creutzfeldt-Jakob disease: risk of transmission by blood transfusion and blood therapies |journal=Haemophilia : the Official Journal of the World Federation of Hemophilia |volume=12 Suppl 1 |issue= |pages=8–15; discussion 26–8 |year=2006 |pmid=16445812 |doi=10.1111/j.1365-2516.2006.01195.x}}</ref>
+
+=== Transmission ===
+It has been recognized that prion diseases can arise in three different ways: acquired, familial, or sporadic.<ref>{{cite journal
+ |author=Groschup MH, Kretzschmar HA, eds. |title=Prion Diseases Diagnosis and Pathogeneis |journal=Archives of Virology
+ |volume=Suppl 16 |location=New York |publisher=Springer |year=2001 }}</ref> It is often assumed that the diseased form directly interacts with the normal form to make it rearrange its structure. One idea, the "Protein X" hypothesis, is that an as-yet unidentified cellular protein (Protein X) enables the conversion of PrP<sup>C</sup> to PrP<sup>Sc</sup> by bringing a molecule of each of the two together into a complex.<ref>{{cite journal |author=Telling GC, Scott M, Mastrianni J, ''et al.''
+ |title=Prion propagation in mice expressing human and chimeric PrP transgenes implicates the interaction of cellular PrP with another protein
+ |journal=Cell |volume=83 |issue=1 |pages=79–90 |year=1995|pmid=7553876 | doi=10.1016/0092-8674(95)90236-8}}</ref>
+
+Current research suggests that the primary method of infection in animals is through ingestion. It is thought that prions may be deposited in the environment through the remains of dead animals and via urine, saliva, and other body fluids. They may then linger in the soil by binding to clay and other minerals.<ref>{{cite journal
+ |author=Johnson CJ, Pedersen JA, Chappell RJ, McKenzie D, Aiken JM
+ |title=Oral transmissibility of prion disease is enhanced by binding to soil particles |journal=PLoS Pathogens |volume=3 |issue=7 |pages=e93 |year=2007|pmid=17616973 |pmc=1904474 |doi=10.1371/journal.ppat.0030093}}</ref>
+
+A University of California research team, led by Nobel Prize winner Stanley Prusiner, has provided evidence for the theory that infection can occur from prions in manure.<ref>{{cite journal|last=Tamgüney|first=Gültekin|coauthors=Miller, Michael W., Wolfe, Lisa L., Sirochman, Tracey M., Glidden, David V., Palmer, Christina, Lemus, Azucena, DeArmond, Stephen J., Prusiner, Stanley B.|title=Asymptomatic deer excrete infectious prions in faeces|journal=Nature|date=9 September 2009|volume=461|issue=7263|pages=529–532|doi=10.1038/nature08289|pmid=19741608|pmc=3186440|bibcode = 2009Natur.461..529T }}</ref>  And since manure is present in many areas surrounding water reservoirs, as well as used on many crop fields, it raises the possibility of widespread transmission.  It was reported in January 2011 that researchers had discovered prions spreading through airborne transmission on [[aerosol]] particles, in an [[animal testing]] experiment focusing on [[scrapie]] infection in [[laboratory mice]].<ref>{{Cite news |last=MacKenzie |first=Debora
+ |date=13 January 2011 |title=Prion disease can spread through air |periodical=New Scientist
+ |publisher=New Science Publications |at=Health |oclc=60637733 |accessdate=3 April 2011
+ |url=http://www.newscientist.com/article/dn19971-prion-disease-can-spread-through-air.html |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref>  Preliminary evidence supporting the notion that prions can be transmitted through use of urine-derived [[human menopausal gonadotropin]], administered for the treatment of [[infertility]], was published in 2011.<ref>{{Cite news
+ |last=Dorsselaer |first=Alain Van |display-authors=3 |last9=Cashman |first9=Neil R.
+ |last2=Carapito |first2=Christine |last3=Delalande |first3=François |last4=Schaeffer-Reiss |first4=Christine
+ |last5=Thierse |first5=Daniele |last6=Diemer |first6=Hélène |last7=McNair |first7=Douglas S. |last8=Krewski |first8=Daniel
+ |publication-date=23 March 2011 |date=10 February 2011 |accessdate=3 April 2011
+ |title=Detection of Prion Protein in Urine-Derived Injectable Fertility Products by a Targeted Proteomic Approach
+ |periodical=PLoS One |publisher=Public Library of Science |volume=6 |issue=3 |page=e17815
+ |url=http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0017815
+ |issn=1932-6203 |pmid=21448279 |pmc=3063168 |doi=10.1371/journal.pone.0017815 |oclc=70662135
+ |editor1-last=Darlix
+ |editor1-first=Jean-Luc
+ |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref>
+
+=== Sterilization ===
+Infectious particles possessing [[nucleic acid]] are dependent upon it to direct their continued replication. Prions, however, are infectious by their effect on normal versions of the protein. Sterilizing prions therefore requires the [[denaturation (biochemistry)|denaturation]] of the protein to a state where the molecule is no longer able to induce the abnormal folding of normal proteins. Prions are generally quite resistant to [[protease]]s, [[heat]], [[radiation]], and [[formalin]] treatments,<ref>{{cite journal |author=Qin K, O'Donnell M, Zhao RY |title=Doppel: more rival than double to prion |journal=Neuroscience |volume=141 |issue=1 |pages=1–8 |year=2006 |month=August |pmid=16781817 |doi=10.1016/j.neuroscience.2006.04.057 }}</ref> although their infectivity can be reduced by such treatments. Effective prion decontamination relies upon protein hydrolysis or reduction or destruction of protein tertiary structure. Examples include [[bleach]], [[caustic soda]], and strongly acidic detergents such as LpH.<ref>{{cite journal |author=Race RE, Raymond GJ |title=Inactivation of transmissible spongiform encephalopathy (prion) agents by environ LpH |journal=Journal of Virology |volume=78 |issue=4 |pages=2164–5 |year=2004 |pmid=14747583 |pmc=369477 |doi=10.1128/JVI.78.4.2164-2165.2004}}</ref> 134 °C (274 °F) for 18 minutes in a pressurized steam [[autoclave]] may not be enough to deactivate the agent of disease.<ref>{{cite journal |author=Collins SJ, Lawson VA, Masters CL |title=Transmissible spongiform encephalopathies |journal=Lancet |volume=363 |issue=9402 |pages=51–61 |year=2004 |pmid=14723996 |doi=10.1016/S0140-6736(03)15171-9}}</ref><ref name="pmid10716712">{{cite journal |author=Brown P, Rau EH, Johnson BK, Bacote AE, Gibbs CJ, Gajdusek DC |title=New studies on the heat resistance of hamster-adapted scrapie agent: threshold survival after ashing at 600 degrees C suggests an inorganic template of replication |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=97 |issue=7 |pages=3418–21 |year=2000|pmid=10716712 |pmc=16254 |doi=10.1073/pnas.050566797|bibcode = 2000PNAS...97.3418B }}</ref> Ozone sterilization is currently being studied as a potential method for prion denaturation and deactivation.<ref>{{cite web | url=http://www.hpa.org.uk/hpa/news/articles/press_releases/2005/050414_ozone_sterilizer.htm  | title=Ozone Sterilization | date=2005-04-14 | publisher=UK Health Protection Agency | accessdate=2010-02-28 |archiveurl = http://web.archive.org/web/20080522065033/http://www.hpa.org.uk/hpa/news/articles/press_releases/2005/050414_ozone_sterilizer.htm |archivedate = 2008-05-22}}</ref> Renaturation of a completely denatured prion to infectious status has not yet been achieved; however, partially denatured prions can be renatured to an infective status under certain artificial conditions.<ref>{{cite journal |author=Weissmann C, Enari M, Klöhn PC, Rossi D, Flechsig E |title=Transmission of prions |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=99 Suppl 4 |issue= 90004|pages=16378–83 |year=2002|pmid=12181490 |pmc=139897 |doi=10.1073/pnas.172403799|bibcode = 2002PNAS...9916378W }}</ref>
+
+The [[World Health Organization]] recommends any of the following three procedures for the sterilization of all heat-resistant surgical instruments to ensure that they are not contaminated with prions:
+
+# Immerse in a pan containing [[Concentration#Normality|1N]]&nbsp;[[Sodium hydroxide|NaOH]] and heat in a gravity-displacement autoclave at 121 °C for 30&nbsp;minutes; clean; rinse in water; and then perform routine sterilization processes.
+# Immerse in 1N&nbsp;NaClO or [[sodium hypochlorite]] (20,000&nbsp;parts per million available chlorine) for 1&nbsp;hour; transfer instruments to water; heat in a gravity-displacement autoclave at 121 °C for 1&nbsp;hour; clean; and then perform routine sterilization processes.
+# Immerse in 1N&nbsp;NaOH or sodium hypochlorite (20,000&nbsp;parts per million available chlorine) for 1&nbsp;hour; remove and rinse in water, then transfer to an open pan and heat in a gravity-displacement (121 °C) or in a porous-load (134 °C) autoclave for 1&nbsp;hour; clean; and then perform routine sterilization processes.<ref>{{cite journal |author=Sutton JM, Dickinson J, Walker JT, Raven ND |title=Methods to minimize the risks of Creutzfeldt-Jakob disease transmission by surgical procedures: where to set the standard? |journal=Clinical Infectious Diseases |volume=43 |issue=6 |pages=757–64 |year=2006 |month=September |pmid=16912952 |doi=10.1086/507030}}</ref>
+
+=== Debate ===
+Whether prions are the agent which causes disease or merely a symptom caused by a different agent is still debated by a minority of researchers. The following sections describe several hypotheses: some pertain to the composition of the infectious agent (protein-only, protein with other components, virus, or other), while others pertain to its mechanism of reproduction.
+
+==== Protein-only hypothesis ====
+Prior to the discovery of prions, it was thought that all [[pathogen]]s used [[nucleic acid]]s to direct their replication. The "protein-only hypothesis" states that a protein structure can replicate without the use of nucleic acid. This was initially controversial as it contradicts the [[central dogma of molecular biology]], which describes nucleic acid as the central form of replicative information.
+
+Evidence in favor of a protein-only hypothesis includes:<ref name="priondisease"/>
+*No virus particles, bacteria, or fungi have been conclusively associated with prion diseases, although ''[[Saccharomyces cerevisiae]]'' has been known to be associated with infectious, yet non-lethal prions, such as [[Sup35p]].
+*No nucleic acid has been conclusively associated with infectivity; agent is resistant to [[ultraviolet radiation]] and [[nucleases]].
+*No immune response to infection.
+*PrP<sup>Sc</sup> experimentally transmitted between one species and another results in PrP<sup>Sc</sup> with the amino-acid sequence of the recipient species, suggesting that replication of the donor agent does not occur.
+*Familial prion disease occurs in families with a mutation in the PrP gene, and mice with PrP mutations develop prion disease despite controlled conditions where transmission is prevented.
+*Animals lacking PrP<sup>C</sup> do not contract prion disease.
+
+==== Genetic factors ====
+A [[gene]] for the normal protein has been identified: the ''[[PRNP]]'' gene.<ref>{{cite journal |author=Oesch B, Westaway D, Wälchli M, ''et al.'' |title=A cellular gene encodes scrapie PrP 27–30 protein |journal=Cell |volume=40 |issue=4 |pages=735–46 |year=1985|pmid=2859120 |doi=10.1016/0092-8674(85)90333-2}}</ref> In all inherited cases of prion disease, there is a [[mutation]] in the ''PRNP'' gene. <!-- This is more relevant to FFI --> Many different ''PRNP'' mutations have been identified and these proteins are more likely to fold into abnormal prion.<ref name=Goldmann>{{cite journal |author=Goldmann W |title=PrP genetics in ruminant transmissible spongiform encephalopathies |journal=Veterinary Research |volume=39 |issue=4 |page=30 |year=2008 |pmid=18284908 |doi=10.1051/vetres:2008010 }}</ref> Although this discovery puts a hole in the general prion hypothesis, that prions can only aggregate proteins of identical amino acid make up.  These mutations can occur throughout the gene. Some mutations involve expansion of the octapeptide repeat region at the N-terminal of PrP. Other mutations that have been identified as a cause of inherited prion disease occur at positions 102, 117 & 198 (GSS), 178, 200, 210 & 232 (CJD) and 178 ([[Fatal Familial Insomnia]], FFI).  The cause of prion disease can be [[wikt:sporadic|sporadic]], [[genetic disorder|genetic]], and [[infectious disease|infectious]], or a combination of these factors.<ref>{{cite journal |author=Geissen M, Krasemann S, Matschke J, Glatzel M |title=Understanding the natural variability of prion diseases |journal=Vaccine |volume=25 |issue=30 |pages=5631–6 |year=2007 |pmid=17391814 |doi=10.1016/j.vaccine.2007.02.041 }}</ref> For example, in order to have scrapie, both an infectious agent and a susceptible genotype need to be present.<ref name=Goldmann />
+
+==== Multi-component hypothesis ====
+Despite much effort, significant titers of prion infectivity have never been produced by refolding pure PrP molecules, raising doubt about the validity of the "protein only" hypothesis.  In addition the "protein only" hypothesis fails to provide a molecular explanation for the ability of prion strains to target specific areas of the brain in distinct patterns.  These shortcomings, along with additional experimental data, have given rise to the "multi-component" or "cofactor variation" hypothesis.<ref>{{cite journal|last=Supattapone|title=What makes a prion infectious?|journal=Science|year=2010|pmid=20185716|doi=10.1126/science.1187790|volume=327|issue=5969|pages=1091–2}}</ref> 
+
+In 2007, biochemist Surachai Supattapone and his colleagues at [[Dartmouth College]] produced purified infectious prions ''de novo'' from defined components (PrP<sup>C</sup>, co-purified lipids, and a synthetic polyanionic molecule).<ref name="minimal prion">{{cite journal |author=Deleault NR, Harris BT, Rees JR, Supattapone S |title=Formation of native prions from minimal components in vitro |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=104 |issue=23 |pages=9741–6 |year=2007|pmid=17535913 |pmc=1887554 |doi=10.1073/pnas.0702662104|bibcode = 2007PNAS..104.9741D }}</ref>  These researchers also showed that the polyanionic molecule required for prion formation was selectively incorporated into high-affinity  complexes with PrP molecules, leading them to hypothesize that infectious prions may be composed of multiple host components, including PrP, lipid, and polyanionic molecules, rather than PrP<sup>Sc</sup> alone.<ref>{{cite journal |author=Geoghegan JC, Valdes PA, Orem NR, ''et al.'' |title=Selective incorporation of polyanionic molecules into hamster prions |journal=The Journal of Biological Chemistry |volume=282 |issue=50 |pages=36341–53 |year=2007|pmid=17940287 |doi=10.1074/jbc.M704447200|pmc=3091164}}</ref>
+
+In 2010, Jiyan Ma and colleagues at The Ohio State University produced infectious prions from a recipe of bacterially expressed recombinant PrP, POPG phospholipid, and RNA, further supporting the multi-component hypothesis.<ref name="recombinant prion">{{cite journal |author=Wang F, Wang X, Yuan CG, Ma J |title=Generating a prion with bacterially expressed recombinant prion protein |journal=Science |volume=327 |issue=5969 |pages=1132–5 |year=2010|pmid=20110469 |pmc=2893558 |doi=10.1126/science.1183748|bibcode = 2010Sci...327.1132W }}</ref>  This finding is in contrast to studies that found minimally infectious prions produced from recombinant PrP alone.<ref>{{cite journal |author=Legname G, Baskakov IV, Nguyen HO, ''et al.'' |title=Synthetic mammalian prions |journal=Science |volume=305 |issue=5684 |pages=673–6 |year=2004|pmid=15286374 |doi=10.1126/science.1100195|bibcode = 2004Sci...305..673L }}</ref><ref>{{cite journal |author=Makarava N, Kovacs GG, Bocharova O, ''et al.'' |title=Recombinant prion protein induces a new transmissible prion disease in wild-type animals |journal=Acta Neuropathologica |volume=119 |issue=2 |pages=177–87 |year=2010|pmid=20052481 |pmc=2808531 |doi=10.1007/s00401-009-0633-x}}</ref>
+
+In 2012, Supattapone and colleagues purified the membrane lipid phosphatidylethanolamine as a solitary endogenous cofactor capable of facilitating the formation of high titer recombinant prions derived from multiple prion strains.<ref>{{cite journal|pmid=22586108 | doi=10.1073/pnas.1204498109 | volume=109 | issue=22 | title=Isolation of phosphatidylethanolamine as a solitary cofactor for prion formation in the absence of nucleic acids | year=2012 | month=May | author=Deleault NR, Piro JR, Walsh DJ, ''et al.'' | journal=Proc. Natl. Acad. Sci. U.S.A. | pages=8546–51}}</ref>  They also reported that the cofactor was essential for maintaining the infectious conformation of PrP<sup>Sc</sup>, and that cofactor molecules dictate the strain properties of infectious prions.<ref>{{cite journal|pmid=22711839 | doi=10.1073/pnas.1206999109 | volume=109 | issue=28 | title=Cofactor molecules maintain infectious conformation and restrict strain properties in purified prions | year=2012 | month=July | author=Deleault NR, Walsh DJ, Piro JR, ''et al.'' | journal=Proc. Natl. Acad. Sci. U.S.A. | pages=E1938–46}}</ref>
+
+==== Heavy metal poisoning hypothesis ====
+Recent reports suggest that imbalance of brain metal homeostasis is a significant cause of PrP<sup>Sc</sup>-associated neurotoxicity, though the underlying mechanisms are difficult to explain based on existing information. Proposed hypotheses include a functional role for PrP<sup>C</sup> in metal metabolism, and loss of this function due to aggregation to the disease associated PrP<sup>Sc</sup> form as the cause of brain metal imbalance. Other views suggest gain of toxic function by PrP<sup>Sc</sup> due to sequestration of PrP<sup>C</sup>-associated metals within the aggregates, resulting in the generation of redox-active PrP<sup>Sc</sup> complexes. The physiological implications of some PrP<sup>C</sup>-metal interactions are known, while others are still unclear. The pathological implications of PrP<sup>C</sup>-metal interaction include metal-induced oxidative damage, and in some instances conversion of PrP<sup>C</sup> to a PrP<sup>Sc</sup>-like form.<ref name= Singhn>{{cite book |author= Singh N et al.| year=2010 |chapter=Prion Protein and Metal Interaction: Physiological and Pathological Implications|title=The Prion Protein | publisher=Savanna Press | isbn= 978-0-9543335-2-2}}</ref>
+
+==== Viral hypothesis ====
+The protein-only hypothesis has been criticised by those who feel that the simplest explanation of the evidence to date is viral.<ref name="25nm">{{cite journal |author=Manuelidis L |title=A 25 nm virion is the likely cause of transmissible spongiform encephalopathies |journal=Journal of Cellular Biochemistry |volume=100 |issue=4 |pages=897–915 |year=2007 |month=March |pmid=17044041 |doi=10.1002/jcb.21090}}</ref> For more than a decade, [[Yale University]] neuropathologist [[Laura Manuelidis]] has been proposing that prion diseases are caused instead by an unidentified [[slow virus]]. In January 2007, she and her colleagues published an article reporting to have found a [[virus]] in 10%, or less, of their scrapie-infected cells in culture.<ref name="Yale">{{cite news |url=http://opa.yale.edu/news/article.aspx?status=301&id=1659 |title=Pathogenic Virus Found in Mad Cow Cells |publisher=Yale |date=2007-02-02 |accessdate=2010-02-28}}</ref><ref name="manue2007">{{cite journal |author=Manuelidis L, Yu ZX, Barquero N, Banquero N, Mullins B |title=Cells infected with scrapie and Creutzfeldt-Jakob disease agents produce intracellular 25-nm virus-like particles |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=104 |issue=6 |pages=1965–70 |year=2007 |pmid=17267596 |pmc=1794316 |doi=10.1073/pnas.0610999104|bibcode = 2007PNAS..104.1965M }}</ref>
+
+The virion hypothesis states that TSEs are caused by a replicable informational molecule (which is likely to be a nucleic acid) bound to PrP. Many TSEs, including scrapie and BSE, show strains with specific and distinct biological properties, a feature which supporters of the virion hypothesis feel is not explained by prions.
+
+Evidence in favor of a viral hypothesis includes:<ref name="priondisease">{{cite book | title=Prion Disease| last=Baker & Ridley| publisher=Humana Press | year=1996 | location=New Jersey| isbn=0-89603-342-2}}</ref>
+*Strain variation: differences in prion infectivity, incubation, symptomology and progression among species resembles that seen between viruses, especially [[RNA virus]]es
+*The long incubation and rapid onset of symptoms resembles [[lentivirus]]es, such as [[HIV]]-induced [[AIDS]]
+*Viral-like particles that do not appear to be composed of PrP have been found in some of the cells of scrapie- or CJD-infected cell lines.<ref name="manue2007" />
+
+Recent studies propagating TSE infectivity in cell-free reactions<ref>{{cite journal |author=Castilla J, Saá P, Hetz C, Soto C |title=In vitro generation of infectious scrapie prions |journal=Cell |volume=121 |issue=2 |pages=195–206 |year=2005 |pmid=15851027 |doi=10.1016/j.cell.2005.02.011 }}</ref> and in purified component chemical reactions<ref name="minimal prion" /> strongly suggest against TSE viral nature.  More recently, using a similar defined recipe of multiple components (PrP, POPG lipid, RNA), Jiyan Ma and colleagues generated infectious prions from recombinant PrP expressed from ''E. coli'',<ref name="recombinant prion" /> casting further doubt on the viral hypothesis.
+
+== Fungi ==
+{{main|Fungal prions}}
+Fungal proteins exhibiting templated conformational change were discovered in the yeast ''[[Saccharomyces cerevisiae]]'' by [[Reed Wickner]] in the early 1990s. For their mechanistic similarity to mammalian prions, they were termed yeast prions.  Subsequently, a prion has also been found in the fungus ''[[Podospora anserina]]''. These prions behave similarly to PrP, but are generally nontoxic to their hosts. [[Susan Lindquist]]'s group at the [[Whitehead Institute]] has argued some of the fungal prions are not associated with any disease state, but may have a useful role; however, researchers at the NIH have also provided arguments suggesting fungal prions could be considered a diseased state.<ref>{{cite journal |author=Dong J, Bloom JD, Goncharov V, ''et al.'' |title=Probing the role of PrP repeats in conformational conversion and amyloid assembly of chimeric yeast prions |journal=The Journal of Biological Chemistry |volume=282 |issue=47 |pages=34204–12 |year=2007|pmid=17893150 |pmc=2262835 |doi=10.1074/jbc.M704952200 }}</ref> Thus, the issue of whether fungal proteins are diseases, or have evolved for some specific functions, still remains unresolved.<ref>{{cite journal |author=Halfmann R, Alberti S, Lindquist S |title=Prions, protein homeostasis, and phenotypic diversity |journal=Trends in Cell Biology |volume=20 |issue=3 |pages=125–33 |year=2010 |pmid=20071174 |pmc=2846750 |doi=10.1016/j.tcb.2009.12.003 }}</ref>
+
+As of 2012, there are eight known prion proteins in fungi, seven in ''[[Saccharomyces cerevisiae]]'' (Sup35, Rnq1, Ure2, Swi1, Mot3, Cyc8 and Mod5) and one in ''Podospora anserina'' (HET-s).{{contradict-inline|The table below listed 8 from S. cerevisiae as of 2010|date=November 2012}} The article that reported the discovery of a prion form the Mca1 protein has recently been retracted due to the fact that the data could not be reproduced.<ref>{{cite journal|last=Nemecek|first=J|coauthors=Nakayashiki, T, Wickner, RB|title=Retraction for Nemecek et al.: A prion of yeast metacaspase homolog (Mca1p) detected by a genetic screen.|journal=Proceedings of the National Academy of Sciences of the United States of America|date=2011 Jun 14|volume=108|issue=24|page=10022|pmid=21628591|doi=10.1073/pnas.1107490108|pmc=3116407}}</ref> Notably, most of the fungal prions are based on glutamine/asparagine-rich sequences, with the exception of HET-s and Mod5.
+
+Research into [[fungal prions]] has given strong support to the protein-only concept, since purified protein extracted from cells with a prion state has been demonstrated to convert the normal form of the protein into a misfolded form ''[[in vitro]]'', and in the process, preserve the information corresponding to different strains of the prion state. It has also shed some light on prion domains, which are regions in a protein that promote the conversion into a prion. Fungal prions have helped to suggest mechanisms of conversion that may apply to all prions, though fungal prions appear distinct from infectious mammalian prions in the lack of cofactor required for propagation. The characteristic prion domains may vary between species—e.g. characteristic fungal prion domains are not found in mammalian prions.
+
+{| class="wikitable"
+|-
+!colspan="6"| [[Fungal]] Prions
+|-
+! [[Protein]]
+! Natural host
+! Normal function
+! Prion state
+! Prion phenotype
+! Year identified
+|-
+| Ure2p
+| ''[[Saccharomyces cerevisiae]]''
+| Nitrogen catabolite repressor
+| [URE3]
+| Growth on poor nitrogen sources
+| 1994
+|-
+| [[Sup35p]]
+| ''S. cerevisiae''
+| Translation termination factor
+| [PSI+]
+| Increased levels of nonsense suppression
+| 1994
+|-
+| HET-S
+| ''Podospora anserina''
+| Regulates [[heterokaryon]] incompatibility
+| [Het-s]
+| Heterokaryon formation between incompatible strains
+|
+|-
+| Rnq1p
+| ''S. cerevisiae''
+| Protein template factor
+| [RNQ+],[PIN+]
+| Promotes aggregation of other prions
+|
+|-
+| Mca1
+| ''S. cerevisiae''
+| Putative yeast caspase
+| [MCA+]
+| Unknown
+| 2008
+|-
+| Swi1
+| ''S. cerevisiae''
+| Chromatin remodeling
+| [SWI+]
+| Poor growth on some carbon sources
+| 2008
+|-
+| Cyc8
+| ''S. cerevisiae''
+| Transcriptional repressor
+| [OCT+]
+| Transcriptional derepression of multiple genes
+| 2009
+|-
+| Mot3
+| ''S. cerevisiae''
+| Nuclear transcription factor
+| [MOT3+]
+| Transcriptional derepression of anaerobic genes
+| 2009
+|-
+| Sfp1
+| ''S. cerevisiae''
+| Putative transcription factor
+| [ISP+]
+| Antisuppression
+| 2010<ref name="RogozaT">{{cite journal |author=Rogoza, T. et al. |title=Non-Mendelian determinant ISP+ in yeast is a nuclear-residing prion form of the global transcriptional regulator Sfp|date=2010 |publisher=[[PNAS]] |accessdate=26 April 2012 |pmid=20498075 |doi=10.1073/pnas.1005949107 |volume=107 |issue=23 |pages=10573–7 |pmc=2890785 |journal=Proceedings of the National Academy of Sciences of the United States of America |bibcode = 2010PNAS..10710573R }}</ref>{{contradict-inline|Text did not say about this even as of 2012|date=November 2012}} 
+|}
+
+== Potential treatments and diagnosis ==
+Advancements in computer modeling have allowed scientists to identify compounds which can serve as a treatment for prion-caused diseases, such as one compound found to bind a cavity in the PrP<sup>C</sup> and stabilize the conformation, reducing the amount of harmful PrP<sup>Sc</sup>.<ref>{{cite journal |author=Kuwata K, Nishida N, Matsumoto T, ''et al.'' |title=Hot spots in prion protein for pathogenic conversion |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=104 |issue=29 |pages=11921–6 |year=2007  |pmid=17616582 |pmc=1924567 |doi=10.1073/pnas.0702671104 |bibcode = 2007PNAS..10411921K }}</ref>
+
+Recently, antiprion antibodies capable of crossing the blood-brain-barrier and targeting [[cytosol]]ic prion protein (an otherwise major obstacle in prion therapeutics) have been described.<ref>{{cite doi|10.1371/journal.pone.0009804}}</ref>
+
+In the last decade, some progress has been reported dealing with ultra-high-pressure inactivation of prion infectivity in
+processed meat.<ref>{{cite doi|10.1073/pnas.1031826100}}</ref>
+
+In 2011 it was discovered that prions could be degraded by [[lichen]]s.<ref name=LICPRI>{{cite journal|last=Johnson|first=Christopher|coauthors=James P. Bennett, Steven M. Biro, Juan Camilo Duque-Velasquez, Cynthia M. Rodriguez, Richard A. Bessen, Tonie E. Rocke|title=Degradation of the Disease-Associated Prion Protein by a Serine Protease from Lichens|journal=PLoS ONE|date=17th|year=2011|bibcode=2011PLoSO...6E9836J|last2=Bennett|last3=Biro|last4=Duque-Velasquez|last5=Rodriguez|last6=Bessen|last7=Rocke|last8=Bartz|volume=6|page=9836|doi=10.1371/journal.pone.0019836|editor1-last=Bartz|editor1-first=Jason C|issue=5}}</ref><ref name=NATKIL>{{cite web|last=Yam|first=Philip|title=Natural Born Prion Killers: Lichens Degrade "Mad Cow" Related Brain Pathogen|url=http://www.scientificamerican.com/blog/post.cfm?id=natural-born-prion-killers-lichens-2011-05-19|publisher=Scientific American|accessdate=20 May 2011}}</ref>
+
+There continues to be a very practical problem with diagnosis of prion diseases, including BSE and CJD. They have an incubation period of months to decades during which there are no symptoms, even though the pathway of converting the normal brain PrP protein into the toxic, disease-related PrP<sup>Sc</sup> form has started. At present, there is virtually no way to detect PrP<sup>Sc</sup> reliably except by examining the brain  using neuropathological and immunohistochemical methods after death. Accumulation of the abnormally folded PrP<sup>Sc</sup>  form of the PrP protein is a characteristic of the disease, but it is present at very low levels in easily accessible body fluids like blood or urine. Researchers have tried to develop methods to measure PrP<sup>Sc</sup>, but there are still no fully accepted methods for use in materials such as blood.
+
+In 2010, a team from New York described detection of PrP<sup>Sc</sup> even when initially present at only one part in a hundred thousand million (10<sup>−11</sup>) in brain tissue. The method combines amplification with a novel technology called [[Surround Optical Fiber Immunoassay (SOFIA)]] and some specific antibodies against PrP<sup>Sc</sup>. After amplifying and then concentrating any PrP<sup>Sc</sup>, the samples are labelled with a fluorescent dye using an antibody for specificity and then finally loaded into a micro-capillary tube. This tube is placed in a specially constructed apparatus so that it is totally surrounded by optical fibres to capture all light emitted once the dye is excited using a laser. The technique allowed detection of PrP<sup>Sc</sup> after many fewer cycles of conversion than others have achieved, substantially reducing the possibility of artefacts, as well as speeding up the assay. The researchers also tested their method on blood samples from apparently healthy sheep that went on to develop scrapie. The animals’ brains were analysed once any symptoms became apparent. The researchers could therefore compare results from brain tissue and blood taken once the animals exhibited symptoms of the diseases, with blood obtained earlier in the animals’ lives, and from uninfected animals. The results showed very clearly that PrP<sup>Sc</sup> could be detected in the blood of animals long before the symptoms appeared.<ref>{{cite journal |title=Detecting Prions in Blood |journal=Microbiology Today. |page=195 |year=2010 |month=August |url= https://www.sgm.ac.uk/pubs/micro_today/pdf/081010.pdf |accessdate=2011-08-21}}</ref><ref>{{cite web | url = http://www.bionosis.com/news/Bionosis%20PrioNet%20Poster.pdf | title = SOFIA: An Assay Platform for Ultrasensitive Detection of PrP<sup>Sc</sup> in Brain and Blood | publisher =  SUNY Downstate Medical Center | authorlink = Rubenstein, R., et al. | accessdate = 2011-08-19}}</ref>
+
+[[Astemizole]] has been found to have anti prion activity. <ref>http://www.scripps.edu/news/press/2013/20130403lasmezas.html</ref>
+
+== See also ==
+* [[Creutzfeldt-Jakob disease]]
+* [[Prion pseudoknot]]
+* [[Protein folding]]
+* [[Protein Misfolding Cyclic Amplification]]
+* [[Proteopathy]]
+* [[Tertiary structure]]
+* [[Transmissible spongiform encephalopathy]]
+
+== References ==
+{{Reflist|colwidth=30em}}
+
+== Further reading ==
+*''Deadly Feasts: The "Prion" Controversy and the Public's Health'', [[Richard Rhodes]], 1998, Touchstone, ISBN 0-684-84425-7
+*''The Pathological Protein: Mad Cow, Chronic Wasting, and Other Deadly Prion Diseases'', Phillip Yam, 2003, Springer, ISBN 0-387-95508-9
+*''The Family That Couldn't Sleep'' by D. T. Max provides a history of prion diseases.
+*[http://www.horizonpress.com/cimb/prionprotein.html ''The Prion Protein''] a special issue of the open-access journal [[Current Issues in Molecular Biology]]
+*[http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.060407.125620 ''The Prion's Elusive Reason for Being''] Note: Behind a paywall.
+*[http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)17700-9/fulltext A prion lexicon (out of control)]. Paul Brown &  Larisa Cervenakova '''The Lancet''', ''Vol 365, No. 9454, p.&nbsp;122, 8 January 2005.
+
+== External links ==
+{{Commons category|Prions}}
+{{Wikibooks|General Biology|Classification of Living Things/Viruses|Viruses}}
+
+=== General ===
+* [http://www.cdc.gov/ncidod/dvrd/prions/ CDC]&nbsp;– USA Centers for Disease Control and Prevention&nbsp;– information on prion diseases
+* [http://www.who.int/zoonoses/diseases/prion_diseases/en/ World Health Organisation]&nbsp;– WHO information on prion diseases
+* [http://www.1lec.com/Microbiology/Prion/index.html Prion Animation] (Flash required)
+
+=== Reports and committees ===
+* [http://collections.europarchive.org/tna/20090505194948/http://bseinquiry.gov.uk The UK BSE Inquiry]&nbsp;– Report of the UK public inquiry into BSE and variant CJD
+* [http://www.seac.gov.uk/ UK Spongiform Encephalopathy Advisory Committee (SEAC)]
+
+=== Genetics ===
+* [http://www.ncbi.nlm.nih.gov/ICTVdb/ICTVdB/90.001.0.01.htm Mammalian prion classification] International Committee on Taxonomy of Viruses&nbsp;– [[ICTVdb]]
+* [http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=176640 Online Mendelian Inheritance in Man: Prion protein]&nbsp;– PrP, inherited prion disease and [[Genetically modified organism|transgenic animal models]].
+* [http://www.ibioseminars.org/index.php?option=com_content&view=article&id=164&Itemid=153 The Surprising World of Prion Biology—A New Mechanism of Inheritance] on-line lecture by [[Susan Lindquist]]
+
+=== Research ===
+* [http://ind.universityofcalifornia.edu/  Institute for Neurodegenerative Diseases]&nbsp;– labs studying prion diseases, run by [[Stanley B. Prusiner|Stanley B. Prusiner, MD]]
+* [http://prion.systemsbiology.net/cgi-bin/dispatcher.cgi/Welcome/display Prion Disease Database (PDDB)] – Comprehensive transcriptome resource for systems biology research in prion diseases.
+* [http://www.ibioseminars.org/index.php?option=com_content&view=article&id=406&Itemid=372 iBioSeminars] – Susan Lindquist's iBioSeminars on I. Protein Folding and Prions and II. Prions and Evolution.
+* http://www.prion.ucl.ac.uk/ MRC Prion Unit run by Professor John Collinge. Study of all forms of prion disease and development of therapies.
+
+=== Other ===
+* [http://memory.ucsf.edu/cjd/ UCSF Memory and Aging Center]&nbsp;– medical center for diagnosis and care of people with prion disease and research into origin and treatment of prion diseases. ([http://www.youtube.com/ucsfmemoryandaging YouTube channel])
+* [http://www.pdbe.org/emsearch/prion 3D electron microscopy structures of Prions from the EM Data Bank(EMDB)]
+
+{{Prion diseases}}
+{{Subviral agents}}
+{{good article}}
+
+[[Category:Prions| ]]
+[[Category:Genetics]]
+[[Category:Proteins]]
+[[Category:Amyloidosis]]
+
+{{Link GA|ja}}

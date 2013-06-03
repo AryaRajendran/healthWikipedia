@@ -1,0 +1,145 @@
+A '''Medically Unlikely Edit''' (MUE) is a [[Centers for Medicare and Medicaid Services|Medicare]] unit of service [[Claim (medical)|claim edit]] applied to [[Medical billing (United States)|Medical claims]] against a [[Procedure codes|procedure code]] for medical services rendered by one [[Health care provider|provider/supplier]] to one [[patient]] on one day. Claim edits compare different values on medical claim to a set of defined criteria to check for irregularities, often in an automated claims processing system. MUE are designed to limit fraud and/or coding errors. They represent an upper limit that unquestionably requires further documentation to support.  The ideal MUE is the maximum unit of service for a code on the majority of medical claims.<ref Name=" Q8734">{{cite web
+  | last = CMS
+  | first =
+  | authorlink =
+  | coauthors =
+  | title = What is a Medically Unlikely Edit (MUE)?
+  | work = Q&A
+  | publisher = [[Centers for Medicare and Medicaid Services]]
+  | date = September 25, 2009
+  | url = https://questions.cms.hhs.gov/cgi-bin/cmshhs.cfg/php/enduser/std_adp.php?p_faqid=8734&p_created=1194373685&p_sid=aQQgkySj&p_accessibility=0&p_redirect=&p_lva=&p_sp=cF9zcmNoPTEmcF9zb3J0X2J5PSZwX2dyaWRzb3J0PSZwX3Jvd19jbnQ9MTMsMTMmcF9wcm9kcz0wJnBfY2F0cz0mcF9wdj0mcF9jdj0mcF9zZWFyY2hfdHlwZT1hbnN3ZXJzLnNlYXJjaF9ubCZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PU1VRQ**&p_li=&p_topview=1
+  | format = web
+  | doi =
+  | accessdate = January 21, 2010 }}</ref> MUE is part of the [[National Correct Coding Initiative]] (NCCI) to address coding methodologies. The NCCI policies are based on coding conventions by nationally recognized organizations and are updated annually or quarterly. <ref Name=" NCCI ">{{cite web
+  | last =CMS
+  | first =
+  | authorlink =
+  | coauthors =
+  | title = National Correct Coding Initiatives Edits; Overview
+  | work = CMS Rule
+  | publisher = [[Centers for Medicare and Medicaid Services]]
+  | date = October 1, 2009
+  | url = http://www.cms.hhs.gov/NationalCorrectCodInitEd/01_overview.asp#TopOfPage
+  | format =web
+  | doi =
+  | accessdate = January 21, 2010 }}</ref>
+
+==History==
+Medically Unlikely Edits began in January 2007 <ref Name="MUE">{{cite web
+  | last = CMS
+  | first =
+  | authorlink =
+  | coauthors =
+  | title = Medically Unlikely Edits
+  | work = CMS Rule
+  | publisher = [[Centers for Medicare and Medicaid Services]]
+  | date =January 1, 2010
+  | url = http://www.cms.hhs.gov/NationalCorrectCodInitEd/08_MUE.asp#TopOfPage
+  | format = Web
+  | doi =
+  | accessdate = January 21, 2010 }}</ref> they are generally based on biological considerations, like number of limbs or organs. They adjudicate on units billed per line of service.<ref Name="ACRO">{{cite web
+  | last = ACRO
+  | first =
+  | authorlink =
+  | coauthors =
+  | title = Putting it into Perspective – Medically Unlikely Edits
+  | work = Article
+  | publisher = [[American College of Radiation Oncology]]
+  | year = 2009
+  | url = http://www.acro.org/washington/MUE%20Article.pdf
+  | format =PDF
+  | doi =
+  | accessdate = January 21, 2010 }}</ref> The same code billed on different lines for the same date of service are subject to duplicate adjudication edits where CPT Modifiers like 59, 76 and 77 may impact the payment.<ref name="ACRO"/><ref Name="Q8736">{{cite web
+  | last = CMS
+  | first =
+  | authorlink =
+  | coauthors =
+  | title =How do I report medically reasonable and necessary units of service in excess of a Medically Unlikely Edit (MUE) value?
+  | work = Q&A
+  | publisher = [[Centers for Medicare and Medicaid Services]]
+  | date = September 25, 2009
+  | url = https://questions.cms.hhs.gov/cgi-bin/cmshhs.cfg/php/enduser/std_adp.php?p_faqid=8736&p_created=1194373857&p_sid=aQQgkySj&p_accessibility=0&p_redirect=&p_lva=&p_sp=cF9zcmNoPTEmcF9zb3J0X2J5PSZwX2dyaWRzb3J0PSZwX3Jvd19jbnQ9MTMsMTMmcF9wcm9kcz0wJnBfY2F0cz0mcF9wdj0mcF9jdj0mcF9zZWFyY2hfdHlwZT1hbnN3ZXJzLnNlYXJjaF9ubCZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PU1VRQ**&p_li=&p_topview=1
+  | format = web
+  | doi =
+  | accessdate =  January 21, 2010}}</ref> The edits were not publicly released until 2009 with some of them remaining confidential out of concern for abuse<ref Name="ACP">{{cite web
+  | last = Lansey
+  | first = Debra
+  | authorlink =
+  | coauthors =
+  | title = Follow the changes to Medicare coding edits for early 2009
+  | work = Article
+  | publisher = [[American College of Physicians]]
+  | date =February 2009
+  | url = http://www.acpinternist.org/archives/2009/02/coding.htm
+  | format = web
+  | doi =
+  | accessdate = January 21, 2010 }}</ref>
+.<ref Name="HCPro">{{cite web
+  | last = HCPro
+  | first =
+  | authorlink =
+  | coauthors =
+  | title = Busy week: OIG Work Plan, CMS' MUE list available
+  | work = Article 
+  | publisher = [[HCPro]]
+  | date = October 7, 2008
+  | url = http://www.hcpro.com/CCP-220921-5091/Busy-week-OIG-Work-Plan-CMS-MUE-list-available.html
+  | format = web
+  | doi =
+  | accessdate = January 21, 2010 }}</ref> MUE are not intended to be utilization guide lines, units less than listed may be inappropriate.<ref Name="Q8742">{{cite web
+  | last = CMS
+  | first =
+  | authorlink =
+  | coauthors =
+  | title = Has CMS published the Medically Unlikely Edit (MUE) values for Healthcare Common Procedure Coding System (HCPCS)/Current Procedural Terminology (CPT) codes?
+  | work = Q&A
+  | publisher = [[Centers for Medicare and Medicaid Services]]
+  | date = September 25, 2009
+  | url = http://questions.cms.hhs.gov/cgi-bin/cmshhs.cfg/php/enduser/std_adp.php?p_faqid=8742&p_created=1194374532&p_sid=4yyY9zSj&p_accessibility=0&p_redirect=&p_lva=&p_sp=cF9zcmNoPTEmcF9zb3J0X2J5PSZwX2dyaWRzb3J0PSZwX3Jvd19jbnQ9MTMsMTMmcF9wcm9kcz0wJnBfY2F0cz0mcF9wdj0mcF9jdj0mcF9zZWFyY2hfdHlwZT1hbnN3ZXJzLnNlYXJjaF9ubCZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PW11ZQ**&p_li=&p_topview=1
+  | format = web
+  | doi =
+  | accessdate = January 21, 2010 }}</ref> 
+
+It is difficult to establish to what extent private payers are using NCCI edits.<ref Name="ACSO">{{cite web
+  | last = ACSO
+  | first =
+  | authorlink =
+  | coauthors =
+  | title = Do private payers use the NCCI edits established by CMS?
+  | work = Journal of Oncology Practice, Vol 4, No 3 (May), 2008: pp. 116-117
+  | publisher = [[American Society of Clinical Oncology]]
+  | year = 2008
+  | url = http://jop.ascopubs.org/cgi/content/full/4/3/116
+  | format = web
+  | doi =
+  | accessdate = January 21, 2010 }}</ref> Other than published CMS edits there are no nationally recognized code edits: Though there have been proposals to create some.<ref Name="AMA">{{cite web
+  | last = AMA
+  | first =
+  | authorlink =
+  | coauthors =
+  | title = FEASIBILITY STUDY ON THE DEVELOPMENT OF CPT COMPLIANT CODE EDITS
+  | work = Report
+  | publisher = [[American Medical Association]]
+  | date = June 2005
+  | url = http://www.ama-assn.org/ama1/pub/upload/mm/38/a-05bot.pdf
+  | format = pdf
+  | doi =
+  | accessdate = January 21, 2010 }}</ref> A 2005 study found that private payers were applying “CPT codes, guidelines and conventions”, “CMS payment rules”, “National Correct Coding Initiative”, and “Payer-specific proprietary edits” to claim, of these about 25% were “Payer-specific proprietary edits” <ref Name="NHXS">{{cite web
+  | last =NHXS
+  | first =
+  | authorlink =
+  | coauthors =
+  | title = What private payers do to your claim: repricing and claims editing
+  | work = review of report by [[National Health Exchange Services]] (NHXS)
+  | publisher = [[American Medical Association]]
+  | year = 2005
+  | url = http://www.nhxs.com/docs/files/File/nhxs_payor_report_for_AMA.pdf
+  | format =PDF
+  | doi =
+  | accessdate = January 21, 2010 }}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Clinical procedure classification]]
+[[Category:Medicare and Medicaid (United States)]]

@@ -1,0 +1,57 @@
+{{For|the counterfeit U.S. currency|Superdollar}}
+
+{{one source|date=June 2010}}
+{{orphan|date=June 2010}}
+'''Superbill''' is itemized form utilized by [[healthcare provider]]s for reflecting rendered services. Superbill is the main data source for creation of healthcare claim, which will be submitted to payers (insurances, funds, programs) for reimbursement. Although the superbill form is not unified, and it is created/modified depending on [[healthcare provider]] specialty, type of rendered services, additional requirements, as well as ease of handling, there is a set of obligatory attributes, relevant to all superbill types.
+
+Superbill form consists of 4 main parts, containing mandatory fields to be completed for accurate claim creation:
+
+==Provider Information==
+===Rendering Provider===
+*Last/First name and Degree
+*Service location
+*Signature
+
+===Ordering/referring/attending physician===
+*Last/First name and Degree
+*NPI ([[National Provider Identifier]])
+
+==Patient Information==
+*Patient’s first and last name
+*Patient [[Date of birth|DOB]]
+*Insurance information (Insurance name/and ID)
+*Date of first symptom (upon necessity)
+*Last date seen (upon necessity)
+
+==Visit information==
+*Date of service
+*[[Procedure codes]] (CPT) – list of commonly used codes by medical provider according to the provider specialty
+*[[Diagnosis codes]] ([[ICD-9]]) – list of commonly used codes by medical provider according to the provider specialty
+*Modifiers (Location and conditions modifiers)
+*Time (for timed codes)
+*Units
+*Quantity for drugs
+*Authorization information (if applicable)
+
+==Additional information==
+*Notes and comments (for e.g.: PT cap)
+
+==Superbill utilization rules==
+#	Each superbill must be signed by rendering provider of service. Superbill without a signature cannot be processed by medical biller. By signing the document the healthcare provider is acknowledging the services rendered and confirming that information on superbill is permitted to be sent to insurance company by medical biller.{{citation needed|date=January 2012}}
+#	All required fields should be completed (with the exception of those that are considered optional)
+#	Provided information should be readable
+#	CPT and [[ICD-9]] ([[ICD-10]] -Starting October 1, 2014) codes should be marked clearly
+#	In case if required CPT or [[ICD-9]] code could not be found in the given list, Provider should give legible handwritten description of service/diagnosis, along with additional information (units, time, type, etc.)
+#	Only generally accepted medical terminology and abbreviations are allowed
+
+==Further reading==
+* [http://www.scribd.com/doc/18145587/The-SuperbillGuide-to-a-Uniform-Billing-andOr-Claims-SystemIsBN-0685033295 ''The Superbill-Guide to a Uniform Billing and-Or Claims System](IsBN 0685033295)by Medical Group Management Association Staff, Costello, William E.
+
+==External links==
+*[http://www.ambanet.net/], American Medical Billing Association
+*[http://www.wchsb.com/], WCH Billing Bureau
+*[http://www.aapc.com/], American Academy of Professional Coders
+*[http://www.ahima.org/], American Health Information Management Association
+
+[[Category:Accounting source documents]]
+[[Category:Health insurance]]

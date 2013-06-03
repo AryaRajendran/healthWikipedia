@@ -1,0 +1,299 @@
+{{cleanup|date=October 2010}}
+[[File:Sshot fever.png|right|thumb|Electronic patient chart from a health information system]]
+
+'''Health informatics''' (also called '''Health Information Systems''', '''health care informatics''', '''healthcare informatics''', '''medical informatics''', '''nursing informatics''',  '''clinical informatics''', or '''biomedical informatics''') is a discipline at the intersection of [[information science]], [[computer science]], and [[health care]]. It deals with the resources, devices, and methods required to optimize the acquisition, storage, retrieval, and use of information in health and biomedicine. [[Health informatics tools]] include computers, [[medical guideline|clinical guidelines]], formal medical terminologies, and information and communication systems. It is applied to the areas of [[nursing]], [[Clinical medicine|clinical care]], [[dentistry]], [[pharmacy]], [[public health]], [[occupational therapy]], and ([[biomedical research|bio]])[[medical research]].
+* The international standards on the subject are covered by ICS 35.240.80<ref name=itah>{{cite web| title = 35.240.80: IT applications in health care technology| publisher = [[International Organization for Standardization|ISO]]| url = http://www.iso.org/iso/products/standards/catalogue_ics_browse.htm?ICS1=35&ICS2=240&ICS3=80&| accessdate = 2008-06-15}}</ref> in which [[ISO 27799]]:2008 is one of the core components.<ref name=isosm>{{cite web| last = Fraser| first = Ross| title = ISO 27799: Security management in health using ISO/IEC 17799| url = http://sl.infoway-inforoute.ca/downloads/Ross_Fraser_-_ISO_27799.pdf| accessdate = 2008-06-15 }}</ref>
+* Molecular [[bioinformatics]] and clinical informatics have converged into the field of [[translational bioinformatics]].
+
+==History==
+
+World wide use of computer technology in medicine began in the early 1950s with the rise of the computers.<ref name="univ"/> In 1949, [[Gustav Wagner]] established the first professional organization for informatics in Germany.<ref name="nyu">{{Cite web |url=http://www.nyuinformatics.org/education/degree-programs |title=NYU Graduate Training Program in Biomedical Informatics (BMI): A Brief History of Biomedical Informatics as a Discipline |work=www.nyuinformatics.org |publisher=NYU Langone Medical Center |accessdate=11 November 2010}}</ref> The prehistory, history, and future of medical information and health information technology are discussed in reference.<ref name="Robson_first">{{cite book |last=Robson |first=B. |last2=Baek |first2=O. K. |year=2009 |title=The engines of Hippocrates: From the Dawn of Medicine to Medical and Pharmaceutical Informatics |location=Hoboken, NJ |publisher=John Wiley & Sons |isbn=978-0-470-28953-2 }}</ref> Specialized university departments and Informatics training programs began during the 1960s in France, Germany, Belgium and The Netherlands. Medical informatics research units began to appear during the 1970s in Poland and in the U.S.<ref name="nyu" /> Since then the development of high-quality health informatics research, education and infrastructure has been a goal of the U.S. and the European Union.<ref name="nyu" />
+
+Early names for health informatics included medical computing, biomedical computing, medical computer science, computer medicine, medical electronic data processing, medical automatic data processing, medical information processing, medical information science, [[medical software]] engineering, and medical computer technology.{{Citation needed|date=October 2010}}
+
+The health informatics community is still growing, it is by no means a mature profession, but work in the UK by the voluntary registration body, the UK Council of Health Informatics Professions has suggested eight key constituencies within the domain - information management, knowledge management, portfolio/programme/project management, ICT, education and research, clinical informatics, health records(service and business-related), health informatics service management. These constituencies accommodate professionals in and for the NHS, in academia and commercial service and solution providers.
+
+Since the 1970s the most prominent international coordinating body has been the [[International Medical Informatics Association]] (IMIA).<ref>{{cite journal|last=Haux|first=Reinhold|title=Medical informatics: Past, present, future|journal=international journal of medical informatics|year=2010|volume=79|pages=599–610}}</ref>
+
+===Medical informatics in the United States===
+Even though the idea of using computers in medicine emerged as technology advanced in the early 20th century, it was not until the 1950s that informatics began to have an effect in the United States.<ref name="univ">{{Cite web |url=http://healthinformatics.uic.edu/history-of-health-informatics |title=The History of Health Informatics |work=Health Informatics, Nursing Informatics and Health Information Management Degrees |publisher=[[University of Illinois at Chicago]]}}</ref>
+
+The earliest use of electronic digital computers for medicine was for [[dentistry|dental]] projects in the 1950s at the United States [[National Bureau of Standards]] by [[Robert Ledley]].<ref>{{cite journal |author=Sittig DF, Ash JS, Ledley RS |title=The story behind the development of the first whole-body computerized tomography scanner as told by Robert S. Ledley |journal=Journal of the American Medical Informatics Association |volume=13 |issue=5 |pages=465–9 |year=2006 |pmid=16799115 |pmc=1561796 |doi=10.1197/jamia.M2127}}</ref> During the mid-1950s, the [[United States Air Force]] (USAF) carried out several medical projects on its computers while also encouraging civilian agencies such as the [[United States National Research Council|National Academy of Sciences - National Research Council]] (NAS-NRC)  and the [[National Institutes of Health]] (NIH) to sponsor such work.<ref name="november">{{cite book |last=November |first=Joseph |title=Biomedical Computing: Digitizing Life in the United States |location=Baltimore |publisher=Johns Hopkins University Press |year=2012 |isbn=1421404680}}</ref> In 1959, Ledley and Lee B. Lusted published “Reasoning Foundations of Medical Diagnosis,” a widely-read article in ''[[Science (journal)|Science]]'', which introduced computing (especially operations research) techniques to medical workers. Ledley and Lusted’s article has remained influential for decades, especially within the field of medical decision making.<ref name="Pyle">{{Cite journal |last=Pyle |first=Kathryn I. |last2=Lobel |first2=Robert W. |last3=Beck |first3=J.Robert |title=Citation Analysis of the Field of Medical Decision Making |journal =Medical Decision Making |volume=8 |pages=155–164 |year=1988 |doi=10.1177/0272989X8800800302 |url=http://mdm.sagepub.com/content/8/3/155}}</ref>
+
+Guided by Ledley's late 1950s survey of computer use in biology and medicine (carried out for the NAS-NRC), and by his and Lusted's articles, the NIH undertook the first major effort to introduce computers to biology and medicine. This effort, carried out initially by the NIH's Advisory Committee on Computers in Research (ACCR), chaired by Lusted, spent over $40 million between 1960 and 1964 in order to establish dozens of large and small biomedical research centers in the US.<ref name="november"/>
+
+One early (1960, non-ACCR) use of computers was to help quantify normal human movement, as a precursor to scientifically measuring deviations from normal, and design of prostheses.<ref>{{Cite web |url=http://jbjs.org/article.aspx?Volume=46&page=335 |title=Walking Patterns of Normal Men, JBS, 1964}}</ref>  The use of computers (IBM 650, 1620, and 7040) allowed analysis of a large sample size, and of more measurements and subgroups than had been previously practical with mechanical calculators, thus allowing an objective understanding of how human locomotion varies by age and body characteristics. A study co-author was Dean of the Marquette University College of Engineering; this work led to discrete Biomedical Engineering departments there and elsewhere.
+
+The next steps, in the mid-1960s, were the development (sponsored largely by the NIH) of [[expert system]]s such as [[MYCIN]] and [[Internist-I]]. In 1965, the [[National Library of Medicine]] started to use [[MEDLINE]] and [[MEDLARS]]. Around this time, [[Neil Pappalardo]], Curtis Marble, and Robert Greenes developed [[MUMPS]] (Massachusetts General Hospital Utility Multi-Programming System) in [[Octo Barnett]]'s Laboratory of Computer Science <ref>[http://www.lcs.mgh.harvard.edu/ MGH - Laboratory of Computer Science]</ref> at [[Massachusetts General Hospital]] in [[Boston]], another center of biomedical computing that received significant support from the NIH.<ref>{{cite book|pages=161|title=Milestones in Computer Science and Information Technology|author=Edwin D. Reilly|year=2003|isbn=978-1-57356-521-9|publisher=[[Greenwood Press]]}}</ref> In the 1970s and 1980s it was the most commonly used programming language for clinical applications. The [[MUMPS]] operating system was used to support MUMPS language specifications. {{As of|2004}}, a descendent of this system is being used in the [[United States]] [[United States Department of Veterans Affairs|Veterans Affairs]] hospital system. The VA has the largest enterprise-wide health information system that includes an electronic medical record, known as the [[VistA|Veterans Health Information Systems and Technology Architecture (VistA)]]. A [[graphical user interface]] known as the Computerized Patient Record System (CPRS) allows health care providers to review and update a patient’s electronic medical record at any of the VA's over 1,000 health care facilities.
+
+During the 1960s, Morris Collen, a physician working for [[Kaiser Permanente]]'s Division of Research, developed computerized systems to automate many aspects of multiphasic health checkups. These system became the basis the larger medical databases Kaiser Permanente developed during the 1970s and 1980s.<ref>{{cite book |last=Collen |first=Morris F. |title=A History of Medical Informatics in the United States, 1950 to 1990 |location=Bethesda, MD |publisher=American Medical Informatics Association |isbn=0964774305}}</ref> The American College of Medical Informatics (ACMI) has since 1993 annually bestowed the Morris F. Collen, MD Medal for Outstanding Contributions to the Field of Medical Informatics.<ref>{{cite web |title =Dr. Morris Collen Tribute |publisher=Kaiser Permanente |year=2008 |url=http://www.dor.kaiser.org/external/DORExternal/research_report/collen_tribute.aspx |accessdate=May 21, 2012}}</ref>
+
+In the 1970s a growing number of commercial vendors began to market practice management and electronic medical records systems. Although many products exist, only a small number of health practitioners use fully featured electronic health care records systems.
+
+[[Homer R. Warner]], one of the fathers of medical informatics,<ref>{{cite journal |author=Patton GA, Gardner RM |title=Medical informatics education: the University of Utah experience |journal=Journal of the American Medical Informatics Association |volume=6 |issue=6 |pages=457–65 |year=1999 |pmid=10579604 |pmc=61389}}</ref> founded the Department of Medical Informatics at the [[University of Utah]] in 1968. The [[American Medical Informatics Association]] (AMIA) has an award named after him on application of informatics to medicine.
+
+==== Informatics Certifications ====
+Like other IT training specialties, there are Informatics certifications available to help informatics professionals stand out and be recognized. In Radiology Informatics, the CIIP (Certified Imaging Informatics Professional) certification was created by ABII (The American Board of Imaging Informatics) which is sponsored by SIIM (the Society for Imaging Informatics in Medicine) in 2005. The CIIP certification requires documented experience working in Imaging Informatics, formal testing and is a limited time credential requiring renewal every five years.  The exam tests for a combination of IT technical knowledge, clinical understanding, and project management experience thought to represent the typical workload of a PACS administrator or other radiology IT clinical support role.  Certifications from PARCA (PACS Administrators Registry and Certifications Association) are also recognized.  The five PARCA certifications are tiered from entry level to architect level.
+
+===Medical informatics in the UK===
+The broad history of health informatics has been captured in the book ''UK Health Computing : Recollections and reflections'', Hayes G, Barnett D (Eds.), BCS (May 2008)  by those active in the field, predominantly members of BCS Health and its constituent groups. The book describes the path taken as ‘early development of health informatics was unorganized and idiosyncratic’. In the early -1950s it was prompted by those involved in NHS finance and only in the early 1960s did solutions including those in pathology (1960), radiotherapy (1962), immunization (1963), and primary care (1968)  emerge.  Many of these solutions, even in the early 1970s were developed in-house by pioneers in the field to meet their own requirements. In part this was due to some areas of health services (for example the immunization and vaccination of children) still being provided by Local Authorities. Interesting, this is a situation which the coalition government propose broadly to return to in the 2010 strategy Equity and Excellence: Liberating the NHS (July 2010); stating:
+
+"We will put patients at the heart of the NHS, through an information revolution and greater choice and control’ with shared decision-making becoming the norm: ‘no decision about me without me’ and patients having access
+to the information they want, to make choices about their care. They will have increased control over their own care records."
+
+These types of statements present a significant opportunity for health informaticians to come out of the back-office and take up a front-line role supporting clinical practice, and the business of care delivery.
+The UK health informatics community has long played a key role in international activity, joining TC4 of the International Federation of Information Processing (1969) which became IMIA (1979). Under the aegis of BCS Health, Cambridge was the host for the first EFMI Medical Informatics Europe (1974) conference and London was the location for IMIA’s tenth global congress (MEDINFO2001).
+
+==Current state of health informatics and policy initiatives==
+{{Review|date=August 2009}}
+
+===Americas===
+
+====Argentina====
+Since 1997, the Buenos Aires Biomedical Informatics Group, a nonprofit group, represents the interests of a broad range of clinical and non-clinical professionals working within the Health Informatics sphere.
+Its purposes are:
+*Promote the implementation of the computer tool in the healthcare activity, scientific research, health administration and in all areas related to health sciences and biomedical research.
+*Support, promote and disseminate content related activities with the management of health information and tools they used to do under the name of Biomedical informatics.
+*Promote cooperation and exchange of actions generated in the field of biomedical informatics, both in the public and private, national and international level.
+*Interact with all scientists, recognized academic stimulating the creation of new instances that have the same goal and be inspired by the same purpose.
+*To promote, organize, sponsor and participate in events and activities for training in computer and information and disseminating developments in this area that might be useful for team members and health related activities.
+
+The Argentinian health system is heterogeneousin its function, and because of that the informatics developments show a heterogeneous stage. Many private Health Care center have developed systems, such as the German Hospital of Buenos Aires,  or the Hospital Italiano de Buenos Aires that also has a residence program for health informatics.
+
+====Brazil====
+{{Main|Brazilian Society of Health Informatics}}
+The first applications of computers to medicine and healthcare in Brazil started around 1968, with the installation of the first mainframes in public university hospitals, and the use of programmable calculators in scientific research applications. Minicomputers, such as the [[IBM 1130]] were installed in several universities, and the first applications were developed for them, such as the [[hospital census]] in the [[School of Medicine of Ribeirão Preto]] and patient master files, in the [[Hospital das Clínicas da Universidade de São Paulo]], respectively at the cities of [[Ribeirão Preto]] and [[São Paulo]] campi of the [[University of São Paulo]]. In the 1970s, several [[Digital Corporation]] and [[Hewlett Packard]] minicomputers were acquired for public and Armed Forces hospitals, and more intensively used for [[intensive-care unit]], [[cardiology]] diagnostics, [[medical monitoring|patient monitoring]] and other applications. In the early 1980s, with the arrival of cheaper [[microcomputer]]s, a great upsurge of computer applications in health ensued, and in 1986 the [[Brazilian Society of Health Informatics]] was founded, the first [[Brazilian Congress of Health Informatics]] was held, and the first ''Brazilian Journal of Health Informatics'' was published. In Brazil, two universities are pioneers in teaching and research in Medical Informatics, both the [[University of Sao Paulo]] and the [[Federal University of Sao Paulo]] offer undergraduate programs highly qualified in the area as well as extensive graduate programs (MSc and PhD)
+
+====Canada====
+Health Informatics projects in Canada are implemented provincially, with different provinces creating different systems. A national, federally-funded, not-for-profit organization called [[Canada Health Infoway]] was created in 2001 to foster the development and adoption of electronic health records across Canada. As of December 31, 2008 there were 276 EHR projects under way in Canadian hospitals, other health-care facilities, pharmacies and laboratories, with an investment value of $1.5-billion from Canada Health Infoway.<ref>{{cite news| url=http://www.theglobeandmail.com/servlet/story/RTGAM.20080218.wmychart18/BNStory/specialScienceandHealth/ | location=Toronto | work=The Globe and Mail | first=Lisa | last=Priest | title=Your medical chart, just a mouse click away | date=2008-02-18}}</ref>
+
+Provincial and territorial programmes include the following:
+*'''[[eHealth Ontario]]''' was created as an Ontario provincial government agency in September 2008. It has been plagued by delays and its CEO was fired over a multimillion-dollar contracts scandal in 2009.<ref>{{cite news|url=http://www.cbc.ca/canada/story/2009/06/07/ehealth-kramer.html|title= Head of eHealth Ontario is fired amid contracts scandal, gets big package|accessdate=2009-08-26 | work=CBC News | date=2009-06-07}}</ref>
+*'''[[Alberta Netcare]]''' was created in 2003 by the Government of Alberta. Today the netCARE portal is used daily by thousands of clinicians. It provides access to demographic data, prescribed/dispensed drugs, known allergies/intolerances, immunizations, laboratory test results, diagnostic imaging reports, the diabetes registry and other medical reports. netCARE interface capabilities are being included in electronic medical record products which are being funded by the provincial government.
+
+====United States====
+In 2004, President George W. Bush signed [http://www.gpo.gov/fdsys/pkg/FR-2004-04-30/pdf/04-10024.pdf Executive Order 13335], creating the [[Office of the National Coordinator for Health Information Technology]] (ONCHIT) as a division of the U.S. [[Department of Health and Human Services]] (HHS). The mission of this office is widespread adoption of interoperable electronic health records (EHRs) in the US within 10 years. See [[quality improvement organizations]] for more information on federal initiatives in this area.
+
+The [[Certification Commission for Healthcare Information Technology]] (CCHIT), a private nonprofit group, was funded in 2005 by the U.S. [[Department of Health and Human Services]] to develop a set of standards for [[electronic health record]]s (EHR) and supporting networks, and certify vendors who meet them. In July 2006, CCHIT released its first list of 22 certified ambulatory EHR products, in two different announcements.<ref>Certification Commission for Healthcare Information Technology (July 18, 2006): [http://www.cchit.org/media/press+releases/CCHIT+Announces+First+Certified+Electronic+Health+Record+Products.htm CCHIT Announces First Certified Electronic Health Record Products]. Retrieved July 26, 2006.</ref>
+
+===Europe===
+{{details|European Federation for Medical Informatics}}
+
+The European Union's Member States are committed to sharing their best practices and experiences to create a European eHealth Area, thereby improving access to and quality health care at the same time as stimulating growth in a promising new industrial sector. The European eHealth Action Plan plays a fundamental role in the European Union's strategy. Work on this initiative involves a collaborative approach among several parts of the Commission services.<ref>[http://ec.europa.eu/information_society/activities/health/policy_action_plan/index_en.htm European eHealth Action Plan]</ref><ref>[http://ec.europa.eu/information_society/eeurope/i2010/index_en.htm European eHealth Action Plan i2010]</ref> The [[European Institute for Health Records]] is involved in the promotion of high quality [[electronic health record]] systems in the [[European Union]].<ref>{{cite web|title=Electronic Health Records for Europe|year=2005|url=http://www.esa.int/esaMI/Telemedicine_Alliance/SEMWC7SMD6E_0.html|publisher=[[European Space Agency]]|accessdate=2009-01-13}}</ref>
+
+==== UK ====
+
+There are different models of health informatics delivery in each of the home countries (England, Scotland, Northern Ireland and Wales) but some bodies like UKCHIP [http://www.ukchip.org] (see below
+) operate for those 'in and for' all the home countries and beyond.
+
+===== England =====
+
+The NHS in England has contracted out to several vendors for a national health informatics system 'NPFIT' that originally divided the country into five regions and is to be united by a central electronic medical record system nicknamed "the spine".[16] The project, in 2010, is seriously behind schedule and its scope and design are being revised in real time. In 2010 a wide consultation was launched as part of a wider ‘Liberating the NHS’ plan. Many organisations and bodies (look on their own websites, as most have made their responses public in detail for information) responded to the consultation and a new strategy is expected in the second quarter of 2011. The degree of computerisation in NHS secondary care was quite high before NPfIT and that programme has had the unfortunate effect of largely stalling further development of the installed base.
+Almost all general practices in England and Wales are computerised and patients have relatively extensive computerised primary care clinical records. Computerisation is the responsibility of individual practices and there is no single, standardised GP system. Interoperation between primary and secondary care systems is rather primitive. A focus on interworking (for interfacing and integration) standards is hoped will stimulate synergy between primary and secondary care in sharing necessary information to support the care of individuals.
+Scotland has an approach to central connection under way which is more advanced than the English one in some ways. Scotland has the GPASS system whose source code is owned by the State, and controlled and developed by NHS Scotland. GPASS was accepted in 1984. It has been provided free to all GPs in Scotland but has developed poorly.{{Citation needed|date=September 2011}} Discussion of open sourcing it as a remedy is occurring.
+
+===== Wales =====
+Wales has a dedicated Health Informatics function that supports NHS Wales in leading on the new integrated digital information services and promoting Health Informatics as a career. More information at www.wales.nhs.uk/nwis
+
+==== Emerging Directions (European R&D) ====
+The European Commission's preference, as exemplified in the 5th Framework<ref>[http://cordis.europa.eu/fp5/ Cordis FP5web]</ref> as well as currently pursued pilot projects,<ref>[http://www.epsos.eu European Patient Smart Open Services]</ref> is for Free/Libre and Open Source Software (FLOSS) for healthcare. Another stream of research currently focuses on aspects of "big data" in health information systems. For background information on data-related aspects in health informatics see, e.g., the book "Biomedical Informatics" <ref>Holzinger, A. (2012). Biomedical Informatics, Lecture Notes to LV 444.152. Books on Demand, ISBN 978-3-8482-2219-3.</ref> by Andreas Holzinger.
+
+===Asia and Oceania===
+In Asia and Australia-New Zealand, the regional group called the [[Asia Pacific Association for Medical Informatics]] (APAMI)<ref>{{Cite web |url=http://www.apami.org |title=Asia Pacific Association of Medical Informatics}}</ref> was established in 1994 and now consists of more than 15 member regions in the Asia Pacific Region.
+
+====Australia====
+The [[Australasian College of Health Informatics]] (ACHI) is the professional association for health informatics in the Asia-Pacific region. It represents the interests of a broad range of clinical and non-clinical professionals working within the health informatics sphere through a commitment to quality, standards and ethical practice.<ref>{{cite web|url=http://www.ACHI.org.au|title=Australasian College of Health Informatics|accessdate=3 May 2010}}Australasian College of Health Informatics</ref> ACHI is an academic institutional member of the [[International Medical Informatics Association]] (IMIA)<ref>{{cite web|url=http://www.imia.org/members/profiles/academic.lasso?-Search=Action&-Table=CGI&-MaxRecords=1&-SkipRecords=2&-Database=organizations&-SortField=english_vers&-SortOrder=ascending&type=academic&approved=yes|title=International Medical Informatics Association - Academic Institutional Members - Australia - Australian College of Health Informatics|date=12 August 2009|accessdate=22 February 2010}}</ref> and a full member of the Australian Council of Professions.<ref>[http://www.ACHI.org.au ACHI Memberships] ACHI memberships: Professions Australia</ref>
+ACHI is a sponsor of the "e-Journal for Health Informatics",<ref>[http://www.ejhi.net/ojs/index.php/ejhi/about/journalSponsorship eJHI - electronic Journal of Health Informatics] (open access journal)</ref> an indexed and peer-reviewed professional journal.  ACHI has also supported the "[[Australian Health Informatics Education Council]]" (AHIEC) since its founding in 2009.<ref>[http://www.AHIEC.org.au Australian Health Informatics Education Council (AHIEC)] AHIEC Auspicing Organisations</ref>
+
+Although there are a number of health informatics organisations in Australia, the [[Health Informatics Society of Australia]]<ref>{{cite web|url=http://www.hisa.org.au|title=Health Informatics Society of Australia Ltd|accessdate=3 April 2010}}</ref> (HISA) is regarded as the major umbrella group and is a member of the [[International Medical Informatics Association]] (IMIA). Nursing informaticians were the driving force behind the formation of HISA, which is now a company limited by guarantee of the members. The membership comes from across the informatics spectrum that is from students to corporate affiliates. HISA has a number of branches (Queensland, New South Wales, Victoria and Western Australia) as well as special interest groups such as nursing (NIA), pathology, aged and community care, industry and medical imaging (Conrick, 2006).
+
+====China====
+{{main|Health informatics in China}}
+At last 20 years, [[China]] performed a successful transition from its planned economy to a socialist market economy. Along this great and earth-shaking change, China ’s healthcare system also experienced a significant reform to follow and adapt to this historical revolution. In 2003, the data (released from Ministry of Health (MoH)), indicated that the national expenditure was up to RMB 662.33 billion totally, which accounted for about 5.56% of nation-wide gross domestic products <ref>{{cite web|url=http://www.moh.gov.cn/public/open.aspx?n id=9787&seq=0.|title=The statistic Summary of Health Care in China|access date=25 February 2006}}Ministry of Health of People’s Republic of China</ref> Before 1980s, the entire healthcare costs were covered in central government annual budget. Since that, the construct of healthcare-expending supporters started to change gradually. Most of the expenditure was contributed by health insurance schemes and private spending, which corresponded to 40% and 45% of total expenditure, respectively. Meanwhile the financially governmental contribution was decreased to 10% only. On another hand, by 2004, up to 296,492 healthcare facilities were recorded in statistic summary of MoH, and an average of 2.4 beds per 1000 people were reviewed as well<ref>{{cite journal|author=YH Zhang, YY Xu, L Shang, KG Rao|title=An investigation into health informatics and related standards in China|journal=INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS|volume=76|pages=614–620|year=2007}}</ref>
+
+Along the development of informatics technology since 1990s, healthcare providers realised that the information could transfer significant benefits to improve their services by computerised cases and data, for instance of gaining the information for directing patient care and assessing the best patient care for specific clinical conditions. Therefore substantial resources were collected to build China ’s own health informatics system. Most of these resources were arranged to construct Hospital Information System (HIS), which was aimed to minimise unnecessary waste and repetition, subsequently to promote the efficiency and quality-control of healthcare<ref>{{cite journal|author=J Guo, A Takada, T Niu, M He, K Tanaka, J Sato, M Suzuki,K Takahashi, H Daimon, T Suzuki, Y Nakashima, K Araki,H Yoshihara|title=Enhancement of CLAIM (clinical accounting information) for a localized Chinese version|journal=Journal of Medical Systems|volume=29|pages=463–471|year=2005}}</ref> By 2004, China has successfully spread HIS though approximately 35-40% of nation-wide hospitals.<ref>{{cite journal|author=XJ Wang, J Hu, K Wang,|title=X.J. Wang, J. Hu, K. Wang, Setting-up and preliminary performance of the interactive teleradiological conference system based on virtual private network|journal=Chinese medicine journal|volume=117|pages=1735–1738|year=2004}}</ref> However, the dispersion of hospital-owned HIS varies critically. In the east part of [[China]] , over 80% hospitals constructed HIS, in northwest of [[China]] the equivalent was no more than 20%. Moreover, all of the Centres for Disease Control and Prevention (CDC) above country level, approximately 80% of healthcare organisations above the country level and 27% of hospitals over town level have the ability to perform the transmission of reports about real-time epidemic situation through public health information system and to analysis infectious diseases by dynamic statistics.<ref>{{cite journal|author=KQ Rao, CY Wang, JP Hu|title=Introduction of the National Public Health Emergency Response Information Systems Project|journal=Chinese Journal of Integrative Medicine|volume=1|pages=2–5|year=2005}}</ref>
+
+Collected information at different times, by different participants or systems could frequently lead to issues of misunderstanding, dis-comparing or dis-exchanging. To achieve an issues-minor system, healthcare providers realised that certain standards were the basis for sharing information and interoperability and a system lacking standards would be a large impediment to interfere the improvement of corresponding information systems. Given that the standardisation for health informatics depends on the authorities, standardisation events must be involved with government and the subsequently relevant funding and supports were critical. In 2003, the Ministry of Health released the Development Lay-out of National Health Informatics (2003-2010).<ref>{{cite web|url=http:// www.moh.gov.cn/uploadfile/200406/2004629144259379.doc.|title=Development Layout of National Health Information|access date=2006}}</ref> indicating the identification of standardisation for health informatics which is ‘combing adoption of international standards and development of national standards’. 
+
+In [[China]] , the establishment of standardisation was initially involved in the development of vocabulary, classification and coding, which is conducive to reserve and transmit information for premium management at national level. By 2006, 55 international/ domestic standards of vocabulary, classification and coding have served in hospital information system. In 2003, the International Statistical Classification of Diseases, Injuries and Causes of Death, Tenth Revision (ICD 10) and the ICD-10 Clinical Modification (ICD-10-CM) were adopted as standards for diagnostic classification and acute care procedure classification. Simultaneously, the International Classification of Primary Care (ICPC) were translated and tested in [[China]] ’s local applied environment.<ref>{{cite=paper|author=PP Levy, L Duche, L Darago, Y Dorleans, L Toubiana, JF Vibert, A Flahault|title=ICPCview: visualizing the International
+Classification of Primary Care|journal=stud health technol inform journal|volume=116|page=623-628|year=2005}}</ref> Another coding standard, named Logical Observation Identifiers Names and Codes (LOINC), was applied to serve as general identifiers for clinical observation in hospitals. Personal identifier codes were widely employed in different information systems, involving name, sex, nationality, family relationship, educational level and job occupation. However, these codes within different systems are inconsistent, when sharing between different regions. Considering this large quantity of vocabulary, classification and coding standards between different jurisdictions, the healthcare provider realised that using multiple systems could generate issues of resource wasting and a non-conflicting national level standard was beneficial and necessary. Therefore, in late 2003, the health informatics group in Ministry of Health released three projects to deal with issues of lacking national health information standards, which were the Chinese National Health Information Framework and Standardisation, the Basic Data Set Standards of Hospital Information System and the Basic Data Set Standards of Public Health Information System.
+
+====Hong Kong====
+In [[Hong Kong]] a computerized patient record system called the [[Clinical Management System]] (CMS) has been developed by the [[Hospital Authority]] since 1994. This system has been deployed at all the sites of the Authority (40 hospitals and 120 clinics), and is used by all 30,000 clinical staff on a daily basis, with a daily transaction of up to 2 millions. The comprehensive records of 7 million patients are available on-line in the [[Electronic Patient Record]] (ePR), with data integrated from all sites. Since 2004 radiology image viewing has been added to the ePR, with radiography images from any HA site being available as part of the ePR.
+
+The [[Hong Kong Hospital Authority]] placed particular attention to the [[governance]] of clinical systems development, with input from hundreds of clinicians being incorporated through a structured process. The [[Health Informatics Section]] in Hong Kong Hospital Authority<ref>[http://www.ha.org.hk/hi/Welcome.html Health Informatics Section in Hong Kong Hospital Authority]</ref> has close relationship with Information Technology Department and clinicians to develop healthcare systems for the organization to support the service to all public hospitals and clinics in the region.
+
+The [[Hong Kong Society of Medical Informatics]] (HKSMI) was established in 1987 to promote the use of information technology in healthcare. The eHealth Consortium has been formed to bring together clinicians from both the private and public sectors, medical informatics professionals and the IT industry to further promote IT in healthcare in Hong Kong.<ref>[http://www.iproa.org/ProjectDetail.action?id=270 eHealth Consortium]</ref>
+
+====India====
+{{Main|Indian Association for Medical Informatics}}
+
+====New Zealand====
+Health Informatics is taught at five New Zealand universities. The most mature and established is the Otago programme which has been offered for over a decade.<ref>{{cite web|url=http://homepages.mcs.vuw.ac.nz/~peterk/healthinformatics/tec-hi-report-06.pdf|title=Health Informatics Capability Development In New Zealand - A Report to the Tertiary Education Commission|author=Karolyn Kerr|coauthors=Rowena Cullen, Jan Duke, Alec Holt, Ray Kirk, Peter Komisarczuk, Jim Warren and Shona Wilson|year=2006|accessdate=2009-01-08}}</ref> Health Informatics New Zealand (HINZ), is the national organisation that advocates for Health Informatics. HINZ organises a conference every year and also publishes an online journal- Healthcare Informatics Review Online.
+
+====Saudi Arabia====
+The Saudi Association for Health Information (SAHI) was established in 2006<ref>{{cite web|url=http://www.imia.org/members/profiles/national.lasso?-Search=Action&-Table=CGI&-MaxRecords=1&-SkipRecords=27&-Database=organizations&-KeyField=Internal%20Record%20ID&-SortField=country&-SortOrder=ascending&-SortField=country&-SortOrder=ascending&type=national&type=national |title=Medical Pharmaceutical Information Association (MedPharmInfo) |publisher=Imia.org |date=2008-05-18 |accessdate=2010-07-29}}</ref> to work under direct supervision of King Saud Bin Abdulaziz University for Health Sciences to practice public activities, develop theoretical and applicable knowledge, and provide scientific and applicable studies.<ref>{{Cite web|url=http://www.sahi.org.sa/objectives.php| title= Saudi Association for Health Informatics (SAHI)| work=www.sahi.org.sa/}}</ref>
+
+==Health Informatics Law==
+{{details|Health law}}
+''Health informatics law'' deals with evolving and sometimes complex legal principles as they apply to information technology in health-related fields. It addresses the privacy, ethical and operational issues that invariably arise when electronic tools, information and media are used in health care delivery. Health Informatics Law also applies to all matters that involve information technology, health care and the interaction of information. It deals with the circumstances under which data and records are shared with other fields or areas that support and enhance patient care.
+
+As many healthcare systems are making an effort to have patient records more readily available to them via the internet, it is important that providers be sure that there are a few security standards in place in order to make sure that the patients information is safe. They have to be able to assure confidentiality and the security of the people, process, and technology. Since there is also the possibility of payments being made through this system, it is vital that this aspect of their private information will also be protected through cryptography.
+
+==Clinical Informatics==
+Clinical Informatics is concerned with the use of information in [[health care]] by [[clinicians]].<ref>{{cite journal |author=Gardner RM, Overhage JM, Steen EB, ''et al.'' |title=Core content for the subspecialty of clinical informatics |journal=Journal of the American Medical Informatics Association |volume=16 |issue=2 |pages=153–7 |year=2009 |pmid=19074296 |pmc=2649328 |doi=10.1197/jamia.M3045}}</ref><ref>{{cite journal |author=Safran C, Shabot MM, Munger BS, ''et al.'' |title=Program requirements for fellowship education in the subspecialty of clinical informatics |journal=Journal of the American Medical Informatics Association |volume=16 |issue=2 |pages=158–66 |year=2009 |pmid=19074295 |pmc=2649323 |doi=10.1197/jamia.M3046}}</ref>
+
+[[Clinical research|Clinical]] informaticians transform health care by analyzing, designing, implementing, and evaluating [[information]] and [[communication systems]] that enhance individual and population health outcomes, improve [patient] care, and strengthen the clinician-patient relationship.
+Clinical informaticians use their knowledge of patient care combined with their understanding of informatics concepts, methods, and [[health informatics tools]] to:
+
+* assess information and knowledge needs of health care professionals and patients,
+* characterize, evaluate, and refine clinical processes,
+* develop, implement, and refine clinical decision support systems, and
+* lead or participate in the procurement, customization, development, implementation, management, evaluation, and continuous improvement of clinical information systems.
+
+[[Clinicians]] collaborate with other health care and information technology [[professionals]] to develop [[health informatics tools]] which promote patient care that is safe, efficient, effective, timely, patient-centered, and equitable.
+
+Development of the field of clinical informatics lead to creation of large data sets with electronic health record data integrated with other data (such as genomic data). Large data warehouses of often described as [[integrated data repository (healthcare)|integrated data repositories]] (for example, [[i2b2]] framework)
+
+===Translational bioinformatics===
+With the completion of the human genome and the recent advent of high throughput sequencing and genome-wide association studies of single nucleotide polymorphisms, the fields of molecular bioinformatics, biostatistics, statistical genetics and clinical informatics are converging into the emerging field of [[translational bioinformatics]].<ref>{{cite journal|last1=Butte|first1=AJ|title=Translational bioinformatics applications in genome medicine.|journal=Genome medicine|volume=1|issue=6|pages=64|year=2009|pmid=19566916|pmc=2703873|doi=10.1186/gm64}}</ref><ref>{{cite journal|last1=Kann|first1=M. G.|title=Advances in translational bioinformatics: computational approaches for the hunting of disease genes|journal=Briefings in Bioinformatics|volume=11|issue=1|pages=96–110|year=2009|pmid=20007728|pmc=2810112|doi=10.1093/bib/bbp048}}</ref><ref>{{cite journal|last1=Lussier|first1=YA|last2=Butte|first2=AJ|last3=Hunter|first3=L|title=Current methodologies for translational bioinformatics.|journal=Journal of biomedical informatics|volume=43|issue=3|pages=355–7|year=2010|pmid=20470899|pmc=2894568|doi=10.1016/j.jbi.2010.05.002}}</ref><br />
+The relationship between bioinformatics and health informatics, while conceptually related under the umbrella of biomedical informatics,<ref>{{cite journal|last=Sarkar|first=IN|title=Biomedical informatics and translational medicine|journal=J Transl Med 2010|volume=8|page=22}}</ref> has not always been very clear. The TBI community is specifically motivated with the development of approaches to identify linkages between fundamental biological and clinical information.<br />
+Along with complementary areas of emphasis, such as those focused on developing systems and approaches within clinical research contexts,<ref>{{cite journal|last=Embi|first=PJ|coauthors=Payne PR|title=Clinical research informatics: challenges, opportunities and definition for an emerging domain|journal=J Am Med Inform Assoc 2009|volume=16|pages=316–27}}</ref> insights from TBI may enable a new paradigm for the study and treatment of disease.
+
+===Clinical Research Informatics===
+
+Clinical Research Informatics (or, CRI) takes the core foundations, principles, and technologies related to Health Informatics, and applies these to clinical research contexts. As such, CRI is a sub-discipline of sorts of Health Informatics, and interest and activities in CRI have increased greatly in recent years given the overwhelming problems associated with the explosive growth of clinical research data and information.<ref>Richesson, Rachel L., and James E. Andrews. 2012.''Clinical research informatics.'' London: Springer.</ref> There are a number of activities within clinical research that CRI supports, including:
+
+*more efficient and effective data collection and acquisition
+*optimal protocol design and efficient management
+*patient recruitment and management
+*adverse event reporting
+*regulatory compliance
+*data storage, transfer, processing and analysis
+
+==Computational Health Informatics==
+Computational health informatics is a branch of [[Computer Science]] that deals specifically with computational techniques that are relevant in healthcare.  Computational health informatics is also a branch of [[Health Informatics]], but is orthogonal to much of the work going on in health informatics because computer scientist's interest is mainly in understanding fundamental properties of computation. Health informatics, on the other hand, is primarily concerned with understanding fundamental properties of medicine that allow for the intervention of computers.   The health domain provides an extremely wide variety of problems that can be tackled using computational techniques, and computer scientists are attempting to make a difference in medicine by studying the underlying principles of computer science that will allow for meaningful (to medicine) algorithms and systems to be developed. Thus, computer scientists working in computational health informatics and health scientists working in medical health informatics combine to develop the next generation of healthcare technologies.
+
+Using computers to analyze health data has been around since the 1950s, but it wasn't until the 1990s that the first sturdy models appeared. The development of the internet has helped develop computational health informatics over the past decade. Computer models are used to examine various topics such as how exercise affects obesity, healthcare costs, and many more.<ref>{{cite journal|last=Greengard|first=Samuel|title=A New Model for Healthcare|journal=Communications of the ACM|date=1 February 2013|volume=56|issue=2|pages=1719|doi=10.1145/2408776.2408783|url=http://delivery.acm.org.proxy.lib.umich.edu/10.1145/2410000/2408783/p17-greengard.pdf?ip=141.213.236.110&acc=OPEN&CFID=179603676&CFTOKEN=72054481&__acm__=1360633247_0aaf666762627a4f5c22fce91d6e6fdf|accessdate=12 February 2013}}</ref> 
+
+Examples of projects in computational health informatics include the COACH project.<ref>{{cite journal |author=Jesse Hoey, Pascal Poupart, Axel von Bertoldi, Tammy Craig, Craig Boutilier and Alex Mihailidis |title= Automated Handwashing Assistance For Persons With Dementia Using Video and a Partially Observable Markov Decision Process|journal=Computer Vision and Image Understanding (CVIU)|volume=114 |issue=5 |year=2010 |doi=10.1016/j.cviu.2009.06.008}}</ref><ref>{{cite journal| author=Alex Mihailidis, Jennifer N. Boger, Marcelle Candido and Jesse Hoey|title= The COACH prompting system to assist older adults with dementia through handwashing: An efficacy study.|journal=BMC Geriatrics|volume=8|issue=28|year=2008|url=http://www.biomedcentral.com/1471-2318/8/28}}</ref>
+
+== Leading health informatics and medical informatics journals ==
+{{Main|List of medical and health informatics journals}}
+
+== Health Informatics, Information Systems Education and Research ==
+
+===[[Bangladesh]]===
+In Bangladesh, [[University of Dhaka]] has approved a Masters' program in Health Informatics at [[Bangladesh Institute of Health Sciences]] with support from the [[Rockefeller Foundation]].<ref>http://www.buhs.x10.mx/hi/</ref>
+
+===[[Canada]]===
+
+*[[University of Waterloo]] - [[David R. Cheriton School of Computer Science]]  Master of Health Informatics (online professional degree), Master of Math thesis option with a research focus in computational health informatics, and undergraduate courses.<ref>http://cs.uwaterloo.ca/mhi/</ref>
+*[[Ryerson University]] Health Informatics
+*[[Dalhousie University]] Health Informatics in the Faculty of Computer Science
+*[[University of Victoria]] School of Health Information Science
+*[[University of Toronto]] Masters of Health Informatics
+*[[Conestoga College]] Undergraduate degree in Health Informatics
+
+===[[Saudi Arabia]]===
+
+*[[King Saud bin Abdulaziz University for Health Sciences]] has Bachelor in Health Information Management, Bachelor in Health Information Systems, Master in Health Informatics at the College of Public Health and Health Informatics
+
+*[[University of Ha'il]] has a Bachelor in Health Informatics at the College of Public Health and Health Informatics
+
+===[[Chile]]===
+*Centre for Health Informatics<ref name="centrodeinformaticaensalud.org">http://www.centrodeinformaticaensalud.org</ref>
+
+===[[Cuba]]===
+* University of Medical Sciences of Cuba Health Informatics].Health Informatics in the Faculty of Computer Science<ref name="centrodeinformaticaensalud.org"/>
+*National Nursing Network Informática. REDENFI Systems Research Centre<ref>http://www.sld.cu/sitios/redenfermeria/</ref>
+
+===[[Brazil]]===
+*[[Federal University of São Paulo]] Technology in Health Informatics - São Paulo School of Medicine
+*[[University of São Paulo]] Health Informatic - College of Medical Sciences of Ribeirão Preto
+
+===[[Netherlands, The]]===
+*Bachelor of Science Medical Informatics (Dutch)] Faculty of Medicine - Academic Medical Center / University of Amsterdam<ref>http://www.uva.nl/onderwijs/bachelor/bacheloropleidingen/content/medische-informatiekunde/medische-informatiekunde.html</ref>
+*Master of Science Medical Informatics (English)] Faculty of Medicine - Academic Medical Center / University of Amsterdam<ref>http://www.uva.nl/msc-medicalinformatics</ref>
+*Research department Medical Informatics] Academic Medical Center / University of Amsterdam<ref>http://www.amc.nl/web/Research/Departments/Overview/Medical-Informatics-KIK-1/Medical-Informatics-KIK.htm</ref>
+*Online e-learning Master Health Informatics for care professionals (HIZ) - starting September 2013
+
+===[[Sweden]]===
+*[[Karolinska Institutet]]<ref>http://ki.se/ki/jsp/polopoly.jsp?d=31697&a=145608&l=en</ref>
+
+===[[Switzerland]]===
+*Competence Center Health Network Engineering at the University of St. Gallen<ref>http://ehealth.iwi.unisg.ch</ref>
+
+===[[Ireland]]===
+*Health Information Systems Research Centre
+
+===[[USA]]===
+*[[Bryan University]] Master of Science in Applied Health Informatics<ref>http://bryanuniversity.edu/applied-health-informatics-program-overview</ref>
+*IMS Institute for Healthcare Informations, a division of [[IMS Health]] <ref>http://www.imshealth.com/portal/site/ims/menuitem.5ad1c081663fdf9b41d84b903208c22a/?vgnextoid=e39f79d7f269e210VgnVCM10000071812ca2RCRD</ref>
+*Online Master of Science in Medical Informatics at [[Northwestern University]]
+*[[Oregon Health & Science University]] Biomedical Informatics Program - Master of Science, Master of Biomedical Informatics, PhD, online Graduate Certificate <ref>http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/educational-programs/dmice-programs/index.cfm</ref>
+*Online Master of Science in Health Informatics at [[University of Illinois at Chicago]]
+*Master of Science in Health Informatics and [[PhD]] in Informatics, Health Informatics track, at [[Indiana University-Purdue University Indianapolis]]<ref>http://informatics.iupui.edu/health/</ref>
+*Master of Health Informatics at the [[University of Michigan]]
+*Master of Science in Health Informatics at [[University of Missouri]]
+*Professional Science Master's in Health Informatics and Health Information Technology Certificate at [[UNC Charlotte]]
+*[[University of Texas Health Science Center at Houston|The University of Texas Health Science Center at Houston (UTHealth) School of Biomedical Informatics]]
+*Master of Science in Health Care Informatics at [[University of Wisconsin]]
+*Master of Science, Bachelor of Science Concentration, and Graduate Certificate in Health Informatics at the [[George Mason University]]
+*Master of Science in Biomedical Informatics at [[Nova Southeastern University]]
+*Master of Science in Health Informatics at [[Northeastern University]], Boston, MA <ref>http://www.ccs.neu.edu/graduate/degree-programs/m-s-in-health-informatics/</ref>
+*Master of Science in Medical Informatics offered jointly between [[University of Rochester]] and [[Rochester Institute of Technology]] <ref>http://medinfomasters.org</ref>
+
+==See also==
+
+===Global partnerships, regional working groups, allied societies===
+* [http://www.imia-medinfo.org/ International Medical Informatics Association (IMIA)] World body for health and biomedical informatics.
+* [http://www.imia-lac.net Federation of Medical Informatics for Latin America and the Caribbean], IMIA-LAC, assist in the development of biomedical informatics in the regions of Argentina, Brazil, Chile, Cuba, Mexico, Uruguay and Venezuela.
+
+Are represented therein, IMIA as in other countries, such as Colombia and Peru
+* [http://wgni-imia-lac.blogspot.com/ Nursing Informatics Group of the Federation of Medical Informatics for Latin America and the Caribbean] ((WGNI-IMIA-LAC)), the International Organisation of Nursing Informatics of PAHO and IMIA-NI.
+* [http://www.isfteh.org/ ISfTeH - International Society for Telemedicine & eHealth] Facilitating the international dissemination of knowledge and experience in Telemedicine and eHealth and providing access to recognized experts in the field worldwide
+* [http://www.americantelemed.org/ American Telemedicine Association] Advocate promoting the use of advanced remote medical technologies.
+
+===Related concepts===
+* [[Bioinformatics]]
+* [[Continuity of care record]] (CCR)
+* [[eHealth]]
+* [[Electronic health record]] (EHR)
+* [[Electronic medical record]] (EMR)
+* [[Health information exchange]] (HIE)
+* [[Health information management]] (HIM)
+* [[Hospital information system]]
+* [[HRHIS|Human resources for health (HRH) information system]]
+* [[Personal health record]] (PHR)
+* [[Public health informatics]]
+
+===Standards/frameworks and governance===
+* [[Health Metrics Network]]
+* [[HL7]]
+* [[FHIR]]
+* [[LOINC]]
+* [[Omaha System]]
+* [[openEHR]]
+* [[SNOMED]]
+* [http://www.ukchip.org UK Council for Health Informatics Professions (UKCHIP UK Council for Health Informatics Professions)]
+
+==References==
+{{reflist|2|colwidth=40em}}
+
+==External links==
+<!--Please do not overload this section; see [[Wikipedia:External links]] for instructions about which links may be included-->
+{{Commons category|Medical informatics}}
+*{{dmoz|Health/Medicine/Informatics}}
+* [http://www.eJHI.net e-Journal for Health Informatics]
+* [http://www.biomedcentral.com/1472-6947/9/24 Article about informatics]
+* [http://www.ukchip.org UK Council for Health Informatics Professions, its principles, code and standards]
+* [http://www.healthcare-informatics.com Healthcare Informatics Magazine]
+* [http://piim.newschool.edu/_media/pdfs/PIIM-RESEARCH_AdvancingMeaningfulUse.pdf Willison, Brian. Advancing Meaningful Use: Simplifying Complex Clinical Metrics Through Visual Representation.]
+* [http://www.clinfowiki.org/ Clinfowiki]
+* [http://www.ghip.net/ Global Health Informatics Partnership]
+
+{{DEFAULTSORT:Health Informatics}}
+[[Category:Health informatics| ]]
+[[Category:Medical technology]]
+[[Category:Nursing informatics]]

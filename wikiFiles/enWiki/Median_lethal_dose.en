@@ -1,0 +1,387 @@
+{{redirect|LD50}}
+
+In [[toxicology]], the '''median lethal dose''', '''LD<sub>50</sub>''' (abbreviation for “[[lethal dose]], 50%”), '''LC<sub>50</sub>''' (lethal concentration, 50%) or '''LCt<sub>50</sub>''' (lethal concentration & time) of a [[toxin]], [[radiation]], or [[pathogen]] is the [[Dose (pharmacology)|dose]] required to kill half the members of a tested population after a specified test duration. LD<sub>50</sub> figures are frequently used as a general indicator of a substance's [[acute toxicity]]. The test was created by J.W. Trevan in 1927.<ref>[http://www.ccohs.ca/oshanswers/chemicals/ld50.html What is an LD50 and LC50]</ref> The term '''semilethal dose''' is occasionally used with the same meaning, in particular in translations from non-English-language texts, but can also refer to a ''sub''lethal dose; because of this ambiguity, it is usually avoided. LD<sub>50</sub> is usually determined by tests on animals such as [[laboratory mice]].
+In 2011 the U.S. [[Food and Drug Administration]] approved alternative methods to LD<sub>50</sub> for testing the cosmetic drug BOTOX.<ref>
+{{Cite web
+| date = Page last updated 24 June 2011
+| title = Allergan Receives FDA Approval for First-of-Its-Kind, Fully in vitro, Cell-Based Assay for BOTOX® and BOTOX® Cosmetic (onabotulinumtoxinA)
+| publisher = Allergan Web site
+| url = http://agn.client.shareholder.com/releasedetail.cfm?ReleaseID=587234
+| accessdate = 2012-08-15
+}}</ref><ref>
+{{Cite web
+| date = Page last updated 12 April 2008
+| title = In U.S., Few Alternatives To Testing On Animals
+| publisher = [[Washington Post]]
+| url = http://www.washingtonpost.com/wp-dyn/content/article/2008/04/11/AR2008041103733.html
+| accessdate = 2011-06-26
+}}</ref>
+
+== Conventions ==
+The LD<sub>50</sub> is usually expressed as the mass of substance administered per unit mass of test subject, typically as ''milli[[gram]]s of substance'' per ''[[kilogram]] of body mass'', but stated as nanograms (suitable for [[botulinum]]), micrograms, milligrams, or grams (suitable for [[paracetamol]]) per kilogram as toxicity decreases. Stating it this way allows the relative toxicity of different substances to be compared, and normalizes for the variation in the size of the animals exposed (although toxicity does not always scale simply with body mass).
+
+The choice of 50% lethality as a benchmark avoids the potential for ambiguity of making measurements in the extremes and reduces the amount of testing required. However, this also means that LD<sub>50</sub> is ''not'' the lethal dose for all subjects; some may be killed by much less, while others survive doses far higher than the LD<sub>50</sub>. Measures such as "LD<sub>1</sub>" and "LD<sub>99</sub>" (dosage required to kill 1% or 99%, respectively, of the test population) are occasionally used for specific purposes.<ref>[http://www.cdc.gov/niosh/pdfs/97-119-a.pdf REGISTRY OF TOXIC EFFECTS OF CHEMICAL SUBSTANCES (RTECS)<br>COMPREHENSIVE GUIDE TO THE RTECS]</ref>
+
+Lethal dosage often varies depending on the method of administration; for instance, many substances are less toxic when administered orally than when [[Intravenous therapy|intravenously]] administered. For this reason, LD<sub>50</sub> figures are often qualified with the mode of administration, e.g., "LD<sub>50</sub> i.v."
+
+The related quantities LD<sub>50</sub>/30 or an LD<sub>50</sub>/60 are used to refer to a dose that without treatment will be lethal to 50% of the population within (respectively) 30 or 60 days. These measures are used more commonly within [[Radiation Health Physics]], as survival beyond 60 days usually results in recovery.
+
+A comparable measurement is '''LCt<sub>50</sub>''', which relates to lethal dosage from exposure, where C is concentration and t is time. It is often expressed in terms of mg-min/m³. ICt<span style="font-size:100%;"><sub>50</sub></span> is the dose that will cause incapacitation rather than death. These measures are commonly used to indicate the comparative efficacy of [[chemical warfare]] agents, and dosages are typically qualified by rates of breathing (e.g., resting = 10 l/min) for inhalation, or degree of clothing for skin penetration.  The concept of '''Ct''' was first proposed by [[Fritz Haber]] and is sometimes referred to as '''[[Haber's Law]]''', which assumes that exposure to 1 minute of 100&nbsp;mg/m³ is equivalent to 10 minutes of 10&nbsp;mg/m³ (1 × 100 = 100, as does 10 × 10 = 100).
+
+Some chemicals, such as [[hydrogen cyanide]], are rapidly detoxified by the human body, and do not follow Haber's Law.  So, in these cases, the lethal concentration may be given simply as '''LC<sub>50</sub>''' and qualified by a duration of exposure (e.g., 10 minutes). The [[Material Safety Data Sheet]]s for toxic substances frequently use this form of the term even if the substance does follow Haber's Law.
+
+For disease-causing organisms, there is also a measure known as the median infective dose and dosage.  The median infective dose (ID<sub>50</sub>) is the number of organisms received by a person or test animal qualified by the route of administration (e.g., 1,200 org/man per oral).  Because of the difficulties in counting actual organisms in a dose, infective doses may be expressed in terms of biological assay, such as the number of LD<sub>50</sub>'s to some test animal.  In [[biological warfare]] infective dosage is the number of infective doses per minute for a cubic meter (e.g., ICt<sub>50</sub> is 100 medium doses - min/m³).
+
+== Limitation ==
+As a measure of toxicity, LD<sub>50</sub> is somewhat unreliable and results may vary greatly between testing facilities due to factors such as the genetic characteristics of the sample population, animal species tested, environmental factors and mode of administration.<ref name="ReferenceA">Ernest Hodgson - A Textbook of Modern Toxicology; Wiley-Interscience 2004 (3rd Edition)</ref> 
+
+There can be wide variability between species as well; what is relatively safe for rats may very well be extremely toxic for humans, and vice versa. For example, chocolate, harmless to humans, is known to be [[Health effects of chocolate#Potential toxicity in animals|toxic to many animals]]. When used to test [[venom]] from venomous creatures, such as [[snakes]], LD<sub>50</sub> results may be misleading due to the physiological differences between mice, rats, and humans. Many [[venomous snakes]] are specialized predators on mice, and their venom may be adapted specifically to incapacitate mice; and [[mongoose]]s may be exceptionally resistant. While most [[mammals]] have a very similar physiology, LD<sub>50</sub> results may or may not be directly relevant to humans.
+
+A low LD<sub>50</sub> in animals is always a cause for concern for humans, but a high animal value does not guarantee that a substance is similarly harmless to humans.
+
+== Examples ==
+
+NOTE: Comparing substances (especially drugs) to each other by LD<sub>50</sub> can be misleading in many cases due (in part) to differences in [[Effective dose (pharmacology)|effective dose]] (ED<sub>50</sub>).  Therefore, it is more useful to compare such substances by [[therapeutic index]], which is simply the ratio of LD<sub>50</sub> to ED<sub>50</sub>.
+
+The following examples are listed in reference to LD<sub>50</sub> values, in descending order, and accompanied by LC<sub>50</sub> values, {bracketed}, when appropriate.
+
+{| class="wikitable sortable"
+|-
+! Substance
+! Animal, Route
+! LD<sub>50</sub> <br /> {LC<sub>50</sub>} <br />
+! LD<sub>50</sub> : g/kg <br /> {LC<sub>50</sub> : g/L} <br /> standardized
+! Reference
+|-
+|-
+| [[Water]]
+| rat, oral
+| >{{ntsh|90000}}90,000&nbsp;mg/kg
+| >90
+| <ref>[http://www.sciencelab.com/msds.php?msdsId=9927321] - see to Section 11: Toxicological Information for the LD<sub>50</sub> verification</ref>
+|-
+| [[Sucrose]] (table sugar)
+| rat, oral
+| {{ntsh|29700}}29,700&nbsp;mg/kg
+| 29.7
+| <ref>[http://msds.chem.ox.ac.uk/SU/sucrose.html Safety (MSDS) data for sucrose]</ref>
+|-
+| [[Monosodium glutamate]] (MSG)
+| rat, oral
+| {{ntsh|16600}}16,600&nbsp;mg/kg
+| 16.6
+| <ref name="Walker00">{{cite journal |author=Walker R, Lupien JR|title=The safety evaluation of monosodium glutamate|journal=Journal of Nutrition|volume=130 |issue=4S Suppl |pages=1049S–52S|year=2000|month=April |pmid=10736380 }}</ref>
+|-
+| [[Vitamin C]] (ascorbic acid)
+| rat, oral
+| {{ntsh|11900}}11,900&nbsp;mg/kg
+| 11.9
+| <ref>{{cite web |url=http://physchem.ox.ac.uk/MSDS/AS/ascorbic_acid.html |title=Safety (MSDS) data for ascorbic acid |accessdate= 2007-02-21 |date= 2005-10-09 | publisher= [[Oxford University]] | deadurl= yes }}</ref>
+|-
+| [[Cyanuric acid]]
+| rat, oral
+| {{ntsh|7700}}7,700&nbsp;mg/kg
+| 7.7
+| <ref name="Babayan">A.A. Babayan, A.V.Aleksandryan, "Toxicological characteristics of melamine cyanurate, melamine and cyanuric acid", Zhurnal Eksperimental'noi i Klinicheskoi Meditsiny, Vol.25, 345-9 (1985). Original article in Russian.</ref>
+|-
+| [[cadmium sulfide]] || rat, oral || {{ntsh|7080}}7,080&nbsp;mg/kg || 7.08 || <ref>http://www.alfa.com/content/msds/german/A14544.pdf</ref>
+|-
+| [[ethanol|Grain alcohol]] (ethanol)
+| rat, oral
+| {{ntsh|7060}}7,060&nbsp;mg/kg
+| 7.06
+| <ref>[http://msds.chem.ox.ac.uk/ET/ethyl_alcohol.html Safety (MSDS) data for ethyl alcohol]</ref>
+|-
+| [[Melamine]]
+| rat, oral
+| {{ntsh|6000}}6,000&nbsp;mg/kg
+| 6
+| <ref name="Babayan" />
+|-
+| [[Melamine cyanurate]]
+| rat, oral
+| {{ntsh|4100}}4,100&nbsp;mg/kg
+| 4.1
+| <ref name="Babayan" />
+|-
+| [[Sodium molybdate]]
+| rat, oral
+| 4,000&nbsp;mg/kg
+| 4
+| <ref>http://msds.chem.ox.ac.uk/SO/sodium_molybdate.html Safety (MSDS) data for sodium molybdate</ref>
+|-
+| [[Sodium chloride|Table Salt]]
+| rat, oral
+| 3,000&nbsp;mg/kg
+| 3
+| <ref>[http://ptcl.chem.ox.ac.uk/MSDS/SO/sodium_chloride.html Safety (MSDS) data for sodium chloride]</ref>
+|-
+| [[Paracetamol]] (acetaminophen)
+| rat, oral
+| 1,944&nbsp;mg/kg
+| 1.944
+| <ref>[http://msds.chem.ox.ac.uk/AC/4-acetamidophenol.html Safety (MSDS) data for 4-acetamidophenol]</ref>
+|-
+| [[Delta-9-tetrahydrocannabinol]] (THC)
+| rat, oral
+| 1,270&nbsp;mg/kg
+| 1.270
+| <ref>[http://www.sciencedirect.com/science/article/pii/0041008X74901264 LD50 values of THC in fischer rats]</ref>
+|-
+| Metallic [[Arsenic]] || rat, oral || 763&nbsp;mg/kg || 0.763 || <ref>http://www.merck-chemicals.com/documents/sds/emd/deu/de/1001/100115.pdf</ref>
+|-
+| [[ADBAC|Alkyl dimethyl benzalkonium chloride]] (ADBAC)
+| rat, oral <br /> fish, immersion <br /> aq. invertebrates, imm.
+| 304.5&nbsp;mg/kg <br /> {0.28&nbsp;mg/L} <br /> {0.059&nbsp;mg/L}
+| 0.3045 <br /> {0.00028} <br /> {0.000059}
+|<ref name=epaRED>{{cite report
+|title=Reregistration Eligibility Decision for Alkyl Dimethyl Benzyl Ammonium Chloride (ADBAC)
+|publisher=[[United States Environmental Protection Agency|U.S. Environmental Protection Agency]] Office of Prevention, Pesticides, and Toxic Substances
+|editor=Frank T. Sanders
+|year=2006
+|month=August
+|url=http://www.epa.gov/oppsrrd1/REDs/adbac_red.pdf
+|pages=114
+|accessdate=2009-03-31
+}}</ref>
+|-
+| [[Coumarin]] ([[benzopyrone]], from [[Cinnamomum aromaticum]] and other plants)
+| rat, oral
+| 293&nbsp;mg/kg
+| 0.293
+| <ref>[http://www.palomar.edu/ehs/Chemistry%20MSDS/COUMARIN.pdf Coumarin Material Safety Data Sheet (MSDS)]</ref>
+|-
+| [[Aspirin]] (acetylsalicylic acid)
+| rat, oral
+| 200&nbsp;mg/kg
+| 0.2
+| <ref>[http://msds.chem.ox.ac.uk/AC/acetylsalicylic_acid.html Safety (MSDS) data for acetylsalicylic acid]</ref>
+|-
+| [[Caffeine]]
+| rat, oral
+| 192&nbsp;mg/kg
+| 0.192
+| <ref>[http://physchem.ox.ac.uk/MSDS/CA/caffeine.html Safety (MSDS) data for caffeine]</ref>
+|-
+| [[Arsenic trisulfide]]
+| rat, oral
+| 185–6,400&nbsp;mg/kg
+| 0.185
+| <ref>http://www.valero.com/V_MSDS/SpentMetalCatalyst901.pdf</ref>
+|-
+| [[Sodium nitrite]]
+| rat, oral
+| 180&nbsp;mg/kg
+| 0.18
+| <ref>[http://msds.chem.ox.ac.uk/MSDS/SO/sodium_nitrite.html Safety (MSDS) data for sodium nitrite]</ref>
+|-
+| [[Bisoprolol]]
+| mouse, oral
+| 100&nbsp;mg/kg
+| 0.1
+| <ref>[http://www.drugbank.ca/drugs/DB00612 DrugBank data for bisoprolol]</ref>
+|-
+| [[Cobalt(II) chloride]]
+| rat, oral
+| 80&nbsp;mg/kg
+| 0.08
+| <ref>http://msds.chem.ox.ac.uk/CO/cobalt_II_chloride.html Safety (MSDS) data for cobalt (II) chloride</ref>
+|-
+| [[Cadmium oxide]]
+| rat, oral
+| 72&nbsp;mg/kg
+| 0.072
+| <ref>http://assets.chemportals.merck.de/documents/sds/emd/deu/de/1020/102015.pdf Safety (MSDS) data for cadmium oxide</ref>
+|-
+| [[Sodium fluoride]]
+| rat, oral
+| 52&nbsp;mg/kg
+| 0.052
+| <ref>[http://hazard.com/msds/mf/baker/baker/files/s3722.htm Sodium Fluoride MSDS]</ref>
+|-
+| [[Nicotine]]
+| rat, oral <br /> mice, oral 
+| 50&nbsp;mg/kg <br /> 3.3&nbsp;mg/kg
+| 0.05 <br /> 0.0033
+| <ref>[http://physchem.ox.ac.uk/MSDS/NI/nicotine.html Safety (MSDS) data for nicotine]</ref> <br /> <ref>[http://www.inchem.org/documents/pims/chemical/nicotine.htm#PartTitle:7.%20TOXICOLOGY IPCS INCHEM]</ref> 
+|-
+| [[Pentaborane]]
+| human, oral
+| <50&nbsp;mg/kg
+| <0.05
+| <ref>http://cameochemicals.noaa.gov/chris/PTB.pdf Pentaborane chemical and safety data</ref>
+|-
+| [[Capsaicin]]
+| mouse, oral
+| 47.2&nbsp;mg/kg
+| 0.0472
+| <ref>{{cite web|url=http://www.sciencelab.com/xMSDS-Capsaicin_Natural-9923296 |title=Capsaicin Material Safety Data Sheet |accessdate=2007-07-13 |publisher=sciencelab.com |year=2007 |format=PDF}}</ref>
+|-
+| [[Mercury(II) chloride]]
+| rat, dermal
+| 41&nbsp;mg/kg
+| 0.041
+| <ref>http://www.sigmaaldrich.com/catalog/DisplayMSDSContent.doc</ref>
+|-
+| [[Lysergic acid diethylamide]] (LSD)
+| rat, intravenous
+| 16.5&nbsp;mg/kg
+| 0.0165
+| <ref>http://www.erowid.org/chemicals/lsd/lsd_death.shtml</ref>
+|-
+| [[Arsenic trioxide]]
+| rat, oral
+| 14&nbsp;mg/kg
+| 0.014
+| <ref>http://msds.chem.ox.ac.uk/AR/arsenic_III_oxide.html Safety (MSDS) data for arsenic trioxide</ref>
+|-
+| Metallic [[Arsenic]]
+| rat, [[intraperitoneal]]
+| 13&nbsp;mg/kg
+| 0.013
+| <ref>http://msds.chem.ox.ac.uk/AR/arsenic.html Safety (MSDS) data for metallic arsenic</ref>
+|-
+| [[Sodium cyanide]]
+| rat, oral
+| 6.4&nbsp;mg/kg
+| 0.0064
+| <ref>[http://msds.chem.ox.ac.uk/SO/sodium_cyanide.html Safety (MSDS) data for sodium cyanide]</ref>
+|-
+| [[White phosphorus]]
+| rat, oral
+| 3.03&nbsp;mg/kg
+| 0.00303
+| <ref>http://www.atsdr.cdc.gov/toxprofiles/tp103-c2.pdf</ref>
+|-
+| [[Strychnine]]
+| human, oral
+| 1–2&nbsp;mg/kg(estimated)
+| 0.001
+| <ref>INCHEM: Chemical Safety Information from Intergovernmental Organizations:Strychnine.  http://www.inchem.org/documents/pims/chemical/pim507.htm</ref>
+|-
+| [[Cantharidin]]
+| human, oral
+| 0.5&nbsp;mg/kg
+| 0.0005
+| 
+|-
+| [[Aflatoxin|Aflatoxin B1]] (from ''Aspergillus flavus'')
+| rat, oral
+| 0.48&nbsp;mg/kg
+| 0.00048
+| <ref>[http://physchem.ox.ac.uk/MSDS/AF/aflatoxin_B1.html Safety (MSDS) data for aflatoxin B1]</ref>
+|-
+| Venom of the [[Inland Taipan]] (Australian snake)
+| rat, subcutaneous
+| {{ntsh|.025}}25&nbsp;µg/kg
+| 0.000025
+| <ref>http://www.seanthomas.net/oldsite/ld50tot.html</ref>
+|-
+| [[Ricin]]
+| rat, intraperitoneal <br /> rat, oral
+| {{ntsh|.022}}22 μg/kg <br /> 20–30&nbsp;mg/kg
+| 0.000022 <br /> 0.02
+| <ref>http://www.efsa.europa.eu/en/efsajournal/pub/726.htm</ref>
+|-
+| [[Polychlorinated dibenzodioxins|Dioxin (TCDD)]]
+| rat, oral
+| {{ntsh|.02}}20&nbsp;µg/kg
+| 0.00002
+| <ref>[http://www.pesticideinfo.org/List_NTPStudies.jsp?Rec_Id=PC35857 U.S. National Toxicology Program acute toxicity studies for Dioxin (2,3,7,8-TCDD)]</ref>
+|-
+| [[Sarin]]
+| mouse, subcutaneous injection 
+| {{ntsh|.01723}}17.23&nbsp;µg/kg (estimated)
+| 0.0000172
+| <ref>http://het.sagepub.com/content/9/4/245</ref>
+|-
+| [[VX (nerve agent)|VX]]
+| human, oral, inhalation, absorption through skin/eyes
+| {{ntsh|.0023}}2.3&nbsp;µg/kg (estimated)
+| 0.0000023
+| <ref>[http://ehp.niehs.nih.gov/members/1994/102-1/munro-full.html Toxicity of the Organophosphate Chemical Warfare Agents GA, GB, and VX: Implications for Public Protection]</ref>
+|-
+| [[Batrachotoxin]] (from poison dart frog)
+| human, sub-cutaneous injection
+| {{ntsh|.002}}2-7&nbsp;µg/kg (estimated)
+| 0.000002
+| <ref>[http://www.asanltr.com/newsletter/02-2/articles/Neurotoxins.htm Brief Review of Natural Nonprotein Neurotoxins]</ref>
+|-
+| Venom of [[Hydrophis belcheri]] (Belcher's Sea Snake)
+| mouse, [[intraperitoneal]]
+| {{ntsh|.00025}}0.25&nbsp;µg/kg
+| 0.00000025
+| <ref>http://crikeymatemosaic.wordpress.com/2006/10/17/the-deadliest-snakes-in-the-world/</ref>
+|-
+| [[Maitotoxin]]
+| mouse, [[intraperitoneal]]
+| {{ntsh|.00013}}0.13&nbsp;µg/kg
+| 0.00000013
+| <ref>{{cite journal |first=Akihiro |last=Yokoyama |first2=Michio |last2=Murata |first3=Yasukatsu |last3=Oshima |first4=Takashi |last4=Iwashita |first5=Takeshi |last5=Yasumoto |title=Some Chemical Properties of Maitotoxin, a Putative Calcium Channel Agonist Isolated from a MarineDinoflagellate |journal=[[Journal of Biochemistry|J. Biochem.]] |year=1988 |volume=104 |issue=2 |pages=184–187 |url=http://jb.oxfordjournals.org/content/104/2/184.short |pmid=3182760 }}</ref>
+|-
+| [[Polonium]]-210
+| human<!-- double check reference -->, inhalation
+| {{ntsh|.00001}}10&nbsp;ng/kg (estimated)
+| 0.00000001
+| <ref>[http://agrippina.deakin.edu.au/occ-hyg/sbc312/sbc312-07/SBC312-Topic2-07.htm Topic 2 Toxic Chemicals and Toxic Effects]</ref>
+|-
+| [[Botulinum toxin]] (Botox)
+| human, oral, injection, inhalation
+| {{ntsh|.000001}}1&nbsp;ng/kg (estimated)
+| 0.000000001
+| <ref>{{cite book |first=Diane O. |last=Fleming |first2=Debra Long |last2=Hunt |title=Biological Safety: principles and practices |publisher=ASM Press |location=Washington, DC |year=2000 |page=267 |isbn=1-55581-180-9 }}</ref>
+|-
+| [[Ionizing radiation]]
+| human, irradiation
+| 3-6 [[Gray (unit)|Gy]]
+| 
+|}
+
+== Animal rights concerns ==
+[[Animal rights|Animal-rights]] and [[Animal welfare|animal-welfare]] groups, such as Animal Rights International,<ref>[http://www.ari-online.org/main.html Thirty-Two Years of Measurable Change]</ref> have campaigned against LD<sub>50</sub> testing on animals in particular as, in the case of some substances, causing the animals to die slow, painful deaths. Several countries, including the [[United Kingdom|UK]], have taken steps to ban the oral LD<sub>50</sub>, and the [[Organization for Economic Co-operation and Development]] (OECD) abolished the requirement for the oral test in 2001 (see Test Guideline 401, ''Trends in Pharmacological Sciences'' Vol 22, February 22, 2001).
+
+== See also ==
+* [[Animal testing]]
+* [[Reed-Muench method]]
+
+== Other measures of toxicity ==
+
+* [[IDLH]]
+* [[Certain safety factor]]
+* [[Therapeutic index]]
+* [[Protective index]]
+* [[Fixed Dose Procedure]] to estimate LD50
+* [[Median toxic dose]] (TD50)
+* Lowest published toxic concentration (TCLo)
+* [[Lowest published lethal dose]] (LDLo)
+* [[EC50|EC<sub>50</sub>]] (half maximal effective concentration)
+* [[IC50|IC<sub>50</sub>]] (half maximal inhibitory concentration)
+* [[Draize test]]
+* [[Indicative limit value]]
+* [[No-observed-adverse-effect level]] (NOAEL)
+* [[Lowest-observed-adverse-effect level]] (LOAEL)
+* [[Up-and-down procedure]]
+
+== Related measures ==
+* [[TCID50|TCID<sub>50</sub>]] Tissue Culture Infective Dosage
+* EID<sub>50</sub> Egg Infective Dosage
+* ELD<sub>50</sub> Egg Lethal Dosage
+* [[Plaque forming units]] (pfu)
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* [http://www.ccohs.ca/oshanswers/chemicals/ld50.html Canadian Centre for Occupational Health and Safety]
+* {{cite journal | pmid = 7896233 | year = 1995 | last1 = Lipnick | first1 = RL | last2 = Cotruvo | first2 = JA | last3 = Hill | first3 = RN | last4 = Bruce | first4 = RD | last5 = Stitzel | first5 = KA | last6 = Walker | first6 = AP | last7 = Chu | first7 = I | last8 = Goddard | first8 = M | last9 = Segal | first9 = L | title = Comparison of the up-and-down, conventional LD50, and fixed-dose acute toxicity procedures | volume = 33 | issue = 3 | pages = 223–31 | journal = [[Food and chemical toxicology]] | doi=10.1016/0278-6915(94)00136-C}}
+
+{{Pharmacology}}
+{{Toxicology}}
+
+{{DEFAULTSORT:Median Lethal Dose}}
+[[Category:Toxicology]]
+
+[[fa:ال‌دی ۵۰]]
+[[ko:LD50]]
+[[pl:LD 50]]
+[[ru:LD50]]

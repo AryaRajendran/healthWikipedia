@@ -1,0 +1,250 @@
+[[File:TomographyPrinciple Illustration.png|200px|thumb|Basic principle of tomography: superposition free tomographic cross sections S<sub>1</sub> and S<sub>2</sub> compared with the projected image P]]
+'''Tomography''' refers to imaging by sections or sectioning, through the use of any kind of penetrating [[wave]]. A device used in tomography is called a '''tomograph''', while the image produced is a '''tomogram'''. Tomography as the computed tomographic (CT) scanner was invented by [[Godfrey Hounsfield|Sir Godfrey Hounsfield]], and thereby made an exceptional contribution to medicine. The method is used in [[radiology]], [[archaeology]], [[biology]], [[geophysics]], [[oceanography]], [[materials science]], [[astrophysics]], [[quantum Information]], and other sciences. In most cases it is based on the mathematical procedure called [[tomographic reconstruction]].
+
+==Etymology==
+The word ''tomography'' is derived from the Greek ''tomē'' ("cut") or  ''tomos'' ("part" or "section") and ''graphein'' ("to write").
+
+==Description==
+In conventional medical [[X-ray]] tomography, clinical staff make a sectional image through a body by moving an X-ray source and the film in opposite directions during the exposure. Consequently, structures in the focal plane appear sharper, while structures in other planes appear blurred.<ref>{{MeshName|Tomography}}</ref> By modifying the direction and extent of the movement, operators can select different focal planes which contain the structures of interest. Before the advent of more modern computer-assisted techniques, this technique, developed in the 1930s by the radiologist [[Alessandro Vallebona]], proved useful in reducing the problem of superimposition of structures in [[projection screen|projectional]] (shadow) [[radiography]].
+
+In a 1953 article in the medical journal [[Chest (journal)|''Chest'']], B. Pollak of the [[Fort William Sanatorium]] described the use of planography, another term for tomography.<ref>{{cite journal
+ | title=Experiences with Planography
+ | first=B. 
+ | last=Pollak
+ | journal=Chest
+ | doi=10.1378/chest.24.6.663 
+ | date=December 1953 
+ | volume=24 
+ | issue=6 
+ | pages=663–669 
+ | url=http://chestjournal.chestpubs.org/content/24/6/663.abstract
+ | publisher=American College of Chest Physicians
+ | issn=0012-3692
+ | accessdate=July 10, 2011}}</ref>
+
+==Modern tomography==
+More modern variations of tomography involve gathering projection data from multiple directions and feeding the data into a [[tomographic reconstruction]] [[software]] [[algorithm]] processed by a computer.<ref name="ref1">
+Herman, G. T., Fundamentals of computerized tomography: Image reconstruction
+from projection,  2nd edition, Springer, 2009
+</ref> Different types of signal acquisition can be used in similar calculation algorithms in order to create a tomographic image. Tomograms are derived using several different physical phenomena listed in the following table:{{citation needed|date=January 2013}}
+
+{| class="wikitable"
+|-
+! Physical phenomenon
+! Type of tomogram
+|-
+|- style="text-align:center;"
+| [[X-ray]]s
+| [[computed tomography|CT]]
+|-
+|- style="text-align:center;"
+| [[gamma ray]]s
+| [[SPECT]]
+|-
+|- style="text-align:center;"
+| [[Radio waves|radio-frequency waves]]
+| [[MRI]]
+|-
+|- style="text-align:center;"
+| [[electron-positron annihilation]]
+| [[Positron emission tomography|PET]]
+|-
+|- style="text-align:center;"
+| [[electron]]s
+| [[Electron tomography]] or 3D [[Transmission Electron Microscopy|TEM]]
+|-
+|- style="text-align:center;"
+| ions
+| [[atom probe]]
+|-
+|- style="text-align:center;"
+| magnetic particles
+| [[magnetic particle imaging]]
+|}
+
+Some recent advances rely on using simultaneously integrated physical phenomena, e.g. X-rays for both [[computed tomography|CT]] and [[angiography]], combined [[computed tomography|CT]]/[[MRI]] and combined [[computed tomography|CT]]/[[Positron Emission Tomography|PET]].
+
+The term ''volume imaging'' might describe these technologies more accurately than the term ''tomography''. However, in the majority of cases in clinical routine, staff request output from these procedures as 2-D slice images. As more and more clinical decisions come to depend on more advanced volume visualization techniques, the terms ''tomography/tomogram'' may go out of fashion.{{citation needed|date=January 2013}}
+
+Many different [[reconstruction algorithm]]s exist. Most algorithms fall into one of two categories: [[filtered back projection]] (FBP) and [[iterative reconstruction]] (IR). These procedures give inexact results: they represent a compromise between accuracy and computation time required. FBP demands fewer computational resources, while IR generally produces fewer artifacts (errors in the reconstruction) at a higher computing cost.<ref name="ref1">Herman, G. T., Fundamentals of computerized tomography: Image reconstruction from projection, 2nd edition, Springer, 2009</ref>
+
+Although  [[MRI]] and  [[ultrasound]] make cross sectional images they don't acquire data from different directions. In MRI spatial information is obtained by using magnetic fields. In ultrasound, spatial information is obtained simply by focusing and aiming a pulsed ultrasound beam.
+
+==Synchrotron X-ray tomographic microscopy==
+Recently a new technique called [[synchrotron X-ray tomographic microscopy]] (SRXTM) allows for detailed three dimensional scanning of fossils.{{citation needed|date=January 2013}}
+
+==Types of tomography==
+{| class="wikitable"
+|-
+ ! Name
+ ! Source of data
+ ! Abbreviation
+ ! Year of introduction
+|-
+ |  [[Atom probe|Atom probe tomography]]
+ | [[Atom probe]]
+ | APT
+ |
+|-
+ | Computed Tomography Imaging Spectrometer<ref>Ralf Habel, Michael Kudenov, Michael Wimmer: [http://www.cg.tuwien.ac.at/research/publications/2012/Habel_2012_PSP/ Practical Spectral Photography]</ref>
+ | [[Visible spectrum|Visible light]] [[spectral imaging]]
+ | CTIS
+ |
+|-
+ |  Confocal microscopy ([[Laser scanning confocal microscopy]])
+ | [[Laser scanning confocal microscopy]]
+ | LSCM
+ |
+|-
+ |  [[Cryo-electron tomography]]
+ | [[Cryo-electron microscopy]]
+ | Cryo-ET
+ |
+|-
+ |  [[Electrical capacitance tomography]]
+ | [[Electrical capacitance]]
+ | ECT
+ |
+|-
+ |  [[Electrical resistivity tomography]]
+ | [[Electrical resistivity]]
+ | ERT
+ |
+|-
+ |  [[Electrical impedance tomography]]
+ | [[Electrical impedance]]
+ | EIT
+ | 1984
+|-
+|-
+ |  [[Electron tomography]]
+ | [[Electron attenuation/scatter]]
+ | ET
+ | 
+|-
+ |  [[Functional magnetic resonance imaging]]
+ | [[Nuclear magnetic resonance|Magnetic resonance]]
+ | fMRI
+ | 1992
+|-
+ |  [[Magnetic induction tomography]]
+ | [[Electromagnetic induction|Magnetic induction]]
+ | MIT
+ |
+|-
+ |  [[Magnetic resonance imaging]] or [[nuclear magnetic resonance]] tomography
+ | [[Nuclear magnetic moment]]
+ | MRI or MRT
+ |
+|-
+ |  [[Neutron tomography]]
+ | [[Neutron]]
+ |
+ |
+|-
+ |  [[Ocean acoustic tomography]]
+ | [[Sonar]]
+ |
+ |
+|-
+ |  [[Optical coherence tomography]]
+ | [[Interferometry]]
+ | OCT
+ |
+|-
+|-
+ |  [[Optical diffusion tomography]]
+ | [[Absorption of light]]
+ | ODT
+ |
+|-
+ |  [[Optical projection tomography]]
+ | [[Optical microscope]]
+ | OPT
+ |
+|-
+ | [[Photoacoustic imaging in biomedicine]]
+ | [[Photoacoustic spectroscopy]]
+ | PAT
+ |
+|-
+ |  [[Positron emission tomography]]
+ | [[Positron emission]]
+ | PET
+ |
+|-
+ |  [[Positron emission tomography - computed tomography]]
+ | [[Positron emission]] & [[X-ray]]
+ | PET-CT
+ |
+|-
+ |  [[Quantum tomography]]
+ | [[Quantum state]]
+ |
+ |
+|-
+ |  [[Single photon emission computed tomography]]
+ | [[Gamma ray]]
+ | SPECT
+ |
+|-
+ |  [[Seismic tomography]]
+ | [[Seismic waves]]
+ |
+ |
+|-
+ | [[Thermoacoustic imaging]]
+ | [[Photoacoustic spectroscopy]]
+ | TAT
+ |
+|-
+ |  [[Ultrasound-modulated optical tomography]]
+ | [[Ultrasound]]
+ | UOT
+ |
+|-
+ |  [[Ultrasound transmission tomography]]
+ | [[Ultrasound]]
+ |
+ |
+|-
+ |  [[X-ray tomography]]
+ | [[X-ray]]
+ | CT, CATScan
+ | 1971
+|-
+ |  [[Zeeman-Doppler imaging]]
+ | [[Zeeman effect]]
+ |
+ |
+|}
+
+[[Discrete tomography]] and [[Geometric tomography]], on the other hand, are research areas{{citation needed|date=January 2013}} that deal with the reconstruction of objects that are discrete (such as crystals) or homogeneous. They are concerned with reconstruction methods, and as such they are not restricted to any of the particular (experimental) tomography methods listed above.
+
+==See also==
+* [[Chemical imaging]]
+* [[Discrete tomography]]
+* [[Geometric tomography]]
+* [[Geophysical imaging]]
+* [[Industrial CT scanning]]
+* [[Medical imaging]]
+* [[MRI#MRI_versus_CT|MRI compared with CT]]
+* [[Network tomography]]
+* [[Nonogram]], a type of puzzle based on a discrete model of tomography
+* [[Radon transform]]
+* [[Tomographic reconstruction]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{External links|date=August 2010}}
+* [http://www.ceser.in/iji.html International Journal of Imaging and Robotics]
+* [http://www.ceser.in/ijts.html International Journal of Tomography & Statistics (IJTS)]
+* [http://www.bronnikov-algorithms.com/downloads/Andrei.Bronnikov_Image_reconstruction.pdf  Microtomography/Synchrotron tomography]
+
+{{Medical imaging}}
+
+<!--Categories-->
+[[Category:Medical imaging]]
+[[Category:Tomography| ]]

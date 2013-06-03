@@ -1,0 +1,39 @@
+{{Diagnostic infobox
+| Name            = Elastography
+| Image           = Manual compression elastography of invazive ductal carcinoma 00132.gif
+| Alt             = 
+| Caption         = 
+| DiseasesDB      = 
+| ICD10           = 
+| ICD9            = 
+| ICDO            =
+| MedlinePlus     = 
+| eMedicine       = 
+| MeshID          = D054459
+| LOINC           =
+| HCPCSlevel2     = 
+| Reference_range =  
+}}
+'''Elastography''' is a non-invasive method in which stiffness or strain [[image]]s of [[soft tissue]] are used to detect or classify [[tumors]]. A tumor or a suspicious [[cancer]]ous growth is normally 5-28 times stiffer than the background of normal soft tissue. When a mechanical compression or vibration is applied, the tumor deforms less than the surrounding tissue. i.e. the strain in the tumor is less than the surrounding tissue. Hence a strain image may, under particular simplifying assumptions, be interpreted as representative of the underlying [[Young's modulus]] distribution. The strain distribution may be temporally variant in the presence of internal fluid flow. Elastograms (images of tissue strain) have been shown to be affected by the degree of adherence of the tumor to its surroundings, indicating a potential to extend elastography to tumor mobility characterisation to improve diagnostic accuracy and surgical guidance.
+
+== Medical Imaging ==
+
+[[Ultrasound|Ultrasonic]] imaging is the most common medical imaging technique for producing elastograms.  Some research has been conducted using [[magnetic resonance elastography|magnetic resonance elastography (MRE)]] and [[computed tomography]]. However, using ultrasound has the advantages of being cheaper, faster and more portable than other techniques.
+
+''[[Transient elastography]]'' is used for example to measure the stiffness of the liver in vivo (FibroScan, Echosens, France). It is an alternative noninvasive method to [[liver biopsy]]. A correlation between liver elasticity and the fibrosis score (or [[cirrhosis]]) has been shown.<ref>{{cite journal |author=Ganne-Carrié N |title=Accuracy of liver stiffness measurement for the diagnosis of cirrhosis in patients with chronic liver diseases |journal=Hepatology |volume=44 |issue=6 |pages=1511–7 |year=2006 |pmid=17133503 |doi=10.1002/hep.21420 |author-separator=, |author2=Ziol M |author3=de Ledinghen V |display-authors=3 |last4=Douvin |first4=Catherine |last5=Marcellin |first5=Patrick |last6=Castera |first6=Laurent |last7=Dhumeaux |first7=Daniel |last8=Trinchet |first8=Jean-Claude |last9=Beaugrand |first9=Michel}}</ref>
+
+Elastography has become an efficient and easy-to-perform component of the breast ultrasound examination because tissue stiffness gauges of various types have been incorporated in a number of high-resolution linear transducers.<ref>Mendelson EB, Chen J, Karstaedt P. [http://www.diagnosticimaging.com/elastography-display/content/article/113619/1493144 Assessing tissue stiffness may boost breast imaging specificity.] Diagnostic Imaging. 2009;31(12):15-17.</ref>
+
+[http://www.siemens.com/strain Siemens Tissue Strain Imaging] 
+[http://www.lp-it.de/LP-IT-strainImaging.html Real Time Strain Imaging]<ref>http://www.lp-it.de/LP-IT-publications.php3</ref>
+
+[[Acoustic Radiation Force Impulse (ARFI) Imaging]] is another imaging modality being researched to non-invasively characterize liver stiffness,<ref>{{cite journal|pmc=2362504|title=Quantifying Hepatic Shear Modulus In Vivo Using Acoustic Radiation Force|year=2008|volume=34|issue=4|pmid=18222031|last1=Palmeri|first1=ML|last2=Wang|first2=MH|last3=Dahl|first3=JJ|last4=Frinkley|first4=KD|last5=Nightingale|first5=KR|pages=546–58|doi=10.1016/j.ultrasmedbio.2007.10.009|journal=Ultrasound in medicine & biology}}</ref><ref>http://kathynightingalelab.pratt.duke.edu/research/liver_fibrosis</ref><ref>http://radiology.rsna.org/content/256/2/640.abstract</ref>
+
+== Mathematical Description ==
+
+Pre-compression images are correlated to post-compression images, resulting in regions of large and small change in position.  This is called the shift-diagram.  The derivative of the shift will produce the strain diagram.
+
+==References==
+<references/>
+
+[[Category:Medical imaging]]

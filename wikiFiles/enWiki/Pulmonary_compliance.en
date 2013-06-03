@@ -1,0 +1,53 @@
+'''Pulmonary compliance''' (or '''lung compliance''') can refer to either dynamic or static lung compliance. Static lung compliance is the change in volume for any given applied pressure.<ref>{{MeshName|Lung+compliance}}</ref> Dynamic lung compliance is the compliance of the lung at any given time during actual movement of air. 
+
+The compliance of the lungs demonstrate [[Hysteresis#Respiratory_physiology|hysteresis]], that is the compliance is different on inspiration and expiration for identical volumes.
+
+Compliance is greatest at moderate [[lung volumes]], and much lower at volumes which are very low or very high.
+
+==Calculation==
+Pulmonary compliance is calculated using the following equation, where ΔV is the change in volume, and ΔP is the change in pleural pressure:
+
+:<math>Compliance =  \frac{ \Delta V}{ \Delta P} </math>
+
+For example if a patient inhales 500 mL of air from a spirometer with an intrapleural pressure before inspiration of – 5 cm H<sub>2</sub>O and -10 cm H<sub>2</sub>O at the end of inspiration. Then: <br />
+:<math> Compliance = \frac{\Delta V}{\Delta P} = \frac{.5\;L}{(-5\;cmH_2O - (-10\;cmH_2O))} = \frac{.5\;L}{5\;cmH_2O} = 0.1\;L\;\times\;cmH_2O^{-1}</math>
+
+===Static Compliance (C<sub>stat</sub>)===
+Static compliance represents pulmonary compliance during periods without gas flow, such as during an inspiratory pause. It can be calculated with the formula:
+:<math>C_{stat} = \frac{{V_T}}{{P_{plat}-PEEP}}</math>
+where P<sub>plat</sub> = plateau pressure. P<sub>plat</sub> is measured at the end of inhalation and prior to exhalation using an inspiratory hold maneuver. During this maneuver, airflow is transiently (~0.5 sec) discontinued, which eliminates the effects of airway resistance. Pplat is never > PIP and is typically < 3-5 cmH2O lower than PIP when airway resistance is not elevated.
+===Dynamic Compliance (C<sub>dyn</sub>)===
+Dynamic compliance represents pulmonary complaince during periods of gas flow, such as during active inspiration. Dynamic compliance is always less than or equal to static lung compliance. It can be calculated using the following equation, where C<sub>dyn</sub> = Dynamic compliance; V<sub>T</sub>&nbsp;=&nbsp;tidal volume; PIP&nbsp;=&nbsp;Peak inspiratory pressure; PEEP = Positive End Expiratory Pressure: 
+:<math>C_{dyn} = \frac{{V_T}}{{PIP-PEEP}}</math>
+where PIP = [[peak inspiratory pressure]] (the maximum pressure during inspiration). Alterations in airway resistance, [[lung compliance]] and chest wall compliance influence C<sub>dyn</sub>.
+
+==Clinical significance==
+It is an important measurement in [[respiratory physiology]].<ref>[http://oac.med.jhmi.edu/res_phys/Encyclopedia/Compliance/Compliance.HTML Compliance<!-- Bot generated title -->]</ref><ref>{{cite journal | author = Nikischin W, Gerhardt T, Everett R, Bancalari E | title = A new method to analyze lung compliance when pressure-volume relationship is nonlinear. | journal = Am J Respir Crit Care Med | volume = 158 | issue = 4 | pages = 1052–60 | year = 1998 | pmid = 9769260}} [http://ajrccm.atsjournals.org/cgi/content/full/158/4/1052 article]</ref><ref>{{GeorgiaPhysiology|4/4ch2/s4ch2_21}}</ref>
+
+* [[fibrosis]] is associated with a ''decrease'' in pulmonary compliance.
+* [[emphysema]]/[[Chronic obstructive pulmonary disease|COPD]] may be associated with an ''increase'' in pulmonary compliance due to the loss of alveolar and elastic tissue.
+
+[[Pulmonary surfactant]] increases compliance by decreasing the surface tension of water. The internal surface of the alveolus is covered with a thin coat of fluid. The water in this fluid has a high surface tension, and provides a force that could collapse the alveolus. The presence of surfactant in this fluid breaks up the surface tension of water, making it less likely that the alveolus can collapse inward. If the alveolus were to collapse, a great force would be required to open it, meaning that compliance would decrease drastically.
+
+==Functional significance of abnormally high or low compliance==
+Low compliance indicates a stiff lung and means extra work is required to bring in a normal volume of air. This occurs as the lungs in this case become fibrotic, lose their distensibility and become stiffer.
+
+In a highly compliant lung, as in emphysema, the elastic tissue has been damaged, usually due to their being overstretched by chronic overinflation. Patients with emphysema have a very high lung compliance due to the poor [[elastic recoil]], they have no problem inflating the lungs but have extreme difficulty exhaling air. In this condition extra work is required to get air out of the lungs.  Compliance also increases with increasing age, and during an Asthma attack (for unclear reasons).
+
+Compliance decreases in the following cases:
+
+* [[Supine position]]
+* [[Laparoscopic_surgery|Laparoscopic]] surgical interventions
+* Severe [[Restrictive_lung_disease|restrictive]] pathologies
+* Chronic [[Restrictive_lung_disease|restrictive]] pathologies
+* [[Hydrothorax]]
+* [[Pneumothorax]]
+* High standing of a [[Thoracic diaphragm|diaphragm]]
+
+==References==
+{{reflist|2}}
+
+{{Respiratory physiology}}
+[[Category:Respiratory therapy]]
+[[Category:Respiratory physiology]]
+[[Category:Mathematics in medicine]]

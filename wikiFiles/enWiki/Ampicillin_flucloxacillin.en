@@ -1,0 +1,62 @@
+{{Drugbox
+| verifiedrevid = 399726521
+
+<!--Combo data-->
+| type = combo
+| component1 = Ampicillin
+| class1 = Moderate-spectrum [[penicillin]]
+| component2 = Flucloxacillin
+| class2 = [[Antistaphylococcal penicillin]]
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral, [[intravenous therapy|intravenous]]
+
+<!--Identifiers-->
+| CAS_number =  
+| ATC_prefix = J01
+| ATC_suffix = CR50
+| PubChem =  
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 21106281
+
+<!--Chemical data-->
+| smiles = O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@H](N)c1ccccc1)[C@H]3SC2(C)C.Fc1cccc(Cl)c1c2noc(C)c2C(=O)N[C@@H]3C(=O)N4[C@@H](C(O)=O)C(C)(C)S[C@H]34
+| InChI = 1/C19H17ClFN3O5S.C16H19N3O4S/c1-7-10(12(23-29-7)11-8(20)5-4-6-9(11)21)15(25)22-13-16(26)24-14(18(27)28)19(2,3)30-17(13)24;1-16(2)11(15(22)23)19-13(21)10(14(19)24-16)18-12(20)9(17)8-6-4-3-5-7-8/h4-6,13-14,17H,1-3H3,(H,22,25)(H,27,28);3-7,9-11,14H,17H2,1-2H3,(H,18,20)(H,22,23)/t13-,14+,17-;9-,10-,11+,14-/m11/s1
+| InChIKey = MRHKOEQOYWPVKY-TWZKVBNYBV
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H17ClFN3O5S.C16H19N3O4S/c1-7-10(12(23-29-7)11-8(20)5-4-6-9(11)21)15(25)22-13-16(26)24-14(18(27)28)19(2,3)30-17(13)24;1-16(2)11(15(22)23)19-13(21)10(14(19)24-16)18-12(20)9(17)8-6-4-3-5-7-8/h4-6,13-14,17H,1-3H3,(H,22,25)(H,27,28);3-7,9-11,14H,17H2,1-2H3,(H,18,20)(H,22,23)/t13-,14+,17-;9-,10-,11+,14-/m11/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MRHKOEQOYWPVKY-TWZKVBNYSA-N
+}}
+'''[[Ampicillin]]/[[flucloxacillin]]''' ([[International Nonproprietary Name|INNs]]) or '''co-fluampicil''' ([[British Approved Name|BAN]]) is a combination drug of two [[&beta;-lactam antibiotic]]s, sold under the trade name '''Magnapen'''.
+
+==Indication==
+Ampicillin is a moderate spectrum penicillin antibiotic with good cover against [[group A streptococcal infection]] whilst flucloxacillin is a narrow spectrum antibiotic with cover against ''[[Staphylococcus aureus]]''. The combination covers the two most likely bacteria in [[cellulitis]] infections in the arm or leg.
+
+==Formulations==
+Capsules contain 250&nbsp;[[milligram|mg]] of each component, the syrup 125/125&nbsp;mg per spoon, and the powder for reconstruction for [[intravenous]] injection 250/250&nbsp;mg.
+
+==Side effects and contraindications==
+As per the individual components with stomach or bowel upset from the flucloxacillin being the most common. Both parts are members of the [[penicillin]] family of antibiotics, and therefore should not be taken by patients allergic to penicillin. See [[flucloxacillin]] for additional contraindications.
+
+==References==
+*[[British National Formulary]] '50' September 2005
+
+{{Cell wall disruptive antibiotics}}
+
+{{DEFAULTSORT:Ampicillin flucloxacillin}}
+[[Category:Combination antibiotics]]
+[[Category:Beta-lactam antibiotics]]
+
+
+{{antiinfective-drug-stub}}

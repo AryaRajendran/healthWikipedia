@@ -1,0 +1,42 @@
+The '''ABCD<sup>2</sup> score''' is a clinical score to determine the risk for [[stroke]] within the first two days following a [[transient ischemic attack]] (TIA, a condition in which temporary brain dysfunction results from [[oxygen shortage]] in the [[brain]]).<ref name="pmid17258668">{{cite journal |author=Johnston SC, Rothwell PM, Nguyen-Huynh MN, ''et al.'' |title=Validation and refinement of scores to predict very early stroke risk after transient ischaemic attack |journal=Lancet |volume=369 |issue=9558 |pages=283–92 |year=2007 |month=January |pmid=17258668 |doi=10.1016/S0140-6736(07)60150-0 |url=}}</ref>
+The score has recently been proposed to be equally useful to predict the risk of recurrent stroke during the first hours following TIA or minor stroke.<ref name="pmid19487652">{{cite journal |author=Chandratheva A, Mehta Z, Geraghty OC, ''et al.'' |title=Population-based study of risk and predictors of stroke in the first few hours after a TIA |journal=Neurology |volume=72 |issue= 22|pages=1941–1947 |year=2009 |pmid=19487652 |doi= 10.1212/WNL.0b013e3181a826ad|url= |pmc=2690971}}</ref>
+
+The ABCD<sup>2</sup> score is based on five parameters: age, [[blood pressure]], clinical features, duration of TIA, and presence of [[diabetes]].<ref name="pmid17258668"/>
+Each item is scored and the results are added to a result ranging between zero and seven. The ABCD<sup>2</sup> score is a modified version of the ABCD score (which covers the same parameters but without diabetes).<ref name="pmid15993230">{{cite journal |author=Rothwell PM, Giles MF, Flossmann E, ''et al.'' |title=A simple score (ABCD) to identify individuals at high early risk of stroke after transient ischaemic attack |journal=Lancet |volume=366 |issue=9479 |pages=29–36 |year=2005 |pmid=15993230 |doi=10.1016/S0140-6736(05)66702-5 |url=}}</ref>
+
+==Scoring system==
+{| class="wikitable" style="text-align:center; height:200px" border="1"
+|+ABCD<sup>2</sup> score
+|-
+! !! Age !! Blood Pressure !! Clinical Features !! Duration !! Diabetes
+|-
+! 0 points
+| <60 years || normal || other than those specified || less than 10 minutes || no diabetes
+|-
+! 1 points
+| ≥60 years || raised (blood pressure ≥140/90) || speech disturbance without [[muscle weakness|weakness]] || 10 to 59 minutes || diabetes present
+|-
+! 2 points
+|  ||  || [[unilateral]] (one-sided) weakness || ≥60 minutes ||
+|}
+
+==Interpretation==
+The risk for stroke can be estimated from the ABCD<sup>2</sup> score as follows:
+* Score 1-3 (low)
+** 2 day risk = 1.0%
+** 7 day risk = 1.2%
+* Score 4-5 (moderate)
+** 2 day risk = 4.1%
+** 7 day risk = 5.9%
+* Score 6–7 (high)
+** 2 day risk = 8.1%
+** 7 day risk = 11.7%
+
+==See also==
+*[[California score]]<ref name="pmid11147987">{{cite journal |author=Johnston SC, Gress DR, Browner WS, Sidney S |title=Short-term prognosis after emergency department diagnosis of TIA |journal=JAMA |volume=284 |issue=22 |pages=2901–6 |year=2000 |month=December |pmid=11147987 |doi= 10.1001/jama.284.22.2901|url=}}</ref>
+
+==Footnotes==
+{{reflist}}
+
+{{DEFAULTSORT:Abcd2 Score}}
+[[Category:Stroke]]

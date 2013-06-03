@@ -1,0 +1,112 @@
+{{Hatnote|This article deals exclusively with the production of antibodies in vivo.  For its medical and biological applications, see [[Antiserum]].}}
+{{Refimprove|date=July 2008}}
+
+'''Polyclonal antibodies''' are [[antibody|antibodies]] that are secreted by different [[B cell]] lineages within the body. They are a collection of immunoglobulin molecules that react against a specific [[antigen]], each identifying a different [[epitope]].
+
+== Production ==
+These antibodies are typically produced by [[inoculation]] of a suitable [[mammal]], such as a mouse, rabbit or goat. Larger mammals are often preferred as the amount of [[Blood serum|serum]] that can be collected is greater. An [[antigen]] is injected into the mammal. This induces the B-[[lymphocyte]]s to produce [[IgG]] [[immunoglobulin]]s specific for the antigen. This [[polyclonal response|polyclonal]] [[IgG]] is purified from the mammal’s [[blood plasma|serum]].
+
+By contrast, [[monoclonal antibody|monoclonal antibodies]] are derived from a single cell line.
+
+Many methodologies exist for polyclonal antibody production in laboratory animals. Institutional guidelines governing animal use and procedures relating to these methodologies are generally oriented around humane considerations and appropriate conduct for [[immunologic adjuvant|adjuvant]] (agents which modify the effect of other agents while having few if any direct effects when given by themselves) use. This includes adjuvant selection, routes and sites of administration, injection volumes per site and number of sites per animal. Institutional policies generally include allowable volumes of blood per collection and safety precautions including appropriate restraint and sedation or anesthesia of animals for injury prevention to animals or personnel.
+
+The primary goal of antibody production in laboratory animals is to obtain high [[titer]], high affinity [[antisera]] for use in experimentation or diagnostic tests. [[immunologic adjuvant|Adjuvants]] are used to improve or enhance an immune response to antigens. Most adjuvants provide for an injection site, antigen depot which allows for a slow release of antigen into draining lymph nodes.
+
+Many adjuvants also contain or act directly as:
+# surfactants which promote concentration of protein antigens molecules over a large surface area, and
+# immunostimulatory molecules or properties. Adjuvants are generally used with soluble protein antigens to increase antibody titers and induce a prolonged response with accompanying memory.
+Such antigens by themselves are generally poor immunogens. Most complex protein antigens induce multiple B-cell clones during the immune response, thus, the response is polyclonal. Immune responses to non-protein antigens are generally poorly or enhanced by adjuvants and there is no system memory.
+
+Antibodies are currently also being produced from isolation of human B-lymphocytes to produce specific recombinant polyclonal antibodies. The biotechnology company, [[Symphogen]], produces this type of antibody for therapeutic applications. They are the first research company to develop recombinant polyclonal antibody drugs to reach phase two trials. This production prevents viral and prion transmission.
+
+== Animal selection ==
+Animals frequently used for polyclonal antibody production include chickens, goats, guinea pigs, hamsters, horses, mice, rats, and sheep. However, the rabbit is the most commonly used laboratory animal for this purpose. Animal selection should be based upon:
+# the amount of antibody needed,
+# the relationship between the donor of the antigen and the recipient antibody producer (generally the more distant the phylogenetic relationship, the greater the potential for high titer antibody response) and
+# the necessary characteristics [e.g., class, subclass (isotype), complement fixing nature] of the antibodies to be made. Immunization and phlebotomies are stress associated and, at least when using rabbits and rodents, specific pathogen free (SPF) animals are preferred. Use of such animals can dramatically reduce morbidity and mortality due to pathogenic organisms, especially ''Pasteurella multocida'' in rabbits.
+
+Goats or horses are generally used when large quantities of antisera are required. Many investigators favor chickens because of their phylogenetic distance from mammals. Chickens transfer high quantities of IgY (IgG) into the egg yolk and harvesting antibodies from eggs eliminates the need for the invasive bleeding procedure. One week’s eggs can contain 10 times more antibodies than the volume of rabbit blood obtained from one weekly bleeding. However, there are some disadvantages when using certain chicken derived antibodies in immunoassays. Chicken IgY does not fix mammalian complement component C1 and it does not perform as a precipitating antibody using standard solutions.
+
+Although mice are used most frequently for monoclonal antibody production, their small size usually prevents their use for sufficient quantities of polyclonal, serum antibodies. However, polyclonal antibodies in mice can be collected from ascites fluid using any one of a number of ascites producing methodologies.
+
+When using rabbits, young adult animals (2.5–3.0&nbsp;kg or 5.5-6.5&nbsp;lbs) should be used for primary immunization because of the vigorous antibody response. Immune function peaks at [[puberty]] and primary responses to new antigens decline with age. Female rabbits are generally preferred because they are more docile and are reported to mount a more vigorous immune response than males. At least two animals per antigen should be used when using outbred animals. This principle reduces potential total failure resulting from non-responsiveness to antigens of individual animals.
+
+==Antigen preparation==
+The size, extent of aggregation and relative nativity of protein antigens can all dramatically affect the quality and quantity of antibody produced. Small polypeptides (<10 [[unified atomic mass unit|ku]]) and non-protein antigens generally need to be conjugated or crosslinked to larger, immunogenic, [[carrier proteins]] to increase immunogenicity and provide [[T cell]] epitopes. Generally, the larger the immunogenic protein the better. Larger proteins, even in smaller amounts, usually result in better engagement of antigen presenting antigen processing cells for a satisfactory immune response. Injection of soluble, non-aggregated proteins has a higher probability of inducing tolerance rather than a satisfactory antibody response.
+
+[[Keyhole limpet hemocyanin]] (KLH) and bovine serum albumin are two widely used carrier proteins. Poly-L-lysine has also been used successfully as a backbone for peptides. Although the use of Poly-L-lysine reduces or eliminates production of antibodies to foreign proteins, it may result in failure of peptide-induced antibody production. Recently, liposomes have also been successfully used for delivery of small peptides and this technique is an alternative to delivery with oily emulsion adjuvants.
+
+=== Antigen quantity ===
+Selection of antigen quantity for immunization varies with the properties of the antigen and the adjuvant selected. In general, microgram to milligram quantities of protein in adjuvant are necessary to elicit high titer antibodies. Antigen dosage is generally species, rather than body weight, associated. The so-called “window” of immunogenicity in each species is broad but too much or too little antigen can induce tolerance, suppression or immune deviation towards cellular immunity rather than a satisfactory humoral response. Optimal and usual protein antigen levels for immunizing specific species have been reported in the following ranges:
+# rabbit, 50–1000&nbsp;µg;
+# mouse, 10–50
+&nbsp;µg;
+# guinea pig, 50–500&nbsp;µg; and
+# goat, 250–5000&nbsp;µg.
+Optimal “priming” doses are reported to be at the low end of each range.
+
+The affinity of serum antibodies increases with time (months) after injection of antigen-adjuvant mixtures and as antigen in the system decreases. Widely used antigen dosages for “booster” or secondary immunizations are usually one half to equal the priming dosages. Antigens should be free of preparative byproducts and chemicals such as polyacrylamide gel, SDS, urea, endotoxin, particulate matter and extremes of pH.
+
+=== Peptide antibodies ===
+When a peptide is being used to generate the antibody, it is extremely important to design the antigens properly. There are several resources that can aid in the design as well as companies that offer this service. Expasy has aggregated a set of public tools under its [http://www.expasy.org/tools/protscale.html ProtScale] page that require some degree of user knowledge to navigate. For a more simple peptide scoring tool there is a [http://www.openbiosystems.com/antibodies/custom/polyclonal/ Antigen Profiler] tool available that will enable you to score individual peptide sequences based upon a relation epitope mapping database of previous immunogens used to generate antibodies. Finally, as a general rule peptides should follow some basic criteria.
+
+When examining peptides for synthesis and immunization, it is recommended that certain residues and sequences be avoided due to potential synthesis problems. This includes some of the more common characteristics:
+* Extremely long repeats of the same amino acid (e.g. RRRR)
+* Serine (S), Threonine (T), Alanine (A), and Valine (V) doublets
+* Ending or starting a sequence with a proline (P)
+* Glutamine (Q) or Asparagine (N) at the n-terminus
+* Peptides over weighted with hydrophobic residues (e.g. V,A,L,I, etc.…)
+
+=== Reactivity ===
+Investigators should also consider the status of nativity of protein antigens when used as immunogens and reaction with antibodies produced. Antibodies to native proteins react best with native proteins and antibodies to denatured proteins react best with denatured proteins. If elicited antibodies are to be used on membrane blots (proteins subjected to denaturing conditions) then antibodies should be made against denatured proteins. On the other hand, if antibodies are to be used to react with a native protein or block a protein active site, then antibodies should be made against the native protein. Adjuvants can often alter the nativity of the protein. Generally, absorbed protein antigens in a preformed oil-in-water [[emulsion]] adjuvant, retain greater native protein structure than those in water-in-oil emulsions.
+
+===Asepticity ===
+Antigens should always be prepared using techniques that ensure that they are free of microbial contamination. Most protein antigen preparations can be sterilized by passage through a 0.22u filter. Septic abscesses often occur at inoculation sites of animals when contaminated preparations are used. This can result in failure of immunization against the targeted antigen.
+
+== Adjuvants ==
+{{Cleanup-rewrite|date=May 2009}}
+There are many commercially available [[immunologic adjuvant]]s. Selection of specific adjuvants or types varies depending upon whether they are to be used for research and antibody production or in vaccine development. Adjuvants for vaccine use only need to produce protective antibodies and good systemic memory while those for antiserum production need to rapidly induce high titer, high avidity antibodies. No single adjuvant is ideal for all purposes and all have advantages and disadvantages. Adjuvant use generally is accompanied by undesirable side effects of varying severity and duration. Research on new adjuvants focuses on substances which have minimal toxicity while retaining maximum immunostimulation. Investigators should always be aware of potential pain and distress associated with adjuvant use in laboratory animals.
+
+The most frequently used adjuvants for antibody production are Freund’s, Alum, the Ribi Adjuvant System and Titermax.
+
+=== Freund’s adjuvants ===
+There are two basic types of [[Freund's adjuvant]]s: Freund’s Complete Adjuvant (FCA) and Freund’s Incomplete Adjuvant (FIA). FCA is a water-in-oil emulsion that localizes antigen for release periods up to 6 months. It is formulated with mineral oil, the surfactant mannide monoleate and heat killed ''Mycobacterium tuberculosis'', ''Mycobacterium butyricum'' or their extracts (for aggregation of macrophages at the inoculation site). This potent adjuvant stimulates both cell mediated and humoral immunity with preferential induction of antibody against epitopes of denatured proteins. Although FCA has historically been the most widely used adjuvant, it is one of the more toxic agents due to non-metabolizable mineral oil and it induces granulomatous reactions. Its use is limited to laboratory animals and it should be used only with weak antigens. It should not be used more than once in a single animal since multiple FCA inoculations can cause severe systemic reactions and decreased immune responses. Freund’s Incomplete Adjuvant has the same formulation as FCA but does not contain mycobacterium or its components. FIA usually is limited to booster doses of antigen since it normally much less effective than FCA for primary antibody induction. Freund’s adjuvants are normally mixed with equal parts of antigen preparations to form stable emulsions.
+
+=== Ribi Adjuvant System===
+Ribi adjuvants are oil-in-water emulsions where antigens are mixed with small volumes of a metabolizable oil (squalene) which are then emulsified with saline containing the surfactant Tween 80. This system also contains refined mycobacterial products (cord factor, cell wall skeleton) as immunostimulants and bacterial monophosphoryl lipid A. Three different species oriented formulations of the adjuvant system are available. These adjuvants interact with membranes of immune cells resulting in cytokine induction, which enhances antigen uptake, processing and presentation. This adjuvant system is much less toxic and less potent than FCA but generally induces satisfactory amounts of high avidity antibodies against protein antigens.
+
+===Titermax===
+[[Titermax]] represents a newer generation of adjuvants that are less toxic and contain no biologically derived materials. It is based upon mixtures of surfactant acting, linear, blocks or chains of nonionic copolymers polyoxypropylene (POP) and polyoxyethylene (POE). These copolymers are less toxic than many other surfactant materials and have potent adjuvant properties which favor chemotaxis, complement activation and antibody production. Titermax adjuvant forms a microparticulate water-in-oil emulsion with a copolymer and metabolizable squalene oil. The copolymer is coated with emulsion stabilizing silica particles which allows for incorporation of large amounts of a wide variety of antigenic materials. The adjuvant active copolymer forms hydrophilic surfaces, which activate complement, immune cells and increased expression of class II major histocompatibility molecules on macrophages. Titermax presents antigen in a highly concentrated form to the immune system, which often results in antibody titers comparable to or higher than FCA.
+
+[[Specol]]: [[Specol]] is a water in oil [[adjuvant]] made of purified [[mineral oil]]. It has been reported to induce [[immune response]] comparable to [[Freund's adjuvant]] in rabbit and other research animal while producing fewer histological lesions.
+
+==Pharmaceutical uses==
+[[Digoxin Immune Fab]] is the antigen binding fragment of polyclonal antibodies raised to [[digitalis]] derivative as a hapten bound to a protein and is used for the reversal of life threatening [[digoxin]] or [[digitoxin]] toxicity.<ref>[http://www.emedicinehealth.com/drug-digoxin_immune_fab/article_em.htm Digibind, DigiFab (digoxin immune FAB) Drug Side Effects, Interactions, and Medication Information on eMedicineHealth]</ref><ref>[http://dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=12121 Digibind®Digoxin Immune Fab (Ovine)]</ref><ref>http://www.fda.gov/downloads/BiologicsBloodVaccines/BloodBloodProducts/ApprovedProducts/LicensedProductsBLAs/FractionatedPlasmaProducts/ucm117624.pdf</ref>
+
+[[Rho(D) immune globulin]] is made from pooled human plasma provided by Rh-negative donors with antibodies to the D antigen. It is used to provide passive immune binding of antigen, preventing a maternal active immune response which could potentially result in [[hemolytic disease of the newborn]].<ref>[http://www.ncbi.nlm.nih.gov/books/NBK2266/ Hemolytic disease of the newborn - Blood Groups and Red Cell Antigens - NCBI Bookshelf]</ref><ref>[http://www.usatoday.com/news/health/2009-02-08-blood-rhogam_N.htm Women's donated blood yields lifesaving RhoGAM - USATODAY.com]</ref>
+
+== See also ==
+* [[Antibody]]
+* [[Plasma B cell]]
+* [[Monoclonal antibody]]
+* [[Clone (B-cell biology)]]
+* [[Polyclonal response]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.nature.com/nbt/journal/v24/n10/full/nbt1006-1181.html Nature News piece on polyclonal antibody therapy]
+* [http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=infdis.chapter.180 Immunological Measures of Antigenicity (online textbook, see section 11.1.)]
+* [http://www.mblab.gla.ac.uk/dictionary/ Polyclonal antibody in Dictionary of Cell and Molecular Biology]
+* [[OpenWetWare:Generating_antibodies|Generating antibodies at openwetware]] (technical description for researchers)
+* [http://www.randox-lifesciences.com/Article/ViewArticle/57?path=Polyclonal%20vs.%20Monoclonal&20Antibodies&articleSectionId=1 Polyclonal vs Monoclonal Antibodies]
+
+{{immune_system}}
+
+[[Category:Polyclonal antibodies| ]]
+[[Category:Therapeutic antibodies| ]]
+[[Category:Immunology]]
+[[Category:Immune system]]
+[[Category:Biotechnology]]
+[[Category:Glycoproteins]]

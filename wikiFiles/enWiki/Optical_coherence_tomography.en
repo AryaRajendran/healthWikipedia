@@ -1,0 +1,165 @@
+{{Interventions infobox |
+ Name = Optical coherence tomography |
+ Image = Nibib 030207 105309 sarcoma.jpg |
+ Caption = Optical Coherence Tomography (OCT) image of a [[sarcoma]] |
+ ICD10 = |
+ ICD9 = |
+ MeshID = D041623 |
+ OPS301 = {{OPS301|3-300}} |
+ OtherCodes = |
+}}
+'''Optical coherence tomography (OCT)''' is an optical signal acquisition and processing method. It captures [[micrometer]]-resolution, three-dimensional images from within [[Scattering (optics)|optical scattering]] media (e.g., biological tissue). Optical coherence tomography is an [[interferometry|interferometric]] technique, typically employing [[near-infrared]] light. The use of relatively long [[wavelength]] light allows it to penetrate into the scattering medium. [[Confocal microscopy]], another similar technique, typically penetrates less deeply into the sample.
+
+Depending on the properties of the light source ([[superluminescent diode]]s, [[ultrashort pulse laser|ultrashort pulsed lasers]] and [[supercontinuum]] lasers have been employed), optical coherence tomography has achieved sub-[[micrometer]] resolution (with very wide-spectrum sources emitting over a ~100&nbsp;nm wavelength range).
+
+Optical coherence tomography is one of a class of [[optical tomography|optical tomographic]] techniques. A relatively recent implementation of optical coherence tomography, [[frequency-domain]] optical coherence tomography, provides advantages in [[signal-to-noise ratio]], permitting faster signal acquisition. Commercially available optical coherence tomography systems are employed in diverse applications, including art conservation and diagnostic medicine, notably in [[ophthalmology]] where it can be used to obtain detailed images from within the retina. Recently it has also begun to be used in interventional [[cardiology]] to help diagnose coronary artery disease.<ref>{{cite journal|last=Bezerra|first=Hiram G.|coauthors=Costa, Marco A.; Guagliumi, Giulio; Rollins, Andrew M.; Simon, Daniel I.|title=Intracoronary Optical Coherence Tomography: A Comprehensive Review|journal=JACC: Cardiovascular Interventions|year=2009|month=November|volume=2|issue=11|pages=1035–1046|doi=10.1016/j.jcin.2009.06.019|pmid=19926041|url=http://www.sciencedirect.com.proxy.westernu.edu/science/article/pii/S1936879809005925}}</ref> 
+
+==Introduction==
+[[File:HautFingerspitzeOCT.gif|thumb|300px|Optical coherence tomogram of a fingertip.]]
+Starting from white-light interferometry for ''in vivo'' ocular eye measurements<ref>A. F. Fercher and E. Roth, "Ophthalmic laser interferometry. Proc. SPIE vol. 658, pp. 48-51. 1986.</ref><ref>{{cite journal|doi=10.1364/OL.13.000186|pmid=19742022|year=1988|last1=Fercher|first1=AF|last2=Mengedoht|first2=K|last3=Werner|first3=W|title=Eye-length measurement by interferometry with partially coherent light.|volume=13|issue=3|pages=186–8|journal=Optics letters|bibcode = 1988OptL...13..186F }}</ref> imaging of biological tissue, especially of the human eye, was investigated by multiple groups worldwide. A first two-dimensional ''in vivo'' depiction of a human eye fundus along a horizontal meridian based on white light interferometric depth scans was presented at the ICO-15 SAT conference in 1990.<ref>A. F. Fercher, "Ophthalmic interferometry," Proceedings of the International Conference on Optics in Life Sciences, Garmisch-Partenkirchen, Germany, 12–16 August 1990. Ed. G. von Bally and S. Khanna, pp. 221-228. ISBN 0-444-89860-3.</ref> Further developed in 1990 by Naohiro Tanno,<ref>Naohiro Tanno, Tsutomu Ichikawa, Akio Saeki: "Lightwave Reflection Measurement," Japanese Patent # 2010042 (1990) (Japanese Language)</ref><ref>Shinji Chiba, Naohiro Tanno "Backscattering Optical Heterodyne Tomography", prepared for the 14th Laser Sensing Symposium (1991) (in Japanese)</ref> then a professor at Yamagata University, and in particular since 1991 by Huang et al.,<ref>{{cite journal|pmid=1957169|year=1991|last1=Huang|first1=D|last2=Swanson|first2=EA|last3=Lin|first3=CP|last4=Schuman|first4=JS|last5=Stinson|first5=WG|last6=Chang|first6=W|last7=Hee|first7=MR|last8=Flotte|first8=T|last9=Gregory|first9=K|title=Optical coherence tomography.|volume=254|issue=5035|pages=1178–81|journal=Science|bibcode = 1991Sci...254.1178H |doi = 10.1126/science.1957169 }}</ref> optical coherence tomography (OCT) with micrometer resolution and cross-sectional imaging capabilities has become a prominent biomedical tissue-imaging technique; it is particularly suited to ophthalmic applications and other tissue imaging requiring micrometer resolution and millimeter penetration depth.<ref>{{cite journal|pmid=17994864|year=2007|last1=Zysk|first1=AM|last2=Nguyen|first2=FT|last3=Oldenburg|first3=AL|last4=Marks|first4=DL|last5=Boppart|first5=SA|title=Optical coherence tomography: a review of clinical development from bench to bedside.|volume=12|issue=5|pages=051403|doi=10.1117/1.2793736|journal=Journal of biomedical optics|bibcode = 2007JBO....12e1403Z }}</ref> First ''in vivo'' OCT images – displaying retinal structures – were published in 1993.<ref>A. F. Fercher, C. K. Hitzenberger, W. Drexler, G. Kamp, and H. Sattmann, " In Vivo Optical Coherence Tomography," Am. J. Ophthalmol., vol. 116, no. 1, pp. 113-114. 1993.</ref><ref>{{cite journal|doi=10.1364/OL.18.001864|title=In vivo retinal imaging by optical coherence tomography|pmid=19829430|year=1993|last1=Swanson|first1=E. A.|last2=Izatt|first2=J. A.|last3=Hee|first3=M. R.|last4=Huang|first4=D.|last5=Lin|first5=C. P.|last6=Schuman|first6=J. S.|last7=Puliafito|first7=C. A.|last8=Fujimoto|first8=J. G.|journal=Optics Letters|volume=18|issue=21|pages=1864–6|bibcode = 1993OptL...18.1864S }}</ref>
+OCT has also been used for various [[art conservation]] projects, where it is used to analyze different layers in a painting. OCT has critical advantages over other [[medical imaging]] systems. [[Medical ultrasonography]], [[magnetic resonance imaging]] (MRI) and [[confocal microscopy]] are not suited to morphological tissue imaging: the first two have poor resolution; the last lacks millimeter penetration depth.<ref>{{cite journal|doi=10.1038/86589|pmc=1950821|pmid=11283681|year=2001|last1=Drexler|first1=Wolfgang|last2=Morgner|first2=Uwe|last3=Ghanta|first3=Ravi K.|last4=Kärtner|first4=Franz X.|last5=Schuman|first5=Joel S.|last6=Fujimoto|first6=James G.|title=Ultrahigh-resolution ophthalmic optical coherence tomography|journal=Nature Medicine|volume=7|issue=4|pages=502–7}}</ref><ref>{{cite journal|doi=10.1016/j.ophtha.2003.12.002|pmid=15019397|title=Confocal microscopy*1A report by the American Academy of Ophthalmology|first8=WS|last8=Van Meter|first7=IJ|last7=Udell|first6=WJ|last6=Reinhart|first5=DM|last5=Meisler|first4=EJ|last4=Cohen|first3=MW|last3=Belin|first2=DC|year=2004|last2=Musch|last1=Kaufman|first1=S|journal=Ophthalmology|volume=111|issue=2|pages=396–406}}</ref>
+
+OCT bases itself upon [[Optical interferometry#Low-coherence interferometry|low coherence interferometry]].<ref>{{cite journal|doi=10.1109/51.870229|title=Current technical development of magnetic resonance imaging|year=2000|last1=Riederer|first1=S.J.|journal=IEEE Engineering in Medicine and Biology Magazine|volume=19|pages=34–41|issue=5|pmid=11016028}}</ref><ref>{{cite book|author=M. Born and E. Wolf|title=Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light|publisher=Cambridge University Press|year=2000|url=http://books.google.com/?id=oV80AAAAIAAJ&printsec=frontcover|isbn=0-521-78449-2}}</ref><ref name="Fercher">{{cite journal|doi=10.1364/OL.13.000186|pmid=19742022|title=Eye-length measurement by interferometry with partially coherent light|year=1988|last1=Fercher|first1=A. F.|last2=Mengedoht|first2=K.|last3=Werner|first3=W.|journal=Optics Letters|volume=13|issue=3|pages=186–8|bibcode = 1988OptL...13..186F }}</ref> In conventional interferometry with long [[coherence length]] (laser interferometry), interference of light occurs over a distance of meters. In OCT, this interference is shortened to a distance of micrometers, thanks to the use of broadband light sources (sources that can emit light over a broad range of frequencies). Light with broad bandwidths can be generated by using [[superluminescent diode]]s (superbright LEDs) or lasers with extremely short pulses ([[femtosecond laser]]s). White light is also a broadband source with lower power.
+
+Light in an OCT system is broken into two arms—a sample arm (containing the item of interest) and a reference arm (usually a mirror). The combination of reflected light from the sample arm and reference light from the reference arm gives rise to an interference pattern, but only if light from both arms have travelled the "same" optical distance ("same" meaning a difference of less than a coherence length). By scanning the mirror in the reference arm, a reflectivity profile of the sample can be obtained (this is time domain OCT). Areas of the sample that reflect back a lot of light will create greater interference than areas that don't. Any light that is outside the short coherence length will not interfere. This reflectivity profile, called an [[A-scan]], contains information about the spatial dimensions and location of structures within the item of interest. A cross-sectional tomograph ([[B-scan]]) may be achieved by laterally combining a series of these axial depth scans (A-scan). En face imaging at an acquired depth is possible depending on the imaging engine used.
+
+==Layperson's explanation==
+Optical Coherence Tomography, or ‘OCT’, is a technique for obtaining sub-surface images of translucent or opaque materials at a resolution equivalent to a low-power microscope. It is effectively ‘optical ultrasound’, imaging reflections from within tissue to provide cross-sectional images.
+
+OCT is attracting interest among the medical community, because it provides tissue morphology imagery at much higher resolution (better than 10&nbsp;µm) than other imaging modalities such as MRI or ultrasound.
+
+The key benefits of OCT are:
+* Live sub-surface images at near-microscopic resolution
+* Instant, direct imaging of tissue morphology
+* No preparation of the sample or subject
+* No ionizing radiation
+
+OCT delivers high resolution because it is based on light, rather than sound or radio frequency. An optical beam is directed at the tissue, and a small portion of this light that reflects from sub-surface features is collected. Note that most light is not reflected but, rather, scatters off at large angles. In conventional imaging, this diffusely scattered light contributes background that obscures an image. However, in OCT, a technique called interferometry is used to record the optical path length of received photons allowing rejection of most photons that scatter multiple times before detection. Thus OCT can build up clear 3D images of thick samples by rejecting background signal while collecting light directly reflected from surfaces of interest.
+
+Within the range of noninvasive three-dimensional imaging techniques that have been introduced to the medical research community, OCT as an echo technique is similar to [[ultrasound imaging]]. Other medical imaging techniques such as computerized axial tomography, magnetic resonance imaging, or positron emission tomography do not utilize the echo-location principle.
+
+The technique is limited to imaging 1 to 2&nbsp;mm below the surface in biological tissue, because at greater depths the proportion of light that escapes without scattering is too small to be detected. No special preparation of a biological specimen is required, and images can be obtained ‘non-contact’ or through a transparent window or membrane. It is also important to note that the laser output from the instruments is low – eye-safe near-infra-red light is used – and no damage to the sample is therefore likely.
+
+==Theory==
+The principle OCT is white light or low coherence interferometry. The optical setup typically consists of an interferometer (Fig. 1, typically [[Michelson interferometer|Michelson]] type) with a low coherence, broad bandwidth light source. Light is split into and recombined from reference and sample arm, respectively.
+
+{|
+[[File:OCT B-Scan Setup.GIF|thumb|375px|Fig. 2 Typical optical setup of single point OCT. Scanning the light beam on the sample enables non-invasive cross-sectional imaging up to 3 mm in depth with micrometer resolution.]]
+|
+[[File:Full-field OCT setup.GIF|thumb|375px|Fig. 1 Full-field OCT optical setup. Components include: super-luminescent diode (SLD), convex lens (L1), 50/50 beamsplitter (BS), camera objective (CO), CMOS-DSP camera (CAM), reference (REF) and sample (SMP). The camera functions as a two-dimensional detector array, and with the OCT technique facilitating scanning in depth, a non-invasive three dimensional imaging device is achieved.]]
+|}
+
+{|
+[[File:Fd-oct.PNG|thumb|375px|Fig. 4 Spectral discrimination by fourier-domain OCT. Components include: low coherence source (LCS), beamsplitter (BS), reference mirror (REF), sample (SMP), diffraction grating (DG) and full-field detector (CAM) act as a spectrometer, and digital signal processing (DSP)]]
+|
+[[File:Ss-oct.PNG|thumb|375px|Fig. 3 Spectral discrimination by swept-source OCT. Components include: swept source or tunable laser (SS), beamsplitter (BS), reference mirror (REF), sample (SMP), photodetector (PD), digital signal processing (DSP)]]
+|}
+
+===Time domain OCT===
+In time domain OCT the pathlength of the reference arm is translated longitudinally in time. A property of low coherence interferometry is that interference, i.e. the series of dark and bright fringes, is only achieved when the path difference lies within the coherence length of the light source. This interference is called auto correlation in a symmetric interferometer (both arms have the same reflectivity), or cross-correlation in the common case. The envelope of this modulation changes as pathlength difference is varied, where the peak of the envelope corresponds to pathlength matching.
+
+The interference of two partially coherent light beams can be expressed in terms of the source intensity, <math>I_S</math>, as
+
+:<math> I = k_1 I_S + k_2 I_S + 2 \sqrt { \left ( k_1 I_S \right ) \cdot \left ( k_2 I_S \right )} \cdot Re \left [\gamma \left ( \tau \right ) \right] \qquad (1) </math>
+
+where <math>k_1 + k_2 < 1</math> represents the interferometer beam splitting ratio, and <math> \gamma ( \tau ) </math> is called the complex degree of coherence, i.e. the interference envelope and carrier dependent on reference arm scan or time delay <math> \tau </math>, and whose recovery of interest in OCT. Due to the coherence gating effect of OCT the complex degree of coherence is represented as a Gaussian function expressed as<ref name="Fercher"/>
+
+:<math> \gamma \left ( \tau \right ) = \exp \left [- \left ( \frac{\pi\Delta\nu\tau}{2 \sqrt{\ln 2} } \right )^2 \right] \cdot \exp \left ( -j2\pi\nu_0\tau \right ) \qquad \quad (2) </math>
+
+where <math> \Delta\nu </math> represents the spectral width of the source in the optical frequency domain, and <math> \nu_0 </math> is the centre optical frequency of the source. In equation (2), the Gaussian envelope is amplitude modulated by an optical carrier. The peak of this envelope represents the location of sample under test microstructure, with an amplitude dependent on the reflectivity of the surface. The optical carrier is due to the [[Doppler effect]] resulting from scanning one arm of the interferometer, and the frequency of this modulation is controlled by the speed of scanning. Therefore translating one arm of the interferometer has two functions; depth scanning and a Doppler-shifted optical carrier are accomplished by pathlength variation. In OCT, the Doppler-shifted optical carrier has a frequency expressed as
+
+:<math> f_{Dopp} = \frac { 2 \cdot \nu_0 \cdot v_s } { c } \qquad \qquad \qquad \qquad \qquad \qquad \qquad \quad (3) </math>
+
+where <math> \nu_0 </math> is the central optical frequency of the source, <math> v_s </math> is the scanning velocity of the pathlength variation, and <math> c </math> is the speed of light.
+
+[[File:Principle-TD-FD OCT.svg|thumb|450px|interference signals in TD vs. FD-OCT]]
+The axial and lateral resolutions of OCT are decoupled from one another; the former being an equivalent to the coherence length of the light source and the latter being a function of the optics. The coherence length of a source and hence the axial resolution of OCT is defined as
+:{|
+|-
+|<math> \, {l_c} </math>
+|<math>=\frac {2 \ln 2} {\pi} \cdot \frac {\lambda_0^2} {\Delta\lambda}</math>
+|-
+|
+|<math>\approx 0.44 \cdot \frac {\lambda_0^2} {\Delta\lambda} \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad (4) </math>
+|}
+
+===Frequency domain OCT (FD-OCT)===
+In frequency domain OCT the broadband interference is acquired with spectrally separated detectors (either by encoding the optical frequency in time with a spectrally scanning source or with a dispersive detector, like a grating and a linear detector array). Due to the [[Fourier]]{{dn|date=April 2013}} relation ([[Wiener-Khintchine theorem]] between the auto correlation and the spectral power density) the depth scan can be immediately calculated by a Fourier-transform from the acquired spectra, without movement of the reference arm.<ref>{{cite journal|doi=10.1109/2944.796348|title=Optical coherence tomography (OCT): a review|year=1999|last1=Schmitt|first1=J.M.|journal=IEEE Journal of Selected Topics in Quantum Electronics|volume=5|pages=1205|issue=4}}</ref><ref name="Fercher2">{{cite journal|doi=10.1016/0030-4018(95)00119-S|title=Measurement of intraocular distances by backscattering spectral interferometry|year=1995|last1=Fercher|first1=A|journal=Optics Communications|volume=117|pages=43|bibcode = 1995OptCo.117...43F }}</ref> This feature improves imaging speed dramatically, while the reduced losses during a single scan improve the signal to noise proportional to the number of detection elements. The parallel detection at multiple wavelength ranges limits the scanning range, while the full spectral bandwidth sets the axial resolution.
+
+====Spatially encoded frequency domain OCT (spectral domain or Fourier domain OCT)====
+SEFD-OCT extracts spectral information by distributing different optical frequencies onto a detector stripe (line-array CCD or CMOS) via a dispersive element (see Fig. 4). Thereby the information of the full depth scan can be acquired within a single exposure. However, the large signal to noise advantage of FD-OCT is reduced due the lower dynamic range of stripe detectors in respect to single photosensitive diodes, resulting in an SNR (signal to noise ratio) advantage of ~10 [[Decibel|dB]] at much higher speeds. This is not much of a problem when working at 1300&nbsp;nm, however, since dynamic range is not a serious problem at this wavelength range.
+
+The drawbacks of this technology are found in a strong fall-off of the SNR, which is proportional to the distance from the zero delay and a sinc-type reduction of the depth dependent sensitivity because of limited detection linewidth. (One pixel detects a quasi-rectangular portion of an optical frequency range instead of a single frequency, the Fourier-transform leads to the sinc(z) behavior). Additionally the dispersive elements in the spectroscopic detector usually do not distribute the light equally spaced in frequency on the detector, but mostly have an inverse dependence. Therefore the signal has to be resampled before processing, which can not take care of the difference in local (pixelwise) bandwidth, which results in further reduction of the signal quality. However, the fall-off is not a serious problem with the development of new generation CCD or photodiode array with a larger number of pixels.
+
+[[Optical heterodyne detection|Synthetic array heterodyne detection]] offers another approach to this problem without the need for high dispersion.
+
+====Time encoded frequency domain OCT (also swept source OCT)====
+TEFD-OCT tries to combine some of the advantages of standard TD and SEFD-OCT. Here the spectral components are not encoded by spatial separation, but they are encoded in time. The spectrum either filtered or generated in single successive frequency steps and reconstructed before Fourier-transformation. By accommodation of a frequency scanning light source (i.e. frequency scanning laser) the optical setup (see Fig. 5) becomes simpler than SEFD, but the problem of scanning is essentially translated from the TD-OCT reference-arm into the TEFD-OCT light source.
+Here the advantage lies in the proven high SNR detection technology, while swept laser sources achieve very small instantaneous bandwidths (=linewidth) at very high frequencies (20–200&nbsp;kHz). Drawbacks are the nonlinearities in the wavelength (especially at high scanning frequencies), the broadening of the linewidth at high frequencies and a high sensitivity to movements of the scanning geometry or the sample (below the range of nanometers within successive frequency steps).
+
+==Scanning schemes==
+Focusing the light beam to a point on the surface of the sample under test, and recombining the reflected light with the reference will yield an interferogram with sample information corresponding to a single A-scan (Z axis only). Scanning of the sample can be accomplished by either scanning the light on the sample, or by moving the sample under test. A linear scan will yield a two-dimensional data set corresponding to a cross-sectional image (X-Z axes scan), whereas an area scan achieves a three-dimensional data set corresponding to a volumetric image (X-Y-Z axes scan), also called full-field OCT.
+
+===Single point (confocal) OCT===
+Systems based on single point, or flying-spot time domain OCT, must scan the sample in two lateral dimensions and reconstruct a three-dimensional image using depth information obtained by coherence-gating through an axially scanning reference arm (Fig. 2). Two-dimensional lateral scanning has been electromechanically implemented by moving the sample<ref name="Fercher2"/> using a translation stage, and using a novel micro-electro-mechanical system scanner.<ref>{{cite journal|doi=10.1016/j.sna.2004.06.021|title=Micromachined 2-D scanner for 3-D optical coherence tomography|year=2005|journal=Sensors and Actuators A: Physical|volume=117|pages=331|issue=2}}</ref>
+
+===Parallel (or full field) OCT===
+Parallel OCT using a [[charge-coupled device]] (CCD) camera has been used in which the sample is full-field illuminated and en face imaged with the CCD, hence eliminating the electromechanical lateral scan. By stepping the reference mirror and recording successive ''en face'' images a three-dimensional representation can be reconstructed. Three-dimensional OCT using a CCD camera was demonstrated in a phase-stepped technique,<ref>{{cite journal|doi=10.1364/OE.11.000105|pmid=19461712|year=2003|last1=Dunsby|first1=C|last2=Gu|first2=Y|last3=French|first3=P|title=Single-shot phase-stepped wide-field coherencegated imaging|volume=11|issue=2|pages=105–15|journal=Optics express|bibcode = 2003OExpr..11..105D }}</ref> using geometric phase-shifting with a [[Linnik interferometer]],<ref>{{cite journal|doi=10.1016/S0143-8166(01)00146-4|title=Geometric phase-shifting for low-coherence interference microscopy|year=2002|last1=Roy|first1=M|last2=Svahn|first2=P|last3=Cherel|first3=L|last4=Sheppard|first4=CJR|journal=Optics and Lasers in Engineering|volume=37|pages=631|bibcode = 2002OptLE..37..631R|authorlink4= Colin_Sheppard|issue=6 }}</ref> utilising a pair of CCDs and heterodyne detection,<ref>{{cite journal|doi=10.1364/OL.28.000816|pmid=12779156|title=Full-field optical coherence tomography by two-dimensional heterodyne detection with a pair of CCD cameras|year=2003|last1=Akiba|first1=M.|last2=Chan|first2=K. P.|last3=Tanno|first3=N.|journal=Optics Letters|volume=28|issue=10|pages=816–8|bibcode = 2003OptL...28..816A }}</ref> and in a Linnik interferometer with an oscillating reference mirror and axial translation stage.<ref>{{cite journal|doi=10.1364/AO.41.000805|pmid=11993929|year=2002|last1=Dubois|first1=A|last2=Vabre|first2=L|last3=Boccara|first3=AC|last4=Beaurepaire|first4=E|title=High-resolution full-field optical coherence tomography with a Linnik microscope|volume=41|issue=4|pages=805–12|journal=Applied optics|bibcode = 2002ApOpt..41..805D }}</ref> Central to the CCD approach is the necessity for either very fast CCDs or carrier generation separate to the stepping reference mirror to track the high frequency OCT carrier.
+
+====Smart detector array for parallel TD-OCT====
+A two-dimensional smart detector array, fabricated using a 2&nbsp;µm [[CMOS|complementary metal-oxide-semiconductor]] (CMOS) process, was used to demonstrate full-field OCT.<ref>{{cite journal|doi=10.1364/OL.26.000512|pmid=18040369|title=Optical coherence topography based on a two-dimensional smart detector array|year=2001|last1=Bourquin|first1=S.|last2=Seitz|first2=P.|last3=Salathé|first3=R. P.|journal=Optics Letters|volume=26|issue=8|pages=512–4|bibcode = 2001OptL...26..512B }}</ref> Featuring an uncomplicated optical setup (Fig. 3), each pixel of the 58x58 pixel smart detector array acted as an individual photodiode and included its own hardware demodulation circuitry.
+
+==Selected applications==
+[[File:Retina-OCT800.png|thumb|OCT scan of a retina at 800nm with an axial resolution of 3µm.]]
+Optical coherence tomography is an established [[medical imaging]] technique. It is widely used, for example, to obtain high-resolution images of the anterior segment of the [[human eye|eye]] and the [[retina]], which can, for example, provide a straightforward method of assessing axonal integrity in [[multiple sclerosis]],<ref>{{cite journal|last=Dörr|first=Jan|coauthors=Wernecke, KD; Bock, M; Gaede, G; Wuerfel, JT; Pfueller, CF; Bellmann-Strobl, J; Freing, A; Brandt, AU; Friedemann, P|title=Association of retinal and macular damage with brain atrophy in multiple sclerosis.|journal=PloS one|date=2011 Apr 8|volume=6|issue=4|pages=e18132|doi=10.1371/journal.pone.0018132|pmid=21494659|url=http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0018132|accessdate=21 November 2012}}</ref> as well as [[macular degeneration]].<ref>{{cite journal|last=Keane|first=PA|coauthors=Patel, PJ; Liakopoulos, S; Heussen, FM; Sadda, SR; Tufail, A|title=Evaluation of age-related macular degeneration with optical coherence tomography.|journal=Survey of ophthalmology|date=2012 Sep|volume=57|issue=5|pages=389–414|pmid=22898648|accessdate=21 November 2012}}</ref>  Research indicates that OCT may be a reliable tool for monitoring the progression of [[glaucoma]].  Researchers also seek to develop a method that uses frequency domain OCT to image [[coronary arteries]] in order to detect vulnerable [[lipid-rich plaques]]. 
+
+Optical coherence tomography is also applicable and increasingly used in [[industrial engineering|industrial applications]], such as [[Non Destructive Testing]](NDT), material thickness measurements,<ref>WJ Walecki et al., [http://www.google.com/patents?hl=en&lr=&vid=USPAT7116429&id=1e96AAAAEBAJ&oi=fnd&dq=%22W++Walecki%22&printsec=abstract#v=onepage&q&f=false Determining thickness of slabs of materials, US Patent 7,116,429], 2006</ref> and in particular thin silicon wafers<ref>Wojtek J. Walecki and Fanny Szondy,[http://dx.doi.org/10.1117/12.797541%20 "Integrated quantum efficiency, reflectance, topography and stress metrology for solar cell manufacturing"], , [http://www.zebraoptical.com Sunrise Optical LLC], Proc. SPIE 7064, 70640A (2008); {{doi|10.1117/12.797541}}</ref><sup>,</sup><ref>Wojciech J. Walecki, Kevin Lai, Alexander Pravdivtsev, Vitali Souchkov, Phuc Van, Talal Azfar, Tim Wong, S. H. Lau and Ann Koo, "Low-coherence interferometric absolute distance gauge for study of MEMS structures", Proc. SPIE 5716, 182 (2005); {{doi|10.1117/12.590013}}</ref>
+and compound semiconductor wafers thickness measurements<ref>Walecki, W. J., Lai, K., Souchkov, V., Van, P., Lau, S. and Koo, A. (2005), [http://onlinelibrary.wiley.com/doi/10.1002/pssc.200460606/abstract Novel noncontact thickness metrology for backend manufacturing of wide bandgap light emitting devices.] physica status solidi (c), 2: 984–989. {{doi|10.1002/pssc.200460606}}</ref><sup>,</sup>,<ref>Wojciech Walecki, Frank Wei, Phuc Van, Kevin Lai, Tim Lee, S. H. Lau and Ann Koo, "[http://dx.doi.org/10.1117/12.530749 Novel low coherence metrology for nondestructive characterization of high-aspect-ratio microfabricated and micromachined structures]", Proc. SPIE 5343, 55 (2004); {{doi|10.1117/12.530749}}</ref> surface roughness characterization, surface and cross-section imaging<ref>
+{{Cite web
+ | last1 = Guss| first1 = G.
+ | last2 = Bass| first2 = I.
+ | last3 = Hackel| first3 = R.
+ | last4 = Demos| first4 = S.G.
+ | title = High-resolution 3-D imaging of surface damage sites in fused silica with Optical Coherence Tomography
+ | publisher = [[Lawrence Livermore National Laboratory]] UCRL-PROC-236270
+ | date = November 6, 2007
+ | url = https://e-reports-ext.llnl.gov/pdf/354371.pdf
+ | accessdate = December 14, 2010}}
+</ref><sup>,</sup>,<ref>W Walecki, F Wei, P Van, K Lai, T Lee, [http://www.gaas.org/Digests/2004/2004Papers/8.2.pdf Interferometric Metrology for Thin and Ultra-Thin Compound Semiconductor Structures Mounted on Insulating Carriers], CS Mantech Conference, 2004</ref> and volume loss measurements. OCT systems with feedback can be used to control manufacturing processes.
+With high speed data acquisition,<ref>Wojciech J. Walecki, Alexander Pravdivtsev, Manuel Santos II and Ann Koo, "[http://dx.doi.org/10.1117/12.675592 High-speed high-accuracy fiber optic low-coherence interferometry for in situ grinding and etching process monitoring]", Proc. SPIE 6293, 62930D (2006); {{doi|10.1117/12.675592}}</ref> and sub-micron resolution, OCT is adaptable to perform both inline and off-line.<ref>see for example [http://www.zebraoptical.com/InterferometricProbe.html ZebraOptical Optoprofiler Probe]</ref> Fiber-based OCT systems are particularly adaptable to industrial environments.<ref>Wojtek J. Walecki and Fanny Szondy, "[http://lib.semi.ac.cn:8080/tsh/dzzy/wsqk/SPIE/vol7322/73220K.pdf Fiber optics low-coherence IR interferometry for defense sensors manufacturing]", [http://www.zebraoptical.com SOLLC], Proc. SPIE 7322, 73220K (2009); {{doi|10.1117/12.818381}}</ref> These can access and scan interiors of hard-to-reach spaces,<ref>
+{{Cite web
+ | last1 = Dufour | first1 = Marc
+ | last2 = Lamouche| first2 = G.
+ | last3 = Gauthier| first3 = B.
+ | last4 = Padioleau| first4 = C.
+ | last5 = Monchalin| first5 = J.P.
+ | title = Inspection of hard-to-reach industrial parts using small diameter probes
+ | work =
+ | publisher = [[SPIE|SPIE - The International Society for Optical Engineering]]
+ | year = 2006
+ | url = http://spie.org/documents/newsroom/imported/467/2006100467.pdf
+ | format =
+ | doi = 10.1117/2.1200610.0467
+ | accessdate = December 15, 2010}}</ref> and are able to operate in hostile environments - whether radioactive, cryogenic or very hot.<ref>{{cite doi|10.1784/insi.47.4.216.63149}}</ref>
+
+==See also==
+* [[Interferometry]]
+* [[Tomography]]
+* [[Angle-resolved low-coherence interferometry]]
+* [[Ballistic photon]]
+* [[Optical heterodyne detection]]
+* [[Novacam Technologies]]
+OFDI is used to image the plaques in the artery based on bifringence property of the tissues.
+
+==References==
+{{reflist|2}}
+
+{{Medical imaging}}
+{{Eye procedures}}
+
+{{DEFAULTSORT:Optical Coherence Tomography}}
+[[Category:Optical imaging]]
+[[Category:Medical equipment]]
+[[Category:Eye procedures]]
+[[Category:Optics]]
+[[Category:Laser medicine]]

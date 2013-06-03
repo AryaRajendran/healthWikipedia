@@ -1,0 +1,273 @@
+[[File:Physiology of Nephron.png|300px|thumb|right|Diagram showing the basic physiologic mechanisms of the kidney]]
+'''Renal function''', in [[nephrology]], is an indication of the state of the [[kidney]] and its role in [[renal physiology]]. '''Glomerular filtration rate''' ('''GFR''') describes the flow rate of filtered fluid through the kidney. '''Creatinine clearance rate''' ('''C<sub>Cr</sub>''' or '''CrCl''') is the volume of [[blood plasma]] that is cleared of creatinine per unit time and is a useful measure for approximating the GFR. Creatinine clearance exceeds GFR due to creatinine secretion, which can be blocked by [[cimetidine]].  In alternative fashion, overestimation by older serum creatinine methods resulted in an underestimation of creatinine clearance, which provided a less biased estimate of GFR.<ref>{{cite journal |author=Stevens LA, Coresh J, Greene T, Levey AS |title=Assessing kidney function--measured and estimated glomerular filtration rate |journal=The New England Journal of Medicine |volume=354 |issue=23 |pages=2473–83 |year=2006 |month=June |pmid=16760447 |doi=10.1056/NEJMra054415}}</ref>  Both GFR and C<sub>Cr</sub> may be accurately calculated by comparative measurements of substances in the blood and urine, or estimated by formulas using just a blood test result ('''eGFR''' and '''eC<sub>Cr</sub>'''). 
+
+The results of these tests are important in assessing the excretory function of the kidneys. For example, grading of chronic [[renal]] insufficiency and dosage of drugs that are excreted primarily via urine are based on GFR (or creatinine clearance).
+
+It is commonly believed to be the amount of liquid filtered out of the blood that gets processed by the kidneys.  In physiological terms, these quantities (volumetric blood flow and mass removal) are related only loosely.
+
+==Indirect markers==
+Most doctors use the [[blood plasma|plasma]] concentrations of the waste substances of  [[creatinine]] and [[urea]] (U), as well as [[electrolyte]]s (E), to determine renal function. These measures are adequate to determine whether a patient is suffering from [[Chronic kidney disease|kidney disease]].
+
+However, '''blood urea nitrogen''' ([[Blood urea nitrogen|BUN]]) and '''[[creatinine]]''' will not be raised above the normal range until 60% of total kidney function is lost. Hence, the more accurate '''Glomerular filtration rate''' or its approximation of the '''creatinine clearance''' is measured whenever renal disease is suspected or careful dosing of nephrotoxic drugs is required.
+
+Another prognostic marker for kidney disease is an elevated level of protein in the urine.  The most sensitive marker of proteinuria is elevated urine albumin.  Persistent presence of more than 30&nbsp;mg albumin per gram creatinine in the urine is diagnostic of chronic kidney disease ([[Microalbuminuria]] is a level of 30–299&nbsp;mg/L urine or 30-299 mg/24 hrs; a concentration of [[albumin]] in the [[urine]] that is not detected by usual urine [[dipstick]] methods).
+
+== Glomerular filtration rate==
+'''Glomerular filtration rate''' ('''GFR''') is the volume of fluid filtered from the [[kidney|renal]] (kidney) [[Glomerulus (kidney)|glomerular]] capillaries into the [[Bowman's capsule]] per unit time.<ref>{{GeorgiaPhysiology|7/7ch04/7ch04p11}} - "Glomerular Filtration Rate"</ref>  Central to the physiologic maintenance of GFR is the differential basal tone of the afferent and efferent arterioles (see diagram). 
+
+Glomerular filtration rate (GFR) is equal to the Clearance Rate when any solute is freely filtered and is neither reabsorbed nor secreted by the kidneys. The rate therefore measured is the quantity of the substance in the urine that originated from a calculable volume of blood. Relating this principle to the below equation - for the substance used, the product of urine concentration and urine flow equals the mass of substance excreted during the time that urine has been collected. This mass equals the mass filtered at the glomerulus as nothing is added or removed in the nephron. Dividing this mass by the plasma concentration gives the volume of plasma which the mass must have originally come from, and thus the volume of plasma fluid that has entered Bowman's capsule within the aforementioned period of time. The GFR is typically recorded in units of ''volume per time'', e.g., milliliters per minute [[millilitre|ml]]/[[minute|min]]. Compare to [[filtration fraction]].
+
+:<math>GFR = \frac { \mbox{Urine Concentration} \times \mbox{Urine Flow} }{ \mbox{Plasma Concentration} }</math>
+
+There are several different techniques used to calculate or estimate the glomerular filtration rate (GFR or eGFR). The above formula only applies for GFR calculation when it is equal to the Clearance Rate.
+
+===Measurement using inulin===
+The GFR can be determined by injecting [[inulin]] or the inulin-analogon [[sinistrin]] into the plasma.  Since both, inulin and sinsitrin, are neither reabsorbed nor secreted by the kidney after glomerular filtration, their rate of excretion is directly proportional to the rate of filtration of water and solutes across the glomerular filter. Compared to the MDRD formula, the inulin clearance slightly overestimates the glomerular function. In early stage renal disease, the inulin clearance may remain normal due to hyperfiltration in the remaining [[nephrons]].<ref>[http://www.medical-calculator.nl/calculator/GFR/ GFR (Cockcroft & MDRD) calculator at medical-calculator.nl] - Cockcroft and MDRD calculator and details about inulin clearance</ref> Incomplete urine collection is an important source of error in inulin clearance measurement.
+
+===Pressure Definition===
+
+More precisely, GFR is the fluid flow rate between the glomerular capillaries and the Bowman's capsule:
+
+<math>{\operatorname{d}Q\over\operatorname{d}t} = K_f \times (P_G - P_B - \Pi_G + \Pi_B)</math><ref name=Guyton2006>{{cite book |last1=Guyton |first1=Arthur |last2=Hall |first2=John |editor1-first=Rebecca |editor1-last=Gruliow |title=Textbook of Medical Physiology |format=Book |edition=11th |year=2006 |publisher=Elsevier Inc. |location=Philadelphia, Pennsylvania |isbn=0-7216-0240-1 |pages=308–325  |chapter=Chapter 26: Urine Formation by the Kidneys: I. Glomerular Filtration, Renal Blood Flow, and Their Control}}</ref><ref name=Keener2004>{{cite book |last1=Keener |first1=James |last2=Sneyd |first2=James |editor1-first=J.E. |editor1-last=Marsden |others=Sirovich, Wiggins |title=Mathematical Physiology |format=Book |edition=1st |series=Interdisciplinary Mathematics |volume=Mathematical Biology Vol. 8 |year=2004 |publisher=Springer Science +Business Media LLC |location=New York, NY |isbn=0-387-98381-3 |pages=612–636 |chapter=20: Renal Physiology}}</ref>
+
+Where:
+*<math>{\operatorname{d}Q\over\operatorname{d}t}</math> is the GFR.
+*<math>K_f</math> is called the ''filtration constant'' and is defined as the product of the [[hydraulic conductivity]] and the surface area of the glomerular capillaries.
+*<math>P_G</math> is the [[hydrostatic pressure]] within the glomerular capillaries.
+*<math>P_B</math> is the hydrostatic pressure within the Bowman's capsule.
+*<math>\Pi_G</math> is the [[Oncotic pressure|colloid osmotic pressure]] within the glomerular capillaries.
+* and <math>\Pi_B</math> is the colloid osmotic pressure within the Bowman's capsule.
+
+====K<sub>f</sub>====
+
+Because this constant is a measurement of [[hydraulic conductivity]] multiplied by the capillary surface area, it is almost impossible to measure physically.  However, it can be determined experimentally.  Methods of determining the GFR are listed in the above and below sections and it is clear from our equation that <math>K_f</math> can be found by dividing the experimental GFR by the net filtration pressure:<ref name=Guyton2006/>
+
+<math> K_f = \frac{\textrm{GFR}}{\textrm{Net\ Filt.\ Pressure}}=\frac{\textrm{GFR}}{(P_G - P_B - \Pi_G + \Pi_B)}</math>
+
+====P<sub>G</sub>====
+
+The hydrostatic pressure within the glomerular capillaries is determined by the pressure difference between the fluid entering immediately from the [[afferent arteriole]] and leaving through the [[efferent arteriole]].  The pressure difference is approximated by the product of the total resistance of the respective arteriole and the flux of blood through it:<ref name=Keener2004/>
+
+<math>P_a - P_G = R_a \times Q_a</math>
+
+<math>P_G - P_e = R_e \times Q_e</math>
+
+Where:
+*<math>P_a</math> is the afferent arteriole pressure.
+*<math>P_e</math> is the efferent arteriole pressure.
+*<math>R_a</math> is the afferent arteriole resistance.
+*<math>R_e</math> is the efferent arteriole resistance.
+*<math>Q_a</math> is the afferent arteriole flux.
+*And, <math>Q_e</math> is the efferent arteriole flux.
+
+====P<sub>B</sub>====
+
+The pressure in the Bowman's capsule and proximal tubule can be determined by the difference between the pressure in the Bowman's capsule and the descending tubule:<ref name=Keener2004/>
+
+<math> P_B - P_d = R_d \times (Q_a - Q_e)</math>
+
+Where:
+*<math>P_d</math> is the pressure in the descending tubule.
+*And, <math>R_d</math> is the resistance of the descending tubule.
+
+====∏<sub>G</sub>====
+
+Blood plasma has a good many proteins in it and they exert an inward directed force called the [[Oncotic pressure|colloid osmotic pressure]] on the water in hypotonic solutions across a membrane, i.e., in the Bowman's capsule.  Because plasma proteins are virtually incapable of escaping the glomerular capillaries, this oncotic pressure is defined, simply, by the ideal gas law:<ref name=Guyton2006/><ref name=Keener2004/>
+
+<math> \Pi_G = RTc </math>
+
+Where: 
+*R is the [[universal gas constant]]
+*T is the temperature.
+*And, c is concentration in mol/L of plasma ''proteins'' (remember the solutes can freely diffuse through the glomerular capsule).
+
+====∏<sub>B</sub>====
+
+This value is almost always taken to be equal to zero because, in a healthy [[nephron]], there should be no proteins in the Bowman's Capsule.<ref name=Guyton2006/>
+
+==Creatinine-based approximations of GFR==
+In clinical practice, however, '''creatinine clearance''' or estimates of creatinine clearance based on the serum creatinine level are used to measure GFR. Creatinine is produced naturally by the body ([[creatinine]]  is a breakdown product of [[creatine phosphate]], which is found in muscle). It is freely filtered by the glomerulus, but also actively [[Renal_physiology#Secretion|secreted by the peritubular capillaries]] in very small amounts such that creatinine clearance overestimates actual GFR by 10-20%. This margin of error is acceptable, considering the ease with which creatinine clearance is measured. Unlike precise GFR measurements involving constant infusions of inulin, creatinine is already at a steady-state concentration in the blood, and so measuring creatinine clearance is much less cumbersome.  However, creatinine estimates of GFR have their limitations. All of the estimating equations depend on a prediction of the 24-hour creatinine excretion rate, which is a function of muscle mass.  One of the equations, the Cockcroft and Gault equation (see below) does not correct for race, and it is known that black men and women have a higher amount of muscle mass than Caucasians; hence, they will have  higher serum creatinine levels at any level of clearance.
+
+A common mistake made when just looking at serum creatinine is the failure to account for muscle mass.  Hence, an older woman with a serum creatinine of 1.4 mg/dL may actually have a moderately severe degree of renal insufficiency, whereas a young muscular male, in particular if black, can have a normal level of renal function at this serum creatinine level.  Creatinine-based equations should be used with caution in cachectic patients and patients with cirrhosis.  They often have very low muscle mass and a much lower creatinine excretion rate than predicted by the equations below, such that a cirrhotic patient with a serum creatinine of 0.9 mg/dL may have a moderately severe degree of renal insufficiency.
+
+===Creatinine Clearance C<sub>Cr</sub>===
+One method of determining GFR from creatinine is to collect urine (usually for 24 hours) to determine the amount of creatinine that was removed from the blood over a given time interval.  If one removes, say, 1440&nbsp;mg in 24 hours, this is equivalent to removing 1&nbsp;mg/min.  If the blood concentration is 0.01&nbsp;mg/mL (1&nbsp;mg/dL), then one can say that 100 mL/min of blood is being "cleared" of creatinine, since, to get 1&nbsp;mg of creatinine, 100 mL of blood containing 0.01&nbsp;mg/mL would need to have been cleared. 
+
+Creatinine clearance (C<sub>Cr</sub>) is calculated from the creatinine concentration in the collected urine sample (U<sub>Cr</sub>), [[urine flow rate]] (V), and the plasma concentration (P<sub>Cr</sub>). Since the product of urine concentration and urine flow rate yields creatinine excretion rate, which is the rate of removal from the blood, creatinine clearance is calculated as removal rate per min (U<sub>Cr</sub>&times;V) divided by the plasma creatinine concentration. This is commonly represented mathematically as
+
+:<math>C_{Cr} = \frac { U_{Cr} \times V }{ P_{Cr} }</math>
+
+Example: A person has a plasma creatinine concentration of 0.01&nbsp;mg/ml and in 1 hour produces 60ml of urine with a creatinine concentration of 1.25&nbsp;mg/mL.
+:<math>C_{Cr} = \frac {1.25 mg/mL \times \frac{60mL}{60min}}{0.01 mg/mL} = \frac { {1.25 mg/mL} \times {1 mL/min}}{0.01 mg/mL} = \frac {1.25 mg/min}{0.01 mg/mL} = {125 mL/min}</math>
+
+The common procedure involves undertaking a 24-hour urine collection, from empty-bladder one morning to the contents of the bladder the following morning, with a comparative blood test then taken.  The urinary flow rate is still calculated per minute, hence:
+:<math>C_{Cr} = \frac { U_{Cr} \ \times \ \mbox{24-hour volume} }{P_{Cr} \ \times \ 24 \times 60 mins}</math>
+
+To allow comparison of results between people of different sizes, the C<sub>Cr</sub> is often corrected for the [[body surface area]] (BSA) and expressed compared to the average sized man as mL/min/1.73 m<sup>2</sup>. While most adults have a BSA that approaches 1.7 (1.6-1.9), extremely obese or slim patients should have their C<sub>Cr</sub> corrected for their ''actual'' BSA.
+
+:<math>C_{Cr-corrected} = \frac{{C_{Cr}} \ \times \ {1.73}} {BSA}</math>
+:BSA can be calculated on the basis of weight and height.
+
+Twenty-four hour urine urine collection to assess creatinine clearance is no longer widely performed, due to difficulty in assuring complete specimen collection.  To assess the adequacy of a complete collection, one always calculates the amount of creatinine excreted over a 24-hour period.  This amount varies with muscle mass, and is higher in young people vs. old, in blacks vs. whites, and in men vs. women.  An unexpectedly low or high 24-hour creatinine excretion rate voids the test.  Nevertheless, in cases where estimates of creatinine clearance from serum creatinine are unreliable, creatinine clearance remains a useful test. These cases include "estimation of GFR in individuals with variation in dietary intake (vegetarian diet, creatine supplements) or muscle mass (amputation, malnutrition, muscle wasting), since these factors are not specifically taken into account in prediction equations."<ref>{{cite web |url=http://www.kidney.org/professionals/kdoqi/guidelines_ckd/p5_lab_g4.htm |title=KDOQI CKD Guidelines |work= |accessdate=2010-08-25}}</ref>
+
+==Estimated values==
+A number of formulae have been devised to estimate GFR or C<sub>cr</sub> values on the basis of serum creatinine levels.
+
+===Estimated creatinine clearance rate (eC<sub>Cr</sub>) using Cockcroft-Gault formula===
+A commonly used surrogate marker for estimate of [[creatinine clearance]] is the Cockcroft-Gault (CG) formula, which in turn estimates GFR in ml/min:<ref>[http://www.cato.at/webservice/servlet/location?goto=SERVICE_CALC&lang=EN&URL=%22calc/cato_GFR_CG.htm%22 GFR Calculator at cato.at - Cockcroft-Gault] - GFR calculation (Cockcroft-Gault formula)</ref> It is named after the scientists who first published the formula, and it employs serum [[creatinine]] measurements and a patient's weight to predict the creatinine clearance.<ref name="pmid1244564">{{cite journal |author=Cockcroft DW, Gault MH |title=Prediction of creatinine clearance from serum creatinine |journal=Nephron |volume=16 |issue=1 |pages=31–41 |year=1976 |pmid=1244564 |doi=10.1159/000130554}}</ref><ref name="Gault MH et al.">{{cite journal |author=Gault MH, Longerich LL, Harnett JD, Wesolowski C |title=Predicting glomerular function from adjusted serum creatinine |journal=Nephron |volume=62 |issue=3 |pages=249–56 |year=1992 |pmid=1436333 |doi=10.1159/000187054}}</ref>  
+The formula, as originally published, is:
+:<math>eC_{Cr} = \frac { \mbox{(140 - Age)} \ \times \ \mbox{Mass (in kilograms)} \ \times \ [{0.85\ if\ Female}]} {\mbox{72} \ \times \ \mbox{Serum Creatinine (in mg/dL)}}</math>
+:This formula expects weight to be measured in [[kilogram]]s and creatinine to be measured in mg/dL, as is standard in the USA. The resulting value is multiplied by a constant of 0.85 if the patient is female. This formula is useful because the calculations are simple and can often be performed without the aid of a [[calculator]].
+
+When serum creatinine is measured in µmol/L:
+:<math>eC_{Cr} = \frac { \mbox{(140 - Age)} \ \times \ \mbox{Mass (in kilograms)} \ \times \ {Constant} } {\mbox{Serum Creatinine (in } \mu \mbox{mol/L)}}</math>
+:Where ''Constant'' is ''1.23'' for men and ''1.04'' for women.
+
+One interesting feature of the Cockcroft and Gault equation is that it shows how dependent the estimation of CCr is based on age. The age term is (140 - age).  This means that a 20-year-old person (140-20 = 120) will have twice the creatinine clearance as an 80-year-old (140-80 = 60) for the same level of serum creatinine (120 is twice as great as 60).  The C-G equation assumes that a woman will have a 15% lower creatinine clearance than a man at the same level of serum creatinine.
+
+===Estimated GFR (eGFR) using Modification of Diet in Renal Disease (MDRD) formula===
+The most recently advocated formula for calculating the GFR is the one that was developed by the ''Modification of Diet in Renal Disease Study Group''.<ref name="pmid10075613">{{cite journal |author=Levey AS, Bosch JP, Lewis JB, Greene T, Rogers N, Roth D |title=A more accurate method to estimate glomerular filtration rate from serum creatinine: a new prediction equation. Modification of Diet in Renal Disease Study Group |journal=Annals of Internal Medicine |volume=130 |issue=6 |pages=461–70 |year=1999 |month=March |pmid=10075613 |url=http://www.annals.org/cgi/pmidlookup?view=long&pmid=10075613 |doi=10.7326/0003-4819-130-6-199903160-00002}}</ref> Most laboratories in Australia,<ref name="pmid17937643">{{cite journal |author=Mathew TH, Johnson DW, Jones GR |title=Chronic kidney disease and automatic reporting of estimated glomerular filtration rate: revised recommendations |journal=The Medical Journal of Australia |volume=187 |issue=8 |pages=459–63 |year=2007 |month=October |pmid=17937643 |url=http://www.mja.com.au/public/issues/187_08_15/10/07/mat10525_fm.html}}</ref> and The United Kingdom now calculate and report the MDRD estimated GFR along with creatinine measurements and this forms the basis of [[Chronic_kidney_disease#Stages_of_Chronic_Kidney_Disease|Chronic kidney disease#Staging]].<ref>{{cite web |author=Joint Specialty Committee on Renal Disease |title=Chronic kidney disease in adults: UK guidelines for identification, management and referral |month=June | year=2005 |url=http://www.renal.org/CKDguide/full/UKCKDfull.pdf |format=PDF}}</ref> The adoption of the automatic reporting of MDRD-eGFR has been widely criticised.<ref name="pmid16398632">{{cite journal |author=Davey RX |title=Chronic kidney disease and automatic reporting of estimated glomerular filtration rate |journal=The Medical Journal of Australia |volume=184 |issue=1 |pages=42–3; author reply 43 |year=2006 |month=January |pmid=16398632 |url=http://www.mja.com.au/public/issues/184_01_/02/01/06/matters_arising_020106_fm-6.html}}</ref><ref name="pmid17041249">{{cite journal |author=Twomey PJ, Reynolds TM |title=The MDRD formula and validation |journal=QJM |volume=99 |issue=11 |pages=804–5 |year=2006 |month=November |pmid=17041249 |doi=10.1093/qjmed/hcl108}}</ref><ref name="pmid18219370">{{cite journal |author=Kallner A, Ayling PA, Khatami Z |title=Does eGFR improve the diagnostic capability of S-Creatinine concentration results? A retrospective population based study |journal=International Journal of Medical Sciences |volume=5 |issue=1 |pages=9–17 |year=2008 |pmid=18219370 |pmc=2204044 |url=http://www.medsci.org/v05p0009.htm |doi=10.7150/ijms.5.9}}</ref> 
+
+The most commonly used formula is the "4-variable MDRD," which estimates GFR using four variables: serum creatinine, age, race, and gender.<ref name="pmid11904577">{{cite journal |author=National Kidney Foundation |title=K/DOQI clinical practice guidelines for chronic kidney disease: evaluation, classification, and stratification |journal=American Journal of Kidney Diseases |volume=39 |issue=2 Suppl 1 |pages=S1–266 |year=2002 |month=February |pmid=11904577 |doi=10.1016/S0272-6386(02)70081-4}}</ref> The original MDRD used six variables with the additional variables being the [[blood urea nitrogen]] and [[albumin]] levels.<ref name="pmid10075613"/> The equations have been validated in patients with chronic kidney disease; however both versions underestimate the GFR in healthy patients with GFRs over 60 mL/min.<ref name="pmid15611490">{{cite journal |author=Rule AD, Larson TS, Bergstralh EJ, Slezak JM, Jacobsen SJ, Cosio FG |title=Using serum creatinine to estimate glomerular filtration rate: accuracy in good health and in chronic kidney disease |journal=Annals of Internal Medicine |volume=141 |issue=12 |pages=929–37 |year=2004 |month=December |pmid=15611490 |doi=10.7326/0003-4819-141-12-200412210-00009}}</ref><ref name="pmid16908915">{{cite journal |author=Levey AS |title=Using standardized serum creatinine values in the modification of diet in renal disease study equation for estimating glomerular filtration rate |journal=Annals of Internal Medicine |volume=145 |issue=4 |pages=247–54 |year=2006 |month=August |pmid=16908915 |author-separator=, |author2=Coresh J |author3=Greene T |display-authors=3 |last4=Stevens |first4=LA |last5=Zhang |first5=YL |last6=Hendriksen |first6=S |last7=Kusek |first7=JW |last8=Van Lente |first8=F |author9=Chronic Kidney Disease Epidemiology Collaboration |doi=10.7326/0003-4819-145-4-200608150-00004}}</ref> The equations have not been validated in acute renal failure.
+
+For creatinine in µmol/L:
+:<math>\mbox{eGFR} = \mbox{32788}\ \times \ \mbox{Serum Creatinine}^{-1.154} \ \times \ \mbox{Age}^{-0.203} \ \times \ {[1.212\ if\ Black]} \ \times \ {[0.742\ if\ Female]}</math>
+
+For creatinine in mg/dl:
+:<math>\mbox{eGFR} = \mbox{186}\ \times \ \mbox{Serum Creatinine}^{-1.154} \ \times \ \mbox{Age}^{-0.203} \ \times \ {[1.212\ if\ Black]} \ \times \ {[0.742\ if\ Female]}</math>
+:Creatinine levels in µmol/L can be converted to mg/dL by dividing them by 88.4.  The 32788 number above is equal to 186×88.4<sup>1.154</sup>.
+
+A more elaborate version of the MDRD equation also includes [[serum albumin]] and [[blood urea nitrogen]] (BUN) levels:
+:<math>\mbox{eGFR} = \mbox{170}\ \times \ \mbox{Serum Creatinine}^{-0.999} \ \times \ \mbox{Age}^{-0.176} \ \times \ {[0.762\ if\ Female]} \ \times \ {[1.180\ if\ Black]} \ \times \ \mbox{BUN}^{-0.170} \ \times \ \mbox{Albumin}^{+0.318}</math>
+:Where the creatinine and blood urea nitrogen concentrations are both in mg/dL. The albumin concentration is in g/dL.
+
+These MDRD equations are to be used only if the laboratory has NOT calibrated its serum creatinine measurements to isotope dilution mass spectrometry (IDMS).  When IDMS-calibrated serum creatinine is used (which is about 6% lower), the above equations should be multiplied by 175/186 or by 0.94086.<ref>{{Cite web | title = GFR MDRD Calculator for Adults | work = National Kidney Disease Education Program  | publisher =  [[National Institutes of Health]]  | url = http://www.nkdep.nih.gov/professionals/gfr_calculators/idms_con.htm  | location = United States }}
+</ref>
+
+Since these formulae do not adjust for body mass, they (relative to the Cockcroft-Gault formula) underestimate eGFR for heavy people and overestimate it for underweight people. (see Cockcroft-Gault formula above).
+
+===Estimated GFR (eGFR) using the CKD-EPI formula===
+The CKD-EPI  (Chronic Kidney Disease Epidemiology Collaboration) formula was published in May 2009.  It was developed in an effort to create a formula more accurate than the MDRD formula, especially when actual GFR is greater than 60 mL/min per 1.73 m2.
+
+Researchers pooled data from multiple studies to develop and validate this new equation.  They used 10 studies that included 8254 participants, randomly using 2/3 of the data sets for development and the other 1/3 for internal validation. Sixteen additional studies, which included 3896 participants, were used for external validation.
+
+The CKD-EPI equation performed better than the MDRD (Modification of Diet in Renal Disease Study) equation, especially at higher GFR, with less bias and greater accuracy. When looking at NHANES (National Health and Nutrition Examination Survey) data, the median estimated GFR was 94.5 mL/min per 1.73 m2 vs. 85.0 mL/min per 1.73 m2, and the prevalence of chronic kidney disease was 11.5% versus 13.1%.
+
+The CKD-EPI equation, expressed as a single equation, is:
+
+:<math>\mbox{eGFR} = \mbox{141}\ \times \ \mbox{min(SCr/k,1)}^{a} \ \times \ \mbox{max(SCr/k,1)}^{-1.209} \ \times \ \mbox{0.993}^{Age} \ \times \ {[1.018\ if\ Female]} \ \times \ {[1.159\ if\ Black]} \ </math>
+
+where SCr is serum creatinine (mg/dL), k is 0.7 for females and 0.9 for males, a is -0.329 for females and -0.411 for males, min indicates the minimum of SCr/k or 1, and max indicates the maximum of SCr/k or 1.
+
+A clearer version may be as follows:
+For creatinine (IDMS calibrated) in mg/dL:<br/>
+'''Black Female'''<br />
+If serum creatinine (Scr) <= 0.7
+:<math>\mbox{eGFR} = \mbox{166}\ \times \ \mbox{(SCr/0.7)}^{-0.329} \ \times \ \mbox{0.993}^{Age} \ </math>
+If serum creatinine (Scr) > 0.7
+:<math>\mbox{eGFR} = \mbox{166}\ \times \ \mbox{(SCr/0.7)}^{-1.209} \ \times \ \mbox{0.993}^{Age} \ </math>
+
+'''Black Male'''<br />
+If serum creatinine (Scr) <= 0.9
+:<math>\mbox{eGFR} = \mbox{163}\ \times \ \mbox{(SCr/0.9)}^{-0.411} \ \times \ \mbox{0.993}^{Age} \ </math>
+If serum creatinine (Scr) > 0.9
+:<math>\mbox{eGFR} = \mbox{163}\ \times \ \mbox{(SCr/0.9)}^{-1.209} \ \times \ \mbox{0.993}^{Age} \ </math>
+
+'''White or other race Female'''<br />
+If serum creatinine (Scr) <= 0.7
+:<math>\mbox{eGFR} = \mbox{144}\ \times \ \mbox{(SCr/0.7)}^{-0.329} \ \times \ \mbox{0.993}^{Age} \ </math>
+If serum creatinine (Scr) > 0.7
+:<math>\mbox{eGFR} = \mbox{144}\ \times \ \mbox{(SCr/0.7)}^{-1.209} \ \times \ \mbox{0.993}^{Age} \ </math>
+
+'''White or other race Male'''<br />
+If serum creatinine (Scr) <= 0.9
+:<math>\mbox{eGFR} = \mbox{141}\ \times \ \mbox{(SCr/0.9)}^{-0.411} \ \times \ \mbox{0.993}^{Age} \ </math>
+If serum creatinine (Scr) > 0.9
+:<math>\mbox{eGFR} = \mbox{141}\ \times \ \mbox{(SCr/0.9)}^{-1.209} \ \times \ \mbox{0.993}^{Age} \ </math>
+
+This formula was developed by Levey et al.<ref name="pmid19414839">{{cite journal |author=Levey AS |title=A new equation to estimate glomerular filtration rate |journal=Annals of Internal Medicine |volume=150 |issue=9 |pages=604–12 |year=2009 |month=May |pmid=19414839 |pmc=2763564 |author-separator=, |author2=Stevens LA |author3=Schmid CH |display-authors=3 |last4=Zhang |first4=YL |last5=Castro Af |first5=3rd |last6=Feldman |first6=HI |last7=Kusek |first7=JW |last8=Eggers |first8=P |last9=Van Lente |first9=F |doi=10.7326/0003-4819-150-9-200905050-00006}}</ref>
+
+The formula CKD-EPI may provide improved cardiovascular risk prediction over the MDRD Study formula in a middle-age population.<ref>{{cite journal |author=Matsushita K, Selvin E, Bash LD, Astor BC, Coresh J |title=Risk implications of the new CKD Epidemiology Collaboration (CKD-EPI) equation compared with the MDRD Study equation for estimated GFR: the Atherosclerosis Risk in Communities (ARIC) Study |journal=American Journal of Kidney Diseases |volume=55 |issue=4 |pages=648–59 |year=2010 |month=April |pmid=20189275 |pmc=2858455 |doi=10.1053/j.ajkd.2009.12.016}}</ref>
+
+===Estimated GFR (eGFR) using the Mayo Quadratic formula===
+Another estimation tool to calculate GFR is the Mayo Quadratic formula. This formula was developed by Rule et al.<ref name="pmid15611490"/> in an attempt to better estimate GFR in patients with preserved kidney function.  It is well recognized that the MDRD formula tends to underestimate GFR in patients with preserved kidney function.
+
+The equation is:
+:<math>\mbox{eGFR} = \mbox{exp}{(1.911+ 5.249/{Serum\ Creatinine} - 2.114/{Serum\ Creatinine}^2 - 0.00686 \ \times \ \mbox{Age} - {[0.205\ if\ Female]})}</math>
+
+If Serum Creatinine < 0.8&nbsp;mg/dL, use 0.8&nbsp;mg/dL for Serum Creatinine
+
+===Estimated GFR for children using Schwartz formula===
+In children, the Schwartz formula is used.<ref name="pmid951142"/><ref name="pmid6726515"/> This employs the serum [[creatinine]] (mg/dL), the child's height(cm) and a constant to estimate the glomerular filtration rate:
+:<math>\mbox{eGFR} = \frac{ {k} \times {Height} }{Serum\ Creatinine}</math>
+:Where ''k'' is a constant that depends on muscle mass, which itself varies with a child's age:
+::In first year of life, for pre-term babies K=0.33<ref name="pmid3761090">{{cite journal |author=Brion LP, Fleischman AR, McCarton C, Schwartz GJ |title=A simple estimate of glomerular filtration rate in low birth weight infants during the first year of life: noninvasive assessment of body composition and growth |journal=The Journal of Pediatrics |volume=109 |issue=4 |pages=698–707 |year=1986 |month=October |pmid=3761090 |doi=10.1016/S0022-3476(86)80245-1}}</ref> and for full-term infants K=0.45<ref name="pmid6726515">{{cite journal |author=Schwartz GJ, Feld LG, Langford DJ |title=A simple estimate of glomerular filtration rate in full-term infants during the first year of life |journal=The Journal of Pediatrics |volume=104 |issue=6 |pages=849–54 |year=1984 |month=June |pmid=6726515 |doi=10.1016/S0022-3476(84)80479-5}}</ref>
+::For infants and children of age 1 to 12 years, K=0.55.<ref name="pmid951142">{{cite journal |author=Schwartz GJ, Haycock GB, Edelmann CM, Spitzer A |title=A simple estimate of glomerular filtration rate in children derived from body length and plasma creatinine |journal=Pediatrics |volume=58 |issue=2 |pages=259–63 |year=1976 |month=August |pmid=951142}}</ref><!-- K=0.55 adolescent girls, or K=0.70 in adolescent boys needs citing -->
+
+The method of selection of the K-constant value has been questioned as being dependent upon the gold-standard of renal function used (i.e., creatinine clearance, inulin clearance, etc.) and also may be dependent upon the urinary flow rate at the time of measurement.<ref name="pmid10079885">{{cite journal |doi=10.1016/S0929-693X(99)80204-8 |author=Haenggi MH, Pelet J, Guignard JP |title=[Estimation of glomerular filtration rate by the formula GFR &amp;#61; K x T/Pc] |language=French |journal=Archives De Pédiatrie |volume=6 |issue=2 |pages=165–72 |year=1999 |month=February |pmid=10079885}}</ref>
+
+In 2009, the formula was updated to use standardized serum creatinine (recommend k=0.413) and additional formulas that allow improved precision were derived if serum cystatin measured in addition to serum creatinine.<ref>{{cite journal |author=Schwartz GJ |title=New equations to estimate GFR in children with CKD |journal=Journal of the American Society of Nephrology |volume=20 |issue=3 |pages=629–37 |year=2009 |month=March |pmid=19158356 |pmc=2653687 |doi=10.1681/ASN.2008030287 |author-separator=, |author2=Muñoz A |author3=Schneider MF |display-authors=3 |last4=Mak |first4=R. H. |last5=Kaskel |first5=F. |last6=Warady |first6=B. A. |last7=Furth |first7=S. L.}}</ref>
+
+===Importance of calibration of the serum creatinine level and the IDMS standardization effort===
+
+One problem with any creatinine-based equation for GFR is that the methods used to assay creatinine in the blood differ widely in their susceptibility to non-specific chromogens, which cause the creatinine value to be overestimated.  In particular, the MDRD equation was derived using serum creatinine measurements that had this problem.  The NKDEP program in the United States has attempted to solve this problem by trying to get all laboratories to calibrate their measures of creatinine to a "gold standard", which in this case is isotope dilution mass spectrometry (IDMS).  In late 2009 not all labs in the U.S. had changed over to the new system.  There are two forms of the MDRD equation that are available, depending on whether or not creatinine was measured by an IDMS-calibrated assay.  The CKD-EPI equation is designed to be used with IDMS-calibrated serum creatinine values only.
+
+===Cystatin C===
+Problems with creatinine (varying muscle mass, recent meat ingestion, etc.) have led to evaluation of alternative agents for estimation of GFR.  One of these is [[cystatin C]], a ubiquitous protein secreted by most cells in the body (it is an inhibitor of cysteine protease).
+
+Cystatin C is freely filtered at the glomerulus.  After filtration, Cystatin C is reabsorbed and catabolized by the tubular epithelial cells, with only small amounts excreted in the urine.  Cystatin C levels are therefore measured not in the urine, but in the bloodstream.
+
+Equations have been developed linking estimated GFR to serum cystatin C levels. Most recently, some proposed equations have combined creatinine and cystatin.<ref>{{cite journal |author=Stevens LA |title=Estimating GFR using serum cystatin C alone and in combination with serum creatinine: a pooled analysis of 3,418 individuals with CKD |journal=American Journal of Kidney Diseases |volume=51 |issue=3 |pages=395–406 |year=2008 |month=March |pmid=18295055 |pmc=2390827 |doi=10.1053/j.ajkd.2007.11.018 |author-separator=, |author2=Coresh J |author3=Schmid CH |display-authors=3 |last4=Feldman |first4=Harold I. |last5=Froissart |first5=Marc |last6=Kusek |first6=John |last7=Rossert |first7=Jerome |last8=Van Lente |first8=Frederick |last9=Bruce |first9=Robert D.}}</ref>
+
+==Normal ranges==
+The normal range of GFR, adjusted for [[body surface area]], is 100-130 ml/min/1.73m<sup>2</sup> in men and women. In children, GFR measured by inulin clearance is 110 ml/min/1.73m<sup>2</sup> until 2 years of age in both sexes, and then it progressively decreases. After age 40, GFR decreases progressively with age, by about 0.4 - 1.2 mL/min per year.{{fact|date=January 2013}}
+
+===Chronic kidney disease stages===
+{{main|Chronic kidney disease}}
+Risk factors for kidney disease include diabetes, high blood pressure, family history, older age, ethnic group and smoking.
+For most patients, a GFR over 60 mL/min/1.73m<sup>2</sup> is adequate. But significant decline of the GFR from a previous test result can be an early indicator of kidney disease requiring medical intervention. The sooner kidney dysfunction is diagnosed and treated the greater odds of preserving remaining nephrons, and preventing the need for dialysis.
+
+The [[chronic kidney disease#Stages of Chronic Kidney Disease|severity of chronic kidney disease]] (CKD) is described by six stages; the most severe three are defined by the MDRD-eGFR value, and first three also depend on whether there is other evidence of kidney disease (e.g., [[proteinuria]]):
+:0) Normal kidney function – GFR above 90mL/min/1.73m<sup>2</sup> and no [[proteinuria]]
+:1) CKD1 – GFR above 90mL/min/1.73m<sup>2</sup> with evidence of kidney damage
+:2) CKD2  (Mild) – GFR of 60 to 89 mL/min/1.73m<sup>2</sup> with evidence of kidney damage
+:3) CKD3 (Moderate)  – GFR of 30 to 59 mL/min/1.73m<sup>2</sup>
+:4) CKD4 (Severe) – GFR of 15 to 29 mL/min/1.73m<sup>2</sup>
+:5) CKD5 Kidney failure - GFR less than 15 mL/min/1.73m<sup>2</sup>  Some people add CKD5D for those stage 5 patients requiring dialysis; many patients in CKD5 are not yet on dialysis.
+  
+Note: others add a "T" to patients who have had a transplant regardless of stage.
+
+Not all clinicians agree with the above classification, suggesting that it may mislabel patients with mildly reduced kidney function, especially the elderly, as having a disease.<ref>{{cite journal | author=Bauer C, Melamed ML, Hostetter TH |year= 2008 |title= Staging of Chronic Kidney Disease: Time for a Course Correction  |journal= American Society of Nephrology |volume= 19 |pages= 844–46 |publisher= |doi= 10.1681/ASN.2008010110  |url= http://jasn.asnjournals.org/content/19/5/844.full |issue=5}}</ref><ref>{{cite journal |author = Eckardt K-U, Berns JS, Rocco MV, Kasiske BL |url=http://www.kdigo.org/meetings_events/pdf/KDOQI-KDIGO_Editorial_on_CKD_Classification.pdf |format=PDF |journal = American Journal of Kidney Diseases | volume = 53 | issue=6 | pages = 915–920 |date=June 2009| title=Definition and Classification of CKD: The Debate Should Be About Patient Prognosis—A Position Statement From KDOQI and KDIGO |doi=10.1053/j.ajkd.2009.04.001 |pmid = 19406541}}</ref> A conference was held in 2009 regarding these controversies by Kidney Disease: Improving Global Outcomes (KDIGO) on CKD: Definition, Classification and Prognosis, gathering data on CKD prognosis to refine the definition and staging of CKD.<ref>{{cite web |year=2009 |url= http://www.kdigo.org/meetings_events/CKD_Controversies_Conference.php |publisher = Kidney Disease: Improving Global Outcomes (KDIGO) |title= KDIGO Controversies Conference: Definition, Classification and Prognosis in CKD, London, October 2009}}</ref>
+
+==See also==
+*[[clearance (medicine)|Clearance]]
+*[[Dialysis]]
+*[[Filtration fraction]]
+*[[Kt/V]]
+*[[Pharmacokinetics]]
+*[[Renal clearance ratio]]
+*[[Renal failure]]
+*[[Standardized Kt/V]]
+*[[Tubuloglomerular feedback]]
+*[[Urea reduction ratio]]
+
+==References==
+{{reflist|2}}
+31. Creatinine clearance calculator (Cockcroft-Gault Equation)- by [http://www.mdcalc.com/creatinine-clearance-cockcroft-gault-equation/ MDCalc]
+
+==External links==
+===Online GFR Calculators===
+*[http://nkdep.nih.gov/lab-evaluation/gfr-calculators.shtml Online GFR Calculator] 
+*[http://www-users.med.cornell.edu/~spon/picu/calc/crclschw.htm Schwartz formula] for estimating pediatric renal function
+
+===Reference links===
+*[http://www.nkdep.nih.gov/professionals/index.htm National Kidney Disease Education Program website.] Includes professional references and GFR calculators
+
+{{Renal physiology}}
+
+{{DEFAULTSORT:Renal Function}}
+[[Category:Renal physiology]]
+
+[[nl:Kreatinineklaring]]
+[[pl:GFR]]
+[[pt:Função renal]]

@@ -1,0 +1,162 @@
+{{drugbox
+| Verifiedfields = changed
+| verifiedrevid = 457457901
+| IUPAC_name = 5,5-diphenylimidazolidine-2,4-dione
+| image = Phenytoin structure.svg
+| width = 132
+| image2 = Phenytoin-3D-balls.png
+| width2 = 200
+
+<!--Clinical data-->
+| tradename = Dilantin
+| Drugs.com = {{drugs.com|monograph|phenytoin}}
+| MedlinePlus = a682022
+| pregnancy_US = D
+| legal_status = Rx-only
+| routes_of_administration = Oral, [[parenteral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 70-100% oral, 24.4% for rectal and intravenous administration
+| protein_bound = 90%
+| metabolism = [[hepatic]]
+| elimination_half-life = 6–24 hours
+| excretion = Primarily through the bile, urinary
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 57-41-0
+| ATC_prefix = N03
+| ATC_suffix = AB02
+| ATC_supplemental = 
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 8107
+| PubChem = 1775
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00252
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 1710
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6158TKW0C5
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00512
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 16
+
+<!--Chemical data-->
+| C=15 | H=12 | N=2 | O=2
+| molecular_weight = 252.268 g/mol
+| smiles = O=C2NC(=O)NC2(c1ccccc1)c3ccccc3
+| InChI = 1/C15H12N2O2/c18-13-15(17-14(19)16-13,11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H,(H2,16,17,18,19)
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C15H12N2O2/c18-13-15(17-14(19)16-13,11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H,(H2,16,17,18,19)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = CXOFVDLJLONNDW-UHFFFAOYSA-N
+}}
+'''Phenytoin sodium''' ({{IPAc-en|f|ə|ˈ|n|ɪ|t|oʊ|ɨ|n}}) is a commonly used [[antiepileptic]].  Phenytoin acts to suppress the abnormal brain activity seen in seizure by reducing electrical conductance among brain cells by stabilizing the inactive state of voltage-gated sodium channels. Aside from seizures, it is an option in the treatment of [[trigeminal neuralgia]] in the event that [[carbamazepine]] or other first-line treatment seems inappropriate.
+
+It is sometimes considered a [[Antiarrhythmic_agent#Class_I_agents|class 1b antiarrhythmic]].<ref name="pmid15331289">{{ cite journal | author = Balaji S | title = Medical Therapy for Sudden Death | journal = Pediatric Clinics of North America | volume = 51 | issue = 5 | pages = 1379–1387 | year = 2004 | pmid = 15331289 | doi = 10.1016/j.pcl.2004.04.002 }}</ref>
+
+==Trade names==
+'''Phenytoin sodium''' has been marketed as '''Phenytek''' by [[Mylan Laboratories Inc.|Mylan Laboratories]], previously Bertek Pharmaceuticals, and '''Dilantin'''; [[Australia]] also '''Dilantin Kapseals''' and '''Dilantin Infatabs''' in the [[United States|USA]], '''Eptoin''' by Abbott Group in India and as '''Epanutin''' in the [[United Kingdom|UK]] and [[Israel]], by [[Parke-Davis]], now part of [[Pfizer]]. In the USSR and post-USSR countries, it was/is marketed as '''Дифенин''' ('''Diphenin''', '''Dipheninum''').
+
+==History==
+Phenytoin (diphenylhydantoin) was first synthesized by German chemist [[Heinrich Biltz]] in 1908.<ref name=Biltz>{{ cite journal | author = Biltz H | journal = Chemische Berichte | trans_title = Constitution of the Products of the Interaction of Substituted Carbamides on Benzil and Certain New Methods for the Preparation of 5,5-Diphenylhydantoin | title = Über die Konstitution der Einwirkungsprodukte von substituierten Harnstoffen auf Benzil und über einige neue Methoden zur Darstellung der 5,5-Diphenyl-hydantoine | language = German | year = 1908 | volume  = 41 | issue = 1 | pages = 1379–1393 | doi = 10.1002/cber.190804101255 }}</ref>
+Biltz sold his discovery to Parke-Davis, which did not find an immediate use for it. In 1938, outside scientists including [[H. Houston Merritt]] and [[Tracy Putnam]] discovered phenytoin's usefulness for controlling [[seizure]]s, without the sedative effects associated with [[phenobarbital]].
+
+According to ''Goodman and Gilman's Pharmacological Basis of Therapeutics'',
+:''In contrast to the earlier accidental discovery of the antiseizure properties of [[bromide]] and [[phenobarbital]], phenytoin was the product of a search among nonsedative structural relatives of phenobarbital for agents capable of suppressing electroshock convulsions in laboratory animals.''<ref>{{ cite book | title = Goodman and Gilman's Pharmacological Basis of Therapeutics | edition = 10th | location = New York | publisher = McGraw-Hill | year = 2001 }}</ref>
+
+There are some indications that phenytoin has other effects, including [[anxiety]] control and [[mood stabilizer|mood stabilization]], although it has never been approved for those purposes by the FDA. [[Jack Dreyfus]], founder of the [[Dreyfus Fund]], became a major proponent of phenytoin as a means to control nervousness and [[clinical depression|depression]] when he received a prescription for Dilantin in 1966. He is believed to have supplied large amounts of the drug to [[Richard Nixon]] throughout the late 1960s and early 1970s. [[Jack Dreyfus|Dreyfus']] experience with phenytoin is outlined in his book, ''A Remarkable Medicine Has Been Overlooked''.<ref>{{cite book |author = Dreyfus J | title = A Remarkable Medicine Has Been Overlooked: Including an Autobiography and the Clinical Section of the Broad Range of Use of Phenytoin | publisher = Continuum International Publishing Group | year = 1998 | isbn = 0-8264-1069-3 }}</ref> Despite more than $70 million in personal financing, his push to see phenytoin evaluated for alternative uses has had little lasting effect on the medical community.  This was partially because [[Parke-Davis]] was reluctant to invest in a drug nearing the end of its patent life, and partially due to mixed results from various studies.
+It was approved by the [[USA]] [[Food and Drug Administration]] in 1953 for use in [[seizure]]s.
+
+Dilantin made an appearance in the 1962 novel ''[[One Flew Over the Cuckoo's Nest (novel)|One Flew Over the Cuckoo's Nest]]'' by [[Ken Kesey]], both as an [[anticonvulsant]] and as a mechanism to control inmate behavior.
+
+In 2008, the drug was put on the FDA's [[Potential Signals of Serious Risks List]] to be further evaluated for approval. The list means that the FDA has identified a potential safety issue, but does not mean that FDA has identified a causal relationship between the drug and the listed risk.
+
+According to the FDA's New Safety Information Identified by the [[Adverse Event Reporting System]] (AERS) Phenytoin Injection (Dilantin) has been associated with the risk of [[Purple Glove Syndrome]].
+
+A 1981 study <ref>http://www.ncbi.nlm.nih.gov/pubmed/7336470</ref> by the [[National Institutes of Health]] showed that [[antacids]] administered concomitantly with phenytoin "altered not only the extent of absorption but also appeared to alter the rate of absorption.  Antacids administered in a peptic ulcer regimen may decrease the AUC of a single dose of phenytoin. Patients should be cautioned against concomitant use of antacids and phenytoin."
+
+==Side-effects==
+
+===Neurologic===
+At therapeutic doses, phenytoin may produce horizontal gaze [[nystagmus]]. At toxic doses, patients experience [[sedation]], cerebellar [[ataxia]], and [[ophthalmoparesis]], as well as [[seizures]].  Idiosyncratic side-effects of phenytoin, as with other [[anticonvulsant]]s, include rash and severe [[allergy|allergic]] reactions.
+
+Phenytoin may accumulate in the [[cerebral cortex]] over long periods of time, as well as causing atrophy of the [[cerebellum]] when administered at chronically high levels.  Despite this, the drug has a long history of safe use, making it one of the more popular anti-convulsants prescribed by doctors, and a common "first line of defense" in seizure cases.
+
+===Hematologic===
+It has been suggested that phenytoin causes a reduction in [[folic acid]] levels, predisposing patients to [[megaloblastic anemia]]. Folic acid is presented in foods as polyglutamate, which is then converted into monoglutamates by [[intestinal conjugase]].  Phenytoin acts by inhibiting this enzyme, thereby causing [[folate deficiency]].<ref>{{ cite journal | doi = 10.1111/j.1528-1157.1992.tb02330.x | author = Carl GF, Smith ML | title = Phenytoin-folate interactions: differing effects of the sodium salt and the free acid of phenytoin | journal = Epilepsia | volume = 33 | issue = 2 | pages = 372–375 | year = 1992 | pmid = 1547769 }}</ref>
+Other side effects may include: agranulocytosis, aplastic anemia, leukopenia{{Citation needed|date=August 2011}}, thrombocytopenia.
+
+===Teratogenicity ===
+Phenytoin is a known [[teratogenesis|teratogen]]. The syndrome consists of craniofacial anomalies (broad nasal bridge, cleft lip and palate, microcephaly) and a mild form of mental retardation (average IQ=71).<ref>{{cite book | author = Beckmann CR ''et al.'' | title = Obstetrics and Gynecology | publisher = Lippincott Williams & Wilkins | location = Baltimore | year = 2002 | edition = 4th }}</ref> This syndrome resembles the well-described [[Fetal Alcohol Syndrome]]<ref>CDC. (2004). ''Fetal Alcohol Syndrome: Guidelines for Referral and Diagnosis''. Can be downloaded at http://www.cdc.gov/fas/faspub.htm.</ref> and has also been called the "[[fetal hydantoin syndrome]]".
+
+{{Citation needed|date=February 2007}}  Data now being collected by the [http://www.epilepsy.com/info/women_pregnancy_registry.html?thebanner=women_pregnancy_registry Epilepsy and Antiepileptic Drug Pregnancy Registry] may one day answer this question definitively.
+
+Some recommend avoiding polytherapy and maintaining the minimal dose possible during pregnancy, but acknowledge that current data do not provide clear answers.<ref>{{ cite journal | author = Adab N, Tudur SC, Vinten J, Williamson P, Winterbottom J | title = Common Antiepileptic Drugs in Pregnancy in Women with Epilepsy | journal = Cochrane Database of Systematic Reviews | year = 2004 | volume = 2004 | issue = 3 | pages = CD004848 | pmid = 15266543 | doi = 10.1002/14651858.CD004848 }}</ref>
+
+===Carcinogenicity===
+There is no good evidence that phenytoin is a human [[carcinogen]].<ref>Report on Carcinogens, Eleventh Edition (PB2005-104914, 2004) p III-216.</ref><ref name="pmid3373561">{{ cite journal | author = Maeda T, Sano N, Togei K, Shibata M, Izumi K, Otsuka H | title = Lack of carcinogenicity of phenytoin in (C57BL/6 x C3H)F1 mice | journal = Journal of Toxicology and Environmental Health | year = 1988 | volume = 24 | issue = 1 | pages = 111–119 | pmid = 3373561 | doi = 10.1080/15287398809531144 }}</ref>
+
+===Gingival===
+Phenytoin has been associated with drug-induced [[gingival enlargement]] (overgrowth of the gums), probably due to above-mentioned folate deficiency; indeed, evidence from a [[randomized controlled trial]] suggests that folic acid supplementation can prevent gingival enlargement in children who take phenytoin.<ref>{{ cite journal | author = Arya R, Gulati S, Kabra M, Sahu JK, Kalra V | title = Folic acid supplementation prevents phenytoin-induced gingival overgrowth in children | journal = Neurology | year = 2011 | volume = 76 | issue = 15 | pages = 1338–1343 | doi = 10.1212/WNL.0b013e3182152844 | pmid = 21482950 | pmc = 3090066}}
+</ref> Plasma concentrations needed to induce gingival lesions have not been clearly defined.  Effects consist of the following: bleeding upon probing, increased gingival [[exudate]], pronounced gingival inflammatory response to plaque levels, associated in some instances with bone loss but without tooth detachment.
+
+===Suicide risk===
+Following almost 200 studies of 11 anti-seizure drugs, the FDA has also warned of an increased suicide risk for any patients treated with certain anti-seizure drugs.  The study of 44,000 patients found that patients whose epilepsy is treated with drugs face about twice the risk of suicidal thoughts compared to placebo-takers. Although phenytoin was not named in the study, the FDA announced that it expected the risk applied to every epilepsy drug.<ref>''[http://web.archive.org/web/20080204155102/http://news.yahoo.com/s/ap/20080201/ap_on_he_me/epilepsy_drugs FDA warns of risks from epilepsy drugs].''</ref>
+
+===Dermatologic===
+[[Hypertrichosis]], rash, exfoliative dermatitis, [[pruritis]], [[hirsutism]], and coarsening of facial features
+
+===In autoimmune disease===
+Phenytoin has been known to cause drug-induced [[Systemic lupus erythematosus|lupus]].<ref name="pmid12952753">{{ cite journal | author = Scheinfeld N | title = Phenytoin in Cutaneous Medicine: Its Uses, Mechanisms and Side Effects | journal = Dermatology Online Journal | volume = 9 | issue = 3 | pages = 6 | year = 2003 | pmid = 12952753 | url = http://dermatology.cdlib.org/93/reviews/dilantin/scheinfeld.html }}</ref>
+
+Phenytoin therapy has been linked to the life-threatening skin reactions [[Stevens–Johnson syndrome]] (SJS) and [[toxic epidermal necrolysis]] (TEN). These conditions are significantly more common in patients with a particular [[HLA-B]] [[allele]], [[HLA-B75|HLA-B*1502]].<ref name="pmid17509004">{{ cite journal | author = Man CB, Kwan P, Baum L, ''et al.'' | title = Association between HLA-B*1502 allele and antiepileptic drug-induced cutaneous reactions in Han Chinese | journal = Epilepsia | volume = 48 | issue = 5 | pages = 1015–1018 | year = 2007 | pmid = 17509004 | doi = 10.1111/j.1528-1167.2007.01022.x }}</ref> This allele occurs almost exclusively in patients with ancestry across broad areas of Asia, including South Asian Indians.
+
+===In immunodeficiency disease===
+Phenytoin is also associated with induction of reversible [[IgA deficiency]].<ref name="pmid17509004">{{ cite journal | author = Gilhus NE, Aarli JA | title = The reversibility of phenytoin-induced IgA deficiency | journal = Journal of Neurology | year = 1981 | volume = 226 | issue = 1 | pages = 53–61 | pmid = 6181216  | doi = 10.1007/BF00313318 }}</ref>
+
+==Interactions==
+Phenytoin is an inducer of the [[CYP3A4]] and [[CYP2C19]] families of the [[P450]] enzyme responsible for the hepatic  degradation of various drugs.
+
+[[Warfarin]] (Coumadin) and [[Trimethoprim]] increase serum phenytoin levels and prolong the serum half-life of phenytoin by inhibiting its metabolism.
+
+* [[hydantoin]]s
+* [[fosphenytoin]]
+* [[mephenytoin]]
+* [[ethotoin]]
+
+==Pharmacokinetics==
+Phenytoin elimination kinetics show mixed-order behaviour at therapeutic concentrations. A small increase in dose may lead to a large increase in drug concentration as elimination becomes saturated. The time to reach steady state is often longer than 2 weeks.
+
+<ref>Clinical Pharmacology & Therapeutics 66, 563-568 (December 1999) | doi:10.1053/cp.1999.v66.103277001      Article Tools         Send to a friend         Export citation         Rights and permissions         Order commercial reprints         Bookmark in Connotea      Search Pubmed for         Stephen Donahue         David A. Flockhart         Darrell R. Abernethy  Ticlopidine inhibits phenytoin clearance*Ticlopidine inhibits phenytoin clearance  *Supported in part by grants AG-08226-07 and GM-08386-08 from the National Institutes of Health, Bethesda, Md.</ref>
+
+<ref>http://ebooks.cambridge.org/chapter.jsf?bid=CBO9781139103992&cid=CBO9781139103992A081</ref>
+<ref>Chapter 67 - Antiepileptic drug pharmacokinetics and therapeutic drug monitoring  pp. 358-366 By Philip N. Patsalos       View chapter as PDF  Antiepileptic drug pharmacokinetics and therapeutic drug monitoring By Philip N. Patsalos</ref>
+<ref>http://www.mayomedicallaboratories.com/test-catalog/Clinical+and+Interpretive/9993</ref>
+
+==Chemistry==
+Phenytoin, 5,5-diphenylimidazolidinedione is synthesized in two different ways. The first involves a base catalyzed addition of [[urea]] to [[benzil]] followed by a benzilic acid rearrangement (1,2 phenyl migration) to form the desired product. This is known as the Biltz Synthesis of phenytoin.<ref name=Biltz/>
+
+[[File:Phenytoin synthesis.png|600px|center]]
+The second method involves the reaction of [[benzophenone]] with [[potassium cyanide]] in the presence of [[ammonium carbonate]], followed by the simultaneous cyclization of the resulting product (carboxyaminonitrile) and its rearrangement under the reaction conditions to form phenytoin.
+
+* {{ cite patent | country = US | status = patent | number = 2409754 | title = Method for obtaining hydantoins | gdate = 1946-10-22 | inventor = Hense HR | assign1 = Parke Davis }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://old.epilepsyfoundation.org/customcf/meddb/medicine.cfm?id=12 Medicines for Epilepsy: Dilantin] Epilepsy Foundation.
+* [http://www.remarkablemedicine.com Remarkable Medicine, a website about the Dreyfus Foundation's work to expand the indications for phenytoin]
+* [http://www.pubpk.org/index.php?title=Phenytoin Phenytoin Pharmacokinetics] (not a public link)
+
+{{Anticonvulsants}}
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Anticonvulsants]]
+[[Category:Hydantoins]]
+[[Category:Teratogens]]
+[[Category:World Health Organization essential medicines]]
+[[Category:IARC Group 2B carcinogens]]

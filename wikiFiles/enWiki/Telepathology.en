@@ -1,0 +1,361 @@
+:''Not to be confused with the paranormal belief in [[telepathy]].''
+
+'''Telepathology''' is the practice of [[pathology]] at a distance. It uses [[telecommunications]] technology to facilitate the transfer of image-rich pathology data between distant locations for the purposes of [[Medical diagnosis|diagnosis]], [[Medical education|education]], and [[Medical research|research]].<ref>
+
+{{Citation
+  | last = Weinstein 
+  | first = RS
+  | author-link =
+  | last2 = Graham 
+  | first2 = AM
+  | last3 = Richter 
+  | first3 = LC
+  | last4 = Barker  
+  | first4 = GP
+  | last5 = Krupinski  
+  | first5 = EA
+  | last6 = Lopez  
+  | first6 = AM
+  | last7 = Yagi 
+  | first7 = Y
+  | last8 = Gilbertson  
+  | first8 = JR
+  | last9 = Bhattacharyya
+  | first9 = AK
+  | title = Overview of telepathology, virtual microscopy and whole slide imagining: Prospects for the future.
+  | journal = Hum Pathol
+  | volume = 40
+  | pages = 1057–1069
+  | year = 2009 }}
+</ref><ref>
+
+ {{Citation
+  | last = Kumar | first = S
+  | title = Telepathology: An Audit
+  | journal = In: Telepathology
+  | editor = Kumar S, Dunn BE (editors)
+  | issue = Springer-Verlag Berlin Heidelberg
+  | year = 2009
+  | pages = 225–229
+  | id = }}
+
+</ref>  Performance of  telepathology requires that a pathologist selects the [[video]] images for analysis and the rendering of diagnoses.  The use of  “[[microscopy|television microscopy]]”, the forerunner of telepathology, did not require that a pathologist have physical or virtual “hands-on” involvement in the selection of microscopic fields-of-view for analysis and diagnosis.
+
+An [[academic]] pathologist, Ronald S. Weinstein M.D., coined the term “telepathology” in 1986.  In a [[medical journal]] [[editorial]], Weinstein outlined the actions that would be needed to create remote pathology diagnostic services.<ref>
+
+ {{Citation
+  | last =  Weinstein  | first = RS
+  | title = Prospects for telepatholgy (Editorial)
+  | journal = Hum Pathol
+  | year = 1986
+  | volume = 17
+  | pages = 443-434
+  | id = }}
+
+</ref> He and his collaborators published the first scientific paper on robotic telepathology.<ref>
+
+ {{Citation
+  |  last =  Weinstein  |  first = RS
+  |  last2 = Bloom  |  first2 = KJ
+  |  last 3 = Rozek  |  first 3 = LS
+  |  title = Telepathology and the networking of pathology diagnostic services.
+  |  journal = Arch Path Lab Med
+  |  volume = 111
+  |  year = 1987
+  |  pages = 646–652
+  |  id = }}
+
+</ref>  Weinstein was also granted the first [[U.S.]] [[patents]] for [[robotics|robotic]] telepathology systems and telepathology diagnostic networks.<ref>
+
+ {{Citation
+  |  last = Kayser  |  first = K
+  |  last2 = Szymas  |  first2 = J
+  |  last3 = Weinstein  |  fist3 = RS
+  |  title = Telepathology: Telecommunications, Electronic Education and Publication in Pathology
+  |  year = 1999
+  |  pages = 1–186
+  |  journal = Springer, NY
+  |  id = }}
+
+</ref>  Dr. Weinstein is known to many as the "father of telepathology".<ref>http://www.union.edu/N/DS/s.php?s=8942</ref> In [[Norway]], Eide and Nordrum implemented the first sustainable clinical telepathology service in 1989.<ref>
+
+ {{Citation
+  |  last = Nordrum  |  first = I
+  |  last2 = Engum  |  first2 = B
+  |  last3 = Rinde  |  first3 = E`
+  |  last4 = ''et al''
+  |  title = Remote frozen section service: A telepathology project to northern Norway.
+  |  journal = Hum Pathol
+  |  year = 1991
+  |  pages = 514–518
+  |  volume = 1991
+  |  id = }}
+
+</ref>  This is still in operation, decades later. A number of clinical telepathology services have benefited many thousands of patients in [[North America]], [[Europe]], and [[Asia]].
+
+Telepathology has been successfully used for many applications, including the rendering of [[histopathology]] tissue diagnoses at a distance. Although [[digital pathology]] imaging, including [[virtual microscopy]], is the mode of choice for telepathology services in developed countries, [[Analog signal|analog]] telepathology imaging is still used for patient services in some developing countries.
+
+== Types of telepathology systems ==
+
+Telepathology systems are divided into three major types: static image-based systems, [[real-time systems]], and [[virtual slide]] systems. 
+
+Static image systems have the benefit of being the most reasonably priced and usable systems.  They have the significant drawback in only being able to capture a selected subset of [[microscopic]] fields for off-site evaluation. 
+
+Real-time robotic microscopy systems and virtual slides allow a consultant pathologist the opportunity to evaluate histopathology slides in their entirety, from a distance. With real-time systems, the consultant actively operates a robotically controlled motorized [[microscope]] located at a distant site—changing focus, illumination, magnification, and field of view—at will.  Either an analog video camera or a digital video camera can be used for robotic microscopy. Another form of real-time microscopy involves utilizing a high resolution video camera mounted on a path lab microscope to send live digital video of a slide to a large computer monitor at the pathologist's remote location via encrypted store-and-forward software.  An echo-cancelling microphone at each end of the video conference allows the pathologist to communicate with the person moving the slide under the microscope. 
+
+[[Virtual slide]] systems utilize automated digital slide scanners that create a digital image file of an entire glass slide (whole slide image).  This file is stored on a computer server and can be navigated at a distance, over the [[Internet]], using a browser.<ref>
+
+ {{Citation
+  |  last = Kayser
+  |  first = K
+  |  last2 = Molnar
+  |  first2 = B
+  |  last3 = Weinstein
+  |  first3 = RS
+  |  title = Digital pathology virtual slide technology in tissue-based diagnosis, research and education.
+  |  journal = VSV Interdisciplinary Medical Publishing
+  |  year = 2006
+  |  pages = 1–193
+  |  issue = Berlin
+  |  id = }}
+
+</ref>  [[Digital imaging]] is required for virtual microscopy.
+
+While real-time and virtual slide systems offer higher diagnostic accuracy when compared with static-image telepathology, there are drawbacks to each. Real-time systems perform best on [[local area network]]s (LANs), but performance may suffer if employed during periods of high network traffic or using the Internet proper as a backbone. Expense is an issue with real-time systems and virtual slide systems as they can be costly.  Virtual slide telepathology is emerging as the technology of choice for telepathology services.  However, high throughput virtual slide scanners (those producing one virtual slide or more per minute) are currently expensive.  Also, virtual slide digital files are relatively large, often exceeding one [[gigabyte]] in size.  Storing and simultaneously retrieving large numbers of telepathology whole-slide image files can be cumbersome, introducing their own workflow challenges in the clinical laboratory.
+
+== Uses and benefits of telepathology ==
+
+Telepathology is currently being used for a wide spectrum of clinical applications including diagnosing of [[frozen section]] [[Laboratory specimen|specimens]],<ref>
+
+ {{Citation
+  |  last =  Evans  |  first = AJ
+  |  last2 = Chetty  |  first2 = R
+  |  last3 = Clarke  |  first3 = BA
+  |  last4 = Croul  |  first4 = S
+  |  last5 = Ghazarian  |  fist5 = DM
+  |  last6 = Kiehl  |  first6 = TR
+  |  last7 = Ordonez  |  first7 = BP
+  |  last8 = Ilaalagan  |  first8 = S
+  |  last9 = Asa  |  first9 = SL
+  |  title = Primary frozen section diagnosis by robotic microscopy and virtual slide telepathology: the University Health Network experience.
+  |  journal = Hum Pathol
+  |  year = 2009
+  |  pages= 1069–1081
+  |  volume = 40
+  |  id = }}
+
+</ref> primary [[histopathology]] diagnoses,<ref>
+{{Citation
+  |  last =  Dunn
+  |  first = BE
+  |  last2 = Choi
+  |  first2 = H
+  |  last3 = Recla
+  |  first3 = DL
+  |  last4 = Kerr
+  |  first4 = SE
+  |  last5 = Wagenman
+  |  first5 = BL
+  |  title = Robotic surgical telepathology between the Iron Mountain and Milwaukee Department of Veterans Affairs Medical Centers: a 12-year experience.
+  |  journal = Hum Pathol
+  |  year = 2009
+  |  volume = 40
+  |  pages= 1092–1099
+  |  id = }}
+
+</ref> [[second opinion]] diagnoses,<ref>
+{{Citation
+  |  last = Graham
+  |  first = AR
+  |  last2 = Bhattacharyya
+  |  first2 = AK
+  |  last3 = Scott
+  |  first3 = KM
+  |  last4 = Lian
+  |  first4 = F
+  |  last5 = Grasso
+  |  first5 = LL
+  |  last6 = Richter
+  |  first6 = LC
+  |  last7 = Henderson
+  |  first7 = JT
+  |  last8 = Carpenter
+  |  first8 = JB
+  |  last9 = Lopez
+  |  first9 = AM
+  |  last10 = Barker
+  |  first10 = GP
+  |  last11 = Weinstein
+  |  first11 = RS
+  |  title = Virtual slide telepatholgoy for an academic teaching hospital surgical patholgoy quality assurance program.
+  |  journal = Hum Pathol
+  |  year = 2009
+  |  volume = 40
+  |  pages = 1129–1136
+  |  id = }}
+
+</ref>  subspecialty pathology expert diagnoses,<ref>
+{{Citation
+  |  last = Massone
+  |  first = C
+  |  last2 = Soyer
+  |  first2 = HP
+  |  last3 = Lozzi
+  |  first3 = GP
+  |  last4 = DiStefani
+  |  first4 = A
+  |  last5 = Leinweber
+  |  first5 = B
+  |  last6 = Gabler
+  |  first6 = G
+  |  last7 = et al
+  |  title = Feasibility and diagnostic agreement in teledermatology using a virtual slide system
+  |  journal = Hum Pathol
+  |  volume = 38
+  |  pages = 546–554
+  |  id = }}
+
+</ref>  education,<ref>
+
+{{Citation
+  |  last = Dee
+  |  first = FR
+  |  title = Virtual microscopy in pathology education
+  |  journal = Hum Pathol
+  |  year = 2009
+  |  volume = 40
+  |  pages = 1112–1121
+  |  id = }}
+
+</ref> compentency assessment,<ref>
+
+{{Citation
+  |  last =  Bruch
+  |  first = LA
+  |  last2 = De Young
+  |  first2 = BR
+  |  last3 = Kreiter
+  |  first3 = CD
+  |  last4 = Haugen
+  |  first4 = TH
+  |  last5 = Leaven
+  |  first5 = TC
+  |  last6 = Dee
+  |  first6 = FR
+  |  title = Competency assessment of residents in surgical pathology using virtual microscopy.
+  |  journal = Hum Pathol
+  |  year = 2009
+  |  volume = 40
+  |  pages = 1122–1128
+  |  id = }}
+
+</ref> and research.  Benefits of telepathology include providing immediate access to off-site pathologists for rapid frozen section diagnoses.  Another benefit can be gaining direct access to subspecialty pathologists such as a [[renal pathology|renal pathologist]], a [[neuropathologist]], or a [[dermatopathologist]], for immediate consultations.
+
+== Telepathology services by country ==
+=== Canada ===
+
+[[Canada Health Infoway]] is the organization responsible for the implementation of telepathology in [[Canada]]. Canada Health Infoway is a federal non-profit which provides funding for improving digital health infrastructure.
+
+Canada Health Infoway has targeted funding of $1.2 million CAD to the Telepathology Solution for the province of [[British Columbia]].<ref>{{Citation 
+|url=http://www.health.gov.bc.ca/library/publications/annualrpts/irmp/IRMP_07_08_web.pdf 
+|title=Information Resource Management Plan 2007/08  
+|publisher=British Columbia Ministry of Health Knowledge Management and Technology Division  
+|accessdate=November 23, 2011
+}}</ref> The system is designed to connect all pathologists within the province. The long-term expectations are improvement to patient care and safety through access to pathology expertise, improved timeliness of results and quality of service.
+
+In [[Ontario]], the [[University Health Network]] (UHN) hospitals are the primary drivers of the development of telepathology. The three northern Ontario communities of [[Timmins]], [[Sault Ste. Marie, Ontario|Sault Ste. Marie]] and [[Kapuskasing]] have several community hospitals virtually linked to UHN pathologists via the Internet 24 hours a day.<ref>{{Citation 
+|url=https://www.infoway-inforoute.ca/lang-en/about-infoway/news/news-releases/613-uhn-establishes-first-telepathology-system-in-ontario 
+|title=UHN establishes first telepathology system in Ontario 
+|work=News Releases 
+|publisher=[[Canada Health Infoway]] 
+|accessdate=November 23, 2011
+}}</ref>
+
+== See also ==
+
+* [[Anatomical Pathology]]
+* [[Cytopathology]]
+* [[Digital pathology]]
+* [[Microscopy]]
+* [[Medical laboratory]]
+* [[Virtual microscope]]
+* [[Virtual slide]]
+
+== References ==
+
+{{Reflist|2}}
+
+;Bibliography
+
+* Cross SS, Dennis T, Start RD. Telepathology: current status and future prospects in diagnostic histopathology. Histopathology 2002; 41:91-109.
+
+* Della Mea V, Beltrami CA. Current experiences with internet telepathology and possible evolution in the next generation of Internet services. Anal Cell Pathol 2000; 21:127-34.
+
+* Frierson HF Jr, Galgano MT. Frozen-section diagnosis by wireless telepathology and ultra portable computer: use in pathology resident/faculty consultation. Hum Pathol 2007; 38:1330-4.
+
+* Halliday BE, Bhattacharyya AK, Graham AR, et al. Diagnostic accuracy of an international static-imaging telepathology consultation service. Hum Pathol 1997; 28:17-21.
+
+* Kaplan KJ, Burgess JR, Sandberg GD, et al. Use of robotic telepathology for frozen-section diagnosis: a retrospective trial of a telepathology system for intraoperative consultation. Mod Pathol 2002; 15:1197–1204.
+
+* Krupinski E, Weinstein RS, Bloom KJ, Rozek LS.  Progress in telepathology: System implementation and testing.  Advances in Path Lab Med 1993; 6:63-87.
+
+* Krupinski EA. Virtual slide telepathology workstation-of-the-future: lessons learned from teleradiology. Semin Diagn Pathol 2009; 26:194-205.
+
+* Leung ST, Kaplan KJ. Medicolegal aspects of telepathology. Hum Pathol 2009; 40:1137-1142.
+
+* Maiolino P, De Vico G. Telepathology in veterinary diagnostic cytopathology. In: Kumar S, Dunn BE, editors. Telepathology. Berlin, Springer, 2009; 6:63-69.
+
+* Nordrum I, Eide TJ. Remote frozen section service in Norway. Arch Anat Cytol Pathol 1995; 43:253-256.
+
+* O'Malley DP. Practical applications of telepathology using morphology-based anatomic pathology. Arch Pathol Lab Med 2008; 132:743-4.
+
+* Schroeder JA. Ultrasructural telepathology: remote EM diagnostic via Internet. In: Kumar S, Dunn BE, editors. Telepathology. Berlin, Springer, 2009; 14:179-204.
+
+* Sinard JH. Practical pathology informatics. New York, Springer. 2006:265-286.
+
+* Weinstein RS:  Prospects for telepathology.  (Editorial), Human Path 1986;   17:433 434.
+
+* Weinstein RS, Bhattacharyya AK, Graham AR, et al. Telepathology: a ten-year progress report. Hum Pathol 1997;28:1–7.
+
+* Weinstein RS, Bloom KJ, Rozek LS: Telepathology and the networking of pathology diagnostic services.  Arch Path Lab Med 1987; 111:646-652.
+
+* Weinstein RS, Descour MR, Liang C, et al. Telepathology overview: from concept to implementation. Hum Pathol 2001; 32:1283-99.
+
+* Weinstein RS, Graham AM, Richter LC, Barker GP, Krupinski EA, Lopez AM, Erps KA, Yagi Y, Gilbertson JR, Bhattacharyya AK. Overview of telepathology, virtual microscopy and whole slide imagining: Prospects for the future. Hum Pathol, 2009; 40: 1057-1069.
+
+* Williams S, Henricks WH, Becich MJ, et al. Telepathology for patient care: what am I getting myself into? Adv Anat Pathol 2010; 17:130-49.
+
+== External links ==
+=== Informative sites or links ===
+* [http://www.AccelPath.com/ Accelpath - Accelerated Digital Telepathology - Digital Pathology and Telepathology solutions]
+* [http://www.pathinformatics.pitt.edu/ APIII] (a national pathology informatics meeting's website with archived presentations and contact information for faculty)
+* [http://www.pathologyvisions.com/index.html Pathology Visions] (a national digital pathology conference)
+* [http://www.pathologyinformatics.org/ Association for Pathology Informatics]
+* [http://www.digitalpathologyassociation.org/ Digital Pathology Association]
+* [http://www.tissuepathology.typepad.com/ Digital Pathology Blog]
+* [http://www.americantelemed.org/i4a/pages/index.cfm?pageid=1 American Telemedicine Association]
+* [http://www.cap.org/apps/cap.portal College of American Pathologists]
+* [http://www.uscap.org/home.htm United States and Canadian Academy of Pathology]
+
+=== Links to articles ===
+* [http://iospress.metapress.com/content/hgjhbq80evk7x8un/ New Developments in Digital Pathology: from Telepathology to Virtual Pathology Laboratory]
+* [http://acl.ldc.upenn.edu/W/W04/W04-0607.pdf Feeding OWL: Extracting and Representing the Content of Pathology Reports]
+* [http://www.springerlink.com/content/17k5vbjjawljmrd7/ Organizing Knowledge in a Semantic Web for Pathology]
+
+=== Academic digital pathology sites ===
+* [http://www.brown.edu/Courses/Digital_Path/ Welcome to Digital Pathology at Brown Medical School]
+* [http://www.telepatologia.onkol.kielce.pl/index.php?page=wszystkie_slajdy Holycross Cancer Center (Poland, Kielce) Pathomorphology Department virtual slides]
+* [http://telepathology.upmc.edu/ Digital Pathology Imaging Group at University of Pittsburgh Medical Center]
+
+=== Other relevant sites ===
+
+*  [http://portal.acm.org/citation.cfm?id=1282562.1282636&jmp=cit&coll=GUIDE&dl=GUIDE&CFID=72380999&CFTOKEN=86827451#CIT/ Digital pathology: DICOM-conform draft, testbed, and first results]
+*  [http://www.flagshipbio.com/blog/ Guidon Blog on whole slide image analysis]
+*  [http://openslide.cs.cmu.edu/ OpenSlide - C library that provides a simple interface to read whole-slide images].
+*  [http://web-pathology.net/ Web-based Telepathology service and network].
+
+[[Category:Pathology]]
+[[Category:Microscopy]]
+[[Category:Telehealth]]
+[[Category:Medical specialties]]
+[[Category:Health informatics]]

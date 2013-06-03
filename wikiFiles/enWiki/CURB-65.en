@@ -1,0 +1,58 @@
+{|class="wikitable" align="right"
+|-
+!colspan=2| CURB65
+|-
+! Symptom !! Points
+|-
+| '''C'''onfusion ||<center>1</center>
+|-
+| '''U'''rea>7mmol/l ||<center>1</center>
+|-
+| '''R'''espiratory rate>30 ||<center>1</center>
+|-
+| S'''B'''P<90mmHg, D'''B'''P<60mmHg||<center>1</center>
+|-
+| Age>='''65''' ||<center>1</center>
+|}
+
+'''CURB-65''', also known as the CURB criteria, is a [[clinical prediction rule]] that has been validated for predicting mortality in [[community-acquired pneumonia]]<ref name="pmid12728155">{{cite journal |author=Lim WS, van der Eerden MM, Laing R, ''et al.'' |title=Defining community acquired pneumonia severity on presentation to hospital: an international derivation and validation study |journal=Thorax |volume=58 |issue=5 |pages=377–82 |year=2003 |pmid=12728155 |doi=10.1136/thorax.58.5.377 |pmc=1746657}}</ref> and infection of any site.<ref name="pmid17576773">{{cite journal |author=Howell MD, Donnino MW, Talmor D, Clardy P, Ngo L, Shapiro NI |title=Performance of severity of illness scoring systems in emergency department patients with infection |journal=Academic Emergency Medicine |volume=14 |issue=8 |pages=709–14 |year=2007 |pmid=17576773 |doi=10.1197/j.aem.2007.02.036}}</ref> The CURB-65 is based on the earlier CURB score<ref name="pmid11254821">{{cite journal |author=Lim WS, Macfarlane JT, Boswell TC, ''et al.'' |title=Study of community acquired pneumonia aetiology (SCAPA) in adults admitted to hospital: implications for management guidelines |journal=Thorax |volume=56 |issue=4 |pages=296–301 |year=2001 |pmid=11254821 |doi=10.1136/thorax.56.4.296 |pmc=1746017}}</ref> and is recommended by the [[British Thoracic Society]] for the assessment of severity of pneumonia.<ref name="pmid11713364">{{cite journal |author= |title=BTS Guidelines for the Management of Community Acquired Pneumonia in Adults |series= 56 |journal=Thorax |volume=Suppl 4 |issue= |pages=IV1–64 |year=2001 |pmid=11713364 |doi= |author1= British Thoracic Society Standards of Care Committee |pmc= 1765992}}</ref>
+
+The score is an [[Wiktionary:acronym|acronym]] for each of the risk factors measured.  Each risk factor scores one point, for a maximum score of 5:
+* '''C'''onfusion of new onset (defined as an [[abbreviated mental test score|AMT]] of 8 or less)
+* '''U'''rea greater than 7&nbsp;mmol/l (19&nbsp;mg/dL)
+* '''R'''espiratory rate of 30 breaths per minute or greater
+* '''B'''lood pressure less than 90 mmHg systolic or diastolic blood pressure 60 mmHg or less
+* age '''65''' or older
+
+==Predicting death==
+===Pneumonia===
+The risk of death at 30 days increases as the score increases:<ref name="pmid12728155">{{cite journal |author=Lim WS, van der Eerden MM, Laing R, ''et al.'' |title=Defining community acquired pneumonia severity on presentation to hospital: an international derivation and validation study |journal=Thorax |volume=58 |issue=5 |pages=377–82 |year=2003 |pmid=12728155 |doi=10.1136/thorax.58.5.377 |pmc=1746657}}</ref>
+* 0&mdash;0.7%
+* 1&mdash;3.2%
+* 2&mdash;13.0%
+* 3&mdash;17.0%
+* 4&mdash;41.5%
+* 5&mdash;57.0%
+
+The CURB-65 has been compared to the [[pneumonia severity index]] in predicting mortality from pneumonia.<ref name="pmid15808136">{{cite journal |author=Aujesky D, Auble TE, Yealy DM, ''et al.'' |title=Prospective comparison of three validated prediction rules for prognosis in community-acquired pneumonia |journal=Am. J. Med. |volume=118 |issue=4 |pages=384–92 |year=2005 |pmid=15808136 |doi=10.1016/j.amjmed.2005.01.006}}</ref>  It was shown that the PSI has a higher discriminatory power for short-term mortality, and thus is more accurate for low risk patients than the CURB-65 or its predecessor, the CURB score.<ref name="pmid11254821">{{cite journal |author=Lim WS, Macfarlane JT, Boswell TC, ''et al.'' |title=Study of community acquired pneumonia aetiology (SCAPA) in adults admitted to hospital: implications for management guidelines |journal=Thorax |volume=56 |issue=4 |pages=296–301 |year=2001 |pmid=11254821 |doi=10.1136/thorax.56.4.296 |pmc=1746017}}</ref>
+
+It is used as a means of deciding the action that is needed to be taken for that patient.  
+*0-1: Treat as an outpatient
+*2-3: Consider a short stay in hospital or watch very closely as an outpatient
+*4-5: Requires hospitalization with consideration as to whether they need to be in the intensive care unit
+
+===Any infection===
+Patients with any type of infection (half of the patients had pneumonia), the risk of death increases as the score increases<ref name="pmid17576773"/>:
+* 0 to 1 <5% mortality
+* 2 to 3 < 10% mortality
+* 4 to 5 15-30% mortality
+
+==References==
+{{reflist|2}}
+
+{{Respiratory system procedures}}
+
+[[Category:Pulmonology]]
+[[Category:Medical scales]]
+
+{{med-stub}}

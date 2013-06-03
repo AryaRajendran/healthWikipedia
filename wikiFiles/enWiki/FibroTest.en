@@ -1,0 +1,121 @@
+{{COI|date=September 2009}}
+
+'''FibroTest''', known as FibroSure in the US, is a patented [[biomarker]] test that uses the results of six [[blood serum]] tests to generate a score that is correlated with the degree of [[liver]] damage in people with a variety of liver diseases. FibroTest has the same prognostic value as a liver biopsy.
+
+FibroTest has been evaluated in relation to [[liver biopsy]] (the current reference standard in liver disease assessment) in a large number of patients with [[hepatitis C]],<ref name="pmid16931569" /> [[hepatitis B]],<ref name="pmid18973844" /> [[alcoholic liver disease]],<ref name="pmid15704051" /> [[Non-alcoholic fatty liver disease]]<ref name="pmid16503961" /> and in the general population. By 2008 it had been used in over 350,000 patients.<ref name="pmid18973844">{{cite journal |author= Halfon P, Munteanu M, Poynard T|title= FibroTest-ActiTest as a non-invasive marker of liver ﬁbrosis  |journal= Gastroenterol Clin Biol |volume=32|issue=6 |pages=22–39 |year=2008 |pmid= 18973844 |doi=10.1016/S0399-8320(08)73991-5}}</ref> FibroTest has been validated for the initial diagnosis of fibrosis, but also for the monitoring of patients.{{Citation needed|date=September 2009}}  In 2006, the French National Authority for Health recommended the use of FibroTest as a first-line assessment tool for fibrosis with untreated chronic hepatitis C.<ref>[http://www.has-sante.fr/portail/jcms/c_476504/prise-en-charge-des-patients-a-risque-de-cirrhose-amelioration-de-levaluation-de-la-fibrose-hepatique-et-du-diagnostic-de-la-cirrhose-non-compliquee Publication of 'Haute Autorité de Santé' (fr)]</ref>
+
+==Procedure==
+The FibroTest score is calculated from the results of a six-parameter blood test, combining six serum markers with the age and gender of the patient: [[Alpha-2-macroglobulin]], [[Haptoglobin]], [[Apolipoprotein A1]], [[Gamma-glutamyl transpeptidase]] (GGT), Total [[bilirubin]], and [[Alanine transaminase]] (ALT). ALT is used in a second assessment called ActiTest that is part of FibroTest.
+
+The equation for calculating the FibroTest score regression coefficient ([[logistic regression]]) is:<ref>[http://www.patentstorm.us/patents/6631330/fulltext.html U.S. patent 6,631,330]</ref>
+
+<math>z=4.467\times \log_{10} [\alpha2 macroglobulin (g/L)]-1.357\times\log_{10} [Haptoglobin (g/L)] + 1.017 \times \log_{10} [GGT (IU/L)] + 0.0281 \times [Age (years)]</math>
+
+:<math>+ 1.737 \times \log_{10} [Bilirubin (\mu mol/L)] - 1.184 \times [Apo A1 (g/L)] + 0.301 \times Sex (female=0, male=1)-5.54</math>
+
+Due to variability of components assays and analyzers, FibroTest assays can only be performed in validated laboratories.<ref name="pmid15080567">{{cite journal |author= Imbert-Bismut F, Messous D, Thibault V, Myers RB, Piton A, Thabut D, et al. |title= Intra-laboratory analytical variability of biochemical markers of fibrosis (Fibrotest) and activity (Actitest) and references ranges in healthy blood donors.  |journal= Clin Chem Lab Med| volume=42|pages=323–333 |year=2004 |pmid=15080567 |doi= 10.1515/CCLM.2004.058 |issue= 3 }}</ref> FibroTest cannot be used without algorithms that detects false positives and false negatives; the equation alone is not a diagnosis tool.
+
+The laboratory or physician connects to the BioPredictive website<ref>[http://www.biopredictive.com FibroTest website]</ref> for calculation of the test results and prints the results sheet, which is available immediately and is accompanied by an interpretation aid and precautions for use.
+
+==Applicability==
+Over 95% of tests are interpretable and allow a diagnosis of fibrosis and liver activity. In less than 5% of cases, likely false positives or false negatives are highlighted. FibroTest has been validated for chronic [[hepatitis C]],<ref name="pmid16931569">{{cite journal |author= Ngo Y, Munteanu M, Messous D, Charlotte F, Imbert-Bismut F, Thabut D, Lebray P, Thibault V,Benhamou Y, Moussalli J, Ratziu V, Poynard T|title= A prospective analysis of the prognostic value of biomarkers (FibroTest) in patients with chronic hepatitis C  |journal= Clin Chem| volume=52|pages=1887–96 |year=2006 |pmid=16931569 |doi= 10.1373/clinchem.2006.070961 |issue= 10 }}</ref> chronic [[hepatitis B]],<ref name="pmid18973844" /> chronic hepatitis C or B with HIV co-infection,<ref name="pmid18314219">{{cite journal |author= Cacoub P, Carrat F, Bédossa P, Lambert J, Pénaranda G, Perronne C, Pol S, Halfon P. |title= Comparison of non-invasive liver fibrosis biomarkers in HIV/HCV co-infected patients: The Fibrovic study - ANRS HC02 |journal= J Hepatol.| volume=48|pages=765–73 |year=2008 |pmid=18314219 |doi= 10.1016/j.jhep.2008.01.025 |issue= 5}}</ref> alcoholic liver diseases (steatosis and steatohepatitis),<ref name="pmid15704051">{{cite journal |author= Naveau et al |title= Diagnostic and prognostic values of non-invasive biomarkers of fibrosis in patients with alcoholic liver disease |journal= Clin Gastroenterol Hepatol |volume=49|pages=97–10 |year=2009 |pmid= 15704051 |doi= 10.1002/hep.22576 |last2= Raynard |first2= B |last3= Ratziu |first3= V |last4= Abella |first4= A |last5= Imbert-Bismut |first5= F |last6= Messous |first6= D |last7= Beuzen |first7= F |last8= Capron |first8= F |last9= Thabut |first9= D |issue= 2}}</ref> and non-alcoholic steatohepatitis (diabetes, overweight, hypertriglyceridemia, hypercholesterolemia, hypertension).<ref name="pmid16503961">{{cite journal |author= Ratziu et al |title= Diagnostic value of biochemical markers (FibroTest-FibroSURE) for the prediction of liver fibrosis in patients with non-alcoholic fatty liver disease |journal= BMC Gastroenterology |volume=6 |pages=6 |year=2006 |pmid=16503961 |last2= Massard |first2= J |last3= Charlotte |first3= F |last4= Messous |first4= D |last5= Imbert-Bismut |first5= F |last6= Bonyhay |first6= L |last7= Tahiri |first7= M |last8= Munteanu |first8= M |last9= Thabut |first9= D |doi= 10.1186/1471-230X-6-6 |pmc= 1386692}}</ref>
+
+FibroTest is independent of ethnic origin, sex, genotype, viral load, transaminases or the presence of comorbidities. The test has been validated in those over the age of 65 years,<ref name="pmid16771947">{{cite journal|author= Thabut et al |title= Hepatitis C in 6,865 patients 65 yr or older: a severe and neglected curable disease |journal= Am J Gastroenterol. |volume=101|issue=6 |pages=1260–7 |year=2006|pmid=16771947|doi= 10.1111/j.1572-0241.2006.00556.x|last2= Le Calvez|first2= S|last3= Thibault|first3= V|last4= Massard|first4= J|last5= Munteanu|first5= M|last6= Di Martino|first6= V|last7= Ratziu|first7= V|last8= Poynard|first8= T}}</ref> children,<ref name="pmid19726147 ">{{cite journal |author= Hermeziu B et al |title= Evaluation of FibroTest-ActiTest in children with chronic hepatitis C virus infection |journal= Gastroenterol Clin Biol| year=2009 |pmid= 19726147 |volume= 34 |issue= 1 |pages= 16–22 |doi= 10.1016/j.gcb.2009.06.007}}</ref> patients with renal insufficiency or renal transplanation, hemophiliacs, patients with chronic inflammatory disease, and the general population.
+
+The tests are not applicable in 1 to 5% of cases. These cases can be detected by laboratory safety algorithms and when detected they are indicated on the results sheet:<ref name="pmid18973844" />
+
+* Acute hepatitides, e.g., acute viral hepatitis A, B, C, D, E; drug-induced hepatitis
+
+* Extrahepatic cholestasis, e.g., pancreatic cancer, gallstones
+
+* Severe hemolysis, e.g., some cardiac valves
+
+* Gilbert's syndrome with high unconjugated hyperbilirubinemia
+
+* Acute inflammatory syndrome (the blood test may be postponed)
+
+==Interpretation==
+[[Image:fibrotest.jpg|thumb|right|alt=FibroTest result|The FibroTest score (in this case 0.88) may indicate the presence of [[cirrhosis]].]]
+
+The conversion of FibroTest score into stages according to the three most used histological classifications (METAVIR, Knodell and Ishak) for [[Liver biopsy|liver biopsies]] is:
+
+{| class="wikitable"
+|-
+
+! FibroTest
+
+! METAVIR
+
+! Knodell
+
+! Ishak
+|-
+|0.75-1.00
+|F4
+|F4
+|F6
+|-
+|0.73-0.74
+|F3-F4
+|F3-F4
+|F5
+|-
+|0.59-0.72
+|F3
+|F3
+|F4
+|-
+|0.49-0.58
+|F2
+|F1-F3
+|F3
+|-
+|0.32-0.48
+|F1-F2
+|F1-F3
+|F2-F3
+|-
+|0.28-0.31
+|F1
+|F1
+|F2
+|-
+|0.22-0.27
+|F0-F1
+|F0-F1
+|F1
+|-
+|0.00-0.21
+|F0
+|F0
+|F0
+|}
+
+==Comparison with liver biopsy==
+[[Liver biopsy]] is an imperfect tool; due to sampling errors, biopsy size (5 to 30&nbsp;mm) and intra- and interobservor variability, it is now agreed that biopsy is an "imperfect [[Gold Standard]]".  Biopsy continues to present inconveniences: 30% of patients complain of pain, up to 3% have been noted to have complications severe enough to require hospitalization<ref name="pmid8416324">{{cite journal|author= Janes and Lindor |title= Outcome of patients hospitalized for complications after outpatient liver biopsy.|first2= KD|last2= Lindor|last=Janes|journal= Ann Intern Med |volume=118|issue=2 |pages=96–8 |year=1993|pmid= 8416324}}</ref><ref name="pmid9581674">{{cite journal|author= Pasha et al. |title= Cost-effectiveness of ultrasound-guided liver biopsy.|first5= Keith D.|last5= Lindor|first4= E. Rolland|last4= Dickson|first3= Terry|last3= Therneau|first2= Sherine|last2= Gabriel|last=Pash|journal= Hepatology|volume=27|issue=5 |pages=1220–6 |year=1998|pmid= 9581674 |doi=10.1002/hep.510270506}}</ref> and a 0.01-0.3% rate of deaths has been reported.<ref name="pmid17051446">{{cite journal|author= Strassburg and Manns |title= Approaches to liver biopsy techniques-revisited.|first2= Michael|last2= Manns|last=Strassburg|journal= Semin Liver Dis |volume=26|issue=4 |pages=318–27 |year=2006|pmid= 17051446 |doi=10.1055/s-2006-951599}}</ref><ref name="pmid7698705">{{cite journal|author= Gilmore et al. |title= Indications, methods, and outcomes of percutaneous liver biopsy in England and Wales: an audit by the British Society of Gastroenterology and the Royal College of Physicians of London.|first6= A|last6= Hopkins|first5= D|last5= Jenkins|first4= R|last4= Williams|first3= I M|last3= Murray-Lyon|first2= A|last2= Burroughs|last=Gilmore|journal= Gut |volume=36|issue=3 |pages=437–41 |year=1995|pmid=7698705|pmc= 1382461 |doi=10.1136/gut.36.3.437}}</ref><ref name="pmid8344104">{{cite journal|author= Froehlich et al. |title= Practice and complications of liver biopsy. Results of a nationwide survey in Switzerland.|first4= JJ|last4= Gonvers|first3= M|last3= Fried|first2= O|last2= Lamy|last=Froehlich|journal= Dig Dis Sci |volume=38|issue=8 |pages=1480–4 |year=1993|pmid=8344104}}</ref>
+
+There is a mean discordance of 25% between FibroTest and biopsy. Half of these discordances are attributable to an error of the biopsy, often too small, and the other half to FibroTest.<ref name="pmid15192028">{{cite journal|author= Poynard et al |title= Prospective analysis of discordant results between biochemical markers and biopsy in patients with chronic hepatitis C. |journal= Clin Chem |volume=50|issue=8 |pages=1344–55 |year=2004|pmid= 15192028|doi= 10.1373/clinchem.2004.032227|last2= Munteanu|first2= M|last3= Imbert-Bismut|first3= F|last4= Charlotte|first4= F|last5= Thabut|first5= D|last6= Le Calvez|first6= S|last7= Messous|first7= D|last8= Thibault|first8= V|last9= Benhamou|first9= Y}}</ref> The inventors report that FibroTest has comparable diagnostic and prognostic value as a 25&nbsp;mm biopsy, while being noninvasive and easily repeatable.<ref name="pmid16931569" /><ref name="pmid15704051" /><ref name="pmid18596917">{{cite journal|author= Ngo et al |title= An accurate definition of the status of inactive hepatitis B virus carrier by a combination of biomarkers (FibroTest-ActiTest) and viral load. |journal= PLoS ONE |volume=3|issue=7|year=2008|pmid= 18596917|editor1-first= Niyaz|last2= Benhamou|first2= Y|last3= Thibault|first3= V|last4= Ingiliz|editor1-last= Ahmed|first4= P|last5= Munteanu|first5= M|last6= Lebray|first6= P|last7= Thabut|first7= D|last8= Morra|first8= R|last9= Messous|first9= D|pages= e2573|doi= 10.1371/journal.pone.0002573|pmc= 2440801}}</ref>
+
+==FibroTest derivatives==
+Four other tests derive from FibroTest, and are part of the FibroMax package of tests:
+
+* ActiTest: diagnostic of necrotico-inflammatory for hepatitis;
+
+* SteaoTest: diagnostic for liver [[steatosis]];
+
+* NashTest: diagnostic for [[NASH]] (Non-alcoholic fatty liver disease) inflammation;
+
+* AshTest: diagnostic for [[Alcoholic liver disease]] inflammation.
+
+==Patent, License==
+FibroTest tests and derivatives are patented since 2001 by APHP ([[Assistance publique - Hôpitaux de Paris]]), the Parisian public hospital system. In the US, FibroTest is marketed as FibroSure (a [[LabCorp]] trademark). [[BioPredictive]] is the company licensed by APHP to promote and operate the tests.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.biopredictive.com/ FibroTest website]
+
+{{DEFAULTSORT:Fibrotest}}
+[[Category:Blood tests]]
+[[Category:Hepatology]]

@@ -1,0 +1,175 @@
+{{Redirect|COCl2|the compound CoCl<sub>2</sub>|Cobalt(II) chloride}}
+{{distinguish|phosphine|phosphene|oxalyl chloride|phosgene oxime}}
+{{chembox
+| verifiedrevid = 444050518
+|   Reference=<ref>''[[Merck Index]]'', 11th Edition, '''7310'''.</ref>
+|   Name = Phosgene
+|   ImageFileL1_Ref = {{chemboximage|correct|??}}
+|   ImageFileL1 = Phosgene-dimensions-2D.svg
+|   ImageSizeL1 = 126px
+|   ImageNameL1 = Full structural formula with dimensions
+|   ImageFileR1 = Phosgene-3D-vdW.png
+|   ImageSizeR1 = 116px
+|   ImageNameR1 = Space-filling model
+|   IUPACName = Carbonyl dichloride
+| OtherNames = CG; carbon dichloride oxide; carbon oxychloride; Chloroformyl chloride; dichloroformaldehyde; dichloromethanone
+| Section1 = {{Chembox Identifiers
+|   ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 29365
+| SMILES = ClC(Cl)=O
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6131
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 117K140075
+| InChI = 1/CCl2O/c2-1(3)4
+| InChIKey = YGYAWVDWMABLBF-UHFFFAOYAH
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/CCl2O/c2-1(3)4
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YGYAWVDWMABLBF-UHFFFAOYSA-N
+| CASNo = 75-44-5
+|    CASNo_Ref = {{cascite|correct|CAS}}
+|   RTECS = SY5600000
+|   EINECS = 200-870-3
+|   UNNumber = 1076
+|   PubChem = 6371
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = CCl<sub>2</sub>O
+|   MolarMass = 98.92 g mol<sup>−1</sup>
+|   Appearance = colorless gas
+|   Density = 4.248 g/L (15&nbsp;°C, gas)<br>1.432 g/cm<sup>3</sup> (0&nbsp;°C, liquid)
+|   Solubility = decomposes in water<Ref>http://www.inchem.org/documents/icsc/icsc/eics0007.htm</ref>
+|   SolubleOther = soluble in [[benzene]], [[toluene]], [[acetic acid]] <br> decomposes in [[alcohol]] and [[acid]]
+|   MeltingPtC = −118
+|   BoilingPtC = 8.3
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = Planar, trigonal
+|   Dipole = 1.17 [[Debye|D]]
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://www.inchem.org/documents/icsc/icsc/eics0007.htm ICSC 0007]
+|   EUIndex = 006-002-00-8
+|   EUClass = Very toxic ('''T+''')
+|   RPhrases = {{R26}} {{R34}}
+|   SPhrases = {{S1/2}} {{S9}} {{S26}} {{S36/37/39}} {{S45}}
+|   NFPA-H = 4
+|   NFPA-F = 0
+|   NFPA-R = 1
+|   FlashPt = non-flammable
+|   TLV = 0.1 ppm
+  }}
+| Section8 = {{Chembox Related
+|   OtherCpds = [[Thiophosgene]]<br/>[[Formaldehyde]]<br/>[[Carbonic acid]]<br/>[[Urea]]<br/>[[Carbon monoxide]]<br/>[[Chloroformic acid]]
+  }}
+}}
+
+'''Phosgene''' is the [[chemical compound]] with the [[chemical formula|formula]] COCl<sub>2</sub>. This colorless gas gained infamy as a [[chemical weapon]] during [[World War I]]. It is also a valued industrial reagent and building block in [[organic synthesis|synthesis]] of pharmaceuticals and other [[organic compound]]s. In low concentrations, its odor resembles freshly cut hay or grass.<ref>[http://emedicine.medscape.com/article/832454-overview CBRNE - Lung-Damaging Agents, Phosgene] May 27, 2009</ref> In addition to its industrial production, small amounts occur naturally from the breakdown and the [[combustion]] of [[Organochloride|organochlorine compound]]s, such as those used in [[refrigeration]] systems.<ref name=Ullmann>{{Ullmann's| author1 = Wolfgang Schneider | author2 =  Werner Diller | title = Phosgene | doi = 10.1002/14356007.a19_411}}</ref> The chemical was named by combining the Greek words 'phos' (meaning light) and genesis (birth); it does not mean it contains any [[phosphorus]] (cf. [[phosphine]]).
+
+==Structure and basic properties==
+Phosgene is a planar molecule as predicted by [[VSEPR theory]]. The C=O distance is 1.18&nbsp;[[angstrom (unit)|Å]], the C—Cl distance is 1.74&nbsp;Å and the Cl—C—Cl angle is 111.8°.<ref>{{cite journal | author = Nakata, M.; Kohata, K.; Fukuyama, T.; Kuchitsu, K. | title = Molecular Structure of Phosgene as Studied by Gas Electron Diffraction and Microwave Spectroscopy. The r<sub>z</sub> Structure and Isotope Effect | journal = [[Journal of Molecular Spectroscopy]] | year = 1980 | volume = 83 | pages = 105–117 | doi=10.1016/0022-2852(80)90314-8}}</ref> It is one of the simplest [[acid chloride]]s, being formally derived from [[carbonic acid]].
+
+==Production==
+Industrially, phosgene is produced by passing purified [[carbon monoxide]] and [[chlorine]] gas through a bed of porous [[activated carbon]], which serves as a [[catalyst]]:<ref name=Ullmann/>
+:CO + Cl<sub>2</sub> → COCl<sub>2</sub> (ΔH<sub>rxn</sub> = −107.6kJ/mol)
+The reaction is exothermic, therefore the reactor must be cooled. Typically, the reaction is conducted between 50 and 150&nbsp;°C. Above 200&nbsp;°C, phosgene reverts to carbon monoxide and chlorine, K<sub>eq</sub> (300K) = 0.05. World production of this compound was estimated to be 2.74 million tonnes in 1989.<ref name=Ullmann/>
+
+Because of safety issues, phosgene is almost always produced and consumed within the same plant and extraordinary measures are made to contain this toxic gas. It is listed on [[List of Schedule 3 substances (CWC)|schedule 3]] of the [[Chemical Weapons Convention]]: All production sites manufacturing more than 30 tonnes per year must be declared to the [[OPCW]].<ref>[http://www.opcw.org/html/db/cwc/eng/cwc_annex_verification_part_VIII.html Annex on Implementation and Verification ("Verification Annex")<!-- Bot generated title -->]</ref> Although less dangerous than many other [[chemical weapons]], such as [[sarin]], phosgene is still regarded as a viable [[chemical warfare agent]] because it is so easy to manufacture when compared to the production requirements of more technically advanced chemical weapons such as the first-generation [[nerve agent]] [[tabun (nerve agent)|tabun]].<ref>https://itportal.decc.gov.uk/cwc_files/S2AAD_guidance.pdf</ref>
+
+===Adventitious occurrence===
+Upon [[ultraviolet]] (UV) radiation in the presence of [[oxygen]], [[chloroform]] slowly converts into phosgene by a [[radical reaction]]. To suppress this [[photodegradation]], chloroform is often stored in brown-tinted glass containers. Chlorinated compounds used to remove oil from metals, such as automotive brake cleaners, are converted to phosgene by the UV rays of [[arc welding]] processes.<ref>{{cite web|title=Common Cleaners Can Turn Into Poison Gas|url=http://www.brewracingframes.com/id75.htm|work=[[American Iron Magazine]]|publisher=TAM Communications|accessdate=14 October 2011}}</ref> 
+
+Phosgene may also be produced during testing for leaks of older-style refrigerant gases. [[Chloromethane]]s ([[Dichlorodifluoromethane|R12]], [[Chlorodifluoromethane|R22]] and others) were formerly leak-tested in situ by employing a small gas torch ([[propane]], [[butane]] or [[propylene]] gas) with a sniffer tube and a copper reaction plate in the flame nozzle of the torch. If any refrigerant gas was leaking from a pipe or joint, the gas would be sucked into the flame via the sniffer tube and would cause a colour change of the gas flame to a bright greenish blue. In the process, phosgene gas would be created due to the thermal reaction. No valid statistics are available, but anecdotal reports suggest that numerous refrigeration technicians suffered the effects of phosgene poisoning due to their ignorance of the toxicity of phosgene, produced during such leak testing. Electronic sensing of refrigerant gases phased out the use of flame testing for leaks in the 1980s. Similarly, phosgene poisoning is a consideration for people fighting fires that are occurring in the vicinity of freon refrigeration equipment, smoking in the vicinity of a [[freon]] leak, or fighting fires using [[Halomethane|halon]] or halotron.
+
+==Uses==
+The great majority of phosgene is used in the production of [[isocyanate]]s, the most important being [[toluene diisocyanate]] (TDI) and [[methylene diphenyl diisocyanate]] (MDI). These isocyanates are precursors to [[polyurethane]]s.
+
+===Synthesis of carbonates===
+Significant amounts are also used in the production of [[polycarbonate]]s by its reaction with [[bisphenol A]].<ref name=Ullmann/> [[Polycarbonate]]s are an important class of engineering [[thermoplastic]] found, for example, in lenses in eye glasses. [[Diol]]s react with phosgene to give either linear or cyclic carbonates (R = H, alkyl, aryl):
+:HOCR<sub>2</sub>-X-CR<sub>2</sub>OH + COCl<sub>2</sub> → 1/n [OCR<sub>2</sub>-X-CR<sub>2</sub>OC(O)-]<sub>n</sub> + 2 HCl
+
+===Synthesis of isocyanates===
+The synthesis of [[isocyanate]]s from amines illustrates the [[electrophilic]] character of this reagent and its use in introducing the equivalent of "CO<sup>2+</sup>":<ref>{{OrgSynth | author = R. L. Shriner, W. H. Horne, and R. F. B. Cox | title = p-Nitrophenyl Isocyanate| collvol = 2 | collvolpages = 453| year = 1943 | prep = CV2P0453}}</ref>
+:RNH<sub>2</sub> + COCl<sub>2</sub> → RN=C=O + 2 HCl (R = [[alkyl]], [[aryl]])
+Such reactions are conducted in the presence of a base such as [[pyridine]] that absorbs the [[hydrogen chloride]].
+
+===Laboratory uses===
+In the research laboratory phosgene still finds limited use in [[organic synthesis]]. A variety of substitutes have been developed, notably trichloromethyl chloroformate ("[[diphosgene]]"), a liquid at room temperature, and bis(trichloromethyl) carbonate ("[[triphosgene]]"), a crystalline substance.<ref>Hamley, P. "Phosgene" ''Encyclopedia of Reagents for Organic Synthesis'', 2001 John Wiley, New York. {{DOI| 10.1002/047084289X.rp149}}</ref> Aside from the above reactions that are widely practiced industrially, phosgene is also used to produce [[acid chloride]]s and [[carbon dioxide]] from [[carboxylic acid]]s:
+:RCO<sub>2</sub>H + COCl<sub>2</sub> → RC(O)Cl + HCl + CO<sub>2</sub>
+Such acid chlorides react with amines and alcohols to give, respectively, amides and esters, which are commonly used intermediates. [[Thionyl chloride]] is more commonly and more safely employed for this application. A specific application for phosgene is the production of chloroformic esters:
+:ROH + COCl<sub>2</sub> → ROC(O)Cl + HCl
+
+==Other chemistry==
+Although it is somewhat hydrophobic, phosgene reacts with [[water]] to release [[hydrogen chloride]] and [[carbon dioxide]]:
+:COCl<sub>2</sub> + H<sub>2</sub>O → CO<sub>2</sub> + 2 HCl
+Analogously, with ammonia, one obtains [[urea]]:
+:COCl<sub>2</sub> + 4 NH<sub>3</sub> → CO(NH<sub>2</sub>)<sub>2</sub> + 2 NH<sub>4</sub>Cl
+Halide exchange with [[nitrogen trifluoride]] and [[aluminium tribromide]] gives [[COF2|COF<sub>2</sub>]] and [[COBr2|COBr<sub>2</sub>]], respectively.<ref name=Ullmann/>
+
+==History==
+Phosgene was synthesized by the [[United Kingdom|British]] chemist [[John Davy (chemist)|John Davy]] (1790–1868) in 1812 by exposing a mixture of carbon monoxide and chlorine to [[sunlight]]. He named it "phosgene" in reference of the use of light to promote the reaction; from [[Greek language|Greek]], ''phos'' (light) and ''gene'' (born).<ref>{{cite journal
+| title = On a Gaseous Compound of Carbonic Oxide and Chlorine
+| author = John Davy
+| journal = Philosophical Transactions of the Royal Society of London
+| volume = 102
+| year = 1812
+| pages = 144–151
+| doi = 10.1098/rstl.1812.0008
+| jstor=107310}}</ref> It gradually became important in the chemical industry as the 19th century progressed, particularly in dye manufacturing.
+
+===Chemical warfare===
+{{further2|[[Use of poison gas in World War I]]|[[Second Italo-Abyssinian War]]}}
+Following the extensive use of phosgene gas in combat during [[World War I]], it was stockpiled by various countries as part of their secret chemical weapons programs.<ref>[http://lithgow.yourguide.com.au/news/local/news/general/chemical-warfare-left-its-legacy/1237570.aspx Base's phantom war reveals its secrets], ''Lithgow Mercury'', 7/08/2008</ref><ref>[http://lithgow.yourguide.com.au/news/local/news/general/chemical-warfare-left-its-legacy/1266856.aspx Chemical warfare left its legacy], ''Lithgow Mercury'', 9/09/2008</ref><ref>[http://www.news.com.au/dailytelegraph/story/0,22049,24380097-5001021,00.html Chemical bombs sit metres from Lithgow families for 60 years], ''The Daily Telegraph'', September 22, 2008</ref>
+
+In May 1928, eleven tons of phosgene escaped from a war surplus store in central Hamburg.<ref name=Ryan154 /> 300 people were poisoned of whom 10 died.<ref name=Ryan154>{{cite book |title=Phosgene and Related Carbonyl Halides |last=Ryan |first=T.Anthony |year=1996 |publisher= Elsevier |location= |isbn=0444824456 |pages=154–155 |accessdate=June 15, 2012}}</ref> 
+
+[[File:Phosgene poster ww2.jpg|right|thumb|US Army phosgene identification poster from WW2.]]
+Phosgene was then only frequently used by the [[Imperial Japanese Army]] against the Chinese during the [[Second Sino-Japanese War]].<ref>Yuki Tanaka, "Poison Gas, the Story Japan Would Like to Forget", ''Bulletin of the Atomic Scientists'', October 1988, p. 16–17</ref> Gas weapons, such as phosgene, were produced by [[Unit 731]] and authorized by specific orders given by Hirohito ([[Emperor Showa]]) himself, transmitted by the [[Imperial General Headquarters|chief of staff of the army]]. For example, the Emperor authorized the use of toxic gas on 375 separate occasions during the [[battle of Wuhan]] from August to October 1938.<ref>Y. Yoshimi and S. Matsuno, ''Dokugasusen Kankei Shiryô II, Kaisetsu, Jugonen Sensô Gokuhi Shiryoshu'', 1997, p. 27–29</ref>
+
+==Safety==
+Phosgene is an insidious poison as the odor may not be noticed and symptoms may be slow to appear.<ref>{{cite journal
+| title = Phosgene exposure: mechanisms of injury and treatment strategies
+| author = Borak J., Diller W. F.
+| journal = Journal of Occupational and Environmental Medicine
+| year = 2001
+| volume = 43
+| issue = 2
+| pages = 110–9
+| pmid = 11227628
+ | doi = 10.1097/00043764-200102000-00008
+}}</ref>
+The [[odor detection threshold]] for phosgene is 0.4 ppm, four times the [[threshold limit value]]. Its high [[toxicity]] arises from the action of the phosgene on the [[protein]]s in the pulmonary [[alveoli]], the site of gas exchange: their damage disrupts the [[blood-air barrier]], causing suffocation. It reacts with the [[amine]]s of the proteins, causing crosslinking by formation of [[urea]]-like linkages, in accord with the reactions discussed above. Phosgene detection badges are worn by those at risk of exposure.<ref name=Ullmann/>
+
+[[Sodium bicarbonate]] may be used to neutralise liquid spills of phosgene. Gaseous spills may be mitigated with [[ammonia]].<ref>{{cite web | publisher = [[International Programme on Chemical Safety]] | title = Phosgene: Health and Safety Guide | year = 1998 | url = http://www.inchem.org/documents/hsg/hsg/hsg106.htm}}</ref>
+
+==See also==
+* [[Diphosgene]]
+* [[Triphosgene]]
+* [[Bhopal disaster]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://web.lemoyne.edu/~giunta/jdavy.html Davy's account of his discovery of phosgene]
+*[http://www.inchem.org/documents/icsc/icsc/eics0007.htm International Chemical Safety Card 0007]
+*[http://www.cdc.gov/niosh/topics/phosgene/ CDC - Phosgene - NIOSH Workplace Safety and Health Topic]
+*[http://www.cdc.gov/niosh/npg/npgd0504.html NIOSH Pocket Guide to Chemical Hazards]
+*[http://www.bt.cdc.gov/agent/phosgene/ U.S. CDC Emergency Preparedness & Response]
+*[http://www.epa.gov/oppt/aegl/results7.htm U.S. EPA Acute Exposure Guideline Levels]
+*[http://www.opcw.org/html/db/cwc/eng/cwc_annex_verification_part_VIII.html Regime For Schedule 3 Chemicals And Facilities Related To Such Chemicals], OPCW website
+*[http://cbwinfo.com/Chemical/Pulmonary/CG.shtml CBWInfo website]
+*[http://www.jlaw.com/Articles/NaziMedEx.html Use of Phosgene in WWII and in modern-day warfare] (Refer to Section 4.C of the article)
+*[http://www.brewracingframes.com/id75.htm An experience with accidental poisoning by heated tetrachlorethylene solvent]
+
+{{chemical warfare}}
+{{U.S. chemical weapons}}
+
+<!--Categories-->
+[[Category:Inorganic carbon compounds]]
+[[Category:Acyl chlorides]]
+[[Category:Oxohalides]]
+[[Category:Nonmetal halides]]
+[[Category:Pulmonary agents]]
+[[Category:Reagents for organic chemistry]]

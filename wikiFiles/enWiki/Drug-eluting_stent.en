@@ -1,0 +1,346 @@
+{{Interventions infobox |
+  Name        = Drug-eluting stent |
+  Image       = Taxus stent FDA.jpg |
+  Caption     = An example of a drug-eluting stent. This is the TAXUS Express<sup>2</sup> Paclitaxel-Eluting Coronary Stent System, which releases [[paclitaxel]]. |
+  ICD10       = |
+  ICD9        = {{ICD9proc|00.55}} |
+  MeshID      = D054855 |
+  OPS301      = |
+  OtherCodes  = |
+  HCPCSlevel2 = 
+}}
+A '''drug-eluting stent''' '''(DES)''' is a peripheral or [[coronary stent]] (a scaffold) placed into narrowed, diseased peripheral or [[coronary artery|coronary arteries]] that slowly releases a [[drug]] to block [[Hyperplasia|cell proliferation]]. This prevents [[fibrosis]] that, together with clots ([[thrombus]]), could otherwise block the stented artery, a process called [[restenosis]].  The stent is usually placed within the peripheral or coronary artery by an [[Interventional cardiologist]] or Interventional Radiologist during an [[angioplasty]] procedure.
+
+Drug-eluting stents  in current clinical use were approved by the FDA after clinical trials showed they were statistically superior to [[bare-metal stent]]s '''(BMS)''' for the treatment of native coronary artery narrowings, having lower rates of major adverse cardiac events (MACE) (usually defined as a composite clinical endpoint of death + [[myocardial infarction]] + repeat intervention because of [[restenosis]]).<ref>{{cite journal
+|title=Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery.
+|journal=New England Journal of Medicine |year=2003 |pmid=14523139
+|last1=Moses
+|first1=JW
+|last2=Leon
+|first2=MB
+|last3=Popma
+|first3=JJ
+|last4=Fitzgerald
+|first4=PJ
+|last5=Holmes
+|first5=DR
+|last6=O'Shaughnessy
+|first6=C
+|last7=Caputo
+|first7=RP
+|last8=Kereiakes
+|first8=DJ
+|last9=Williams
+|first9=DO
+|volume=349
+|issue=14
+|pages=1315–23
+|doi=10.1056/NEJMoa035071}}</ref><ref>{{cite journal
+|title=One-year clinical results with the slow-release, polymer-based, paclitaxel-eluting TAXUS stent: the TAXUS-IV trial.
+|journal=Circulation |year=2004 |pmid=15078803
+|last1=Stone
+|first1=GW
+|last2=Ellis
+|first2=SG
+|last3=Cox
+|first3=DA
+|last4=Hermiller
+|first4=J
+|last5=O'Shaughnessy
+|first5=C
+|last6=Mann
+|first6=JT
+|last7=Turco
+|first7=M
+|last8=Caputo
+|first8=R
+|last9=Bergin
+|first9=P
+|volume=109
+|issue=16
+|pages=1942–7
+|doi=10.1161/01.CIR.0000127110.49192.72}}
+</ref><ref>[http://biomed.brown.edu/Courses/BI108/BI108_2004_Groups/Group05/Drug%20Eluting%20Stents/implications.htm Comparison of DES, BMS and CABG over 12 months]</ref>
+
+==History==
+{{Main|History of invasive and interventional cardiology}}
+The first procedure to treat blocked [[coronary artery|coronary arteries]] was [[coronary artery bypass graft]] surgery (CABG), wherein a section of vein or artery from elsewhere in the body is used to bypass the diseased segment of coronary artery. In 1977, [[Andreas Grüntzig]] introduced [[percutaneous transluminal coronary angioplasty]] (PTCA), also called balloon angioplasty, in which a catheter was introduced through a peripheral artery and a balloon expanded to dilate the narrowed segment of artery.<ref name="NEJM Gruntzig">{{cite journal
+ | doi =  10.1056/NEJM197907123010201
+ | last =  Grüntzig | first = AR | authorlink = Andreas Grüntzig | coauthors = A Senning, & WE Siegenthaler
+ | date = 1979-07-12 | title = Nonoperative dilatation of coronary-artery stenosis: percutaneous transluminal coronary angioplasty
+ | journal = [[New England Journal of Medicine]] | volume = 301 | issue = 2 | pages = 61–68
+ | url = http://content.nejm.org/cgi/content/abstract/301/2/61 | accessdate = 2006-07-22 | pmid = 449946
+ }}</ref>
+
+As equipment and techniques improved, the use of PTCA rapidly increased, and by the mid-1980s, PTCA and CABG were being performed at equivalent rates.<ref name="Harrison's">{{cite book
+ | last = Baim | first = Donald S. | editor = Dennis L. Kasper, Anthony S. Fauci, Dan L. Longo, Eugene Braunwald, Stephen L. Hauser, & J. Larry Jameson
+ | title = [[Harrison's Principles of Internal Medicine]] | origyear = 1958 | edition = 16th | year = 2005 | publisher = McGraw-Hill
+ | location = New York | pages = 1459–1462 | chapter = Percutaneous Coronary Revascularization
+}}</ref> Balloon angioplasty was generally effective and safe, but [[restenosis]] was frequent, occurring in ~30–40% of cases, usually within the first year after dilation.  In ~3% of balloon angioplasty cases, failure of the dilation and acute or threatened closure of the coronary artery (often because of dissection) prompted emergency CABG.<ref name="Harrison's" />
+
+[[Charles Theodore Dotter|Dotter]] and Melvin Judkins had suggested using prosthetic devices inside arteries (in the leg) to maintain blood flow after dilation as early as 1964.<ref name="Dotter">{{cite journal
+ | last = Dotter | first = Charles T. | coauthors = & Melvin P. Judkins | date =  November 1, 1964 | title = Transluminal Treatment of Arteriosclerotic Obstruction
+ | journal = [[Circulation (journal)|Circulation]] | volume = 30 | pages = 654–670 | url = http://circ.ahajournals.org/cgi/content/abstract/30/5/654
+ | accessdate = 2006-07-22 | pmid = 14226164
+ | issue = 5 | doi=10.1161/01.CIR.30.5.654
+ }} (abstract)</ref>  In 1986, Puel and Sigwart implanted the first coronary stent in a human patient.<ref name="NEJM review" /> Several trials in the 1990s showed the superiority of stent placement over balloon angioplasty.  Restenosis was reduced because the stent acted as a scaffold to hold open the dilated segment of artery; acute closure of the coronary artery (and the requirement for emergency CABG) was reduced, because the stent repaired dissections of the arterial wall.  By 1999, stents were used in 84% of [[percutaneous]] coronary interventions (i.e., those done via a catheter, and not by open-chest surgery.)<ref name="NEJM review" />
+
+Early difficulties with coronary stents included a risk of early [[thrombosis]] (clotting) resulting in occlusion of the stent.<ref name="Harrison's" /> Coating stainless steel stents with other substances such as platinum or gold did not eliminate this problem.<ref name="NEJM review" />  High-pressure balloon expansion of the stent to ensure its full apposition to the arterial wall, combined with drug-therapy using [[aspirin]] and another inhibitor of [[platelet]] aggregation (usually [[ticlopidine]] or [[clopidogrel]]) nearly eliminated this risk of early stent thrombosis.<ref name="Harrison's" /><ref name="NEJM review" />
+
+Though it occurred less frequently than with balloon [[angioplasty]] or other techniques, stents nonetheless remained vulnerable to restenosis, caused almost exclusively by neointimal tissue growth. To address this issue, developers of drug-eluting stents used the devices themselves as a tool for delivering medication directly to the arterial wall.  While initial efforts were unsuccessful, it was shown in 2001 that the release (elution) of drugs with certain specific physicochemical properties from the stent can achieve high concentrations of the drug locally, directly at the target lesion, with minimal systemic side effects.<ref name="Hwang">{{cite journal | last = Hwang| first = CW | coauthors = Wu D, Edelman ER | year = 2001 | title =  Physiological transport forces govern drug distribution for stent-based delivery | journal = [[Circulation (journal)|Circulation]] | volume = 104 | pages = 600–605 | url = http://circ.ahajournals.org/cgi/content/abstract/104/5/600 |pmid=11479260 | doi = 10.1161/hc3101.092214 | issue = 5 }}</ref>  As currently used in clinical practice, "drug-eluting" stents refers to metal stents which elute a drug designed to limit the growth of neointimal scar tissue, thus reducing the likelihood of stent [[restenosis]].
+
+The first successful trials were of [[sirolimus]]-eluting stents. A clinical trial in 2002 led to approval of the sirolimus-eluting Cypher stent in Europe in 2002. After a larger pivotal trial (one designed for the purpose of achieving FDA approval), published in 2003, the device received FDA approval and was released in the U.S. in 2003.<ref name="NEJM review" /> Soon thereafter, a series of trials of [[paclitaxel]]-eluting stents led to FDA approval of the Taxus stent in 2004.<ref name="FDA Taxus">{{cite web
+|url=http://www.fda.gov/cdrh/mda/docs/p030025.html
+|title=New Device Approval - P030025 - TAXUS Express2 Paclitaxel-Eluting Coronary Stent System
+|accessdate=2008-02-25
+|work=
+|archiveurl = http://web.archive.org/web/20080203205810/http://www.fda.gov/cdrh/mda/docs/p030025.html <!-- Bot retrieved archive --> |archivedate = 2008-02-03}}</ref>
+The Xience V everolimus eluting stent was approved by the FDA in July 2008 and has been available in Europe and other international markets since late 2006. It is an investigational device in Japan.
+
+
+==Indications==
+Clinical trials have shown the benefits of coronary stenting with BMS over other methods of angioplasty, including balloon angioplasty and [[atherectomy]].  Drug-eluting stents (DES) have also been extensively studied, and are generally superior to bare-metal stents as regards Major Adverse Cardiac Events (MACE, generally defined as death, [[myocardial infarction]], or the need for a repeat revascularization procedure.) Stents are indicated to improve the diameter of the coronary artery lumen, when narrowing (generally because of [[atherosclerosis]]) causes [[ischemia]] (reduced oxygen delivery to the muscle supplied by that artery.)
+
+===Off-label use===
+Drug-eluting stents also have been shown to be superior to bare-metal stents in reducing short-term complications of stenting in saphenous vein grafts;<ref>{{cite journal
+|author=Lee MS, Shah AP, Aragon J, Jamali A, Dohad S, Kar S, Makkar RR
+|title=Drug-eluting stenting is superior to bare metal stenting in saphenous vein grafts
+|journal=Catheter Cardiovasc Interv
+|volume=66
+|issue=4
+|pages=507–11
+|year=2005
+|pmid=16270361
+|doi=10.1002/ccd.20498
+}}</ref> however, use in these bypass grafts is an example of an "off-label" use of drug-eluting stents.  That is, this application has not been sufficiently examined by the [[Food and Drug Administration]] for that agency to recommend the use.  For "on-label" applications, the FDA "believes that coronary drug-eluting stents remain safe and effective when used for the FDA-approved indications. These devices have significantly reduced the need for a second surgery to treat restenosis for thousands of patients each year."<ref>{{cite web
+|url=http://www.fda.gov/cdrh/news/091406.html+
+|title=US FDA/CDRH: FDA Statement on Coronary Drug-Eluting Stents
+|accessdate=2008-02-25
+|format=
+|work=
+}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+There is some concern about overzealous use of stents in general. Two studies found that about half of patients received stents for unapproved reasons,<ref name="pmid17488965">{{cite journal |author=Win HK, Caldera AE, Maresh K, ''et al.'' |title=Clinical outcomes and stent thrombosis following off-label use of drug-eluting stents |journal=JAMA |volume=297 |issue=18 |pages=2001–9 |year=2007 |pmid=17488965 |doi=10.1001/jama.297.18.2001}}</ref><ref name="pmid17488964">{{cite journal |author=Beohar N, Davidson CJ, Kip KE, ''et al.'' |title=Outcomes and complications associated with off-label and untested use of drug-eluting stents |journal=JAMA |volume=297 |issue=18 |pages=1992–2000 |year=2007 |pmid=17488964 |doi=10.1001/jama.297.18.1992}}</ref> with worse outcomes for the patients in both studies.  More recent data suggests that off label use of both bare metal stents as well as drug eluting stents have increased risks.  However, DES seemed to have similar or improved rates of death or MI compared with BMS, and consistently reduced need for target vessel revascularization (TVR).  Overall, the data supports the use of DES for off-label indications.<ref>Dixon et a. Year in Interventional Cardiology JACC Vol. 53, No. 22, 2009</ref>
+
+==Alternatives (to stents in general)==
+Medical therapy for coronary artery disease has also improved since the 1970s, and for many kinds of patients may be as successful as stenting or surgery. For those requiring PCI or surgery, medical therapy and revascularization should be viewed as complementary rather than opposing strategies.<ref>{{cite journal
+|title=Medical therapy versus coronary angioplasty in stable coronary artery disease: a critical review of the literature.
+|journal=J Am Coll Cardiol
+|year=2000
+|pmid=17920355
+|last1=Kumar
+|first1=R
+|last2=Lee
+|first2=TT
+|last3=Jeremias
+|first3=A
+|last4=Ruisi
+|first4=CP
+|last5=Sylvia
+|first5=B
+|last6=Magallon
+|first6=J
+|last7=Kirtane
+|first7=AJ
+|last8=Bigelow
+|first8=B
+|last9=Abrahamson
+|first9=M
+|volume=100
+|issue=8
+|pages=1187–91
+|doi=10.1016/j.amjcard.2007.05.038
+}}</ref>
+
+[[Coronary artery bypass graft]] surgery is the best treatment for some patients.  Differences between outcomes with stenting and with coronary bypass grafting (CABG) are a point of controversy. A recent study comparing the outcomes of all patients in [[New York]] state treated with [[coronary artery bypass surgery]] (CABG) or [[percutaneous coronary intervention]] (PCI) demonstrated CABG was superior to PCI with DES in multivessel (two or more diseased arteries) [[coronary heart disease|coronary artery disease]] (CAD).  Patients treated with CABG had lower rates of death and of death or myocardial infarction than treatment with a drug-eluting stent.  Patients undergoing CABG also had lower rates of repeat revascularization.<ref name="Hannan 2008">{{cite journal |author=Hannan EL, Wu C, Walford G, ''et al.'' |title=Drug-eluting stents vs. coronary-artery bypass grafting in multivessel coronary disease |journal=N. Engl. J. Med. |volume=358 |issue=4 |pages=331–41 |year=2008 |pmid=18216353 |doi=10.1056/NEJMoa071804}}</ref>  The New York State registry included all patients undergoing revascularization for coronary artery disease, but was not a randomized trial, and so may have reflected other factors besides the method of coronary revascularization.
+
+No randomized trial comparing CABG and DES has been completed, although two trials of DES versus CABG are currently enrolling patients - SYNTAX (Synergy Between Percutaneous Coronary Intervention With Taxus and Cardiac Surgery) and FREEDOM (Future Revascularization Evaluation in Patients With Diabetes Mellitus—Optimal Management of Multivessel Disease).  The registries of the nonrandomized patients screened for these trials may provide as much robust data regarding revascularization outcomes as the randomized analysis.<ref>{{cite journal |author=Desai ND |title=Pitfalls assessing the role of drug-eluting stents in multivessel coronary disease |journal=Ann. Thorac. Surg. |volume=85 |issue=1 |pages=25&ndash;7 |year=2008 |pmid=18154771 |doi=10.1016/j.athoracsur.2007.08.063}}</ref>
+
+Other studies, including the ARTS II registry, suggest that drug-eluting stenting is not inferior to coronary bypass for treatment of multivessel coronary disease. The ARTS II registry compared a cohort of patients treated with multi-vessel stenting with DES, to the historical CABG cohort in the ARTS I trial (itself a randomized comparison between multivessel bare metal stenting vs. CABG.) At three-year follow-up, major adverse cardiac events were comparable between the ARTS II DES group and the ARTS I CABG group. Re-intervention was lower in the ARTS I CABG group.<ref>{{cite journal
+|author=Serruys PW, et al.
+|title=Three-year follow-up of the ARTS-II - sirolimus-eluting stents for the treatment of patients with multivessel coronary artery disease
+|journal=Eurointervention
+|issue=12
+|pages=450&ndash;9
+|year=2007
+|url=http://www.europcronline.com/eurointervention/12th_issue/81/
+}}</ref>
+In all comparison studies of stenting vs. bypass surgery, it is worth noting that only a small minority of patients with multivessel coronary disease have been eligible for inclusion in the studies, and that for most patients, clinical judgement by experienced operators suggests that one or the other approach is preferred.
+
+==Risks==
+Like all invasive medical procedures, implanting stents in the coronary arteries carries risk.  For the newer drug-eluting stents, very-long-term results are not yet available; however, five-years after implantation sirolimus-eluting stents remained superior to bare-metal stents.<ref>{{cite journal
+|title=Long-term clinical outcomes with sirolimus-eluting coronary stents: five-year results of the Ravel trial.
+|journal=JACC
+|year=2007
+|pmid=17903626
+|last1=Morice
+|first1=MC
+|last2=Serruys
+|first2=PW
+|last3=Barragan
+|first3=P
+|last4=Bode
+|first4=C
+|last5=Van Es
+|first5=GA
+|last6=Stoll
+|first6=HP
+|last7=Snead
+|first7=D
+|last8=Mauri
+|first8=L
+|last9=Cutlip
+|first9=DE
+|volume=50
+|issue=14
+|pages=1299–304
+|doi=10.1016/j.jacc.2007.06.029
+}}</ref>
+
+Risks associated with [[cardiac catheterization]] procedures include bleeding, allergic reaction to the X-ray contrast agents used to visualize the coronary arteries, and [[myocardial infarction]]. With PCI, the requirement for emergency CABG has markedly decreased since the days of balloon angioplasty, such that in some communities, coronary stenting is permitted in hospitals without on-site cardiac surgery facilities,<ref name="pmid18241941">{{cite journal |author=Peels JO, Hautvast RW, de Swart JB, ''et al.'' |title=Percutaneous coronary intervention without on site surgical back-up; two-years registry of a large dutch community hospital |journal=Int. J. Cardiol. |volume= 132|issue= 1|pages= 59–65|year=2008 |pmid=18241941 |doi=10.1016/j.ijcard.2007.10.037}}</ref> though this remains highly controversial in the United States, not least because of the rare but largely unpredictable risk of coronary artery perforation.<ref name="Harrison's" />  Rarely, a type of allergic reaction to the drug may occur; episodes of fatality have been reported.<ref name="hypersensitivity">{{cite journal|author=Virmani R, Guagliumi G, Farb A, Musumeci G, Grieco N, Motta T, Mihalcsik L, Tespili M, Valsecchi O, Kolodgie FD|title=Localized hypersensitivity and late coronary thrombosis secondary to a sirolimus-eluting stent: should we be cautious?|journal=Circulation|volume=109|issue=6|pages=701–5|year=2004|pmid=14744976|doi=10.1161/01.CIR.0000116202.41966.D4}}</ref>
+
+===Stent thrombosis===
+Although drug-eluting stents continue to represent a major medical advance for angioplasty, evidence has always shown new clot [[thrombosis]] formation with stents to be a problem, thus clotting suppressant agents are routinely given during placement and anti-clotting agents should be continued; the question is for how long. Coronary arterial healing occurs after the placement of a drug eluting stent, however complete healing of the vessel takes time. For drug eluting stents, the time course of complete healing in human is unknown.<ref name="pmid17510464">{{cite journal |author=Finn AV, Nakazawa G, Joner M, Kolodgie FD, Mont EK, Gold HK, Virmani R |title=Vascular responses to drug eluting stents: importance of delayed healing |journal=Arterioscler Thromb Vasc Biol. |volume=27 |issue=7 |pages=1500&ndash;10 |year=2007 |pmid=17510464}}</ref>
+
+A stent is a foreign object in the body, and the body responds to the stent’s presence in a variety of ways.  [[Macrophages]] accumulate around the stent, and nearby smooth muscle cells proliferate.  These physiological changes, which can cause [[restenosis]], are limited by the drugs released by the stent, but these drugs also limit formation of a new [[endothelium|endothelial]] layer over the new stent to inhibit clot formation. Endothelialization is a hallmark of vascular healing and is important for the prevention of thrombus formation. Lack of healing caused by antiproliferative drugs can make the stent an exposed surface on which a clot, sometimes life-threatening, can form.
+
+For drug-eluting stents (which, by design, delay formation of a new endothelium cover over the stent), the incidence of clot formation within the stent may persist for a longer period of time, perhaps as long as five years after treatment. Drug eluting stents have been associated with delayed arterial healing and the prevalence of latent thrombus after five years, suggesting that patients may continue to be risk for stent thrombosis for an extended period of time.<ref name="pmid21641369">{{cite journal |author=Yamamoto M, Takano M, Murakami D, Inami T, Kobayashi N, Inami S, Okamatsu K, Ohba T, Ibuki C, Hata N, Seino Y, Jang IK, Mizuno K |title=The possibility of delayed arterial healing 5 years after implantation of sirolimus-eluting stents: serial observations by coronary angioscopy |journal=Am Heart J. |volume=161 |issue=6 |pages=1200&ndash;6 |year=2011 |pmid=21641369 |doi=10.1016/j.ahj.2011.03.006}}</ref> 
+
+Though less frequent with drug-eluting stents, neointimal proliferation can still occur in DES and cause restenosis. Stent occlusion because of [[thrombosis]] may occur during the procedure, in the following days, or later.  The presence of thrombus around the stent may in turn affect the drug-eluting performance of the stent.<ref name="pmid15795325">{{cite journal |author=Hwang CW, Levin AD, Jonas M, Li PH, Edelman ER |title=Thrombosis modulates arterial drug distribution for drug-eluting stents |journal=Circulation |volume=111 |issue=13 |pages=1619&ndash;26 |year=2005 |pmid=15795325 |doi=10.1161/01.CIR.0000160363.30639.37}}</ref>  Treatment with the antiplatelet drugs [[aspirin]] and [[clopidogrel]] appears to be the most important factor reducing this risk of thrombosis, and early cessation of one or both of these drugs after drug-eluting stenting markedly increases the risk of stent thrombosis and myocardial infarction.<ref name="pmid15870416">{{cite journal |author=Iakovou I, Schmidt T, Bonizzoni E, ''et al.'' |title=Incidence, predictors, and outcome of thrombosis after successful implantation of drug-eluting stents |journal=JAMA |volume=293 |issue=17 |pages=2126&ndash;30 |year=2005 |pmid=15870416 |doi=10.1001/jama.293.17.2126}}</ref> A recent histopathology study showed that very late DES thrombosis is associated with histopathological signs of inflammation and intravascular ultrasound evidence of vessel remodeling. Compared with other causes of myocardial infarction, eosinophilic infiltrates are more common in thrombi harvested from very late DES thrombosis and correlate with the extent of stent malapposition.<ref name="pmid19620501">{{cite journal |author=Cook S, Ladich E, Nakazawa G, Eshtehardi P, Neidhart M, Vogel R, Togni M, Wenaweser P, Billinger M, Seiler C, Gay S, Meier B, Pichler WJ, Jüni P, Virmani R, Windecker S. |title=Correlation of intravascular ultrasound findings with histopathological analysis of thrombus aspirates in patients with very late drug-eluting stent thrombosis |journal=Circulation |volume=120 |issue=5 |pages=391–9 |year=2009 |pmid=19620501 |doi=10.1161/CIRCULATIONAHA.109.854398}}</ref>
+
+Whether drug-eluting stents are at higher risk than bare-metal stents for late thrombosis is intensely debated.<ref name="pmid17709651">{{cite journal |author=Daemen J, Serruys PW |title=Drug-eluting stent update 2007: part II: Unsettled issues |journal=Circulation |volume=116 |issue=8 |pages=961&ndash;8 |year=2007 |pmid=17709651 |doi=10.1161/CIRCULATIONAHA.107.691451}}</ref>  In [[meta-analysis|meta-analyses]] of the sirolimus and paclitaxel-eluting stent trials, there was a small but statistically higher risk of thrombosis after the first year, compared to bare metal stents.  Late stent thrombosis often causes [[myocardial infarction]] and sometimes death.<ref name="pmid17145250">{{cite journal |author=Bavry AA, Kumbhani DJ, Helton TJ, Borek PP, Mood GR, Bhatt DL |title=Late thrombosis of drug-eluting stents: a meta-analysis of randomized clinical trials |journal=Am. J. Med. |volume=119 |issue=12 |pages=1056–61 |year=2006 |pmid=17145250 |doi=10.1016/j.amjmed.2006.01.023}}</ref>  In other analyses, the late thrombosis risk is offset by drug-eluting stents' markedly reduced risk of restenosis and its complications including myocardial infarction. A [[meta-analysis]] concluded that the mortality risk associated with drug-eluting and bare-metal stents is similar.<ref>[http://www.medscape.com/viewarticle/562959 MedScape.com]</ref>
+
+'''Comparing different drug-eluting stents'''
+Whether sirolimus or paclitaxel-eluting stents are measurably different in their outcomes is a topic of great interest, including to the marketing departments of the manufacturers themselves. Analyses favoring one or the other stent have been advanced. The differences, if any, between the two devices are small.<ref name="pmid17869634">{{cite journal
+|author=Stettler C, Wandel S, Allemann S, Kastrati A, Morice MC, Schömig A, Pfisterer ME, Stone GW, Leon MB, de Lezo JS, Goy JJ, Park SJ, Sabaté M, Suttorp MJ, Kelbaek H, Spaulding C, Menichelli M, Vermeersch P, Dirksen MT, Cervinka P, Petronio AS, Nordmann AJ, Diem P, Meier B, Zwahlen M, Reichenbach S, Trelle S, Windecker S, Jüni P
+|title=Outcomes associated with drug-eluting and bare-metal stents: a collaborative network meta-analysis
+|journal=Lancet
+|volume=370
+|issue=9591
+|pages=937–48
+|year=2007
+|pmid=17869634
+|doi=10.1016/S0140-6736(07)61444-5
+}}</ref>
+
+The SPIRIT II study showed the Xience V DES was better than the Taxus.<ref>[http://www.theheart.org/article/739247.do SPIRIT II tests cobalt chrome DES]</ref>
+
+'''Drug-eluting stents with a biodegradable coating'''
+In order to address the risk of late stent thrombosis, drug-eluting stents with a biodegradable coating have been developed. One such stent is the BioMatrix stent of [[Biosensors International]], which has been approved by European authorities in January 2008.  Two year results of a large all-comers trial suggest a reduced risk of late stent thrombosis, especially after discontinuation of dual antiplatelet therapy.<ref>{{Cite web
+  | last = Klauss
+  | first = Volker
+  | title = Leaders: Biolimus A9 Stent Noninferior to SES
+  | url=http://www.tctmd.com/show.aspx?id=85978
+  | accessdate = 25 October 2009 }}
+</ref> The Nevo stent of Cordis/J&J, also uses a biodegradable coating and is currently undergoing trials.
+
+==Design==  <!-- target from [[bare-metal stent]] -->
+Drug-eluting stents consist of three parts. Stent platform, coating, and drug.
+
+The stent itself is an expandable metal alloy framework. Many DES are based on a [[bare-metal stent]] (BMS). The stents have elaborate mesh-like designs to allow expansion, flexibility and in some cases the ability to make/enlarge side openings for side vessels.
+Cobalt chrome alloy is stronger (and more radio-opaque) than the usual [[stainless steel#Types of stainless steel|316L stainless steel]] so the struts can be thinner which seems to reduce the degree of [[restenosis]]. (The L605 CoCr alloy has less [[nickel]] than 316L stainless steel and so may cause less allergy.)
+
+A coating, typically of a [[polymer]], holds and elutes (releases) the drug into the arterial wall by contact transfer.
+The first few DES licenced used durable coatings, but some newer coating are designed to biodegrade after or as the drug is eluted.
+Coatings are typically spray coated or dip coated. There can be one to three or more layers in the coating e.g. a base layer for adhesion, a main layer for holding the drug, and sometimes a top coat to slow down the release of the drug and extend its effect.
+
+The drug is mainly to inhibit neointimal growth (due to proliferation of [[smooth muscle]] cells) which would cause restenosis.  Much of the neointimal hyperplasia seems to be caused by inflammation. Hence [[immunosuppresant|immunosuppressive]] and [[antiproliferative]] drugs are used. Both sirolimus and paclitaxel were previously used for other medical applications; new drugs are being evaluated for coronary stents.
+<ref name="NEJM review">{{cite journal
+|author=Serruys PW, Kutryk MJ, Ong AT
+|title=Coronary-artery stents |journal=N. Engl. J. Med.
+|volume=354 |issue=5 |pages=483–95 |year=2006 |pmid=16452560
+|doi=10.1056/NEJMra051091
+}}</ref>
+<ref>[http://biomed.brown.edu/Courses/BI108/BI108_2004_Groups/Group05/Drug%20Eluting%20Stents/drugs_and_pharmacokinetics.htm DES drugs. Brown U.]</ref>
+
+Examples (approved for clinical use in the U.S.) : 
+* Cypher (J&J, Cordis ) uses a [[stainless steel#Types of stainless steel|316L stainless steel]] BxVelocity stent (140&nbsp;µm struts) and adds a 12.6&nbsp;µm 3 layer coating (2&nbsp;µm Parylene C base coat, 10&nbsp;µm main coat of PEVA, PBMA and [[sirolimus]], and a 0.6&nbsp;µm top coat of PBMA).<ref>[http://biomed.brown.edu/Courses/BI108/BI108_2004_Groups/Group05/Drug%20Eluting%20Stents/drug_eluting_stents.htm DES inc Structures of PEVA, PBMA and Parylene C.]</ref>  The sirolimus elutes over a period of about 30 days.<ref name="bclah">[http://www.aolhealth.com/conditions/blood-clots-a-late-hazard-for-drug-coated-stents AOLHealth.com]</ref>
+* Taxus (Boston Scientific) uses a [[stainless steel#Types of stainless steel|316L stainless steel]] Express2 stent (132&nbsp;µm struts) and adds a 16&nbsp;µm single layer Translute SIBS copolymer coating containing [[paclitaxel]] which elutes over a period of about 90 days.<ref name="bclah"/>
+* Endeavour (Medtronic) uses a cobalt chrome Driver stent (91&nbsp;µm struts) and adds a 4.3&nbsp;µm [[phosphorylcholine]] coating that includes [[zotarolimus]], on a 1&nbsp;µm base coat.
+* Xience V (Guidant, Abbott) uses an [[L605]] cobalt chrome ML Vision stent (81&nbsp;µm struts) and adds a 7.6&nbsp;µm fluropolymer multilayer coating with drug [[everolimus]].<ref>{{cite journal |author=Sheiban I, Villata G, Bollati M, Sillano D, Lotrionte M, Biondi-Zoccai G |title=Next-generation drug-eluting stents in coronary artery disease: focus on everolimus-eluting stent (Xience V®) |journal=Vasc Health Risk Manag |volume=4 |issue=1 |pages=31–8 |year=2008 |pmid=18629361 |pmc=2464756 |doi= 10.2147/vhrm.2008.04.01.31|url=}}</ref>
+
+Examples approved outside the US :
+* Zilver PTX (Cook Medical) Nitinol stent, no polymer, coated with paclitaxel, for use in peripheral arteries <ref>http://www.cookmedical.com/zilverptx/index.html</ref>
+* TaxCor (EuroCor GmbH) Highly Flexible Cobalt Chromium Stent Platform coated with fully biodegradable polymer as a carrier for Paciltaxel <ref>http://www.eurocor.de/products/genius_megaflex/</ref>
+* Axxion (Biosensors Int) Stainless steel stent, Synthetic Glycocalix coating with [[paclitaxel]].<ref>[http://www.biosensorsintl.com/index.php?option=com_content&task=view&id=13&Itemid=4 Axxion website BioSensorsIntl.com]</ref>
+* BioMatrix (Biosensors Int) S stent platform, bioabsorbable PLA coating with [[Biolimus A9]] drug.<ref>[http://www.docguide.com/news/content.nsf/news/852571020057CCF6852574BA00611065 Leaders trial Biolimus vs Sirolimus]</ref>
+* ARTAX (Aachen Resonance) double helix stainless steel platform, without polymer, metal coated with [[paclitaxel]] drug.<ref>[http://www.aachen-resonance.com Aachen-resonance.com]</ref>
+
+===Investigation and Alternative drugs===
+
+There are also several other anti-proliferative drugs under investigation in human clinical trials. In general, these are analogues of sirolimus. Like sirolimus, these block the action of [[mTOR]]. [[Medtronic]] has developed [[zotarolimus]]; unlike sirolimus and paclitaxel, this sirolimus analogue designed for use in stents with [[phosphorylcholine]] as a carrier. Their ZoMaxx stent is a zotarolimus-eluting, stainless steel and [[tantalum]]–based stent; a modified phosphorylcholine slowly releases the zotarolimus
+.<ref name="Abbott ZoMaxx">{{cite web
+| url = http://www.abbott.com/global/url/content/en_US/30.20.50:50/general_content/General_Content_00024.htm
+| title = Vascular Devices| accessdate = 2006-07-23| publisher = [[Abbott Laboratories|Abbott]] |archiveurl = http://web.archive.org/web/20060615120803/http://abbott.com/global/url/content/en_US/30.20.50:50/general_content/General_Content_00024.htm <!-- Bot retrieved archive --> |archivedate = 2006-06-15}}</ref>
+Zotarolimus has been licensed to Medtronic which is researching the effectiveness in a drug-eluting stent of their own. Their Endeavor stent, which is a [[cobalt]] alloy,<ref name="NEJM review" /> also uses phosphorylcholine to carry the zotarolimus was approved for use in Europe in 2005 is now close to U.S. FDA approval
+.<ref name="StarTribune">{{cite web
+| url = http://www.startribune.com/535/story/1476560.html
+| title = FDA advisers OK Medtronic stent| accessdate = 2007-10-10| publisher = [[Star Tribune]]}}</ref>
+
+Clinical trials are currently examining two stents carrying [[everolimus]],<ref name="NEJM review" /> an analog of sirolimus. [[Guidant]], which has the exclusive license to use everolimus in drug-eluting stents, is the manufacturer of both stents. The Guidant vascular business was subsequently sold to Abbott
+.<ref>{{cite web |url=http://www.abbott.com/global/url/pressRelease/en_US/60.5:5/Press_Release_0309.htm |title=Abbott Completes Acquisition of Guidant Vascular Business |accessdate=2007-01-12 |work= |archiveurl = http://web.archive.org/web/20061206024411/http://www.abbott.com/global/url/pressRelease/en_US/60.5:5/Press_Release_0309.htm <!-- Bot retrieved archive --> |archivedate = 2006-12-06}}</ref>
+The Champion stent uses a bioabsorbable [[polylactic acid]] carrier on a stainless steel stent.
+<ref name="FUTURE">{{cite journal
+ | last = Grube | first = Eberhard | coauthors = Shinjo Sonoda, Fumiaki Ikeno, Yasuhiro Honda, Saibal Kar, Charles Chan, Ulrich Gerckens, Alexandra J. Lansky, & Peter J. Fitzgerald | year = 2004 | title = Six- and Twelve-Month Results From First Human Experience Using Everolimus-Eluting Stents With Bioabsorbable Polymer
+ | journal = [[Circulation (journal)|Circulation]] | volume = 109 | issue =  18| pages = 2168–2171 | doi = 10.1161/01.CIR.0000128850.84227.FD | pmid = 15123533 }}</ref>
+<ref name="Guidant Champion">{{cite web
+| url = http://www.guidant.com/news/400/web_release/nr_000459.shtml| title = Guidant News Release — April 5, 2004| accessdate = 2007-07-23| date = 2004-04-05
+| publisher = [[Guidant]] }}</ref>
+In contrast, its Xience stent uses a durable (non-bioabsorbable) polymer on a cobalt alloy stent.<ref name="Guidant Xience">{{cite web
+| url = http://www.guidant.com/news/500/web_release/nr_000551.shtml| title = Guidant News Release — June 22, 2005| accessdate = 2006-07-23
+| date = 2005-06-22| publisher = [[Guidant]]
+}}</ref>
+
+One alternative to drug-eluting stents is a stent surface designed to reduce the neointimal proliferation.  One such is the Genous bioengineered stent.<ref>[http://www.orbusneich.com/genous/ Genous bioengineered R stent]</ref>
+
+In place of the stainless steel (and now cobalt chrome) currently used in stents, various biodegradable frameworks are under early phases of investigation. Since metal, as a foreign substance, provokes inflammation, scarring, and thrombosis (clotting), it is hoped that biodegradable or bioabsorbable stents may prevent some of these effects. A [[magnesium]] alloy–based stent has been tested in animals, though there is currently no carrier for drug elution.
+<ref name="Heart magnesium">{{cite journal
+ | last = Heublein | first = B. | coauthors = R. Rhode, V. Kaese, N. Niemeyer, W. Hartung, & A. Haverich | year = 2003
+ | title = Biocorrosion of magnesium alloys: a new principle in cardiovascular implant technology?  | journal = [[Heart (journal)|Heart]]
+ | volume = 89 | pages = 651–6 | url = http://heart.bmjjournals.com/cgi/content/full/89/6/651 | accessdate = 2006-07-23| pmid = 12748224
+ | doi = 10.1136/heart.89.6.651
+ | issue = 6
+ | pmc = 1767674
+}}</ref> A promising biodegradable framework is made from poly-L-lactide, a polymer of a derivative of [[lactic acid|L-lactic acid]]. One of these stents, the Igaki-Tamai stent, has been studied in pigs; tranilast
+<ref name="Tsjui">{{cite journal
+ | last = Tsuji | first = T. | coauthors = H. Tamai, K. Igaki, E. Kyo, K. Kosuga, T. Hata, T. Nakamura, S. Fujita, S. Takeda, S. Motohara, & H. Uehata
+ | year = 2003 | title = Biodegradable stents as a platform to drug loading | journal = International Journal of Cardiovascular Interventions
+ | volume = 5 | issue = 1 | pages = 13–6 | pmid = 12623560 | doi = 10.1080/14628840304609
+}}</ref> and [[paclitaxel]]<ref name="Vogt">{{cite journal
+ | last = Vogt
+ | first = Felix
+ | coauthors = Andreas Steina, Gösta Rettemeier, Nicole Krott, Rainer Hoffmann, Jürgen vom Dahl, Anja-Katrin Bosserhoff, Walter Michaeli, Peter Hanrath, Christian Weber, & Rüdiger Blindt | year = 2004 | title = Long-term assessment of a novel biodegradable paclitaxel-eluting coronary polylactide stent
+ | journal = European Heart Journal | volume = 25 | pages = 1330–40 | url = http://eurheartj.oxfordjournals.org/cgi/content/full/25/15/1330 | accessdate = 2006-07-22 | pmid = 15288161 | doi = 10.1016/j.ehj.2004.06.010
+ | issue = 15
+}}</ref> have been used as eluted drugs.
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+*{{cite journal
+ | last = Fischetti | first = Mark | year = 2006 | month = July | title = Vascular Stents: Expanding Use | journal = [[Scientific American]]
+ | pages = 94 | url = http://www.sciam.com/article.cfm?chanID=sa006&colID=9&articleID=00079946-E7CE-1492-A7CE83414B7F0000
+}} (layperson overview, subscription required)
+*{{cite journal
+ | last =  Serruys | first = Patrick W.  | coauthors = Michael J.B. Kutryk, and Andrew T.L. Ong | date = 2006-02-02 | title = Coronary-Artery Stents
+ | journal = [[New England Journal of Medicine]] | volume = 354 | issue = 5 | pages = 483–95 | url = http://content.nejm.org/cgi/content/extract/354/5/483 | doi = 10.1056/NEJMra051091 | pmid = 16452560
+}} (journal review article, subscription required)
+
+==External links==
+{{commons category|Stent}}
+* [http://www.ptca.org/stent Drug-Eluting Stents — Angioplasty.Org]  Good overview and detail
+* [http://www.cimit.org CIMIT Center For Integration of Medicine and Innovative Technology]
+* [http://www.cypherstent.com/cypher-stent/specifications/pages/index.aspx Cypher DES]
+* [http://images.medscape.com/images/561/357/art-cs561357.fig2.gif  Image of the experimental CoStar Cobalt chrome stent]
+* [http://www.ispub.com/ostia/index.php?xmlPrinter=true&xmlFilePath=journals/ijc/vol3n2/des.xml Manu Sondhi, Amitha Jagannath & John B. Wong: A Meta-Analysis Of Randomized Controlled Trials With Coronary Drug-Eluting Stents Compared With Bare-Metal Stents: The Internet Journal of Cardiology. 2006; Volume 3, Number 2. ]
+* [http://www.tct2006.com/Dailies_TCT2006/thursday_fulltext/Safety_Profile_of_Drugeluting_Stents_Similar_to_Baremetal_Stents.html Safety Profile of Drug-eluting Stents Similar to Bare-metal Stents (re G.W.Stone's presentation at TCT2006) ]
+* [http://www.medpagetoday.com/MeetingCoverage/TCT/ TCT: Transcatheter Cardiovascular Therapeutics Meeting Coverage] peer-reviewed articles from [[Medpage Today]]
+
+{{Interventional cardiology}}
+
+{{DEFAULTSORT:Drug-Eluting Stent}}
+[[Category:Drug delivery devices]]
+[[Category:Implants]]
+[[Category:Interventional cardiology]]
+[[Category:Medical equipment]]

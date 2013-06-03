@@ -1,0 +1,93 @@
+'''Plasma renin activity''' ('''PRA'''), also known as the '''renin (active) assay''' or '''random plasma renin''', is a measure of the activity of the [[Blood plasma|plasma]] [[enzyme]] [[renin]], which plays a major role in the body's [[regulation of blood pressure]], thirst, and urine output. PRA is sometimes measured, specially in case of certain diseases which present with [[Hypertension#Role_of_renin|hypertension]] or [[hypotension]]. PRA is also raised in certain tumors.<ref>Hamilton Regional Laboratory Medicine Program - Laboratory Reference Centre Manual. Renin Direct.</ref> A PRA measurement may be compared to a plasma [[aldosterone]] concentration as an [[aldosterone-to-renin ratio]].
+
+==Measurement and Values==
+Measurement is done from a sample of venous blood using immunological measuring mechanisms like [[ELISA]], [[Radioimmunoassay|RIA]], etc. Often these are done by automated machines to minimize human error.
+
+===Considerations for variation===
+
+These values are quite variable in a normal person. Variation occur with the following:
+
+*   Salt intake
+*   [[Pregnancy]]
+*   Time of the day
+*   Body position (sitting, lying down)
+*   State of water intake and dehydration
+*   Use of anti-hypertensive drugs, estrogen-containing forms of [[hormonal contraception]], anti-anginals drugs, etc. (basically, most drugs that are active on the [[heart]], [[blood vessels]] and/or the [[kidneys]].
+*   Certain diseases of the heart, kidneys, etc.
+
+===Normal values===
+[[Reference ranges for blood tests]] of plasma renin activity can be given both in mass and in international units (μIU/mL or equivalently mIU/L, improperly shown as μU/mL or U/L, confusing mcU/mL used where Greek μ not available), with the former being roughly convertible to the latter by multiplying with 11.2.<ref name=washington>[http://depts.washington.edu/labweb/referencelab/print/endo.pdf New Assays for Aldosterone, Renin and Parathyroid Hormone] University of
+Washington, Department of Laboratory Medicine. Retrieved Mars 2011</ref> The following table gives the lower limit (2.5th percentile) and upper limit (97.5th percentile) for plasma renin activity by mass and MCU, with different values owing to various factors of variability of [[reference ranges]]:
+
+{|class="wikitable"
+! Unit !! Lower limit !! Upper limit
+|-
+| ng/(mL*hour) || 0.29,<ref name=mcu-derived>Converted from values in μIU/mL by dividing with a factor of 11.2 μIU/mL per ng/(mL*hour), as given in:
+*[http://depts.washington.edu/labweb/referencelab/print/endo.pdf New Assays for Aldosterone, Renin and Parathyroid Hormone] University of
+Washington, Department of Laboratory Medicine. Retrieved Mars 2011</ref> 1.9<ref name=Pratt1988/> || 3.7<ref name=mcu-derived/><ref name=Pratt1988>{{cite pmid|2893797}}</ref>
+|-
+| μIU/mL || 3.3,<ref name=washington/> 21<ref name=mass-derived>Converted from values in ng/(mL*hour) by multiplying with a factor of 11.2 μIU/mL per ng/(mL*hour), as given in:
+*[http://depts.washington.edu/labweb/referencelab/print/endo.pdf New Assays for Aldosterone, Renin and Parathyroid Hormone] University of
+Washington, Department of Laboratory Medicine. Retrieved Mars 2011</ref> || 41<ref name=washington/><ref name=mass-derived/>
+|}
+
+===Results and explanations===
+
+''Please go through the [[physiology]] of [[renin]] and the [[renin-angiotensin system]] to understand why the following occur.''
+
+'''Higher-than-normal levels may indicate''':<ref>Fujino T, Nakagawa N, Yuhki K, Hara A, Yamada T, Takayama K, Kuriyama S, Hosoki Y, Takahata O, Taniguchi T, Fukuzawa J, Hasebe N, Kikuchi K, Narumiya S and Ushikubi F. (2004) Decreased susceptibility to renovascular hypertension in mice lacking the prostaglandin I2 receptor IP. J. Clin. Invest. 114:805-812.</ref><ref>Human renin gene: structure and sequence analysis. 1984 Aug; PubMed Free text.
+</ref><ref>Cloning and sequence analysis of cDNA for human renin precursor. ; PubMed.</ref><ref>
+Pivotal role of the renin/prorenin receptor in angiotensin II production and cellular responses to renin. 2002 Jun; PubMed.</ref><ref>Different secretory pathways of renin from mouse cells transfected with the human renin gene. 1988 Mar 5; PubMed Free text.
+</ref>
+{| class="wikitable"
+|-
+! Disease !! Brief Description
+|-
+| [[Addison's disease]] || [[Kidneys]] trying to counter low aldosterone output.
+|-
+| [[Cirrhosis]] of the liver || Reduced breakdown of Angiotensin.
+|-
+| [[Essential hypertension]] || Just more of renin is being secreted by the kidneys.
+|-
+| [[Hemorrhage]] (bleeding) || Kidneys trying to raise falling blood pressure.
+|-
+| [[Hypokalemia]] || Kidneys trying to raise falling blood pressure due to reduced cardiac output.
+|-
+| [[Malignant hypertension]] || Excessive renin is being secreted by the kidneys.
+|-
+| Renin-producing renal [[tumors]] || Tumors can secrete substances like this. See [[tumor markers]]
+|-
+| Renovascular hypertension || Renal vascular damage leading to reduced [[Juxtaglomerular apparatus|JGA]] perfusion.
+|}
+
+'''Lower-than-normal levels may indicate''':
+{| class="wikitable"
+|-
+! Disease !! Brief Description
+|-
+| [[Vasopressin|ADH]] therapy || Leads to water retention and thus raised blood pressure.
+|-
+| Salt-retaining [[steroid]] therapy || see above
+|-
+| Salt-sensitive essential hypertension || see above
+|-
+| Primary Hyperaldosteronsim || see above and direct inhibition of aldosteron on renin secretion
+|}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* MedlinePlus Medical Encyclopedia(Public Domain - copy left):[http://www.nlm.nih.gov/medlineplus/ency/article/003698.htm].
+
+* Brenner & Rector's The Kidney, 7th ed., Saunders, 2004. pp.&nbsp;2118–2119.Full Text with MDConsult subscription.
+
+{{hormones}}
+{{Cardiovascular system}}
+{{Renal physiology}}
+
+[[Category:Blood pressure]]
+[[Category:Renal physiology]]
+[[Category:Hormones of the kidneys]]
+[[Category:Peptide hormones]]
+[[Category:Nephrology]]

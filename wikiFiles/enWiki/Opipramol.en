@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462265431
+| IUPAC_name = 4-[3-(5''H''-dibenz[b,f]azepin- 5-yl)propyl]-1-piperazinethanol
+| image = Opipramol2.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|opipramol}}
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 315-72-0
+| ATC_prefix = N06
+| ATC_suffix = AA05
+| PubChem = 9417
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9046
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = D23ZXO613C
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08297
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 370753
+
+<!--Chemical data-->
+| C=23 | H=29 | N=3 | O=1 
+| molecular_weight = 363.496 g/mol
+| smiles = OCCN1CCN(CC1)CCCN4c2ccccc2\C=C/c3ccccc34
+| InChI = 1/C23H29N3O/c27-19-18-25-16-14-24(15-17-25)12-5-13-26-22-8-3-1-6-20(22)10-11-21-7-2-4-9-23(21)26/h1-4,6-11,27H,5,12-19H2
+| InChIKey = YNZFUWZUGRBMHL-UHFFFAOYAZ
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H29N3O/c27-19-18-25-16-14-24(15-17-25)12-5-13-26-22-8-3-1-6-20(22)10-11-21-7-2-4-9-23(21)26/h1-4,6-11,27H,5,12-19H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YNZFUWZUGRBMHL-UHFFFAOYSA-N
+}}
+
+'''Opipramol''' ('''Insidon''', '''Pramolan''', '''Ensidon''', '''Oprimol''') is an [[antidepressant]] and [[anxiolytic]] used in [[Germany]] and other [[Europe]]an countries.<ref name="pmid11199949">{{cite journal | author = Möller HJ, Volz HP, Reimann IW, Stoll KD | title = Opipramol for the treatment of generalized anxiety disorder: a placebo-controlled trial including an alprazolam-treated group | journal = Journal of Clinical Psychopharmacology | volume = 21 | issue = 1 | pages = 59–65 | year = 2001 | month = February | pmid = 11199949 | doi = 10.1097/00004714-200102000-00011 | url = http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0271-0749&volume=21&issue=1&spage=59}}</ref><ref name="pmid15547785">{{cite journal | author = Müller WE, Siebert B, Holoubek G, Gentsch C | title = Neuropharmacology of the anxiolytic drug opipramol, a sigma site ligand | journal = Pharmacopsychiatry | volume = 37 | issue = Suppl 3 | pages = S189–197 | year = 2004 | month = November | pmid = 15547785 | doi = 10.1055/s-2004-832677 | url = }}</ref> Although it is a member of the [[tricyclic antidepressant]]s, opipramol's primary [[mechanism of action]] is much different in comparison.<ref name="pmid15547785" /> Most TCAs act as [[reuptake inhibitor]]s, but opipramol does not, and instead acts as a [[sigma receptor]] [[agonist]], among other properties.<ref name="pmid15547785" />
+
+== Indications ==
+
+Opipramol is typically used in the treatment of [[generalized anxiety disorder]] (GAD).<ref name="pmid11199949" /> Its anxiolysis becomes prominent after only 1-2 weeks of chronic administration. Upon first commencing treatment, opipramol is rather sedating in nature due to its [[antihistamine]] properties, but this effect becomes less prominent with time.
+
+== Pharmacology ==
+
+Opipramol acts as a high [[Affinity (pharmacology)|affinity]] [[sigma receptor]] [[agonist]], primarily at the [[Sigma-1 receptor|σ<sub>1</sub>]] subtype, but also at the [[Sigma-2 receptor|σ<sub>2</sub>]] subtype with somewhat lower affinity.<ref name="pmid11199949" /> It is this property which is responsible for its therapeutic benefits against anxiety and depression.<ref name="pmid15547785" /> Opipramol also acts as a low to moderate affinity [[receptor_antagonist|antagonist]] for the [[D2_receptor|D<sub>2</sub>]], [[5-HT2_receptor|5-HT<sub>2</sub>]], [[Histamine_H1_receptor|H<sub>1</sub>]], [[Histamine_H2_receptor|H<sub>2</sub>]], and [[muscarinic acetylcholine receptor]]s. H<sub>1</sub> and H<sub>2</sub> receptor antagonism account for its [[antihistamine]] effects, and muscarinic acetylcholine receptor antagonism is responsible for its [[anticholinergic]] properties.<ref name="pmid11199949" />
+
+== Contraindications ==
+
+Opipramol should not be taken with [[alcohol]], or in patients with [[benign prostatic hyperplasia]] (BPH) or [[glaucoma]].
+
+== See also ==
+* [[Tricyclic antidepressant]]
+* [[Quetiapine]]
+
+== References ==
+{{Reflist}}
+
+{{Anxiolytics}}
+{{Antidepressants}}
+{{Cholinergics}}
+{{Histaminergics}}
+{{Serotonergics}}
+{{Sigmaergics}}
+{{Tricyclics}}
+
+[[Category:Anxiolytics]]
+[[Category:Tricyclic antidepressants]]
+[[Category:Dibenzazepines]]
+[[Category:Piperazines]]
+[[Category:Alcohols]]

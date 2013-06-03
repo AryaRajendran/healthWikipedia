@@ -1,0 +1,107 @@
+{{refimprove|date=May 2009}}
+'''Thymocytes''' are [[hematopoietic]] [[progenitor cells]] present in the [[thymus]].<ref>{{DorlandsDict|eight/000108679|thymocyte}}</ref> '''Thymopoiesis''' is the process in the thymus by which thymocytes differentiate into mature T lymphocytes. The primary function of thymocytes is the generation of T lymphocytes ([[T cells]]). The thymus provides an inductive environment, which allows for the development and selection of physiologically useful T cells. The processes of beta-selection, positive selection, and negative selection shape the population thymocytes into a peripheral pool of T cells that are able to respond to foreign pathogens and are immunologically tolerant towards self antigens.
+
+==Stages of maturation==
+Thymocytes are classified into a number of distinct maturational stages based on the expression of cell surface markers. The earliest thymocyte stage is the double negative stage (negative for both CD4 and CD8), which more recently has been better described as Lineage-negative, and which can be divided into four substages. The next major stage is the double positive stage (positive for both CD4 and CD8). The final stage in maturation is the single positive stage (positive for either CD4 or CD8).
+
+===In mice===
+{| class="wikitable"
+| '''Stage''' || '''Defining surface markers''' || '''Location''' || '''Significant events''' 
+ |- 
+ | Double negative 1 or ETP (Early T lineage Progenitor) || Lineage-[[CD44]]+[[CD25]]-[[CD117]]+ || cortex || Proliferation, Loss of B and myeloid potentials
+ |- 
+ | Double negative 2 || Lineage-CD44+CD25+CD117+ || cortex || -
+ |- 
+ | Double negative 3 || Lineage-CD44-CD25+ || cortex || TCR-beta rearrangement, beta selection
+ |- 
+ | Double negative 4 || Lineage-CD44-CD25- || cortex || -
+ |- 
+ | Double positive || [[CD4]]+[[CD8]]+ || cortex || TCR-alpha rearrangement, positive selection, negative selection
+ |- 
+ | Single positive || CD4+CD8- or CD4-CD8+ || medulla || Negative selection
+|}
+
+===In humans===
+In human, circulating CD34+ hematopoietic stem cells ([[HSC]]) reside in bone marrow. They produce precursors of T lymphocytes, which seed the [[thymus]] (thus becoming thymocytes) and differentiate under influence of the [[Notch protein|Notch]] and its ligands.
+
+Early, double negative thymocytes express (and can be identified by) [[CD2]], [[CD5]] and [[CD7]]. Still during the double negative stage, [[CD34]] expression stops and [[CD1]] is expressed. Expression of both CD4 and CD8 makes them ''double positive'', and matures into either CD4+ or CD8+ cells.<ref name=Robbins12-13>Figure 12-13 in: {{cite book |author=Mitchell, Richard Sheppard; Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson |title=Robbins Basic Pathology|publisher=Saunders |location=Philadelphia |year= |pages= |isbn=1-4160-2973-7 |doi=}} 8th edition.</ref>
+
+==Events during maturation==
+{| class="wikitable"
+|  ''type:'' || '''functional (beta selection)''' || '''functional (positive selection)''' || '''autoreactive (negative selection)''' 
+ |- 
+ | ''location:'' || cortex || cortex || cortex/medulla
+ |- 
+ | [[Image:Intrathymic T Cell Differentiation.JPG|250px]] || 
+In order to pass the β-selection checkpoint, the β chain of the [[T cell receptor]] rearranged by the thymocyte must retain the structural properties allowing it to be presented on the surface of the thymocyte with pre-TCRα. This eliminates thymocytes with gross defects introduced into the [[T cell receptor]] by gene rearrangement.
+||
+In order to be ''positively-selected'', thymocytes will have to interact with several cell surface molecules, [[MHC]], to ensure reactivity and specificity.<ref name="jimmunol.org">Baldwin TA, Hogquist KA, Jameson SC, The fourth way? Harnessing aggressive tendencies in the thymus. “J Immunol.” 173:6515-20, 2004. [http://www.jimmunol.org/cgi/content/full/173/11/6515]</ref> 
+
+Positive selection selects cells with a [[T cell receptor]] able to bind [[Major histocompatibility complex|MHC]] class I or II molecules with at least a weak affinity. This eliminates (by a process called "death by neglect") those T cells which would be non-functional due to an inability to bind MHC.
+|| 
+Negative selection is the active induction of apoptosis in thymocytes with a high affinity for self peptides or MHC. This eliminates cells which would direct immune responses towards self-proteins in the periphery. Negative selection is not 100% effective, some autoreactive T cells escape thymic censorship, and are released into the circulation. 
+
+Additional mechanisms of tolerance active in the periphery exist to silence these cells such as [[anergy]], deletion, and [[regulatory T cells]]. If these [[peripheral tolerance]] mechanisms also fail, [[autoimmunity]] may arise.
+|}
+
+===Thymus settling===
+Thymocytes are ultimately derived from bone marrow hematopoietic progenitors cells [see [[hematopoietic stem cell]], [[hematopoiesis]]] which reach the thymus through the circulation.<ref>Schwarz BA, Bhandoola A. Trafficking from the bone marrow to the thymus: a prerequisite for [[thymopoiesis]]. ''Immunol Rev'' 209:47, 2006. [http://www.blackwell-synergy.com/doi/abs/10.1111/j.0105-2896.2006.00350.x full text]</ref> The number of progenitors that enter the thymus each day is thought to be extremely small. Therefore which progenitors colonize the thymus is unknown. Currently Early Lymphoid Progenitors (ELP) are proposed to settle the thymus and are likely the precursors of at least some thymocytes. ELPs are Lineage-CD44+CD25-CD117+ and thus closely resemble ETPs, the earliest progenitors in the thymus. Precursors enter the thymus at the cortico-medullary junction. Molecules known to be important for thymus entry include [[P-selectin]] (CD62P), and the [[chemokine receptors]] [[CCR7]] and [[CCR9]].<ref>Schwarz BA, Sambandam A, Maillard I, Harman BC, Love PE, Bhandoola A. Selective thymus settling regulated by cytokine and chemokine receptors. J Immunol. 2007 Feb 15;178(4):2008-17. [http://www.jimmunol.org/cgi/content/full/178/4/2008]</ref>
+
+Following thymus entry, progenitors proliferate to generate the ETP population. This step is following by the generation of DN2 thymocytes which migrate from the cortico-medullary junction toward the thymus capsule. DN3 thymocytes are generated at the subcapsular zone. 
+
+In addition to proliferation, differentiation and T lineage commitment occurs within the DN thymocyte population. Commitment, or loss of alternative lineage potentials (such as myeloid, B, and NK lineage potentials), is dependent on [[Notch signaling]], and is complete by the DN3 stage. Following T lineage commitment, DN3 thymocytes undergo β-selection. <ref> C. Clare Blackburn & Nancy R. Manley "Developing a new paradigm for thymus organogenesis" Nature Reviews Immunology April 2004 278-289 Retrieved 10/4/12 [http://www.nature.com/nri/journal/v4/n4/fig_tab/nri1331_F1.html] </ref>
+
+===β-selection===
+[[Image:Thymus.JPG|thumb|Histology of the thymus showing the cortex and medulla]]
+[[Image:Gray1179.png|thumb|Minute structure of thymus.]]
+
+The ability of T cells to recognize foreign antigens is mediated by the [[T cell receptor]] (TCR), which is a surface protein able to recognise short protein sequences ([[peptides]]) that are presented on [[Major histocompatibility complex|MHC]]. The purpose of thymocyte development is to produce mature T cells with a diverse array of functional T cell receptors, through the process of TCR gene rearrangement.
+
+Unlike most genes, which have a stable sequence in each cell which expresses them, the [[T cell receptor]] is made up of a series of alternative gene fragments. In order to create a functional T cell receptor, the double negative thymocytes use a series of DNA-interacting enzymes to clip the DNA and bring separate gene fragments together. The outcome of this process is that each [[T cell receptor]] has a different sequence, due to different choice of gene fragments and the errors introduced during the cutting and joining process (see section on [[V(D)J recombination]] for more information on TCR rearrangement). The evolutionary advantage in having a large number of unique [[T cell receptor]]s is that each T cell is capable of recognizing a different peptide, providing a defense against rapidly evolving pathogens.<ref>Sleckman BP, Lymphocyte antigen receptor gene assembly: multiple layers of regulation. ''Immunol Res'' 32:153-8, 2005. [http://journals.humanapress.com/index.php?option=com_opbookdetails&task=articledetails&category=humanajournals&article_code=IR:32:1:253 full text]</ref>
+
+TCR rearrangement occurs in two steps. First the TCRβ chain is rearranged at the DN3 stage of T cell development. The TCRβ chain is paired with the pre-Tα to generate the pre-TCR. The cellular disadvantage in the rearrangement process is that many of the combinations of the [[T cell receptor]] gene fragments are non-functional. To eliminate thymocytes which have made a non-functional [[T cell receptor]], only cells that have successfully rearranged the beta chain to produce a functional pre-TCR are allowed to develop beyond the DN3 stage. Cells that fail to produce a functional pre-TCR are eliminated by [[apoptosis]]. This process is referred to as the beta-selection checkpoint. Successful beta-selection requires that TCRβ is produced, TCRβ is capable of pairing with pre-Tα to generate the pre-TCR, and that the pre-TCR can interact on the cell surface with the TCR signalling proteins.
+
+Following β-selection thymocytes generate CD4+CD8+ double positive cells, which then undergo TCRα rearrangement, resulting in completely assembled TCR.
+
+===Positive selection and lineage commitment===
+Thymocytes which pass "β-selection" express a [[T cell receptor]] which is capable of assembling on the surface. However many of these [[T cell receptor]]s will still be non-functional, due to an inability to bind [[MHC]]. The next major stage of thymocyte development is positive selection, to keep only those thymocytes which have a T cell receptor capable of binding [[MHC]]. The T cell receptor requires CD8 as a coreceptor to bind to [[MHC]] class I, and [[CD4]] as a coreceptor to bind [[MHC]] class II. At this stage thymocytes upregulate both [[CD4]] and [[CD8]], becoming double positive cells.
+
+Double positive thymocytes that have a T cell receptor capable of binding MHC class I or class II (even with a weak affinity) receive signalling through the T cell receptor.<ref name="jimmunol.org"/> Thymocytes that have a T cell receptor incapable of binding MHC class I or class II undergo [[apoptosis]]. Some thymocytes are able to rescue failed positive selection by receptor editing (rearrangement of the other T cell receptor allele to produce a new T cell receptor).
+
+The double positive thymocytes undergo lineage commitment, maturing into a CD8+ T cell (recognising MHC class I) or a CD4+ T cell (recognising MHC class II). Lineage commitment occurs at the late stage of positive selection and works by downregulation of both CD4 and CD8 (reducing the signal from the T cell receptor) and then upregulation of CD4 only. Thymocytes that start receiving signal again are those that recognise MHC class II, and they become CD4+ T cells. Thymocytes that do not start receiving signal again are those that recognize MHC class I, and they downregulate CD4 and upregulate CD8, to become CD8+ T cells. Both of these thymocytes types are known as single positive thymocytes.
+
+===Negative selection===
+Success in positive selection allows the thymocyte to undergo a number of maturational changes during the transition to a single positive T cell. The single positive T cells upregulate the [[chemokine]] receptor CCR7, causing migration from the cortex to the medulla. At this stage the key maturation process involves negative selection, the elimination of autoreactive thymocytes.
+
+The key disadvantage in a gene rearrangement process for [[T cell receptor]]s is that by random chance, some arrangements of gene fragments will create a T cell receptor capable of binding self-peptides presented on MHC class I or MHC class II. If T cells bearing these T cell receptors were to enter the periphery, they would be capable of activating an immune response against self, resulting in [[autoimmunity]]. Negative selection is the process evolved to reduce this risk. During negative selection, all thymocytes with a high affinity for binding self peptides presented on MHC class I or class II are induced to upregulate [[Bim]], a protein which drives apoptosis. Cells which do not have a high affinity for self-antigens survive negative selection. At this stage, some cells are also selected to become [[regulatory T cells]], usually cells which have an intermediate affinity for self-peptide.
+
+Negative selection can occur at the double positive stage in the cortex. However the repertoire of peptides in the cortex is limited to those expressed by epithelial cells, and double positive cells are poor at undergoing negative selection. Therefore the most important site for negative selection is the medulla, once cells are at the single positive stage. In order to remove thymocytes reactive to peripheral organs, the transcription factor [[AIRE]] drives the expression of multiple peripheral antigens, such as insulin, resulting in deletion of cells specific for those antigens.<ref>Anderson, M.S. et al. (2002) Projection of an Immunological Self-Shadow Within the Thymus by the Aire Protein. Science 298 (5597), 1395-1401</ref><ref>Liston, A. et al. (2003) Aire regulates negative selection of organ-specific T cells. Nat Immunol 4 (4), 350-354</ref> This allows single positive thymocytes to be exposed to a more complex set of self-antigens than is present in the cortex, and therefore more efficiently deletes those T cells which are autoreactive.
+
+Single positive thymocytes remain in the medulla for 1–2 weeks, surveying self-antigens to test for autoreactivity. During this time they undergo final maturational changes, and then exit the thymus using S1P and CCR7. Upon entry to the peripheral [[bloodstream]], the cells are considered mature T cells, and not thymocytes.
+
+Negative selection is not 100% effective, some autoreactive T cells escape thymic censorship, and are released into the circulation. Additional mechanisms of [[peripheral tolerance]] active in the periphery exist to silence these cells such as [[anergy]], deletion, and [[regulatory T cells]]. If these peripheral tolerance mechanisms also fail, [[autoimmunity]] may arise.
+
+[[Thymus transplantation]] results in that T cells are taught to avoid reacting with donor antigens instead, and may still react with many self-antigens in the body. Autoimmune disease is a frequent complication after thymus transplantation, found in 42% of subjects over 1 year post-transplantation.<ref>Thymus Transplantation
+Book	Thymus Gland Pathology
+Publisher	Springer Milan
+DOI	10.1007/978-88-470-0828-1
+Copyright	2008
+ISBN	978-88-470-0827-4 (Print) 978-88-470-0828-1 (Online)
+DOI	10.1007/978-88-470-0828-1_30
+Pages	255-267
+</ref> However, this is partially explained by that the indication itself, that is, complete [[DiGeorge syndrome]] (absence of thymus), increases the risk of autoimmune disease.<ref name=Markert2007>{{cite journal |author=Markert ML, Devlin BH, Alexieff MJ, ''et al.'' |title=Review of 54 patients with complete DiGeorge anomaly enrolled in protocols for thymus transplantation: outcome of 44 consecutive transplants |journal=Blood |volume=109 |issue=10 |pages=4539–47 |year=2007 |month=May |pmid=17284531 |pmc=1885498 |doi=10.1182/blood-2006-10-048652 |url=}}</ref>
+
+==Cancer==
+Thymocytes that gain oncogenic mutations allowing uncontrolled proliferation can become thymic [[lymphomas]].
+
+==Alternative lineages==
+As well as classical αβ T cells (their development of which is outlined above), a number of other T lineages develop in the thymus, including γδ T cells and Natural Killer T (NKT)cells. Additionally, other non-T hematopoietic lineages can develop in the thymus, including B lymphocytes (B cells), Natural Killer lymphocytes (NK cells).<ref name="pmid15114674">{{cite journal |author=van den Brandt J, Voss K, Schott M, Hünig T, Wolfe MS, Reichardt HM |title=Inhibition of Notch signaling biases rat thymocyte development towards the NK cell lineage |journal=Eur. J. Immunol. |volume=34 |issue=5 |pages=1405–13 |year=2004 |month=May |pmid=15114674 |doi=10.1002/eji.200324735}}</ref><ref>{{cite journal|pmc=2191276 | pmid=7504051 | volume=178 | issue=6 | title=Human natural killer cell committed thymocytes and their relation to the T cell lineage | year=1993 | month=December | author=Sánchez MJ, Spits H, Lanier LL, Phillips JH | journal=J. Exp. Med. | pages=1857–66}}</ref>), myeloid cells, and dendritic cells. However, the thymus is not a source of B, NK, or myeloid development. The development of these cells in the thymus reflects the multipotent nature of hematopoitic prognitors that seed the thymus.
+
+==References==
+{{Reflist|2}}
+
+{{Lymphocytes}}
+{{Immune system}}
+
+[[Category:Lymphocytes]]
+[[Category:WikiProject Molecular and Cellular Biology articles]]

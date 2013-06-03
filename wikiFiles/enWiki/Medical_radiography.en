@@ -1,0 +1,138 @@
+{{Diagnostic infobox |
+  Name        = Medical radiography |
+  Image       = |
+  Caption     = |
+  ICD10       = B?0, B?1, B?2 |
+  ICD9        = {{ICD9proc|87}}, {{ICD9proc|88.0}}-{{ICD9proc|88.6}} |
+  MeshID      = D011859 |
+  OPS301      = {{OPS301|3-10...3-13}}, {{OPS301|3-20...3-26}} |
+  OtherCodes  = |
+}}
+'''Radiography''' is the use of ionizing [[electromagnetic radiation]] such as [[X-ray]]s to view objects. Although not technically radiographic techniques, imaging modalities such as [[Positron emission tomography|PET]] and [[Magnetic resonance imaging|MRI]] are sometimes grouped in radiography because the [[radiology]] department of hospitals handle all forms of imaging. Treatment using radiation is known as [[radiotherapy]].
+
+== History ==
+[[File:Xraymachine.JPG|thumb|Radiography of knee in modern x-ray machine at Sandnessjøen Hospital, Norway.]]
+Radiography started in 1895 with the discovery of [[X-ray]]s (later also called [[Wilhelm Conrad Röntgen|Röntgen]] rays after the man who first described their properties in rigorous detail), a type of [[electromagnetic radiation]]. Soon these found various applications, from helping to find shoes that fit, to the more lasting medical uses. X-rays were put to diagnostic use very early, before the [[Ionising_radiation#Biological_effects|dangers of ionising radiation]] were discovered.  Initially, many groups of staff conducted radiography in hospitals, including physicists, photographers, doctors, nurses, and engineers. The medical speciality of [[radiology]] grew up around the new technology, and this lasted many years. When new diagnostic tests involving X-rays were developed, it was natural for the [[radiologic technologist|radiographer]]s to be trained and adopt this new technology. This happened first with [[fluoroscopy]], [[computed tomography]] (1960s), and [[mammography]]. [[Medical ultrasonography|Ultrasound]] (1970s) and [[magnetic resonance imaging]] (1980s) was added to the list of skills used by radiographers because they are also [[medical imaging]], but these disciplines do not use ionising radiation or X-rays. Although a nonspecialist dictionary might define radiography quite narrowly as "taking X-ray images", this has only been part of the work of an "X-ray department", radiographers, and radiologists for a very long time. X-rays are also exploited by industrial radiographers in the field of [[nondestructive testing]], where the newer technology of [[ultrasound]] is also used.
+
+==Diagnostic radiography==
+
+Diagnostic radiography involves the use of both ionising radiation and non-ionising radiation to create images for medical diagnoses. The predominant test is still the X-ray (the word X-ray is often used for both the test and the actual film or digital image). [[X-ray]]s are the second most commonly used medical tests, after [[blood test|laboratory tests]].  This application is known as diagnostic radiography.  Since the body is made up of various substances with differing densities, X-rays can be used to reveal the internal structure of the body on film by highlighting these differences using [[attenuation (electromagnetic radiation)|attenuation]], or the ''absorption'' of X-ray [[photon]]s by the denser substances (like [[calcium]]-rich bones).  Medical diagnostic radiography is undertaken by a specially trained professional called a diagnostic radiographer in the UK, or a [[radiologic technologist]] in the USA. 
+
+There are several sub-specialities:
+
+=== Projection radiography ===
+''For the main article see [[Projectional Radiography]]''
+[[File:Ap lateral elbow.jpg|thumb|right|X-ray radiographs]]
+The creation of images by exposing an object to [[X-ray]]s or other high-energy forms of [[electromagnetic radiation]] and capturing the resulting remnant beam (or "shadow") as a latent image is known as "projection radiography."  The "shadow" may be converted to light using a fluorescent screen, which is then captured on [[photographic film]], it may be captured by a phosphor screen to be "read" later by a laser (CR), or it may directly activate a matrix of [[Solid state (electronics)|solid-state]] detectors (DR—similar to a very large version of a [[charge-coupled device|CCD]] in a digital camera). [[Bone]] and some organs (such as [[lung]]s) especially lend themselves to projection radiography. It is a relatively low-cost investigation with a high [[diagnosis|diagnostic]] yield.
+
+Projection radiography uses [[X-rays]] in different amounts and strengths depending on what body part is being imaged:
+
+*Hard tissues such as [[bone]] require a relatively high energy photon source, and typically a [[tungsten]] anode is used with a high voltage (50-150 kVp) on a 3-phase or high-frequency machine to generate [[braking radiation]].  Bony tissue and metals are denser than the surrounding tissue, and thus by absorbing more of the X-ray photons they prevent the film from getting exposed as much.  Wherever dense tissue absorbs or stops the X-rays, the resulting X-ray film is unexposed, and appears translucent blue, whereas the black parts of the film represent lower-density tissues such as fat, skin, and internal organs, which could not stop the X-rays.  This is usually used to see bony fractures, foreign objects (such as ingested coins), and used for finding bony pathology such as [[osteoarthritis]], infection ([[osteomyelitis]]), cancer ([[osteosarcoma]]), as well as growth studies (leg length, [[achondroplasia]], [[scoliosis]], etc.).
+
+* Soft tissues are seen with the same machine as for hard tissues, but a "softer" or less-penetrating X-ray beam is used.  Tissues commonly imaged include the lungs and heart shadow in a chest X-ray, the air pattern of the bowel in abdominal X-rays, the soft tissues of the neck, the orbits by a skull X-ray before an [[MRI]] to check for radiopaque foreign bodies (especially metal), and of course the soft tissue shadows in X-rays of bony injuries are looked at by the radiologist for signs of hidden trauma (for example, the famous "fat pad" sign on a fractured elbow).
+
+*[[Dental radiography]] uses a small radiation dose with high penetration to view teeth, which are relatively dense.  A [[dentist]] may examine a painful tooth and [[gingiva|gum]] using X-ray equipment. The machines used are typically single-phase pulsating DC, the oldest and simplest sort.  Dental technicians or the dentist may run these machines—radiologic technologists are not required by law to be present.
+
+*[[Mammography]] is an X-ray examination of breasts and other soft tissues. This has been used mostly on women to screen for [[breast cancer]], but is also used to view male breasts, and used in conjunction with a radiologist or a surgeon to localise suspicious tissues before a [[biopsy]] or a [[lumpectomy]].  Breast implants designed to enlarge the breasts reduce the viewing ability of mammography, and require more time for imaging as more views need to be taken.  This is because the material used in the implant is very dense compared to breast tissue, and looks white (clear) on the film.  The radiation used for mammography tends to be softer (has a lower [[photon]] [[energy]]) than that used for the harder tissues. Often a tube with a [[molybdenum]] [[anode]] is used with about 30 000 [[volts]] (30 kV), giving a range of X-ray energies of about 15-30 keV. Many of these photons are "characteristic radiation" of a specific energy determined by the atomic structure of the target material (Mo-K radiation).
+
+Other modalities are used in radiography when traditional projection X-ray cannot image what doctors want to see.  Below are other modalities included within radiography; they are only summaries and more specific information can be viewed by going to their individual pages:
+
+===Fluoroscopy===
+{{Main|Fluoroscopy}}
+
+Fluoroscopy is a term invented by Thomas Edison during his early X-ray studies.  The name refers to the fluorescence he saw while looking at a glowing plate bombarded with X-rays.  
+
+This is a technique that provides moving projection radiographs of lower quality. Fluoroscopy is mainly performed to view movement (of tissue or a contrast agent), or to guide a medical intervention, such as angioplasty, pacemaker insertion, or joint repair/replacement. The latter are often carried out in the operating theatre, using a portable fluoroscopy machine called a C-arm.  It can move around the surgery table and make digital images for the surgeon.
+
+===Biplanar Fluoroscopy===
+{{Main|Biplanar Fluoroscopy}}
+
+Biplanar Flouroscopy works the same as single plane flouroscopy except displaying two planes at same the time. This gives the advantage to work in two planes which is necessary for orthopedic and spinal surgery. The operation time is greatly reduced since no re-positioning is required.
+
+===Angiography===
+{{Main|Angiography}}
+[[Angiography]] is the use of fluoroscopy to view the cardiovascular system.  An iodine-based contrast is injected into the bloodstream and watched as it travels around.  Since liquid blood and the vessels are not very dense, a contrast with high density (like the large iodine atoms) is used to view the vessels under X-ray.  Angiography is used to find [[aneurysm]]s, leaks, blockages ([[thrombosis|thromboses]]), new vessel growth, and placement of catheters and stents.  [[Angioplasty|Balloon angioplasty]] is often done with angiography.
+
+===Dual energy X-ray absorptiometry===
+
+[[Dual energy X-ray absorptiometry|DEXA]], or bone densitometry, is used primarily for [[osteoporosis]] tests. It is not projection radiography, as the X-rays are emitted in 2 narrow beams that are scanned across the patient, 90 degrees from each other. Usually the hip (head of the [[femur]]), lower back ([[Lumbar vertebrae|lumbar spine]]) or heel ([[Calcaneus|calcaneum]]) are imaged, and the bone density (amount of calcium) is determined and given a number (a T-score).  It is not used for bone imaging, as the image quality is not good enough to make an accurate diagnostic image for fractures, inflammation etc. It can also be used to measure total body fat, though this isn't common. The radiation dose received from DEXA scans is very low, much lower than projection radiography examinations.
+
+===Computed tomography===
+
+[[Computed tomography]] or CT scan (previously known as CAT scan, the "A" standing for "axial") uses a high amount of ionizing radiation (in the form of X-rays) in conjunction with a computer to create images of both soft and hard tissues.  These images look as though the patient was sliced like bread (thus, "tomography"-- "tomo" means "slice").  The machine looks similar to an [[MRI]] machine to many patients, but is not related.  The exams are generally short, most lasting only as long as a breath-hold. [[Radiocontrast|Contrast agents]] are often used, depending on the tissues needing to be seen.  Radiographers perform these examinations, sometimes in conjunction with a radiologist (for instance, when a radiologist performs a CT-guided [[biopsy]]).
+
+==Technical considerations==
+X-ray photons are formed in events involving electrons and are the mainly form of ionizing [[electromagnetic radiation]] used in medical radiography. This radiation is much more [[energy|energetic]] than the more familiar types such as [[radio waves]] and [[visible light]]. Proper production and detection of photons are important in the creation of good radiograms.
+
+===Photon production===
+X-ray radiation for medical imaging is typically produced by [[X-ray]] tubes, which operate through bombarding the [[anode]] with high energy electrons emitted from a hot cathode. Image sharpness, contrast, and patient dosage are important considerations in medical radiography and these requirements determined the desired energies of the tube, the type of material used on the anode, and the method in which the power is generated to drive the tube. Although the technical definition of x-rays range from 1-700 [[electron volt|keV]], medical x-rays typically use 5-150 keV x-rays. The photons emitted come in discrete bands of energy corresponding to the material of the anode, and the undesired bands are removed. Choice of the anode and its emitted radiation energies depends on the application and the tissues being imaged, for instance [[molybdenum]] is often used in mammography because of its 20 keV x-rays. Too high radiation energies will result in poor pictures since the radiation cannot be readily attenuated, however too low energies will increase the radiation dosage of the patient without improvements in image quality.
+
+Sharpness of a radiographic image is strongly determined by the size of the x-ray source. This is determined by the area of the electron beam hitting the anode. A large photon source results in more blurring in the final image and is worsened by an increase in image formation distance. This blurring can be measured as a contribution to the [[modulation transfer function]] of the imaging system.
+
+===Power generation===
+The power used by the x-ray tube is generated by a specialized generator, which supplies the voltage and current required to drive the tube. The generator needs to supply high voltages with small exposure times. An exposure thus can be described by two factors:
+#The ''peak voltage'' of the cathode to anode
+#The ''milliampere seconds'' exposure time
+These variables can be controlled by the operator but are more typically assigned automatically by the x-ray machinery through sampling the emitted radiation. Power generators convert standard 120 or 220 volt [[alternating current|AC]] to higher [[direct current|DC]] voltages and typically employ rectified and filtered multiphase transformers which maintain a constant voltage and can be turn rapidly on and off for millisecond exposures.
+
+===Photon detection===
+Photons images that have been shadowed from an imaging subject must be detected at high fidelity and resolution to allow for diagnosis. There are three main types of image detection methods used namely: film/screens, image intensifiers, and digital detectors, with the latter fast becoming the standard for x-ray image detection. The ability of an x-ray detector to produce high-quality images is determined largely by the modulation transfer function (MTF) and [[detective quantum efficiency]] (DQE) of the system.
+
+====Film/Screens====
+X-ray film is almost always used in conjunction with x-ray sensitive screen because high resolution film is quite poor at detecting x-rays. These screens contain rare earth minerals and phosphor materials that convert x-ray radiation to visible light or lows EM energies to which the film is sensitive. Screen generally have to have good contrast, dynamic range, and resolution, with the former two factors being competing properties. The resolution of the screen also affects the sensitivity of the detectors since more sensitive screens are generally thicker, which causes the more blurring because of spreading light.
+
+The film speed also play a factor in image quality. Higher speeds are more sensitive to photons but are generally lower in resolution and more susceptible to noise. Lower speed films produce images of good resolution and dynamic range but requires more photons for exposure and increases the radiation dosage of the subject.
+
+====Image intensifiers and array detectors====
+[[x-ray image intensifier|Image intensifiers]] are analog devices that readily convert the acquired x-ray image into one visible on a video screen. This device is made of a vacuum tube with a wide input surface coated on the inside with [[caesium iodide]] (CsI). When hit by x-rays material phosphors which causes the [[photocathode]] adjacent to it to emit electrons. These electron are then focus using electron lenses inside the intensifier to an output screen coated with phosphorescent materials. The image from the output can then be recorded via a camera and displayed.
+
+Digital devices known an array detectors are becoming more common in fluoroscopy. These devices are made of discrete pixelated detectors known as [[Thin-film transistor|TFT]]s which can either work ''indirectly'' by using photo detectors that detect light emitted from a scintillator material such as CsI, or ''directly'' by capturing the electrons produced when the x-rays hit the detector. Direct detector do not tend to experience the blurring or spreading effect caused by phosphorescent scintillators of or film screens since the detectors are activated directly by x-ray photons.
+
+== Obsolete terminology ==
+The term ''skiagrapher'' was used until about 1918 to mean ''radiographer''. 
+
+The word was derived from [[Ancient Greek]] words for 'shadow' and 'writer'.<ref name="The Electrical world">{{cite book|title=The Electrical world|url=http://books.google.com/books?id=yglRAAAAYAAJ&pg=PA372|accessdate=27 June 2011|year=1896|publisher=Electrical World.|pages=372–}}</ref>
+
+== See also ==
+
+* [[Industrial radiography]]
+
+==References==
+<references/>
+*{{Cite book |editor-first=J.D. |editor-last=Bronzino |first=Robert E. |last=Shroy, Jr. |contribution=X-Ray equipment |title=The Biomedical Engineering handbook |publisher= CRC Press and IEEE Press |year=1995 |pages=953–960 |isbn=0-8493-8346-3 |postscript=<!--None-->}}
+*{{Cite book |first=Jerrold T. |last=Bushberg |first1=J. Anthony |last1=Seibert |first2=Edwin M. |last2=Leidholdt Jr.|first3=John M. |last3=Boone |title=The Essential Physics of Medical Imaging |edition=2nd |year=2001 |publisher=Lippincott Williams & Wilkins |isbn=978-0-683-30118-2 |postscript=<!--None-->}}
+* {{Cite book | last = Herman | first = Gabor T.|authorlink=Gabor Herman | title = Fundamentals of Computerized Tomography: Image Reconstruction from Projections | year = 2009 | publisher = Springer | edition=2nd | isbn=978-1-85233-617-2 | postscript = <!--None-->}}
+*Kodak. ''(http://www.kodak.com/global/en/health/productsByType/index.jhtml?pq-path=2/521/2970)''
+*Agfa. ''(http://www.piribo.com/publications/medical_devices/mdc/agfa_medical.html)''
+*{{cite journal|last=Yu |first=Shi-Bao |coauthors=Alan D. Watson|year=1999|title=A review on the subject of medical X-ray examinations and metal based contrast agents|url=|journal=Chemical Reviews|volume=99|issue=9|pages=2353–2378|doi=10.1021/cr980441p|pmid=11749484}}
+*{{cite book|last=Baker|first=Alan|coauthors=Stuart Dutton (Ed.)|authorlink=|title=Composite Materials for Aircraft Structures|edition=|publisher=American Institute of Aeronautics & Ast|location=|year=2004|isbn=1-56347-540-5|series=}}
+
+==External links==
+*[http://physics.nist.gov/PhysRefData/XrayMassCoef/cover.html NIST's XAAMDI: X-Ray Attenuation and Absorption for Materials of Dosimetric Interest Database]
+*[http://physics.nist.gov/PhysRefData/Xcom/Text/XCOM.html NIST's XCOM: Photon Cross Sections Database]
+*[http://physics.nist.gov/PhysRefData/FFast/Text/cover.html NIST's FAST: Attenuation and Scattering Tables]
+* [http://www.acr.org/s_acr/index.asp American College of Radiology]
+* [http://www.birmingham.gov.uk/x Major John Hall-Edwards, British radiography pioneer]
+* [http://www.johnstonsarchive.net/nuclear/radevents/1984MOR1.html A lost industrial radiography source event]
+* [http://www.iaea.org/Publications/Booklets/SealedRadioactiveSources/industry_lessons.html UN information on the security of industrial sources]
+* [http://www.rtstudents.com/ Radiology School Help] Designed to help radiography students make it through school
+* [http://radiologyinfo.org/en/sitemap/modal-alias.cfm?modal=xray RadiologyInfo -] The radiology information resource for patients: Radiography (X-rays)
+* [http://www.sor.org/ The Society of Radiographers] Definitive information on the practice of Radiography Professionals
+* [http://www.xray2000.co.uk/ Nick Oldnall's radiography site]
+* [http://rad.usuhs.edu/medpix/parent.php3?mode=default MedPix] Free Medical Image Database (radiology website)
+
+{{Medical imaging}}
+
+[[Category:Radiography]]
+
+[[de:Röntgen]]
+[[es:Radiografía]]
+[[eu:Erradiografia]]
+[[fr:Radiographie]]
+[[he:צילום רנטגן]]
+[[nl:Röntgenfoto]]
+[[ja:X線写真]]
+[[pl:Radiografia]]
+[[pt:Radiografia]]
+[[ru:Рентгенография]]
+[[uk:Радіографія]]

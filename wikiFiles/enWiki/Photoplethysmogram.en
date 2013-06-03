@@ -1,0 +1,72 @@
+{{Diagnostic infobox
+| Name            = Photoplethysmography
+| Image           = 
+| Alt             = 
+| Caption         = 
+| DiseasesDB      = 
+| ICD10           = 
+| ICD9            = 
+| ICDO            =
+| MedlinePlus     = 
+| eMedicine       = 
+| MeshID          = D017156
+| LOINC           =
+| HCPCSlevel2     = 
+| OPS301          = 
+| Reference_range =  
+}}
+[[Image:PPG.PNG|thumb|right|300px|Representative PPG taken from an ear pulse oximeter. Variation in amplitude are from Respiratory Induced Variation.]]
+A '''photoplethysmogram''' ('''PPG''') is an optically obtained [[plethysmograph|plethysmogram]], a volumetric measurement of an organ. A PPG is often obtained by using a [[pulse oximeter]] which illuminates the [[skin]] and measures changes in light absorption (Shelley and Shelley, 2001). A conventional pulse oximeter monitors the perfusion of blood to the dermis and subcutaneous tissue of the skin.
+[[Image:skin.png|thumb|right|250px|Diagram of the layers of human skin]]
+With each [[cardiac cycle]] the heart pumps blood to the periphery. Even though this pressure pulse is somewhat damped by the time it reaches the skin, it is enough to distend the arteries and arterioles in the subcutaneous tissue. If the pulse oximeter is attached without compressing the skin, a pressure pulse can also be seen from the venous plexus, as a small secondary peak.
+
+The change in volume caused by the pressure pulse is detected by illuminating the skin with the light from a [[light-emitting diode]] (LED) and then measuring the amount of light either transmitted or reflected to a photodiode. Each cardiac cycle appears as a peak, as seen in the figure. Because blood flow to the skin can be modulated by multiple other physiological systems, the PPG can also be used to monitor breathing, [[hypovolemia]], and other circulatory conditions [http://journals.lww.com/anesthesiology/Fulltext/2008/05000/Utility_of_the_Photoplethysmogram_in_Circulatory.24.aspx (Reisner, et al., 2008)]. Additionally, the shape of the PPG waveform differs from subject to subject, and varies with the location and manner in which the pulse oximeter is attached.
+
+== Sites for measuring PPG ==
+While [[pulse oximeter]]s are a commonly used [[Medical devices|medical device]] the PPG derived from them is rarely displayed, and is nominally only processed to determine heart rate. PPGs can be obtained from transmissive absorption (as at the finger tip) or reflective (as on the forehead).
+
+In outpatient settings, pulse oximeters are commonly worn on the finger.  However, in cases of shock, [[hypothermia]], etc. blood flow to the periphery can be reduced, resulting in a PPG without a discernible cardiac pulse.  In this case, a PPG can be obtained from a pulse oximeter on the head, with the most common sites being the ear, [[nasal septum]], and forehead. 
+
+PPGs can also be obtained from the [[vaginal photoplethysmography|vagina]] and [[esophagus]].
+
+== Uses ==
+[[Image:PVC_detectionUsing_PGG.png|thumb|left|300px|Premature Ventricular Contraction (PVC) can be seen in the PPG just as in the EKG and the Blood Pressure (BP).]] 
+[[Image:VenousPulsationAnd_PGG.png|thumb|right|300px|Venous pulsations can be clearly seen in this PPG.]]
+<br style="clear:both;"/> 
+===Monitoring heart rate and cardiac cycle===
+Because the skin is so richly perfused, it is relatively easy to detect the pulsatile component of the cardiac cycle. The DC component of the signal is attributable to the bulk absorption of the skin tissue, while the AC component is directly attributable to variation in blood volume in the skin caused by the pressure pulse of the cardiac cycle.
+
+The height of AC component of the photoplethysmogram is proportional to the pulse pressure, the difference between the systolic and diastolic pressure in the arteries. As seen in the figure showing [[premature ventricular contraction]]s (PVCs), the PPG pulse for the cardiac cycle with the PVC results in lower amplitude [[blood pressure]] and a PPG. [[Ventricular tachycardia]] and [[ventricular fibrillation]] can also be detected.
+
+===Monitoring respiration===
+[[Image:NiprideEffectOnPPG-large.png|thumb|right|300px|The effects of [[Sodium Nitroprusside]](Nipride) a peripheral vasodilator on the finger PPG of a sedated subject. As expected the PPG amplitude increases after infusion and additionally the Respiratory Induced Variation (RIV) becomes enhanced.]]
+Respiration affects the cardiac cycle by varying the intrapleural pressure, the pressure between the thoracic wall and the lungs. Since the heart resides in the thoracic cavity between the lungs, the partial pressure of inhaling and exhaling greatly influence the pressure on the vena cava and the filling of the right atrium. This effect is often referred to as normal sinus arrhythmia.
+
+During inspiration, intrapleural pressure decreases by up to 4 mm Hg, which distends the right atrium, allowing for faster filling from the vena cava, increasing ventricular preload, and increasing the stroke volume. Conversely during expiration, the heart is compressed, decreasing cardiac efficiency and reducing stroke volume. However, the overall net effect of respiration is to act as pump for the cardiovascular system. When the frequency and depth of respiration increases, the venous return increases, leading to increased cardiac output. (Shelley, et al., 2006)
+
+===Monitoring depth of anesthesia ===
+[[Image:EffectsOfIncisionOnPPG-Large.png|thumb|right|300px|Effects of an incision on a subject under general anesthesia on the photoplethysmograph (PPG) and blood pressure (BP).]]
+
+Anesthesiologist must often judge subjectively whether a patient is sufficiently anesthetized for surgery. As seen in the figure if a patient is not sufficiently anesthetized the sympathetic nervous system response to an incision can generate an immediate response in the amplitude of the PPG. 
+
+===Monitoring hypo- and hypervolemia===
+Shamir, Eidelman, et al. studied the interaction between inspiration and removal of 10% of a patient’s blood volume for blood banking before surgery (Shamir, Eidelman et al. 1999). They found that blood loss could be detected both from the photoplethysmogram from a pulse oximeter and an arterial catheter. Patients showed a decrease in the cardiac pulse amplitude caused by reduced cardiac preload during exhalation when the heart is being compressed.
+
+==References==
+{{refbegin}}
+* M. Shamir, L. A. Eidelman, Y. Floman, L. Kaplan, and R. Pi-zov, ''Pulse Oximetry Plethysmographic Waveform During Changes in Blood Volume'', Br. J. Anaesth., vol. 82, pp. 178-181, 1999.
+* K. Shelley and S. Shelley, ''Pulse Oximeter Waveform: Photoelectric Plethysmography'',in Clinical Monitoring, Carol Lake, R. Hines, and C. Blitt, Eds.: W.B. Saunders Company, 2001, pp. 420-428.
+* K. H. Shelley, D. H. Jablonka, A. A. Awad, R. G. Stout, H. Rezkanna, and D. G. Silverman, ''What Is the Best Site for Measuring the Effect of Ventilation on the Pulse Oximeter Waveform?'' Anesth Analg, vol. 103, pp. 372-377, 2006.
+* [http://journals.lww.com/anesthesiology/Fulltext/2008/05000/Utility_of_the_Photoplethysmogram_in_Circulatory.24.aspx A. T. Reisner, P. A. Shaltis, D. McCombie, and H. H. Asada, ''Utility of the Photoplethysmogram in Circulatory Monitoring'', Anesthesiology, vol. 108, pp. 950-958, 2008.]
+{{refend}}
+
+==External links==
+[http://www.swarthmore.edu/NatSci/echeeve1/Ref/E72Projects/E72Cardio/E72Cardio.html A student project: building a device for collecting PPGs]
+
+[http://www.opensignals.net/index.php?title=Blood_volume_pressure Database of real PPG data obtained with a finger pulse oximeter]
+
+==See also==
+[[Hemodynamics]]
+
+[[Category:Vascular procedures]]
+[[Category:Medical tests]]

@@ -1,0 +1,162 @@
+{{About|the bacterium|the infection|tuberculosis}}
+{{Italic title}}
+{{Taxobox
+| color = lightgrey
+| name = ''Mycobacterium tuberculosis''
+| image = TB_Culture.jpg
+| image_width = 270px
+| image_caption = ''M. tuberculosis'' bacterial colonies
+| regnum = ''[[Bacteria]]''
+| phylum = ''[[Actinobacteria]]''
+| classis = ''[[Actinobacteria]]''
+| subclass = ''[[Actinobacteridae]]''
+| ordo = ''[[Actinomycetales]]''
+| subordo = ''[[Corynebacterineae]]''
+| familia = ''[[Mycobacteriaceae]]''
+| genus = ''[[Mycobacterium]]''
+| species = '''''M. tuberculosis'''''
+| binomial = ''Mycobacterium tuberculosis''
+| binomial_authority = Zopf 1883
+| synonyms = ''Tubercle bacillus'' <small>[[Robert Koch|Koch]] 1882</small>
+}}
+
+'''''Mycobacterium tuberculosis''''' (MTB) is a [[pathogen]]ic [[bacteria]]l species in the family [[Mycobacteriaceae]] and the causative agent of most cases of [[tuberculosis]] (TB).<ref name=Sherris>{{cite book | author = Ismael Kassim, Ray CG (editors) | title = Sherris Medical Microbiology | edition = 4th | publisher = McGraw Hill | year = 2004 | isbn=0-8385-8529-9 }}</ref> First discovered in 1882 by [[Robert Koch]], ''M. tuberculosis'' has an unusual, waxy coating on its cell surface (primarily [[mycolic acid]]), which makes the cells impervious to [[Gram stain]]ing. [[Acid-fast]] detection techniques are used instead. The physiology of ''M. tuberculosis'' is highly [[aerobic organism|aerobic]] and requires high levels of oxygen. Primarily a pathogen of the mammalian [[respiratory system]], MTB infects the lungs. The most frequently used diagnostic methods for TB are the tuberculin skin test, acid-fast stain, and chest radiographs.<ref name=Sherris/>
+
+The ''M. tuberculosis'' [[genome]] was [[sequenced]] in 1998.<ref>{{cite journal |author=Cole ST, Brosch R, Parkhill J, ''et al.'' |title=Deciphering the biology of ''Mycobacterium tuberculosis'' from the complete genome sequence |journal=Nature |volume=393 |issue=6685 |pages=537–44 |year=1998 |month=June |pmid=9634230 |doi=10.1038/31159}}</ref><ref>{{cite journal |author=Camus JC, Pryor MJ, Médigue C, Cole ST |title=Re-annotation of the genome sequence of ''Mycobacterium tuberculosis'' H37Rv |journal=Microbiology (Reading, Engl.) |volume=148 |issue=Pt 10 |pages=2967–73 |year=2002 |month=October |pmid=12368430 |doi= |url=http://mic.sgmjournals.org/cgi/pmidlookup?view=long&pmid=12368430}}</ref>
+
+==Pathophysiology==
+''M. tuberculosis'' [[obligate aerobe|requires oxygen to grow]]. It does not retain any bacteriological stain due to high lipid content in its wall, and thus is neither Gram-positive nor Gram-negative; hence [[Ziehl-Neelsen staining]], or acid-fast staining, is used. While mycobacteria do not seem to fit the Gram-positive category from an empirical standpoint (i.e., they do not retain the [[crystal violet]] stain), they are classified as [[acid-fast]] Gram-positive bacteria due to their lack of an [[Bacterial outer membrane|outer cell membrane]].<ref name=Sherris />
+
+''M. tuberculosis'' divides every 15–20 hours, which is extremely slow compared to other bacteria, which tend to have division times measured in minutes (''[[Escherichia coli]]'' can divide roughly every 20 minutes). It is a small [[bacillus (shape)|bacillus]] that can withstand weak [[disinfectant]]s and can survive in a dry state for weeks. Its unusual cell wall, rich in [[lipids]] (e.g., [[mycolic acid]]), is likely responsible for this resistance and is a key virulence factor.<ref>{{cite book |author=Murray PR, Rosenthal KS, Pfaller MA | year=2005 | title=Medical Microbiology | publisher= Elsevier Mosby}}</ref>
+
+When in the lungs, ''M. tuberculosis'' is taken up by alveolar [[macrophages]], but they are unable to digest the bacterium. Its cell wall prevents the fusion of the [[phagosome]] with a [[lysosome]]. Specifically, ''M. tuberculosis'' blocks the bridging molecule, early endosomal autoantigen 1 (EEA1); however, this blockade does not prevent fusion of vesicles filled with nutrients. Consequently, the bacteria multiply unchecked within the macrophage. The bacteria also carried the ''UreC'' gene, which prevents acidification of the phagosome.<ref>{{cite journal | author = Bell E | title=Vaccines: A souped-up version of BCG | journal=Nature Reviews Immunology | volume=5 | issue=10 | pages=746 | month=October| year=2005| doi=10.1038/nri1720}}</ref> The bacteria also evade macrophage-killing by neutralizing reactive nitrogen intermediates.<ref>{{cite journal | author = JoAnne L Flynn� and John Chany | title=Immune evasion by ''Mycobacterium tuberculosis'': living with the enemy | journal=Current Opinion in Immunology | volume=15 | issue=4 | pages=450–5 | month=august| year=2003 | doi = 10.1016/S0952-7915(03)00075-X | pmid = 12900278}}</ref>
+
+The ability to construct ''M. tuberculosis'' mutants and test individual gene products for specific functions has significantly advanced our understanding of the [[pathogenesis]] and [[virulence factors]] of ''M. tuberculosis''. Many secreted and exported proteins are known to be important in pathogenesis.<ref name= WooldridgeK>{{cite book |author= Wooldridge K (editor)| year=2009 |title=Bacterial Secreted Proteins: Secretory Mechanisms and Role in Pathogenesis | publisher=Caister Academic Press | isbn= 978-1-904455-42-4}}</ref>
+
+===Strain variation===
+''M. tuberculosis'' comes from the genus ''Mycobacterium'', which is composed of approximately 100 recognized and proposed species. The most familiar of the species are ''M. tuberculosis'' and ''M. leprae'' (leprosy).<ref>(Page 576;Textbook of Diagnostic Microbiology, Mahon, Lehman, Manuselis)</ref>
+
+''M. tuberculosis'' is genetically diverse, which results in significant phenotypic differences between clinical isolates. Different strains of ''M. tuberculosis'' are associated with different geographic regions. However, phenotypic studies suggest that strain variation never has implications for the development of new diagnostics and vaccines. Microevolutionary variation does affect the relative fitness and transmission dynamics of antibiotic-resistant strains.<ref>{{cite book
+| author = Gagneux S
+| editor = Parish T, Brown A
+| year = 2009
+| chapter = Strain variation and evolution
+| title = ''Mycobacterium'': Genomics and Molecular Biology
+| publisher = Caister Academic Press
+| isbn = 978-1-904455-40-0}}</ref>
+
+Typing of strains is useful in the investigation of tuberculosis outbreaks, because it gives the investigator evidence for-or-against transmission from person to person. Consider the situation where person A has tuberculosis and believes that he acquired it from person B. If the bacteria isolated from each person belong to different types, then transmission from B to A is definitively disproved; on the other hand, if the bacteria are the same strain, then this supports (but does not definitively prove) the theory that B infected A.
+
+Until the early 2000s, ''M. tuberculosis'' strains were typed by [[pulsed field gel electrophoresis]] (PFGE).<ref>{{cite journal
+| author = Y Zhang, G H Mazurek, M D Cave, ''et al.''
+| title = DNA polymorphisms in strains of ''Mycobacterium tuberculosis'' analyzed by pulsed-field gel electrophoresis: a tool for epidemiology
+| journal = J Clin Microbiol
+| year = 1992
+| volume = 30
+| issue = 6
+| pages = 1551&ndash;1556}}</ref><ref>{{cite journal
+| title = Use of pulsed-field gel electrophoresis for molecular epidemiologic and population genetic studies of ''Mycobacterium tuberculosis''
+| author = Singh SP, Salamon H, Lahti CJ, Farid-Moyer M, Small PM.
+| journal = J Clin Microbiol
+| year = 1999
+| volume = 37
+| issue = 6
+| pages = 1927&ndash;31
+| pmid = 10325348
+| pmc=84986}}</ref> This has now been superseded by [[variable number tandem repeat|variable numbers of tandem repeats]] (VNTR), which is technically easier to perform and allows better discrimination between strains. This method makes use of the presence of repeated [[DNA]] sequences within the ''M. tuberculosis'' genome.
+
+There are three generations of VNTR typing for ''M. tuberculosis''. The first scheme, called ETR (exact tandem repeat), used only five loci,<ref>{{cite journal
+| author = Frothingham R, Meeker-O'Connell WA.
+| title = Genetic diversity in the ''Mycobacterium tuberculosis'' complex based on variable numbers of tandem DNA repeats
+| journal = Microbiology
+| year = 1998
+| volume = 144
+| issue = Pt 5
+| pages = 1189&ndash;96
+| pmid = 9611793
+| doi = 10.1099/00221287-144-5-1189}}</ref> but the resolution afforded by these five loci was not as good as PFGE. The second scheme, called MIRU (mycobacterial interspersed repetitive unit) had discrimination as good as PFGE.<ref>{{cite journal
+| author = Mazars E, Lesjean S, Banuls AL, ''et al.''
+| title = High-resolution minisatellite-based typing as a portable approach to global analysis of ''Mycobacterium tuberculosis'' molecular epidemiology
+| journal = Proc Natl Acad Sci U S A
+| year = 2001
+| volume = 98
+| issue = 4
+| pages = 1901&ndash;6
+| pmid = 11172048
+| doi=10.1073/pnas.98.4.1901
+| pmc=29354
+}}</ref><ref>{{cite journal
+| author = Hawkey PM, Smith EG, Evans JT, ''et al.''
+| title = Mycobacterial interspersed repetitive unit typing of ''Mycobacterium tuberculosis'' compared to IS6110-based restriction fragment length polymorphism analysis for investigation of apparently clustered cases of tuberculosis
+| journal = J Clin Microbiol
+| year = 2003
+| volume = 41
+| issue = 8
+| pages = 3514&ndash;20
+| pmid = 12904348
+| pmc=179797
+| doi = 10.1128/JCM.41.8.3514-3520.2003}}</ref> The third generation (MIRU2) added a further nine loci to bring the total to 24. This provides a degree of resolution greater than PFGE and is currently the standard for typing ''M. tuberculosis''.<ref>{{cite journal
+| author = Supply P, Allix C, Lesjean S, ''et al.''
+| title = Proposal for standardization of optimized mycobacterial interspersed repetitive unit-variable-number tandem repeat typing of ''Mycobacterium tuberculosis''
+| journal = J Clin Microbiol
+| year = 2006
+| volume = 44
+| issue = 12
+| pages = 4498&ndash;510
+| pmid = 17005759
+| doi=10.1128/JCM.01392-06
+| pmc=1698431}}</ref>
+
+===Hypervirulent strains===
+''Mycobacterium'' outbreaks are often caused by hypervirulent strains of ''M. tuberculosis''. In laboratory experiments, these clinical isolates elicit unusual immunopathology, and may be either hyperinflammatory or hypoinflammatory. Studies have shown the majority of hypervirulent mutants have deletions in their cell wall-modifying enzymes or regulators that respond to environmental stimuli. Studies of these mutants have indicated the mechanisms that enable ''M. tuberculosis'' to mask its full pathogenic potential, inducing a granuloma that provides a protective niche, and enable the bacilli to sustain a long-term, persistent infection.<ref name= Casali>{{cite book |author=Casali N| year=2009| chapter=Hypervirulent ''Mycobacterium tuberculosis'' |title=''Mycobacterium'': Genomics and Molecular Biology| publisher=Caister Academic Press|isbn=978-1-904455-40-0}}</ref>
+[[Image:Mycobacterium tuberculosis Ziehl-Neelsen stain 640.jpg|thumb|right|''Mycobacterium tuberculosis'' (stained red) in tissue (blue)]]
+
+===Microscopy===
+''M. tuberculosis'' is characterized by caseating [[granulomas]] containing [[Langhans giant cell]]s, which have a "horseshoe" pattern of nuclei. Organisms are identified by their red color on acid-fast staining.
+
+==Genome==
+The genome of the H37Rv strain was published in 1998.<ref>{{cite web |url=http://www.sanger.ac.uk/Projects/M_tuberculosis/ |title=''Mycobacterium tuberculosis'' |publisher=Sanger Institute |date=2007-03-29 |accessdate=2008-11-16}}</ref> Its size is 4 million base pairs, with 3959 genes; 40% of these genes have had their function characterised, with possible function postulated for another 44%. Within the genome are also six [[pseudogenes]].
+
+The genome contains 250 genes involved in fatty acid metabolism, with 39 of these involved in the polyketide metabolism generating the waxy coat. Such large numbers of conserved genes show the evolutionary importance of the waxy coat to pathogen survival.
+
+About 10% of the coding capacity is taken up by the PE/PPE gene families that encode acidic, glycine-rich proteins. These proteins have a conserved N-terminal motif, deletion of which impairs growth in macrophages and granulomas.<ref>{{cite journal |author=Glickman MS, Jacobs WR |title=Microbial pathogenesis of ''Mycobacterium tuberculosis'': dawn of a discipline |journal=Cell |volume=104 |issue=4 |pages=477–85 |year=2001 |month=February |pmid=11239406 |doi= 10.1016/S0092-8674(01)00236-7|url=http://linkinghub.elsevier.com/retrieve/pii/S0092-8674(01)00236-7}}</ref>
+
+[[Mycobacterium tuberculosis sRNA|Nine noncoding sRNAs]] have been characterised in ''M. tuberculosis'',<ref>{{cite journal |author=Arnvig KB, Young DB |title=Identification of small RNAs in ''Mycobacterium tuberculosis'' |journal=Mol. Microbiol. |volume=73 |issue=3 |pages=397–408 |year=2009 |month=August |pmid=19555452 |pmc=2764107 |doi=10.1111/j.1365-2958.2009.06777.x |url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0950-382X&date=2009&volume=73&issue=3&spage=397 |accessdate=2010-08-31}}</ref> with a further 56 predicted in a [[bioinformatics]] screen.<ref>{{cite journal |author=Livny J, Brencic A, Lory S, Waldor MK |title=Identification of 17 Pseudomonas aeruginosa sRNAs and prediction of sRNA-encoding genes in 10 diverse pathogens using the bioinformatic tool sRNAPredict2 |journal=Nucleic Acids Res. |volume=34 |issue=12 |pages=3484–93 |year=2006 |pmid=16870723 |pmc=1524904 |doi=10.1093/nar/gkl453 |url=http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=16870723 |accessdate=2010-08-31}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+==Evolution==
+
+The ''Mycobacterium tuberculosis'' complex evolved in [[Africa]] and most probably in the Horn of Africa.<ref name=Blouin2012>Blouin Y, Hauck Y, Soler C, Fabre M, Vong R, Dehan C, Cazajous G, Massoure PL, Kraemer P, Jenkins A, Garnotel E, Pourcel C, Vergnaud G (2012) Significance of the identification in the Horn of Africa of an exceptionally deep branching ''Mycobacterium tuberculosis'' clade. ''PLoS One'' 7(12):e52841. doi: 10.1371/journal.pone.0052841</ref> The ''M. tuberculosis'' group has a number of members that include ''[[Mycobacterium africanum]]'', ''[[Mycobacterium bovis]]'' (Dassie's bacillus), ''[[Mycobacterium caprae]]'', ''[[Mycobacterium microti]]'', ''[[Mycobacterium mungi]]'', ''[[Mycobacterium orygis]]'' and ''[[Mycobacterium pinnipedii]]''. This group may also include the ''[[Mycobacterium canettii]]'' clade.
+
+The ''M. canettii'' clade—which includes ''[[Mycobacterium prototuberculosis]]''—are a group of smooth colony ''Mycobacterium'' species. Unlike the established members of the ''M. tuberculosis'' group they undergo recombination with other species. The majority of the known strains of this group have been isolated from the [[Horn of Africa]].
+
+The established members of the ''M. tuberculosis'' complex are all clonal in their spread. The main human infecting species have been classified into seven oligotypes: type 1 contains the [[East Africa]]n-[[India]]n (EAI) and some Manu (Indian) strains; type 2 is the [[Beijing]] group; type 3 consists of the [[Central Asia]]n (CAS) strains; type 4 of the [[Ghana]] and [[Haarlem]] (H/T), [[Latin America]]-[[Mediterranean]] (LAM) and X strains; types 5 and 6 correspond to ''Mycobacterium africanum'' and are observed predominantly and at very high frequency in [[West Africa]]. A seventh type has been isolated from the Horn of Africa.<ref name="Blouin2012" /> The other species of this complex belong to a number of oligotypes and do not normally infect humans.
+
+Type 2 and 3 are more closely related to each other than to the other types. Types 5 and 6 are most closely aligned with the species that do not normally infect humans. Type 3 has been divided into two clades: CAS-Kili (found in [[Tanzania]]) and CAS-Delhi (found in India and [[Saudi Arabia]]).
+
+The [[most recent common ancestor]] of the ''M. tuberculosis'' complex evolved ~40,000 years ago.<ref name=Wirth2008>Wirth T, Hildebrand F, Allix-Beguec C, Wolbeling F, Kubica T, Kremer K, van Soolingen D, Rüsch-Gerdes S, Locht C, Brisse S, Meyer A, Supply P, Niemann S (2008) Origin, spread and demography of the ''Mycobacterium tuberculosis'' complex. ''PLoS Pathog'' 4: e1000160</ref> The most recent common ancestor of the EAI and LAM strains has been estimated to be 13,700 and 7,000 years ago respectively. The Beijing- CAS strains diverged ~17,100 years ago. All types of the ''M. tuberculosis'' began their current expansion ~5000 years ago—a period that coincides with the appearance of ''Mycobacterium bovis''. The Beijing strain appears to have been the most successful with a ~500 increase in [[effective population size]] (N<sub>e</sub>) since its expansion began. The least successful of the main linages appears to be have been those limited to Africa where they have undergone an N<sub>e</sub> increase of only 5 fold. Since its initial evolution ''M. bovis'' has undergone an expansion of its N<sub>e</sub> of ~65 fold.
+
+==History==
+''M. tuberculosis'', then known as the "[[Tubercle (anatomy)|tubercle]] [[bacillus]]", was first described on 24 March 1882 by [[Robert Koch]], who subsequently received the [[Nobel Prize in physiology or medicine]] for this discovery in 1905; the bacterium is also known as "Koch's bacillus".<ref>{{cite web |url=http://nobelprize.org/educational_games/medicine/tuberculosis/readmore.html |title=Robert Koch and Tuberculosis: Koch's Famous Lecture |publisher=Nobel Foundation |work= | year=2008 | accessdate=2008-11-18}}</ref>
+
+Tuberculosis has existed throughout history, but the name has changed frequently over time. In 1720, though, the history of tuberculosis started to take shape into what is known of it today; as the physician [[Benjamin Marten]] described in his ''A Theory of Consumption'', tuberculosis may be caused by small living creatures that are transmitted through the air to other patients.<ref>{{cite web|url=http://www.mycobacteriumtuberculosis.net/history.html| title=Tuberculosis History Timeline|date=|accessdate= 2010-06-18}}</ref>
+
+==See also==
+* [[Philip D'Arcy Hart]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://tbdb.org TB database: an integrated platform for Tuberculosis research]
+* [http://www.paediatric-surgery.net/2012/08/tuberculosis-photo-blog.html Photoblog about Tuberculosis]
+{{Commons category|Mycobacterium tuberculosis}}
+
+{{Gram-positive actinobacteria diseases}}
+
+{{Use dmy dates|date=January 2011}}
+
+{{DEFAULTSORT:Mycobacterium Tuberculosis}}
+[[Category:Acid fast bacilli]]
+[[Category:Mycobacteria]]
+[[Category:Tuberculosis]]
+[[Category:Pathogenic bacteria]]

@@ -1,0 +1,31 @@
+In [[renal physiology]], '''net acid excretion''' ('''NAE''') is the net amount of acid excreted in the [[urine]] per unit time. Its value depends on urine flow rate, urine acid concentration, and the concentration of [[bicarbonate]] in the urine (the loss of bicarbonate, a [[buffering agent]], is physiologically equivalent to a gain in acid). NAE is commonly expressed in units of [[milliliter]]s per [[minute]] (ml/min) and is given by the following equation:
+
+:<math>NAE = V ( U_{NH_4} + U_{TA} - U_{HCO_3} )</math>
+
+where 
+
+{| class="wikitable"
+| '''Variable''' || '''Meaning''' 
+ |- 
+ | ''NAE''  || net acid excretion 
+ |- 
+ | ''V''  || volume of urine produced per unit time 
+ |- 
+ | ''U<sub>NH4</sub>'' || urine concentration of [[ammonium]]
+ |- 
+ | ''U<sub>TA</sub>'' || urine concentration of [[titratable acid]] (e.g., [[phosphoric acid]], [[sulfuric acid]]) 
+ |- 
+ | ''U<sub>HCO3</sub>'' || urine concentration of [[bicarbonate]] 
+|}
+
+==Pathology==
+
+Increased net acid excretion is a compensation for [[respiratory acidosis]], while decreased net acid excretion is a compenstation for [[respiratory alkalosis]].<ref>http://sprojects.mmi.mcgill.ca/nephrology/presentation/presentation4.htm</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Renal physiology]]
+
+
+{{medicine-stub}}

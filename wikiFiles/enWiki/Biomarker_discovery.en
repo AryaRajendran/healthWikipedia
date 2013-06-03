@@ -1,0 +1,55 @@
+'''Biomarker discovery''' is a medical term describing the process by which [[biomarker (medicine)|biomarker]]s are discovered.
+Many commonly used [[blood test]]s in medicine are biomarkers. There is interest in biomarker discovery on the part of the [[pharmaceutical industry]]; blood-test or other biomarkers could serve as intermediate markers of disease in clinical trials, and as possible [[drug discovery|drug targets]].
+
+==Mechanism of action==
+The way that these tests have been found can be viewed as biomarker discovery; however, their identification has primarily been made one at a time. Many well-known tests have been identified based on biological insight from the fields of [[physiology]] or [[biochemistry]]; therefore, only a few markers at a time have been considered. An example of biomarker discovery is the use of [[insulin]] to assess kidney function. From this process a naturally occurring molecule ([[creatinine]]) was discovered, enabling the same measurements to be made without insulin injections.
+
+The recent interest in biomarker discovery is spurred by new [[molecular biology|molecular biologic]] techniques,  which promise to find relevant markers rapidly without detailed insight into the mechanisms of a disease. By screening many possible [[biomolecule]]s at a time, a parallel approach can be attempted; [[genomics]] and [[proteomics]] are some technologies used in this process. [[Secretomics]] has also emerged as an important technology in the high-throughput search for biomarkers;<ref name=pmid17425459>{{cite journal |pages=239–48 |doi=10.1586/14789450.4.2.239 |title=Approaches to the study of the cell secretome |year=2007 |last1=Hathout |first1=Yetrib |journal=Expert Review of Proteomics |volume=4 |issue=2 |pmid=17425459}}</ref> however, significant technical difficulties remain.
+
+The identification of clinically significant protein [[biomarker (medicine)|biomarkers]] of [[phenotype]] and biological function is an expanding area of research which will extend [[diagnostic]] capabilities. Biomarkers for a number of diseases have recently emerged, including [[prostate specific antigen]] (PSA) for [[prostate cancer]]<ref>{{cite journal |last1=Singer |first1=E. A. |last2=Penson |first2=D. F. |last3=Palapattu |first3=G. S. |title=PSA Screening and Elderly Men |journal=JAMA |volume=297 |pages=949; author reply 949–50 |year=2007 |doi=10.1001/jama.297.9.949-a |issue=9}}</ref> and [[C-reactive protein]] (CRP) for heart disease.<ref>{{cite journal |last1=Crawford |first1=D. C. |last2=Sanders |first2=C. L. |last3=Qin |first3=X. |last4=Smith |first4=J. D. |last5=Shephard |first5=C. |last6=Wong |first6=M. |last7=Witrak |first7=L. |last8=Rieder |first8=M. J. |last9=Nickerson |first9=D. A. |title=Genetic Variation is Associated with C-Reactive Protein Levels in the Third National Health and Nutrition Examination Survey |journal=Circulation |volume=114 |issue=23 |pages=2458–65 |year=2006 |pmid=17101857 |doi=10.1161/CIRCULATIONAHA.106.615740}}</ref> Using biomarkers from easily  assessable biofluids (e.g. blood and urine) is beneficial in evaluating the state of harder-to-reach tissues and organs. Biofluids are more readily accessible, unlike more invasive or unfeasible techniques (such as tissue biopsy).
+
+Biofluids contain proteins from tissues and serve as effective hormonal communicators. The tissue acts as a transmitter of information, and the biofluid (sampled by physician) acts as a receiver. The informativeness of the biofluid relies on the fidelity of the channel. Sources of noise which decrease fidelity include the addition of proteins derived from other tissues (or from the biofluid itself); proteins may also be lost through [[glomerular filtration]].<ref>{{cite journal |last1=Jacobs |first1=Jon M. |last2=Adkins |first2=Joshua N. |last3=Qian |first3=Wei-Jun |last4=Liu |first4=Tao |last5=Shen |first5=Yufeng |last6=Camp |first6=David G. |last7=Smith |first7=Richard D. |title=Utilizing Human Blood Plasma for Proteomic Biomarker Discovery† |journal=Journal of Proteome Research |volume=4 |issue=4 |pages=1073–85 |year=2005 |pmid=16083256 |doi=10.1021/pr0500657}}</ref>  These factors can significantly influence the protein composition of a biofluid.<ref>{{cite journal |doi=10.1074/mcp.R200007-MCP200 |last1=Anderson |first1=NL |last2=Anderson |first2=NG |title=The human plasma proteome: history, character, and diagnostic prospects |journal=Molecular & Cellular Proteomics |volume=1 |issue=11 |pages=845–67 |year=2002 |pmid=12488461}}</ref> In addition, simply looking at protein overlap would miss information transmission occurring through classes of proteins and protein-protein interactions.
+
+Instead, the proteins' projection onto functional, drug, and disease spaces allow measurement of the functional distance between tissue and biofluids. Proximity in these abstract spaces signifies a low level of distortion across the information channel (and, hence, high performance by the biofluid). However, current approaches to biomarker prediction have analyzed tissues and biofluids separately.<ref>{{cite journal |last1=He |first1=YD |title=Genomic approach to biomarker identification and its recent applications |journal=Cancer biomarkers : section a of Disease markers |volume=2 |issue=3–4 |pages=103–33 |year=2006 |pmid=17192065}}</ref>
+
+==Research==
+An information-theoretic framework for biomarker discovery, integrating biofluid and tissue information, has been introduced; this approach takes advantage of functional [[synergy]] between certain biofluids and tissues, with the potential for clinically significant findings (not possible if tissues and biofluids were considered separately).<ref>{{cite journal |last1=Alterovitz |first1=G |last2=Xiang |first2=M |last3=Liu |first3=J |last4=Chang |first4=A |last5=Ramoni |first5=MF |title=System-wide peripheral biomarker discovery using information theory |journal=Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing |pages=231–42 |year=2008 |pmid=18229689}}</ref> By conceptualizing tissue biofluids as information channels, significant biofluid [[proxies]] were identified and then used for guided development of clinical diagnostics. Candidate [[biomarkers]] were then predicted, based on information-transfer criteria across the tissue-biofluid channels. Significant biofluid-tissue relationships can be used to prioritize the clinical validation of biomarkers.
+
+== ''Ex vivo'' blood stimulation ==
+''[[Ex vivo]]'' blood stimulation is the process by which researchers can analyse the immunological biomarkers of drug effects in healthy volunteers. Blood samples (taken from healthy volunteers) are stimulated in the laboratory to activate the immune system. ''Ex vivo'' blood stimulation studies, therefore, allow the evaluation of the effect of a new compound in a "living system" in which the immune system has been challenged.<ref>[http://www.biomarker.co.uk/exvivo.html Ex Vivo Blood Stimulation in Biomarker Discovery]</ref> Most research using this method is carried out by [[Clinical trial|Phase I clinical research organisations]], allowing them to collect blood samples and analyse them instantly so they do not deteriorate.
+
+==See also==
+* [[Biomarker]]
+* [[Biomarker (medicine)]]
+* [[Clinical chemistry]]
+* [[Clinical proteomics]]
+* [[Drug discovery]]
+* [[Genomics]]
+* [[Proteomics]]
+* [[Secretomics]]
+* [[Sapio Sciences]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{cite journal |last1=Liotta |first1=Lance A. |last2=Ferrari |first2=Mauro |last3=Petricoin |first3=Emanuel |title=Clinical proteomics: Written in blood |journal=Nature |volume=425 |issue=6961 |pages=905 |year=2003 |pmid=14586448 |doi=10.1038/425905a}}
+*{{cite web | title=NIH National Cancer Institute. Questions and Answers: Proteomics and Cancer
+ | work= | url=http://www.nci.nih.gov/cancertopics/factsheet/proteomicsqa/ | accessdate=2006-04-05}}
+*{{cite web | author=Howard Schulman, Vice President, Biomarker Discovery Sciences, PPD, Inc | title=The Hottest New Term in Biotech | url=http://www.ppdi.com/pdf/hottest_term_in_biotech.pdf}}
+*{{cite web | author=Genetic Engineering & Biotechnology News |title=Biomarket Trends: Molecular Diagnostics on the Move
+ | url=http://www.genengnews.com/articles/chitem.aspx?aid=2330}}
+*{{cite web | author=Genetic Engineering & Biotechnology News |title=Capitalizing on Biomarker Discovery Work
+ | url=http://www.genengnews.com/articles/chitem.aspx?aid=2330}}
+* {{cite news | author=Enrique A. Dalmasso | title=Planning for Success in Biomarker Discovery
+ | url=http://www.genengnews.com/articles/chitem.aspx?aid=2512 | work=[[Genetic Engineering & Biotechnology News]]
+ | publisher=[[Mary Ann Liebert, Inc.]] | pages=28&ndash;30 | date=2008-06-15 | accessdate=2008-07-06
+ | quote=(subtitle) Appropriate proteomics platform and careful study design can improve positive results }}
+* {{cite web |url=http://www.hrpinitiative.com/hrpinit/research/biomarker-discovery.jsp
+ | title=High Risk Plaque Blood Biomarker Discovery Study
+ | year=2007 |accessdate=2011-08-22 }}
+;Academic journals in the field
+*[http://la-press.com/journal.php?journal_id=4 Biomarker Insights]
+
+{{DEFAULTSORT:Biomarker Discovery}}
+[[Category:Proteomics]]

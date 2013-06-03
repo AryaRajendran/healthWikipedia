@@ -1,0 +1,169 @@
+{{for|the journal|Health Economics}}
+{{Cleanup-rewrite|date=May 2009}}
+{{Economics sidebar}}
+'''Health economics''' is a branch of [[economics]] concerned with issues related to efficiency, effectiveness, value and behavior in the production and consumption of [[health]] and [[health care]].  In broad terms, health economists study the functioning of the health care systems as well as health-affecting behaviors such as smoking.
+
+A seminal 1963 article by [[Kenneth Arrow]], often credited with giving rise to the health economics as a discipline, drew conceptual distinctions between health and other goods.<ref>{{harvnb|Arrow|1963}}</ref>
+Factors that distinguish health economics from other areas include extensive [[government intervention]], intractable [[uncertainty]] in several dimensions, [[information asymmetry|asymmetric information]], [[barriers to entry]],  [[externalities]] and the presence of a [[third-party agent]].<ref>{{Citation |last=Phelps |first=Charles E. |year=2003 |title=Health Economics |edition=3rd |publisher=Addison Wesley |location=Boston |isbn=0-321-06898-X }} [http://www.lavoisier.fr/notice/frLWOS6SXAORW32O.html Description] and  2nd ed. [http://books.google.com/books?hl=en&lr=&id=JajjFgTXwP8C&oi=fnd&pg=PT18&dq=onepage&q=&f=false preview].</ref>  In healthcare, the [[third-party agent]] is the physician, who makes purchasing decisions (e.g., whether to order a lab test, prescribe a medication, perform a surgery, etc.) while being insulated from the price of the product or service.  
+
+Health economists evaluate multiple types of financial information: costs, charges and expenditures.  
+
+Uncertainty is intrinsic to health, both in patient outcomes and financial concerns. The knowledge gap that exists between a physician and a patient creates a situation of distinct advantage for the physician, which is called [[asymmetric information]].
+
+[[Externalities]] arise frequently when considering health and health care, notably in the context of infectious disease. For example, making an effort to avoid catching the [[common cold]] affects people other than the decision maker.<ref>Fuchs, Victor R. (1987). "health economics" ''[[The New Palgrave: A Dictionary of Economics]]'', v. 2, pp.&nbsp;614–19.</ref><ref>Fuchs, Victor R. (1996). “Economics, Values, and Health Care Reform,” ''American Economic Review'', 86(1), pp. [http://jay-pcor.stanford.edu/Readings/Lecture01/fuchs_health_survey.pdf 1-24] (press '''+''').</ref><ref>Fuchs, Victor R. ([1974] 1998). ''Who Shall Live? Health, Economics, and Social Choice'', Expanded edition.  Chapter-preview [http://books.google.com/books?hl=en&lr=&id=hDoIlCu7wKgC&oi=fnd&pg=PR11&dq=%22health+economics%22+fuchs&ots=Vax-lRjOOZ&sig=WbHxq1kxPjPcD6M8J2f0Q6nPnhw#v=onepage&q=&f=false links], pp. vii-xi.</ref><ref>Wolfe, Barbara (2008). "health economics." ''[[The New Palgrave Dictionary of Economics]]', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_H000031&q=health%20&topicid=&result_number=1 Abstract & TOC.]</ref>
+
+==Scope==
+The scope of health economics is neatly encapsulated by Alan Williams' "plumbing diagram"<ref>{{Citation |last=Williams |first=A. |year=1987 |chapter=Health economics: the cheerful face of a dismal science |editor-last=Williams |editor-first=A. |title=Health and Economics |publisher=Macmillan |location=London |isbn= }}</ref> dividing the discipline into eight distinct topics:
+* What influences health? (other than health care)
+* What is health and what is its value
+* The [[Demand (economics)|demand]] for health care
+* The [[Supply (economics)|supply]] of health care
+* [[Micro-economic]] evaluation at [[therapy|treatment]] level
+* [[Market equilibrium]]
+* Evaluation at whole system level; and,
+* Planning, [[budgeting]] and monitoring mechanisms.
+[[File:HealthEconPlumbing.gif|400px]]
+
+==Health care demand==
+The demand for health care is a [[derived demand]] from the demand for health. Health care is demanded as a means for consumers to achieve a larger stock of "health capital." The demand for health is unlike most other goods because individuals allocate resources in order to both consume and produce health.
+
+The above description gives three roles of persons in health economics. The World Health Report (p.&nbsp;52) states that people take four roles in the health care:
+1.	Contributors
+2.	Citizens (stewardship)
+3.	Providers
+4.	Consumers
+
+Michael Grossman's 1972 model of health production<ref>{{Citation |last=Grossman |first=Michael |title=On the Concept of Health Capital and the Demand for Health |journal=[[Journal of Political Economy]] |year=1972 |volume=80 |issue=2 |pages=223–255 |doi=10.1086/259880 }}</ref> has been extremely influential in this field of study and has several unique elements that make it notable.  Grossman's model views each individual as both a producer and a consumer of health.  Health is treated as a stock which degrades over time in the absence of "investments" in health, so that health is viewed as a sort of [[Social capital|capital]]. The model acknowledges that health is both a [[Good (economics)|consumption good]] that yields direct satisfaction and [[utility]], and an [[investment good]], which yields satisfaction to consumers indirectly through increased productivity, fewer sick days, and higher wages. Investment in health is costly as consumers must trade off time and resources devoted to health, such as exercising at a local gym, against other goals. These factors are used to determine the optimal level of health that an individual will demand. The model makes predictions over the effects of changes in prices of health care and other goods, labour market outcomes such as employment and wages, and technological changes. These predictions and other predictions from models extending Grossman's 1972 paper form the basis of much of the econometric research conducted by health economists.
+
+In Grossman's model, the optimal level of investment in health occurs where the [[marginal cost]] of health capital is equal to the [[marginal benefit]]. With the passing of time, health depreciates at some rate δ. The interest rate faced by the consumer is denoted by r. The marginal cost of health capital can be found by adding these variables: <math>MC_{HK}=r+\delta\,</math>. The marginal benefit of health capital is the rate of return from this capital in both market and non-market sectors. In this model, the optimal health stock can be impacted by factors like age, wages and education. As an example, <math>\delta\,</math> increases with age, so it becomes more and more costly to attain the same level of health capital or health stock as one ages. Age also decreases the marginal benefit of health stock.  The optimal health stock will therefore decrease as one ages.
+
+Beyond issues of the fundamental, "real" demand for medical care derived from the desire to have good health (and thus influenced by the production function for health) is the important distinction between the "marginal benefit" of medical care (which is always associated with this "real demand" curve based on derived demand), and a separate "effective demand" curve, which summarizes the amount of medical care demanded at particular market prices.  Because most medical care is not purchased from providers directly, but is rather obtained at subsidized prices due to insurance, the out-of-pocket prices faced by consumers are typically much lower than the market price.  The consumer sets MB=MC out of pocket, and so the "effective demand" will have a separate relationship between price and quantity than will the "marginal benefit curve" or real demand relationship.  This distinction is often described under the rubric of "ex-post moral hazard" (which is again distinct from ex-ante moral hazard, which is found in any type of market with insurance).
+
+==Economic Evaluation in Germany and in the United Kingdom==
+
+A large focus of health economics, is the microeconomic evaluation of the value of individual treatments. The states in Europe appraise certain new and existing pharmaceuticals and devices using economic evaluations by  [[Health technology assessment|health technology assesments]] by different national institutions. In Europe's largest [[Health economics (Germany)|health market Germany]] the Institute for Quality and Economy in Health Services (Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen — IQWiG) is responsible,<ref>Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen → https://de.wikipedia.org/wiki/IQWiG</ref> while it is the National Institute for Health and Clinical Excellence [[NICE]] in the United Kingdom.  
+
+Economic evaluation is the comparison of two or more alternative courses of action in terms of both their costs and consequences (Drummond et al.). Economists usually distinguish several types of economic evaluation, differing in how consequences are measured:
+
+* [[Cost-minimization analysis]]
+* [[Cost benefit analysis]]
+* [[Cost-effectiveness analysis]]
+* [[Cost-utility analysis]]
+
+In cost minimization analysis (CMA), the effectiveness of the comparators in question must be proven to be equivalent. The 'cost-effective' comparator is simply the one which costs less (as it achieves the same outcome). In cost-benefit analysis (CBA), costs and benefits are both valued in cash terms. Cost effectiveness analysis (CEA) measures outcomes in 'natural units', such as mmHg, symptom free days, life years gained. Finally cost-utility analysis (CUA) measures outcomes in a composite metric of both length and quality of life, the [[Quality-adjusted life year]] (QALY).  (Note there is some international variation in the precise definitions of each type of analysis).
+
+A final approach which is sometimes classed an economic evaluation is a [[cost of illness]] study. This is not a true economic evaluation as it does not compare the costs and outcomes of alternative courses of action. Instead, it attempts to measure all the costs associated with a particular disease or condition. These will include [[direct costs]] (where money actually changes hands, e.g. health service use, patient co-payments and out of pocket expenses), [[indirect costs]] (the value of lost productivity from time off work due to illness), and [[intangible costs]] (the 'disvalue' to an individual of pain and suffering). (Note specific definitions in health economics may vary slightly from other branches of economics.)
+
+==Market equilibrium==
+
+===Health care markets===
+The five health markets typically analyzed are:
+
+* Health care [[financing]] market
+* [[Physician]] and [[nurse]]s services market
+* [[Institutional]] services market
+* [[Input factors]] market
+* Professional [[education]] market
+
+Although assumptions of textbook models of economic markets apply reasonably well to health care markets, there are important deviations. Many states have created [[Health insurance in the United States#State risk pools|risk pools]] in which relatively healthy enrollees subsidise the care of the rest. Insurers must cope with [[adverse selection]] which occurs when they are unable to fully predict the medical expenses of enrollees; adverse selection can destroy the risk pool. Features of insurance market risk pools, such as group purchases, preferential selection ("cherry-picking"), and [[preexisting condition]] exclusions are meant to cope with adverse selection.
+
+Insured patients are naturally less concerned about health care costs than they would if they paid the full price of care. The resulting [[moral hazard]] drives up costs, as shown by the famous [[RAND Health Insurance Experiment]]. Insurers use several techniques to limit the costs of moral hazard, including imposing copayments on patients and limiting physician incentives to provide costly care. Insurers often compete by their choice of service offerings, cost sharing requirements, and limitations on physicians.
+
+Consumers in health care markets often suffer from a lack of adequate information about what services they need to buy and which providers offer the best value proposition. Health economists have documented a problem with [[supplier induced demand]], whereby providers base treatment recommendations on economic, rather than medical criteria. Researchers have also documented substantial "practice variations", whereby the treatment aols on service availability to rein in inducement and practice variations.
+
+The U.S. health care market has relied extensively on competition to control costs and improve quality. Critics question whether problems with adverse selection, moral hazard, information asymmetries, demand inducement, and practice variations can be addressed by private markets.{{Citation needed|reason=source needed for the whole sentence|date=March 2012}} Competition has fostered reductions in prices, but consolidation by providers and, to a lesser extent, insurers, has tempered this effect.
+
+Though the market for health care in the U.S. is primarily coordinated by competition, there is an abundance of regulations that inhibit market efficiency.  A classic example is medical licenses.  Some economists argue that requiring doctors to have a medical license constrains inputs, inhibits innovation, and increases cost to consumers while largely only benefiting the doctors themselves.<ref>{{Citation |last=Svorny |first=Shirley |year=2004 |title=Licensing Doctors: Do Economists Agree? |journal=Econ Journal Watch |volume=1 |issue=2 |pages=279–305 |url=http://www.aier.org/ejw/archive/complete-issues/doc_view/3685-ejw-200408?tmpl=component&format=raw }}</ref>
+
+===Competitive equilibrium in the five health markets===
+While the nature of health care as a private good is preserved in the last three markets, market failures occur in the financing and delivery markets due to two reasons: (1) Perfect information about price products is not a viable assumption (2) Various barriers of entry exist in the financing markets (i.e. monopoly formations in the insurance industry)
+<!--- This section is commmented out until a reference can be provided, and an explanation of the satiated nature of the health care markets is explained
+===Efficiency vs equity===
+The First Theorem of Welfare Economics states that any Walrasian equilibrium (that is, any [[competitive equilibrium]]) is [[Pareto-efficient]]. Its implications are that competitive markets will always be efficient. This result follows from the definition of a [[Walrasian equilibrium]] and the definition of [[Pareto efficiency]]. A key assumption to the proof of the theorem is [[local nonsatiation]] of consumer preferences. It is that assumption that is often violated in the first two of the health markets and therefore the First Welfare Theorem does not hold for these markets.
+
+In addition, even if the outcome in a health market is [[Pareto optimal]], the government may deem it to be inequitable due to health disparity or lower than desired availability of health care services.
+
+Supporters of government intervention argue that it is warranted for two reasons:
+*Absence of Pareto Optimality in a health market
+*Pareto Optimality with socially inequitable health outcome.
+
+--->
+
+===Ideological bias in the debate about the financing and delivery health markets===
+The health care debate in public policy is often informed by ideology and not sound economic theory. Often, politicians subscribe to a moral order system or belief about the role of governments in public life that guides biases towards provision of health care as well. The ideological spectrum spans: individual savings accounts and catastrophic coverage, tax credit or voucher programs combined with group purchasing arrangements, and expansions of public-sector health insurance. These approaches are advocated by health care conservatives, moderates and liberals, respectively.{{Citation needed|date=April 2011}}
+
+==Other issues==
+
+===Medical economics===
+Often used synonymously with Health Economics, '''''Medical economics''''', according to Culyer,<ref>A.J. Culyer (1989) "A Glossary of the more common terms encountered in health economics" in MS Hersh-Cochran and KP Cochran (Eds.) ''Compendium of English Language Course Syllabi and Textbooks in Health Economics'', Copenhagen, WHO, 215-234</ref> is the branch of economics concerned with the application of economic theory to phenomena and problems associated typically with the second and third health market outlined above. Typically, however, it pertains to cost-benefit analysis of [[pharmaceutical]] products and cost-effectiveness of various [[medical]] treatments. Medical economics often uses [[mathematical model]]s to synthesise data from [[biostatistics]] and [[epidemiology]] for support of medical [[decision making]], both for individuals and for wider health policy.
+
+===Behavioral economics===
+[[Peter R. Orszag|Peter Orszag]] has suggested that [[behavioral economics]] is an important factor for improving the health care system, but that relatively little progress has been made when compared to retirement policy.<ref>[[Peter R. Orszag|Peter Orszag]], [http://www.cbo.gov/ftpdocs/96xx/doc9673/08-07-Presentation_RRC.pdf "Behavioral Economics: Lessons from Retirement Research for Health Care and Beyond,"] Presentation to the Retirement Research Consortium, August 7, 2008</ref>
+
+===Mental Health Economics===
+Mental health economics incorporates a vast array of subject matters, ranging from [[pharmacoeconomics]] to labor and welfare economics. Mental health can be directly related to economics by the potential of affected individuals to contribute as human capital. In 2009 Currie and Stabile published "Mental Health in Childhood and Human Capital" in which they assessed how common childhood mental health problems may alter the human capital accumulation of affected children.<ref>Currie, Janet and Mark Stabile. "Mental Health in Childhood and Human Capital". ''The Problems of Disadvantaged Youth: An Economic Perspective'' ed. J. Gruber. Chicago: University of Chicago Press, 2009.</ref> Externalities may include the influence that affected individuals have on surrounding human capital, such as at the workplace or in the home.<ref name="Evers, S. 2007">{{citation |last1=Evers |first1=S. |first2=L. |last2=Salvador-Curulla |first3=V. |last3=Halsteinli |first4=D. |last4=McDavid |author5=MHEEN Group |title=Implementing mental health economic evaluation evidence: Building a Bridge between theory and practice |journal=Journal of Mental Health |volume=16 |issue=2 |pages=223–241 |year=April 2007 |doi=10.1080/09638230701279881 |url=http://informahealthcare.com/doi/abs/10.1080/09638230701279881}}</ref> In turn, the economy also affects the individual, particularly in light of globalization. For example, studies in India, where there is an increasingly high occurrence of western outsourcing, have demonstrated a growing hybrid identity in young professionals who face very different sociocultural expectations at the workplace and in at home.<ref>{{citation |last1=Bhavsar |first1=V. |first2=D. |last2=Bhugra |title=Globalization: Mental health and social economic factors |journal=Global Social Policy |volume=8 |issue=3 |pages=378–396 |date=December 2008 |doi=10.1177/1468018108095634 |url=http://gsp.sagepub.com/content/8/3/378.short}}</ref>
+
+Mental health economics presents a unique set of challenges to researchers. In health economics, the health status of an individual may be given a value such as HYE (Health Year Equivalents); however, in mental health economics, valuations may not be the same for affected individuals. For instance a suicidal individual may place higher utility on death than life. Additionally, individuals with cognitive disabilities may not be able to communicate preferences. These factors represent challenges in terms of placing value on the mental health status of an individual, especially in relation to the individual's potential as human capital. Further, employment statistics are often used in mental health economic studies as a means of evaluating individual productivity; however, these statistics do not capture "presenteeism", when an individual is at work with a lowered productivity level, quantify the loss of non-paid working time, or capture externalities such as having an affected family member. Also, considering the variation in global wage rates or in societal values, statistics used may be contextually, geographically confined, and study results may not be internationally applicable.<ref name="Evers, S. 2007"/>
+
+Though studies have demonstrated mental health care to reduce overall health care costs, demonstrate efficacy, and reduce employee absenteeism while improving employee functioning, the availability of comprehensive mental health services is in decline. Petrasek and Rapin (2002) cite the three main reasons for this decline as (1) stigma and privacy concerns, (2) the difficulty of quantifying medical savings and (3) physician incentive to medicate without specialist referral.<ref>{{citation |author=Petrasek M, Rapin L |title=The mental health paradox |journal=Benefits Q |volume=18 |issue=2 |pages=73–7 |year=2002 |pmid=12004583 }}</ref> Evers et al. (2009) have suggested that improvements could be made by promoting more active dissemination of mental health economic analysis, building partnerships through policy-makers and researchers, and employing greater use of [[knowledge broker]]s.<ref name="Evers, S. 2007"/>
+
+==See also==
+{{col-begin}}
+{{col-2}}
+*[[Health administration]]
+*[[Health care]]
+*[[Health care compared]] — tabular comparisons of the US, Canada, and other countries not shown above.
+*[[Health care politics]]
+*[[Health consumerism]]
+*[[Health crisis]]
+*[[Health Economics|Health Economics Journal]]
+*[[Health insurance]]
+{{col-2}}
+*[[Health policy analysis]]
+*[[List of publications in economics#Health economics|Important publications in health economics]]
+*[[Journal of Health Care for the Poor and Underserved]]
+*[[Medical debt]]
+*[[Pharmacoeconomics]]
+*[[Pharmacoepidemiology]]
+*[[Philosophy of Healthcare]]
+*[[Prescription costs]]
+*[[Public health]]
+{{Col-end}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Alastair M. Gray, Philip M. Clarke, Jane Wolstenholme, Sarah Wordsworth (2010) ''Applied Methods of Cost-effectiveness Analysis in Healthcare'', Oxford University Press. [http://www.amazon.co.uk/Cost-effectiveness-Analysis-Healthcare-Handbooks-Evaluation/dp/0199227284 Preview] ISBN 0-19-922728-4
+* {{Citation |last=Arrow |first=K. |year=1963 |title=Uncertainty and the welfare economics of medical care |journal=American Economic Review |volume=53 |issue=5 |url=http://sws1.bu.edu/ellisrp/EC387/Papers/1963Arrow_AER.pdf |pages=941–973 |format=PDF |month=December |ref=harv}}
+* Drummond, Michael F. (2005) ''Methods for the Economic Evaluation of Health Care Programmes'', Oxford University Press. [http://books.google.com/books?hl=en&lr=&id=xyPLJIiEn7cC&oi=fnd&pg=PA1&dq=Drummond+2005+&ots=oqnoQH2WTB&sig=lddhhWvJ1zexoWNOffMvilmWF1c Preview.] ISBN 0-19-852945-7
+* [[Victor Fuchs|Fuchs, Victor R.]] (1998) ''Who Shall Live? Health, Economics, and Social Choice'', Wspc.
+* Mahar, Maggie, [http://books.google.com/books?id=pOfrTRPgv_kC&printsec=frontcover ''Money-Driven Medicine: The Real Reason Health Care Costs So Much''], Harper/Collins, 2006. ISBN 978-0-06-076533-0
+*{{cite book|first1=Joanna E. |last1=Siegel |first2=Louise B.|last2=Russell |first3=Milton C.|last3=Weinstein |first4=Marthe R.|last4=Gold |title=Cost-effectiveness in health and medicine|year=1996|publisher=Oxford Univ. Press|location=New York [u.a.]|isbn=978-0-19-510824-8}}
+* [[Paul Starr|Starr, Paul]], ''[[The Social Transformation of American Medicine]]'', Basic Books, 1982. ISBN 0-465-07934-2
+* {{citation |author=Wennberg J, Gittelsohn |title=Small area variations in health care delivery |journal=Science |volume=182 |issue=4117 |pages=1102–8 |year=1973 |month=December |pmid=4750608 |url=http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=4750608}}
+* Whittington, Ruth (2008). [http://www.amazon.co.uk/dp/0954549457 ''Introduction to Health Economics: A Beginners Guide''] [http://books.google.com/books?id=7K0n_bxIsfoC&printsec=frontcover&dq=ruth+whittington&lr=&ei=p6mSSaGaKZX8ygTvyb30CQ#PPP1,M1 Preview.] ISBN 978-0-9545494-5-9.
+*{{cite book |author=Wise, David A. |title=Developments in the Economics of Aging |publisher=University of Chicago Press |year=2009 |pages= |isbn=978-0-226-90335-4}}
+* A.J. Culyer and J.P. Newhouse, ed. (2000). ''Handbook of Health Economics'', Elsevier. 1A''. [http://www.elsevier.com/wps/find/bookdescription.careers/718229/description#description Description.] Elsevier.
+* _____ (2000). ''Handbook of Health Economics'', 1B''. [http://www.elsevier.com/wps/find/bookdescription.careers/718226/description#description Description.] Elsevier.
+
+==Journals==
+* ''[[Health Economics]]''. [http://www3.interscience.wiley.com/journal/5749/home/ProductInformation.html Aims & scope] and  [http://www3.interscience.wiley.com/journal/5749/toc links] back-issue titles and abstracts.
+*  ''[[Journal of Health Economics]]'' [http://www.elsevier.com/wps/find/journaldescription.authors/505560/description Aims & scope] and [http://www.sciencedirect.com/science/journal/01676296 links] to back-issue titles and abstracts.
+*  ''[[Review of Economics of the Household]]
+
+==External links==
+{{External links|date=November 2012}}
+Associations
+* [http://www.healtheconomics.org International Health Economics Association]
+* [http://www.economicsnetwork.ac.uk/health/ Health Economics education (HEe)] — UK-based site for teachers of Health Economics
+* [http://www.ispor.org International Society for Pharmacoeconomics and Outcomes Research]
+
+Links/Terminology/Discussion
+* [http://www.healtheconomics.nl Health Economics Online Glossary of Terms] — maintained by the University of Groningen, The Netherlands
+* [http://www.healtheconomicsdigest.com www.HealthEconomicsDigest.com]
+
+{{Health care}}
+{{Public health}}
+
+[[Category:Health economics| ]]

@@ -1,0 +1,200 @@
+[[Image:Inolivent-5.jpg|thumb|Example of a liquid ventilator (Inolivent-5 research group Inolivent, [[Université de Sherbrooke]])]]
+
+A '''liquid ventilator''' is similar to a [[medical ventilator]] except that it should be able to ensure reliable total [[liquid ventilation]] with a [[breatheable liquid]] (a [[perfluorocarbon]])<ref name="Wolfson2005"/>{{,}}.<ref name="Kaisers2003"/> Liquid ventilators are prototypes that may have been used for [[animal experimentation]]s but experts recommend continued development of a liquid ventilator toward clinical applications.<ref name="Costantino2009"/>
+
+==Function and technology==
+
+===Driving liquid===
+In total [[liquid ventilation]] (TLV), the lungs are completely filled with a [[perfluorocarbon]] (PFC) liquid while the liquid ventilator renews the tidal volume of PFC. The liquid ventilator operates in mandatory mode: it must force the PFC in and out of the lungs with a pumping system.
+* During the inspiratory phase, the pump generates a positive driving pressure in the [[Vertebrate trachea|trachea]] to ensure the PFC insertion of the tidal volume.
+* During the expiratory phase, the pump generates a negative driving pressure in the [[Vertebrate trachea|trachea]] to ensure PFC withdrawal of the tidal volume.
+The pumping system is either a [[peristaltic pump]] (in the simplest liquid ventilators) or two [[piston pump]]s (in the most advanced liquid ventilators).
+
+Because of the PFC [[viscosity]], the [[head loss]] in the airways requires a low negative driving pressure during the expiration phase that can collapse the airways. This is the choked flow phenomenon in TLV<ref name="Baba2004"/>{{,}}<ref name="Bull2005"/> which compromises the minute ventilation and consequently the gas exchanges.<ref name="Corno2004"/> To address this limitation, liquid ventilator integrates a control of the pumping system.<ref name="Micheau2011"/>
+
+===Controlling liquid ventilator===
+The introduction of computers in liquid ventilators to control the pumping system provides different control modes, monitoring and valuable data for decision making<ref name="Sekins1999"/>{{,}}.<ref name="Heckman1999"/>
+
+The liquid ventilator is always '''volume-controlled''' because the specified [[tidal volume]] of PFC must be accurately delivered and retrieved. It is also '''pressure-limited''' because it must stop the expiratory or inspiratory phase when a too low, or a too large, driving pressure is detected.<ref name="Larrabe2001"/>
+
+However, during the expiratory phase, the expiratory flow can be commanded by an [[open-loop controller]] or a [[closed-loop controller]]:
+* when the expiratory flow is open-loop controlled, it is fast initially and slowing down progressively after to minimize the risk of collapse generation.<ref name="Robert2009"/>{{,}}<ref name="Tredici2004"/>
+* when the expiratory flow is closed-loop controlled, it is commanded in real-time to maintain a specified driving pressure. This is a '''pressure-regulated''' mode. Such approach automatically avoids collapse generation.<ref name="Robert2009b"/>
+
+Also, during the inspiratory phase, the volume-controlled mode is realized by open-loop or closed loop control of the PFC flow.
+
+===Oxygenating and heating liquid===
+The liquid ventilator removes [[Carbon dioxide]] (CO<sub>2</sub>) from the PFC by saturating it with [[oxygen]] (O<sub>2</sub>) and medical [[air]]. This procedure can be performed with either a membrane oxygenator (a technology used in [[extracorporeal]] oxygenators) or a bubble oxygenator.<ref name="Robert2006"/>
+
+The liquid ventilator heats the PFC to body temperature. This is performed with an [[heat exchanger]] connected to the oxygenator or with dedicated heaters integrated in the oxygenator.<ref name="Robert2006"/>
+
+The oxygenator and the heater produce PFC vapor which is recuperated with a [[Condenser (heat transfer)|condenser]] in order to limit the evaporation loss (the PFC is a [[greenhouse gas]]).
+
+==Example==
+[[Image:AnimInolivent.gif|thumb| Example of the pumping cycle in a liquid ventilator (Inolivent-4, research group Inolivent, [[Université de Sherbrooke]])]]
+
+An example of a liquid ventilator is the Inolivent-4. It is composed of 2 independent piston pumps and integrated unit allowing for oxygenation of PFC, temperature control, and recovery of evaporated PFC.<ref name="Robert2006"/> This liquid ventilator also includes volume and pressure control strategies to optimize the ventilatory cycle: it performs a ''pressure-regulated volume-controlled'' ventilation mode.<ref name="Robert2009b"/> It is designed for experimental research on animal models weighing between 0.5&nbsp;kg to 9&nbsp;kg.
+
+A typical cycle is composed of 4 steps :
+# Inspiratory pump inserts a volume of PFC in the lungs (valve 1 open, valve 2 closed), and the expiratory pump pushes PFC in the oxygenator via the filter (valve 3 closed, valve 4 open).
+# During the inspiratory pause (all valves are closed), the lung volume is at its maximal value. The measured pressure is the Positive End-Inspiratory Pressure (PEIP).
+# Expiratory pump retrieves a volume of PFC in the lungs (valve 3 open, valve 4 closed), and the inspiratory pump draws PFC from the reservoir (valve 1 closed, valve 2 open).
+# During the expiratory pause (all valves are closed), the lung volume is at its minimal value. The measured pressure is the Positive End-expiratory Pressure (PEEP).
+
+==Potential applications==
+Studies have shown both the efficacy and safety of liquid ventilation in normal, mature and immature newborn lungs. Overall, liquid ventilation improves gas exchange and lung [[Compliance (physiology)|compliance]] and prevents the lungs against ventilation-induced lung injury.<ref name="Wolfson2005"/>
+
+===Respiratory support===
+Studies suggest clear benefits of liquid ventilation in [[acute respiratory distress syndrome]] (ARDS).<ref name="Wolfson2008"/> For example, total liquid ventilation could be used for [[newborns]] with severe neonatal [[respiratory distress syndrome]]<ref name="Hirschl1995"/> in which conventional treatment has failed. Typical cases are late [[preterm]] newborns who have an increased risk of [[intracranial hemorrhage]] and for whom their small vessel size poses technical limitations for [[Extracorporeal membrane oxygenation]] (ECMO).
+
+===Therapeutic lung lavage===
+Liquid ventilator can perform therapeutic [[lung lavage]], the washout of endogenous and exogenous debris from the lungs, without suspension of ventilation support (without [[apnea]]). For example, literature data suggest a radical change in the treatment of [[meconium aspiration syndrome]] (MAS) by considering the use of a liquid ventilator. The demonstration of its efficacy was performed in the neonatal lamb.<ref name="Foust1996"/>{{,}}.<ref name="Avoine2011"/>
+
+===Therapeutic hypothermia with rapid cooling===
+The liquid ventilator with advanced control temperature of PFC allows the rapid cooling of the body. Consequently, [[therapeutic hypothermia]] is an expected clinical application. For example, studies present that rapid cooling instituted by TLV can improve cardiac and mitochondrial function <ref name="Tissier2009"/> or can induce favorable neurological and cardiac outcomes after cardiac arrest in rabbits.<ref name="Chenoune2011"/>
+
+==See also==
+* [[Mechanical ventilation]]
+* [[liquid ventilation]]
+
+==References==
+<references>
+
+<ref name="Avoine2011">{{cite journal 
+| author =  Avoine et al.
+| title =  Total Liquid Ventilation efficacy in an Ovine Model of severe meconium aspiration syndrome
+| journal =  Critical Care Medicine
+| volume          =  39
+| number =  5
+| year =  2011
+| pages           =  1097–103
+| url =  http://journals.lww.com/ccmjournal/Abstract/2011/05000/Total_liquid_ventilation_efficacy_in_an_ovine.25.aspx
+}}</ref>
+
+<ref name="Chenoune2011">{{cite journal 
+| author         =  Chenoune et al.
+| title  =  Ultrafast and whole-body cooling with total liquid ventilation induces favorable neurological and cardiac outcomes after cardiac arrest in rabbits
+| périodique      =  Circulation
+| volume          =  124| number =  8
+| year =  2011
+| pages           =  9011-11
+| url =  http://circ.ahajournals.org/content/124/8/901.full
+}}</ref>
+
+<ref name="Micheau2011">{{cite journal
+| author        =  Micheau et al.
+| title  =  A Liquid Ventilator Prototype for Total Liquid Ventilation Preclinical Studies - Progress in Molecular and Environmental Bioengineering - From Analysis and Modeling to Technology Applications
+| editor =  Angelo Carpi (Ed.),  InTech
+| isbn            =  978-953-307-268-5
+| year =  2011
+| url   =  http://www.intechopen.com/books/progress-in-molecular-and-environmental-bioengineering-from-analysis-and-modeling-to-technology-applications/a-liquid-ventilator-prototype-for-total-liquid-ventilation-preclinical-studies
+}}</ref>
+
+<ref name="Kaisers2003">{{cite journal | doi =  10.1093/bja/aeg147 | author =  Kaisers, K., Kelly, K.P., Busch, T.
+ | title =  Liquid ventilation
+ | journal =  British Journal of Anaesthesia | volume =  91 | issue =  1 | year =  2003 | pages =  143–151 | url =  http://bja.oxfordjournals.org/cgi/content/short/91/1/143 | pmid =  12821573}}</ref>
+
+<ref name="Wolfson2008">{{cite journal | doi  =  10.1097/MAT.0b013e318168fef0 | author  =  Wolfson, M. R., R. B. Hirschl, et al.
+| title =  Multicenter comparative study of conventional mechanical gas ventilation to tidal liquid ventilation in oleic acid injured sheep
+| journal  =  Asaio J. | volume =  54 | number  =    | issue  =  3| year  =  2008 | pages  =  256–269
+ | url       =  http://journals.lww.com/asaiojournal/Abstract/2008 | pmid  =  18496275 }}</ref>
+
+<ref name="Costantino2009">{{cite journal | doi  =  10.1097/MAT.0b013e318199c167 | author  =  Maria Laura Costantino, Philippe Micheau, Thomas H. Shaffer, Stefano Tredici, Maria R. Wolfson
+| title =  Clinical Design Functions:  Round table discussions on bioengineering of liquid ventilators
+| journal  =  Asaio J. | volume =  55 | issue  =  3 | year  =  2009 | pages  =  206–8 | url       =  http://journals.lww.com/asaiojournal/Abstract/2009/05000/Clinical_Design_Functions__Round_Table_Discussions.4.aspx | pmid  =  19282746}}</ref>
+
+<ref name="Robert2009">{{cite journal |  author =  R. Robert, P. Micheau, O. Avoine, B. Beaudry, H. Walti
+| title           =  A Regulator for Pressure Controlled Liquid Ventilation | year           =  2009
+| url       =  http://ieeexplore.ieee.org/xpls/pre_abs_all.jsp?isnumber=4359967&arnumber=5233807&tag=1 |  page =  ériodique |  unused_data =  =  IEEE Trans. Biomed. Eng.
+}}</ref>
+
+<ref name="Robert2006">{{cite journal | doi =  10.1097/01.mat.0000249016.31910.11 | author =  R. Robert, P. Micheau,  S. Cyr, O. Lesur, J.P. Praud, H. Wallti
+| title           =  A prototype of volume-controlled tidal liquid ventilator using independent piston pumps
+| journal      =  Asaio J. | year           =  2005 | volume          =  52 | issue          =  6 | pages           =  638–645
+| url       = | pmid =  17117053 }}</ref>
+
+<ref name="Bull2005">{{cite journal | doi =   10.1097/01.mat.0000179252.02471.9e | author =   Bull et al | last2 =   Foley | first2 =   DS | last3 =   Bagnoli | first3 =   P | last4 =   Tredici | first4 =   S | last5 =   Brant | first5 =   DO | last6 =   Hirschl | first6 =   RB
+| title           =  Location of Flow Limitation in Liquid Filled Rabbit Lungs
+| journal      =  Asaio J. | year           =  2005 | volume          =  51 | issue =   6 | pages           =  781–788
+| url       =  http://journals.lww.com/asaiojournal/Abstract/2005/11000/Location_of_Flow_Limitation_in_Liquid_Filled.33.aspx | pmid =   16340368
+}}</ref>
+
+<ref name="Sekins1999">{{cite journal | author = Sekins et al
+| title           =  Recent innovation in total liquid ventilation system and component design
+| journal      =  Biomed. Eng. & Tech. | year           =  1999 | volume          =  33 | pages           =  277–284
+| pmid=10360218 | issue=3 | last2 = Nugent | first2 = L | last3 = Mazzoni | first3 = M | last4 = Flanagan | first4 = C | last5 = Neer | first5 = L | last6 = Rozenberg | first6 = A | last7 = Hoffman | first7 = J
+}}</ref>
+
+<ref name="Tredici2004">{{cite journal | doi = 10.1097/01.CCM.0000142701.41679.1B | author = Tredici | last2 = Komori | first2 = E | last3 = Funakubo | first3 = A | last4 = Brant | first4 = DO | last5 = Bull | first5 = JL | last6 = Bartlett | first6 = RH | last7 = Hirschl | first7 = RB
+| title           =  A prototype of a liquid ventilator using a novel hollow-fiber oxygenator in a rabbit model
+| journal      =  Crit. Care Med. | year           =  2004 | volume          =  32 | pages           =  2104–2109
+| url       = http://journals.lww.com/ccmjournal/Abstract/2004/10000/A_prototype_of_a_liquid_ventilator_using_a_novel.18.aspx | issue=10 | pmid = 15483421
+}}</ref>
+
+<ref name="Baba2004">{{cite journal | author =  Baba et al | last2 =  Brant | first2 =  D | last3 =  Brah | first3 =  SS | last4 =  Grotberg | first4 =  J | last5 =  Bartlett | first5 =  RH | last6 =  Hirschl | first6 =  RB
+| title           =  Assessment of the development of choked flow during liquid ventilation
+| journal      =   Crit. Care Med. | year           =  2004 | volume          =  32 | issue          =  1 | pages           =  201–208
+| url       = | pmid =  14707580 | doi =  10.1097/01.CCM.0000104918.48411.91
+}}</ref>
+
+<ref name="Larrabe2001">{{cite journal | author = Larrabe et al
+| title           = Development of a time-cycled volume-controlled pressure-limited respirator and lung mechanics system for total liquid ventilation
+| journal      =  IEEE Trans. Biomed Eng | volume          =  48 | issue          =  10 | month            =  october | year           =  2001
+| url       =  http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=951516
+}}</ref>
+
+<ref name="Robert2009b">{{cite journal | doi = 10.1097/MAT.0b013e3181911821 | author = R. Robert, P. Micheau, H. Walti
+| title  =  Optimal expiratory volume profile in tidal liquid ventilation under steady state conditions, based on a symmetrical lung model
+| journal  =  Asaio J. | volume=  55 | issue  =   1 | year =  2009 | pages =  63–72
+| url      = http://journals.lww.com/asaiojournal/Abstract/2009/01000/Optimal_Expiratory_Volume_Profile_in_Tidal_Liquid.14.aspx | pmid = 19092655
+}}</ref>
+
+<ref name="Wolfson2005">{{cite journal | doi  =  10.1016/j.prrv.2005.03.010 | author  =  M. R. Wolfson and T. H. Shaffer
+| title           = Pulmonary applications of perfluorochemical liquids: ventilation and beyond
+| journal      =  Paediatr Respir Rev | volume          =  6 | issue          =   2 | year           =  2005 | pages           =  117–27
+| url       = http://www.journals.elsevierhealth.com/periodicals/yprrv/article/PIIS1526054205000278/abstract | pmid  =  15911457
+}}</ref>
+
+<ref name="Corno2004">{{cite journal | doi =  10.1109/TBME.2004.824144 | author =  D. Corno, G.B. Fiore, M.L. Costantino
+| title           = A mathematical model of neonatal tidal liquid ventilation integrating airway mechanics and gas transfer phenomena
+| journal      =  IEEE Trans. Biomed. Eng. | volume          =  51 | issue =   4 | year  =  2004 | pages =  604–611
+| url       = http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=01275575 | pmid =  15072214
+}}</ref>
+
+<ref name="Hirschl1995">{{cite journal | doi =  10.1016/S0140-6736(95)92903-7 | author =  Hirschl et al | last2 =  Pranikoff | first2 =  T | last3 =  Gauger | first3 =  P | last4 =  Schreiner | first4 =  RJ | last5 =  Dechert | first5 =  R | last6 =  Bartlett | first6 =  RH
+| title = Liquid ventilatory in adults, children, and full-term neonates
+| journal= Lancet | volume  =  346 | issue =  8984  | year  =  1995 | pages =  1201–1202
+| url   = http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T1B-49N846D-1BS&_user=1069171&_rdoc=1&_fmt=&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000051264&_version=1&_urlVersion=0&_userid=1069171&md5=ab011a9800c0d364be7a1e713ab6b2b8 | pmid =  7475663
+}}</ref>
+
+<ref name="Tissier2009">{{cite journal | doi =  10.1093/cvr/cvp046 | author =  R. Tissier, N. Couvreur, B. Ghaleh
+| title           =  Rapid cooling preserves the ischaemic myocardium against mitochondrial damage and left ventricular dysfunction
+| journal =  Cardiovasc Res.  | volume =  83 | issue =  2 | pages =  345–53 | year =  2009
+| url  =  http://cardiovascres.oxfordjournals.org/cgi/content/abstract/83/2/345 | pmid =  19196828 | pmc =  2701717
+}}</ref>
+
+<ref name="Foust1996">{{cite journal | author =  R. Foust, N. Tran et al
+| title           =  Liquid assisted ventilation: an alternative ventilatory strategy for acute meconium aspiration injury
+| journal =  Pediatr. Pulmonol.  | volume  =  21 | issue  =  5 | year =  1996
+| url       =  http://www3.interscience.wiley.com/journal/73590/abstract?CRETRY=1&SRETRY=0 | doi =  10.1002/(SICI)1099-0496(199605)21:5<316::AID-PPUL7>3.0.CO;2-K | pages =  316–22 | pmid =  8726157
+}}</ref>
+
+<ref name="Heckman1999">{{cite journal | author =  JL. Heckman, J Hoffman, TH Shaffer, and MR Wolfson
+| title           =  Software for real-time control of a tidal liquid ventilator
+| journal =  Biomedical Instrumentation & Technology  | volume          =  33 | issue =  3 | year =  1999  |pages =  268–276
+| url       =  http://www.aami-bit.org/
+}}</ref>
+
+</references>
+
+==External links==
+* {{en}} {{fr}} Research group Inolivent [http://www.inolivent.ca]
+* {{en}}  [[perfluorocarbon]]s [http://www.fluoros.co.uk/data/medical_applications.php]
+
+{{Intensive care medicine}}
+
+[[Category:Respiratory therapy]]
+[[Category:Medical pumps]]
+
+[[de:Flüssigkeitsbeatmung]]
+[[fr:Respirateur liquidien]]

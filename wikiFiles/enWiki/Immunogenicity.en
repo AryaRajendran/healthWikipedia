@@ -1,0 +1,72 @@
+'''Immunogenicity''' is the ability of a particular substance, such as an [[antigen]] or [[epitope]], to provoke an [[immune response]] in the body of a human or animal.
+
+== Immunogenicity ==
+
+The ability of an [[antigen]] to elicit immune responses is called [[immunogenicity]], which can be [[humoral]] and/or [[cell-mediated]] immune responses.<br>
+Differentiation has to be made between wanted and unwanted immunogenicity. 
+* Wanted immunogenicity is typically related with [[vaccines]], where the injection of an antigen (the vaccine) has to lead to an immune response against the pathogen (the virus, bacterium or substance). 
+* Unwanted immunogenicity is when the organism mounts an immune response against an antigen which is undesired. Unwanted immunogenicity is strongly linked with [[therapeutic proteins]]. A fraction of the patient treated with those drugs mount anti-drug-antibodies, which leads to inactivation of the drug and in rare cases to [[adverse effects]].
+
+== Immunogenic potency of antigens ==
+
+[[Protein]]s are significantly more immunogenic than [[polysaccharide]]s. T cell response is required to drive immunogenicity. 
+
+Since [[lipid]]s and [[nucleic acid]]s are non-immunogenic [[hapten]]s, they require [[conjugate vaccine|conjugation]] with an [[epitope]] such as a protein or polysaccharide before they can evoke an immunologic response.
+
+* Proteins or polysaccharides are used for studies of humoral immune response.
+* Only proteins can serve as immunogens for cell-mediated immunity.
+
+== Protein drugs are frequently immunogenic==
+
+In the rush to deliver novel biologics to market, developers have, on occasion, overlooked factors that contribute to protein immunogenicity. In addition, autologous or human-like proteins have proven to be surprisingly immunogenic in some applications, suggesting that assumptions about immune tolerance, too, require careful consideration in biologics design.
+
+Fortunately, years of thorough study of the parameters influencing vaccine efficacy allow parallels to be drawn for protein therapeutics. Factors including delivery route, delivery vehicle, dose regimen, aggregation, innate immune system activation, and the ability of the protein to interface with the humoral (B cell) and cellular (T cell) immune systems, all impact the potential immunogenicity of vaccine immunogens when delivered to humans (for reviews related to unwanted immunogenicity determinants, see references below).
+
+Like vaccines, protein therapeutics can engender both cellular and humoral immune responses. Anti-drug antibodies (ADA) may neutralize the therapeutic effects of the drug and/or alter its pharmacokinetics. T cells are certainly involved in this immune response when IgG class ADA are observed, because antibody isotype switching is a hallmark of T-dependent antigens. 
+
+More serious adverse events can be provoked if ADA cross-react with a critical autologous protein. Examples of adverse ADA responses include autoimmune thrombocytopenia (ITP) following exposure to recombinant thrombopoietin, and pure red cell aplasia, which was associated with a particular formulation of erythropoietin (Eprex). Since the impact of immunogenicity can be quite severe, regulatory agencies are developing risk-based guidelines for immunogenicity screening.
+
+== Factors influencing immunogenicity ==
+
+* Contribution of antigen to immunogenicity
+* Contribution of biological system to immunogenicity
+
+== Antigens and immunogenicity ==
+
+<!-- A diagram was originally referenced here, but there is none. -->
+
+Immunogenicity is influenced by multiple characteristics of an antigen:
+
+* [[Genetic distance|Phylogenetic distance]]
+* [[Molecular size]]
+* [[Epitope]] density
+* Chemical composition and heterogeneity
+:* Protein structure, [[aa-polymer]]s, [[Glutamic acid|Glu]]-[[Lysine|Lys]], [[Tyrosine|Tyr]], [[Phenylalanine|Phe]]
+* Degradability (ability to be processed & presented to T cells)
+:* D-[[amino acid]]s
+
+==Methods for evaluating immunogenicity==
+
+In silico screening. T cell epitope content, which is one of the factors that contributes to the risk of immunogenicity can now be measured relatively accurately using in silico tools. Immunoinformatics algorithms for identifying T-cell epitopes are now being applied to triage protein therapeutics into higher risk and low risk categories. 
+
+One approach is to parse protein sequences into overlapping 9-mer peptide frames, each of which is then evaluated for binding potential to each of eight common class II HLA alleles that “cover” the genetic backgrounds of most humans worldwide. By calculating the density of high-scoring frames within a protein, it is possible to estimate a protein’s overall “immunogenicity score”. In addition, sub-regions of densely-packed high scoring frames or “clusters” of potential immunogenicity can be identified, and cluster scores can be calculated and compiled. Given the resulting “immunogenicity score” of a protein, and taking into consideration other determinants of immunogenicity as described above, it is possible to make an informed decision about the likelihood that a protein will provoke an immune response. 
+
+Using this approach, the clinical immunogenicity of a novel protein therapeutics can be calculated and consequently a number of biotech companies have integrated in silico immunogenicity into their pre-clinical process as they develop new protein drugs.
+
+==Removing T cell epitopes reduces immunogenicity ==
+
+Deimmunization. De-immunization by epitope modification is a strategy for reducing immunogenicity based on disruption of HLA binding, an underlying requirement for T cell stimulation. The idea of rational epitope modification is rooted in the natural process that occurs when tumor cells and pathogens evolve to escape immune pressure by accumulating mutations that reduce the binding of their constituent epitopes to host HLA, rendering the host cell unable to “signal” to T cells the presence of the tumor or pathogen. Deimmunized protein therapeutics are now entering the clinic; initial results appear to support this approach to reducing immunogenicity risk.
+
+==See also==
+* [[Vaccine#Types|Vaccines]]
+* [[Adaptive immune system]]
+* [[Immunostimulator]]
+
+==References==
+{{wiktionary}}
+<references/>
+* ''Immunologists' Toolbox: Immunization.'' In: [[Charles Janeway]], Paul Travers, Mark Walport, Mark Shlomchik: ''Immunobiology. The Immune System in Health and Ddisease.'' 6th Edition. Garland Science, New York 2004, ISBN 0-8153-4101-6, p.&nbsp;683–684
+* Jacques Descotes ''Immunotoxicity of monoclonal antibodies'' MAbs. 2009 Mar–Apr; 1(2): 104–111. Free article in PMC: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725414/?tool=pubmed 
+* The European Immunogenicity Platform http://www.e-i-p.eu
+* De Groot AS, Martin W. Reducing risk, improving outcomes: bioengineering less immunogenic protein therapeutics. Clin Immunol.  2009 131(2):189-201. 
+[[Category:Immunology]]

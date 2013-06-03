@@ -1,0 +1,45 @@
+[[Image:Azo-group-2D-flat.png|thumb|General chemical formula of azo compounds]]
+'''Azo compounds''' are [[chemical compound|compounds]] bearing the [[functional group]] R-N=N-R', in which R and R' can be either [[aryl]] or [[alkyl]]. IUPAC defines azo compounds as: "Derivatives of [[diazene]] (diimide), HN=NH, wherein both hydrogens are substituted by hydrocarbyl groups, e.g. PhN=NPh  [[azobenzene]] or diphenyldiazene."<ref name="Gold">{{GoldBookRef|title= azo compounds|url=http://goldbook.iupac.org/A00560.html |year=2009}}</ref>  The more stable derivatives contain two aryl groups.  The N=N group is called an ''azo group''.  The name azo comes from ''azote,'' the French name for [[nitrogen]] that is derived from the Greek ''a'' (not) + ''zoe'' (to live).
+
+Most colored textile and leather articles are treated with azo dyes and pigments.<ref name=TFL/>
+
+==As dyes and pigments==
+[[Image:Typical azo compound.svg|thumb|250px|A yellow azo dye]]
+As a consequence of п-[[delocalization]], aryl azo compounds have vivid colors, especially reds, oranges, and yellows. Therefore, they are used as [[dye]]s, and are commonly known as '''azo dyes''', an example of which is [[Disperse Orange 1]]. Some azo compounds, e.g., [[methyl orange]], are used as acid-base indicators due to the different colors of their acid and salt forms. Most [[DVD-R]]/[[DVD+R|+R]] and some [[CD-R]] discs use blue azo dye as the recording layer. The development of azo dyes was an important step in the development of the chemical industry.
+
+Azo pigments are colorless particles (typically earths or [[clay]]s), which have been colored using an azo compound.  Azo pigments are important in a variety of [[paint]]s including artist's paints. They have excellent coloring properties, again mainly in the yellow to red range, as well as lightfastness. The lightfastness depends not only on the properties of the organic azo compound, but also on the way they have been absorbed on the pigment carrier.  Many azo pigments are non-toxic, although some, such as [[dinitroaniline orange]], [[ortho-nitroaniline]] orange, or pigment orange 1, 2, and 5 have been found to be mutagenic.<ref>{{cite journal |author=Tucson University |title=Health & Safety in the Arts, A Searchable Database of Health & Safety Information for Artists |journal=Tucson University Studies | url=http://www.ci.tucson.az.us/arthazards/paint1.html}}</ref> Likewise, several case studies have linked azo pigments with [[basal cell carcinoma]].<ref>{{cite journal |author=Eva Engel, Heidi Ulrich, Rudolf Vasold, Burkhard König, Michael Landthaler, Rudolf Süttinger, Wolfgang Bäumler |title=Azo Pigments and a Basal Cell Carcinoma at the Thumb |journal=Dermatology |volume=216 |issue=1 |year=2008 |doi=10.1159/000109363 |pmid=18032904 |pages=76–80}}</ref>
+
+==Organic chemistry==
+===Aryl azo compounds===
+Aryl azo compounds are usually stable, crystalline species.  [[Azobenzene]] is the prototypical aromatic azo compound.  It exists mainly as the [[trans isomer]], but upon photolysis, converts to the [[Cis-trans isomerism|cis]] isomer. Aromatic azo compounds can be synthesized by using an [[azo coupling]] reaction, which entails an [[electrophilic substitution reaction]] where an [[diazonium salt|aryl diazonium cation]] attacks another aryl ring, especially those substituted with electron-donating groups.<ref>{{OrgSynth | author = H. T. Clarke and W. R. Kirner | title = Methyl Red | collvol = 1 | collvolpages = 374| year = 1941 | prep = CV1P0374}}</ref>  Since diazonium salts are often unstable near room temperature,  the azo coupling reactions are typically conducted near ice temperatures.  The [[oxidation]] of [[hydrazine]]s (R-NH-NH-R') also gives azo compounds.<ref>March, J. “Advanced Organic Chemistry” 5th Ed.  J. Wiley and Sons, 1992: New York.  ISBN 0-471-60180-2.</ref>  Azo dyes derived from [[benzidine]] are carcinogens; exposure to them has classically been associated with [[bladder cancer]].<ref>{{cite journal |author=Golka K, Kopps S, Myslak ZW |title=Carcinogenicity of azo colorants: influence of solubility and bioavailability |journal=[[Toxicology Letters]] |volume=151 |issue=1 |pages=203–10 |year=2004 |month=June |pmid=15177655 |doi=10.1016/j.toxlet.2003.11.016}} Review.</ref> Accordingly, the production of benzidine azo dyes was discontinued in the 1980s "in the most important western industrialized countries".<ref>Klaus Hunger, Peter Mischke, Wolfgang Rieper, Roderich Raue, Klaus Kunde, Aloys Engel "Azo Dyes” in Ullmann’s Encyclopedia of Industrial Chemistry, 2005, Wiley-VCH, Weinheim.{{DOI|10.1002/14356007.a03_245}}.</ref>
+
+===Alkyl azo compounds===
+Aliphatic azo compounds (R and/or R' = aliphatic) are less commonly encountered than the aryl azo compounds.  One example is diethyldiazene, EtN=NEt.<ref>{{OrgSynth | author = Ohme, R.; Preuschhof, H.; Heyne, H.-U. | title = Azoethane | collvol = 6 | collvolpages = 78| year = 1988 | prep = CV6P0078}}</ref> At elevated temperatures or upon [[photochemistry|irradiation]], the [[carbon]]-nitrogen (C-N) bonds in certain alkyl azo compounds cleave with the loss of nitrogen gas to generate [[free radical|radicals]]. Owing to this process, some aliphatic azo compounds are utilized as [[radical initiator]]s. Because of their instability, aliphatic azo compounds pose the risk of [[explosion]].
+
+A commercially important alkyl azo compound is [[azobisisobutyronitrile]] (AIBN) which is widely used as an initiator in [[polymerization]].  It achieves this initiation by  [[chemical decomposition|decomposition]], eliminating a molecule of [[nitrogen]] gas to form two 2-cyanoprop-2-yl radicals:
+:[[Image:Formation of Radicals from AIBN.png|480px]]
+
+These radicals can be initiate [[free radical polymerization]]s and other radical-induced reactions. For instance a mixture of [[styrene]] and [[maleic anhydride]] in [[toluene]] will react if heated, forming the [[copolymer]] upon addition of AIBN. AIBN is produced by converting [[acetone cyanohydrin]] to the [[hydrazine]] derivative followed by oxidation:<ref name=Ullmann>Jean-Pierre Schirmann, Paul Bourdauducq "Hydrazine" in Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2002. {{DOI|10.1002/14356007.a13_177}}.</ref>
+:2 (CH<sub>3</sub>)<sub>2</sub>C(CN)OH  +  N<sub>2</sub>H<sub>4</sub>  →   [(CH<sub>3</sub>)<sub>2</sub>C(CN)]<sub>2</sub>N<sub>2</sub>H<sub>2</sub>  +  2 H<sub>2</sub>O
+: [(CH<sub>3</sub>)<sub>2</sub>C(CN)]<sub>2</sub>N<sub>2</sub>H<sub>2</sub>  +  Cl<sub>2</sub>  →    [(CH<sub>3</sub>)<sub>2</sub>C(CN)]<sub>2</sub>N<sub>2</sub>  +  2 HCl
+
+== European regulation ==
+Certain azo dyes can break down under reductive conditions to release any of a group of defined aromatic [[amine]]s. Consumer goods which contain listed aromatic amines originating from azo dyes were prohibited from manufacture and sale in [[European Union]] countries in September 2003. As only a small number of dyes contained an equally small number of amines, relatively few products were affected.<ref name=TFL>[http://www.tfl.com/web/files/eubanazodyes.pdf European Ban on Certain Azo Dyes], Dr. A. Püntener and Dr. C. Page, Quality and Environment, TFL</ref>
+
+== See also ==
+* [[Azo coupling]]
+* [[Azobenzene]]
+* [[Ponceau 4R]]
+* [[Ponceau S]]
+* [[Glycoazodyes]]
+
+==References==
+{{reflist}}
+
+{{Functional Groups}}
+
+{{DEFAULTSORT:Azo Compound}}
+[[Category:Azo compounds|*]]
+[[Category:Azo dyes]]
+[[Category:Pigments]]
+[[Category:Organic pigments]]

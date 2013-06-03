@@ -1,0 +1,83 @@
+{{Refimprove|date=May 2011}}
+The '''respiratory quotient''' (or '''RQ''' or '''respiratory coefficient'''), is a dimensionless number used in calculations of [[basal metabolic rate]] (BMR) when estimated from carbon dioxide production. Such measurements, like measurements of oxygen uptake, are forms of indirect [[calorimetry]]. It is measured using [[Ganong's Respirometer]].
+
+It can be used in the [[alveolar gas equation]].
+
+==Calculation==
+The respiratory quotient ('''RQ''') is calculated from the ratio:
+
+'''RQ''' = CO<sub>2 eliminated</sub> / O<sub>2 consumed</sub>
+
+where the term "eliminated" refers to carbon dioxide (CO<sub>2</sub>) removed ("eliminated") from the body. 
+
+In this calculation, the CO<sub>2</sub> and O<sub>2</sub> must be given in the same units, and in quantities proportional to the number of molecules. Acceptable inputs would be either [[mole (unit)|moles]], or else volumes of gas at standard temperature and pressure (time units may be included, but they cancel out since they must be the same in numerator and denominator).
+
+Many metabolized substances are compounds containing only the elements [[carbon]], [[hydrogen]], and [[oxygen]]. Examples include [[fatty acids]], [[glycerol]], [[carbohydrates]], [[deamination]] products, and [[ethanol]]. For complete oxidation of such compounds, the chemical equation is
+
+C<sub>x</sub>H<sub>y</sub>O<sub>z</sub> + (x + y/4 - z/2) O<sub>2</sub> 
+---> x CO<sub>2</sub> + (y/2) H<sub>2</sub>O   
+
+and thus metabolism of this compound gives an RQ of x/(x + y/4 - z/2).
+
+The range of respiratory coefficients for organisms in metabolic balance usually ranges from 1.0 (representing the value expected for pure carbohydrate oxidation) to ~0.7 (the value expected for pure fat oxidation). See [[Basal_metabolic_rate|BMR]] for a discussion of how these numbers are derived. A mixed diet of fat and carbohydrate results in an average value between these numbers. An '''RQ''' may rise above 1.0 for an organism burning carbohydrate to produce or "lay down" fat (for example, a bear preparing for hibernation).
+
+'''RQ''' value corresponds to a caloric value for each liter (L) of CO<sub>2</sub> produced. If O<sub>2</sub> consumption numbers are available, they are usually used directly, since they are more direct and reliable estimates of energy production.
+
+'''RQ''' as measured includes a contribution from the energy produced from protein. However, due to the complexity of the various ways in which different amino acids can be metabolized, no single '''RQ''' can be assigned to the oxidation of protein in the diet.
+
+== Respiratory quotients of some substances ==
+Reference<ref>Telugu Academi, Botany text book, 2007 Version{{vs|needs more bibliographic info and page numbers|date=May 2011}}</ref>
+{| class="wikitable"
+|-
+! Name of the substance
+! Respiratory Quotient
+|-
+| [[Carbohydrates]]
+| 1
+|-
+| [[Proteins]]
+| 0.8 - 0.9
+|-
+| [[Ketones]] (eucaloric)
+| 0.73<ref>{{cite journal |pages=30–3 |doi=10.1016/j.seizure.2008.06.001 |title=Ketogenic diet treatment in adults with refractory epilepsy: A prospective pilot study |year=2009 |last1=Mosek |first1=Amnon |last2=Natour |first2=Haitham |last3=Neufeld |first3=Miri Y. |last4=Shiff |first4=Yaffa |last5=Vaisman |first5=Nachum |journal=Seizure |volume=18 |pmid=18675556 |issue=1}}</ref>
+|-
+| [[Ketones]] (hypocaloric)
+| 0.66<ref>{{cite journal |pmid=16685046 |year=2006 |last1=Johnston |first1=Carol S |last2=Tjonn |first2=Sherrie L |last3=Swan |first3=Pamela D |last4=White |first4=Andrea |last5=Hutchins |first5=Heather |last6=Sears |first6=Barry |title=Ketogenic low-carbohydrate diets have no metabolic advantage over nonketogenic low-carbohydrate diets |volume=83 |issue=5 |pages=1055–61 |journal=The American Journal of Clinical Nutrition |url=http://www.ajcn.org/cgi/pmidlookup?view=long&pmid=16685046}}</ref><ref>{{cite journal |pages=1152–61 |doi=10.1172/JCI109945 |title=Capacity for Moderate Exercise in Obese Subjects after Adaptation to a Hypocaloric, Ketogenic Diet |year=1980 |last1=Phinney |first1=Stephen D. |last2=Horton |first2=Edward S. |last3=Sims |first3=Ethan A. H. |last4=Hanson |first4=John S. |last5=Danforth |first5=Elliot |last6=Lagrange |first6=Betty M. |journal=Journal of Clinical Investigation |volume=66 |issue=5 |pmid=7000826 |pmc=371554}}</ref><ref>{{cite journal |pages=1589–95 |doi=10.1172/JCI105650 |title=Brain Metabolism during Fasting* |year=1967 |last1=Owen |first1=O. E. |last2=Morgan |first2=A. P. |last3=Kemp |first3=H. G. |last4=Sullivan |first4=J. M. |last5=Herrera |first5=M. G. |last6=Cahill |first6=G. F. |journal=Journal of Clinical Investigation |volume=46 |issue=10 |pmid=6061736 |pmc=292907}}</ref>
+|-
+| [[Triolein]] (Fat)
+| 0.7
+|-
+| [[Oleic Acid]] (Fat)
+| 0.71
+|-
+| [[Tripalmitin]] (Fat)
+| 0.7
+|-
+| [[Malic acid]]
+| 1.33
+|-
+| [[Tartaric acid]]
+| 1.6
+|-
+| [[Oxalic acid]]
+| 4.0
+|}
+
+==See also==
+{{portal|Underwater diving}}
+[[Respiratory Exchange Ratio]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{GPnotebook|516948028}}
+
+{{Respiratory physiology}}
+{{Diving medicine, physiology and physics}}
+
+[[Category:Biochemistry methods]]
+[[Category:Energy conversion]]
+[[Category:Metabolism]]
+[[Category:Respiratory physiology]]
+[[Category:Underwater diving physiology]]

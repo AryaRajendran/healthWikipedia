@@ -1,0 +1,618 @@
+{{Interventions infobox |
+  Name        = Photodynamic therapy |
+  Image       = photodynamic therapy.jpg |
+  Caption     = Close up of surgeons' hands in an operating room with a beam of light traveling along fiber optics for photodynamic therapy. Its source is a laser beam which is split at two different stages to create the proper therapeutic wavelength. A patient is given a photosensitive drug that is absorbed by cancer cells. During the surgery, the light beam is positioned at the tumor site, which then activates the drug that kills the cancer cells, thus photodynamic therapy (PDT). |
+  ICD10       = |
+  ICD9unlinked = |
+  MeshID      = D010778 |
+  OPS301      = |
+  OtherCodes  = |
+}}
+'''Photodynamic therapy''' ('''PDT''') is a form of [[phototherapy]] using nontoxic light-sensitive compounds that are exposed selectively to light, whereupon they become toxic to targeted malignant and other diseased cells. PDT has proven ability to kill microbial cells including bacteria, fungi and viruses. PDT is popularly used in treating acne. It is used clinically to treat a wide range of medical conditions, including [[macular degeneration#Wet_AMD|wet age-related macular degeneration]] and malignant [[cancers]],<ref name ="intro1">
+{{Cite journal
+| last = Wang 
+| first = SS
+| coauthors = J Chen, L Keltner, J Christophersen, F Zheng, M Krouse, A Singhal
+| title = New technology for deep light distribution in tissue for phototherapy 
+| journal = Cancer Journal
+| volume = 8
+| issue = 2
+| year = 2002 
+| pages = 154–63
+| pmid = 11999949
+| doi = 10.1097/00130404-200203000-00009
+}}<br/> 
+{{Cite journal
+| last = Lane
+| first = N
+| title = New Light on Medicine
+| journal = Scientific American
+| year = 2003 Jan
+| url = http://www.scientificamerican.com/article.cfm?id=new-light-on-medicine
+}}
+</ref> and is recognised as a treatment strategy which is both minimally invasive and minimally toxic. 
+
+Most modern PDT applications involve three key components:<ref name ="intro1" /> a [[photosensitizer]], a [[light source]] and tissue [[oxygen]]. The combination of these three components leads to the chemical destruction of any tissues which have either selectively taken up the photosensitizer or have been locally exposed to light. The wavelength of the light source needs to be appropriate for exciting the photosensitizer to produce [[reactive oxygen species]]. These reactive oxygen species generated through PDT are free radicals (Type I PDT) generated through electron abstraction or transfer from a substrate molecule and highly reactive state of oxygen known as [[singlet oxygen]] (Type II PDT). In understanding the mechanism of PDT it is important to distinguish it from other [[Light therapy|light-based and laser therapies]] such as laser wound healing and rejuvenation, or [[intense pulsed light]] hair removal, which do not require a photosensitizer.
+
+==Procedure==
+In order to achieve the selective destruction of the target area using PDT while leaving normal tissues untouched, either the photosensitizer can be applied locally to the target area or photosensitive targets can be locally excited with light. For instance, in the treatment of skin conditions, including [[acne]], [[psoriasis]], and also [[skin cancer]]s, the photosensitizer can be applied topically and locally excited by a light source. In the local treatment of internal tissues and cancers, after photosensitizers have been administered intravenously, light can be delivered to the target area using [[endoscopes]] and [[fiber optic]] [[catheters]] (see figure). 
+
+Photosensitizers can also target many viral and microbial species, including [[HIV]] and [[Methicillin-resistant Staphylococcus aureus|MRSA]].<ref name="intro5">
+{{Cite journal
+| volume = 3
+| pages = 436–450
+| last = Hamblin
+| first = MR
+| coauthors = T Hasan
+| title = Photodynamic therapy: a new antimicrobial approach to infectious disease?
+| journal = Photochem Photobiol Sci
+| year = 2004
+| pmid = 15122361
+| pmc = 3071049
+| doi = 10.1039/b311900a
+| issue = 5 
+}}<br/>
+{{Cite journal
+| volume = 635
+| pages = 155–173
+| last = Huang
+| first = L
+| coauthors = T Dai, MR Hamblin
+| title = Antimicrobial Photodynamic Inactivation and Photodynamic Therapy for Infections
+| journal = Methods Mol Biol
+| year = 2010 
+| pmid = 20552347
+| pmc = 2933785
+| doi = 10.1007/978-1-60761-697-9_12
+| series = Methods in Molecular Biology
+| isbn = 978-1-60761-696-2
+}}
+</ref> Using PDT, pathogens present in samples of blood and [[bone marrow]] can be decontaminated before the samples are used further for transfusions or transplants.<ref>
+{{Cite journal
+| volume = 7
+| pages = 134–143
+| last = Boumedine
+| first = RS
+| coauthors = DC Roy
+| title = Elimination of alloreactive T cells using photodynamic therapy
+| journal = Cytotherapy
+| year = 2005
+| pmid = 16040392
+| doi = 10.1080/14653240510027109
+| issue = 2
+}}<br/>
+{{Cite journal
+| volume = 21
+| pages = 24–27
+| last = Mulroney
+| first = CM
+| coauthors = S Gluck, AD Ho
+| title = The use of photodynamic therapy in bone marrow purging
+| journal = Semin Oncol
+| year = 1994
+| pmid = 7992104
+| issue = 6 Suppl 15
+}}<br/>
+{{Cite journal
+| volume = 47
+| pages = 1185–94
+| last = Ochsner
+| first = M
+| title = Photodynamic therapy: the clinical perspective. Review on applications for control of diverse tumorous and non-tumorous diseases
+| journal = Arzneimittelforschung
+| year = 1997
+| pmid = 9428971
+| issue = 11
+}}
+</ref> PDT can also eradicate a wide variety of pathogens of the skin and of the oral cavities. Given the seriousness that drug resistant pathogens have now become, there is increasing research into PDT as a new antimicrobial therapy.<ref>
+{{Cite journal
+| volume = 13
+| pages = 87–91
+| last = Tang
+| first = HM
+| coauthors = MR Hamblin, CM Yow
+| title = A comparative in vitro photoinactivation study of clinical isolates of multidrug-resistant pathogens
+| journal = J Infect Chemother
+| year = 2007
+| pmid = 17458675
+| doi = 10.1007/s10156-006-0501-8
+| issue = 2
+| pmc = 2933783
+}}<br/>
+{{Cite journal
+| volume = 9
+| pages = 360–6
+| last = Maisch
+| first = T
+| coauthors = S Hackbarth, J Regensburger, A Felgentrager, W Baumler, M Landthaler, B Roder
+| title = Photodynamic inactivation of multi-resistant bacteria (PIB) — a new approach to treat superficial infections in the 21st century
+| journal = J Dtsch Dermatol Ges
+| year = 2011
+| pmid = 21114627
+| doi = 10.1111/j.1610-0387.2010.07577.x
+| issue = 5
+}}
+</ref>
+
+===Photosensitizers===
+[[File:Phototherapy week.png|thumb|Interim result of Phototherapy  for  Actinic keratosis with Metvix  one week after exposure. Patient has light skin, blue eyes]]
+In air and tissue, molecular oxygen occurs in a [[triplet state]], whereas almost all other molecules are in a singlet state. Reactions between these are [[Forbidden transition|forbidden by quantum mechanics]], thus oxygen is relatively non-reactive at physiological conditions. A photosensitizer is a chemical compound that can be promoted to an [[excited state]] upon absorption light and undergo intersystem crossing with oxygen to produce [[singlet oxygen]]. This species rapidly attacks any organic compounds it encounters, thus being highly [[cytotoxic]]. It is rapidly eliminated: in cells, the average lifetime is 3 µs.<ref>Lifetime and Diffusion of Singlet Oxygen in a Cell. Esben Skovsen, John W. Snyder, John D. C. Lambert, Peter R. Ogilby. The Journal of Physical Chemistry B 2005 109 (18), 8570-8573. DOI: 10.1021/jp051163i</ref>
+
+A wide array of photosensitizers for PDT exist. They can be divided into [[porphyrin]]s, [[chlorophyll]]s and [[dye]]s.<ref name=Allinson2004/> Some examples include [[aminolevulinic acid]] (ALA), Silicon Phthalocyanine Pc 4, [[Foscan|m-tetrahydroxyphenylchlorin]] ([[mTHPC]]), and mono-L-aspartyl [[chlorin]] e6 ([[NPe6]]).  
+
+Several photosensitizers are commercially available for clinical use, such as [[Allumera]], [[Photofrin]], [[Visudyne]], [[Levulan]], [[Foscan]], [[Metvix]], [[Hexvix]], [[Cysview]], and [[Laserphyrin]], with others in development, e.g. [[Antrin]], [[Photochlor]], [[Photosens]], [[Photrex]], [[Lumacan]], [[Cevira]], [[Visonac]], [[BF-200 ALA]].<ref name=Allinson2004>
+{{cite journal  
+| last = Allison  
+| first = RR | authorlink =  
+| coauthors = et al.  
+| title = Photosensitizers in clinical PDT  
+| journal = Photodiagnosis and Photodynamic Therapy  
+| volume = 1  
+| pages = 27–42  
+| publisher =  Elsevier 
+| year = 2004  
+| url =  http://bmlaser.physics.ecu.edu/literature/2004%2005_Photosensitizers%20in%20clinical%20PDT.pdf 
+| format = PDF 
+| doi = 10.1016/S1572-1000(04)00007-9  }}</ref><ref name=PDT2005>{{cite journal |author=Huang Z |title=A review of progress in clinical photodynamic therapy |journal=Technol. Cancer Res. Treat. |volume=4 |issue=3 |pages=283–93 |year=2005 |month=June |pmid=15896084 |pmc=1317568 |url=http://www.tcrt.org/index.cfm?d=3022&c=4179&p=12984&do=detail}}</ref> [[Amphinex]].<ref name=OGB2009>
+{{cite news |url=http://findarticles.com/p/articles/mi_qa3931/is_200909/ai_n42040200/pg_7/ |title=Porphyrin and Nonporphyrin Photosensitizers in Oncology: Preclinical and Clinical Advances in Photodynamic Therapy.  Photochemistry and Photobiology, Sep/Oct 2009 |author=O'Connor, Aisling E, Gallagher, William M, Byrne, Annette T | work=Photochemistry and Photobiology | year=2009}}</ref> Also [[Azadipyrromethene]]s.
+
+Although these photosensitizers can be used for wildly different treatments, they all aim to achieve certain characteristics:<ref name="Wilson">
+{{cite journal  
+| last = Wilson  
+| first = Brian C 
+| authorlink =  
+| coauthors = Michael S Patterson  
+| title = The physics, biophysics, and technology of photodynamic therapy  
+| journal = [[Physics in Medicine and Biology]]  
+| volume = 53  
+| issue =   9| pages = R61–R109    
+| year = 2008   
+| doi = 10.1088/0031-9155/53/9/R01  
+| pmid = 18401068  }}</ref>
+
+*High absorption at long wavelengths
+**Tissue is much more transparent at longer wavelengths (~700–850&nbsp;nm).  Absorbing at longer wavelengths would allow the light to penetrate deeper,<ref name=OGB2009/> and allow the treatment of larger tumors.
+*High [[singlet oxygen]] quantum yield
+*Low [[photobleaching]]{{Why?|date=February 2012}}
+*Natural [[fluorescence]]
+**Many optical dosimetry techniques, such as [[fluorescence spectroscopy]], depend on the drug being naturally fluorescent<ref>
+{{cite journal  
+| last = Lee  
+| first = TK 
+| authorlink =  
+| coauthors = ED Baron, THH Foster  
+| title = Monitoring Pc 4 photodynamic therapy in clinical trials of cutaneous T-cell lymphoma using noninvasive spectroscopy  
+| journal = Journal of Biomedical Optics  
+| volume = 13  
+| issue = 3  
+| pages = 030507   
+| year = 2008  
+| doi = 10.1117/1.2939068  
+| pmid = 18601524  
+| pmc = 2527126  }}</ref>
+*High chemical stability
+*Low dark toxicity
+**The photosensitizer should not be harmful to the target tissue until the treatment beam is applied.
+*Preferential uptake in target tissue
+
+The major difference between different types of photosensitizers is in the parts of the cell that they target.  Unlike in [[radiation therapy]], where damage is done by targeting cell DNA, most photosensitizers target other cell structures.  For example, mTHPC has been shown to localize in the nuclear envelope and do its damage there.<ref>
+{{cite journal  
+| last = Foster   
+| first = TH  
+| coauthors = BD Pearson, S Mitra, CE Bigelow  
+| title = Fluorescence anisotropy imaging reveals localization of meso-tetrahydroxyphenyl chlorin in the nuclear envelope  
+| journal = Photochemistry and Photobiology  
+| volume = 81  
+| issue = 6  
+| pages = 1544–7    
+| year = 2005 
+| doi = 10.1562/2005-08-11-RN-646  
+| pmid = 16178663  
+}}
+</ref>  In contrast, ALA has been found to localize in the [[mitochondria]]<ref>
+{{cite journal  
+| last = Wilson   
+| first = JD  
+| coauthors = CE Bigelow, DJ Calkins, TH Foster  
+| title = Light Scattering from Intact Cells Reports Oxidative-Stress-Induced Mitochondrial Swelling  
+| journal = [[Biophysical Journal]]  
+| volume = 88  
+| issue = 4  
+| pages = 2929–38  
+| publisher = [[Biophysical Society]]    
+| year = 2005   
+| doi = 10.1529/biophysj.104.054528  
+| pmid = 15653724  
+| pmc = 1305387  }}
+</ref> and [[Methylene Blue]] in the lysosomes.<ref>
+{{cite journal  
+| last = Mellish   
+| first = Kirste 
+| coauthors = R Cox, D Vernon, J Griffiths, S Brown  
+| title = In Vitro Photodynamic Activity of a Series of Methylene Blue Analogues  
+| journal = Photochemistry and Photobiology  
+| volume = 75  
+| issue = 4  
+| pages = 392–7  
+| publisher = American Society for Photobiology   
+| year = 2002    
+| doi = 10.1562/0031-8655  
+| pmid = 12003129  }}
+</ref>
+
+To allow treatment of deeper tumours some researchers are using internal [[chemiluminescence]] to activate the photosensitiser.<ref>{{cite journal |author=Laptev R, Nisnevitch M, Siboni G, Malik Z, Firer MA |title=Intracellular chemiluminescence activates targeted photodynamic destruction of leukaemic cells |journal=Br. J. Cancer |volume=95 |issue=2 |pages=189–96 |year=2006 |month=July |pmid=16819545 |pmc=2360622 |doi=10.1038/sj.bjc.6603241 |url=http://www.nature.com/bjc/journal/v95/n2/full/6603241a.html}}</ref>
+
+[[PUVA therapy]] is using [[psoralen]] as photosensitiser and UVA [[ultraviolet]] as light source, but this form of therapy is usually classified as a separate form of therapy from photodynamic therapy.<ref>{{cite pmid|16225614}}</ref><ref>[http://www.va.gov/hac/forbeneficiaries/champva/policymanual/champva/chapter2/1c2s30-11.htm Champva Policy Manual, Chapter: 2, Section: 30.11, Title: PDT (Photodynamic Therapy) and PUVA (Photochemotherapy)] at U.S. Department of Veterans Affairs. Date:  12/23/2011</ref>
+
+===Targeted PDT===
+Some photosensitisers naturally accumulate in the [[endothelial cell]]s of [[vascular tissue]] allowing 'vascular targeted' PDT,
+but there is also research to target the photosensitiser to the tumour (usually by linking it to [[antibody|antibodies]] or antibody fragments). It is currently only in pre-clinical studies.<ref>
+{{cite journal |author=Spangler C.W.; Starkey J.R.; Rebane A.; Meng F.; Gong A.; Drobizhev M. |title=Synthesis, characterization and preclinical studies of two-photon- activated targeted PDT therapeutic triads |editor=Kessel, David |title=Optical Methods for Tumor Treatment and Detection: Mechanisms and Techniques in Photodynamic Therapy XV |series=Proceedings of the SPIE |volume=6139 |pages=219–228 |year=2006 |doi=10.1117/12.646312 }}</ref><ref>{{cite journal |author=Renno RZ, Terada Y, Haddadin MJ, Michaud NA, Gragoudas ES, Miller JW |title=Selective photodynamic therapy by targeted verteporfin delivery to experimental choroidal neovascularization mediated by a homing peptide to vascular endothelial growth factor receptor-2 |journal=Arch. Ophthalmol. |volume=122 |issue=7 |pages=1002–11 |year=2004 |month=July |pmid=15249365 |doi=10.1001/archopht.122.7.1002 }}
+</ref>
+
+==Applications==
+Compared to normal tissues, most types of cancers are especially active in both the uptake and accumulation of photosensitizers agents, which makes cancers especially vulnerable to PDT.<ref name="intro3">
+{{Cite journal
+| volume = 49
+| pages = 300–313
+| last = Park
+| first = S
+| title = Delivery of photosensitizers for photodynamic therapy
+| journal = Korean J Gastroenterol
+| date = 2007-05
+| pmid = 17525518
+| issue = 5
+}}<br/>
+{{Cite journal
+| volume = 23
+| pages = 103–112
+| last = Selbo
+| first = PK
+| coauthors = A Hogset, L Prasmickaite, K Berg
+| title = Photochemical internalisation: a novel drug delivery system
+| journal = Tumour Biol.
+| year = 2002
+| pmid = 12065848
+| doi = 10.1159/000059713
+| issue = 2
+}}<br/>
+{{Cite journal
+| volume = 16
+| pages = S147–154
+| last = Silva
+| first = JN
+| coauthors = P Filipe, P Morliere, JC Maziere, JP Freitas, JL Cirne de Castro, R Santus
+| title = Photodynamic therapies: principles and present medical applications
+| journal = Biomed Mater Eng
+| year = 2006
+| pmid = 16823106
+| issue = 4 Suppl
+}}
+</ref> Since photosensitizers can also have a high affinity for [[vascular]] [[endothelial cell]]s.<ref name="intro4">
+{{Cite journal
+| volume = 16
+| pages = 279–305
+| last = Chen
+| first = B
+| coauthors = BW Pogue, PJ Hoopes, T Hasan
+| title = Vascular and cellular targeting for photodynamic therapy
+| journal = Crit Rev Eukaryot Gene Expr
+| year = 2006
+| pmid = 17206921
+| issue = 4
+}}<br/>
+{{Cite journal
+| volume = 21
+| pages = 4271–7
+| last = Krammer
+| first = B
+| title = Vascular effects of photodynamic therapy
+| journal = Anticancer Res
+| year = 2001
+| pmid = 11908681
+| issue = 6B
+}}
+</ref>
+
+===Usage in acne===
+PDT is currently in clinical trials to be used as a treatment for severe acne. Initial results show have shown for it to be effective as a treatment only for severe acne,<ref>{{ClinicalTrialsGov|NCT00706433|Light Dose Ranging Study of Photodynamic Therapy (PDT) With Levulan + Blue Light Versus Vehicle + Blue Light in Severe Facial Acne}}</ref> though some question whether it is better than existing acne treatments. The treatment causes severe redness and moderate to severe pain and burning sensation. ''(see also: [[Levulan]])'' 
+A phase II trial, while it showed improvement occurred, failed to show improved response compared to the blue/violet light alone.<ref>{{cite web|url=http://www.biospace.com/news_story.aspx?NewsEntityId=114055|title=DUSA Pharmaceuticals (DUSA) to Stop Developing Phase 2 Acne Treatment |date=2008-10-23|publisher=Biospace|accessdate=2009-07-30}}</ref>
+
+==History==
+While the applicability and potential of PDT has been known for over a hundred years,<ref name="intro2">
+{{Cite journal
+| last = Moan
+| first = J
+| title = An outline of the hundred-year history of PDT
+| coauthors = Q Peng
+| journal = Anticancer Res
+| volume = 23
+| issue = 5A
+| pages = 3591–600
+| pmid = 14666654
+| year = 2003
+}} 
+</ref> the development of modern PDT has been a gradual one, involving scientific progress in the fields of [[photobiology]] and cancer biology, as well as the development of modern [[photonic]] devices, such as [[laser]]s and [[LED]]s.<ref>
+{{Cite journal
+| volume = 64
+| pages = 84–92
+| last = Aronoff
+| first = BL
+| title = Lasers: reflections on their evolution
+| journal = J Surg Oncol
+| date = 1997-01
+| pmid = 9040808
+| doi = 10.1002/(SICI)1096-9098(199701)64:1<84::AID-JSO17>3.0.CO;2-W
+| issue = 1
+}}
+</ref> It was John Toth as product manager for Cooper Medical Devices Corp/Cooper Lasersonics with early clinical argon dye lasers ca 1981 who acknowledged the "photodynamic chemical effect" of the therapy and wrote the first "white paper" branding the therapy as "Photodynamic Therapy" (PDT) to support efforts in setting up 10 clinical sites in Japan where the term "radiation" had negative connotations. PDT received even greater interest as result of Thomas Dougherty helping expand clinical trials and forming the International Photodynamic Association, in 1986.
+
+===PDT in ancient medicine===
+The earliest recorded treatments that exploited a photosensitizer and a light source, in this case sunlight, for medical effect can be found in ancient Egyptian and Indian sources. Annals over 3000 years old report the use of topically applied vegetable and plant substances to produce photoreactions in skin and cause a repigmentation of depigimented skin lesions, as seen with [[vitiligo]] and [[leukoderma]]. 
+
+The photosensitizing agents used in these ancient therapies have been characterised with modern science as belonging to the [[psoralen]] family of chemicals. Psoralens are still in use today in PDT regimes to treat a variety of skin conditions, including vitiligo, [[psoriasis]], [[neurodermitis]], [[eczema]], [[cutaneous T-cell lymphoma]] and [[lichen ruber planus]].<ref>
+{{Cite journal
+| volume = 19
+| pages = 78–88
+| last = Bethea
+| first = D.
+| coauthors = B. Fullmer, S. Syed, G. Seltzer, J. Tiano, C. Rischko, L. Gillespie, D. Brown, F. P Gasparro
+| title = Psoralen photobiology and photochemotherapy: 50 years of science and medicine
+| journal = J. Dermatol. Sci.
+| date = 1999-02
+| doi = 10.1016/S0923-1811(98)00064-4
+| pmid = 10098699
+| issue = 2
+}}<br/>
+{{Cite journal
+| volume = 27
+| pages = 437–445
+| last = Tamesis
+| first = M. E
+| coauthors = J. G Morelli
+| title = Vitiligo treatment in childhood: a state of the art review
+| journal = Pediatr Dermatol
+| year = 2010
+| doi = 10.1111/j.1525-1470.2010.01159.x
+| pmid = 20553403
+| issue = 5
+}}
+</ref>
+
+===20th century development of PDT===
+The first detailed scientific evidence that agents, photosensitive synthetic dyes, in combination with a light source and oxygen could have potential therapeutic effect was made at the turn of the 20th century in the laboratory of von Tappeiner in Munich, Germany. Historically this was a time when Germany was leading the world in the industrial synthesis of dyes. 
+
+While studying the effects of [[acridine]] on [[paramecia]] cultures, Oscar Raab, a student of von Tappeiner observed a toxic effect. Fortuitously Raab also observed that light was dependent for the killing of paramecia cultures to take place.<ref>
+{{Cite journal
+| volume = 39
+| pages = 524–546
+| last = Raab
+| first = O.
+| title = Ueber die Wirkung Fluorescierenden Stoffe auf Infusorien
+| journal = Z. Biol.
+| year = 1904
+}}
+</ref> Subsequent work in the laboratory of von Tappeiner showed that oxygen was essential for the 'photodynamic action' – a term coined by von Tappeiner.<ref>
+{{Cite journal
+| volume = 80
+| pages = 427–487
+| last = Tappeiner
+| first = H. von
+| coauthors = A. Jodlbauer
+| title = Uber die Wirkung der photodynamischen (fluorescierenden) Stoffe auf Protozoen und Enzyme
+| journal = Dtsch. Arch. Klin. Med.
+| year = 1904
+}}
+</ref> 
+
+With the discovery of photodynamic effects, von Tappeiner and colleagues went on to perform the first PDT trial in patients with skin carcinoma using the photosensitizer, [[eosin]], Out of 6 patients with a facial basal cell carcinoma, treated with a 1% eosin solution and a long-term exposure either to sunlight or to arc-lamp light, 4 patients showed total tumour resolution and a relapse-free period of 12 months.<ref>
+{{Cite journal
+| volume = 50
+| pages = 2042–4
+| last = Tappeiner
+| first = H. von
+| coauthors = H. Jesionek
+| title = Therapeutische Versuche mit fluoreszierenden Stoffen
+| journal = Munch. Med. Wschr.
+| year = 1903
+}}<br/>
+{{Cite journal
+| volume = 82
+| pages = 223–6
+| last = Jesionek
+| first = H. 
+| coauthors = H. von Tappeiner
+| title = Zur Behandlung der Hautcarcinome mit fluoreszierenden Stoffen
+| journal = Dtsch. Arch. Klin. Med.
+| year = 1905
+}}
+</ref> 
+
+It was only much later, when Thomas Dougherty and co-workers<ref>{{cite book
+|last= Moan
+|first= J.
+|authorlink=
+|coauthors= Q. Peng
+|editor= Thierry Patrice
+|title= Photodynamic Therapy
+|url= http://www.rsc.org/publishing/ebooks/2003/9780854043064.asp
+|series= Comprehensive Series in Photochemistry and Photobiology
+|volume= 2
+|year= 2003
+|publisher= The Royal Society of Chemistry
+|doi= 10.1039/9781847551658
+|pages= 1–18
+|chapter= An outline of the history of PDT
+|chapterurl= http://www.rsc.org/ebooks/archive/free/BK9780854043064/BK9780854043064-00001.pdf
+}}
+</ref> at [[Roswell Park Cancer Institute]], Buffalo NY, clinically tested PDT again. In 1978, they published striking results in which they treated 113 cutaneous or subcutaneous malignant tumors and observed a total or partial resolution of 111 tumors.<ref>
+{{Cite journal
+| volume = 38
+| pages = 2628–35
+| last = Dougherty
+| first = T. J
+| coauthors = J. E Kaufman, A. Goldfarb, K. R Weishaupt, D. Boyle, A. Mittleman
+| title = Photoradiation therapy for the treatment of malignant tumors
+| journal = Cancer Res.
+| date = 1978-08
+| pmid = 667856
+| issue = 8
+}}
+</ref> 
+
+The active photosensitizer used in the clinical PDT trial by Dougherty was an agent called [[Haematoporphyrin]] Derivative (HpD), which was first characterised in 1960 by Lipson.<ref>
+{{Cite journal
+| volume = 82
+| pages = 508–516
+| last = Lipson
+| first = R. L.
+| coauthors = E. J. Baldes
+| title = The photodynamic properties of a particular hematoporphyrin derivative
+| journal = Arch Dermatol
+| date = 1960-10
+| pmid = 13762615
+}}<br/>
+{{Cite journal
+| volume = 26
+| pages = 1–11
+| last = Lipson
+| first = R. L.
+| coauthors = E. J. Baldes, A. M. Olsen
+| title = The use of a derivative of hematoporhyrin in tumor detection
+| journal = J. Natl. Cancer Inst.
+| date = 1961-01
+| pmid = 13762612
+}}</ref> In his research, Lipson wanted to find a diagnostic agent suitable for the detection of tumours in patients. With the discovery of HpD, Lipson went onto pioneer the use of endoscopes and HpD fluorescence to detect tumours.<ref>
+{{Cite journal
+| volume = 20
+| pages = 2255–7
+| last = Lipson
+| first = R. L
+| coauthors = E. J Baldes, M. J Gray
+| title = Hematoporphyrin derivative for detection and management of cancer
+| journal = Cancer
+| date = 1967-12
+| doi = 10.1002/1097-0142(196712)20:12<2255::AID-CNCR2820201229>3.0.CO;2-U
+| pmid = 6073903
+| issue = 12
+}}
+</ref>
+ 
+As its name suggests, HpD is a porphyrin species derived from haematoporphyrin, Porphyrins have long been considered as suitable agents for tumour photodiagnosis and tumour PDT because cancerous cells exhibit a significantly greater uptake and affinity for porphyrins compared to normal quiescent tissues. This important observation, which underlies the success of PDT to treat cancers, had been established by a number of scientific researchers prior to the discoveries made by Lipson. In 1924, Policard first revealed the diagnostic capabilities of hematoporphyrin fluorescence when he observed that ultraviolet radiation excited red fluorescence in the sarcomas of laboratory rats.<ref>
+{{Cite journal
+| volume = 91
+| pages = 1423–1424
+| last = Policard
+| first = A
+| title = Etudes sur les aspects offerts par des tumeurs experimentales examines a la lumiere de Wood
+| journal = CR Soc. Biol.
+| year = 1924
+}}
+</ref> Policard hypothesized at the time that the fluorescence was associated with endogenous hematoporphyrin accumulation. In 1948, Figge with co-workers<ref>
+{{Cite journal
+| volume = 101
+| pages = 657
+| last = Figge
+| first = FH
+| coauthors = GS Weiland, L. O Manganiello
+| title = Studies on cancer detection and therapy; the affinity of neoplastic, embryonic, and traumatized tissue for porphyrins, metalloporphyrins, and radioactive zinc hematoporphyrin
+| journal = Anat. Rec.
+| date = 1948-08
+}}
+</ref> showed on laboratory animals that porphyrins exhibit a preferential affinity to rapidly dividing cells, including malignant, embryonic, and regenerative cells, and because of this, they proposed that porphyrins should be used in the treatment of cancer. Subsequently many scientific authors have repeated the observation that cancerous cells naturally accumulate porphyrins and have characterised a number of mechanisms to explain it.
+
+HpD, under the pharmaceutical name [[Photofrin]], was the first PDT agent approved for clinical use in 1993 to treat a form of bladder cancer in Canada. Over the next decade, both PDT and the use of HpD received wider international attention and grew in their clinical use, and lead to the first PDT treatments to receive U.S. [[Food and Drug Administration]] approval.
+
+===Modern development of PDT in Russia===
+
+Of all the nations beginning to use PDT in the late 20th century, the Russians were the quickest to advance its use clinically and to make many developments.  One early Russian development was a new photosensitizer called Photogem which, like HpD, was derived from haematoporphyrin in 1990 by Professor Andrey F. Mironov and coworkers in Moscow. Photogem was approved by the Ministry of Health of Russia and tested clinically from February 1992 to 1996. A pronounced therapeutic effect was observed in 91 percent of the 1500 patients that underwent PDT using Photogem, with 62 percent having a total tumor resolution. Of the remaining patients, a further 29 percent had a partial tumor resolution, where the tumour at least halved in size. In those patients that had been diagnosed early, 92 percent of the patients showed complete resolution of the tumour.<ref name="magicray">
+{{Cite web
+| title = Centre of laser medicine — Historical Aspects of Photodynamic Therapy Development
+| accessdate = 2011-08-05
+| url = http://www.magicray.ru/ENG/lecture/L2/2.html
+}}
+</ref>  
+
+Around this time, Russian scientists also collaborated with NASA medical scientists who were looking at the use of LEDs as more suitable light sources, compared to lasers, for PDT applications.<ref>
+{{Cite web
+| title = Innovation (November/December 97) — Space Research Shines Life-Saving Light
+| accessdate = 2011-08-05
+| url = http://ipp.nasa.gov/innovation/Innovation56/light.htm
+}}<br/>
+{{Cite web
+| title = Photonic Clinical Trials
+| accessdate = 2011-08-05
+| url = http://www.warplighttherapy.com/WARP10_ClinicalTrialsAndStudies.htm
+}}<br/>
+{{Cite journal
+| volume = CP552
+| pages = 35–45
+| last =Whelan
+| first = HT
+| coauthors = EV Buchmann, NT Whelan, SG Turner, V Cevenini, H Stinson, R Ignatius, T Martin, J Cwiklinski, GA Meyer, B Hodgson, L Gould, M Kane, G Chen, J Caviness
+| title = Hematoporphyrin derivative for detection and management of cancer
+| journal = Space Technology and Applications International Forum
+| year = 2001
+}}
+</ref>
+
+===Modern development of PDT in Asia===
+PDT has also seen considerably development in Asia. Since 1990, the Chinese have been developing specialist clinical expertise with PDT using their own domestically produced photosensitizers, derived from Haematoporphyrin, and light sources.<ref>
+{{Cite journal
+| volume = 3
+| pages = 3–10
+| last = Huang
+| first = Z
+| coauthors = EV Buchmann, NT Whelan, SG Turner, V Cevenini, H Stinson, R Ignatius, T Martin, J Cwiklinski, GA Meyer, B Hodgson, L Gould, M Kane, G Chen, J Caviness
+| title = Photodynamic therapy in China: Over 25 years of unique clinical experience: Part One—History and domestic photosensitizers
+| journal = Photodiagnosis and Photodynamic Therapy
+| year = 2006
+| doi = 10.1016/S1572-1000(06)00009-3
+}}<br/>
+{{Cite journal
+| volume = 4
+| pages = 13–25
+| last = Xu
+| first = DY
+| title = Research and development of photodynamic therapy photosensitizers in China 
+| journal = Photodiagnosis and Photodynamic Therapy
+| year = 2007
+| doi = 10.1016/j.pdpdt.2006.09.003
+}}
+</ref> PDT in China is especially notable for the technical skill of specialists in effecting resolution of difficult to reach tumours
+.<ref>
+{{Cite journal
+| pages = 1181–1184
+| last = Qui
+| first = HX
+| coauthors = Y Gu, FG Liu, NY Huang, HX Chen, J Zeng
+| title = Clinical Experience of Photodynamic Therapy in China 
+| journal = Complex Medical Engineering, 2007
+| year = 2007
+}}
+</ref>
+
+==See also==
+* [[Photomedicine]]
+* [[Sonodynamic therapy]]
+* [[Blood irradiation therapy]]
+
+==References==
+{{reflist|2}}
+
+== External links ==
+* [http://sites.pcmd.ac.uk/ipa/ International Photodynamic Association]
+* [http://www.rsc.org/publishing/journals/PP/Article.asp?Type=CurrentIssue Photochemical and Photobiological Sciences]
+* [http://www.elsevier.com/wps/find/journaldescription.cws_home/701993/description Photodiagnosis and Phototherapy Journal]
+* [http://www.biophotonicsworld.org/home Biophotonicsworld]
+* [http://www.ngpdt.com/ Next Generation PDT]
+* [http://www.killingcancer.co.uk/ Killing Cancer Charity]
+* [http://www.cancer.gov/cancertopics/factsheet/Therapy/photodynamic Photodynamic Therapy for Cancer]
+
+{{Intracellular chemotherapeutic agents}}
+
+{{DEFAULTSORT:Photodynamic Therapy}}
+[[Category:Cancer treatments]]
+[[Category:Medical physics]]
+[[Category:Laser medicine]]
+[[Category:Light therapy]]

@@ -1,0 +1,344 @@
+{{ICD-10}}
+==I00–I99 – Diseases of the [[circulatory system]]==
+=== (I00–I02) [[Acute rheumatic fever]] ===
+* ({{ICD10|I|00||i|00}}) [[Rheumatic fever]] without mention of [[heart]] involvement
+* ({{ICD10|I|01||i|00}}) [[Rheumatic fever]] with [[heart]] involvement
+** ({{ICD10|I|01|0|i|00}}) Acute [[rheumatic]] [[pericarditis]]
+** ({{ICD10|I|01|1|i|00}}) Acute [[rheumatic]] [[endocarditis]]             
+** ({{ICD10|I|01|2|i|00}}) Acute [[rheumatic]] [[myocarditis]]
+** ({{ICD10|I|01|8|i|00}}) Other acute [[rheumatic]] [[heart disease]]
+** ({{ICD10|I|01|9|i|00}}) Acute [[rheumatic heart disease]], unspecified
+* ({{ICD10|I|02||i|00}}) [[Rheumatic chorea]]
+
+=== (I05–I09) [[Chronic (medicine)|Chronic]] [[rheumatic]] [[heart diseases]] ===
+* ({{ICD10|I|05||i|05}}) [[Rheumatic]] [[mitral valve]] diseases
+** ({{ICD10|I|05|0|i|05}}) [[Mitral stenosis]]
+** ({{ICD10|I|05|1|i|05}}) [[Rheumatic]] [[mitral insufficiency]]
+** ({{ICD10|I|05|2|i|05}}) [[Mitral stenosis]] with [[mitral insufficiency|insufficiency]]
+* ({{ICD10|I|06||i|05}}) [[Rheumatic]] [[aortic valve]] diseases
+** ({{ICD10|I|06|0|i|05}}) [[Rheumatic]] [[aortic stenosis]]
+** ({{ICD10|I|06|1|i|05}}) [[Rheumatic]] [[aortic insufficiency]]
+** ({{ICD10|I|06|2|i|05}}) [[Rheumatic]] [[aortic stenosis]] with [[Aortic insufficiency|insufficiency]]
+* ({{ICD10|I|07||i|05}}) [[Rheumatic]] [[tricuspid valve]] diseases
+** ({{ICD10|I|07|0|i|05}}) [[Tricuspid stenosis]]
+** ({{ICD10|I|07|1|i|05}}) [[Tricuspid insufficiency]]
+** ({{ICD10|I|07|2|i|05}}) [[Tricuspid stenosis]] with [[Tricuspid insufficiency|insufficiency]]
+* ({{ICD10|I|08||i|05}}) Multiple [[valve]] diseases
+** ({{ICD10|I|08|0|i|05}}) Disorders of both [[mitral]] and [[aortic valves]]
+** ({{ICD10|I|08|1|i|05}}) Disorders of both [[mitral]] and [[tricuspid valves]]
+** ({{ICD10|I|08|2|i|05}}) Disorders of both [[aortic]] and [[tricuspid valves]]
+** ({{ICD10|I|08|3|i|05}}) Combined disorders of [[mitral]], [[aortic]] and [[tricuspid valves]]
+* ({{ICD10|I|09||i|05}}) Other [[rheumatic]] [[heart diseases]]
+** ({{ICD10|I|09|0|i|05}}) [[Rheumatic myocarditis]]
+** ({{ICD10|I|09|1|i|05}}) [[Rheumatic diseases]] of [[endocardium]], valve unspecified
+** ({{ICD10|I|09|2|i|05}}) [[Chronic rheumatic pericarditis]]
+** ({{ICD10|I|09|9|i|05}}) [[Rheumatic heart disease]], unspecified
+
+=== (I10–I15) [[Hypertensive diseases]] ===
+* ({{ICD10|I|10||i|10}}) [[Essential (primary) hypertension]]
+** [[Arterial hypertension]]
+** [[High blood pressure]]
+* ({{ICD10|I|11||i|10}}) [[Hypertensive heart disease]]
+* ({{ICD10|I|12||i|10}}) [[Hypertensive renal disease]]
+** [[Hypertensive nephropathy]]
+* ({{ICD10|I|13||i|10}}) [[Hypertensive heart disease]] and [[Hypertensive renal disease]]
+* ({{ICD10|I|15||i|10}}) [[Secondary hypertension]]
+** ({{ICD10|I|15|0|i|10}}) [[Renovascular hypertension]]
+
+=== (I20–I25) [[Ischemic heart disease]]s ===
+* ({{ICD10|I|20||i|20}}) [[Angina pectoris]]
+** ({{ICD10|I|20|0|i|20}}) [[Unstable angina]]
+** ({{ICD10|I|20|1|i|20}}) [[Angina pectoris with documented spasm]]
+*** [[Prinzmetal's angina]]
+** ({{ICD10|I|20|8|i|20}}) Other forms of [[angina pectoris]]
+** ({{ICD10|I|20|9|i|20}}) [[Angina pectoris]], unspecified
+* ({{ICD10|I|21||i|20}}) [[Acute myocardial infarction]]
+* ({{ICD10|I|22||i|20}}) Subsequent [[myocardial infarction]]
+* ({{ICD10|I|23||i|20}}) Certain current complications following [[acute myocardial infarction]]
+** ({{ICD10|I|23|0|i|20}}) [[Haemopericardium]] as current complication following [[acute myocardial infarction]]
+** ({{ICD10|I|23|1|i|20}}) [[Atrial septal defect]] as current complication following [[acute myocardial infarction]]
+** ({{ICD10|I|23|2|i|20}}) [[Ventricular septal defect]] as current complication following [[acute myocardial infarction]]
+** ({{ICD10|I|23|3|i|20}}) [[Rupture of cardiac wall]] without haemopericardium as current complication following [[acute myocardial infarction]]
+** ({{ICD10|I|23|4|i|20}}) [[Rupture of chordae tendineae]] as current complication following [[acute myocardial infarction]]
+** ({{ICD10|I|23|5|i|20}}) [[Rupture of papillary muscle]] as current complication following [[acute myocardial infarction]]
+** ({{ICD10|I|23|6|i|20}}) [[Thrombosis]] of [[Atrium (heart)|atrium]], [[auricular appendage]]{{dn|date=September 2012}}, and [[Ventricle (heart)|ventricle]] as current complications following [[acute myocardial infarction]]
+** ({{ICD10|I|23|8|i|20}}) Other current complications following [[acute myocardial infarction]]
+* ({{ICD10|I|24||i|20}}) Other acute [[ischaemic heart diseases]]
+** ({{ICD10|I|24|0|i|20}}) [[Coronary thrombosis]] not resulting in [[myocardial infarction]]
+** ({{ICD10|I|24|1|i|20}}) [[Dressler's syndrome]]
+* ({{ICD10|I|25||i|20}}) Chronic [[ischaemic heart disease]]
+** ({{ICD10|I|25|0|i|20}}) [[Atherosclerotic cardiovascular disease]], so described
+** ({{ICD10|I|25|1|i|20}}) [[Atherosclerotic heart disease]]
+** ({{ICD10|I|25|2|i|20}}) Old myocardial infarction
+** ({{ICD10|I|25|3|i|20}}) [[Aneurysm of heart]]
+** ({{ICD10|I|25|4|i|20}}) [[Coronary artery aneurysm]]
+** ({{ICD10|I|25|5|i|20}}) [[Ischaemic cardiomyopathy]]
+** ({{ICD10|I|25|6|i|20}}) [[Silent myocardial ischaemia]]
+** ({{ICD10|I|25|8|i|20}}) Other forms of [[chronic ischaemic]] heart disease
+** ({{ICD10|I|25|9|i|20}}) [[Chronic ischaemic heart disease]], unspecified
+
+=== (I26–I28) [[Pulmonary heart disease]] and diseases of [[pulmonary circulation]] ===
+* ({{ICD10|I|26||i|26}}) [[Pulmonary embolism]]
+* ({{ICD10|I|27||i|26}}) Other [[pulmonary heart diseases]]
+** ({{ICD10|I|27|0|i|26}}) [[Primary pulmonary hypertension]]
+** ({{ICD10|I|27|1|i|26}}) [[Kyphoscoliotic heart disease]]
+** ({{ICD10|I|27|2|i|26}}) Other [[secondary pulmonary hypertension]]
+** ({{ICD10|I|27|8|i|26}}) Other specified [[pulmonary]] heart diseases
+** ({{ICD10|I|27|9|i|26}}) [[Pulmonary heart disease]], unspecified
+* ({{ICD10|I|28||i|26}}) Other diseases of [[pulmonary vessels]]
+** ({{ICD10|I|28|0|i|26}}) [[Arteriovenous fistula]] of [[pulmonary vessels]]
+** ({{ICD10|I|28|1|i|26}}) [[Aneurysm]] of [[pulmonary artery]]
+** ({{ICD10|I|28|8|i|26}}) Other specified diseases of [[pulmonary vessels]]
+** ({{ICD10|I|28|9|i|26}}) Disease of [[pulmonary vessels]], unspecified
+
+=== (I30–I52) Other forms of [[heart disease]] ===
+==== [[Pericardium]] ====
+* ({{ICD10|I|30||i|30}}) Acute [[pericarditis]]
+* ({{ICD10|I|31||i|30}}) Other diseases of [[pericardium]]
+** ({{ICD10|I|31|0|i|30}}) [[Chronic adhesive pericarditis]]
+** ({{ICD10|I|31|1|i|30}}) [[Chronic constrictive pericarditis]]
+** ({{ICD10|I|31|2|i|30}}) [[Haemopericardium]], not elsewhere classified
+** ({{ICD10|I|31|3|i|30}}) [[Pericardial effusion]] (noninflammatory)
+** ({{ICD10|I|31|8|i|30}}) Other specified diseases of [[pericardium]]
+** ({{ICD10|I|31|9|i|30}}) Disease of [[pericardium]], unspecified
+*** [[Cardiac tamponade]]
+* ({{ICD10|I|32||i|30}}) [[Pericarditis]] in diseases classified elsewhere
+
+====[[Endocardium]] (including [[heart valve]]s) ====
+* ({{ICD10|I|33||i|30}}) Acute and subacute [[endocarditis]]
+* ({{ICD10|I|34||i|30}}) Non[[rheumatic]] [[mitral valve]] disorders
+** ({{ICD10|I|34|0|i|30}}) [[Mitral (valve) insufficiency]]
+*** [[Mitral regurgitation]]
+** ({{ICD10|I|34|1|i|30}}) [[Mitral valve prolapse|Mitral (valve) prolapse]]
+** ({{ICD10|I|34|2|i|30}}) Nonrheumatic [[Mitral stenosis|mitral (valve) stenosis]]
+* ({{ICD10|I|35||i|30}}) Non[[rheumatic]] [[aortic valve]] disorders
+** ({{ICD10|I|35|0|i|30}}) [[Aortic valve stenosis|Aortic (valve) stenosis]]
+** ({{ICD10|I|35|1|i|30}}) [[Aortic (valve) insufficiency]]
+** ({{ICD10|I|35|2|i|30}}) [[Aortic valve stenosis|Aortic (valve) stenosis]] with [[Aortic insufficiency|insufficiency]]
+* ({{ICD10|I|36||i|30}}) Non[[rheumatic]] [[tricuspid valve]] disorders
+** ({{ICD10|I|36|0|i|30}}) Nonrheumatic [[tricuspid (valve) stenosis]]
+** ({{ICD10|I|36|1|i|30}}) Nonrheumatic [[tricuspid (valve) insufficiency]]
+** ({{ICD10|I|36|2|i|30}}) Nonrheumatic [[tricuspid (valve) stenosis]] with [[Tricuspid insufficiency|insufficiency]]
+* ({{ICD10|I|37||i|30}}) [[Pulmonary valve]] disorders
+** ({{ICD10|I|37|0|i|30}}) [[Pulmonary valve stenosis]]
+** ({{ICD10|I|37|1|i|30}}) [[Pulmonary valve insufficiency]]
+** ({{ICD10|I|37|2|i|30}}) [[Pulmonary valve stenosis]] with [[Pulmonary valve insufficiency|insufficiency]]
+* ({{ICD10|I|38||i|30}}) [[Endocarditis]], [[valve]] unspecified
+* ({{ICD10|I|39||i|30}}) [[Endocarditis]] and [[heart valve]] disorders in diseases classified elsewhere
+
+====[[Myocardium]] / [[cardiomyopathy]] ====
+* ({{ICD10|I|40||i|30}}) [[Acute myocarditis]]
+* ({{ICD10|I|41||i|30}}) [[Myocarditis]] in diseases classified elsewhere
+* ({{ICD10|I|42||i|30}}) [[Cardiomyopathy]]
+** ({{ICD10|I|42|0|i|30}}) [[Dilated cardiomyopathy]]
+** ({{ICD10|I|42|1|i|30}}) Obstructive [[hypertrophy cardiomyopathy]]
+** ({{ICD10|I|42|2|i|30}}) Other [[hypertrophic cardiomyopathy]]
+** ({{ICD10|I|42|3|i|30}}) [[Endomyocardial]] ([[eosinophilic]]) disease
+*** [[Endomyocardial (tropical) fibrosis]]
+*** [[Löffler's endocarditis]]
+** ({{ICD10|I|42|4|i|30}}) [[Endocardial fibroelastosis]]
+** ({{ICD10|I|42|5|i|30}}) Other [[restrictive cardiomyopathy]]
+** ({{ICD10|I|42|6|i|30}}) [[Alcoholic cardiomyopathy]]
+** ({{ICD10|I|42|8|i|30}}) Other [[cardiomyopathies]]
+*** [[Arrhythmogenic right ventricular dysplasia]]
+* ({{ICD10|I|43||i|30}}) [[Cardiomyopathy]] in diseases classified elsewhere
+
+====Other====
+* ({{ICD10|I|50||i|30}}) [[Heart failure]]
+** ({{ICD10|I|50|0|i|30}}) [[Congestive heart failure]]
+*** [[Congestive heart failure]]
+** ({{ICD10|I|50|1|i|30}}) [[Left ventricular failure]]
+*** [[Cardiac asthma]]
+** ({{ICD10|I|50|9|i|30}}) [[Heart failure]], unspecified
+* ({{ICD10|I|51||i|30}}) Complications and ill-defined descriptions of [[heart disease]]
+** ({{ICD10|I|51|0|i|30}}) [[Cardiac septal defect]], acquired
+** ({{ICD10|I|51|1|i|30}}) [[Rupture of chordae tendineae]], not elsewhere classified
+** ({{ICD10|I|51|2|i|30}}) [[Rupture of papillary muscle]], not elsewhere classified
+** ({{ICD10|I|51|3|i|30}}) [[Intracardiac thrombosis]], not elsewhere classified
+** ({{ICD10|I|51|4|i|30}}) [[Myocarditis]], unspecified
+** ({{ICD10|I|51|5|i|30}}) [[Myocardial degeneration]]
+** ({{ICD10|I|51|6|i|30}}) [[Cardiovascular disease]], unspecified
+** ({{ICD10|I|51|7|i|30}}) [[Cardiomegaly]]
+*** [[Ventricular hypertrophy]]
+**** [[Left ventricular hypertrophy]]
+** ({{ICD10|I|51|8|i|30}}) Other ill-defined [[heart diseases]]
+** ({{ICD10|I|51|9|i|30}}) [[Heart disease]], unspecified
+* ({{ICD10|I|52||i|30}}) Other [[heart disorders]] in diseases classified elsewhere
+
+=== (I60–I69) [[Cerebrovascular disease]]s ===
+* ({{ICD10|I|60||i|60}}) [[Subarachnoid hemorrhage]]
+** ({{ICD10|I|60|0|i|60}}) [[Subarachnoid haemorrhage]] from [[carotid siphon and bifurcation]]
+** ({{ICD10|I|60|1|i|60}}) [[Subarachnoid haemorrhage]] from [[middle cerebral artery]]
+** ({{ICD10|I|60|2|i|60}}) [[Subarachnoid haemorrhage]] from [[anterior communicating artery]]
+** ({{ICD10|I|60|3|i|60}}) [[Subarachnoid haemorrhage]] from [[posterior communicating artery]]
+** ({{ICD10|I|60|4|i|60}}) [[Subarachnoid haemorrhage]] from [[basilar artery]]
+** ({{ICD10|I|60|5|i|60}}) [[Subarachnoid haemorrhage]] from [[vertebral artery]]
+** ({{ICD10|I|60|6|i|60}}) [[Subarachnoid haemorrhage]] from other [[intracranial arteries]]
+** ({{ICD10|I|60|7|i|60}}) [[Subarachnoid haemorrhage]] from [[intracranial artery]], unspecified
+* ({{ICD10|I|61||i|60}}) [[Intracerebral haemorrhage]]
+** ({{ICD10|I|61|0|i|60}}) [[Intracerebral haemorrhage]] in [[hemisphere, subcortical]]
+** ({{ICD10|I|61|1|i|60}}) [[Intracerebral haemorrhage]] in [[hemisphere, cortical]]
+** ({{ICD10|I|61|2|i|60}}) [[Intracerebral haemorrhage]] in [[Cerebral hemispheres|hemisphere]], unspecified
+** ({{ICD10|I|61|3|i|60}}) [[Intracerebral haemorrhage]] in [[brain stem]]
+** ({{ICD10|I|61|4|i|60}}) [[Intracerebral haemorrhage]] in [[cerebellum]]
+** ({{ICD10|I|61|5|i|60}}) [[Intracerebral haemorrhage]], [[Intraventricular hemorrhage|intraventricular]]
+** ({{ICD10|I|61|6|i|60}}) [[Intracerebral haemorrhage]], multiple localized
+* ({{ICD10|I|62||i|60}}) Other nontraumatic [[intracranial haemorrhage]]
+** ({{ICD10|I|62|0|i|60}}) [[Subdural haemorrhage]] (acute)(nontraumatic)
+** ({{ICD10|I|62|1|i|60}}) Nontraumatic [[extradural haemorrhage]]
+*** Nontraumatic [[epidural haemorrhage]]
+* ({{ICD10|I|63||i|60}}) Cerebral [[infarction]]
+** ({{ICD10|I|63|0|i|60}}) [[Cerebral infarction]] due to [[thrombosis]] of [[precerebral arteries]]
+** ({{ICD10|I|63|1|i|60}}) [[Cerebral infarction]] due to [[embolism]] of [[precerebral arteries]]
+** ({{ICD10|I|63|2|i|60}}) [[Cerebral infarction]] due to unspecified [[Vascular occlusion|occlusion]] or [[stenosis]] of [[precerebral arteries]]
+** ({{ICD10|I|63|3|i|60}}) [[Cerebral infarction]] due to [[thrombosis]] of [[cerebral arteries]]
+** ({{ICD10|I|63|4|i|60}}) [[Cerebral infarction]] due to [[embolism]] of [[cerebral arteries]]
+** ({{ICD10|I|63|5|i|60}}) [[Cerebral infarction]] due to unspecified [[Vascular occlusion|occlusion]] or [[stenosis]] of [[cerebral arteries]]
+** ({{ICD10|I|63|6|i|60}}) [[Cerebral infarction]] due to [[cerebral venous thrombosis]], [[nonpyogenic]]
+* ({{ICD10|I|64||i|60}}) [[Stroke]], not specified as [[hemorrhage]] or [[infarction]]
+* ({{ICD10|I|65||i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of [[precerebral arteries]], not resulting in [[cerebral infarction]]
+** ({{ICD10|I|65|0|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of [[vertebral artery]]
+** ({{ICD10|I|65|1|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of [[basilar artery]]
+** ({{ICD10|I|65|2|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of [[carotid artery]]
+** ({{ICD10|I|65|3|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of multiple and [[wikt:bilateral|bilateral]] [[precerebral arteries]]
+** ({{ICD10|I|65|8|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of other [[precerebral artery]]
+** ({{ICD10|I|65|9|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of unspecified [[precerebral artery]]
+* ({{ICD10|I|66||i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of [[cerebral arteries]], not resulting in [[cerebral infarction]]
+** ({{ICD10|I|66|0|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of [[middle cerebral artery]]
+** ({{ICD10|I|66|1|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of [[anterior cerebral artery]]
+** ({{ICD10|I|66|2|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of [[posterior cerebral artery]]
+** ({{ICD10|I|66|3|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of [[cerebellar arteries]]
+** ({{ICD10|I|66|4|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of multiple and [[wikt:bilateral|bilateral]] [[cerebral arteries]]
+** ({{ICD10|I|66|5|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of other [[cerebral artery]]
+** ({{ICD10|I|66|6|i|60}}) [[Vascular occlusion|Occlusion]] and [[stenosis]] of unspecified [[cerebral artery]]
+* ({{ICD10|I|67||i|60}}) Other [[cerebrovascular diseases]]
+** ({{ICD10|I|67|1|i|60}}) [[Cerebral aneurysm]], [[nonruptured]]
+** ({{ICD10|I|67|2|i|60}}) [[Cerebral atherosclerosis]]
+** ({{ICD10|I|67|3|i|60}}) Progressive [[Blood vessel|vascular]] [[leukoencephalopathy]]
+*** [[Binswanger's disease]]
+** ({{ICD10|I|67|4|i|60}}) [[Hypertensive encephalopathy]]
+** ({{ICD10|I|67|5|i|60}}) [[Moyamoya disease]]
+** ({{ICD10|I|67|6|i|60}}) [[Nonpyogenic thrombosis of intracranial venous system]]
+** ({{ICD10|I|67|7|i|60}}) [[Cerebral arteritis]], not elsewhere classified
+* ({{ICD10|I|68||i|60}}) [[Cerebrovascular disorders]] in diseases classified elsewhere
+* ({{ICD10|I|69||i|60}}) [[Sequelae]] of [[cerebrovascular disease]]
+
+=== (I70–I79) Diseases of [[arteries]], [[arterioles]] and [[capillaries]] ===
+* ({{ICD10|I|70||i|70}}) [[Atherosclerosis]]
+** [[arteriolosclerosis]]
+** [[arteriosclerosis]]
+** [[arteriosclerotic vascular disease]]
+** [[atheroma]]
+* ({{ICD10|I|71||i|70}}) [[Aortic aneurysm]] and [[Aortic dissection|dissection]]
+** ({{ICD10|I|71|0|i|70}}) [[Dissection of aorta]] (any part)
+** ({{ICD10|I|71|1|i|70}}) [[Thoracic aortic aneurysm]], ruptured
+** ({{ICD10|I|71|2|i|70}}) [[Thoracic aortic aneurysm]], without mention of rupture
+** ({{ICD10|I|71|3|i|70}}) [[Abdominal aortic aneurysm]], ruptured
+** ({{ICD10|I|71|4|i|70}}) [[Abdominal aortic aneurysm]], without mention of rupture
+** ({{ICD10|I|71|5|i|70}}) [[Thoracoabdominal aortic aneurysm]], ruptured
+** ({{ICD10|I|71|6|i|70}}) [[Thoracoabdominal aortic aneurysm]], without mention of rupture
+** ({{ICD10|I|71|8|i|70}}) [[Aortic aneurysm]] of unspecified site, ruptured
+** ({{ICD10|I|71|9|i|70}}) [[Aortic aneurysm]] of unspecified site, without mention of rupture
+* ({{ICD10|I|72||i|70}}) Other [[aneurysm]]
+* ({{ICD10|I|73||i|70}}) Other [[peripheral vascular diseases]]
+** ({{ICD10|I|73|0|i|70}}) [[Raynaud's syndrome]]
+** ({{ICD10|I|73|1|i|70}}) [[Thromboangiitis obliterans]] (Buerger)
+** ({{ICD10|I|73|8|i|70}}) Other specified [[peripheral vascular diseases]]
+*** [[Acrocyanosis]]
+*** [[Acroparaesthesia]]
+*** [[Erythrocyanosis]]
+*** [[Erythromelalgia]]
+** ({{ICD10|I|73|9|i|70}}) [[Peripheral vascular disease]], unspecified
+*** [[Intermittent claudication]]
+*** [[Spasm of artery]]
+* ({{ICD10|I|74||i|70}}) [[Arterial]] [[embolism]] and [[thrombosis]]
+* ({{ICD10|I|77||i|70}}) Other disorders of [[arteries]] and [[arterioles]]
+** ({{ICD10|I|77|0|i|70}}) [[Arteriovenous fistula]], acquired
+** ({{ICD10|I|77|1|i|70}}) [[Stricture of artery]]
+** ({{ICD10|I|77|2|i|70}}) [[Rupture of artery]]
+** ({{ICD10|I|77|3|i|70}}) [[Arterial fibromuscular dysplasia]]
+** ({{ICD10|I|77|4|i|70}}) [[Coeliac artery compression syndrome]]
+** ({{ICD10|I|77|5|i|70}}) [[Necrosis of artery]]
+** ({{ICD10|I|77|6|i|70}}) [[Arteritis]], unspecified
+** ({{ICD10|I|77|8|i|70}}) Other specified disorders of [[arteries]] and [[arterioles]]
+** ({{ICD10|I|77|9|i|70}}) Disorder of [[arteries]] and [[arterioles]], unspecified
+* ({{ICD10|I|78||i|70}}) Diseases of [[capillaries]]
+** ({{ICD10|I|78|0|i|70}}) [[Hereditary haemorrhagic telangiectasia]]
+** ({{ICD10|I|78|1|i|70}}) [[Naevus]], non-neoplastic
+*** [[naevus araneus]]
+*** [[spider naevus]]
+*** [[stellar naevus]]
+** ({{ICD10|I|78|8|i|70}}) Other diseases of [[capillaries]]
+** ({{ICD10|I|78|9|i|70}}) Disease of [[capillaries]], unspecified
+* ({{ICD10|I|79||i|70}}) Disorders of [[arteries]], [[arterioles]] and [[capillaries]] in diseases classified elsewhere
+
+=== (I80–I89) Diseases of [[veins]], [[lymphatic vessels]] and [[lymph nodes]], not elsewhere classified ===
+* ({{ICD10|I|80||i|80}}) [[Phlebitis]] and [[thrombophlebitis]]
+** ({{ICD10|I|80|0|i|80}}) [[Phlebitis]] and [[thrombophlebitis]] of [[superficial vessels]] of [[lower extremities]]
+** ({{ICD10|I|80|1|i|80}}) [[Phlebitis]] and [[thrombophlebitis]] of [[femoral vein]]
+** ({{ICD10|I|80|2|i|80}}) [[Phlebitis]] and [[thrombophlebitis]] of other [[deep vessels]] of [[lower extremities]]
+*** [[Deep vein thrombosis]] NOS
+* ({{ICD10|I|81||i|80}}) [[Portal vein thrombosis]]
+* ({{ICD10|I|82||i|80}}) Other [[venous]] [[embolism]] and [[venous thrombosis]]
+** ({{ICD10|I|82|0|i|80}}) [[Budd-Chiari syndrome]]
+** ({{ICD10|I|82|1|i|80}}) [[Thrombophlebitis migrans]]
+** ({{ICD10|I|82|2|i|80}}) [[Embolism]] and [[thrombosis]] of [[vena cava]]
+** ({{ICD10|I|82|3|i|80}}) [[Embolism]] and [[Renal vein thrombosis|thrombosis of renal vein]]
+** ({{ICD10|I|82|8|i|80}}) [[Embolism]] and [[thrombosis]] of other specified veins
+*** [[Paget-Schroetter disease]]
+* ({{ICD10|I|83||i|80}}) [[Varicose veins]] of [[lower extremities]]
+** ({{ICD10|I|83|0|i|80}}) [[Varicose veins of lower extremities with ulcer]]
+*** [[Varicose ulcer]] (lower extremity, any part)
+** ({{ICD10|I|83|1|i|80}}) [[Varicose veins of lower extremities with inflammation]]
+** ({{ICD10|I|83|2|i|80}}) [[Varicose veins of lower extremities with both ulcer and inflammation]]
+** ({{ICD10|I|83|9|i|80}}) [[Varicose veins of lower extremities without ulcer or inflammation]]
+* ({{ICD10|I|84||i|80}}) [[Haemorrhoids]]
+** ({{ICD10|I|84|6|i|80}}) Residual [[haemorrhoidal]] [[skin tags]]
+* ({{ICD10|I|85||i|80}}) [[Oesophageal varices]]
+* ({{ICD10|I|86||i|80}}) [[Varicose veins]] of other sites
+** ({{ICD10|I|86|0|i|80}}) [[Sublingual varices]]
+** ({{ICD10|I|86|1|i|80}}) [[Scrotal varices]]
+*** [[Varicocele]]
+** ({{ICD10|I|86|2|i|80}}) [[Pelvic varices]]
+** ({{ICD10|I|86|3|i|80}}) [[Vulval varices]]
+** ({{ICD10|I|86|4|i|80}}) [[Gastric varices]]
+** ({{ICD10|I|86|8|i|80}}) [[Varicose veins]] of other specified sites
+* ({{ICD10|I|87||i|80}}) Other disorders of [[veins]]
+** ({{ICD10|I|87|0|i|80}}) [[Postphlebitic syndrome]]
+** ({{ICD10|I|87|1|i|80}}) [[Compression of vein]]
+*** [[Superior vena cava syndrome]]
+** ({{ICD10|I|87|2|i|80}}) [[Chronic venous insufficiency|Venous insufficiency]] (chronic)(peripheral)
+** ({{ICD10|I|87|8|i|80}}) Other specified disorders of [[veins]]
+** ({{ICD10|I|87|9|i|80}}) Disorder of [[vein]], unspecified
+* ({{ICD10|I|88||i|80}}) Nonspecific [[lymphadenitis]]
+* ({{ICD10|I|89||i|80}}) Other noninfective disorders of [[lymphatic vessels]] and [[lymph nodes]]
+** ({{ICD10|I|89|0|i|80}}) [[Lymphoedema]], not elsewhere classified
+** ({{ICD10|I|89|1|i|80}}) [[Lymphangitis]]
+** ({{ICD10|I|89|8|i|80}}) Other specified noninfective disorders of [[lymphatic vessels]] and [[lymph nodes]]
+** ({{ICD10|I|89|9|i|80}}) Noninfective disorder of [[lymphatic vessels]] and [[lymph nodes]], unspecified
+
+=== (I95–I99) Other and unspecified disorders of the [[circulatory system]] ===
+* ({{ICD10|I|95||i|95}}) [[Hypotension]]
+** ({{ICD10|I|95|0|i|95}}) [[Idiopathic]] [[hypotension]]
+** ({{ICD10|I|95|1|i|95}}) [[Orthostatic hypotension]]
+** ({{ICD10|I|95|2|i|95}}) [[Hypotension]] due to [[drugs]]
+** ({{ICD10|I|95|8|i|95}}) [[Hypotension]], other
+** ({{ICD10|I|95|9|i|95}}) [[Hypotension]], unspecified
+* ({{ICD10|I|97||i|95}}) Postprocedural disorders of [[circulatory system]], not elsewhere classified
+** ({{ICD10|I|97|0|i|95}}) [[Postcardiotomy syndrome]]
+* ({{ICD10|I|98||i|95}}) Other disorders of [[circulatory system]] in diseases classified elsewhere
+* ({{ICD10|I|99||i|95}}) Other and unspecified disorders of [[circulatory system]]
+
+==See also==
+* [[List of ICD-10 codes]]
+* [[ICD|International Statistical Classification of Diseases and Related Health Problems]]
+* [[List of ICD-9 codes 390–459: diseases of the circulatory system]]
+
+==References==
+{{reflist}}
+{{Medical conditions}}
+{{Circulatory system pathology}}
+{{Cerebrovascular diseases}}
+{{Vascular diseases}}
+{{Lymphatic disease}}
+[[Category:Medical manuals]]

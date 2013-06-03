@@ -1,0 +1,98 @@
+{{chembox
+| verifiedrevid = 446282072
+|   Reference=<ref>''[[Merck Index]]'', 11th Edition, '''79'''.</ref>
+|   Name = Acetyl chloride
+|   ImageFileL1 = Acetyl chloride-2D-Skeletal.png
+|   ImageSizeL1 = 100px 
+|   ImageNameL1 = Skeletal formula of acetyl chloride
+|   ImageFileR1 = Acetyl-chloride-3D-balls.png
+|   ImageSizeR1 = 100px  
+|   ImageNameR1 = Ball-and-stick model of acetyl chloride
+|   ImageFile2 = Acetyl-chloride-3D-vdW.png
+|   ImageSize2 = 120px  
+|   ImageName2 = Space-filling model of acetyl chloride
+|   ImageFile3 = Acetyl chloride 25ml.jpg 
+|   IUPACName = Acetyl chloride
+|   SystematicName = Ethanoyl chloride 
+| Section1 = {{Chembox Identifiers
+|   ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 37580
+| SMILES = ClC(=O)C
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6127
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = QD15RNO45K
+| InChI = 1/C2H3ClO/c1-2(3)4/h1H3
+| InChIKey = WETWJCDKMRHUPV-UHFFFAOYAQ
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C2H3ClO/c1-2(3)4/h1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WETWJCDKMRHUPV-UHFFFAOYSA-N
+| CASNo = 75-36-5
+|    CASNo_Ref = {{cascite|correct|CAS}}
+|   RTECS = AO6390000
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = CH<sub>3</sub>COCl
+|   MolarMass = 78.49 g/mol
+|   Appearance = colorless liquid
+|   Density = 1.104 g/ml, liquid
+|   Solubility = Reacts with water
+|   MeltingPtC = -112
+|   BoilingPtC = 52
+|   Viscosity = 
+  }}
+| Section3 = {{Chembox Structure
+|   Dipole = 2.45 [[Debye|D]]
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS =
+|   EUClass = Flammable ('''F''')<br />Corrosive ('''C''')
+|   RPhrases = {{R11}} {{R14}} {{R34}}
+|   SPhrases = {{S1/2}} {{S9}} {{S16}} {{S26}} {{S45}}
+|   FlashPt = {{convert|4|C|F}}
+|   Autoignition = {{convert|390|C|F}}
+|   ExploLimits = 7.3&ndash;19%
+  }}
+| Section8 = {{Chembox Related
+|   Function = [[acyl chloride]]s
+|   OtherFunctn = [[Propionyl chloride]]<br />[[Butyryl chloride]]
+|   OtherCpds = [[Acetic acid]]<br />[[Acetic anhydride]]<br>[[Acetyl bromide]]
+  }}
+}}
+
+'''Acetyl chloride''', CH<sub>3</sub>COCl, also known as '''ethanoyl chloride''' or '''acyl chloride''', is an [[acid chloride]] derived from [[acetic acid]]. It belongs to the class of [[organic compound]]s called [[acyl halide]]s. It is a colorless [[liquid]].  
+
+==Synthesis==
+The usual method involves the reaction of [[acetic acid]] with standard inorganic chlorodehydrating agents, such as by using [[Phosphorus trichloride|PCl<sub>3</sub>]], [[Phosphorus pentachloride|PCl<sub>5</sub>]], [[Sulfuryl chloride|SO<sub>2</sub>Cl<sub>2</sub>]], or [[Thionyl chloride|SOCl<sub>2</sub>]]. However, this usually gives acetyl chloride which is contaminated by phosphorus or sulfur impurities, which may interfere with the organic reactions.<ref name="HdBook">{{cite book| title = Handbook of Reagents for Organic Synthesis, Activating Agents and Protective Groups| chapter = Acetyl chloride| author1 = Leo A. Paquette| author2 = | publisher = John Wiley & Sons| year = 2005| isbn = 978-0-471-97927-2| page = 16}}</ref>
+
+It is produced by the reaction of [[hydrogen chloride]] with [[acetic anhydride]]:<ref>Hosea Cheung, Robin S. Tanke, G. Paul Torrence “Acetic Acid” in ''Ullmann's Encyclopedia of Industrial Chemistry'', 2002, Wiley-VCH, Weinheim. {{DOI|10.1002/14356007.a01_045}}</ref>
+:(CH<sub>3</sub>CO)<sub>2</sub>O + HCl  →  CH<sub>3</sub>COCl + CH<sub>3</sub>CO<sub>2</sub>H
+
+HCl impurities can be removed by distilling the crude product from [[dimethylaniline]] or by degassing the mixture by a stream of [[argon]]. 
+
+It may also be synthesized from the catalytic [[carbonylation]] of [[methyl chloride]].<ref>{{cite patent|US|4352761}}</ref>
+[[File:Fisher Acetyl Chloride.jpg|thumb|left|Can containing a bottle of acetyl chloride]] Heating [[dichloroacetic acid|dichloroacetic chloride]] with acetic acid also gives acetyl chloride in 70% yield.<ref name="HdBook" />
+
+==Occurrence==
+Acetyl chloride is not expected to exist in nature, because contact with [[water (molecule)|water]] would [[hydrolysis|hydrolyze]] it into acetic acid and [[hydrogen chloride]]. In fact, if handled in open air it releases white "smoke" resulting from hydrolysis due to the moisture in the air. The smoke is actually small droplets of [[hydrochloric acid]] formed by hydrolysis.
+
+==Uses==
+It is a chemical for [[acetylation]] in the [[Chemical synthesis|synthesis]] or derivatization of [[organic compound]]s.  Examples of acetylation reactions include [[acylation]] processes such as [[esterification]] (see below) and the [[Friedel-Crafts reaction]].
+:CH<sub>3</sub>COCl + [[Ethanol|HO-CH<sub>2</sub>-CH<sub>3</sub>]]  →  [[Ethyl acetate|CH<sub>3</sub>-COO-CH<sub>2</sub>-CH<sub>3</sub>]]  +  [[Hydrogen chloride|H-Cl]]
+
+Frequently such acylations are carried out in the presence of a base such as [[pyridine]], [[triethylamine]], or [[4-Dimethylaminopyridine|DMAP]], which act as [[catalyst]]s to help promote the reaction and as [[base (chemistry)|base]]s [[Neutralization (chemistry)|neutralize]] the resulting HCl. Such reactions will often proceed via [[ketene]].
+
+Acetylation is the introduction of an [[acetyl]] group via [[acylation]] using a [[reactant]] such as acetyl chloride or [[acetic anhydride]].  An acetyl group is an [[acyl]] group having the formula
+:-C(=O)-CH<sub>3</sub>
+
+For further information on the types of chemical reactions compounds such as acetyl chloride can undergo, see [[acyl halide]].
+
+==References==
+{{reflist}}
+
+==External links==
+*{{ICSC|0210}}
+
+[[Category:Acyl chlorides]]
+[[Category:Reagents for organic chemistry]]

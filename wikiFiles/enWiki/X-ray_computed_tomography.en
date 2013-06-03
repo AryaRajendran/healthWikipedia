@@ -1,0 +1,329 @@
+{{for|non medical computed tomography |Industrial CT Scanning}}
+{{redirect|catSCAN|the Transformers character|Transformers: Universe}}
+{{Interventions infobox
+  |Name        = X-ray computed tomography
+  |Image       = Rosies ct scan.jpg |
+  |Caption     = A patient is receiving a CT scan for [[cancer]]. Outside of the scanning room is an imaging computer that reveals a 2D image of the body's interior.
+  |ICD10       = B?2
+  |ICD9        = {{ICD9proc|88.38}}
+  |MeshID      = D014057
+  |MedlinePlus = 003330
+  |OPS301      = {{OPS301|3–20...3–26}}
+  |OtherCodes  = 
+}}
+
+'''X-ray computed tomography''', also '''computed tomography''' ('''CT scan''') or '''computed axial tomography''' ('''CAT scan'''), is a [[medical imaging]] procedure that utilizes computer-processed [[X-rays]] to produce [[Tomography|tomographic images]] or 'slices' of specific areas of the body. These cross-sectional images are used for diagnostic and therapeutic purposes in various medical disciplines.<ref name="urlcomputed tomography – Definition from the Merriam-Webster Online Dictionary">{{cite web |url=http://www.merriam-webster.com/dictionary/computed+tomography |title=computed tomography – Definition from the Merriam-Webster Online Dictionary |work= |accessdate=2009-08-18}}</ref> [[Geometry Processing|Digital geometry processing]] is used to generate a [[Three-dimensional space|three-dimensional]] image of the inside of an object from a large series of two-dimensional [[X-ray]] images taken around a single [[axis of rotation]].<ref name="ref1">
+Herman, G. T., Fundamentals of computerized tomography: Image reconstruction
+from projection, 2nd edition, Springer, 2009
+</ref>
+
+[[File:CT US4115698 Fig1.jpg|thumb|Schematic representation of CT scanner.<ref name=GDT>US4,115,698 (US Patent)[http://www.google.com/patents/US4115698]</ref>]]
+
+CT produces a volume of data that can be manipulated, through a process known as "windowing", in order to demonstrate various bodily structures based on their ability to block the X-ray beam. Although historically the images generated were in the axial or transverse plane, perpendicular to the long axis of the body, modern scanners allow this volume of data to be reformatted in various planes or even as volumetric (3D) representations of structures. Although most common in medicine, CT is also used in other fields, such as [[nondestructive testing|nondestructive materials testing]]. Another example is archaeological uses such as imaging the contents of sarcophagi. Individuals responsible for performing CT exams are called [[Radiologic Technologist]]s or Radiographers <ref>https://www.arrt.org/Patient-Public/Patient-Page</ref> and are required to be licensed in most states.<ref>http://www.asrt.org/main/standards-regulations/state-legislative-affairs/individual-state-licensure-info</ref>
+
+Usage of CT has increased dramatically over the last two decades in many countries.<ref name=Smith2009>{{cite journal |author=Smith-Bindman R, Lipson J, Marcus R, ''et al.'' |title=Radiation dose associated with common computed tomography examinations and the associated lifetime attributable risk of cancer |journal=Arch. Intern. Med. |volume=169 |issue=22 |pages=2078–86 |year=2009 |month=December |pmid=20008690 |doi=10.1001/archinternmed.2009.427 |url=}}</ref>  An estimated 72 million scans were performed in the United States in 2007.<ref name=Berrington2009>{{cite journal |author=Berrington de González A, Mahesh M, Kim KP, ''et al.'' |title=Projected cancer risks from computed tomographic scans performed in the United States in 2007 |journal=Arch. Intern. Med. |volume=169 |issue=22 |pages=2071–7 |year=2009 |month=December |pmid=20008689 |doi=10.1001/archinternmed.2009.440 |url=}}</ref> One study estimated that as many as 0.4% of current cancers in the United States are due to CTs performed in the past and that this may increase to as high as 1.5-2% with 2007 rates of CT usage;<ref name="Brenner2007">{{cite journal |author=Brenner DJ, Hall EJ |title=Computed tomography – an increasing source of radiation exposure |journal=N. Engl. J. Med. |volume=357 |issue=22 |pages=2277–84 |year=2007 |month=November |pmid=18046031 |doi=10.1056/NEJMra072149 |url=http://www.columbia.edu/~djb3/papers/nejm1.pdf}}</ref> however, this estimate is disputed.<ref>{{cite journal |author=Tubiana M |title=Comment on Computed Tomography and Radiation Exposure |journal=N. Engl. J. Med. |volume=358 |issue=8 |pages=852–3 |year=2008 |month=February |pmid=18287609 |doi=10.1056/NEJMc073513}}</ref> Kidney problems following intravenous contrast agents may also be a concern in some types of studies.
+{{TOC limit|3}}
+
+==Diagnostic use==
+[[File:CT ScoutView.jpg|thumb|Typical CT Scout view as used for planning an exam]]
+Since its introduction in the 1970s, CT has become an important tool in [[medical imaging]] to supplement [[X-ray]]s and [[medical ultrasonography]]. It has more recently been used for [[preventive medicine]] or [[screening (medicine)|screening]] for disease, for example CT colonography for patients with a high risk of colon cancer, or full-motion heart scans for patients with high risk of heart disease. A number of institutions offer [[full-body scan]]s for the general population although this practice goes against the advice and official position of many professional organizations in the field.<ref>http://hps.org/documents/ctscreening_ps018-0.pdf</ref>
+
+===Head===
+{{main|CT head}}
+[[File:Computed tomography of human brain - large.png|thumb|Computed tomography of [[human brain]], from [[base of the skull]] to top. Taken with intravenous contrast medium.]]
+[[Image:Bonereconstruction.jpg|thumb|Bone reconstructed in 3D]]
+CT scanning of the head is typically used to detect [[infarction]], tumors, [[calcification]]s, hemorrhage and bone trauma. Of the above, hypodense (dark) structures can indicate infarction and [[edema]], hyperdense (bright) structures indicate calcifications and [[haemorrhage]] and bone trauma can be seen as disjunction in bone windows. Tumors can be detected by the swelling and anatomical distortion they cause, or by surrounding edema. Ambulances equipped with small bore multi-sliced CT scanners respond to cases involving stroke or head trauma.
+
+===Lungs===
+CT can be used for detecting both acute and chronic changes in the [[human lung|lung]] parenchyma, that is, the internals of the lungs. It is particularly relevant here because normal two-dimensional X-rays do not show such defects. A variety of techniques are used, depending on the suspected abnormality. For evaluation of chronic interstitial processes ([[emphysema]], [[fibrosis]], and so forth), thin sections with high spatial frequency reconstructions are used; often scans are performed both in inspiration and expiration. This special technique is called high resolution CT. Therefore, it produces a sampling of the lung and not continuous images.
+
+===Pulmonary angiogram===
+[[Image:SADDLE PE.JPG|thumb|Example of a CTPA, demonstrating a saddle [[pulmonary embolism|embolus]] (dark horizontal line) occluding the [[pulmonary artery|pulmonary arteries]] (bright white triangle)]]
+[[CT pulmonary angiogram]] (CTPA) is a medical diagnostic test used to diagnose [[pulmonary embolism]] (PE). It employs computed tomography and an iodine based contrast agent to obtain an image of the [[pulmonary artery|pulmonary arteries]].
+
+===Cardiac===
+{{main|Cardiac CT}}
+With the advent of subsecond rotation combined with multi-slice CT (up to 320-slices), high resolution and high speed can be obtained at the same time, allowing excellent imaging of the coronary arteries (cardiac CT angiography).
+
+===Abdominal and pelvic===
+{{main|Abdominal and pelvic CT}}
+[[Image:Wilms Tumor CTScan.OGG|thumb|right|thumbtime=3|[[Computed tomography|CT Scan]] of 11 cm [[Wilms' tumor]] of right kidney in 13 month old patient.]]
+CT is a sensitive method for diagnosis of [[Human abdomen|abdominal]] diseases. It is used frequently to determine stage of cancer and to follow progress. It is also a useful test to investigate acute abdominal pain.
+
+===Extremities===
+CT is often used to image complex [[fracture (bone)|fracture]]s, especially ones around joints, because of its ability to reconstruct the area of interest in multiple planes. Fractures, ligamentous injuries and dislocations can easily be recognised with a 0.2&nbsp;mm resolution.<ref>{{Cite web| url=http://orthoinfo.aaos.org/topic.cfm?topic=A00391| title=Ankle Fractures | publisher=American Association of Orthopedic Surgeons| work=orthoinfo.aaos.org| date=| author=| accessdate=2010-05-30}}</ref><ref>{{cite web| url=http://www.ajronline.org/cgi/content/full/176/4/979| title=Musculoskeletal Imaging with Multislice CT| author= Buckwalter, Kenneth A. et.al. | work=ajronline.org| publisher=American Journal of Roentgenology| date=11 September 2000| accessdate=2010-05-22}}</ref>
+
+==Advantages==
+There are several advantages that CT has over traditional 2D [[medical radiography]]. First, CT completely eliminates the superimposition of images of structures outside the area of interest. Second, because of the inherent high-contrast resolution of CT, differences between tissues that differ in physical density by less than 1% can be distinguished. Finally, data from a single CT imaging procedure consisting of either multiple contiguous or one helical scan can be viewed as images in the axial, coronal, or sagittal planes, depending on the diagnostic task. This is referred to as multiplanar reformatted imaging.
+
+CT is regarded as a moderate- to high-[[radiation]] diagnostic technique.   The improved resolution of CT has permitted the development of new investigations, which may have advantages; compared to conventional radiography, for example, CT angiography avoids the invasive insertion of a catheter.  CT Colonography (also known as Virtual Colonoscopy or VC for short) may be as useful as a barium enema for detection of tumors, but may use a lower radiation dose. CT VC is increasingly being used in the UK as a diagnostic test for bowel cancer and can negate the need for a colonoscopy.
+
+The radiation dose for a particular study depends on multiple factors: volume scanned, patient build, number and type of scan sequences, and desired resolution and image quality. In addition, two helical CT scanning parameters that can be adjusted easily and that have a profound effect on radiation dose are tube current and pitch. Computed tomography (CT) scan has been shown to be more accurate than radiographs in evaluating anterior interbody fusion but may still over-read the extent of fusion.<ref>Brian R. Subach M.D., F.A.C.S et. al.[http://www.spinemd.com/publications/articles/reliability-and-accuracy-of-fine-cut-computed-tomography-scans-to-determine-the-status-of-anterior-interbody-usions-with-metallic-cages "Reliability and accuracy of fine-cut computed tomography scans to determine the status of anterior interbody fusions with metallic cages"]</ref>
+
+==Adverse effects==
+===Cancer===
+The [[ionizing radiation]] in the form of x-rays used in CT scans are energetic enough to directly or indirectly damage DNA.  This and other [[Double_strand_breaks#Types_of_damage|types of DNA damage]] are occasionally not corrected properly by [[DNA repair|cellular repair]] mechanisms. Such damage to the DNA occasionally leads to cancer. The estimates of harm from CT are partly based on similar radiation exposures experienced by those present during the [[atomic bomb]] explosions in Japan during the second world war and those of [[nuclear industry]] works.<ref name="Brenner2007"/> 
+
+<!--Cancer risk  -->
+There is a small increased risk of cancer with CT scans. It is estimated that 0.4% of current cancers in the United States are due to CTs performed in the past and that this may increase to as high as 1.5–2% with 2007 rates of CT usage;<ref name="Brenner2007" /> however, this estimate is disputed.<ref>{{cite journal |author=Tubiana M|title=Comment on Computed Tomography and Radiation Exposure |journal=N. Engl. J. Med. |volume=358|issue=8 |pages=852–3|year=2008 |month=February|pmid=18287609 |doi=10.1056/NEJMc073513}}</ref> This would be equivalent to one in 1000 to one in 2000 increased risk of developing a fatal cancer per 10mSv CT scan,<ref name=Semelka2007/> or 29,000 new cancer cases in the United States due to the number of scans done in 2007<ref>{{cite journal|last=Berrington de González|first=A|coauthors=Mahesh, M; Kim, KP; Bhargavan, M; Lewis, R; Mettler, F; Land, C|title=Projected cancer risks from computed tomographic scans performed in the United States in 2007.|journal=Archives of Internal Medicine|date=2009-12-14|volume=169|issue=22|pages=2071–7|pmid=20008689|doi=10.1001/archinternmed.2009.440}}</ref> and 2100 new cancers in the United Kingdom.<ref name=Risk2011/> This additional risk is still low compared to the background risk of dying from cancer of ~20%.<ref name=Furlow2010/> The most common cancers caused by radiation exposure are thought to be [[lung cancer]], [[breast cancer]], [[thyroid cancer]], [[stomach cancer]] and [[leukemia]].<ref name=Semelka2007/> 
+
+<!--Effect of age  -->
+A person's age plays a significant role in the subsequent risk of cancer.<ref name=Furlow2010/> Estimated lifetime cancer mortality risks from an abdominal CT of a 1-year-old is 0.1% or 1:1000 scans.<ref name=Furlow2010/> The risk for someone who is 40 years old is half that of someone who is 20 years old with substantially less risk in the elderly.<ref name=Furlow2010/> 
+The [[International Commission on Radiological Protection]] estimates that the risk to a fetus being exposed to 10&nbsp;mGy (a unit of radiation exposure, see [[Gray (unit)]]) increases the rate of cancer before 20 years of age from 0.03% to 0.04% (for reference a CT pulmonary angiogram exposes a fetus to 4&nbsp;mGy).<ref name=Risk2011/> A 2012 review did not find an association between medical radiation and cancer risk in children noting however the existence of limitations in the evidences over which the review is based.<ref>{{cite journal|last=Baysson|first=H|coauthors=Etard, C; Brisse, HJ; Bernier, MO|title=[Diagnostic radiation exposure in children and cancer risk: current knowledge and perspectives].|journal=Archives de pediatrie : organe officiel de la Societe francaise de pediatrie|date=2012 Jan|volume=19|issue=1|pages=64–73|pmid=22130615|doi=10.1016/j.arcped.2011.10.023}}</ref> 
+
+<!--Efforts to decrease risk  -->
+CT scans can be performed with different settings for lower exposure in children with most manufacturers of CT scans as of 2007 having this function built in.<ref name=Semelka2007/> Furthermore, certain conditions can require children to be exposed to multiple CT scans.<ref name="Brenner2007"/> Studies support informing parents of the risks of pediatric CT scanning.<ref name="pmid17646450">{{cite journal|author=Larson DB, Rader SB, Forman HP, Fenton LZ |title=Informing parents about CT radiation exposure in children: it's OK to tell them |journal=AJR Am J Roentgenol|volume=189 |issue=2 |pages=271–5 |year=2007 |month=August |pmid=17646450|doi=10.2214/AJR.07.2248|url=http://www.ajronline.org/cgi/pmidlookup?view=long&pmid=17646450}}</ref>
+
+===Contrast===
+In the United States half of CT scans involve intravenously injected [[radiocontrast agent]]s.<ref name=Nam2006/> The most common reactions from these agents are mild, including nausea, vomiting and an itching rash; however, more severe reactions may occur.<ref name=Contrast2005>{{cite journal|last=Christiansen|first=C|title=X-ray contrast media – an overview.|journal=Toxicology|date=2005-04-15|volume=209|issue=2|pages=185–7|pmid=15767033|doi=10.1016/j.tox.2004.12.020}}</ref> Overall reactions occur in 1 to 3% with [[nonionic contrast]] and 4 to 12% of people with [[ionic contrast]].<ref name=Wang2011/> Skin rashes may appear in 1 to 3% within a week.<ref name=Contrast2005/>
+
+The old [[radiocontrast agent]]s caused [[anaphylaxis]] in 1% of cases while the newer, lower-osmolar agents cause reactions in 0.01–0.04% of cases.<ref name=Contrast2005/><ref name=Drug01>{{cite journal|last=Drain|first=KL|coauthors=Volcheck, GW|title=Preventing and managing drug-induced anaphylaxis.|journal=Drug safety : an international journal of medical toxicology and drug experience|year=2001|volume=24|issue=11|pages=843–53|pmid=11665871}}</ref> Death occurs in about two to 30 people per 1,000,000 administrations with newer agents being safer.<ref name=Wang2011>{{cite journal |author=Wang H, Wang HS, Liu ZP |title=Agents that induce pseudo-allergic reaction |journal=Drug Discov Ther |volume=5 |issue=5 |pages=211–9 |year=2011|month=October |pmid=22466368 |doi= |url=}}</ref><ref>{{cite book|last=editor|first=Mariana C. Castells,|title=Anaphylaxis and hypersensitivity reactions|publisher=Humana Press|location=New York|isbn=9781603279505|pages=187|url=http://books.google.ca/books?id=bEvnfm7V-LIC&pg=PA187}}</ref> When deaths do occur it is more typically in those who are female, elderly or in poor health and is secondary to either anaphylaxis or acute renal failure.<ref name=Nam2006>{{cite journal|last=Namasivayam|first=S|coauthors=Kalra, MK; Torres, WE; Small, WC|title=Adverse reactions to intravenous iodinated contrast media: a primer for radiologists.|journal=Emergency radiology|date=2006 Jul|volume=12|issue=5|pages=210–5|pmid=16688432|doi=10.1007/s10140-006-0488-6}}</ref>
+
+The contrast agent may induce [[contrast-induced nephropathy]].<ref name=Contrast2009>{{cite journal|last=Hasebroock|first=KM|coauthors=Serkova, NJ|title=Toxicity of MRI and CT contrast agents.|journal=Expert opinion on drug metabolism & toxicology|date=2009 Apr|volume=5|issue=4|pages=403–16|pmid=19368492|doi=10.1517/17425250902873796}}</ref> This occurs in 2 to 7% of people who receive these agents, with greater risk in those who have preexisting [[renal failure|renal insufficiency]],<ref name=Contrast2009/> preexisting [[diabetes mellitus|diabetes]], or reduced intravascular volume. People with mild kidney impairment are usually advised to ensure full hydration for several hours before and after the injection. For moderate kidney failure, the use of  [[iodinated contrast]] should be avoided; this may mean using an alternative technique instead of CT. Those with severe renal failure requiring dialysis do not require special precautions, as their kidneys have so little function remaining that any further damage would not be noticeable and the dialysis will remove the contrast agent.
+
+In addition to the use of intravenous contrast, orally administered contrast agents are frequently used when examining the abdomen. These are frequently the same as the intravenous contrast agents, merely diluted to approximately 10% of the concentration. However, oral alternatives to iodinated contrast exist, such as very dilute (0.5–1% w/v) [[barium sulfate]] suspensions. Dilute barium sulfate has the advantage that it does not cause allergic-type reactions or kidney failure, but cannot be used in patients with suspected bowel perforation or suspected bowel injury, as leakage of barium sulfate from damaged bowel can cause fatal [[peritonitis]].
+
+==Scan dose==
+{|  class="sortable wikitable" style = "float: right; margin-left:15px; text-align:center"
+|-
+!Examination
+!Typical [[Effective dose (radiation safety)|effective <br> dose]] ([[Sievert|mSv]])<br> to the whole body
+!Typical [[Absorbed dose|absorbed <br> dose]] ([[Gray (unit)|mGy]])<br> to the organ in question
+|-
+|Annual background radiation
+|2.4<ref name="background"/>
+|2.4<ref name="background"/>
+|-
+|Chest X-ray
+|0.02<ref name=FDADose>{{cite web|title=What are the Radiation Risks from CT?|url=http://www.fda.gov/radiation-emittingproducts/radiationemittingproductsandprocedures/medicalimaging/medicalx-rays/ucm115329.htm|work=Food and Drug Administration|year=2009}}</ref>
+|0.01–0.15<ref name="crfdr"/>
+|-
+|Head CT
+|1–2<ref name=Furlow2010/>
+|56<ref name="nrpb2005">Shrimpton, P.C; Miller, H.C; Lewis, M.A; Dunn, M.  [http://www.hpa.org.uk/web/HPAwebFile/HPAweb_C/1194947420292 Doses from Computed Tomography (CT) examinations in the UK – 2003 Review]</ref> 
+|-
+|Screening [[mammography]]
+|0.4<ref name=Risk2011>{{cite journal|last=Davies|first=H. E.|coauthors=Wathen, C. G.; Gleeson, F. V.|title=The risks of radiation exposure related to diagnostic imaging and how to minimise them|journal=BMJ|date=25 February 2011|volume=342|issue=feb25 1|pages=d947–d947|doi=10.1136/bmj.d947}}</ref>
+|3<ref name="Brenner2007"/><ref name="crfdr"/> 
+|-
+|Abdomen CT
+|8<ref name=FDADose/>
+|14<ref name="nrpb2005"/>
+|-
+|Chest CT
+|5–7<ref name=Furlow2010/>
+|13<ref name="nrpb2005"/>
+|-
+|[[Virtual colonoscopy|CT colonography]]
+|6–11<ref name=Furlow2010/>
+|
+|-
+|Chest, abdomen and pelvis CT
+|9.9<ref name="nrpb2005"/>
+|12<ref name="nrpb2005"/>
+|-
+|Cardiac CT angiogram
+|9–12<ref name=Furlow2010/> 
+|40–100<ref name="crfdr"/>
+|-
+|[[Barium enema]]
+|15<ref name="Brenner2007"/>
+|15<ref name="crfdr"/>
+|-
+|Neonatal abdominal CT
+|20<ref name="Brenner2007"/>
+|20<ref name="crfdr"/>
+|}
+
+The table reports average radiation exposures, however, there is a wide variation in radiation doses between similar scan types, where the highest dose could be as much as 22 times higher than the lowest dose.<ref name=Furlow2010/>  A typical plain film x-ray involves radiation dose of 0.01 to 0.15 mGy, while a typical CT can involve 10–20 mGy for specific organs, and can go up to 80 mGy for certain specialized CT scans.<ref name="crfdr">{{cite journal|last=Hall|first=EJ|coauthors=Brenner, DJ|title=Cancer risks from diagnostic radiology.|journal=The British journal of radiology|date=2008 May|volume=81|issue=965|pages=362–78|pmid=18440940|doi=10.1259/bjr/01948454}}</ref> 
+
+For purposes of comparison, the world average dose rate from naturally occurring sources of [[background radiation]] is 2.4 mSv per year, equal for practical purposes in this application to 2.4 mGy per year.<ref name="background">{{cite journal|author=Cuttler JM, Pollycove M |title=Nuclear energy and health: and the benefits of low-dose radiation hormesis |journal=Dose Response |volume=7 |issue=1 |pages=52–89 |year=2009 |pmid=19343116 |pmc=2664640|doi=10.2203/dose-response.08-024.Cuttler}}</ref> While there is some variation, most people (99%) received less than 7 mSv per year as background radiation.<ref>{{cite book|last=Poston|first=edited by Michael T. Ryan, John W.|title=A half century of health physics|year=2005|publisher=Lippincott Williams & Wilkins|location=Baltimore, Md.|isbn=9780781769341|pages=164|url=http://books.google.ca/books?id=qCebxPjdSBUC&pg=PA164}}</ref> Medical imaging as of 2007 accounted for half of the radiation exposure of those in the United states with CT scans making up two thirds of this amount.<ref name=Furlow2010/> In the United Kingdom it accounts for 15% of radiation exposure.<ref name=Risk2011/> The average radiation dose from medical sources is ~0.6 mSv per person globally as of 2007.<ref name=Furlow2010/> Those in the nuclear industry in the United States are limited to doses of 50 mSv a year and 100 mSv every 5 years.<ref name=Furlow2010/> 
+
+===Radiation dose units===
+The radiation dose reported in the [[Gray (unit)|gray or mGy]] unit is proportional to the amount of energy that the irradiated body part is expected to absorb, and the physical effect (such as DNA [[double strand breaks]]) on the cells' chemical bonds by x-ray radiation is proportional to that energy.<ref>{{cite journal |author=Polo SE, Jackson SP |title=Dynamics of DNA damage response proteins at DNA breaks: a focus on protein modifications |journal=Genes Dev. |volume=25 |issue=5 |pages=409–33 |year=2011 |month=March |pmid=21363960 |pmc=3049283 |doi=10.1101/gad.2021311 |url=}}</ref>
+
+The [[sievert]] unit is used in the report of the [[effective dose]]. The sievert unit in the context of CT scans, does not correspond to the actual radiation dose that the scanned body part absorbs, but rather to another radiation dose of another scenario, in which the whole body absorbs the other radiation dose, and where the other radiation dose is of a magnitude that is estimated to have the same probability to induce cancer as the CT scan.<ref>[http://www.aapm.org/pubs/reports/RPT_96.pdf The Measurement, Reporting, and Management of Radiation Dose in CT] "It is a single dose parameter that reflects the risk of a nonuniform exposure in terms of an equivalent whole-body exposure."</ref> Thus, as is shown in the table above, the actual radiation that is absorbed by a scanned body part is often much larger than the effective dose disclose. 
+
+The [[equivalent dose]] is the effective dose of a case, in which the whole body would actually absorb the same radiation dose, and the sievert unit is used in its report. In the case of non-uniform radiation, or radiation given to only part of the body, which is common for CT examinations, using the local equivalent dose alone would overstate the biological risks to the entire organism.
+
+===Excess doses===
+In October, 2009, the US Food and Drug Administration (FDA) initiated an investigation of brain perfusion CT (PCT) scans, based on [[Acute radiation syndrome|overdose]]s of radiation caused by incorrect settings at one particular facility for this particular type of CT scan. Over 256 patients over an 18 month period where exposed, over 40% lost patches of hair, and prompted the editorial to call for increased CT quality assurance programs, while also noting that "while unnecessary radiation exposure should be avoided, a medically needed CT scan obtained with appropriate acquisition parameter has benefits that outweigh the radiation risks."<ref name=Furlow2010>{{cite journal|last=Furlow|first=B|title=Radiation dose in computed tomography.|journal=Radiologic technology|date=2010 May–Jun|volume=81|issue=5|pages=437–50|pmid=20445138|url=http://www.northernradiology.com/assets/Imaging%20Services/Images/furlow%20ct%20scan%20info.pdf}}</ref><ref>{{cite journal |author=Wintermark M, Lev MH|title=FDA investigates the safety of brain perfusion CT |journal=AJNR Am J Neuroradiol|volume=31|issue=1 |pages=2–3 |year=2010 |month=January|pmid=19892810 |doi=10.3174/ajnr.A1967|url=}}</ref> Similar problems have been reported at other centers.<ref name=Furlow2010/> These incidents are believed to be due to [[human error]].<ref name=Furlow2010/>
+
+===Campaigns===
+In response to increased concern by the public and the ongoing progress of best practices, The Alliance for Radiation Safety in Pediatric Imaging was formed within the [[Society for Pediatric Radiology]]. In concert with The [[American Society of Radiologic Technologists]], The [[American College of Radiology]] and The [[American Association of Physicists in Medicine]], the Society for Pediatric Radiology developed and launched the Image Gently Campaign which is designed to maintain high quality imaging studies while using the lowest doses and best radiation safety practices available on pediatric patients. <ref>http://www.pedrad.org/associations/5364/ig/?page=365</ref> This initiative has been endorsed and applied by a growing list of various Professional Medical organizations around the world and has received support and assistance from companies that manufacture equipment used in Radiology.
+
+Following upon the success of the Image Gently campaign, the American College of Radiology, the Radiological Society of North America, the American Association of Physicists in Medicine and the American Society of Radiologic Technologists have launched a similar campaign to address this issue in the adult population called Image Wisely. <ref>http://www.imagewisely.org/</ref> The [[World Health Organization]] and [[International Atomic Energy Agency]] (IAEA) of the United Nations have also been working in this area and have ongoing projects designed to broaden best practices and lower patient radiation dose. <ref>http://new.paho.org/hq10/index.php?option=com_content&task=view&id=3365&Itemid=2164</ref> <ref>https://rpop.iaea.org/RPOP/RPoP/Content/index.htm</ref> <ref>http://www.who.int/ionizing_radiation/about/GI_TM_Report_2008_Dec.pdf</ref>
+
+==Prevalence==
+Usage of CT has increased dramatically over the last two decades.<ref name=Smith2009/> An estimated 72 million scans were performed in the United States in 2007.<ref name=Berrington2009/> Of these, six to eleven percent are done in children,<ref name=Risk2011/> an increase of seven to eightfold from 1980.<ref name=Furlow2010/> Similar increases have been seen in Europe and Asia.<ref name=Furlow2010/>  In Calgary, Canada 12.1% of people who present to the emergency with an urgent complaint received a CT scan, most commonly either of the head or of the abdomen.  The percentage who received CT, however, varied markedly by the [[emergency physician]] who saw them from 1.8% to 25%.<ref>{{cite journal |author=Andrew Skelly |title=CT ordering all over the map |journal=The Medical Post |date=Aug 3 2010 |pmid= |doi= |url=}}</ref> In the emergency department in the United States, CT or MRI imaging is done in 15% of people who present with [[injuries]] as of 2007 (up from 6% in 1998).<ref>{{cite journal |author=Korley FK, Pham JC, Kirsch TD |title=Use of advanced radiology during visits to US emergency departments for injury-related conditions, 1998–2007 |journal=JAMA |volume=304 |issue=13 |pages=1465–71 |year=2010 |month=October |pmid=20924012 |doi=10.1001/jama.2010.1408 |url=}}</ref>
+
+The increased use of CT scans has been the greatest in two fields: screening of adults (screening CT of the lung in smokers, virtual colonoscopy, CT cardiac screening, and whole-body CT in asymptomatic patients) and CT imaging of children. Shortening of the scanning time to around 1 second, eliminating the strict need for the subject to remain still or be sedated, is one of the main reasons for the large increase in the pediatric population (especially for the diagnosis of [[appendicitis]]).<ref name="Brenner2007" /> As of 2007 in the United States a proportion of CT scans are performed unnecessarily.<ref name=Semelka2007>{{cite journal |author= Semelka, RC; Armao, DM; Elias, J, Jr.; Huda, W.|year= 2007 |month= May |title= Imaging strategies to reduce the risk of radiation in CT studies, including selective substitution with MRI.|journal= J Magn Reson Imaging |publisher=  |pmid= 17457809|volume= 25 |issue= 5 |pages= 900–9 |url=|doi=10.1002/jmri.20895}}</ref> Some estimates place this number at 30%.<ref name=Risk2011/> There are a number of reasons for this including: legal concerns, financial incentives, and desire by the public.<ref name=Semelka2007/> There is also otherwise healthy people receiving full body CT scans as screening for which there is no evidence to support.<ref name=Semelka2007/>
+
+==Process==
+[[File:CT Scan of Dale Mahalko's brain-skull.jpg|thumb|3D reconstruction of the brain and eyeballs from CT scanned DICOM images. In this image, areas with the density of bone or air were made transparent, and the slices stacked up in an approximate free-space alignment. The outer ring of material around the brain are the soft tissues of skin and muscle on the outside of the skull. A black box encloses the slices to provide the black background. Since these are simply 2D images stacked up, when viewed on edge the slices disappear since they have effectively zero thickness. Each DICOM scan represents about 5mm of material averaged into a thin slice.]]
+X-ray slice data is generated using an X-ray source that rotates around the object; X-ray sensors are positioned on the opposite side of the circle from the X-ray source. The earliest sensors were [[scintillation detector]]s, with [[photomultiplier tube]]s excited by (typically) [[cesium iodide]] crystals. Cesium iodide was replaced during the 1980s by [[ion chamber]]s containing high-pressure [[Xenon]] gas. These systems were in turn replaced by scintillation systems based on [[photodiode]]s instead of photomultipliers and modern scintillation materials with more desirable characteristics. Many data scans are progressively taken as the object is gradually passed through the gantry.
+
+Newer machines with faster computer systems and newer software strategies can process not only individual cross sections but continuously changing cross sections as the gantry, with the object to be imaged slowly and smoothly slid through the X-ray circle. These are called ''helical'' or [[Helical cone beam computed tomography|''spiral CT'']] machines. Their computer systems integrate the data of the moving individual slices to generate three dimensional volumetric information (3D-CT scan), in turn viewable from multiple different perspectives on attached CT workstation monitors. This type of data acquisition requires enormous processing power, as the data are arriving in a continuous stream and must be processed in real-time.
+
+In conventional CT machines, an [[X-ray tube]] and detector are physically rotated behind a circular shroud (see the image above right); in the [[electron beam tomography]] (EBT), the tube is far larger and higher power to support the high temporal resolution. The electron beam is deflected in a hollow funnel-shaped vacuum chamber. X-rays are generated when the beam hits the stationary target. The detector is also stationary. This arrangement can result in very fast scans, but is extremely expensive.
+
+[[Image:ct-internals.jpg|thumb|right|CT scanner with cover removed to show internal components. Legend:
+<br>T: X-ray tube
+<br>D: X-ray detectors
+<br>X: X-ray beam
+<br>R: Gantry rotation
+]]
+CT is used in [[medicine]] as a diagnostic tool and as a guide for interventional procedures. Sometimes contrast materials such as [[intravenous]] [[iodine|iodinated]] contrast are used. This is useful to highlight structures such as blood vessels that otherwise would be difficult to delineate from their surroundings. Using contrast material can also help to obtain functional information about tissues.
+
+Once the scan data has been acquired, the data must be processed using a form of [[tomographic reconstruction]], which produces a series of cross-sectional images. In terms of mathematics, the raw data acquired by the scanner consists of multiple "projections" of the object being scanned. These projections are effectively the [[Radon transformation]] of the structure of the object. Reconstruction, essentially involves solving the inverse Radon transformation. 
+
+The technique of [[filtered back projection]] is one of the most established algorithmic techniques for this problem. It is conceptually simple, tunable and [[Deterministic algorithm|deterministic]]. It is also computationally undemanding, with modern scanners requiring only a few milliseconds per image.
+However, this is not the only technique available: the original EMI scanner solved the tomographic reconstruction problem by [[linear algebra]], but this approach was limited by its high computational complexity, especially given the computer technology available at the time. More recently, manufacturers have developed [[iterative]] physical model-based [[maximum likelihood]] [[expectation maximization]] techniques. These techniques are advantageous because they use an internal model of the scanner's physical properties and of the physical laws of X-ray interactions. Earlier methods, such as filtered back projection, assume a perfect scanner and highly simplified physics, which leads to a number of artifacts, high noise and impaired image resolution. Iterative techniques provide images with improved resolution, reduced noise and fewer artifacts, as well as the ability to greatly reduce the radiation dose in certain circumstances. The disadvantage is a very high computational requirement, but advances in computer technology and [[high-performance computing]] techniques, such as use of highly parallel [[GPU]] algorithms, now allow practical use.
+
+[[Pixel]]s in an image obtained by CT scanning are displayed in terms of relative [[radiodensity]]. The pixel itself is displayed according to the mean [[Wiktionary:attenuation|attenuation]] of the tissue(s) that it corresponds to on a scale from +3071 (most attenuating) to −1024 (least attenuating) on the [[Hounsfield scale]]. [[Pixel]] is a two dimensional unit based on the matrix size and the field of view. When the CT slice thickness is also factored in, the unit is known as a [[Voxel]], which is a three-dimensional unit. The phenomenon that one part of the detector cannot differentiate between different tissues is called the ''"Partial Volume Effect"''. That means that a big amount of cartilage and a thin layer of compact bone can cause the same attenuation in a voxel as hyperdense cartilage alone. Water has an attenuation of 0 [[Hounsfield units]] (HU), while air is −1000&nbsp;HU, cancellous bone is typically +400&nbsp;HU, cranial bone can reach 2000&nbsp;HU or more (os temporale) and can cause artifacts. The attenuation of metallic implants depends on atomic number of the element used: Titanium usually has an amount of +1000&nbsp;HU, iron steel can completely extinguish the X-ray and is, therefore, responsible for well-known line-artifacts in computed tomograms. Artifacts are caused by abrupt transitions between low- and high-density materials, which results in data values that exceed the dynamic range of the processing electronics.
+
+[[Contrast medium]]s used for X-ray CT, as well as for [[radiography|plain film X-ray]], are called [[radiocontrast]]s. Radiocontrasts for X-ray CT are, in general, iodine-based.<ref>[http://www.uclh.nhs.uk/PandV/PIL/Patient%20information%20leaflets/Contrast%20Agents%20for%20Radiotherapy%20CT%20Planning%20Scan.pdf Contrast agent for radiotherapy CT (computed tomography) scans. Patient Information Series No. 11] at University College London Hospitals NHS Foundation Trust. Last reviewed: October 2009</ref> Often, images are taken both with and without radiocontrast. CT images are called ''precontrast'' or ''native-phase'' images before any radiocontrast has been administrated, and ''postcontrast'' after radiocontrast administration.<ref>{{cite doi|10.1080/028418500127345479}}</ref>
+
+Two-dimensional CT images are conventionally rendered so that the view is as though looking up at it from the patient's feet.<ref>[http://fitsweb.uchc.edu/ctanatomy/extrem/index.html Computerized Tomography chapter] at [[University of Connecticut Health Center]].</ref> Hence, the left side of the image is to the patient's right and vice versa, while anterior in the image also is the patient's anterior and vice versa. This left-right interchange corresponds to the view that physicians generally have in reality when positioned in front of patients.
+
+==Three-dimensional reconstruction==
+Because contemporary CT scanners offer [[isotropy|isotropic]] or near isotropic, resolution, display of images does not need to be restricted to the conventional axial images. Instead, it is possible for a software program to build a volume by "stacking" the individual slices one on top of the other. The program may then display the volume in an alternative manner.<ref name="ref3">
+Udupa, J.K. and Herman, G. T., ''3D Imaging in Medicine'', 2nd Edition, CRC Press, 2000
+</ref>
+
+===Multiplanar reconstruction===
+[[Image:Ct-workstation-neck.jpg|thumb|Typical screen layout for diagnostic software, showing one 3D and three MPR views]]
+[[Multiplanar reconstruction]] (MPR) is the simplest method of reconstruction. A volume is built by stacking the axial slices. The software then cuts slices through the volume in a different plane (usually orthogonal). As an option, a special projection method, such as [[maximum intensity projection|maximum-intensity projection]] (MIP) or minimum-intensity projection (mIP), can be used to build the reconstructed slices.
+
+MPR is frequently used for examining the spine. Axial images through the spine will only show one vertebral body at a time and cannot reliably show the intervertebral discs. By reformatting the volume, it becomes much easier to visualise the position of one vertebral body in relation to the others.
+
+Modern software allows reconstruction in non-orthogonal (oblique) planes so that the optimal plane can be chosen to display an anatomical structure. This may be particularly useful for visualising the structure of the bronchi as these do not lie orthogonal to the direction of the scan.
+
+For vascular imaging, curved-plane reconstruction can be performed. This allows bends in a vessel to be "straightened" so that the entire length can be visualised on one image, or a short series of images. Once a vessel has been "straightened" in this way, quantitative measurements of length and cross sectional area can be made, so that surgery or interventional treatment can be planned.
+
+MIP reconstructions enhance areas of high radiodensity, and so are useful for angiographic studies. MIP reconstructions tend to enhance air spaces so are useful for assessing lung structure.
+
+===3D rendering techniques===
+[[File:Synchrotron microtomography of Atelopus franciscus head - pone.0022080.s003.ogv|thumb|Surface rendering of the head of the frog ''[[Atelopus franciscus]]'', with ear parts highlighted.]]
+====Surface rendering====
+A threshold value of radiodensity is set by the operator (e.g., a level that corresponds to bone). From this, a three-dimensional model can be constructed using [[edge detection]] image processing algorithms and displayed on screen. Multiple models can be constructed from various thresholds, allowing different colors to represent each anatomical component such as bone, muscle, and cartilage. However, the interior structure of each element is not visible in this mode of operation.
+
+====Volume rendering====
+Surface rendering is limited in that it will display only surfaces that meet a threshold density, and will display only the surface that is closest to the imaginary viewer. In [[volume rendering]], transparency and colors are used to allow a better representation of the volume to be shown in a single image. For example, the bones of the pelvis could be displayed as semi-transparent, so that, even at an oblique angle, one part of the image does not conceal another.
+
+====Image segmentation====
+{{Main|Segmentation (image processing)}}
+Where different structures have similar radiodensity, it can become impossible to separate them simply by adjusting volume rendering parameters. The solution is called segmentation, a manual or automatic procedure that can remove the unwanted structures from the image.
+
+==Image quality==
+===Artifacts===
+Although CT is a relatively accurate test, it is liable to produce artifacts, such as the following: <ref name="ref1"/><sup>Chapters 3 and 5</sup>
+
+;Streak artifact: Streaks are often seen around materials that block most X-rays, such as metal or bone.  These streaks can be caused by undersampling, photon starvation, motion, beam hardening, or scatter.  This type of artifact commonly occurs in the posterior fossa of the brain, or if there are metal implants.  The streaks can be reduced using newer reconstruction techniques <ref>{{cite journal |author=Boas FE and Fleischmann D |title=Evaluation of Two Iterative Techniques for Reducing Metal Artifacts in Computed Tomography |journal=Radiology |volume=259 |issue=3  |pages=894–902 |year=2011 |month= |pmid=21357521 |doi=10.1148/radiol.11101782 |url=http://radiology.rsna.org/content/early/2011/02/17/radiol.11101782.abstract}}</ref> or approaches such as metal artifect reduction (MAR) <ref name="mouton13survey">{{cite journal| author=Mouton, A., Megherbi, N., Van Slambrouck, K., Nuyts, J., Breckon, T.P.| title=An Experimental Survey of Metal Artefact Reduction in Computed Tomography| journal=Journal of X-Ray Science and Technology| year=2013| accessdate=8 April, 2013}}</ref>.
+
+;Partial volume effect: This appears as "blurring" over sharp edges. It is due to the scanner being unable to differentiate between a small amount of high-density material (e.g., bone) and a larger amount of lower density  (e.g., cartilage). The processor tries to average out the two densities or structures, and information is lost. This can be partially overcome by scanning using thinner slices.
+
+;Ring artifact: Probably the most common mechanical artifact, the image of one or many "rings" appears within an image. This is usually due to a detector fault.
+
+;Noise artifact: This appears as graining on the image and is caused by a low signal to noise ratio. This occurs more commonly when a thin slice thickness is used. It can also occur when the power supplied to the X-ray tube is insufficient to penetrate the anatomy.
+
+;Motion artifact: This is seen as blurring and/or streaking, which is caused by movement of the object being imaged. Motion blurring might be reduced using a new technique called IFT (incompressible flow tomography).<ref>{{cite journal |author=J. Nemirovsky, A. Lifshitz, and I. Be’erya |title=Tomographic reconstruction of incompressible flow |journal=AIP Rev. Sci. Instrum. |volume=82 |issue=5  |pages= |year=2011 |month=5 |pmid= |doi=10.1063/1.3590934 |url=http://link.aip.org/link/doi/10.1063/1.3590934|bibcode = 2011RScI...82e5115N }}</ref>
+
+;Windmill: Streaking appearances can occur when the detectors intersect the reconstruction plane. This can be reduced with filters or a reduction in pitch.
+
+;Beam hardening: This can give a "cupped appearance". It occurs when there is more [[attenuation (electromagnetic radiation)|attenuation]] in the center of the object than around the edge. This is easily corrected by filtration and software. <ref>{{cite journal |author= Van de Casteele E and Van Dyck D and Sijbers J and Raman E |title=A model-based correction method for beam hardening artefacts in X-ray microtomography |journal=Journal of X-ray Science and Technology |volume=12 |issue=1  |pages=43-57 |year=2004|url=http://www.visielab.ua.ac.be/sites/default/files/jxst04.pdf}}</ref><ref>{{cite journal |author= Van Gompel G and Van Slambrouck K and Defrise M and Batenburg KJ and Sijbers J and Nuyts J |title=Iterative correction of beam hardening artifacts in CT |journal=Medical Physics |volume=38 |issue=1  |pages=36-49 |year=2011 |url=http://dx.doi.org/10.1118/1.3577758}}</ref>
+
+===Dose vs. image quality===
+<!-- {{Unreferenced section|date=September 2009}} -- seems to be using at least one reference, so commented out. --Lexein -->
+An important issue within radiology today is how to reduce the radiation dose during CT examinations without compromising the image quality. In general, higher radiation doses result in higher-resolution images, while lower doses lead to increased image noise and unsharp images. However, increased dosage raises increase the adverse side effects, including the risk of [[radiation induced cancer]] – a four-phase abdominal CT gives the same radiation dose as 300 chest x-rays (See the [[#Scan dose|Scan dose]] section). Several methods that can reduce the exposure to ionizing radiation during a CT scan exist. 
+
+# New software technology can significantly reduce the required radiation dose.
+# Individualize the examination and adjust the radiation dose to the body type and body organ examined. Different body types and organs require different amounts of radiation.
+# Prior to every CT examination, evaluate the appropriateness of the exam whether it is motivated or if another type of examination is more suitable. Higher resolution is not always suitable for any given scenario, such as detection of small pulmonary masses.<ref>Simpson, Graham (2009). [http://www.australianprescriber.com/upload/pdf/articles/1036.pdf "Thoracic computed tomography: principles and practice"] (PDF). ''Australian Prescriber'', 32:4. Retrieved September 25, 2009.</ref>
+
+==Industrial use==
+[[Industrial CT Scanning]] (industrial computed tomography) is a process which utilizes x-ray equipment to produce 3D representations of components both externally and internally. Industrial CT scanning has been utilized in many areas of industry for internal inspection of components. Some of the key uses for CT scanning have been flaw detection, failure analysis, metrology, assembly analysis, and reverse engineering applications. CT scanning is also employed in the imaging and conservation of museum artifacts.<ref>{{cite journal |url=http://dx.doi.org/10.5334/jcms.1021201 |journal=Journal of Conservation and Museum Studies |title=Imaging Techniques in Conservation |year=2012 |pages=17-29 |publisher=[[Ubiquity Press]] |author=Payne, Emma Marie |doi=10.5334/jcms.1021201|accessdate=17 March 2013}}</ref>
+
+==History==
+[[Image:RIMG0277.JPG|thumb|The prototype CT scanner]]
+[[Image:emi1010.jpg|thumb|A historic EMI-Scanner]]
+
+===Origins of tomography===
+In the early 1900s, the Italian radiologist Alessandro Vallebona proposed a method to represent a single slice of the body on the radiographic film. This method was known as [[tomography]]. The idea is based on simple principles of [[projective geometry]]: moving synchronously and in opposite directions the X-ray tube and the film, which are connected together by a rod whose pivot point is the focus; the image created by the points on the [[focal plane]] appears sharper, while the images of the other points annihilate as noise. This is only marginally effective, as blurring occurs in only the "x" plane. There are also more complex devices that can move in more than one plane and perform more effective blurring.
+
+===Mathematical theory===
+The mathematical theory behind the Tomographic reconstruction dates back to 1917 where the invention of [[Radon Transform]]<ref>{{cite journal | author = Radon J | year = 1917 | title = Uber die Bestimmung von Funktionen durch ihre Integralwerte Langs Gewisser Mannigfaltigkeiten (English translation: On the determination of functions from their integrals along certain manifolds) | url = | journal = Ber. Saechsische Akad. Wiss. | volume = 29 | issue = | page = 262 }}</ref><ref>Radon J., Translated by Parks PC., On the determination of functions from their integrals along certain manifolds. IEEE Trans. ''Med. Imaging.'' 1993;MI-5: 170–6.</ref> by an Austrian mathematician [[Johann Radon]]. He showed mathematically that a function could be reconstructed from an infinite set of its projections.<ref>Hornich H., Translated by Parks PC. A Tribute to Johann Radon. ''IEEE Trans. Med. Imaging.'' 1986;5(4) 169–9.</ref> In 1937, a Polish mathematician, named [[Stefan Kaczmarz]], developed a method to find an approximate solution to a large system of linear algebraic equations.<ref>{{cite journal | author = Kaczmarz S | year = 1937 | title = Angenäherte Auflösung von Systemen linearer Gleichungen | url = | journal = Bulletin International de l'Académie Polonaise des Sciences et des Lettres. Classe des Sciences Mathématiques et Naturelles. Série A, Sciences Mathématiques. | volume = 35 | issue = | pages = 355–7 }}</ref><ref>Kaczmarz S., "Approximate solution of system of linear equations. ''Int. J. Control.'' 1993; 57-9.</ref> This led the foundation to another powerful reconstruction method called "[[Algebraic Reconstruction Technique]] (ART)" which was later adapted by Sir [[Godfrey Hounsfield]] as the image reconstruction mechanism in his famous invention, the first commercial CT scanner.
+
+In 1956, [[Ronald N. Bracewell]] used a method similar to the Radon Transform to reconstruct a map of solar radiation from a set of solar radiation measurements.<ref>Bracewell RN., [Strip Integration in Radio Astronomyhttp://articles.adsabs.harvard.edu//full/1956AuJPh...9..198B/0000198.000.html]. ''Aust. J. Phys.'' 1956;9: 198–217.</ref> In 1959, [[William Oldendorf]], a UCLA neurologist and senior medical investigator at the West Los Angeles Veterans Administration hospital, conceived an idea for "scanning a head through a transmitted beam of X-rays, and being able to reconstruct the radiodensity patterns of a plane through the head" after watching an automated apparatus built to reject frostbitten fruit by detecting dehydrated portions. In 1961, he built a prototype in which an X-ray source and a mechanically coupled detector rotated around the object to be imaged. By reconstructing the image, this instrument could get an X-ray  picture of a nail surrounded by a circle of other nails, which made it impossible to X-ray from any single angle.<ref>Oldendorf WH. Isolated flying spot detection of radiodensity discontinuities – displaying the internal structural pattern of a complex object. Ire Trans Biomed Electron. 1961 Jan;BME-8:68–72.</ref> In his landmark paper published in 1961, he described the basic concept which was later used by [[Allan McLeod Cormack]] to develop the mathematics behind computerized tomography.
+
+In October 1963, Oldendorf received a U.S. patent for a "radiant energy apparatus for investigating selected areas of interior objects obscured by dense material." Oldendorf shared the 1975 Lasker award with Hounsfield for that discovery.<ref>{{cite journal | author = Oldendorf WH | year = 1978 | month = Jun | title = The quest for an image of brain: a brief historical and technical review of brain imaging techniques | url = | journal = Neurology | volume = 28 | issue = 6| pages = 517–33 }}</ref> The field of the mathematical methods of computerized tomography has seen a very active development since then, as is evident from overview literature<ref name="ref1"/><ref>F. Natterer, "The Mathematics of Computerized Tomography (Classics in Applied Mathematics)", Society for Industrial Mathematics, isbn= 0898714931</ref><ref>F. Natterer and F. Wübbeling "Mathematical Methods in Image Reconstruction (Monographs on Mathematical Modeling and Computation)", Society for Industrial (2001), isbn= 0898714729</ref> by [[Frank Natterer]] and [[Gabor Herman|Gabor T. Herman]], two of the pioneers in the this field.<ref>{{cite web| last1=Deuflhard|first1=P. |last2=Dössel |first2=O. |last3=Louis |first3=A. K. |last4=Zachow |first4=S. |title=More Mathematics into Medicine! |date=5 March 2009 |publisher=[[Zuse Institute Berlin]] |url=http://www.zib.de/deuflhard/pub/MehrMath_en.pdf|page=2}}</ref>
+
+Tomography has been one of the pillars of radiologic diagnostics until the late 1970s, when the availability of minicomputers and of the transverse axial scanning method gradually supplanted it as the modality of CT. Transverse axial scanning was due in large part to the work of Godfrey Hounsfield and South African-born Allan McLeod Cormack. In terms of mathematics, the method is based upon the use of the Radon Transform. But as Cormack remembered later,<ref>Allen M.Cormack: ''My Connection with the Radon Transform'', in: 75 Years of Radon Transform, S. Gindikin and P. Michor, eds., International Press Incorporated (1994), pp. 32–35, ISBN 1-57146-008-X</ref> he had to find the solution himself since it was only in 1972 that he learned of the work of Radon, by chance.
+
+===Commercial scanners===
+The first commercially viable CT scanner was invented by Sir [[Godfrey Hounsfield]] in [[Hayes, Hillingdon|Hayes]], [[United Kingdom]], at [[EMI]] Central Research Laboratories using X-rays. Hounsfield conceived his idea in 1967.<ref>{{cite journal  | last = Richmond  | first = Caroline
+  | authorlink =   | coauthors =   | title = Obituary – Sir Godfrey Hounsfield
+  | journal = BMJ  | volume = 2004:329:687  | issue = 18 September 2004
+  | pages =   | publisher = BMJ Group  | location = London, UK
+  | date = September 18, 2004
+  | url = http://www.bmj.com/cgi/content/full/329/7467/687
+  | doi =   | id =   | accessdate = September 12, 2008 }}</ref> The first EMI-Scanner was installed in [[Atkinson Morley Hospital]] in [[Wimbledon, London|Wimbledon]], England, and the first patient brain-scan was done on 1 October 1971.<ref name="bjrecb0106">[http://bjr.birjournals.org/cgi/reprint/79/937/5.pdf]{{cite journal|last=BECKMANN|first=E. C.|title=CT scanning the early days|journal=TheBritish Journal of Radiology|year=2006|month=January|volume=79|pages=5–8|doi=10.1259/bjr/29444122|pmid=16421398|issue=937}}</ref> It was publicly announced in 1972.
+
+The original 1971 prototype took 160 parallel readings through 180 angles, each 1° apart, with each scan taking a little over 5 minutes. The images from these scans took 2.5 hours to be processed by [[algebraic reconstruction technique]]s on a large computer. The scanner had a single photomultiplier detector, and operated on the Translate/Rotate principle.<ref name="bjrecb0106"/>
+
+The success of [[The Beatles]] enabled EMI to fund research and build early models for medical use.<ref>{{cite web|url=http://www.whittington.nhs.uk/default.asp?c=2804&t=1|title=The Beatles greatest gift... is to science|accessdate=2007-05-07|publisher=Whittington Hospital NHS Trust}}</ref> The first production X-ray CT machine (in fact called the "EMI-Scanner") was limited to making tomographic sections of the brain, but acquired the image data in about 4 minutes (scanning two adjacent slices), and the computation time (using a [[Data General Nova]] minicomputer) was about 7 minutes per picture. This scanner required the use of a water-filled [[Perspex]] tank with a pre-shaped rubber "head-cap" at the front, which enclosed the patient's head. The water-tank was used to reduce the dynamic range of the radiation reaching the detectors (between scanning outside the head compared with scanning through the bone of the skull). The images were relatively low resolution, being composed of a matrix of only 80 x 80 pixels.
+
+In the U.S., the first installation was at the [[Mayo Clinic]]. As a tribute to the impact of this system on medical imaging the Mayo Clinic has an EMI scanner on display in the Radiology Department. Allan McLeod Cormack of [[Tufts University]] in [[Massachusetts]] independently invented a similar process, and both Hounsfield and Cormack shared the 1979 [[Nobel Prize in Physiology or Medicine|Nobel Prize in Medicine]].<ref>["The Nobel Prize in Physiology or Medicine 1979". Nobelprize.org. 5 Nov 2010 http://nobelprize.org/nobel_prizes/medicine/laureates/1979/]</ref><ref name=Filler2009>Filler, AG (2009)  The history, development, and impact of computed imaging in neurological diagnosis and neurosurgery: CT, MRI, DTI: [http://precedings.nature.com/documents/3267/version/5 Nature Precedings ]{{doi|10.1038/npre.2009.3267.5}}.</ref>
+
+The first CT system that could make images of any part of the body and did not require the "water tank" was the ACTA (Automatic Computerized Transverse Axial) scanner designed by [[Robert Ledley|Robert S. Ledley, DDS]], at [[Georgetown University]]. This machine had 30 photomultiplier tubes as detectors and completed a scan in only 9 translate/rotate cycles, much faster than the EMI-scanner. It used a [[Digital Equipment Corporation|DEC]] [[PDP-11|PDP11/34]] minicomputer both to operate the servo-mechanisms and to acquire and process the images. The [[Pfizer]] drug company acquired the prototype from the university, along with rights to manufacture it. Pfizer then began making copies of the prototype, calling it the "200FS" (FS meaning Fast Scan), which were selling as fast as they could make them. This unit produced images in a 256×256 matrix, with much better definition than the EMI-Scanner's 80×80.
+
+Since the first CT scanner, CT technology has vastly improved.  Improvements in speed, slice count, and image quality have been the major focus primarily for cardiac imaging. Scanners now produce images much faster and with higher resolution enabling doctors to diagnose patients more accurately and perform medical procedures with greater precision. In the late 90's CT scanners broke into two major groups, "Fixed CT" and "Portable CT". "Fixed CT Scanners" are large, require a dedicated power supply, electrical closet, HVAC system, a separate workstation room, and a large lead lined room. "Fixed CT Scanners" can also be mounted inside large tractor trailers and driven from site to site and are known as "Mobile CT Scanners". "Portable CT Scanners" are light weight, small, and mounted on wheels. These scanners often have built-in lead shielding and run off of batteries or standard wall power.
+
+===Etymology===
+The word "tomography" is derived from the [[Greek language|Greek]] ''tomos'' (slice) and ''graphein'' (to write). Computed tomography was originally known as the "EMI scan" as it was developed in the early 1970s at a research branch of [[EMI]], a company best known today for its music and recording business. It was later known as ''computed axial tomography (CAT or CT scan)'' and ''body section röntgenography''.
+
+Although the term "computed tomography" could be used to describe [[positron emission tomography]] or [[single photon emission computed tomography]] (SPECT), in practice it usually refers to the computation of tomography from X-ray images, especially in older medical literature and smaller medical facilities.
+
+In [[Medical Subject Headings|MeSH]], "computed axial tomography" was used from 1977 to 1979, but the current indexing explicitly includes "X-ray" in the title.<ref>{{MeshName|Tomography,+X-Ray+Computed}}</ref>
+
+==Types of machines==
+
+Spinning tube, commonly called [[Spiral computed tomography|spiral CT]], or helical CT in which an entire [[X-ray tube]] is spun around the central axis of the area being scanned. These are the dominant type of scanners on the market because they have been manufactured longer and offer lower cost of production and purchase. The main limitation of this type is the bulk and inertia of the equipment (X-ray tube assembly and detector array on the opposite side of the circle) which limits the speed at which the equipment can spin.
+
+[[Electron beam tomography]] is a specific form of CT in which a large enough X-ray tube is constructed so that only the path of the electrons, traveling between the cathode and anode of the X-ray tube, are spun using deflection coils. This type has a major advantage since sweep speeds can be much faster, allowing for less blurry imaging of moving structures, such as the heart and arteries. However, far fewer CTs of this design have been produced, mainly due to the higher cost associated with building a much larger X-ray tube and detector array.
+
+===Previous studies===
+[[Pneumoencephalography]] Study for brain was quickly replaced by CT. A form of tomography can be performed by moving the X-ray source and detector during an exposure. Anatomy at the target level remains sharp, while structures at different levels are blurred. By varying the extent and path of motion, a variety of effects can be obtained, with variable [[depth of field]] and different degrees of blurring of "out of plane" structures.<ref name="squires">Novelline, Robert. ''Squire's Fundamentals of Radiology''. Harvard University Press. 5th edition. 1997. ISBN 0-674-83339-2.</ref>{{Rp|25}}
+Although largely obsolete, conventional tomography is still used in specific situations such as dental imaging ([[orthopantomography]]) or in [[intravenous urography]].
+
+==See also==
+
+* [[Tomosynthesis]]
+* [[Virtopsy]]
+* [[Xenon-enhanced CT scanning]]
+*[[X-ray microtomography]]
+*[[MRI#MRI_versus_CT|MRI versus CT]]
+*[[Ionizing_radiation#Biological_effects|Biological effects of ionizing radiation]]
+*[[Dosimetry]]
+*[[Barium sulfate suspension]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Commons category|Computed tomography}}
+*[http://www.pedrad.org/associations/5364/ig/] Image Gently Website
+*[http://www.imagewisely.org/] Image Wisely Website
+*[http://www.radiologyinfo.org/en/safety/index.cfm?pg=sfty_xray Radiation Exposure in X-ray and CT Examinations] from the American College of Radiology and the Radiologic Society of North America
+*[http://www.ctisus.com CT is us] CT scanning protocols, teaching files, and lectures on hot topics.
+*[http://www.jplabs.com/html/units_of_radiation.HTM Units of radiation] – Conversion between different units of radiation exposure
+*[http://www.impactscan.org/slides/impactcourse/artefacts/img0.html CT Artefacts] by David Platten
+*[http://www.xrayrisk.com Radiation Risk Calculator] Calculate cancer risk from CT scans and xrays.
+*[http://www.rosiescancerfund.com/videos/view/rosies-ct-scan_67.html Video documentary of patient getting a CT Scan]
+*[http://instrumentalinsight.com/process.html The process of CT scanning a historical instrument]
+
+{{Medical imaging}}
+
+{{DEFAULTSORT:Computed Tomography}}
+[[Category:X-ray computed tomography| ]]
+[[Category:1972 introductions]]

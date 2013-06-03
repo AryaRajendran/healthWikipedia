@@ -1,0 +1,86 @@
+{{PBB|geneid=3949}}
+
+The '''Low-Density Lipoprotein (LDL) Receptor''' is a mosaic protein of ~840 amino acids (after removal of signal peptide) that mediates the [[endocytosis]] of cholesterol-rich [[LDL]]. It is a cell-surface receptor that recognizes the [[Apolipoprotein|apoprotein]] B100 which is embedded in the phospholipid outer layer of LDL particles. The receptor also recognizes the apoE protein found in chylomicron remnants and VLDL remnants (IDL).  In humans, the LDL receptor protein<ref name="pmid6091915">{{cite journal | author = Yamamoto T, Davis CG, Brown MS, Schneider WJ, Casey ML, Goldstein JL, Russell DW | title = The human LDL receptor: a cysteine-rich protein with multiple Alu sequences in its mRNA | journal = Cell | volume = 39 | issue = 1 | pages = 27–38 | year = 1984 | month = November | pmid = 6091915 | doi = 10.1016/0092-8674(84)90188-0| url = | issn = }}</ref> is encoded by the ''LDLR'' [[gene]].<ref name="pmid6326146">{{cite journal | author = Francke U, Brown MS, Goldstein JL | title = Assignment of the human gene for the low density lipoprotein receptor to chromosome 19: synteny of a receptor, a ligand, and a genetic disease | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 81 | issue = 9 | pages = 2826–30 | year = 1984 | month = May | pmid = 6326146 | pmc = 345163 | doi = 10.1073/pnas.81.9.2826| url = | issn = }}</ref><ref name="pmid3866240">{{cite journal | author = Lindgren V, Luskey KL, Russell DW, Francke U | title = Human genes involved in cholesterol metabolism: chromosomal mapping of the loci for the low density lipoprotein receptor and 3-hydroxy-3-methylglutaryl-coenzyme A reductase with cDNA probes | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 82 | issue = 24 | pages = 8567–71 | year = 1985 | month = December | pmid = 3866240 | pmc = 390958 | doi = 10.1073/pnas.82.24.8567| url = | issn = }}</ref> It belongs to the [[Low density lipoprotein receptor gene family]].<ref name="pmid12074887">{{cite journal | author = Nykjaer A, Willnow TE | title = The low-density lipoprotein receptor gene family: a cellular Swiss army knife? | journal = Trends Cell Biol. | volume = 12 | issue = 6 | pages = 273–80 | year = 2002 | month = June | pmid = 12074887 | url = http://linkinghub.elsevier.com/retrieve/pii/S0962892402022821 | doi = 10.1016/S0962-8924(02)02282-1 }}</ref>
+
+[[Michael S. Brown|Brown]] and [[Joseph L. Goldstein|Goldstein]] won a Nobel Prize for their identification of the Low Density Lipoprotein (LDL) receptor in 1985<ref>{{ cite press release | url = http://nobelprize.org/nobel_prizes/medicine/laureates/1985/press.html | title = The Nobel Prize in Physiology or Medicine 1985 | publisher = The Royal Swedish Academy of Science | year = 1985 | accessdate = 2010-07-01}}</ref> while they were studying [[familial hypercholesterolemia]].<ref name="Brown_Goldstein_1984">{{cite journal | author = Brown MS, Goldstein JL | title = How LDL Receptors Influence Cholesterol and Atherosclerosis | journal = Scientific American | year = 1984 | volume = 251 | pages = 52–60 | pmid=6390676 | doi=10.1038/scientificamerican0984-52 | issue=3}}</ref>
+
+==Clinical significance==
+
+LDL is directly involved in the development of [[atherosclerosis]], due to accumulation of [[LDL-cholesterol]] in the blood. Atherosclerosis is the process responsible for the majority of [[cardiovascular diseases]].
+
+== Function ==
+
+LDL receptor complexes are present in [[clathrin]]-coated pits (or buds) on the cell surface, which when bound to LDL-cholesterol via adaptin, are pinched off to form clathrin-coated vesicles inside the cell. This allows LDL-cholesterol to be bound and internalized in a process known as [[endocytosis]] and prevents the LDL just diffusing around the membrane surface. This occurs in all nucleated cells (not [[erythrocytes]]), but mainly in the liver which removes ~70% of LDL from the circulation. 
+
+Once the coated vesicle is internalized it will shed its clathrin coat and will fuse with an acidic late endosome. The change in pH causes a conformational change in the receptor that releases the bound LDL particle. The receptors are then either destroyed or they can be recycled via the [[endocytic cycle]] back to the surface of the cell where the neutral pH will cause the receptor to revert to its native conformation ready to receive another LDL particle.
+
+Synthesis of receptors in the cell is regulated by the level of free intracellular cholesterol; if it is in excess for the needs of the cell then the transcription of the receptor gene will be inhibited. LDL receptors are translated by ribosomes on the [[endoplasmic reticulum]] and are modified by the [[Golgi apparatus]] before travelling in vesicles to the cell surface.
+
+==Interactive pathway map==
+{{StatinPathway_WP430|highlight=LDL_receptor}}
+
+== Structure ==
+=== Gene ===
+
+The [[gene]] coding the LDL receptor is split into 18 [[exons]]. Exon 1 contains a signal sequence that localises the receptor to the [[endoplasmic reticulum]] for transport to the cell surface. Beyond this, exons 2-6 code the ligand binding region; 7-14 code the EGFP domain; 15 codes the oligosaccharide rich region; 16 (and some of 17) code the membrane spanning region; and 18 (with the rest of 17) code the cytosolic domain.
+The LDL receptor can be described as a chimeric [[protein]]. It is made up of a number of functionally distinct [[protein domain|domains]] that can function independently of each other.
+
+=== Protein ===
+
+The [[N-terminus]] of the LDL receptor contains a '''class A domain''' that is composed of seven sequence repeats (~50% identical) each ~40 amino acids long, with 6 [[cysteine]] residues. These ligand binding (LB) regions fold autonomously when synthesised as individual peptides. The cysteine residues form [[disulfide bonds]] forming an octahedral lattice, coordinated to a calcium ion, in each repeat. The exact mechanism of interaction between the LB repeats and [[ligand]] (LDL) is unknown, but it is thought that the repeats act as "grabbers" to hold the LDL. Binding of ApoB requires repeats 2-7 while binding ApoE requires only repeat 5 (thought to be the ancestral repeat).
+
+Next to the ligand binding domain is an [[epidermal growth factor]] (EGF) precursor homology domain (EGFP domain). This shows approximately 30% homology with the EGF precursor gene. There are three "growth factor" repeats; A, B and C. A and B are closely linked while C is separated by a beta-propeller motif (LDL-R '''class B domain'''). The EGFP domain has been implicated in release of ligands bound to the receptor. It is thought that a conformational change occurs in the acidic (pH5.0) conditions of the endosome bringing the beta-propeller into contact with ligand-binding repeats 4 and 5.
+
+A third domain of the protein is rich in O-linked [[oligosaccharides]] but appears to show little function. Knockout experiments have confirmed that no significant loss of activity occurs without this domain. It has been speculated that the domain may have ancestrally acted as a spacer to push the receptor beyond the [[extracellular matrix]].
+
+A membrane spanning domain containing a chain of hydrophobic [[amino acid]] residues crosses the [[plasma membrane]] of the cell. Inside the cell the C-terminus domain contains a signal sequence that is needed for receptor internalization.
+
+== Mutations  ==
+
+There are 5 broad classes of [[mutation]] of the LDL receptor.
+
+* '''Class 1''' mutations affect the synthesis of the receptor in the endoplasmic reticulum (ER).
+* '''Class 2''' mutations prevent proper transport to the [[Golgi body]] needed for modifications to the receptor.
+**e.g. a truncation of the receptor protein at residue number 660 leads to domains 3,4 and 5 of the EGF precursor domain being missing. This precludes the movement of the receptor from the ER to the Golgi, and leads to degradation of the receptor protein.
+* '''Class 3''' mutations stop the binding of LDL to the receptor.
+**e.g. repeat 6 of the ligand binding domain (N-terminal, extracellular fluid) is deleted.
+* '''Class 4''' mutations inhibit the internalisation of the receptor-ligand complex.
+**e.g. "JD" mutant results from a single point mutation in the NPVY domain (C-terminal, cytosolic; Y residue converted to a C, residue number 807). This domain recruits clathrin and other proteins responsible for the endocytosis of LDL, therefore this mutation inhibits LDL internalization.
+* '''Class 5''' mutations give rise to receptors that cannot recycle properly. This leads to a relatively mild [[phenotype]] as receptors are still present on the cell surface (but all must be newly synthesised).
+
+For a comprehensive list of LDLR variants go to www.ucl.ac.uk/fh
+Locus specific databases for PCSK9 and LDLRAP1 can also be found via this site.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin | 2}}
+{{PBB_Further_reading 
+| citations = 
+*{{cite journal  | author=Brown MS, Goldstein JL |title=Receptor-mediated endocytosis: insights from the lipoprotein receptor system. |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=76 |issue= 7 |pages= 3330–7 |year= 1979 |pmid= 226968 |doi=10.1073/pnas.76.7.3330  | pmc=383819  }}
+*{{cite journal  | author=Hobbs HH, Brown MS, Goldstein JL |title=Molecular genetics of the LDL receptor gene in familial hypercholesterolemia. |journal=Hum. Mutat. |volume=1 |issue= 6 |pages= 445–66 |year= 1993 |pmid= 1301956 |doi= 10.1002/humu.1380010602 }}
+*{{cite journal  | author=Fogelman AM, Van Lenten BJ, Warden C, ''et al.'' |title=Macrophage lipoprotein receptors. |journal=J. Cell Sci. Suppl. |volume=9 |issue=  |pages= 135–49 |year= 1989 |pmid= 2855802 |doi=  }}
+*{{cite journal  | author=Barrett PH, Watts GF |title=Shifting the LDL-receptor paradigm in familial hypercholesterolemia: novel insights from recent kinetic studies of apolipoprotein B-100 metabolism. |journal=Atherosclerosis. Supplements |volume=2 |issue= 3 |pages= 1–4 |year= 2002 |pmid= 11923121 |doi=10.1016/S1567-5688(01)00012-5  }}
+*{{cite journal  | author=May P, Bock HH, Herz J |title=Integration of endocytosis and signal transduction by lipoprotein receptors. |journal=Sci. STKE |volume=2003 |issue= 176 |pages= PE12 |year= 2003 |pmid= 12671190 |doi= 10.1126/stke.2003.176.pe12 }}
+*{{cite journal  | author=Gent J, Braakman I |title=Low-density lipoprotein receptor structure and folding. |journal=Cell. Mol. Life Sci. |volume=61 |issue= 19-20 |pages= 2461–70 |year= 2004 |pmid= 15526154 |doi= 10.1007/s00018-004-4090-3 }}
+}}
+{{refend}}
+
+==External links==
+* [http://www.utsouthwestern.edu/utsw/cda/dept14857/files/114532.html Description of LDL receptor pathway at the Brown - Goldstein Laboratory webpage]
+* {{MeshName|LDL+Receptor}}
+
+{{PDB Gallery|geneid=3949}}
+{{Lipoprotein metabolism}}
+
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB_Controls
+| update_page = yes 
+| require_manual_inspection = no 
+| update_protein_box = yes
+| update_summary = no
+| update_citations = yes
+}}
+
+[[Category:Low density lipoprotein receptor gene family]]

@@ -1,0 +1,95 @@
+{{Blood gas, acid-base, & gas exchange terms}}
+{{mergefrom|Deadspace (in breathing apparatus)|discuss=Talk:Dead space (physiology)#Merger proposal|date=November 2010}}
+In [[physiology]], '''dead space''' is the volume of air which is inhaled that does not take part in the gas exchange, either because it (1) remains in the conducting airways, or (2) reaches alveoli that are [[Ventilation/perfusion ratio|not perfused or poorly perfused]]. In other words, not all the air in each breath is available for the exchange of [[oxygen]] and [[carbon dioxide]].
+
+Benefits do accrue to a seemingly wasteful design for ventilation that includes dead space.<ref name=WestPhysiology>{{cite book|last=West|first=John B.|title=Respiratory physiology : the essentials|year=2011|publisher=Wolters Kluwer Health/Lippincott Williams & Wilkins|location=Philadelphia|isbn=978-1-60913-640-6|edition=9th ed.}}</ref>{{citation needed|date=October 2012}}<!-- What benefit? -->  [[Fish]] waste none of their ventilation because they exchange gases from a continuous unidirectional stream of water that crosses their gills.  Mammals [[breath]]e in and out of their lungs, wasting that part of the inspiration which remains in the conducting airways where no gas exchange can occur.<ref name = wasted>[http://www.ccmtutorials.com/rs/mv/strategy/page16.htm Wasted Ventilation<!-- Bot generated title -->]</ref>
+
+#Carbon dioxide is retained, making a [[Acid–base homeostasis|bicarbonate-buffered]] blood and interstitium possible.
+#Inspired air is brought to body temperature, increasing the affinity of [[hemoglobin]] for [[oxygen]], improving O<sub>2</sub> uptake.<ref name=Williams1996>
+{{cite journal|last=Williams|first=R|coauthors=Rankin, N; Smith, T; Galler, D; Seakins, P|title=Relationship between the humidity and temperature of inspired gas and the function of the airway mucosa.|journal=Critical Care Medicine|date=1996 Nov|volume=24|issue=11|pages=1920–9|pmid=8917046}}
+</ref>
+#Particulate matter is trapped on the mucus that lines the conducting airways, allowing its removal by [[Mucociliary clearance|mucociliary transport]].
+#Inspired air is humidified, improving the quality of airway mucus.<ref name=Williams1996 />
+
+About a third of every resting breath has no change in O<sub>2</sub> and CO<sub>2</sub> levels. In adults, it is usually in the range of 150 mL.<ref name = wasted />
+
+Dead space can be increased (and better envisioned) by breathing through a long tube, such as a [[Snorkel (swimming)|snorkel]]. Even though one end of the snorkel is open to the air, when the wearer breathes in, they inhale a large quantity of carbon dioxide that remained in the snorkel from the previous exhalation. Thus, a snorkel increases the person's dead space by adding even more "airway" that doesn't participate in gas exchange.
+
+==Components==
+
+The ''total'' dead space (also known as '''physiological dead space''') is the sum of the anatomical dead space plus the alveolar dead space.
+
+===Anatomic dead space===
+Anatomical dead space is that portion of the airways (such as the [[mouth]] and [[Vertebrate trachea|trachea]]) which conducts gas to the [[alveoli]]. No gas exchange is possible in these spaces. In healthy lungs where the alveolar dead space is small, [[Fowler's method]] accurately measures the anatomic dead space by a [[nitrogen]] washout technique.
+<ref name=fowler1948>{{cite journal | author = Fowler W.S. | year = 1948 | title = Lung Function studies. II. The respiratory dead space | url = | journal = Am. J. Physiol | volume = 154 | issue = | pages = 405–416 }}</ref><ref>{{cite journal | author = Heller H, Könen-Bergmann M, Schuster K | title = An algebraic solution to dead space determination according to Fowler's graphical method | journal = Comput Biomed Res | volume = 32 | issue = 2 | pages = 161–7 | year = 1999 | pmid = 10337497 | doi = 10.1006/cbmr.1998.1504}}</ref>
+
+The normal value for dead space volume (in ml) is approximately the lean mass of the body (in pounds), and averages about a third of the resting [[tidal volume]] (450-500 mL). In Fowler's original study, the anatomic dead space was 156 ± 28 ml (n=45 males) or 26% of their tidal volume.<ref name=fowler1948 /> Despite the flexibility of the trachea and smaller conducting airways, their overall volume (i.e. the anatomic dead space) changes little with bronchoconstriction or when breathing hard during exercise.<ref name=fowler1948 /><ref>{{cite journal|last=Burke|first=TV|coauthors=Küng, M; Burki, NK|title=Pulmonary gas exchange during histamine-induced bronchoconstriction in asthmatic subjects.|journal=Chest|year=1989|volume=96|issue=4|pages=752–6|pmid=2791669|url=http://chestjournal.chestpubs.org/content/96/4/752.long}}</ref> 
+
+Birds have a disproportionately large anatomic dead space (they have a longer and wider trachea than mammals the same size), reducing the airway resistance.  This adaptation does not impact gas exchange because birds flow air through their lungs - they do not breathe in and out like mammals.<ref>{{cite journal|last=West|first=JB|title=Comparative physiology of the pulmonary blood-gas barrier: the unique avian solution.|journal=American journal of physiology. Regulatory, integrative and comparative physiology|year=2009|volume=297|issue=6|pages=R1625-34|pmid=19793953|pmc=2803621|doi=10.1152/ajpregu.00459.2009}}</ref>
+
+===Alveolar dead space===
+Alveolar dead space is sum of the volumes of those alveoli which have little or no blood flowing through their adjacent pulmonary [[capillaries]], i.e., alveoli that are ventilated but not perfused, and where, as a result, no gas exchange can occur.<ref name=WestPhysiology /> Alveolar dead space is negligible in healthy individuals, but can increase dramatically in some [[lung disease]]s due to [[ventilation-perfusion mismatch]].
+
+==Calculating the dead space==
+
+Just as dead space ''wastes'' a fraction of the inhaled breath, dead space ''dilutes'' alveolar air during exhalation. By quantifying this dilution it is possible to measure anatomical and alveolar dead space, employing the concept of '''[[mass balance]]''', as expressed by [[Bohr equation]].<ref name=Bohr>
+Bohr, C. (1891). Über die Lungenathmung. Skand. Arch. Physiol. 2: 236-268.
+</ref><ref>{{cite journal | author = Klocke R | title = Dead space: simplicity to complexity | journal = J Appl Physiol | volume = 100 | issue = 1 | pages = 1–2 | year = 2006 | pmid = 16357075 | doi = 10.1152/classicessays.00037.2005}} [http://jap.physiology.org/cgi/content/full/100/1/1#R2 article]</ref>  
+::<math>\frac{V_{\,d}}{V_{\,t}} = \frac {P_{\,a\,CO_2} - P_{\,e\,CO_2}}  {P_{\,a\,CO_2}}</math>
+:where <math>V_{\,d}</math> is the dead space volume and <math>V_{\,t}</math> is the tidal volume;
+::<math>P_{\,a\,CO_2}</math> is the partial pressure of carbon dioxide in the arterial blood, and 
+::<math>P_{\,e\,CO_2}</math>  is the partial pressure of carbon dioxide in the expired (exhaled) air.
+
+===Physiologic dead space===
+
+The concentration of carbon dioxide (CO<sub>2</sub>) in healthy alveoli is known - it is equal to its concentration in blood since CO<sub>2</sub> rapidly equilibrates across the alveolar-capillary membrane. The quantity of CO<sub>2</sub> exhaled from the healthy alveoli will be diluted by the air in the conducting airways, and by air from alveoli that are poorly perfused. This dilution factor can be calculated once the CO<sub>2</sub> in the exhaled breath is determined (either by electronically monitoring the exhaled breath or by collecting the exhaled breath in a gas impermeant bag - a Douglas bag - and then measuring the mixed gas in the collection bag). Algebraically, this dilution factor will give us the '''physiologic dead space''' as calculated by the Bohr equation: 
+
+:<math>\frac{V_{\,physiologic\,dead\,space}}{V_t} = \frac {P_{\,a\,CO_2} - P_{\,mixed\,expired\,CO_2}}  {P_{\,a\,CO_2}}</math>
+
+===Alveolar dead space===
+
+When the poorly perfused alveoli empty at the same rate as the normal alveoli, it is possible to measure the '''alveolar dead space'''.  In this case, the end-tidal sample of gas (measured by [[capnography]]) contains CO<sub>2</sub> at a concentration that is less than that found in the normal alveoli (i.e. in the blood):<ref>{{cite journal|last=Severinghaus|first=JW|coauthors=Stupfel, MA; Bradley, AF|title=Alveolar dead space and arterial to end-tidal carbon dioxide differences during hypothermia in dog and man.|journal=J Appl Physiol|date=1957 May|volume=10|issue=3|pages=349–55|pmid=13438782|url=http://jap.physiology.org/content/10/3/349.long}}</ref> 
+:<math>\frac{V_{\,alveolar\,dead\,space}}{V_t} = \frac {P_{\,a\,CO_2} - P_{\,end\ tidal\,CO_2}}  {P_{\,a\,CO_2}}</math>
+
+::'''Caution:''' The end tidal CO2 concentration may not be a well defined number.
+::#Poorly ventilated alveoli do not generally empty at the same rate as healthy alveoli.  Particularly in emphysematous lungs, diseased alveoli empty slowly, and so the CO<sub>2</sub> concentration of the exhaled air increases progressively throughout the expiration.<ref name=WestPhysiology />
+::#Monitoring alveolar dead space during a surgical operation ''is'' a sensitive and important tool in monitoring airway function.<ref>{{cite book|last=Gravenstein|first=J.S. (ed.), Jaffe, M.B. (ed.), Gravenstein, N. (ed.), Paulus, D.A. (ed) |title=Capnography.|year=2010|publisher=Cambridge University Press|location=Cambridge|isbn=978-0521514781|edition=2nd}}</ref> 
+::#During strenuous exercise, CO<sub>2</sub> will rise throughout the exhalation and may not be easily matched to a blood gas determination, which led to serious errors of interpretation early in the history of dead space determinations.<ref name=Bohr />
+::'''Example''': For a tidal volume of 500 mL, an arterial carbon dioxide of 42 mmHg, and an end-expired carbon dioxide of 40 mmHg:
+:::<math>\frac{V_{\,alveolar\,dead\,space}}{500\ ml} = \frac {42\ mmHg - 40\ mmHg}  {42\ mmHg}</math>
+:::and so <math> V_{\,alveolar\,dead\,space}= 24\ ml.</math>
+
+===Anatomic dead space===
+
+A different maneuver is employed in measuring anatomic dead space: the test subject breathes all the way out, inhales deeply from a 0% nitrogen gas mixture (usually 100% oxygen) and then breathes out into equipment that measures nitrogen and gas volume.  This final exhalation occurs in three phases.  The first phase has no nitrogen, and is the air that entered the lung only as far as the conducting airways. The nitrogen concentration then rapidly increases during the brief second phase and finally reaches a plateau, the third phase. The '''anatomic dead space''' is equal to the volume exhaled during the first phase plus half that exhaled during the second phase. (The Bohr equation is used to justify the inclusion of half the second phase in this calculation.)<ref name=fowler1948 />
+
+==Dead space and the ventilated patient==
+
+The depth and frequency of our breathing is determined by chemoreceptors and the brainstem, as modified by a number of subjective sensations.  When ventilated, the patient breathes at a rate and tidal volume that is dictated by the machine.
+Because of dead space, taking deep breaths more slowly (e.g. ten 500 ml breaths per minute) is more effective than taking shallow breaths quickly (e.g. twenty 250 ml breaths per minute). Although the amount of gas per minute is the same (5 L/min), a large proportion of the shallow breaths is dead space, and does not allow oxygen to get into the blood.
+
+==See also==
+* [[Bohr equation]]
+* [[Christian Bohr]]
+* [[Respiratory physiology]]
+* [[Ventilation (physiology)]]
+
+==References==
+<references/>
+
+==Further reading==
+
+Arend Bouhuys. 1964. "Respiratory dead space." in ''Handbook of Physiology. Section 3: Respiration.'' Vol 1. Wallace O. Fenn and Hermann Rahn (eds). Washington: American Physiological Society.
+
+John B. West. 2011. ''Respiratory Physiology: The Essentials.'' Lippincott Williams & Wilkins; Ninth edition. ISBN 978-1609136406.
+
+==External links==
+* [http://oac.med.jhmi.edu/res_phys/Encyclopedia/DeadSpace/DeadSpace.HTML the ''Dead space'' page on Johns Hopkins School of Medicine '''Interactive Respiratory Physiology''' website.]
+* [http://www.ccmtutorials.com/rs/mv/strategy/page16.htm The ''Mechanical ventilation tutorial'' in Patric Neligan's '''Critical care medicine tutorials''' website]
+
+{{Respiratory physiology}}
+
+[[Category:Respiratory physiology]]
+[[Category:Respiratory therapy]]
+[[Category:Pulmonary function testing]]
+[[Category:Medical terminology]]

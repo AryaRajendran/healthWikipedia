@@ -1,0 +1,125 @@
+<div style="background:#f9f9f9;border:1px solid #666;float:right;width:20%;padding:1em;margin:0 0 1em 1em;">
+'''<span style="color:green">Green</span> <span style="color:red">Red</span> <span style="color:blue">Blue</span><br /><span style="color:purple">Purple</span> <span style="color:blue">Blue</span> <span style="color:purple">Purple</span>'''
+----
+'''<span style="color:red">Blue</span> <span style="color:green">Purple</span> <span style="color:blue">Red</span><br /><span style="color:blue">Green</span> <span style="color:red">Purple</span> <span style="color:purple">Green</span>'''
+----
+The Stroop effect is the finding that naming the color of the first set of words is easier and quicker than the second.
+</div>
+
+In [[psychology]], the '''Stroop effect''' is a demonstration of interference in the [[reaction time]] of a task. When the name of a color (e.g., "blue," "green," or "red") is printed in a color not denoted by the name (e.g., the word "red" printed in blue ink instead of red ink), naming the color of the word takes longer and is more prone to errors than when the color of the ink matches the name of the color. The effect is named after [[John Ridley Stroop]] who first published the effect in English in 1935.<ref name="stroop">{{cite journal|title=Studies of interference in serial verbal reactions|journal=Journal of Experimental Psychology|year=1935|first=John Ridley|last=Stroop|volume=18|issue=6|pages=643–662|url=http://psychclassics.yorku.ca/Stroop/|accessdate=2008-10-08|doi=10.1037/h0054651}}</ref> The effect had previously been published in Germany in 1929.<ref name="Jaensch">{{cite book|last=Jaensch|first=E.R|title=Grundformen menschlichen Seins|publisher=Otto Elsner|year = 1929|location = Berlin}}</ref><ref name="pmid5328883">{{cite journal|author=Jensen AR, Rohwer WD|title=The Stroop color-word test: a review|journal=Acta psychologica|volume=25|issue=1|pages=36–93|year=1966|pmid=5328883|doi=10.1016/0001-6918(66)90004-7}}</ref><ref name="pmid2034749">{{cite journal|author=MacLeod CM|title=Half a century of research on the Stroop effect: an integrative review|journal=Psychological Bulletin|volume=109|issue=2|pages=163–203|year=1991|month=March|pmid=2034749|doi=10.1037/0033-2909.109.2.163|url=http://content.apa.org/journals/bul/109/2/163}}{{registration required}}</ref> The original paper has been one of the most cited papers in the history of [[experimental psychology]], leading to more than 700 replications.<ref name="pmid2034749"/> The effect has been used to create a psychological test ('''Stroop Test''') that is widely used in clinical practice and investigation.
+
+== Original experiment ==
+<div style="background:#f9f9f9;border:1px solid #666;float:right;width:42%;padding:1em;margin:0 0 1em 1em;">
+''Stimulus 1:'' '''Purple Brown Red Blue Green'''
+----''Stimulus 2'':Brown</span> <span style="color:green">Red</span> <span style="color:brown">Blue</span> <span style="color:purple">Green</span>'''
+----
+''Stimulus 3:'' <span style="color:red">▀ ▀ ▀ ▀ ▀</span> <span style="color:blue">▀ ▀ ▀ ▀ ▀</span> <span style="color:green">▀ ▀ ▀ ▀ ▀</span> <span style="color:brown">▀ ▀ ▀ ▀ ▀</span> <span style="color:purple">▀ ▀ ▀ ▀ ▀</span>
+
+----
+Examples of the three stimuli and colors used for each of the activities of the original Stroop article.<ref name="stroop"/>
+</div>
+
+[[File:Stroop-fig1-exp2.jpg|thumb|464px|right|Figure 1 from Experiment 2 of the original description of the Stroop Effect (1935). 1 is the time that it takes to name the color of the dots while 2 is the time that it takes to say the color when there is a conflict with the written word.<ref name="stroop"/>]]
+
+The effect is named after [[John Ridley Stroop]], who published the effect in English in 1935 in an article entitled ''Studies of interference in serial verbal reactions'' that includes three different experiments.<ref name="stroop"/> However, the effect was first published in 1929 in Germany, and its roots can be followed back to works of [[James McKeen Cattell]] and [[Wilhelm Maximilian Wundt]] in the nineteenth century.<ref name="Jaensch"/><ref name="pmid5328883"/><ref name="pmid2034749"/>
+
+In his experiments, Stroop administered several variations of the same test for which three different kinds of stimuli were created. In the first one, names of colors appeared in black ink. In the second, names of colors appeared in a different ink than the color named. Finally in the third one, there were squares of a given color.<ref name="stroop"/>
+
+In the first experiment, 1 and 2 were used (see first figure). The task required the participants to read the written color names of the words independently of the color of the ink (for example, they would have to read "purple" no matter what the color of its ink was). In the second experiment, stimulus 2 and 3 were used, and participants were required to say the color of the letters independently of the written word with the second kind of stimulus and also name the color of the dot squares. If the word "purple" was written in red, they would have to say "red", but not "purple"; when the squares were shown, the participant would have to say its color. Stroop, in the third experiment, tested his participants at different stages of practice at the tasks and stimulus used in the first and second experiments, to account for the effects of association.<ref name="stroop"/>
+
+Stroop noted that participants took much longer to complete the color reading in the second task than they had taken to name the colors of the squares in Experiment 2. This delay had not appeared in the first experiment. Such interference was explained by the automation of reading, where the mind automatically determines the [[semantic]] meaning of the word (it reads the word "red" and thinks of the color "red"), and then must intentionally check itself and identify instead the color of the word (the ink is a color other than red), a process that is not automatized.<ref name="stroop"/>
+
+Unlike researchers performing the Stroop test that is most commonly used in psychological evaluation,<ref name="Golden">{{cite book|last=Golden|first=CJ|title=Stroop Color and Word Test: A Manual for Clinical and Experimental Uses|publisher=Skoelting|year=1978|location=Chicago, Illinois|pages=1–32}}</ref> J.R Stroop never compares the time used for reading black words and the time needed for naming colors that conflicted with the written word.
+
+== Experimental findings ==
+Stimuli in Stroop paradigms can be divided into 3 groups: neutral, congruent and incongruent. Neutral stimuli are those stimuli in which only the text (similarly to stimuli 1 of Stroop's experiment), or color (similarly to stimuli 3 of Stroop's experiment) are displayed.<ref name="pmid19966248"/> Congruent stimuli are those in which the ink color and the word refer to the same color (for example the "pink" word written in pink). Incongruent stimuli are those in which ink color and word differ.<ref name="pmid19966248"/> Three experimental findings are recurrently found in Stroop experiments.<ref name="pmid19966248">{{cite journal |author=van Maanen L, van Rijn H, Borst JP |title=Stroop and picture-word interference are two sides of the same coin |journal=Psychon Bull Rev |volume=16 |issue=6 |pages=987–99 |year=2009 |month=December |pmid=19966248 |doi=10.3758/PBR.16.6.987 |url=}}</ref> A first finding is ''semantic interference'', which states that naming the ink color of neutral stimuli (e.g. when the ink color and word do not interfere with each other) is faster than in incongruent conditions. It is called semantic interference since it is usually accepted that the relationship in meaning between ink color and word is at the root of the interference.<ref name="pmid19966248"/> The second finding, ''semantic facilitation'', explains the finding that naming the ink of congruent stimuli is faster (e.g. when the ink color and the word match) than when neutral stimuli are present (e.g. when the ink is black, but the word describes a color). The third finding is that both semantic interference and facilitation disappear when the task consists of reading the word instead of naming the ink. It has been sometimes called ''Stroop asynchrony'', and has been explained by a reduced automatization when naming colors compared to reading words.<ref name="pmid19966248"/>
+
+In the study of [[interference theory]], the most commonly used procedure has been similar to Stroop's second experiment in which subjects are tested on naming colors of incompatible words and of control patches; however the first experiment (reading words in black versus incongruent colors) has received less interest. In both cases, the interference score is expressed as the difference between the times needed to read each of the two types of cards.<ref name="pmid2034749"/> Usually lists of stimuli are used, but time measures for individual words permit more control on research variables.<ref name="pmid2034749"/> Rather than naming or reading stimuli aloud, subjects have also been asked to sort stimuli into categories.<ref name="pmid2034749"/> Different characteristics of the stimulus such as ink colors or direction of words have also been systematically varied.<ref name="pmid2034749"/> None of all these modifications eliminates the effect of interference.<ref name="pmid2034749"/>
+
+== Stroop test ==
+{{Diagnostic infobox
+| Name        = {{PAGENAME}}
+| Image       = 
+| Caption     = 
+| ICD10       = 
+| ICD9        = 
+| MeshID      = D057190
+| OPS301      = 
+| OtherCodes  = 
+}}
+The Stroop effect has been used to investigate a person's psychological capacities; since its discovery during the twentieth century, it has become a popular [[neuropsychological test]].<ref name="isbn0-19-511121-4">{{cite book |author=Howieson, Diane Black; Lezak, Muriel Deutsch; Loring, David W. |chapter=Orientation and attention|title=Neuropsychological assessment |publisher=Oxford University Press |location=Oxford [Oxfordshire] |year=2004 |pages=3365–367 |isbn=0-19-511121-4 |oclc= |doi= |accessdate=2009-03-06|url=http://books.google.com/?id=FroDVkVKA2EC&pg=PA365}}</ref>
+
+There are different test variants commonly used in [[Clinical neuropsychology|clinical settings]], with differences between them in the number of subtasks, type and number of stimulus, times for the task, or scoring procedures.<ref name="isbn0-19-511121-4"/><ref name="isbn0-19-515957-8">{{cite book|author=Spreen, Otfried; Strauss, Esther; Elisabeth M. S. Sherman |title=A compendium of neuropsychological tests: administration, norms, and commentary |publisher=Oxford University Press |location=Oxford [Oxfordshire]|year=2006 |pages=477–499 |isbn=0-19-515957-8 |oclc= |doi= |accessdate=2009-03-06|url=http://books.google.com/?id=dvE1mzbqI14C&pg=PA477&lpg}}</ref> All versions have at least two numbers of subtasks. In the first trial, the written color name differs from the color ink it is printed in, and the participant must say the written word. In the second trial, the participant must name the ink color instead. However, there can be up to four different subtasks, adding in some cases stimuli consisting of groups of letters "X" or dots printed in a given color with the participant having to say the color of the ink; or names of colors printed in black ink that have to be read.<ref name="isbn0-19-511121-4"/> The number of stimuli varies between less than twenty items to more than 150, being closely related to the scoring system used. While in some test variants the score is the number of items from a subtask read in a given time, in others it is the time that it took to complete each of the trials.<ref name="isbn0-19-511121-4"/> The number of errors and different derived punctuations are also taken into account in some versions.<ref name="isbn0-19-511121-4"/>
+
+This test is considered to measure [[attention|selective attention]], cognitive flexibility and processing speed, and it is used as a tool in the evaluation of [[executive functions]].<ref name="isbn0-19-511121-4"/><ref name="isbn0-19-515957-8"/> An increased interference effect is found in disorders such as [[brain damage]], [[dementia]]s and other [[neurodegenerative disease]]s, [[attention-deficit hyperactivity disorder]], or a variety of [[mental disorder]]s such as [[schizophrenia]], [[Substance dependence|addictions]], and [[Major depressive disorder|depression]].<ref name="isbn0-19-511121-4"/><ref name="pmid17402825">{{cite journal |author=Lansbergen MM, Kenemans JL, van Engeland H |title=Stroop interference and attention-deficit/hyperactivity disorder: a review and meta-analysis |journal=Neuropsychology |volume=21 |issue=2 |pages=251–62 |year=2007 |month=March |pmid=17402825 |doi=10.1037/0894-4105.21.2.251 |url=}}</ref><ref name="pmid19011235">{{cite journal |author=Barch DM, Braver TS, Carter CS, Poldrack RA, Robbins TW |title=CNTRICS final task selection: executive control |journal=Schizophr Bull |volume=35 |issue=1 |pages=115–35 |year=2009 |month=January |pmid=19011235 |pmc=2643948 |doi=10.1093/schbul/sbn154 |url=}}</ref>
+
+== Anatomical basis ==
+[[File:Gray727 anterior cingulate cortex.png|thumb|right|The anterior cingulate cortex has been related to the processing of the Stroop effect]]
+[[EEG]] and [[functional neuroimaging]] studies of the Stroop effect have consistently revealed activation in the [[frontal lobe]], more specifically in the anterior [[cingulate cortex]] and [[dorsolateral prefrontal cortex]]. These are two structures hypothesized to be responsible for conflict monitoring and resolution.<ref name="isbn0-19-515957-8"/><ref name="pmid18189010">{{cite journal |author=Carter CS, van Veen V |title=Anterior cingulate cortex and conflict detection: an update of theory and data |journal=Cogn Affect Behav Neurosci |volume=7 |issue=4 |pages=367–79 |year=2007 |month=December |pmid=18189010 |doi= 10.3758/CABN.7.4.367|url=}}</ref> Accordingly patients with [[Acquired brain injury|frontal lesions]] obtain lower punctuations in the Stroop test when compared to those with more posterior lesions. However, these frontal regions are not the only ones implicated in the effect.<ref name="isbn0-19-515957-8"/> Stroop performance has also been associated with the correct functioning of the [[hippocampus]] or posterior brain areas.<ref name="isbn0-19-515957-8"/>
+
+== Modifications ==
+[[File:FMRI BOLD activation in an emotional Stroop task.jpg|thumb|The Stroop task can be used in [[functional neuroimaging]] studies to investigate the neuroanatomical basis of the Stroop effect. Using [[fMRI]], for example, one may identify the brain regions that are activated by the interference between emotional words and faces.<ref name="pmid21258644">{{cite journal|author=Ovaysikia S, Tahir KA, Chan JL and DeSouza JFX|title=Word wins over face: emotional Stroop effect activates the frontal cortical network|journal=Front. Hum. Neurosci.|volume=4|page=234|year=2011|month=january|pmid=21258644|doi=10.3389/fnhum.2010.00234|pmc=3020489}}</ref>]]
+
+As one of the most referenced papers in experimental psychology, the test has also been further modified to investigate very different phenomena.<ref name="pmid2034749"/>
+
+The Stroop task has been employed to study frontal function and [[attention]] in [[brain imaging]] studies.<ref name="pmid11133310">{{cite journal|author=Pujol J, Vendrell P, Deus J, ''et al.''|title=The effect of medial frontal and posterior parietal demyelinating lesions on stroop interference|journal=NeuroImage|volume=13|issue=1|pages=68–75|year=2001|month=January|pmid=11133310|doi=10.1006/nimg.2000.0662}}</ref>  Speaking is not possible in the scanner because it moves the head, so a number theme is often used instead.  For instance, ''three words'' may be displayed that read "two" and the participant must press ''three'' on their button box.<ref name="pmid18761138">{{cite journal|author=Kaufmann L, Ischebeck A, Weiss E, ''et al.''|title=An fMRI study of the numerical Stroop task in individuals with and without minimal cognitive impairment|journal=Cortex|volume=44|issue=9|pages=1248–55|year=2008|month=October|pmid=18761138|doi=10.1016/j.cortex.2007.11.009}}</ref> Other examples of derived tasks which show interference effects may include a drawing with an incongruent caption (e.g. a drawing of a bird with the name of another animal as caption, the task being naming the drawing), or the word ''left'' in the right of the image (the task being saying where the word is located).<ref name="pmid11025281">{{cite journal |author=MacLeod CM, MacDonald PA |title=Interdimensional interference in the Stroop effect: uncovering the cognitive and neural anatomy of attention |journal=Trends Cogn. Sci. (Regul. Ed.) |volume=4 |issue=10 |pages=383–391 |year=2000 |month=October |pmid=11025281 |doi= 10.1016/S1364-6613(00)01530-8|url=}}</ref>
+
+The test has additionally been modified to include other [[Modality (semiotics)|sensory modalities]] and variables,<ref name="pmid18211237">{{cite journal
+|author=Roberts KL, Hall DA
+|title=Examining a supramodal network for conflict processing: a systematic review and novel functional magnetic resonance imaging data for related visual and auditory stroop tasks
+|journal=Journal of Cognitive Neuroscience
+|volume=20
+|issue=6
+|pages=1063–78
+|year=2008
+|month=June
+|pmid=18211237
+|doi=10.1162/jocn.2008.20074
+|url=
+}}</ref> to study the effect of [[Multilingualism|bilingualism]],<ref name="pmid12240746">{{cite journal
+|author=Rosselli M, Ardila A, Santisi MN, ''et al.''
+|title=Stroop effect in Spanish-English bilinguals
+|journal=Journal of the International Neuropsychological Society : JINS
+|volume=8
+|issue=6
+|pages=819–27
+|year=2002
+|month=September
+|pmid=12240746
+|doi=10.1017/S1355617702860106
+|url=
+}}</ref> or to investigate the effect of emotions on interference.<ref name="pmid8711015">{{cite journal |author=Williams JM, Mathews A, MacLeod C |title=The emotional Stroop task and psychopathology |journal=Psychol Bull |volume=120 |issue=1 |pages=3–24 |year=1996 |month=July |pmid=8711015 |doi= 10.1037/0033-2909.120.1.3|url=}}</ref><ref name="pmid19272751">{{cite journal |author=Kimble MO, Frueh BC, Marks L |title=Does the modified Stroop effect exist in PTSD? Evidence from dissertation abstracts and the peer reviewed literature |journal=J Anxiety Disord |volume=23 |issue=5 |pages=650–5 |year=2009 |month=June |pmid=19272751 |pmc=2844871 |doi=10.1016/j.janxdis.2009.02.002 |url=}}</ref><ref name="pmid15890165">{{cite journal |author=Waters AJ, Sayette MA, Franken IH, Schwartz JE |title=Generalizability of carry-over effects in the emotional Stroop task |journal=Behav Res Ther |volume=43 |issue=6 |pages=715–32 |year=2005 |month=June |pmid=15890165 |doi=10.1016/j.brat.2004.06.003 |url=}}</ref> A similar effect has also been observed in individuals with [[grapheme–color synesthesia]], people who perceive colors when seeing certain numbers and letters. If a number or letter is presented to such an individual in a color other than what they would perceive, there is a delay in determining what color the character actually is.<ref>Ramachandran, V.S. and Edward M. Hubbard. "[http://www.scientificamerican.com/article.cfm?id=more-common-questions-abo-2003-04-14&print=true More Common Questions about Synesthesia]. ''Scientific American'' online. April 14, 2003. URL accessed 2007-03-12.</ref>
+
+In the [[neo-Piagetian theories of cognitive development]], several variations of the Stroop task have been used to study the relations between [[speed of processing]] and [[executive functions]] with [[working memory]] and [[cognitive development]] in various domains. This research shows that reaction time to Stroop tasks decreases systematically from early childhood through early adulthood. These changes suggest that speed of processing increases with age and that cognitive control becomes increasingly efficient. Moreover, this research strongly suggests that changes in these processes with age are very closely associated with development in working memory and various aspects of thought.<ref>Demetriou, A., Christou, C., Spanoudis, G., & Platsidou, M. (2002). The development of mental processing: Efficiency, working memory, and thinking. ''Monographs of the Society of Research in Child Development, 67'', Serial Number 268.
+</ref><ref>Demetriou, A., Efklides, A., & Platsidou, M. (1993). The architecture and dynamics of developing mind: Experien¬tial structuralism as a frame for unifying cognitive developmental theories. ''Monographs of the Society for Research in Child Development, 58'', Serial Number 234.</ref>
+
+A drawback to the original test was that it required verbal skills. This led researchers to look for alternative methods to implement the task in a way that gave the same interference but that didn't require reading abilities. One study found that two blocks of differing color, with the subject having to say the color of the block on the right produced a similar interference. Authors also found that the closer the blocks the longer the response time.<ref>{{cite journal|last=Koch|first=Christopher|title=Time course of the color-color Stroop task|journal=Abstracts of the Psychonomic Society|year=2004|volume=9|page=59}}</ref>
+
+== Popular culture ==
+The ''[[Brain Age: Train Your Brain in Minutes a Day!]]'' software program, produced by [[Ryūta Kawashima]] for the [[Nintendo DS]] portable [[video game]] system, contains an automated Stroop Test administrator module, translated into game form.<ref name="urlGet the Scoop on Stroop">{{cite web
+|url=http://www.sciencebuddies.org/science-fair-projects/project_ideas/HumBeh_p031.shtml
+|title=Get the Scoop on Stroop
+|format=
+|work=
+|accessdate=2009-03-03
+}}</ref> A ''[[NOVA (TV series)|Nova]]'' episode used the Stroop Effect to illustrate the subtle changes of the mental flexibility of [[Mount Everest]] climbers in relation to altitude.<ref>{{cite web
+|url=http://www.pbs.org/wgbh/nova/everest/exposure/braintest.html
+|title=NOVA Online | Everest | Test Your Brain
+|author=Gail Rosenbaum
+|date=November 2000
+|accessdate=2008-10-14
+}}</ref>
+
+== See also ==
+*[[Emotional Stroop test]]
+*[[Implicit Association Test]]
+
+== References ==
+{{reflist|2}}
+
+{{DEFAULTSORT:Stroop Effect}}
+[[Category:Cognitive tests]]
+[[Category:Memory tests]]
+[[Category:Perception]]
+[[Category:Neuropsychological tests]]
+[[Category:Psychophysics]]

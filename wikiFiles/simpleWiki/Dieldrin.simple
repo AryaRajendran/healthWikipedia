@@ -1,0 +1,61 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = I0246D2ZS0
+| verifiedrevid = 401990004
+|   Name = Dieldrin
+|   ImageFile = Dieldrin.svg
+<!-- | ImageSize = 200px -->
+|   ImageName = Dieldrin
+|   IUPACName = (1a''R'',2''R'',2a''S'',3''S'',6''R'',6a''R'',7''S'',7a''S'')-3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphtho[2,3-''b'']oxirene
+|   OtherNames = Dieldrin
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10292746
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 481118
+| InChI = 1/C12H8Cl6O/c13-8-9(14)11(16)5-3-1-2(6-7(3)19-6)4(5)10(8,15)12(11,17)18/h2-7H,1H2/t2-,3+,4+,5-,6-,7+,10+,11-
+| InChIKey = DFBKLUNHFCTMDC-PICURKEMBL
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H8Cl6O/c13-8-9(14)11(16)5-3-1-2(6-7(3)19-6)4(5)10(8,15)12(11,17)18/h2-7H,1H2/t2-,3+,4+,5-,6-,7+,10+,11-
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DFBKLUNHFCTMDC-PICURKEMSA-N
+| CASNo = 60-57-1
+|    CASNo_Ref = {{cascite|correct|CAS}}
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = C13718
+|   ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 34696
+| SMILES = ClC5(Cl)[C@]3(Cl)C(\Cl)=C(\Cl)[C@@]5(Cl)[C@H]4[C@H]1C[C@H]([C@@H]2O[C@H]12)[C@@H]34
+}}
+| Section2 = {{Chembox Properties
+|C=12|H=8|Cl=6|O=1
+|   MolarMass = 380.91 g/mol
+|   Density = 1.75 g/cm³
+|   MeltingPt = 176-177 °C
+|   BoilingPt = 385 °C
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS =	[http://physchem.ox.ac.uk/MSDS/DI/dieldrin.html External MSDS]}}
+}}
+'''Dieldrin''' is a [[chlorinated hydrocarbon]] originally produced in 1948 by J. Hyman & Co, Denver, as an [[insecticide]]. Dieldrin is closely related to [[aldrin]]. Aldin reacts further to form dieldrin. Aldrin is not toxic to [[insect]]s; it is [[oxidation|oxidized]] in the insect to form dieldrin which is the active compound. Both dieldrin and aldrin are named after the [[Diels-Alder reaction]] which is used to form aldrin from a mixture of norbornadiene and [[hexachlorocyclopentadiene]].
+
+Dieldrin was developed as an alternative to [[DDT]] and has proved to be a highly effective insecticide. It was very widely used during the 1950s to early 1970s. [[Endrin]] is a [[stereoisomer]] of dieldrin.
+
+However, it is an extremely [[persistent organic pollutant]]; it does not degrade easily. Furthermore it tends to [[biomagnify]] as it is passed along the [[food chain]].  Long-term exposure has proven [[wikt:toxic|toxic]] to a very wide range of animals including humans. For this reason it is now banned in most of the world.
+
+It has been linked to health problems such as [[Parkinson's disease]], [[breast cancer]], and immune, reproductive, and nervous system damage. It can also adversely affect testicular descent in the [[fetus]] if a pregnant woman is exposed to Dieldrin.
+
+Dieldrin is listed in the [[Stockholm Convention on Persistent Organic Pollutants]].
+==Synthesis==
+It can be formed from the synthesis of hexachloro-1,3-cyclopentadiene with [[norbornadiene]] in a [[Diels-Alder reaction]], followed by epoxidation of the norbornene ring.<ref name="Tedder">{{cite book |first=A. H. | last=Jubb |year=1975
+  | title=Basic Organic Chemistry, Part 5 Industrial products | publisher=Wiley
+  | location=London | isbn=0-471-85014-4}}</ref>
+
+[[Image:DieldrinSynthesis.png|thumbnail|left|480px|Synthesis of Dieldrin via a [[Diels-Alder reaction]]]]<br style="clear:left;"/>
+Dieldrin is named after [[Otto Paul Hermann Diels]], the co-inventor of the Diels-Alder reaction.
+==References==
+<references/>
+{{chem-stub}}
+[[Category:Chemical compounds]]

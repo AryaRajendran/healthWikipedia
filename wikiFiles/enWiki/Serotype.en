@@ -1,0 +1,50 @@
+[[File:Serotypes – Antibody versus antigen.svg|thumb|right|300px|Two '''serotypes''' 1a and 1b with [[antigens]] 2a and 2b on surface.]]
+'''Serotype''' or '''serovar''' refers to distinct variations within a species of bacteria or viruses or among immune cells of different individuals. These [[microorganisms]], [[virus]]es, or [[Cell (biology)|cell]]s are classified together based on their cell surface [[antigen]]s, allowing the epidemiologic classification of organisms to the sub-species level.<ref name=Barron>{{cite book | author =  Baron EJ | title = Classification. ''In:'' Baron's Medical Microbiology ''(Baron S ''et al.'', eds.)| edition = 4th | publisher = Univ of Texas Medical Branch | year = 1996 | id = [http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mmed.section.352 (via NCBI Bookshelf)] | isbn =  0-9631172-1-1}}</ref><ref name=Sherris>{{cite book | author = Ryan KJ; Ray CG (editors) | title = Sherris Medical Microbiology | edition = 4th | publisher = McGraw Hill | year = 2004 | isbn = 0-8385-8529-9}}</ref><ref>"serovar." The American Heritage Medical Dictionary. 2007. Houghton Mifflin Company 24 Oct. 2009 http://medical-dictionary.thefreedictionary.com/serovar</ref> A group of serovars with common antigens is called a '''serogroup'''.
+
+Serotyping often plays an essential role in determining species and subspecies. The ''[[Salmonella]]'' [[genus]] of [[bacteria]], for example, has been determined to have over 4400 serotypes, including ''[[Salmonella enterica]]'' serovar Typhimurium, ''S. enterica'' serovar Typhi, and ''S. enterica'' serovar Dublin.<ref name=Sherris /> ''[[Vibrio cholerae]]'', the [[species]] of bacteria that causes [[cholera]], has over 200 serotypes, based on cell antigens. Only two of them have been observed to produce the potent enterotoxin that results in cholera: 0:1 and 0:139.
+
+Serotypes were discovered by the American microbiologist [[Rebecca Lancefield]] in 1933.<ref name=Lancefield_1933>{{cite journal | author = Lancefield RC | title = A SEROLOGICAL DIFFERENTIATION OF HUMAN AND OTHER GROUPS OF HEMOLYTIC STREPTOCOCCI |journal=J Exp Med |year=1933 |volume=57 | issue = 4 | pmid = 19870148 |pages=571–95 | pmc = 2132252 |url= http://www.jem.org/cgi/content/abstract/57/4/571 | doi = 10.1084/jem.57.4.571 | format = abstract}}</ref>
+
+==Role in organ transplantation==
+[[File:Anti-HLA agglutinated RBC.png|frame|right|Agglutination of [[HLA-A3]] positive [[red blood cell]]s (RBCs) with anti-A3 alloreactive [[antisera]] containing Anti-A3 [[IgM]]]]
+
+The [[immune system]] is capable of discerning a cell as being 'self' or 'non-self' according to that cell's serotype. In humans, that serotype is largely determined by [[human leukocyte antigen]] (HLA), the human version of the [[major histocompatibility complex]]. Cells determined to be non-self are usually recognized by the immune system as foreign, causing an immune response, such as [[hemagglutination]]. Serotypes differ widely between individuals; therefore, if cells from one human (or animal) are introduced into another random human, those cells are oftentimes determined to be non-self because they do not match the self-serotype. For this reason, transplants between genetically non-identical humans often induce a problematic immune response in the recipient, leading to [[transplant rejection]]. In some situations this effect can be reduced by serotyping both recipient and potential donors to determine the closest HLA match.<ref>Christoph Frohn, Lutz Fricke, Jan-Christoph Puchta, and Holger Kirchner. The effect of HLA-C matching on acute renal transplant rejection. Nephrol. Dial. Transplant. 16: 355-360. http://ndt.oxfordjournals.org/cgi/content/full/16/2/355</ref>
+
+===Human leukocyte antigens===
+{| class="wikitable" align="left"
+|+Serotypes according the HLA (MHC) locus
+|-
+! HLA Locus || # of Serotypes || Broad Antigens|| Split Antigens 
+|-align = "center"
+| '''[[HLA-A|A]]''' || 25 || 4 || 15
+|-align = "center"
+| '''[[HLA-B|B]]''' || 50 || 9 || 
+|-align = "center"
+| '''[[HLA-C|C]]'''* || 12 || 1 || 
+|-align = "center"
+|'''[[HLA-DR|DR]]''' || 21 || 4 || 
+|-align = "center"
+| '''[[HLA-DQ|DQ]]''' || 8 || 2 || 
+|-align = "center"
+| '''[[HLA-DP|DP]]'''* || || ||  
+|-
+|colspan = "4" |*DP and many Cw require SSP-PCR for typing. 
+|}{{clearleft}}
+
+==See also==
+*[[Biovar]]
+*[[Morphovar]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.allelefrequencies.net HLA Allele and Haplotype Frequency Database]
+
+{{Surface antigens}}
+
+[[Category:Serology]]
+[[Category:Speciation]]
+[[Category:Scientific classification]]
+[[Category:Taxonomy]]
+[[Category:Microbiology]]

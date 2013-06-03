@@ -1,0 +1,282 @@
+The '''New Zealand Coordinated Incident Management System''' (CIMS) is New Zealand's system for managing the response to an incident involving multiple responding agencies. Its developers based the system on [[California]]'s [[Incident Command System]] (ICS) developed in the 1970s and other countries' adaptions of ICS, such as Australia's [[Australasian Inter-Service Incident Management System]] (AIIMS).<ref>[[New Zealand Fire Service Commission]], p8, 1998.</ref>
+
+CIMS is a generic framework that can be adapted for each situation that arises. For example, while there are four management ''functions'', the incident itself determines the size of the incident management team. In an isolated incident, a single officer may perform all of functions and in a very complex incident each function could be subdivided. Instead, CIMS emphasises consistent [[terminology]], a single Incident Control Point and planning tools across all agencies. For example, the term "Assembly Area" means the same thing in every event. Likewise, all trained responders know the [[roles and responsibilities]] of the Logistics Manager.
+
+CIMS was initially designed for all levels of emergency management, similar to the UK's [[Gold Silver Bronze command structure|Gold Silver Bronze command system]], however only the [[Gold_Silver_Bronze_command_structure#Bronze|bronze level]] has become entrenched. At higher levels, New Zealand's arrangements are outlined in the [[National Civil Defence Emergency Management Plan]]<ref>http://www.civildefence.govt.nz/memwebsite.NSF/wpg_URL/About-the-Ministry-What-we-do-National-CDEM-Planning?OpenDocument. Accessed 2 August 2008</ref> (the National Plan). In some senses, the National Plan is similar to the [[Department of Homeland Security]]'s [[National Response Framework]].
+
+A distinguishing factor from other English-speaking systems is the use of the term [[Coordinated Incident Management System#Command, Control and Coordination|control]] rather than [[Coordinated Incident Management System#Command, Control and Coordination|command]], such as the term "Incident Controller" for "[[Incident Commander]]". By implication, this was designed to emphasise that the incident management team is primarily a focused on coordinating the response by independent agencies, rather than ordering responders in a militaristic manner. This is complicated to a degree, as the person in charge of the Operations function, usually an [[Coordinated Incident Management System#Operations|Operations Manager]], does have the authority to command agencies to act.
+
+== Background Concepts ==
+CIMS is based around several background concepts that provide the basis for the operational elements.
+
+===Vision and Mission===
+CIMS aims to deliver: <blockquote>'''Vision:''' Safer communities through integrated emergency management.<ref>[[New Zealand Fire Service Commission]], p8, 1998.</ref></blockquote>
+
+<blockquote>'''Mission:''' CIMS will create a legacy of safer communities through a proven, reliable, user-friendly, effective and efficient up-to-date [incident management] system. The system will be fully integrated and flexible and have the confidence of the public.<ref>[[New Zealand Fire Service Commission]], p8, 1998.</ref></blockquote>
+
+=== Seven Principles of CIMS ===
+
+# [[Coordinated_Incident_Management_System#Common Terminology|Common Terminology]]
+# [[Coordinated_Incident_Management_System#Modular Organisation|Modular Organisation]]
+# [[Coordinated_Incident_Management_System#Integrated Communications|Integrated Communications]]
+# [[Coordinated_Incident_Management_System#Consolidated Incident Action Plans|Consolidated Incident Action Plans]] (IAPs)
+# [[Coordinated_Incident_Management_System#Manageable Span of Control|Manageable Span of Control]]
+# [[Coordinated_Incident_Management_System#Designated Incident Facilities|Designated Incident Facilities]]
+# [[Coordinated_Incident_Management_System#Comprehensive Resource Management|Comprehensive Resource Management]]
+
+==== Common Terminology ====
+Incident facilities, allocated positions and other terms are consistent amongst responding agencies. For example, the term "Incident Control Point" may have been previously known as the "Forward Headquarters", a "[[Command Post]]" or another term depending on which agency was responding. Now, all CIMS agencies use the same [[jargon]].
+
+====Modular Organisation====
+In the context of CIMS, modular organisation primarily means that the management structure can expand and contract depending on the nature of the incident or series of incidents that the agencies are responsible to. This means that at small, isolated incidents a single person may be in charge. At large, complex incidents, such as a major weather event, there will be multiple incident management teams coordinated by an overall emergency operations centre.
+This modular model primarily contrasts with developing pre-defined structures. The focus is on maintaining flexibility to each incident as it arises, rather than rote learning specific structures for every type of incident.
+Modular organisation also means that incident facilities can be established and removed as the incident develops.
+
+====Integrated Communications====
+In practice, integrated communications means having a communications plan between all of the responding agencies. In a broader sense, it can be defined as attempting to unify all communications between agencies with the use of common frequencies, inter-operable equipment and developing consistent standard operating procedures.
+
+====Consolidated Incident Action Plans====
+Rather than having each agency develop its own plan of how the incident is likely to develop, CIMS implies that a single plan is developed that is then shared with each responding agency.
+
+====Manageable Span of Control====
+Span of control is the number of direct reports any one person can effectively manage, 1:5 being best practice and 1:3 being the optimum for tactical command roles.
+
+====Designated Incident Facilities====
+Established incident facilities are known to all responding agencies.
+
+====Comprehensive Resource Management====
+Comprehensive resource management means that resources are tracked, accounted for and made available between organisations for the most effective use at the incident.
+
+===Command, Control and Coordination===
+The terms command, control and coordination play a big role within CIMS. These terms help define the roles and responsibilities between incident managers that may direct responders from multiple organisations and line managers that act within a single agency. 
+'''Control''' operates horizontally between agencies, whereas '''Command''' operates vertically within an agency. '''Coordination''' describes the overall cohesion of agencies working together with defined responsibilities.
+
+===Agency Roles===
+
+====Lead Agency====
+Every incident is managed by a lead agency. This agency has overall control of the incident, and is responsible for overall coordination. Lead Agency status is usually bestowed by [[primary legislation]] (an [[Act of Parliament]]), but the [[common law]], [[secondary legislation]] ([[regulation]]s) and prior agreement are also used.
+Some general examples of lead agencies:
+
+{| class="wikitable sortable" style="text-align: center; font-size: 85%; width: auto; table-layout: fixed;"
+|+'''General Examples of Lead Agencies at Incidents'''
+|-
+! Incident Type
+! Lead Agency
+! Basis
+|-
+| House Fire
+| [[New Zealand Fire Service]]
+| [http://www.legislation.govt.nz/act/public/1975/0042/latest/DLM432648.html Fire Service Act 1975]
+|-
+| Crime Involving Injury
+| [[New Zealand Police]]
+| [[Common law]], [http://www.legislation.govt.nz/act/public/1958/0109/latest/DLM321406.html Policing Act 2008]
+|-
+| Outbreak of biological organism
+| [[Biosecurity New Zealand]], part of the [[Ministry of Agriculture and Forestry (New Zealand)|Ministry of Agriculture and Forestry]]
+| [http://www.legislation.govt.nz/act/public/1993/0095/latest/DLM316395.html Biosecurity Act 1993]
+|-
+| Structural Collapse
+| [[New Zealand Fire Service]]
+| [http://www.legislation.govt.nz/regulation/public/2005/0295/latest/DLM356569.html National Civil Defence Emergency Management Plan Order 2005]
+|}
+
+====Support Agencies====
+
+Support agencies are those agencies which assist the lead agency with the incident.
+
+{| class="wikitable sortable" style="text-align: center; font-size: 85%; width: auto; table-layout: fixed;"
+|+'''General Examples of Support Agencies at Incidents'''
+|-
+! Incident Type
+! Lead Agency
+! Support Agencies
+|-
+| Whale Stranding
+| [[Department of Conservation (New Zealand)|Department of Conservation]]
+| Community organisations, [[iwi]], [[hapū]] and [[whānau]], [[Territorial authorities of New Zealand|Local Government]]
+|-
+| Overturned bus
+| [[New Zealand Police]] or [[New Zealand Fire Service]] depending on the situation
+| Local ambulance service, local [[District health board]], Victim Support, on-scene first aiders, 
+|}
+
+==On-Ground Elements==
+
+===Management Structure===
+A very important consideration within CIMS is that incident management has four functions, not necessarily four positions. Therefore, some incidents will have multiple functions performed by a single manager. Likewise, some functions may become complex enough to warrant separation of one function to two managers. People performing these roles are known collectively as the '''Incident Management Team''' (IMT).
+
+{| class="wikitable left" style="font-size: 85%;"
+|-Positions
+| 
+! Incident Controller
+! Operations 
+! Logistics
+! Planning / Intelligence
+|- 
+! Abbreviation / Known As
+| IC
+| Ops
+| Logs
+| Planning / Intel
+|-
+!Responsibilities
+| 
+''Ensures overall incident resolution, this includes responsibility for:''
+*Safety of Responders
+*Incident Stability: doing the most effective job while being financially responsible
+*Property Conservation: minimising the impact of the incident
+| 
+''Ensures that responders are active by:
+*Allocating tasks to agencies on the ground
+*Monitoring progress of incident against IAP goals
+*Communicating between responding agencies and the Incident Management Team on progress
+|
+''Ensures that responders can perform by:''
+*Monitoring and providing resources
+*Establishing and maintain incident facilities
+*Creating the communications plan
+*Maintaining financial records
+|
+'Ensures that there is an overall strategy by:''
+*Collecting and analysing information
+*Drafting the Incident Action Plan
+*Liaising with technical experts
+|-
+!Reports To
+|Emergency Operations Centre (In multi-incident events)
+|IC
+|IC
+|IC
+|-
+!Direct Reports <br>'''''(situation dependent)'''''
+|
+*Ops, Logs, Planning/Intel
+*Safety Officer
+*Information Officer
+*Liaison Officer
+|
+''The Ops function can be organised by '''agency''', '''task''' or '''geography''' at the discretion of the Ops Manager''
+*Sector Commanders
+*Police
+*Fire
+*Ambulance
+*''Other agencies responding''
+|
+*Supply Unit
+*Facilities Unit
+*Communications
+*Medical
+*Catering
+*Finance
+|
+*Situation Unit
+*Resources Unit
+*Management Support
+*Intelligence Unit
+*Advanced Planning
+|}
+
+====Incident Control====
+Incident Control is responsible for the overall incident progression. The '''Incident Controller''' (IC) has overall accountability for the incident. This function is performed by the Lead Agency. The IC has three main responsibilities:
+*''Safety''
+*''Incident Stability'', meaning to implement the strategy that will be the most effective at resolving the incident while maintaining economical use of resources. This strategy is issued through the use of '''Incident Action Plans''' (IAPs).
+*''Property Conservation'', which relates to minimising damage generally.
+
+====Operations====
+The Operations function enacts the Incident Action Plan. This means making sure that responders are being as productive as possible. The '''Operations Manager''' (Ops Manager) is generally responsible for operational command of resources, in order to fulfil the objectives set by the IC. This means allocating agencies specific functions in their areas of expertise, monitoring their performance, and providing a communication link between the responders and the other elements of the IMT, especially Logistics.
+
+====Planning / Intelligence====
+The '''Planning / Intelligence Manager''' (Planning/Intel Manager) function is responsible for forecasting the incident development, anticipating likely needs and drafting the Incident Action Plan. This role of the IMT is strategic scope. "This event will go on for another 12 hours, we will need lighting, food and shelter for the expected rain".
+
+====Logistics====
+The '''Logistics''' (Logs Manager) function ensures that the operation can continue by ensuring that there are sufficient resources on-site and related functions.
+
+===Planning Tools===
+
+====SitRep (Sitation Report)====
+The SitRep is a report from responders what is happening now. This information is gathered by the '''Incident Management Team''' (IMT) to develop the Incident Action Plan (IAP).
+
+====Incident Action Plan====
+The '''Incident Action Plan''' (IAP) is a template for ensuring that the IMT have a consistent approach to the incident. It is the single plan that all agencies and responders work to.
+
+== History ==
+
+=== Pre-1990s ===
+
+Despite having had a national [[New Zealand Fire Service|fire service]] since 1975, and a national [[New Zealand Police|police]] force since the late 19th Century, there was no consistency in the management of the response to emergencies. Each agency had its own communication system, jargon, hierarchy and attitude towards a particular type of emergency.
+
+Development of CIMS was also indirectly influenced by a major review of New Zealand's emergency services, which took place in the mid-1990s.<ref>http://www3.fire.org.nz/cms.php?page=17642</ref> This review recommended that agencies should look at working closer together, in order to provide a more integrated service to New Zealand communities.
+
+==== Example of Issue ====
+
+Road vehicle crashes that did not involve fire show how confusion could arise. The Fire Service Act 1975 grants authority to the New Zealand Fire Service for fires, as well as all other emergencies where it feels it can render assistance.<ref>Fire Service Act 1975, s28 http://www.legislation.govt.nz/act/public/1975/0042/latest/link.aspx?id=DLM433277#DLM433277</ref> The Police however have a [[common law]] duty to protect life and property, as well as statutory enforcement authority of transport legislation. Likewise, the local ambulance service may feel it has primary responsibility, because it is responsible for the wellbeing of anyone injured by the incident. With each agency thinking that it is in charge, effective coordination is difficult.
+
+===1996: CIMS conceived===
+
+In 1996, the [[New Zealand Fire Service]] began to promote the idea of implementing an incident management system that was common across all emergency response and management agencies. In March 1997, a workshop of 25 representatives from the [[New Zealand Police]], [[New Zealand Fire Service]], the [[National Rural Fire Authority]], [[New Zealand Ambulance Board]], [[Ministry of Civil Defence & Emergency Management|Civil Defence]], [[Territorial authorities of New Zealand|local government]], [[New Zealand Defence Force]], [[New Zealand Forest Owners Association]] and the [[Department of Conservation (New Zealand)|Department of Conservation]] was held.<ref>[[New Zealand Fire Service Commission]], p8, 1998.</ref>
+
+This initial workshop developed the vision, mission and project scope.<ref>[[New Zealand Fire Service Commission]], p8, 1998.</ref> Since then, the system, nation-wide training using consistent training materials and the system's implementation have been carried out.
+
+===1998: System developed===
+
+====Nationally consistent training====
+By 1998, much of the system was developed. Two levels of training were decided upon, at awareness and practitioner levels. Training was develivered through the [[NZQA]]'s [[National Qualifications Framework]], with the [[Fire & Rescue Services Industry Training Organisation]] (FRISTO) nominated as the Standards Setting Body and holding authority for national moderation. 
+
+One unique element of CIMS, is that the practitioner level programmes must be delivered in a multi-agency environment.<ref>[[Ministry of Civil Defence & Emergency Management]], ''Professional Development: CIMS Courses" http://www.civildefence.govt.nz/memwebsite.NSF/wpg_URL/For-the-CDEM-Sector-Professional-Development-CIMS-Courses?OpenDocument. Accessed 7 August 2008.</ref>
+
+==== Coordination between the emergency services ====
+As well as training individual responders, a wider level of coordination between the emergency services was required in order for New Zealand's emergency services to develop towards the model of [[Comprehensive Emergency Management|comprehensive emergency management]], as envisaged by the 1995 civil defence emergency management review.<ref>[[Rian van Schalkwyk|van Schalkwyk, Rian]], ''Emergency Management Department Report'', [[Greater Wellington Regional Council]]. http://www.gw.govt.nz/council-reports/pdfs%5Creportdocs%5C2000_55_8_Attach.pdf, February 2000. Accessed 7 August 2008.</ref> During the late 1990s, [[Territorial authorities of New Zealand|territorial authorities]] aligned to form Emergency Management Groups (now known as [[Civil Defence Emergency Management Group]]s), in anticipation of legislative change promoting a move away from purely response-focused planning.<ref>[[Statistics New Zealand]], ''Quick Facts: Government Services - Emergency Management and Fire Safety'' an extract of ''New Zealand Official Yearbook'' http://www2.stats.govt.nz/domino/external/web/nzstories.nsf/0/ac0adac4b06f4bb8cc256b1e007e318c?OpenDocument. Accessed 7 August 2008.</ref>
+
+In addition to efforts by [[Territorial authorities of New Zealand|local government]], Emergency Services Coordination Committees were established to enhance operational effectiveness, clarify local capabilities and establish lead agencies for circumstances where statutory authority was unclear, as in the example above. Two examples of committees that remain in existence include those in the [[Franklin District|Counties-Manakau]]<ref>http://www.franklindistrict.co.nz/LinkClick.aspx?link=Plans%2C+Policies+%26+Bylaws%2FPlans+%26+Policies+Index%2FCD_part+4.pdf&tabid=258</ref> and [[Central Hawkes Bay]]<ref>http://www.dia.govt.nz/fireresults.nsf/Files/Central_Hawkes_Bay_Emergency_Coordinating_Committee.pdf/$File/Central_Hawkes_Bay_Emergency_Coordinating_Committee.pdf</ref> areas.
+
+== Current Use ==
+
+=== Emergency Services ===
+
+CIMS is now used by all emergency services, government agencies and management agencies. These organisations include:
+
+* [[AREC]] - Amateur Radio Emergency Communications
+* [[Department of Conservation (New Zealand)|Department of Conservation]] - with responsibility for emergencies in [[national park]]s
+* [[New Zealand Fire Service]]
+* [[New Zealand Police]]
+* [[National Rural Fire Authority]]
+* [[St John New Zealand]]
+* [[Wellington Free Ambulance]]
+* LandSAR New Zealand
+* USAR (Urban Search and Rescue)
+* [[Coastguard New Zealand]]
+* New Zealand's civil defence emergency management sector, including the [[Ministry of Civil Defence & Emergency Management]] and the nationwide network of [[Civil Defence Emergency Management Group]]s
+* Other Government Agencies
+
+It is not strictly used by the [[New Zealand Defence Force]], but the core components slot into the [[military]] [[command structure]] neatly.
+
+=== Wider Adoption ===
+
+====Business Continuity / Crisis Management====
+In recent years, CIMS has also been recognised as best practice for implementing management structures for response and recovery. Many organisations outside of those identified above are now adopting CIMS - including lifeline utilities, universities,<ref>http://www.canterbury.ac.nz/emergency/cims.shtml</ref> and businesses.<ref>http://www.civildefence.govt.nz/memwebsite.NSF/wpg_URL/For-the-CDEM-Sector-Professional-Development-CIMS-Courses?OpenDocument</ref> The key benefits are adopting a recognised standard, and being able to interoperate with other agencies during response to complex events that involve more than one agency.
+
+====Land Search and Rescue====
+New Zealand Land Search and Rescue Inc (LandSAR) has widely adopted the use of CIMS.<ref>http://www.landsar.org.nz/training/cims.html</ref>
+
+== Access to CIMS training ==
+Training is provided by a number of public sector, commercial organisations and NZQA private training establishments. CIMS 2 is widely available from a number of vendors. CIMS 4 can only be delivered as a multi-agency course - usually lead in rotation by Police, Fire, Ambulance or the local Civil Defence Emergency Management (CDEM) authority. For more information, contact your local Civil Defence Emergency Management authority for more information.
+
+CIMS training is registered on the [[National Qualifications Framework]], run by the [[New Zealand Qualifications Authority]].
+
+* NZQA Unit Standard 17279 (Level 2, 2 Credits) - Demonstrate knowledge of the coordinated incident management system (CIMS) ([http://www.nzqa.govt.nz/nqfdocs/units/pdf/17279.pdf NZQA 17279 reference document])
+* NZQA Unit Standard 22445 (Level 4, 4 Credits) - Describe the roles and functions of a CIMS Incident Management Team (IMT) at an incident ([http://www.nzqa.govt.nz/nqfdocs/units/pdf/22445.pdf NZQA 22445 reference document])
+
+== External links ==
+* [http://www.civildefence.govt.nz/memwebsite.nsf/wpg_URL/Locate-the-nearest-council-Index?OpenDocument Find your local CDEM agency]
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+* [[New Zealand Fire Service Commission]], ''The New Zealand Coordinated Incident Management System (CIMS): Teamwork in Emergency Management'', [[Wellington]], New Zealand, Fitzsimmons Beckford Communications & Design, 1998. ISBN 0-908920-32-6
+* [[Ministry of Civil Defence & Emergency Management (New Zealand)|Ministry of Civil Defence & Emergency Management]], ''Guide to the National Civil Defence Emergency Management Plan'', [[Wellington]], New Zealand, 2007 revision. {{Listed Invalid ISBN|0-478-25470-0}}. Digital edition available from http://www.civildefence.govt.nz/memwebsite.NSF/Files/National%20CDEM%20Plan%202005/$file/TheGuide-Revised-Nov-2007.pdf.
+
+[[Category:Disaster preparedness in New Zealand]]
+[[Category:Incident management]]
+[[Category:Emergency management]]

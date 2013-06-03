@@ -1,0 +1,261 @@
+{{Infobox Disease |
+| Name           = Spinal muscular atrophies
+| Image          = Polio_spinal_diagram.PNG
+| Caption        = Location of neurons affected in spinal muscular atrophies 
+| ICD10          = {{ICD10|G|12||g|10}}
+| MeshID         = D009134
+}}
+'''Spinal muscular atrophies''' are a genetically and clinically heterogeneous group of rare debilitating disorders characterised by degeneration of [[lower motor neuron]]s – that is, [[neuron]]al cells situated in the [[anterior horn of spinal cord]] – and subsequent  [[muscular atrophy|atrophy]] (wasting) of various [[muscle]] groups in the body. The clinical spectrum of various spinal muscular atrophies ranges from early infant death to normal adult life with only mild weakness.
+
+== Classification ==
+
+Based on the '''type of muscles''' affected, spinal muscular atrophies can be divided into:
+* ''Proximal spinal muscular atrophies'', i.e.,  conditions that affect primarily [[proximal]] muscles;
+* ''Distal spinal muscular atrophies'' (which significantly overlap with [[distal hereditary motor neuropathies]]) where they affect primarily [[distal]] muscles.
+
+When taking into account '''[[prevalence]]''', spinal muscular atrophies are traditionally divided into::
+* ''[[spinal muscular atrophy|Autosomal recessive proximal spinal muscular atrophy]]'', responsible for 90-95% of cases and usually called simply ''spinal muscular atrophy'' (SMA) – a disorder associated with a [[genetic mutation]] on the ''[[SMN1]]'' gene on [[chromosome 5|chromosome 5q]] ([[locus (genetics)|locus]] 5q13), affecting people of any age but in its most severe form being the most common genetic cause of infant death;
+* ''Localised spinal muscular atrophies'' – much more rare conditions, in some instances described in but a few patients in the world, which are associated with [[genetic mutation|mutations]] of genes other than ''SMN1'' and for this reason sometimes termed simply ''non-5q spinal muscular atrophies''.
+
+A more detailed classification is based on the '''[[gene]]''' associated with the condition (where identified) and is presented in table below.
+
+{| class="wikitable" style="text-align: left"
+|-
+! Group
+! style="width:27em"|Name<br><small>Alternate names</small>
+! [[OMIM]]
+! [[Gene]]
+! style="width:5.5em"|[[Locus (genetics)|Locus]]
+! style="width:11em"|[[Inheritance]]
+! Characteristics
+|-
+| '''SMA'''
+| [[Spinal muscular atrophy]] (SMA)
+<small>Autosomal recessive proximal spinal muscular atrophy</small><br/>
+<small>Werdnig–Hoffmann / Dubowitz / Kugelberg–Welander disease</small>
+| {{OMIM2|253300}}<br/>{{OMIM2|253550}}<br/>{{OMIM2|253400}}<br/>{{OMIM2|271150}}
+| ''[[SMN1]]''
+| [[Chromosome 5|5q13]]
+| [[Autosomal recessive]]
+| Affects primarily proximal muscles in people of all ages, progressive, relatively common
+|-
+| rowspan="3" | '''XLSMA'''
+| [[X-linked spinal muscular atrophy type 1]] (SMAX1)
+<small>Spinal and bulbar muscular atrophy (SBMA)</small><br/>
+<small>Kennedy's disease (KD)</small>
+| {{OMIM2|313200}}
+| ''[[NR3C4]]''
+| [[X chromosome|Xq12]]
+| [[X-linked recessive]]
+| Affects primarily [[bulbar]] muscles as well as [[sensory nerve]]s mainly in adult men, progressive
+|-
+| [[X-linked spinal muscular atrophy type 2]] (SMAX2)
+<small>Arthrogryposis multiplex congenita – X-linked type 1 (AMCX1)</small>
+| {{OMIM2|301830}}
+| ''[[UBA1]]''
+| [[X chromosome|Xp11.23]]
+| [[X-linked recessive]]
+| Affects distal muscles mainly in newborn boys
+|-
+| [[X-linked spinal muscular atrophy type 3]] (SMAX3)
+<small>Distal spinal muscular atrophy – X-linked (DSMAX)</small>
+| {{OMIM2|300489}}
+| ''[[ATP7A]]''
+| [[X chromosome|Xq21.1]]
+| [[X-linked recessive]]
+| Affects distal muscles of all extremities mainly in boys, slowly progressive
+|-
+| rowspan="8" | '''DSMA'''
+| [[Distal spinal muscular atrophy type 1]] (DSMA1)
+<small>Spinal muscular atrophy with respiratory distress type 1 (SMARD1)</small><br/>
+<small>Distal hereditary motor neuropathy type 6 (HMN6)</small>
+| {{OMIM2|604320}}
+| ''[[IGHMBP2]] ''
+| [[Chromosome 11|11q13.3]]
+| [[Autosomal recessive]]
+| Affects mainly infant boys, progressive with [[thoracic diaphragm|diaphragmatic]] paralysis
+|-
+| [[Distal spinal muscular atrophy type 2]] (DSMA2)
+<small>Distal hereditary motor neuropathy – Jerash type (HMN-J)</small>
+| {{OMIM2|605726}}
+| ?
+| [[Chromosome 9|9p21.1–p12]]
+| [[Autosomal recessive]]
+| Slowly progressive, described only in one family
+|-
+| [[Distal spinal muscular atrophy type 3]] (DSMA3)
+<small>Distal hereditary motor neuropathy types 3 & 4 (HMN3, HMN4)</small>
+| {{OMIM2|607088}}
+| ?
+| [[Chromosome 11|11q13.3]]
+| [[Autosomal recessive]]
+| Slowly progressive
+|-
+| [[Distal spinal muscular atrophy type 4]] (DSMA4)
+| {{OMIM2|611067}}
+| ''[[PLEKHG5]]''
+| [[Chromosome 1|1p36.31]]
+| [[Autosomal recessive]]
+| Slowly progressive, described only in one family
+|-
+| [[Distal spinal muscular atrophy type 5]] (DSMA5)
+| {{OMIM2|614881}}
+| ''[[DNAJB2]]''
+| [[Chromosome 2|2q35]]
+| [[Autosomal recessive]]
+| Young adult onset, slowly progressive
+|-
+| [[Distal spinal muscular atrophy type VA]] (DSMAVA)
+<small>Distal hereditary motor neuropathy type 5A (HMN5A)</small>
+| {{OMIM2|600794}}
+| ''[[GARS]]''
+| [[Chromosome 7|7p14.3]]
+| [[Autosomal dominant]]
+| With upper limb predominance; allelic and overlapping with [[Charcot–Marie–Tooth disease|CMT2D]], phenotype overlapping with [[Silver syndrome]]
+|-
+| [[Distal spinal muscular atrophy type VB]] (DSMAVB)
+<small>Distal hereditary motor neuropathy type 5B (HMN5B)</small>
+| {{OMIM2|614751}}
+| ''[[REEP1]]''
+| [[Chromosome 2|2p11]]
+| [[Autosomal dominant]]
+| With upper limb predominance; allelic and overlapping with [[Hereditary spastic paraplegia|HSP]]-31
+|-
+| [[Distal spinal muscular atrophy with vocal cord paralysis]]
+<small>Distal hereditary motor neuropathy type 7A (HMN7A)</small><br/>
+<small>Harper–Young myopathy</small>
+| {{OMIM2|158580}}
+| ''[[SLC5A7]]''
+| [[Chromosome 2|2q12.3]]
+| [[Autosomal dominant]]
+| Adult-onset with vocal cord paralysis, very rare
+|-
+| rowspan="2" | '''ADSMA'''
+| [[Autosomal dominant distal spinal muscular atrophy]]
+<small>Distal hereditary motor neuropathy type 2A (HMN2A)</small>
+| {{OMIM2|158590}}
+| ''[[HSPB8]]''
+| [[Chromosome 12|12q24.23]]
+| [[Autosomal dominant]]
+| Adult-onset
+|-
+| [[Autosomal dominant juvenile distal spinal muscular atrophy]]
+<small>Distal hereditary motor neuropathy type 1 (HMN1)</small>
+| {{OMIM2|182960}}
+| ?
+| [[Chromosome 7|7q34–q36]]
+| [[Autosomal dominant]]
+| Juvenile-onset
+|-
+| rowspan="9" |
+| [[Congenital distal spinal muscular atrophy]]
+| {{OMIM2|600175}}
+| ''[[TRPV4]]''
+| [[Chromosome 12|12q24.11]]
+| [[Autosomal dominant]]
+| Affects primarily distal muscles of lower limbs, non-progressive, rare, allellic with [[scapuloperoneal spinal muscular atrophy|SPSMA]] and [[Charcot–Marie–Tooth disease|CMT2C]]
+|-
+| [[Scapuloperoneal spinal muscular atrophy]] (SPSMA)
+<small>Scapuloperoneal neurogenic amyotrophy</small>
+| {{OMIM2|181405}}
+| ''[[TRPV4]]''
+| [[Chromosome 12|12q24.11]]
+| [[Autosomal dominant]]<br>or [[X-linked dominant]]
+| Affects muscles of lower limbs, non-progressive, rare,  allelic with [[congenital distal spinal muscular atrophy]] and [[Charcot–Marie–Tooth disease|CMT2C]]
+|-
+| [[Segmental spinal muscular atrophy]]
+| {{OMIM2|183020}}
+| ?
+| [[Chromosome 18|18q21.3]]
+| ?
+| Affects primarily hands, non-progressive, rare
+|-
+| [[Finkel-type proximal spinal muscular atrophy]] (SMA-FK)
+| {{OMIM2|182980}}
+| ''[[VAPB]]''
+| [[Chromosome 20|20q13.32]]
+| [[Autosomal dominant]]
+| Late-onset, affects proximal muscles in adults
+|-
+| [[Spinal muscular atrophy with lower extremity predominance]] (SMA-LED)
+| {{OMIM2|158600}}
+| ''[[DYNC1H1]]''
+| [[Chromosome 14|14q32]]
+| [[Autosomal dominant]]
+| Affects proximal muscles in infants, rare
+|-
+| [[Spinal muscular atrophy with progressive myoclonic epilepsy]] (SMA-PME)
+| {{OMIM2|159950}}
+| ''[[ASAH1]]''
+| [[Chromosome 8|8p22]]
+| [[Autosomal recessive]]
+| 
+|-
+| [[Spinal muscular atrophy with congenital bone fractures]] (SMA-CBF)
+| {{OMIM2|271225}}
+| ?
+| ?
+| [[Autosomal recessive]] (?)
+| Characterised by congenital bone fractures on top of typical muscle weakness; described only in a handful of infants
+|-
+| [[Spinal muscular atrophy with pontocerebellar hypoplasia]] (SMA-PCH)
+<small>Pontocerebellar hypoplasia type 1A (PCH1A)</small>
+| {{OMIM2|607596}}
+| ''[[VRK1]]''
+| [[Chromosome 14|14q32]]
+| [[Autosomal dominant]]
+| → see ''[[Pontocerebellar hypoplasia]]''
+|-
+| [[Juvenile asymmetric segmental spinal muscular atrophy]] (JASSMA)
+<small>Monomelic amyotrophy; Hirayama disease; Sobue disease</small>
+| {{OMIM2|602440}}
+| ?
+| ?
+| ?
+| → see ''[[Monomelic amyotrophy]]''
+|}
+
+In all forms of SMA (with an exception of [[X-linked spinal muscular atrophy type 1]]), only [[motor neuron]]s, located at the [[anterior horn of spinal cord]], are affected; [[sensory neuron]]s, which are located at the [[posterior horn of spinal cord]], are not affected. By contrast, hereditary disorders that cause both weakness due to motor denervation along with ''sensory'' impairment due to sensory denervation are known as [[hereditary motor and sensory neuropathies]] (HMSN).
+
+== Symptoms ==
+
+In all spinal muscular atrophies, the primary feature is muscle weakness accompanied by [[muscle atrophy|atrophy]] of muscle. This is the result of [[denervation]], or loss of the signal to contract that is transmitted by the [[motor neuron]]s in the [[spinal cord]]. The signal is normally transmitted from the spinal cord to muscle via the motor neuron's [[axon]], but in spinal muscular atrophies either the entire motor neuron or the motor neuron's axon loses the ability to transmit signals to muscles.
+
+The symptoms are strongly related to the exact disease (see above) and, sometimes, to the age of onset. Certain conditions (e.g., [[spinal muscular atrophy]] or [[spinal and bulbar muscular atrophy]]) have a wide range, from infancy to adult, fatal to trivial, with different affected individuals manifesting every shade of impairment between these two extremes. Other muscular atrophies have a different and often very severe course. Some of them are extremely rare and described only in a handful of individuals. However, in all cases the majority of symptoms are a consequence of muscle weakness.
+
+== Diagnosis ==
+
+While the presence of several symptoms may point towards a particular genetic disorder of the spinal muscular atrophy group, the actual disease can be established with full certainty only by [[genetic testing]] which detects the underlying [[genetic mutation]].
+
+==Treatment==
+
+As with many [[genetic disorder]]s, there is no known cure to any disorder of the spinal muscular atrophies group. [[palliative care|Supportive therapies]] are widely employed for patients who often also require comprehensive medical care involving multiple disciplines, including [[pulmonology]], [[neurology]], [[orthopedic surgery]], [[critical care]], and [[clinical nutrition]]. Various forms of [[physiotherapy]] and [[occupational therapy]] are frequently able to slow down the pace of nerve degeneration and [[muscle wasting]]. Patients also benefit greatly from the use of [[assistive technology]].
+
+For more detailed therapeutic pathways, see articles on individual diseases.
+
+== SMA Treatment Acceleration Act ==
+{{main|SMA Treatment Acceleration Act}}
+In 2007, an act of law called [[SMA Treatment Acceleration Act]] was introduced in the [[United States Congress]] in order to "authorize the Secretary of Health and Human Services to conduct activities to rapidly advance treatments for spinal muscular atrophy, neuromuscular disease, and other pediatric diseases, and for other purposes." As of 2012, it remains in a committee in the 111th Congress.
+
+==Further reading==
+
+{{refbegin|30em}}
+*{{cite doi|10.1007/s00415-003-0235-9}}
+*{{cite doi|10.1016/j.braindev.2007.07.008}}
+{{refend}}
+
+==See also==
+
+* [[Motor neuron disease]]
+* [[Distal hereditary motor neuropathies]]
+* [[Spinal muscular atrophy]]
+* [[Polyneuropathy in dogs and cats]]
+
+
+{{Diseases of the nervous system}}
+
+[[Category:Motor neurone disease]]
+[[Category:Genetic disorders by system]]
+[[Category:Systemic atrophies primarily affecting the central nervous system]]
+[[Category:Genetic disorders]]
+[[Category:Neurological disorders]]

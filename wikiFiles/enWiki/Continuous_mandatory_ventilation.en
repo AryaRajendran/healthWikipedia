@@ -1,0 +1,51 @@
+'''Continuous mandatory ventilation''' — ('''CMV''') is a [[mode of mechanical ventilation]] where breaths are delivered based on set variables.  The ventilator may sense patient effort and deliver a machine-controlled breath in response to preset trigger variables. The ventilator is set to deliver a breath according to parameters selected by the operator. CMV may be uncomfortable for the patient, especially if the patient is unable to trigger breaths or the machine is unable to keep up with a high respiratory demand. "Assist control" or "controlled mechnical ventilation" are outdated terms for CMV, which is now accepted standard [[nomenclature of mechanical ventilation|nomenclature]].
+
+== Expected outcomes and considerations ==
+Continuous mandatory ventilation is associated with profound diaphragm muscle dysfunction and atrophy.<ref name="pmid15201132">{{cite journal| author=Sassoon CS, Zhu E, Caiozzo VJ| title=Assist-control mechanical ventilation attenuates ventilator-induced diaphragmatic dysfunction. | journal=Am J Respir Crit Care Med | year= 2004 | volume= 170 | issue= 6 | pages= 626–32 | pmid=15201132 | doi=10.1164/rccm.200401-042OC | pmc= | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=15201132  }}</ref>  CMV is no longer the preferred mode of mechanical ventilation.<ref name="pmid21813526">{{cite journal| author=Macintyre N| title=Counterpoint: Is Pressure Assist-Control Preferred Over Volume Assist-Control Mode for Lung Protective Ventilation in Patients With ARDS? No. | journal=Chest | year= 2011 | volume= 140 | issue= 2 | pages= 290–2 | pmid=21813526 | doi=10.1378/chest.11-1052 | pmc= | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=21813526  }}</ref>
+
+== Volume-controlled CMV ==
+
+=== Trigger ===
+Breath initiation is based on time or patient initiation.  Time is set by respiratory rate (V<sub>f</sub> or RR) and patient initiation is sensed by a flow, volume or pressure trigger and a full ventilator breath (the set tidal volume) is given.
+
+=== Limit ===
+Limits in VC-CMV may be set and pressure based.  The ventilator will attempt to deliver the set tidal volume utilizing whatever pressure is required to reach its setting.  A pressure limit may be added to limit damage to the lungs ([[barotrauma]]).
+
+=== Cycle ===
+Expiration cycling can be set by time or the pressure limit.  Once the T<sub>i</sub> (inspiratory time) is reached, or a pressure limit is reached the ventilator will cycle into expiratory mode and allow passive exhalation until another breath is triggered.
+
+== Pressure-controlled CMV ==
+Pressure control (PC) is a pressure-controlled mode of ventilation.  The ventilator delivers a flow to maintain the preset pressure at a preset [[respiratory rate]] over a preset inspiratory time.<ref>MAQUET, "Modes of ventilation in SERVO-i, Invasive and Non-invasive, 2008 MAQUET Critical Care AB, Order No 66 14 692</ref>
+
+The pressure is constant during the inspiratory time and the flow is decelerating. If for any reason pressure decreases during inspiration, the flow from the ventilator will immediately increase to maintain the set inspiratory pressure.<ref>MAQUET, "Modes of ventilation in SERVO-s, Invasive and Non-invasive", 2009 MAQUET [[Intensive care medicine|Critical Care]] AB, Order No 66 61 131</ref>
+
+== Dual-control modes ==
+{{main|dual-control modes of ventilation}}
+Dual-control modes are [[pressure control]]led modes with an exhaled [[tidal volume]] target. They work on a breath-by-breath basis and provide pressure-limited time-cycled breaths, increasing or decreasing the pressure of the next breath as necessary to achieve a user-selected desired tidal volume. They are known by various vendor-specific terms such as pressure-regulated volume control ([[Siemens]]), autoflow ([[Dräger]]), adaptive-pressure ventilation (Hamilton Medical), volume-control plus ([[Covidien]]), among others.
+
+== Out-dated terminology ==
+Many terms have been developed to describe the same [[modes of mechanical ventilation]].  [[Nomenclature of mechanical ventilation]] has become more standardized and these terms are no longer preferred but still may be seen in older research<ref name="ReferenceA">Chatburn RL. Classification of ventilator modes: update and proposal for implementation. Respir Care 2007; 52:301–323.</ref> there are many different names that historically were used to reference CMV but now reference Assist Control.<ref name="ReferenceA"/> Names such as: volume control ventilation, and volume cycled ventilation in modern usage refer to the Assist Control mode.
+* Assist/control
+* A/C
+* CMV
+* Volume assist/control
+* Volume control
+* Volume limited ventilation
+* Volume controlled ventilation
+* Controlled ventilation
+* Volume targeted ventilation
+
+==See also==
+*[[Modes of mechanical ventilation]]
+*[[Volume controlled intermittent mandatory ventilation]]
+*[[Pressure controlled continuous mandatory ventilation]]
+*[[Pressure controlled intermittent mandatory ventilation]]
+*[[Continuous spontaneous ventilation]]
+
+==References==
+{{reflist|30em}}
+
+{{Mechanical ventilation}}
+
+[[Category:Respiratory therapy]]
+[[Category:Mechanical ventilation]]

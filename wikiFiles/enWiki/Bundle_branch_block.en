@@ -1,0 +1,74 @@
+{{Infobox_Disease |
+  Name           = Bundle branch block |
+  Image          = Bundle branch block.svg|
+  Caption        = [[ECG]] Showing changes in bundle branch block|
+  DiseasesDB     = 7352 |
+  DiseasesDB_mult = {{DiseasesDB2|11620}} |
+  ICD10          = {{ICD10|I|44|4|i|30}}-{{ICD10|I|44|7|i|30}}, {{ICD10|I|45||i|30}} |
+  ICD9           = {{ICD9|426.3}}-{{ICD9|426.5}} |
+  ICDO           = |
+  OMIM           = |
+  MedlinePlus    = |
+  eMedicineSubj  = ped |
+  eMedicineTopic = 2501 |
+  eMedicine_mult = {{eMedicine2|ped|2500}} |
+  MeshID         = D002037 |
+}}
+A '''bundle branch block''' refers to a defect of the [[heart]]'s [[electrical conduction system of the heart|electrical conduction system]].
+
+==Anatomy and physiology==
+:''Main article: [[Electrical conduction system of the heart]]''
+The heart's electrical activity begins in the [[sinoatrial node]] (the heart's natural [[cardiac pacemaker|pacemaker]]), which is situated on the upper right [[Atrium (heart)|atrium]]. The impulse travels next through the left and right atria and summates at the [[atrioventricular node]]. From the AV node the electrical impulse travels down the [[Bundle of His]] and divides into the right and left bundle branches. The right bundle branch contains one [[wikt:fascicle|fascicle]]. The left bundle branch subdivides into two fascicles: the left anterior fascicle and the left posterior fascicle. Other sources divide the Left Bundle branch into three (3) fascicles, the left anterior, the left posterior, and the left septal fascicle. The thicker left posterior fascicle bifurcates, with one fascicle being in the septal aspect.  Ultimately, the fascicles divide into millions of [[Purkinje fibers|Purkinje]] fibres which in turn interdigitise with individual cardiac myocytes, allowing for rapid, coordinated, and synchronous physiologic depolarization of the ventricles.
+
+==Bundle branch blocks==
+
+When a bundle branch or fascicle becomes injured (due to underlying [[heart disease]], [[myocardial infarction]], or cardiac surgery), it may cease to conduct electrical impulses appropriately. This results in altered pathways for ventricular depolarization. Since the electrical impulse can no longer use the preferred pathway across the bundle branch, it may move instead through muscle fibers in a way that both slows the electrical movement and changes the directional propagation of the impulses. As a result, there is a loss of ventricular synchrony, ventricular depolarization is prolonged, and there may be a corresponding drop in cardiac output. When [[heart failure]] is present, a specialized [[artificial pacemaker|pacemaker]] may be used to resynchronize the ventricles. In theory a pacemaker like this will shorten the QRS interval, thus bringing the timing of contraction of the left and right ventricles closer together and perhaps tweaking up the [[Ejection Fraction]].
+=== Types of bundle branch blocks ===
+Depending on the anatomical location of the defect which leads to a bundle branch block, the blocks are further classified into;
+*[[Right bundle branch block]]
+*[[Left bundle branch block|Left Bundle branch block]]
+The left bundle branch block can be further sub classified into;
+*[[Left anterior fascicular block]]. In this case only the anterior half of the left bundle branch (fascicle) is involved
+*[[Left posterior fascicular block]]. Only the posterior part of the left bundle branch is involved
+Other classifications of bundle branch blocks are;
+*[[Bifascicular block]]. This is a combination of right bundle branch block (RBBB) and either left anterior fascicular block (LAFB) or left posterior fascicular block (LPFB)
+*[[Trifascicular block]]. This is a combination of right bundle branch block with either left anterior fascicular block or left posterior fascicular block together with a [[first degree AV block]]
+
+==Diagnosis and treatment==
+
+A bundle branch block can be diagnosed when the duration of the QRS complex on the [[electrocardiogram|ECG]] exceeds 120 ms. A right bundle branch block typically causes prolongation of the last part of the QRS complex, and may shift the heart's electrical axis slightly to the right. The ECG will show a terminal R wave in lead V1 and a slurred S wave in lead I.
+Left bundle branch block widens the entire QRS, and in most cases shifts the heart's electrical axis to the left. The ECG will show a QS or rS complex in lead V1 and a monophasic R wave in lead I. Another normal finding with bundle branch block is appropriate T wave discordance. In other words, the T wave will be deflected opposite the terminal deflection of the QRS complex.
+Bundle branch block, especially left bundle branch block, can lead to cardiac dyssynchrony. The simultaneous occurrence of left and right bundle branch block leads to total AV block. 
+
+Some people with bundle branch blocks are born with this condition. Many other acquire it as a consequence of heart disease. People with bundle branch blocks may still be quite active, and may have nothing more remarkable than an abnormal appearance to their ECG.  However, when bundle blocks are complex and diffuse in the bundle systems, or associated with additional and significant ventricular muscle damage, they may be a sign of serious underlying heart disease. In more severe cases, a [[Artificial pacemaker|pacemaker]] may be required to restore an optimal electrical supply to the heart muscle.
+
+==See also==
+*[[Electrical conduction system of the heart]]
+*[[Cardiac pacemaker]]
+*[[Heart block]]s
+*[[First degree AV block]]
+*[[Second degree AV block]]
+*[[Third degree AV block]]
+*[[Right bundle branch block]]
+*[[Left bundle branch block]]
+*[[Left anterior fascicular block]]
+*[[Left posterior fascicular block]]
+*[[Bifascicular block]]
+*[[Trifascicular block]]
+
+===References===
+* Cecil Textbook of Medicine. W.B. Sanders. 2004. Chapters 50; 58.
+* Rakel: Textbook of Family Practice, 6th ed., 2002 W. B. Saunders Company. pp. 699-732.
+
+{{Circulatory system pathology}}
+[[Category:Cardiac dysrhythmia]]
+
+[[cs:Raménkové blokády]]
+[[de:Schenkelblock]]
+[[fr:Bloc de branche]]
+[[it:Blocco di branca]]
+[[nl:Bundeltakblok]]
+[[ja:脚ブロック]]
+[[pt:Bloqueio átrio ventricular de primeiro grau]]
+[[ro:Bloc de ramură]]
+[[ru:Блокада ножек пучка Гиса]]

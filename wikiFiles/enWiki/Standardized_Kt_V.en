@@ -1,0 +1,123 @@
+'''Standardized Kt/V''', also '''std Kt/V''', is a way of measuring ([[renal]]) [[dialysis adequacy]].  It was developed by [[Frank Gotch (MD)|Frank Gotch]] and is used in the [[USA]] to measure [[dialysis]].  Despite the name, it is quite different from [[Kt/V]].  In theory, both [[peritoneal dialysis]] and [[hemodialysis]] can be quantified with std Kt/V.
+
+==Derivation==
+Standardized Kt/V is motivated by the steady state solution of the mass transfer equation often used to approximate kidney function (equation ''1''), which is also used to define [[clearance (medicine)|clearance]].  
+
+:<math>V \frac{dC}{dt} = -K \cdot C + \dot{m} \qquad(1)</math>
+
+where
+*<math>\dot{m}</math> is the mass generation rate of the substance - assumed to be a constant, i.e. not a function of time (equal to zero for foreign substances/drugs) [mmol/min] or [mol/s]
+*t is dialysis time [min] or [s]
+*V is the [[volume of distribution]] (total [[body water]]) [L] or [m<sup>3</sup>]
+*K is the clearance [mL/min] or [m<sup>3</sup>/s]
+*C is the concentration [mmol/L] or [mol/m<sup>3</sup>] (in the [[USA]] often [mg/mL])
+From the above definitions it follows that <math>\frac{dC}{dt}</math> is the first [[derivative]] of concentration with respect to time, i.e. the change in concentration with time. 
+
+Derivation equation ''1'' is described in the article [[clearance (medicine)]].
+
+The solution of the above differential equation (equation 1) is
+
+:<math>C = \frac{\dot{m}}{K} + \left(C_{o}-\frac{\dot{m}}{K}\right) e^{-\frac{K \cdot t}{V}} \qquad(2)</math>
+
+where
+*C<sub>o</sub> is the concentration at the beginning of dialysis [mmol/L] or [mol/m<sup>3</sup>]
+*[[E (mathematical constant)|e]] is the base of the [[natural logarithm]]
+
+The steady state solution is
+
+:<math> C_{\infty} = \frac {\dot{m}}{K} \qquad(3a)</math>
+
+This can be written as
+
+:<math> K = \frac {\dot{m}}{C_{\infty}} \qquad(3b)</math>
+
+Equation ''3b'' is the equation that defines [[clearance (medicine)|clearance]].  It is the motivation for K' (the equivalent clearance):
+
+:<math> {K'}  = \frac {\dot{m}}{C_o} \qquad(4)</math>
+
+where
+*K' is the equivalent clearance [mL/min] or [m<sup>3</sup>/s]
+*<math>\dot{m}</math> is the mass generation rate of the substance - assumed to be a constant, i.e. not a function of time [mmol/min] or [mol/s]
+*C<sub>o</sub> is the concentration at the beginning of dialysis [mmol/L] or [mol/m<sup>3</sup>]
+
+Equation ''4'' is normalized by the volume of distribution to form equation ''5'':
+
+:<math> \frac {K'}{V}  = \frac {\dot{m}}{C_o \cdot V} \qquad(5)</math>
+
+Equation ''5'' is multiplied by an arbitrary constant to form equation ''6'':
+
+:<math> \mbox{const} \cdot \frac {K'}{V}  = \mbox{const} \cdot \frac {\dot{m}}{C_o \cdot V} \qquad(6)</math>
+
+Equation ''6'' is then defined as standardized Kt/V (std Kt/V):
+
+:<math>\mbox{std} \frac{K \cdot t}{V} \ \stackrel{\mathrm{def}}{=}\   \mbox{const} \cdot \frac {\dot{m}}{C_o \cdot V} \qquad(7)</math><ref>{{cite journal |author=Gotch FA |title=The current place of urea kinetic modelling with respect to different dialysis modalities |journal=Nephrol Dial Transplant. |volume=13 Suppl 6 |issue= 90006|pages=10–4 |year=1998 |pmid=9719197 |doi= 10.1093/ndt/13.suppl_6.10|url=http://ndt.oxfordjournals.org/cgi/reprint/13/suppl_6/10}}</ref><ref name=gotch_10936795>{{cite journal |author=Gotch FA, Sargent JA, Keen ML |title=Whither goest Kt/V? |journal=Kidney Int. Suppl. |volume=76 |issue= |pages=S3–18 |year=2000 |month=August |pmid=10936795 |doi= 10.1046/j.1523-1755.2000.07602.x|url=}}</ref>
+
+where
+
+* ''const'' is 7×24×60×60 seconds, the number of [[second]]s in a week.
+
+==Interpretation of std Kt/V==
+Standardized Kt/V can be interpreted as a concentration normalized by the mass generation per unit volume of body water.
+
+Equation ''7'' can be written in the following way:
+
+:<math>\mbox{std} \frac{K \cdot t}{V} \ \stackrel{\mathrm{def}}{=}\mbox{ const} \cdot \frac {\dot{m}}{V} \frac{1}{C_o} \qquad(8)</math>
+
+If one takes the inverse of Equation ''8'' it can be observed that the ''inverse of std Kt/V'' is proportional to the ''concentration of urea'' (in the body) divided by the ''production of urea per time'' per ''unit volume of body water''.
+
+:<math>\left[ std \frac{K \cdot t}{V} \right]^{-1} \propto \frac{C_o}{\dot{m}/V} \qquad(9)</math>
+
+==Comparison to Kt/V==
+[[Kt/V]] and ''standardized Kt/V'' are not the same. Kt/V is a ratio of the pre- and post-dialysis urea concentrations. Standardized Kt/V is an equivalent clearance defined by the initial urea concentration (compare equation ''8'' and equation ''10'').
+
+Kt/V is defined as (see article on [[Kt/V]] for derivation):
+
+:<math> \frac{K \cdot t}{V} = \ln \frac{C_o}{C} \qquad(10)</math><ref>{{cite journal |author=Gotch FA, Sargent JA |title=A mechanistic analysis of the National Cooperative Dialysis Study (NCDS) |journal=Kidney Int. |volume=28 |issue=3 |pages=526–34 |year=1985 |month=September |pmid=3934452 |doi= 10.1038/ki.1985.160|url=}}</ref>
+
+Since Kt/V and std Kt/V are defined differently, Kt/V and std Kt/V values cannot be compared.
+
+==Advantages of std Kt/V==
+* Can be used to compare any dialysis schedule (i.e. [[nocturnal home hemodialysis]] vs. daily hemodialysis vs. conventional hemodialysis)
+* Applicable to [[peritoneal dialysis]].
+* Can be applied to patients with residual renal function; it is possible to demonstrate that C<sub>o</sub> is a function of the residual kidney function ''and'' the "cleaning" provided by dialysis.
+* The model can be applied to substances other than urea, if the clearance, ''K'', and generation rate of the substance, <math>\dot{m}</math>, are known.<ref name=gotch_10936795/>
+
+==Criticism/disadvantages of std Kt/V==
+* It is complex and tedious to calculate, although [http://www.hdcn.com/calcf/ley.htm web-based calculators] are available to do this fairly easily.
+* Many nephrologists have difficulty understanding it.
+* [[Urea]] is not associated with toxicity.<ref>{{cite journal |author=Johnson WJ, Hagge WW, Wagoner RD, Dinapoli RP, Rosevear JW |title=Effects of urea loading in patients with far-advanced renal failure |journal=Mayo Clinic Proc. |volume=47 |issue=1 |pages=21–9 |year=1972 |month=January |pmid=5008253 |doi= |url=}}</ref>
+* Standardized Kt/V only models the clearance of urea and thus implicitly assumes the clearance of urea is comparable to other toxins.  It ignores molecules that (relative to urea) have [[diffusion|diffusion-limited]] transport - so called [[middle molecules]].
+* It ignores the [[mass transfer]] between body compartments and across the [[plasma membrane]] (i.e. [[intracellular]] to [[extracellular]] transport), which has been shown to be important for the clearance of molecules such as [[phosphate]].
+* The Standardized Kt/V is based on body water volume (V).  The [[Glomerular filtration rate]], an estimate of normal kidney function, is usually normalized to body surface area (S).  S and V differ markedly between small vs. large people and between men and women.  A man and a woman of the same S will have similar levels of GFR, but their values for V may differ by 15-20%.  Because standardized Kt/V incorporates residual renal function into the calculations, it makes the assumption that kidney function should scale by V.  This may disadvantage women and smaller patients of either sex, in whom V is decreased to a greater extent than S.
+
+==Calculating stdKt/V from treatment Kt/V and number of sessions per week==
+
+The various ways of computing standardized Kt/V by Gotch,<ref>{{cite journal |author=Gotch FA |title=The current place of urea kinetic modelling with respect to different dialysis modalities |journal=Nephrol Dial Transplant. |volume=13 Suppl 6 |issue= 90006|pages=10–4 |year=1998 |pmid=9719197 |doi= 10.1093/ndt/13.suppl_6.10|url=http://ndt.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=9719197}}</ref> Leypoldt,<ref>{{cite journal |author=Leypoldt JK, Jaber BL, Zimmerman DL |title=Predicting treatment dose for novel therapies using urea standard Kt/V |journal=Seminars in Dialysis |volume=17 |issue=2 |pages=142–5 |year=2004 |pmid=15043617 |doi=10.1111/j.0894-0959.2004.17212.x |url=}}</ref> and the FHN trial network <ref>{{cite journal |author=Suri RS, Garg AX, Chertow GM, ''et al.'' |title=Frequent Hemodialysis Network (FHN) randomized trials: study design |journal=Kidney Int. |volume=71 |issue=4 |pages=349–59 |year=2007 |month=February |pmid=17164834 |doi=10.1038/sj.ki.5002032 |url=}}</ref> are all a bit different, as assumptions differ on equal spacing of treatments, use of a fixed or variable volume model, and whether or not urea rebound is taken into effect.<ref>{{cite journal |author=Diaz-Buxo JA, Loredo JP |title=Standard Kt/V: comparison of calculation methods |journal=Artificial Organs |volume=30 |issue=3 |pages=178–85 Erratum in 30(6):490|year=2006 |month=March |pmid=16480392 |doi=10.1111/j.1525-1594.2006.00204.x |url=}}</ref>  One equation, proposed by Leypoldt and modified by Depner that is cited in the [http://www.kidney.org/professionals/kdoqi/guideline_upHD_PD_VA/hd_rec2.htm KDOQI 2006 Hemodialysis Adequacy Guidelines] and which is the basis for a [http://www.hdcn.com/calcf/ley.htm web calculator for stdKt/V] is as follows: 
+
+<math>stdKt/V = \frac { \frac {10080 \cdot (1 - e^{-eKt/V})}{t} }{ \frac {1 - e^{-eKtV}}{spKt/V} + \frac{10080}{N \cdot t} - 1} </math>
+
+where ''stdKt/V'' is the standardized Kt/V <BR/>
+''spKt/V'' is the single-pool Kt/V, computed as described in [[Kt/V]] section using a simplified equation or ideally, using urea modeling, and <BR>
+''eKt/V'' is the equilibrated Kt/V, computed from the single-pool Kt/V (spKt/V) and session length (t) using, for example, the Tattersall equation:<ref>{{cite journal |author=Tattersall JE, DeTakats D, Chamney P, Greenwood RN, Farrington K |title=The post-hemodialysis rebound: predicting and quantifying its effect on Kt/V |journal=Kidney Int. |volume=50 |issue=6 |pages=2094–102 |year=1996 |month=December |pmid=8943495 |doi= 10.1038/ki.1996.534|url=}}</ref>
+
+<math>ekt/V = spKt/V \cdot \frac {t}{t+C}</math>
+
+where ''t'' is session duration in minutes, and ''C'' is a time constant, which is specific for type of access and type solute being removed.  For urea, ''C'' should be 35 minutes for arterial access and 22 min for a venous access.
+
+The regular "rate equation" <ref>{{cite journal |author=Daugirdas JT, Greene T, Depner TA, ''et al.'' |title=Factors that affect postdialysis rebound in serum urea concentration, including the rate of dialysis: results from the HEMO Study |journal=J Am Soc Nephrol. |volume=15 |issue=1 |pages=194–203 |year=2004 |month=January |pmid=14694173 |doi= 10.1097/01.ASN.0000103871.20736.0C|url=http://jasn.asnjournals.org/cgi/pmidlookup?view=long&pmid=14694173}}</ref> also can be used to determine equilibrated Kt/V from the spKt/V, as long as session length is 120 min or longer.
+
+==Plot showing std Kt/V depending on regular Kt/V for different treatment regimens ==
+[[Image:Std ktv.svg#file|200 px|thumb|right|Plot relating standardized Kt/V, Kt/V and treatment frequency per week.]]
+One can create a plot to relate the three grouping (standardized Kt/V, Kt/V, treatment frequency per week), sufficient to define a dialysis schedule. The equations are strongly dependent on session length; the numbers will change substantially between two sessions given at the same schedule, but with different session lengths.  For the present plot, a session length of 0.4 Kt/V units per hour was assumed, with a minimum dialysis session length of 2.0 hours.
+
+==References==
+{{reflist}}
+
+{{Renal physiology}}
+
+==External links==
+*[http://www.ureakinetics.org/home.html  Standardized Kt/V using formal 2-pool kinetics] - Ureakinetics.org
+*[http://www.hdcn.com/calcf/ley.htm  Standardized Kt/V calculator] - HDCN
+
+{{DEFAULTSORT:Standardized Kt V}}
+[[Category:Renal dialysis]]

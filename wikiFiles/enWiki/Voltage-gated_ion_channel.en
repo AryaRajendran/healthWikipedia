@@ -1,0 +1,41 @@
+'''Voltage-gated ion channels''' are a class of [[Transmembrane protein|transmembrane]] [[ion channel]]s that are activated by changes in electrical [[potential difference]] near the channel; these types of ion channels are especially critical in [[neuron]]s, but are common in many types of [[cell (biology)|cells]].
+
+They have a crucial role in excitable neuronal and muscle tissues, allowing a rapid and co-ordinated depolarization in response to triggering [[Voltage drop|voltage change]]. Found along the [[axon]] and at the [[synapse]], voltage-gated ion channels directionally propagate electrical signals.
+
+==Structure==
+They generally are composed of several subunits arranged in such a way that there is a central pore through which ions can travel down their [[electrochemical gradient]]s. The channels tend to be ion-specific, although similarly sized and charged ions may sometimes travel through them.
+
+Examples include:
+* the [[sodium channel|sodium]] and [[potassium channel|potassium]] voltage-gated channels of nerve and muscle.
+* the [[voltage-gated calcium channel]]s that play a role in [[exocytosis|neurotransmitter release]] in [[chemical synapse|pre-synaptic]] nerve endings.
+
+==Mechanism==
+From [[x-ray crystallography|crystallographic]] structural studies of a [[potassium channel]], assuming that this structure remains intact in the corresponding [[Cell membrane|plasma membrane]], it is possible to surmise that when a [[potential difference]] is introduced over the membrane, the associated [[electromagnetic field]] induces a conformational change in the potassium channel. The conformational change distorts the shape of the channel proteins sufficiently such that the cavity, or channel, opens to admit ion influx or efflux to occur across the membrane, down its electrochemical gradient. This subsequently generates an electrical [[current (electricity)|current]] sufficient to depolarise the cell membrane.
+
+[[Sodium_channel#Voltage-gated|Voltage-gated sodium channels]] and [[Voltage-dependent calcium channel|calcium channels]] are made up of a single polypeptide with four homologous domains. Each domain contains 6 membrane spanning [[Alpha helix|alpha helices]]. One of these helices, S4, is the voltage sensing helix.<ref>[http://pharmaxchange.info/press/2011/02/voltage-sensor-in-the-voltage-gated-sodium-and-potassium-channels/ Voltage sensor in the voltage gated sodium and potassium channels | PharmaXChange.info]</ref> It has many positive charges such that a high positive charge outside the cell repels the helix, keeping the channel in its closed state. Depolarization of the cell interior causes the helix to move, inducing a conformational change such that ions may flow through the channel (the open state). Potassium channels function in a similar way, with the exception that they are composed of four separate polypeptide chains, each comprising one domain.
+
+The voltage-sensitive [[protein domain]] of these channels (the "voltage sensor") generally contains a region composed of S3b and S4 helices, known as the "paddle" due to its shape, which appears to be a [[conserved sequence]], interchangeable across a wide variety of cells and species. A similar voltage sensor paddle has also been found in a family of [[voltage sensitive phosphatase]]s in various species.<ref>{{Cite pmid|15902207|noedit}}</ref> [[Genetic engineering]] of the paddle region from a species of volcano-dwelling [[archaebacteria]] into rat brain potassium channels results in a fully functional ion channel, as long as the whole intact paddle is replaced.<ref name="pmid18004375">{{cite journal | author = Alabi AA, Bahamonde MI, Jung HJ, Kim JI, Swartz KJ | title = Portability of paddle motif function and pharmacology in voltage sensors | journal = Nature | volume = 450 | issue = 7168 | pages = 370–5 | year = 2007 | month = November | pmid = 18004375 | pmc = 2709416 | doi = 10.1038/nature06266 }}</ref> This "[[modular]]ity" allows use of simple and inexpensive model systems to study the function of this region, its role in disease, and pharmaceutical control of its behavior rather than being limited to poorly characterized, expensive, and/or difficult to study preparations.<ref name="pmid18004376">{{cite journal | author = Long SB, Tao X, Campbell EB, MacKinnon R | title = Atomic structure of a voltage-dependent K+ channel in a lipid membrane-like environment | journal = Nature | volume = 450 | issue = 7168 | pages = 376–82 | year = 2007 | month = November | pmid = 18004376 | doi = 10.1038/nature06265 }}</ref>
+
+==References==
+{{reflist}}
+
+==See also==
+
+* [[Ion channel]]
+* [[Voltage-dependent calcium channel]]
+* [[Voltage-gated proton channel]]
+* [[Voltage-gated potassium channel]]
+* [[Sodium ion channel]]
+* [[Potassium channel]]
+* [[Catecholaminergic polymorphic ventricular tachycardia]]
+
+==External links==
+*[http://www.iuphar-db.org/DATABASE/VoltageGatedSubunitListForward IUPHAR-DB Voltage-gated ion channel subunits]
+*[http://www.iuphar-db.org/index_ic.jsp The IUPHAR Compendium of Voltage-gated Ion Channels 2005]
+* {{MeshName|Voltage-Dependent+Anion+Channels}}
+
+{{Ion channels|g9}}
+
+[[Category:Ion channels]]
+[[Category:Electrophysiology]]
+[[Category:Integral membrane proteins]]

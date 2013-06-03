@@ -1,0 +1,30 @@
+{{about|the diagnostic test for salicylates|the diagnostic test for glucose that uses a different reagent by the same name|Trinder glucose activity test}}
+The '''Trinder spot test''' is a diagnostic test used in medicine to determine exposure to [[salicylate]]s, particularly to [[salicylic acid]].  The test employs the '''Trinder reagent''' (a.k.a. '''Trinder solution''') which is mixed with a patient's [[urine]].  The colour change, resulting from the '''Trinder reaction''', is immediate, enabling rapid bedside assessment.<ref name=ClinToxicLab>{{cite book|title=The clinical toxicology laboratory|author=Leslie M. Shaw, Tai C Kwong, Barbarajean Magnani|page=31|chapter=Clinical Approach to the Poisoned Patient|isbn=1-890883-53-0|publisher=American Association for Clinical Chemistry Inc.|year=2001}}</ref><ref name=Goldfrank>{{cite book|title=Goldfrank's toxicologic emergencies|editor=Lewis R. Goldfrank, Neal Flomenbaum, Mary Ann Howland, Robert S. Hoffman, Neal A. Lewin, and Lewis S. Nelson|page=557|chapter=Salicylates|author=[[Neal Flomenbaum]]|edition=8th|publisher=McGraw-Hill Professional|year=2006|isbn=0-07-143763-0|isbn13=9780071437639}}</ref>
+
+The Trinder solution/reagent is a pre-mixed solution of 10% [[ferric chloride]].<ref name=ClinToxicLab /> It can be prepared by combining 40 g of [[mercuric chloride]] and 40 g of [[ferric nitrate]] in 850 ml of [[deionized water#Laboratory use|type II deionized water]], and then adding 10 ml of concentrated [[hydrochloric acid]] to the solution and diluting to a volume of 1 litre with more type II deionized water.<ref name=Goldfrank /><ref name=Dart>{{cite book|title=Medical toxicology|author=Richard C. Dart|page=743|edition=3rd|publisher=Lippincott Williams &amp; Wilkins|year=2004|isbn=0-7817-2845-2|isbn13=9780781728454}}</ref>
+
+The test for the Trinder reaction is to mix 1 ml of urine with 1 ml of the Trinder reagent in a [[test tube]].  The test is positive if a colour change results.<ref name=Dart />  The specific colour changes are:
+;blue or purple:positive test<ref name=ClinToxicLab /><ref name=Goldfrank />
+;no change:negative test<ref name=ClinToxicLab />
+;brown:false-positive test caused by the presence of [[phenothiazine]]s<ref name=ClinToxicLab />
+
+The test has a sensitivity of 94% and a specificity of 74% for identifying patients whose salicylate concentrations are greater than 30&nbsp;mg per decilitre (2.17&nbsp;mmol/L).<ref name=ClinToxicLab />  False positive concentrations (2.8 to 14.3&nbsp;mg per decilitre) have been reported to occur in neonates with [[hyperbilirubinemia]], premature neonates, and children who are seriously ill (e.g. children who have extensive burns).<ref name=Dart />
+
+The reaction between iron(III) and pharmaceuticals was first adapted for clinical use by P. Trinder (after whom the test, reaction, and reagent are now named), of the Biochemistry Department of the [[Royal Infirmary]] in [[Sunderland, Tyne and Wear|Sunderland]], in 1954 (see the article listed in [[#Further reading|further reading]]).  [[Salicyclic acid]], [[salicylamide]], and [[methylsalicylate]] all reach with iron(III) via the phenol group which is next to their &ndash;COOH, &ndash;CONH<sub>2</sub>, or &ndash;COOCH<sub>3</sub> functions.  The Trinder reaction has been used for the determination of the presence of [[oxytetracycline]] in 1991, of [[ciprofloxacin]] in 1992, and of [[norfloxacin]] in 1993, in each case using a solution of iron(III) in suplphuric acid.  It has also been used for the determination of the presence of [[bromazepan]] in 1992, using an iron(II) solution in a hydrochloric acid rather than an iron(III) solution.<ref>{{cite book|title=Flow injection analysis of pharmaceuticals|author=José Martínez Calatayud|page=128|publisher=Informa Health Care|year=1996|isbn=0-7484-0445-7|isnb13=9780748404452}}</ref>
+
+== References ==
+<references />
+== Further reading ==
+* {{cite journal|author=P. Trinder|date=1954|title=Rapid determination of salicylate in biological fluids|journal=Biochem. J.|volume=57|pages=301&ndash;303|url=http://www.biochemj.org./bj/057/0301/bj0570301_browse.htm|pmid=13172184|issue=2|pmc=1269746}}
+* {{cite journal|author=J.A. King, A.B. Sorrow, and J.A. Finkelstein|title=Urine Trinder spot test: a rapid salicylate screen for the emergency department|journal=Annals of Emergency Medicine|volume=26|pages=330&ndash;333|date=1995|doi=10.1016/S0196-0644(95)70082-X|pmid=7661424|issue=3}}
+* {{cite journal|author=M.A. Koupparis and P.I. Anagnostopoulou|date=1988|title=Automated flow injection determination of salicylates using Trinder reaction for clinical analysis, assays, and dissolution studies of formulations|journal=Journal of pharmaceutical and biomedical analysis|publisher=Elsevier Science|volume=6|issue=1|pages=35&ndash;46|pmid=16867438|doi=10.1016/0731-7085(88)80028-1}}
+
+== See also ==
+* [[salicylate testing]]
+
+{{DEFAULTSORT:Trinder Spot Test}}
+[[Category:Medical tests]]
+
+
+{{biochem-stub}}
+{{med-diagnostic-stub}}

@@ -1,0 +1,33 @@
+'''Magnetocardiography''' (MCG) is a technique to measure the [[magnetic field]]s produced by electrical activity in the [[heart]] using extremely sensitive devices such as the Superconducting Quantum Interference Device ([[SQUID]]s). If the magnetic field is measured using a multichannel device, a map of the magnetic field is obtained over the chest; from such a map, using mathematical [[algorithm]]s that take into account the conductivity structure of the [[torso]], it is possible to locate the source of the activity. For example, sources of abnormal rhythms or [[arrhythmia]], may be located using MCG.
+
+== History ==
+The first MCG measurements were made by Baule and McFee<ref>Baule G.M, McFee R. Detection of the magnetic field of the heart. ''American Heart Journal'' 1963;66:95-6.</ref> using two large coils placed over the chest, connected in opposition to cancel out the relatively large magnetic background. Heart signals were indeed seen, but were very noisy. The next development was by David Cohen,<ref>Cohen D. Magnetic fields around the torso: production by electrical activity of the human heart. ''Science'' 1967;156:652-4.</ref> who used a magnetically shielded room to reduce the background, and a smaller coil with better electronics; the heart signals were now less noisy, allowing a magnetic map to be made, verifying the magnetic properties and source of the signal. However, the use of an inherently noisy coil detector discouraged widespread interest in the MCG. The turning point came with the development of the sensitive detector called the SQUID (superconducting quantum interference device) by James Zimmerman.<ref>Zimmerman, J.E., Theine, P., and Harding, J.T. Design and operation of stable  rf-biased superconducting point-contact quantum devices, etc. ''Journal of Applied Physics'' 1970; 41:1572-1580.</ref> The combination of this detector and Cohen's new shielded room at [[Massachusetts Institute of Technology|MIT]] allowed the MCG signal to be seen as clearly as the conventional [[electrocardiogram]], and the publication of this result<ref>Cohen D, Edelsack EA, Zimmerman JE. Magnetocardiograms taken inside a shielded room with a superconducting point-contact magnetometer. ''Applied Physics Letters'' 1970;16(7): 278-80.</ref> marked the real beginning of magnetocardiography (as well as Biomagnetism generally).
+
+Magnetocardiography is now used in various [[laboratory|laboratories]] and [[clinic]]s around the world, both for research on the normal human heart, and for clinical [[diagnosis]].<ref>Koch, H. Recent advances in magnetocardiography. ''Journal of Electrocardiology'' 2004; 37: 117-122.</ref>
+
+==Clinical Implementation==
+Recent MCG technology has been implemented to hospitals in Germany. The MCG system, CS MAG II of Biomagnetik Park GmbH was installed in Asklepios Hospital, Hamburg in 2011. 
+
+==See also==
+
+* [[Biomagnetism]]
+* [[Magnetic field imaging]]
+* [[Magnetoencephalography]]
+* [[Magnetogastrography]]
+* [[David Cohen (physicist)]]
+* [[James Edward Zimmerman]]
+
+==References==
+<references />
+
+==External links==
+* http://www.biomag.hus.fi/mcg.html
+* http://www.biomag2006.ca
+* http://www.biomag2008.org/
+* http://www.heartmath.org/research/science-of-the-heart/head-heart-interactions.html
+* http://www.biomagnetik.com/
+
+{{Electrodiagnosis}}
+
+[[Category:Cardiac procedures]]
+[[Category:Medical tests]]

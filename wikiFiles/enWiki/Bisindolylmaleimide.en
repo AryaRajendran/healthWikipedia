@@ -1,0 +1,90 @@
+{{Chembox
+| ImageFile = Bisindolylmaleimide I.svg
+| ImageSize =
+| IUPACName = 3-{1-[3-(dimethylamino)propyl]-1H-indol-3-yl}-4-(1H-indol-3-yl)-1H-pyrrole-2,5-dione
+| OtherNames = RBT205 INHIBITOR, BI1 
+| Section1 = {{Chembox Identifiers
+|  CASNo =133052-90-1
+|  PubChem = 2396
+|  ChemSpiderID = 2303
+| DrugBank  = DB03777
+| MeSHName = bisindolylmaleimide
+|  SMILES = O=C5C(\c2c1ccccc1nc2)=C(\c4c3ccccc3n(c4)CCCN(C)C)C(=O)N5
+|  InChI = InChI=1S/C25H24N4O2/c1-28(2)12-7-13-29-15-19(17-9-4-6-11-21(17)29)23-22(24(30)27-25(23)31)18-14-26-20-10-5-3-8-16(18)20/h3-6,8-11,14-15,26H,7,12-13H2,1-2H3,(H,27,30,31)
+  }}
+| Section2 = {{Chembox Properties
+|  Formula = C<sub>25</sub>H<sub>24</sub>N<sub>4</sub>O<sub>2</sub>
+|  MolarMass = 412.484
+|  Appearance =orange solid
+|  Density = 1.3g/cm<sup>3</sup>  
+|  MeltingPt =208−210&nbsp;°C
+|  BoilingPt =685.6&nbsp;°C @ 760mmHg
+|  Solubility = soluble in DMSO
+  }}
+| Section3 = {{Chembox Hazards
+|  MainHazards =
+|  FlashPt =368.5&nbsp;°C
+|  Autoignition =
+  }}
+}}
+{{Pfam_box 
+| Symbol = Het Group/Ligand: BI1  
+| Name = Het Group BI1  
+| image = 
+| width = 
+| caption = 
+| Pfam= PF00069
+| InterPro= 
+| SMART= 
+| Prosite =          
+| SCOP = 1uu8
+| TCDB = 
+| OPM family= 
+| OPM protein= 
+| PDB=
+{{PDB3|1xws}}A:92-404 {{PDB3|2bik}}B:92-404 {{PDB3|1uu8}}A:51-360
+{{PDB3|2bil}}B:92-404 {{PDB3|1zrz}}A:224-587 {{PDB3|1h1w}}A:71-359
+{{PDB3|1oky}}A:51-360 {{PDB3|1uu3}}A:51-360 {{PDB3|1yi4}}A:124-396
+{{PDB3|1uu7}}A:51-360 {{PDB3|1uu9}}A:72-357 {{PDB3|1uvr}}A:71-359
+{{PDB3|1okz}}A51-360 {{PDB3|1yhs}}A:124-396 {{PDB3|1yi3}}A:124-396
+}}
+{{Infobox protein
+|Name=[[PIM1|Proto-oncogene serine/threonine-protein kinase pim-1]]
+|caption=[[Protein Data Bank|PDB]] rendering based on 1xqz.
+|image=Protein_PIM1_PDB_1xqz.png
+|width=
+|HGNCid=8986
+|Symbol=[[PIM1]]
+|AltSymbols=
+|EntrezGene=5292
+|OMIM=164960
+|RefSeq=NM_002648
+|UniProt=P11309
+|PDB=1YI3
+|ECnumber=2.7.11.1
+|Chromosome=6
+|Arm=p
+|Band=21.2
+|LocusSupplementaryData=
+}}
+'''BIM-1''', '''BIM-2''', '''BIM-3''', and '''BIM-8''' are '''bisindolyl maleimide-based, nanomolar protein kinase C inhibitors'''. These inhibitors also inhibit [[PDPK1|PDK1]] explaining the higher inhibitory potential of '''LY33331''' compared to the other '''BIM''' compounds a '''bisindolylmaleimide inhibitor''' toward [[PDPK1|PDK1]].<ref name="pmid14962382 ">{{cite journal | author = Komander D, Kular GS, Schüttelkopf AW, Deak M, Prakash KR, Bain J, Elliott M, Garrido-Franco M, Kozikowski AP, Alessi DR, van Aalten DM. | title = Interactions of LY333531 and other bisindolyl maleimide inhibitors with PDK1 | journal = Structure. | volume = 12 | issue = 2 | pages = 215–26 | year = 2004 | month =February  | pmid = 14962382  | doi = 10.1016/S0969-2126(04)00007-3 | pmc=  | url = }}</ref>
+
+==Function==
+The [[protein kinase C]] (PKC)<ref name="pmid12021392">{{cite journal | author =Cartee L, Smith R, Dai Y, Rahmani M, Rosato R, Almenara J, Dent P, Grant S.  |title=Synergistic induction of apoptosis in human myeloid leukemia cells by phorbol 12-myristate 13-acetate and flavopiridol proceeds via activation of both the intrinsic and tumor necrosis factor-mediated extrinsic cell death pathways  | journal =Mol Pharmacol.  | volume = 61 | issue = 6 | pages =1313–21  | year =2002  | month = June | pmid =12021392| doi = 10.1124/mol.61.6.1313 | url = }}</ref> inhibitor '''Bis(indolyl)maleimide''' inhibitor '''BIM1'''<ref name="pmid14962382 "/> is clearly seen in the structure of [[PRKCI|PKCiota]]<ref name="pmid18212741">{{cite journal | author = Baldwin RM, Parolin DA, Lorimer IA. | title =  Regulation of glioblastoma cell invasion by PKC iota and RhoB| journal = Oncogene. | volume = 27 | issue = 25 | pages = 3587–95 | year = 2008 | month = June | pmid =  18212741 | doi = 10.1038/sj.onc.1211027 | pmc=  | url = }}</ref> (residue 574-turn<ref name="pmid16125198 ">{{cite journal | author = Messerschmidt A, Macieira S, Velarde M, Bädeker M, Benda C, Jestel A, Brandstetter H, Neuefeind T, Blaesse M. | title = Crystal structure of the catalytic domain of human atypical protein kinase C-iota reveals interaction mode of phosphorylation site in turn motif | journal = J Mol Biol. | volume = 352 | issue = 4 | pages = 918–31 | year = 2005 | month = September | pmid =  16125198 | doi = 10.1016/j.jmb.2005.07.060 | pmc=  | url = }}</ref> motif), need to be phosphorylated towards a PKCbeta-specific inhibitor site-directed mutagenesis of the compound for its full activation<ref name="pmid8524286 ">{{cite journal | author = Diaz-Meco MT, Municio MM, Sanchez P, Lozano J, Moscat J. | title = Lambda-interacting protein, a novel protein that specifically interacts with the zinc finger domain of the atypical protein kinase C isotype lambda/iota and stimulates its kinase activity in vitro and in vivo | journal = Mol Cell Biol.  | volume = 16 | issue = 1 | pages =  105–14 | year = 1996 | month = January | pmid =  8524286 | doi = | pmc=230983  | url = }}</ref> and co-crystallized as an asymmetric pair which is mediated by 3-phosphoinositide-dependent protein kinase-1 ([[PDPK1|PDK1]])<ref name="pmid18972468">{{cite journal | author = Peifer C, Alessi DR. | title = Small-molecule inhibitors of PDK1 | journal = ChemMedChem. | volume = 3 | issue = 12 | pages = 1810–38 | year = 2008 | month = December | pmid = 18972468  | doi = 10.1002/cmdc.200800195 | pmc=  | url = }}</ref> are downstream characteristics of PKCs and [[Protein Kinase B|PKB]]/[[AKT]].<ref name="pmid14996846 ">{{cite journal | author = Gassel M, Breitenlechner CB, König N, Huber R, Engh RA, Bossemeyer D. | title = The protein kinase C inhibitor bisindolyl maleimide 2 binds with reversed orientations to different conformations of protein kinase A | journal = J Biol Chem. | volume = 279 | issue = 22 | pages = 23679–90 | year = 2004 | month = May | pmid = 14996846  | doi = 10.1074/jbc.M314082200 | pmc=  | url = }}</ref>
+
+==Scope==
+The bound BIM1 inhibitor blocks [[Protein_kinase_C#Catalytic|bilobal]]<ref name="pmid17115692">{{cite journal | author =Grodsky Grodsky N, Li Y, Bouzida D, Love R, Jensen J, Nodes B, Nonomiya J, Grant S. |title=Structure of the catalytic domain of human protein kinase C beta II complexed with a bisindolylmaleimide inhibitor | journal =Biochemistry.  | volume = 45 | issue = 47 | pages =13970–81  | year =2006  | month = November | pmid =17115692| doi =10.1021/bi061128h  | url = }}</ref> interactions, the ATP-binding site, features an ATP-competitive inhibitor, '''2-methyl-1H-indol-3-yl-BIM-1''',<ref name="pmid17115692">{{cite journal | author =Grodsky N, Li Y, Bouzida D, Love R, Jensen J, Nodes B, Nonomiya J, Grant S. |title=Structure of the catalytic domain of human protein kinase C beta II complexed with a bisindolylmaleimide inhibitor | journal =Biochemistry.  | volume = 45 | issue = 47 | pages =13970–81  | year =2006  | month = November | pmid =17115692| doi =10.1021/bi061128h  | url = }}</ref> the crystal structure<ref name="pmid17115692"/> and catalytic subunit with a 20-amino acid substrate analog inhibitor structure is [[Protein_kinase_C#Catalytic|bilobal]] [[Magnesium in biology|MgATP]] a  transport protein that provide a more precise description of which is influenced by lobe-lobe interactions binding in cells expressing both forms a pair of kinase-inhibitor complexes<ref name="pmid14996846 "/>  with [[Magnesium in biology|ferritin]] in a soluble and non-toxic form ([[Poisson-Boltzmann]]<ref name="pmid17036304 ">{{cite journal | author = Page CS, Bates PA. | title = Can MM-PBSA calculations predict the specificities of protein kinase inhibitors? | journal = J Comput Chem. | volume = 27 | issue = 16 | pages = 1990–2007 | year = 2006 | month = December | pmid = 17036304  | doi = 10.1002/jcc.20534 | pmc=  | url = }}</ref>) and a portion of the inhibitor peptide<ref name="pmid1862342 ">{{cite journal | author = Knighton DR, Zheng JH, Ten Eyck LF, Ashford VA, Xuong NH, Taylor SS, Sowadski JM. | title = Crystal structure of the catalytic subunit of cyclic adenosine monophosphate-dependent protein kinase | journal = Science. | volume = 253 | issue = 5018 | pages = 407–14 | year = 1991 | month = July | pmid = 1862342  | doi = 10.1126/science.1862342 | pmc=  | url = |bibcode = 1991Sci...253..407K }}</ref> a lysine residue, has been shown to be involved in ATP binding.
+
+==Interactions==
+The PKCiota-BIM1 complex<ref name="pmid16125198 "/> interacts with the zinc finger of lambda/iota PKC characterization of lambda-interacting protein (LIP)<ref name="pmid8524286 " /> (lambda-interacting protein; a selective activator of lambda/iotaPKC).  [[Phosphorylation]] of a PKC induces a conformation leading to import of a PKC into the nucleus.<ref name="pmid11891849 ">{{cite journal | author = White WO, Seibenhener ML, Wooten MW. | title = Phosphorylation of tyrosine 256 facilitates nuclear import of atypical protein kinase C | journal = J Cell Biochem. | volume =  85| issue = 1 | pages = 42–53 | year = 2002 | month = January | pmid = 11891849  | doi = 10.1002/jcb.10101 | pmc=  | url = }}</ref> The entire 587-amino acid coding region of a new PKC isoform, PKC iota.<ref name="pmid11891849 "/> Where Thr-412<ref name="pmid8524286 " /><ref name="pmid18220336 ">{{cite journal | author = Cantin GT, Yi W, Lu B, Park SK, Xu T, Lee JD, Yates JR 3rd. | title = Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis | journal = J Proteome Res. | volume = 7 | issue = 3 | pages = 1346–51 | year = 2008 | month = March | pmid = 18220336  | doi = 10.1021/pr0705441 | pmc=  | url = }}</ref> (activation loop of the kinase domain) at PKCiota/lambda phosphorylates glyceraldehyde-3-phosphate dehydrogenase ([[GAPDH]])<ref name="pmid14570876 ">{{cite journal | author = Tisdale EJ. | title = Rab2 interacts directly with atypical protein kinase C (aPKC) iota/lambda and inhibits aPKCiota/lambda-dependent glyceraldehyde-3-phosphate dehydrogenase phosphorylation | journal = J Biol Chem. | volume = 278 | issue = 52 | pages = 52424–30 | year = 2003 | month =December  | pmid = 14570876  | doi = 10.1074/jbc.M309343200  | pmc=  | url = }}</ref> that sort cargo to the [[Anterograde_transport#Anterograde_.28orthograde.29_transport|anterograde]] pathway<ref name="pmid16452474 ">{{cite journal | author = Tisdale EJ, Artalejo CR. | title = Src-dependent aprotein kinase C iota/lambda (aPKCiota/lambda) tyrosine phosphorylation is required for aPKCiota/lambda association with Rab2 and glyceraldehyde-3-phosphate dehydrogenase on pre-golgi intermediates | journal = J Biol Chem. | volume = 281 | issue = 13 | pages = 8436–42 | year = 2006 | month = March | pmid =  16452474 | doi = 10.1074/jbc.M513031200 | pmc=  | url = }}</ref> the phosphorylation pathway(s) involved in this phenomenon<ref name="pmid12021392"/> mimic [[glutamate]] and can adopt two limiting [[diastereomeric]] (syn and anti) conformation<ref name="pmid16075446 ">{{cite journal | author = Barrett S, Bartlett S, Bolt A, Ironmonger A, Joce C, Nelson A, Woodhall T. | title = Configurational stability of bisindolylmaleimide cyclophanes: from conformers to the first configurationally stable, atropisomeric bisindolylmaleimides | journal = Chemistry. | volume = 11 | issue = 21 | pages = 6277–85 | year = 2005 | month = October | pmid = 16075446  | doi = 10.1002/chem.200500520 | pmc=  | url = }}</ref> biosynthetically related [[indolocarbazole]] analogs<ref name="pmid17119643 ">{{cite journal | author = Sánchez C, Méndez C, Salas JA. | title = Indolocarbazole natural products: occurrence, biosynthesis, and biological activity | journal = Nat Prod Rep.  | volume = 23 | issue = 6 | pages = 1007–45 | year = 2006 | month = December | pmid = 17119643  | doi = 10.1039/B601930G | pmc=  | url = }}</ref> and in Proto-oncogene [[Non-specific serine/threonine protein kinase|serine/threonine]]-protein kinase [[PIM1|Pim-1]]-Peptide as a phosphorylation target including itself. The bound BIM1 inhibitor blocks the ATP-binding site and puts the kinase domain into an intermediate open<ref name="pmid14996846 "/> conformation.<ref name="pmid16125198 "/> The value of such calculations lies in understanding<ref name="pmid17036304 " /> a variant was designed which showed improved binding characteristics<ref name="pmid18391401">{{cite journal | author =Bandeiras TM, Hillig RC, Matias PM, Eberspaecher U, Fanghänel J, Thomaz M, Miranda S, Crusius K, Pütter V, Amstutz P, Gulotti-Georgieva M, Binz HK, Holz C, Schmitz AA, Lang C, Donner P, Egner U, Carrondo MA, Müller-Tiemann B. | title = Structure of wild-type Plk-1 kinase domain in complex with a selective DARPin | journal = Acta Crystallogr D  | volume = 64  | issue = 4 | pages = 339–53 | year = 2008 | month = April | pmid =18391401  | doi =10.1107/S0907444907068217  | pmc=  | url = }}</ref> of configurationally stable [[atropisomeric]] bisindolylmaleimides<ref name="pmid16075446 " /> where the two kinase domains, and two different inhibitor conformers bind in different orientations,<ref name="pmid14996846 " /> the hinge region of [[staurosporine]]<ref name="pmid10974200">{{cite journal | author =Lee SK, Stern PH. |title=Divergent effects of protein kinase C (PKC) inhibitors staurosporine and bisindolylmaleimide I (GF109203X) on bone resorption | journal = Biochem Pharmacol. | volume =60  | issue = 7 | pages = 923–6 | year =  2000| month =October  | pmid =10974200| doi =10.1016/S0006-2952(00)00418-4 | url = }}</ref>-[[PIM1|Pim-1]] resembles<ref name="pmid 15657054">{{cite journal | author = M.D.Jacobs,J.Black,O.Futer,L.Swenson,B.Hare,M.Fleming, K.Saxena | title = Pim-1 ligand-bound structures reveal the mechanism of serine/threonine kinase inhibition by LY294002  | journal = J Biol Chem  | volume = 280  | issue = 14 | pages =13728–13734  | year = 2005 | month = May | pmid = 15657054  | doi = 10.1074/jbc.M413155200 | pmc=  | url = }}</ref> co-crystallized<ref name="pmid17115692"/> as an asymmetric pair of biosynthetically 'related' [[indolocarbazole]] analogs.
+
+==References==
+{{Reflist |2}}
+{{refend}}
+{{PDB Gallery|geneid=2396}}
+
+[[Category:Ligands]]
+[[Category:Indoles]]
+[[Category:Maleimides]]
+[[Category:Ion channels]]
+[[Category:Protein kinase inhibitors]]

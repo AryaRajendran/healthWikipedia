@@ -1,0 +1,46 @@
+'''Privacy for research participants''' is a concept in [[research ethics]] which states that a person in [[human subject research]] has a right to [[privacy]] when participating in [[research]]. Some examples of typical scenarios are that a surveyor doing [[social research]] conducts an interview where the research participant is a respondent, or when a researcher for a [[clinical trial]] asks for a blood sample from a participant to see if there is a relationship between something which can be measured in blood and a person's health. In both cases, the ideal outcome is that any participant can join the study and neither the researcher nor the study design nor the publication of the study results would ever identify any participant in the study.  
+
+People decide to participate in research for any number of different reasons, such as a personal interest, a desire to promote research which benefits their community, or for other reasons. Various [[guidelines for human subject research]] protect study participants who choose to participate in research, and the international consensus is that the rights of people who participate in studies are best protected when the study participant can trust that researchers will not connect the identities of study participants with their input into the study.
+
+Many study participants have experienced problems when their privacy was not upheld after participating in research. Sometimes privacy is not kept because of insufficient study protection, but also sometimes it is because of unanticipated problems with the study design which inadvertently compromise privacy. The privacy of research participants is typically protected by the research organizer, but the [[institutional review board]] is a designated overseer which monitors the organizer to provide protection to study participants.
+
+==Information privacy==
+{{main|Information privacy}}
+Researchers publish data that they get from participants. To preserve participants' privacy, the data goes through a process to [[De-identification|de-identify]] it. The goal of such a process would be to remove [[protected health information]] which could be used to connect a study participant to their contribution to a research project.{{citation needed|date=December 2011}}
+
+===Privacy attacks===
+A privacy attack is the exploitation of an opportunity of someone to identify a study participant based on public research data.<ref name="identifiability">{{cite doi|10.1007/s00439-011-1042-5}}</ref> The way that this might work is that researchers collect data, including confidential identifying data, from study participants. This produces an identified dataset.<ref name="identifiability"/> Before the data is sent for research processing, it is "de-identified", which means that personally identifying data is removed from the dataset. Ideally this means that the dataset alone could not be used to identify a participant.<ref name="identifiability"/>
+
+In some cases the researchers simply misjudge the information in a de-identified dataset and actually it is identifying, or perhaps the advent of new technology makes the data identifying.<ref name="identifiability"/> In other cases the published de-identified data can be cross-referenced with other data sets, and by finding matches between an identified dataset and the de-identified data set, participants in the de-identified set may be revealed.<ref name="identifiability"/>
+
+===Risk mitigation===
+The ideal situation from the research perspective is the free sharing of data.<ref name="identifiability"/> Since privacy for research participants is a priority, though, various proposals for protecting participants have been made for different purposes.<ref name="identifiability"/> Replacing the real data with [[synthetic data]] allows the researchers to show data which gives a conclusion equivalent to the one drawn by the researchers, but the data may have problems such as being unfit for repurposing for other research.<ref name="identifiability"/> Other strategies include "noise addition" by making random value changes or "data swapping" by exchanging values across entries.<ref name="identifiability"/><ref>{{doi|10.1145/76894.76895}}</ref>
+
+==Biobank privacy==
+A [[biobank]] is a place where human biological specimens are kept for research, and often where [[genomics]] data is paired with [[phenotype]] data and personally-identifying data. For many reasons, biobank research has created new controversies, perspectives, and challenges for satisfying the rights of student participants and the needs of the researchers to access resources for their work.<ref name="identifiability"/>
+
+One problem is that if even a small percentage of genetic information is available, that information can be used to uniquely identify the individual from which it came. Studies have shown that a determination of whether an individual participated in a study can be made even from reporting of aggregate data.<ref>{{cite doi|10.1093/biostatistics/kxq035}}</ref>
+
+==Negative consequences==
+When research participants have their identities revealed they may have problems. Concerns include facing [[genetic discrimination]] from an [[insurance company]] or [[employer]].<ref>{{cite pmid|20805700}}</ref> Respondents in the United States have expressed a desire to have their research data to be restricted from access by law enforcement agencies, and would want to prevent a connection between study participation and legal consequences of the same.<ref>{{cite doi|10.1016/j.ajhg.2009.10.002}}</ref> Another fear study participants have is about the research revealing private personal practices which a person may not want to discuss, such as a medical history which includes a [[sexually transmitted disease]], [[substance abuse]], [[psychiatric treatment]], or an elective [[abortion]].<ref name="underpinnings">{{cite doi|10.1146/annurev.genom.7.080505.115721}}</ref> In the case of genomic studies on families, genetic screening may reveal that paternity is different from what had been supposed.<ref name="underpinnings"/> For no particular reason, some people may find that if their private information becomes disclosed because of research participation, they may feel invaded and find the entire system distasteful.<ref name="underpinnings"/>
+
+==Privacy controversies==
+*[[Netflix Prize]] - researchers release a database with approximate years of birth, zip codes, and movie-watching preferences. Other researchers say that based even on this limited information, many people can be identified and their movie preferences could be discovered. People objected to having their movie-watching habits become publicly known.
+*[[Tearoom Trade]] - a university researcher published information revealing persons who engaged in illicit sex, and research participants did not consent to be identified.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://privacyruleandresearch.nih.gov/clin_research.asp United States federal policy on privacy]
+*[http://ccnmtl.columbia.edu/projects/cire/pac/foundation/index.html Guidelines at Columbia University]
+*[http://www.scientificamerican.com/podcast/episode.cfm?id=21B327C9-E7F2-99DF-388D396B65D97693 Podcast and transcript] from [[Scientific American]] interview with Latanya Sweeney
+
+{{Research participant rights}}
+
+[[Category:Medical research]]
+[[Category:Clinical research]]
+[[Category:Human subject research|*]]
+[[Category:Research ethics]]
+[[Category:Privacy]]
+[[Category:Clinical research ethics]]

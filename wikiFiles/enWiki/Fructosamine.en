@@ -1,0 +1,61 @@
+'''Fructosamine''' is a compound that can be considered the result of a reaction between [[fructose]] and [[ammonia]] or an [[amine]] (with a molecule of water being released). A fructosamine is also formed when [[carbonyl]] group of [[glucose]] reacts with an [[amino group]] of a protein, as the [[double bond]] to oxygen moves from the end carbon atom to the next carbon atom and water is released. Fructosamines formed from serum proteins such as [[albumin]] are known as '''glycated serum protein''' (GSP), and are used to identify the [[Blood plasma|plasma]] [[glucose]] [[concentration]] over time and so assess [[diabetic]] control over an intermediate period of time.<ref>{{cite journal | author=Delpierre G, Collard F, Fortpied J and Van Sschaftingen E | title=Fructosamine 3-kinase is involved in an intracellular deglycation pathway in human erythrocytes | journal=Biochem. J. | year=2002 | volume=365 | pages=801–8 | url=http://www.biochemj.org/bj/365/0801/3650801.pdf |format=PDF | pmid=11975663 | issue=Pt 3 | doi=10.1042/BJ20020325 | pmc=1222720}}</ref>
+
+==Indications==
+Glucose control is usually assessed in diabetes with the [[Glycosylated hemoglobin]] (HbA1c) measurement that indicates average glucose levels over the preceding 12 weeks, as reflected by the permanent glycosylation of a small fraction of the [[haemoglobin]] molecules in the person's blood.  However, this is not appropriate where there has been a recent change in diet or treatment within 2-6 weeks, or if there are abnormalities of red blood cell aging or mix of hemoglobin subtypes (predominantly HbA in normal adults). Hence, people with recent blood loss or [[hemolytic anemia]], or [[hemoglobinopathy]] such as [[sickle-cell disease]], are not suitable for some glycosylated hemoglobin methods that do not account for higher-turnover hemoglobin. Fructosamine is used in these circumstances, as it also reflects an average of blood glucose levels, but over a shorter period of 2 to 3 weeks.  Fructosamine is also of use in conditions, such as [[pregnancy]], in which hormonal changes cause greater short-term fluctuation in glucose concentrations.
+
+==Interpretation of results==
+There is no standard reference range available for this test. The reference values depends upon the factors of patient age, gender, sample population, and test method. Hence, each laboratory reports will include the patient's specific reference range for the test.
+An increase in fructosamine in lab testing results usually means an increase in glucose in the blood.
+
+On average, each change of 3.3&nbsp;mmol (60&nbsp;mg/dl) in average blood sugar levels will give rise to changes of 2% HbA1c and 75 µmol fructosamine values.<ref>{{cite web |author=Bartol T |title=Comparison of Blood Glucose, HbA1c, and Fructosamine |url=http://www.healthyinfo.com/clinical/endo/dm/hga1c.test.shtml |date=2000-12-01 |accessdate=2007-06-04}} - gives a comparison chart and cites following source:
+* {{cite journal |author=Nathan DM, Singer DE, Hurxthal K, Goodson JD |title=The clinical information value of the glycosylated hemoglobin assay |journal=N. Engl. J. Med. |volume=310 |issue=6 |pages=341–6 |year=1984 |pmid=6690962 |doi=10.1056/NEJM198402093100602}}</ref> However, this overemphasizes the upper-limit of many laboratories' reference ranges of 285 umol/L as equivalent to HbA1c 7.5% rather than 6.5%. A comparative study,<ref name="pmid12502674">{{cite journal |author=Cohen RM, Holmes YR, Chenier TC, Joiner CH |title=Discordance between HbA1c and fructosamine: evidence for a glycosylation gap and its relation to diabetic nephropathy |journal=Diabetes Care |volume=26 |issue=1 |pages=163–7 |year=2003 |pmid=12502674 |doi= 10.2337/diacare.26.1.163|url=http://care.diabetesjournals.org/cgi/content/full/26/1/163}}</ref> which has been used in official advice for [[Quality and Outcomes Framework]] guidance in the UK<ref>{{cite book |title=Quality and outcomes framework Guidance 2006 |chapter=Diabetes (DM) Indicator 20 The percentage of patients with diabetes in whom the last HbA1c is 7.5 or less (or equivalent test/reference range depending on local laboratory) in the previous 15 months |url=http://www.bma.org/ap.nsf/AttachmentsByTitle/PDFQOF2006/$FILE/Quality+and+outcomes+framework+guidance+-+Feb+2006.pdf |format=PDF |publisher=BMA |accessdate=2008-01-02 |page=39}}</ref> and summaried by the United States' [[National Quality Measures Clearinghouse]]:<ref>{{cite web |title=Diabetes mellitus: the percentage of patients with diabetes in whom the last HbA1c is 7.5 or less (or equivalent test/reference range depending on local laboratory) in the previous 15 months |url=http://www.qualitymeasures.ahrq.gov/summary/summary.aspx?doc_id=7732 |date=2007-12-31 |publisher=National Quality Measures Clearinghouse |accessdate=2008-01-02}}</ref> gives the following formula and resulting values:
+
+:<math>{\rm HbA1c} = {\rm 0.017} \times {\rm Fructosamine} + {\rm 1.61}</math>
+
+:Hence:
+:<math>{\rm Fructosamine} = ({\rm HbA1c} - 1.61) \times {\rm 58.82}</math>
+
+{| class="wikitable" style="text-align:center" align=center
+|-
+! Fructosamine<br/>(µmol) || HbA1c<br />% || HbA1c IFCC<br/> (mmol/mol)
+|-
+| 200 || 5 || 31
+|-
+| 258 || 6 || 42
+|-
+| 288 || 6.5 || 48
+|-
+| 317 || 7 || 53
+|-
+| 346 || 7.5 || 58
+|-
+| 375 || 8 || 64
+|-
+| 435 || 9 || 75
+|-
+| 494 || 10 || 86
+|-
+| 552 || 11 || 97
+|-
+| 611 || 12 || 108
+|}
+
+==See also==
+* [[Diabetes mellitus]]
+
+==Footnotes==
+{{reflist|2}}
+
+{{Diabetes}}
+
+{{Blood tests}}
+
+[[Category:Diabetes]]
+[[Category:Diabetes-related tests]]
+[[Category:Hematology]]
+[[Category:Proteins]]
+[[Category:Blood tests]]
+[[Category:Hexosamines]]
+
+{{health-stub}}
+{{protein-stub}}

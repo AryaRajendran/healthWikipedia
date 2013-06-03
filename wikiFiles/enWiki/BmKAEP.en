@@ -1,0 +1,72 @@
+'''BmKAEP''' (or anti-epilepsy peptide) is a [[neurotoxin]] from the [[venom]] of the [[Mesobuthus martensii|Manchurian scorpion]] ''(Mesobuthus martensii)''. It is a  β-toxin, which shift the activation voltage of sodium channels towards more negative potentials.
+
+<!--[[File:3D structure.png|thumb|alt=A structure.|Putative 3D structure of BmKAEP, obtained by comparing to sequence of the beta-insect depressant toxin LqhIT2, which shares 80% identity with BmKAEP primary structure.<ref name="SWISS-MODEL">{{cite web
+|url=http://swissmodel.expasy.org/repository/?pid=smr03&uid=&token=&query_1_input=P15228&mid=977abc77620b952f40ece6422238d1db_1&zid=async
+|title=Model 3D Structure of Toxin BmKAEP
+|work=SWISS-MODEL Respository
+|publisher=[[Swiss Institute of Bioinformatics]]
+|language=English
+|accessdate=25 October 2010}}</ref> {{deletable image-caption}}]]-->
+
+== Etymology ==
+BmK is the abbreviation for ''Buthus martensi'' Karsch, an old name for the scorpion that is the source of BmKAEP; AEP is an abbreviation for anti-epilepsy peptide.  At the [[National Center for Biotechnology Information|NCBI]] Protein Database, the full name of this peptide is listed as "Toxin BmKAEP".<ref name="NCBI-Protein37999913">{{cite web
+|url=http://www.ncbi.nlm.nih.gov/protein/37999913
+|title=Toxin BmKAEP
+|publisher=[[National Center for Biotechnology Information|NCBI]] [http://www.ncbi.nlm.nih.gov/protein Protein database]
+|accessdate=25 October 2010}}</ref>
+
+== Source ==
+[[File:Snímek 283.jpg|thumb|right|Manchurian scorpion ''(Mesobuthus martensii)'']]
+BmKAEP is one of the components of ''Mesobuthus martensii''′s venom,<ref name="first article">{{cite journal |last1=Goudet |first1=C |last2=Chi |first2=CW |last3=Tytgat |first3=J |title=An overview of toxins and genes from the venom of the Asian scorpion Buthus martensi Karsch |journal=Toxicon |volume=40 |issue=9 |pages=1239–58 |year=2002 |pmid=12220709 |doi=10.1016/S0041-0101(02)00142-3}}</ref> a well-known scorpion belonging to the [[Buthidae]] family, which is found distributed throughout Eastern Asia and China.
+
+== Chemistry ==
+BmKAEP is an inhibitory [[β-toxin]] and thus, a Na<sup>+</sup> channel inhibitor. As with other mammal and insect toxins, BmKAEP is classified according to species and mechanism of action.<ref name="third article">{{cite journal |last1=Wang |first1=Chun-Guang |last2=He |first2=Xiao-Lin |last3=Shao |first3=Feng |last4=Liu |first4=Wei |last5=Ling |first5=Min-Hua |last6=Wang |first6=Da-Cheng |last7=Chi |first7=Cheng-Wu |title=Molecular characterization of an anti-epilepsy peptide from the scorpion Buthus martensi Karsch |journal=European Journal of Biochemistry |volume=268 |issue=8 |pages=2480–5 |year=2001 |pmid=11298767 |doi=10.1046/j.1432-1327.2001.02132.x}}</ref> 
+
+BmKAEP is a 61-amino-acid protein derived from an 85-amino-acid precursor. The mature protein contains 8 cysteine residues that establish 4 [[disulfide bridges]] (4C-C).<ref name="third article"/> Despite its high homology with other depressant toxins, BmKAEP differs from them at residues 6, 7 and 39, which is thought to be important in determining its unique function.<ref name="third article"/> Its lysine residue, at position 51, also has a special feature: it interacts with mammalian Na<sup>+</sup> channels.<ref>{{cite journal |last1=Yuan |first1=Yuzhe |last2=Luo |first2=Lan |last3=Peigneur |first3=Steve |last4=Tytgat |first4=Jan |last5=Zhu |first5=Shunyi |title=Two recombinant depressant scorpion neurotoxins differentially affecting mammalian sodium channels |journal=Toxicon |volume=55 |issue=8 |pages=1425–33 |year=2010 |pmid=20219516 |doi=10.1016/j.toxicon.2010.02.019}}</ref>
+
+{| class="wikitable"
+|-
+! BmKAEP primary sequence <small>[Source: [[UniProt]] {{Uniprot|P15228}}]</small>
+|-
+|  
+01 mklflllvis asmlidglvn adgyirgsng <br>
+31 ckvsclwgne gcnkeckafg ayygycwtwg <br>
+61 lacwceglpd dktwksesnt cggkk
+|}
+
+== Target and Mode of Action ==
+Because of its sequence homology with other β-toxins, BmKAEP is predicted to bind to site 4 (S4) of [[Voltage-gated ion channel|voltage-gated]] Na<sup>+</sup> channels, at domains I, III and IV.<ref>{{cite journal |last1=Cestèle |first1=S |last2=Catterall |first2=WA |title=Molecular mechanisms of neurotoxin action on voltage-gated sodium channels |journal=Biochimie |volume=82 |issue=9–10 |pages=883–92 |year=2000 |pmid=11086218 |doi=10.1016/S0300-9084(00)01174-3}}</ref> Its interaction with the S4 loop causes the loop to be maintained at the outward activated position. Therefore, activation of the Na<sup>+</sup> channels shifts towards more negative values,<ref>{{cite journal |last1=Cestele |first1=S |last2=Qu |first2=Y |last3=Rogers |first3=J |last4=Rochat |first4=H |last5=Scheuer |first5=T |last6=Catterall |first6=W |title=Voltage Sensor–TrappingEnhanced Activation of Sodium Channels by β-Scorpion Toxin Bound to the S3–S4 Loop in Domain II |journal=Neuron |volume=21 |issue=4 |pages=919–31 |year=1998 |pmid=9808476 |doi=10.1016/S0896-6273(00)80606-6}}</ref> enhancing the channel's activation and promoting spontaneous and repetitive firing. Subsequently, the sodium current amplitude decreases, due to the membrane potential depolarization, thus suppressing [[action potential]]s.<ref name="first article"/>
+
+== Toxicity ==
+BmK venom induces a transient phase of contraction followed by a slow progressive [[flaccid paralysis]] in insect larvae.<ref>{{cite journal |last1=Gurevitz |first1=Michael |last2=Froy |first2=Oren |last3=Zilberberg |first3=Noam |last4=Turkov |first4=Michael |last5=Strugatsky |first5=David |last6=Gershburg |first6=Eduard |last7=Lee |first7=Daewoo |last8=Adams |first8=Michael E. |last9=Tugarinov |first9=Vitali |title=Sodium channel modifiers from scorpion venom: Structure–activity relationship, mode of action and application |journal=Toxicon |volume=36 |issue=11 |pages=1671–82 |year=1998 |pmid=9792184 |doi=10.1016/S0041-0101(98)00160-3}}</ref> However, since it requires a high dosage to be effective, its toxicity is weak, both in insects and mammals.<ref name="eight article">{{cite journal |last1=Zhou |first1=XH |last2=Yang |first2=D |last3=Zhang |first3=JH |last4=Liu |first4=CM |last5=Lei |first5=KJ |title=Purification and N-terminal partial sequence of anti-epilepsy peptide from venom of the scorpion Buthus martensii Karsch |journal=The Biochemical journal |volume=257 |issue=2 |pages=509–17 |year=1989 |pmid=2930463 |pmc=1135608}}</ref>
+
+{| class="wikitable"
+|-
+! '''Toxicity parameters'''
+|-
+| {{LD50}} || 2,4&nbsp;mg/kg <small>(mice; intraperitoneal injection)</small><ref name="third article"/>
+|-
+| [[Minimum lethal dose|MLD]] <small>(minimum lethal dose)</small> || 0,074&nbsp;mg/kg <small>(mice; Intracerebroventricular injection)</small><ref name="first article"/>
+|-
+| CPU <small>(concentration paralysis unit)</small> || 1&nbsp;µg/body <small>(larvae)</small><ref name="first article"/>
+|-
+| [[NOAEL]] <small>(No observed adverse effect</small>) || <2&nbsp;µg <small>(insects)</small>; <20&nbsp;µg <small>(mice)</small><ref name="third article"/>
+|}
+
+== Therapeutic use ==
+Though the exact mechanism of its anti-epilepsy effect is not clear, several studies have shown that BmKAEP can inhibit [[coriaria]] [[lactone]]-induced [[epilepsy]] in rats by prolonging the latent epilepsy period, relieving the degree of [[Epileptic seizure|seizures]] and shortening its average duration, at a pharmacological dosage of only 0,057&nbsp;µg/g.<ref name="eight article"/> 
+
+''Mesobuthus martensii'', especially its tail, has been used in [[Chinese traditional medicine]] to treat several neuronal diseases, such as several types of [[paralysis]], [[apoplexy]] and epilepsy.<ref name="first article"/>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* NCBI Protein Database for "Toxin BmKAEP": [http://www.ncbi.nlm.nih.gov/protein/37999913?from=1&to=85&report=gpwithparts AEP1_MESMA, ACCESSION:   P15228.2,  GI:37999913]
+
+{{toxins}}
+
+{{DEFAULTSORT:Bmkaep}}
+[[Category:Neurotoxins]]
+[[Category:Ion channel toxins]]
+[[Category:Invertebrate toxins]]

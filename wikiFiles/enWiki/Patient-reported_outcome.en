@@ -1,0 +1,95 @@
+A '''patient-reported outcome''' or PRO is a questionnaire used in a [[clinical trial]] or a clinical setting, where the responses are collected directly from the patient.
+
+==Terminology==
+The term PRO should not be confused with ''patient-based outcomes''. The latter implies that questionnaire covers issues of specific concern to the patient. However, ''patient-reported'' implies only that the patient provides the information. This information may, or may not, be of concern to the patient.
+The term PROs is synonymous with the increasing use of the term patient reported outcome measures (PROMs).
+
+==Overview==
+PRO is an [[umbrella term]] that covers a whole range of potential types of measurement but is used specifically to refer to self-reports by the patient. PRO data may be collected via self-administered questionnaires completed by the patient themselves or via interviews. The latter will only qualify as a PRO where the interviewer is gaining the patient's views, not where the interviewer uses patient responses to make a professional assessment or judgment of the impact of the patient's condition. Thus, PROs are a means of gathering patient rather than clinical or other views on outcomes. This patients' perspective can play an important role in [[drug approval]].<ref>{{cite journal |author= Marquis P, Caron M, Emery M-P, et al. |title=The Role of Health-Related Quality of Life Data in the Drug Approval Processes in the US and Europe: A Review of Guidance Documents and Authorizations of Medicinal Products from 2006 to 2010 |url= http://adisonline.com/pharmaceuticalmedicine/Abstract/2011/25030/The_Role_of_Health_Related_Quality_of_Life_Data_in.2.aspx |journal=Pharm Med |volume=25 |issue=3 |pages=147–60 |year=2011}}</ref>
+
+==Characteristics==
+A well-designed PRO questionnaire should assess either a single underlying characteristic or, where it addresses multiple characteristics, should be a number of scales that each address a single characteristic. These measurement "characteristics" are termed ''constructs'' and the questionnaires used to collect them, termed ''instruments'', ''measures'', ''scales'' or ''tools''. 
+
+A questionnaire that measures a single construct is described as [[unidimensional]]. Items (questions) in a unidimensional questionnaire can be added to provide a single scale score. However, it cannot be assumed that a questionnaire is unidimensional simply because the author intended it to be. This must be demonstrated empirically (for example, by confirmatory factor analysis or [[Rasch analysis]]). A questionnaire that measures multiple constructs is termed multi-dimensional. A multi-dimensional questionnaire is used to provide a profile of scores; that is, each scale is scored and reported separately. It is possible to create an overall (single summary) score from a multi-dimensional measure using factor analysis or preference-based methods but some may see this as akin to adding apples and oranges together. 
+
+Questionnaires may be [[wikt:generic|generic]] (designed to be used in any disease population and cover a broad aspect of the construct measured) or [[condition-targeted]] (developed specifically to measure those aspects of outcome that are of importance for a people with a particular medical condition).
+
+The most commonly used PRO questionnaires assess one of the following constructs:
+* Symptoms (impairments) and other aspects of well-being
+* Functioning (disability)
+* Health status
+* General health perceptions
+* [[Quality of life|Quality of life (QoL)]]
+* Health related quality of life (HRQoL)
+* Reports and Ratings of health care.
+
+Measures of symptoms may focus on a range of impairments or on a specific impairment such as depression or pain. Measures of functioning assess activities such as personal care, activities of daily living and locomotor activities. Health-related quality of life instruments are generally multi-dimensional questionnaires assessing a combination of aspects of impairments and/or disability and reflect a patient's health status. In contrast, QoL goes beyond impairment and disability by asking about the patient's ability to fulfill their needs and also about their emotional response to their restrictions.
+
+A new generation of short and easy-to-use tools to monitor patient outcomes on a regular basis has been recently proposed.<ref name = "campro">
+{{cite conference
+ | author = Erik Cambria
+ | coauthors = Tim Benson, Chris Eckl and Amir Hussain
+ | title = Sentic PROMs: Application of Sentic Computing to the Development of a Novel Unified Framework for Measuring Health-Care Quality
+ | booktitle = Expert Systems with Applications, Elsevier
+ | year = 2012
+ | url = http://dx.doi.org/10.1016/j.eswa.2012.02.120
+}}
+</ref> These tools are quick, effective, and easy to understand, as they allow patients to evaluate their health status and experience in a semi-structured way and accordingly aggregate input data, while automatically tracking their physio-emotional sensitivity. As part of the [[National Institutes of Health|National Institute of Health's]] Roadmap Initiative, the Patient-Reported Outcomes Measurement Information System (PROMIS) uses modern advances in psychometrics such as [[Item Response Theory]] (IRT) and [[Computerized Adaptive Testing]] (CAT) to create highly reliable and validated measurement tools.
+
+==Validation and quality assessment==
+It is essential that a PRO instrument satisfy certain development, psychometric and scaling standards if it is to provide useful information. Specifically, measures should have a sound theoretical basis and should be relevant to the patient group with which they are to be used. They should also be reliable and valid (including responsive to underlying change) and the structure of the scale (whether it possesses a single or multiple domains) should have been thoroughly tested using appropriate methodology in order to justify the use of scale or summary scores.  
+
+These standards must be maintained throughout every target language population.  In order to ensure that developmental standards are cosnistent in translated versions of a PRO instrument, the translated instrument undergoes a process known as [[Linguistic validation]] in which the preliminary translation is adapted to reflect cultural and linguistic differences between diverse target populations.
+
+==Examples==
+Many of the common generic PRO tools assess health-related quality of life or patient evaluations of health care. For example, the SF-36 Health Survey (SF-36 Health Survey), SF-12 Health Survey (SF-12 Health Survey), the Sickness Impact Profile, the Nottingham Health Profile, the Health Utilities Index, the Quality of Well-Being Scale, the EuroQol (EQ-5D), and the [[Consumer Assessment of Healthcare Providers and Systems]] (CAHPS) survey instruments are PRO instruments. 
+
+Condition-targeted tools may capture any of the constructs listed above, depending on the purpose for which they were designed. Examples include the Adult Asthma Quality of Life Questionnaire (AQLQ), the Kidney Disease Quality of Life Instrument, National Eye Institute Visual Functioning Questionnaire, Epilepsy Surgery Inventory, Migraine Specific Quality of Life (MSQOL), the Ankylosing Spondylititis Quality of Life questionnaire (ASQoL) and the Seattle Angina Questionnaire (SAQ), to name a few.
+
+===PROMs in the NHS===
+Since 1 April 2009 all providers of care funded by the [[National Health Service (England)|National Health Service (NHS) in England]] have been required to provide Patient-Reported Outcome Measures (PROMs) in four elective surgical procedures: hip replacement, knee replacement, varicose vein surgery and hernia surgery.,.<ref name=NHSIC_PROMS>{{cite web|title=Patient Reported Outcomes Measures (PROMs)|url=http://www.ic.nhs.uk/proms|publisher=NHS Information Centre|accessdate=1 September 2012}}</ref><ref name=DH_PROMS>{{cite web|title=Guidance on the routine collection of Patient Reported Outcome Measures (PROMs)|url=http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_092647|publisher=Department of Health, England|accessdate=1 September 2012}}</ref> Patients are asked to complete a questionnaire before undergoing the surgical procedure; a follow-up questionnaire is then sent to the patient some weeks or months later.<ref name=NHS_CHOICES_PROMS>{{cite web|title=What are PROMs?|url=http://www.nhs.uk/NHSEngland/thenhs/records/proms/Pages/aboutproms.aspx|publisher=NHS Choices|accessdate=1 September 2012}}</ref> Patient participation is, however, not compulsory.<ref name=NHS_CHOICES_PROMS_FAQ>{{cite web|title=PROMs: Frequently asked questions|url=http://www.nhs.uk/NHSEngland/thenhs/records/proms/Pages/faqs.aspx|publisher=NHS Choices|accessdate=1 September 2012}}</ref>
+
+== See also ==
+* [[Patient Diary]]
+* [[Electronic Patient Reported Outcomes (ePRO)]]
+* [[Clinical trial]]
+* [[Clinical trial protocol]]
+* [[Clinical data acquisition]]
+* [[Case Report Form]]
+* [[Data clarification form]]
+* [[Electronic Data Capture]]
+* [[Clinical research associate]] (CRA)
+* [[Drug development]]
+* [[mpro|mobile phone based ePRO]]
+* [[Linguistic validation]]
+
+== References ==
+{{reflist}}
+* Bradley C. Importance of differentiating health status from quality of life. Lancet 2001; 357 (9249):7-8.
+* Fung CH, Hays RD.  Prospects and challenges in using patient-reported outcomes in clinical practice.  Quality of Life Research 2008; 17: 1297-302.
+* Doward LC, McKenna SP, Defining Patient-Reported Outcomes. Value in Health 2004; 7(S1): S4-S8.
+* Fayers P, Hays RD. (eds.) Assessing Quality of Life in Clinical Trials: Methods and Practice. Oxford: Oxford University Press, 2005.
+* Gallagher P, Ding L, Ham HP, Schor EL, Hays RD, Cleary PD.  Development of a new patient-based measure of pediatric ambulatory care.  Pediatrics 2009; 124: 1348-1354.
+* Hays RD, Reeve BB. Measurement and modeling of health-related quality of life.  In J. Killewo, H. K. Heggenhougen & S. R. Quah (eds.), Epidemiology and Demography in Public Health (pp.&nbsp;195–205).  Elsevier, 2010.
+* Kennedy D, ''CRF Designer'', Canary Publications, ISBN 0-9531174-7-2
+* McKenna SP, Doward LC, Integrating Patient-Reported Outcomes. Value in Health 2004; 7(S1): S9-S12.
+* Patrick DL, Bergner M. Measurement of Health Status in the 1990s. Annu Rev Public Health. 1990; 11: 165-83.
+* Tennant A, McKenna SP. Conceptualising and defining outcome. Br J Rheumatol 1995;34:899-900.
+* Valderas JM, Alonso J. Patient reported outcome measures: a model-based classification system for research and clinical practice. Qual Life Res. 2008; 17: 1125-35.
+* Wiklund I., Assessment of patient-reported outcomes in clinical trials: the example of health-related quality of life, Fundam Clin Pharmacol. 2004 Jun;18(3):351-63.
+* Willke RJ, Burke LB, Erickson P., Measuring treatment impact: a review of patient-reported outcomes and other efficacy endpoints in approved product labels, Control Clin Trials. 2004 Dec;25(6):535-52.
+
+==External links==
+*[http://www.euroqol.org/ EuroQol Group (EQ-5D)]
+*[http://www.nihpromis.org/ Patient Reported Outcomes Measurement Information System]
+*[http://www.outcomes-trust.org/ Medical Outcomes Trust]
+*[http://www.rand.org/health/surveys_tools.html/RAND Health Surveys]
+*[http://www.sf-36.org/ SF-36.org]
+*[http://www.mapi-institute.com/ MAPI Institute (Linguistic validations of Patient-Reported Outcomes (PRO) instruments)]
+*[http://www.mapi-trust.org/ MAPI Research Trust (non-profit organization involved in Patient-Reported Outcomes (PRO) instruments and Epidemiology]
+*[http://www.proqolid.org/ ProQolid (Patient-Reported Outcome & Quality of Life Instruments Database)]
+*[http://www.mapi-prolabels.org/ PROLabels(Database on Patient-Reported Outcome claims in marketing authorizations)]
+*[http://www.mapivalues.com/ Mapi Values global PRO consultancy]
+
+[[Category:Clinical research]]
+[[Category:Clinical data management]]

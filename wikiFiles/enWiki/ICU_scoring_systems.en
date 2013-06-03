@@ -1,0 +1,44 @@
+There are several [[medical algorithms|scoring systems]] in [[intensive care unit]]s (ICUs) today.
+
+==Adult scoring systems==
+* [[APACHE II]] was designed to provide a [[morbidity]] [[Raw score|score]] for a patient. It is useful to decide what kind of treatment or medicine is given. Methods exist to derive a predicted [[death|mortality]] from this score, but these methods are not too well defined and rather imprecise.
+** [[APACHE III]] is an updated version.
+* [[SAPS II]] was designed to provide a predicted mortality, that does not reflect the expected mortality for a particular patient, but is good for [[benchmarking]]. In a rather simple way, it makes it possible to provide a single number that describes the morbidity of a number of patients.
+* [[SAPS III]] was designed to provide a realistic predicted mortality for a particular patient or a particular group of patients. It does this by [[calibration|calibrating]] against known mortalities on an existing set of patients, for a specific definition of mortality (like 30-days mortality). This way, it can answer questions like "Did we improve our quality of care from 2004 to 2005?" or "If hospital A's patients had been treated at hospital B, would they have a better or a worse mortality?".
+
+==Children scoring systems==
+* [[PIM2]] delivers a predicted mortality value, intended to be used for benchmarking.,
+
+==Other scoring systems==
+* [[SOFA Score|SOFA]] was designed to provide a simple daily score, that indicates how the status of the patient evolves over time.
+* [[Glasgow Coma Scale]] (also named GCS) is designed to provide the status for the [[central nervous system]]. It is often used as part of other scoring systems.
+* CMM - Cancer Mortality Model<ref name="pmid15312218"/>
+** specific score to predict outcome of critical cancer patients
+* MPM - Mortality Prediction Model<ref name="pmid15312218"/><ref name="pmid18339152"/>
+** model to assess risk of death at ICU admission
+** has prediction models for assessment at admittance, 24h, 48h and 72h after
+* RIFLE - Risk, injury, failure, loss and end-stage kidney classification <ref name="pmid18339152"/>
+** has 3 severity levels (risk, injury and failure) and 2 possible outcomes (loss and end-stage)
+* CP - Child–Pugh<ref name="pmid18339152"/>
+** for patient with liver failure.
+** used also outside of the ICU.
+* Ranson score <ref name="pmid18339152"/>
+** simple score used specifically for patients with [[pancreatitis]]
+* MODS Multiple Organ Dysfunction Score <ref name="pmid18339152"/>
+** with similar objectives as [[SOFA Score]]
+* LODS Logistic Organ Dysfunction System <ref name="pmid18339152"/>
+** developed for evaluation at admittance and not as a monitoring tool
+
+==References==
+{{Reflist|refs=
+<ref name="pmid15312218">
+{{cite journal| author=Soares M, Fontes F, Dantas J, Gadelha D, Cariello P, Nardes F et al.| title=Performance of six severity-of-illness scores in cancer patients requiring admission to the intensive care unit: a prospective observational study. | journal=Crit Care | year= 2004 | volume= 8 | issue= 4 | pages= R194-203 | pmid=15312218 | doi=10.1186/cc2870 | pmc=522839   }}
+</ref>
+<ref name="pmid18339152">
+{{cite journal| author=Strand K, Flaatten H| title=Severity scoring in the ICU: a review. | journal=Acta Anaesthesiol Scand | year= 2008 | volume= 52 | issue= 4 | pages= 467–78 | pmid=18339152 | doi=10.1111/j.1399-6576.2008.01586.x | pmc= | url=http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=sumsearch.org/cite&retmode=ref&cmd=prlinks&id=18339152  }}
+</ref>
+}}
+{{Intensive care medicine}}
+
+{{DEFAULTSORT:Icu Scoring Systems}}
+[[Category:Intensive care medicine]]

@@ -1,0 +1,93 @@
+{| class=wikitable align=right
+|+ '''Values of ''R''<sub>0</sub> of well-known infectious diseases'''<ref name= Smallpox>Unless noted R<sub>0</sub> values are from: [http://www.bt.cdc.gov/agent/smallpox/training/overview/pdf/eradicationhistory.pdf  History and Epidemiology of Global Smallpox Eradication] From the training course titled "Smallpox: Disease, Prevention, and Intervention". The CDC and the [[World Health Organization]]. Slide 16-17.</ref> 
+!align="center" |Disease|| align="center"  |Transmission|| align="center" | R<sub>0</sub>
+|-
+| align="center" |[[Measles]] || align="center"| Airborne|| align="center"| 12–18
+|-
+| align="center"| [[Pertussis]] || align="center"|Airborne droplet || align="center"|12–17
+|-
+| align="center" |[[Diphtheria]] || align="center"|Saliva || align="center"|6–7 
+|-
+| align="center"| [[Smallpox]] || align="center"| Social contact|| align="center"|5–7 
+|-
+| align="center"| [[Polio]] || align="center"|Fecal-oral route ||  align="center"| 5–7
+|-
+| align="center"| [[Rubella]] || align="center"|Airborne droplet || align="center"| 5–7
+|-
+| align="center"| [[Mumps]] || align="center"| Airborne droplet||align="center"| 4–7
+|-
+| align="center" |[[HIV]]/[[AIDS]] || align="center"|Sexual contact|| align="center"|2–5
+|-
+| align="center"| [[SARS]]|| align="center"| Airborne droplet|| align="center"|2–5<ref>{{cite journal |author=Wallinga J, Teunis P |title=Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures |url= http://171.66.121.65/cgi/content/full/160/6/509|journal=Am. J. Epidemiol. |volume=160 |issue=6 |pages=509–16 |year=2004 |pmid=15353409 |doi=10.1093/aje/kwh255}}</ref> 
+|-
+| align= "center"|[[Influenza]]<br><small>([[Spanish flu|1918 pandemic]] strain)</small>|| align="center"|Airborne droplet || align="center"|2–3<ref>{{cite journal |author=Mills CE, [[James Robins|Robins JM]], Lipsitch M |title=Transmissibility of 1918 pandemic influenza |url= http://www.hsph.harvard.edu/disasters/articles/LoreeLipsitch.pdf |journal=Nature |volume=432 |issue=7019 |pages=904–6 |year=2004 |pmid=15602562 |doi=10.1038/nature03063}}</ref> 
+|}
+
+In [[epidemiology]], the '''basic reproduction number''' (sometimes called '''basic reproductive rate''', '''basic reproductive ratio''' and denoted '''''R''<sub>0</sub>''', ''r nought'') of an [[infection]] is the number of cases one case generates on average over the course of its infectious period.<ref name="Fraser">{{cite journal
+| title = Pandemic Potential of a Strain of Influenza A (H1N1): Early Findings
+| journal = Science 
+| date =19 June 2009
+| coauthors = Christophe Fraser, Christl A. Donnelly, Simon Cauchemez et al. 
+| volume = 324 
+| issue = 5934
+| pages = 1557–1561
+| url = http://www.sciencemag.org/content/324/5934/1557.full?sid=642959de-2968-4d85-8006-31053edd9dff
+| doi = 10.1126/science.1176062 
+| pmid =
+| pmc =
+}}Free text </ref>
+
+This metric is useful because it helps determine whether or not an [[infectious disease]] can spread through a population. The roots of the basic reproduction concept can be traced through the work of [[Alfred Lotka]], [[Ronald Ross]], and others, but its first modern application in epidemiology was by George MacDonald in 1952, who constructed population models of the spread of [[malaria]].
+
+When 
+
+:''R''<sub>0</sub> < 1
+
+the infection will die out in the long run. But if 
+
+:''R''<sub>0</sub> > 1
+
+the infection will be able to spread in a population.
+
+Generally, the larger the value of ''R''<sub>0</sub>, the harder it is to control the epidemic. For simple models, the proportion of the population that needs to be vaccinated to prevent sustained spread of the infection is given by 1&nbsp;&minus;&nbsp;1/''R''<sub>0</sub>. The basic reproductive rate is affected by several factors including the duration of [[infectivity]] of affected patients, the infectiousness of the organism, and the number of susceptible people in the population that the affected patients are in contact with.
+
+==Other uses==
+''R''<sub>0</sub> is also used as a measure of individual reproductive success in [[population ecology]],<ref>{{cite book | author = de Boer, Rob J | title = Theoretical Biology | url = http://theory.bio.uu.nl/rdb/books/tb.pdf | accessdate = 2007-11-13}}</ref> [[evolutionary invasion analysis]] and [[life history theory]]. It represents the average number of offspring produced over the lifetime of an individual (under ideal conditions).
+
+For simple [[population modeling|population models]], ''R''<sub>0</sub> can be calculated, provided an explicit decay rate (or "death rate") is given. In this case, the reciprocal of the decay rate (usually&nbsp;1/''d'') gives the average lifetime of an individual. When multiplied by the average number of offspring per individual per timestep (the "birth rate"&nbsp;''b''), this gives&nbsp;''R''<sub>0</sub>&nbsp;=&nbsp;''b''&nbsp;/&nbsp;''d''. For more complicated models that have variable growth rates (e.g. because of [[density dependence|self-limitation]] or dependence on food densities), the maximum growth rate should be used.
+
+==Limitations of ''R''<sub>0</sub>==
+When calculated from [[mathematical models]], particularly [[ordinary differential equation]]s, what is often claimed to be ''R''<sub>0</sub> is, in fact, simply a threshold, not the average number of secondary infections. There are many methods used to derive such a threshold from a mathematical model, but few of them always give the true value of ''R''<sub>0</sub>. This is particularly problematic if there are intermediate vectors between hosts, such as [[malaria]].
+
+What these thresholds will do is determine whether a disease will die out (if&nbsp;''R''<sub>0</sub>&nbsp;<&nbsp;1) or whether it may become endemic (if&nbsp;''R''<sub>0</sub>&nbsp;>&nbsp;1), but they generally can not compare different diseases. Therefore, the values from the table above should be used with caution, especially if the values were calculated from mathematical models.
+
+Methods include the [[survival function]], rearranging the largest [[eigenvalue]] of the [[Jacobian matrix]], the next-generation method,<ref>{{cite book |author=Diekmann O and Heesterbeek JAP|title=Mathematical epidemiology of infectious diseases: model building, analysis and interpretation|publisher=New York: Wiley|year=2000}}</ref> calculations from the intrinsic growth rate,<ref>{{cite journal |author=Chowell G, Hengartnerb NW, Castillo-Chaveza C, Fenimorea PW and Hyman JM|title=The basic reproductive number of Ebola and the effects of public health measures: the cases of Congo and Uganda|journal=Journal of Theoretical Biology |volume=229 |issue=1 |pages=119–126 |year=2004 |doi=10.1016/j.jtbi.2004.03.006 |pmid=15178190}}</ref> existence of the endemic equilibrium, the number of susceptibles at the endemic equilibrium, the average age of infection <ref>{{cite journal |author=Ajelli M, Iannelli M, Manfredi P and Ciofi degli Atti, ML|title=Basic mathematical models for the temporal dynamics of HAV in medium-endemicity Italian areas|journal=Vaccine|volume=26 
+|issue=13 |pages=1697–1707 |year=2008 |doi=10.1016/j.vaccine.2007.12.058 |pmid=18314231}}</ref> and the final size equation. Few of these methods agree with one another, even when starting with the same system of [[differential equations]]. Even fewer actually calculate the average number of secondary infections. Since ''R''<sub>0</sub> is rarely observed in the field and is usually calculated via a mathematical model, this severely limits its usefulness.<ref>{{cite journal |author=Heffernan JM, Smith RJ, Wahl LM |title=Perspectives on the Basic Reproductive Ratio |url= http://www.mathstat.uottawa.ca/~rsmith/R0Review.pdf |journal=Journal of the Royal Society Interface |volume=2 |issue=4 |pages=281–93 |year=2005 |pmid=16849186 |doi=10.1098/rsif.2005.0042 |pmc=1578275}}</ref>
+
+==In popular culture==
+In the 2011 film [[Contagion_(film)|Contagion]], a fictional medical disaster thriller, R0 calculations are presented to reflect the progression of a fatal viral infection from case studies to a pandemic.
+
+==Further reading==
+<ref>{{cite web|last=Jones|first=James Holland|title=Notes on R0|url=http://www.stanford.edu/~jhj1/teachingdocs/Jones-on-R0.pdf|accessdate=12 March 2013}}</ref> 
+
+== See also == 
+{{Portal box|Health and fitness}}
+* [[E-epidemiology]]
+* [[Epi Info]] software program
+* [[Epidemic model]]
+* [[Epidemiological methods]]
+* [[Epidemiological Transition]]
+{{Clear}}
+
+== References ==
+{{Reflist|30em}}
+
+{{Medical research studies}}
+{{Influenza}}
+{{Public health}}
+{{Biology-footer}}
+
+{{DEFAULTSORT:Basic Reproduction Number}}
+[[Category:Epidemiology]]
+
+[[fr:Modèles compartimentaux en épidémiologie#Taux de reproduction de base]]

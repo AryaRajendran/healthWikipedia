@@ -1,0 +1,23 @@
+{{Refimprove|date=August 2011}}
+'''Cross-reactivity''' is the reaction between an [[antibody]] and an [[antigen]] that differs from the [[immunogenicity|immunogen]]. It is sometimes also referred to as '''crossimmunity''' or '''cross-protective immunity''',<ref>{{cite journal |pmid=15381810 |year=2004 |last1=Porrozzi |first1=R |last2=Teva |first2=A |last3=Amaral |first3=VF |last4=Santos Da Costa |first4=MV |last5=Grimaldi Jr |first5=G |title=Cross-immunity experiments between different species or strains of Leishmania in rhesus macaques (Macaca mulatta) |volume=71 |issue=3 |pages=297–305 |journal=The American journal of tropical medicine and hygiene}}</ref> although cross-reactivity does not necessarily infer cross-protection.  A few examples of cross-reactivity have been confirmed in humans, one of which involves [[Orthomyxoviridae|influenza virus]]-specific [[CD8|CD8+]] [[T cell]] and [[hepatitis C virus]] antigens.<ref>{{cite journal |pages=1143–53 |doi=10.1172/JCI33082 |pmc=2214846 |title=Defining the directionality and quality of influenza virus–specific CD8+ T cell cross-reactivity in individuals infected with hepatitis C virus |year=2008 |last1=Kasprowicz |first1=Victoria |last2=Ward |first2=Scott M. |last3=Turner |first3=Alison |last4=Grammatikos |first4=Alexandros |last5=Nolan |first5=Brian E. |last6=Lewis-Ximenez |first6=Lia |last7=Sharp |first7=Charles |last8=Woodfruff |first8=Jenny |last9=Fleming |first9=Vicki M. |journal=Journal of Clinical Investigation |pmid=18246203 |volume=118 |issue=3}}</ref>
+
+An [[adaptive immune system|adaptive immune response]] is specific to the antigen that stimulated it (called the immunogen). However, many naturally occurring 'antigens' are a mixture of [[macromolecule]]s (e.g. from [[pathogen]]s, [[toxin]]s, [[protein]]s, [[pollen]]) comprising several [[epitope]]s. Contact with a complex antigen such as a [[virus]] will stimulate multiple [[Immune system|immune responses]] to the virus' different macromolecules as well as the individual epitopes of each macromolecule. For example, the [[tetanus]] toxin is a single protein macromolecular antigen but will stimulate many immune responses due to the [[Protein tertiary structure|tertiary structure]] of the protein yielding many different epitopes. The [[toxin]] that creates the immune response will have an epitope on it that stimulates the response. [[Denaturation (biochemistry)|Denaturing]] the protein may 'disarm' its function but allow the immune system to have an immune response thus creating an immunity without harming the patient.
+
+Cross-reactivity is also a commonly evaluated parameter for the validation of immune and protein binding based [[assay]]s such as [[ELISA]] and [[RIA]].  In this case it is normally quantified by comparing the assays response to a range of similar analytes and expressed as a percentage.  In practice, [[calibration curve]]s are produced using fixed concentration ranges for a selection of related compounds and the midpoints ([[IC50]]) of the calibration curves are calculated and compared.  The figure then provides an estimate of the response of the assay to possible interfering compounds relative to the target analyte.
+
+== Examples ==
+[[Hevein (protein)|Hevein]]-like protein domains are a possible cause for allergen cross-reactivity between [[latex]] and [[banana]].<ref>{{Cite journal|pmid=9847442|year=1998|last1=Mikkola|first1=JH|last2=Alenius|first2=H|last3=Kalkkinen|first3=N|last4=Turjanmaa|first4=K|last5=Palosuo|first5=T|last6=Reunala|first6=T|title=Hevein-like protein domains as a possible cause for allergen cross-reactivity between latex and banana|volume=102|issue=6 Pt 1|pages=1005–12|journal=The Journal of allergy and clinical immunology|doi=10.1016/S0091-6749(98)70339-2}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{MeshName|Cross+reactions}}
+* http://pathmicro.med.sc.edu/mayer/ab-ag-rx.htm
+
+{{Immune system}}
+
+[[Category:Chemical reactions]]
+[[Category:Immune system]]
+
+{{biology-stub}}

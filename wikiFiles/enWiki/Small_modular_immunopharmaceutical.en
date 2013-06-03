@@ -1,0 +1,29 @@
+{{redir|SMIP|the school called Sekolah Menengah Ismail Petra|Sekolah Menengah Sains Tengku Muhammad Faris Petra}}
+
+'''Small modular immunopharmaceuticals''', or '''SMIPs''' for short, are artificial [[protein]]s that are intended for use as [[pharmaceutical drug]]s. They are largely built from parts of [[antibodies]] (immunoglobulins), and like them have a [[binding site]] for [[antigen]]s that could be used for [[monoclonal antibody therapy]]. SMIPs have similar biological half-life and, being smaller than antibodies, are reasoned to have better tissue penetration properties. They were invented by [[Trubion]] and are now being developed by [[Emergent BioSolutions]], which acquired Trubion in 2010.<ref>TruEmergent: [http://www.truemergent.com/technology/smip-therapeutics/ SMIP Therapeutics]</ref>
+
+==Structure==
+[[File:Small modular immunopharmaceutical.svg|thumb|Sketch of a SMIP [[monomer]] consisting of four [[protein domain|domains]]. The antigen [[binding site]] is on the left edge.<br />
+'''scFv''': modified [[single-chain variable fragment]]<br />
+'''Fc''': one half of a [[fragment crystallizable region]]<br />
+'''V<sub>H</sub>''': [[Immunoglobulin heavy chain|heavy chain]] variable domain<br />
+'''V<sub>L</sub>''': [[Immunoglobulin light chain|light chain]] variable domain<br />
+'''C<sub>H</sub>2''': [[constant domain]] 2<br />
+'''C<sub>H</sub>3''': constant domain 3 (effector domain)<br />
+'''Arrows''': linker peptide (left) and hinge region (right)<br />
+'''N''': [[N-terminus]]<br />
+'''C''': [[C-terminus]]]]
+
+SMIPs are single-chain proteins that comprise one binding region, one hinge region as a connector, and one effector domain. The binding region is a modified [[single-chain variable fragment]] (scFv), and the rest of the protein can be constructed from the [[fragment crystallizable region]] (Fc) and the hinge region of an [[immunoglobulin G]]<sub>1</sub> (IgG<sub>1</sub>). Genetically modified cells produce SMIPs as antibody-like [[Protein dimer|dimers]], which are about 30% smaller than real antibodies.<ref name="Zhao">{{cite pmid|17440052}}</ref>
+
+Like ordinary monoclonal antibodies, SMIPs are [[Monospecific antibody|monospecific]], meaning they recognize and attach to a single antigen target to initiate their biological activity. SMIP drug candidates are intended to target antigens with the same specificity and predictable biological activity as monoclonal antibodies. Examples are TRU-015, a [[CD20]] targeting SMIP under research for [[rheumatoid arthritis]],<ref>{{cite pmid|20140823}}</ref> and TRU-016, a [[CD37]] targeting potential treatment for [[chronic lymphocytic leukemia]] and other [[Lymphoma#Mature B cell neoplasms|B-cell cancers]].<ref>{{cite pmid|19943209}}</ref><ref>TruEmergent: [http://www.truemergent.com/tru-016/ TRU-016 for the Treatment of B-Cell Malignancies]</ref>
+
+==Production==
+A monoclonal antibody targeting the desired antigen can be developed the classical way, using [[hybridoma technology]]. The scFv is then constructed from the antibody's variable regions. A large number of different hinge regions and effector domains are taken from libraries of immunoglobulins, and the combined proteins are produced in genetically modified ([[transfect]]ed) cells and [[High-throughput screening|screened]] for species with useful properties like high binding specificity. The selected protein is multiplied in transfected cells suitable for medium- or large-scale production, for example [[Chinese hamster ovary cell]]s, and purified by [[chromatography]].<ref name="Zhao" />
+
+==References==
+{{Reflist|1}}
+
+{{Engineered antibodies}}
+
+[[Category:Monoclonal antibodies]]

@@ -1,0 +1,183 @@
+{{For|the EP by South Korean girl group f(x)|Electric Shock (EP)}}
+{{Infobox disease
+ | Name           = Electrical injury
+ | Image          = Lighteninginjury.JPG
+ | Caption        = A person who was affected by a nearby [[lightning strike]]. Note the slight branching redness travelling up his leg from the effects of the current.
+ | DiseasesDB     = 4159
+ | ICD10          = {{ICD10|T|75|4|t|66}}
+ | ICD9           =
+ | ICDO           =
+ | OMIM           =
+ | MedlinePlus    =
+ | eMedicineSubj  =
+ | eMedicineTopic =
+ | MeshID         =
+}}
+
+'''Electric shock''' occurs upon contact of a (human) body part with any source of [[electricity]] that causes a sufficient [[Electric current|current]] through the skin, muscles, or hair.  Typically, the expression is used to describe an injurious exposure to electricity.<ref>{{harvnb|Reilly|1998|p=1}}</ref> Very small currents can be imperceptible. Larger current passing through the body may make it impossible for a shock victim to let go of an energized object. Still larger currents can cause fibrillation of the heart and damage to tissues. 
+Death caused by an electric shock is called [[electrocution]].
+
+==Magnitude==
+The minimum current a human can feel depends on the current type ([[alternating current|AC]] or [[direct current|DC]]) and [[frequency]]. A person can feel at least 1 [[ampere|mA]] ([[Root mean square#Average electrical power|rms]]) of AC at 60&nbsp;Hz, while at least 5 mA for DC. At around 10 milliamperes, AC current passing through the arm of a 68&nbsp;kg (150&nbsp;lb) human can cause powerful muscle contractions; the victim is unable to voluntarily control muscles and cannot release an electrified object.<ref>John Cadick et. al (ed.) ''Electrical Safety Handbook Third Edition'', McGraw Hill,2005 ISBN 0-07-145772-0  page 1-4</ref> This is known as the "let go threshold" and is a criterion for shock hazard in electrical regulations. 
+
+The current may, if it is high enough, cause tissue damage or [[fibrillation]] which leads to cardiac arrest; {{nowrap|more than 30 mA}}<ref name=ucsb>[http://web.physics.ucsb.edu/~phys13BH/w2012/electrical_safety.pdf ucsb.edu - Electrical Safety Information - Physics Department, UCSB], 2012-01-09</ref> of AC (rms, 60&nbsp;Hz) or {{nowrap|300 – 500 mA}} of DC can cause fibrillation.<ref name=whitaker>Clifford D. Ferris, ''Electric Shock'', chapter 22.1 in Jerry C. Whitaker (ed.) ''The Electronics Handbook'', CRC Press, 2005, ISBN 0-8493-1889-0, pp. 2317-2324</ref><ref>[http://hypertextbook.com/facts/2000/JackHsu.shtml Electric Current Needed to Kill a Human]</ref> A sustained electric shock from AC at 120 [[volt|V]], 60&nbsp;Hz is an especially dangerous source of [[ventricular fibrillation]] because it usually exceeds the let-go threshold, while not delivering enough initial energy to propel the person away from the source. However, the potential seriousness of the shock depends on paths through the body that the currents take.<ref name=whitaker/> If the [[voltage]] is less than 200&nbsp;V, then the human skin, more precisely the [[stratum corneum]], is the main contributor to the impedance of the body in the case of a [[macroshock]]—the passing of current between two contact points on the skin. The characteristics of the skin are non-linear however. If the voltage is above 450–600&nbsp;V, then [[dielectric breakdown]] of the skin occurs.<ref>{{harvnb|Reilly|1998|p=30}}</ref> The protection offered by the skin is lowered by [[perspiration]], and this is accelerated if electricity causes muscles to contract above the let-go threshold for a sustained period of time.<ref name=whitaker/>
+
+If an electrical circuit is established by electrodes introduced in the body, bypassing the skin, then the potential for lethality is much higher if a circuit through the heart is established. This is known as a [[microshock]]. Currents of only 10&nbsp;[[micro-|µ]]A can be sufficient to cause fibrillation in this case.{{Citation needed|date=May 2011}} This is a concern in modern hospital settings when the patient is connected to multiple devices.
+
+==Signs and symptoms==
+
+===Burns===
+[[File:Verbrennung Grad 2b.jpg|thumb|Second-degree burn after a [[high tension line]] accident]]
+[[File:Rear view of a lightning-strike survivor, displaying Lichtenberg figure on skin.png|thumb|A person who was struck by lightning.]]
+
+Heating due to [[electrical resistance|resistance]] can cause extensive and deep [[burn]]s. Voltage levels of 500 to 1000 volts tend to cause internal burns due to the large energy (which is proportional to the duration multiplied by the square of the voltage divided by resistance) available from the source. Damage due to current is through tissue heating.
+
+===Ventricular fibrillation===
+A domestic power supply voltage (110 or 230&nbsp;V), 50 or 60&nbsp;Hz alternating current (AC) through the chest for a fraction of a second may induce [[ventricular fibrillation]] at currents as low as {{nowrap|30 mA}}.<ref name=ucsb/> With direct current (DC), 300 to 500&nbsp;mA is required.<ref name=whitaker/> If the current has a direct pathway to the heart (e.g., via a [[Catheter|cardiac catheter]] or other kind of [[electrode]]), a much lower current of less than 1&nbsp;mA (AC or DC) can cause fibrillation. If not immediately treated by [[defibrillation]], fibrillation is usually lethal because all of the heart muscle cells move independently instead of in the coordinated pulses needed to pump blood and maintain circulation. Above 200&nbsp;mA, muscle contractions are so strong that the heart muscles cannot move at all, but these conditions prevent fibrillation.
+
+===Neurological effects===
+Current can cause interference with nervous control, especially over the heart and lungs.  Repeated or severe electric shock which does not lead to death has been shown to cause [[neuropathy]]. Recent research has found that functional differences in [[neural]] activation during spatial working memory and implicit learning [[oculomotor]] tasks have been identified in electrical shock victims.<ref>Mechanism of Electrical Injury [http://www.cetri.org/mechanism Chicago Electrical Trauma Research Institute] Accessed April 27, 2010</ref>
+
+When the current path is through the head, it appears that, with sufficient current applied, loss of consciousness almost always occurs swiftly. (This is borne out by some limited self-experimentation by early designers of the [[electric chair]]{{Citation needed|date=April 2010}} and by research from the field of [[animal husbandry]], where electric stunning has been extensively studied.)<ref>[http://www.grandin.com/humane/elec.stun.html Electric Stunning of Pigs and Sheep]</ref>
+
+===Arc-flash hazards===
+{{main|Arc flash}}
+{{Refimprove section|date=January 2008}}
+
+One major corporation{{Which|date=July 2010}} found that up to 80&nbsp;percent of its electrical injuries involve thermal burns due to arcing faults.<ref>{{cite web|ref=harv|url=http://standards.ieee.org/announcements/pr_FINArc.html|title=Industry Backs IEEE-NFPA Arc Flash Testing Program with Initial Donations of $1.25 Million|publisher=IEEE|date=14 July 2006|accessdate=2008-01-01}}</ref>  The [[arc flash]] in an electrical fault produces the same type of light [[radiation]] from which electric welders protect themselves using face shields with dark glass, heavy leather gloves, and full-coverage clothing.<ref>[http://www.arcflash.com.au/arc_flash_protection.php Arc Flash Protection]</ref> The heat produced may cause severe burns, especially on unprotected flesh.  The ''arc blast'' produced by vaporizing metallic components can break bones and damage internal organs.  The degree of hazard present at a particular location can be determined by a detailed analysis of the electrical system, and appropriate protection worn if the electrical work must be performed with the electricity on.
+
+==Pathophysiology==
+
+===Body resistance===
+
+The voltage necessary for electrocution depends on the current through the body and the duration of the current. [[Ohm's law]] states that the current drawn depends on the resistance of the body. The resistance of human skin varies from person to person and fluctuates between different times of day. The [[NIOSH]] states "Under dry conditions, the resistance offered by the human body may be as high as 100,000 Ohms. Wet or broken skin may drop the body's resistance to 1,000&nbsp;Ohms," adding that "high-voltage electrical energy quickly breaks down human skin, reducing the human body's resistance to 500&nbsp;Ohms."<ref name=niosh>{{cite web|url=http://www.cdc.gov/niosh/docs/98-131/overview.html|accessdate=2008-08-16|title=Publication No. 98-131: Worker Deaths by Electrocution|publisher=[[National Institute for Occupational Safety and Health]]}}</ref>
+
+The [[International Electrotechnical Commission]] gives the following values for the total body impedance of a hand to hand circuit for dry skin, large contact areas, 50&nbsp;Hz AC currents (the columns contain the distribution of the impedance in the population [[percentile]]; for example at 100&nbsp;V 50% of the population had an impedance of 1875Ω or less):<ref>{{harvnb|Reilly|1998|p=43}}</ref>
+{|class="wikitable"
+|-
+! Voltage || 5% || 50% || 95%
+|-
+| 25&nbsp;V || 1,750&nbsp;Ω || 3,250&nbsp;Ω || 6,100&nbsp;Ω
+|-
+| 100&nbsp;V || 1,200&nbsp;Ω || 1,875&nbsp;Ω || 3,200&nbsp;Ω
+|-
+| 220&nbsp;V || 1,000&nbsp;Ω || 1,350&nbsp;Ω || 2,125&nbsp;Ω
+|-
+| 1000&nbsp;V || 700&nbsp;Ω || 1,050&nbsp;Ω || 1,500&nbsp;Ω
+|}
+
+===Point of entry===
+* [[Macroshock]]: Current across intact skin and through the body. Current from arm to arm, or between an arm and a foot, is likely to traverse the heart, therefore it is much more dangerous than current between a leg and the ground.  This type of shock by definition must pass into the body through the skin.
+* [[Microshock]]: Very small current source with a pathway directly connected to the heart tissue. The shock is required to be administered from inside the skin, directly to the heart i.e. a pacemaker lead, or a guide wire, conductive catheter etc. connected to a source of current. This is a largely theoretical hazard as modern devices used in these situations include protections against such currents.
+
+=== Lethality ===
+{{original research|section|date=December 2010}}
+
+==== Electrocution ====
+The term "electrocution," coined about the time of the first use of the [[electric chair]] in 1890, originally referred only to '''electr'''ical exe'''cution''' (from which it is a [[portmanteau]] word), and not to accidental or suicidal electrical deaths. However, since no English word was available for non-judicial deaths due to electric shock, the word "electrocution" eventually took over as a description of all circumstances of electrical death from the new commercial electricity. The word is often used incorrectly as a synonym of electric shock.
+
+==== Factors in lethality of electric shock ====
+The lethality of an electric shock is dependent on several variables:
+
+* Current. The higher the current, the more likely it is lethal. Since current is proportional to voltage when resistance is fixed (ohm's law), high voltage is an indirect risk for producing higher currents.
+* Duration. The longer the duration, the more likely it is lethal&mdash;safety switches may limit time of current flow
+* Pathway. If current flows through the heart muscle, it is more likely to be lethal.
+* [[High voltage]] (over about 600 volts). In additon to greater current flow, high voltage may cause dielectric breakdown at the skin, thus lowering skin resistance and allowing further increased current flow.
+
+Other issues affecting lethality are [[frequency]], which is an issue in causing cardiac arrest or muscular spasms. Very high frequency electric current causes tissue burning, but does not penetrate the body far enough to cause cardiac arrest (see [[electrosurgery]]) Also important is the pathway: if the current passes through the chest or head, there is an increased chance of death. From a main circuit or power distribution panel the damage is more likely to be internal, leading to [[cardiac arrest]].{{Citation needed|date=December 2009}}.  Another factor is that cardiac tissue has a [[chronaxie]] (response time) of about 3 milliseconds, so electricity at frequencies of higher than about 333&nbsp;Hz requires more current to cause fibrillation than is required at lower frequencies.
+
+The comparison between the dangers of [[alternating current]] at typical power transmission frequences (i.e., 50 or 60&nbsp;Hz), and [[direct current]] has been a subject of debate ever since the [[War of Currents]] in the 1880s. Animal experiments conducted during this time suggested that alternating current was about twice as dangerous as direct current per unit of current flow (or per unit of applied voltage).
+
+It is sometimes suggested that human lethality is most common with [[alternating current]] at 100–250&nbsp;volts; however, death has occurred below this range, with supplies as low as 32 volts.{{Citation needed|date=March 2011}} Assuming a steady current flow (as opposed to a shock from a capacitor or from [[static electricity]]), shocks above 2,700&nbsp;volts are often fatal, with those above 11,000&nbsp;volts being usually fatal.{{Citation needed|date=October 2009}} Shocks with voltages over 40,000&nbsp;volts are almost invariably fatal. However, Harry F. Mcgrew came into direct contact with a 340,000&nbsp;volt transmission line in [[Huntington Canyon]], Utah, and survived. According to the [[Guinness Book of World Records]], this is the largest known electric shock that was survived. Brian Latasa also survived a 230,000&nbsp;volt shock in [[Griffith Park]], Los Angeles, according to Guinness.
+
+== Epidemiology ==
+There were 550 electrocutions in the US in 1993, which translates to 2.1 deaths per million inhabitants. At that time, the incidence of electrocutions was decreasing.<ref>{{cite web | url = http://www.ilo.org/encyclopedia/?doc&nd=857100207&nh=0 | title = Electricity: Physiological Effects | accessdate = 2006-09-04 | author = Folliot, Dominigue | year = 1998 | work = Encyclopaedia of Occupational Health and Safety, Fourth Edition  |archiveurl = http://web.archive.org/web/20070228084602/http://www.ilo.org/encyclopedia/?doc&nd=857100207&nh=0 <!-- Bot retrieved archive --> |archivedate = 2007-02-28}}</ref>  Electrocutions in the workplace make up the majority of these fatalities.  From 1980&ndash;1992, an average of 411 workers were killed each year by electrocution.<ref name=niosh /> A recent study conducted by the National Coroners Information System (NCIS) in Australia <ref>[http://www.ncis.org.au National Coroners Information System, NCIS]</ref> has revealed three-hundred and twenty-one (321) closed case fatalities (and at least 39 case fatalities still under coronial investigation) that had been reported to Australian coroners where a person died from electrocution between July 2000 and October 2011.<ref>[http://www.ncis.org.au/web_pages/Feb%202012%20FACT-SHEET%20-%20Electrocution%20related%20deaths.pdf Electrocution Related Deaths - National Coroners Information System (NCIS) Fact-Sheet, January 2012]</ref>
+
+== Deliberate uses ==
+
+===Medical uses===
+Electric shock is also used as a medical therapy, under carefully controlled conditions:
+* [[Electroconvulsive therapy]] or ECT is a psychiatric therapy for [[mental illness]]. The objective of the therapy is to induce a seizure for therapeutic effect. There is no sensation of shock because the patient is anesthetized.  The therapy was originally conceived of after it was observed that depressed patients who also suffered from epilepsy experienced some remission after a spontaneous seizure.{{Citation needed|date=June 2007}}  The first attempts at deliberately inducing seizure as therapy used not electricity but chemicals; however electricity provided finer control for delivering the minimum stimulus needed.  Ideally some other method of inducing seizure would be used, as the electricity may be associated with some of the negative side effects of ECT including amnesia. ECT is generally administered three times a week for about 8-12 treatments.
+* As a surgical tool for cutting or coagulation. An "Electrosurgical Unit" (or ESU) uses high currents (e.g. 10 amperes) at high frequency (e.g. 500&nbsp;kHz) with various schemes of amplitude modulation to achieve the desired result - cut or coagulate - or both. These devices are safe when used correctly.
+* As a treatment for fibrillation or irregular heart rhythms: see [[defibrillator]] and [[cardioversion]].
+* As a method of [[pain relief]]: see [[Transcutaneous Electrical Nerve Stimulator]] (more commonly referred to as a TENS unit).
+* As an aversive punishment for conditioning of mentally handicapped patients with severe behavioral problems.  This method is highly controversial and is employed at only one institution in the United States, the [[Judge Rotenberg Educational Center]];  The institute also uses electric shock punishments on non-handicapped children with behavioral problems, and whether this constitutes legitimate medical treatment or abusive discipline is currently the subject of litigation.{{Citation needed|date=January 2010}}
+
+===Entertainment===
+[[Image:Musée Mécanique 160.JPG|thumb|right|Electrifying machine at [[Musée Mécanique]] that actually works with vibration<ref>http://www.arcade-museum.com/game_detail.php?game_id=10550</ref>]]
+Mild electric shocks are also used for entertainment, especially as a [[practical joke]] for example in such devices as a shocking pen or a [[shocking gum]]. However devices such as a [[joy buzzer]] and most other machines in [[amusement park]]s today only utilize vibration that feels somewhat like an electric shock to someone not expecting it.
+
+Furthermore [[erotic electrostimulation]] involves the application of [[electricity|electrical]] stimulation to the [[nerve]]s of the body, with particular emphasis on the [[genitals]]. Electrostimulation has been associated with [[BDSM]] activities, and erotic electrostimulation is an evolution of that practice. Erotic electrostimulation is the use of electrostimulation in an erotic or sexual manner versus the more sadistic or painful electric shocks in [[BDSM]].
+
+===Law enforcement and personal defence===
+[[Electroshock weapon]]s are [[Less-lethal weapon|incapacitant]] [[weapon]]s used for subduing a person by administering electric shock to disrupt superficial [[muscle]] functions. One type is a conductive energy device (CED), an electroshock gun popularly known by the brand name "[[Taser]]", which fires projectiles that administer the shock through a thin, flexible wire. Although they are illegal for personal use in many jurisdictions, Tasers have been marketed to the general public.<ref>International Association of Chiefs of Police, ''[http://www.theiacp.org/research/CuttingEdge/EMDT9Steps.pdf Electro Muscular Disruption Technology: A Nine-Step Strategy for Effective Deployment]'', 2005</ref>  Other electroshock weapons such as stun guns, stun batons ("cattle prods"), and electroshock belts administer an electric shock by direct contact.
+
+[[Electric fence]]s are barriers that uses electric shocks to deter animals or people from crossing a boundary.  The voltage of the shock may have effects ranging from uncomfortable, to painful or even lethal.  Most electric fencing is used today for [[agricultural fencing]] and other forms of animal control purposes, though it is frequently used to enhance security of sensitive areas, and there exist places where lethal voltages are used.
+
+=== Torture ===<!-- [[Electric shock torture]] redirects here -->
+Electric shocks are used as a method of [[torture]], since the received voltage and current can be controlled with precision and used to cause pain and fear without physically harming the victim's body.
+
+Such torture uses electrodes attached to parts of the victim's body: most typically, while wires are wound around the fingers, toes, or tongue; attached to the genitals; or inserted in the vagina to provide a return circuit; the voltage source (typically some sort of prod) of precisely controllable pressure is applied to other sensitive parts of the body, such as the genitals, vagina, breasts, or head. The [[Parrilla (torture)|Parrilla]] is an example of this technique. Other methods of electrical torture (such as the [[Picana]]) do not use a fixed wire but the prod has two electrodes of different polarity a short distance apart so as to make a circuit through the flesh between them when it is placed on the body, thus making it easy for the operator to target the shocks accurately in the places that cause the victim most pain and distress, such as the genitals, vagina, breasts, or head. When the voltage and current is controlled (most typically, high voltage and low current) the victim feels the pain of electric shock but is not physically harmed. Repeated shocks to the genitals or vagina will result in the victim losing control of his or her bladder and unintentionally urinating, while extensive passage of the current through the buttocks will cause the victim to unintentionally defecate.{{Citation needed|date=August 2012}}
+
+Electrical torture has been used in war and by repressive regimes since the 1930s:<ref>[http://academic.reed.edu/poli_sci/faculty/rejali/rejali/articles/electric.html Technological Invention and Diffusion of Torture Equipment The Strange Case of Electric Torture Instruments in the Early 20th Century]</ref> The US Army is known to have used electrical torture during [[World War II]];<ref>{{cite news|url=http://www.boston.com/bostonglobe/ideas/articles/2007/12/16/torture_american_style/|title=Torture, American style: The surprising force behind torture: democracies|publisher=[[Boston Globe]]|date=2007-12-16|accessdate=2008-01-01 | first=Darius | last=Rejali}}</ref> [[Amnesty International]] published an official statement that Russian military forces in [[Chechnya]] tortured local women with electric shocks by attaching wires onto their breasts;<ref>{{wayback|url=http://www.amnesty.org/en/library/info/EUR46/014/2006|title=Russian Federation Preliminary briefing to the UN Committee against Torture|date=20090516061641}}</ref> Japanese [[serial killer]] [[Futoshi Matsunaga]] used electric shocks for controlling his victims.<ref>{{cite news|url=http://www.asahi.com/english/Herald-asahi/TKY200709270058.html|title=Serial killer's death sentence upheld|publisher=Asahi Shimbun|date=2007-09-27|accessdate=2008-03-21}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+Advocates for the [[mental illness|mentally ill]] and some [[psychiatrist]]s such as [[Thomas Szasz]] have asserted that electroconvulsive therapy (ECT) is torture when used without a ''bona fide'' medical benefit against recalcitrant or non-responsive patients—however such arguments do not apply to ECT when used after the patient has been anesthetized. See [[Electric shock#Medical uses|above]] for ECT as medical therapy.  A similar argument and opposition apply to the use of painful shocks as punishment for behavior modification, a practice that is openly used only at the [[Judge Rotenberg Educational Center|Judge Rotenberg Institute]].<ref name=JRC-history>{{cite web | url = http://www.judgerc.org/history.html | title = History and Basic Principles of JRC | last = Israel | first = Matthew | accessdate = 2007-12-22 }}</ref><ref name="MJ2007">{{cite news | url  =http://www.motherjones.com/news/feature/2007/09/school_of_shock.html | title = School of Shock|first =Jennifer | last = Gonnerman|publisher=[[Mother Jones Magazine]]|date=20 August 2007|accessdate=2007-12-22}}</ref><ref>{{cite news | url = http://www.boston.com/news/local/articles/2008/01/17/showdown_over_shock_therapy/ | title = Showdown over shock therapy | accessdate = 2008-01-26 | date = 2008-01-17 | publisher = [[The Boston Globe]] | last = Wen | first = P }}</ref>
+
+===Capital punishment===
+{{Main|Electric chair}}
+[[File:Singchair.jpg|thumb|right|220px|[[Electric chair]] in [[Sing Sing]]]]
+Electric shock delivered by an [[electric chair]] is sometimes used as an official means of [[capital punishment]] in the United States, although its use has become rare in recent times. Although some original proponents of the electric chair considered it to be a more humane execution method than hanging, shooting, poison gassing, etc., it has now generally been replaced by [[lethal injection]]s in states that practice capital punishment.  Modern reporting has claimed that it sometimes takes several shocks to be lethal, and that the condemned person may actually catch fire before the process is complete.
+
+Other than in parts of the [[United States]], only the Philippines reportedly has used this method, from 1926 to 1976. It was intermittently replaced by the firing squad, until the death penalty was abolished in that country. It is legal in at least 10 states of the United States.<ref>[http://www.deathpenaltyinfo.org/state/ Death Penalty Information Center]</ref>
+
+== See also ==
+*[[Electromagnetism]]
+*[[Keraunomedicine]]
+*[[Milgram experiment]]
+*[[Residual-current device]], a device used to protect against electric shocks
+*[[Static electricity]]
+*[[Transcutaneous electrical nerve stimulation]]
+
+==References==
+{{Reflist}}
+
+=== Books cited ===
+* {{cite book
+| ref=harv
+| last = Reilly
+| first = J. Patrick
+| year = 1998
+| title = Applied Bioelectricity: From Electrical Stimulation to Electropathology
+| publisher = [[Springer Science+Business Media|Springer]]
+| edition = 2nd
+| isbn = 978-0-387-98407-0
+| oclc = 38067651
+| lccn=97048860
+}}
+
+==External links==
+* [http://www.arcflash.com.au Information, Statistic and Video Resource on Arc Flash]
+* [http://www.cdc.gov/niosh/docs/98-131/ National Institute for Occupation Safety & Health: Worker Deaths by Electrocution], a [[Centers for Disease Control and Prevention|CDC]] study
+* [http://www.allaboutcircuits.com/vol_1/chpt_3/2.html Physiological effects of electricity]
+* [http://merck.com/mmpe/sec21/ch316/ch316b.html Electrical injury (Merck Manual)]
+* [http://hyperphysics.phy-astr.gsu.edu/hbase/electric/shock.html Electric Shock Hazards] (Hyperphysics)
+* [http://vias.org/feee/safety_04.html Electric Shock]: a more technical perspective
+* [http://csao.org/uploadfiles/magazine/vol11no1/shock.htm Construction Safety Association of Ontario: Electrocution] ... article with case studies
+* [http://www.electrical-installation.org/wiki/Protection_against_electric_shocks Protection against electric shocks (wiki)]: physiological effects and protection rules [http://www.electrical-installation.org/w/images/5/53/F-Protection-against-electric-shocks.pdf (PDF version)]
+* [http://electricshock.thruhere.net/files/electricalshockstandards.pdf Theodore Bernstein's (Senior Member- IEEE) Electrical Shock Hazards and Safety Standards]
+* [http://www.arcflashanalytics.com/index.html Electric Shock Calculator]
+* [http://www.arcflash.com.au/arc_flash_statistics.php Arc Flash Statistics]
+* [http://www.esc.org.uk Electrical Safety Council]
+* [http://www.electricshock.org/ Electric Shocks in daily life]
+
+{{Consequences of external causes}}
+
+{{DEFAULTSORT:Electric Shock}}
+[[Category:Physical punishments]]
+[[Category:Electrical safety]]
+[[Category:Medical emergencies]]
+[[Category:Torture]]
+[[Category:Injuries|Electrical injuries]]
+[[Category:Causes of death]]
+[[Category:Occupational safety and health]]
+[[Category:Effects of external causes]]

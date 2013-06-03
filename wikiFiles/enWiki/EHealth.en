@@ -1,0 +1,88 @@
+{{cleanup|reason=unclear further reading references|date=November 2012}}
+{{lowercase|title=eHealth}}
+'''eHealth''' (also written '''e-health''') is a relatively recent term for healthcare practice supported by electronic processes and communication, dating back to at least 1999.<ref name="jmir">{{cite journal | first1=Vincenzo | pmc=1761900 | url=http://www.jmir.org/2001/2/e22/ | title=What is e-Health (2): The death of telemedicine? | publisher=Jmir.org | accessdate=2012-04-15 | journal=Journal of Medical Internet Research | volume=3 | issue=2 | pages=e22 | doi=10.2196/jmir.3.2.e22 | last1=Della Mea | pmid=11720964}}</ref> Usage of the term varies: some would argue it is interchangeable with [[health informatics]] with a broad definition covering electronic/digital processes in health<ref>{{cite web | url=http://www.itu.int/ITU-D/cyb/app/docs/e-Health_prefinal_15092008.PDF | title=Implementing e-Health in Developing Countries: Guidance and Principles | accessdate=2012-04-15 | author=International Telecommunication Union | format=PDF}}</ref> while others use it in the narrower sense of healthcare practice using the [[Internet]].<ref>"HIMSS SIG develops proposed e-health definition", ''HIMSS News'', '''13'''(7): 12</ref><ref>Eysenbach G, Diepgen TL. The role of e-health and consumer health informatics for evidence-based patient choice in the 21st century. Clin Dermatol. 2001 Jan-Feb;19(1):11-7</ref><ref>Ball MJ, Lillis J. E-health: transforming the physician/patient relationship. Int J Med Inform. 2001 Apr;61(1):1-10</ref>
+
+==Forms of e-health==
+The term can encompass a range of services or systems that are at the edge of medicine/healthcare and information technology, including:
+* [[Electronic health records]]: enabling the communication of patient data between different healthcare professionals (GPs, specialists ''etc.'');
+* [[Telemedicine]]: physical and psychological treatments at a distance;
+* [[Consumer health informatics]]: use of electronic resources on medical topics by healthy individuals or patients;
+* Health [[knowledge management]]: ''e.g.'' in an overview of latest medical journals, best practice guidelines or epidemiological tracking (examples include physician resources such as [[Medscape]] and [[MDLinx]]);
+* Virtual healthcare teams: consisting of healthcare professionals who collaborate and share information on patients through digital equipment (for [[transmural care]]);
+* [[mHealth|mHealth or m-Health]]: includes the use of mobile devices in collecting aggregate and patient level health data, providing healthcare information to practitioners, researchers, and patients, real-time monitoring of patient vitals, and direct provision of care (via mobile telemedicine);
+* Medical research using [[Grid computing|Grids]]: powerful computing and data management capabilities to handle large amounts of heterogeneous data.<ref>Jochen Fingberg, Marit Hansen et al.: ''[http://www.ccrl-nece.de/publications/paper/public/LR-06-262.pdf Integrating Data Custodians in eHealth Grids – Security and Privacy Aspects]'', NEC Lab Report, 2006</ref>
+* [[Health informatics|Healthcare Information Systems]]: also often refer to software solutions for appointment scheduling, patient data management, work schedule management and other administrative tasks surrounding health.
+
+==Contested definition==
+Several authors have noted the variable usage in the term, from being specific to the use of the Internet in healthcare to being generally around any use of computers in healthcare.<ref>{{cite journal | first1=G | pmc=1761894 | url=http://www.jmir.org/2001/2/e20/ | title=What is e-health? | publisher=Jmir.org | accessdate=2012-04-15 | journal=Journal of Medical Internet Research | volume=3 | issue=2 | pages=e20 | doi=10.2196/jmir.3.2.e20 | last1=Eysenbach | pmid=11720962}}</ref> Various authors have considered the evolution of the term and its usage and how this maps to changes in health informatics and healthcare generally.<ref name="jmir" /><ref>{{cite journal | first1=Claudia | url=http://www.jmir.org/2005/1/e9/ | title=What Is eHealth (4): A Scoping Exercise to Map the Field | publisher=Jmir.org | accessdate=2012-04-15 | last2=Sloan | first2=David | last3=Gregor | first3=Peter | last4=Sullivan | first4=Frank | last5=Detmer | first5=Don | last6=Kahan | first6=James P | last7=Oortwijn | first7=Wija | last8=MacGillivray | first8=Steve | journal=Journal of Medical Internet Research | volume=7 | issue=1 | pages=e9 | doi=10.2196/jmir.7.1.e9 | last1=Pagliari | pmc=1550637 | pmid=15829481}}</ref><ref>{{cite journal | first1=David K | url=http://www.jmir.org/2006/1/e4/ | title=What Is eHealth (6): Perspectives on the Evolution of eHealth Research | publisher=Jmir.org | accessdate=2012-04-15 | last2=Kreslake | first2=Jennifer M | last3=Phalen | first3=Judith M | last4=Bock | first4=Beth | journal=Journal of Medical Internet Research | volume=8 | doi=10.2196/jmir.8.1.e4 | last1=Ahern}}</ref> Oh ''et al.'', in a 2005 systematic review of the term's usage, offered the definition of eHealth<ref>{{cite journal | first1=Alejandro | url=http://www.jmir.org/2005/1/e1/ | title=What Is eHealth: A Systematic Review of Published Definitions | publisher=Jmir.org | accessdate=2012-04-15 | last2=Oh | first2=Hans | last3=Rizo | first3=Carlos | last4=Enkin | first4=Murray | last5=Powell | first5=John | last6=Pagliari | first6=Claudia | journal=Journal of Medical Internet Research | volume=7 | doi=10.2196/jmir.7.1.e1 | last1=Jadad}}</ref> as a set of technological themes in health today, more specifically based on commerce, activities, stakeholders, outcomes, locations, or perspectives. One thing that all sources seem to agree on is that e-Health initiatives do not originate with the patient, though the patient may be a member of a patient organization that seeks to do this (see [[e-Patient]]).
+
+==E-Health data exchange==
+One of the factors blocking the use of e-Health tools from widespread acceptance is the concern about privacy issues regarding patient records, most specifically the EPR ([[Electronic patient record]]). This main concern has to do with the confidentiality of the data. There is also concern about non-confidential data however. Each medical practise has its own jargon and diagnostic tools. To standardize the exchange of information, various coding schemes may be used in combination with international medical standards. Of the forms of e-Health already mentioned, there are roughly two types; front-end data exchange and back-end exchange. 
+
+Front-end exchange typically involves the patient, while back-end exchange does not. A common example of a rather simple front-end exchange is a patient sending a photo taken by mobile phone of a healing wound and sending it by email to the family doctor for control. Such an actions may avoid the cost of an expensive visit to the hospital. 
+
+A common example of a back-end exchange is when a patient on vacation visits a doctor who then may request access to the patient's health records, such as medicine prescriptions, x-ray photographs, or blood test results. Such an action may reveal allergies or other prior conditions that are relevant to the visit.
+
+===Thesaurus===
+Successful e-Health initiatives such as [[e-Diabetes]] have shown that for data exchange to be facilitated either at the front-end or the back-end, a common thesaurus is needed for terms of reference.<ref>{{cite web | url=http://www.diabetesfederatie.nl/ndf/e-diabetes.html | title=e-Diabetes on the website of the Dutch Diabetes foundation | publisher=Diabetesfederatie.nl | accessdate=2012-04-15}}</ref> Various medical practises in chronic patient care (such as for [[diabetic]] patients) already have a well defined set of terms and actions, which makes standard communication exchange easier, whether the exchange is initiated by the patient or the caregiver.
+
+In general, explanatory diagnostic information (such as the standard [[ICD-10]]) may be exchanged insecurely, and private information (such as personal information from the patient) must be secured. E-health manages both flows of information, while ensuring the quality of the data exchange.
+
+==Early adopters==
+Chronic patients over time often acquire a high level of knowledge about the processes involved in their own care, and often develop a routine in coping with their condition. For these types of routine patients, front-end e-Health solutions tend to be relatively easy to implement.
+
+== E Mental Health ==
+
+E Mental Health refers to the delivery of mental health services via the internet through videoconferencing, chat, or email web applications. E Mental Health encompasses online talk therapy, online pharmaceutical therapy, online counseling, computer-based interventions, cyber mental health approaches, and online life coaching. This form of psychological intervention modality offers a series of benefits as well as challenges to providers and clients. Most notable of all challenges is online security.<ref>http://www.jmir.org/2010/5/e61/</ref> 
+
+E Mental Health has been gaining momentum in the academic research as well as practical arenas in a wide variety of disciplines such as psychology, clinical social work, family and marriage therapy, and mental health counseling. Testifying to this momentum, the E Mental Health movement has its own international organization, '''The International Society for Mental Health Online'''.<ref>The International Society for Mental Health Online, [https://www.ismho.org/home.asp].</ref> It also has its own academic peer review journals, such as the '''Journal of Medical Internet Research'''.<ref>{{cite web | url=http://www.jmir.org/ | title=Journal of Medical Internet Research}}</ref> The efficacy and effectiveness of E Mental Health approaches are currently being studied by Universities around the world. For instance, '''University of California Davis''' has initiated a series of studies based on E Mental Health.<ref>University of California Davis, http://psy.psychiatryonline.org/cgi/content/full/48/2/135</ref> 
+
+There are a number of E Mental Health Centers now operating around the world, particularly in the USA and Australia. These centers offer services to disabled populations, rural populations, weather inclement populations, as well as populations who are comfortable using the internet and World Wide Web.
+
+==Cybermedicine==
+Cybermedicine is the use of the [[Internet]] to deliver [[medicine|medical]] services, such as [[medical consultations]] and [[medical prescription|drug prescriptions]]. It is the successor to [[telemedicine]], wherein [[physician|doctors]] would consult and treat [[patient]]s remotely via [[telephone]] or [[fax]].
+
+Cybermedicine is already being used in small projects where images are transmitted from a [[primary care]] setting to a [[medical specialist]], who comments on the case and suggests which intervention might benefit the patient. A field that lends itself to this approach is [[dermatology]], where images of an eruption are communicated to a hospital specialist who determines if referral is necessary.
+
+A Cyber [[Physician|Doctor]],<ref>US term,http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/27/BAGOKQ2IEQ1.DTL</ref> known in the UK as a Cyber [[Physician]],<ref>UK term,http://society.guardian.co.uk/health/story/0,,408225,00.html</ref> is a medical [[professional]] who does [[wikt:consultation|consultation]] via the internet, treating virtual patients, who may never meet face to face. This is a new area of medicine which has been utilized by the armed forces and  teaching [[hospitals]] offering [[online]] consultation to patients before making their decision to travel for unique medical treatment only offered at a particular medical facility.<ref>Online visits a boon for far-off patients, Sfgate.com,http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/05/27/BAGOKQ2IEQ1.DTL</ref>
+
+==See also==
+*[[e-Patient]]
+*[[European Institute for Health Records]]
+*[[European Health Telematics Association]]
+*[[EUDRANET]]
+*[[Enabledoc]]
+*[[Health 2.0]]
+*[[Health blog]]
+*[[Health Informatics]]
+*[[mHealth]]
+*[[eHealth Ontario]]
+*[[Technology and mental health issues]]
+* [[eHealthInsurance]]
+* [[Telemedicine]]
+
+== Notes  ==
+{{reflist}}
+
+== Further reading ==
+(M = Medline, W = Wilson Business Abstracts, G = Google)
+
+* 1999 	Mitchell (G) A new term is needed to refer to the combined use of electronic communication and information technology in the health sector. The use in the health sector of digital data – transmitted, stored and retrieved electronically – for clinical, educational and administrative purposes, both at the local site and at a distance.
+* 2000 JHITA (G) Internet-related healthcare activities
+* 2000 McLendon (M) Ehealth refers to all forms of electronic healthcare delivered over the Internet, ranging from informational, educational and commercial "products" to direct services offered by professionals, non-professionals, businesses or consumers themselves. Ehealth includes a wide variety of the clinical activities that have traditionally characterized telehealth, but delivered through the Internet. Simply stated, Ehealth is making healthcare more efficient, while allowing patients and professionals to do the previously impossible.
+* 2000 	DeLuca, Enmark - Frontiers of Medicine (W) (M) 	E-health is the embryonic convergence of wide-reaching technologies like the Internet, computer telephony/interactive voice response, wireless communications, and direct access to healthcare providers, care management, education, and wellness.
+* 2000 	Pretlow (G) E-health is the process of providing health care via electronic means, in particular over the Internet. It can include teaching, monitoring ( e.g. physiologic data), and interaction with health care providers, as well as interaction with other patients afflicted with the same conditions.
+* 2001 Eysenbach (M) e-health is an emerging field in the intersection of medical informatics, public health and business, referring to health services and information delivered or enhanced through the Internet and related technologies. In a broader sense, the term characterizes not only a technical development, but also a state-of-mind, a way of thinking, an attitude, and a commitment for networked, global thinking, to improve health care locally, regionally, and worldwide by using information and communication technology
+* 2001 Strategic Health Innovations (G) The use of information technology in the delivery of health care.
+* 2001 Robert J Wood Foundation (G) EHealth is the use of emerging information and communication technology, especially the Internet, to improve or enable health and health care.
+* 2001 Ontario Hospital eHealth Council (G) EHealth is a consumer-centred model of health care where stakeholders collaborate utilizing ICTs including Internet technologies to manage health, arrange, deliver, and account for care, and manage the health care system.
+* 2003 COACH (G) The leveraging of the information and communication technology (ICT) to connect provider and patients and governments; to educate and inform health care professionals, managers and consumers; to stimulate innovation in care delivery and health system management; and, to improve our health care system.
+* 2003 eEurope - eHealth2003 (G) The application of information and communication technologies (ICT) across the whole range of functions which one way or another, affect the health of citizens and patients.
+* 2003 Regional Office for the Eastern Mediterranean - World Health Organization (G) E-health is a new term for the combined use of electronic communication and information technology in the health sector OR is the use, in the health sector, of digital data-transmitted, stored and retrieved electronically-for clinical, educational and administrative purposes, both at the local site and at a distance
+* 2003 HMS Europe (G) The practice of leveraging the Internet to connect caregivers, healthcare systems and hospitals with consumers
+*[http://cybermedicine.blogspot.com ''The Medicalisation of Cyberspace'', by Dr Andy Miah & Dr Emma Rich]
+*[http://www.amazon.com/dp/0787956317 Cybermedicine by Warner V. Slack, Jossey Bass publisher Second Edition]
+
+{{DEFAULTSORT:Ehealth}}
+[[Category:Telehealth]]
+[[Category:Health informatics]]

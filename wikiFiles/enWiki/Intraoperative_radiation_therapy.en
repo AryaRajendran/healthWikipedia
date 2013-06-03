@@ -1,0 +1,43 @@
+{{Interventions infobox |
+  Name        = {{PAGENAME}} |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = {{ICD9proc|92.4}} |
+  MeshID      = |
+  OtherCodes  = |
+}}
+'''Intraoperative radiation therapy''' is applying [[Radiation therapy|therapeutic]] levels of radiation to a target area, such as a [[cancerous|cancer]] tumor, while the area is exposed during [[surgery]].
+
+== Applications ==
+The goal of IORT is to improve local tumor control and survival rates for patients with different types of cancer. [[TARGIT|Targeted intraoperative radiotherapy]] is a technique developed since 1998 for treatment of the tumour bed after wide local excision (lumpectomy) of breast cancer. It has recently been shown to give results equivalent to several weeks of whole breast radiation therapy at 4 years, as published in [http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)60837-9/abstract the Lancet - Online First]. Updated results of this [http://www.targit.org.uk TARGIT-A trial], which recruited 3451 patients, were presented at San Antonio Breast Cancer Conference and suggest that giving TARGIT at the time of lumpectomy in ER+ PR+ patients, aged 45 years and over, gives results similar to whole breast radiotherapy in terms of local cancer control, with fewer non-breast cancer deaths and a trend for lower overall mortality. [http://sabcs12.m2usa.com/sabcs.html 2012 SABCS, Thursday 6 December, General Session 4].
+
+==Rationale==
+The rationale for IORT is to deliver a high dose of radiation precisely to the targeted area with minimal exposure of surrounding tissues which are displaced or shielded during the IORT. Conventional radiation techniques such as external beam radiotherapy (EBRT) following surgical removal of the tumor have several drawbacks: The tumor bed where the highest dose should be applied is frequently missed due to the complex localization of the wound cavity even when modern radiotherapy planning is used. Additionally, the usual delay between the surgical removal of the tumor and EBRT may allow a repopulation of the tumor cells. These potentially harmful effects can be avoided by delivering the radiation more precisely to the targeted tissues leading to immediate sterilization of residual tumor cells. Another aspect is that wound fluid has a stimulating effect on tumor cells. IORT was found to inhibit the stimulating effects of wound fluid. 
+
+==Methods==
+IORT can both be performed with electron beams (IOERT) and X-rays. Modern IORT started in shielded operation rooms in which a linear accelerator was used to deliver the radiation. In recent years, miniaturised and mobile-linear accelerators have been developed which deliver a variable range of electron energies (from 3 to 12 MeV), e.g. the Mobetron (Intraop Medical Corporation, USA).  Intrabeam, (Carl Zeiss, Germany) is a miniature and mobile X-ray source which emits low energy X-ray radiation (max. 50 kV) in isotropic distribution. Due to the higher ionization density caused by soft X-ray radiation in the tissue, the relative biological effectiveness (RBE) of low-energy X-rays on tumor cells is higher when compared to high-energy X-rays or gamma rays which are delivered by linear accelerators. The radiation which is produced by mobile radiation systems has a limited range. For this reason, conventional walls are regarded sufficient to stop the radiation scatter produced in the operating room and no extra measures for radiation protection are necessary. This makes IORT accessible for more hospitals.
+
+==Clinical Applications==
+IORT was found to be useful and feasible in the multidisciplinary management of many solid tumors but further studies are needed to determine the benefit more precisely. Single-institution experiences have suggested a role of IORT e.g. in brain tumors and cerebral metastases, locally advanced and recurrent rectal cancer, skin cancer, retroperitoneal sarcoma, pancreatic cancer and selected gynaecologic and genitourinary malignancies.  For local recurrences, irradiation with IORT is besides brachytherapy the only radiotherapeutic option if repeated EBRT is no longer possible. Generally, the normal tissue tolerance does not allow a second full-dose course of EBRT, even after years. 
+
+==IORT in Breast Cancer==
+The largest experience with IORT and the best evidence for its potentials exists in breast cancer where a substantial number of patients have already been treated using, for example, the [[TARGIT]] technique. 
+
+== References ==
+* [http://www.cancercenter.com/video/cancer-types/medanim/IORT.cfm Intraoperative radiation therapy at Cancer Treatment Centers of America]
+* [http://www.cancer.org/docroot/ETO/content/ETO_1_7x_internal_radiation_therapy.asp Internal radiation therapy, cancer.org]
+* [http://www.mayoclinic.org/intraoperative-radiation/ Interoperative radiation therapy at Mayo Clinic]
+* [http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070619/intraoperative_radiation_070619/20070619?hub=TopStories Cancer therapy offers one-time radiation dose]
+* [http://www.jacmp.org/index.php/jacmp/article/viewArticle/2950/1584/ a mobile electron linear accelerator for  IORT ]
+*[http://www.aapm.org/pubs/reports/RPT_92.pdf Report of AAPM Radiation Therapy  IORT Committee Task Group No. 72]
+*[http://www.targit.org.uk/ The TARGIT literature website]
+
+==See also==
+
+*Intraoperative Electron Radiation Therapy (IOERT) [[IOERT]]
+*Brachytherapy [[Brachytherapy]]
+*External beam radiotherapy (EBRT) [[EBRT]]
+
+{{Radiation oncology}}
+[[Category:Radiation therapy]]

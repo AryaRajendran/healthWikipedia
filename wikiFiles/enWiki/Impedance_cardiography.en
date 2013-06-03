@@ -1,0 +1,122 @@
+{{Interventions infobox
+ | Name        = Impedance cardiography
+ | Image       =
+ | Caption     =
+ | ICD10       =
+ | ICD9        =
+ | MeshID      = D002307
+ | OtherCodes  =
+}}
+'''Impedance cardiography''' (ICG) is a [[plethysmography]] technique of using sensors to detect the properties of the [[blood]] flow in the [[thorax]].
+
+==Introduction==
+Impedance cardiography (ICG), also referred to as electrical impedance plethysmography (EIP), has been researched since the 1940s.  NASA helped develop the technology in the 1960s.<ref>http://www.sti.nasa.gov/tto/spinoff2001/hm1.html</ref>  With ICG, the placement of four dual disposable sensors on the neck and chest are used to transmit and detect electrical and impedance changes in the thorax, which are used to measure and calculate hemodynamic parameters.
+
+==How ICG Works==
+* Current is transmitted through the chest
+* Current seeks path of least resistance: the blood filled [[aorta]]
+* ICG measures the baseline impedance (resistance) to this current
+* With each [[Cardiac cycle|heartbeat]], blood volume and velocity in the aorta change
+* ICG measures the corresponding change in impedance
+* ICG attributes the large change in impedance to the volumetric expansion of the aorta (this is the main difference between ICG and [[Electrical Cardiometry]])
+* ICG uses the baseline and changes in impedance to measure and calculate [[hemodynamic]] parameters
+
+==Hemodynamics==
+{{Main|Hemodynamics}}
+
+Hemodynamics is defined as the forces affecting the flow of blood throughout the body.  Human beings cannot survive without adequate oxygenation, and the primary function of the cardiopulmonary system is to deliver an appropriate amount of oxygen and nutrients to meet the metabolic demands of the body and then to remove metabolic waste products.  
+  
+A healthy body constantly regulates the amount of blood ejected by the heart, cardiac output, to maintain adequate tissue perfusion.  In disease states, however, hemodynamic imbalances occur and the body is forced to compensate, often severely, for cardiovascular and systemic vascular dysfunction. Most (if not all) cardiac drugs administered for both acute and chronic conditions, affect either directly and indirectly one of the four factors that comprise cardiac output:
+
+{| class="wikitable"
+|-
+!Component
+!Meaning
+|-
+|Preload
+|Volume of blood in the ventricle at the end of diastole
+|-
+|Contractility
+|Rate of shortening of myocardial muscle fibers
+|-
+|Afterload
+|Force heart must overcome to expel blood into the vasculature
+|-
+|Heart Rate
+|Number heart beats per minute
+|}
+
+The measurement of cardiac output and its derivatives allow clinicians to make timely patient assessment, diagnosis, prognosis, and treatment decisions.  It has been well established that both trained and untrained physicians alike are unable to estimate cardiac output through physical assessment alone.
+
+===Invasive Hemodynamic Monitoring===
+Clinical measurement of cardiac output has been available since the 1970s.  However, this blood flow measurement is highly invasive, utilizing a flow-directed, thermodilution catheter (also known as the Swan-Ganz catheter), which represents significant risks to the patient.  In addition, this technique is costly (several thousand dollars per procedure) and requires a skilled physician and a sterile environment for catheter insertion.  As a result, it has been used only in very narrow strata (less than 2%) of critically ill and high-risk patients in whom the knowledge of blood flow and oxygen transport outweighed the risks of the method. In the United States, it is estimated that at least two million pulmonary artery catheter monitoring procedures are performed annually, most often in peri-operative cardiac and vascular surgical patients, decompensated heart failure, multi-organ failure, and trauma.
+
+===Noninvasive Hemodynamic Monitoring===
+In theory, a noninvasive way to monitor hemodynamics would provide exceptional clinical value because data similar to invasive hemodynamic monitoring methods could be obtained with much lower cost and no risk.  While noninvasive hemodynamic monitoring can be used in patients who previously required an invasive procedure, the largest impact can be made in patients and care environments where invasive hemodynamic monitoring was neither possible nor worth the risk or cost.  Because of its safety and low cost, the applicability of vital hemodynamic measurements could be extended to significantly more patients, including outpatients with chronic diseases.  ICG has even been used in extreme conditions such as outer space and a Mt. Everest expedition.<ref>http://sdbj.com/news/2000/jan/10/local-biomed-device-aiding-nasa/</ref> Heart failure, hypertension, pacemaker, and dyspnea patients are four conditions in which outpatient noninvasive hemodynamic monitoring can play an important role in the assessment, diagnosis, prognosis, and treatment.  Some studies have shown ICG cardiac output is accurate,<ref>http://chestjournal.chestpubs.org/content/123/6/2028.short</ref><ref>http://ajcc.aacnjournals.org/content/13/6/469.full</ref> while other studies have shown it is inaccurate.<ref>{{cite journal|pmc=2720805 | pmid=19619697 | doi=10.1016/j.ahj.2009.06.002 | volume=158 | issue=2 | title=Correlation of impedance cardiography with invasive hemodynamic measurements in patients with advanced heart failure: the BioImpedance CardioGraphy (BIG) substudy of the Evaluation Study of Congestive Heart Failure and Pulmonary Artery Catheterization Effectiveness (ESCAPE) Trial | year=2009 | month=August | author=Kamath SA, Drazner MH, Tasissa G, Rogers JG, Stevenson LW, Yancy CW | journal=Am. Heart J. | pages=217–23}}</ref>  Use of ICG has been shown to improve blood pressure control in resistant hypertension when used by both specialists <ref>http://hyper.ahajournals.org/cgi/content/short/39/5/982</ref> and general practitioners.<ref>http://hyper.ahajournals.org/cgi/content/short/47/4/771</ref>  ICG has also been shown to predict worsening status in heart failure.<ref>http://content.onlinejacc.org/cgi/content/full/47/11/2245</ref>
+
+==ICG Parameters==
+The electrical and impedance signals are processed to determine fiducial points, which are then utilized to measure and calculate hemodynamic parameters, such as cardiac output, stroke volume, systemic vascular resistance, thoracic fluid content, acceleration index, and systolic time ratio.  
+
+{| class="wikitable"
+|-
+! Parameter
+! Definition
+|-
+| Heart Rate
+| Number of heart beats each minute
+|-
+| Cardiac Output
+| Amount of blood pumped by the left ventricle each minute
+|-
+| Cardiac Index
+| Cardiac output normalized for body surface area
+|-
+| Stroke Volume
+| Amount of blood pumped by the left ventricle each heartbeat
+|-
+| Stroke Index
+| Stroke volume normalized for body surface area
+|-
+| Systemic Vascular Resistance
+| The resistance to the flow of blood in the vasculature (often referred to as “Afterload”)
+|-
+| Systemic Vascular Resistance Index
+| Systemic vascular resistance normalized for body surface area
+|-
+| Acceleration Index
+| Peak acceleration of blood flow in the aorta
+|-
+| Velocity Index
+| Peak velocity of blood flow in the aorta
+|-
+| Thoracic Fluid Content
+| The electrical conductivity of the chest cavity, which is primarily determined by the intravascular, intraalveolar, and [[interstitial fluid]]s in the thorax
+|-
+| Left Cardiac Work
+| An indicator of the amount of work the left ventricle must perform to pump blood each minute
+|-
+| Left Cardiac Work Index
+| Left cardiac work normalized for body surface area
+|-
+| Systolic Time Ratio
+| The ratio of the electrical and mechanical systole
+|-
+| Pre Ejection Period
+| The time interval from the beginning of electrical stimulation of the ventricles to the opening of the aortic valve (electrical systole)
+|-
+| Left Ventricular Ejection Time
+| The time interval from the opening to the closing of the aortic valve (mechanical systole)
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* http://impedancecardiography.com/icgover10.html
+
+{{Cardiac procedures}}
+
+{{DEFAULTSORT:Impedance Cardiography}}
+[[Category:Medical equipment]]
+[[Category:Measuring instruments]]
+[[Category:Cardiac procedures]]

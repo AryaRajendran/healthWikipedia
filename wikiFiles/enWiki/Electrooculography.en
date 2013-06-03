@@ -1,0 +1,61 @@
+[[File:Sleep Stage REM.png|thumb|right|300px|Electrooculograms for the left eye (LEOG) and the right eye (REOG) for the period of [[Rapid eye movement sleep|REM sleep]].]]
+{{Redirect|EOG}}
+{{Interventions infobox |
+  Name        = {{PAGENAME}} |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = {{ICD9proc|95.22}} |
+  MeshID      = D004585 |
+  OtherCodes  = |
+}}
+'''Electrooculography''' ('''EOG'''/'''E.O.G.''') is a technique for measuring the [[resting potential]] of the [[retina]].  The resulting signal is called the electrooculogram. The main applications are in [[ophthalmology|ophthalmological]] [[diagnosis]] and in recording [[Eye movement (sensory)|eye movements]].  Unlike the [[electroretinography|electroretinogram]], the EOG does not represent the response to individual visual stimuli.
+
+Eye movement measurements: Usually, pairs of electrodes are placed either above and below the eye or to the left and right of the eye. If the eye is moved from the center position towards one electrode, this electrode "sees" the positive side of the retina and the opposite electrode "sees" the negative side of the retina. Consequently, a potential difference occurs between the electrodes. Assuming that the resting potential is constant, the recorded potential is a measure for the eye position.
+
+==Principle==
+The eye acts as a dipole in which the anterior pole is positive and the posterior pole is negative.
+1. Left gaze: the cornea approaches the electrode near the outer canthus of the left eye, resulting in a positive-going change in the potential difference recorded from it.
+2. Right gaze: the cornea approaches the electrode near the inner canthus of the left eye, resulting in a positive-going change in the potential difference recorded from it (A, an AC/DC amplifier). 
+
+==Ophthalmological diagnosis==
+The EOG is used to assess the function of the pigment epithelium. During [[Adaptation (eye)|dark adaptation]], the resting potential decreases slightly and reaches a minimum ("dark trough") after several minutes. When the light is switched on, a substantial increase of the resting potential occurs ("light peak"), which drops off after a few minutes when the retina adapts to the light. The ratio of the voltages (i.e. ''light peak'' divided by ''dark trough'') is known as the ''Arden ratio''. In practice, the measurement is similar to the eye movement recordings (see above). The patient is asked to switch the eye position repeatedly between two points (usually to the left and right of the center). Since these positions are constant, a change in the recorded potential originates from a change in the resting potential.
+
+==Application in Entertainment==
+{{unsourced|section|date=November 2011}}{{unclear|section|date=November 2011}}
+Electrooculography was used by [[Robert Zemeckis]] and [[Jerome Chen]], the visual effects supervisor in the movie [[Beowulf (2007 film)|Beowulf]], to enhance the [[performance capture]] by correctly animating the eye movements of the actors. The result was an improvement over the technique used for the film [[The Polar Express (film)|The Polar Express]].
+
+Electrooculography, in addition to other neuromuscular signals, is used as a computer input method by the [[Neural Impulse Actuator]].
+
+==References==
+{{refbegin}}
+Brown, M., Marmor, M. and Vaegan, [http://dx.doi.org/10.1007/s10633-006-9030-0 ISCEV Standard for Clinical Electro-oculography (EOG)] (2006), in: Documenta Ophthalmologica, 113:3(205—212)
+
+Bulling, A. et al.: [http://dx.doi.org/10.1145/1409635.1409647 It's in Your Eyes - Towards Context-Awareness and Mobile HCI Using Wearable EOG Goggles], Proc. of the 10th International Conference on Ubiquitous Computing (UbiComp 2008), pages 84–93, ACM Press, 2008
+
+Bulling, A. et al.: [http://dx.doi.org/10.1007/978-3-540-79576-6_2 Robust Recognition of Reading Activity in Transit Using Wearable Electrooculography], Proc. of the 6th International Conference on Pervasive Computing (Pervasive 2008), pages 19–37, Springer, 2008
+
+Bulling, A. et al.: [http://dx.doi.org/10.3233/AIS-2009-0020 Wearable EOG goggles: Seamless sensing and context-awareness in everyday environments],
+Journal of Ambient Intelligence and Smart Environments, 1(2):157-171, 2009
+
+Bulling, A. et al.: [http://dx.doi.org/10.1109/TPAMI.2010.86 Eye Movement Analysis for Activity Recognition Using Electrooculography],
+IEEE Transactions on Pattern Analysis and Machine Intelligence, in press
+
+Bulling, A. et al.: [http://dx.doi.org/10.1145/1620545.1620552 Eye Movement Analysis for Activity Recognition],
+International Conference on Ubiquitous Computing (UbiComp 2009), pages 41-50, ACM Press, 2009.
+{{refend}}
+
+==See also==
+* [[International Society for Clinical Electrophysiology of Vision]]
+* [[Optokinetic drum]]
+* [[Orthoptist]]
+* [[Nystagmus]]
+
+{{Eye procedures}}
+{{Electrodiagnosis}}
+
+[[Category:Electrodiagnosis]]
+[[Category:Eye procedures]]
+[[Category:Electrophysiology]]
+[[Category:Neurophysiology]]
+[[Category:Neurotechnology]]

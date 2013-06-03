@@ -1,0 +1,78 @@
+{{Infobox Disease
+ | Name           = Septic shock
+ | Image          = 
+ | Caption        = 
+ | DiseasesDB     = 11960
+ | ICD10          = {{ICD10|A|41|9|a|30}} 
+ | ICD9           = {{ICD9|785.52}} 
+ | ICDO           = 
+ | OMIM           = 
+ | MedlinePlus    = 000668
+ | eMedicineSubj  = 
+ | eMedicineTopic = 
+ | MeshID         = D012772
+}}
+'''Septic shock''' is a [[medicine|medical]] condition as a result of severe [[infection]] and [[sepsis]], though the microbe may be systemic or localized to a particular site.<ref name=Robbins/> It can cause [[multiple organ dysfunction syndrome]] (formerly known as multiple organ failure) and [[death]].<ref name=Robbins/> Its most common victims are children, [[immunodeficiency|immunocompromised]] individuals, and the elderly, as their [[immune system]]s cannot deal with the infection as effectively as those of healthy adults.  Frequently, patients suffering from septic shock are cared for in [[intensive care units]].  The [[mortality rate]] from septic shock is approximately 25–50%.<ref name=Robbins>Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson; & Mitchell, Richard N. (2007). ''Robbins Basic Pathology'' (8th ed.). Saunders Elsevier. pp. 102-103 ISBN 978-1-4160-2973-1</ref>
+
+==Definition==
+In humans, septic shock has a specific definition requiring several conditions to be met for diagnosis:
+
+*First, [[SIRS]] (systemic inflammatory response syndrome) must be diagnosed by finding at least any two of the following:
+:[[Tachypnea]] (high respiratory rate) > 20 breaths per minute, or on [[blood gas]], a PCO2 less than 32 mmHg signifying hyperventilation.
+:[[White blood cell]] count either significantly low, < 4000 cells/mm³ or elevated > 12000 cells/mm³.
+:[[Heart rate]] > 90 beats per minute
+:[[Normal human body temperature|Temperature]]: [[Fever]] > {{convert|38.0|C|F}} or hypothermia < {{convert|36.0|C|F}}
+*Second, there must be sepsis and not an alternative form cause of SIRS.  Sepsis requires evidence of infection, which may include positive [[blood culture]], signs of [[pneumonia]] on chest x-ray, or other radiologic or laboratory evidence of infection.
+*Third, signs of end-organ dysfunction are required such as [[renal failure]], liver dysfunction, changes in mental status, or elevated serum [[Lactic acid|lactate]].
+*Finally, septic shock is diagnosed if there is refractory [[hypotension]] (low blood pressure that does not respond to treatment).  This signifies that intravenous fluid administration alone is insufficient to maintain a patient's blood pressure from becoming hypotensive.
+
+=== Types ===
+A subclass of distributive shock, shock refers specifically to decreased tissue perfusion resulting in [[ischemia]] and organ dysfunction. [[Cytokines]] released in a large scale inflammatory response results in massive vasodilation, increased capillary permeability, decreased systemic vascular resistance, and hypotension.  Hypotension reduces tissue perfusion pressure causing tissue hypoxia.  Finally, in an attempt to offset decreased blood pressure, ventricular dilatation and  myocardial dysfunction will occur.
+
+==Causes==
+When bacteria or viruses are present in the bloodstream, the condition is known as [[bacteremia]] or [[viremia]]. Sepsis is a constellation of symptoms secondary to infection that manifest as disruptions in heart rate, respiratory rate, temperature and WBC. If sepsis worsens to the point of end-organ dysfunction (renal failure, liver dysfunction, altered mental status, or heart damage), then the condition is called severe sepsis.  Once severe sepsis worsens to the point where blood pressure can no longer be maintained with intravenous fluids alone, then the criteria have been met for septic shock.  The precipitating infections which may lead to septic shock if severe enough include [[appendicitis]], [[pneumonia]], [[bacteremia]], [[diverticulitis]], [[pyelonephritis]], [[meningitis]], [[pancreatitis]], and [[necrotizing fasciitis]].
+
+==Pathophysiology==
+Most cases of septic shock (approximately 70%) are caused by endotoxin-producing [[Gram-negative bacteria|Gram-negative bacilli]]{{cn|date=September 2012}}. [[Endotoxin]]s are bacterial wall [[lipopolysaccharide]]s (LPS) consisting of a toxic fatty acid (lipid A) core common to all Gram-negative bacteria, and a complex polysaccharide coat (including O antigen) unique for each species. Analogous molecules in the walls of Gram-positive bacteria and fungi can also elicit septic shock.
+Free LPS attaches to a circulating LPS-binding protein, and the complex then binds to a specific receptor (CD14) on monocytes, macrophages, and neutrophils. Engagement of CD14 (even at doses as minute as 10 pg/mL) results in intracellular signaling via an associated "Toll-like receptor" protein 4 (TLR-4), resulting in profound activation of mononuclear cells and production of potent effector cytokines such as IL-1 and TNF-α. These cytokines act on endothelial cells and have a variety of effects including reduced synthesis of anticoagulation factors such as tissue factor pathway inhibitor and thrombomodulin. The effects of the cytokines may be amplified by TLR-4 engagement on endothelial cells.
+TLR-mediated activation helps to trigger the innate immune system to efficiently eradicate invading microbes.
+At high levels of LPS, the syndrome of septic shock supervenes; the same cytokine and secondary mediators, now at high levels, result in systemic vasodilation (hypotension), diminished myocardial contractility, widespread endothelial injury and activation, causing systemic leukocyte adhesion and diffuse alveolar capillary damage in the lung activation of the coagulation system, culminating in [[disseminated intravascular coagulation]] (DIC).
+The hypoperfusion resulting from the combined effects of widespread vasodilation, myocardial pump failure, and DIC causes multiorgan system failure that affects the liver, kidneys, and central nervous system, among others. Unless the underlying infection (and LPS overload) is rapidly brought under control, the patient usually dies.
+
+==Treatment==
+Treatment primarily consists of the following.
+# Volume resuscitation<ref name=Review11>{{cite journal|last=Levinson|first=AT|coauthors=Casserly, BP, Levy, MM|title=Reducing mortality in severe sepsis and septic shock|journal=Seminars in respiratory and critical care medicine|date=2011 Apr|volume=32|issue=2|pages=195–205|pmid=21506056|doi=10.1055/s-0031-1275532}}</ref>
+# Early antibiotic administration<ref name=Review11/>
+# [[Early goal directed therapy]]<ref name=Review11/>
+# Rapid source identification and control.
+# Support of major organ dysfunction.
+
+Among the choices for [[vasopressors]], [[norepinephrine]] is superior to [[dopamine]] in septic shock.<ref name=NorEpi11>{{cite journal|last=Vasu|first=TS|coauthors=Cavallazzi, R, Hirani, A, Kaplan, G, Leiby, B, Marik, PE|title=Norephinephrine or Dopamine for Septic Shock: A Systematic Review of Randomized Clinical Trials|journal=Journal of intensive care medicine|date=2011 Mar 24|pmid=21436167|doi=10.1177/0885066610396312|volume=27|issue=3|pages=172–8}}</ref> Both however are still listed as first line in guidelines.<ref name=NorEpi11/>
+
+Antimediator agents may be of some limited use in severe clinical situations however are controversial:<ref name="Sandrock2010">{{cite journal|last=Sandrock|first=CE|coauthors=Albertson, TE|title=Controversies in the treatment of sepsis|journal=Seminars in respiratory and critical care medicine|date=2010 Feb|volume=31|issue=1|pages=66–78|pmid=20101549|doi=10.1055/s-0029-1246290}}</ref>
+* Low dose steroids ([[hydrocortisone]]) for 5 – 7 days led to improved outcomes.<ref>Annane D, Sebille V, Charpentier C, Bollaert PE, Francois B, Korach JM, Capellier G, Cohen Y, Azoulay E, Troche G, Chaumet-Riffaut P, Bellissant E. Effect of treatment with low doses of hydrocortisone and fludrocortisone on mortality in patients with septic shock. JAMA. 2002 Aug 21;288(7):862-71. {{DOI|10.1001/jama.288.7.862}} PMID 12186604</ref><ref>{{cite web |url=http://www.bestbets.org/bets/bet.php?id=829 |title=BestBets: Do low dose steroids improve outcome in septic shock? |format= |work= |accessdate=}}</ref>
+* [[Recombinant DNA|Recombinant]] activated [[protein C]] ([[drotrecogin alpha]]) in a 2011 [[Cochrane review]] was found not to decrease mortality and thus was not recommended for use.<ref>{{cite journal|last=Martí-Carvajal|first=AJ|coauthors=Solà, I, Lathyris, D, Cardona, AF|title=Human recombinant activated protein C for severe sepsis|journal=Cochrane database of systematic reviews (Online)|date=2011 Apr 13|volume=4|pages=CD004388|pmid=21491390|issue=4|doi=10.1002/14651858.CD004388.pub4|editor1-last=Martí-Carvajal|editor1-first=Arturo J}}</ref> Other reviews however comment that it may be effective in those with very severe disease.<ref name="Sandrock2010" /> The first and only activated protein C drug, drotrecogin alfa (Xigris), was voluntarily withdrawn in October of 2011 after it failed to show a benefit in patients with septic shock, including the more severe disease subgroups.
+
+==Epidemiology==
+Sepsis has a worldwide incidence of more than 20 million cases a year, with mortality due to septic shock reaching up to 50 percent even in industrialized countries.<ref>[http://www.physorg.com/news194879092.html Researchers make blood poisoning breakthrough<!-- Bot generated title -->]</ref>
+
+According to the US [[Centers for Disease Control|CDC]], septic shock is the 13th leading cause of death in the United States, and the #1 cause of deaths in intensive care units. There has been an increase in the rate of septic shock deaths in recent decades, which is attributed to an increase in invasive medical devices and procedures, increases in immunocompromised patients, and an overall increase in elderly patients. Tertiary care centers (such as [[hospice]] care facilities) have 2-4 times the rate of bacteremia than primary care centers, 75% of which are [[nosocomial infections]].
+
+The process of infection by bacteria or fungi can result in systemic signs and symptoms that are variously described. Approximately 70% of septic shock cases were once traceable to Gram staining gram-negative [[bacillus|bacilli]] that produce endotoxins; however, with the emergence of MRSA and the increased use of arterial and venous catheters, Gram-positive [[cocci]] are implicated approximately as commonly as [[bacilli]]. In rough order of increasing severity, these are bacteremia or fungemic; septicemia; sepsis, severe sepsis or sepsis syndrome; septic shock; refractory septic shock; multiple organ dysfunction syndrome, and death.
+
+35% of septic shock cases derive from [[urinary tract infections]], 15% from the respiratory tract, 15% from skin catheters (such as [[IVs]]); over 30% of all cases are [[idiopathic]] in origin.
+
+The mortality rate from sepsis is approximately 40% in adults, and 25% in children, and is significantly greater when left untreated for more than 7 days.<ref>Huether, S.E., & McCance, K.L. (2008). ''Understanding Pathophysiology.'' 4th Edition.</ref>
+
+==References==
+{{reflist|2}}
+
+{{Intensive care medicine}}
+{{Cardiovascular system symptoms and signs}}
+
+{{DEFAULTSORT:Septic Shock}}
+[[Category:Medical emergencies]]
+[[Category:Intensive care medicine]]
+[[Category:Causes of death]]
+
+[[de:Septischer Schock]]

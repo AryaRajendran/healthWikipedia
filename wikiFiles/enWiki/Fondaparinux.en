@@ -1,0 +1,92 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461103072
+| image = Fondaparinux.svg
+
+<!--Clinical data-->
+| tradename = Arixtra
+| Drugs.com = {{drugs.com|monograph|arixtra}}
+| licence_EU = Arixtra
+| licence_US = Fondaparinux
+| pregnancy_category =  
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = subcutaneous
+
+<!--Pharmacokinetic data-->
+| bioavailability = N/A
+| protein_bound = 94%
+| metabolism = renally excreted unchanged
+| elimination_half-life = 17-21 hours
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 114870-03-0
+| ATC_prefix = B01
+| ATC_suffix = AX05
+| ATC_supplemental =  
+| PubChem = 636380
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00569
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 552174
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = J177FOW5JL
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201202
+
+<!--Chemical data-->
+| C=31 | H=43 | N=3 | Na=10 | O=49 | S=8 
+| molecular_weight = 1726.77 g/mol
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C31H53N3O49S8.10Na/c1-69-27-9(33-85(48,49)50)13(37)17(6(74-27)3-71-88(57,58)59)76-31-22(83-91(66,67)68)16(40)21(24(81-31)26(43)44)79-29-10(34-86(51,52)53)19(82-90(63,64)65)18(7(75-29)4-72-89(60,61)62)77-30-15(39)14(38)20(23(80-30)25(41)42)78-28-8(32-84(45,46)47)12(36)11(35)5(73-28)2-70-87(54,55)56;;;;;;;;;;/h5-24,27-40H,2-4H2,1H3,(H,41,42)(H,43,44)(H,45,46,47)(H,48,49,50)(H,51,52,53)(H,54,55,56)(H,57,58,59)(H,60,61,62)(H,63,64,65)(H,66,67,68);;;;;;;;;;/q;10*+1/p-10/t5-,6-,7-,8-,9-,10-,11-,12-,13-,14-,15-,16+,17-,18-,19-,20+,21+,22-,23+,24-,27+,28-,29-,30-,31-;;;;;;;;;;/m1........../s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XEKSTYNIJLDDAZ-JASSWCPGSA-D
+}}
+'''Fondaparinux''' (trade name '''Arixtra''') is an [[anticoagulant]] medication chemically related to [[low molecular weight heparin]]s. It is marketed by [[GlaxoSmithKline]]. A generic version developed by Alchemia is marketed within the US by [[Dr. Reddy's Laboratories]].
+
+==Structure and mechanism==
+
+{{see also|Heparin#Mechanism of action}}
+
+Fondaparinux is a synthetic pentasaccharide Factor Xa inhibitor. Apart from the O-methyl group at the reducing end of the molecule, the identity and sequence of the five monomeric sugar units contained in fondaparinux is identical to a sequence of five monomeric sugar units that can be isolated after either chemical or enzymatic cleavage of the polymeric [[glycosaminoglycan]]s [[heparin]] and [[heparan sulfate]] (HS). Within heparin and heparan sulfate this monomeric sequence is thought to form the high affinity binding site for the anti-coagulant factor [[antithrombin III]] (ATIII). Binding of heparin/HS to ATIII  has been shown to increase the anti-coagulant activity of antithrombin III 1000 fold. In contrast to heparin, fondaparinux does not inhibit [[thrombin]].
+
+==Administration==
+Fondaparinux is given subcutaneously daily.  Clinically, it is used for the prevention of [[deep vein thrombosis]] in patients who have had orthopedic surgery as well as for the treatment of deep vein thrombosis and [[pulmonary embolism]].
+
+==Comparison to other agents==
+One potential advantage of fondaparinux over LMWH or unfractionated heparin is that the risk for [[heparin-induced thrombocytopenia]] (HIT) is substantially lower.  Furthermore, there have been case reports of fondaparinux being used to anticoagulate patients with established HIT as it has no affinity to PF-4.  However, its renal excretion precludes its use in patients with renal dysfunction.
+
+Unlike [[direct factor Xa inhibitor]]s, it mediates its effects indirectly through [[antithrombin III]], but unlike [[heparin]], it is selective for [[factor X]]a.<ref>{{cite web |url=http://www.medscape.com/viewarticle/456874_5 |title=Medscape.com  |format= |work= |accessdate=2009-01-23}}</ref>
+
+==Uses==
+Fondaparinux is similar to [[enoxaparin]] in reducing the risk of ischemic events at nine days, but it substantially reduces major bleeding and improves long term mortality and morbidity.<ref name="urlNEJM -- Comparison of Fondaparinux and Enoxaparin in Acute Coronary Syndromes">{{cite web |url=http://content.nejm.org/cgi/content/abstract/354/14/1464 |title=NEJM -- Comparison of Fondaparinux and Enoxaparin in Acute Coronary Syndromes |format= |work= |accessdate=2009-01-23}}</ref>
+
+It has been investigated for use in conjunction with [[streptokinase]].<ref name="pmid18245119">{{cite journal |author=Peters RJ, Joyner C, Bassand JP, ''et al.'' |title=The role of fondaparinux as an adjunct to thrombolytic therapy in acute myocardial infarction: a subgroup analysis of the OASIS-6 trial |journal=Eur. Heart J. |volume=29 |issue=3 |pages=324–31 |year=2008 |month=February |pmid=18245119 |doi=10.1093/eurheartj/ehm616 |url=http://eurheartj.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=18245119}}</ref>
+
+==Chemical structure==
+===Abbreviations===
+
+*'''GlcNS6S''' = 2-deoxy-6-O-sulfo-2-(sulfoamino)-α-D-glucopyranoside
+*'''GlcA''' = [[glucuronic acid|β-D-glucopyranuronoside]]
+*'''GlcNS3,6S''' = 2-deoxy-3,6-di-O-sulfo-2-(sulfoamino)-α-D-glucopyranosyl
+*'''IdoA2S''' = [[iduronic acid|2-O-sulfo-α-L-idopyranuronoside]]
+*'''GlcNS6SOMe''' = methyl-O-2-deoxy-6-O-sulfo-2-(sulfoamino)-α-D-glucopyranoside
+
+The sequence of monosaccharides is D-GlcNS6S-α-(1,4)-D-GlcA-β-(1,4)-D-GlcNS3,6S-α-(1,4)-L-IdoA2S-α-(1,4)-D-GlcNS6S-OMe, as shown in the following structure:
+
+[[Image:Fondaparinux.svg|400px|center|Fondaparinux]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.arixtra.com/ Arixtra home page]
+* [http://www.alchemia.com.au/irm/content/home.html  Alchemia home page]
+
+{{Antithrombotics}}
+{{GlaxoSmithKline}}
+[[Category:GlaxoSmithKline brands]]
+[[Category:Heparins]]
+[[Category:Sulfamates]]

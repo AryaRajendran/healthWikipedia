@@ -1,0 +1,123 @@
+{{AutoAbBox
+ |Autoantigen = transglutaminase
+ |SharedInfo = Yes
+ |CommentShared - Answer "Yes" only if true
+ |SI_Gene =
+ |SI_Organ =
+ |SI_Tissue =
+ |SI_Cell =  
+ |SI_Also = 
+ |SI_Disease = 
+ |SI_Class = IgA, IgG
+ |SI_IgGSubclass = 
+ |SI_HLA1 = [[HLA-DQ2#DQ2.5|DQ2.5]]
+ |SI_HLA2 = [[HLA-DQ8|DQ8]]
+ |SI_HLA3 = [[HLA-DQ2#DQ2.2|DQ2.2]]/[[HLA-DQ7#DQ7.5|DQ7.5]]
+ |SI_TCellRestr = [[HLA-DQ|DQ]]/[[gliadin]], DQ/deamidated-gliadin
+ |SI_Trigger = [[Triticeae glutens]]([[Prolamin]]s and [[Glutelin]]s) 
+ |Isoform1 = Tissue transglutaminase
+ |I1_Gene = TGM2
+ |I1_Organ = Intestine (small)
+ |I1_Tissue = Villi 
+ |I1_Cell = Epithelial Cells
+ |I1_Also = Epithelial matrix
+ |I1_Disease = [[Coeliac disease]]
+ |I1_Class = 
+ |I1_IgGSubclass =
+ |I1_HLA1 =
+ |I1_HLA2 =
+ |I1_HLA3 =
+ |I1_Trigger = & Gastrointestinal viruses
+ |Isoform2 = Epidermal transglutaminase
+ |I2_Gene = TGM3
+ |I2_Organ = Skin
+ |I2_Tissue = 
+ |I2_Cell = 
+ |I2_Also = 
+ |I2_Disease = [[Dermatitis herpetiformis]]
+ |I2_Class = 
+ |I2_IgGSubclass =
+ |I2_HLA1 =
+ |I2_HLA2 =
+ |I2_HLA3 =
+}}
+
+'''Anti-transglutaminase antibodies''' (ATA) are [[autoantibodies]] against the [[transglutaminase]] protein. [[Antibodies]] serve an important role in the [[immune system]] by detecting cells and substances that the rest of the immune system then eliminates. These cells and substance can be foreign (for example, viruses) and also can be produced by the body (for example, cancer cells).  Antibodies against the body's own products are called [[autoantibodies]]. Autoantibodies can sometimes errantly be directed against healthy portions of the organism, causing [[autoimmune disease]]s.
+
+ATA can be classified according to 2 different schemes: [[transglutaminase]] [[isoform]] and [[immunoglobulin]] reactivity subclass ([[IgA]], [[IgG]]) toward transglutaminases.
+
+==Transglutaminase isoform reactivity==
+[[Image:Tissue transglutaminase.png|thumb|left|127px|[[transglutaminase]]]]
+
+===Anti-tissue transglutaminase===
+Antibodies to [[tissue transglutaminase]] (ATA or anti-tTG) are found in patients with several conditions, including [[coeliac disease]], [[juvenile diabetes]],<ref>{{cite journal|pmid=19758209|year=2009|last1=Krause|first1=I|last2=Anaya|first2=JM|last3=Fraser|first3=A|last4=Barzilai|first4=O|last5=Ram|first5=M|last6=Abad|first6=V|last7=Arango|first7=A|last8=García|first8=J|last9=Shoenfeld|first9=Y|title=Anti-infectious antibodies and autoimmune-associated autoantibodies in patients with type I diabetes mellitus and their close family members|volume=1173|pages=633–9|doi=10.1111/j.1749-6632.2009.04619.x|journal=Annals of the New York Academy of Sciences}}</ref> [[inflammatory bowel disease]],<ref name="nature.com">{{cite journal|last=Farrace|first=MG|coauthors=Picarelli, A; Di Tola, M; Sabbatella, L; Marchione, OP; Ippolito, G; Piacentini, M|title=Presence of anti-"tissue" transglutaminase antibodies in inflammatory intestinal diseases: an apoptosis-associated event?|journal=Cell death and differentiation|date=2001 Jul|year=2001|volume=8|issue=7|pages=767–70|pmid=11464221|url=http://www.nature.com/cdd/journal/v8/n7/full/4400880a.html|accessdate=26 December 2012}}</ref>  and various forms of [[arthritis]].<ref name=Teichmann>{{cite journal|last=Teichmann|first=Joachim|coauthors=Voglau, Marcus J.; Lange, Uwe|title=Antibodies to human tissue transglutaminase and alterations of vitamin D metabolism in ankylosing spondylitis and psoriatic arthritis|journal=Rheumatology International|date=13 October 2009|volume=30|issue=12|pages=1559–1563|doi=10.1007/s00296-009-1186-y|pmid=19823832|url=http://www.ncbi.nlm.nih.gov/pubmed/19823832|accessdate=26 December 2012}}</ref><ref name=Picarelli>{{cite journal|last=Picarelli|first=A|coauthors=Di Tola, M; Sabbatella, L; Vetrano, S; Anania, MC; Spadaro, A; Sorgi, ML; Taccari, E|title=Anti-tissue transglutaminase antibodies in arthritic patients: a disease-specific finding?|journal=Clinical chemistry|date=2003 Dec|volume=49|issue=12|pages=2091–4|pmid=14633886|doi=10.1373/clinchem.2003.023234|url=http://www.clinchem.org/content/49/12/2091.full|accessdate=26 December 2012}}</ref>  
+
+In Coeliac Disease, ATA are involved in the destruction of the villous [[extracellular matrix]] and target the destruction of [[intestinal villi|intestinal villous]] [[epithelial cell]]s
+by [[killer cell]]s. Deposits of anti-tTG in the intestinal [[epithelium]] predict coeliac disease.<ref name=Kaukinen>{{cite journal | author = Kaukinen K, Peraaho M, Collin P, Partanen J, Woolley N, Kaartinen T,  Nuuntinen T,  Halttunen T, Maki M, Korponay-Szabo I | title = Small-bowel mucosal tranglutaminase 2-specific IgA deposits in coeliac disease without villous atrophy: A Prospective and radmonized clinical study | journal = Scand J Gastroenterology | volume = 40 | pages = 564–572 | year = 2005 | pmid = 16036509 | doi = 10.1080/00365520510023422 | issue = 5}}</ref>
+
+===Anti-endomysial reactivity===
+The [[endomysium]] is a layer of connective tissue that ensheaths a muscle fiber.  The endomysium contains a form of transglutaminase called "tissue transglutaminase" or "tTG" for short, and antibodies that bind to this form of transglutaminase are called anti-endomysial antibodies (EMA). <ref name=EMAnegCD>{{cite journal |author=Salmi T, Collin P, Korponay-Szabó I, Laurila K, Partanen J, Huhtala H, Király R, Lorand L, Reunala T, Mäki M, Kaukinen K |title=Endomysial antibody‐negative coeliac disease: clinical characteristics and intestinal autoantibody deposits |journal=Gut |volume=55 |issue=12 |pages=1746–53 |year=2006 |pmid=16571636 |doi=10.1136/gut.2005.071514 |pmc=1856451}}</ref> 
+The antiendomysial antibody test is a histological assay for patient serum binding to [[Esophagus|esophageal]] tissue from primate. EMA are present in [[celiac disease]]. They do not cause any direct symptoms to muscles, but detection of EMA is useful in the diagnosis of the disease.<ref>{{cite journal |author=Pruessner HT |title=Detecting celiac disease in your patients |journal=Am Fam Physician |volume=57 |issue=5 |pages=1023–34, 1039–41 |year=1998 |month=March |pmid=9518950 |doi= |url=http://www.aafp.org/afp/980301ap/pruessn.html}}</ref>
+
+===Anti-epidermal transglutaminase===
+Antibodies to [[Epidermis (skin)|epidermal]] transglutaminase (eTG, also [[keratinocyte transglutaminase]]) are the [[autoantibodies]] believed to cause [[dermatitis herpetiformis]].<ref name="pmid18503599">{{cite journal |author=Hull CM |title=Elevation of IgA anti-epidermal transglutaminase antibodies in dermatitis herpetiformis |journal=Br. J. Dermatol. |volume= 159|issue= 1|pages= 120–4|year=2008 |month=May |pmid=18503599 |doi=10.1111/j.1365-2133.2008.08629.x |url= |author-separator=, |author2=Liddle M |author3=Hansen N |display-authors=3 |last4=Meyer |first4=L.J. |last5=Schmidt |first5=L. |last6=Taylor |first6=T. |last7=Jaskowski |first7=T.D. |last8=Hill |first8=H.R. |last9=Zone |first9=J.J.}}</ref>
+
+==Immunoglobin subclass==
+ATA [[IgA]] are more frequently found in Celiac Disease (CD); however, ATA [[IgG]] are found in CD and at higher levels when affected individual had the [[IgA-less phenotype]]. The IgA-less phenotype is more common in CD than the normal population; however, one [[haplotype]], [[HLA-DQ2#DQ2.5|DQ2.5]] is found in most CD, has [[genetic linkage]] to the IgA-less [[gene]] location.
+
+==Associated Conditions==
+
+===Celiac Disease===
+Most attention to anti-transglutaminase antibodies is given with respect to [[Celiac Disease]].  A recent study of children published in 2007 demonstrated that the level of ATA in correlates with the scalar Marsh score for the disease in the same patient.<ref name="pmid17428743">{{cite journal | author = Donaldson MR | title = Correlation of duodenal histology with tissue transglutaminase and endomysial antibody levels in pediatric celiac disease | journal = Clin. Gastroenterol. Hepatol. | volume = 5 | issue = 5 | pages = 567–73 | year = 2007 | pmid = 17428743 | doi = 10.1016/j.cgh.2007.01.003 | author-separator = , | author2 = Firth SD | author3 = Wimpee H | display-authors = 3 | last4 = Leiferman | first4 = Kristin M. | last5 = Zone | first5 = John J. | last6 = Horsley | first6 = Wyatt | last7 = o’Gorman | first7 = Molly A. | last8 = Jackson | first8 = W. Daniel | last9 = Neuhausen | first9 = Susan L.}}</ref>  See the Coeliac wiki article for more information.
+
+High levels ([[titer]]s) of ATA are found in almost all instances of [[coeliac disease]].<ref name=Dieterich>{{cite journal | author = Dieterich W, Ehnis T, Bauer M, Donner P, Volta U, Riecken E, Schuppan D | title = Identification of tissue transglutaminase as the autoantigen of celiac disease | journal = Nat Med | volume = 3 | issue = 7 | pages = 797–801 | year = 1997 | pmid = 9212111 | doi = 10.1038/nm0797-797}}</ref> Given the association of ATA with coeliac disease, and the prevalence of the latter, it is estimated that ~1% of the population have potentially pathogenic levels of ATA.
+
+===Inflammatory bowel disease===
+A study published in Nature in 2001 found high levels of  anti-transglutaminase antibodies in [[Inflammatory Bowel Disease]] - specifically in Crohn's Disease and Ulcerative rectocolitis.<ref name="nature.com"/>
+
+===Arthritis===
+Studies of patients with various forms of [[arthritis]] showed highly increased frequencies of antibodies against guinea pig transglutaminase, human recombinant transglutaminase and [[peptidylarginine deiminase]] type 4 (PAD4). This suggests a potential for crossreactive antibodies between anti-tTG and anti-PAD4.<ref name="pmid16539813">{{cite journal | author = Roth EB, Stenberg P, Book C, Sjöberg K | title = Antibodies against transglutaminases, peptidylarginine deiminase and citrulline in rheumatoid arthritis--new pathways to epitope spreading | journal = Clin. Exp. Rheumatol. | volume = 24 | issue = 1 | pages = 12–8 | year = 2006 | pmid = 16539813 | doi = }}</ref> 
+
+===Juvenile diabetes and anti-tTG===
+Childhood (male) [[diabetes mellitus type 1|Type 1 diabetes]] (T1D) increases the risk for CD and vice versa<ref name=DiabetesI_GSE>{{cite journal | author = Lampasona V, Bonfanti R, Bazzigaluppi E, Venerando A, Chiumello G, Bosi E, Bonifacio E. | title = Antibodies to tissue transglutaminase C in type I diabetes | journal = Diabetologia. | volume = 42 | issue = 10 | pages = 1195–1198 | year = 1999 | pmid = 10525659 | doi = 10.1007/s001250051291}}</ref> and the [[Gluten_sensitivity#Gluten-sensitive_enteropathy|early signs of CD]] may precede T1D in many cases.<ref>{{cite journal | author = Ludvigsson J, Ludvigsson J, Ekbom A, Montgomery S | title = Celiac disease and risk of subsequent type 1 diabetes: a general population cohort study of children and adolescents | journal = Diabetes Care | volume = 29 | issue = 11 | pages = 2483–8 | year = 2006 | pmid = 17065689 | doi = 10.2337/dc06-0794}}</ref> A search for CD in  juvenile diabates patients revealed that GF diet resulted in some improvements.<ref>{{cite journal | author = Hansen D, Brock-Jacobsen B, Lund E, Bjørn C, Hansen L, Nielsen C, Fenger C, Lillevang S, Husby S | title = Clinical benefit of a gluten-free diet in type 1 diabetic children with screening-detected celiac disease: a population-based screening study with 2 years' follow-up | journal = Diabetes Care | volume = 29 | issue = 11 | pages = 2452–6 | year = 2006 | pmid = 17065683 | doi = 10.2337/dc06-0990}}</ref> A elevated number of diabetes patients have ATA<ref name=DiabetesI_tTG>{{cite journal | author = Bao F, Yu L, Babu S, Wang T, Hoffenberg EJ, Rewers M, and Eisenbarth GS. | title = One third of HLA DQ2 homozygous patients with type 1 diabetes express celiac disease-associated transglutaminase autoantibodies | journal = J Autoimmun. | volume = 13 | issue = 1 | pages = 143–148 | year = 1999 | pmid = 10441179 | doi = 10.1006/jaut.1999.0303}}</ref> along with increased numbers of [[Triticeae glutens|gluten]]-specific [[T-cell]]s. 
+
+===Asymptomatic ATA+===
+A recent screening<ref name="pmid17234556">{{cite journal | author = West J, Logan RF, Hill PG, Khaw KT | title = The iceberg of celiac disease: what is below the waterline? | journal = Clin. Gastroenterol. Hepatol. | volume = 5 | issue = 1 | pages = 59–62 | year = 2007 | pmid = 17234556 | doi = 10.1016/j.cgh.2006.10.020}}</ref> of 7550 Briton's found 87 undetected ATA+.
+In this study a 50% increase of ATA was associated with:
+* lower [[bone mineral density]] of the hip.
+* lower [[hemoglobin]] levels
+* decreased weight.
+* lower [[cholesterol]]
+* higher [[blood glucose]]
+Similar studies
+* increased mortality, particularly to cancer<ref name="pmid16649072">{{cite journal | author = Metzger MH | title = Mortality excess in individuals with elevated IgA anti-transglutaminase antibodies: the KORA/MONICA Augsburg cohort study 1989-1998 | journal = Eur. J. Epidemiol. | volume = 21 | issue = 5 | pages = 359–65 | year = 2006 | pmid = 16649072 | doi = 10.1007/s10654-006-9002-4 | author-separator = , | author2 = Heier M | author3 = Mäki M | display-authors = 3 | last4 = Bravi | first4 = Enzo | last5 = Schneider | first5 = Andrea | last6 = Löwel | first6 = Hannelore | last7 = Illig | first7 = Thomas | last8 = Schuppan | first8 = Detlef | last9 = Wichmann | first9 = Heinz-Erich}}</ref>
+
+===Symptomatic ATA+===
+* greater impairment of [[neurophysiology]] ([[peripheral neuropathies]] and [[motor neuron disease]].<ref name="pmid16774628">{{cite journal | author = Matà S, Renzi D, Pinto F, Calabrò A | title = Anti-tissue transglutaminase IgA antibodies in peripheral neuropathy and motor neuronopathy | journal = Acta Neurol. Scand. | volume = 114 | issue = 1 | pages = 54–8 | year = 2006 | pmid = 16774628 | doi = 10.1111/j.1600-0404.2006.00602.x}}</ref>
+* increased inflammatory bowel symptoms(not celiac or EMA).<ref name="pmid15552265">{{cite journal | author = Di Tola M | title = Anti-tissue transglutaminase antibodies in inflammatory bowel disease: new evidence | journal = Clin. Chem. Lab. Med. | volume = 42 | issue = 10 | pages = 1092–7 | year = 2004 | pmid = 15552265 | doi =10.1515/CCLM.2004.225 | author-separator = , | author2 = Sabbatella L | author3 = Anania MC | display-authors = 3 | last4 = Viscido | first4 = Angelo | last5 = Caprilli | first5 = Renzo | last6 = Pica | first6 = Roberta | last7 = Paoluzi | first7 = Paolo | last8 = Picarelli | first8 = Antonio }}</ref>
+
+===Alcohol consumption===
+ATA correlated with biomarkers of alcohol consumption, proinflammatory [[cytokines]] and markers of [[fibrogenesi]]s.<ref name="pmid17597408">{{cite journal | author = Koivisto H, Hietala J, Anttila P, Niemelä O | title = Co-Occurrence of IgA Antibodies Against Ethanol Metabolites and Tissue Transglutaminase in Alcohol Consumers: Correlation with Proinflammatory Cytokines and Markers of Fibrogenesis | year = 2007 | pmid = 17597408 | doi = 10.1007/s10620-007-9874-5 | journal = Digestive Diseases and Sciences | volume = 53 | pages = 500–5 | issue = 2}}</ref>
+
+==Mechanism of Autoimmunity==
+The antibodies to tissue transglutaminase follow a complex pathway of generation. 
+For most antigens, T-cells specific to those antigens develop, for autoimmunity
+autoreactive T-cells are not suppressed or antigens escape the protective process. T-cells are stimulated by antigen, presented by MHC molecules (HLA in humans) and [[surface IgM]] on antigen reactive [[B-cell]]s. These T-helper cells then stimulate B-cells to multiply and mature into [[plasma cell]]s that make IgG to that protein. 
+
+In the case of Coeliac Disease, the current understanding is that tTG autoimmunity arises when T-cells are generated against wheat gliadin and similar gluten proteins made by a class of grasses called ''[[Triticeae]]'', which includes wheat (See [[Wheat taxonomy]]), [[barley]], and [[rye]]. The T-cells are defined by the ability to react to [[HLA-DQ8]] and [[HLA-DQ2#DQ2.5|DQ2.5]] restricted antigens and gliadin is one of the antigens. Gliadin is a favored dietary substrate for [[transglutaminase]] because of many [[enzyme]] reaction sites on gliadin. In disease, transglutaminase reacts with gliadin forming a [[covalent bond|linkage]].<ref name="pmid14747475">{{cite journal | author = Fleckenstein B, Qiao SW, Larsen MR, Jung G, Roepstorff P, Sollid LM | title = Molecular characterization of covalent complexes between tissue transglutaminase and gliadin peptides | journal = J. Biol. Chem. | volume = 279 | issue = 17 | pages = 17607–16 | year = 2004 | pmid = 14747475 | doi = 10.1074/jbc.M310198200}}</ref> In forming this bond transglutaminase becomes linked to T-cell epitopes on gliadin. B-cells with surface IgM that react to transglutaminase can present it with bound gliadin peptides to T-cells which stimulate B-cell maturation and proliferation to plasma cells making IgA or IgM. 
+
+'''ATA changes the behavior of tTG'''. Some studies have revealed that antibodies
+increase the activity of tTG, instead of inhibiting activity as is commonly encountered with function alterning antibodies. A recent study has shown that ATA also modify and increase replication in intestinal epithileal cells, by apparently interacting with cell-surface transglutaminase.<ref name="pmid17408665">{{cite journal | author = Barone MV | title = Humoral immune response to tissue transglutaminase is related to epithelial cell proliferation in celiac disease | journal = Gastroenterology | volume = 132 | issue = 4 | pages = 1245–53 | year = 2007 | pmid = 17408665 | doi = 10.1053/j.gastro.2007.01.030 | author-separator = , | author2 = Caputo I | author3 = Ribecco MT | display-authors = 3 | last4 = Maglio | first4 = Maria | last5 = Marzari | first5 = Roberto | last6 = Sblattero | first6 = Daniele | last7 = Troncone | first7 = Riccardo | last8 = Auricchio | first8 = Salvatore | last9 = Esposito | first9 = Carla}}</ref>
+
+=Links=
+* [http://www.celiac.com/st_prod.html?p_prodid=1091 Anti-Tissue Transglutaminase (tTG) Antibodies Also Found in Inflammatory Bowel Disease]
+* [http://www.celiac.com/articles/21637/1/Tg6-Antibody-Plays-a-Key-Role-in-Celiac-Disease-Related-Neurological-Disorders/Page1.html Tg6 Antibody Plays a Key Role in Celiac-Related Neurological Disorders Celiac.com 09/02/2008 ]
+
+=References=
+{{reflist}}
+
+{{gluten sensitivity}}
+{{Autoantibodies}}
+
+{{DEFAULTSORT:Anti-Transglutaminase Antibodies}}
+[[Category:Autoantibodies|T]]

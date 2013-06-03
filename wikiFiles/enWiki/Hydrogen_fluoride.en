@@ -1,0 +1,149 @@
+{{chembox
+| verifiedrevid = 476992809
+| Name = Hydrogen fluoride
+| ImageFileL1 = Hydrogen-fluoride-2D-dimensions.png
+| ImageSizeL1 = 120
+| ImageFileR1 = Hydrogen-fluoride-3D-vdW.png
+| ImageSizeR1 = 120
+| Section1 = {{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RGL5YE86CZ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C16487
+| InChI = 1/FH/h1H
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 29228
+| SMILES = F
+| InChIKey = KRHYYFGTRYWZRS-UHFFFAOYAC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/FH/h1H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KRHYYFGTRYWZRS-UHFFFAOYSA-N
+| CASNo = 7664-39-3
+| CASNo_Ref = {{cascite|correct|CAS}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 14214
+| PubChem = 16211014
+| RTECS = MW7875000
+| EINECS = 
+ }}
+| Section2 = {{Chembox Properties
+| H = 1
+| F = 1
+| Appearance = colorless gas
+| Density = 1.15 g/L, gas (25 °C)<br />0.99 g/mL, liquid (19.5 °C)
+| Solubility = miscible
+| MeltingPtC = -83.6
+| BoilingPtC = 19.5
+| RefractIndex = 1.00001
+| pKa = 3.2
+ }}
+| Section3 = {{Chembox Structure
+| MolShape = [[Linear molecular geometry|Linear]]
+| Dipole = 1.86 [[Debye|D]]
+| Coordination =
+| CrystalStruct = 
+ }}
+| Section4 = {{Chembox Thermochemistry
+| DeltaHf = −13.66 kJ/g (gas) <br /> −14.99 kJ/g (liquid)
+| DeltaHc = 
+| Entropy = 8.687 J/g K (gas)
+| HeatCapacity =
+ }}
+| Section7 = {{Chembox Hazards
+| ExternalMSDS =
+| EUClass = 
+| EUIndex = 
+| NFPA-H = 4
+| NFPA-F = 0
+| NFPA-R = 1
+| NFPA-O = 
+| FlashPt = 
+| RPhrases = 
+| SPhrases = 
+ }}
+| Section8 = {{Chembox Related
+| OtherAnions = [[Hydrogen chloride]]<br />[[Hydrogen bromide]]<br />[[Hydrogen iodide]]
+| OtherCations = [[Sodium fluoride]]
+| OtherCpds = [[Hydrofluoric acid]]
+ }}
+}}
+
+'''Hydrogen fluoride''' is a [[chemical compound]] with the [[chemical formula|formula]] HF. This colorless gas is the principal industrial source of [[fluorine]], often in the [[aqueous]] form as [[hydrofluoric acid]], and thus is the precursor to many important compounds including pharmaceuticals and polymers (e.g. [[Teflon]]). HF is widely used in the petrochemical industry and is a component of many [[superacid]]s. Hydrogen fluoride boils just below room temperature whereas the other [[hydrogen halide]]s condense at much lower temperatures. Unlike the other hydrogen halides, HF is lighter than air and diffuses relatively quickly through porous substances. 
+
+Hydrogen fluoride is a highly dangerous gas, forming corrosive and penetrating [[hydrofluoric acid]] upon contact with tissue. The gas can also cause blindness by rapid destruction of the [[cornea]]s.
+
+==Structure==
+[[File:Hydrogen-fluoride-solid-2D-dimensions.png|left|400px|The structure of chains of HF in crystalline hydrogen fluoride.]]<br clear = left/>
+Near or above room temperature, HF is a colorless gas. Below {{convert|-83.6|C|F}}, HF forms orthorhombic crystals, consisting of zig-zag chains of HF molecules. The HF molecules, with a short H–F bond of 95 pm, are linked to neighboring molecules by intermolecular H–F distances of 155 pm.<ref>{{cite journal | author = Johnson, M. W.; Sándor, E.; Arzi, E. | title = The Crystal Structure of Deuterium Fluoride | journal = [[Acta Crystallographica]] | year = 1975 | volume = B31 | pages = 1998–2003 | doi = 10.1107/S0567740875006711 | issue = 8}}</ref>
+
+Liquid HF also consists of chains of HF molecules, but the chains are shorter, consisting on average of only five or six molecules.<ref>{{cite journal | title = On the Structure of Liquid Hydrogen Fluoride | journal = [[Angewandte Chemie]], International Edition | year = 2004 | volume = 43 | pages = 1952–55 | doi = 10.1002/anie.200353289 | author = Mclain, Sylvia E. | pmid = 15065271 | last2 = Benmore | first2 = CJ | last3 = Siewenie | first3 = JE | last4 = Urquidi | first4 = J | last5 = Turner | first5 = JF | issue = 15}}</ref> The higher boiling point of HF relative to analogous species, such as [[Hydrogen chloride|HCl]], is attributed to [[hydrogen bond]]ing between HF molecules, as indicated by the existence of chains even in the liquid state.
+
+==Acidity==
+The acidity of [[hydrofluoric acid]] solutions vary with concentration owing to hydrogen-bond interactions of the fluoride ion. Dilute solutions are weakly acidic with an [[acid ionization constant]] ''K''<sub>a</sub> = 6.6{{e|-4}} (or p''K''<sub>a</sub> = 3.18),<ref>{{cite book|author1=Ralph H. Petrucci|author2=William S. Harwood|author3=Jeffry D. Madura|title=General chemistry: principles and modern applications|url=http://books.google.com/books?id=5z0vAQAAIAAJ|accessdate=22 August 2011|year=2007|publisher=Pearson/Prentice Hall|isbn=978-0-13-149330-8|page=691}}</ref> in contrast to corresponding solutions of the other hydrogen halides which are strong acids. Concentrated solutions of hydrogen fluoride are much more strongly acid than implied by this value, as shown by measurements of the [[Hammett acidity function]] H<sub>0</sub><ref>{{cite journal|author=H.H. Hyman ''et al.''|journal= J. Amer. Chem. Soc. |volume=79|page= 3668 |year=1957|title=The Hammett acidity function H<sub>0</sub> for HF aqueous solutions|doi=10.1021/ja01571a016}}</ref> (or “effective pH”). For 100%, HF has an H<sub>0</sub>, estimated to be between −10.2 and −11, which is comparable to the value −12 for [[sulfuric acid]].<ref name="Jolly">W.L. Jolly “Modern Inorganic Chemistry” (McGraw-Hill 1984), p. 203 ISBN 0-07-032768-8</ref><ref name="Cotton 109">F.A. Cotton and G. Wilkinson, ''Advanced Inorganic Chemistry'' John Wiley and Sons: New York, 1988. ISBN 0-471-84997-9 p. 109</ref> 
+
+In thermodynamic terms, HF solutions are highly [[ideal solution|non-ideal]], with the [[activity (chemistry)|activity]] of HF increasing much more rapidly than its concentration. 
+The weak acidity in dilute solution is sometimes attributed to the high H—F [[bond strength]], which combines with the high dissolution [[enthalpy]] of HF to outweigh the more negative [[enthalpy]] of hydration of the fluoride ion.<ref>C.E. Housecroft and A.G. Sharpe “Inorganic Chemistry” (Pearson Prentice Hall, 2nd ed. 2005), p. 170.</ref>  However, Giguère and Turrell<ref name="Giguère">{{cite journal 
+ | doi = 10.1021/ja00537a008 
+ | title = The nature of hydrofluoric acid. A spectroscopic study of the proton-transfer complex H<sub>3</sub>O<sup>+</sup>...F<sup>−</sup>
+ | year = 1980 
+ | author = [[Paul-Antoine Giguère|Giguère, Paul A.]] and Turrell, Sylvia 
+ | journal = [[J. Am. Chem. Soc.]]
+ | volume = 102 
+ | pages = 5473 
+ | issue = 17}}</ref><ref>{{cite journal | author = Radu Iftimie, Vibin Thomas, Sylvain Plessis, Patrick Marchand, and Patrick Ayotte| title = Spectral Signatures and Molecular Origin of Acid Dissociation Intermediates | journal = [[J. Am. Chem. Soc.]] | doi = 10.1021/ja077846o| year = 2008| volume = 130| pages = 5901 | pmid = 18386892 | issue = 18}}</ref> have shown by [[infrared spectroscopy]] that the predominant solute species is the hydrogen-bonded [[ion-pair]] [H<sub>3</sub>O<sup>+</sup>•F<sup>−</sup>], which suggests that the ionization can be described as a double equilibrium:
+
+:H<sub>2</sub>O + HF {{eqm}} [H<sub>3</sub>O<sup>+</sup>•F<sup>−</sup>] {{eqm}} H<sub>3</sub>O<sup>+</sup> + F<sup>−</sup>
+
+The first equilibrium to the right and the second to the left, meaning that HF '''is''' extensively dissociated, but that the tight ion pairs reduce the thermodynamic [[activity coefficient]] of H<sub>3</sub>O<sup>+</sup>, so that the solution is effectively less acidic.<ref name="Cotton 104">F.A. Cotton and G. Wilkinson, ''Advanced Inorganic Chemistry'' p. 104</ref> 
+
+In concentrated solution, the additional HF causes the ion pair to dissociate with formation of the hydrogen-bonded [[bifluoride|hydrogen difluoride ion]].<ref name="Giguère"/><ref name="Cotton 104"/>
+
+:[H<sub>3</sub>O<sup>+</sup>•F<sup>−</sup>] + HF {{eqm}} H<sub>3</sub>O<sup>+</sup> + HF<sub>2</sub><sup>−</sup>
+ 
+The increase in free H<sub>3</sub>O<sup>+</sup> due to this reaction accounts for the rapid increase in acidity, while fluoride ions are stabilized (and become less basic) by strong hydrogen bonding to HF to form HF<sub>2</sub><sup>−</sup>. This interaction between the acid and its own conjugate base is an example of [[homoassociation|homoconjugation]]. At the limit of 100% liquid HF, there is [[Molecular autoionization|autoionization]]
+
+:2 HF {{eqm}} H<sub>2</sub>F<sup>+</sup> + F<sup>−</sup>
+
+that forms an extremely acidic solution (H<sub>0</sub> = −11). 
+
+The acidity of anhydrous HF can be increased even further by the addition of [[Lewis acid]]s such as SbF<sub>5</sub>, which can reduce H<sub>0</sub> to −21.<ref name="Jolly"/><ref name="Cotton 109"/>
+
+==Production and uses==
+Hydrogen fluoride is produced as by the action of sulfuric acid on pure grades of the mineral [[fluorite]] and also as a side-product of the extraction of the fertilizer precursor phosphoric acid from various minerals. See also [[hydrofluoric acid]].
+
+The anhydrous compound hydrogen fluoride is more commonly used than its aqueous solution, hydrofluoric acid. HF serves as a [[catalyst]] in [[alkylation]] processes in [[oil refineries]]. A component of high-[[octane]] [[gasoline]] called "alkylate" is generated in [[Alkylation|Alkylation units]] that combine C3 and C4 olefins and isobutane to generate [[gasoline]].<ref name=Ullmann>J. Aigueperse, P. Mollard, D. Devilliers, M. Chemla, R. Faron, R. Romano, J. P. Cuer, “Fluorine Compounds, Inorganic” in Ullmann’s Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2005 {{DOI|10.1002/14356007.a11_307}}.</ref> 
+
+HF is a reactive solvent in the [[electrochemical fluorination]] of organic compounds. In this approach, HF is oxidized in the presence of a [[hydrocarbon]] and the fluorine replaces C–H bonds with [[Carbon–fluorine bond|C–F bond]]s. [[Perfluorinated carboxylic acid]]s and [[sulfonic acid]]s are produced in this way.<ref name=Ullmann>G. Siegemund, W. Schwertfeger, A. Feiring, B. Smart, F. Behr, H. Vogel, B. McKusick “Fluorine Compounds, Organic” in “Ullmann’s Encyclopedia of Industrial Chemistry” 2005, Wiley-VCH, Weinheim. {{DOI|10.1002/14356007.a11_349}}</ref>
+
+Hydrogen fluoride is an important catalyst used in the majority of the installed [[linear alkyl benzene]] production in the world. The process involves dehydrogenation of ''n''-paraffins to olefins, and subsequent reaction with benzene using HF as catalyst. 
+
+Elemental [[fluorine]], F<sub>2</sub>, is prepared by [[electrolysis]] of a solution of HF and [[potassium bifluoride]]. The potassium bifluoride is needed because anhydrous hydrogen fluoride does not conduct electricity. Several million kilograms of F<sub>2</sub> are produced annually.<ref>M. Jaccaud, R. Faron, D. Devilliers, R. Romano “Fluorine” in ''Ullmann’s Encyclopedia of Industrial Chemistry'', Wiley-VCH, Weinheim, 2005 {{DOI|10.1002/14356007.a11_293}}.</ref>
+
+[[Acyl chlorides]] or [[acid anhydrides]] react with hydrogen fluoride to give [[acyl]] fluorides.<ref> G Olah and S Kuhn "Preparation of Acyl Fluorides with Anhydrous Hydrogen Fluoride. The General Use of the Method of Colson and Fredenhagen" J. Org. Chem., 1961, vol. 26, 237-238.{{DOI|10.1021/jo01060a600}}</ref>
+
+HF is often used in [[palynology]] to remove silicate minerals, for extraction of [[dinoflagellate cysts]], [[acritarchs]] and [[chitinozoans]].
+
+1,1-Difluoroethane is produced by the mercury-catalyzed addition of [[hydrogen fluoride]] to [[acetylene]]:<ref>{{cite book |last1=Siegemund |first1=Günter |last2=Schwertfeger |first2=Werner |last3=Feiring |first3=Andrew |last4=Smart |first4=Bruce |last5=Behr |first5=Fred |last6=Vogel |first6=Herward |last7=McKusick |first7=Blaine |year=2010 |chapter=Fluorine Compounds, Organic |editor1-first=Matthias |editor1-last=Bohnet |editor2-first=Giuseppe |editor2-last=Bellussi |editor3-first=James |editor3-last=Bus |editor4-first=Boy |editor4-last=Cornils |title=Ullmann's Encyclopedia of Industrial Chemistry |publisher=John Wiley & Sons |doi=10.1002/14356007.a11_349}}</ref>
+:HCCH  +  2 HF   →   CH<sub>3</sub>CHF<sub>2</sub>
+The intermediate in this process is vinyl fluoride, the [[monomer]]ic percursor to [[polyvinyl fluoride]].
+
+== Health effects ==
+{{Main|Hydrofluoric acid}}
+[[File:HF burned hands.jpg|thumb|250px|alt=left and right hands, two views, burned index fingers|HF burns, not evident until a day after]]
+Upon contact with moisture, including tissue, hydrogen fluoride immediately converts to [[hydrofluoric acid]], which is highly corrosive and toxic, and requires immediate medical attention upon exposure.
+
+==References==
+{{Reflist|35em}}
+
+==External links==
+{{commons category|Hydrogen fluoride}}
+*[http://www.atsdr.cdc.gov/MHMI/mmg11.html "[[ATSDR]] – MMG: Hydrogen Fluoride"]. Retrieved May 14, 2006
+
+{{Hydrogen compounds}}
+
+[[Category:Fluorides]]
+[[Category:Nonmetal halides]]
+[[Category:Hydrogen compounds]]
+[[Category:Hazardous air pollutants]]
+[[Category:Inorganic solvents]]

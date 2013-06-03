@@ -1,0 +1,97 @@
+'''Publication bias''' is a bias with regard to what is likely to be published, among what is available to be published.  Not all bias is inherently problematic – for instance, a bias against publishing lies is often a desirable bias – but one problematic and much-discussed bias is the tendency of [[research]]ers, editors, and pharmaceutical companies to handle the reporting of experimental results that are ''positive'' (i.e. showing a [[Statistical significance|significant]] finding) differently from results that are ''[[null result|negative]]'' (i.e. supporting the [[null hypothesis]]) or inconclusive, leading to a misleading bias in the overall published literature.<ref name="Song2010">{{cite pmid|20181324}}</ref> This is usually a bias towards reporting significant results, despite the fact that studies with significant results do not appear to be superior to studies with a null result with respect to quality of design.<ref name=Easterbrook>{{cite journal |last=Easterbrook |first=P. J. |last2=Berlin |first2=J. A. |last3=Gopalan |first3=R. |last4=Matthews |first4=D. R. |title=Publication bias in clinical research |journal=[[Lancet (journal)|Lancet]] |year=1991 |volume=337 |issue=8746 |pages=867–872 |doi=10.1016/0140-6736(91)90201-Y |pmid=1672966}}</ref> It has been found that statistically significant results are three times more likely to be published than papers affirming a null result.<ref>{{cite journal |last=Dickersin |first=K. |last2=Chan |first2=S. |last3=Chalmers |first3=T. C. |last4=''et al.'' |title=Publication bias and clinical trials |journal=Controlled Clin Trials |year=1987 |volume=8 |issue=4 |pages=343–353 |doi=10.1016/0197-2456(87)90155-3 }}</ref> It also has been found that the most common reason for non-publication is [[Non-response bias|an investigator's declining to submit results for publication]] (because of the investigator's loss of interest in the topic, the investigator's anticipation that others will not be interested in null results, etc.), a finding that underlines researchers’ role in publication bias phenomena.<ref name=Easterbrook></ref>
+
+In an effort to decrease this problem, some prominent [[medical journal]]s require registration of a trial before it commences so that unfavorable results are not withheld from publication. Several such [[Clinical trials registry|registries]] exist, but researchers are often unaware of them. In addition, attempts to identify unpublished studies have proved very difficult and often unsatisfactory. Another strategy suggested by a meta-analysis is caution in the use of small and non-randomised clinical trials because of their demonstrated high susceptibility to error and bias.<ref name=Easterbrook></ref>
+
+==Definition==
+According to one publication:
+
+{{quote|Publication bias occurs when the publication of research results depends on their nature and direction.<ref>{{Cite journal |author=K. Dickersin |title=The existence of publication bias and risk factors for its occurrence |journal=[[JAMA (journal)|JAMA]] |year=1990 |month=March |volume=263 |issue=10 |pages=1385–1359 |pmid=2406472 |doi=10.1001/jama.263.10.1385}}</ref>}}
+
+Positive results bias, a type of publication bias, occurs when authors are more likely to submit, or editors accept, positive than null (negative or inconclusive) results.<ref>{{Cite journal |author=D.L. Sackett |title=Bias in analytic research |journal=[[Journal of Chronic Diseases|J Chronic Dis]] |year=1979 |volume=32 |issue=1–2 |pmid=447779 |pages=51–63 |doi=10.1016/0021-9681(79)90012-2}}</ref> A related term, "the file drawer problem", refers to the tendency for negative or inconclusive results to remain unpublished by their authors.<ref name=Rosenthal_1979>{{Cite journal |author=Robert Rosenthal |authorlink=Robert Rosenthal (psychologist) |title=The file drawer problem and tolerance for null results |journal=[[Psychological Bulletin]] |year=1979 |month=May |volume=86 |issue=3 |pages=638–641 |url=http://content.apa.org/journals/bul/86/3/638 |doi=10.1037/0033-2909.86.3.638}}</ref>
+
+Outcome reporting bias occurs when several outcomes within a trial are measured but are reported selectively depending on the strength and direction of those results. A related term that has been coined is HARKing ('''H'''ypothesizing '''A'''fter the '''R'''esults are '''K'''nown).<ref>{{Cite journal |author=N.L. Kerr |title=HARKing: Hypothesizing After the Results are Known |journal=[[Personality and Social Psychology Review]] |year=1998 |volume=2 |issue=3 |pages=196–217 |url=http://direct.bl.uk/bld/PlaceOrder.do?UIN=048343521&ETOC=RN&from=searchengine |doi=10.1207/s15327957pspr0203_4 |pmid=15647155}}</ref>
+
+==File drawer effect==
+The file drawer effect, or file drawer problem, is that many studies in a given area of [[research]] may be conducted but never reported, and those that are not reported may on average report different results from those that are reported. An extreme scenario is that a given [[null hypothesis]] of interest is in fact true, i.e. the association being studied does not exist, but the 5% of studies that by chance show a [[statistical significance|statistically significant]] result are published, while the remaining 95% where the null hypothesis was not rejected languish in researchers' file drawers. Even a small number of studies lost "in the file drawer" can result in a significant bias.<ref>{{Cite journal |author=Jeffrey D. Scargle |title=Publication bias: the "file-drawer problem" in scientific inference |url= http://www.scientificexploration.org/journal/jse_14_1_scargle.pdf |journal=[[Journal of Scientific Exploration]] |volume=14 |issue=2 |pages=94–106 |year=2000}}</ref> The term "file drawer problem" was coined by the psychologist [[Robert Rosenthal (psychologist)|Robert Rosenthal]] in 1979.<ref name=Rosenthal_1979/>
+
+==Effect on meta-analysis==
+The effect of this is that published studies may not be truly representative of all valid studies undertaken, and this [[bias]] may distort [[meta-analysis|meta-analyses]] and [[systematic review]]s of large numbers of studies—on which [[evidence-based medicine]], for example, increasingly relies. The problem may be particularly significant when the research is sponsored by entities that may have a financial or ideological interest in achieving favorable results.
+
+Those undertaking meta-analyses and systematic reviews need to take account of publication bias in the methods they use for identifying the studies to include in the review. Among other techniques to minimize the effects of publication bias, they may need to perform a thorough search for unpublished studies, and to use such analytical tools as a Begg's [[funnel plot]] or Egger's plot to quantify the potential presence of publication bias. Tests for publications bias rely on the underlying theory that small studies with small sample size (and large variance) would be more prone to publication bias, while large-scale studies would be less likely to escape public knowledge and more likely to be published regardless of significance of findings. Thus, when overall estimates are plotted against the variance (sample size), a symmetrical funnel is usually formed in the absence of publication bias, while a skewed asymmetrical funnel is observed in presence of potential publication bias.
+
+Extending the funnel plot, the "trim and fill" method has also been suggested as a method to infer the existence of unpublished hidden studies as determined from a funnel plot, and subsequently correct the meta-analysis by imputing the presence of missing studies to yield an unbiased pooled estimate.
+
+==Examples==
+
+The antidepressant Reboxetine provides an example of experimental bias in clinical trials. It was originally passed as effective for treatment of depression in many countries in Europe in the UK in 2001 (though in practise it is rarely used). It was later (in 2010) found to be ineffective due to publication bias in the original trials published by the drug manufacturer Pfizer. A later (2011) meta analysis of the original data found flaws in the 2010 meta analysis and suggests that it can be effective after all, in severe cases of depression. See [[Reboxetine#Efficacy | Reboxetine - Efficacy]]. Whatever the final outcome for Reboxetine, the original trials show a clear case of publication bias. More examples like this in Ben Goldacre's Ted Talk <ref>Ben Goldacre [http://www.ted.com/talks/ben_goldacre_what_doctors_don_t_know_about_the_drugs_they_prescribe.html What doctors don't know about the drugs they prescribe]</ref>
+
+In the social sciences, a study looks at published papers on the relationship between Corporate Social and Financial Performance, and found that "In economics, finance, and accounting journals, the 
+average correlations were only about half the magnitude of the findings published in Social 
+Issues Management, Business Ethics, or Business and Society journals" <ref>Marc Orlitzky [http://marcorlitzky.webs.com/Papers/Orlitzky2011beq_preprint.pdf Institutional Logics in the Study of Organizations: The Social Construction of the Relationship between Corporate Social and Financial Performance]</ref>
+
+Publication bias is often cited in investigations of papers on the Paranormal. A recent example is a paper by Daryl Bern, which showed evidence of short term pre-cognition. Negative results by other researchers that attempted to duplicate his work were not published in the journals that published the original results.<ref>Ben Goldacre [http://www.guardian.co.uk/commentisfree/2011/apr/23/ben-goldacre-bad-science Backwards step on looking into the future] The Guardian, Saturday 23 April 2011</ref>
+
+One study<ref>[[Zhenglun Pan]], Thomas A. Trikalinos, Fotini K. Kavvoura, Joseph Lau, [[John P.A. Ioannidis]], "[http://dx.doi.org/10.1371/journal.pmed.0020334 Local literature bias in genetic epidemiology: An empirical evaluation of the Chinese literature]". ''[[PLoS Medicine]]'', '''2'''(12):e334, 2005 December.</ref> compared Chinese and non-Chinese studies of gene-disease associations and found that "Chinese studies in general reported a stronger gene-disease association and more frequently a statistically significant result".<ref>[[Jin Ling Tang]], "[http://dx.doi.org/10.1371/journal.pmed.0020409 Selection Bias in Meta-Analyses of Gene-Disease Associations]", ''[[PLoS Medicine]]'', '''2'''(12):e409, 2005 December.</ref> One possible interpretation of this result is selective publication (publication bias).
+
+==Risks==
+According to [[John P. A. Ioannidis|John Ioannidis]], negative papers are most likely to be suppressed when:<ref name="pmid16060722">{{cite journal |author=Ioannidis J |authorlink=John P. A. Ioannidis |title=Why most published research findings are false |journal=PLoS Med |volume=2 |issue=8 |page=e124 |year=2005 |pmid=16060722 |doi=10.1371/journal.pmed.0020124 |pmc=1182327}}</ref>
+# the studies conducted in a field are smaller
+# effect sizes are smaller
+# there is a greater number and lesser preselection of tested relationships
+# there is greater flexibility in designs, definitions, outcomes, and analytical modes
+# there is greater financial and other interest and prejudice
+# more teams are involved in a scientific field in chase of statistical significance.
+
+Ioannidis further asserts that "claimed research findings may often be simply accurate measures of the prevailing bias".
+
+==Remedies==
+Ioannidis' remedies include:
+# Better powered studies
+#* Low-bias [[meta-analysis]]
+#* Large studies where they can be expected to give very definitive results or test major, general concepts
+# Enhanced research standards including
+#* Pre-registration of protocols (as for randomized trials)
+#* Registration or networking of data collections within fields (as in fields where researchers are expected to generate hypotheses after collecting data)
+#* Adopting from randomized controlled trials the principles of developing and adhering to a protocol.
+# Considering, before running an experiment, what they believe the chances are that they are testing a true or non-true relationship.
+#* Properly assessing the false positive report probability based on the statistical power of the test<ref name="FalsePositiveProbability">{{cite journal |title=Assessing the Probability That a Positive Report is False: An Approach for Molecular Epidemiology Studies |url=http://jnci.oxfordjournals.org/cgi/content/full/96/6/434 |date=March 2004 |volume=96 |issue=6 |pages=434–42 |doi=10.1093/jnci/djh075 |author= Wacholder, S. |journal=[[JNCI]] |pmid=15026468 |last2=Chanock |first2=S |last3=Garcia-Closas |first3=M |last4=El Ghormli |first4=L |last5=Rothman |first5=N}}</ref>
+#* Reconfirming (whenever ethically acceptable) established findings of "classic" studies, using large studies designed with minimal bias
+
+==Study registration==
+In September 2004, editors of several prominent medical journals (including the ''[[New England Journal of Medicine]]'', ''[[The Lancet]]'', ''[[Annals of Internal Medicine]]'', and ''[[Journal of the American Medical Association|JAMA]]'') announced that they would no longer publish results of drug research sponsored by pharmaceutical companies unless that research was registered in a public database from the start.<ref>{{Cite news |author=([[The Washington Post]]) |url=http://www.smh.com.au/articles/2004/09/09/1094530773888.html |title=Medical journal editors take hard line on drug research |publisher=[[smh.com.au]] |date=2004-09-10 |accessdate=2008-02-03}}</ref> Furthermore, some journals, e.g. ''[[Trials (journal)|Trials]]'', encourage publication of [[clinical trial protocol|study protocols]] in their journals.<ref name="Protocol">{{cite web |url=http://www.trialsjournal.com/info/instructions/?txt_jou_id=10096&txt_mst_id=61789 |title=Instructions for Trials authors&nbsp;— Study protocol |date=2009-02-15}}</ref>
+
+==See also==
+{{Portal|Psychology}}
+<div style="-moz-column-count:2;">
+* [[Adversarial collaboration]]
+* [[Confirmation bias]]
+* [[Counternull]]
+* [[Funding bias]]
+* [[FUTON bias]]
+* [[Journal of Negative Results in Biomedicine]]
+* [[List of cognitive biases]]
+* [[Parapsychology]]
+* [[Peer review]]
+* [[Reporting bias]]
+* [[Selection bias]]
+* [[Trialome]]
+</div>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.newyorker.com/reporting/2010/12/13/101213fa_fact_lehrer The Truth Wears Off: Is there something wrong with the scientific method? -- Jonah Lehrer]
+* [http://www.clinicaltrials.gov/ Register of clinical trials conducted in the US and around the world, maintained by the National Library of Medicine, Bethesda]
+* [http://skepdic.com/posoutbias.html Skeptic's Dictionary: positive outcome bias].
+* [http://skepdic.com/filedrawer.html Skeptic's Dictionary: file-drawer effect].
+* [http://www.jnrbm.com/ Journal of Negative Results in Biomedicine]
+* [http://www.arjournals.com/ The All Results Journals]
+* [http://www.jasnh.com/ Journal of Articles in Support of the Null Hypothesis]
+* [http://www.newyorker.com/reporting/2010/12/13/101213fa_fact_lehrer?currentPage=all Article on 'the decline effect' and the role of publication bias in that]
+* [http://psychfiledrawer.org/ Psychfiledrawer.org: Archive for replication attempts in experimental psychology]
+{{Biases}}
+[[Category:Cognitive biases]]
+[[Category:Academic publishing]]
+[[Category:Research methods]]
+[[Category:Systematic review]]

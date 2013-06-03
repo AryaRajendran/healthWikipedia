@@ -1,0 +1,93 @@
+'''Tumor antigen''' is an [[antigen]]ic substance produced in [[tumor]] [[Cell (biology)|cells]], i.e., it triggers an [[immune response]] in the [[Host (biology)|host]]. Tumor antigens are useful in identifying tumor cells and are potential candidates for use in [[cancer therapy]].
+
+== Mechanism of tumor antigenesis==
+Normal [[protein]]s in the body are not antigenic because of [[self-tolerance]], a process in which self-reacting cytotoxic [[T lymphocyte]]s (CTLs) and [[autoantibody]]-producing [[B lymphocytes]] are culled "centrally" in primary lymphatic tissue (BM) and "peripherally" in secondary lymphatic tissue (mostly [[thymus]] for T-cells and [[spleen]]/lymph nodes for B cells). Thus any protein that is not exposed to the [[immune system]] triggers an immune response. This may include normal proteins that are well sequestered from the immune system, proteins that are normally produced in extremely small quantities, proteins that are normally produced only in certain stages of development, or proteins whose structure is modified due to mutation.
+
+== Classification of tumor antigens ==
+
+Initially they were broadly classified into two categories based on their pattern of expression: '''Tumor-Specific Antigens''' (TSA), which are present only on tumor cells and not on any other cell and '''Tumor-Associated Antigens''' (TAA), which are present on some tumor cells and also some normal cells.
+
+This classification, however,is imperfect because many antigens thought to be ''tumor-specific'' turned out to be expressed on some normal cells as well. The modern classification of tumor antigens is based on their molecular structure and source.
+
+Accordingly they can be classified as;{{Citation needed|date=June 2010}}
+
+* Products of Mutated Oncogenes and Tumor Suppressor Genes 
+*Products of Other Mutated Genes
+** Overexpressed or Aberrantly Expressed Cellular Proteins
+** Tumor Antigens Produced by Oncogenic Viruses
+** Oncofetal Antigens
+** Altered Cell Surface Glycolipids and Glycoproteins
+** Cell Type-Specific Differentiation Antigens
+
+=== Types ===
+
+Any protein produced in a tumor cell that has an abnormal structure due to [[mutation]] can act as a tumor antigen. Such abnormal proteins are produced due to mutation of the concerned [[gene]]. Mutation of [[protooncogene]]s and [[tumor suppressor]]s which lead to abnormal protein production are the cause of the tumor and thus such abnormal proteins are called '''tumor-specific antigens'''. Examples of tumor-specific antigens include the abnormal products of [[Ras subfamily|ras]] and [[p53]] genes. In contrast, mutation of other genes unrelated to the tumor formation may lead to synthesis of abnormal proteins which are called '''tumor-associated antigens'''.
+
+Proteins that are normally produced in very low quantities but whose production is dramatically increased in tumor cells, trigger an immune response. An example of such a protein is the [[enzyme]] [[tyrosinase]], which is required for [[melanin]] production. Normally tyrosinase is produced in minute quantities but its levels are very much elevated in [[melanoma]] cells.
+
+[[Oncofetal antigen]]s are another important class of tumor antigens. Examples are [[alphafetoprotein]] (AFP) and [[carcinoembryonic antigen]] (CEA). These proteins are normally produced in the early stages of embryonic development and disappear by the time the immune system is fully developed. Thus self-tolerance does not develop against these antigens.
+
+Abnormal proteins are also produced by cells infected with [[oncovirus]]es, e.g. [[EBV]] and [[HPV]]. Cells infected by these viruses contain latent viral [[DNA]] which is [[Transcription (genetics)|transcribed]] and the resulting protein produces an immune response.
+
+In addition to proteins, other substances like cell surface [[glycolipid]]s and [[glycoprotein]]s may also have an abnormal structure in tumor cells and could thus be targets of the immune system.
+
+== Importance of tumor antigens ==
+
+Tumor antigens, because of their relative abundance in tumor cells are useful in identifying specific tumor cells. Certain tumors have certain tumor antigens in abundance.
+
+{| class="wikitable"
+|-
+! Tumor antigen
+! Tumor in which it is found
+! Remarks
+|-
+| [[Alphafetoprotein]] (AFP)
+| [[Germ cell tumor]]s 
+
+[[Hepatocellular carcinoma]]
+|
+|-
+| [[Carcinoembryonic antigen]] (CEA)
+| [[bowel cancer]]s
+| Occasional lung or breast cancer
+|-
+| [[CA-125]]
+| [[Ovarian cancer]]
+|
+|-
+| [[MUC1|MUC-1]]
+| [[breast cancer]]
+|
+|-
+| [[Epithelial tumor antigen]] (ETA)
+| [[Breast cancer]]
+|
+|-
+| [[Tyrosinase]]
+| [[Malignant melanoma]]
+| normally present in minute quantities; greatly elevated levels in melanoma
+|-
+| Melanoma-associated antigen (MAGE)
+| [[malignant melanoma]]
+| Also normally present in the [[testis]]
+|-
+| abnormal products of [[Ras subfamily|ras]], [[p53]]
+| Various tumors
+|
+|}
+
+Certain tumor antigens are thus used as [[tumor marker]]s. More importantly, tumor antigens can be used in cancer therapy as [[cancer vaccine|tumor antigen vaccines]].<ref>M Hareuveni, C Gautier, M Kieny, D Wreschner, P Chambon and R Lathe; [http://www.pnas.org/cgi/content/abstract/87/23/9498 Vaccination Against Tumor Cells Expressing Breast Cancer Epithelial Tumor Antigen]; ''Proceedings of the National Academy of Sciences'', Vol 87, 9498-9502, 1990.</ref>
+
+== See also ==
+* [[Cancer immunotherapy]]
+
+== References ==
+{{Reflist}}
+* Kumar, Abbas, Fausto; ''Robbins and Cotran: Pathologic Basis of Disease''; Elsevier, 7th ed.
+* Coulie PG, Hanagiri T, Takanoyama M: From Tumor Antigens to Immunotherapy. Int J Clin Oncol 6:163, 2001.
+
+== External links ==
+* [http://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=tumor,antigen&rid=cmed6.chapter.3617 Chapter on tumor antigens in Cancer Medicine at NCBI]
+
+[[Category:Oncology]]
+[[Category:Tumor markers]]

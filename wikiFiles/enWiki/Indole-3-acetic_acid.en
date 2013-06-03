@@ -1,0 +1,86 @@
+{{chembox
+| verifiedrevid = 443872882
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageFile=Indol-3-ylacetic acid.svg
+|ImageSize=200px
+|IUPACName=2-(1''H''-indol-3-yl)acetic acid
+|OtherNames=Indole-3-acetic acid,<br>indolylacetic acid,<br>1H-Indole-3-acetic acid,<br>indoleacetic acid,<br>heteroauxin,<br>IAA
+|Section1= {{Chembox Identifiers
+|  KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C00954
+| InChI = 1/C10H9NO2/c12-10(13)5-7-6-11-9-4-2-1-3-8(7)9/h1-4,6,11H,5H2,(H,12,13)
+| InChIKey = SEOVTRFCIGRIMH-UHFFFAOYAT
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 82411
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H9NO2/c12-10(13)5-7-6-11-9-4-2-1-3-8(7)9/h1-4,6,11H,5H2,(H,12,13)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SEOVTRFCIGRIMH-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo=87-51-4
+|  PubChem=802
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 780
+|  DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB07950
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 16411
+| SMILES = O=C(O)Cc2c1ccccc1nc2
+}}
+|Section2= {{Chembox Properties
+|  Formula=C<sub>10</sub>H<sub>9</sub>NO<sub>2</sub>
+|  MolarMass=175.184
+|  Appearance=white solid
+|  Density=
+|  MeltingPt=168-170 °C (441-443 K)
+|  BoilingPt=
+|  Solubility=moderate
+  }}
+|Section3= {{Chembox Hazards
+|  MainHazards=
+|  FlashPt=
+|  Autoignition=
+  }}
+}}
+
+'''Indole-3-acetic acid''' ('''IAA''') is the most common, naturally-occurring, [[plant hormone]] of the [[auxin]] class. It is the best known of the auxins, and has been the subject of extensive studies by plant physiologists.<ref name="simon">{{cite journal |doi=10.1016/j.plantsci.2010.12.007 |title=Why plants need more than one type of auxin |year=2011 |last1=Simon |first1=Sibu |last2=Petrášek |first2=Jan |journal=Plant Science |volume=180 |issue=3 |pages=454–60 |pmid=21421392}}</ref> Chemically, IAA is a [[carboxylic acid]] in which the [[carboxyl group]] is attached through a [[methylene group]] to the C-3 position of an [[indole]] ring. In appearance, IAA is a colorless solid.
+
+==Biosynthesis and biological activity==
+{{Main|Auxin}}
+IAA is predominantly produced in cells of the apex ([[bud]]) and very young leaves of a [[plant]]. Plants can synthesize IAA by several independent biosynthetic pathways.  Four of them start from [[tryptophan]], but there is also a biosynthetic pathway independent of tryptophan.<ref name="Zhao 2010">{{cite journal |doi=10.1146/annurev-arplant-042809-112308 |title=Auxin Biosynthesis and Its Role in Plant Development |year=2010 |last1=Zhao |first1=Yunde |journal=Annual Review of Plant Biology |volume=61 |pages=49–64 |pmid=20192736 |pmc=3070418}}</ref>  Plants mainly produce IAA from tryptophan through indole-3-pyruvic acid.<ref>{{cite journal |bibcode=2011PNAS..10818512M |title=The main auxin biosynthesis pathway in Arabidopsis |last1=Mashiguchi |first1=Kiyoshi |last2=Tanaka |first2=Keita |last3=Sakai |first3=Tatsuya |last4=Sugawara |first4=Satoko |last5=Kawaide |first5=Hiroshi |last6=Natsume |first6=Masahiro |last7=Hanada |first7=Atsushi |last8=Yaeno |first8=Takashi |last9=Shirasu |first9=Ken |volume=108 |year=2011 |pages=18512–7 |journal=Proceedings of the National Academy of Sciences |doi=10.1073/pnas.1108434108 |issue=45 |pmid=22025724 |pmc=3215075}}</ref><ref>{{cite journal |bibcode=2011PNAS..10818518W |title=Conversion of tryptophan to indole-3-acetic acid by TRYPTOPHAN AMINOTRANSFERASES OF ARABIDOPSIS and YUCCAs in Arabidopsis |last1=Won |first1=Christina |last2=Shen |first2=Xiangling |last3=Mashiguchi |first3=Kiyoshi |last4=Zheng |first4=Zuyu |last5=Dai |first5=Xinhua |last6=Cheng |first6=Youfa |last7=Kasahara |first7=Hiroyuki |last8=Kamiya |first8=Yuji |last9=Chory |first9=Joanne |volume=108 |year=2011 |pages=18518–23 |journal=Proceedings of the National Academy of Sciences |doi=10.1073/pnas.1108436108 |issue=45 |pmid=22025721 |pmc=3215067}}</ref> IAA is also produced from tryptophan through indole-3-acetaldoxime in Arabidopsis.<ref>{{cite journal |bibcode=2009PNAS..106.5430S |title=Biochemical analyses of indole-3-acetaldoxime-dependent auxin biosynthesis in Arabidopsis |last1=Sugawara |first1=Satoko |last2=Hishiyama |first2=Shojiro |last3=Jikumaru |first3=Yusuke |last4=Hanada |first4=Atsushi |last5=Nishimura |first5=Takeshi |last6=Koshiba |first6=Tomokazu |last7=Zhao |first7=Yunde |last8=Kamiya |first8=Yuji |last9=Kasahara |first9=Hiroyuki |volume=106 |year=2009 |pages=5430–5 |journal=Proceedings of the National Academy of Sciences |doi=10.1073/pnas.0811226106 |issue=13 |pmid=19279202 |jstor=40455212 |pmc=2664063}}</ref>
+
+IAA has many different effects, as all auxins do, such as inducing [[Cell (biology)|cell]] elongation and [[cell division]] with all subsequent results for plant growth and development. On a larger scale, IAA serves as signaling molecule necessary for development of plant organs and coordination of growth.
+
+There are less expensive and [[metabolism|metabolically]] stable synthetic [[auxin]] analogs on the market for use in [[horticulture]], such as [[indole-3-butyric acid]] (IBA) and [[1-Naphthaleneacetic acid|1-naphthaleneacetic acid]] (NAA).{{Citation needed|date=October 2009}}
+
+Studies of IAA in the 1940s led to the development of the [[phenoxy herbicide]]s [[2,4-dichlorophenoxyacetic acid]] (2,4-D) and [[2,4,5-trichlorophenoxyacetic acid]] (2,4,5-T). Like IBA and NAA, 2,4-D and 2,4,5-T are metabolically and environmentally more stable analogs of IAA. However, when sprayed on broad-leaf dicot plants, they induce rapid, uncontrolled growth, eventually killing them. First introduced in 1946, these herbicides were in widespread use in [[agriculture]] by the middle of the 1950s.{{fact|date=April 2013}}
+
+==Synthesis==
+Chemically, it can be synthesized by the reaction of [[indole]] with [[glycolic acid]] in the presence of base at 250 °C:<ref>{{ OrgSynth | author = Johnson, Herbert E.; Crosby, Donald G. | title = Indole-3-acetic Acid | volume = 44 | pages = 64 | collvol = 5 | collvolpages = 654 | year = 1964 | prep = CV5P0654 }}</ref>
+
+
+:[[File:Synthesis of indole-3-acetic acid.png|450px]]
+
+Many methods for its synthesis have been developed since its original synthesis from indole-3-acetonitrile.<ref>{{cite journal |doi=10.1002/cber.19250580917 |title=Synthetische Versuche in der Indol-Gruppe, VI.: Eine neue Synthese von β-Indolyl-alkylaminen |year=1925 |last1=Majima |first1=Rikō |last2=Hoshino |first2=Toshio |journal=Berichte der deutschen chemischen Gesellschaft (A and B Series) |volume=58 |issue=9 |pages=2042–6}}</ref>
+
+==Toxicity==
+IAA doesn’t have any toxic concerns to humans. It is advised to wear gloves when working with it and to always wear glasses goggles or a face shield to avoided contact to the eye. All bottles are to have a category II label on them for primary eye irritant.  It is advised that if IAA does make contact with your eye to wash it out with water and to then contact your doctor.<ref>{{cite web |url=http://www.epa.gov/oppsrrd1/REDs/factsheets/2330fact.pdf |title=Indole-3-Butyric Acid: Reregistration Eligibility Decision (RED) Fact Sheet |publisher=[[United States Environmental Protection Agency]] |month=August |year=1992}}</ref>
+
+==Other uses==
+
+===Affects on embryonic mice===
+Studies have been done on mice to see if IAA and similar chemicals have been used in studies to see what affects they have on the development of the cerebral cortex of mice in the early stages of the fetuses.  They found that it decreased the locomotor activities of the embryos/fetuses. They also observed that in their study with just IAA that there was a notable drop in brain sizes compared to the other considerations that they used.<ref>{{cite journal |doi=10.2131/jts.30.165 |title=Effect of Indole-3-Acetic Acid Derivatives on Neuroepithelium in Rat Embryos |year=2005 |last1=Furukawa |first1=Satoshi |last2=Usuda |first2=Koji |last3=Abe |first3=Masayoshi |last4=Ogawa |first4=Izumi |journal=The Journal of Toxicological Sciences |volume=30 |issue=3 |pages=165–74 |pmid=16141651}}</ref>
+
+===Cancer===
+Indole-3-acetic acid (IAA) and horseradish peroxidase (HRP) have been proposed on the basis of polymer transfer and gene-direction, they may be useful in cancer therapy. Radical-IAA IAA in the human body will attach to cells with that characterized by HRP. By this means the HRP reaction cells can be selectively killed. But because of the competitive bonding of the IAA-HRP more studies must be done before clinical studies can begin.<ref>{{cite journal |doi=10.1016/S0306-9877(03)00012-4 |title=Possible use of indole-3-acetic acid and its antagonist tryptophan betaine in controlled killing of horseradish peroxidase-labeled human cells |year=2003 |last1=Kawano |first1=T |journal=Medical Hypotheses |volume=60 |issue=5 |pages=664–6 |pmid=12710900}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Commonscat|Indole acetic acid}}
+{{Plant hormones}}
+
+[[Category:Auxins]]
+[[Category:Plant physiology]]
+[[Category:Acetic acids]]
+[[Category:Indoles]]

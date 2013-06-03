@@ -1,0 +1,67 @@
+{{for|the diffusion law|Fick's law of diffusion}}
+Developed by [[Adolf Eugen Fick]] (1829 - 1901), the '''Fick principle''' has been applied to the measurement of [[cardiac output]]. Its underlying principles may also be applied in a variety of clinical situations.
+
+The essence of the Fick principle is that blood flow to an organ can be calculated using a marker substance if the following information is known:
+*Amount of marker substance taken up by the organ per unit time
+*Concentration of marker substance in arterial blood supplying the organ
+*Concentration of marker substance in venous blood leaving the organ
+
+In Fick's original method, the "organ" was the entire human body and the marker substance was oxygen.
+
+The principle may be applied in different ways. For example, if the blood flow to an organ is known, together with the arterial and venous concentrations of the marker substance, the uptake of marker substance by the organ may then be calculated.
+
+==Variables==
+In Fick's original method, the following variables are measured:<ref>{{GeorgiaPhysiology|3/3ch5/s3ch5_3}} - "Indirect Measurement of Cardiac Output"</ref>
+*VO<sub>2</sub>, oxygen consumption in ml of pure gaseous oxygen per minute. This may be measured using a [[spirometer]] within a closed rebreathing circuit incorporating a [[carbon dioxide|CO<sub>2</sub>]] absorber
+*Cv, the oxygen concentration of blood taken from the [[pulmonary artery]] (representing deoxygenated blood)
+*Ca, the oxygen concentration of blood from a cannula in a peripheral artery (representing oxygenated blood)
+
+==Equation==
+From these values, we know that: 
+:<math>VO_2 = (CO \times\ C_a) - (CO \times\ C_v)</math>
+where CO = Cardiac Output, C<sub>a</sub> = Oxygen concentration of arterial blood and C<sub>v</sub> = Oxygen concentration of mixed venous blood. 
+
+This allows us to say
+:<math>CO = \frac{VO_2}{C_a - C_v}</math>
+and hence calculate cardiac output.
+
+Note that ''(C<sub>a</sub> – C<sub>v</sub>)'' is also known as the [[arteriovenous oxygen difference]].<ref name=avo2diff-jrank>{{cite web|title=Arteriovenous oxygen difference|url=http://sports.jrank.org/pages/5973/arteriovenous-oxygen-difference.html|work=Sports Medicine, Sports Science and Kinesiology |publisher=Net Industries and its Licensors|accessdate=30 April 2011|year=2011}}</ref>
+
+==Assumed Fick determination==
+In reality, this method is rarely used due to the difficulty of collecting and analysing the gas concentrations.  However, by using an assumed value for oxygen consumption, cardiac output can be closely approximated without the cumbersome and time-consuming oxygen consumption measurement.  This is sometimes called an assumed Fick determination.  
+
+A commonly-used value for O<sub>2</sub> consumption at rest is 125ml O<sub>2</sub> per minute per square meter of [[body surface area]].
+
+==Underlying principles==
+The Fick principle relies on the observation that the total uptake of (or release of) a substance by the peripheral tissues is equal to the product of the blood flow to the peripheral tissues and the arterial-venous concentration difference (gradient) of the substance. In the determination of cardiac output, the substance most commonly measured is the [[oxygen]] content of [[blood]] thus giving the arteriovenous oxygen difference, and the flow calculated is the flow across the pulmonary system.  This gives a simple way to calculate the cardiac output:
+
+:<math> \text{Cardiac Output} = \frac {\text{oxygen consumption}} {\text{arteriovenous oxygen difference}} \times 100</math>
+
+Assuming there is no intracardiac shunt, the pulmonary blood flow equals the systemic blood flow.  Measurement of the arterial and venous oxygen content of blood involves the sampling of blood from the pulmonary artery (low oxygen content) and from the pulmonary vein (high oxygen content).  In practice, sampling of peripheral arterial blood is a surrogate for pulmonary venous blood. Determination of the oxygen consumption of the peripheral tissues is more complex.
+
+The calculation of the arterial and venous oxygen concentration of the blood is a straightforward process.  Almost all oxygen in the blood is bound to [[hemoglobin]] [[molecule]]s in the [[red blood cell]]s.  Measuring the content of hemoglobin in the blood and the percentage of saturation of hemoglobin (the oxygen saturation of the blood) is a simple process and is readily available to physicians.  Using the fact that each [[gram]] of hemoglobin can carry 1.36&nbsp;ml of [[oxygen|O<sub>2</sub>]], the oxygen content of the blood (either arterial or venous) can be estimated by the following formula:
+
+:<math> \text{Oxygen Content of blood} = \left [\text{Hb} \right] \left ( \text{g/dl} \right ) \ \times\ 1.36 \left ( \text{ml}\ O_2 /\text{g of Hb} \right ) \times\ O_2^{\text{saturation fraction}}  +\ 0.0032\ \times\ P_{O_2} (\text{torr}) </math>
+
+Assuming a hemoglobin concentration of 15&nbsp;g/dl and an oxygen saturation of 99%, the oxygen concentration of arterial blood is approximately 200&nbsp;ml of O<sub>2</sub> per litre.
+
+The saturation of mixed venous blood is approximately 75% in health. Using this value in the above equation, the oxygen concentration of mixed venous blood is approximately 150&nbsp;ml of O<sub>2</sub> per litre.
+
+Cardiac output may also be estimated with the Fick principle using production of [[carbon dioxide]] as a marker substance.<ref>{{cite journal|last=Cuschieri|first=J|coauthors=Rivers, EP; Donnino, MW; Katilius, M; Jacobsen, G; Nguyen, HB; Pamukov, N; Horst, HM|title=Central venous-arterial carbon dioxide difference as an indicator of cardiac index.|journal=Intensive care medicine|date=2005 Jun|year=2005|volume=31|issue=6|pages=818–22|pmid=15803301|url=http://www.ncbi.nlm.nih.gov/pubmed/15803301}}</ref>
+
+==Use in renal physiology==
+The principle can also be used in [[renal physiology]] to calculate [[renal blood flow]].<ref>{{GeorgiaPhysiology|7/7ch04/7ch04p27}} - "Measuring Renal Blood Flow: Fick Principle"</ref>
+
+In this context, it is not oxygen which is measured, but a marker such as [[para-aminohippurate]]. However, the principles are essentially the same.
+
+==References==
+<references/>
+
+==External links==
+* [http://www.cvphysiology.com/CAD/CAD003.htm Overview at cvphysiology.com]
+* [http://physiology.umc.edu/themodelingworkshop/Modeling%20Tutorial/Physiology%20Concepts/Physiology%20Concepts.HTML Overview at umc.edu]
+
+{{Anesthesia}}
+
+[[Category:Cardiology]]
+[[Category:Anesthesia]]

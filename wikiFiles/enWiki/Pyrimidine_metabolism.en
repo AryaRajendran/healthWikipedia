@@ -1,0 +1,52 @@
+{{more footnotes|date=August 2008}}
+'''Pyrimidine biosynthesis''' occurs both in the body and through organic synthesis.
+
+==''De novo'' biosynthesis of pyrimidine ==
+{|
+ |- 
+ |  [[carbamoyl phosphate synthetase II]]<ref>{{cite web | title = Entrez Gene: [[Dihydroorotase|CAD carbamoyl-phosphate synthetase 2]], aspartate transcarbamylase, and dihydroorotase| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=790| accessdate = }}</ref> || [[carbamoyl phosphate]] || This is the regulated step in the pyrimidine biosynthesis. 
+ |- 
+ | aspartic transcarbamolyase ([[aspartate carbamoyl transferase]])<ref>{{cite web | title = Entrez Gene: CAD carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=790| accessdate = }}</ref> || [[carbamoyl aspartic acid]] || -
+ |- 
+ | [[dihhydroorotase]]<ref>{{cite web | title = Entrez Gene: CAD carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=790| accessdate = }}</ref> || [[dihydroorotate]] || Dehydration 
+ |- 
+ | [[dihydroorotate dehydrogenase]]<ref>{{cite web | title = Entrez Gene: DHODH dihydroorotate dehydrogenase| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=1723| accessdate = }}</ref> (the only mitochondrial enzyme) || [[orotate]] || Dihydroorotate then enters the [[mitochondria]] where it is oxidised through removal of hydrogens. This is the only mitochondrial step in nucleotide rings biosynthesis. 
+ |- 
+ | [[orotate phosphoribosyltransferase]]<ref>{{cite web | title = Entrez Gene: UMPS uridine monophosphate synthetase| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=7372| accessdate = }}</ref> || [[orotidine 5' -monophosphate|OMP]]  || [[PRPP]] is used.
+ |- 
+ | [[OMP decarboxylase]]<ref>{{cite web | title = Entrez Gene: UMPS uridine monophosphate synthetase| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=7372| accessdate = }}</ref> || [[Uridine monophosphate|UMP]] || Decarboxylation
+ |- 
+ | [[UCK2|uridine-cytidine kinase 2]]<ref>{{cite web | title = Entrez Gene: UCK2 uridine-cytidine kinase 2| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=7371| accessdate = }}</ref>  || [[Uridine diphosphate|UDP]] || Phosphorylation. ATP is used.
+ |- 
+ | [[nucleoside diphosphate kinase]] ||  [[uridine 5'-triphosphate|UTP]] || Phosphorylation. ATP is used.
+ |- 
+ |  [[CTP synthase]] ||  [[cytidine 5'triphosphate|CTP]] || [[Glutamine]] and ATP are used.
+|}
+
+The first three enzymes are all coded by the same gene in [[Metazoa]] ([[CAD (gene)|CAD]]). In [[Fungi]], a similar protein exists but lacks the dihydroorotase function: another protein catalyzes the second step.
+
+In other organisms ([[Bacteria]], [[Archaea]] and the other [[Eukaryota]]), the first three steps are done by three different enzymes.
+
+== Pyrimidine catabolism ==
+
+Pyrimidines are ultimately [[catabolism|catabolized]] (degraded) to [[carbon dioxide|CO<sub>2</sub>]], [[water (molecule)|H<sub>2</sub>O]], and [[urea]]. Cytosine can be broken down to [[uracil]] which can be further broken down to N-carbamoyl-β-alanine. Thymine is broken down into [[β-aminoisobutyrate]] which can be further broken down into intermediates eventually leading into the [[citric acid cycle]]. 
+
+β-aminoisobutyrate acts as a rough indicator for rate of DNA turnover.{PMID    4363656}
+
+==Pharmacotherapy==
+Modulating the pyrimidine metabolism pharmacologically has therapeutical uses.
+
+''Pyrimidine synthesis inhibitors'' are used in active moderate to severe [[rheumatoid arthritis]] and [[psoriatic arthritis]]. Examples include [[Leflunomide]] and [[Teriflunomide]].
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.chem.qmul.ac.uk/iubmb/enzyme/reaction/misc/pyrimid.html Overview] at [[Queen Mary, University of London]]
+
+{{MetabolismMap}}
+{{Protein metabolism}}
+{{Nucleotide metabolism}}
+
+[[Category:Pyrimidines]]
+[[Category:Metabolism]]

@@ -1,0 +1,558 @@
+{{ICD-10}}
+
+==F00–F99 – Mental and behavioural disorders==
+
+=== (F00–F09) Organic, including symptomatic, mental disorders ===
+* ({{ICD10|F|00||f|00}}) [[Dementia]] in [[Alzheimer's disease]]
+* ({{ICD10|F|01||f|00}}) [[Vascular dementia]]
+** ({{ICD10|F|01|1|f|00}}) [[Multi-infarct dementia]]
+* ({{ICD10|F|02||f|00}}) [[Dementia]] in other diseases classified elsewhere
+** ({{ICD10|F|02|0|f|00}}) [[Dementia]] in [[Pick's disease]]
+** ({{ICD10|F|02|1|f|00}}) [[Dementia]] in [[Creutzfeldt-Jakob disease]]
+** ({{ICD10|F|02|2|f|00}}) [[Dementia]] in [[Huntington's disease]]
+** ({{ICD10|F|02|3|f|00}}) [[Dementia]] in [[Parkinson's disease]]
+** ({{ICD10|F|02|4|f|00}}) [[Dementia]] in [[human immunodeficiency virus]] (HIV) disease
+* ({{ICD10|F|03||f|00}}) Unspecified [[dementia]]
+* ({{ICD10|F|04||f|00}}) Organic [[amnesic]] syndrome, not induced by [[alcohol]] and other [[Psychoactive drug|psychoactive]] substances
+* ({{ICD10|F|05||f|00}}) [[Delirium]], not induced by [[alcohol]] and other [[Psychoactive drug|psychoactive]] substances
+* ({{ICD10|F|06||f|00}}) Other [[mental disorders]] due to [[brain damage]] and dysfunction and to physical [[disease]]
+** ({{ICD10|F|06|0|f|00}}) Organic [[hallucinosis]]
+** ({{ICD10|F|06|1|f|00}}) Organic [[catatonic]] disorder
+** ({{ICD10|F|06|2|f|00}}) Organic delusional (schizophrenia-like) disorder
+** ({{ICD10|F|06|3|f|00}}) Organic [[Mood disorder|mood (affective) disorders]]
+** ({{ICD10|F|06|4|f|00}}) Organic [[anxiety disorder]]
+** ({{ICD10|F|06|5|f|00}}) Organic [[dissociative disorder]]
+** ({{ICD10|F|06|6|f|00}}) Organic emotionally labile ([[asthenic]]) disorder
+** ({{ICD10|F|06|7|f|00}}) Mild cognitive disorder
+** ({{ICD10|F|06|8|f|00}}) Other specified [[mental disorder]]s due to brain damage and dysfunction and to physical disease
+** ({{ICD10|F|06|9|f|00}}) Unspecified [[mental disorder]] due to brain damage and dysfunction and to physical disease
+*** [[Organic brain syndrome]] NOS
+* ({{ICD10|F|07||f|00}}) [[Personality disorders|Personality]] and [[behavioural disorders]] due to [[brain disease]], damage and dysfunction
+** ({{ICD10|F|07|0|f|00}}) Organic [[personality disorder]]
+** ({{ICD10|F|07|1|f|00}}) [[Postencephalitic syndrome]]
+** ({{ICD10|F|07|2|f|00}}) [[Postconcussional syndrome]]
+** ({{ICD10|F|07|8|f|00}}) Other organic personality and [[behavioural disorders]] due to brain disease, damage and dysfunction
+** ({{ICD10|F|07|9|f|00}}) Unspecified organic personality and [[behavioural disorder]] due to brain disease, damage and dysfunction
+* ({{ICD10|F|09||f|00}}) Unspecified organic or symptomatic [[mental disorder]]
+
+=== (F10–F19) Mental and behavioural disorders due to psychoactive substance use ===
+* ''Note: the following conditions are subtypes of each code from F10–19:''
+** ''(F1x.0) acute [[drug intoxication|intoxication]]''
+** ''(F1x.1) [[drug abuse|harmful use]]''
+** ''(F1x.2) [[drug dependence|dependence syndrome]]''
+** ''(F1x.3) [[withdrawal]] state''
+** ''(F1x.4) [[withdrawal]] state with [[delirium]]''
+** ''(F1x.5) [[psychotic]] disorder''
+** ''(F1x.6) [[amnesia|amnesic]] syndrome''
+** ''(F1x.7) Residual and late-onset psychotic disorder''
+** ''(F1x.8) other mental and behavioural disorder''
+** ''(F1x.9) unspecified mental and behavioural disorder''
+
+{| class="wikitable"
+|-
+! Substance
+! F1x.0
+! F1x.1
+! F1x.2
+! F1x.3
+! F1x.4
+! F1x.5
+! F1x.6
+! F1x.7
+|-
+|  ({{ICD10|F|10||f|10}}) use of [[alcohol]]
+| [[Acute alcohol intoxication]]/<br />[[Alcohol intoxication]]
+| [[Harmful use of alcohol]]
+| [[Alcohol dependence syndrome]]
+| [[Alcohol withdrawal syndrome]]
+| [[Delirium tremens]]
+| [[Alcoholic hallucinosis]]
+| [[Korsakoff's syndrome]]
+|
+|-
+| ({{ICD10|F|11||f|10}}) use of [[opioid]]s
+| [[Opioid overdose]]
+|
+| [[Opioid dependency]]
+|
+|
+|
+|
+|
+|-
+| ({{ICD10|F|12||f|10}}) use of [[cannabinoid]]s
+| [[Short-term effects of cannabis]]
+|
+| [[Cannabis dependence]]
+|
+|
+|
+|
+|
+|-
+| ({{ICD10|F|13||f|10}}) use of [[sedative]]s or [[hypnotic]]s
+| [[Benzodiazepine overdose]]
+| [[Benzodiazepine drug misuse]]
+| [[Benzodiazepine dependence]]
+| [[Benzodiazepine withdrawal syndrome]]
+|
+|
+|
+|
+|-
+| ({{ICD10|F|14||f|10}}) use of [[cocaine]]
+| [[Cocaine intoxication]]
+|
+| [[Cocaine dependence]]
+|
+|
+|
+|
+|
+|-
+| ({{ICD10|F|15||f|10}}) use of other [[stimulant]]s, including [[caffeine]]
+|
+|
+|
+|
+|
+| [[Stimulant psychosis]]
+|
+|
+|-
+| ({{ICD10|F|16||f|10}}) use of [[Psychedelics, dissociatives and deliriants|hallucinogen]]s
+|
+|
+|
+|
+|
+|
+|
+| [[Posthallucinogen perception disorder]]
+|-
+| ({{ICD10|F|17||f|10}}) use of [[tobacco]]
+|
+|
+| [[Nicotine withdrawal]]
+|
+|
+|
+|
+|
+|-
+| ({{ICD10|F|18||f|10}}) use of [[volatile solvent]]s
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| ({{ICD10|F|19||f|10}}) multiple [[medication|drug]] use and use of other [[Psychoactive drug|psychoactive]] substances
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+=== (F20–F29) Schizophrenia, schizotypal and delusional disorders ===
+* ({{ICD10|F|20||f|20}}) [[Schizophrenia]]
+** ({{ICD10|F|20|0|f|20}}) [[Paranoid schizophrenia]]
+** ({{ICD10|F|20|1|f|20}}) [[Hebephrenic schizophrenia|Hebephrenic schizophrenia (Disorganized schizophrenia)]]
+** ({{ICD10|F|20|2|f|20}}) [[Catatonic schizophrenia]]
+** ({{ICD10|F|20|3|f|20}}) [[Undifferentiated schizophrenia]]
+** ({{ICD10|F|20|4|f|20}}) [[Post-schizophrenic depression]]
+** ({{ICD10|F|20|5|f|20}}) [[Residual schizophrenia]]
+** ({{ICD10|F|20|6|f|20}}) [[Simple schizophrenia]]
+** ({{ICD10|F|20|8|f|20}}) Other [[schizophrenia]]
+*** [[Cenesthopathic schizophrenia]]
+*** Schizophreniform disorder NOS
+*** Schizophreniform psychosis NOS
+** ({{ICD10|F|20|9|f|20}}) [[Schizophrenia]], unspecified
+* ({{ICD10|F|21||f|20}}) [[Schizotypal disorder]]
+* ({{ICD10|F|22||f|20}}) Persistent delusional disorders
+** ({{ICD10|F|22|0|f|20}}) [[Delusional disorder]]
+** ({{ICD10|F|22|8|f|20}}) Other persistent [[delusional disorder]]s
+*** [[Delusional dysmorphophobia]]
+*** [[Involutional paranoid state]]
+*** [[Paranoia querulans]]
+** ({{ICD10|F|22|9|f|20}}) Persistent delusional disorder, unspecified
+* ({{ICD10|F|23||f|20}}) [[Acute (medical)|Acute]] and [[wikt:transience|transient]] [[psychotic disorder]]s
+** ({{ICD10|F|23|0|f|20}}) Acute polymorphic psychotic disorder without symptoms of [[schizophrenia]]
+** ({{ICD10|F|23|1|f|20}}) Acute polymorphic psychotic disorder with symptoms of [[schizophrenia]]
+** ({{ICD10|F|23|2|f|20}}) Acute schizophrenia-like psychotic disorder
+** ({{ICD10|F|23|3|f|20}}) Other acute predominantly delusional psychotic disorders
+** ({{ICD10|F|23|8|f|20}}) Other acute and transient psychotic disorders
+** ({{ICD10|F|23|9|f|20}}) Acute and transient psychotic disorder, unspecified
+* ({{ICD10|F|24||f|20}}) [[Induced delusional disorder]]
+** [[Folie à deux]]
+** [[Induced paranoid disorder]]
+** [[Induced psychotic disorder]]
+* ({{ICD10|F|25||f|20}}) [[Schizoaffective disorder]]s
+** ({{ICD10|F|25|0|f|20}}) [[Schizoaffective disorder]], [[mania|manic]] type
+** ({{ICD10|F|25|1|f|20}}) [[Schizoaffective disorder]], [[Major depressive disorder|depressive]] type
+** ({{ICD10|F|25|2|f|20}}) [[Schizoaffective disorder]], mixed type
+** ({{ICD10|F|25|8|f|20}}) Other [[schizoaffective disorders]]
+** ({{ICD10|F|25|9|f|20}}) [[Schizoaffective disorder]], unspecified
+* ({{ICD10|F|28||f|20}}) Other nonorganic [[psychotic disorder]]s
+** [[Chronic hallucinatory psychosis]]
+* ({{ICD10|F|29||f|20}}) Unspecified nonorganic [[psychosis]]
+
+=== (F30–F39) Mood (affective) disorders ===
+* ({{ICD10|F|30||f|30}}) [[Manic episode]]
+** ({{ICD10|F|30|0|f|30}}) [[Hypomania]]
+** ({{ICD10|F|30|1|f|30}}) Mania without psychotic symptoms
+** ({{ICD10|F|30|2|f|30}}) Mania with psychotic symptoms
+** ({{ICD10|F|30|8|f|30}}) Other manic episodes
+** ({{ICD10|F|30|9|f|30}}) Manic episode, unspecified
+* ({{ICD10|F|31||f|30}}) [[Bipolar affective disorder]]
+** ({{ICD10|F|31|0|f|30}}) Bipolar affective disorder, current episode hypomanic
+** ({{ICD10|F|31|1|f|30}}) Bipolar affective disorder, current episode manic without psychotic symptoms
+** ({{ICD10|F|31|2|f|30}}) Bipolar affective disorder, current episode manic with psychotic symptoms
+** ({{ICD10|F|31|3|f|30}}) Bipolar affective disorder, current episode mild or moderate depression
+** ({{ICD10|F|31|4|f|30}}) Bipolar affective disorder, current episode severe depression without psychotic symptoms
+** ({{ICD10|F|31|5|f|30}}) Bipolar affective disorder, current episode severe depression with psychotic symptoms
+** ({{ICD10|F|31|6|f|30}}) Bipolar affective disorder, current episode mixed
+** ({{ICD10|F|31|7|f|30}}) Bipolar affective disorder, currently in remission
+** ({{ICD10|F|31|8|f|30}}) Other bipolar affective disorders
+** ({{ICD10|F|31|9|f|30}}) Bipolar affective disorder, unspecified
+*** [[Bipolar II disorder]]
+*** Recurrent manic episodes NOS
+** ({{ICD10|F|31|9|f|30}}) Bipolar affective disorder, unspecified
+* ({{ICD10|F|32||f|30}}) [[Depressive episode]]
+** ({{ICD10|F|32|0|f|30}}) Mild depressive episode
+** ({{ICD10|F|32|1|f|30}}) Moderate depressive episode
+** ({{ICD10|F|32|2|f|30}}) Severe depressive episode without psychotic symptoms
+** ({{ICD10|F|32|3|f|30}}) Severe depressive episode with psychotic symptoms
+** ({{ICD10|F|32|8|f|30}}) Other depressive episodes
+*** [[Atypical depression]]
+*** Single episodes of [[masked depression|"masked" depression]] NOS
+** ({{ICD10|F|32|9|f|30}}) Depressive episode, unspecified
+* ({{ICD10|F|33||f|30}}) [[Recurrent depressive disorder]]
+** ({{ICD10|F|33|0|f|30}}) Recurrent depressive disorder, current episode mild
+** ({{ICD10|F|33|1|f|30}}) Recurrent depressive disorder, current episode moderate
+** ({{ICD10|F|33|2|f|30}}) Recurrent depressive disorder, current episode severe without psychotic symptoms
+** ({{ICD10|F|33|3|f|30}}) Recurrent depressive disorder, current episode severe with psychotic symptoms
+** ({{ICD10|F|33|4|f|30}}) Recurrent depressive disorder, currently in remission
+** ({{ICD10|F|33|8|f|30}}) Other recurrent depressive disorders
+** ({{ICD10|F|33|9|f|30}}) Recurrent depressive disorder, unspecified
+* ({{ICD10|F|34||f|30}}) [[Persistent mood (affective) disorders]]
+** ({{ICD10|F|34|0|f|30}}) [[Cyclothymia]]
+** ({{ICD10|F|34|1|f|30}}) [[Dysthymia]]
+** ({{ICD10|F|34|8|f|30}}) Other persistent mood (affective) disorders
+** ({{ICD10|F|34|9|f|30}}) Persistent mood (affective) disorder, unspecified
+* ({{ICD10|F|38||f|30}}) Other [[mood (affective) disorders]]
+** ({{ICD10|F|38|0|f|30}}) Other single mood (affective) disorders
+*** [[Mixed affective episode]]
+** ({{ICD10|F|38|1|f|30}}) Other recurrent mood (affective) disorders
+*** Recurrent brief depressive episodes
+** ({{ICD10|F|38|8|f|30}}) Other specified mood (affective) disorders
+* ({{ICD10|F|39||f|30}}) Unspecified [[mood (affective) disorder]]
+
+=== (F40–F48) Neurotic, stress-related and somatoform disorders ===
+* ({{ICD10|F|40||f|40}}) [[Anxiety#Phobia|Phobic anxiety disorders]]
+** ({{ICD10|F|40|0|f|40}}) [[Agoraphobia]]
+** ({{ICD10|F|40|1|f|40}}) [[Social phobia]]s
+*** [[Anthropophobia]]
+*** Social neurosis
+** ({{ICD10|F|40|2|f|40}}) Specific (isolated) [[phobias]]
+*** [[Acrophobia]]
+*** [[Animal phobias]]
+*** [[Claustrophobia]]
+*** [[Simple phobia]]
+** ({{ICD10|F|40|8|f|40}}) Other phobic anxiety disorders
+** ({{ICD10|F|40|9|f|40}}) Phobic anxiety disorder, unspecified
+*** [[Phobia]] NOS
+*** Phobic state NOS
+* ({{ICD10|F|41||f|40}}) Other [[anxiety disorders]]
+** ({{ICD10|F|41|0|f|40}}) [[Panic disorder]] (episodic [[paroxysmal]] anxiety)
+** ({{ICD10|F|41|1|f|40}}) [[Generalized anxiety disorder]]
+* ({{ICD10|F|42||f|40}}) [[Obsessive-compulsive disorder]]
+* ({{ICD10|F|43||f|40}}) Reaction to severe stress, and [[adjustment disorders]]
+** ({{ICD10|F|43|0|f|40}}) [[Acute stress reaction]]
+** ({{ICD10|F|43|1|f|40}}) [[Post-traumatic stress disorder]]
+** ({{ICD10|F|43|2|f|40}}) [[Adjustment disorder]]
+* ({{ICD10|F|44||f|40}}) [[Dissociative (conversion) disorders]]
+** ({{ICD10|F|44|0|f|40}}) [[Dissociative amnesia]]
+** ({{ICD10|F|44|1|f|40}}) [[Dissociative fugue]]
+** ({{ICD10|F|44|2|f|40}}) Dissociative stupor
+** ({{ICD10|F|44|3|f|40}}) Trance and possession disorders
+** ({{ICD10|F|44|4|f|40}}) Dissociative motor disorders
+** ({{ICD10|F|44|5|f|40}}) [[Dissociative convulsions]]
+** ({{ICD10|F|44|6|f|40}}) Dissociative anaesthesia and sensory loss
+** ({{ICD10|F|44|7|f|40}}) Mixed dissociative (conversion) disorders
+** ({{ICD10|F|44|8|f|40}}) Other [[dissociative (conversion) disorders]]
+*** [[Ganser's syndrome]]
+*** [[Multiple personality]]
+** ({{ICD10|F|44|9|f|40}}) [[Dissociative (conversion) disorders]], unspecified
+* ({{ICD10|F|45||f|40}}) [[Somatoform disorder]]s
+** ({{ICD10|F|45|0|f|40}}) [[Somatization disorder]]
+*** [[Briquet's disorder]]
+*** Multiple psychosomatic disorder
+** ({{ICD10|F|45|1|f|40}}) Undifferentiated somatoform disorder
+** ({{ICD10|F|45|2|f|40}}) Hypochondriacal disorder
+*** [[Body dysmorphic disorder]]
+*** [[Dysmorphophobia]] (nondelusional)
+*** Hypochondriacal neurosis
+*** [[Hypochondriasis]]
+*** [[Nosophobia]]
+** ({{ICD10|F|45|3|f|40}}) Somatoform autonomic dysfunction
+*** [[Cardiac neurosis]]
+*** [[Da Costa's syndrome]]
+*** Gastric neurosis
+*** Neurocirculatory asthenia
+** ({{ICD10|F|45|4|f|40}}) [[Persistent somatoform pain disorder]]
+*** [[Psychalgia]]
+** ({{ICD10|F|45|8|f|40}}) Other [[somatoform disorders]]
+** ({{ICD10|F|45|9|f|40}}) [[Somatoform disorder]], unspecified
+* ({{ICD10|F|48||f|40}}) Other [[neurotic disorders]]
+** ({{ICD10|F|48|0|f|40}}) [[Neurasthenia]]
+** ({{ICD10|F|48|1|f|40}}) [[Depersonalization-derealization syndrome]]
+** ({{ICD10|F|48|8|f|40}}) Other specified [[neurotic disorders]]
+*** [[Dhat syndrome]]
+*** Occupational neurosis, including [[writer's cramp]]
+*** [[Psychasthenia]]
+*** Psychasthenic neurosis
+*** Psychogenic syncope
+** ({{ICD10|F|48|9|f|40}}) Neurotic disorder, unspecified
+*** [[Neurosis]] NOS
+
+=== (F50–F59) Behavioural syndromes associated with physiological disturbances and physical factors ===
+* ({{ICD10|F|50||f|50}}) [[Eating disorders]]
+** ({{ICD10|F|50|0|f|50}}) [[Anorexia nervosa]]
+** ({{ICD10|F|50|1|f|50}}) Atypical anorexia nervosa
+** ({{ICD10|F|50|2|f|50}}) [[Bulimia nervosa]]
+** ({{ICD10|F|50|3|f|50}}) Atypical bulimia nervosa
+** ({{ICD10|F|50|4|f|50}}) [[Overeating]] associated with other psychological disturbances
+** ({{ICD10|F|50|5|f|50}}) [[Vomiting]] associated with other psychological disturbances
+** ({{ICD10|F|50|8|f|50}}) Other [[eating disorders]]
+*** [[Pica (disorder)|Pica]] in adults
+** ({{ICD10|F|50|9|f|50}}) [[Eating disorder]], unspecified
+* ({{ICD10|F|51||f|50}}) Nonorganic [[sleep disorders]]
+** ({{ICD10|F|51|0|f|50}}) Nonorganic [[insomnia]]
+** ({{ICD10|F|51|1|f|50}}) Nonorganic [[hypersomnia]]
+** ({{ICD10|F|51|2|f|50}}) Nonorganic disorder of the [[sleep-wake schedule]]
+** ({{ICD10|F|51|3|f|50}}) [[Sleepwalking]] ([[somnambulism]])
+** ({{ICD10|F|51|4|f|50}}) [[Sleep terrors]] ([[night terrors]])
+** ({{ICD10|F|51|5|f|50}}) [[Nightmares]]
+* ({{ICD10|F|52||f|50}}) [[Sexual dysfunction]], not caused by organic disorder or disease
+** ({{ICD10|F|52|0|f|50}}) Lack or loss of sexual desire
+*** [[Frigidity]]
+*** [[Hypoactive sexual desire disorder]]
+** ({{ICD10|F|52|1|f|50}}) Sexual aversion and lack of sexual enjoyment
+*** Anhedonia (sexual)
+** ({{ICD10|F|52|2|f|50}}) [[Failure of genital response]]
+*** [[Female sexual arousal disorder]]
+*** [[Male erectile disorder]]
+*** Psychogenic impotence
+** ({{ICD10|F|52|3|f|50}}) [[Orgasmic dysfunction]]
+*** [[Inhibited orgasm]] (male)(female)
+*** Psychogenic anorgasmy
+** ({{ICD10|F|52|4|f|50}}) [[Premature ejaculation]]
+** ({{ICD10|F|52|5|f|50}}) Nonorganic [[vaginismus]]
+** ({{ICD10|F|52|6|f|50}}) Nonorganic [[dyspareunia]]
+** ({{ICD10|F|52|7|f|50}}) [[Excessive sexual drive]]
+** ({{ICD10|F|52|8|f|50}}) Other [[sexual dysfunction]], not caused by organic disorder or disease
+** ({{ICD10|F|52|9|f|50}}) Unspecified [[sexual dysfunction]], not caused by organic disorder or disease
+* ({{ICD10|F|53||f|50}}) [[Mind|Mental]] and [[behavioural disorders]] associated with the [[puerperium]], not elsewhere classified
+** ({{ICD10|F|53|0|f|50}}) Mild [[Mind|mental]] and [[behavioural disorders]] associated with the [[puerperium]], not elsewhere classified
+*** [[Postnatal depression]] NOS
+*** [[Postpartum depression]] NOS
+** ({{ICD10|F|53|1|f|50}}) Severe [[Mind|mental]] and [[behavioural disorders]] associated with the [[puerperium]], not elsewhere classified
+*** [[Puerperal psychosis]] NOS
+* ({{ICD10|F|54||f|50}}) [[Psychological]] and [[behavioural]] factors associated with disorders or diseases classified elsewhere
+* ({{ICD10|F|55||f|50}}) Abuse of non-dependence-producing substances
+* ({{ICD10|F|59||f|50}}) Unspecified behavioural syndromes associated with physiological disturbances and physical factors
+
+=== (F60–F69) Disorders of adult personality and behaviour ===
+* ({{ICD10|F|60||f|60}}) Specific [[personality disorders]]
+** ({{ICD10|F|60|0|f|60}}) [[Paranoid personality disorder]]
+** ({{ICD10|F|60|1|f|60}}) [[Schizoid personality disorder]]
+** ({{ICD10|F|60|2|f|60}}) [[Dissocial personality disorder]]
+*** [[Antisocial personality disorder]]
+** ({{ICD10|F|60|3|f|60}}) [[Emotionally unstable personality disorder]]
+*** [[Borderline personality disorder]]
+** ({{ICD10|F|60|4|f|60}}) [[Histrionic personality disorder]]
+** ({{ICD10|F|60|5|f|60}}) [[Anankastic personality disorder]]
+*** [[Obsessive-compulsive personality disorder]]
+** ({{ICD10|F|60|6|f|60}}) [[Avoidant personality disorder|Anxious (avoidant) personality disorder]]
+** ({{ICD10|F|60|7|f|60}}) [[Dependent personality disorder]]
+** ({{ICD10|F|60|8|f|60}}) Other specific [[personality disorders]]
+***Eccentric personality disorder
+***[[Haltlose personality disorder]]
+***Immature personality disorder
+*** [[Narcissistic personality disorder]]
+*** [[Passive-aggressive personality disorder]]
+*** Psychoneurotic personality disorder
+** ({{ICD10|F|60|9|f|60}}) Personality disorder not otherwise specified|Personality disorder unspecified
+* ({{ICD10|F|61||f|60}}) Mixed and other [[personality disorders]]
+* ({{ICD10|F|62||f|60}}) Enduring personality changes, not attributable to brain damage and disease
+* ({{ICD10|F|63||f|60}}) [[Habituation|Habit]] and impulse disorders
+** ({{ICD10|F|63|0|f|60}}) [[Pathological gambling]]
+** ({{ICD10|F|63|1|f|60}}) [[Pathological fire-setting]] ([[pyromania]])
+** ({{ICD10|F|63|2|f|60}}) [[Pathological stealing]] ([[kleptomania]])
+** ({{ICD10|F|63|3|f|60}}) [[Trichotillomania]]
+* ({{ICD10|F|64||f|60}}) [[Gender identity disorders]]
+** ({{ICD10|F|64|0|f|60}}) [[Transsexualism]]
+** ({{ICD10|F|64|1|f|60}}) [[Dual-role transvestism]]
+** ({{ICD10|F|64|2|f|60}}) [[Gender identity disorder in children|Gender identity disorder of childhood]]
+* ({{ICD10|F|65||f|60}}) [[paraphilia|Disorders of sexual preference]]
+** ({{ICD10|F|65|0|f|60}}) [[Sexual fetishism]]
+** ({{ICD10|F|65|1|f|60}}) [[Fetishistic transvestism]]
+** ({{ICD10|F|65|2|f|60}}) [[Exhibitionism]]
+** ({{ICD10|F|65|3|f|60}}) [[Voyeurism]]
+** ({{ICD10|F|65|4|f|60}}) [[Paedophilia]]
+** ({{ICD10|F|65|5|f|60}}) [[Sadism and masochism as medical terms|Sadomasochism]]
+** ({{ICD10|F|65|6|f|60}}) Multiple disorders of [[paraphilia|sexual preference]]
+** ({{ICD10|F|65|8|f|60}}) Other disorders of [[paraphilia|sexual preference]]
+*** [[Frotteurism]]
+*** [[Necrophilia]]
+*** [[Zoophilia]]
+* ({{ICD10|F|66||f|60}}) Psychological and behavioural disorders associated with [[sexual development]] and [[Sexual orientation|orientation]]
+** ({{ICD10|F|66|0|f|60}}) [[Sexual maturation disorder]]
+** ({{ICD10|F|66|1|f|60}}) [[Ego-dystonic sexual orientation]]
+** ({{ICD10|F|66|2|f|60}}) [[Sexual relationship disorder]]
+** ({{ICD10|F|66|8|f|60}}) Other [[psychosexual development]] disorders
+** ({{ICD10|F|66|9|f|60}}) [[Psychosexual development]] disorder, unspecified
+* ({{ICD10|F|68||f|60}}) Other disorders of adult [[Personality disorders|personality]] and [[behaviour]]
+** ({{ICD10|F|68|0|f|60}}) Elaboration of physical symptoms for psychological reasons
+** ({{ICD10|F|68|1|f|60}}) Intentional production or feigning of symptoms or disabilities, either physical or psychological ([[factitious disorder]])
+*** [[Munchausen syndrome]]
+** ({{ICD10|F|68|8|f|60}}) Other specified disorders of adult [[personality disorders|personality]] and [[behaviour]]
+* ({{ICD10|F|69||f|60}}) Unspecified disorder of adult [[personality disorders|personality]] and [[behaviour]]
+
+=== (F70–F79) Mental retardation ===
+* ({{ICD10|F|70||f|70}}) [[Mild mental retardation]]
+* ({{ICD10|F|71||f|70}}) [[Moderate mental retardation]]
+* ({{ICD10|F|72||f|70}}) [[Severe mental retardation]]
+* ({{ICD10|F|73||f|70}}) [[Profound mental retardation]]
+* ({{ICD10|F|78||f|70}}) Other [[mental retardation]]
+* ({{ICD10|F|79||f|70}}) Unspecified [[mental retardation]]
+
+=== (F80–F89) Disorders of psychological development ===
+* ({{ICD10|F|80||f|80}}) [[Specific developmental disorder]]s of [[Speech communication|speech]] and [[language]]
+** ({{ICD10|F|80|0|f|80}}) [[Specific speech articulation disorder]]
+** ({{ICD10|F|80|1|f|80}}) [[Expressive language disorder]]
+** ({{ICD10|F|80|2|f|80}}) [[Receptive language disorder]]
+*** [[Receptive aphasia]]
+** ({{ICD10|F|80|3|f|80}}) Acquired aphasia with epilepsy ([[Landau-Kleffner]])
+** ({{ICD10|F|80|8|f|80}}) Other developmental disorders of speech and language
+*** [[Lisping]]
+** ({{ICD10|F|80|9|f|80}}) Developmental disorder of speech and language, unspecified
+* ({{ICD10|F|81||f|80}}) [[Specific developmental disorder]]s of scholastic skills
+** ({{ICD10|F|81|0|f|80}}) Specific reading disorder
+*** Developmental [[dyslexia]]
+** ({{ICD10|F|81|1|f|80}}) Specific spelling disorder
+** ({{ICD10|F|81|2|f|80}}) Specific disorder of arithmetical skills
+*** Developmental [[acalculia]]
+*** [[Gerstmann syndrome]]
+** ({{ICD10|F|81|3|f|80}}) Mixed disorder of scholastic skills
+** ({{ICD10|F|81|8|f|80}}) Other developmental disorders of scholastic skills
+** ({{ICD10|F|81|9|f|80}}) Developmental disorder of scholastic skills, unspecified
+* ({{ICD10|F|82||f|80}}) Specific developmental disorder of motor function
+** [[Developmental Dyspraxia]]
+* ({{ICD10|F|83||f|80}}) Mixed specific developmental disorders
+* ({{ICD10|F|84||f|80}}) [[Pervasive developmental disorder]]s
+** ({{ICD10|F|84|0|f|80}}) [[Childhood autism]]
+** ({{ICD10|F|84|1|f|80}}) [[Atypical autism]]
+** ({{ICD10|F|84|2|f|80}}) [[Rett syndrome|Rett's syndrome]]
+** ({{ICD10|F|84|3|f|80}}) Other childhood disintegrative disorder
+** ({{ICD10|F|84|4|f|80}}) [[Overactive disorder associated with mental retardation and stereotyped movements]]
+** ({{ICD10|F|84|5|f|80}}) [[Asperger syndrome]]
+* ({{ICD10|F|88||f|80}}) Other disorders of [[psychological development]]
+* ({{ICD10|F|89||f|80}}) Unspecified disorder of [[psychological development]]
+
+=== (F90–F98) Behavioural and emotional disorders with onset usually occurring in childhood and adolescence ===
+* ({{ICD10|F|90||f|90}}) [[Hyperkinetic]] disorders
+** ({{ICD10|F|90|0|f|90}}) [[Disturbance of activity and attention]]
+*** [[Attention-deficit hyperactivity disorder]]
+*** Attention deficit syndrome with [[hyperactivity]]
+** ({{ICD10|F|90|1|f|90}}) [[Hyperkinetic conduct disorder]]
+** ({{ICD10|F|90|8|f|90}}) Other hyperkinetic disorders
+** ({{ICD10|F|90|9|f|90}}) Hyperkinetic disorder, unspecified
+* ({{ICD10|F|91||f|90}}) [[Conduct disorders]]
+** ({{ICD10|F|91|0|f|90}}) [[Conduct disorder]] confined to the family context
+** ({{ICD10|F|91|1|f|90}}) Unsocialized [[conduct disorder]]
+** ({{ICD10|F|91|2|f|90}}) Socialized [[conduct disorder]]
+** ({{ICD10|F|91|3|f|90}}) [[Oppositional defiant disorder]]
+** ({{ICD10|F|91|8|f|90}}) Other conduct disorders
+** ({{ICD10|F|91|9|f|90}}) Conduct disorder, unspecified
+* ({{ICD10|F|92||f|90}}) Mixed disorders of conduct and emotions
+** ({{ICD10|F|92|0|f|90}}) Depressive conduct disorder
+** ({{ICD10|F|92|8|f|90}}) Other mixed disorders of conduct and emotions
+** ({{ICD10|F|92|9|f|90}}) Mixed disorder of conduct and emotions, unspecified
+* ({{ICD10|F|93||f|90}}) [[Emotional and behavioral disorders|Emotional disorders]] with onset specific to [[childhood]]
+** ({{ICD10|F|93|0|f|90}}) [[Separation anxiety disorder]] of childhood
+** ({{ICD10|F|93|1|f|90}}) [[Phobic]] [[anxiety disorder]] of childhood
+** ({{ICD10|F|93|2|f|90}}) [[Social anxiety]] disorder of childhood
+** ({{ICD10|F|93|3|f|90}}) [[Sibling rivalry disorder]]
+** ({{ICD10|F|93|8|f|90}}) Other childhood emotional disorders
+*** Identity disorder
+*** Overanxious disorder
+** ({{ICD10|F|93|9|f|90}}) Childhood emotional disorder, unspecified
+* ({{ICD10|F|94||f|90}}) [[Mental_disorders_diagnosed_in_childhood#ICD-10(F90–F98) Behavioural and emotional disorders with onset usually occurring in childhood and adolescence|Disorders of social functioning with onset specific to childhood and adolescence]]
+** ({{ICD10|F|94|0|f|90}}) [[Elective mutism]]
+** ({{ICD10|F|94|1|f|90}}) [[Reactive attachment disorder]] of childhood
+** ({{ICD10|F|94|2|f|90}}) [[Disinhibited attachment disorder]] of childhood
+** ({{ICD10|F|94|8|f|90}}) Other childhood disorders of social functioning
+** ({{ICD10|F|94|9|f|90}}) Childhood disorder of social functioning, unspecified
+* ({{ICD10|F|95||f|90}}) [[Tic disorder]]s
+** ({{ICD10|F|95|0|f|90}}) Transient [[tic disorder]]
+** ({{ICD10|F|95|1|f|90}}) Chronic motor or vocal [[tic disorder]]
+** ({{ICD10|F|95|2|f|90}}) [[Tourette syndrome|Combined vocal and multiple motor tic disorder (de la Tourette)]]
+** ({{ICD10|F|95|8|f|90}}) Other [[tic disorder]]s
+** ({{ICD10|F|95|9|f|90}}) [[Tic disorder]], unspecified
+* ({{ICD10|F|98||f|90}}) Other [[behavioural]] and [[emotional disorders]] with onset usually occurring in [[childhood]] and [[adolescence]]
+** ({{ICD10|F|98|0|f|90}}) [[Nonorganic enuresis]]
+** ({{ICD10|F|98|1|f|90}}) [[Nonorganic encopresis]]
+** ({{ICD10|F|98|2|f|90}}) [[Feeding disorder]] of [[infancy]] and [[childhood]]
+** ({{ICD10|F|98|3|f|90}}) [[Pica (disorder)|Pica]] of [[infancy]] and [[childhood]]
+** ({{ICD10|F|98|4|f|90}}) [[Stereotypic movement disorder|Stereotyped movement disorders]]
+** ({{ICD10|F|98|5|f|90}}) [[Stuttering]] ([[stammering]])
+** ({{ICD10|F|98|6|f|90}}) [[Cluttering]]
+** ({{ICD10|F|98|8|f|90}}) Other specified behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+*** [[Attention deficit disorder|Attention deficit disorder without hyperactivity]]
+*** [[Hypersexuality|Excessive masturbation]]
+*** [[Nail-biting]]
+*** [[Nose-picking]]
+*** [[Thumb-sucking]]
+** ({{ICD10|F|98|9|f|90}}) Unspecified behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+
+=== (F99) Unspecified mental disorder ===
+* ({{ICD10|F|99||f|99}}) [[Mental disorder]], not otherwise specified
+
+==See also==
+* [[List of ICD-10 codes]]
+* [[ICD|International Statistical Classification of Diseases and Related Health Problems]]
+* [[List of ICD-9 codes 290–319: mental disorders]]
+* [[Diagnostic classification and rating scales used in psychiatry]]
+
+==Further reading==
+{{refbegin}}
+* {{cite journal |author=Reiersøl O, Skeid S |title=The ICD diagnoses of fetishism and sadomasochism |journal=Journal of homosexuality |volume=50 |issue=2–3 |pages=243–262 |year=2006 |pmid=16803767 |doi=10.1300/J082v50n02_12}}
+{{refend}}
+
+==References==
+{{reflist}}
+
+{{Medical conditions}}
+{{Mental and behavioural disorders}}
+{{Psychoactive substance use}}
+{{Bipolar disorder}}
+{{Obsessive–compulsive disorder}}
+{{Sleep}}
+{{Dyslexia}}
+{{Pervasive developmental disorders}}
+{{Emotional and behavioral disorders}}
+{{Adhd}}
+{{Tourette syndrome}}
+
+[[Category:Medical manuals]]
+[[Category:Mental and behavioural disorders]]
+[[Category:Psychiatric classification systems]]

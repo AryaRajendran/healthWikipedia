@@ -1,0 +1,63 @@
+{{Drugbox
+| verifiedrevid = 449938078
+| image =  
+
+<!--Vacine data-->
+| type = vaccine
+| target = [[Typhoid]]
+| vaccine_type = Attenuated bacterial
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = oral
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number =  
+| ATC_prefix = J07
+| ATC_suffix = AP01
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+
+<!--Chemical data-->
+}}
+
+'''Ty21a''' is a live [[attenuated]] bacterial vaccine that protects against [[typhoid]]. It is one of two typhoid vaccines currently recommended by the [[World Health Organization]].<ref name="WHO2007">{{cite journal|author=World Health Organization|year=2008|journal=Weekly Epidemiological Record|volume=83|issue=6|pages=49–60|title=Typhoid vaccines: WHO position paper|url=http://www.who.int/wer|pmid=18260212}}</ref> The vaccine offers a statistically significant protection for the first three years, with between 8% to 54% effectiveness for the first year and between 40% to 71% for the second year.<ref name="pmid17636661">{{cite journal |author=Fraser A, Goldberg E, Acosta CJ, Paul M, Leibovici L |title=Vaccines for preventing typhoid fever |journal=Cochrane Database Syst Rev |issue=3 |pages=CD001261 |year=2007 |doi=10.1002/14651858.CD001261.pub2 |pmid=17636661 |editor1-last=Fraser |editor1-first=Abigail}}</ref> The vaccine is most commonly used to protect travellers to endemic countries, but there is no reason why the vaccine could not be used in large scale public prevention programmes.<ref name="WHO2007"/>
+
+The vaccine is given by mouth.  The vaccine is presented either as capsules or a liquid suspension.  The vaccine must be stored at 2 to 8 °C, but will retain its potency for 14 days at 25°C.<ref name="WHO2007"/>
+
+==Dosing==
+The recommended dose varies according to country.
+
+In the US and Canada, an initial course of 4 doses on alternate days is recommended. Full protection is achieved 7 days after the last dose. In the US, a booster dose is recommended after 5 years.  In Canada, a booster dose is recommended after 7 years.
+
+In Australia and Europe, an initial course of 3 doses on alternate days is recommended.  Protection is achieved 7 days after the last dose.  A booster is recommended every 3 years for people living in endemic areas, but every year for people travelling from non-endemic to endemic areas.<ref name="GreenBook">{{cite book
+| last1 = Salisbury
+| first1 = D
+| last2 = Ramsay
+| first2 = M
+| last3 = Noakes
+| first3 = K
+| publisher = Department of Health
+| title = Immunisation against infectious disease
+| chapter= "Chapter 33: Typhoid"
+| url = http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@en/documents/digitalasset/dh_125348.pdf
+| page = 418
+| isbn = 0-11-322528-8}}</ref>
+
+==References==
+{{reflist}}
+{{Vaccines}}
+
+[[Category:Live vaccines]]
+[[Category:Enterobacteria]]
+[[Category:Typhoid fever]]

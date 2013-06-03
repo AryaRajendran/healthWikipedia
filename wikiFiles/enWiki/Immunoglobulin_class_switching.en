@@ -1,0 +1,150 @@
+[[File:Class switch recombination.png|thumb|350px|right|Mechanism of class switch recombination that allows isotype switching in activated B cells]]
+
+'''Immunoglobulin class switching''' (or '''isotype switching''' or '''isotypic commutation''' or '''class switch recombination'''(CSR)) is a biological mechanism that changes a B cell's production of [[antibody]] from one class to another, for example, from an isotype called [[IgM]] to an isotype called [[IgG]]. During this process, the constant region portion of the antibody [[heavy chain]] is changed, but the variable region of the heavy chain stays the same (the terms "constant" and "variable" refer to changes or lack thereof between antibodies that target different [[epitopes]]). Since the variable region does not change, class switching does not affect antigen specificity. Instead, the antibody retains [[Affinity (pharmacology)|affinity]] for the same antigens, but can interact with different [[Effector (biology)|effector]] molecules.
+
+== Mechanism ==
+
+Class switching occurs after activation of a mature [[B cell]] via its membrane-bound antibody molecule (or [[B cell receptor]]) to generate the different classes of antibody, all with the same variable domains as the original antibody generated in the immature B cell during the process of [[V(D)J recombination]], but possessing distinct constant domains in their [[heavy chain]]s.<ref name=Market>Eleonora Market, F. Nina Papavasiliou (2003) [http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0000016 ''V(D)J Recombination and the Evolution of the Adaptive Immune System''] [[PLoS Biology]]1(1): e16.</ref>
+
+Naïve mature B cells produce both [[IgM]] and [[IgD]], which are the first two heavy chain segments in the immunoglobulin [[Locus (genetics)|locus]]. After activation by antigen, these B cells proliferate. If these activated B cells encounter specific signaling molecules via their [[CD40]] and cytokine receptors (both modulated by [[T helper cells]]), they undergo antibody class switching to produce IgG, IgA or IgE antibodies. During class switching, the constant region of the immunoglobulin heavy chain changes but the variable regions, and therefore antigenic specificity, stay the same.  This allows different daughter cells from the same activated B cell to produce antibodies of different isotypes or subtypes (e.g. IgG1, IgG2 etc.).<ref>{{cite journal |author=Stavnezer J, Amemiya CT |title=Evolution of isotype switching |journal=Semin. Immunol. |volume=16 |issue=4 |pages=257–75 |year=2004 |pmid=15522624 |doi=10.1016/j.smim.2004.08.005}}</ref>
+
+The order of the heavy chain [[exons]] are as follows:
+
+* μ - [[IgM]]
+* δ - [[IgD]]
+* γ3 - [[IgG]]3
+* γ1 - IgG1
+* [[pseudogene]] similar to ε gene that is not used
+* α1 - [[IgA]]1
+* γ2 - IgG2
+* γ4 - IgG4
+* ε - [[IgE]]
+* α2 - IgA2 {{Citation needed|date=April 2012}}
+
+Class switching occurs by a mechanism called class switch recombination (CSR) binding. Class switch recombination is a biological mechanism that allows the class of [[antibody]] produced by an activated [[B cell]] to change during a process known as isotype or class switching.  During CSR, portions of the antibody heavy chain [[Locus (genetics)|locus]] are removed from the [[chromosome]], and the gene segments surrounding the deleted portion are rejoined to retain a functional antibody gene that produces antibody of a different [[isotype (immunology)|isotype]]. Double-stranded breaks are generated in DNA at conserved [[nucleotide]] motifs, called switch (S) regions, which are upstream from [[gene]] segments that encode the constant regions of antibody [[heavy chain]]s; these occur adjacent to all heavy chain constant region genes with the exception of the δ-chain. DNA is [[Nick (DNA)|nicked]] and broken at two selected S-regions by the activity of a series of [[enzyme]]s, including [[Activation-Induced (Cytidine) Deaminase]] (AID), [[uracil]] [[DNA glycosylase]] and [[AP endonucleases|apyrimidic/apurinic (AP)-endonucleases]].<ref>{{cite journal |author=Durandy A |title=Activation-induced cytidine deaminase: a dual role in class-switch recombination and somatic hypermutation |journal=Eur. J. Immunol. |volume=33 |issue=8 |pages=2069–73 |year=2003 |pmid=12884279 |doi=10.1002/eji.200324133}}</ref><ref>{{cite journal |author=Casali P, Zan H |title=Class switching and Myc translocation: how does DNA break? |journal=Nat. Immunol. |volume=5 |issue=11 |pages=1101–3 |year=2004 |pmid=15496946 |doi=10.1038/ni1104-1101}}</ref> The intervening DNA between the S-regions is subsequently deleted from the chromosome, removing unwanted μ or δ heavy chain constant region [[exon]]s and allowing substitution of a γ, α or ε constant region gene segment. The free ends of the DNA are rejoined by a process called [[non-homologous end joining]] (NHEJ) to link the variable domain [[exon]] to the desired downstream constant domain exon of the antibody heavy chain.<ref>{{cite journal |author=Lieber MR, Yu K, Raghavan SC |title=Roles of nonhomologous DNA end joining, V(D)J recombination, and class switch recombination in chromosomal translocations |journal=DNA Repair (Amst.) |volume=5 |issue=9-10 |pages=1234–45 |year=2006 |pmid=16793349 |doi=10.1016/j.dnarep.2006.05.013}}</ref> In the absence of non-homologous end joining, free ends of DNA may be rejoined by an alternative pathway biased toward microhomology joins.<ref>{{cite journal |author=Yan CT, Boboila C, Souza EK, Franco S, Hickernell TR, Murphy M, Gumaste S, Geyer M, Zarrin AA, Manis JP, Rajewsky K, Alt FW |title=IgH class switching and translocations use a robust non-classical end-joining pathway |journal=Nature |year=2007 |pmid=17713479 |doi=10.1038/nature06020 |volume=449 |pages=478–82 |issue=7161 }}</ref>  With the exception of the μ and δ genes, only one antibody class is expressed by a B cell at any point in time.
+
+== Cytokines responsible for class switching ==
+T cell cytokines are responsible for class switching in mouse (Table 1) and human (Table 2).<ref name=Janeway_2001>{{cite book | author =  Janeway CA Jr., Travers P, Walport M, Shlomchik MJ | title = Immunobiology. | edition = 5th | publisher = Garland Publishing | year = 2001 | id = [http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=imm.section.161 (via NCBI Bookshelf)] ISBN 0-8153-3642-X }}</ref> 
+<ref name=Male>Male D, Brostoff J, Roth DB, Roitt I (2006). ''Immunology, 7th ed.'' Philadelphia: Mosby Elsevier, ISBN 978-0-323-03399-2 (pbk.)</ref> These cytokines may have suppressive effect on production of IgM.
+
+{| class="wikitable"
+|+ Table 1. Class switching in mouse
+|-
+!  rowspan="2" | T cells
+!  rowspan="2" | Cytokines
+!  colspan="6" | Immunoglobulin classes
+|- 
+! IgG1
+! IgG2a
+! IgG2b
+! IgG3
+! IgA
+! IgE
+|- 
+!  rowspan="2" | Th2
+! IL-4
+| align="center"| <span style="color:red;">↑</span>
+| align="center"| ↓
+| align="center"| ↓
+| align="center"| ↓
+| align="center"| ↓
+| align="center"| <span style="color:red;">↑</span>
+|- 
+! IL-5
+| 
+| 
+| 
+| 
+| align="center"| <span style="color:red;">↑</span>
+| 
+|- 
+! Th1
+! IFNγ
+| align="center"| ↓
+| align="center"| <span style="color:red;">↑</span>
+| align="center"| ↓
+| align="center"| ↓
+| align="center"| ↓
+| align="center"| ↓
+|- 
+! Treg
+! TGFβ
+| 
+| 
+| align="center"| <span style="color:red;">↑</span>
+| align="center"| ↓
+| align="center"| <span style="color:red;">↑</span>
+| 
+|}
+
+{| class="wikitable"
+|+ Table 2. Class switching in human
+!  rowspan="2" | T cells
+!  rowspan="2" | Cytokines
+!  colspan="6" | Immunoglobulin classes
+|- 
+! IgG1
+! IgG2
+! IgG3
+! IgG4
+! IgA
+! IgE
+|- 
+!  rowspan="2" | Th2
+! IL-4
+| 
+| 
+| 
+| align="center"| <span style="color:red;">↑</span>
+| 
+| align="center"| <span style="color:red;">↑</span>
+|- 
+! IL-5
+| 
+| 
+| 
+| 
+| align="center"| <span style="color:red;">↑</span>
+| 
+|- 
+! Th1
+! IFNγ
+| 
+| 
+| 
+| 
+| 
+| 
+|- 
+! Treg
+! TGFβ
+| 
+| 
+| 
+| 
+| align="center"| <span style="color:red;">↑</span>
+| 
+|}
+
+== See also ==
+
+* [[immunogenetics]]
+* [[antibody]]
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+
+* {{MeshName|Immunoglobulin+class+switching}}
+* [http://pathmicro.med.sc.edu/mayer/Ab%20formation2000.htm Diagram and description at med.sc.edu (see Figure 10)]
+* [http://www.umassmed.edu/faculty/show.cfm?start=0&faculty=300 Diagram at umassmed.edu]
+* [http://www-immuno.path.cam.ac.uk/~immuno/part1/lec06/lec6_97.html Diagram and description at cam.ac.uk]
+* [http://www.mie.utoronto.ca/labs/lcdlab/biopic/fig/19.21.jpg Diagram at utoronto.ca]
+
+{{Immune system}}
+
+[[Category:Immune system]]
+[[Category:Biological processes]]
+[[Category:Immune system process]]
+[[Category:Immunology]]

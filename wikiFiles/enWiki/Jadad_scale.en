@@ -1,0 +1,68 @@
+The '''Jadad scale''', sometimes known as '''Jadad scoring''' or the '''Oxford quality scoring system''', is a procedure to independently assess the methodological quality of a [[clinical trial]]. It is the most widely used such assessment in the world,<ref name="Clinical Epidemiology">{{cite book|last=Haynes|first=R.B.|coauthors=Sackett D.L., Guyatt G.H. Tugwell P.|title=Clinical Epidemiology|publisher=Lippincott Williams & Wilkins|year=2005|pages=31|isbn=978-0-7817-4524-6|url=http://books.google.com/?id=cuvY6TItIwgC&pg=PA31}}</ref><ref name="scales">{{cite journal|last=Olivo |first=SA|coauthors=Macedo LG, Gadotti IC, Fuentes J, Stanton T,  Magee DJ|year=2008|title=Scales to Assess the Quality of Randomized Controlled Trials : A Systematic Review|journal=Physical therapy|volume=88|issue=2|issn=0031-9023 |url=http://findarticles.com/p/articles/mi_hb237/is_2_88/ai_n29412210/pg_1|doi=10.2522/ptj.20070147|pages=156–75|pmid=18073267}}</ref> and as of 2008, its seminal paper has been cited in over 3000 scientific works.
+
+The Jadad scale is named after [[Alejandro R. Jadad Bechara|Alejandro Jadad-Bechara]], a Colombian physician who worked as a Research Fellow at the Oxford Pain Relief Unit, Nuffield Department of Anaesthetics, at the [[University of Oxford]]. Jadad felt that the randomised controlled trial was of great importance for the advancement of [[medical science]], describing it in a 2007 book as "one of the simplest, most powerful and revolutionary forms of research".<ref>{{cite book|last=Jadad|first=Alejandro R.|coauthors=Enkin, Murray |title=Randomized Controlled Trials: Questions, Answers and Musings|publisher=Blackwell|year=2007|edition=2nd|isbn=978-1-4051-3266-4}}</ref> He and his team outlined their views of the effectiveness of [[Blind experiment|blinding]] on published studies in a 1996 paper in the ''Journal of Controlled Clinical Trials''. An appendix to the paper described a scale allocating trials a score of between zero (very poor) and five (rigorous).<ref name="jadad">{{cite journal| last= Jadad | first= A.R. | author= | authorlink=Alejandro R. Jadad Bechara | coauthors= Moore R.A., Carroll D., Jenkinson C., Reynolds D.J.M., Gavaghan D.J., McQuay H.J. | title= Assessing the quality of reports of randomized clinical trials: Is blinding necessary? |journal= Controlled Clinical Trials|volume=17 |issue=1 |pages= 1–12| doi= 10.1016/0197-2456(95)00134-4| year= 1996 | pmid=8721797}}</ref>
+
+==Background==
+{{main|Randomised controlled trial}}
+Clinical trials are conducted for the purpose of collecting data on the efficacy of medical treatments.<ref name=chow>{{cite book|last=Chow|first=Shein-Chung|coauthors=Liu, Jen-pei|title=Design and Analysis of Clinical Trials|publisher=Wiley|year=2004|pages=2|isbn=978-0-471-24985-6|url=http://books.google.com/?id=HXMUEjZ4vyAC&pg=PA2}}</ref> The treatment might be, for example, a new [[drug]], a [[medical device]], a [[surgical procedure]], or a preventative regime.<ref name=chow/> [[Clinical trial protocol]]s vary considerably depending on the nature of the treatment under investigation,<ref>{{cite book|last=Brian |first=Everitt|coauthors=Pickles, Andrew|title=Statistical Aspects of the Design and Analysis of Clinical Trials|publisher=Imperial College Press|year=2004|pages=5|isbn=978-1-86094-441-3|url=http://books.google.com/?id=DMiH5y6SDuQC&printsec=PPA5}}</ref> but typically in a controlled trial researchers gather a group of volunteers and subject some to the test treatment, while giving the others either no treatment (known as a [[placebo]]), or an established treatment for comparison. After a defined time period, the patients in the test group are assessed for health improvements in comparison with the [[control group]].
+
+However, trials can vary greatly in quality. Methodological errors such as poor [[Blind experiment|blinding]] or poor [[randomisation]] allow factors such as the [[placebo effect]] or [[selection bias]] to adversely affect the results of a trial.<ref name="Colditz">{{cite journal|last=Colditz|first=G.A.|coauthors=Miller J.N., Mosteller F.|year=1989|title=How study design affects outcomes in comparisons of therapy|journal=Statistics in Medicine | volume=8|issue=4|pages=pp.441–454|doi=10.1002/sim.4780080408 | pmid = 2727468 }}</ref>
+
+===Randomisation===
+Randomisation is a process to remove potential distortion of statistical results arising from the manner in which the
+trial is conducted, in particular in the selection of subjects. Studies have indicated, for example, that nonrandomised trials are more likely to show a positive result for a new treatment than for an established conventional one.<ref name="Colditz"/>
+
+===Blinding===
+The importance of [[scientific control]]s to limit factors under test is well established. However, it is also important that none of those involved in a clinical trial, whether the researcher, the subject patient or any other involved parties, should allow their own prior expectations to affect reporting of results.<ref name="Day">{{cite journal|last=Day|first=Simon J |coauthors=Altman,  Douglas G |title=Blinding in clinical trials and other studies|journal=British Medical Journal|volume=321|issue=7259|pages=504|url=http://www.bmj.com/cgi/content/full/321/7259/504|pmid=10948038|year=2000|pmc=1118396|doi=10.1136/bmj.321.7259.504}}</ref> The [[placebo effect]] is known to be a confounding factor in trials; affecting the ability of both patients and doctors to report accurately on the clinical outcome. [[Blind experiment|Experimental blinding]] is a process to prevent [[bias]], both conscious and subconscious, skewing results.<ref name="Day"/>
+
+Blinding frequently takes the form of a [[placebo]], an inactive dummy that is indistinguishable from the real treatment. Blinding can however be difficult to achieve in some trials,<ref name="Day" /> for example, [[surgery]] or [[physical therapy]]. Poor blinding can exaggerate the perceived effects of treatment, particularly if any such effects are small.<ref>{{cite journal | title=The revised CONSORT statement for reporting randomized trials: explanation and elaboration | journal=Annals of Internal Medicine | date=2001-04-17 | first=DG | last=Altman | coauthors=KF Schulz, D Moher, M Egger, F Davidoff, D Elbourne, [[PC Gøtzsche]], T Lang, CONSORT GROUP (Consolidated Standards of Reporting Trials) | volume=134 | issue=8 |pages=663–694 | pmid=11304107 | doi=10.7326/0003-4819-134-8-200104170-00012 }}</ref> Blinding should be appropriate to the study, and is ideally [[Double-blind#Double-blind trials|double blind]], wherein neither the patient nor doctor is aware of whether they are in the control or test group, eliminating any such psychological effects from the study.
+
+===Withdrawals and dropouts===
+Withdrawals and [[dropping out|dropouts]] are those patients who fail to complete a course of treatment, or fail to report back on its outcome to the researchers. The reasons for doing so might be varied: the individuals may have moved away, abandoned the course of treatment, or died. Whatever the reason, the attrition rate can skew results of a study, particularly for those subjects who ceased treatment due to perceived inefficacy. In [[smoking cessation]] studies, for example, it is routine to consider all dropouts as failures.<ref>
+{{cite conference
+ | last = Lancaster T, Stead L
+ | title = Dealing with drop-outs in clinical trials and meta-analyses
+ | pages = 43
+ | conference = 7th Best Evidence Health Care Cochrane Colloquium
+ | year = 1999
+ | location = Universita San Tommaso d'Aquino
+ | url = http://gateway.nlm.nih.gov/MeetingAbstracts/ma?f=102184966.html
+}}</ref>
+
+==Jadad questionnaire==
+In an appendix to their 1996 paper, Jadad ''et al.'' published a three-point questionnaire that formed the basis for a Jadad score.<ref name="jadad"/> Each question was to be answered with either a ''yes'' or a ''no''. Each ''yes'' would score a single point, each ''no'' zero points; there were to be no fractional points. The Jadad team stated that they expected it should take no longer than ten minutes to score any individual paper. The questions were as follows:<ref name="jadad"/>
+
+# ''Was the study described as randomized?''
+# ''Was the study described as double blind?''
+# ''Was there a description of withdrawals and dropouts?''
+
+To receive the corresponding point, an article should describe the number of withdrawals and dropouts, in each of the study groups, and the underlying reasons. Additional points were given if:<ref name="jadad"/>
+* ''The method of randomisation was described in the paper, and that method was appropriate.''
+* ''The method of blinding was described, and it was appropriate.''
+
+Points would however be ''deducted'' if:<ref name="jadad"/>
+* ''The method of randomisation was described, but was inappropriate.''
+* ''The method of blinding was described, but was inappropriate.''
+
+A paper reporting a clinical trial could therefore receive a Jadad score of between zero and five. The Jadad scale is sometimes described as a five-point scale, though there are only three questions.
+
+==Uses==
+Jadad scores may be used in a number of ways:
+
+# To evaluate the general quality of medical research in a particular field.<ref name="Acupuncture">{{cite book|last=White|first=Adrian|coauthors=Ernst, Edzard|title=Acupuncture: A Scientific Appraisal|publisher=Elsevier |year=1999|pages=109|isbn=978-0-7506-4163-0|url=http://books.google.com/?id=e2KkvlQI7sYC&pg=PA109&lpg=PA109}}</ref><ref>{{cite journal|last=Wang|first=Gang|coauthors=et al.|title=The quality of reporting of randomized controlled trials of traditional Chinese medicine|journal=Clinical therapeutics|volume=29|issue=7|pages=1456–1467|doi=10.1016/j.clinthera.2007.07.023|year=2007|pmid=17825697}}</ref><ref>{{cite journal|last=Welk|first=B.|coauthors=Afshar, K., MacNeily, A.E.|title=Randomized controlled trials in pediatric urology: room for improvement|journal=J Urol|volume=176|issue=1|pages=pp 306–310|doi=10.1016/S0022-5347(06)00560-X|year=2006|pmid=16753430}}</ref>
+# To set a minimum standard for the paper's results to be included in a [[meta analysis]]. A researcher conducting a [[systematic review]] for example might elect to exclude all papers on the topic with a Jadad score of 3 or less.<ref>{{cite book|last=Simon|first=Stephen D. |title=Statistical Evidence in Medical Trials: What Do the Data Really Tell Us?|publisher=Oxford University Press|year=2006|pages=122|isbn=978-0-19-856761-5|url=http://books.google.com/?id=zaq99M2p_sEC&pg=PA121}}</ref>
+# For critical analysis of an individual paper.
+
+==Criticism==
+Critics have charged that the Jadad scale is flawed, being over-simplistic and placing too much emphasis on blinding,<ref>{{cite journal|last=Berger|first=V. W. |title=Is the Jadad Score the Proper Evaluation of Trials?|journal=J. Rheumatology|volume=33|issue=8|pages=1710–1712 |issn=0315-162X|url=http://www.jrheum.com/subscribers/06/08/1710-c.html}}</ref><ref>{{cite web|url=http://www.imbi.uni-freiburg.de/OJS/cca/index.php/cca/article/view/5053|title=Systematic Review of Quality Assessment Instruments for Randomized Control Trials|publisher=The Cochrane Collaboration|accessdate=2008-11-12}}</ref> and can show low consistency between different raters.<ref>{{cite journal|last=Clark |first=H.D.|coauthors=''et al.''|date=1999 Oct.|title=Assessing the quality of randomized trials: reliability of the Jadad scale|pages=448–52|journal=Control Clinical Trials|volume=20|issue=5 | pmid = 10503804|doi=10.1016/S0197-2456(99)00026-4}}</ref>
+
+==See also==
+* [[Consolidated Standards of Reporting Trials]]
+
+==References==
+{{Reflist}}
+
+[[Category:Clinical research]]
+[[Category:Clinical trials]]
+[[Category:Design of experiments]]
+[[Category:Scientific method]]

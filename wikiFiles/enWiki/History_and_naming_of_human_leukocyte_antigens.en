@@ -1,0 +1,197 @@
+{| align = "right" style="border:3px #e7dcc3 solid; margin-left:2em;"
+|width = "120" | [[Image:A2-peptide.PNG|120px]]
+|width = "120" | [[Image:HLA-B*3508.png|120px]] 
+|-
+| HLA-A*0201 || HLA-B*3508
+|-
+|[[Image:HLA-DQ2.5 gliadin.PNG|120px]]
+| 
+|-
+| HLA-DQ2.5 || HLA-DR1
+|-
+|}
+[[Human leukocyte antigen]]s (HLA) began as a list of [[antigen]]s identified as a result of transplant rejection. The list, HL-A1 to HL-A15. The antigens were identified based on [[serotype]]s that developed in transplant recipients, to donor antigens that could recognize one apparent antigen were found useful. HLA are not typical antigens, like those found on surface of [[infectious agent]]s. HLA antigens are ''allo''antigens, meaning they are due to the genetic differences between individuals, ''allo'' meaning different.
+{{further2|[[Graft-versus-host disease]]}}
+A person can have 2 antigen proteins per genetic-locus (one gene from each parent). During development the immune system determines these two antigens are 'self'-antigens or (''autoantigens'') and turns off the destructive response. However when tissues are transferred to another person they often become ''alloantigens''.  Identified antigens can therefore be clustered, creating groups in which no more than two antigens per cluster are found in a given person. Serotype group "A" consisted HL-A1, A2, A3, A9, A10, A11. Another cluster, "B", contained A7, A8, A12, A13, A14, A15. HL-A4 antigen was found to occur on lymphoid cells. Since the "HL-Antigens" no longer belonged to a single group, they were partially renamed. For example "HL-A7" became [[HLA-B7]] and "HL-A8" became [[HLA-B8]]. 
+
+In this arrangement there were cells that were 'blank' or had new [[specificity|specificities]], these new antigens were called "W" antigens, and as they were reassigned to new groups, for example "A" serotypes, they became Aw or Bw antigens. It was found that some antigens that behaved like A and B antigens but could be excluded based on '2-type max' exclusion. Thus a new group, "C" was created. Classification of [[HLA-C|C]] antigens is still ongoing, and they have retained the name Cw as many serotypes have not been developed. 
+
+The classification of the "A4" antigens was complicated. The "A4" subset evolved to become D-region antigens, which was a large cluster of genes that encoded MHC class II. Several renamings occurred. The D-region has 8 major coding loci that combine to form 3 different protein groups; DP, DQ, and DR. DRw antigens were the first to be split, a process made easy by the virtue of having an invariant alpha chain, but complicated by 4 beta chain loci (DRB1, DRB3, DRB4, and DRB5). Serotypes to DQ reacted with alpha and beta chains, or both of certain isoforms. The proper classification was greatly aided by gene sequencing and PCR. Classification and description of DP antigens is ongoing.
+
+==Genetic complexity typifies HLA==
+The naming of [[human leukocyte antigens]] HLA "[[antigen]]s" is deeply rooted in the discovery history of their [[serotype]]s and [[allele]]s. There is no doubt that HLA terminology can be bewildering, this terminology is a consequence of the complex genetics as well as the way these antigens were characterized. 
+
+Historical perspective is important to an understanding how the HLA were systematized. In organ transplant the goal was to explain graft rejection for recipients, and of course, to prevent future rejection. From this perspective, the cause of rejections were found to be "antigens". In the same way bacterial antigens can cause inflammatory response, HLA antigens from the donor of the organ caused an inflammatory response when placed in a recipient. This is called allograft [allo = different, graft(medical) = transplant] rejection. 
+
+To explain rejection in a nutshell, certain immune system components are highly variable, the agents are called the Major histocompatibility (MHC) antigens. MHC antigens cause rejection of improperly matched organ transplants. The variability stems from genetics. From the perspective of human evolution, why are antigens of the MHC so variable when many other human proteins lack variability? The cause of host-versus-graft-disease may actually stem from the functions of the system.  
+
+The use of the word alloantigen actually masks the fact that HLA are infrequently autoantigens in the donor, and therefore their function is not as antigens, but something else. But the naming of these antigens is not borne out of function but the need to match organ donors with recipients.
+
+===Transplantation and transplant rejection===
+[[Image:Alloreactive Antisera.PNG|frame|left|'''A simple example of HLA antigen causing rejection''' <br /> A1, A2, B7, B8 do not cause reaction because they are in both donor and recipient, DR2 and DR3 are found on lymphoid cells]]
+In the early 1960s, some physicians began more aggressive attempts at [[organ transplantation]]. Knowing little about ''compatibility factors'', they attempted transplantation between humans and between non-humans and humans.<ref name="pmid14081245">{{cite journal | author = Reemtsma K, Mccracken BH, Schlegel JU, Pearl M | title = Heterotransplantation of the kidney: two clinical experiences | journal = Science | volume = 143 | issue = 3607| pages = 700–2 | year = 1964 | pmid = 14081245 | doi =10.1126/science.143.3607.700 }}</ref> [[Immunosuppressive drugs]] worked for a time, but transplanted organs would either always fail or the patients would die from infections. Patients received skin, [[white blood cell]] or kidney donations from other donors (called [[allograft]]s, meaning 'of different genetics' grafts). If these [[allograft]]s were rejected, it was found that the 'rejection' response was accompanied by an [[antibody]] mediated [[agglutination (biology)]] of red blood cells (See figure).<ref name="pmid4866325">{{cite journal | author = Rapaport FT, Kano K, Milgrom F | title = Heterophile antibodies in human transplantation | journal = J. Clin. Invest. | volume = 47 | issue = 3 | pages = 633–42 | year = 1968 | pmid = 4866325 | doi =10.1172/JCI105759 | pmc = 297209 }}</ref> The search for these cell surface antigens began. There are several processes by which antibodies can reduce function: 
+* [[Transplant rejection#Acute rejection|Acute rejection - Antibodies]] could attract lymphocytes and cause them to lyse cells via the immune system's [[classical complement pathway]]
+* Antibodies could bind to and alter function (e.g., flow of a fluid, or prevention of binding of ligands to receptors)
+* [[Cytokine]] responses that cause systemic responses.
+
+====Different antigens can be identified====
+In the accompanying figure, two similar [[haplotype]]s (unknown to early clinicians) are identical, except for the one ''antigen'' in the top haplotype. The transplant may not be rejected, but if rejection does occur that allotypic protein, the allo''[[antigen]]'', in the donor tissue may have induced the dominant allo-reactive antibody in the recipient.
+
+====Assaying antiserum====
+[[File:Anti-HLA agglutinated RBC.png|frame|right|'''Agglutination of [[HLA-A3]] positive [[red blood cell]]s''' (RBCs) with anti-A3 alloreactive [[antisera]] containing Anti-A3 [[IgM]]]]
+'''Hemagglutination assay'''. In generating an immune response to an antigen, the [[B-cell]]s go through a process of maturation, from surface IgM production, to serum IgM production, to maturation into a [[plasma cell]] producing IgG. Graft recipients who generate an immune response have both IgM and IgG. The IgM can be used directly in [[hemagglutination]] assays, depicted on the right. IgM has 10 antigen binding regions per molecule, allowing cross-linking of cells. An antiserum specific for HLA-A3 will then agglutinate HLA-A3 bearing red blood cells if the concentration of IgM in the antiserum is sufficiently high. Alternatively, a second antibody to the invariable (F<sub>c</sub>) region of the IgG can be used to cross-link antibodies on different cells, causing agglutination. 
+
+'''Complement fixation assay'''. The [[complement fixation test]] was modified to assay Antiserum mediated RBC lysis. 
+
+'''Chromium release assay'''. This assay measures the release of (biological) radioactive chromium from cells as a result of killer cell activity. These cells are attracted to class I antigens that either carry foreign antigens, or are foreign to the immune system.
+
+====The role of haplotypes in identifying antigens====
+{|style="margin-right:1em;  border:1px #ccffdd solid; background:#ebffef; text-align:center;" align="left" 
+|-
+| || colspan = "3" | '''Haplotype 1''' || colspan = "3" |'''Haplotype 2''' 
+|-
+! width = "80" |Example 1 || width = "20" | A || width = "20" |Cw || width = "20" |B || width = "20" |A || width = "20" |Cw || width = "20" |B   
+|-
+|Donor || 1 || 7 || 8 || '''3''' || 7 || 7  
+|-
+|Recipient||  1 || 7 || 8 || '''2''' || 7 || 7 
+|-
+|Alloreactivity||   || || || <span style="color:red;">'''3'''</span>|| 
+|| 
+|-
+| colspan = "7" align="left"|<span style="color:lightgreen;">&nbsp;'''Example 2'''</span>
+|-
+|Donor || 1 || 7 || 8 || '''2''' || 7 || 8 
+|-
+|Recipient||  1 || 7 || 8 || '''3''' || 7 || 8 
+|-
+|Alloreactivity||   || || || <span style="color:red;">'''2'''</span>|| || 
+|-
+|}
+
+Each person has two HLA [[haplotype]]s, a cassette of genes passed on from each parent. The haplotype frequencies in Europeans are in strong [[linkage disequilibrium]]. This means there are much higher frequencies of certain haplotypes relative to the expectation based on random sorting of gene-alleles.  This aided the discovery of HLA antigens, but was unknown to the pioneering researchers.
+
+In the tables a fortuitous transplant between two unrelated individual has resulted in an antiserum to single alloantigen. By discovering these close-but-non-identical matches, the process with somewhat related haplotypes surface antigens were identified for HLA A, and in the table below, HLA B at the time however these were all grouped together as HL-Antigens. On the left the "B" and "cw" antigens are matched (B and C are close together so if B matches then C likely also matches), but A antigens are not matched. The antisera that is produced by the recipient is most likely to be A3, but if the direction of transplant is reversed A2 is the likely alloantigen. Two of the first three alloantigens are thus readily easy to detect because of the similarity and frequency of the A2-B7 and A3-B7 haplotypes (see example 1).   
+ 
+{|style="margin-left:1em;  border:1px #ccffdd solid; background:#ebffef; align:center;" align="right" 
+|-
+| || colspan = "3" | '''Haplotype 1''' || colspan = "3" |'''Haplotype 2''' 
+|-
+| '''Example 3''' || width = "30" | A || width = "30" |Cw || width = "30" |B || width = "30" |A || width = "30" |Cw || width = "30" |B 
+|-
+|Donor || 1 || 7 || 8 || 1 || 7 || 7 
+|-
+|Recipient|| 1 || 7 || 8 || 1 || 7 || 8 
+|-
+|Alloreactivity||   || || || || 
+|| <span style="color:red;">7</span> 
+|-
+| colspan = "7" align="left"|<span style="color:lightgreen;">&nbsp;'''Example 4'''</span>
+|-
+|Donor || 3 || 7 || 7 || 1 || 7 || 8 
+|-
+|Recipient||  3 || 7 || 7 || 1 || 7 || 7 
+|-
+|Alloreactivity||   || || || || 
+|| <span style="color:red;">8</span> 
+|-
+|}
+
+In these instances, the A1/A2, A2/A3, A1/A3 are matched, decreasing the probability of a rejection because many are linked to a given haplotype. Occasionally the 'recombinant' A1-Cw7-B7(rare), B7 becomes the alloantigen in a recipient with A1-Cw7-B8(common).
+
+This linkage disequilibrium in Europeans explains why A1, A2, A3, "A7"[B7], and "A8"[B8] were identified, first. It would have taken substantially longer to identify other alleles because frequencies were lower, and haplotypes that migrated into the European population had undergone equilibration or were from multiple sources. 
+
+This is the genetic background against which scientists tried to uncover and understand the histocompatibility antigens.
+
+===A list of antigens created===
+In the late 1960s, scientist began reacting [[blood serum|sera]] from patients with rejecting transplants to donor or 'third party' tissues. Their [[sera]] (the liquid part of the blood when blood clots) was sensitized to the cells from donors - it was ''alloreactive''. By testing different anti-sera from recipients they were able to uncover some with unique reactivities. As a result, scientists were able to identify a few antigens. At first the first antigens were called the Hu-1 antigens<ref name="pmid4887739">{{cite journal | author = Bach FH, Amos DB | title = Hu-1: Major histocompatibility locus in man | journal = Science | volume = 156 | issue = 3781 | pages = 1506–8 | year = 1967 | pmid = 4887739 | doi = 10.1126/science.156.3781.1506 }}</ref> and tentatively tagged as gene products of the Human equivalent of the mouse histocompatibility locus (H2). In 1968, it was discovered that matching these antigens between kidney donor and recipient improved the likelihood of kidney survival in the recipient.<ref name="pmid4876470">{{cite journal | doi = 10.1056/NEJM196809052791001 | author = Patel R, Mickey MR, Terasaki PI | title = Serotyping for homotransplantation. XVI. Analysis of kidney transplants from unrelated donors | journal = N. Engl. J. Med. | volume = 279 | issue = 10 | pages = 501–6 | year = 1968 | pmid = 4876470 }}</ref> The antigen list still exists,  although it has been reorganized to fit what we have since learned about genetics, refined, and greatly expanded.
+
+===Lymphocyte bearing antigens recognized===
+[[Image:LAvsA4.PNG|left]]
+As the study of these 'rejection' [[sera]] and "allo"-antigens progressed, certain patterns in the antibody recognition were recognized. The first major observation, in 1969, was that an allotypic antibodies to "4" ("Four") was only found on lymphocytes, while most of the antigens, termed "LA", recognized most cells in the body.<ref name="pmid5773111">{{cite journal | author = Mann DL, Rogentine GN, Fahey JL, Nathenson SG | title = Molecular heterogeneity of human lymphoid (HL-A) alloantigens | journal = Science | volume = 163 | issue = 3874 | pages = 1460–2 | year = 1969 | pmid = 5773111 | doi = 10.1126/science.163.3874.1460 }}</ref> 
+
+This group "4" antigen on lymphocytes would expand into "4a", "4b" and so on, becoming the "D" series (HLA-D (Class II) antigens) DP, DQ, and DR. This is an interesting history in itself. 
+
+The Hu-1 antigens were renamed the Human-lymphoid (HL) allo-antigens (HL-As). Allo-antigen comes from the observation that a tolerated protein in the donor becomes antigenic in the recipient. This can be compared with an [[autoantigen]], in which a person develops antibodies to one or more of their own proteins. This also suggested  the donor and recipient have a different genetic makeup for these antigens. The "LA" group thereafter was composed of HL-A1, A2, A3, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14 and A15 until further divisions and renaming were necessary. Some of the antigens above, for example HL-A1, are similar to [[HLA-A1]], as they are the same serotype. Some of the above, like A5, are not mentioned within the last few years, as they have been renamed.
+
+During these early studies it became known that there were associations with many autoimmune diseases. And the [[HLA A1-B8 haplotype]] is linked to a very long piece of conserved chromosome 6 variant called [[HLA A1-B8-DR3-DQ2|AH8.1 haplotype]]. In these studies ''HL-A1,8'' were frequently found co-linked to disease. This linkage is not necessarily a function of either gene, but a consequence of the way AH8.1 evolved.
+
+===Subclassification of lymphoid antigens===
+[[Image:HL-Series A and B.PNG|right]]
+A series of tests on cultured cells revealed that, within the "LA" group, a donor tissue might have some antigens but not others. For example, an antiserum may react with patterns (on a given tissue):
+
+* A1, A2, A7, A12
+* A1, A3, A7, A8
+* A1, A11, A8, A5
+* A1, A8
+
+But fail to react in the following patterns:
+
+* A1, A2, A3, ...
+* A1, A2, A11, ....
+* A2, A3, A11, ....
+* . . . A7, A8, A12
+
+===The HLA serotype series===
+
+====Series "A"====
+{|style="margin-left:2em;  border:1px #ccffdd solid; background:#ebffef" align="right"
+|-
+|
+{|style="text-align:left; margin-left:1em; background:#ebffef" 
+|- align = "center"
+| <div style="font-size:medium; line-height:120%;">'''Genetics of Serotyping'''</div>
+|-
+| '''Effects of intraseries exclusion'''
+|-
+| column width = "300px" | Once it was determined that a tissue with two antigens of a series (such as "A") excluded the possibility of a third antigen of the same series, HLA serotypes began to clarify the genetic alleles present in humans. HL-Series "A" antigens became the HLA-A locus gene products, but with exceptions. Some serotypes, such as HL-A1 were so homogeneous in nature that mistaking that serotyped allele (HLA-A*0101) for another allele was unlikely. <br />
+|-
+|'''Interpreting Serotypes as Alleles'''
+|-
+| column width = "300px" | HL-A1 antiserum reacts to [[HLA-A1]] [[gene product]], a cell surface antigen, the similar cell surface antigens are found on almost all cells in the body. The frequency of HLA-A1 alleles is: HLA-A1'''*0101'''- 17.3%, '''*0103'''- 0.016%. The frequency of *0101 is 1000 times more abundant than *0103, or 99.9% of the time you have identified the correct allele with the serotype. The false negative rate for [[HLA-A1#Serotype|HLA-A1 serotype]] is 1% and the giving the HLA-A1 serotyping a [[specificity (tests)|specificity]] of 98.9% for the A1*0101 allele.<br />
+|-
+|'''Increasing confidence of Interpretation'''
+|-
+| column width = "300px" | Sensitivity is lower, particularly in the study of non-caucasians as the HL-A1 can cross-react to similar sites on  [[Genetic recombination|genetic recombinant]]s (most often [[gene conversion]]). Sensitivity can be improved by knowing the haplotype. In Europe, HLA-A1 is strongly linked to a 'chunk of chromosome' called a 'haplotype'. This haplotype, Super-B8, is A1-Cw7-B8-DR3-DQ2, about 2 million DNA codons (the [[nucleotide]] building blocks) long. This chunk has avoided recombination for thousands of years. When the A1 serotype is found with B8 (i.e., the 'old' HL-A8) serotype in Europe, there is an even greater chance the HL-A1 antiserum has detected the A1*0101 allele's gene product. <br />
+|}
+|}
+If 2 members of the series (A1, 2, 3, 9, 10, 11) were typed, a reaction with a third member of the series to the donor was not observed. This 'exclusivity' identified series "A".<ref>Bach ML, Bach FH. ''The genetics of histocompatibility''.(1970) Hosp. Practice 5(8): 33-44</ref> One might notice the similarities of this numeric series with the [[Template:HLA-A serotypes|HLA-A series]], as series "A" antigens are the first six members of [[HLA-A]]. Inadvertently, the scientist had discovered an antibody set that recognized only [[gene product]]s from one locus, [[HLA-A#HLA-A gene|HLA-A gene]] the "antigens" being the gene products. The implication is that an alloreactive anti-sera can be a tool for genetic identification.
+
+====Series "B"====
+Not long after the series A antigens were separated from the (rapidly expanding) list of antigens, it was determined another group also could be separated along the same ''logical'' lines.  This group included HL-A5, A7, A8, A12.  This became the series "B".
+Note the similarity of Series "B" to the first few members [[Template:HLA-B serotypes|HLA-B serotypes]]. The names of these antigens were necessarily changed to fit the new putative series they were assigned to. From HL-A# to HLA-B#. The problem was that the literature was using "A7" and would soon be using "B7" as shorthand for [[HLA-B7]].
+
+====Pseudo-series "w"====
+Since it was now certain, by the early 1970s, that the "antigens" were encoded by different series, implicit loci, numeric lists became somewhat cumbersome. Many groups were discovering antigens. In these instances an antigen was assigned a temporary name, like "RoMa2" and after discussion, the next open numeric slot could be assigned, but not to an "A" or "B" series until proper testing had been done. To work around this problem a 'workshop' number "w#" was often assigned while testing continued to determined which series the antigen belonged to.
+
+====Series "C"====
+Before too long, a series "C" was uncovered. Series C has proved difficult to serotype, and the alleles in the series still carry the "w" tag signifying that status; in addition, it reminds us that Series C were not assigned names the same way as Series A and B, it has its own numeric list Cw1, Cw2, Cw3.
+
+===Serotype group expansion and refinement===
+By the mid 1970s, genetic research was finally beginning to make sense of the simple list of antigens, a new series "C" had been discovered and, in turn genetic research had determined the order of HLA-A, C, B and D encoding loci on the human [[chromosome 6|6]]p.<ref name="pmid136874">{{cite journal | author = Yunis EJ, Dupont B, Hansen J | title = Immunogenetic aspects of allotransplantation | journal = Adv. Exp. Med. Biol. | volume = 73 Pt B | issue = | pages = 231–51 | year = 1976 | pmid = 136874 }}</ref> With new series came new antigens; Cw1 and 2 were quickly populated, although Cw typing lagged. Almost half of the antigens could not be resolved by serotyping in the early 90s. Currently genetics defines 18 groups. 
+
+At this point, Dw was still being used to identify DR, DQ, and DP antigens. The ability to identify new antigens far exceeded the ability to characterize those new antigens. 
+
+As technology for transplantation was deployed around the world, it became clear that these antigens were far from a complete set, and in fact hardly useful in some areas of the world (e.g., Africa, or those descended from Africans). Some serotyping antibodies proved to be poor, with broad specificities, and new serotypes were found that identified a smaller set of antigens more precisely. These broad antigen groups, like A9 and B5, were subdivided into "split" antigen groups, A23 & A24 and B51 & B52, respectively. As the HL-A serotyping developed, so did identification of new antigens.
+
+===Genetic identification===
+In the early 1980s, it was discovered that a restriction fragment segregates with individuals who bear the [[HLA-B8]] serotype.  By 1990, it was discovered that a single amino acid sequence difference between HLA-B44 (B*4401 versus B*4402) could result in allograft rejection. This revelation appeared to make serotyping based matching strategies problematic if many such differences existed. In the case of B44, the antigen had already been split from the B12 broad antigen group. In 1983, the cDNA sequences of [[HLA-A3]] and [[HLA-Cw3|Cw3]]<ref name="pmid6609814">{{cite journal | author = Strachan T, Sodoyer R, Damotte M, Jordan BR | title = Complete nucleotide sequence of a functional class I HLA gene, HLA-A3: implications for the evolution of HLA genes | journal = EMBO J. | volume = 3 | issue = 4 | pages = 887–94 | year = 1984 | pmid = 6609814 | doi = | pmc = 557443 }}</ref> All three sequences compared well with mouse MHC class I antigens. The Western European [[HLA-B7]] antigen had been sequenced (although the first sequence had errors and was replaced). In short order, many HLA class I alleles were sequenced
+including 2 Cw1 alleles.<ref name="pmid3375250">{{cite journal | author = Parham P, Lomen CE, Lawlor DA, ''et al.'' | title = Nature of polymorphism in HLA-A, -B, and -C molecules | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 85 | issue = 11 | pages = 4005–9 | year = 1988 | pmid = 3375250 | doi = 10.1073/pnas.85.11.4005 | pmc = 280349 }}</ref>
+
+By 1990, the full complexity of the HLA class I antigens was beginning to be understood. At the time new serotypes were being determined, the problem with multiple alleles for each serotype was becoming apparent by nucleotide sequencing. [[RFLP]] analysis helped determine new alleles, but sequencing was more thorough. Throughout the 1990s, PCR kits, called SSP-PCR kits were developed that allowed, at least under optimal conditions, the purification of DNA, PCR and Agarose Gel identification of alleles within an 8 hour day. Alleles that could not be clearly identified by serotype and PCR could be sequenced, allowing for the refinement of new PCR kits.
+
+Serotypes like B*4401, B*4402, B*4403, each abundant within those with B44 serotypes could be determined with unambiguous accuracy. The molecular genetics has advanced HLA technology markedly over serotyping technology, but serotyping still survives. Serotyping had identified the most similar antigens that now form the HLA subgroups. Serotyping can reveal whether an antigen coded by the relevant HLA gene is expressed. An HLA allele coding non-expressed gene is termed "Null Allele", for example: HLA-B*15:01:01:02N. The expression level can also detected by serotyping, an HLA gene coding for antigens which has low protein expression on the cell surface is termed "Low Rxpresser", for example: HLA-A*02:01:01:02L.
+
+==Summary==
+* [[Lymphoid tissue|Lymphoid]] "antigens" became an experimental [[Iatrogenesis|artifact]] of medical techniques (i.e., of transplantation). Simply, as scientist gained familiarity with the human immune system they learned more about graft rejection, the cause was antibody production to proteins in donor tissue. The key word is allo - which means of different origin. 'Allo'typic proteins in 'allo'grafts developed immune responses in recipients. What makes these proteins different?
+
+* From a more modern perspective, HLA [[gene product]]s (i.e., antigen-presenting, [[cell-surface receptor]]s) did not evolve to be transplantation antigens, nor to interfere with transplantation, organ transplantation being unknown until 1960. The HLA genes are much older. Variation in HLA major antigens is the cause of transplant rejection, but variation at HLA is under preservative selection (Called heterozygous selection or [[balancing selection]]). Variation of HLA has led to an estimate that they are at least 60 million years in age for humans (DRB1).<ref name="pmid8533083">{{cite journal | author = Ayala FJ | title = The myth of Eve: molecular biology and human origins | journal = Science | volume = 270 | issue = 5244 | pages = 1930–6 | year = 1995 | pmid = 8533083 | doi = 10.1126/science.270.5244.1930 }}</ref>  In humans, the number of HLA alleles is expanding, even with many genes, many more are still tolerable as immune presentation antigens.
+
+The scientific problem has been to explain the natural function of a molecule, such as a self [[cell-surface antigen|cell-surface receptor]] involved in [[Immunity (medical)|immunity]]. It also seeks to explain how variation developed (perhaps by evolutionary pressure), and how the genetic mechanisms works ([[dominance (genetics)|dominant]], [[codominant]], [[Dominant gene#Incomplete dominance|semidominant]], or [[recessive]]; [[purifying selection]] or [[balancing selection]]).
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:History And Naming Of Human Leukocyte Antigens}}
+[[Category:Scientific terminology]]
+[[Category:Cell-surface antigens]]

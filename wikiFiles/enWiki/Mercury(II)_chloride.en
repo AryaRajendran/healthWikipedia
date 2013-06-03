@@ -1,0 +1,140 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 394124864
+|  Name = Mercury(II) chloride
+|  ImageFile = Mercury(II)-chloride-xtal-1980-3D-balls.png
+|  ImageSize =
+|  ImageName = Ball-and-stick model of the crystal structure
+|  ImageFile1 = Mercury(II)-chloride-xtal-3D-vdW.png
+|  ImageSize1 =
+|  ImageName1 = Space-filling model of the crystal structure
+|  ImageFile2 = Mercury(II) chloride.jpg
+|  ImageSize2 =
+|  ImageName2 = Mercury(II) chloride
+|  IUPACName = Mercury(II) chloride<br />Mercury dichloride
+|  OtherNames = Mercuric chloride<br/>Corrosive sublimate
+| Section1 = {{Chembox Identifiers
+| CASNo = 7487-94-7
+| CASNo_Ref = {{cascite|correct|CAS}}
+| EINECS = 231-299-8
+| RTECS = OV9100000
+| UNNumber = 1624
+| PubChem = 24085
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 22517
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = C13377
+| SMILES = Cl[Hg]Cl
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/2ClH.Hg/h2*1H;/q;;+2/p-2
+| ATCCode_prefix = D08
+| ATCCode_suffix = AK03
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = HgCl<sub>2</sub>
+|   MolarMass = 271.52 g/mol
+|   Appearance = colorless or white solid
+|   Odor = odorless
+|   Density = 5.43 g/cm<sup>3</sup>
+|   Solubility = 3.6 g/100 mL (0 °C) <br> 7.4 g/100 mL (20 °C) <br> 48 g/100 mL (100 °C)
+|   SolubleOther = 4 g/100 mL (ether) <br> soluble in [[alcohol]], [[acetone]], [[ethyl acetate]] <br> slightly soluble in [[benzene]], [[carbon disulfide|CS<sub>2</sub>]], [[pyridine]]
+|   MeltingPtC = 276
+|   BoilingPtC = 304
+|   pKa = 3.2 (0.2M solution)
+|   RefractIndex = 1.859
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = linear
+|   Coordination = linear
+|   CrystalStruct = orthogonal
+|   Dipole = zero
+  }}
+| Section4 = {{Chembox Thermochemistry
+|   DeltaHf = −230&nbsp;kJ·mol<sup>−1</sup><ref name=b1>{{cite book| author = Zumdahl, Steven S.|title =Chemical Principles 6th Ed.| publisher = Houghton Mifflin Company| year = 2009| isbn = 0-618-94690-X|page=A22}}</ref>
+|   Entropy = 144&nbsp;J·mol<sup>−1</sup>·K<sup>−1</sup><ref name=b1/>
+ }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://www.inchem.org/documents/icsc/icsc/eics0979.htm ICSC 0979]
+|   EUIndex = 080-010-00-X
+|   EUClass = Very toxic ('''T+''')<br/>Corrosive ('''C''')<br/>Dangerous for the environment ('''N''')
+|   RPhrases = {{R28}}, {{R34}}, {{R48/24/25}}, {{R50/53}}
+|   SPhrases = {{S1/2}}, {{S36/37/39}}, {{S45}}, {{S60}}, {{S61}}
+|   NFPA-H = 4
+|   NFPA-F = 0
+|   NFPA-R = 0
+|   NFPA-O =
+|   FlashPt = Non-flammable
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions = [[Mercury(II) fluoride]]<br/>[[Mercury(II) bromide]]<br/>[[Mercury(II) iodide]]
+|   OtherCations = [[Zinc chloride]]<br/>[[Cadmium chloride]]<br/>[[Mercury(I) chloride]]
+  }}
+}}
+
+'''Mercury(II) chloride''' or '''mercuric chloride''' (archaically, '''corrosive sublimate''') is the [[chemical compound]] of [[Mercury (element)|mercury]] and [[chlorine]] with the [[chemical formula|formula]] HgCl<sub>2</sub>. This white crystalline [[solid]] is a laboratory [[reagent]] and a molecular compound. Once used as a treatment for [[syphilis]], it is no longer used for medicinal purposes because of [[mercury toxicity]] and the availability of superior treatments.
+
+==Production and basic properties==
+Mercuric chloride is not a salt but a linear triatomic molecule, hence its tendency to [[Sublimation (chemistry)|sublime]].  In the crystal, each mercury atom is bonded to two close chloride [[ligand]]s with Hg&mdash;Cl distance of 2.38 Å; four more chlorides are more distant at 3.38 Å.<ref>Wells, A.F. (1984) Structural Inorganic Chemistry, Oxford: Clarendon Press. ISBN 0-19-855370-6.</ref>
+
+Mercuric chloride is obtained by the action of [[chlorine]] on mercury or [[mercury(I) chloride]], by the addition of [[hydrochloric acid]] to a hot, concentrated solution of mercury(I) compounds such as the [[mercury(I) nitrate|nitrate]]:
+
+:HgNO<sub>3</sub> + 2 HCl → HgCl<sub>2</sub> + H<sub>2</sub>O + NO<sub>2</sub>,
+
+Heating a mixture of solid [[mercury(II) sulfate]] and [[sodium chloride]] also affords volatile HgCl<sub>2</sub>, which [[Sublimation (physics)|sublimes]] and condenses in the form of small rhombic crystals.
+
+Its solubility increases from 6% at {{convert|20|C}} to 36% in {{convert|100|C}}. In the presence of chloride ions, it dissolves to give the tetrahedral [[coordination complex]] [HgCl<sub>4</sub>]<sup>2-</sup>.
+
+==Applications==
+The main application of mercuric chloride is as a [[catalyst]] for the conversion of [[acetylene]] to [[vinyl chloride]], the precursor to [[polyvinylchloride]]:
+:C<sub>2</sub>H<sub>2</sub>  +  HCl   →   CH<sub>2</sub>=CHCl
+For this application, the mercuric chloride is supported on carbon in concentrations of about 5 weight percent.  This technology has been eclipsed by the thermal cracking of [[1,2-dichloroethane]].  Other significant applications of mercuric chloride include its use as a [[depolarizer]] in batteries and as a reagent in [[organic synthesis]] and [[analytical chemistry]] (see below).<ref>Matthias Simon, Peter Jönk, Gabriele Wühl-Couturier, Stefan Halbach "Mercury, Mercury Alloys, and Mercury Compounds" in Ullmann's Encyclopedia of Industrial Chemistry 2006: Wiley-VCH, Weinheim. {{doi|10.1002/14356007.a16_269.pub2}}</ref>
+It is being used in plant tissue culture for surface sterilisation of explants such as leaf or stem nodes.
+
+===As a chemical reagent===
+Mercuric chloride is occasionally used to form an [[amalgam (chemistry)|amalgam]] with metals, such as [[aluminium]].  Upon treatment with an aqueous solution of mercuric chloride,  aluminium strips quickly become covered by a thin layer of the amalgam. Normally, aluminium is protected by a thin layer of oxide making it inert.  Once amalgamated, aluminium can undergo a variety of reactions.  For example, it will dissolve in water (this can be dangerous, as hydrogen gas and heat are generated).  [[Halocarbon]]s react with amalgamated aluminium in the [[Barbier reaction]]. These alkylaluminium compounds are [[nucleophilic]] and  can be used in a similar fashion to the Grignard reagent. Amalgamated aluminium is also used as a [[Redox|reducing agent]] in organic synthesis.  Zinc is also commonly amalgamated using mercuric chloride.
+
+Mercuric chloride is used to remove [[dithiane]] groups attached to a carbonyl in an [[umpolung]] reaction.  This reaction exploits the high affinity of Hg<sup>2+</sup> for anionic sulfur ligands.
+
+===Historic use in photography===
+Mercury(II) chloride was used as a photographic intensifier to produce positive pictures in the [[collodion process]] of the 1800s. When applied to a negative, the mercury(II) chloride whitens and thickens the image, thereby increasing the opacity of the shadows and creating the illusion of a positive image.<ref>Towler, J. (1864). [http://albumen.conservation-us.org/library/monographs/sunbeam/chap18.html Stereographic negatives and landscape photography]. Chapter 28. In: [http://albumen.conservation-us.org/library/monographs/sunbeam/index.html The silver sunbeam: a practical and theoretical textbook of sun drawing and photographic printing. ] Retrieved on April 13, 2005.</ref>
+
+===Historic use in preservation===
+For the preservation of anthropological and biological specimens during the late 19th and early 20th centuries, objects were dipped in or were painted with a "mercuric solution". Objects in drawers were protected by scattering crystalline mercuric chloride over them.<ref>Goldberg, L. (1996). [http://cool.conservation-us.org/jaic/articles/jaic35-01-003.html A history of pest control measures in the anthropology collections, national museum of natural history, Smithsonian Institution]. JAIC 35(1) 23&ndash;43. Retrieved on April 17, 2005.</ref>  It finds minor use in tanning, and wood was preserved by [[Wood preservation#Kyanizing|kyanizing]] (soaking in mercuric chloride).<ref>Freeman, M.H. Shupe, T.F. Vlosky, R.P. Barnes, H.M. (2003). [http://www.cfr.msstate.edu/forestp/preservation.pdf#search='wood%20preservative%20mercuric%20chloride' Past, present and future of the wood preservation industry]. Forest Products Journal. 53(10) 8&ndash;15. Retrieved on April 17, 2005.</ref>  Mercuric chloride was one of the three chemicals used for railroad tie wood treatment between 1830 and 1856 in Europe and the United States.  Limited railroad ties were treated in the United States until there were concerns over lumber shortages in the 1890s.<ref>Pg. 19-75 "Date Nails and Railroad Tie Preservation" (3 vol.; 560 p.), published in 1999 by the Archeology and Forensics Laboratory, University of Indianapolis; Jeffrey A. Oaks</ref>  The process was generally abandoned because mercuric chloride was water soluble and not effective for the long term, as well as poisonous.  Furthermore, alternative treatment processes, such as [[copper sulfate]], [[zinc chloride]], and ultimately [[creosote]]; were found to be less toxic.  Limited kyanizing was used for some railroad ties in the 1890s and early 1900s.<ref><History of Railroad Tie Preservation by Jeffrey A. Oaks, Univ. of Indiana, Pg. 20-30 and Pg. 64, Table I http://facstaff.uindy.edu/~%20oaks/Articles/History.pdf ></ref>
+
+===Historic use in medicine===
+Mercuric chloride was used to disinfect wounds by [[Medicine in the medieval Islamic world|Arab physicians]] in the Middle Ages.<ref>{{cite book|last=Maillard|first=Adam P. Fraise, Peter A. Lambert, Jean-Yves|title=Principles and Practice of Disinfection, Preservation and Sterilization|year=2007|publisher=John Wiley & Sons|location=Oxford|isbn=0470755067|page=4}}</ref>
+
+[[Syphilis]] was frequently treated with mercuric chloride before the advent of [[antibiotics]]. It was inhaled, ingested, injected, and applied topically.   Poisoning was so common that its symptoms were confused with those of syphilis. This usage of "salts of white mercury" is referred to in the [[English language|English]] [[folk-song]], "[[The Unfortunate Rake]]".<ref>Pimple, K.D. Pedroni, J.A. Berdon, V. (2002, July 09). [http://wisdomtools.com/poynter/syphilis.html Syphilis in history]. Poynter Center for the Study of Ethics and American Institutions at Indiana University-Bloomington. Retrieved on April 20, 2008.</ref>
+
+==Toxicity==
+{{main|Mercury poisoning}}
+Mercuric chloride is highly toxic, not only acutely but as a cumulative poison.
+
+==References==
+{{reflist}}
+* {{1911}}
+
+==External links==
+{{Commons category|Mercury(II) chloride}}
+* Agency for toxic substances and disease registry. (2001, May 25). [http://www.atsdr.cdc.gov/toxprofiles/tp46.html Toxicological profile for Mercury]. Retrieved on April 17, 2005.
+* National institutes of health. (2002, October 31). [http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+7487-94-7 Hazardous substances data bank: Mercuric chloride]. Retrieved on April 17, 2005.
+* Young, R.(2004, October 6). [http://risk.lsd.ornl.gov/tox/profiles/mercury_f_V1.shtml Toxicity summary for mercury]. The risk assessment information system. Retrieved on April 17, 2005.
+*[http://www.atsdr.cdc.gov/tfacts46.html ATSDR - ToxFAQs: Mercury]
+*[http://www.atsdr.cdc.gov/toxprofiles/phs46.html ATSDR - Public Health Statement: Mercury]
+*[http://www.atsdr.cdc.gov/MHMI/mmg46.html ATSDR - Medical Management Guidelines (MMGs) for Mercury (Hg)]
+*[http://www.atsdr.cdc.gov/toxprofiles/tp46.html ATSDR - Toxicological Profile: Mercury]
+*{{ICSC|0979|09}}
+* [http://www.npi.gov.au/database/substance-info/profiles/53.html National Pollutant Inventory - Mercury and compounds Fact Sheet]
+*[http://www.cdc.gov/niosh/npg/npgd0383.html NIOSH Pocket Guide to Chemical Hazards]
+*[http://www.altcorp.com/DentalInformation/mercuric.htm Mercury chloride toxicity] - includes excerpts from research reports.
+
+{{Antiseptics and disinfectants}}
+{{Mercury compounds}}
+
+{{DEFAULTSORT:Mercury(Ii) Chloride}}
+[[Category:Mercury compounds]]
+[[Category:Chlorides]]
+[[Category:Metal halides]]
+[[Category:Alchemical substances]]
+[[Category:Photographic chemicals]]

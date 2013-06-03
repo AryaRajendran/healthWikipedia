@@ -1,0 +1,50 @@
+{{orphan|date= April 2011}}
+{{Expert-subject|Medicine|date=May 2011}}
+[[Blood pressure]] is the measurement of force that is applied to the walls of the [[blood vessel]]s as the [[heart]] pumps blood throughout the body.<ref>{{cite web|last=Dugdale|first=David|title=Blood Pressure|url=http://www.nlm.nih.gov/medlineplus/ency/article/003398.htm|accessdate=1 April 2011}}</ref> The [[human circulatory system]] is 60,000 miles long, and the magnitude of blood pressure is not uniform in all the blood vessels in the human body. The blood pressure is determined by the diameter, the flexibility and the amount of blood being pumped through the blood vessel.<ref>{{cite web|last=Dugdale|first=David|title=Blood Pressure|url=http://www.nlm.nih.gov/medlineplus/ency/article/003398.htm|accessdate=1 April 2011}}</ref> Blood pressure is also affected by other factors including exercise, stress level, diet and sleep.
+
+The average normal blood pressure in the [[brachial artery]], which is the next direct artery from the [[aorta]], is 120 mmHg/80 mmHg. Blood pressure readings are measured in [[Millimetre of mercury|millimeters of mercury]] (mmHg) using [[sphygmomanometer]]. Two pressures are measured and recorded, namely as [[Systolic blood pressure|systolic]] and [[Diastolic blood pressure|diastolic pressures]]. Systolic pressure reading is the first reading, which represents the maximum exerted pressure on the vessels when the heart contracts, while the diastolic pressure, the second reading, represents the minimum pressure in the vessels when the heart relaxes.<ref>{{cite web|last=Klabunde|first=Richard|title=Arterial Blood Pressure|url=http://www.cvphysiology.com/Blood%20Pressure/BP002.htm|accessdate=31 March 2011}}</ref> Other major [[Artery|arteries]] have similar levels of blood pressure recordings indicating very low disparities among major arteries. The [[innominate artery]], the average reading is 110/70&nbsp;mmHg, the [[right subclavian artery]] averages 120/80 and the [[abdominal aorta]] is 110/70&nbsp;mmHg.<ref>{{cite book|last=Fung|first=Yuan-cheng|title=Biomechanics:Circulation|year=1997|publisher=Springer|location=New York|isbn=038794383|pages=571}}</ref> The relatively uniform pressure in the arteries indicates that these blood vessels act as a pressure reservoir for fluids that are transported within them.
+
+Pressure drops gradually as blood flows from the major arteries, through the [[arteriole]]s, the [[Capillary|capillaries]] until blood is pushed up back into the heart via the [[venule]]s, the veins through the [[vena cava]] with the help of the muscles. At any given pressure drop, the [[flow rate]] is determined by the resistance to the blood flow. The vessel diameter is the most principal determinant to control resistance. Compared to other smaller vessels in the body, the artery has a much bigger diameter (4&nbsp;mm), therefore the resistance is low.<ref>{{cite book|last=Fung|first=Yuan-cheng|title=Biomechanics:Circulation|year=1997|publisher=Springer|location=New York|isbn=038794383|pages=571}}</ref>
+
+In addition, flow rate (Q) is also the product of the cross-sectional area of the vessel and the average [[velocity]] (Q=AV). Flow rate is directly proportional to the [[pressure drop]] in a tube or in this case a vessel. ∆P α Q. The relationship is further described by Poisseulle’s equation ∆P=8µlQ/πr^4.<ref>{{cite book|last=Munson|title=Fundamentals of Fluid Mechanics|year=2009|publisher=John Wiley &Sons, Inc.|location=New Jersey|isbn=978-0-470-26284-9|pages=725|edition=Sixth|coauthors=Young, Okiishi, Huebsch}}</ref> As evident in the Poisseulle’s equation, although flow rate is proportional to the pressure drop, there are other factors of blood vessels that contribute towards the difference in pressure drop in [[wikt:bifurcation|bifurcations]] of blood vessels. These include [[viscosity]], length of the vessel, and radius of the vessel.
+
+Factors that determine the flow's resistance as described by Poiseuille’s relationship: ∆P=8µlQ/πr<sup>4</sup>:
+ ∆P: Pressure drop/gradient
+ µ: Viscosity
+ l: length of tube. In the case of vessels with infinitely long lengths, l is replaced with diameter of the vessel.
+ Q: flow rate of the blood in the vessel
+ r: radius of the vessel
+
+Assuming steady, [[laminar flow]] in the vessel, the blood vessels behavior is similar to that of a pipe. For instance if p1 and p2 are pressures are at the ends of the tube, the pressure drop/gradient is (p1−p2)/l =∆P.<ref>{{cite journal|last=Womersley|first=J. R.|title=Method for The Calculation of Velocity, Rate of Flow and Viscous Drag in Arteries When The Pressure Gradient is Known|journal=Journal of Physiology|year=1955|volume=127|pages=553–563|pmid=14368548|pmc=1365740|issue=3}}</ref>
+
+In the arterioles blood pressure is lower than in the major arteries. This is because velocity of flow is increased with decrease in diameter and vice versa.
+ This phenomenon can be explained explicitly using [[Bernoulli's equation]]:
+ P2−P1=1/2ρ(V1 − V2)^2+γ(Z2−Z1)-frictional loss between station 2 and 1.<ref>{{cite book|last=Fung|first=Yuan-cheng|title=Biomechanics:Circulation|year=1997|publisher=Springer|location=New York|isbn=038794383|pages=571}}</ref>
+ P2−P1=∆P: Pressure drop
+ ρ: Density
+ V: Velocity
+ γ: specific weight
+
+This equation is very useful when analyzing pressure and flows in a tube or in this case a vessel. A major assumption made when using this principle is that flow is considered under steady conditions.  It should be noted that when using Bernoulli's equation to analyze pressure drop between stations in the aorta and vena cava for example, frictional loss may be ignored. However, the frictional losses must be accounted for in smaller blood vessels.<ref>{{cite book|last=Fung|first=Yuan-cheng|title=Biomechanics:Circulation|year=1997|publisher=Springer|location=New York|isbn=038794383|pages=571}}</ref> With that said, diameter of the arterioles result in increase in velocity, thus reducing pressure as well as increasing the possibility of frictional losses as compared to the case of the aorta. This is why the arterioles have the highest pressure drop.
+The pressure drop of the arterioles is the product of flow rate and resistance: ∆P=Q × resistance. The high resistance observed in the arterioles, which factor largely in the ∆P is a result of a smaller radius of about 30&nbsp;µm.<ref>{{cite book|last=Sircar|first=Sabyasach|title=Principles of Medical Physiology|year=2008|publisher=vistasta Publishing|location=India|isbn= 978-1-58890-572-7}}</ref> The smaller the radius of a tube, the larger the resistance to fluid flow.
+
+Immediately following the arterioles are the capillaries. Following the logic observed in the arterioles, the blood pressure is expected to be lower in the capillaries compared to the arterioles. Since pressure is a function of force per unit area (P=F/A), the larger the surface area, the lesser the pressure when an external force acts on it. Though the radii of the capillaries are very small, the network of capillaries have the largest surface area in the [[Vascular system|vascular network]]. They are known to have the largest surface area (485&nbsp;mm) in the human vascular network. The larger the total cross-sectional area, the lower the mean velocity as well as the pressure.<ref>{{cite book|last=Fung|first=Yuan-cheng|title=Biomechanics:Circulation|year=1997|publisher=Springer|location=New York|isbn=038794383|pages=571}}</ref>
+
+[[Reynolds number]] also affects the blood flow in capillaries. Due to its smaller radius and lowest velocity compared to other vessels, the Reynolds number at the capillaries is very low, resulting in laminar instead of [[turbulent flow]].<ref>{{cite journal|last=Fung|first=Yuan-cheng|coauthors=Zweifach, B.W.|title=Microcirculation: Mechanics of Blood Flow in Capillaries|journal=Annual Review of Fluid Mechanics|year=1971|volume=3|pages=189–210|doi=10.1146/annurev.fl.03.010171.001201|bibcode = 1971AnRFM...3..189F }}</ref>
+
+The Reynolds number (denoted NR or Re) is a relationship that helps determine the behavior of a fluid in a tube, in this case blood in the vessel. The equation for this dimensionless relationship is written as
+ NR=ρ×v×L/μ<ref>{{cite book|last=Munson|title=Fundamentals of Fluid Mechanics|year=2009|publisher=John Wiley &Sons, Inc.|location=New Jersey|isbn=978-0-470-26284-9|pages=725|edition=Sixth|coauthors=Young, Okiishi, Huebsch}}</ref> where;
+ ρ: density of the blood
+ L: characteristic dimension of the vessel, in this case diameter
+ V: mean velocity of the blood
+ μ: viscosity of blood
+
+The Reynolds number is directly proportional to the velocity and diameter of the tube. Note that NR is directly proportional to the mean velocity as well as the diameter. A Reynolds number of less that 2300 is considered laminar fluid flow, which is characterized by constant flow motion, whereas a NR that exceed a critical value of 2300, is represented as turbulent flow. ~ Turbulent flow is characterized as chaotic and irregular flow.<ref>{{cite book|last=Munson|title=Fundamentals of Fluid Mechanics|year=2009|publisher=John Wiley &Sons, Inc.|location=New Jersey|isbn=978-0-470-26284-9|pages=725|edition=Sixth|coauthors=Young, Okiishi, Huebsch}}</ref>
+
+==References==
+{{reflist}}
+{{Use dmy dates|date=May 2011}}
+
+[[Category:Blood pressure]]
+[[Category:Cardiovascular physiology]]
+[[Category:Medical signs]]

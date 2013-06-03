@@ -1,0 +1,28 @@
+{{Merge to|DNA footprinting|discuss=Talk:DNA footprinting#Merger proposal|date=December 2012}}
+
+
+
+[[Image:DNaseI footprint.png|frame|DNaseI footprint of a protein binding to a radiolabelled DNA fragment. Lanes "GA" and "TC" are Maxam-Gilbert chemical sequencing lanes, see [[DNA sequencing|DNA Sequencing]]. The lane labelled "control" is for quality control purposes and contains the DNA fragment but not treated with [[DNase]]I. ]]
+
+A '''DNase footprinting assay'''<ref>{{cite journal |doi=10.1016/0076-6879(86)30011-9 |author=Brenowitz M, Senear DF, Shea MA, Ackers GK |title=Quantitative DNase footprint titration: a method for studying protein-DNA interactions |journal=Methods in Enzymology |volume=130 |issue= |pages=132–81 |year=1986 |pmid=3773731 }}</ref> is a [[DNA footprinting]] technique from [[molecular biology]]/[[biochemistry]] that detects [[DNA]]-[[protein]] interaction using the fact that a protein bound to DNA will often protect that DNA from enzymatic cleavage. This makes it possible to locate a protein binding site on a particular DNA molecule. The method uses an enzyme, [[deoxyribonuclease]] (DNase, for short), to cut the radioactively end-labeled DNA, followed by [[gel electrophoresis]] to detect the resulting cleavage pattern.
+
+For example, the DNA fragment of interest may be [[Polymerase chain reaction|PCR]] amplified using a <sup>32</sup>P 5' labeled primer, with the result being many DNA molecules with a radioactive label on one end of one strand of each double stranded molecule. Cleavage by DNase will produce fragments, the smaller of which will move further on the electrophoretic gel. The fragments which are smaller with respect to the <sup>32</sup>P-labelled end will appear further on the gel than the longer fragments. The gel is then used to expose a special photographic film.
+
+The cleavage pattern of the DNA in the absence of a DNA binding protein, typically referred to as free DNA, is compared to the cleavage pattern of DNA in the presence of a DNA binding protein. If the protein binds DNA, the binding site is protected from enzymatic cleavage. This protection will result in a clear area on the gel which is referred to as the "footprint".
+
+By varying the concentration of the DNA-binding protein, the binding affinity of the protein can be estimated according to the minimum concentration of protein at which a footprint is observed.
+
+This technique was developed by David Galas and Albert Schmitz at Geneva in 1977<ref>{{cite journal |author=Galas DJ, Schmitz A |title=DNAse footprinting: a simple method for the detection of protein-DNA binding specificity |journal=Nucleic Acids Research |volume=5 |issue=9 |pages=3157–70 |year=1978 |month=Sep |pmid=212715 |pmc=342238 |doi= 10.1093/nar/5.9.3157|url=http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=212715}}</ref>
+
+==See also==
+* [[DNA footprinting]]
+* [[DNase I]]
+
+==References==
+{{reflist}}
+
+[[Category:Molecular biology]]
+[[Category:Laboratory techniques]]
+
+
+{{molecular-cell-biology-stub}}

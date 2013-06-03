@@ -1,0 +1,93 @@
+The '''TNM Classification of Malignant Tumours''' ('''TNM''') is a [[cancer staging]] system that describes the extent of a person's [[cancer]]. 
+*'''T''' describes the size of the original (primary) '''[[tumor]]''' and whether it has invaded nearby tissue, 
+*'''N''' describes nearby (regional) [[lymph nodes|lymph '''nodes''']] that are involved,
+*'''M''' describes distant '''[[metastasis]]''' (spread of cancer from one part of the body to another).
+
+The TNM staging system for all solid tumors was devised by Pierre Denoix between 1943 and 1952, using the size and extension of the primary tumor, its lymphatic involvement, and the presence of metastases to classify the progression of cancer.<ref>Denoix PF. Enquete permanent dans les centres anticancereaux. Bull Inst Nat Hyg 1946;1:70–5.</ref>
+
+TNM is developed and maintained by the [[International Union Against Cancer]] (UICC) to achieve consensus on one globally recognised standard for classifying the extent of spread of [[cancer]].  The TNM classification is also used by the [[American Joint Committee on Cancer]] (AJCC) and the [[International Federation of Gynecology and Obstetrics]] (FIGO).  In 1987, the UICC and AJCC staging systems were unified into a single staging system.
+
+==General outline==
+Most of the common tumors have their own TNM classification.  Not all tumors have TNM classifications, e.g., there is no TNM classification for [[brain tumor]]s.
+
+The general outline for the TNM classification is below.  The values in parentheses give a range of what can be used for all cancer types, but not all cancers use this full range.
+
+===Mandatory parameters===
+* '''T''': size or direct extent of the primary tumor
+** Tx: tumor cannot be evaluated
+** Tis: [[carcinoma in situ]]
+** T0: no signs of tumor
+** T1, T2, T3, T4: size and/or extension of the primary tumor
+* '''N''': degree of spread to regional [[lymph node]]s
+** Nx: lymph nodes cannot be evaluated
+** N0: tumor cells absent from regional [[lymph]] [[Lymph node|nodes]]
+** N1: regional lymph node metastasis present; (at some sites: tumor spread to closest or small number of regional lymph nodes) 
+** N2: tumor spread to an extent between N1 and N3 (N2 is not used at all sites)
+** N3: tumor spread to more distant or numerous regional lymph nodes (N3 is not used at all sites)
+* '''M''': presence of distant [[metastasis]]
+** M0: no distant metastasis
+** M1: metastasis to distant organs (beyond regional lymph nodes)<ref>{{cite web |url= http://www.cancer.gov/cancertopics/factsheet/detection/staging |title=Cancer staging |date= |publisher=National Cancer Institute |accessdate=4 January 2013}}</ref>
+
+The Mx designation was removed from the 7th edition of the AJCC/UICC system.
+
+===Other parameters===
+* '''G''' (1–4): the ''[[Grading (tumors)|grade]]'' of the cancer cells (i.e. they are "low grade" if they appear similar to normal cells, and "high grade" if they appear poorly [[cellular differentiation|differentiated]])
+* '''S''' (0-3): elevation of serum [[tumor markers]]
+* '''R''' (0-2): the completeness of the operation (''[[Segmental resection|resection]]''-boundaries free of cancer cells or not)
+* '''L''' (0-1): invasion into [[lymphatic system|lymphatic vessel]]s
+* '''V''' (0-2): invasion into [[vein]] (no, microscopic, macroscopic)
+* '''C''' (1–5): a modifier of the '''certainty''' (quality) of the last mentioned parameter
+
+===Prefix modifiers===
+* '''c''': stage given by clinical examination of a patient. The c-prefix is implicit in absence of the p-prefix
+* '''p''': stage given by [[pathology|pathologic]] examination of a surgical specimen
+* '''y''': stage assessed after [[chemotherapy]] and/or radiation therap'''y'''; in other words, the individual had [[neoadjuvant therapy]].
+* '''r''': stage for a recurrent tumor in an individual that had some period of time free from the disease.
+* '''a''': stage determined at [[autopsy]].
+* '''u''': stage determined by [[ultrasonography]] or [[endosonography]]. Clinicians often use this modifier although it is not an officially defined one
+
+For the T, N and M parameters exist subclassifications for some cancer-types (e.g. T1a, [[Carcinoma in situ|Tis]], N1i)
+
+==Examples==
+* Small, low-grade cancer, no metastasis, no spread to regional lymph nodes, cancer completely removed, resection material seen by pathologist: pT1 pN0 M0 R0 G1; this grouping of T, N, and M would be considered [[Cancer Staging|Stage]] I.
+* Large, high grade cancer, with spread to regional lymph nodes and other organs, not completely removed, seen by pathologist: pT4 pN2 M1 R1 G3; this grouping of T, N, and M would be considered Stage IV. Most Stage I tumors are curable; most Stage IV tumors are inoperable.
+
+==Uses and aims==
+Some of the aims for adopting a global standard are to:
+* Aid medical staff in staging the tumour helping to plan the treatment.
+* Give an indication of [[prognosis]].
+* Assist in the evaluation of the results of treatment.
+* Enable facilities around the world to collate information more productively.
+
+Since the number of combinations of categories is high, combinations are grouped to stages for better analysis.
+
+==Versions==
+It is crucial to be aware that the criteria used in the TNM system have varied over time, sometimes fairly substantially, according to the different editions that AJCC and UICC have released. The dates of publication and adoption for use of AJCC editions is summarized here; past editions are available from AJCC for web download. [2]
+
+*Edition 1 published 1977 and went into effect 1978
+*Edition 2 published 1983 and went into effect 1984
+*Edition 3 published 1988 and went into effect 1989
+*Edition 4 published 1992 and went into effect 1993
+*Edition 5 published 1997 and went into effect 1998
+*Edition 6 published 2002 and went into effect 2003
+*Edition 7 published 2009 and went into effect 2010
+
+As a result, a given stage may have quite a different prognosis depending on which staging edition is used, independent of any changes in diagnostic methods or treatments, an effect that has been termed "stage migration." The technologies used to assign patients to particular categories have changed also, and by intuitive consideration it can be seen that increasingly sensitive methods tend to cause individual cancers to be reassigned to higher stages, making it improper to compare that cancer's prognosis to the historical expectations for that stage. Finally, of course, a further important consideration is the effect of improving treatments over time as well.
+
+==See also==
+* [[Cancer staging]]
+* [[Ann Arbor staging]], used in [[lymphoma]]s
+
+==References==
+<references/>
+* Sobin LH, Gospodarowicz MK, Wittekind Ch. Eds. TNM Classification of Malignant Tumors, 7th ed.   Wiley-Blackwell, Oxford  2009. 310 pages. ISBN 978-1-4443-3241-4.
+
+==External links==
+* [http://www.uicc.org/tnm UICC site]
+* [http://www.doctorslounge.com/oncology/tnm/index.htm TNM Cancer Staging System Database] (information mostly outdated, from the 1997 edition of TNM)
+* [http://cancerstaging.blogspot.com TNM Classification Help]
+* [http://www.cancerresearchuk.org/cancer-help/type/breast-cancer/treatment/tnm-breast-cancer-staging TNM Breast Cancer Staging] (specific to breast cancer, but detailed and easy to understand)
+
+{{Tumors}}
+
+[[Category:Cancer staging]]

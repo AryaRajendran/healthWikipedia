@@ -1,0 +1,178 @@
+{{essay-like|date=May 2012}}
+{{mergeto|9-1-1|date=October 2011}}
+{{Globalize|date=December 2010}}
+'''Enhanced 911''', '''E-911''' or '''E911''' is a system used in North America that links emergency callers with the appropriate public resources. Three-digit [[emergency telephone number]]s originated in the [[999_(emergency_telephone_number)#History|United Kingdom in 1937]] and has spread to continents and countries across the globe. Other easy dial codes, including the [[112 (emergency telephone number)|112]] number adopted by the [[European Union]] in 1991, have been deployed to provide free-of-charge emergency calls. 
+
+In North America, where 9-1-1 was chosen as the easy access code, the system tries to automatically associate a location with the origin of the call. This location may be a physical address or other geographic reference information such as X/Y map coordinates. The caller's telephone number is used in various ways to derive a location that can be used to dispatch police, fire, emergency medical and other response resources. Automatic location of the emergency makes it quicker to locate the required resources during fires, [[Burglary|break-ins]], [[kidnappings]], and other events where communicating one's location is difficult or impossible.
+
+In North America the incoming 9-1-1 call is typically answered at the [[Public Safety Answering Point]] (PSAP) of the governmental agency that has jurisdiction over the caller's location (see [[#Location]] below). When the 9-1-1 call arrives at the appropriate PSAP, it is answered by a specially trained official known as a [[Telecommunicator]]. In some jurisdictions the Telecommunicator is also the dispatcher of public safety response resources. When the call arrives at the PSAP, special computer software is used to display the location of the caller immediately upon arrival of the call.
+
+The system only works in North America if the [[emergency telephone number]] [[9-1-1|911]] is called.  Calls made to other telephone numbers, even though they may be listed as an emergency telephone number, may not enable this feature.  Outside Canada and the United States this type of facility is often called ''caller location'', though its implementation is dependent on how the telephone network processes emergency calls.
+
+==History==
+The first 911 system was installed in [[Haleyville, Alabama]], in February 1968 as a way to quickly connect a subscriber to the local police station.  This system did not identify the caller but did provide a means to access emergency services that had not previously been available.  
+
+The [[Wireless Communications and Public Safety Act]] of 1999 standardized and mandated that 9,1,1 would be the digits to be dialed within the United States for "reporting an emergency to appropriate authorities and requesting assistance".
+
+This system was quickly adapted and improved by other telephone companies to become the E911 system which provides both caller location and identification.  A pioneering system was in place in [[Chicago, Illinois|Chicago]] by the mid-1970s, providing both police and fire departments access to the source location of emergency calls.  Enhanced 911 is currently deployed in most [[metropolitan areas]] in the [[United States]] and [[Canada]].
+
+==Location==
+Location is an important concept in the way that the Enhanced 9-1-1 system works. Location  determination depends upon the Automatic Location Information (ALI) database which is maintained on behalf of local governments by contracted private third parties generally the [[Incumbent Local Exchange Carrier]] (ILEC).  The ALI database is used to both route the call to the appropriate PSAP and when the call arrives, the ALI database is used to determine the location of the caller. 
+
+[[File:9-1-1 System.svg|center|1200px|ALt=The 911 system|The 911 system]]
+The  9-1-1 call arrives at the appropriate PSAP after it is routed across the [[Public switched telephone network]] (PSTN) to a special facility called a [[Class 4 telephone switch]] or Tandem Office. The Tandem Office uses a technology referred to as Selective Routing to query the SRDB Selective Routing Database and MSAG (Master Street Address Guide) using the originating telephone number as a search key to match the origination of the call to the network location or Emergency Service Number (ESN) of the appropriate PSAP. When the call is delivered to the PSAP, a second query is made to the Automatic Location Information (ALI), again using the originating telephone number as a search key. The ALI record associated with the query is then returned to the PSAP where the [[Customer-premises_equipment|Customer-premises equipment]] (CPE) correlates that information with the call taker receiving the call and displays the information on their computer screen.
+ 
+There is a difference between the ways location is determined for different types of calls based upon the type of originating device or network. For each of these categories please see the sections below for the appropriate  categories to learn more about location determination for each of the following types of calls. There are hardwired or Wireline enhanced 911 calls which originate from a device connected to a known fixed point of connection to the PSTN. Wireless enhanced 911 are calls that originate for mobile devices such as cellular telephones. VoIP enhanced 911 pertains to communications originating from various commercial services provided by companies that send telephone calls across the commercial internet using specialized devices and software applications. Multi-line Telephone System (MLTS) pertains to the location of callers dialing 9-1-1 from within the private telecommunications networks utilized enterprise style organizations. 
+
+For each of these categories different processes are required to obtain the required information to update the ALI database so that it may be used for 9-1-1 call routing and location determination.
+
+==Public safety answering point (PSAP)==
+The final destination of an E911 call (where the 911 operator sits) is a [[Public-safety answering point|Public Safety Answering Point]] (PSAP). There may be multiple PSAPs within the same [[telephone exchange|exchange]] or one PSAP may cover multiple exchanges. The territories (Emergency Service Zone) covered by a single PSAP is based on the dispatch and response arrangements for the fire, police, and medical services for a particular area. All primary PSAPs have a regional Emergency Service Number (ESN), a number identifying the PSAP.
+
+The Caller Location Information (CLI) provided is normally integrated into [[dispatch (logistics)|emergency dispatch]] center's [[computer-assisted dispatch]] (CAD) system.  Early CAD systems provided text display of the caller's address, call history and available emergency response resources.  In 1994, working in cooperation with the emergency response agencies of Covington, KY, 911 Mapping Systems, Inc.<ref>{{cite web|url=http://www.911mapping.com/web/index.html |title=911 Mapping Systems, Inc |publisher=911mapping.com |date= |accessdate=2010-11-18}}</ref> founded in 1992 by Robert Graham Thomas Jr.,<ref>{{cite web|url=http://www.enquirer.com/editions/2002/12/25/loc_otherobit25.html |title=Obituary: Robert Thomas Jr., 911 Mapping CEO |publisher=Enquirer.com |date=2002-12-25 |accessdate=2010-11-18}}</ref> implemented the first real-time on-screen E911 street map display to highlight the caller's position, nearest available emergency responders and other relevant information such as fire hydrants, hazardous materials and/or other data maintained by the city.  Shortly thereafter, integrated mapping became a standard and integral part of all CAD systems and continues to evolve alongside 911 response technology.  For Wireline E911, the location is an address. For Wireless E911, the location is a coordinate. Not all PSAPs have the Wireless and Wireline systems integrated.
+
+===Interconnection details===
+Each telephone company ([[local exchange carrier]], or LEC) has at least two redundant [[Digital Signal 0|DS0]]-level (that is, 64 kbit/s, or voice quality) trunks connecting each host office [[telephone switch]] to each call center.  These trunks are either directly connected to the center or they are connected to a telephone company central switch that intelligently distributes calls to the PSAPs. These special switches are often known as 911 Selective Routers. Their use is becoming increasingly more common as it simplifies the interconnection between newer ISUP/SS7-based host office switches and the many older PSAP systems.
+
+If the PSAP receives calls from the telephone company on older analog trunks, they are usually [[Pulse dialing|Pulse driven]] circuits. These circuits are similar to [[Plain old telephone service|traditional telephone lines]], but are formatted to pass the calling party's number ([[Automatic Number Identification]], ANI). (For historical reasons, the PSAP will refer to these as CAMA circuits even though [[Centralized Automatic Message Accounting]] (CAMA) is actually a reference to the call log.)
+
+If the PSAP receives calls on older-style digital trunks, they are specially formatted [[Multi-Frequency]] (MF) trunks that pass the calling party's number (ANI) only. Some of the upgraded PSAPs can receive calls on [[ISDN User Part|ISUP]] trunks controlled by the [[Signaling System 7|SS7]] protocol. In that case, the calling party's number (ANI) is already present in the SS7 setup message.  The Charge Number Parameter contains the ANI.
+
+==Wireline enhanced 911==
+When a call is placed to 911, the source of the call is recorded (this is allowed by special privacy legislation).  The source number is used to look up the Emergency Service Number (phone number) of the appropriate call center ([[Public-safety answering point]], or PSAP) in a database and connect the call.
+
+Address information is not passed along by the public phone network; only the calling party's phone number is passed. The PSAP uses the calling party number to look up the address in the Automatic Location Identification (ALI) database. The ALI database is secured and separate from the public phone network by design.  It is generally maintained by the Incumbent Local Exchange Carrier (ILEC) under contract by the PSAP. Each ILEC has their own standards for the formatting of the database.
+
+Most ALI databases have a companion database known as the MSAG, Master Street Address Guide. The MSAG describes the exact spelling of streets, street number ranges, and other address elements.  When a new account is created, the address is looked up in the Master Street Address Guide to find the appropriate Emergency Service Number (ESN) that 911 calls from that phone number should be routed to.  [[Competitive local exchange carrier]]s (CLEC) and other competing wireline carriers negotiate for access to the ALI database in their respective Interconnect Agreement with the ILEC. They populate the database using the ILEC MSAG as a guide.
+
+If the phone number is not passed or the phone number is not in the ALI database, this is known as ''ALI Failure''; the call is then passed to the trunk group's default ESN, which is a PSAP designated for this function. The PSAP [[switchboard operator|operator]] must then ask the incoming caller for their location and redirect them to the correct PSAP. The legal penalty in most states for ALI database lookup failure is limited to a requirement that the telephone company fix the database entry.
+
+==Wireless enhanced 911==
+The billing address associated with a [[cell phone]] is not necessarily the location to which emergency responders should be sent, since the device is portable.  This means that locating the caller is more complicated, and there is a different set of legal requirements.
+
+===Requirements===
+The U.S. [[Federal Communications Commission]] (FCC) has several requirements applicable to wireless or [[mobile telephone]]s:<ref>{{cite web|author= |url=http://www.fcc.gov/cgb/consumerfacts/wireless911srvc.html |title=Wireless 911 Services |work= Consumer & Governmental Affairs Bureau |publisher=FCC.gov |date= |accessdate=2010-11-18}}</ref>
+
+* Basic 911: All 911 calls must be relayed to a call center, regardless of whether the mobile phone user is a customer of the network being used.
+* E911 Phase 1: Wireless network operators must identify the phone number and cell phone tower used by callers, within six minutes of a request by a PSAP.
+* E911 Phase 2
+** 95% of a network operator's in-service phones must be E911 compliant ("location capable") by December 31, 2005.  (Several carriers missed this deadline, and were fined by the FCC.<ref>{{cite web |author= |url=http://www.fiercewireless.com/story/sprint-alltel-usc-fined-missed-e911-deadline/2007-08-31 |title=Sprint, Alltel, USC fined for missed e911 deadline |publisher=FierceWireless |date=2007-08-31 |accessdate=2010-11-18}}</ref>)
+** Wireless network operators must provide the [[latitude]] and [[longitude]] of callers within 300 meters, within six minutes of a request by a PSAP.<ref>{{cite web|url=http://findarticles.com/p/articles/mi_m0BPW/is_11_18/ai_n27458948/?tag=content;col1 |title=How accurate E911?  |work=GPS World |publisher=Questex Media Group, Inc. |date = November 2007|accessdate=2010-11-17}} Network-based technology:100 meters for 67% of calls and 300 meters for 95% of calls. Handset-based technologies: 50 meters for 67% of calls and 150 meters for 95% of calls.</ref>  Accuracy rates must meet FCC standards on average within any given participating PSAP service area by September 11, 2012 (deferred from September 11, 2008).<ref>{{cite web|url=http://www.rcrwireless.com/article/20080314/SUB/431138710/carriers-push-e-911-lawsuit-in-court-despite-winning-deadline |title=Carriers push E-911 lawsuit in court despite winning deadline extension |publisher=RCR Wireless News |date=2008-03-14 |accessdate=2010-11-18}}</ref>
+
+Location information is not only transmitted to the call center for the purpose of sending [[emergency services]] to the scene of the incident, it is used by the wireless network operator to determine to which PSAP to route the call.
+
+===Technology===
+A second phase of Enhanced 911 service is to allow a wireless or [[mobile telephone]] to be located.
+
+To locate a mobile telephone geographically, there are two general approaches.  One is to use some form of [[radiolocation]] from the [[cellular network]]; the other is to use a [[Global Positioning System]] receiver built into the phone itself. Both approaches are described by the [[Radio resource location services protocol]] (LCS protocol).
+
+Radiolocation in [[cellular telephony]] uses [[base station]]s. Most often, this is done through [[triangulation]] between [[radio masts and towers|radio tower]]s.  The location of the [[Caller (telecommunications)|caller]] or [[handset]] can be determined several ways:
+
+*[[Angle of arrival]] (AOA) requires at least two towers, locating the caller at the point where the lines along the angles from each tower [[Line-line intersection|intersect]].
+*[[Multilateration|Time difference of arrival]] (TDOA) works like [[GPS]] using [[multilateration]], except that it is the networks that determine the time difference and therefore distance from each tower (as with [[seismometer]]s). 
+*Location signature uses "[[fingerprint]]ing" to store and recall patterns (such as [[Multipath propagation|multipath]]) which mobile phone signals are known to exhibit at different locations in each cell.
+
+The first two depend on a [[Line-of-sight propagation|line of sight]], which can be difficult or impossible in mountainous terrain or around skyscrapers.  Location signatures actually work ''better'' in these conditions however.  TDMA and [[GSM]] networks such as [[T-Mobile]] 2G use TDOA.<ref name="fcc_report">{{cite web |url=http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-257964A1.pdf |title=FCC Report to Congress on the Deployment of E-911 Phase II Services by Tier III Service Providers |publisher=[[Federal Communications Commission]]  |format=PDF |date=April 1, 2005 |accessdate=2010-11-18}}</ref>
+[[AT&T Mobility]] initially advocated TDOA, but changed to embedded GPS in 2006 for every GSM or [[UMTS]] voice-capable device due to improved accuracy.
+
+[[Code division multiple access]] (CDMA) networks tend to use handset-based radiolocation technologies, which are technically more similar to radionavigation.  GPS is one of those technologies. [[Alltel]], [[Verizon Wireless]], T-Mobile 3G, and [[Sprint PCS]] use [[Assisted GPS]].<ref name="fcc_report"/>
+
+Hybrid solutions, needing both the handset and the network include:
+*[[Assisted GPS]] ([[wireless]] or television) allows use of GPS even indoors
+*Advanced Forward Link Trilateration (A-FLT)
+*Timing Advance/Network Measurement Report (TA/NMR)
+*Enhanced Observed Time Difference (E-OTD)
+
+Mobile phone users may also have a selection to permit location information to be sent to non-emergency [[phone number]]s or [[data]] networks, so that it can help people who are simply lost or want other [[location-based service]]s.  By default, this selection is usually turned off, to protect privacy.
+In areas such as tunnels and buildings, or anywhere else that GPS is not available or reliable, wireless carriers can deploy enhanced location determination solutions such as Co-Pilot Beacon for CDMA networks and LMU's for GSM networks.
+
+The [[3GPP]] specified protocol for handset geolocation in GSM networks is called [[RRLP|Radio Resource Location Protocol]].
+
+===In Canada===
+In 2009, the [[Canadian Radio-television and Telecommunications Commission|CRTC]] wrote, "All wireless service providers are to complete their respective implementation of wireless Phase II Stage 1 E9-1-1 service by 1 February 2010, wherever wireline E9-1-1 service is available across Canada."<ref>{{cite web|title=Telecom Regulatory Policy CRTC 2009-40|url=http://www.crtc.gc.ca/eng/archive/2009/2009-40.htm|publisher=Canadian Radio-television and Telecommunications Commission|accessdate=2013-02-20|date=2009-02-02|quote=All wireless service providers are to complete their respective implementation of wireless Phase II Stage 1 E9-1-1 service by 1 February 2010, wherever wireline E9-1-1 service is available across Canada.}}</ref> Many Canadians now have access to Phase II service; see also the third and fourth paragraphs of [http://www.howardforums.com/showthread.php/1791514-If-I-call-9-1-1-and-if-geolocation-succeeds-does-Mobi-send-latitude-longitude-info#post15064413].
+
+==VoIP enhanced 911==
+
+As [[Voice over Internet Protocol]] (VoIP) technology matured, service providers began to interconnect VoIP with the [[public telephone network]] and marketed the VoIP service as a cheap replacement phone service.  However, E911 regulations and legal penalties have severely hampered the more widespread adoption of VoIP: VoIP is much more flexible than land line phone service and there is no easy way to verify the physical location of a caller on a nomadic VoIP network at any given time (especially in the case of wireless networks), and so many providers offered services which specifically excluded 911 service so as to avoid the severe E-911 non-compliance penalties.  VoIP services tried to improvise, such as routing 911 calls to the administrative phone number of the Public Safety Answering Point, adding on software to track phone locations, etc. {{Citation needed|date=September 2009}}
+
+The [[Location Information Server]] is a service that is provided by an [[access network]] provider to provide [[location information]] to users of the network.  To do this, it uses knowledge of [[network topology]] and a range of location determination techniques to locate devices that are attached to the network.  The precise methods that are used to determine location are dependent on the type of access network and the information that can be obtained from the device.
+
+Initially, the U.S. [[Federal Communications Commission]] (FCC) took a hands-off approach to VoIP in order to let the service mature, and also to facilitate competition in the telephony market.<ref>{{cite web
+|url=http://www.fcc.gov/Bureaus/Common_Carrier/Reports/fcc98067.pdf
+|title=In the Matter of Federal-State Joint Board on Universal Service, Report to Congress, Docket 96-45
+|date=April 10, 1998
+|publisher=FCC
+|page=42}}</ref>  In time, this problem reached the headlines of newspapers as individuals were unable to place emergency calls with their [[VoIP phone]]s.  In March 2005, Texas Attorney General [[Greg Abbott]] filed a lawsuit against Vonage for deceptive marketing practices by not making it clear that VoIP users had to actually sign up for E911 service.<ref>{{cite press release |url=http://www.oag.state.tx.us/oagnews/release.php?id=850 |title=Attorney General Abbott Takes Legal Action To Protect Internet Phone Customers|author=OAG |publisher=OAG.state.tx.us |date=2005-03-22 |accessdate=2010-11-18}}</ref>
+
+When FCC Chair Kevin Martin replaced FCC Chair Michael Powell, he immediately changed FCC's hand's off policy and moved to impose 911 obligations on VoIP service providers.<ref>{{cite web|url=http://www.techdirt.com/articles/20060725/1216203.shtml |title=Why Does the FCC Treat VoIP as the Ugly Duckling, Techdirt July 25, 2006 |publisher=Techdirt.com |date=2006-07-25 |accessdate=2010-11-18}}</ref>  In 2005, Chair Martin moved FCC to require "interconnected VoIP services" to begin to provide 911 service and provide notice to their consumers concerning the 911 limitations. The FCC announced that customers must respond to the E911 VoIP warning and those who do not have their service cut off on August 30, 2005. The FCC extended the deadline to September 28, 2005.<ref name=gross/> The E911 hookup may be directly with the Wireline E911 Network, indirectly through a third party such as a competitive local exchange carrier (CLEC), or by any other technical means.  The FCC explained that they felt compelled to issue this mandate because of the public safety concerns.<ref>{{cite web|url=http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-05-116A1.pdf |title=IP-Enabled Services : E911 Requirements for IP-Enabled Service Providers  |format=PDF |date=May 19, 2005 |publisher=FCC |accessdate=2010-11-18}}</ref>  Telco industry entrepreneur and blogger [[Jeff Pulver]] opined that this was an attempt by FCC Chair Martin to hinder telephony competition to [[AT&T Corporation|AT&T]].<ref>{{cite web |url=http://pulverblog.pulver.com/archives/005082.html |first=Jeff |last=Pulver |title=A Little Rant on the Ongoing Mis-application of CALEA and E911 and Universal Service on Voice Applications and Some Ironic, Illogical Results |publisher=Jeff Pulver Blog |date=July 24, 2006 |accessdate=2010-11-18}}</ref>
+
+The 911 obligations were imposed only on "interconnected VoIP."  The FCC defined "interconnected VoIP" as VoIP over broadband that interconnects with the public switch telephone network.<ref>{{cite web|last=Cannon |first=Robert |url=http://www.cybertelecom.org/voip/definition.htm#int |title=VoIP Definition :: FCC :: Interconnected VoIP :: CFR |publisher=Cybertelecom.org |date= |accessdate=2010-11-18}}</ref>  VoIP that is not interconnected, such as two individuals talking to each other over the Internet while playing computer games, does not fall under the obligation.
+
+There are, however, complicated technological problems with implementing E911 with VoIP, which providers are attempting to solve. VoIP phones are on the Internet and nomadic; the [[geolocation]] of the individual placing the 911 call can be very difficult to determine. Service providers are attempting to phase in solutions through the I1, I2, and I3 phases.  During I1, the 911 call was routed to the 911 administrative telephone lines without location information.  During I2, VoIP services would participate in the public telephone networks location database for the location that is identified with that telephone number.  During the I3 solution, VoIP service providers would have a true IP interconnection with Public Safety Answering Points and would be able to provide even more valuable information than the legacy 911 system.  Where VoIP phones are mobile, geolocation has additional problems; VoIP service providers are seeking access to [[Home Location Register#Home location register (HLR)|mobile phone location databases]].<ref>{{cite web |url=http://www.intrado.com/assets/documents/Annual_2004_NENA_Conf_VoIPforPSAP_final.pdf |title=Intrado Evolution of the PSAP Experience  - Slide 0 |first=Bob |last=Currier| format=PDF |date=2010-06-21 |accessdate=2010-11-18}}</ref><ref>{{cite web|url=http://www.intrado.com/assets/documents/PSAP%20Issues%20Whitepaper.pdf |title=Intrado Next Generation Needs |format=PDF |date = May 2004|last=Meer |first=Stephen |last2=Nelson |first2=Michael |accessdate=2010-11-18}}</ref><ref>{{cite web|url=http://www.intrado.com/assets/documents/VoIP%20with%20background.pdf |title=Intrado Emergency Calling Services |format=PDF |date= |accessdate=2010-11-18}}</ref> These solutions are being developed through the cooperation of the Voice on the Network Coalition and the [[National Emergency Number Association]].  [[Vonage]] has encouraged its customers to register the locations from which their 911 calls could be dialed with the local public safety answering point.<ref>{{cite book| first=Jonathan E. |last=Nuechterlein|first2= Philip J. |last2=Weiser |title= Digital Crossroads:  American Telecommunications Policy in the Internet Age |year=2005 |page=222 |url=http://books.google.com/books?id=tZPgvnoVNMkC&pg=PA222#v=onepage&q&f=false}}</ref> The FCC had continued to add more requirements and mandate a more sophisticated 911 function.<ref>{{cite web|url=http://www.nena9-1-1.org/VoIP_IP/VONCoalition9-1-1whitepaper0105.pdf |title=Answering the Call for 911 Emergency Services in an Internet World |author= |date = January 2005|publisher=Voice on the Net Coalition |page=4 |archiveurl=http://web.archive.org/web/20050123043804/http://www.nena9-1-1.org/VoIP_IP/VONCoalition9-1-1whitepaper0105.pdf |archivedate=2005-01-23}}</ref>
+
+VoIP services have noted an obstacle to full 911 interconnection; in order to interconnect with the Public Safety Answering Point, the VoIP service providers must interconnect with the 911 telephone trunk, which is owned and controlled by their competitors, the traditional fixed-line telephone carriers.<ref name=gross>{{cite web|url=http://www.pcworld.com/resource/article/0,aid,122322,pg,1,RSS,RSS,00.asp |first=Grant |last=Gross |title=FCC extends VoIP E911 deadline |publisher=PCWorld.com |date=August 26, 2005 |accessdate=2010-11-18}}</ref>  This resulted in the New and Emerging Technologies 911 Improvement Act of 2008 which granted interconnection rights to interconnected VoIP services.<ref name=cybertelecom>{{cite web| url=http://www.cybertelecom.org/voip/911reg.htm |title=VoIP :: 911 :: Regulation |publisher=Cybertelecom.org}} Information on NET Act and FCC proceeding implementing legislation.</ref>
+
+In response to the E911 challenges inherent to IP phone systems, specialized technology has been developed to locate callers in the case of emergency. Some of these new technologies allow the caller to be located down to the specific office on a particular floor of a building. These solutions support a wide range of organizations with IP telephony networks. The solutions are available for service providers offering hosted [[IP-PBX]] and residential VoIP services. This increasingly important segment in IP phone technology includes E911 call routing services and automated phone tracking appliances. Many of these solutions have been established according to FCC, CRTC, and NENA i2 standards, in order to help enterprises and service providers reduce liability concerns and meet E911 regulations.<ref name="Emergency Gateway Datasheet">{{cite web |url=http://www1.911enable.com/documents/pdf/emergency_gateway_datasheet.pdf |title=Emergency Gateway Datasheet |publisher=911 Enable}}</ref>
+
+In recent years there have been numerous important developments in E911 solutions for IP phone technology. The more noteworthy of these developments include:
+*On-site appliances that automate and simplify E911 management for enterprise IP-PBX systems, reducing administration, ensuring that IP phone locations are always up to date, thus helping enterprises meet their E911 obligations;
+*IP phone tracking that automatically assigns locations to IP hard phones, soft phones and wireless phones as they move on the corporate network using layer 2, layer 3, or wireless LAN discovery. 
+*Support for remote employees, allowing off-campus users and teleworkers to update their locations in real time directly from their IP phones;
+*Support for phone mobility, to ensure accurate E911 services for employees that move IP phones between locations, share line appearances between multiple devices, and log into IP phones on the fly;
+*Security desk routing and notification functionalities that deliver 911 calls and custom email alerts to on-site security personnel, notifying them of the emergency and providing them with the caller’s precise location information;
+*Advanced E911 call management and reporting features, such as misdial protection and call recording, to improve solution performance and administration.
+
+VoIP & 911 issues are also relevant to [[Telecom Relay Services]] utilized by individuals with disabilities.
+
+==ITU declares 911 and 112 as Official Emergency Numbers==
+The International Telecommunication Union has officially set two standard emergency phone numbers for countries to use in the future. AP reports that member states have agreed that either 911 or 112 should be designated as emergency phone numbers — 911 is currently used in North America, while 112 is standard across the EU and in many other countries worldwide.<ref>http://www.theverge.com/2012/12/12/3758760/itu-911-112-standard-emergency-numbers</ref>
+
+==Multi-line Telephone System==
+A Multi-line Telephone System (MLTS) often referred to as a [[Private branch exchange]] is a telecommunications switching system used by enterprise style organizations to process calls between employees within the organization and with parties external to the organization. An MLTS may serve a single building, segments of multi-tenant buildings, a group of buildings on a campus or even a number of buildings separated by geography. New communications technologies are making it possible for single MLTS systems to serve locations at far distant places that may span multiple governmental jurisdictions even distant countries.
+ 
+The challenge of Enhanced 9-1-1 for the MLTS is that information about the location of callers is only available to the extent that the private organization discloses the information.  For the organization the challenges of collecting and reporting the information can be significant. Today’s highly mobile work forces and technologies that allow users to relocate without the intervention of an administrator place significant responsibilities on the MLTS owner or operator. 
+ 
+Recent legislation, rules, and regulations in numerous US government jurisdictions have established the burden upon the enterprise style organization to provide accurate location information so that the ALI database may be updated and the processes used by public safety agencies can function properly when an emergency call originates from within a MLTS system.
+
+The member driven volunteer organization that represents the people who staff the PSAPs, the [[National Emergency Number Association]] (NENA.org), has done significant work advocating on the subject of MLTS E9-1-1. It is an important contemporary issue of growing concern as enterprise style organizations employ new technologies to create vast private networks that interconnect with the PSTN in ways that do not map to the logic used to locate callers in the Public Enhanced 9-1-1 system.  The risks to people who initiate a 9-1-1 call from and MLTS who are not physically located within the jurisdiction of the agency to which  the 9-1-1 call is routed and the increasing burdens of misdirected 9-1-1 calls upon those agencies is escalating.
+
+==911 address==
+A 911 address contains a uniform number, the street name, direction (if any) and the city. The address number is assigned usually by the grid of the existing community. Each county usually has their own guidelines on how the addressing is done, but for the most part NENA guidelines are followed.{{Citation needed|date=October 2007}} These guidelines are expressed by the Master Street Address Guide (MSAG). The actual 911 addresses and associated phone numbers are put into the ALI database.
+
+==Address signage standards==
+In addition to upgrading communications systems, many counties and communities in the U.S. have implemented ordinances requiring property owners to standardize the display of house numbers on buildings and along streets and roadways, to allow emergency personnel to more easily locate a given address day or night, even in poor weather.  These generally consist of reflective characters, at least 3 to 6&nbsp;inches high, on a contrasting reflective background. It is necessary for the address number to be affixed to the building or to a separate structure such as a post, wall or fence, provided that such separate structure is located in front of the building and on the building's side of the street. Compliant signage systems are often advertised as being "E911 compliant".{{Citation needed|date=October 2007}}
+
+==See also==
+{{multicol}}
+*[[9-1-1|911]]
+*[[E112]]
+*[[eCall]]
+*[[GPS tracking]]
+*[[Northern 911]]
+*[[Mobile phone tracking]]
+*[[Triangulation]]
+*[[VoIP|Voice Over Internet Protocol]]
+*[[Emergency Medical Dispatcher]]
+*[[Next Generation 9-1-1]]
+*[[Reverse geocoding]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.fcc.gov/cgb/consumerfacts/wireless911srvc.html Wireless 911 Services - FCC Consumer Facts]
+*[http://www.fcc.gov/pshs/services/911-services/enhanced911/Welcome.html Enhanced 911 - Wireless Services]
+*[http://www.nena.org National Emergency Number Association]
+*[http://ssrn.com/abstract=876052 Law-review article providing background on VoIP technology and challenges of E911], locating VoIP Callers and prioritizing Emergency traffic in the VoIP Network.
+*[http://www.cybertelecom.org/voip/911.htm Cybertelecom - VoIP and 911 - Federal Internet Regulation]
+*[http://www.e911institute.org E9-11 Institute - E-911 Education Organization]
+*[http://www.networkworld.com/newsletters/converg/2005/1114converge1.html How E-911 caller locations are discovered]
+*[http://www.nena.org/mlts-pbx E9-1-1 for Multi-Line Telephone System & Private Branch Exchange]
+*[http://www.cs.columbia.edu/sip/emergency.html Emergency Calling for SIP]
+*[http://www.greatcall.com/lp/technology-behind-911-calls-infographic.htm Technology behind Enhanced 911 Calls]
+
+{{Emergency telephone numbers}}
+
+[[Category:Emergency telephone numbers]]
+[[Category:North American Numbering Plan]]
+[[Category:Geolocation]]

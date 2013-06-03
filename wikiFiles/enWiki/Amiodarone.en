@@ -1,0 +1,221 @@
+{{Drugbox
+| verifiedrevid = 464394155
+| IUPAC_name = (2-{4-[(2-butyl-1-benzofuran-3-yl)carbonyl]-2,6-diiodophenoxy}ethyl)diethylamine
+| image = Amiodarone.png
+| image2 = Amiodarone 3d balls.png
+
+<!--Clinical data-->
+| tradename = Cordarone, Nexterone
+| Drugs.com = {{drugs.com|monograph|amiodarone-hydrochloride}}
+| MedlinePlus = a687009
+| pregnancy_AU =  
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = [[Wiktionary:oral|oral]] or [[intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 20 - 55%
+| metabolism = [[Liver]]
+| elimination_half-life = 58 days (range 15-142 days)
+| excretion = Primarily Hepatic and Biliary
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1951-25-3
+| ATC_prefix = C01
+| ATC_suffix = BD01
+| PubChem = 2157
+| IUPHAR_ligand = 2566
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01118
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2072
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N3RQ532IUT
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02910
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2663
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 633
+
+<!--Chemical data-->
+| C=25 | H=29 | I=2 | N=1 | O=3 
+| molecular_weight = 645,31 g/mol
+| smiles = Ic1cc(cc(I)c1OCCN(CC)CC)C(=O)c2c3ccccc3oc2CCCC
+| InChI = 1/C25H29I2NO3/c1-4-7-11-22-23(18-10-8-9-12-21(18)31-22)24(29)17-15-19(26)25(20(27)16-17)30-14-13-28(5-2)6-3/h8-10,12,15-16H,4-7,11,13-14H2,1-3H3
+| InChIKey = IYIKLHRQXLHMJQ-UHFFFAOYAO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C25H29I2NO3/c1-4-7-11-22-23(18-10-8-9-12-21(18)31-22)24(29)17-15-19(26)25(20(27)16-17)30-14-13-28(5-2)6-3/h8-10,12,15-16H,4-7,11,13-14H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IYIKLHRQXLHMJQ-UHFFFAOYSA-N
+}}
+
+'''Amiodarone''' (sold under the brand name '''Nexterone''' by Baxter Healthcare Corporation) is an [[antiarrhythmic agent]] used for various types of [[cardiac dysrhythmia]]s, both [[Tachyarrhythmia#Ventricular|ventricular]] and [[Tachyarrhythmia#Atrial|atrial]]. It was discovered in 1961. Despite relatively common [[side-effects]], it is used in arrhythmias that are otherwise difficult to treat with medication.
+
+==History==
+The original observation that amiodarone's progenitor molecule, [[khellin]], had cardioactive properties, was made by the Lebanese physiologist [[Gleb von Anrep]] while working in Cairo. Khellin is a plant extract of [[Khella]] or [[Ammi visnaga]], a common plant in north Africa. Anrep noticed that one of his technicians had been cured of anginal symptoms after taking khellin, then used for various, non-cardiac ailments.  This led to efforts by European pharmaceutical industries to isolate an active compound.{{citation needed|date=February 2012}} Amiodarone was initially developed in 1961 at the Labaz company, [[Belgium]], by chemists Tondeur and Binon, who were working on preparations derived from khellin. It became popular in Europe as a treatment for [[angina pectoris]].<ref>{{cite journal |author=Deltour G, Binon F, Tondeur R, ''et al.'' |title=[Studies in the benzofuran series. VI. Coronary-dilating activity of alkylated and aminoalkylated derivatives of 3-benzoylbenzofuran.] |language=French |journal=Archives internationales de pharmacodynamie et de thérapie |volume=139 |issue= |pages=247–54 |year=1962 |pmid=14026835 |doi=}}</ref><ref>{{cite journal |author=Charlier R, Deltour G, Tondeur R, Binon F |title=[Studies in the benzofuran series. VII. Preliminary pharmacological study of 2-butyl-3-(3,5-diiodo-4-beta-N-diethylaminoethoxybenzoyl)-benzofuran.] |language=French |journal=Archives internationales de pharmacodynamie et de thérapie |volume=139 |issue= |pages=255–64 |year=1962 |pmid=14020244 |doi=}}</ref>
+
+As a doctoral candidate at Oxford University, Dr. Bramah Singh determined that amiodarone and [[sotalol]] had antiarrhythmic properties and belonged to a new class of antiarrhythmic agents (what would become the class III antiarrhythmic agents).<ref>{{cite journal |author=Singh BN, Vaughan Williams EM |title=The effect of amiodarone, a new anti-anginal drug, on cardiac muscle |journal=Br. J. Pharmacol. |volume=39 |issue=4 |pages=657–67 |year=1970 |pmid=5485142 |doi= |pmc=1702721}}</ref> Today the mechanisms of action of amiodarone and sotalol have been investigated in more detail. Both drugs have been demonstrated to prolong the duration of the [[action potential]], prolonging the refractory period, by interacting among other cellular function with [[K+ channels]].
+
+Based on Singh's work, the [[Argentina|Argentinian]] physician Dr. Mauricio Rosenbaum began using amiodarone to treat his patients who suffered from supraventricular and ventricular arrhythmias, with impressive results.  Based on papers written by Dr. Rosenbaum developing Singh's theories, physicians in the [[United States]] began prescribing amiodarone to their patients with potentially life-threatening arrhythmias in the late 1970s.<ref>{{cite journal |author=Rosenbaum MB, Chiale PA, Halpern MS, ''et al.'' |title=Clinical efficacy of amiodarone as an antiarrhythmic agent |journal=Am. J. Cardiol. |volume=38 |issue=7 |pages=934–44 |year=1976 |pmid=793369|doi=10.1016/0002-9149(76)90807-9}}</ref><ref>{{cite journal |author=Rosenbaum MB, Chiale PA, Haedo A, Lázzari JO, Elizari MV |title=Ten years of experience with amiodarone |journal=Am. Heart J. |volume=106 |issue=4 Pt 2 |pages=957–64 |year=1983 |pmid=6613843|doi=10.1016/0002-8703(83)90022-4}}</ref>  By 1980, amiodarone was commonly prescribed throughout Europe for the treatment of arrhythmias, but in the U.S. amiodarone remained unapproved by the [[Food and Drug Administration]], and physicians were forced to directly obtain amiodarone from pharmaceutical companies in [[Canada]] and [[Europe]].{{Citation needed|date=October 2007}}
+
+The FDA was reluctant to officially approve the use of amiodarone, since initial reports had shown increased incidence of serious pulmonary side-effects of the drug.  In the mid-1980s, the European pharmaceutical companies began putting pressure on the FDA to approve amiodarone by threatening to cut the supply to American physicians if it were not approved.  In December 1985, amiodarone was approved by the FDA for the treatment of arrhythmias.<ref>{{cite web |url=http://www.fda.gov/cder/foi/nda/pre96/18-972_Cardarone.htm |title=Drug Approval Package |accessdate=2007-09-30 |work=}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> This makes amiodarone one of the few drugs approved by the FDA without rigorous randomized clinical trials.{{Citation needed|date=October 2007}}
+
+==Dosing==
+Amiodarone is available in oral and intravenous formulations.  
+
+Orally, it is available under the trade names '''Pacerone''' (produced by Upsher-Smith Laboratories, Inc.) and '''Cordarone''' (produced by Wyeth-Ayerst Laboratories) in 200 [[milligram|mg]] and 400&nbsp;mg tablets; It is also available under the trade name '''Aratac''' (produced by Alphapharm Pty Ltd) in 100&nbsp;mg and 200&nbsp;mg tablets in Australia and New Zealand, and further in Australia under the brands Cardinorm and Rithmik (both in 100mg and 200mg tablets) as well as a number of generic brands.  Also '''Arycor''' in South Africa (Produced by Winthrop Pharmaceuticals.) in doses of 100&nbsp;mg and 200&nbsp;mg scored tablets.  In South America, it is known as '''Atlansil''' and is produced by Roemmers.
+
+In '''India''' amiodarone is marketed(produced by Cipla Pharmaceutical) under the brand name '''Tachyra''' available in 100&nbsp;mg &200&nbsp;mg and intravenous ampules.
+
+It is also available in intravenous ampules and vials, typically in 150&nbsp;mg increments.
+
+The dose of amiodarone administered is tailored to the individual and the dysrhythmia that is being treated.  When administered orally, the [[bioavailability]] of amiodarone is quite variable.  Absorption ranges from 22 to 95%, with better absorption when it is given with food.<ref>{{cite journal |author=Siddoway LA |title=Amiodarone: guidelines for use and monitoring |journal=American Family Physician |volume=68 |issue=11 |pages=2189–96 |year=2003 |pmid=14677664 |url=http://www.aafp.org/afp/20031201/2189.html}}</ref>
+
+Amiodarone is fat-soluble, and tends to concentrate in tissues including fat, muscle, liver, lungs, and skin.  This confers a high [[volume of distribution]] (5000 liters in a 70&nbsp;kg adult) and a long half-life.  Due to the long half-life of amiodarone, oral loading typically takes days to weeks.
+
+An oral loading dose is typically a total of 10&nbsp;grams, divided over one to two weeks but there are many other dosing regimens.  Once an individual is loaded, a typical maintenance dose of amiodarone is 100 or 200&nbsp;mg either once or twice daily.
+
+An intravenous loading dose is typically 300&nbsp;mg in 20-30cc 5% Dextrose solution (D5W) for cardiac arrest. The loading infusion for dysrhythmias is typically 150&nbsp;mg in a 100cc bag of 5% Dextrose solution (D5W) given over 10 minutes. Both can be followed by a 360&nbsp;mg slow infusion over 6 hours then a maintenance infusion of 540&nbsp;mg over 18 hours.
+
+==Mechanism of action==
+Amiodarone is categorized as a class III [[antiarrhythmic agent]], and prolongs phase 3 of the [[cardiac action potential]], the repolarization phase where there is normally decreased calcium permeability and increased potassium permeability.  It has numerous other effects however, including actions that are similar to those of antiarrhythmic classes Ia, II, and IV.
+
+Amiodarone shows  [[beta blocker]]-like and [[potassium channel blocker]]-like actions on the [[SA node|SA]] and [[AV node]]s, increases the refractory period via sodium- and potassium-channel effects, and slows intra-cardiac conduction of the [[cardiac action potential]], via sodium-channel effects.
+
+Amiodarone chemically resembles [[thyroxine]] (thyroid hormone), and its binding to the nuclear thyroid receptor might contribute to some of its pharmacologic and toxic actions<ref>Goodman & Gilman's The Pharmacological Basis of Therapeutics, 11th Edition.</ref>
+
+==Indications for use==
+Because amiodarone has a low incidence of pro-arrhythmic effects, it has been used both in the treatment of acute life-threatening arrhythmias as well as the chronic suppression of arrhythmias. It is useful both in supraventricular arrhythmias and ventricular arrhythmias.
+
+===Ventricular fibrillation===
+The treatment of choice for [[ventricular fibrillation]] (VF) is electrical defibrillation. However, amiodarone can be useful in shock-refractory VF. In the [https://www.uic.edu/pharmacy/services/di/arrest.htm ARREST trial], amiodarone was shown to improve survival to [[hospital]] admission (when compared to [[placebo]]) in individuals who suffer [[cardiac arrest]] with shock-refractory VF.<ref>{{cite journal |author=Kudenchuk PJ, Cobb LA, Copass MK, ''et al.'' |title=Amiodarone for resuscitation after out-of-hospital cardiac arrest due to ventricular fibrillation |journal=N. Engl. J. Med. |volume=341 |issue=12 |pages=871–8 |year=1999 |pmid=10486418|doi=10.1056/NEJM199909163411203}}</ref>  It is on the basis of this study that the guidelines created by the [[American Heart Association]] for the treatment of VF include amiodarone as a second line agent (after [[epinephrine]] or [[vasopressin]]). ARREST was not adequately powered to demonstrate survival to hospital discharge.
+
+===Ventricular tachycardia===
+Amiodarone may be used in the treatment of ventricular tachycardia in certain instances.  Individuals with hemodynamically ''unstable'' ventricular tachycardia ''should not'' initially receive amiodarone.  These individuals should be [[cardioversion|cardioverted]] out of their unstable rhythm.
+
+Amiodarone can be used in individuals with hemodynamically stable ventricular tachycardia.  In these cases, amiodarone can be used regardless of the individual's underlying heart function and the type of ventricular tachycardia; it can be used in individuals with [[monomorphic ventricular tachycardia]], but is contraindicated in individuals with [[polymorphic ventricular tachycardia]] as it is associated with a prolonged QT interval which will be made worse with anti-arrhythmic drugs.  The dose of amiodarone is 150 [[milligram|mg]] [[intravenous|IV]] administered over 10 minutes.
+
+===Atrial fibrillation===
+Individuals who have undergone [[coronary artery bypass surgery|open heart surgery]] are at an increased risk of developing [[atrial fibrillation]] (or AF) in the first few days post-procedure.  In the ARCH trial, [[intravenous]] amiodarone (2 [[gram]]s administered over 2 days) has been shown to reduce the incidence of atrial fibrillation after open heart surgery when compared to placebo.<ref>{{cite journal |author=Guarnieri T, Nolan S, Gottlieb SO, Dudek A, Lowry DR |title=Intravenous amiodarone for the prevention of atrial fibrillation after open heart surgery: the Amiodarone Reduction in Coronary Heart (ARCH) trial |journal=J. Am. Coll. Cardiol. |volume=34 |issue=2 |pages=343–7 |year=1999 |pmid=10440143|doi=10.1016/S0735-1097(99)00212-0}}</ref>  However, clinical studies have failed to demonstrate long-term efficacy and have shown potentially fatal side effects such as pulmonary toxicities.  While amiodarone is not approved for AF by the FDA, it is a commonly prescribed off-label treatment due to the lack of efficacious treatment alternatives.
+
+So called 'acute onset atrial fibrillation', defined by the North American Society of Pacing and Electrophysiology (NASPE) in 2003, responds well to short duration treatment with amiodarone. This has been demonstrated in seventeen randomised controlled trials, of which five included a placebo arm. The incidence of severe side effects in this group is low. 
+
+The benefit of amiodarone in the treatment of atrial fibrillation in the critical care population has yet to be determined but it may prove to be the agent of choice where the patient is haemodynamically unstable and unsuitable for DC cardioversion. It is recommended in such a role by the UK government's [[National Institute for Health and Clinical Excellence]] (NICE).
+
+==Contraindications==
+Individuals who are [[pregnant]] or may become pregnant are strongly advised to not take amiodarone.  Since amiodarone can be expressed in breast milk, women taking amiodarone are advised to stop nursing.  
+
+It is contraindicated in individuals with [[sinus node|sinus nodal]] [[bradycardia]], [[atrioventricular node|atrioventricular]] block, and second or third degree heart block who do not have an [[artificial pacemaker]].
+
+Individuals with baseline depressed lung function should be monitored closely if amiodarone therapy is to be initiated.
+
+The injection should not be given to neonates, because the benzyl alcohol it contains may cause the fatal [http://www.cdc.gov/mmwr/preview/mmwrhtml/00001109.htm "gasping syndrome".]
+
+Amiodarone can worsen the cardiac arrhythmia brought on by [[digitalis]] toxicity.
+
+Not to be given with [[lidocaine]] → increases risk of asystole {{Citation needed|reason=interaction not in BNF, please provide reference|date=September 2010}}
+
+==Metabolism==
+Amiodarone is extensively metabolized in the liver by cytochrome P450 3A4, and can affect the metabolism of numerous other [[medication|drugs]]. It interacts with digoxin, warfarin, phenytoin, and others. The major metabolite of amiodarone is desethylamiodarone (DEA), which also has antiarrhythmic properties.  The metabolism of amiodarone is inhibited by [[grapefruit]] juice, leading to elevated [[blood plasma|serum]] levels of amiodarone.
+
+On August 8, 2008, the FDA issued a warning of the risk of [[rhabdomyolysis]], which can lead to [[kidney failure]] or death, when [[simvastatin]] is used with amiodarone. This interaction is dose-dependent with simvastatin doses exceeding 20&nbsp;mg. This drug combination especially with higher doses of simvastatin should be avoided.<ref name="urlInformation on Simvastatin/Amiodarone">{{cite web |url=http://www.fda.gov/cder/drug/infopage/simvastatin_amiodarone/default.htm |title=Information on Simvastatin/Amiodarone |work= |accessdate=2008-09-21| archiveurl= http://web.archive.org/web/20080921230357/http://www.fda.gov/Cder/drug/infopage/simvastatin_amiodarone/default.htm| archivedate= 21 September 2008 <!--DASHBot-->| deadurl= no}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+===Interactions with other drugs===
+The [[pharmacokinetics]] of numerous [[medication|drugs]], including many that are commonly administered to individuals with [[heart]] disease, are affected by amiodarone.  Particularly, doses of [[digoxin]] should be halved in individuals taking amiodarone.
+
+Amiodarone potentiates the action of [[warfarin]].  Individuals taking both of these medications should have their warfarin dose halved and their anticoagulation status (measured as [[prothrombin time]] (PT) and [[international normalized ratio]] (INR)) measured more frequently.  The effect of amiodarone in the warfarin concentration can be as early as a few days after initiation of treatment or can be delayed a few weeks.
+
+Amiodarone inhibits the action of the [[cytochrome P450]] [[isozyme]] family. This reduces the clearance of many drugs, including the following:
+* [[Cyclosporine]]
+* [[Digoxin]]
+* [[Flecainide]]
+* [[Procainamide]]
+* [[Quinidine]]
+* [[Sildenafil]]
+* [[Simvastatin]]
+* [[Theophylline]]
+* [[Warfarin]]
+
+=== Excretion ===
+Excretion is primarily hepatic and biliary with almost no elimination via the renal route and it is not dialyzable [Package Insert- Pacerone(R)]. Elimination half-life average of 58 days (ranging from 25–100 days [Remington: The Science and Practice of Pharmacy 21st edition]) for amiodarone and 36 days for the active metabolite, desethylamiodarone (DEA) [Package Insert- Pacerone(R)]. There is 10-50% transfer of amiodarone and DEA in the placenta as well as presence in breast milk [Package Insert- Pacerone(R)].   Accumulation of amiodarone and DEA occurs in adipose tissue and highly perfused organs (i.e. liver, lungs) [Package Insert- Pacerone(R)], therefore, if an individual was taking amiodarone on a chronic basis, if it is stopped it will remain in the system for weeks to months.
+
+== Side effects ==
+Amiodarone has numerous side effects. Most individuals administered amiodarone on a chronic basis will experience at least one side effect.
+
+===Lung===
+[[Image:IPF amiodarone.JPG|thumb|A chest X-ray demonstrating [[pulmonary fibrosis]] due to amiodarone.]]
+The most serious reaction that is due to amiodarone is [[interstitial lung disease]].  Risk factors include high cumulative dose, more than 400 milligrams per day, duration over two months, increased age, and preexisting pulmonary disease.  Some individuals were noted to develop [[pulmonary fibrosis]] after a week of treatment, while others did not develop it after years of continuous use.  Common practice is to avoid the agent if possible in individuals with decreased lung function.
+
+The most specific test of pulmonary toxicity due to amiodarone is a dramatically decreased [[Dlco|DL<sub>CO</sub>]] noted on [[pulmonary function test]]ing.
+
+=== Thyroid ===
+[[Image:Thyroxine.svg|thumb|[[Thyroxine]] and amiodarone have similar structures.]]
+Induced abnormalities in [[thyroid]] function are common.  Amiodarone is structurally similar to [[thyroxine]] (a thyroid hormone), which contributes to the effects of amiodarone on thyroid function.{{Citation needed|date=October 2011}} Both under- and overactivity of the thyroid may occur on amiodarone treatment. Measurement of free [[thyroxine]] (FT4) alone may be unreliable in detecting these problems and [[thyroid-stimulating hormone]] (TSH) should therefore also be checked every 6 months.<ref>[[British National Formulary]] guidance on thyroid function monitoring ([http://www.bnf.org/bnf/bnf/49/openat/2417.htm?q=%22amiodarone%22 BNF Amiodarone])</ref>
+
+* [[Hypothyroidism]] (slowing of the thyroid) occurs frequently; in the SAFE trial, which compared amiodarone with other medications for the treatment of atrial fibrillation, biochemical hypothyroidism (as defined by a TSH level of 4.5-10 mU/l) occurred in 25.8% of the amiodarone-treated group as opposed to 6.6% of the control group (taking placebo or [[sotalol]]). Overt hypothyroidism (defined as TSH >10 mU/l) occurred at 5.0% compared to 0.3%; most of these (>90%) were detected within the first six months of amiodarone treatment.<ref name=Batcher>{{cite journal |author=Batcher EL, Tang XC, Singh BN, Singh SN, Reda DJ, Hershman JM |year=2007 |month=October |title=Thyroid function abnormalities during amiodarone therapy for persistent atrial fibrillation |journal=Am J Med |volume=120 |issue=10 |pages=880–85  |url=http://www.amjmed.com/article/PIIS0002934307004718/abstract | doi =10.1016/j.amjmed.2007.04.022 |pmid=17904459}}</ref>
+
+* [[Hyperthyroidism]] (an overactive thyroid, due to the [[Jod-Basedow phenomenon|Jod-Basedow Effect]]) can also occur. However, in the SAFE trial, the increased rate of hyperthyroidism (5.3% compared to 2.4%) was not statistically significant. Most hyperthyroid patients (defined as TSH <0.35 mU/l) were asymptomatic.<ref name=Batcher/>
+
+Thyroid uptake measurements (I-123 or I-131), which are used to differentiate causes of hyperthyroidism, are generally unreliable in patients who have been taking amiodarone.  Because of the high iodine content of amiodarone, the thyroid gland is effectively saturated, thus preventing further uptake of isotopes of iodine.  However, the radioactive iodine uptake (nuclear thyroid uptake test) may still be helpful in the diagnosis and management of amiodarone-induced hyperthyroidism.{{Citation needed|date=September 2007}}
+
+=== Eye ===
+[[Cornea]]l micro-deposits (Cornea verticillata, also called vortex or whorl keratopathy) are almost universally present (over 90%) in individuals taking amiodarone longer than 6 months, especially doses greater than 400&nbsp;mg/day.  These deposits typically do not cause any symptoms.  About 1 in 10 individuals may complain of a bluish halo.  Anterior subcapsular lens deposits are relatively common (50%) in higher doses (greater than 600&nbsp;mg/day) after 6 months of treatment.  
+Optic neuropathy, nonarteritic anterior ischemic optic neuropathy (N-AION), occurs in 1-2% of people and is not dosage dependent.<ref>Passman RS, Bennett CL, Purpura JM, Kapur R, et al. (2012)"Amiodarone-associated Optic Neuropathy: A Critical Review" Am J of Med, '''125''':5, (447-53)</ref> Bilateral optic disc swelling and mild and reversible visual field defects can also occur.
+
+===Gastrointestinal system and liver===
+Abnormal [[liver enzyme]] results are common in patients on amiodarone. Much rarer are [[jaundice]], [[hepatomegaly]] (liver enlargement), and [[hepatitis]] (inflammation of the liver).<ref>{{cite journal |author=Flaharty KK, Chase SL, Yaghsezian HM, Rubin R |title=Hepatotoxicity associated with amiodarone therapy |journal=Pharmacotherapy |volume=9 |issue=1 |pages=39–44 |year=1989 |pmid=2646621 |doi=}}</ref>
+
+Low-dose amiodarone has been reported to cause pseudo-alcoholic cirrhosis.<ref>{{cite journal |author=Singhal A, Ghosh P, Khan SA |title=Low dose amiodarone causing pseudo-alcoholic cirrhosis |journal=Age and ageing |volume=32 |issue=2 |pages=224–5 |year=2003 |pmid=12615569|doi=10.1093/ageing/32.2.224}}</ref><ref>{{cite journal |author=Puli SR, Fraley MA, Puli V, Kuperman AB, Alpert MA |title=Hepatic cirrhosis caused by low-dose oral amiodarone therapy |journal=Am. J. Med. Sci. |volume=330 |issue=5 |pages=257–61 |year=2005 |pmid=16284489|doi=10.1097/00000441-200511000-00012}}</ref>
+
+===Skin===
+Long-term administration of amiodarone is associated with a blue-grey discoloration of the skin.  This is more commonly seen in individuals with lighter skin tones.  The discoloration may revert upon cessation of the drug.  However, the skin color may not return completely to normal.
+
+Individuals taking amiodarone may become more sensitive to the harmful effects of [[ultraviolet|UV-A]] light.  Using sunblock that also blocks UV-A rays appears to prevent this side effect.
+
+===Neurological===
+Long-term administration of amiodarone has been associated with peripheral neuropathies.<ref>{{cite journal |author=A G Fraser, I N McQueen, A H Watt, and M R Stephens |title=Peripheral neuropathy during longterm high-dose amiodarone therapy |journal=J Neurol Neurosurg Psychiatry |volume=48 |issue=6 |pages=576–578 |year=1985 |month=June |pmc=1028375 |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1028375/ |pmid=2989436 |doi=10.1136/jnnp.48.6.576  }}</ref>
+
+===Epididymis===
+
+Amiodarone is sometimes responsible for [[epididymitis]], a condition of the scrotum normally associated with bacterial infections but which can also occur as a non-bacterial inflammatory condition. Amiodarone accumulates in the head of the organ and can cause unilateral or bilateral inflammation. It tends to resolve if amiodarone is stopped.<ref>{{cite journal |author=Thomas A, Woodard C, Rovner ES, Wein AJ |title=Urologic complications of nonurologic medications |journal=Urol. Clin. North Am. |volume=30 |issue=1 |pages=123–31 |year=2003 |month=February |pmid=12580564 |doi=10.1016/S0094-0143(02)00111-8}}</ref>
+
+===Gynecomastia===
+Some cases of [[gynecomastia]] have been reported with men on amiodarone.<ref name="Gynecomastia: Its features, and when and how to treat it">[http://www.ccjm.org/content/71/6/511.full.pdf] Gynecomastia: Its features, and when and how to treat it</ref>
+
+===Cancer===
+A study published in 2013 showed an association between amiodarone and an increased risk of cancer, especially in males, with a [[Dose–response relationship|dose-dependent]] effect.<ref>{{cite journal |author=Vincent Yi-Fong Su, Yu-Wen Hu, Kun-Ta Chou, ''et al''. |title=Amiodarone and the risk of cancer |journal=Cancer |volume=119 |issue=8 |year=2013 |month=April | doi=10.1002/cncr.27881}}</ref>
+
+== See also ==
+* [[Advanced cardiac life support]] (ACLS)
+* [[Antiarrhythmic agents]]
+* [[Atrial fibrillation]]
+* [[Cardiac action potential]]
+* [[Dronedarone]] (similar drug under investigation)
+* [[Ventricular tachycardia]]
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+* {{cite journal |author=Siddoway LA |title=Amiodarone: guidelines for use and monitoring |journal=Am Fam Physician |volume=68 |issue=11 |pages=2189–96 |year=2003 |month=December |pmid=14677664 |doi= |url=http://www.aafp.org/afp/20031201/2189.html}}
+* [http://www.medicinenet.com/amiodarone/article.htm Amiodarone (MedicineNet.com)]
+* [http://www.fpnotebook.com/CV/Pharm/Amdrn.htm Amiodarone (FamilyPracticeNotebook.com)]
+* [http://www.anaesthetist.com/icu/manage/drugs/heart/amiodarone.htm Amiodarone (The WorldWide Intensivist)]
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Amiodarone U.S. National Library of Medicine: Drug Information Portal - Amiodarone]
+* [http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm Amiodarone (FDA MedWatch)]
+
+{{Potassium channel blockers}}
+{{Antiarrhythmic agents}}
+{{Emergency medicine}}
+
+[[Category:Amines]]
+[[Category:Antiarrhythmic agents]]
+[[Category:Benzofurans]]
+[[Category:Organoiodides]]
+[[Category:Aromatic ketones]]
+[[Category:Phenol ethers]]
+[[Category:Potassium channel blockers]]

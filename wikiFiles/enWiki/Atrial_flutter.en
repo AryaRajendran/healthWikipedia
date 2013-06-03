@@ -1,0 +1,79 @@
+{{Infobox disease |
+  Name           = Atrial flutter |
+  ICD10          = {{ICD10|I|48||i|30}} |
+  ICD9           = {{ICD9|427.32}} |
+
+  Image          = Atrial_flutter34.svg|
+  Caption        = Atrial flutter with varying A-V conduction (5:1 and 4:1)|
+  OMIM           = |
+  OMIM_mult      = |
+  MedlinePlus    = 000184 |
+  eMedicineSubj  = med |
+  eMedicineTopic = 185 |
+  DiseasesDB     = 1072 |
+  MeshID         = D001282 |
+}}
+
+'''Atrial flutter''' (AFL) is an [[cardiac arrhythmia|abnormal heart rhythm]] that occurs in the [[atrium (anatomy)|atria]] of the [[heart]].<ref>[http://www.mountsinai.org/patient-care/health-library/diseases-and-conditions/atrial-flutter Atrial flutter] at [[Mount Sinai Hospital, New York|Mount Sinai Hospital]]</ref>  When it first occurs, it is usually associated with a fast heart rate or [[tachycardia]] (beats over 100 per minute),<ref>{{DorlandsDict|three/000041158|atrial flutter}}</ref> and falls into the category of [[supraventricular tachycardia|supra-ventricular tachycardias]].  While this rhythm occurs most often in individuals with cardiovascular disease (e.g. [[hypertension]], [[coronary artery disease]], and [[cardiomyopathy]]) and diabetes, it may occur spontaneously in people with otherwise normal hearts.  It is typically not a stable rhythm, and frequently degenerates into [[atrial fibrillation]] (AF).  However, it does rarely persist for months to years.
+
+Atrial flutter was first identified as an independent medical condition in 1920 by the British physician [[Thomas Lewis (cardiologist)|Sir Thomas Lewis]] (1881–1945) and colleagues.<ref>{{cite journal | author=Lewis T, Feil HS, Stroud WD | title=Observations upon flutter, fibrillation, II: the nature of auricular flutter | journal=Heart | year=1920 | volume=7 | pages=191}}</ref>
+
+==Signs and symptoms==
+While atrial flutter can sometimes go unnoticed, its onset is often marked by characteristic sensations of regular [[palpitation]]s.  Such sensations usually last until the episode resolves, or until the heart rate is controlled.  
+
+Atrial flutter is usually well tolerated initially (a high heart rate is for most people just a normal response to exercise), however, people with other underlying heart disease or poor exercise tolerance may rapidly develop symptoms, which can include shortness of breath, chest pains, lightheadedness or dizziness, nausea and, in some patients, nervousness and feelings of impending doom.
+
+Prolonged fast flutter may lead to decompensation with loss of normal heart function ([[heart failure]]).  This may manifest as effort intolerance (exertional breathlessness), nocturnal breathlessness, or swelling of the legs or abdomen.
+
+Atrial flutter is recognized on an electrocardiogram by presence of characteristic flutter waves at a regular rate of 240 to 440 beats per minute.  Individual flutter waves may be symmetrical, resembling p-waves, or may be asymmetrical with a "sawtooth" shape, rising gradually and falling abruptly or vice versa.  If atrial flutter is suspected clinically but is not clearly evident on ECG, acquiring a [[Lewis lead]] ECG may be helpful in revealing flutter waves.
+
+==Pathophysiology==
+Atrial flutter is caused by a [[Cardiac arrhythmia#Re-entry|reentrant rhythm]] in either the right or left atrium.  Typically initiated by a premature electrical impulse arising in the atria, atrial flutter is propagated due to differences in refractory periods of atrial tissue.  This creates electrical activity that moves in a localized self-perpetuating loop. For each cycle around the loop,  there results  an electric impulse that  propagates through the atria. 
+
+The impact and symptoms of atrial flutter depend on the heart rate of the patient.  Heart rate is a measure of the ventricular rather than atrial activity.  Impulses from the atria are conducted to the ventricles through the [[AV node|atrio-ventricular node]].  Due primarily to its longer refractory period, the AV node exerts a protective effect on heart rate by blocking atrial impulses in excess of about 180 beats/minute, for the example of a resting heart rate. (This block is dependent on the age of the patient, and can be calculated roughly by subtracting patient age from 220).  If the flutter rate is 300/minute only half of these impulses will be conducted, giving a ventricular rate of 150/minute, or a 2:1 [[heart block]].  The addition of rate-controlling drugs or conduction system disease can increase this block substantially (see image below).
+
+==Classification==
+There are two types of atrial flutter, the common ''type I'' and rarer ''type II''.<ref>{{Cite book | author=Surawicz, Borys; Knilans, Timothy K.; Chou, Te-Chuan |title=Chou's electrocardiography in clinical practice: adult and pediatric | year=2001 | publisher=Saunders | location=Philadelphia  | isbn=0-7216-8697-4 | pages=}}</ref>  Most individuals with atrial flutter will manifest only one of these.  Rarely someone may manifest both types; however, they can only manifest one type at a time.
+
+===Type I===
+[[Image:AtrialFlutter12.JPG|thumb|300px|right|Type I atrial flutter, counterclockwise rotation with 3:1 and 4:1 [[AV node|AV nodal]] block.]]
+Type I atrial flutter, also known as '''common atrial flutter''' or '''typical atrial flutter''', has an atrial rate of 240 to 340 beats/minute.  However, this rate may be slowed by [[antiarrhythmic agents]].
+
+The reentrant loop circles the right atrium, passing through the [[cavo-tricuspid isthmus]] - a body of fibrous tissue in the lower atrium between the inferior vena cava, and the tricuspid valve.  Type I flutter is further divided into two subtypes, known as '''counterclockwise atrial flutter''' and '''clockwise atrial flutter''' depending on the direction of current passing through the loop. 
+* Counterclockwise atrial flutter (known as cephalad-directed atrial flutter) is more commonly seen.  The flutter waves in this rhythm are inverted in ECG leads II, III, and aVF.
+* The re-entry loop cycles in the opposite direction in clockwise atrial flutter, thus the flutter waves are upright in II, III, and aVF.
+
+Catheter ablation of the isthmus is a procedure usually available in the electrophysiology laboratory.  Eliminating conduction through the isthmus prevents reentry, and if successful, prevents the recurrence of the atrial flutter.
+
+===Type II===
+Type II flutter follows a significantly different re-entry pathway to type I flutter, and is typically faster, usually 340-440 beats/minute.<ref name="urlAtrial Flutter: Overview - eMedicine Cardiology">{{cite web |url=http://emedicine.medscape.com/article/151210-overview |title=Atrial Flutter: Overview - eMedicine Cardiology |format= |work= |accessdate=2009-03-06| archiveurl= http://web.archive.org/web/20090226110544/http://emedicine.medscape.com/article/151210-overview| archivedate= 26 February 2009 <!--DASHBot-->| deadurl= no}}</ref>
+Left atrial flutter is common after incomplete left atrial ablation procedures.
+
+==Management==
+In general, atrial flutter should be [[Management of atrial fibrillation|managed the same as atrial fibrillation]].  Because both rhythms can lead to the formation of [[thrombus]] in the atria, individuals with atrial flutter usually require some form of anticoagulation or anti-platelet agent.  Both rhythms can be associated with dangerously fast heart rate and thus require medication for rate and or rhythm control. Additionally, there are some specific considerations particular to treatment of atrial flutter.
+
+===Cardioversion===
+Atrial flutter is considerably more sensitive to electrical direct-current cardioversion than atrial fibrillation, and usually requires a lower energy shock. 20-50J is commonly enough to revert to sinus rhythm.  Conversely, it is relatively resistant to chemical cardioversion, and often deteriorates into atrial fibrillation prior to spontaneous return to sinus rhythm.
+
+===Ablation===
+Because of the reentrant nature of atrial flutter, it is often possible to ablate the circuit that causes atrial flutter.  This is done in the electrophysiology lab by causing a ridge of scar tissue that crosses the path of the circuit that causes atrial flutter.  Ablation of the isthmus, as discussed above, is a common treatment for typical atrial flutter.
+
+==Complications==
+Although often regarded as a relatively benign rhythm problem, atrial flutter shares the same complications as the related condition [[atrial fibrillation]].  There is paucity of published data directly comparing the two, but overall mortality in these conditions appears to be very similar.<ref>Vidaillet H, Granada JF, Chyou PH, Maassen K, Ortiz M, Pulido JN, et al., "A Population-Based Study of Mortality among Patients with Atrial Fibrillation or Flutter" ''The American Journal of Medicine'' 2002 Oct 1;'''113'''(5):365-70. PMID 12401530. {{doi|10.1016/S0002-9343(02)01253-6}}</ref>
+
+===Rate related===
+Rapid heart rates may produce significant symptoms in patients with pre-existing heart disease.  Even in patients whose hearts are normal to start with, prolonged tachycardia tends to produce ventricular decompensation and heart failure.
+
+===Clot formation===
+Because there is little if any effective contraction of the [[atrium (anatomy)|atria]] there is stasis (pooling) of blood in the atria.  Stasis of blood in susceptible individuals can lead to formation of [[thrombus]] (blood clots) within the heart.  Thrombus is most likely to form in the atrial appendages.  Clot in the left atrial appendage is particularly important since the left side of the heart supplies blood to the entire body.  Thus, any thrombus material that dislodges from this side of the heart can [[embolism|embolize]] to the brain, with the potentially devastating consequence of a [[stroke]].  Thrombus material can of course embolize to any other portion of the body, though usually with a less severe outcome.
+
+===Sudden cardiac death===
+Sudden death is not directly associated with atrial flutter.  However, in individuals with a pre-existing accessory conduction pathway, such as the [[Wolff-Parkinson-White_syndrome#Bundle_of_Kent|bundle of Kent]] in [[Wolff-Parkinson-White syndrome]], the accessory pathway ''may'' conduct activity from the atria to the ventricles at a rate that the AV node would usually block.  Bypassing the AV node, the atrial rate of 300 beats/minute leads to a ventricular rate of 300 beats/minute (1:1 conduction).  Even if the ventricles are able to sustain a cardiac output at such a high rates, 1:1 flutter with time may degenerate into [[ventricular fibrillation]], causing hemodynamic collapse and [[death]].
+
+==References==
+{{reflist|2}}
+
+{{Circulatory system pathology}}
+
+{{DEFAULTSORT:Atrial Flutter}}
+[[Category:Cardiac dysrhythmia]]

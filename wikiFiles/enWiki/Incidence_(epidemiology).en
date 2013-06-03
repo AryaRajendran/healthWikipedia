@@ -1,0 +1,40 @@
+{{Refimprove|date=November 2007}}
+[[File:Can-Human-Movements-Explain-Heterogeneous-Propagation-of-Dengue-Fever-in-Cambodia-pntd.0001957.s008.ogv|thumb|Evolution of weekly incidence rates of [[Dengue fever]] in [[Cambodia]] from January 2002 to December 2008.]]
+
+'''Incidence''' is a measure of the '''risk''' of developing some new condition within a specified period of time.  Although sometimes loosely expressed simply as the number of new cases during some time period, it is better expressed as a proportion or a rate<ref>{{DorlandsDict|four/000052861|incidence}}</ref> with a [[denominator data|denominator]].
+
+'''Incidence proportion''' (also known as [[cumulative incidence]]) is the number of new cases within a specified time period divided by the size of the population initially at risk. For example, if a population initially contains 1,000 non-diseased persons and 28 develop a condition over two years of observation, the incidence proportion is 28 cases per 1,000 persons, i.e. 2.8%.
+
+==Incidence rate==
+The '''incidence rate''' is the number of new cases per population in a given time period.<ref>{{DorlandsDict|seven/000090534|incidence rate}}</ref> When the denominator is the sum of the person-time of the at risk population, it is also known as the '''incidence density rate''' or '''person-time incidence rate'''.<ref>{{cite book |title=A Dictionary of Epidemiology |editor-first=John M. |editor-last=Last |edition=4 |year=2001 |location=New York, NY |publisher=[[Oxford University Press]] |ISBN=0-19-514169-5}}</ref> In the same example as above, the incidence rate is 14 cases per 1000 person-years, because the incidence proportion (28 per 1,000) is divided by the number of years (two). Using person-time rather than just time handles situations where the amount of observation time differs between people, or when the population at risk varies with time.<ref>{{cite book |author= Coggon D, Rose G, Barker DJP |title= Epidemiology for the Uninitiated |url=http://www.bmj.com/epidem/epid.html |chapterurl=http://www.bmj.com/epidem/epid.2.html |chapter= Quantifying diseases in populations |publisher= BMJ |year=1997 |isbn=0-7279-1102-3 |edition= 4th edition}}</ref> Use of this measure implicitly implies the assumption that the incidence rate is constant over different periods of time, such that for an incidence rate of 14 per 1000 persons-years, 14 cases would be expected for 1000 persons observed for 1 year or 50 persons observed for 20 years.
+
+When this assumption is substantially violated, such as in describing survival after diagnosis of metastatic cancer, it may be more useful to present incidence data in a plot of cumulative incidence over time, taking into account loss to follow-up, using a [[Kaplan-Meier Plot]].
+
+Consider the following example. Say you are looking at a sample population of 225 people, and want to determine the incidence rate of developing HIV over a 10 year period. At the beginning of the study (t=0) you find 25 cases of existing HIV. You follow-up at 5 years (t=5 yrs) and find 20 new cases of HIV. You again follow-up at the end of the study (t=10 yrs)and find 30 new cases. If you were to measure prevalence you would simply take the total number of cases (25 + 20 + 30 = 75) and divide by your sample population (225). So prevalence would be 75/225 = 0.33 or 33%. This tells you how widespread HIV is in your sample population, but little about the actual risk of developing HIV. To measure incidence you must take into account how many years each person contributed to the study, and when they developed HIV. When it is not known exactly when a person develops the disease in question, epidemiologists frequently use the actuarial method, and assume it was developed at a half-way point between follow-ups. For example, at 5 yrs you found 20 new cases, so you assume they developed HIV at 2.5 years, thus contributing (20 * 2.5) =50 person-years. At 10 years you found 30 new cases. These people did not have HIV at 5 years, but did at 10, so you assume they were infected at 7.5 years, thus contributing (30 * 7.5)= 225 person-years. That is a total of (225 + 50)= 275 person years so far. You also want to account for the 150 people who never had or developed HIV over the 10 year period, (150 * 10) contributing 1500 person-years. That is a total of (1500 + 275) =1775 person-years. Now take the 50 new cases of HIV, and divide by 1775 to get 0.028, or 28 cases of HIV per 1000 population, per year. In other words, if you were to follow 1000 people for one year, you would see 28 new cases of HIV. This is a much more accurate measure of risk than prevalence.
+
+==Incidence vs. prevalence==
+Incidence should not be confused with [[prevalence]], which is a measure of the total number of cases of disease in a population rather than the rate of occurrence of new cases. Thus, incidence conveys information about the risk of contracting the disease, whereas prevalence indicates how widespread the disease is. Prevalence is the [[Proportionality (mathematics)|proportion]] of the total number of cases to the total population and is more a measure of the burden of the disease on society. Prevalence can also be measured with respect to a specific subgroup of a population (see: [[denominator data]]). Incidence is usually more useful than prevalence in understanding the disease etiology: for example, if the incidence rate population of a disease increases, then there is a risk factor that promotes the incidence.
+
+For example, consider a disease that takes a long time to cure and was widespread in 2002 but dissipated in 2003. This disease will have both high incidence and high prevalence in 2002, but in 2003 it will have a low incidence yet will continue to have a high prevalence (because it takes a long time to cure, so the fraction of affected individuals remains high). In contrast, a disease that has a short duration may have a low prevalence and a high incidence. When the incidence is approximately constant for the duration of the disease, prevalence is approximately the product of disease incidence and average disease duration, so ''prevalence = incidence × duration''. The importance of this equation is in the relation between prevalence and incidence; for example, when the incidence increases, then the prevalence must also increase. Note that this relation does not hold for age-specific prevalence and incidence, where the relation becomes more complicated.<ref>Brinks R (2011) "A new method for deriving incidence rates from prevalence data and its application to dementia in Germany", {{arXiv|1112.2720}}</ref>
+
+When studying the etiology of a disease, it is better to analyze incidence rather than prevalence since prevalence considers the ''duration'' of a condition rather than providing a measure of risk alone.
+{{cn|date=April 2013}}
+
+==See also==
+* [[Cumulative incidence]]
+* [[Prevalence]]
+* [[Attributable risk]]
+* [[Denominator data]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://seer.cancer.gov/seerstat/WebHelp/Standardized_Incidence_Ratio_and_Confidence_Limits.htm Calculation of standardized incidence rate]
+*[http://www.d-taeger.de PAMCOMP] Person-Years Analysis and Computation Programme for calculating standardized incidence rates (SIRs)
+
+{{Medical research studies}}
+
+{{DEFAULTSORT:Incidence (Epidemiology)}}
+[[Category:Epidemiology]]
+[[Category:Medical statistics]]

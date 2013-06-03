@@ -1,0 +1,112 @@
+[[File:Argonne's Midwest Center for Structural Genomics deposits 1,000th protein structure.jpg|An example of a protein structure determined by the Midwest Center for Structural Genomics.|thumb|300px]]
+'''Structural genomics''' seeks to describe the [[Protein Structure|3-dimensional structure]] of every protein encoded by a given [[genome]]. This genome-based approach allows for a high-throughput method of structure determination by a combination of [[protein structure prediction|experimental and modeling approaches]]. The principal difference between structural genomics and [[protein structure prediction|traditional structural prediction]] is that structural genomics attempts to determine the structure of every protein encoded by the genome, rather than focusing on one particular protein. With full-genome sequences available, structure prediction can be done more quickly through a combination of experimental and modeling approaches, especially because the availability of large number of sequenced genomes and previously-solved protein structures allows scientists to model protein structure on the structures of previously solved homologs. 
+
+Because protein structure is closely linked with protein function, the structural genomics has the potential to inform knowledge of protein function. In addition to elucidating protein functions, structural genomics can be used to identify novel protein folds and potential targets for drug discovery. Structural genomics involves taking a large number of approaches to structure determination, including experimental methods using genomic sequences or modeling-based approaches based on sequence or [[homology modeling|structural homology]] to a protein of known structure or based on chemical and physical principles for a protein with no homology to any known structure.
+
+As opposed to traditional [[structural biology]], the determination of a [[protein structure]] through a structural genomics effort often (but not always) comes before anything is known regarding the protein function. This raises new challenges in [[structural bioinformatics]], i.e. determining protein function from its [[Three-dimensional space|3D]] structure.
+
+Structural genomics emphasizes high throughput determination of protein structures. This is performed in dedicated [[Protein Structure Initiative#External links|centers of structural genomics]].
+
+While most structural biologists pursue structures of individual proteins or protein groups, specialists in structural genomics pursue structures of proteins on a genome wide scale. This implies large scale cloning, expression and purification. One main advantage of this approach is economy of scale. On the other hand, the scientific value of some resultant structures is at times questioned. A ''Science'' article from January 2006 analyzes the structural genomics field.<ref>{{cite journal |author=Chandonia JM, Brenner SE |title=The impact of structural genomics: expectations and outcomes |journal=Science |volume=311 |issue=5759 |pages=347–51 |year=2006 |month=January |pmid=16424331 |doi=10.1126/science.1121018 |url=http://www.sciencemag.org/cgi/content/abstract/311/5759/347}}</ref>
+
+One advantage of structural genomics, such as the [[Protein Structure Initiative]], is that the scientific community gets immediate access to new structures, as well as to reagents such as clones and protein. A disadvantage is that many of these structures are of proteins of unknown function and do not have corresponding publications. This requires new ways of communicating this structural information to the broader research community. The Bioinformatics core of the Joint center for structural genomics (JCSG) has recently developed a wiki-based approach namely [[Open protein structure annotation network|Open protein structure annotation network (TOPSAN)]] [http://www.topsan.org/ (link) ] for annotating protein structures emerging from high-throughput structural genomics centers.
+
+== Goals==
+
+One goal of structural genomics is to identify novel protein folds. Experimental methods of protein structure determination require proteins that express and/or crystallize well, which may inherently bias the kinds of proteins folds that this experimental data elucidate. A genomic, modeling-based approach such as [[de novo protein structure prediction|''ab initio'' modeling]] may be better able to identify novel protein folds than the experimental approaches because they are not limited by experimental constraints.
+
+Protein function depends on 3-D structure and these 3-D structures are more highly-conserved than [[peptide sequence|sequences]]. Thus, the high-throughput structure determination methods of structural genomics have the potential to inform our understanding of protein functions.  This also has potential implications for drug discovery and protein engineering.<ref>{{cite journal |author=Kuhn P, Wilson K, Patch MG, Stevens RC |title=The genesis of high-throughput structure-based drug discovery using protein crystallography |journal=Curr Opin Chem Biol |volume=6 |issue=5 |pages=704–10 |year=2002 |month=October |pmid=12413557 |url=http://linkinghub.elsevier.com/retrieve/pii/S1367593102003617}}</ref> Furthermore, every protein that is added to the structural database increases the likelihood that the database will include homologous sequences of other unknown proteins. The [[Protein Structure Initiative]] (PSI) is a multifaceted effort funded by the [[National Institutes of Health]] with various academic and industrial partners that aims to increase knowledge of protein structure using a structural genomics approach and to improve structure-determination methodology.
+
+== Methods ==
+
+Structural genomics takes advantage of completed genome sequences in several ways in order to determine protein structures.  The gene sequence of the target protein can also be compared to a known sequence and structural information can then be inferred from the known protein’s structure. Structural genomics can be used to predict novel protein folds based on other structural data.  Structural genomics can also take modeling-based approach that relies on homology between the unknown protein and a solved protein structure.
+
+=== ''de novo'' methods ===
+Completed genome sequences allow every [[open reading frame]] (ORF), the part of a gene that is likely to contain the sequence for the [[messenger RNA|mRNA]] and protein, to be cloned and expressed as protein. These proteins are then purified and crystallized, and then subjected to one of two types of structure determination: [[X-ray crystallography]] and [[Protein nuclear magnetic resonance spectroscopy|Nuclear Magnetic Resonance]] (NMR).  The whole genome sequence allows for the design of every primer required in order to amplify all of the ORFs, clone them into bacteria, and then express them.  By using a whole-genome approach to this traditional method of protein structure determination, all of the proteins encoded by the genome can be expressed at once.  This approach allows for the structural determination of every protein that is encoded by the genome.
+
+=== Modelling-based methods===
+
+==== ''ab initio''  modeling====
+This approach uses protein sequence data and the chemical and physical interactions of the encoded amino acids to predict the 3-D structures of proteins with no homology to solved protein structures. One highly successful method for ''ab initio'' modeling is the [[Rosetta@home|Rosetta]] program, which divides the protein into short segments and arranges short polypeptide chain into a low-energy local conformation.  Rosetta is available for commercial use and for non-commercial use through its public program, Robetta.
+
+====Sequence-based modeling====
+This modeling technique compares the gene sequence of an unknown protein with sequences of proteins with known structures. Depending on the degree of similarity between the sequences, the structure of the known protein can be used as a model for solving the structure of the unknown protein. Highly accurate modeling is considered to require at least 50% amino acid sequence identity between the unknown protein and the solved structure. 30-50% sequence identity gives a model of intermediate-accuracy, and sequence identity below 30% gives low-accuracy models.  It has been predicted that at least 16,000 protein structures will need to be determined in order for all structural motifs to be represented at least once and thus allowing the structure of any unknown protein to be solved accurately through modeling.<ref>{{cite journal |author=Baker D, Sali A |title=Protein structure prediction and structural genomics |journal=Science |volume=294 |issue=5540 |pages=93–6 |year=2001 |month=October |pmid=11588250 |doi=10.1126/science.1065659 |url=http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=11588250}}</ref>  One disadvantage of this method, however, is that structure is more conserved than sequence and thus 	sequence-based modeling may not be the most accurate way to predict protein structures.
+
+====Threading====
+'''[[Threading (protein sequence)|Threading]]''' bases structural modeling on fold similarities rather than sequence identity.  This method may help identify distantly-related proteins and can be used to infer molecular functions.
+
+== Examples of Structural Genomics ==
+
+There are currently a number of on-going efforts to solve the structures for every protein in a given proteome.
+
+===The ''Thermotogo maritima'' proteome===
+One current goal of the [http://www.jcsg.org/ Joint Center for Structural Genomics] (JCSG), a part of the [[Protein Structure Initiative]] (PSI) is to solve the structures for all the proteins in ''[[Thermotoga|Thermotogo maritima]]'', a thermophillic bacterium. ''T. maritima'' was selected as a structural genomics target based on its relatively small genome consisting of 1,877 genes and the hypothesis that the proteins expressed by a thermophilic bacterium would be easier to crystallize. 
+
+Lesley ''et al'' used ''[[Escherichia coli]]'' to express all the open-reading frames (ORFs) of ''T. martima''. These proteins were then crystallized and structures were determined for successfully-crystallized proteins using X-ray crystallography.  Among other structures, this structural genomics approach allowed for the determination of the structure of the TM0449 protein, which was found to exhibit a novel fold as it did not share structural homology with any known protein.<ref>{{cite journal |author=Lesley SA, Kuhn P, Godzik A, ''et al.'' |title=Structural genomics of the Thermotoga maritima proteome implemented in a high-throughput structure determination pipeline |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=99 |issue=18 |pages=11664–9 |year=2002 |month=September |pmid=12193646 |pmc=129326 |doi=10.1073/pnas.142413399 |url=http://www.pnas.org/cgi/pmidlookup?view=long&pmid=12193646}}</ref>
+
+===The ''Mycobacterium tuberculosis'' proteome===
+The goal of the [[Mycobacterium Tuberculosis Structural Genomics Consortium|TB Structural Genomics Consortium]] is to determine the structures of potential drug targets in ''[[Mycobacterium tuberculosis]]'', the bacterium that causes tuberculosis. The development of novel drug therapies against tuberculosis are particularly important given the growing problem of [[multi-drug-resistant tuberculosis]].
+
+The fully sequenced genome of ''M. tuberculosis'' has allowed scientists to clone many of these protein targets into expression vectors for purification and structure determination by X-ray crystallography.  Studies have identified a number of target proteins for structure determination, including extracellular proteins that may be involved in pathogenesis, iron-regulatory proteins, current drug targets, and proteins predicted to have novel folds. So far, structures have been determined for 708 of the proteins encoded by ''M. tuberculosis''.
+
+== Protein Structure Databases and Classifications ==
+
+[[Protein Data Bank]] (PDB): repository for protein sequence and structural information
+
+[[UniProt]]: provides sequence and functional information
+
+[[Structural Classification of Proteins]] (SCOP Classifications): hierarchical-based approach
+
+[[CATH|Class, Architecture, Topology and Homologous superfamily]] (CATH): hierarchical-based approach
+
+==See also==
+* [[Genomics]]
+* [[Omics]]
+* [[Structural proteomics]]
+* [[Protein Structure Initiative]]
+
+==References==
+{{reflist}}
+{{refbegin}}
+*{{cite journal |author=Hooft RW, Vriend G, Sander C, Abola EE |title=Errors in protein structures |journal=Nature |volume=381 |issue=6580 |pages=272 |year=1996 |month=May |pmid=8692262 |doi=10.1038/381272a0 }}
+*{{cite journal |author=Marsden RL, Lewis TA, Orengo CA |title=Towards a comprehensive structural coverage of completed genomes: a structural genomics viewpoint |journal=BMC Bioinformatics |volume=8|pages=86 |year=2007 |pmid=17349043 |pmc=1829165 |doi=10.1186/1471-2105-8-86 }}
+*{{cite journal |author=Baker EN, Arcus VL, Lott JS |title=Protein structure prediction and analysis as a tool for functional genomics |journal=Appl. Bioinformatics |volume=2 |issue=3 Suppl |pages=S3–10 |year=2003 |pmid=15130810 |url=http://content.wkhealth.com/linkback/openurl?issn=1175-5636&volume=2&issue=3&spage=S3}}
+*{{cite journal |author=Goulding CW, Perry LJ, Anderson D, ''et al.'' |title=Structural genomics of Mycobacterium tuberculosis: a preliminary report of progress at UCLA |journal=Biophys. Chem. |volume=105 |issue=2-3 |pages=361–70 |year=2003 |month=September |pmid=14499904 |url=http://linkinghub.elsevier.com/retrieve/pii/S0301462203001017}}
+*{{cite journal |author=Skolnick J, Fetrow JS, Kolinski A |title=Structural genomics and its importance for gene function analysis |journal=Nat. Biotechnol. |volume=18 |issue=3 |pages=283–7 |year=2000 |month=March |pmid=10700142 |doi=10.1038/73723 }}
+{{refend}}
+
+==External links==
+{{div col}}
+*[[Structural Genomics Consortium]]
+*[http://www.nigms.nih.gov/psi/ Protein Structure Initiative (PSI)]
+*[http://kb.psi-structuralgenomics.org/KB/ PSI Structural Genomics Knowledgebase: A Nature Gateway]
+*[http://www.nesg.org Northeast Structural Genomics Consortium]
+*[http://www.mcsg.anl.gov The Midwest Center for Structural Genomics]
+*[http://www.strgen.org/ Berkeley Structural Genomics Center]
+*[http://www.uwstructuralgenomics.org/ Center for Eukaryotic Structural Genomics]
+*[http://genomics.eu.org/ Yeast Structural Genomics (Genomique Structurale de la levure)]
+*[http://www.rsgi.riken.go.jp/ RIKEN Structural Genomics/Proteomics Initiative]
+*[http://www.sgpp.org/ Structural Genomics of Pathogenic Protozoa]
+*[http://www.jcsg.org/ The Joint Center for Structural Genomics]
+*[[Mycobacterium tuberculosis Structural Genomics Consortium]]
+*[http://www.nysgxrc.org/ New York SGX Research Center for Structural Genomics (NYSGXRC)]
+*[http://www-nmr.cabm.rutgers.edu/structuralgenomics/ NJCST Initiative in Structural Genomics and Bioinformatics]
+*[http://proteome.bnl.gov/ Structural Genomics at Brookhaven Natl. Labs]
+*[http://s2f.carb.nist.gov/ Structure to Function Pilot Project: CARB]
+*[http://www.secsg.org/ The Southeast Collaboratory for Structural Genomics]
+*[http://www.uhnres.utoronto.ca/proteomics/ Toronto Structural Proteomics Consortium]
+*[http://www.proteinstrukturfabrik.de/ Protein Structure Factory]
+*[http://www.oppf.ox.ac.uk/ Oxford Protein Production Facility]
+*[http://www.csgid.org/ Center for Structural Genomics of Infectious Diseases]
+*[http://www.ssgcid.org/ Seattle Structural Genomics Center for Infectious Disease]
+*[http://www.spineurope.org/ Structural Proteomics in Europe SPINE]
+*[http://www.ec-fesp.org Forum for European Structural Proteomics (FESP)]
+*[http://www.weizmann.ac.il/ISPC Israel Structural Proteomics Center (ISPC)]
+{{div col end}}
+
+{{genomics-footer}}
+
+{{DEFAULTSORT:Structural Genomics}}
+[[Category:Genomics]]
+[[Category:Genome projects]]
+[[Category:Structural biology]]

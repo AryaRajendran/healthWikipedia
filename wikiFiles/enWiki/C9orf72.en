@@ -1,0 +1,62 @@
+{{PBB_Controls
+| update_page = yes
+| require_manual_inspection = no
+| update_protein_box = yes
+| update_summary = yes
+| update_citations = yes
+}}
+'''C9orf72''' ('''chromosome 9 open reading frame 72''') is a [[protein]] which in humans is encoded by the [[gene]] ''C9orf72''.
+
+The human ''C9orf72'' gene is located on the short (p) arm of [[chromosome 9]] [[open reading frame]] 72, from [[base pair]] 27,546,542 to base pair 27,573,863. Its [[locus (genetics)|cytogenetic location]] is at 9p21.2.<ref>[http://www.ncbi.nlm.nih.gov/gene?linkname=protein_gene&from_uid=365906244 C9orf72 chromosome 9 open reading frame 72 [Homo sapiens&#93; - Gene - NCBI]</ref>
+
+The protein is found in many regions of the brain, in the [[cytoplasm]] of [[neurons]] as well as in [[presynaptic]] terminals. Disease causing mutations in the gene were first discovered by two independent research teams, led by Rosa Rademakers of [[Mayo Clinic]] and Bryan Traynor of the [[National Institutes of Health]], and were first reported in October 2011.<ref>{{cite doi|10.1016/j.neuron.2011.09.011}}</ref><ref>{{cite doi|10.1016/j.neuron.2011.09.010}}</ref> The mutations in ''C9orf72'' are significant because it is the first pathogenic mechanism identified to be a genetic link between familial [[frontotemporal dementia]] (FTD) and [[amyotrophic lateral sclerosis]] (ALS). As of 2012, it is the most common mutation identified that is associated with familial FTD and/or ALS.
+
+==Gene location==
+
+==Mutation==
+
+The mutation of ''C9ORF72'' is a hexanucleotide repeat expansion of the six letter string of nucleotides GGGGCC.<ref>{{cite doi|10.1007/s00401-011-0919-7}}</ref> In a normal person, there are up to 30 repeats of this hexanucleotide, but in people with the mutation, the repeat can occur in the order of hundreds.<ref>{{cite doi|10.1136/jnnp-2011-301883}}</ref> It is known that the mutation interferes with normal expression of the protein made by C9orf72, however the function of that protein is unknown (though see section below). There are two major theories about the way that the ''C9ORF72'' mutation causes FTD and/or ALS. One theory is that accumulation of RNA in the nucleus and cytoplasm becomes toxic, and RNA sequestration occurs. The other is that the lack of half of the C9ORF72 protein ([[Haploinsufficiency]]) in the body causes the diseases.  It is generally accepted that a combination of the loss of function at the protein and RNA level might cause FTD and/or ALS.
+
+==Clinical significance==
+
+The ''C9ORF72'' mutation is the first mutation found to be a link between familial FTD and ALS. Numerous published studies have confirmed the commonality of the ''C9ORF72'' repeat expansion in FTD and ALS, which are both diseases without cures that have affected millions of people. Frontotemporal dementia is the second most common form of early-onset dementia after Alzheimer’s disease in people under the age of 65.<ref>{{cite pmid|12058088}}</ref> Amyotrophic lateral sclerosis is also devastating; it is characterized by motor neuron degeneration that eventually causes respiratory failure with a median survival of three years after onset.<ref name="Her">{{cite doi|10.1093/hmg/dds055}}</ref> 
+While different mutations of various genes have been linked to different phenotypes of FTD in the past, C9orf72 specifically has been linked to behavioral variant FTD.<ref name="Friedland">{{cite doi|10.3389/fneur.2012.00136}}</ref> Certain pathology in FTD caused by the C9orf72 mutation can also include:
+*TDP 43 in all C9 carriers<ref name="Boeve">{{cite doi|10.1093/brain/aws004}}</ref>
+*Ubiquitin-binding protein 62<ref>{{cite doi|10.1093/brain/awr361}}</ref>
+''C9ORF72'' is specifically linked to familial ALS, which affects about 10% of ALS patients. Traditionally, familial and sporadic cases of ALS have been clinically indistinguishable, which has made diagnosis difficult. The identification of this gene will therefore help in the future diagnosis of familial ALS.<ref name="Her" />
+Slow diagnosis is also common for FTD, which can often take up to a year with many patients initially misdiagnosed with another condition. Testing for a specific gene that is known to cause the diseases would help with faster diagnoses. Possibly most importantly, the identification of this hexanucelotide repeat expansion is an extremely promising avenue for possible future therapies of both familial FTD and familial ALS, once the mechanism and function of the C9ORF72 protein is better comprehended. Furthermore, present research is being done to see if there is a correlation between ''C9ORF72'' and other neurological diseases, such as [[motor neuron disease]].<ref>{{cite doi|10.1155/2012/498428}}</ref>
+
+==Gene heritability==
+
+It has been found that paternal [[genetic anticipation]] exists for the mutation.<ref name="Boeve" /> It has also been proposed that the amount of the repeat expansion increases with each successive generation, causing the disease to be more severe in the next generation, showing onset up to a decade earlier with each successive generation after the carrier. The buildup of a repeat expansion with each generation is typically thought to occur because the DNA is unstable and therefore accumulates exponentially every time the gene is copied.  There is also a demographic factor that should be considered in genetic predisposition, as some cohorts have found that there might be a [[founder effect]] for the C9orf72 mutation, which might have led to higher frequencies of the mutation in specific populations than others. Specifically this founder has been linked to Northern Europeans populations, namely Finland.<ref name="Friedland" />
+
+===Gene testing===
+
+Since this mutation has been found to be the most common mutation identified in familial FTD and/or ALS, it is considered one of if not the most dependable candidates for genetic testing. Patients are considered eligible if the mother or father has had FTD and/or another family member has had ALS.<ref name="Her"/> There are also population and location risk factors in determining eligibility. Some studies have found that the mutation has a higher frequency in certain cohorts.<ref>{{cite doi|10.1007/s00401-012-1029-x}}</ref> Athena Diagnostics (Quest Diagnostics) announced in Spring 2012 the first clinically available testing service for detecting the hexanucleotide repeat expansion in the C9orf72 gene.<ref>[http://www.athenadiagnostics.com/content/about/news/C9orf72 New Testing for ALS] (2012)</ref> Genetic counseling is recommended for the patients before a genetic test is ordered.
+
+==Likely function==
+
+Using sensitive sequence analysis tools, such as PSI-BLAST and [[HHpred / HHsearch|HHpred]],<ref name="Söding">{{Cite pmid|15980461}}</ref> two groups have shown that C9ORF72 is a full-length homologue of DENN proteins (where DENN stands for “differentially expressed in normal and neoplastic cells”).<ref name="Zhang">{{Cite pmid|23248642}}</ref><ref name="Levine">{{Cite pmid|23329412}}</ref> These proteins have a conserved DENN module comprised of an N-terminal longin domain, followed by the central DENN and C-terminal alpha-helical d-DENN domains.<ref name="Zhang" /> This has led to '''DENNL72''' being suggested as a new name for C9orf72.<ref name="Levine"/> 
+
+Given the molecular role of known DENN modules,<ref name="Yoshimura">{{Cite pmid|20937701}}</ref> the C9ORF72-like proteins are predicted to function as [[Guanine nucleotide exchange factor]]s for [[small GTPase]]s, most likely a  [[Rab (G-protein)|Rab]].<ref name="Zhang" /> This suggests that certain aspects of the ALS and FTD disease pathology might result from [[haploinsufficiency]] of C9ORF72/DENNL72, leading to a defect in intracellular [[Secretory pathway|membrane traffic]], either [[exocytosis]] or [[endocytosis]], in addition to the strong possibility of RNA-mediated toxicity.
+
+==Evolutionary history==
+
+Sequence analysis further suggests that the C9ORF72 protein emerged early in eukaryotic evolution, and whereas most eukaryotes usually possess a single copy of the gene encoding the C9ORF72 protein, the eukaryotes [[Entamoeba]] and [[Trichomonas vaginalis]] possess multiple copies, suggestive of independent lineage-specific expansions in these species. Interestingly, the family is lost in most fungi (except Rhizopus) and plants.<ref name="Zhang" /><ref name="Levine" />
+
+==Implications for future therapies==
+
+Overall, the ''C9ORF72'' mutation holds great promise for future therapies for familial FTD and/or ALS to be developed. Currently, there is focus on more research to be done on ''C9ORF72'' to further understand the exact mechanisms involved in the cause of the diseases by this mutation. A clearer understanding of the exact pathogenic mechanism will aid in a more focused drug therapies. Possible drug targets currently include the repeat expansion itself as well as increasing levels of C9ORF72. Blocking the toxic gain of RNA sulcci to prevent RNA sequestration might be helpful as well as making up for the lack of C9ORF72. Either of these targets as well as a combination of them might be promising future targets in minimizing the effects of the ''C9ORF72'' repeat expansion.<ref>{{cite doi|10.1093/brain/aws001}}</ref>
+
+==Interactions==
+
+C9ORF72 has been shown to [[interact]] with
+
+* [[ELAVL1]] <ref name="Interaction">C9ORF72. (2012b). Interaction Summary, 2012, from http://thebiogrid.org/128456/table/homo-sapiens/c9orf72.html</ref>
+* [[UBC (gene)|UBC]] <ref name="Interaction" />
+
+==References==
+{{reflist|3}}
+
+[[Category:Genes on chromosome 9]]
+[[Category:Proteins]]

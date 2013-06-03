@@ -1,0 +1,76 @@
+{{about|concept in health and disease|game theory|risk dominance|finance|risk factor (finance)|criminology|Risk factor (criminology)}}
+In [[epidemiology]], a '''risk factor''' is a variable associated with an increased [[risk]] of [[disease]] or [[infection]]. Sometimes, '''determinant''' is also used, being a variable associated with either increased or decreased risk.
+
+==Correlation vs causation==
+Risk factors or determinants are [[correlation]]al and not necessarily [[Causality|causal]], because [[correlation does not prove causation]].  For example, being young cannot be said to cause [[measles]], but young people have a higher rate of measles because they are less likely to have developed [[immunity (medical)|immunity]] during a previous epidemic. [[Statistics|Statistical]] methods are frequently used to assess the strength of an association and to provide causal evidence (for example in the [[British doctors study|study]] of the link between smoking and [[lung cancer]]). Statistical  analysis along with the biological sciences can establish that risk factors are causal. Some prefer the term risk factor to mean causal determinants of increased rates of disease, and for unproven links to be called possible risks, associations, etc.
+
+==Terms of description==
+Mainly taken from [[risk factors for breast cancer]], risk factors can be described in terms of, for example:
+*[[Relative risk]], such as "A woman is more than 100 times more likely to develop breast cancer in her 60s than in her 20s.<ref name=Margolese>{{cite book
+|author=Margolese, Richard G, Bernard Fisher, Gabriel N Hortobagyi, and William D Bloomer
+|editor=Bast RC, Kufe DW, Pollock RE, et al.
+|title=Cancer Medicine
+|edition=e.5
+|publisher=B.C. Decker
+|location=Hamilton, Ontario
+|year=2000
+|chapter=118
+|isbn=1-55009-113-1
+|oclc=
+|url=http://www.ncbi.nlm.nih.gov/books/NBK20900/#A29677
+|accessdate=27 January 2011 }}</ref>"
+*Fraction of incidences occurring in the group having the property of or being exposed to the risk factor, such as "99% of breast cancer cases are diagnosed in women<ref name="Giordano">{{cite journal |author=Giordano SH, Cohen DS, Buzdar AU, Perkins G, Hortobagyi GN |title=Breast carcinoma in men: a population-based study |journal=Cancer |volume=101 |issue=1 |pages=51–7 |year=2004 |month=July |pmid=15221988 |doi=10.1002/cncr.20312}}</ref>"
+*Increase in incidence in the exposed group, such as "each daily alcoholic beverage increases the incidence of breast cancer by 11 cases per 1000 women<ref name="pmid19244173">{{cite journal |author=Allen NE, Beral V, Casabonne D, ''et al.'' |title=Moderate alcohol intake and cancer incidence in women |journal=Journal of the National Cancer Institute |volume=101 |issue=5 |pages=296–305 |year=2009 |month=March |pmid=19244173 |doi=10.1093/jnci/djn514}}</ref>"
+*[[Hazard ratio]], such as "an increase in both total and invasive breast cancers in women randomized to receive estrogen and progestin for an average of 5 years, with a hazard ratio of 1.24 compared to controls"<ref>{{cite doi|10.1001/jama.299.9.1036}}</ref>
+
+==Example==
+The following example of a risk factor is described in terms of the [[relative risk]] it confers, which is evaluated by comparing the risk of those exposed to the potential risk factor to those not exposed. Let's say that at a wedding, 74 people ate the chicken and 22 of them were ill, while of the 35 people who had the fish or vegetarian meal only 2 were ill. Did the chicken make the people ill?
+
+:<math> 
+Risk = \frac {\mbox{number of persons experiencing event (food poisoning)}} {\mbox{number of persons exposed to risk factor (food)}} 
+</math>
+
+So the [[chicken]] eaters' risk = 22/74 = 0.297<br/>
+And non-chicken eaters' risk = 2/35 = 0.057.
+
+Those who ate the chicken had a risk over five times as high as those who did not, that is, a relative risk of more than five. This suggests that eating chicken was the cause of the illness, but this is ''not'' proof.
+
+==General determinants==
+The probability of an outcome usually depends on an interplay between multiple associated variables. When performing [[epidemiological studies]] to evaluate one or more determinants for a specific outcome, the other determinants may act as [[confounding]] factors, and need to be controlled for, e.g. by [[stratification (statistics)|stratification]]. The potentially confounding determinants varies with what outcome is studied, but the following general confounders are common to most epidemiological associations, and are the determinants most commonly controlled for in epidemiological studies:
+*Age
+*Sex or gender
+*Ethnicity
+
+Other less commonly adjusted for possible confounders include:
+*Social status/income
+*Geographic location
+*Genetic predisposition
+*Gender identity
+*Occupation
+*Sexual orientation
+*Level of [[chronic stress]]
+*Diet
+*Level of [[physical exercise]]
+*Alcohol consumption and [[tobacco smoking]]
+*Other [[social determinants of health]]
+
+==Risk marker==
+A ''risk marker'' is a variable that is quantitatively associated with a disease or other outcome, but direct alteration of the risk marker does not necessarily alter the risk of the outcome.
+
+==History==
+The term "risk factor" was first coined by former [[Framingham Heart Study]] Director Dr. [[William B. Kannel]] a 1961 article in Annals of Internal Medicine.<ref>{{cite news| url=http://www.forbes.com/sites/larryhusten/2011/08/23/william-kannel-former-director-of-the-framingham-heart-study-dead-at-87/ | work=Forbes | first=Larry | last=Husten | date=23 August 2011}}</ref>
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Case, S.P. and Haines, K.R. (2009) Understanding Youth Offending: Risk Factor Research, Policy and Practice. Cullompton: Willan.  http://www.willanpublishing.co.uk/cgi-bin/indexer?product=9781843923411
+
+==See also==
+*[[protective factor]]
+
+{{DEFAULTSORT:Risk Factor}}
+[[Category:Epidemiology]]
+[[Category:Risk]]
+[[Category:Medical statistics]]
+[[Category:Risk factors]]

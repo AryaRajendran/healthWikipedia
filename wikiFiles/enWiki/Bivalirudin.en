@@ -1,0 +1,300 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 459980478
+| IUPAC_name =  
+| image = Bivalirudin.png
+
+<!--Clinical data-->
+| tradename = Angiomax
+| Drugs.com = {{drugs.com|monograph|bivalirudin}}
+| pregnancy_US = B
+| legal_status = Rx-only. Not a controlled substance.
+| routes_of_administration = [[Intravenous therapy|Intravenous]] injection/infusion only
+
+<!--Pharmacokinetic data-->
+| bioavailability = N/A (IV application only)
+| metabolism = Angiomax is cleared from plasma by a combination of renal mechanisms and proteolytic cleavage
+| elimination_half-life = ~25 minutes in patients with normal renal function
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 128270-60-0
+| ATC_prefix = B01
+| ATC_suffix = AE06
+| PubChem = 16129704
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00006
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10482069
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = TN9BEX005G
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 59173
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201455
+
+<!--Chemical data-->
+| C=98 | H=138 | N=24 | O=33 
+| molecular_weight = 2180.29 g/mol
+| smiles = CC(C)C[C@H](NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H]6CCCN6C(=O)[C@@H](NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](CC(=O)O)NC(=O)C\nNC(=O)[C@H](CC(N)=O)NC(=O)CNC(=O)CNC(=O)CNC(=O)CNC(=O)[C@@H]5CCCN5C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](N)Cc3ccccc3)[C@@H](C)CC)C(=O)O
+| InChI = 1/C98H138N24O33/c1-5-52(4)82(96(153)122-39-15-23-70(122)92(149)114-60(30-34-79(134)135)85(142)111-59(29-33-78(132)133)86(143)116-64(43-55-24-26-56(123)27-25-55)89(146)118-67(97(154)155)40-51(2)3)119-87(144)61(31-35-80(136)137)112-84(141)58(28-32-77(130)131)113-88(145)63(42-54-18-10-7-11-19-54)117-90(147)66(45-81(138)139)110-76(129)50-107-83(140)65(44-71(100)124)109-75(128)49-106-73(126)47-104-72(125)46-105-74(127)48-108-91(148)68-21-13-38-121(68)95(152)62(20-12-36-103-98(101)102)115-93(150)69-22-14-37-120(69)94(151)57(99)41-53-16-8-6-9-17-53/h6-11,16-19,24-27,51-52,57-70,82,123H,5,12-15,20-23,28-50,99H2,1-4H3,(H2,100,124)(H,104,125)(H,105,127)(H,106,126)(H,107,140)(H,108,148)(H,109,128)(H,110,129)(H,111,142)(H,112,141)(H,113,145)(H,114,149)(H,115,150)(H,116,143)(H,117,147)(H,118,146)(H,119,144)(H,130,131)(H,132,133)(H,134,135)(H,136,137)(H,138,139)(H,154,155)(H4,101,102,103)/t52-,57+,58-,59-,60-,61-,62-,63-,64-,65-,66-,67-,68-,69-,70-,82-/m0/s1
+| InChIKey = OIRCOABEOLEUMC-GEJPAHFPBI
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C98H138N24O33/c1-5-52(4)82(96(153)122-39-15-23-70(122)92(149)114-60(30-34-79(134)135)85(142)111-59(29-33-78(132)133)86(143)116-64(43-55-24-26-56(123)27-25-55)89(146)118-67(97(154)155)40-51(2)3)119-87(144)61(31-35-80(136)137)112-84(141)58(28-32-77(130)131)113-88(145)63(42-54-18-10-7-11-19-54)117-90(147)66(45-81(138)139)110-76(129)50-107-83(140)65(44-71(100)124)109-75(128)49-106-73(126)47-104-72(125)46-105-74(127)48-108-91(148)68-21-13-38-121(68)95(152)62(20-12-36-103-98(101)102)115-93(150)69-22-14-37-120(69)94(151)57(99)41-53-16-8-6-9-17-53/h6-11,16-19,24-27,51-52,57-70,82,123H,5,12-15,20-23,28-50,99H2,1-4H3,(H2,100,124)(H,104,125)(H,105,127)(H,106,126)(H,107,140)(H,108,148)(H,109,128)(H,110,129)(H,111,142)(H,112,141)(H,113,145)(H,114,149)(H,115,150)(H,116,143)(H,117,147)(H,118,146)(H,119,144)(H,130,131)(H,132,133)(H,134,135)(H,136,137)(H,138,139)(H,154,155)(H4,101,102,103)/t52-,57+,58-,59-,60-,61-,62-,63-,64-,65-,66-,67-,68-,69-,70-,82-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OIRCOABEOLEUMC-GEJPAHFPSA-N
+| synonyms = d-Phenylalanyl-l-prolyl-l-arginyl<br>-l-prolylglycylglycylglycylglycyl-l-asparaginylglycyl<br>-l-alpha-aspartyl-l-phenylalanyl<br>-l-alpha-glutamyl-l-alpha-glutamyl-l-isoleucyl<br>-l-prolyl-l-alpha-glutamyl-l-alpha-glutamyl<br>-l-tyrosyl-l-leucine
+}}
+
+'''Bivalirudin''' (Angiomax or Angiox, manufactured by The Medicines Company) is a specific and reversible [[direct thrombin inhibitor]] (DTI).<ref name=Angiomax>{{cite web |url= http://angiomax.com/Downloads/Angiomax_PI_2010_PN1601-12.pdf|title= Angiomax (bivalirudin) Prescribing Information|work= |publisher= The Medicines Company|accessdate=2 December 2011}}</ref>
+
+Chemically, it is a synthetic [[Congener (chemistry)|congener]] of the naturally occurring drug [[hirudin]] (found in the saliva of the medicinal leech ''Hirudo medicinalis''). 
+
+Bivalirudin is a DTI that overcomes many limitations seen with indirect thrombin inhibitors, such as [[heparin]]. Bivalirudin is a short, synthetic peptide that is potent, highly specific, and a reversible inhibitor of [[thrombin]].<ref name=Angiomax /><ref name=Anand2007>{{cite pmid|17659921}}</ref><ref name=Weitz1990>{{cite pmid|2384594}}</ref> It inhibits both circulating and clot-bound thrombin,<ref name=Weitz1990 /> while also inhibiting thrombin-mediated platelet activation and aggregation.<ref name=Stone2006>{{cite pmid|17124018}}</ref> Bivalirudin has a quick onset of action and a short half-life.<ref name=Angiomax /> It does not bind to plasma proteins (other than thrombin) or to red blood cells. Therefore it has a predictable antithrombotic response. There is no risk for [[Heparin-induced thrombocytopenia|Heparin Induced Thrombocytopenia]]/Heparin Induced Thrombosis-Thrombocytopenia Syndrome (HIT/HITTS).<ref name=Angiomax /> It does not require a binding cofactor such as antithrombin and does not activate platelets.<ref name=Anand2007 /><ref name=Weitz2002>{{cite pmid|11967385}}</ref> These characteristics make bivalirudin an ideal alternative to heparin.  
+
+Bivalirudin clinical studies demonstrated consistent positive outcomes in patients with stable [[angina]], unstable angina (UA), non-ST segment elevation myocardial infarction (NSTEMI), and ST-segment elevation myocardial infarction (STEMI) undergoing PCI  in 7 major randomized trials.<ref name=Angiomax /><ref name=Weitz1990 /><ref name=Stone2006 /><ref name=Bittl2001>{{cite pmid|11717596}}</ref><ref name=Lincoff2003>{{cite pmid|12588269}}</ref>
+
+==Indications==
+
+'''''US (United States) Indications''''':<ref name=Angiomax />
+
+*Bivalirudin is indicated for use as an anticoagulant in patients with unstable angina undergoing percutaneous transluminal coronary angioplasty (PTCA).
+
+*Bivalirudin with provisional use of glycoprotein IIb/IIIa inhibitor (GPI) is indicated for use as an anticoagulant in patients undergoing percutaneous coronary intervention (PCI).
+
+*Bivalirudin is indicated for patients with, or at risk of HIT/HITTS undergoing PCI.
+
+*Bivalirudin is intended for use with aspirin and has been studied only in patients receiving concomitant aspirin
+
+'''''EU (European) indications''''':<ref name=Angiox>{{cite web |url= http://www.themedicinescompany.com/new-images/Angiox-PIs/emea-combined-h562en.pdf|title= Annex 1 - Summary of Product Characteristics|date= March 2010|work= www.themedicinescompany.com|publisher= The Medicines Company UK Ltd|accessdate=2 December 2011}}</ref>
+
+*Percutaneous Coronary Intervention (PCI), including patients with ST-segment elevation myocardial infarction (STEMI) undergoing primary PCI.
+
+*Bivalirudin is also indicated for the treatment of adult patients with unstable angina/non-ST segment elevation myocardial infarction (UA/NSTEMI) planned for urgent or early intervention.
+
+*Bivalirudin should be administered with aspirin and clopidogrel.
+
+==Basic chemical and pharmacological properties==
+
+'''Mechanism of action'''''<ref name=Angiomax />
+
+Bivalirudin directly inhibits thrombin by specifically binding both to the catalytic site and to the anion-binding exosite of circulating and clot-bound thrombin. Thrombin is a serine proteinase that plays a central role in the thrombotic process. It cleaves fibrinogen into fibrin monomers, activates Factor V, VIII, and XIII, allowing fibrin to develop a covalently cross-linked framework that stabilizes the thrombus. Thrombin also promotes further thrombin generation, and activates platelets, stimulating aggregation and granule release. The binding of bivalirudin to thrombin is reversible as thrombin slowly cleaves the bivalirudin-Arg<sub>3</sub>-Pro<sub>4</sub> bond, resulting in recovery of thrombin active site functions.
+
+Video describing bivalirudin’s mechanism of action: http://www.angiomax.com/AboutAngiomax/mechanismAction.aspx?launch=true{{dead link|date=May 2012}}
+
+'''Pharmacokinetics'''<ref name=Angiomax />
+
+*Following an IV bolus of bivalirudin of 1&nbsp;mg/kg and a 4-hour 2.5&nbsp;mg/kg/h IV infusion a mean steady state concentration of 12.3 ± 1.7 mcg/mL is achieved
+
+*Bivalirudin is cleared from plasma by a combination of renal mechanisms and proteolytic cleavage
+
+*Half-life:
+
+-Normal renal function (≥ 90 mL/min) = 25 minutes
+
+-Mild renal dysfunction (60 – 89 mL/min) = 22 minutes 
+
+-Moderate renal dysfunction (30-59 mL/min) = 34 minutes
+
+-Severe renal dysfunction (≤ 29 mL/min) = 57 minutes 
+
+-Dialysis-dependent  = 3.5 hours 
+
+*Clearance is reduced approximately 20% in patients with moderate and severe renal impairment and by 80% in dialysis-dependent patients
+
+*Bivalirudin is hemodialyzable and approximately 25% is cleared by hemodialysis.
+
+'''Pharmacodynamics'''<ref name=Angiomax />
+
+Coagulation times return to baseline approximately 1 hour following cessation of bivalirudin administration.
+
+==Dosing and administration==
+
+Bivalirudin is intended for IV use only and is supplied as a sterile, lyophilized product in single-use, glass vials. After reconstitution, each vial delivers 250&nbsp;mg of bivalirudin.
+
+'''''US dosing''''':<ref name=Angiomax /> 
+
+*PCI Bolus: 0.75&nbsp;mg/kg
+
+*PCI Infusion: 1.75&nbsp;mg/kg/hr
+
+'''''EU dosing''''':<ref name=Angiox /> 
+
+*UA/NSTEMI
+
+-Bolus: 0.1&nbsp;mg/kg
+
+-Infusion: 0.25&nbsp;mg/kg/hr for up to 72 hours for medical management 
+
+-If patient proceeds to PCI, an additional bolus of 0.5&nbsp;mg/kg of bivalirudin should be administered before the procedure and the infusion increased to 1.75&nbsp;mg/kg/hr for the duration of the procedure.
+
+*PCI
+
+-Bolus: 0.75&nbsp;mg/kg
+
+-Infusion: 1.75&nbsp;mg/kg/hr 
+
+*Coronary Artery Bypass Graft (CABG)
+
+-Patients proceeding to CABG surgery off-pump:
+
+The IV infusion of bivalirudin should be continued until the time of surgery. Just prior to surgery, a 0.5&nbsp;mg/kg bolus dose should be administered followed by a 1.75&nbsp;mg/kg/h infusion for the duration of the surgery.
+
+-Patients proceeding to CABG surgery on-pump:
+
+The IV infusion of bivalirudin should be continued until 1 hour prior to surgery after which the infusion should be discontinued 
+
+Five minutes after the bolus dose has been administered, an activating clotting time (ACT) should be performed and an additional bolus of 0.3&nbsp;mg/kg should be given if needed.<ref name=Angiomax /> 
+
+Continuation of the bivalirudin infusion following PCI for up to 4 hours post-procedure is optional, at the discretion of the treating physician. After 4 hours, an additional IV infusion of bivalirudin may be initiated at a rate of 0.2 or 0.25&nbsp;mg/kg/h for up to 20 hours, if needed.<ref name=Angiomax /><ref name=Angiox />
+
+Bivalirudin should be administered with optimal antiplatelet therapy (aspirin plus clopidogrel).<ref name=Angiomax /><ref name=Angiox />
+
+'''''Renal impairment'''''
+
+A reduction in the infusion dose of bivalirudin should be considered in patients with moderate or severe renal impairment. If a patient is on hemodialysis, the infusion should be reduced to 0.25&nbsp;mg/kg/h. No reduction in the bolus dose is needed.<ref name=Angiomax /><ref name=Angiox />
+
+==Safety information==
+
+Bivalirudin is contraindicated in patients with active major bleeding and hypersensitivity to bivalirudin or its components. (In the EU bivalirudin is also contraindicated in patients with an increased risk of bleeding due to hemostasis disorders and/or irreversible coagulation disorders, severe uncontrolled hypertension, subacute bacterial endocarditis, and severe renal impairment [GFR<30 ml/min] and in dialysis-dependent patients).<ref name=Angiomax /><ref name=Angiox />
+
+Bivalirudin is an anticoagulant. Therefore, bleeding is an expected adverse event.  In clinical trials, bivalirudin treated patients exhibited statistically significantly lower rates of bleeding than patients treated with heparin plus a GP IIb/IIIa inhibitor. The most common (≥10%) adverse events of bivalirudin are back pain, pain, nausea, headache, and hypotension.<ref name=Angiomax /><ref name=Angiox />
+
+Bivalirudin is classified as Pregnancy Category B.<ref name=Angiomax /><ref name=Angiox />
+
+==Pediatric experience==
+
+The U.S. Food and Drug Administration (FDA) granted pediatric exclusivity for bivalirudin, based on studies submitted in response to a written request by the FDA to investigate the use of bivalirudin in pediatric patients aged birth to 16-years old.
+
+The submission was based on a prospective, open-label, multi-center, single arm study evaluating bivalirudin as a procedural anticoagulant in the pediatric population undergoing intravascular procedures for congenital heart disease.  
+
+Study outcomes suggest that the pharmacokinetic (PK) and pharmacodynamic (PD) response of bivalirudin in the pediatric population is predictable and behaves in a manner similar to that in adults.<ref name=Zamora2009>{{cite journal |last1= Zamora|first1= Rolando|last2= Forbes|first2= Thomas|last3= Hijazi|first3= Ziyad|last4= Qureshi|first4= Athar|last5= Ringewald|first5= Jeremy|last6= Rome|first6= Jonathan|last7= Vincent|first7= Robert|year= 2009|title= Bivalirudin (Angiomax®) As a Procedural Anticoagulant in the Pediatric Population Undergoing Intravascular Procedures for Congenital Heart Disease|journal= Catheterization and Cardiovascular Interventions|volume= 73|issue= S1|pages= S8}}</ref>
+
+==Comparative results==
+
+Bivalirudin is supported by 7 major randomized trials. These trials include REPLACE-2 (Randomized Evaluation of PCI Linking Angiomax to Reduced Clinical Events-2), BAT (Bivalirudin Angioplasty Trial), ACUITY (Acute Catheterization and Urgent Intervention Triage Strategy Trial), and HORIZONS AMI (Harmonizing Outcomes With Revascularization and Stents in AMI).  A total of 25,000 patients with a low to high risk for ischemic complications undergoing PCI were evaluated.  Bivalirudin with or without provisional GPIIb/IIIa demonstrated similar angiographic and procedural outcomes and improved clinical outcomes when compared with heparin plus GPIIb/IIIa.<ref name=Angiomax /><ref name=Stone2006 /><ref name=Bittl2001 /><ref name=Lincoff2003 /><ref name=Stone2008>{{cite pmid|18499566}}</ref>
+
+'''HORIZONS-AMI'''<ref name=Stone2008 /><ref name=Mehran2009>{{cite pmid|19717185}}</ref><ref name=Stone2009>{{cite conference |title= HORIZONS- AMI: Two-Year Follow-up from a Prospective, Randomized Trial of Heparin Plus Glycoprotein IIb/IIIa Inhibitors vs. Bivalirudin and Paclitaxel-Eluting vs. Bare-Metal Stents in STEMI|author= Gregg W. Stone|date= 25 September 2009|conference= TCT2009 Conference, San Francisco}}</ref>
+
+HORIZONS AMI was a prospective, randomized, open-label, double-arm multicenter trial in STEMI patients undergoing primary PCI.  
+
+''30 Day Results''
+
+*The incidence of net adverse clinical events (9.2% vs. 12.1%) and major bleeding (4.9% vs. 8.3%) was significantly reduced by bivalirudin monotherapy versus unfractionated heparin (UFH) plus a GP IIb/IIIa inhibitor with similar rates of major adverse cardiovascular events (5.4 vs. 5.5%) at 30 days.
+
+*A significant reduction in the rate of cardiac mortality in patients treated with bivalirudin monotherapy versus UFH plus a GP IIb/IIIa inhibitor was observed (1.8% vs. 2.9%) at 30 days.
+
+*Patients receiving Angiomax monotherapy had similar rates of overall stent thrombosis (Academic Research Consortium (ARC) definition) at 30 days versus UFH plus a GP IIb/IIIa inhibitor (2.5% vs. 1.9%).
+
+''1-Year Results''
+
+*At 1-year follow-up, a reduction in the incidence of net adverse clinical events (15.7% vs. 18.3%) and major bleeding (5.8% vs. 4.9%) was maintained in the bivalirudin monotherapy group versus UFH plus a GP IIb/IIIa inhibitor group, with no difference in the rate of major adverse cardiovascular events (11.9% vs. 11.9%)
+
+*A significant reduction in the rate of cardiac mortality in patients treated with bivalirudin monotherapy versus UFH plus a GP IIb/IIIa inhibitor was maintained at 1 year in the HORIZONS AMI trial (2.1% vs. 3.8%)The incidence of stent thrombosis  at 1 year was also similar between the 2 treatment groups (3.5% in the Angiomax group vs. 3.2% in the UFH plus GP IIb/IIIa inhibitor group).
+
+''2-Year Results''
+
+*At 2-year follow-up, a reduction in the incidence of net adverse clinical events (22.3% vs. 24.8%) and major bleeding (6.4% vs. 9.6%) was maintained in the bivalirudin monotherapy group versus UFH plus a GP IIb/IIIa inhibitor group, with no difference in the rate of major adverse cardiovascular events (18.7% vs. 18.8%)
+
+*A significant reduction in the rate of cardiac mortality in patients treated with bivalirudin monotherapy versus UFH plus a GP IIb/IIIa inhibitor was maintained at 2 year in the HORIZONS AMI trial (2.5% vs. 4.2%)
+
+*At  2-year follow-up, treatment with bivalirudin monotherapy resulted in a 25% reduction in all-cause mortality, representing 15 lives saved per 1000 patients treated (number needed to treat [NNT] = 67 to save 1 life).
+
+*The incidence of stent thrombosis (ARC definite/probable) at 2 years was also similar between the 2 treatment groups (4.6% in the Angiomax group vs. 4.3% in the UFH plus GP IIb/IIIa inhibitor group).
+
+'''ACUITY'''<ref name=Stone2006 />
+
+ACUITY was a large multicenter, prospective, open-label, 3-arm trial designed to establish the optimal antithrombotic treatment regimens in patients with UA/NSTEMI undergoing early invasive management.
+
+''30-Day Results''
+
+*Bivalirudin monotherapy provided superior net clinical outcomes compared to any heparin regimen with GP IIb/IIIa inhibitor (10.1% vs 11.7%) at 30 days.
+
+*The incidence of ACUITY scale major bleeding (non-CABG) was decreased significantly by 47% in the bivalirudin monotherapy group vs the heparin with GP IIb/IIIa inhibitor group (3.0% vs 5.7%) at 30 days.
+
+''1-Year Results''
+
+*Bivalirudin alone demonstrated no difference in the rates of composite ischemic complications (death, MI, unplanned revascularization for ischemia) versus heparin with GP IIb/IIIa inhibition (16.4% vs 16.3%) at 12 months.
+
+'''REPLACE-2'''<ref name=Lincoff2003 />
+
+REPLACE-2 was a multicenter, double-blind, triple dummy randomized clinical trial in patients with low to moderate risk for ischemic complications undergoing PCI.  
+
+''30 Days'' 
+
+*The incidence of net adverse clinical events (9.2% vs. 10.0%) and major adverse cardiovascular events (7.6% vs. 7.1%) was reduced by bivalirudin monotherapy versus unfractionated heparin (UFH) plus a GP IIb/IIIa inhibitor with significant reduction in rates of major bleeding (2.4 vs. 4.1%) at 30 days.
+
+''1-Year Results''
+
+*Differences in mortality favoring bivalirudin at 30 days and 6 months was maintained at 12 months and demonstrated a 24% risk reduction in death compared to heparin plus GP IIb/IIIa inhibition.
+
+'''BAT'''<ref name=Bittl2001 />
+
+The Phase III Bivalirudin Angioplasty Trial (BAT) was a randomized, prospective, double blind, multicenter study in patients with unstable angina undergoing PTCA. 
+
+*The composite endpoint of death, MI or revascularization occurred in 6.2%  of patients treated with bivalirudin and in 7.9% of patients treated with heparin.
+
+*Significant reductions in clinical events were maintained at 90 days with absolute benefits being sustained through 180 days.
+
+*The incidence of major hemorrhage for the entire hospitalization period in patients assigned bivalirudin was 3.7% compared to 9.3% in patients randomized to heparin.
+
+==Guidelines==
+
+Bivalirudin has Class I recommendations in multiple national guidelines.
+
+'''US guidelines'''<ref name=Kushner2009>{{cite pmid|19942100}}</ref><ref name=Anderson2007>{{cite pmid|17692738}}</ref><ref name=Harrington2008>{{cite pmid|18574276}}</ref>
+
+{| class="wikitable"
+|-
+! Patient Type
+! Guidelines 
+! Recommendations
+|-
+| STEMI and primary PCI
+| ACC/AHA/SCAI 2009 Joint STEMI/PCI Focused Update
+| Class I-B, IIa-B
+|-
+| UA/NSTEMI
+| ACC/AHA 2007 guidelines for UA/NSTEMI patients
+| Class I-B, IIa-B
+|- 
+| NSTE-ACS patients
+| ACCP 2008 clinical practice guidelines for patients with NSTE-ACS
+| Grade 1A, 2B
+|- 
+| PCI
+| ACCP 2008 clinical practice guidelines for patients with NSTE-ACS
+| Grade 1B
+|}
+
+'''EU guidelines'''<ref name=Silber2005>{{cite pmid|15769784}}</ref><ref name=Bassand2008>{{cite pmid|17569677}}</ref><ref name=VandeWerf2008>{{cite pmid|19004841}}</ref>
+
+{| class="wikitable"
+|-
+! Patient Type
+! Guidelines
+! Recommendations
+|-
+| STEMI
+| European Society of Cardiology 2008
+| Class IIa – B
+|-
+| NSTE-ACS
+| European Society of Cardiology 2007
+| Class IIa-B, IB
+|-
+| PCI
+| European Society of Cardiology 2005
+| Class IIa C, IC
+|}
+
+==See also==
+* [[Discovery and development of direct thrombin inhibitors]]
+
+==References==
+<references />
+
+{{Antithrombotics}}
+
+[[Category:Direct thrombin inhibitors]]

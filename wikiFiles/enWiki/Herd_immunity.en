@@ -1,0 +1,55 @@
+'''Herd immunity''' (or '''community immunity''') describes a form of [[immunity (medical)|immunity]] that occurs when the [[vaccination]] of a significant portion of a [[population]] (or herd) provides a measure of protection for individuals who have not developed immunity.<ref>{{cite journal |author=John TJ, Samuel R |title=Herd immunity and herd effect: new insights and definitions |journal=Eur. J. Epidemiol. |volume=16 |issue=7 |pages=601–6 |year=2000 |pmid=11078115| doi = 10.1023/A:1007626510002}}</ref> Herd immunity theory proposes that, in [[contagious disease]]s that are transmitted from individual to individual, chains of [[infection]] are likely to be disrupted when large numbers of a population are immune or less susceptible to the disease. The greater the proportion of individuals who are resistant, the smaller the probability that a susceptible individual will come into contact with an infectious individual.<ref name= Smallpox>[http://www.bt.cdc.gov/agent/smallpox/training/overview/pdf/eradicationhistory.pdf  History and Epidemiology of Global Smallpox Eradication] From the training course titled "Smallpox: Disease, Prevention, and Intervention". The CDC and the [[World Health Organization]]. Slide 16-17.</ref>
+
+{| class = "wikitable" style = "float:right; font-size:85%; margin-left:15px"
+|+ '''Estimated Herd Immunity thresholds for vaccine preventable diseases'''<ref name=Smallpox />
+
+!align="center" width="120" |Disease||align="center" width="120" |Transmission||align="center" width="100" | R<sub>0</sub>||align="center" width="120" |Herd immunity threshold
+|-
+| align="center" |[[Diphtheria]] || align="center"|Saliva || align="center"| 6–7 || align="center"| 85%
+|-
+| align="center" |[[Measles]] || align="center"| Airborne|| align="center"| 12–18 || align="center"|92–94%
+|-
+| align="center"| [[Mumps]] || align="center"| Airborne droplet||align="center"| 4–7 || align="center"| 75–86%
+|-
+| align="center"| [[Pertussis]] || align="center"|Airborne droplet || align="center"| 12–17 || align="center"|92–94%
+|-
+| align="center"| [[Polio]] || align="center"|Fecal-oral route ||  align="center"| 5–7 || align="center"|80–86%
+|-
+| align="center"| [[Rubella]] || align="center"|Airborne droplet || align="center"| 5–7 || align="center"|80–85%
+|-
+| align="center"| [[Smallpox]] || align="center"| Social contact|| align="center"| 6–7 || align="center"|83–85%
+|-
+| colspan="4" | <small>{{note|R}} - R<sub>0</sub> is the [[basic reproduction number]], or the average number of secondary infectious cases that are produced by a single [[index case]] in completely susceptible population.</small>
+|}
+
+Vaccination acts as a sort of [[firebreak]] or [[firewall (construction)|firewall]] in the spread of the [[disease]], slowing or preventing further transmission of the disease to others.<ref name= Fine>{{cite journal |author=Fine P |title=Herd immunity: history, theory, practice |journal=Epidemiol Rev |volume=15 |issue=2 |pages=265–302 |year=1993 |pmid=8174658}}</ref> Unvaccinated individuals are indirectly protected by vaccinated individuals, as the latter will not contract and transmit the disease between infected and susceptible individuals.<ref name= Smallpox/> Hence, a public health policy of herd immunity may be used to reduce spread of an illness and provide a level of protection to a vulnerable, unvaccinated subgroup.  Since only a small fraction of the population (or herd) can be left unvaccinated for this method to be effective, it is considered best left for those who cannot safely receive vaccines because of a medical condition such as an [[immunodeficiency|immune disorder]], [[organ transplant]] recipients, or people with [[Egg_allergy#Vaccine_hazard|Egg Allergies]].
+
+The proportion of immune individuals in a population above which a disease may no longer persist is the ''herd immunity threshold''. Its value varies with the virulence of the disease, the efficacy of the vaccine, and the contact parameter for the population.<ref name=Fine /> No vaccine offers complete protection, but the spread of disease from person to person is much higher in those who remain unvaccinated.<ref>{{cite book |editor= Jamison DT, Breman JG, Measham AR |title=Priorities in Health: Disease Control Priorities Companion Volume |publisher=World Bank Publications |year=2006  |chapter=Chapter 4: Cost-Effective Strategies for the Excess Burden of Disease in Developing Countries<br/>Section: Vaccine-preventable Diseases |chapterurl=http://www.ncbi.nlm.nih.gov/books/NBK10258/#A151 |isbn=0-8213-6260-7}}</ref>
+It is the general aim of those involved in [[public health]] to establish herd immunity in most populations. Complications arise when widespread vaccination is not possible or when vaccines are rejected by a part of the population. {{As of|2009}}, herd immunity is compromised in some areas for some vaccine-preventable diseases, including [[pertussis]] and [[MMR vaccine controversy|measles and mumps]], in part because of parental refusal of vaccination.<ref name="pmid19482753">{{cite journal
+|author=Glanz JM, McClure DL, Magid DJ, ''et al.'' |title=Parental refusal of pertussis vaccination is associated with an increased risk of pertussis infection in children |journal=[[Pediatrics (journal)|Pediatrics]] |volume=123 |issue=6 |pages=1446–51 |year=2009 |month=June |pmid=19482753 |doi=10.1542/peds.2008-2150 |url=http://pediatrics.aappublications.org/cgi/pmidlookup?view=long&pmid=19482753 }}</ref><ref name="pmid15891229">{{cite journal
+|author=Gupta RK, Best J, MacMahon E |title=Mumps and the UK epidemic 2005 |journal=[[BMJ (Clinical Research Ed.)]] |volume=330 |issue=7500 |pages=1132–5 |year=2005 |month=May |pmid=15891229 |pmc=557899 |doi=10.1136/bmj.330.7500.1132 }}</ref><ref name="pmid18713723">{{cite journal
+|author=Salathé M, Bonhoeffer S |title=The effect of opinion clustering on disease outbreaks |journal=J R Soc Interface. |volume=5 |issue=29 |pages=1505–8 |year=2008 |month=December |pmid=18713723 |doi=10.1098/rsif.2008.0271 
+|pmc=2607358 }}</ref>
+
+Herd immunity generally applies only to diseases that are contagious. It does not apply to diseases such as [[tetanus]] (which is infectious, but is not contagious), where the vaccine protects only the vaccinated person from disease.<ref>{{cite journal |author=Fair E, Murphy T, Golaz A, Wharton M |title=Philosophic objection to vaccination as a risk for tetanus among children younger than 15 years |url= http://pediatrics.aappublications.org/cgi/content/full/109/1/e2 |journal=Pediatrics |volume=109 |issue=1 |pages=E2 |year=2002 |pmid=11773570 | doi = 10.1542/peds.109.1.e2}}</ref> Nor does it apply to the [[Polio vaccine|IPV poliomyelitis vaccine]] that protects the individual from viremia and paralytic polio but does not prevent the fecal-oral spread of infection. Herd immunity should not be confused with [[contact immunity]], a related concept wherein a vaccinated individual can 'pass on' the vaccine to another individual through contact.
+
+== In social networks ==
+The standard [[Mathematical modelling of infectious disease#Mathematics of mass vaccination|mathematical definition of herd immunity]] applies only to "well-mixed populations," in which each infected individual is capable of transmitting the disease to any susceptible individual, regardless of social ties or location. More specifically, the relationship between the basic reproduction number R<sub>0</sub> and the herd immunity threshold illustrated in the table above relies on a calculation that is valid only in well-mixed populations. Actual large populations, however, are better described as social networks, in which transmission can occur only between peers/neighbors. The shape of a social network can alter the level of vaccination required for herd immunity, as well as the likelihood that a population will achieve herd immunity.<ref>{{cite journal |author=Fu F., Rosenbloom D. I., Wang L., Nowak M. A. | title= Imitation dynamics of vaccination behaviour on social networks | journal=Proceedings of the Royal Society B |year=2010 |pmid=20667876 | doi = 10.1098/rspb.2010.1107 | url = http://rspb.royalsocietypublishing.org/content/early/2010/07/26/rspb.2010.1107 |volume=278 |issue=1702 |pages=42–49 |pmc=2992723}}</ref><ref>{{cite journal |author = Perisic A., Bauch C. T. | title = Social contact networks and disease eradicability under voluntary vaccination | journal = PLoS Computational Biology | doi = 10.1371/journal.pcbi.1000280 |pmc = 2625434 | volume = 5 |pmid = 19197342 | issue = 2 |year = 2009 | pages= e1000280 | url=http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000280 |editor1-last = Meyers |editor1-first = Lauren Ancel}}</ref> Compared to well-mixed populations, herd immunity in social networks is particularly fragile.<ref>{{cite web |title=Vaccine vacuum |date=2010-07-29 |publisher=Harvard Gazette |url=http://news.harvard.edu/gazette/story/2010/07/vaccine-vacuum/}}</ref>
+
+== References ==
+<!-- ---------------------------------------------------------------
+See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for a
+discussion of different citation methods and how to generate
+footnotes using the <ref> & </ref> tags and the {{Reflist}} template
+-------------------------------------------------------------------- -->
+{{Reflist|2}}
+
+== External links ==
+* [http://www.pitt.edu/~super1/lecture/lec1181/001.htm Herd immunity lecture] slide show
+* [http://www.mathepi.com/maindir/herd.html Mathematical epidemiology information]
+* [http://www.ispub.com/ostia/index.php?xmlFilePath=journals/ije/vol5n1/population.xml Changes In Population Parameters On The Herd Immunity Threshold]
+
+[[Category:Epidemiology]]
+[[Category:Prevention]]
+[[Category:Vaccination]]
+[[Category:Immunology]]

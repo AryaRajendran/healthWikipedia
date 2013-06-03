@@ -1,0 +1,70 @@
+{{Refimprove|date=December 2008}}
+{{Expand Czech|Amakrinní buňka|date=April 2012}}
+{{Infobox neuron
+ |neuron_name = Amacrine cell
+ |image_neuron = Amacrine.png
+ |caption_neuron = ''[[Xenopus]]'' retinal cells stained for cdk2/cyclin2 with red arrow indicating amacrine cell.  [[Inner plexiform layer|IPL]] is shown in white.
+ |location = [[Inner nuclear layer|INL]] of the [[retina]]
+ |function = inhibitory or neuromodulatory interneurons
+ |neurotransmitter = [[GABA]], [[glycine]], [[Dopamine|DA]], or [[Serotonin|5-HT]]
+ |morphology = Varies
+ |afferents = [[Bipolar cell of the retina|Bipolar cells]]
+ |efferents = Bipolar cells and [[Ganglion cell]]s
+ |GraySubject = 
+ |GrayPage = 
+ |NeuroLex = Amacrine Cell
+ |NeuroLexID = nifext_36
+
+}}
+
+[[Image:Gray882.png|thumb|400px|Plan of retinal neurons.]]
+
+'''Amacrine cells''' are [[interneuron]]s in the [[retina]]. Amacrine cells are responsible for 70% of input to retinal ganglion cells<sup>[[Wikipedia:Citation_needed|[Citation Needed]]]</sup>. Bipolar cells, which are responsible for the other 30% of input to retinal ganglia, are regulated by amacrine cells.
+
+==Overview==
+Amacrine cells operate at the [[inner plexiform layer]] (IPL), the second synaptic retinal layer where [[bipolar cell of the retina|bipolar cells]] and [[retinal ganglion cell]]s form [[synapse]]s. There are about 40 different types of amacrine cells, most lacking [[axon]]s. Like [[horizontal cell]]s, amacrine cells work laterally affecting the output from bipolar cells, however, their tasks are often more specialized. Each type of amacrine cell connects with a particular type of bipolar cell, and generally has a particular type of [[neurotransmitter]]. One such population, AII, 'piggybacks' rod bipolar cells onto the cone bipolar circuitry. It connects rod bipolar cell output with cone bipolar cell input, and from there the signal can travel to the respective ganglion cells. 
+
+They are classified by the width of their field of connection, which layer(s) of the stratum in the IPL they are in, and by neurotransmitter type. Most are inhibitory using either [[GABA]] or [[glycine]] as [[neurotransmitter]]s.
+
+==Functionality==
+
+Relatively little is known of the functional roles of the amacrine cells. Amacrine cells with extensive dendritic trees are thought to contribute to inhibitory surrounds by feedback at both the bipolar cell, and ganglion cell levels. In this role they are considered to supplement the action of the horizontal cells. Amacrine cells give much more input to M (Magnocellular) ganglion cells than to P (Parvocellular) ganglion cells.
+
+Other forms of amacrine cell are likely to play modulatory roles, allowing adjustment of sensitivity for photopic and scotopic vision. The AII amacrine cell (also known as the Rod amacrine cell) is a mediator of signals from rod cells under scotopic conditions.
+
+==Organization==
+Amacrine cells and other retinal interneuron cells are less likely to be near neighbours of the same subtype than would occur by chance, resulting in ‘exclusion zones’ that separate them. Mosaic arrangements provide a mechanism to distribute each cell type evenly across the retina, ensuring that all parts of the visual field have access to a full set of processing elements.<ref>{{cite journal|last=Wassle|first=H.|coauthors=Riemann, H. J.|title=The Mosaic of Nerve Cells in the Mammalian Retina|journal=Proceedings of the Royal Society B: Biological Sciences|date=22 March 1978|volume=200|issue=1141|pages=441–461|doi=10.1098/rspb.1978.0026}}</ref> [[MEGF10]] and [[MEGF11]] transmembrane proteins have critical roles in the formation of the mosaics by starburst amacrine cells and [[Retina horizontal cell|horizontal cells]] in mice. <ref>{{cite journal|last=Kay|first=Jeremy N.|coauthors=Chu, Monica W., Sanes, Joshua R.|title=MEGF10 and MEGF11 mediate homotypic interactions required for mosaic spacing of retinal neurons|journal=Nature|year=2012|month=March|doi=10.1038/nature10877}}</ref>
+
+==See also==
+* [[Photoreceptor cell]]
+* [[Horizontal cell]]
+* [[Bipolar cell of the retina|Bipolar cell]]
+* [[Ganglion cell]]
+
+==References==
+{{Reflist}}
+* {{cite book
+  | last =Nicholls
+  | first =John G.
+  | coauthors =A. Robert Martin, Paul A. Fuchs, David A. Brown, Mathew E. Diamond, David A. Weisblat
+  | title =From Neuron to Brain, Fifth Edition
+  | publisher =Sinauer Associates, Inc
+  | year =2012
+  | location =Boston, Massachusetts
+  | isbn = 978-0-87893-609-0
+}}
+
+* {{cite journal |author=Masland RH |title=The fundamental plan of the retina |journal=Nat. Neurosci. |volume=4 |issue=9 |pages=877–86 |year=2001 |pmid=11528418 |doi=10.1038/nn0901-877}}
+
+== External links ==
+*[http://webvision.med.utah.edu/amacrines1.html Webvision amacrine cell article]
+* {{MeshNumber|A08.663.358.050|Amacrine+Cells}}
+*[http://hubel.med.harvard.edu/ Eye Brain and vision book] Hubel D (1988) Eye Brain and Vision, whole book available online.
+* [https://www.neuinfo.org/mynif/search.php?q=%22Amacrine%20Cell%22&t=data&s=cover&b=0&r=20 NIF Search - Amacrine Cell] via the [[Neuroscience Information Framework]]
+
+{{Eye anatomy}}
+
+[[Category:Human eye anatomy]]
+[[Category:Histology]]
+[[Category:Human cells]]
+[[Category:Neurons]]

@@ -1,0 +1,92 @@
+{{Infobox Disease |
+  Name           = Type IV hypersensitivity |
+  Image          = |
+  Caption        = |
+  DiseasesDB     = |
+  ICD10          = |
+  ICD9           = |
+  ICDO           = |
+  OMIM           = |
+  MedlinePlus    = |
+  eMedicineSubj  = |
+  eMedicineTopic = |
+  MeshID         = D006968 |
+}}
+'''Type IV [[hypersensitivity]]''' is often called '''delayed type hypersensitivity''' as the reaction takes two to three days to develop. Unlike the other types, it is not antibody mediated but rather is a type of '''cell-mediated''' response.
+
+CD4+ [[helper T cell]]s recognize antigen in a complex with Class 2 [[major histocompatibility complex]]. The antigen-presenting cells in this case are macrophages that secrete [[Interleukin 12|IL-12]], which stimulates the proliferation of further CD4+ T<sub>h</sub>1 cells. CD4+ T cells secrete [[Interleukin 2|IL-2]] and [[interferon]] gamma, further inducing the release of other T<sub>h</sub>1 cytokines, thus mediating the immune response. Activated CD8+ T cells destroy target cells on contact, whereas activated macrophages produce [[hydrolytic enzyme|hydrolytic]] [[enzyme]]s and, on presentation with certain intracellular pathogens, transform into multinucleated [[giant cell]]s.
+
+==Examples==
+{| class="wikitable"
+|-
+! Disease !! Target antigen !! Effects
+|-
+! [[Diabetes mellitus type 1]]
+| Pancreatic [[beta cell]] proteins <br> (possibly [[insulin]], [[Glutamate decarboxylase]])
+| 
+*[[Insulitis]]
+*Beta cell destruction
+|-
+! [[Multiple sclerosis]]
+| [[Oligodendrocyte]] proteins <br> ([[myelin basic protein]], [[proteolipid protein]])
+| 
+* [[Demyelinating disease]]
+* Perivascular inflammation
+* Paralysis
+* Ocular lesions
+|-
+! [[Rheumatoid arthritis]]
+| Antigen in [[synovial membrane]] <br> (possibly [[type II collagen]])
+|
+* Chronic arthritis
+* Destruction of articular cartilage and bone
+|-
+! Some [[peripheral neuropathies]]
+| [[Schwann cell]] antigen
+|
+*Neuritis
+*Paralysis
+|-
+! [[Hashimoto's Thyroiditis]]
+| [[Thyroglobulin]] antigen
+|
+*[[Hypothyroidism]]
+*[[Goiter|Hard goiter]]
+*Follicular [[thymitis]]
+|-
+! [[Crohn's disease]]
+| Unknown
+| 
+* Chronic inflammation of [[ileum]] and [[Colon (anatomy)|colon]]
+|-
+! [[Contact dermatitis]]
+| Environmental chemicals, e.g. [[Toxicodendron radicans|poison ivy]], [[nickel]]
+|
+* [[Dermatitis]] with usually short-lived itching
+|-
+! [[Mantoux test]]<nowiki>*</nowiki> (diagnostic) 
+| [[Tuberculin]] ||
+* Skin [[induration]] indicates [[tuberculosis|TB]] exposure
+|-
+|colspan=3| <span style="font-size:87%;"> Unless else specified in boxes, then ref is:<ref name=Kumar5-5>Table 5-5 in: {{cite book |author=Mitchell, Richard Sheppard; Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson |title=Robbins Basic Pathology|publisher=Saunders |location=Philadelphia |year= |pages= |isbn=1-4160-2973-7 |oclc= |doi=}} 8th edition.</ref>
+
+<nowiki>*</nowiki> - Mantoux test ''not'' taken from <ref name=Kumar5-5/>
+|}
+
+The pathophysiology of the Tuberculin reaction is explained thus: ''M. tuberculosis'' are engulfed by macrophages after being identified as foreign, but due to a self- preserving mechanism peculiar to TB it is able to block the fusion of the phagosome within which it is existing with the [[lysosome]] which would destroy it. So it can continue existing and replicating within the immune cell designed to destroy it. After several weeks, the immune system somehow [mechanism as yet unexplained] ramps up and, on stimulation with [[IFN]]-gamma, the macrophages become capable of killing ''M. tuberculosis'' by forming phagolysosomes and nitric oxide radicals. However unfortunately the hyper-activated macrophages secrete [[TNF]] which recruits multiple [[monocytes]] into the battle. These cells differentiate into epithelioid histiocytes which wall off the infected cells, but at the cost of significant inflammation and local damage.
+
+Some other clinical examples:
+*[[Temporal arteritis]]
+*[[Hashimoto's thyroiditis]]
+*Symptoms of [[leprosy]]
+*Symptoms of [[tuberculosis]]
+*[[Coeliac disease]]
+*[[Graft-versus-host disease]]<ref name="urleMedicine - Hypersensitivity Reactions, Delayed : Article by Walter Duane Hinshaw">{{cite web |url=http://www.emedicine.com/MED/topic1100.htm |title=eMedicine - Hypersensitivity Reactions, Delayed : Article by Walter Duane Hinshaw |work= |accessdate=}}</ref>
+*[[Chronic transplant rejection]]
+
+==References==
+{{Reflist}}
+
+{{Hypersensitivity and autoimmune diseases}}
+
+[[Category:Hypersensitivity]]

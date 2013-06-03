@@ -1,0 +1,65 @@
+{{enzyme
+| Name = iodide peroxidase
+| EC_number = 1.11.1.8
+| IUBMB_EC_number = 1/11/1/8
+| CAS_number= 9031-28-1
+| GO_code = 0004447
+| image = 
+| width =
+| caption = 
+}}
+{{protein
+| Name = thyroid peroxidase
+| caption = 
+| image = 
+| width = 
+| HGNCid = 12015
+| Symbol = TPO
+| AltSymbols = 
+| EntrezGene = 7173
+| OMIM = 606765
+| RefSeq = NM_175722
+| UniProt = P07202
+| PDB = 
+| ECnumber = 1.11.1.8
+| Chromosome = 2
+| Arm = 
+| Band = 
+| LocusSupplementaryData = pter-p24
+}}
+'''Thyroid peroxidase''' or '''thyroperoxidase''' (TPO) is an [[enzyme]] expressed mainly in the [[thyroid]] that liberates [[iodine]] for addition onto [[tyrosine]] residues on [[thyroglobulin]] for the production of [[thyroxine]] (T<sub>4</sub>) or [[triiodothyronine]] (T<sub>3</sub>), [[thyroid hormones]].<ref name="pmid16098474">{{cite journal | author = Ruf J, Carayon P | title = Structural and functional aspects of thyroid peroxidase | journal = Arch. Biochem. Biophys. | volume = 445 | issue = 2 | pages = 269–77 | year = 2006 | month = January | pmid = 16098474 | doi = 10.1016/j.abb.2005.06.023 }}</ref> In humans, thyroperoxidase is encoded by the ''TPO'' [[gene]].<ref name="pmid3475693">{{cite journal | author = Kimura S, Kotani T, McBride OW, Umeki K, Hirai K, Nakayama T, Ohtaki S | title = Human thyroid peroxidase: complete cDNA and protein sequence, chromosome mapping, and identification of two alternately spliced mRNAs | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 84 | issue = 16 | pages = 5555–9 | year = 1987 | month = August | pmid = 3475693 | pmc = 298901 | doi = 10.1073/pnas.84.16.5555 }}</ref>
+
+== Catalyzed reaction ==
+
+2[[File:L-Tyrosin_phys.svg|150px|L-Tyrosin]] + 2 I<sup>−</sup> + H<sub>2</sub>O<sub>2</sub> ⇒ 2[[File:3-Iod-L-Tyrosin.svg|150px|3-Iod-L-Tyrosin]] + 2 H<sub>2</sub>O
+
+Iodide is oxidized to iodine radical which immediately reacts with tyrosine.
+
+2[[File:3-Iod-L-Tyrosin.svg|150px|3-Iod-L-Tyrosin]] + 2 I<sup>−</sup> + H<sub>2</sub>O<sub>2</sub> ⇒ 2[[File:3,5-Diiod-L-Tyrosin.svg|150px|3,5-Diiod-L-Tyrosin]] + 2 H<sub>2</sub>O
+
+The second iodine atom is added in similar manner to the reaction intermediate 3-iodotyrosine.
+
+==Function==
+[[File:Thyroid hormone synthesis.png|thumb|300px|[[Thyroid hormone synthesis]], with thyroid peroxidase performing the ''oxidation'' step seen at center-left in the image.<ref>{{cite book |author=Walter F., PhD. Boron |title=Medical Physiology: A Cellular And Molecular Approaoch |publisher=Elsevier/Saunders |location= |year=2003 |pages=1300 |isbn=1-4160-2328-3 |oclc= |doi=}}</ref>]]
+Inorganic iodine enters the body primarily as iodide, I<sup>-</sup>. After entering the [[thyroid follicle]] (or thyroid follicular cell) via a Na<sup>+</sup>/I<sup>-</sup> symporter (NIS) on the basolateral side, iodide is shuttled across the apical membrane into the colloid via [[pendrin]], after which thyroid peroxidase [[oxidize]]s iodide to atomic iodine (I) or iodinium (I<sup>+</sup>). The "organification of iodine," the incorporation of iodine into [[thyroglobulin]] for the production of thyroid hormone, is nonspecific; that is, there is no TPO-bound intermediate, but iodination occurs via reactive iodine species released from TPO.<ref name="pmid18631006">{{cite journal | author = Kessler J, Obinger C, Eales G | title = Factors influencing the study of peroxidase-generated iodine species and implications for thyroglobulin synthesis | journal = Thyroid | volume = 18 | issue = 7 | pages = 769–74 | year = 2008 | month = July | pmid = 18631006 | doi = 10.1089/thy.2007.0310 }}</ref> The chemical reactions catalyzed by thyroid peroxidase occur on the outer apical membrane surface and are mediated by hydrogen peroxide.
+
+==Stimulation and inhibition==
+
+TPO is stimulated by [[thyroid-stimulating hormone|TSH]], which upregulates gene expression.
+
+TPO is inhibited by the [[thioamide]] drugs, such as [[propylthiouracil]] and [[methimazole]].<ref name="pmid947933">{{cite journal | author = Nagasaka A, Hidaka H | title = Effect of antithyroid agents 6-propyl-2-thiouracil and 1-methyl-2-mercaptoimidazole on human thyroid iodine peroxidase | journal = J. Clin. Endocrinol. Metab. | volume = 43 | issue = 1 | pages = 152–8 | year = 1976 | month = July | pmid = 947933 | doi = 10.1210/jcem-43-1-152 }}</ref>  In laboratory rats with insufficient iodine intake, inhibition of TPO has also been demonstrated for [[genistein]].<ref name="pmid12060828">{{cite journal | author = Doerge DR, Sheehan DM | title = Goitrogenic and estrogenic activity of soy isoflavones | journal = Environ. Health Perspect. | volume = 110 Suppl 3 | issue = | pages = 349–53 | year = 2002 | month = June | pmid = 12060828 | pmc = 1241182 | doi = }}</ref>
+
+==Clinical significance==   
+Thyroid peroxidase is a frequent [[epitope]] of [[autoantibody|autoantibodies]] in autoimmune thyroid disease, with such antibodies being called [[anti-thyroid peroxidase antibodies]] (anti-TPO antibodies). This is most commonly associated with [[Hashimoto's thyroiditis]]. Thus, an [[antibody titer]] can be used to assess disease activity in patients that have developed such antibodies.<ref name="pmid11129117">{{cite journal | author = McLachlan SM, Rapoport B | title = Autoimmune response to the thyroid in humans: thyroid peroxidase--the common autoantigenic denominator | journal = Int. Rev. Immunol. | volume = 19 | issue = 6 | pages = 587–618 | year = 2000 | pmid = 11129117 | doi = 10.3109/08830180009088514 }}</ref><ref name="pmid12073143">{{cite journal | author = Chardès T, Chapal N, Bresson D, Bès C, Giudicelli V, Lefranc MP, Péraldi-Roux S | title = The human anti-thyroid peroxidase autoantibody repertoire in Graves' and Hashimoto's autoimmune thyroid diseases | journal = Immunogenetics | volume = 54 | issue = 3 | pages = 141–57 | year = 2002 | month = June | pmid = 12073143 | doi = 10.1007/s00251-002-0453-9 }}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{MeshName|Thyroid+Peroxidase}}
+
+{{med-stub}}
+{{Peroxidases}}
+{{Thyroid hormone metabolism enzymes and transporters}}
+[[Category:EC 1.11.1]]
+[[Category:Thyroid]]

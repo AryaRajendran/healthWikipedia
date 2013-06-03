@@ -1,0 +1,81 @@
+[[Image:All Causes world map - DALY - WHO2004.svg|thumb|'''Disability-adjusted life year''' for all causes per 100,000&nbsp;inhabitants in 2004.<ref>{{Cite web|url=http://www.who.int/healthinfo/global_burden_disease/estimates_country/en/index.html |title=WHO Disease and injury country estimates |year=2009 |work=World Health Organization |accessdate=Nov. 11, 2009}}</ref><div class="references-small" style="-moz-column-count:1; column-count:1;">
+{{legend|#b3b3b3|no data}}
+{{legend|#ffff65|less than 9250}}
+{{legend|#fff200|9250-16000}}
+{{legend|#ffdc00|16000-22750}}
+{{legend|#ffc600|22750-29500}}
+{{legend|#ffb000|29500-36250}}
+{{legend|#ff9a00|36250-43000}}
+{{legend|#ff8400|43000-49750}}
+{{legend|#ff6e00|49750-56500}}
+{{legend|#ff5800|56500-63250}}
+{{legend|#ff4200|63250-70000}}
+{{legend|#ff2c00|70000-80000}}
+{{legend|#cb0000|more than 80000}}
+</div>]]
+The '''disability-adjusted life year (DALY)''' is a measure of overall [[disease burden]], expressed as the number of years lost due to ill-health, disability or early death.
+
+Originally developed by [[Harvard University]] for the [[World Bank]] in 1990, the [[World Health Organization]] subsequently adopted the method in 1996 as part of the Ad hoc Committee on Health Research "Investing in Health Research & Development" report. The DALY is becoming increasingly common in the field of [[public health]] and [[Health Impact Assessment|health impact assessment]] (HIA). It "extends the concept of potential years of life lost due to premature [[death]]...to include equivalent years of 'healthy' life lost by virtue of being in states of poor health or [[disability]]."<ref name=WHO2004>{{Cite web|url=http://www.who.int/entity/healthinfo/global_burden_disease/gbddeathdalycountryestimates2004.xls |title=Death and DALY estimates for 2004 by cause for WHO Member States: Persons, all ages |format=xls  |work=World Health Organization |year=2002 |accessdate=2009-11-12}}</ref> In so doing, [[death|mortality]] and [[morbidity]] are combined into a single, common metric.
+
+Traditionally, health liabilities were expressed using one measure: (expected or average number of) '[[Years of potential life lost|Years of Life Lost]]' (YLL). This measure does not take the impact of disability into account, which can be expressed by: 'Years Lived with Disability' (YLD). DALYs are calculated by taking the sum of these two components. In a formula:
+:DALY = YLL + YLD.<ref>{{Cite journal | first = Arie  | last = Havelaar | author = | authorlink = | coauthors = | title = Methodological choices for calculating the disease burden and cost-of-illness of foodborne zoonoses in European countries | version = | publisher = [[Med-Vet-Net]] | date = August 2007 | url = http://www.medvetnet.org/pdf/Reports/Report_07-002.pdf | format = pdf | accessdate = 2008-04-05}}</ref>
+
+The DALY relies on an acceptance that the most appropriate measure of the effects of chronic illness is time, both time lost due to premature death and time spent disabled by disease. One DALY, therefore, is equal to one year of healthy life lost. [[Japan]]ese life expectancy statistics are used as the standard for measuring premature death, as the Japanese have the longest life expectancies.<ref name="menken">[http://archneur.ama-assn.org/cgi/reprint/57/3/418.pdf Menken M, Munsat TL, Toole JF. The Global Burden of Disease Study - Implications for Neurology. Arch Neurol. 2000;57:418-420]</ref>
+
+Looking at the burden of disease via DALYs can reveal surprising things about a population's health. For example, the 1990 WHO report indicated that 5 of the 10 leading causes of disability were [[Mental illness|psychiatric conditions]]. [[Psychiatry|Psychiatric]] and [[Neurology|neurologic]] conditions account for 28% of all years lived with disability, but only 1.4% of all deaths and 1.1% of years of life lost. Thus, psychiatric disorders, while traditionally not regarded as a major [[epidemiology|epidemiological]] problem, are shown by consideration of disability years to have a huge impact on populations.
+
+== Graphic ==
+[[File:DALY disability affected life year infographic.svg|center|750px|Disability-adjusted life year]]
+
+== Social weighting ==
+
+The disability-adjusted life year is a metric that expresses only the economic value of a given life year of a given individual to members of society other than that individual; its users do not make any claim (and indeed often take pains from the outset to disclaim) that it expresses the full social value of that year.  The difference arises from the facts that ''a'') the metric excludes the net utility that an individual would experience had s/he lived for that year, ''b'') many aspects of an individual's contribution to society are difficult to quantify, and ''c'') many aspects of an individual's value, both as a member of society and in his/her own right, do not admit of quantification and indeed are rooted in the fact that the individual has a unique dignity that cannot be measured by "trade-offs" against those of other people.<ref>''See'', ''e.g.'', J. David Velleman, ''Love as a Moral Emotion'', ''Ethics'' 109(2):338-374, ''available at'' http://www.jstor.org/stable/10.1086/233898.</ref>
+
+[[Image:Disability_Adjusted_Life_Year_Weight_Plot.svg|thumb|right|Some studies use DALYs calculated to place greater value on a year lived as a young adult. This formula produces average values around age 10 and age 55, a peak around age 25, and lowest values among very young children and very old people.]]
+
+A crucial distinction among DALY studies is the use of "[[social weighting]]", in which the value of each year of life depends on age.  Commonly, years lived as a young adult are valued more highly than years spent as a young child or older adult.  This weighting system reflects society's interest in [[productivity]] and receiving a return on its investment in educating children.  Society has invested relatively little in very young children, and it has already received a substantial return on its investment in older people.  Young adults, however, have received the maximum amount of investment and, at the beginning of their working life, have had the least opportunity for society to benefit from its investment.
+
+The [[global burden of disease]] (GBD) 2001-2002 study counted life years equally, but the GBD 1990 and GBD 2004 studies used the following formula:<ref>{{Cite web|url=http://www.who.int/healthinfo/global_burden_disease/daly_disability_weight/en/index.html|title=Disability weights, discounting and age weighting of DALYs|publisher=WHO}}</ref>
+
+'''W''' = 0.1658 '''Y''' ''e''<sup>-0.04 '''Y'''</sup><ref>{{Cite web|url=http://www.who.int/quantifying_ehimpacts/publications/en/9241546204chap3.pdf|title=The Global Burden of Disease concept|publisher=WHO}}</ref>
+
+Where '''Y''' is the age at which the year is lived and '''W''' is the value assigned to it relative to an average value of 1.
+
+In these studies future years were also [[discounted]] at a 3% rate, so that a weighted year of life saved next year is worth 97% of a year of life saved this year.
+
+The effects of the interplay between life expectancy and years lost, discounting, and social weighting are complex, depending on the severity and duration of illness.  For example, the parameters used in the GBD 1990 study generally give greater weight to deaths at any year prior to age 39 than afterward, with the death of a newborn weighted at 33 DALYs and the death of someone aged 5–20 weighted at approximately 36 DALYs.<ref>{{Cite journal|doi=10.1371/journal.pntd.0000114#pntd.0000114-Barendregt1|title=Measuring the Burden of Neglected Tropical Diseases: The Global Burden of Disease Framework|author=Mathers, Colin D. et al.|journal=PLoS Neglected Tropical Diseases|date=2007-11}}</ref>
+
+==Examples by country==
+===Australia===
+[[Cancer]] (25.1/1,000), cardiovascular (23.8/1,000), mental problems (17.6/1,000), neurological (15.7/1,000), chronic respiratory (9.4/1,000) and diabetes (7.2/1,000) are the main causes of good years of expected life lost to disease or premature death.<ref>{{Cite journal | first = Kerry | last = Chant | author = | authorlink = | coauthors = | title = The Health of the People of New South Wales (summary report) | version = | publisher = Chief Health Officer, [[Government of New South Wales]] | date = November 2008 | url = http://mhcs.health.nsw.gov.au/pubs/2008/pdf/chorep_summary_08.pdf | format = pdf | accessdate = 2009-01-17}}</ref>
+
+===PTSD rates===
+
+[[Posttraumatic stress disorder]] (PTSD) DALY estimates from 2004 for the world's 25 most populous countries give Asian/Pacific countries and the United States as the places where PTSD impact is most concentrated (as shown [[Posttraumatic_stress_disorder#International_PTSD_rates|here]]).
+
+==History and usage==
+The DALY was first conceptualized by Murray and Lopez in work carried out with the [[World Health Organization]] and the [[World Bank]] known as the [[global burden of disease|global burden of disease study]], which was published in 1990. It is now a key measure employed by the [[United Nations]] [[World Health Organization]] in such publications as its [http://www.who.int/healthinfo/global_burden_disease/en/ Global Burden of Disease]
+
+==Criticism==
+
+DALYs are essentially an economic measure of human productive capacity for the affected individual, and consequently do not capture other aspects of diseases, such as emotional effects on friends and families.<ref>{{cite journal |author=Thacker SB, Stroup DF, Carande-Kulis V, Marks JS, Roy K, Gerberding JL |title=Measuring the public's health |journal=Public Health Rep |volume=121 |issue=1 |pages=14–22 |year=2006 |pmid=16416694 |pmc=1497799 |doi= |url=}}</ref>
+
+==See also==
+*[[Quality-adjusted life year]] (QALY)
+*[[Pharmacoeconomics]]
+*[[Healthy Life Years]]
+*[[Happiness economics]]
+*[[Seven Ages of Man]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.who.int/healthinfo/global_burden_disease/metrics_daly/en/index.html WHO Definition]
+*[http://www.worldbank.org/html/extdr/hnp/hddflash/workp/wp_00068.html#TofC11 Measurement and Use]
+
+{{DEFAULTSORT:Disability-Adjusted Life Year}}
+[[Category:Disability]]
+[[Category:Health economics]]
+[[Category:Global health]]
+[[Category:World Health Organization]]

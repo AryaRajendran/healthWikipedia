@@ -1,0 +1,91 @@
+{{Infobox disease |
+  Name           = Type III hypersensitivity |
+  Image          = Immune22.gif |
+  Caption        = [[Immune complex]] |
+  DiseasesDB     = |
+  ICD10          = |
+  ICD9           = |
+  ICDO           = |
+  OMIM           = |
+  MedlinePlus    = |
+  eMedicineSubj  = |
+  eMedicineTopic = |
+  MeshID         = D007105 |
+}}
+'''Type III hypersensitivity''' occurs when antigen-antibody complexes that are not adequately cleared by innate immune cells accumulate, giving rise to an inflammatory response and attraction of [[leukocytes]].
+
+==Presentation==
+Type III hypersensitivity occurs when there is little antigen and an excess of antibody, leading to small immune complexes being formed that do not fix complement and are not cleared from the circulation. It is characterized by solvent antigens that are not bound to cell surfaces (which is the case in [[type II hypersensitivity]]). When these antigens bind antibodies, [[immune complex]]es of different sizes form.<ref name="urlHypersensitivity reactions">{{cite web |url=http://pathmicro.med.sc.edu/ghaffar/hyper00.htm |title=Hypersensitivity reactions |work= |accessdate=2008-09-26}}</ref> Large complexes can be cleared by macrophages but macrophages have difficulty in the disposal of small immune complexes. These immune complexes insert themselves into small blood vessels, joints, and [[Glomerulus|glomeruli]], causing symptoms. Unlike the free variant, a small immune complex bound to sites of deposition (like blood vessel walls) are far more capable of interacting with complement; these medium-sized complexes, formed in the slight excess of antigen, are viewed as being highly pathogenic.<ref>{{cite book|last=Parham|first=Peter|title=The Immune System|year=2009|publisher=Garland Science|location=New York, NY|edition=3rd|page=390|chapter=12}}</ref>
+
+Such depositions in tissues often induce an inflammatory response,<ref name="urlChapter 19">{{cite web |url=http://compepid.tuskegee.edu/syllabi/pathobiology/microbiology/micro201/chapter19.html |title=Chapter 19 |work= |accessdate=2009-01-08}}</ref> and can cause damage wherever they precipitate. The cause of damage is as a result of the action of cleaved complement anaphylotoxins C3a and C5a, which, respectively, mediate the induction of granule release from mast cells (from which histamine can cause [[urticaria]]), and recruitment of inflammatory cells into the tissue (mainly those with lysosomal action, leading to tissue damage through frustrated phagocytosis by [[Neutrophil|PMNs]] and [[macrophage]]s).<ref name="Parham 2009 389">{{cite book|last=Parham|first=Peter|title=The Immune System|year=2009|publisher=Garland Science|location=New York, NY|edition=3rd|page=389|chapter=12}}</ref>
+
+[[Image:Henoch-Schönlein nephritis IgA immunostaining.jpg|thumb| Immune Complex Glomerulonephritis, as seen in Henoch-Schönlein purpura; this is an example of [[IgA]] involvement in a nephropathy]]
+
+The reaction can take hours, days, or even weeks to develop, depending on whether or not there is immunlogic memory of the precipitating antigen. Typically, clinical features emerge a week following initial antigen challenge, when the deposited immune complexes can precipitate an inflammatory response. Because of the nature of the antibody aggregation, tissues that are associated with blood filtration at considerable osmotic and hydrostatic gradient (e.g. sites of urinary and synovial fluid formation, kidney glomeruli and joint tissues respectively) bear the brunt of the damage. Hence, [[vasculitis]], [[glomerulonephritis]] and [[arthritis]] are commonly-associated conditions as a result of type III hypersensitivity responses<ref name="Kumar 2010 204–205">{{cite book|last=Kumar|first=Vinay|title=Robbins and Cotran Pathologic Mechanisms of Disease|year=2010|publisher=Elsevier|location=Philidelphia, PA|edition=8th|pages=204–205|chapter=6}}</ref>).
+
+As observed under methods of histopathology, acute necrotizing vasculitis within the affected tissues is observed concomitant to neutrophilic infiltration, along with notable eosinophilic deposition ([[fibrinoid necrosis]]). Often, immunofluorescence microscopy can be used to visualize the immune complexes <ref name="Kumar 2010 204–205"/>). Skin response to a hypersensitivity of this type is referred to as an [[Arthus reaction]], and is characterized by local erythema and some induration. Platelet aggregation, especially in microvasculature, can cause localized clot formation, leading to  blotchy hemorrhages. This typifies the response to injection of foreign antigen sufficient to lead to the condition of [[serum sickness]].<ref name="Parham 2009 389"/>
+
+==Examples==
+Some clinical examples:
+
+{| class="wikitable"
+! Disease !! Target antigen !! Main effects
+|-
+! [[Systemic lupus erythematosus]] 
+| Nuclear antigens
+| 
+*[[Nephritis]]
+*Skin lesions
+*Arthritis
+|-
+! [[Post-streptococcal glomerulonephritis]]
+| Streptococcal cell wall antigens
+| 
+*Nephritis
+|-
+! [[Polyarteritis nodosa]]
+| [[Hepatitis B virus]] [[HBsAg|surface antigen]]
+| 
+* Systemic [[vasculitis]]
+|-
+! [[Reactive arthritis]]
+| [[Reactive_arthritis#Causes|Several bacteria]]l antigens
+|
+*Acute arthritis
+|-
+! [[Serum sickness]]
+| Various
+| 
+* Arthritis
+* Vasculitis
+* Nephritis
+|-
+! [[Arthus reaction]]
+| Various
+| 
+*Cutaneous vasculitis
+|-
+! [[Farmer's Lung]]
+| Inhaled antigens (often mould or hay dust)
+| 
+*Alveolar inflammation
+|-
+! [[Henoch–Schönlein purpura]]
+| Unknown, likely respiratory pathogen
+| 
+*[[Purpura]]
+*[[Glomerulonephritis]]
+|-
+|colspan=4|<span style="font-size:87%;"> Unless else specified in boxes, then ref is:<ref name=Kumar5-3>Table 5-3 in: {{cite book |author=Mitchell, Richard Sheppard; Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson |title=Robbins Basic Pathology|publisher=Saunders |location=Philadelphia |year= |pages= |isbn=1-4160-2973-7 |oclc= |doi=}} 8th edition.</ref>
+|}
+
+Other examples are:
+*[[Subacute bacterial endocarditis]]<ref name="urlDefinition: immune complex disease from Online Medical Dictionary">{{cite web |url=http://128.240.24.212/cgi-bin/omd?type+III+hypersensitivity+reaction |title=Definition: immune complex disease from Online Medical Dictionary |format= |work= |accessdate=}}</ref>
+*Symptoms of [[malaria]]
+
+==References==
+{{reflist}}
+
+{{Hypersensitivity and autoimmune diseases}}
+
+[[Category:Hypersensitivity]]

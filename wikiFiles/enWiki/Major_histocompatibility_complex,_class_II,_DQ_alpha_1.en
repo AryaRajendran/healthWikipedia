@@ -1,0 +1,113 @@
+{{PBB|geneid=3117}}
+'''Major histocompatibility complex, class II, DQ alpha 1''', also known as '''HLA-DQA1''', is a human [[gene]] present on short arm of chromosome 6 (6p21.3) and also denotes the genetic [[locus (genetics)|locus]] which contains this gene.<ref name = "Entrez_Gene_3117">{{cite web | title = Entrez Gene: HLA-DQA1 major histocompatibility complex, class II, DQ alpha 1| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=3117| accessdate = }}</ref> The [[protein]] encoded by this gene is one of two proteins that are required to form the [[HLA-DQ|DQ heterodimer]], a cell surface [[immune receptor|receptor]] essential to the function of the [[immune system]].
+
+== Function ==
+HLA-DQA1 belongs to the [[MHC class II|HLA class II]] alpha chain [[Homology_%28biology%29#Paralogy|paralogues]]. This class II molecule is a heterodimer consisting of an alpha (DQA) and a beta chain (DQB), both anchored in the membrane. It plays a central role in the immune system by presenting peptides derived from extracellular proteins. Class II molecules are expressed in [[antigen-presenting cells]] (APC: B lymphocytes, dendritic cells, macrophages).<ref name = "Entrez_Gene_3117"/>
+
+== Gene structure and polymorphisms ==
+The alpha chain contains 5 [[exon]]s. Exon one encodes the leader peptide, [[exon]]s 2 and 3 encode the two extracellular [[protein domain]]s, exon 4 encodes the [[transmembrane protein|transmembrane]] domain and the [[cytoplasm]]ic tail. Within the DQ molecule both the alpha chain and the beta chain contain the [[polymorphism (biology)|polymorphism]]s specifying the peptide binding specificities, resulting in up to 4 different molecules. Typing for these polymorphisms is routinely done for [[hematopoietic stem cell transplantation|bone marrow transplantation]].<ref name = "Entrez_Gene_3117"/><ref name="pmid7547576">{{cite journal | author = Lau M, Terasaki PI, Park MS | title = International Cell Exchange, 1994 | journal = Clin Transpl | volume = | issue = | pages = 467–88 | year = 1994 | pmid = 7547576 | doi = | url = | issn = }}</ref>
+
+==Alleles==
+===DQ1===
+There are four commonly encountered DQA1 alleles: DQA1*0101, *0102, *0103, *0104. These alleles are always found in haplotypes with HLA-DQB1*05 ([[HLA-DQ5|DQ5]]) and HLA-DQB1*06 ([[HLA-DQ6|DQ6]]).  DQ1 is a serotype, rare among serotypes for human class II antigens, in that the antibodies to DQ1 react to the alpha chain of HLA DQ, these DQA1 allele gene products.
+
+{| class = "wikitable"
+|+ HLA-DQA1 alleles
+! || DQA1 || colspan = 6 | linked DQB1 allele
+|-
+| Rowspan = 6 | [[HLA-DQ1|DQ1]] || '''*0101'''  || '''[[HLA-DQ5#DQB1*0501|*0501]]'''  || '''*0301''' || || ||  ||
+|-
+| '''*0102''' || '''[[HLA-DQ5#DQB1*0502|*0502]]''' || [[HLA-DQ5#DQB1*0504|*0504]] || '''[[HLA-DQ6#DQB1*0602|*0602]]''' ||'''[[HLA-DQ6#DQB1*0604|*0604]]''' || [[HLA-DQ6#DQB1*0605|*0605]] || [[HLA-DQ6#DQB1*0609|*0609]]
+|-
+| '''*0103''' || '''*0501'''|| '''*0502''' || '''[[HLA-DQ6#DQB1*0601|*0601]]''' || *0602 || '''[[HLA-DQ6#DQB1*0603|*0603]]'''   || 
+|-
+| '''*0104''' || *0501 || '''[[HLA-DQ5#DQB1*0501|*0503]]''' || '''*0602''' ||  || || 
+|-
+| *0105 || colspan = 6  | rare 
+|-
+| *0106 || colspan = 6  | rare
+|-
+| colspan = 8 | See haplotype table in [[HLA-DQ]]. Unbolded are rare haplotypes
+|-
+| colspan = 8 | Link to haplotypes can be followed by DQB1 alleles 
+|}
+
+===Other===
+The other DQA1 alleles have no defined serotype. There are 5 groups, DQA1*02, *03, *04, *05, *06. DQA1 within these groups are either invariant or produce the same α-chain subunit. DQA1*02 and DQA1*06 contain only one allele. DQA1*03 has three alleles which each produce nearly identical α<sup>3</sup>. For DQA1*05, the DQA1*0501 and DQA1*0505 produce identical α<sup>5</sup>.  Other DQA1*05 exist that produce variant  α<sup>5var</sup>, but these are rare. 
+
+ {| class = "wikitable"
+|+ HLA-DQA1 alleles
+! DQA1 || colspan = 6 | linked DQB1 allele
+|-
+| '''*0201'''  || '''[[HLA-DQ2#DQB1*0202|*0202]]'''  || '''[[HLA-DQ9#DQB1*0303|*0303]]''' || 
+|-
+| '''*0301''' || [[HLA-DQ2#DQB1*0202|*0202]] || [[HLA-DQ8#DQB1*0302|*0302]] ||
+|-
+| '''*0302''' || || || 
+|-
+| '''*0303''' || '''[[HLA-DQ7#DQB1*0301|*0301]]''' || '''*0602''' ||  
+|-
+| '''*0401''' || '''[[HLA-DQ9#DQB1*0303|*0303]]''' || '''[[HLA-DQ4#DQB1*0401|*0401]]''' || '''[[HLA-DQ4#DQB1*0402|*0402]]'''  
+|-
+| '''*0501''' || '''[[HLA-DQ2#DQB1*0201|*0201]]''' ||  ||  
+|-
+| '''*0505''' || '''*0301''' ||  ||  
+|-
+| '''*0601''' || '''[[HLA-DQ7#DQB1*0301|*0301]]''' ||  ||  
+|-
+| colspan = 8 | See haplotype table in [[HLA-DQ]]. Unbolded are rare haplotypes
+|-
+| colspan = 8 | Link to haplotypes can be followed by DQB1 alleles 
+|}
+
+==See also==
+* [[Major histocompatibility complex]]
+* [[Human leukocyte antigen]]
+* [[HLA-DQ]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{refbegin | 2}}
+{{PBB_Further_reading 
+| citations = 
+*{{cite journal  | author=Schmidt H, Williamson D, Ashley-Koch A |title=HLA-DR15 haplotype and multiple sclerosis: a HuGE review. |journal=Am. J. Epidemiol. |volume=165 |issue= 10 |pages= 1097–109 |year= 2007 |pmid= 17329717 |doi= 10.1093/aje/kwk118 }}
+*{{cite journal  | author=Marsh SG, Bodmer JG |title=HLA class II nucleotide sequences, 1992. |journal=Tissue Antigens |volume=40 |issue= 5 |pages= 229–43 |year= 1993 |pmid= 1362295 |doi=10.1111/j.1399-0039.1992.tb02050.x  }}
+*{{cite journal  | author=Piatier-Tonneau D, Gastinel LN, Amblard F, ''et al.'' |title=Interaction of CD4 with HLA class II antigens and HIV gp120. |journal=Immunogenetics |volume=34 |issue= 2 |pages= 121–8 |year= 1991 |pmid= 1869305 |doi=  10.1007/BF00211424}}
+*{{cite journal  | author=Rosenstein Y, Burakoff SJ, Herrmann SH |title=HIV-gp120 can block CD4-class II MHC-mediated adhesion. |journal=J. Immunol. |volume=144 |issue= 2 |pages= 526–31 |year= 1990 |pmid= 1967269 |doi=  }}
+*{{cite journal  | author=Bowman MR, MacFerrin KD, Schreiber SL, Burakoff SJ |title=Identification and structural analysis of residues in the V1 region of CD4 involved in interaction with human immunodeficiency virus envelope glycoprotein gp120 and class II major histocompatibility complex molecules. |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=87 |issue= 22 |pages= 9052–6 |year= 1991 |pmid= 1978941  | pmc=55099 |doi=10.1073/pnas.87.22.9052  }}
+*{{cite journal  | author=Lee KW, Johnson AH, Hurley CK |title=Two divergent routes of evolution gave rise to the DRw13 haplotypes. |journal=J. Immunol. |volume=145 |issue= 9 |pages= 3119–25 |year= 1990 |pmid= 2212675 |doi=  }}
+*{{cite journal  | author=Todd JA, Fukui Y, Kitagawa T, Sasazuki T |title=The A3 allele of the HLA-DQA1 locus is associated with susceptibility to type 1 diabetes in Japanese. |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=87 |issue= 3 |pages= 1094–8 |year= 1990 |pmid= 2300572  | pmc=53417 |doi=10.1073/pnas.87.3.1094  }}
+*{{cite journal  | author=Kao HT, Gregersen PK, Tang JC, ''et al.'' |title=Molecular analysis of the HLA class II genes in two DRw6-related haplotypes, DRw13 DQw1 and DRw14 DQw3. |journal=J. Immunol. |volume=142 |issue= 5 |pages= 1743–7 |year= 1989 |pmid= 2493052 |doi=  }}
+*{{cite journal  | author=Gyllensten UB, Erlich HA |title=Ancient roots for polymorphism at the HLA-DQ alpha locus in primates. |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=86 |issue= 24 |pages= 9986–90 |year= 1990 |pmid= 2513578  | pmc=298627 |doi=10.1073/pnas.86.24.9986  }}
+*{{cite journal  | author=Clayton LK, Sieh M, Pious DA, Reinherz EL |title=Identification of human CD4 residues affecting class II MHC versus HIV-1 gp120 binding. |journal=Nature |volume=339 |issue= 6225 |pages= 548–51 |year= 1989 |pmid= 2543930 |doi= 10.1038/339548a0 }}
+*{{cite journal  | author=Jonsson AK, Andersson L, Rask L |title=Complete sequences of DQA1 and DQB1 cDNA clones corresponding to the DQw4 specificity. |journal=Immunogenetics |volume=30 |issue= 3 |pages= 232–4 |year= 1989 |pmid= 2777341 |doi=10.1007/BF02421214  }}
+*{{cite journal  | author=Diamond DC, Sleckman BP, Gregory T, ''et al.'' |title=Inhibition of CD4+ T cell function by the HIV envelope protein, gp120. |journal=J. Immunol. |volume=141 |issue= 11 |pages= 3715–7 |year= 1988 |pmid= 2846691 |doi=  }}
+*{{cite journal  | author=Turco E, Care A, Compagnone-Post P, ''et al.'' |title=Allelic forms of the alpha- and beta-chain genes encoding DQw1-positive heterodimers. |journal=Immunogenetics |volume=26 |issue= 4–5 |pages= 282–90 |year= 1987 |pmid= 2888727 |doi=10.1007/BF00346523  }}
+*{{cite journal  | author=Hurley CK, Gregersen P, Steiner N, ''et al.'' |title=Polymorphism of the HLA-D region in American blacks. A DR3 haplotype generated by recombination |journal=J. Immunol. |volume=140 |issue= 3 |pages= 885–92 |year= 1988 |pmid= 2892884 |doi=  }}
+*{{cite journal  | author=Jonsson AK, Hyldig-Nielsen JJ, Servenius B, ''et al.'' |title=Class II genes of the human major histocompatibility complex. Comparisons of the DQ and DX alpha and beta genes |journal=J. Biol. Chem. |volume=262 |issue= 18 |pages= 8767–77 |year= 1987 |pmid= 3036828 |doi=  }}
+*{{cite journal  | author=Liu CP, Bach FH, Wu SK |title=Molecular studies of a rare DR2/LD-5a/DQw3 HLA class II haplotype. Multiple genetic mechanisms in the generation of polymorphic HLA class II genes |journal=J. Immunol. |volume=140 |issue= 10 |pages= 3631–9 |year= 1988 |pmid= 3129499 |doi=  }}
+*{{cite journal  | author=Lock CB, So AK, Welsh KI, ''et al.'' |title=MHC class II sequences of an HLA-DR2 narcoleptic |journal=Immunogenetics |volume=27 |issue= 6 |pages= 449–55 |year= 1988 |pmid= 3259543 |doi=10.1007/BF00364432  }}
+*{{cite journal  | author=Horn GT, Bugawan TL, Long CM, ''et al.'' |title=Sequence analysis of HLA class II genes from insulin-dependent diabetic individuals |journal=Hum. Immunol. |volume=21 |issue= 4 |pages= 249–63 |year= 1988 |pmid= 3372263 |doi=10.1016/0198-8859(88)90034-1  }}
+*{{cite journal  | author=Andrieu JM, Even P, Venet A |title=AIDS and related syndromes as a viral-induced autoimmune disease of the immune system: an anti-MHC II disorder. Therapeutic implications |journal=AIDS research |volume=2 |issue= 3 |pages= 163–74 |year= 1986 |pmid= 3489470 |doi=  10.1089/aid.1.1986.2.163}}
+*{{cite journal  | author=Schiffenbauer J, Didier DK, Klearman M, ''et al.'' |title=Complete sequence of the HLA DQ alpha and DQ beta cDNA from a DR5/DQw3 cell line |journal=J. Immunol. |volume=139 |issue= 1 |pages= 228–33 |year= 1987 |pmid= 3584986 |doi=  }}
+}}
+{{refend}}
+{{PDB Gallery|geneid=3117}}
+
+{{Surface antigens}}
+
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB_Controls
+| update_page = yes 
+| require_manual_inspection = no 
+| update_protein_box = yes
+| update_summary = no
+| update_citations = yes
+}}
+
+[[Category:Human proteins]]
+
+
+{{gene-6-stub}}

@@ -1,0 +1,192 @@
+{{Drugbox
+| verifiedrevid = 443742615
+| IUPAC_name = (''RS'')-3-ethyl-3-methyl-pyrrolidine-2,5-dione
+| image = Ethosuximide.png
+| width = 120px
+| imagename = 1 : 1 mixture (racemate)
+| drug_name = Ethosuximide
+
+<!--Clinical data-->
+| tradename = Zarontin
+| Drugs.com = {{drugs.com|monograph|ethosuximide}}
+| MedlinePlus = a682327
+| pregnancy_category = D <small>(Australia, United States)</small>
+| legal_status = [[Prescription drug|℞-only]] <small>(U.S.)</small>
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 93%{{ref|bioavailability}}
+| metabolism = [[Liver|Hepatic]] ([[CYP3A4]], [[CYP2E1]])
+| elimination_half-life = 53 hours
+| excretion = [[Kidney|Renal]] (20%)
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number = 77-67-8
+| ATC_prefix = N03
+| ATC_suffix = AD01
+| PubChem = 3291
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00593
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3175
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5SEH9X1D1D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00539
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4887
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 696
+
+<!--Chemical data-->
+| C=7 | H=11 | N=1 | O=2 
+| molecular_weight = 141.168 [[Gram|g]]/[[Mole (unit)|mol]]
+| smiles = O=C1NC(=O)CC1(C)CC
+| InChI = 1/C7H11NO2/c1-3-7(2)4-5(9)8-6(7)10/h3-4H2,1-2H3,(H,8,9,10)
+| InChIKey = HAPOVYFOVVWLRS-UHFFFAOYAB
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H11NO2/c1-3-7(2)4-5(9)8-6(7)10/h3-4H2,1-2H3,(H,8,9,10)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HAPOVYFOVVWLRS-UHFFFAOYSA-N
+}}
+'''Ethosuximide''' is a [[succinimide]] [[anticonvulsant]], used mainly in [[absence seizure]]s.
+
+==Uses==
+===Approved===
+It is approved for [[absence seizures]].{{ref|approved_use}}  Ethosuximide is considered the first choice drug for treating absence seizures in part because it lacks the idiosyncratic hepatotoxicity of the alternative anti-absence drug, [[valproic acid]].{{ref|approved_use}}
+
+===Unapproved===
+It was reported to have been used for [[intermittent explosive disorder]] in 1980 by Drs Andrulonis, Donnelly, Glueck, Stroebel, and Szabek.{{ref|Andrulonis_et_al_1980}}
+
+===Dosage===
+Therapeutic drug concentrations are individualized according to response and tolerance. Common Serum Therapeutic Range: 40-100&nbsp;µg/mL.  Potentially Toxic Serum Concentration: >100&nbsp;µg/mL.
+
+==Availability==
+
+Ethosuximide is marketed under the trade names '''Emeside''' and '''Zarontin'''. However, both capsule preparations were discontinued from production, leaving only generic preparations available. Emeside capsules were discontinued by their manufacturer, [[Laboratories for Applied Biology]], in 2005.<ref name=pharmjethosux>{{cite web |url=http://www.pharmj.com/Editorial/20051029/news/p539ethosuximide.html |title=Concern over ethosuximide capsule discontinuation |journal=Pharm J |date=2005 Oct 29 |volume=275 |page=539 |accessdate=2008-08-31}} (paywalled archive)</ref> Similarly, Zarontin capsules were discontinued by [[Pfizer]] in 2007.<ref name=epiwatchethosux>{{cite web|url=http://www.epilepsy.org.uk/news/drugwatch/ethosuximide|title= Zarontin capsules discontinued|accessdate=2012-10-24}}</ref> Syrup preparations of both brands remained available.
+
+==Mechanism of action==
+There is some controversy over the exact mechanism by which ethosuximide prevents absence seizures. While the view that ethosuximide is a T-type calcium channel blocker gained widespread support following its proposal, attempts to replicate the initial finding were inconsistent.
+
+In March 1989, Coulter, Huguenard and Prince showed that ethosuximide and [[dimethadione]], both effective anti-absence agents, reduced low-threshold [[calcium|Ca<sup>2+</sup>]] [[electric current|current]]s in [[T-type calcium channel|T-type Ca<sup>2+</sup> channel]]s in freshly removed [[thalamus|thalamic]] [[neuron]]s.{{ref|Coulter1989-1}} In June of that same year, they also found the mechanism of this reduction to be [[voltage]]-dependent, using acutely neurons of rats and guinea pigs; it was also noted that [[valproic acid]], which is also used in absence seizures, did not do that.{{ref|Coulter1989-2}} The next year, they showed that anticonvulsant succinimides did this and that the [[proconvulsant]] ones did not.{{ref|Coulter1990}} The first part was supported by Kostyuk et al. in 1992, who reported a substantial reduction in current in [[dorsal root]] [[ganglion|ganglia]] at [[concentration]]s ranging from 7 [[micromole|µmol]]/[[litre|L]] to 1&nbsp;mmol/L.{{ref|Kostyuk}}
+
+That same year, however, Herrington and Lingle found no such effect at concentrations of up to 2.5&nbsp;mmol/L.{{ref|Herrington-Lingle}} The year after, a study conducted on human [[neocortex|neocortical]] cells removed during surgery for intractable epilepsy, the first to use human tissue, found that ethosuximide had no effect on Ca<sup>2+</sup> currents at the concentrations typically needed for a therapeutic effect.{{ref|sayer1993}}
+
+In 1998, Slobodan M. Todorovic and Christopher J. Lingle of Washington University reported a 100% block of T-type current in dorsal root ganglia at 23.7 ± 0.5&nbsp;mmol/L, far higher than Kostyuk reported.{{ref|Todorovic_Lingle}} That same year, Leresche et al. reported that ethosuximide had no effect on T-type currents, but did decrease noninactivating [[sodium|Na<sup>+</sup>]] current by 60% and the Ca<sup>2+</sup>-activated K<sup>+</sup> currents by 39.1 ± 6.4% in rat and cat thalamocortical cells. It was concluded that the decrease in Na<sup>+</sup> current is responsible for the anti-absence properties.{{ref|Leresche_et_al_1998}}
+
+In the introduction of a paper published in 2001, Dr. Juan Carlos Gomora and colleagues at the [[University of Virginia]] in [[Charlottesville, Virginia|Charlottesville]] pointed out that past studies were often done in isolated neurons that had lost most of their T-type channels.{{ref|Gomora_et_al_2001}} Using cloned α1G, α1H, and α1I T-type calcium channels, Gomora's team found that ethosuximide blocked the channels with an IC<sub>50</sub> of 12 ± 2&nbsp;mmol/L and that of ''N''-desmethylmethsuximide (the active metabolite of [[mesuximide]]) is 1.95 ± 0.19&nbsp;mmol/L for α1G, 1.82 ± 0.16&nbsp;mmol/L for α1I, and 3.0 ± 0.3&nbsp;mmol/L for α1H. It was suggested that the blockade of open channels is facilitated by ethosuximide's physically plugging the channels when current flows inward.
+<!--==Metabolism==
+Ethosuximide is primarily metabolized by [[CYP3A4]] into, and by [[CYP2E1]] into.-->
+
+==Adverse effects==
+===Central nervous system===
+====Common====
+* drowsiness
+* mental confusion
+* [[insomnia]]
+* [[headache]]
+* [[ataxia]]
+
+====Rare====
+* [[paranoia|paranoid]] [[psychosis]]
+* increased libido
+* exacerbation of [[clinical depression|depression]]
+
+===Gastrointestinal===
+* [[dyspepsia]]
+* [[vomiting]]
+* [[nausea]]
+* cramps
+* [[constipation]]
+* [[diarrhea]]
+* stomach pain
+* loss of appetite
+* weight loss
+* [[hyperplasia|gingival hyperplasia]]
+* swelling of tongue
+
+===Genitourinary===
+* microscopic [[hematuria]]
+* vaginal bleeding
+
+===Hematopoietic===
+''The following can occur with or without bone marrow loss:''
+* [[pancytopenia]]
+* [[agranulocytosis]]
+* [[leukopenia]]
+* [[eosinophilia]]
+
+===Integumentary===
+* [[urticaria]]
+* [[systemic lupus erythematosus]]
+* [[Stevens–Johnson syndrome]]
+* [[hirsutism]]
+* [[itch|pruritic]] [[lupus erythematosus|erythematous rash]]es
+
+===Ocular===
+* [[myopia]]
+
+==Complications==
+* abnormal [[liver|liver function]]
+
+==Drug interactions==
+[[valproic acid|Valproate]]s can either decrease or increase the levels of ethosuximide; However, combinations of [[valproic acid|valproate]]s and ethosuximide had a greater [[Protective_index|Protective Index]] than either drug alone.{{ref|combo}}
+
+It may elevate serum [[phenytoin]] levels.
+
+==Chemistry==
+Ethosuximide, 3-ethyl-3-methypyrrolidine-2,5-dione is synthesized from methylethylketone and cyanoacetic ester, which undergo a [[Knoevenagel condensation]]. Then [[hydrogen cyanide]] is added. After acidic hydrolysis and decarboxylation of the synthesized dinitrile, 2-methyl-2-ethylsuccinic acid is formed. Reacting this product with ammonia gives the diammonium salt, and heterocyclization into ethosuximide takes place during subsequent heating.
+[[File:Ethosuximide synthesis.png|800px]]
+*L.M. Long, Ch.A. Miller, {{US Patent|2993835}} (1961).
+*S.S.G. Sircar, J. Chem. Soc., 1252 (1927).
+
+==References==
+===Notes===
+# {{note|bioavailability}} {{cite journal | first = P. N. | last = Patsalos | month = November | year = 2005 | title = Properties of Antiepileptic Drugs in the Treatment of Idiopathic Generalized Epilepsies | journal = Epilepsia | volume = 46 | issue = s9 | pages = 140–144 | pmid = 16302888 | doi = 10.1111/j.1528-1167.2005.00326.x}}
+# {{note|approved_use}} {{cite web | author = Pharmaceutical Associates, Incorporated | year = 2000 | url = http://www.fda.gov/cder/foi/anda/2000/40253_Ethosuximide_Prntlbl.pdf | title = Ethosuximide Approval Label | format = PDF | work = Label and Approval History | publisher = [[Food and Drug Administration]] Center for Drug Evaluation and Research | accessdate = 2006-02-05}} {{Dead link|date=October 2010|bot=H3llBot}}
+# {{note|approved_use}} {{cite book|contribution=Drugs used in generalized seizures |editor=Katzung, B. |title=Basic and Clinical Pharmacology |edition=9th |year=2003 |publisher=Lange Medical Books/McGraw-Hill |isbn=0071410929}}
+# {{note|Andrulonis_et_al_1980}} {{cite journal | first = P. A. | last = Andrulonis | coauthors = J. Donnelly, B. C. Glueck, C. F. Stroebel, and B. L. Szabek | month = November | year = 1980 | title = Preliminary data on ethosuximide and the [[Episodic dyscontrol syndrome]] | journal = American Journal of Psychiatry | volume = 137 | issue = 11 | pages = 1455–6 | pmid=7435689}}
+# {{note|Coulter1989-1}} {{cite journal|author=Coulter DA, Huguenard JR, Prince DA |title=Specific petit mal anticonvulsants reduce calcium currents in thalamic neurons |journal=Neurosci Lett |date=1989 Mar 13 |volume=98 |issue=1|pages=74–8 |pmid=2710401}}
+# {{note|Coulter1989-2}} {{cite journal|author=Coulter DA, Huguenard JR, Prince DA |title=Characterization of ethosuximide reduction of low-threshold calcium current in thalamic neurons |journal=Annals of Neurology |date=1989 Jun |volume=25 |issue=6|pages=582–93 |pmid=2545161}}
+# {{note|Coulter1990}} {{cite journal|author=Coulter DA, Huguenard JR, Prince DA |title=Differential effects of petit mal anticonvulsants and convulsants on thalamic neurones: calcium current reduction |journal=British Journal of Pharmacology |date=1990 Aug |volume=100 |issue=4 |pages=800–6 |pmid=2169941 }}
+# {{note|Kostyuk}} {{cite journal|author=Kostyuk PG, Molokanova EA, Pronchuk NF, Savchenko AN, Verkhratsky AN |title=Different action of ethosuximide on low- and high-threshold calcium currents in rat sensory neurons |journal=Neuroscience |date=1992 Dec |volume=51 |issue=4 |pages=755–8 |pmid=1336826}}
+# {{note|Herrington-Lingle}} {{cite journal
+ | author = Herrington J, Lingle CJ
+ | title = Kinetic and pharmacological properties of low voltage-activated Ca2+ current in rat clonal (GH3) pituitary cells
+ | journal = Journal of Neurophysiology
+ | year = 1992 | month = July | volume = 68 | issue = 1 | pages = 213–32
+ | pmid = 1325546
+ | url =  http://jn.physiology.org/cgi/reprint/68/1/213
+ }}
+# {{note|sayer1993}} Sayer RJ, Brown AM, Schwindt PC, Crill WE. "Calcium currents in acutely isolated human neocortical neurons." ''Journal of Neurophysiology.'' 1993 May;69(5):1596-606. PMID 8389832 [http://jn.physiology.org/cgi/reprint/69/5/1596 Fulltext]
+# {{note|Todorovic_Lingle}} {{cite journal | author=Todorovic SM, Lingle CJ | title=Pharmacological properties of T-type Ca2+ current in adult rat sensory neurons: effects of anticonvulsant and anesthetic agents | journal=Journal of Neurophysiology | volume=79 | issue=1 | date= January 1, 1998 | pages=240–52 | pmid=9425195
+ | url = http://jn.physiology.org/cgi/content/full/79/1/240 }}
+# {{note|Leresche_et_al_1998}} {{cite journal | author=Leresche N, Parri HR, Erdemli G, Guyon A, Turner JP, Williams SR, Asprodini E, Crunelli V | title=On the action of the anti-absence drug ethosuximide in the rat and cat thalamus | journal=Journal of Neuroscience | volume=18 | issue=13 | date= July 1, 1998 | pages=4842–53 | pmid=9634550
+ | url = http://www.jneurosci.org/cgi/content/full/18/13/4842 }}
+# {{note|Gomora_et_al_2001}} {{cite journal | author=Gomora JC, Daud AN, Weiergraber M, Perez-Reyes E | title=Block of cloned human T-type calcium channels by succinimide antiepileptic drugs | journal=Molecular Pharmacology | volume=60 | issue=5 | year=2001 | pages=1121–32 | pmid=11641441
+ }}
+# {{note|combo}} {{cite journal
+ | last = Bourgeois | first = BF
+ | title = Combination of valproate and ethosuximide: antiepileptic and neurotoxic interaction
+ | journal = The Journal of Pharmacology and Experimental Therapeutics
+ | year = 1988 | month = December | volume = 247 | issue = 3 | pages = 1128–32
+ | pmid = 3144596
+ }}
+
+{{reflist}}
+
+==External links==
+* [http://www.mentalhealth.com/drug/p30-z01.html#Head_1 Ethosuximide] Internet Mental Health.
+* [http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a682327.html MedlinePlus Drug Information: Ethosuximide Oral]
+* [http://www.pfizer.com/files/products/uspi_zarontin_capsules.pdf Zarontin] ''Pfizer.''
+* [http://www.druglib.com/druginfo/zarontin/ Zarontin] Drug information, published studies and current trials
+
+{{Anticonvulsants}}
+
+<!--
+
+-->
+
+[[Category:Anticonvulsants]]
+[[Category:Succinimides]]

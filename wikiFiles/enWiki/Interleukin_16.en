@@ -1,0 +1,63 @@
+{{PBB|geneid=3603}}
+'''Pro-interleukin-16''' is a [[protein]] that in humans is encoded by the ''IL16'' [[gene]].<ref name="pmid9144227">{{cite journal | author = Baier M, Bannert N, Werner A, Lang K, Kurth R | title = Molecular cloning, sequence, expression, and processing of the interleukin 16 precursor | journal = Proc Natl Acad Sci U S A | volume = 94 | issue = 10 | pages = 5273–7 | year = 1997 | month = Jun | pmid = 9144227 | pmc = 24668 | doi =10.1073/pnas.94.10.5273  }}</ref><ref name="entrez">{{cite web | title = Entrez Gene: IL16 interleukin 16 (lymphocyte chemoattractant factor)| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=3603| accessdate = }}</ref> This gene was discovered in 1982 at [[Boston University]] by Dr. David Center and Dr. William Cruikshank.<ref name="Cruikshank_1982">{{cite journal | author = Cruikshank W, Center DM | title = Modulation of lymphocyte migration by human lymphokines. II. Purification of a lymphotactic factor (LCF) | journal = J. Immunol. | volume = 128 | issue = 6 | pages = 2569–74 | year = 1982 | pmid = 7042841 | doi = | url = http://www.jimmunol.org/cgi/reprint/128/6/2569 }}</ref>
+
+<!-- The PBB_Summary template is automatically maintained by Protein Box Bot.  See Template:PBB_Controls to Stop updates. -->
+{{PBB_Summary
+| section_title = 
+| summary_text = The protein encoded by this gene is a pleiotropic cytokine that functions as a chemoattractant, a modulator of T cell activation, and an inhibitor of HIV replication. The signaling process of this cytokine is mediated by CD4. The product of this gene undergoes proteolytic processing, which is found to yield two functional proteins. The cytokine function is exclusively attributed to the secreted C-terminal peptide, while the N-terminal product may play a role in cell cycle control. Caspase 3 is reported to be involved in the proteolytic processing of this protein. Two alternatively spliced transcript variants encoding distinct isoforms have been reported.<ref name="entrez" />
+}}
+
+'''Interleukin 16''' (IL-16) is a [[cytokine]] that released by a variety of cells (including [[lymphocytes]] and some [[epithelial cells]]) that has been characterized as a [[chemoattractant]] for certain immune cells expressing the cell surface molecule [[CD4]]. 
+
+IL-16 was originally described as a factor that could attract activated [[T cells]] in humans, it was previously called lymphocyte chemoattractant factor (LCF).<ref name="Cruikshank_1982"/>  Since then, this interleukin has been shown to recruit and activate many other cells expressing the CD4 molecule, including [[monocytes]], [[eosinophils]], and [[dendritic cells]].<ref name="pmid10857846">{{cite journal | author = Cruikshank WW, Kornfeld H, Center DM | title = Interleukin-16 | journal = J. Leukoc. Biol. | volume = 67 | issue = 6 | pages = 757–66 | year = 2000 | pmid = 10857846 | doi = | url = http://www.jleukbio.org/cgi/content/abstract/67/6/757 }}</ref>
+
+The structure of IL-16 was determined following its [[gene cloning|cloning]] in 1994.<ref name="pmid7910967">{{cite journal | author = Cruikshank WW, Center DM, Nisar N, Wu M, Natke B, Theodore AC, Kornfeld H | title = Molecular and functional analysis of a lymphocyte chemoattractant factor: association of biologic function with CD4 expression | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 91 | issue = 11 | pages = 5109–13 | year = 1994 | pmid = 7910967 | doi = 10.1073/pnas.91.11.5109| pmc = 43941 }}</ref> This cytokine is produced as a precursor peptide (pro-IL-16) that requires processing by an [[enzyme]] called [[caspase]]-3 to become active.  CD4 is the [[cell signaling]] [[Receptor (biochemistry)|receptor]] for mature IL-16.  
+
+==Interactions==
+Interleukin 16 has been shown to [[Protein-protein_interaction|interact]] with [[Kir2.1]],<ref name=pmid10479680>{{cite journal |last=Kurschner |first=C |authorlink= |coauthors=Yuzaki M |year=1999|month=Sep. |title=Neuronal interleukin-16 (NIL-16): a dual function PDZ domain protein |journal=J. Neurosci. |volume=19 |issue=18 |pages=7770–80 |publisher= |location = UNITED STATES| pmid = 10479680 | bibcode = | oclc =| id = | url = | language = | format = | accessdate = | laysummary = | laysource = | laydate = | quote = }}</ref> [[KCNJ10]],<ref name=pmid10479680/> [[GRIN2D]],<ref name=pmid10479680/> [[GRIN2A]],<ref name=pmid10479680/> [[PPP1R12B]],<ref name=pmid12923170>{{cite journal |last=Bannert |first=Norbert |authorlink= |coauthors=Vollhardt Karin, Asomuddinov Bakhtier, Haag Marion, König Herbert, Norley Stephen, Kurth Reinhard |year=2003|month=Oct. |title=PDZ Domain-mediated interaction of interleukin-16 precursor proteins with myosin phosphatase targeting subunits |journal=J. Biol. Chem. |volume=278 |issue=43 |pages=42190–9 |publisher= |location = United States| issn = 0021-9258| pmid = 12923170 |doi = 10.1074/jbc.M306669200 | bibcode = | oclc =| id = | url = | language = | format = | accessdate = | laysummary = | laysource = | laydate = | quote = }}</ref> [[PPP1R12A]]<ref name=pmid12923170/> and [[KCNJ15]].<ref name=pmid10479680/>
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{refbegin | 2}}
+{{PBB_Further_reading 
+| citations = 
+*{{cite journal  | author=Wilson KC, Center DM, Cruikshank WW |title=The effect of interleukin-16 and its precursor on T lymphocyte activation and growth |journal=Growth Factors |volume=22 |issue= 2 |pages= 97–104 |year= 2005 |pmid= 15253385 |doi=10.1080/08977190410001704679  }}
+*{{cite journal  | author=Copeland KF |title=Modulation of HIV-1 transcription by cytokines and chemokines |journal=Mini reviews in medicinal chemistry |volume=5 |issue= 12 |pages= 1093–101 |year= 2006 |pmid= 16375755 |doi=10.2174/138955705774933383  }}
+*{{cite journal  | author=Rand TH, Cruikshank WW, Center DM, Weller PF |title=CD4-mediated stimulation of human eosinophils: lymphocyte chemoattractant factor and other CD4-binding ligands elicit eosinophil migration |journal=J. Exp. Med. |volume=173 |issue= 6 |pages= 1521–8 |year= 1991 |pmid= 1851800 |doi=10.1084/jem.173.6.1521  | pmc=2190841  }}
+*{{cite journal  | author=Ryan TC, Cruikshank WW, Kornfeld H, ''et al.'' |title=The CD4-associated tyrosine kinase p56lck is required for lymphocyte chemoattractant factor-induced T lymphocyte migration |journal=J. Biol. Chem. |volume=270 |issue= 29 |pages= 17081–6 |year= 1995 |pmid= 7615501 |doi=10.1074/jbc.270.29.17081  }}
+*{{cite journal  | author=Cruikshank WW, Center DM, Nisar N, ''et al.'' |title=Molecular and functional analysis of a lymphocyte chemoattractant factor: association of biologic function with CD4 expression |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=91 |issue= 11 |pages= 5109–13 |year= 1994 |pmid= 7910967 |doi=10.1073/pnas.91.11.5109  | pmc=43941  }}
+*{{cite journal  | author=Maruyama K, Sugano S |title=Oligo-capping: a simple method to replace the cap structure of eukaryotic mRNAs with oligoribonucleotides |journal=Gene |volume=138 |issue= 1–2 |pages= 171–4 |year= 1994 |pmid= 8125298 |doi=10.1016/0378-1119(94)90802-8  }}
+*{{cite journal  | author=Parada NA, Cruikshank WW, Danis HL, ''et al.'' |title=IL-16- and other CD4 ligand-induced migration is dependent upon protein kinase C |journal=Cell. Immunol. |volume=168 |issue= 1 |pages= 100–6 |year= 1996 |pmid= 8599832 |doi= 10.1006/cimm.1996.0054 }}
+*{{cite journal  | author=Bannert N, Baier M, Werner A, Kurth R |title=Interleukin-16 or not? |journal=Nature |volume=381 |issue= 6577 |pages= 30 |year= 1996 |pmid= 8609984 |doi= 10.1038/381030a0 }}
+*{{cite journal  | author=Maciaszek JW, Parada NA, Cruikshank WW, ''et al.'' |title=IL-16 represses HIV-1 promoter activity |journal=J. Immunol. |volume=158 |issue= 1 |pages= 5–8 |year= 1997 |pmid= 8977168 |doi=  }}
+*{{cite journal  | author=Laberge S, Ernst P, Ghaffar O, ''et al.'' |title=Increased expression of interleukin-16 in bronchial mucosa of subjects with atopic asthma |journal=Am. J. Respir. Cell Mol. Biol. |volume=17 |issue= 2 |pages= 193–202 |year= 1997 |pmid= 9271307 |doi=  }}
+*{{cite journal  | author=Suzuki Y, Yoshitomo-Nakagawa K, Maruyama K, ''et al.'' |title=Construction and characterization of a full length-enriched and a 5'-end-enriched cDNA library |journal=Gene |volume=200 |issue= 1–2 |pages= 149–56 |year= 1997 |pmid= 9373149 |doi=10.1016/S0378-1119(97)00411-3  }}
+*{{cite journal  | author=Zhang Y, Center DM, Wu DM, ''et al.'' |title=Processing and activation of pro-interleukin-16 by caspase-3 |journal=J. Biol. Chem. |volume=273 |issue= 2 |pages= 1144–9 |year= 1998 |pmid= 9422780 |doi=10.1074/jbc.273.2.1144  }}
+*{{cite journal  | author=Mühlhahn P, Zweckstetter M, Georgescu J, ''et al.'' |title=Structure of interleukin 16 resembles a PDZ domain with an occluded peptide binding site |journal=Nat. Struct. Biol. |volume=5 |issue= 8 |pages= 682–6 |year= 1998 |pmid= 9699630 |doi= 10.1038/1376 }}
+*{{cite journal  | author=Chupp GL, Wright EA, Wu D, ''et al.'' |title=Tissue and T cell distribution of precursor and mature IL-16 |journal=J. Immunol. |volume=161 |issue= 6 |pages= 3114–9 |year= 1998 |pmid= 9743378 |doi=  }}
+*{{cite journal  | author=Bannert N, Avots A, Baier M, ''et al.'' |title=GA-binding protein factors, in concert with the coactivator CREB binding protein/p300, control the induction of the interleukin 16 promoter in T lymphocytes |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=96 |issue= 4 |pages= 1541–6 |year= 1999 |pmid= 9990060 |doi=10.1073/pnas.96.4.1541  | pmc=15509  }}
+*{{cite journal  | author=Kim HS |title=Assignment of human interleukin 16 (IL16) to chromosome 15q26.3 by radiation hybrid mapping |journal=Cytogenet. Cell Genet. |volume=84 |issue= 1–2 |pages= 93 |year= 1999 |pmid= 10343113 |doi=10.1159/000015224  }}
+*{{cite journal  | author=Liu Y, Cruikshank WW, O'Loughlin T, ''et al.'' |title=Identification of a CD4 domain required for interleukin-16 binding and lymphocyte activation |journal=J. Biol. Chem. |volume=274 |issue= 33 |pages= 23387–95 |year= 1999 |pmid= 10438516 |doi=10.1074/jbc.274.33.23387  }}
+*{{cite journal  | author=Kaser A, Dunzendorfer S, Offner FA, ''et al.'' |title=A role for IL-16 in the cross-talk between dendritic cells and T cells |journal=J. Immunol. |volume=163 |issue= 6 |pages= 3232–8 |year= 1999 |pmid= 10477592 |doi=  }}
+*{{cite journal  | author=Kurschner C, Yuzaki M |title=Neuronal interleukin-16 (NIL-16): a dual function PDZ domain protein |journal=J. Neurosci. |volume=19 |issue= 18 |pages= 7770–80 |year= 1999 |pmid= 10479680 |doi=  }}
+}}
+{{refend}}
+{{PDB Gallery|geneid=3603}}
+
+{{NLM content}}
+{{interleukins}}
+
+[[Category:Cytokines]]
+
+{{immunology-stub}}
+
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB_Controls
+| update_page = yes 
+| require_manual_inspection = no 
+| update_protein_box = yes
+| update_summary = yes
+| update_citations = yes
+}}

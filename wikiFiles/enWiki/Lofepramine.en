@@ -1,0 +1,88 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462093258
+| IUPAC_name = ''N''-(4-chlorobenzoylmethyl)-3-(10,11-dihydro-5''H''-dibenzo[''b,f'']azepin-5-yl)-''N''-methylpropan-1-amine
+| image = Lofepramin.svg
+| width = 200px
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|lofepramine}}
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life = 4-6 hours (lofepramine - [[prodrug]]); 21-23 hours (desipramine - active [[metabolite]])
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 23047-25-8
+| ATC_prefix = N06
+| ATC_suffix = AA07
+| PubChem = 3947
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3810
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = OCA4JT7PAW
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08140
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 47782
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 87708
+
+<!--Chemical data-->
+| C=26 | H=27 | Cl=1 | N=2 | O=1 
+| molecular_weight = 418.958 g/mol
+| smiles = Clc1ccc(cc1)C(=O)CN(C)CCCN4c2ccccc2CCc3c4cccc3
+| InChI = 1/C26H27ClN2O/c1-28(19-26(30)22-13-15-23(27)16-14-22)17-6-18-29-24-9-4-2-7-20(24)11-12-21-8-3-5-10-25(21)29/h2-5,7-10,13-16H,6,11-12,17-19H2,1H3
+| InChIKey = SAPNXPWPAUFAJU-UHFFFAOYAS
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H27ClN2O/c1-28(19-26(30)22-13-15-23(27)16-14-22)17-6-18-29-24-9-4-2-7-20(24)11-12-21-8-3-5-10-25(21)29/h2-5,7-10,13-16H,6,11-12,17-19H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SAPNXPWPAUFAJU-UHFFFAOYSA-N
+}}
+
+'''Lofepramine''' ('''Gamanil''', '''Tymelyt''', '''Lomont''') is a third Generation<ref>http://www.safcglobal.com/safc-pharma/en-us/home/small-molecule-api/services-overview/generic-products/lofepramine-hydrochloride.html</ref> [[tricyclic antidepressant]] which was introduced in 1983 for the treatment of [[major depression|depressive disorder]]s.<ref name="pmid2891742">{{cite journal | author = Leonard BE | title = A comparison of the pharmacological properties of the novel tricyclic antidepressant lofepramine with its major metabolite, desipramine: a review | journal = International Clinical Psychopharmacology | volume = 2 | issue = 4 | pages = 281–97 | year = 1987 | month = October | pmid = 2891742 | doi = | url = }}</ref> It is partially converted to its active [[metabolite]] [[desipramine]] ''[[in vivo]]''.<ref name="pmid2891742"/> However, it is unlikely this property plays a substantial role in its overall effects as lofepramine exhibits lower [[toxicity]] and [[anticholinergic]] [[side effect]]s relative to desipramine while retaining equivalent antidepressant efficacy.<ref name="pmid2891742"/>
+
+== Indications ==
+
+In the [[United Kingdom]], lofepramine is licensed for the treatment of depression.
+
+Description: An antidepressant administered orally (as tablets). It has fewer sedative properties than many of the products used to treat depressive illnesses and is suited to patients whose symptoms tend towards withdrawal and apathy, rather than restlessness and agitation. 
+
+It is commonly prescribed for major depressive disorder, anxiety, insomnia, neuropathic/chronic pain, and treatment resistant depression.<ref>Essential Psychopharmacology: The Prescriber's Guide, ISBN 0-521-68350-5, http://books.google.com/books?id=-ppHkXw5zwMC, p.263</ref>
+
+== Side effects ==
+
+Delusions, headache, nightmares, facial oedema, general feeling of being unwell, bleeding from skin, excitement/anxiety, nausea, inflammation of mucous membranes, loss of taste, parasthesia, skin rash, psychiatric problems such as self-harm, drowsiness, dry mouth, pins and needles, heartbeat irregularities, sweating, low blood pressure, constipation, blurred vision palpatations, dizziness and urinary retention. Can cause confusion in elderly patients or behavioural disturbance in the young. May produce weight gain or cause changes in the levels of blood sugar. Some patients report muscular discomfort, particularly in the shoulders. However, lofepramine is less sedating than, for instance, amitriptyline, and is safer in overdose than older tricyclics.
+
+== Warnings ==
+
+To be used with caution for epileptic patients or those with glaucoma or psychosis. Lofepramine should not be given to people who have suffered liver failure or heart disease. Not advisable for use in pregnant women.
+
+== Availability ==
+
+In the United Kingdom, lofepramine is marketed (as the [[hydrochloride]] salt) in the form of 70&nbsp;mg tablets and 5ml oral suspension as the generic Lomont.<ref>[http://emc.medicines.org.uk/emc/assets/c/html/DisplayDoc.asp?DocumentID=10656 Lomont , SPC from the eMC<!-- Bot generated title -->]</ref>
+
+== See also ==
+* [[Tricyclic antidepressant]]
+
+== References ==
+{{Reflist|2}}
+
+{{Antidepressants}}
+{{Anxiolytics}}
+{{Adrenergics}}
+{{Cholinergics}}
+{{Histaminergics}}
+{{Serotonergics}}
+{{Tricyclics}}
+
+[[Category:Tricyclic antidepressants]]
+[[Category:Dibenzazepines]]
+[[Category:Organochlorides]]

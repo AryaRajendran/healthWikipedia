@@ -1,0 +1,149 @@
+{{Distinguish|IPA extensions (Unicode block)}}
+The '''Extensions to the IPA''' are extensions of the [[International Phonetic Alphabet]] and were designed for [[Speech disorder|disordered speech]]. However, some of the symbols (especially diacritics, below) are occasionally used for transcribing normal speech as well, particularly in certain languages.
+
+==Brackets==
+The Extended IPA for [[speech pathology]] has added additional bracket notations. Parentheses are used to indicate ''mouthing'' (silent articulation), as in {{IPA|(ʃːː)}}, a silent sign to hush; parentheses are also used to indicate silent pauses, for example (...). Double parentheses indicate obscured or unintelligible sound, as in ((2 syll.)), two audible but unidentifiable syllables. Curly brackets with Italian musical terms are used to mark prosodic notation, such as {{IPA|[{<sub>''falsetto''</sub> hɛlp <sub>''falsetto''</sub>}]}}.
+
+==Extended IPA letters==
+[[Image:ExtIPA.png|thumb|350px|The letters and diacritics of the ExtIPA]]
+{| class="wikitable"
+|-
+| style="text-align:center; font-size:larger; width:2em;" | {{IPA|ʩ}}
+|Velopharyngeal fricative (snoring sound; often occurs with a [[cleft palate]])
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|ʪ}}
+|Voiceless central-plus-lateral alveolar fricative, {{IPA|[ɬ͡s]}} (a [[lisp]])<ref group=note>Corresponds to the sound in English usually represented by /[[Voiceless alveolar fricative|s]]/: '''''s'''and''</ref>
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|ʫ}}
+|Voiced central-plus-lateral alveolar fricative, {{IPA|[ɮ͡z]}} (a [[lisp]])<ref group=note>Corresponds to the sound in English usually represented by /[[Voiced alveolar fricative|z]]/: '''''z'''oo''</ref>
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|ʬ}}
+|Bilabial percussive (smacking lips)
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|ʭ}}
+|Bidental percussive (gnashing teeth)
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|¡}}
+|[[Subapical consonant|Sublaminal lower alveolar]] click (sucking tongue)
+|}
+
+The last symbol may be used with the alveolar click for {{IPA|[ǃ¡]}}, a combined alveolar and sublaminal click or "cluck-click".
+
+<references group="note"/>
+
+==Extended IPA diacritics==
+The ExtIPA has widened the use of some of the regular IPA symbols, such as {{IPA|ʰp}} for pre-aspiration, {{IPA|tʶ}} for uvularization, or {{IPA|s̼}} for a linguolabial sibilant, as well as adding some new ones. Some of the ExtIPA diacritics are occasionally used for non-disordered speech, for example for the unusual airstream mechanisms of [[Damin]].
+
+One modification is the use of subscript parentheses around the [[phonation]] diacritics to indicate partial phonation; a single parenthesis at the left or right of the voicing indicates that it is partially phonated at the beginning or end of the segment. For example, {{IPA|₍s̬₎}} is a partially voiced {{IPA|[s]}}, {{IPA|₍s̬}} shows partial initial voicing, and {{IPA|s̬₎}} partial final voicing; also {{IPA|₍z̥₎}} is a partially devoiced {{IPA|[z]}}, {{IPA|₍z̥}} shows partial initial devoicing, and {{IPA|z̥₎}} partial final devoicing. These conventions may be convenient for representing various [[voice onset time]]s.
+
+Phonation diacritics may also be prefixed or suffixed rather than placed directly under the segment to represent relative timing. For instance, {{IPA|&nbsp;̬z}} is a [[Pre-voicing (phonetics)|pre-voiced]] {{IPA|[z]}}, {{IPA|z&nbsp;̬}} is a post-voiced {{IPA|[z]}}, and {{IPA|a&nbsp;̰}} is an {{IPA|[a]}} with a [[creaky voice|creaky]] offglide.
+
+Other ExtIPA diacritics are:
+
+{| class="wikitable"
+! colspan=4|Airstream mechanism
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|p↓}}
+| [[Airstream mechanism|Ingressive airflow]]
+| style="text-align:center; font-size:larger;" | {{IPA|ǃ↑}}
+| [[Airstream mechanism|Egressive airflow]]
+|-
+!colspan=4|Phonation
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|p˭}}<ref>not to be confused with ⁼</ref>
+| [[Aspiration (phonetics)|Unaspirated]]
+| style="text-align:center; font-size:larger;" | {{IPA|ạ}}
+| [[Whispering|Whispery]] phonation
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|a<sup>Ħ</sup>}}
+|[[Faucalized voice]] (stretched pharynx,<br>as in a yawn)
+| style="text-align:center; font-size:larger;" | {{IPA|a!}}
+|[[Harsh voice]], ('pressed voice'; involves the<br>[[vocal folds#False vocal folds|false vocal cords]], as when lifting a load)
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|ʰp}}
+| Pre-aspiration
+| style="text-align:center; font-size:larger;" | {{IPA|a‼}}
+| Ventricular vibration
+|-
+!colspan=4|Nasalization
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|n͋&nbsp;&nbsp;&nbsp;&nbsp;v͋}}
+| [[nasalization|Nasal fricative]] or frication
+| style="text-align:center; font-size:larger; width:3em;" | {{IPA|m͊}}
+| [[Denasal]] (as with a headcold)
+|-
+! colspan=4|Articulatory strength
+|-
+| style="text-align:center; font-size:larger; width:3em;" | {{IPA|f͈}}
+| [[Tenseness|Strong articulation]]
+| style="text-align:center; font-size:larger;" | {{IPA|v͉}}
+| [[Tenseness|Weak articulation]]
+|-
+! colspan=4|Articulation
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|v͆}}
+| [[dentolabial consonant|Dentolabial]]
+| style="text-align:center; font-size:larger;" | {{IPA|n̪͆&nbsp;&nbsp;&nbsp;&nbsp;h̪͆}}
+| [[Interdental]] or [[bidental consonant|bidental]]
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|s͇&nbsp;&nbsp;&nbsp;&nbsp;f͇}}
+| [[Alveolar consonant|Alveolar(ized)]]
+| style="text-align:center; font-size:larger;" | {{IPA|s͎}}
+| [[Whistled sibilant|Whistled]]
+|-
+! colspan=4|Secondary articulation
+|-
+| style="text-align:center; font-size:larger; width:3em;" | {{IPA|s͍}}
+| Labial spreading (see [[rounded vowel]])
+| style="text-align:center; font-size:larger; width:3em;" | {{IPA|ʒ}}<sup>{{IPA|œ}}</sup>
+|Open-rounded labialization
+|-
+| style="text-align:center; font-size:larger; width:3em;" | {{IPA|kᶹ}}
+|Labiodentalized
+| style="text-align:center; font-size:larger;" | {{IPA|s͌}}
+| [[Velopharyngeal]] friction
+|-
+! colspan=4|Timing
+|-
+| style="text-align:center; font-size:larger;" | {{IPA|s͢θ}}
+| Slurred/sliding articulation
+| style="text-align:center; font-size:larger;" | {{IPA|p\p\p}}
+| [[Stutter]] (reiterated articulation)<ref>used in the transcription of [[Damin]]</ref>
+|}
+
+In addition to these symbols, a subscript < or > indicates that an articulation is laterally offset to the left or right.
+
+===Prosodic notation===
+The ExtIPA also makes use of Italian musical notation for the [[tempo]] and [[dynamics (music)|dynamics]] of connected speech. These are subscripted within a {curly brace} notation to indicate that they are comments on the [[prosody (linguistics)|prosody]].
+
+Pauses are indicated with periods or numbers inside parentheses.
+
+{| class="wikitable"
+|(.)||Short pause||(..)||Medium pause||(...)||Long pause||(1.2)||1.2-second pause
+|-
+|''f''||Loud speech<br>('forte')||colspan=2|[{<sub>''f''</sub> {{IPA|lɑʊd}}<sub>''f''</sub>}]||''ff''||Louder speech<br>('fortissimo')||colspan=2|[{<sub>''ff''</sub> {{IPA|lɑʊdɚ}} <sub>''ff''</sub>}]
+|-
+|''p''||Quiet speech<br>('piano')||colspan=2|[{<sub>''p''</sub> {{IPA|kwaɪət}} <sub>''p''</sub>}]||''pp''||Quieter speech<br>('pianissimo')||colspan=2|[{<sub>''pp''</sub> {{IPA|kwaɪətɚ}} <sub>''pp''</sub>}]
+|-
+|''allegro''||Fast speech||colspan=2|[{<sub>''allegro''</sub> {{IPA|fɑːst}} <sub>''allegro''</sub>}]||''lento''||Slow speech||colspan=2|[{<sub>''lento''</sub> {{IPA|sloʊ}} <sub>''lento''</sub>}]
+|-
+|colspan=8|''crescendo, rallentando,'' and other musical terms may also be used.
+|}
+
+==See also==
+* [[Speech pathology]]
+* [[Obsolete and nonstandard symbols in the International Phonetic Alphabet]]
+* [[Onomatopoeia]]
+
+==References==
+{{Reflist}}
+* Ball, Martin J.; Esling, John H.; & Dickson, B. Craig. (1995). The VoQS system for the transcription of voice quality. ''Journal of the International Phonetic Association'', ''25'' (2), 71-80.
+* Duckworth, M.; Allen, G.; Hardcastle, W.; & Ball, M. J. (1990). Extensions to the International Phonetic Alphabet for the transcription of atypical speech. ''Clinical Linguistics and Phonetics'', ''4'', 273-280.
+
+==External links==
+* [http://clispi.org/userfiles/ExtIPAChart2002.pdf Chart of extended IPA symbols for disordered speech] (PDF).
+
+{{IPA navigation}}
+
+[[Category:International Phonetic Alphabet]]
+[[Category:Communication disorders]]

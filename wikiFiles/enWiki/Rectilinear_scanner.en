@@ -1,0 +1,46 @@
+{{Unreferenced|date=December 2009}}
+A '''rectilinear scanner''' is an [[medical imaging|imaging]] device once used in [[nuclear medicine]].
+
+==History==
+Before the invention of the rectilinear scanner in 1950 by [[Benedict Cassen]], nuclear medicine pioneers used to move their insensitive [[Geiger counter|Geiger Counters]] over different parts of the body, which resulted in a fairly crude determination of the distribution of [[Radioactive decay|radioactivity]].
+
+==Components==
+[[Image:Rectilinear scanner.jpg]]
+
+The scanner consists of :
+
+# A [[scintillator]] which detects the γ radiation emitted by a [[Radiopharmacology|radiopharmaceutical]] located in the organ. The detector consists of a [[Sodium iodide|NaI]](Tl) crystal (12.7&nbsp;cm in diameter, 5&nbsp;cm thick) and a [[photomultiplier]]. It is mechanically connected to a light bulb.
+# An electronic circuit between detector and light bulb.
+# A [[Photographic film|film]].
+
+==Mechanism==
+NaI(Tl) crystal of the detector moves in a raster pattern over studied area of the patient, making a constant count rate. 
+
+Simultaneously, the light source moves over the photographic film. The intensity of light produced increases with an increase in activity, producing dark areas on the film.
+
+Device can be modified electronically to enhance count rate differences in areas of medical interest. 
+
+Data taken during a scan is recorded on a magnetic tape or a disc to be analyzed later by a computer to provide a quantitative image.
+
+Dimensions of scan areas, spacing of scan lines and rate of movement of scanning head is adjusted according to organ size and amount of radioactivity.
+
+Rectilinear scanner can scan the entire body. The image is then minified to fit a standard 36&nbsp;cm x 43&nbsp;cm film.
+
+As it uses a focused [[collimator]], it measures radiation distribution 7.5 - 12.5&nbsp;cm from the end of the collimator. Thus, a scan from both sides of the patient is often necessary. A few scanners have 2 detectors facing each other to scan simultaneously.
+
+'''Other types of image''' 
+
+Image can also be made
+
+# On an oscilloscope.
+# By marks tapped on paper. Density or color of marks indicate intensity of activity in corresponding areas of the patient.
+
+==Disadvantages==
+# ''Time consuming'' : Scan lasts for over 30 min. Even by reducing time using 2 or more detectors, time is still very long.
+# ''Motion artifacts'' : The patient may remain motionless, but he can certainly not hold his breath for more than 60 s. Thus, scans of liver for instance include motion artifacts since liver moves up and down 2&nbsp;cm during normal breathing.
+
+Because of these defects, the invention of the [[gamma camera]] by Hal Angers in 1956 was indeed a breakthrough.
+
+{{DEFAULTSORT:Rectilinear Scanner}}
+[[Category:2d nuclear medical imaging]]
+[[Category:Radiology]]

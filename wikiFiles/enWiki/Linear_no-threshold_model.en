@@ -1,0 +1,184 @@
+The '''linear no-threshold model''' ('''LNT''') is a model used in [[radiation protection]] to quantify radiation exposition and set regulatory limits. It assumes that the long term, biological damage caused by [[ionizing radiation]] (essentially the cancer risk) is directly proportional to the [[Effective dose (radiation)|dose]]. This allows the summation by [[dosimeter]]s of all radiation exposition, without taking into consideration dose levels or dose rates.<ref>"In the absence of more conclusive data, scientists have assumed that even the smallest radiation exposure carries a risk." [http://www.gao.gov/new.items/rc00152.pdf GAO study]</ref> In other words, radiation is always considered harmful with no safety threshold, and the sum of several very small exposures are considered to have the same effect as one larger exposure (response linearity). 
+
+One of the organizations for establishing recommendations on radiation protection guidelines internationally, the UNSCEAR, has recently recommended policies that do not agree with the Linear No-Threshold model at exposure levels below background levels of radiation to the UN General Assembly from the Fifty-Ninth Session of the Committee. Its recommendation states that "the Scientific Committee does not recommend multiplying very low doses by large numbers of individuals to estimate numbers of radiation-induced health effects within a population exposed to incremental doses at levels equivalent to or lower than natural background levels." This is a reversal from previous recommendations by the same organization.<ref>[http://daccess-dds-ny.un.org/doc/UNDOC/GEN/V12/553/85/PDF/V1255385.pdf?OpenElement] UNSCEAR Fifty-Ninth Session 21–25 May 2012 | Published 14 August 2012</ref>
+
+Whether the model describes the reality for small doses exposures is disputed. It opposes two competing schools of thought: the [[threshold model]], which assumes that very small exposures are harmless, and the [[radiation hormesis]] model, which claims that radiation at very small doses can be beneficial. Because the current data are inconclusive, scientists disagree on which model should be used. Pending any definitive answer to these questions and the [[precautionary principle]], the model is used to quantify the effect of [[collective dose]]s of low-level radioactive contaminations, even though such practice has been condemned by the ICRP<ref>[http://www.icrp.org/publication.asp?id=ICRP%20Publication%20103 ICRP publication 103], §66</ref>
+
+The LNT model is sometimes applied to other cancer hazards such as [[polychlorinated biphenyl]]s in drinking water.<ref>[http://www.epa.gov/safewater/contaminants/dw_contamfs/pcbs.html  ''Consumer Factsheet on: polychlorinated biphenyls'']  US Environment Protection Agency.</ref>
+
+==History==
+The linear-no-threshold model was first expressed by [[John Gofman]], and rejected by the Department of Energy, according to Gofman, because it was "inconvenient".<ref>[http://www.ratical.org/radiation/CNR/synapse.html Gofman on the health effects of radiation: "There is no safe threshold"]. Ratical.org. Retrieved on 5 May 2012.</ref>
+
+The National Academy of Sciences (NAS) Biological Effects of Ionizing Radiation (BEIR) report, NAS BEIR VII was an expert panel who reviewed available peer reviewed literature and writes, "the committee concludes that the preponderance of information indicates that there will be some risk, even at low doses".<ref>[http://www.nap.edu/nap-cgi/report.cgi?record_id=11340&type=pdfxsum NAS BEIR VII Phase 2 Executive Summary] retrieved 8 October 2008</ref>
+
+== Radiation precautions and public policy==
+
+If a particular dose of radiation is found to produce one extra case of a type of cancer in every thousand people exposed, LNT projects that one thousandth of this dose will produce one extra case in every million people so exposed, and that one millionth of this dose will produce one extra case in every billion people exposed. The conclusion is that any given quantity of radiation will produce the same number of cancers, no matter how thinly it is spread. 
+
+The model is simple to apply: a quantity of radiation can be translated into a number of deaths without any adjustment for the distribution of exposure, including the distribution of exposure within a single exposed individual. For example, a [[hot particle]] embedded in an organ (such as lung) results in a very high dose in the cells directly adjacent to the [[hot particle]], but a much lower whole-organ and whole-body dose. Thus, even if a safe low dose threshold was found to exist at cellular level for radiation induced [[mutagenesis]], the threshold would not exist for environmental pollution with hot particles, and could not be safely assumed to exist when the distribution of dose is unknown. 
+
+The linear no-threshold model is used to extrapolate the expected number of extra deaths caused by exposure to [[environmental radiation]], and it therefore has a great impact on [[public policy]]. The model is used to translate any [[radiation release]], like that from a "[[dirty bomb]]", into a number of lives lost, while any reduction in [[Ionizing radiation|radiation exposure]], for example as a consequence of [[radon]] detection, is translated into a number of lives saved. When the doses are very low, at natural background levels, in the absence of evidence, the model predicts via extrapolation, new cancers only in a very small fraction of the population, but for a large population, the number of lives is extrapolated into hundreds or thousands, and this can sway public policy.
+
+A linear model has long been used in [[health physics]] to set maximum acceptable radiation exposures. 
+
+The United States based [[National Council on Radiation Protection and Measurements]] (NCRP), a body commissioned by the [[United States Congress]], recently released a report written by the national experts in the field which states that, radiation's effects should be considered to be proportional to the dose an individual receives, regardless of how small the dose is.
+
+[[Ramsar, Mazandaran|Ramsar]], located in [[Iran]], is often quoted as being a counter example to LNT. Based on preliminary results, it was considered as having the highest natural background radiation levels on Earth, several times higher than the [[ICRP]]-recommended radiation dose limits for radiation workers, whilst the local population did not seem to suffer any ill effects.<ref>[http://www.angelfire.com/mo/radioadaptive/ramsar.html High Background Radiation Areas of Ramsar, Iran], S. M. Javad Mortazavi, Biology Division, Kyoto University of Education, Kyoto 612-8522, Japan. Retrieved 4 September 2011.</ref> Actually, the population of the high-radiation districts is small (about 1800 inhabitants) and only receive an average of 10 [[millisievert]]s per year,<ref>
+{{citation | first=Mehdi | last=Sohrabi | first=Mozhgan | last=Babapouran | title=New public dose assessment from internal and external exposures in low- and elevated-level natural radiation areas of Ramsar, Iran | journal=International Congress Series| volume=1276 | year=2005 | pages=169–174 | url=http://www.sciencedirect.com/science/article/pii/S053151310401742X | doi=10.1016/j.ics.2004.11.102}}
+</ref> so that cancer epidemiology data are too imprecise to draw any conclusions.<ref>
+{{ Citation | first=Alireza | last=Mosavi-Jarrahi | first2=Mohammadali | last2=Mohagheghi | first3=Suminori | last3=Akiba | first4=Bahareh | last4=Yazdizadeh | first5=Nilofar | last5=Motamedid | first6=Ali | last6=Shabestani Monfared | title=Mortality and morbidity from cancer in the population exposed to high level of natural radiation area in Ramsar, Iran | journal=International Congress Series | volume=1276 | year=2005 | pages=106–109 | url=http://www.sciencedirect.com/science/article/pii/S0531513104017492 | doi=10.1016/j.ics.2004.11.109}}
+</ref> On the other hand, there may be non-cancer effects of the background radiation such as 
+chromosomal aberrations<ref>
+{{citation | first=F. | last=Zakeri | first2=M. R. | last2=Rajabpour | first3=S. A. | last3=Haeri | first4=R. | last4=Kanda | first5=I. | last5=Hayata | first6=S. | last6=Nakamura | first7=T. | last7=Sugahara | first8=M. J. | last8=Ahmadpour | title=Chromosome aberrations in peripheral blood lymphocytes of individuals living in high background radiation areas of Ramsar, Iran | journal=Radiation and Environmental Biophysics | year=2011 | volume=50 | issue=4 | pages=571–578 | pmid=21894441}}
+</ref> or female infertility.<ref>
+{{citation | first=Y. | last=Tabarraie |first2=S. | last2=Refahi | first3=M.H. | last3=Dehghan | first4=M. | last4=Mashoufi | title=Impact of High Natural Background Radiation on Woman`s Primary Infertility | journal=Research Journal of Biological Sciences | year=2008 | volume=3 | issue=5 | pages=534–536 | url=http://medwelljournals.com/abstract/?doi=rjbsci.2008.534.536 }}
+</ref>
+
+==Fieldwork==
+The LNT model and the alternatives to it each have plausible mechanisms that could bring them about, but definitive conclusions are hard to make given the difficulty of doing [[Longitudinal study|longitudinal]] studies involving large [[Cohort (statistics)|cohorts]] over long periods.
+
+A 2003 review of the various studies published in the authoritative  ''[[Proceedings of the National Academy of Sciences]]'' concludes that "given our current state of knowledge, the most reasonable assumption is that the cancer risks from low doses of x- or gamma-rays decrease linearly with decreasing dose."<ref>{{cite journal
+  | last =Brenner
+  | first =David J
+  | coauthors =''et al.''
+  | title =Cancer risks attributable to low doses of ionizing radiation: Assessing what we really know
+  | journal =[[Proceedings of the National Academy of Sciences]]
+  | volume =100
+  | issue =24
+  | pages =13761–6
+  | date =10 November 2003
+  | url =http://www.pnas.org/cgi/content/full/100/24/13761
+  | doi =10.1073/pnas.2235592100
+  | id =
+  | accessdate =29 August 2007
+  | pmid =14610281
+  | pmc =283495 }}</ref>
+
+A 2005 study<ref>S.M.J. Mortazavi, M. Ghiassi-Nejad, M. Rezaiean, Cancer risk due to exposure to high levels of natural radon in the inhabitants of Ramsar, Iran, International Congress Series, Volume 1276, February 2005, Pages 436–437, ISSN 0531-5131, 10.1016/j.ics.2004.12.012.
+[http://www.sciencedirect.com/science/article/pii/S0531513104018461]</ref> of [[Ramsar, Iran]] (a region with very high levels of natural background radiation) showed that lung cancer incidence was lower in the high-radiation area than in seven surrounding regions with lower levels of natural background radiation. A fuller epidemiological study<ref>Alireza Mosavi-Jarrahi, Mohammadali Mohagheghi, Suminori Akiba, Bahareh Yazdizadeh, Nilofar Motamedi, Ali Shabestani Monfared, [Mortality and morbidity from cancer in the population exposed to high level of natural radiation area in Ramsar, Iran http://www.sciencedirect.com/science/article/pii/S0531513104017492], International Congress Series, Volume 1276, February 2005, Pages 106–109, ISSN 0531-5131, 10.1016/j.ics.2004.11.109.</ref> of the same region showed no difference in mortality for males, and a statistically insignificant increase for females.
+
+A 2007 study of Swedish children exposed to fallout from [[Chernobyl disaster|Chernobyl]] while they were fetuses between 8 and 25 weeks gestation has found that the reduction in [[Intelligence quotient|IQ]] at very low doses was greater than expected, given a simple LNT model for radiation damage, indicating that the LNT model may be too conservative when it comes to neurological damage.<ref>Douglas Almond, Lena Edlund, Mårten Palme, "Chernobyl's Subclinical Legacy: Prenatal Exposure to Radioactive Fallout and School Outcomes in Sweden" August 2007, NBER working paper 13347, [http://www.nber.org/papers/w13347]</ref> Neurological damage has a different biology than cancer, and for cancer rates there are conflicting studies.
+
+In a 2009 study<ref>{{cite journal
+  | last =Muirhead
+  | first =Colin R
+  | coauthors =''et al.''
+  | title =Mortality and cancer incidence following occupational radiation exposure: third analysis of the National Registry for Radiation Workers
+  | journal =[[British Journal of Cancer]]
+  | volume =100
+  | issue =1
+  | pages =206–212
+  | date =13 January 2009
+  | pmc=2634664
+  | pmid=19127272
+  | doi=10.1038/sj.bjc.6604825
+}}</ref> cancer rates among UK radiation workers were found to increase with higher recorded occupational radiation doses. The doses examined varied between 0 and 500 mSv received over their working lives. These results exclude the possibilities of no increase in risk or that the risk is 2-3 times that for A-bomb survivors with a confidence level of 90%. The cancer risk for these radiation workers was still less than the average for persons in the UK due to the [[healthy worker effect]].
+
+In 2011 an ''in vitro'' time-lapse study of the cellular response to low doses of radiation showed a strongly non-linear response of certain cellular repair mechanisms called radiation-induced foci (RIF). The study found that low doses of radiation prompted higher rates of RIF formation than high doses, and that after low-dose exposure RIF continued to form after the radiation had ended.<ref>{{cite journal
+  | last =Neumaier
+  | first =Teresa
+  | coauthors =''et al.''
+  | title =Evidence for formation of DNA repair centers and dose-response nonlinearity in human cells
+  | journal =[[Proceedings of the National Academy of Sciences]]
+  | volume =108
+  | date =19 December 2011
+  | url =http://www.pnas.org/content/early/2011/12/16/1117849108.full.pdf+html
+  | doi =10.1073/pnas.1117849108
+  | accessdate =20 December 2011}}</ref>
+
+==Controversy==
+
+In recent years the accuracy of the LNT model at low dosage has been questioned and several expert scientific panels have been convened on this topic.
+
+* In 2004 the [[United States National Research Council]] (part of the [[United States National Academy of Sciences|National Academy of Sciences]]) supported the linear no threshold model and stated regarding [[Radiation hormesis]]:<ref>[http://books.nap.edu/catalog/11340.html Health Risks from Exposure to Low Levels of Ionizing Radiation: BEIR VII Phase 2]. Books.nap.edu. Retrieved on 5 May 2012.</ref><ref>[http://hps.org/newsandevents/newsarchive/oldnews497.html Society News Archive: BEIR VII Report Supports LNT Model]. Hps.org. Retrieved on 5 May 2012.</ref><ref>[http://www.nap.edu/openbook.php?record_id=11340&page=335 quoted text available at]. Nap.edu (1 June 2003). Retrieved on 5 May 2012.</ref><blockquote>The assumption that any stimulatory hormetic effects from low doses of ionizing radiation will have a significant health benefit to humans that exceeds potential detrimental effects from the radiation exposure is unwarranted at this time.</blockquote>
+
+* In 2005 the United States National Academies' National Research Council published its comprehensive meta-analysis of low-dose radiation research BEIR VII, Phase 2. In its press release the Academies stated:<ref>[http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=11340 NAS. Low Levels of Ionizing Radiation May Cause Harm. Press Release, June 29, 2005. Retrieved on 17 December 2012]</ref>
+
+<blockquote>"The scientific research base shows that there is no threshold of exposure below which low levels of ionizing radiation can be demonstrated to be harmless or beneficial." </blockquote>
+
+* The [[National Council on Radiation Protection and Measurements]] (a body commissioned by the [[United States Congress]]).<ref>[http://www.ncrppublications.org/index.cfm?fm=Product.AddToCart&pid=6714063164 NCRP report]. Ncrppublications.org. Retrieved on 5 May 2012.</ref> endorsed the LNT model in a 2001 report that attempted to survey existing literature critical of the model.
+
+* The [[United Nations Scientific Committee on the Effects of Atomic Radiation]] (UNSCEAR) wrote in its 2000 report<ref>UNSCEAR 2000 REPORT Vol. II: Sources and Effects of Ionizing Radiation: Annex G: Biological effects at low radiation doses. page 160, paragraph 541. Available online at [http://www.unscear.org/docs/reports/annexg.pdf].</ref><blockquote>Until the [...] uncertainties on low-dose response are resolved, the Committee believes that an increase in the risk of tumour induction proportionate to the radiation dose is consistent with developing knowledge and that it remains, accordingly, the most scientifically defensible approximation of low-dose response. However, a strictly linear dose response should not be expected in all circumstances.</blockquote>
+
+* the [[United States Environmental Protection Agency]] also endorses the LNT model in its 2011 report on radiogenic cancer risk:<ref>{{cite web|author=U.S. Environmental Protection Agency |url=http://www.epa.gov/radiation/docs/assessment/draft-RGCRMPUSPv1.pdf |title=EPA Radiogenic Cancer Risk Models and Projections for the U.S. Population |publisher=EPA |date=April 2011 |accessdate=15 November 2011}}</ref><blockquote>"Underlying the risk models is a large body of epidemiological and radiobiological data. In general, results from both lines of research are consistent with a linear, no-threshold dose (LNT) response model in which the risk of inducing a cancer in an irradiated tissue by low doses of radiation is proportional to the dose to that tissue." </blockquote>
+
+However, other organisations disagree with using the Linear no-threshold model to estimate risk from environmental and occupational low-level radiation exposure. 
+
+The French Academy of Sciences (''Académie des Sciences'') and the National Academy of Medicine (''Académie nationale de Médecine'') published a report in 2005 (at the same time as BEIR VII report in the United States) that rejected the Linear no-threshold model in favor of a threshold dose response and a significantly reduced risk at low radiation exposure:<ref>{{Cite journal
+| author = Heyes ''et al.''
+| title = Authors' reply
+| publisher = The British Medical Journal
+| date = 1 October 2006
+| url = http://bjr.birjournals.org/cgi/content/citation/79/946/855
+| accessdate =27 March 2008
+| doi = 10.1259/bjr/52126615
+| journal = British Journal of Radiology
+| volume = 79
+| issue = 946
+| pages = 855–857
+}}</ref><ref>{{Cite journal
+| author = Aurengo ''et al.''
+| title = Dose-effect relationships and estimation of the carcinogenic effects of low doses of ionizing radiation.
+| publisher = Académie des Sciences & Académie nationale de Médecine
+| date = 30 March 2005
+| url =http://www.radscihealth.org/rsh/Papers/FrenchAcadsFinal07_04_05.pdf
+| accessdate =27 March 2008
+}}</ref>
+
+{{quote|In conclusion, this report raises doubts on the validity of using LNT for evaluating the carcinogenic risk of low doses (< 100 mSv) and even more for very low doses (< 10 mSv). The LNT concept can be a useful pragmatic tool for assessing rules in radioprotection for doses above 10 mSv;  however since it is not based on biological concepts of our current knowledge, it should not be used without precaution for assessing by extrapolation the risks associated with low and even more so, with very low doses (< 10 mSv), especially for benefit-risk assessments imposed on radiologists by the European directive 97-43.}}
+
+The Health Physics Society's position statement first adopted in January 1996, as revised in July 2010, states:<ref>Health Physics Society, 2010. Radiation Risk in Perspective  '''PS010-2''' [http://hps.org/documents/risk_ps010-2.pdf]</ref>
+
+{{quote|In accordance with current knowledge of radiation health risks, the Health Physics Society recommends against quantitative estimation of health risks below an individual dose of 5 rem (50 mSv)  in one year or a lifetime dose of 10 rem (100 mSv) above that received from natural sources. Doses from natural background radiation in the United States average about 0.3 rem (3 mSv) per year. A dose of 5 rem (50 mSv) will be accumulated in the first 17 years of life and about 25 rem (250 mSv) in a lifetime of 80 years. Estimation of health risk associated with radiation doses that are of similar magnitude as those received from natural sources should be strictly qualitative and encompass a range of hypothetical health outcomes, including the possibility of no adverse health effects at such low levels.}}
+
+The [[American Nuclear Society]] recommended further research on the Linear No Threshold Hypothesis before making adjustments to current radiation protection guidelines, concurring with the Health Physics Society's position that:<ref>The American Nuclear Society, 2001. Health Effects of Low-Level Radiation. Position Statement '''41''' [http://www.ans.org/pi/ps/docs/ps41.pdf]</ref>   {{quote|There is substantial and convincing scientific evidence for health risks at high dose. Below 10 rem or 100 mSv (which includes occupational and environmental exposures) risks of health effects are either too small to be observed or are non-existent.}}
+
+Historical documents suggest that an early study invalidating the LNT model was intentionally ignored by [[Hermann Joseph Muller]] when he gave his 1946 Nobel Prize address.<ref>{{Cite journal
+| author = Calabrese, E. J.
+| title = Muller’s Nobel lecture on dose–response for ionizing radiation:ideology or science?
+| publisher = Springer
+| date = 30 June 2011
+| url =http://junksciencecom.files.wordpress.com/2011/09/calabrese-muller-1.pdf
+| accessdate =30 December 2011
+| doi = 10.1007/s00204-011-0728-8
+| journal = Archives of Toxicology
+| volume = 81
+| issue = 4
+| pages = 1495–1498
+}}</ref>  
+
+Recent fundamental research of the cellular repair mechanisms support the evidence against the linear no-threshold model.<ref>{{cite journal|last=Neumaier|first=T.|coauthors=Swenson, J., Pham, C., Polyzos, A., Lo, A. T., Yang, P., Dyball, J., Asaithamby, A., Chen, D. J., Bissell, M. J., Thalhammer, S., Costes, S. V.|title=Evidence for formation of DNA repair centers and dose-response nonlinearity in human cells|journal=Proceedings of the National Academy of Sciences|date=19 December 2011|doi=10.1073/pnas.1117849108}}</ref>  According to its authors, this 2011 study published in the Proceedings of the National Academy of Sciences of the United States "casts considerable doubt on the general assumption that risk to ionizing radiation is proportional to dose".
+
+== See also ==
+* [[Nuclear power]]
+* [[Nuclear power debate#Health effects on population near nuclear power plants and workers]]
+* [[Radiation hormesis]]
+* [[Radiology]]
+* [[Radiotherapy]]
+
+== References ==
+{{reflist|colwidth=30em}}
+
+== External links ==
+*[http://www.icrp.org ICRP, International Commission on Radiation Protection]
+*[http://www.icru.org ICRU, International Commission on Radiation Units]
+*[http://www.iaea.org IAEA, International Atomic Agency Enegy Agency]
+*[http://www.unscear.org UNSCEAR, United Nations Scientific Committee on the effects of Ionizing Radiations]
+*[http://www.iarc.fr IARC, International Agency for Research on Cancer]
+*[http://www.hpa.org.uk HPA (ex NCRP), Health Protection Agency, UK]
+*[http://www.irpa.net IRPA, International Radiation Protection Association]
+*[http://www.ncrponline.org NCRP, National Council on Radiation Protection and Measurements, USA]
+*[http://www.irsn.org IRSN, Institute for Radioprotection and Nuclear Safety, France]
+* [http://www.euradcom.org/2003/execsumm.htm Report from the European Committee on Radiation Risk broadly supporting the Linear No Threshold model ]
+* [http://euradcom.org/publications/chernobyleflyer.pdf ECRR report on Chernobyl (April 2006) claiming deliberate suppression of the LNT in public health studies]
+* [http://news.bbc.co.uk/1/hi/sci/tech/5173310.stm BBC article discussing doubts over LNT]
+* [http://www.physics.ox.ac.uk/nuclearsafety/colloquium%20website.htm ''How dangerous is ionising radiation?''] Reprinted "Powerpoint" notes from a colloquium at the Physics Department, Oxford University, 24 November 2006
+* [http://www.dose-response.org/ International Dose-Response Society – dedicated to the enhancement, exchange, and dissemination of ongoing global research in hormesis, a dose-response phenomenon characterized by low-dose stimulation and high-dose inhibition.]
+
+{{Use dmy dates|date=May 2012}}
+
+{{DEFAULTSORT:Linear No-Threshold Model}}
+[[Category:Radiation health effects]]
+[[Category:Radiobiology]]
+[[Category:Nuclear medicine]]
+[[Category:Oncology]]

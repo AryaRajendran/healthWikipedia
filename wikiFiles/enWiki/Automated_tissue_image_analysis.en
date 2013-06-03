@@ -1,0 +1,116 @@
+[[Image:Microscope with stained slide.jpg|thumb|A stained histologic specimen, sandwiched between a glass [[microscope slide]] and coverslip, mounted on the stage of a light microscope.]]
+[[Image:Emphysema H and E.jpg|thumb|Microscopic view of a histologic specimen of human [[lung]] tissue stained with [[hematoxylin]] and [[eosin]].]]
+'''Automated tissue image analysis''' is a process by which computer-controlled [[automatic test equipment]] to evaluate [[tissue (biology)|tissue]] samples, using computations to derive quantitative measurements from an image to avoid subjective errors.
+
+In a typical application, automated tissue image analysis could be used to measure the aggregate activity of [[cancer cell]]s in a [[biopsy]] of a [[cancer]]ous [[tumor]] taken from a patient.  In [[breast cancer]] patients, for example, automated tissue image analysis may be used to test for high levels of [[proteins]] known to be present in more aggressive forms of breast cancers.
+
+==Applications==
+Automated tissue imaging analysis can significantly reduce uncertainty in characterizing [[tumors]] compared to evaluations done by [[histologist]]s,<ref name="O'Gorman_1985">
+{{cite journal
+|title=A System for Automated Liver Tissue Image Analysis: Methods and Results
+|author=O'Gorman, Lawrence; Sanderson, Arthur C.; Preston, Kendall
+|journal=IEEE Transactions on Biomedical Engineering
+|date=1985-09
+|volume=BME-32
+|issue=9
+|pages=696–706
+|issn=0018-9294
+|doi=10.1109/TBME.1985.325587 
+|url=http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4122137
+}}</ref>  or improve the prediction rate of recurrence of some cancers.<ref name="Teverovskiy_2004">
+{{cite journal
+|title=Improved prediction of prostate cancer recurrence based on an automated tissue image analysis system
+|author=Teverovskiy, M.;   Kumar, V.;   Junshui Ma;   Kotsianti, A.;   Verbel, D.;   Tabesh, A.;   Ho-Yuen Pang;   Vengrenyuk, Y.;   Fogarasi, S.;   Saidi, O.;  
+Aureon Biosciences Corp., Yonkers, NY, USA 
+|journal=Biomedical Imaging: Nano to Macro, 2004. IEEE International Symposium
+|date=2004-04-18
+|pages=257–260 
+|volume=1
+|isbn=0-7803-8388-5
+|doi=10.1109/ISBI.2004.1398523 
+|issn=2004.1398523 
+|id={{citeseerx|10.1.1.58.9929}}
+}}</ref><ref>
+{{cite journal
+|journal=IEEE Transactions on Medical Imaging
+|volume=26
+|issue=10
+|date=2007-10
+|doi=10.1109/TMI.2007.898536
+|pmid=17948727  
+|issn=0278-0062 
+|pages=1366–1378 
+|title=Multifeature Prostate Cancer Diagnosis and Gleason Grading of Histological Images
+|author=Ali Tabesh, Mikhail Teverovskiy, Ho-Yuen Pang, Vinay P. Kumar, David Verbel, Angeliki Kotsianti, and Olivier Saidi
+|url=http://claymore.rfmh.org/~atabesh/papers/tabesh_tmi07_final.pdf
+}}</ref> As it is a digital system, suitable for networking, it also facilitates cooperative efforts between distant sites.<ref>
+{{cite journal
+|journal=Toxicologic Pathology
+|title=Digital Microscopy Imaging and New Approaches in Toxicologic Pathology
+|author=Bruce Mccullough, Xiaoyou Ying, Thomas Monticello and Marc Bonnefoi
+|year=2004 
+|volume=32
+|issue=2
+|pages=49–58 
+|doi=10.1080/01926230490451734
+|url=http://tpx.sagepub.com/content/32/2_suppl/49
+}}</ref> Systems for automatically analyzing tissue samples also reduce costs and save time.<ref name="O'Gorman_1985"/>
+
+High-performance [[Charge-coupled device|CCD cameras]] are used for acquiring the digital images. Coupled with advanced [[fluorescence microscope|widefield microscope]]s and various [[algorithms]] for [[Deconvolution#Optics and other imaging|image restoration]], this approach can provide better results than [[confocal microscope|confocal techniques]] at comparable speeds and lower costs.<ref name="Phukpattaranont_2007">
+{{cite journal
+|journal=IFMBE Proceedings
+|year=2007
+|volume=15
+|pages=241–244
+|doi=10.1007/978-3-540-68017-8_63
+|title=An Automatic Cell Counting Method for a Microscopic Tissue Image from Breast Cancer
+|author=Pornchai Phukpattaranont and Pleumjit Boonyaphiphat
+|url=http://www.springerlink.com/content/v46774v3124w764r/}}</ref>
+
+==Processes==
+The [[United States of America|United States]] [[Food and Drug Administration]] classifies these systems as [[medical device]]s, under the general instrumentation category of [[automatic test equipment]].<ref>{{cite web|url=http://books.google.com/books?id=nEHLxh9wxZIC&pg=PA80&lpg=PA80&dq=%22FDA+automatic+test+equipment%22&source=bl&ots=nO34ROCJsK&sig=NZiXuURP1oUelJRfQ_JeO4eGzNg&hl=en&ei=UXRhSuf5IYiosgPD6Pxm&sa=X&oi=book_result&ct=result&resnum=1 |title=Testing Computer Systems for FDA/MHRA Compliance - David Stokes - Google Books |publisher=Books.google.com |date= |accessdate=2012-07-12}}</ref>
+
+ATIS have seven basic processes (sample preparation, image acquisition, image analysis, results reporting, data storage, network communication, and self-system diagnostics) and realization of these functions highly accurate hardware and well-integrated, complex, and expensive software.<ref>{{cite web|url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TF4-4J3NYCV-2&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&_docanchor=&view=c&_searchStrId=960952697&_rerunOrigin=google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=b3f5dd0c610bf2586d1b0d99d784dff3 |title=Analytica Chimica Acta - Advances in cancer tissue microarray technology: Towards improved understanding and diagnostics |publisher=ScienceDirect.com |date= |accessdate=2012-07-12}}</ref>
+
+===Preparation===
+Specimen preparation is critical for evaluating the tumor in the automated system.  In the first part of the preparation process the biopsied tissue is cut to an appropriate size (typically 4&nbsp;mm), fixed in buffered [[formalin]], dehydrated in ethanol-[[xylene]], embedded in [[Paraffin wax|paraffin]], [[thin section]]ed typically to 4&nbsp;um slices, then moutned onto at least two [[barcode]]d slides (a [[scientific control|control]] and a test). Next the paraffin is removed from the tissue, the tissue is rehydrated, then [[staining|stained]].  Any inconsistency in these procedures from case to case may result in uncertainties in the outcome of the analysis. These potential and irreducible inconsistencies in analysis results motivated the development of Automated Tissue Image Systems.
+
+===Acquisition===
+Digital micrographs are acquired of the stained specimen on the glass slide. The images are taken by a set of [[charge-coupled devices]] (CCD).<ref>{{cite journal
+|title=A CCD-based tissue imaging system
+|author=MacDonald, J. H.; Wells, K.; Reader, A. J.; Ott, R. J.
+|publisher=Nuclear Instruments and Methods in Physics Research
+|volume=392
+|issue=1-3
+|pages=220–226.
+|journal=Nuclear Instruments and Methods in Physics Research Section A:  Accelerators, Spectrometers, Detectors and Associated Equipment
+|date=02/1997
+|doi=10.1016/S0168-9002(97)00297-0
+|bibcode=1997NIMPA.392..220M
+}}</ref>
+
+===Analysis===
+
+Image analysis involves complex computer algorithms which identify and characterize cellular color, shape, and quantity of the tissue sample using image pattern recognition technology based on [[vector quantization]]. Vector representations of objects in the image, as opposed to bitmap representations, have superior zoom-in ability. Once the sample image has been acquired and resident in the computer's random access memory as a large array of 0's and 1's, a programmer knowledgeable in cellular architecture can develop deterministic [[algorithms]] applied to the entire memory space to detect cell patterns from previously defined cellular structures and formations known to be significant <ref name="han12cell">{{cite journal| author=Han, J.W., Breckon, T.P., Randell, D.A., Landini, G.| title=The Application of Support Vector Machine Classification to Detect Cell Nuclei for Automated Microscopy| journal=Machine Vision and Applications| year=2012| volume=23| number=1| pages=15-24| publisher=Springer| doi=10.1007/s00138-010-0275-y| url=http://www.cranfield.ac.uk/~toby.breckon/publications/papers/han12cell.pdf| accessdate=8 April, 2013}}</ref>.
+
+The aggregate algorithm outcome is a set of measurements that is far superior to any human sensitivity to intensity or [[luminance]] and color hue, while at the same time improving test consistency from eyeball to eyeball.{{Citation needed|date=August 2010}}
+
+===Reporting===
+The systems have the capability of presenting the resulting data in text and graphically, including on high definition monitors, to the system user.  [[Computer printers]], as relatively low image resolution devices, are used mostly to present final [[pathology]] reports that could include text and graphics.{{Citation needed|date=August 2010}}
+
+===Storage===
+
+Storage of the acquired data (graphical digital slide files and text data) involves saving system information in a [[data storage device]] system having at least convenient retrieval, and file management capabilities.{{Citation needed|date=August 2010}}
+
+Medical imaging industry standards includes the Picture Archiving and Communication Systems ([[PACS]]), of European origin, which are image and information management solutions in computer networks that allow hospitals and clinics to acquire, distribute and archive medical images and diagnostic reports across the enterprise. Another standard of European origin is the Data and Picture Archiving and Communication System (DPACS). Although medical images can be stored in various formats, a common format has been Digital Imaging and Communications in Medicine ([[DICOM]]).{{Citation needed|date=August 2010}}
+
+== See also ==
+* [[Histopathology]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Automated Tissue Image Systems}}
+[[Category:Oncology]]
+[[Category:Histology]]
+[[Category:Medical equipment]]

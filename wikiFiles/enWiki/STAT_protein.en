@@ -1,0 +1,108 @@
+{{Refimprove|date=August 2010}}
+[[Image:Stat domain structure.png|thumb|350px|right|Domains and covalent modification sites of STAT proteins.]]
+{{Pfam_box
+| Symbol = STAT_alpha
+| Name = STAT protein, all-alpha domain
+| image =
+| width =
+| caption =
+| Pfam= PF01017
+| InterPro= IPR013800
+| SMART=
+| Prosite =
+| SCOP = 1bgf
+| TCDB =
+| OPM family=
+| OPM protein= 1bg1
+| PDB= {{PDB3|1yvl}}A:136-315, {{PDB3|1bf5}}A:136-315, {{PDB3|1bg1}}A:138-319, {{PDB3|1y1u}}A:138-330
+}}
+{{Pfam_box
+| Symbol = STAT_bind
+| Name = STAT protein, DNA binding domain
+| image =
+| width =
+| caption =
+| Pfam= PF02864
+| InterPro= IPR013801
+| SMART=
+| Prosite =
+| SCOP = 1bgf
+| TCDB =
+| OPM family=
+| OPM protein= 1bg1
+| PDB={{PDB3|1yvl}}A:317-567, {{PDB3|1bf5}}A:317-567, {{PDB3|1bg1}}A:321-574, {{PDB3|1y1u}}A:332-583
+}}
+
+{{Pfam_box
+| Symbol = STAT_int
+| Name = STAT protein, protein interaction domain
+| image =
+| width =
+| caption =
+| Pfam= PF02865
+| InterPro= IPR013799
+| SMART=
+| Prosite =
+| SCOP = 1bgf
+| TCDB =
+| OPM family=
+| OPM protein=
+| PDB={{PDB3|1yvl}}A:2-122, {{PDB3|1bgf}}A:2-122
+}}
+{{Infobox protein family
+| Symbol = Dict-STAT-coil
+| Name = Dictyostelium STAT, coiled coil
+| image = PDB 1uur EBI.jpg
+| width = 
+| caption = structure of an activated dictyostelium stat in its DNA-unbound form
+| Pfam = PF09267
+| Pfam_clan =  
+| InterPro = IPR015347
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 1uur
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+The '''STAT protein''' ('''Signal Transducer and Activator of Transcription''', or '''Signal Transduction And transcription''') regulates many aspects of growth, survival and [[differentiation (cellular)|differentiation]] in cells. The [[transcription factor]]s of this family are activated by [[Janus kinase]] (or 'Just Another Kinase', JAK) and dysregulation of this pathway is frequently observed in primary tumours and leads to increased [[angiogenesis]], enhanced survival of [[tumour]]s and [[immunosuppression]]. [[Gene knockout]] studies have provided evidence that STAT proteins are involved in the development and function of the [[immune system]] and play a role in maintaining [[immune tolerance]] and tumour surveillance.
+
+==STAT family==
+The first two STAT proteins were identified in the interferon system. There are seven mammalian STAT family members which have been identified: [[STAT1]], [[STAT2]], [[STAT3]], [[STAT4]], [[STAT5]] ([[STAT5A]] and [[STAT5B]]), and [[STAT6]].  
+STAT1 homodimers are involved in type II interferon signalling, and bind to the '''GAS''' (Interferon-'''G'''amma '''A'''ctivated '''S'''equence) promoter to induce expression of '''ISG''' ('''I'''nterferon '''S'''timulated '''G'''enes).  In type I interferon signaling, STAT1-STAT2 heterodimer combines with '''IRF'''9 ('''I'''nterferon '''R'''esponse '''F'''actor) to form '''ISGF'''3 ('''I'''nterferon '''S'''timulated '''G'''ene '''F'''actor), which binds to the '''ISRE''' ('''I'''nterferon Stimulated Response Element) promoter to induce ISG expression.
+
+==Function==
+STAT proteins were originally described as latent [[cytoplasmic]] transcription factors that require [[phosphorylation]] for nuclear retention. The unphosphorylated STAT proteins shuttles between cytosol and the nucleus waiting for its activation signal. Once the activated transcription factors reaches the nucleus it binds to consensus DNA-recognition motif called gamma activated sites (GAS) in the [[promotor (biology)|promoter]] region of [[cytokine]] [[inducible gene]]s and activates transcription of these genes.
+
+==Activation==
+Extracellular binding of [[cytokine]]s induces activation of the intracellular [[Janus kinase]] that phosphorylates a specific tyrosine residue in the STAT protein which promotes the [[protein dimer|dimerization]] of STAT monomers via their [[SH2 domain]]. The phosphorylated dimer is then actively transported in the nucleus via [[importin|importin a/b]] and RanGDP  complex. Once inside the nucleus the active STAT dimer binds to cytokine inducible promoter regions of genes containing gamma activated site (GAS) motif and activate [[Transcription (genetics)|transcription]] of these genes. The STAT protein can be dephosphorylated by nuclear [[phosphatases]] which leads to inactivation of STAT and the transcription factor becomes transported out of the nucleus by [[exportin]] crm1/RanGTP.
+
+==See also==
+*[[JAK-STAT pathway]]
+*[[DNA-binding protein]]
+
+==Additional images==
+<gallery>
+ Image:Jakstat pathway.svg|Key steps of the [[JAK-STAT pathway]]
+ Image:PDB 1bgf EBI.jpg|Structure of the amino-terminal protein interaction domain of STAT-4.<ref name="pmid9461439">{{cite journal |author=Vinkemeier U, Moarefi I, Darnell JE, Kuriyan J |title=Structure of the amino-terminal protein interaction domain of STAT-4 |journal=Science |volume=279 |issue=5353 |pages=1048–52 |year=1998 |month=February |pmid=9461439 |doi= 10.1126/science.279.5353.1048|url=}}</ref>
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MeshName|STAT+Transcription+Factors}}
+* [http://www.sdbonline.org/fly/gene/marelle.htm ''Drosophila'' ''Signal-transducer and activator of transcription protein at 92E'' - The Interactive Fly]
+
+{{Transcription factors|g4}}
+{{JAK-STAT signaling pathway}}
+
+{{DEFAULTSORT:Stat Protein}}
+[[Category:Gene expression]]
+[[Category:Immune system]]
+[[Category:Proteins]]
+[[Category:Transcription factors]]
+[[Category:Signal transduction]]

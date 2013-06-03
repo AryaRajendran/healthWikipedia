@@ -1,0 +1,241 @@
+{{Infobox disease
+ | Name           = Paraneoplastic syndrome
+ | Image          =
+ | Caption        = 
+ | DiseasesDB     = 2064
+ | ICD10          = 
+ | ICD9           = 
+ | ICDO           = 
+ | OMIM           = 
+ | MedlinePlus    = 
+ | eMedicineSubj  = med
+ | eMedicineTopic = 1747
+ | MeshID         = D010257
+}}
+
+A '''paraneoplastic syndrome''' is a [[disease]] or [[symptom]] that is the consequence of the presence of [[cancer]] in the body, but is not due to the local presence of cancer cells.<ref>[http://books.google.com/books?id=TGFmbuOFot0C&dq=darnell+posner&source=gbs_navlinks_s Paraneoplastic Syndromes, 2011, Darnell & Posner]</ref> These phenomena are mediated by [[humoral]] factors (by [[hormone]]s or [[cytokine]]s) excreted by tumor cells or by an [[immune response]] against the [[tumor]]. Paraneoplastic syndromes are typical among middle aged to older patients, and they most commonly present with cancers of the [[lung cancer|lung]], [[breast cancer|breast]], [[ovarian cancer|ovaries]] or lymphatic system (a [[lymphoma]]).<ref>[http://www.ninds.nih.gov/disorders/paraneoplastic/paraneoplastic.htm NINDS Paraneoplastic Syndromes Information Page] National Institute of Neurological Disorders and Stroke</ref> Sometimes the symptoms of paraneoplastic syndromes show before the diagnosis of a [[Malignant|malignancy]], which has been hypothesized to relate to the disease pathogenesis.  In this paradigm, tumor cells express tissue-restricted antigens (such as neuronal proteins), triggering an anti-tumor immune response which may be partially or, rarely, completely effective<ref>{{cite |journal=Lancet |author=Darnell,R.B., DeAngelis,L.M. |title=Regression of small-cell lung carcinoma in patients with paraneoplastic neuronal antibodies |volume=341|issue=8836 |pages=21–22 |year=1993 |pmid= 8093269}}</ref> in suppressing tumor growth and symptoms.<ref>{{cite |journal=Current Opinions in Immunology |author=Roberts,W.K., Darnell,R.B. |title=Neuroimmunology of the paraneoplastic neurological degenerations |volume=16|issue=5 |pages=616–622 |year=2004 |pmid= 15342008 |doi=10.1016/j.coi.2004.07.009}}</ref><ref>{{cite |journal=Nature Reviews Cancer |author=Albert,M.A., Darnell,R.B. |title=Paraneoplastic neurological degenerations: keys to tumour immunity |volume=4|issue=1 |pages=36–44 |year=2004 |pmid= 14708025}}</ref>  Patients then come to clinical attention when this tumor immune response breaks [[immune tolerance]] and begins to attack the normal tissue expressing that (e.g. neuronal) protein.
+
+==Classification==
+Paraneoplastic syndromes can be divided into four main categories: Endocrine, neurological, mucocutaneous and hematological paraneoplastic syndromes, as well as others that may not fit into any of the above categories:
+
+{|class="wikitable"
+! Syndrome class !! Syndrome !! Main causal cancers !! Causal mechanism
+|-
+!rowspan=8| Endocrine<ref>{{MeshName|Paraneoplastic+endocrine+syndromes}}</ref>
+|-
+! [[Cushing syndrome]] 
+|
+* [[Small cell carcinoma|small-cell lung cancer]]<ref name=Kumar6-5> Table 6-5 in: {{cite book |author=Mitchell, Richard Sheppard; Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson |title=Robbins Basic Pathology|publisher=Saunders |location=Philadelphia |year= 2007|pages= |isbn=1-4160-2973-7 |oclc= |doi=}} 8th edition.</ref>
+* [[Pancreatic carcinoma]]<ref name=Kumar6-5/>
+* [[Neural tumors]]<ref name=Kumar6-5/>
+* [[Thymoma]]
+| Ectopic [[ACTH]] and ACTH-like substance
+|-
+! [[Syndrome of inappropriate antidiuretic hormone|SIADH]]
+|
+* [[Small cell carcinoma|small-cell lung cancer]]<ref name=Kumar6-5/>
+* CNS malignancies<ref name=Kumar6-5/>
+| [[antidiuretic hormone]]<ref name=Kumar6-5/>
+|-
+! [[Hypercalcemia]]
+| 
+* [[Lung cancer]] (typically squamous cell)<ref name=Kumar6-5/>
+* [[Breast carcinoma]]<ref name=Kumar6-5/>
+* [[Renal carcinoma]]<ref name=Kumar6-5/>
+* [[Multiple myeloma]] (may occur independent of osteolytic lesions)
+* [[Adult T cell leukemia/lymphoma]]<ref name=Kumar6-5/>
+* [[Ovarian carcinoma]]<ref name=Kumar6-5/>
+| [[Parathyroid hormone-related protein|PTHrP]] (Parathyroid hormone-related protein), [[TGF alpha|TGF-α]], [[Tumor necrosis factor|TNF]], [[Interleukin 1|IL-1]]<ref name=Kumar6-5/>
+|-
+! [[Hypoglycemia]]
+|
+* [[Fibrosarcoma]]<ref name=Kumar6-5/>
+* Other [[mesenchymal sarcoma]]s<ref name=Kumar6-5/>
+* [[Insulinoma]]
+* [[Hepatocellular carcinoma]]<ref name=Kumar6-5/>
+| [[Insulin]] or [[insulin-like substance]]<ref name=Kumar6-5/> or [["big" IGF-II]]
+|-
+! [[Carcinoid syndrome]]
+|
+* [[Bronchial adenoma]] ([[carcinoid]] type)<ref name=Kumar6-5/>
+* [[Pancreatic carcinoma]]<ref name=Kumar6-5/>
+* [[Gastric carcinoma]]<ref name=Kumar6-5/>
+| [[Serotonin]], [[bradykinin]]<ref name=Kumar6-5/>
+|-
+! [[Polycythemia]]
+|
+| See hematological paraneoplastic syndromes
+|-
+! [[Hyperaldosteronism]]
+|
+* [[Adrenal adenoma]] / [[Conn's syndrome]]
+* [[Non-Hodgkin's lymphoma]]
+* [[ovarian carcinoma]]
+* pulmonary
+| [[Aldosterone]]<ref>Mulatero P, Rabbia F, Veglio F. [http://www.nejm.org/doi/full/10.1056/NEJM200105173442017 "Paraneoplastic hyperaldosteronism associated with non-Hodgkin's lymphoma."], ''[[New England Journal of Medicine]]''. 2001 May 17;344(20):1558-9.
+ Retrieved on 29 August 2012.</ref>
+|-
+!rowspan=8| Neurological<ref>{{MeshName|Nervous+system+paraneoplastic+syndromes}}</ref>
+! [[Lambert-Eaton myasthenic syndrome]] (LEMS) 
+| 
+* [[Small-cell lung cancer]]
+| Immunologic
+|-
+! [[Paraneoplastic cerebellar degeneration]] 
+| 
+* lung
+* [[ovarian cancer]]
+* [[breast carcinoma]]
+|
+|-
+! [[Encephalomyelitis]] 
+|
+|inflammation of the brain and spinal cord
+|-
+! [[Limbic encephalitis]]
+|
+* [[small-cell lung carcinoma]]
+|
+|-
+!  Brainstem encephalitis
+|
+|
+|-
+! Paraneoplastic [[Opsoclonus]] (involving eye movement)-Myoclonus
+|
+* breast carcinoma
+* ovarian carcinoma
+* small-cell lung carcinoma
+* [[neuroblastoma]] (in children)
+| Autoimmune reaction against the RNA-binding protein [[Nova-1]]<ref>{{cite journal  | author=Buckanovich RJ, Posner JB, Darnell RB |title=Nova, the paraneoplastic Ri antigen, is homologous to an RNA-binding protein and is specifically expressed in the developing motor system |journal=Neuron |volume=11 |issue= 4 |pages= 657–72 |year= 1993 |pmid= 8398153 |doi=10.1016/0896-6273(93)90077-5  }}</ref>
+|-
+! [[Anti-NMDA receptor encephalitis]]
+| 
+* [[Teratoma]]<ref name="pmid17262855">{{cite journal |author=Dalmau J |title=Paraneoplastic Anti–N-methyl-D-aspartate Receptor Encephalitis Associated with Ovarian Teratoma |journal=Ann. Neurol. |volume=61 |issue=1 |pages=25–36 |year=2007 |month=January |pmid=17262855 |pmc=2430743 |doi=10.1002/ana.21050 |url= |author-separator=, |author2=Tüzün E |author3=Wu HY |display-authors=3 |last4=Masjuan |first4=Jaime |last5=Rossi |first5=Jeffrey E. |last6=Voloschin |first6=Alfredo |last7=Baehring |first7=Joachim M. |last8=Shimazaki |first8=Haruo |last9=Koide |first9=Reiji}}</ref>
+|Autoimmune reaction against [[NMDA-receptor]] subunits
+|-
+! [[Polymyositis]]
+|
+*[[Non-Hodgkin lymphoma]] 
+*lung cancers 
+*bladder cancers
+|
+|-
+!rowspan=8| Mucocutaneous<ref name="pmid9208889">{{cite journal |author=Cohen PR, Kurzrock R |title=Mucocutaneous paraneoplastic syndromes |journal=Semin. Oncol. |volume=24 |issue=3 |pages=334–59 |year=1997 |pmid=9208889 |doi=}}</ref>
+! [[Acanthosis nigricans]]
+|
+* [[Gastric carcinoma]]<ref name=Kumar6-5/>
+* [[Lung carcinoma]]<ref name=Kumar6-5/>
+* [[Uterine carcinoma]]<ref name=Kumar6-5/>
+| 
+*Immunologic<ref name=Kumar6-5/>
+*Secretion of [[epidermal growth factor|EGF]]
+|-
+! [[Dermatomyositis]] 
+|
+* [[Bronchogenic carcinoma]]<ref name=Kumar6-5/>
+* [[Breast carcinoma]]<ref name=Kumar6-5/>
+*ovarian cancer
+*pancreatic cancer
+*stomach cancer
+*colorectal cancer
+*Non-hodgkin's lymphoma <ref name="Catherine L Hill">{{cite journal|title=Frequency of specific cancer types in dermatomyositis and polymyositis: a population-based study|doi=10.1016/S0140-6736(00)03540-6|url=http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)03540-6/abstract|year=2001|last1=Hill|first1=Catherine L|last2=Zhang|first2=Yuqing|last3=Sigurgeirsson|first3=Bardur|last4=Pukkala|first4=Eero|last5=Mellemkjaer|first5=Lene|last6=Airio|first6=Antti|last7=Evans|first7=Stephen R|last8=Felson|first8=David T|journal=The Lancet|volume=357|issue=9250|pages=96}}</ref> 
+| Immunologic<ref name=Kumar6-5/>
+|-
+! [[Leser-Trelat sign|Leser-Trélat sign]]
+|
+|
+|-
+! [[Necrolytic migratory erythema]]
+| [[Glucagonoma]]
+|
+|-
+! [[Sweet's syndrome]]
+|
+|
+|-
+! [[Florid cutaneous papillomatosis]]
+|
+|
+|-
+! [[Pyoderma gangrenosum]]
+|
+|
+|-
+! [[Acquired generalized hypertrichosis]]
+|
+|
+|-
+!rowspan=5| Hematological<ref name="pmid9208888">{{cite journal |author=Staszewski H |title=Hematological paraneoplastic syndromes |journal=Semin. Oncol. |volume=24 |issue=3 |pages=329–33 |year=1997 |pmid=9208888 |doi=}}</ref>
+! [[Granulocytosis]] 
+|
+| [[Granulocyte colony-stimulating factor|G-CSF]]
+|-
+! [[Polycythemia]]
+|
+* [[Renal carcinoma]]<ref name=Kumar6-5/>
+* [[Cerebellar hemangioma]]<ref name=Kumar6-5/>
+* [[Hepatocellular carcinoma]]<ref name=Kumar6-5/>
+| [[Erythropoietin]]<ref name=Kumar6-5/>
+|-
+! [[Trousseau sign of malignancy|Trousseau sign]]
+|
+* [[Pancreatic carcinoma]]<ref name=Kumar6-5/>
+* [[Bronchogenic carcinoma]]<ref name=Kumar6-5/>
+| [[Mucins]] that activate clotting,<ref name=Kumar6-5/> others 
+|-
+! [[Nonbacterial thrombotic endocarditis]]
+|
+* Advanced cancers<ref name=Kumar6-5/>
+| [[Hypercoagulability]]<ref name=Kumar6-5/>
+|-
+! [[Anemia]]
+|
+* [[Thymic neoplasm]]s<ref name=Kumar6-5/>
+| Unknown<ref name=Kumar6-5/>
+|-
+!rowspan=4| Others
+! [[Membranous glomerulonephritis]]
+| 
+*Various<ref name=Kumar6-5/>
+| 
+* [[Tumor antigen]]s<ref name=Kumar6-5/>
+* [[Immune complexes]]<ref name=Kumar6-5/>
+|-
+! [[Tumor-induced osteomalacia]]
+|
+*[[Hemangiopericytoma]]
+*[[Phosphaturic mesenchymal tumor]]<ref name="TIO">{{cite journal |author= Zadik Y, Nitzan DW |title=Tumor induced osteomalacia: A forgotten paraneoplastic syndrome? |journal=Oral Oncol |volume= 48|issue= 2|pages= e9–10|year=2011 |month=October |pmid=21985764 |doi=10.1016/j.oraloncology.2011.09.011 }}</ref>
+|
+*FGF-23 ([[Fibroblast growth factor]]-23)
+|-
+! [[Stauffer syndrome]]
+|
+*[[renal cell carcinoma]]
+|
+|-
+! [[Neoplastic fever]] <ref>Zell JA, Chang JC. Neoplastic fever: a neglected paraneoplastic syndrome. [http://www.ncbi.nlm.nih.gov/pubmed/15864658 PMID 15864658]</ref>
+|
+|
+|}
+
+==Neurological==
+A particularly devastating form of paraneoplastic syndromes is a group of disorders classified as [[paraneoplastic neurological disorder]]s (PNDs).<ref>{{cite journal |author=Rees JH |title=PARANEOPLASTIC SYNDROMES: WHEN TO SUSPECT, HOW TO CONFIRM, AND HOW TO MANAGE |journal=J. Neurol. Neurosurg. Psychiatr. |volume=75 Suppl 2 |issue= Suppl 2|pages=ii43–50 |year=2004 |pmid=15146039 |doi=10.1136/jnnp.2004.040378 |pmc=1765657}}</ref> These paraneoplastic disorders affect the central or peripheral nervous system; some are degenerative,<ref>{{cite journal |author=Darnell RB, Posner JB |title=Paraneoplastic syndromes affecting the nervous system |journal=Semin Oncol |volume=33 |issue=3 |pages=270–98 |year=2006 |pmid= 16769417 |doi=10.1053/j.seminoncol.2006.03.008}}</ref> though others (such as [[Lambert-Eaton myasthenic syndrome|LEMS]]) may improve with treatment of the condition or the tumour. Symptoms of paraneoplastic neurological disorders may include [[ataxia]] (difficulty with walking and balance), [[dizziness]], [[pathologic nystagmus|nystagmus]] (rapid uncontrolled eye movements), difficulty swallowing, loss of [[muscle tone]], loss of fine [[motor coordination]], slurred speech, memory loss, vision problems, sleep disturbances, [[dementia]], [[seizure]]s, sensory loss in the limbs. 
+
+The most common cancers associated with paraneoplastic neurological disorders are [[breast cancer|breast]], [[ovarian cancer|ovarian]] and [[lung cancer]], but many other cancers can produce paraneoplastic symptoms as well.
+
+Treatment options include:
+# Therapies to eliminate the underlying cancer such as chemotherapy, radiation and surgery, and
+# Therapies to reduce or slow neurological degeneration. Rapid diagnosis and treatment are critical for the patient to have the best chance of recovery. Since these disorders are relatively rare, few doctors have seen or treated PNDs. Therefore, it is important that PND patients consult with a specialist with experience in diagnosing and treating paraneoplastic neurological disorders.
+
+==References==
+{{reflist|2}}
+
+==External links==
+*http://www.antibodypatterns.com/hu.php
+
+{{Tumors}}
+{{Paraneoplastic syndromes}}
+
+[[Category:Paraneoplastic syndromes]]
+[[Category:Immune system disorders]]

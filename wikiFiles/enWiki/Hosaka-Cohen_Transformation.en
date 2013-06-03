@@ -1,0 +1,27 @@
+'''Hosaka-Cohen Transformation''' (also called H-C transformation) is a mathematical method of converting a particular two-dimensional scalar magnetic field map to a particular two-dimensional vector map. The scalar field map is of the component of magnetic field which is normal to a two-dimensional surface of a volume conductor; this volume conductor contains the currents producing the magnetic field. The resulting vector map, sometimes called “an arrowmap” roughly mimics those currents under the surface which are parallel to the surface, which produced the field. Therefore, the purpose in performing the transformation is to allow a rough visualization of the underlying, parallel currents.
+The transformation was proposed by Cohen and Hosaka of the [[Biomagnetism]] group at MIT,<ref>Cohen, D., Hosaka, H. (1976) Part II:  Magnetic field produced by a current dipole. ''Journal of Electrocardiology'' [Suppl. on magnetocardiography]; 9: 409-417.</ref> then was used by Hosaka and Cohen to visualize the current sources of the magnetocardiogram.<ref>Hosaka, H., Cohen, D. (1976) Part IV:  Visual determination of generators of the magnetocardiogram. ''Journal of Electrocardiology'' [Suppl. on magnetocardiography]; 9: 426-432.</ref>
+Each arrow is defined as </br></br></br>
+[[File:Hosaka-Cohen Transformation.jpg|thumb|left|Hosaka-Cohen Transformation]]</br></br></br></br></br></br></br>
+where z of the local x, y, z coordinate system is normal to the volume conductor surface, x-circumflex and y-circumflex are unit vectors, and B<sub>z</sub> is the normal component of magnetic field. This is a form of &nbsp;2-dimensional gradient of the scalar quantity B<sub>z</sub> and is rotated by 90 degrees from the conventional gradient.
+Almost any scalar field, magnetic or otherwise, can be displayed in this way, if desired, as an aid to the eye, to help see the underlying sources of the field.
+
+==Notes==
+
+<references />
+
+==Further reading==
+
+* Koch, H. (2004) Recent advances in magnetocardiography. ''Journal of Electrocardiology'' 37: 117-122.
+
+==See also==
+
+* [[Biomagnetism]]
+* [[Bioelectromagnetism]]
+* [[David Cohen (physicist)]]
+* [[Electrophysiology]]
+* [[Magnetic field]]
+* [[Magnetocardiography]]
+* [[Magnetometer]]
+
+[[Category:Biophysics]]
+[[Category:Medical imaging]]

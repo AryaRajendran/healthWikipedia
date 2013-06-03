@@ -1,0 +1,150 @@
+<!-- 
+
+NOTE:
+
+This article uses parenthetical or "Harvard" style for inline citations, rather than the more popular <ref> tags. 
+
+See [[WP:PAREN]] for more information.
+
+-->
+'''Contrast-enhanced ultrasound (CEUS)''' is the application of [[ultrasound]] [[contrast medium]] to traditional [[medical ultrasonography|medical sonography]].  Ultrasound contrast agents rely on the different ways in which sound waves are reflected from interfaces between substances. This may be the surface of a small air bubble or a more complex structure. Commercially available contrast media are gas-filled [[microbubbles]] that are administered intravenously to the [[circulatory system|systemic circulation]].  Microbubbles have a high degree of echogenicity, which is the ability of an object to reflect the ultrasound waves.  The echogenicity difference between the gas in the microbubbles and the soft [[biological tissue|tissue]] surroundings of the body is immense.  Thus, [[Medical ultrasonography|ultrasonic imaging]] using microbubble contrast agents enhances the ultrasound [[backscatter]], or reflection of the ultrasound waves, to produce a unique [[sonogram]] with increased contrast due to the high echogenicity difference.  Contrast-enhanced ultrasound can be used to image blood [[perfusion]] in organs, measure [[blood flow]] rate in the [[heart]] and other organs, and has other applications as well.   
+
+Targeting [[ligand (biochemistry)|ligand]]s that bind to [[Receptor (biochemistry)|receptors]] characteristic of [[intravascular]] diseases can be conjugated to [[microbubbles]], enabling the microbubble complex to accumulate selectively in areas of interest, such as [[diseased]] or abnormal tissues.  This form of molecular imaging, known as targeted contrast-enhanced ultrasound, will only generate a strong ultrasound signal if targeted microbubbles bind in the area of interest.   Targeted contrast-enhanced ultrasound can potentially have many applications in both [[diagnosis|medical diagnostics]] and medical therapeutics.   However, the targeted technique has not yet been approved for clinical use; it is currently under preclinical research and development.
+
+==Bubble echocardiogram==
+An [[echocardiogram]] is a study of the [[heart]] using ultrasound. A bubble echocardiogram is an extension of this that uses simple air bubbles as a contrast medium during this study and often has to be requested specifically. Although colour Doppler can be used to detect abnormal flows between the chambers of the heart (e.g. [[patent foramen ovale]]) it has a limited [[Sensitivity and specificity|sensitivity]]. When specifically looking for a defect such as this small air bubbles can be used as a contrast medium and injected intravenously, where they travel to the right side of the heart. The test would be positive for an abnormal communication if the bubbles are seen passing into the left side of the heart. (Normally they would exit the [[heart]] through the [[pulmonary artery]] and be stopped by the lungs.) This form of bubble contrast medium is generated on an [[ad-hoc]] basis by the testing clinician by agitating [[normal saline]] (e.g. by rapidly and repeatedly transferring the saline between two connected syringes) immediately prior to injection.
+
+==Microbubble contrast agents==<!--Microbubble contrast agents redirects here-->
+
+===General features===
+There are a variety of microbubbles contrast agents.  Microbubbles differ in their shell makeup, gas core makeup, and whether or not they are targeted.   
+
+*'''Microbubble shell''': selection of shell material determines how easily the microbubble is taken up by the [[immune system]].  A more [[hydrophilic]] material tends to be taken up more easily, which reduces the microbubble residence time in the circulation.  This reduces the time available for contrast imaging.  The shell material also affects microbubble mechanical elasticity.  The more elastic the material, the more acoustic energy it can withstand before bursting.<ref name="McCulloch2000"/>  Currently, microbubble shells are composed of [[human serum albumin|albumin]], [[galactose]], [[lipid]], or [[polymers]].<ref name="Lindner2004"/>
+
+*'''Microbubble gas core''': The gas core is the most important part of the ultrasound contrast microbubble because it determines the echogenicity.  When gas bubbles are caught in an ultrasonic [[frequency]] field, they [[compressibility|compress]], [[oscillate]], and reflect a characteristic echo- this generates the strong and unique sonogram in contrast-enhanced ultrasound.  Gas cores can be composed of [[air]], or heavy gases like [[perfluorocarbon]], or [[nitrogen]].<ref name="Lindner2004"/>  Heavy gases are less water-soluble so they are less likely to leak out from the microbubble leading to microbubble dissolution <ref name="McCulloch2000"/>.  As a result, microbubbles with heavy gas cores last longer in circulation.
+
+Regardless of the shell or gas core composition, microbubble size is fairly uniform.  They lie within a range of 1-4 micrometres in diameter.  That makes them smaller than red blood cells, which allows them to flow easily through the circulation as well as the microcirculation.
+
+===The physics of Ultrasound Contrast Agents (UCA)===
+Understanding the interaction between contrast agents & ultrasound is fundamental if one wishes to learn contrast echocardiography from its basic principles. The [http://www.escardio.org/communities/EAE/contrast-echo-box/Pages/introduction-physics.aspx physics of UCA] is detailed in the Contrast Echo Box from the [http://www.escardio.org/communities/EAE/Pages/welcome.aspx EAE association].
+
+===Specific agents===
+*''Optison'',a [[Food and Drug Administration]] (FDA)-approved microbubble made by [[GE Healthcare]], has an albumin shell and octafluoropropane gas core.  The second FDA-approved microbubble, Levovist, made by [[Schering]], has a lipid/galactose shell and an air core.<ref name="Lindner2004"/>
+*''Perflexane lipid microspheres'' (trade name Imagent or previously Imavist) is an injectable suspension developed by [[Alliance Pharmaceutical]] approved by the FDA (in June 2002) for improving visualization of the left ventricular chamber of the heart, the delineation of the endocardial borders in patients with suboptimal echocardiograms. Beside its use to assess cardiac function and perfusion it is also used as an enhancer of the images of prostate, liver, kidney and other organs.<ref>{{cite news
+ | url= http://www.ingentaconnect.com/content/adis/rdd/2002/00000003/00000005/art00004
+ | title= Perflexane: (AF0150, AFO 150, Imagent, Imavist™)
+ | publisher= [[Adis International]]
+ | work = [[Drugs in R&D]], Volume 3, Number 5, 2002 , pp. 306-309(4) 
+ | author = 
+ | date=
+ | accessdate=2010-03-08
+}}</ref>
+*''Perflutren'' lipid microspheres (trade name Definity) are composed of [[octafluoropropane]] encapsulated in an outer [[lipid shell]].<ref>[http://www.rxlist.com/definity-drug.htm Rxlist.com > Definity], Last reviewed 6/16/2008</ref>
+
+===Targeted microbubbles===
+Targeted microbubbles are under preclinical development.  They retain the same general features as untargeted microbubbles, but they are outfitted with ligands that bind specific receptors expressed by cell types of interest, such as inflamed cells or cancer cells.  Current microbubbles in development are composed of a lipid monolayer shell with a perflurocarbon gas core.  The lipid shell is also covered with a [[polyethylene glycol]] (PEG) layer.  PEG prevents microbubble aggregation and makes the microbubble more non-reactive.  It temporarily “hides” the microbubble from the immune system uptake, increasing the amount of circulation time, and hence, imaging time.<ref name="Klibanov2005"/>   In addition to the PEG layer, the shell is modified with molecules that allow for the attachment of [[ligand (biochemistry)|ligands]] that bind certain [[Receptor (biochemistry)|receptors]].  These ligands are attached to the microbubbles using [[carbodiimide]], [[maleimide]], or biotin-streptavidin coupling.<ref name="Klibanov2005"/>  Biotin-streptavidin is the most popular coupling strategy because [[biotin|biotin’s]] affinity for [[streptavidin]] is very strong and it is easy to label the ligands with biotin.  Currently, these ligands are [[monoclonal antibodies]] produced from animal cell cultures that bind specifically to receptors and molecules expressed by the target cell type.  Since the antibodies are not humanized, they will elicit an immune response when used in human therapy.  Humanizing antibodies is an expensive and time-intensive process, so it would be ideal to find an alternative source of ligands, such as synthetically manufactured targeting [[peptides]] that perform the same function, but without the immune issues.
+
+==How it works==
+
+There are two forms of contrast-enhanced ultrasound, untargeted (used in the clinic today) and targeted (under preclinical development).  The two methods slightly differ from each other.
+
+===Untargeted CEUS===
+Untargeted microbubbles, such as the aforementioned Optison or Levovist, are injected intravenously into the systemic circulation in a small bolus.  The microbubbles will remain in the systemic circulation for a certain period of time.  During that time, ultrasound waves are directed on the area of interest.   When microbubbles in the blood flow past the imaging window, the microbubbles’ [[compressibility|compressible]] gas cores [[oscillate]] in response to the high frequency sonic energy field, as described in the [[ultrasound]] article.  The microbubbles reflect a unique [[Echo (phenomenon)|echo]] that stands in stark contrast to the surrounding tissue due to the orders of magnitude mismatch between microbubble and tissue echogenicity.  The ultrasound system converts the strong echogenicity into a contrast-enhanced image of the area of interest.  In this way, the bloodstream’s echo is enhanced, thus allowing the clinician to distinguish [[blood]] from surrounding tissues.
+
+===Targeted CEUS===
+Targeted contrast-enhanced ultrasound works in a similar fashion, with a few alterations.  Microbubbles targeted with ligands that bind certain molecular markers that are expressed by the area of imaging interest are still injected systemically in a small bolus.  Microbubbles theoretically travel through the circulatory system, eventually finding their respective targets and binding specifically.  Ultrasound waves can then be directed on the area of interest.  If a sufficient number of microbubbles have bound in the area, their compressible gas cores oscillate in response to the high frequency sonic energy field, as described in the [[ultrasound]] article. The targeted microbubbles also reflect a unique echo that stands in stark contrast to the surrounding tissue due to the orders of magnitude mismatch between microbubble and tissue echogenicity.  The ultrasound system converts the strong echogenicity into a contrast-enhanced image of the area of interest, revealing the location of the bound microbubbles.<ref name="Klibanov1999"/>  Detection of bound microbubbles may then show that the area of interest is expressing that particular molecular marker, which can be indicative of a certain disease state, or identify particular cells in the area of interest.
+
+==Applications==
+
+Untargeted contrast-enhanced ultrasound is currently applied in [[echocardiography]] and [[radiology]].  Targeted contrast-enhanced ultrasound is being developed for a variety of medical applications.
+
+===Untargeted CEUS===
+Untargeted microbubbles like Optison and Levovist are currently used in echocardiography. In addition, SonoVue<ref name="Schneider1999"/> ultrasound contrast agent is used in radiology for lesion characterization.   
+*'''Organ Edge Delineation''': microbubbles can enhance the contrast at the interface between the tissue and blood.  A clearer picture of this interface gives the clinician a better picture of the structure of an organ.  Tissue structure is crucial in echocardiograms, where a thinning, thickening, or irregularity in the heart wall indicates a serious heart condition that requires either monitoring or treatment.
+*'''Blood Volume and Perfusion''': contrast-enhanced ultrasound holds the promise for (1) evaluating the degree of blood perfusion in an organ or area of interest and (2) evaluating the blood volume in an organ or area of interest.  When used in conjunction with [[Medical_ultrasonography#Doppler_sonography|Doppler]] ultrasound, microbubbles can measure myocardial flow rate to diagnose valve problems.  And the relative intensity of the microbubble echoes<ref name="Rognin2008"/> can also provide a quantitative estimate on blood volume.
+*'''Lesion Characterization''': contrast-enhanced ultrasound plays a role in the differentiation between benign and malignant focal liver lesions. This differentiation relies on the observation<ref name=Claudon2012/> or processing<ref name="Rognin2010"/><ref name="Anaye2011"/> of the dynamic vascular pattern in a lesion with respect to its surrounding tissue [[parenchyma]].
+
+===Targeted CEUS===
+*'''[[Inflammation]]''': Contrast agents may be designed to bind to certain proteins that become expressed in inflammatory diseases such as [[Crohn's disease]], [[atherosclerosis]], and even [[heart attacks]]. Cells of interest in such cases are [[endothelial cell]]s of blood vessels, and [[leukocytes]]:
+**The inflamed blood vessels specifically express certain receptors, functioning as [[cell adhesion molecules]], like [[inflammation|VCAM-1, ICAM-1, E-selectin]]. If microbubbles are targeted with ligands that bind these molecules, they can be used in contrast echocardiography to detect the onset of inflammation.  Early detection allows the design of better treatments. Attempts have been made to outfit microbubbles with monoclonal antibodies that bind  [[selectin|P-selectin]], [[intercellular adhesion molecule|ICAM-1]], and [[VCAM-1]],<ref name="Lindner2004"/> but the adhesion to the molecular target was poor and a large fraction of microbubbles that bound to the target rapidly detached, especially at high shear stresses of physiological relevance.<ref name="Takalkar2004"/>
+**[[Leukocytes]] possess high adhesion efficiencies, partly due to a dual-ligand [[selectin]]-[[integrin]] cell arrest system.<ref name="Eniola2003"/> One ligand:receptor pair ([[PSGL-1]]:selectin) has a fast bond on-rate to slow the leukocyte and allows the second pair (integrin:[[immunoglobulin]] superfamily), which has a slower on-rate but slow off-rate to arrest the leukocyte, kinetically enhancing adhesion. Attempts have been made to make contrast agents bind to such ligands, with techniques such as dual-ligand targeting of distinct receptors to polymer microspheres,<ref name="Eniola&Hammer2005"/><ref name="Weller2005"/> and [[biomimcry]] of the leukocyte’s selectin-integrin cell arrest system,<ref name="Rychak2005"/> having shown an increased adhesion efficiency, but yet not efficient enough to allow clinical use of targeted contrast-enhanced ultrasound for inflammation.
+*'''[[Cancer]]''': cancer cells also express a specific set of receptors, mainly receptors that encourage [[angiogenesis]], or the growth of new blood vessels.  If microbubbles are targeted with ligands that bind receptors like [[Vascular endothelial growth factor|VEGF]], they can non-invasively and specifically identify areas of cancers.
+*'''[[gene therapy|Gene Delivery]]''': [[Vector DNA]] can be conjugated to the microbubbles.  Microbubbles can be targeted with ligands that bind to receptors expressed by the cell type of interest.  When the targeted microbubble accumulates at the cell surface with its DNA payload, ultrasound can be used to burst the microbubble.  The force associated with the bursting may temporarily permeablize surrounding tissues and allow the DNA to more easily enter the cells.
+*'''Drug Delivery''': drugs can be incorporated into the microbubble’s lipid shell.  The microbubble’s large size relative to other drug delivery vehicles like [[liposomes]] may allow a greater amount of drug to be delivered per vehicle.  By targeted the drug-loaded microbubble with ligands that bind to a specific cell type, microbubble will not only deliver the drug specifically, but can also provide verification that the drug is delivered if the area is imaged using ultrasound.
+
+==Advantages==
+On top of the strengths mentioned in the [[medical ultrasonography|medical sonography]] entry, contrast-enhanced ultrasound adds these additional advantages:
+*The body is 73% water, and therefore, acoustically homogeneous.  Blood and surrounding tissues have similar echogenicities, so it is also difficult to clearly discern the degree of blood flow, perfusion, or the interface between the tissue and blood using traditional ultrasound.<ref name="Lindner2004"/>
+*Ultrasound imaging allows real-time evaluation of blood flow.<ref name="Lindner2002"/>
+*Destruction of microbubbles by ultrasound<ref name=Wei1998/> in the image plane allows absolute quantification of tissue perfusion <ref name="Arditi2006"/>.
+*Ultrasonic molecular imaging is safer than molecular imaging modalities such as [[radiocontrast|radionuclide imaging]] because it does not involve radiation.<ref name="Lindner2002"/>
+*Alternative molecular imaging modalities, such as [[MRI]], [[Positron emission tomography|PET]], and [[SPECT]] are very costly.  Ultrasound, on the other hand, is very cost-efficient and widely available.<ref name="Klibanov1999"/>
+*Since microbubbles can generate such strong signals, a lower intravenous dosage is needed, micrograms of microbubbles are needed compared to milligrams for other molecular imaging modalities such as [[MRI contrast agent]]s.<ref name="Klibanov1999"/>
+*Targeting strategies for microbubbles are versatile and modular.  Targeting a new area only entails conjugating a new ligand.
+*Active targeting can be increased (enhanced microbubbles adhesion) by [[Acoustic radiation force]]<ref name=Dayton1999/><ref name=Rychak2005/> using a clinical ultrasound imaging system in 2D-mode <ref name=Frinking2012/><ref name=Gessner2012/> and 3D-mode <ref name=Rognin2012/>.  
+
+==Disadvantages==
+In addition to the weaknesses mentioned in the [[medical ultrasonography|medical sonography]] entry, contrast-enhanced ultrasound suffers from the following disadvantages:
+*Microbubbles don’t last very long in circulation.  They have low circulation residence times because they either get taken up by immune system cells or get taken up by the [[liver]] or [[spleen]] even when they are coated with PEG.<ref name="Klibanov1999"/>
+*Ultrasound produces more heat as the frequency increases, so the ultrasonic frequency must be carefully monitored.
+*Microbubbles burst at low ultrasound frequencies and at high mechanical indices (MI), which is the measure of the acoustic power output of the ultrasound imaging system.  Increasing MI increases image quality, but there are tradeoffs with microbubble destruction.  Microbubble destruction could cause local microvasculature ruptures and [[hemolysis]].<ref name="Klibanov2005"/>
+*Targeting ligands can be immunogenic, since current targeting ligands used in preclinical experiments are derived from animal culture.<ref name="Klibanov2005"/>
+*Low targeted microbubble adhesion efficiency, which means a small fraction of injected microbubbles bind to the area of interest.<ref name="Takalkar2004"/> This is one of the main reasons that targeted contrast-enhanced ultrasound remains in the preclinical development stages.
+
+==See also==
+*[[ultrasound]]
+*[[sonography]]
+*[[medical imaging]]
+*[[medical ultrasonography]]
+*[[echocardiography]]
+*[[Doppler effect]]
+
+==References==
+{{Reflist|refs=
+<ref name="Eniola&Hammer2005">Eniola, A.O., and D.A. Hammer.  2005.  In vitro characterization of leukocyte mimetic for targeting therapeutics to the endothelium using two receptors.  ''Biomaterials.'' 26: 7136-44.</ref>
+<ref name="Eniola2003">Eniola, A.O., P.J. Willcox, and D.A. Hammer.  2003.  Interplay between rolling and firm adhesion elucidated with a cell-free system engineered with two distinct receptor-ligand pairs.  ''Biophys. J.''  85: 2720-31.</ref>
+<ref name="Klibanov2005">Klibanov, A.L.  2005.  Ligand-carrying gas-filled microbubbles: ultrasound contrast agents for targeted molecular imaging.  ''Bioconjug Chem.''  16: 9-17.</ref>
+<ref name="Klibanov1999">Klibanov, A.L.  1999.  Targeted delivery of gas-filled microspheres, contrast agents for ultrasound imaging.  ''Adv Drug Deliv Rev.''  37: 139-157.</ref>
+<ref name=Rognin2008>{{cite journal|last=Rognin|first=NG|coauthors=Frinking, P.; Costa, M.; Arditi, M.|title=In-vivo perfusion quantification by contrast ultrasound: Validation of the use of linearized video data vs. raw RF data|journal=Ultrasonics Symposium, 2008. IUS 2008. IEEE||location=Beijing, China|year=2008|month=November|pages=1690–1693|doi=10.1109/ULTSYM.2008.0413|url=http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4803409}}</ref> 
+<ref name="Lindner2004">Lindner, J.R.  2004.  Microbubbles in medical imaging: current applications and future directions.  ''Nat Rev Drug Discov.''  3: 527-32.</ref>
+<ref name="Lindner2002">Lindner, J.R., A.L. Klibanov, and K. Ley. Targeting inflammation, In: Biomedical aspects of drug targeting. (Muzykantov, V.R., Torchilin, V.P., eds.) Kluwer, Boston, 2002; pp.&nbsp;149–172.</ref>
+<ref name="McCulloch2000">McCulloch, M., C. Gresser, S. Moos, J. Odabashian, S. Jasper, J. Bednarz, P. Burgess, D. Carney, V. Moore, E. Sisk, A. Waggoner, S. Witt, and D. Adams.  Ultrasound contrast physics: A series on contrast echocardiography, article 3.  ''J Am Soc Echocardiogr''.  13: 959-67.</ref>
+<ref name="Rychak2005">Rychak J.J., A.L. Klibanov, W. Yang, B. Li, S. Acton, A. Leppanen, R.D. Cummings, and K. Ley. "Enhanced Microbubble Adhesion to P-selectin with a Physiologically-tuned Targeting Ligand," 10th Ultrasound Contrast Research Symposium in Radiology, San Diego, CA, March 2005.</ref>
+<ref name="Takalkar2004">Takalkar, A.M., A.L. Klibanov, J.J. Rychak, J.R. Lindner, and K. Ley. 2004. Binding and detachment dynamics of microbubbles targeted to P-selectin under controlled shear flow.  ''J. Contr. Release.''  96: 473-482.</ref>
+<ref name="Weller2005">Weller, G.E., F.S. Villanueva, E.M. Tom, and W.R. Wagner.  2005.  Targeted ultrasound contrast agents: In vitro assessment of endothelial dysfunction and multi-targeting to ICAM-1 and sialyl Lewis(x).  ''Biotechnol. Bioeng.''  92: 780-8.</ref>
+<ref name=Claudon2012>{{cite journal|last=Claudon|first=M|coauthors=Dietrich, CF.; Choi, BI.; Cosgrove, DO.; Kudo, M.; Nolsøe, CP.; Piscaglia, F.;  Wilson, SR.; Barr, RG.; Chammas, MC.; Chaubal, NG.; Chen, MH.; Clevert, DA.; Correas, JM.; Ding, H.; Forsberg, F.; Fowlkes, JB.; Gibson, RN.; Goldberg, BB.; Lassau, N.; Leen, EL.; Mattrey, RF.; Moriyasu, F.; Solbíatí, L.; Weskott, HP.; Xu, HX|title=Guidelines and Good Clinical Practice  Recommendations for Contrast Enhanced Ultrasound (CEUS) in the Liver-Update 2012: A WFUMB-EFSUMB Initiative in Cooperation With Representatives of AFSUMB, AIUM, ASUM, FLAUS and ICUS|journal=Ultrasound Med Biol|year=2013|month=February|volume=39|issue=2|pages=187–210|doi=10.1016/j.ultrasmedbio.2012.09.002|pmid=23137926|url=http://www.umbjournal.org/article/S0301-5629%2812%2900543-1/abstract?elsca1=etoc&elsca2=email&elsca3=0301-5629_201302_39_2&elsca4=elsevier}}</ref> 
+<ref name=Rognin2010>{{cite journal|last=Rognin|first=NG|coauthors= Arditi, M.; Mercier, L.; Frinking, P.J.A.; Schneider, M.; Perrenoud, G.; Anaye, A.; Meuwly, J.; Tranquart, F.|title=Parametric imaging for characterizing focal liver lesions in contrast-enhanced ultrasound|journal=IEEE Trans Ultrason Ferroelectr Freq Control|year=2010|month=November|volume=57|issue=11|pages=2503–2511|doi=10.1109/TUFFC.2010.1716|pmid=21041137|url=http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5611697}}</ref> 
+<ref name="Anaye2011">{{cite journal|last=Anaye|first=A|coauthors=Perrenoud, G.; Rognin, N.; Arditi, M.; Mercier, L.; Frinking, P.; Ruffieux, C.; Peetrons, P.; Meuli, R.; Meuwly, JY.|title=Differentiation of focal liver lesions: usefulness of parametric imaging with contrast-enhanced US|journal=Radiology|year=2011|month=October|volume=216|issue=1|pages=300–310|doi=10.1148/radiol.11101866|pmid=21746815|url=http://radiology.rsna.org/content/261/1/300.long}}</ref>
+<ref name="Schneider1999">{{cite journal|last=Schneider|first=M|title=SonoVue, a new ultrasound contrast agent|journal=Europ. Radiol.|year=1999|month=November|volume=9|issue=3 Supplement|pages=S347-S348|url=http://link.springer.com/content/pdf/10.1007%2FPL00014071|format=PDF}}</ref>  <ref name="Schneider1999"/>
+<ref name=Rognin2012>{{cite journal|last=Rognin|first=NG|coauthors=Unnikrishnan, S.; Guenette, G.; Kanayama, Y.; Woods, R.; Sanders, C.; Kamiyama, N.; Klibanov, AL.|title=Molecular Ultrasound Imaging Enhancement by Volumic Acoustic Radiation Force (VARF)|journal=Abstracts of the 2012 World Molecular Imaging Congress|year=2012|month=September||location=Dublin, Ireland|url=http://wmis2012.omnibooksonline.com/data/papers/SS84.html}}</ref>
+<ref name=Dayton1999>{{cite journal|last=Dayton|first=P|coauthors=Klibanov, A; Brandenburger, G; Ferrara, K|title=Acoustic radiation force in vivo: a mechanism to assist targeting of microbubbles|journal=Ultrasound Med Biol|year=1999|month=October|volume=25|issue=8|pages=1195–1201|pmid=10576262|url=http://www.umbjournal.org/article/S0301-5629(99)00062-9/abstract}}</ref>
+<ref name=Rychak2005>{{cite journal|last=Rychak|first=JJ|coauthors=Klibanov, AL; Hossack, JA;|journal=IEEE Trans Ultrason Ferroelectr Freq Control|year=2005|month=March|volume=52|issue=3|pages=421–433|doi=10.1109/TUFFC.2005.1417264|pmid=15857050}}</ref>
+<ref name=Frinking2012>{{cite journal|last=Frinking|first=PJ|coauthors=Tardy, I; Théraulaz, M; Arditi, M; Powers, J; Pochon, S; Tranquart, F|title=Effects of acoustic radiation force on the binding efficiency of BR55, a VEGFR2-specific ultrasound contrast agent|journal=Ultrasound Med Biol|year=2012|month=August|volume=38|issue=8|pages=1460–1469|doi=10.1016/j.ultrasmedbio.2012.03.018|pmid=22579540|url=http://www.umbjournal.org/article/S0301-5629(12)00196-2/abstract}}</ref>
+<ref name=Gessner2012>{{cite journal|last=Gessner|first=RC|coauthors=Streeter, JE; Kothadia, R; Feingold, S; Dayton, PA|title=An in vivo validation of the application of acoustic radiation force to enhance the diagnostic utility of molecular imaging using 3-d ultrasound|journal=Ultrasound Med Biol|year=2012|month=April|volume=38|issue=4|pages=651–660|doi=10.1016/j.ultrasmedbio.2011.12.005|pmid=22341052|url=http://www.umbjournal.org/article/S0301-5629(11)01537-7/abstract}}</ref>
+<ref name=Wei1998>{{cite journal|last=Wei|first=K|coauthors=Jayaweera, AR; Firoozan, S; Linka, A; Skyba, DM; Kaul, S;|title=Quantification of  myocardial blood flow with ultrasound-induced destruction of microbubbles administered as a constant venous infusion|journal=Circulation|year=1998|month=February|volume=97|issue=5|pages=473–483|pmid=9490243|url=http://circ.ahajournals.org/content/97/5/473.long}}</ref>
+<ref name="Arditi2006">{{cite journal|last=Arditi|first=M|coauthors=Frinking, PJA.; Zhou, X.; Rognin, NG.|title=A new formalism for the quantification of tissue perfusion by the destruction-replenishment method in contrast ultrasound imaging|journal=IEEE Trans Ultrason Ferroelectr Freq Control|year=2006|month=June|volume=53|issue=6|pages=1118–1129|doi=10.1109/TUFFC.2006.1642510|pmid=16846144|url=http://ieeexplore.ieee.org/application/enterprise/entconfirmation.jsp?arnumber=1642510&icp=false}}</ref>
+}}
+
+==External links==
+www.celsion.com
+*[http://www.icus-society.org/ International Contrast Ultrasound Society] International Contrast Ultrasound Society]
+*[http://www.escardio.org/communities/EAE/contrast-echo-box/Pages/welcome.aspx Contrast Echocardiography toolbox, by the EAE association]
+*[http://www.amershamhealth-us.com/optison Optison Information from GE Healthcare]
+*[http://www.medsafe.govt.nz/Profs/Datasheet/l/Levovistinj.htm Levovist Data Sheet from New Zealand Medicines and Medical Devices Safety Authority]
+*[http://www.schering-diagnostics.de/scripts/index.php Schering Diagnostics Webpage]
+*[http://www.amershamhealth.com/medcyclopaedia/medical/Volume%20I/ULTRASOUND%20CONTRAST%20MEDIUM.asp GE Healthcare on Ultrasound Contrast Media]
+*[http://www.asecho.org The American Society of Echocardiography]
+*[http://www.contrastzone.com/ The Contrast Zone at the American Society of Echocardiography]
+*[http://usmediateddrugdelivery.com/ Catalog of Academic Papers related to CEUS]
+*[http://www.targeson.com/ Targeson, LLC]
+*[http://www.contrastultrasound-modality.com/ SonoVue, Bracco Group]
+
+{{Medical imaging}}
+{{Contrast media}}
+
+{{DEFAULTSORT:Contrast-Enhanced Ultrasound}}
+[[Category:Biological engineering]]
+[[Category:Cardiology]]
+[[Category:Medical equipment]]
+[[Category:Medical research]]
+[[Category:Medical ultrasound]]

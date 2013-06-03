@@ -1,0 +1,153 @@
+[[File:Hypothalamus of a mouse tissue stained by ABC-Immunohistochemistry.jpg|thumb|Mouse-brain slice stained by Immunohistochemistry.]]
+'''Immunohistochemistry''' or '''IHC'''  refers to the process of detecting antigens (e.g., proteins) in cells of a tissue section by exploiting the principle of [[antibody|antibodies]] binding specifically to [[antigen]]s in [[biological tissue]]s.<ref name="JA Ramos-Vara">{{cite journal | last =  Ramos-Vara | first = JA | title = Technical Aspects of Immunohistochemistry | journal = Vet Pathol | volume = 42 | pages = 405–426 | year = 2005 | url = http://www.vetpathology.org/cgi/content/short/42/4/405 | doi = 10.1354/vp.42-4-405 | pmid = 16006601 | issue =  4}}</ref> IHC takes its name from the roots "immuno," in reference to antibodies used in the procedure, and "histo," meaning tissue (compare to [[immunocytochemistry]]). 
+
+Immunohistochemical staining is widely used in the diagnosis of abnormal cells such as those found in cancerous tumors. A video showing preparation for immunohistochemistry (8 minutes) and then 20 minutes scanning through immunohistochemically stained tissues near colon cancers, shows different degrees of deficiency in three DNA repair proteins ([[ERCC1]], [[PMS2]] and [[Ku80|KU86]]) and one mitochondrial protein ([[Main subunit of cytochrome c oxidase|CCOI]]).<ref>Nguyen H, Loustaunau C, Facista A, Ramsey L, Hassounah N, Taylor H, Krouse R, Payne CM, Tsikitis VL, Goldschmid S, Banerjee B, Perini RF, Bernstein C. (2010). Deficient Pms2, ERCC1, Ku86, CcOI in field defects during progression to colon cancer. J Vis Exp (41). doi:pii: 1931. 10.3791/1931. PMID: 20689513  Best seen by selecting “Free in PMC” and then clicking on “Download video file.(333M, mp4)” located just under the first image.  This allows the viewer to download the entire 28 minute video.  The downloaded video allows the viewer to fast-forward or to pause and go back to review sections of special interest. </ref>  Specific molecular markers are characteristic of particular cellular events such as proliferation or cell death ([[apoptosis]]). IHC is also widely used in basic research to understand the distribution and localization of biomarkers and differentially expressed proteins in different parts of a biological tissue.
+
+Visualising an antibody-antigen interaction can be accomplished in a number of ways. In the most common instance, an antibody is conjugated to an enzyme, such as [[peroxidase]], that can catalyse a colour-producing reaction ''(see [[immunoperoxidase|immunoperoxidase staining]])''. Alternatively, the antibody can also be tagged to a [[fluorophore]], such as [[fluorescein]] or [[rhodamine]] ''(see [[immunofluorescence]])''.
+
+==Sample preparation==
+
+While using the right antibodies to target the correct antigens and amplify the signal is important for visualization, complete preparation of the sample is critical to maintain cell morphology, tissue architecture and the antigenicity of target epitopes. This requires proper tissue collection, [[Fixation (histology)|fixation]] and sectioning. [[Paraformaldehyde]] is usually used with fixation. Depending on the purpose and the thickness of the experimental sample, either thin (about 4-40 [[μm]]) sections are sliced from the tissue of interest, or if the tissue is not very thick and is penetrable it is used whole. The slicing is usually accomplished through the use of a [[microtome]], and slices are mounted on slides. "Free-floating IHC" uses slices that are not mounted; these slices are normally produced using a vibrating [[microtome]].
+
+Because of the method of fixation and tissue preservation, the sample may require additional steps to make the epitopes available for antibody binding, including deparaffinization and antigen retrieval (microwave method, enzyme method, hot incubation method); these steps often make the difference between staining and no staining. Additionally, depending on the tissue type and the method of antigen detection, endogenous biotin or enzymes may need to be blocked or quenched, respectively, prior to antibody staining.
+
+Unlike [[immunocytochemistry]], the tissue does not need to be permeabilized because this has already been accomplished by the microtome blade during sample preparation. Detergents like [[Triton X-100]] are generally used in immunohistochemistry to reduce [[surface tension]], allowing less reagent to be used to achieve better and more even coverage of the sample.
+Although antibodies show preferential avidity for specific epitopes, they may partially or weakly bind to sites on nonspecific proteins (also called reactive sites) that are similar to the cognate binding sites on the target antigen. 
+
+In the context of antibody-mediated antigen detection, nonspecific binding causes high background staining that can mask the detection of the target antigen. To reduce background staining in IHC, ICC and any other immunostaining application, the samples are incubated with a buffer that blocks the reactive sites to which the primary or secondary antibodies may otherwise bind. Common [[Western_blot#Blocking| blocking]] buffers include normal serum, non-fat dry milk, [[Bovine_serum_albumin |BSA]], or gelatin.  Commercial blocking buffers with proprietary formulations are available for greater efficiency.
+
+==Sample labeling==
+===Antibody types===
+The antibodies used for specific detection can be [[polyclonal antibodies|polyclonal]] or [[monoclonal antibodies|monoclonal]]. Polyclonal antibodies are made by injecting animals with peptide Ag and, after a secondary immune response is stimulated, isolating antibodies from whole serum.  Thus, polyclonal antibodies are a heterogeneous mix of antibodies that recognize several [[epitope]]s. Monoclonal antibodies show specificity for a single epitope and are therefore considered more specific to the target antigen than polyclonal antibodies. 
+
+For IHC detection strategies, antibodies are classified as primary or secondary reagents. Primary antibodies are raised against an antigen of interest and are typically unconjugated (unlabelled), while secondary antibodies are raised against immunoglobulins of the primary antibody species. The secondary antibody is usually conjugated to a linker molecule, such as [[biotin]], that then recruits reporter molecules, or the secondary antibody itself is directly bound to the reporter molecule.
+
+===IHC reporters===
+Reporter molecules vary based on the nature of the detection method, the most popular being chromogenic and [[fluorescence]] detection mediated by an enzyme or a fluorophore, respectively. With chromogenic reporters, an enzyme label is reacted with a substrate to yield an intensely colored product that can be analyzed with an ordinary light microscope. While the list of enzyme substrates is extensive, [[Alkaline phosphatase]] (AP) and [[horseradish peroxidase]] (HRP) are the two enzymes used most extensively as labels for protein detection. An array of chromogenic, fluorogenic and chemiluminescent substrates is available for use with either enzyme, including [[Diaminobenzidine|DAB]] or [[BCIP]]/[[Nitro blue tetrazolium chloride|NBT]], which produce a brown or purple staining, respectively, wherever the enzymes are bound. 
+
+Reaction with DAB can be enhanced using [[nickel]]{{Citation needed|date=April 2011}}, producing a deep purple/black staining. Fluorescent reporters are small, organic molecules used for IHC detection and traditionally include [[Fluorescein isothiocyanate|FITC]], [[Rhodamine|TRITC]] and AMCA, while commercial derivatives, including the Alexa Fluors and Dylight Fluors, show similar enhanced performance but vary in price. For chromogenic and fluorescent detection methods, densitometric analysis of the signal can provide semi- and fully quantitative data, respectively, to correlate the level of reporter signal to the level of protein expression or localization.
+[[Image:Immunohistochemicalstaining1.PNG|thumb|300px|right|The direct method of immunohistochemical staining uses one labelled antibody, which binds directly to the antigen being stained for.]]
+[[Image:Immunohistochemicalstaining2.PNG|thumb|300px|right|The ''indirect method'' of immunohistochemical staining uses one antibody against the antigen being probed for, and a second, labelled, antibody against the first.]]
+
+===Target antigen detection methods===
+The ''direct method'' is a one-step [[staining]] method and involves a labeled [[antibody]] (e.g. [[Fluorescein isothiocyanate|FITC]]-conjugated [[antiserum]]) reacting directly with the [[antigen]] in tissue sections. While this technique utilizes only one [[antibody]] and therefore is simple and rapid, the sensitivity is lower due to little signal amplification, such as with indirect methods, and is less commonly used than indirect methods.
+
+The ''indirect method'' involves an unlabeled primary antibody (first layer) that binds to the target [[antigen]] in the tissue and a labeled [[secondary antibody]] (second layer) that reacts with the primary antibody. As mentioned above, the secondary antibody must be raised against the [[IgG]] of the animal species in which the primary antibody has been raised. This method is more sensitive than direct detection strategies because of signal amplification due to the binding of several secondary antibodies to each primary antibody if the secondary antibody is conjugated to the fluorescent or [[enzyme]] reporter. 
+
+Further amplification can be achieved if the secondary antibody is conjugated to several [[biotin]] molecules, which can recruit complexes of [[avidin]]-, [[streptavidin]] or [[NeutrAvidin|NeutrAvidin protein]]bound-enzyme. The difference between these three biotin-binding proteins is their individual binding affinity to endogenous tissue targets leading to nonspecific binding and high background; the ranking of these proteins based on their nonspecific binding affinities, from highest to lowest, is: 1) avidin, 2) streptavidin and 3) Neutravidin protein.
+
+The indirect method, aside from its greater sensitivity, also has the advantage that only a relatively small number of standard conjugated (labeled) secondary antibodies needs to be generated. For example, a labeled secondary antibody raised against rabbit IgG, which can be purchased "off the shelf," is useful with any primary antibody raised in rabbit.  With the direct method, it would be necessary to label each primary antibody for every antigen of interest.
+
+===Counterstains===
+After immunohistochemical staining of the target antigen, a second stain is often applied to provide contrast that helps the primary stain stand out. Many of these stains show specificity for discrete cellular compartments or antigens, while others will stain the whole cell. Both chromogenic and fluorescent dyes are available for IHC to provide a vast array of reagents to fit every experimental design, and include: [[hematoxylin]], [[Hoechst stain]] and [[DAPI]] are commonly used.
+
+==IHC troubleshooting==
+In immunohistochemical techniques, there are several steps prior to the final staining of the tissue antigen, and many potential problems affect the outcome of the procedure. The major problem areas in IHC staining include strong background staining, weak target antigen staining and autofluorescence. Endogenous biotin or reporter enzymes or primary/secondary antibody cross-reactivity are common causes of strong background staining, while weak staining may be caused by poor enzyme activity or primary antibody potency. Furthermore, autofluorescence may be due to the nature of the tissue or the fixation method. These aspects of IHC tissue prep and antibody staining must be systematically addressed to identify and overcome staining issues.
+
+==Diagnostic IHC markers==
+[[Image:Kidney cd10 ihc.jpg|thumb|Immunohistochemical staining of normal [[kidney]] with CD10.]]
+IHC is an excellent detection technique and has the tremendous advantage of being able to show exactly where a given protein is located within the tissue examined. It is also an effective way to examine the tissues .This has made it a widely used technique in the [[neurosciences]], enabling researchers to examine protein expression within specific brain structures. Its major disadvantage is that, unlike [[immunoblotting]] techniques where staining is checked against a [[molecular weight]] ladder, it is impossible to show in IHC that the staining corresponds with the protein of interest. For this reason, primary antibodies must be well-validated in a [[Western Blot]] or similar procedure. The technique is even more widely used in diagnostic [[surgical pathology]] for typing tumors (e.g. immunostaining for e-cadherin to differentiate between DCIS (ductal carcinoma in situ: stains positive) and LCIS (lobular carcinoma in situ: does not stain positive)<ref>O'Malley F and Pinder S, Breast Pathology, 1st. Ed. Elsevier 2006. ISBN 978-0-443-06680-1</ref>).
+
+* [[Carcinoembryonic antigen]] (CEA): used for identification of [[adenocarcinoma]]s. Not specific for site.
+* [[Cytokeratin]]s: used for identification of carcinomas but may also be expressed in some sarcomas.<ref>{{cite journal |author=Leader M, Patel J, Makin C, Henry K |title=An analysis of the sensitivity and specificity of the cytokeratin marker CAM 5.2 for epithelial tumours. Results of a study of 203 sarcomas, 50 carcinomas and 28 malignant melanomas |journal=Histopathology |volume=10 |issue=12 |pages=1315–24 |year=1986 |month=December |pmid=2434403 |doi= 10.1111/j.1365-2559.1986.tb02574.x|url=}}</ref>
+* [[Cluster of differentiation|CD15]] and CD30 : used for [[Hodgkin's disease]]
+* [[Alpha fetoprotein]]: for [[yolk sac tumor]]s and [[hepatocellular carcinoma]]
+* [[CD117]] (KIT): for [[gastrointestinal stromal tumor]]s (GIST)
+* [[CD10]] (CALLA): for [[renal cell carcinoma]] and [[acute lymphoblastic leukemia]]
+* [[Prostate specific antigen]] (PSA): for [[prostate cancer]]
+* [[estrogens]] and [[progesterone]] staining for tumour identification
+* Identification of [[B-cell]] [[lymphomas]] using [[CD20]]
+* Identification of [[T-cell]] [[lymphomas]] using [[CD3]]
+
+==Directing therapy==
+A variety of molecular pathways are altered in cancer and some of the alterations  can be targeted in cancer therapy.  Immunohistochemistry can be used to assess which tumors are likely to respond to therapy, by detecting the presence or elevated levels of the molecular target.
+===Chemical inhibitors===
+Tumor biology allows for a number of potential intracellular targets.  Many tumors are hormone dependent.  The presence of hormone receptors can be used to determine if a tumor is potentially  responsive to antihormonal therapy.  One of the first therapies was the antiestrogen, [[tamoxifen]], used to treat breast cancer.  Such hormone receptors can be detected by immunohistochemistry.<ref>{{cite journal | last = Jørgensen
+ | first =   Jan Trøst
+ | coauthors = Kirsten Vang Nielsen, Bent Ejlertsen
+ | year =  2007
+ | month =  April
+ | title = Pharmacodiagnostics and targeted therapies - a rational approach for individualizing medical anticancer therapy in breast cancer
+ | journal = The Oncologist
+ | volume = 12
+ | issue = 4
+ | pages = 397–405
+ | publisher = AlphaMed Press
+ | location = United States
+ | issn = 1083-7159
+ | pmid = 17470682
+ | doi =  10.1634/theoncologist.12-4-397
+ | url = http://theoncologist.alphamedpress.org/cgi/content/full/12/4/397
+ | accessdate =  2008-03-14}}</ref>
+[[Imatinib]], an intracellualar [[tyrosine kinase]] inhibitor, was developed to treat [[chronic myelogenous leukemia]], a disease characterized by the formation of a specific abnormal tyrosine kinase.  Imitanib has proven effective in tumors that express other tyrosine kinases, most notably KIT.   Most [[gastrointestinal stromal tumor]]s express KIT, which can be detected by immunohistochemistry.<ref>{{cite journal
+|author=Gold JS, Dematteo RP |title=Combined Surgical and Molecular Therapy: The Gastrointestinal Stromal Tumor Model |journal=Ann. Surg. |volume=244 |issue=2 |pages=176–84 |year=2006 |month=August |pmid=16858179 |pmc=1602162 |doi=10.1097/01.sla.0000218080.94145.cf |url=}}</ref>
+
+===Monoclonal antibodies===
+{{main|Monoclonal antibody therapy}}
+Many proteins shown to be highly upregulated in pathological states by immunohistochemistry are potential targets for therapies utilising [[monoclonal antibody|monoclonal antibodies]].  Monoclonal antibodies, due to their size, are utilized against cell surface targets.  Among the overexpressed targets are members of the [[epidermal growth factor receptor]] (EGFR) family, transmembrane proteins with an extracellular receptor domain regulating an intracellular tyrosine kinase.<ref>{{cite journal
+ | last =  Harari
+ | first = P M
+ | year = 2004
+ | month = December
+ | title = Epidermal growth factor receptor inhibition strategies in oncology
+ | journal = Endocrine-Related Cancer
+ | volume = 11
+ | issue = 4
+ | pages =  689–708
+ | publisher =  Society for Endocrinology
+ | location = England
+ | issn = 1351-0088
+ | pmid = 15613446
+ | doi =  10.1677/erc.1.00600
+ | url = http://erc.endocrinology-journals.org/cgi/content/full/11/4/689?ijkey=9caa7985e4396550fdc851b303ea7958513e070e
+ | accessdate =  2008-03-14}}</ref> Of these, [[HER2/neu]] (also known as Erb-B2) was the first to be developed.  The molecule is highly expressed in a variety of cancer cell types, most notably breast cancer. As such, antibodies against HER2/neu have been FDA approved for clinical treatment of cancer under the drug name ''Herceptin''.  There are commercially available immunohistochemical tests, [http://www.dakousa.com/index/prod_search/prod_baseproducts.htm?productareaid=1&productgroupid=3&productsubgroupid=1003000 Dako HercepTest], [http://www.leicabiosystems.com Leica Biosystems Oracle] and [[Ventana Medical Systems|Ventana]] Pathway.<ref>{{cite journal
+ | last =  Press
+ | first = Michael F.
+ | authorlink =
+ | coauthors = Guido Sauter, Leslie Bernstein, Ivonne E.Villalobos, MartinaMirlacher, Jian-Yuan Zhou, RoobaWardeh, Yong-Tian Li, Roberta Guzman, Yanling Ma, Jane Sullivan-Halley, Angela Santiago, Jinha M. Park, Alessandro Riva, Dennis J.Slamon
+ | date =  September 15, 2005
+ | title = Diagnostic evaluation of HER-2 as a molecular target: an assessment of accuracy and reproducibility of laboratory testing in large, prospective, randomized clinical trials
+ | journal = Clinical Cancer Research
+ | volume = 2005 15;11(18):
+ | issue = 18
+ | pages =  6598–6607
+ | publisher = American Association for Cancer Research.
+ | location = United States
+ | issn = 1078-0432
+ | pmid = 16166438
+ | doi = 10.1158/1078-0432.CCR-05-0636
+ | url = http://clincancerres.aacrjournals.org/cgi/content/full/11/18/6598
+ | accessdate =  2008-03-14
+}}</ref>
+
+Similarly, EGFR (HER-1) is overexpressed in a variety of cancers including head and neck and colon.  Immunohistochemistry is used to determine  patients who may benefit from therapeutic antibodies such as [[Erbitux]] (cetuximab).<ref>{{cite journal
+|author=Bibeau F, Boissière-Michot F, Sabourin JC, ''et al.'' |title=Assessment of epidermal growth factor receptor (EGFR) expression in primary colorectal carcinomas and their related metastases on tissue sections and tissue microarray |journal=Virchows Arch. |volume=449 |issue=3 |pages=281–7 |year=2006 |month=September |pmid=16865406 |pmc=1888717 |doi=10.1007/s00428-006-0247-9 |url=}}</ref> Commercial systems to detect EGFR by immunohistochemistry include the [http://www.dakousa.com/index/prod_search/prod_groups.htm?productareaid=1 Dako pharmDx].
+
+== See also ==
+* [[Cutaneous conditions with immunofluorescence findings]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* [http://www.piercenet.com/browse.cfm?fldID=F95B91A9-3DC1-4B56-8E8D-59CA044A8BA7 Overview of Immunohistochemistry--describes all aspects of IHC including sample prep, staining and troubleshooting]
+* [http://tissuearray.org/yale/ Yale Core Tissue Microarray Facility]
+* [http://www.urmc.rochester.edu/path/zqu/Histostain/index.html Histochemical Staining Methods] - [[University of Rochester]] Department of Pathology
+* [http://www.prosci-inc.com/Immunohistochemistry-Protocol.html Immunohistochemistry Staining Protocol]
+* {{cite journal |author=Burnett R, Guichard Y, Barale E |title=Immunohistochemistry for light microscopy in safety evaluation of therapeutic agents: an overview |journal=Toxicology |volume=119 |issue=1 |pages=83–93 |year=1997 |pmid=9129199 |doi=10.1016/S0300-483X(96)03600-1}}
+* [http://www.creative-bioarray.com/immunohistochemistry.htm custom immunohistochemistry(IHC)detection methods]
+* {{MeshName|Immunohistochemistry}}
+* {{cite journal| doi=10.1101/pdb.prot4820| title=Immunohistochemistry of Whole-Mount Mouse Embryos| year=2008| author=Joyner, A.| journal=Cold Spring Harbor Protocols| volume=2008| pages=pdb.prot4820| last2=Wall| first2=N.| issue=2}}
+
+{{Protein methods}}
+{{pathology}}
+{{Immunologic techniques and tests}}
+
+[[Category:Immunohistochemistry| ]]
+[[Category:Histology]]
+[[Category:Immunologic tests]]
+[[Category:Protein methods]]
+[[Category:Anatomical pathology]]
+[[Category:Staining]]
+[[Category:Laboratory techniques]]
+[[Category:Pathology]]

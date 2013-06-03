@@ -1,0 +1,310 @@
+{{Multiple issues|
+{{essay |date= November 2012}}
+{{sections|date=November 2012}}
+}}
+
+In considering [[radiation]] risks for [[astronauts]], it is useful to consider the historical recommendations that [[NASA]] has received from external advisory committees. These have formed the basis for the dose limits and risk projection models.<ref>{{cite journal|last=Cucinotta|first=FA|coauthors=Badhwar, GD; Saganti, P; Schimmeriling, W; Wilson, JW; Peterson, L; Dicello, JF|title=Space radiation cancer risk projections for explloration missions, incertainty reduction and mitigation|journal=NASA TP-2002-210777|year=2002|publisher=NASA|location=Johnson Space Center, Houston}}</ref> Early [[Radiation damage|radiation effects]] usually are related to a significant fraction of cell loss that exceeds the threshold for impairment of function in a tissue. These "deterministic" effects are so called because the statistical fluctuations in the number of affected cells are very small compared to the number of cells that are required to reach the threshold.<ref>{{cite book|last=International Commission on Radiological Protection|title=1990 recommendations of the International Commission on Radiological Protection.|year=1990|publisher=Published for the International Commission on Radiological Protection by Pergamon Press|location=Oxford|isbn=9780080411446|url=http://store.elsevier.com/ICRP-Publication-60-1990-Recommendations-of-the-International-Commission-on-Radiological-Protection/isbn-9780080411446/|edition=1st ed.}}</ref> Maintaining dose limits can ensure that no early effects occur these are expected to be accurately understood. As late effects can result from changes in a very small number of cells, statistical fluctuations can be large and some level of risk is incurred even at low doses. Referring to them as "stochastic" effects recognizes the predominance of statistical effects in their manifestation.
+
+
+==Review of Space Flight Issues==
+
+[[File:Radiation Carcinogenesis Figure 4-5.jpg|thumb|Figure 4-5. Estimation of the risk per Sv delivered at low dose-rates for the average adult worker from 1970 to 1997]]
+
+In recommendations by the [[National Academies Press|NAS]] in 1967,<ref>{{cite book|last=NRC|title=Radiobiological factors in manned spaceflight, report of Space Radiation Study Panel of the Life Sciences Committee|year=1967|publisher=National Academy Press|location=Washington, D.C.|editor=Langham, WH}}</ref> it was noted that radiation protection in human space flight is philosophically distinct from the protection practices of terrestrial workers because of the high-risk nature of space missions. This report by the NAS from 1967 did not recommend "permissible doses" for space operations, noting the possibility that such limits may jeopardize the mission, but instead estimated what the likely effects would be for a given dose of radiation.
+
+In 1970, the NAS Space Science Board <ref name="NRC">{{cite book|last=NRC|title=Radiation protection guides and constraints for space-mission and vehicle-design studies involving nuclear system, Report of the Radiobiologic Advisory Panel of the Committee on Space Medicine Space Science Board|year=1970|publisher=National Academy Press|location=Washington, D.C.|editor=Langham, WH; Grahn, D}}</ref> recommended guidelines for career doses to be used by NASA for long-term mission design and human operations. At that time, NASA employed only male astronauts and the typical age of astronauts was 30 to 40 years. A "primary" reference risk" was proposed that was equal to the natural probability of cancer over a period of 20 years following the radiation exposure (using the period from 35 to 55 years of age); this was essentially a doubling dose. The estimated doubling dose of 382 rem (3.82 Sv), which ignored dose-rate reduction factor, was rounded to 400 rem (4 Sv). The NAS panel noted that its recommendations were not risk limits, but, rather, a reference risk, and that a higher risk could be considered for planetary missions or a lower level of risk for a possible space station mission.<ref name=NRC /> Ancillary reference risks were described to consider monthly, annual, and career exposure patterns. However, the NAS recommendations were implemented by NASA as dose limits that were used operationally for all missions until 1989.
+
+At the time of the 1970 NAS report, the major risk from radiation was believed to be [[leukemia]].  Since that time, the maturation of the data from the [[Atomic bombings of Hiroshima and Nagasaki|Japanese atomic-bomb]] survivors has led to estimates of higher levels of cancer risk for a given dose of radiation, including the observation that the risk of solid tumors following radiation exposure occurs with a higher probability than that of leukemias, although with a longer latency period before expression.  Figure 4-5 illustrates the changing estimates of cancer risks for an average adult worker since 1970.  Together with the maturation of the atomic-bomb data, reevaluation of the dosimetry of the atomic-bomb survivors, scientific assessments of the dose response models, and dose-rate dependencies have contributed to the large increase in risk estimate over this time period (1970 - 1997).  The possibility of future changes in risk estimates can, of course, not be safely predicted today; it is possible that such changes    Normal  0          false  false  false    EN-US  X-NONE  X-NONE                                                                           could potentially impact NASA mission operations. Thus, protection against uncertainties is an ancillary condition                                                                                                                                                                                                                                                                                         to the ALARA principle, suggesting that conservatism be exercised as workers approach dose limits.
+
+By the early 1980's, several changes had occurred that led to the need for a new approach in defining dose limits for astronauts.  At that time, NASA requested that the NCRP reevaluate the dose limits that were to be used for LEO operations.  Considerations included the increases in estimates of radiation-induced cancer risks, the criteria for risk limits, and the role of the evolving makeup of the astronaut population from male test pilots to a larger, diverse population of astronauts (~100), including mission specialists, female astronauts, and career astronauts of higher ages who often participate in several missions.  In 1989, NCRP Report No. 98 <ref name="1989 NCRP">{{cite book|last=NCRP|title=NCRP Report No. 98: Guidance on radiation received in space activities|year=1989|publisher=NCRP|location=Bethesda, Md.|url=http://www.ncrponline.org/Publications/Press_Releases/98press.html}}</ref> recommended age- and gender-dependent career dose limits using a 3% increase in cancer mortality as a common risk limit.  The limiting level of 3% excess cancer fatality risk was based on several criteria, including a comparison to dose limits for ground radiation workers and to rates of occupational death in less-safe industries.  It was noted that astronauts face many other risks, and that an overly large radiation risk was not justified.  It also should be noted that the average years of life loss from radiation-induced cancer death, which is about 15 years for workers over age 40 years and 20 years for workers between age 20 and 40 years, is less than that of other occupational injuries.  A comparison of radiation-induced cancer deaths to cancer fatalities in the U.S. population is also complex because of the smaller years of life loss in the general population, where most cancer deaths occur above 70 years.
+
+{| class="wikitable" <div style="text-align: center;">  style="float:right;"
+|+''Table 4-9''.  Career Dose Limits (in Sv) Corresponding to a 3% Excess Mortality for 10-year Careers as a Function of Age and Sex, as Recommended by the NCRP ''<ref name="1989 NCRP" /><ref name="2000 NCRP" />
+!rowspan="2" scope="col" width="100"|Age, year
+!colspan="2"|NCRP Report No. 98
+!colspan="2"|NCRP Report No. 132
+|-
+!scope="col" width="100"|Male (Sv)
+!scope="col" width="100"|Female (Sv)
+!scope="col" width="100"|Male (Sv)
+!scope="col" width="100"|Female (Sv)
+|-
+| align="center" |25
+| align="center" |1.5
+| align="center" |1.00
+| align="center" |0.7
+| align="center" |0.4
+|-
+| align="center" |35
+| align="center" |2.5
+| align="center" |1.75
+| align="center" |1.0
+| align="center" |0.6
+|-
+| align="center" |45
+| align="center" |3.2
+| align="center" |2.50
+| align="center" |1.5
+| align="center" |0.9
+|-
+| align="center" |33
+| align="center" |4.0
+| align="center" |3.00
+| align="center" |3.0
+| align="center" |1.7
+|-
+|}
+
+In the 1990s, the additional follow-up and evaluation of atomic-bomb survivor data led to further increases in the estimated cancer risk for a given dose of radiation.  Recommendations from the NCRP,<ref name="2000 NCRP">{{cite book|last=NCRP|title=NCRP Report No. 132: Recommendations of dose limits for low Earth orbit|year=2000|publisher=NCRP|location=Bethesda, Md.|url=http://www.ncrponline.org/Publications/Press_Releases/132press.html}}</ref> while keeping in the basic philosophy of risk limitation that had been in the earlier report, advocate significantly lower limits than those that were recommended in 1989.<ref name="1989 NCRP" />  Table 4-9 provides examples of career radiation limits for a career duration of 10 years, with the doses assumed to be spread evenly over the career.  The values from the previous report are also listed for comparison.  Both of these reports specify that these limits do not apply to Exploration missions because of the large uncertainties in predicting the risks of late effects from heavy ions.
+
+{| class="wikitable" <div style="text-align: center;"> style="float:right;"
+|+''Table 4-10''.  Occupational Death Rates (National Safety Council) and Lifetime Risks for 40-year Careers for the Less-safe and Safe Industries''
+!rowspan="2" scope="col" width="100"|Occupation
+!colspan="3"|Deaths per 10,000 Workers</br>per year
+!colspan="3"|Lifetime Risk (%) of</br>Occupational Death
+|-
+!scope="col" width="100"|1977
+!scope="col" width="100"|1987
+!scope="col" width="100"|2002
+!scope="col" width="100"|1977
+!scope="col" width="100"|1987
+!scope="col" width="100"|2002
+|-
+| align="center" |Agriculture
+| align="center" |5.4
+| align="center" |4.9
+| align="center" |2.1
+| align="center" |2.2
+| align="center" |2.0
+| align="center" |0.8
+|-
+| align="center" |Mining
+| align="center" |6.3
+| align="center" |3.8
+| align="center" |2.9
+| align="center" |2.5
+| align="center" |1.5
+| align="center" |1.2
+|-
+| align="center" |Construction
+| align="center" |5.7
+| align="center" |3.5
+| align="center" |1.3
+| align="center" |2.3
+| align="center" |1.4
+| align="center" |0.6
+|-
+| align="center" |Transportation
+| align="center" |3.1
+| align="center" |2.8
+| align="center" |1.0
+| align="center" |1.2
+| align="center" |1.1
+| align="center" |0.5
+|-
+| align="center" |Manufacturing
+| align="center" |0.9
+| align="center" |0.6
+| align="center" |0.28
+| align="center" |0.4
+| align="center" |0.2
+| align="center" |0.1
+|-
+| align="center" |Government
+| align="center" |1.1
+| align="center" |0.8
+| align="center" |0.36
+| align="center" |0.6
+| align="center" |0.4
+| align="center" |0.2
+|-
+| align="center" |'''All'''
+| align="center" |1.4
+| align="center" |1.0
+| align="center" |0.36
+| align="center" |0.6
+| align="center" |0.4
+| align="center" |0.2
+|-
+|}
+
+The NCRP Report No. 132 <ref name="2000 NCRP" /> noted that the use of comparisons to fatalities in the less-safe industries that were advocated by the NCRP in 1989 were no longer viable because of the large improvements that had been made in ground-based occupational safety.  Table 4-10, which shows an update to such a comparison, demonstrates that, indeed, the decreased rate of fatalities in the so-called less safe industries (e.g., mining, agriculture) would suggest a limit below the 3% fatality level today as compared to that in 1989.  The most recent reviews of the acceptable levels of radiation risk for LEO, including that provided during a 1996 NCPR symposium <ref>{{cite journal|last=NCRP|title=Acceptability of risk from radiation - application to human spaceflight|journal=NCRP Symposium Proceedings No. 3 in Arlington, Va.|date=29|year=1996|month=May|publisher=NCRP|location=Bethesda, Md.}}</ref> and the recent NCRP Report No. 132 on the LEO dose limits,<ref name="2000 NCRP" /> instead advocate that comparisons to career dose limits for ground-based workers be used.  It is also widely held that the social and scientific benefits of space flight continue to provide justification for the 3% risk level for astronauts who are participating in LEO missions.
+
+In comparison to the limits that have been set by NASA, the U.S. nuclear industry uses age-specific limits that are gender-averaged, which is of sufficient accuracy for the low doses received by nuclear workers.  Here career limits are set at a total dose-equivalent that is equal to the individual's age × 0.01 Sv.  It is measured by the NCRP that ground workers who reach their dose limits would have a lifetime risk of about 3%, but note the difference in dose values corresponding  to the limit is due to differences in how the radiation doses are accumulated over the worker's career.  The short term (30-day and 1-year) dose  limits set by NASA are several times higher than those of terrestrial workers because they are intended to prevent acute risks, while the annual dose limits of 50 mSv (5 rem), which are followed by U.S. terrestrial radiation workers, control the accumulation of career doses.
+
+The exposures that are received by radiation workers in reactors, hospitals, etc. rarely approach dose limits with the average annual exposure of 1 to 2 mSv, which is a factor of 25 below the annual exposure limit and significantly less than the average dose for a 6-month ISS mission (100 mSv).  Similarly, transcontinental pilots, although they are not characterized as radiation workers in the U.S., receive an annual exposure of about 1 to 5 mSv, and enjoy long careers without approaching the exposure limits that are recommended for terrestrial workers in the U.S.. Under these conditions, ground-based radiation workers are estimated to be well below the career limits, even if a 95% CL is applied.  As space missions have been relatively short duration in the past, thereby requiring minimal mitigation, the impact of dose limits when space programs actually approach such boundaries, including the application of the ALARA principle, has been unexplored.
+
+===Summary of Approaches for Setting Acceptable Levels of Risk===
+The various approaches to setting acceptable levels of radiation risk are summarized below.
+# ''Unlimited Radiation Risk:'' NASA management, the families or loved ones of astronauts and taxpayers would find this approach unacceptable.
+# ''Comparison to Occupational Fatalities in Less-Safe Industries:'' The life-loss from attributable radiation cancer death is less than that from most other occupational deaths.  At this time, this comparison would also be very restrictive on ISS operations because of continued improvements in ground-based occupational safety over the last 20 years.
+# ''Comparison to Cancer Rates in General Population:'' The number of years of life-loss from radiation-induced cancer deaths can be significantly larger than from cancer deaths in the general population, which often occur late in life (>age 70 years) and with significantly less numbers of years of life-loss.
+# ''Doubling Dose for 20 Years Following Exposure:'' Provides a roughly equivalent comparison based on life-loss from other occupational risks or background cancer fatalities during a worker's career; however, this approach negates the role of mortality effects later in life.
+# ''Use of Ground-based Worker Limits:'' Provides a reference point equivalent to the standard that is set on Earth, and recognizes that astronauts face other risks.  However, ground workers remain well below dose limits, and are largely exposed to low-LET radiation where the uncertainties of biological effects are much smaller than for space radiation.
+
+A more recent review of cancer and other radiation risks is provided by the NCRP Report No. 153.<ref>{{cite book|last=NCRP|title=NCRP Report No. 153: Information needed to make radiation protection recommendations fro space missions beyond low-Earth orbit|year=2006|publisher=NCRP|location=Bethesda, Md.|url=http://www.ncrponline.org/Publications/Press_Releases/153press.html}}</ref>  The stated purpose of this report if to identify and describe the information that is needed to make radiation protection recommendations for space missions beyond LEO.  The report contains a comprehensive summary of the current body of evidence for radiation-induced health risks, and makes recommendations on areas requiring future experimentation.
+
+==Past Space Missions==
+The radiation doses on past space missions have been well characterized using physical and biological dosimetry and radiation transport models.<ref name="2001 Cucinotta">{{cite journal|last=Cucinotta|first=F.A.|coauthors=Schimmerling, W; Wilson, J.W.; Peterson, L.E.; Saganti, P; Badhwar, G.D.; Dicelo, J.F.|title=Space radiation cancer risks and uncertainties for Mars missions|journal=Radiat. Res.|year=2001|volume=156|pages=682–688}}</ref><ref>{{cite journal|last=Cucinotta|first=F.A.|coauthors=Wu, H.; Shavers, M.R.; George, K|title=Radiation dosimetry and biophysicall models of space radiation effects|journal=Grav. Space Biol. Bull.|year=2003|volume=16|pages=11–18}}</ref><ref name="2008 Cucinotta">{{cite journal|last=Cucinotta|first=F.A.|coauthors=Kim, M.Y.; Willingham, V.; George, K.A.|title=Physical and biological dosimetry analysis from International Space Station astronauts|journal=Radiat. Res.|year=2008|volume=170|pages=127–138}}</ref>  Phantom torso experiments have been performed on ISS and space shuttle.<ref name="2008 Cucinotta" /><ref name=Badhwar>{{cite journal|last=Badhwar|first=G.D.|coauthors=Cucinotta, F.A.|title=A comparison of depth dependende of dose and linear energy transfer spectra in aluminium and polyethylene|journal=Radiat. Res.|year=2000|volume=153|pages=1–8}}</ref><ref name=Yasuda>{{cite journal|last=Yasuda|first=H|coauthors=Badhwar, G.D.; Komiyama, T; Fujitaka, K.|title=Effective dose equivalent on the ninth shuttle-''Mir'' mission (STS-91)|journal=Radiat. Res.|year=2000|volume=154|pages=705–713}}</ref>  Phantom torsos offer good evidence of the accuracy of the NASA radiation transport code, HZETRN,<ref>{{cite journal|last=Wilson|first=J.W.|coauthors=Kim, M; Schimmerling, W.; Badavi, F.F.; Thibeault, S.A.; Cucinotta, F.A.; Shinn, J.L.; Kiefer, R|title=Issues in space radiation protection|journal=Health Phys.|year=1995|volume=68|pages=50–58}}</ref> nuclear interaction cross sections.<ref>{{cite journal|last=Cucinotta|first=F.A.|coauthors=Kim, M.H.; Ren, R.L.|title=Evaluating shielding effectiveness for reducing space radiation cancer risks|journal=Radiat. Meas.|year=2006|volume=41|pages=1173–1185}}</ref>  Organ dose and dose-equivalent predictions are shown to agree with measurements to within ±15% in most cases, as shown in Table 4-11 (a) and (b).<ref name="2008 Cucinotta" />
+
+[[File:Radiation Carcinogenesis Figure 4-6.jpg|thumb|Figure 4-6. From Cucinotta et al.<ref name="2008 Cucinotta" /> : The frequency of translocations, complex aberrations, or total chromosome exchanges that is measured in each astronaut's blood lymphocytes before and after their respective space missions on ISS, ''Mir'' or the space shuttle. An increase in total exchanges was observed for all astronauts. Translocations (22 of 24) and complex aberrations (17 of 24) increased in the majority of astronauts.]]
+
+Biodosimetry, which has been performed on all ISS missions as well as for four astronauts on ''Mir'' missions, offers an alternative evaluation of organ dose-equivalents.  Figure 4-6 shows results for the pre- and post-flight frequency of translocations, which are complex aberrations involving more than two chromosomes, and total exchanges.  Total exchanges are increased post-flight over pre-flight values in all cases, and translocations increase in all ISS astronauts, but they did not increase for two astronauts; one who was returning from the ''Mir'' space station, and one who was on a Hubble repair mission.  To test whether the overall frequency of complex aberrations was increased by space radiation, Cucinotta et al.<ref name="2008 Cucinotta" /> pooled results into two groups: all ISS data, and all ISS data plus results from other NASA missions.  The relative frequencies for complex aberrations and translocations were shown to be highly significant (P<10<sup>−4</sup>).<ref name="2008 Cucinotta" />
+
+Figure 4-7 shows a summary of the crew doses for all NASA missions through the year 2007.  The level of accuracy in effective dose determination and in the GCR environments suggests a high level of accuracy in predicting organ dose and dose-equivalencies for both lunar and Mars missions.  The cancer projection model of NCRP Report No. 132.,<ref name="2000 NCRP" /> which can be applied to these effective doses, indicates REID values approaching 1% for many astronauts who have flown on ISS or the Russian space station ''Mir''.<ref name="2001 Cucinotta" />
+
+[[File:Radiation Carcinogenesis Figure 4-7.jpg|thumb|Figure 4-7. Summary of mission personnel dosimetry from all past NASA crews.<ref name="2008 Cucinotta" /> Effective dose and population average biological dose-equivalent for astronauts on all NASA space missions, including Mercury, Gemini, Apollo, Skylab, Apollo-Soyuz, space shuttle, shuttle-''Mir'', and ISS missions.]]
+
+{| class="wikitable" <div style="text-align: center;">
+|+''Table 4-11(a)''.  From Cucinotta et al.<ref name="2008 Cucinotta" />: Comparison of Measured Organ Dose-equivalent for the STS-91 Mission by Yasuda et al.<ref name=Yasuda /> Using the Combined CR-39/TLD Method to HZETRN/QMSFRG Space Transport Model''
+!rowspan="2" scope="col" width="200"|Tissue
+!colspan="3"|Organ Dose-equivalent, mSv
+|-
+!scope="col" width="200"|Measured
+!scope="col" width="200"|HZETRN/QMSFRG
+!scope="col" width="200"|Difference (%)
+|-
+|Skin
+| align="center" | 4.5 ± 0.05
+| align="center" | 4.7
+| align="center" | 4.4
+|-
+|Thyroid
+| align="center" | 4.0 ± 0.21
+| align="center" | 4.0
+| align="center" | 0
+|-
+|Bone Surface
+| align="center" | 5.2 ± 0.22
+| align="center" | 4.0
+| align="center" | -23.1
+|-
+|Esophagus
+| align="center" | 3.4 ± 0.49
+| align="center" | 3.7
+| align="center" | 8.8
+|-
+|Lung
+| align="center" | 4.4 ± 0.76
+| align="center" | 3.8
+| align="center" | -13.6
+|-
+|Stomach
+| align="center" | 4.3 ± 0.94
+| align="center" | 3.6
+| align="center" | -16.3
+|-
+|Liver
+| align="center" | 4.0 ± 0.51
+| align="center" | 3.7
+| align="center" | 17.5
+|-
+|Bone marrow
+| align="center" | 3.4 ± 0.40
+| align="center" | 3.9
+| align="center" | 14.7
+|-
+|Colon
+| align="center" | 3.6 ± 0.42
+| align="center" | 3.9
+| align="center" | 8.3
+|-
+|Bladder
+| align="center" | 3.6 ± 0.24
+| align="center" | 3.5
+| align="center" | -2.8
+|-
+|Gonad
+| align="center" | 4.7 ± 0.71
+| align="center" | 3.9
+| align="center" | -17.0
+|-
+|Chest
+| align="center" | 4.5 ± 0.11
+| align="center" | 4.5
+| align="center" | 0
+|-
+|Remainder
+| align="center" | 4.0 ± 0.57
+| align="center" | 4.0
+| align="center" | 0
+|-
+|'''Effective Dose'''
+| align="center" | 4.1 ± 0.22
+| align="center" | 3.9
+| align="center" | -4.9
+|-
+|}
+
+{| class="wikitable" <div style="text-align: center;">
+|+''Table 4-11(b).  From Cucinotta et al.<ref name="2008 Cucinotta" />: Comparison of Small Active Dosimetry from the ISS Expedition-2 Phantom Torso (July–August 2001) for Absolute Predictions for the HZETRN/QMSFRG Model.  [Details on the measurement procedures are given in Badhwar et al.<ref name=Badhwar />]
+!rowspan="2" scope="col" width="200"|Organ
+!colspan="2"|Dose from Trapped</br>Radiation, mGy/d
+!colspan="2"|Dose from GCR,</br>mGy/d
+!colspan="2"|Total Dose,</br>mGy/d
+!Difference</br>(%)
+|-
+!scope="col" width="100"|Expt.
+!scope="col" width="100"|Model
+!scope="col" width="100"|Expt.
+!scope="col" width="100"|Model
+!scope="col" width="100"|Expt.
+!scope="col" width="100"|Model
+!
+|-
+|Brain
+| align="center" | 0.051
+| align="center" | 0.066
+| align="center" | 0.076
+| align="center" | 0.077
+| align="center" | 0.127
+| align="center" | 0.143
+| align="center" | 13.3
+|-
+|Thyroid
+| align="center" | 0.062
+| align="center" | 0.072
+| align="center" | 0.077
+| align="center" | 0.136
+| align="center" | 0.148
+| align="center" | 9.4
+|-
+|Heart
+| align="center" | 0.054
+| align="center" | 0.061
+| align="center" | 0.075
+| align="center" | 0.076
+| align="center" | 0.129
+| align="center" | 0.137
+| align="center" | 6.7
+|-
+|Stomach
+| align="center" | 0.050
+| align="center" | 0.057
+| align="center" | 0.076
+| align="center" | 0.077
+| align="center" | 0.126
+| align="center" | 0.133
+| align="center" | 5.5
+|-
+|Colon
+| align="center" | 0.055
+| align="center" | 0.056
+| align="center" | 0.073
+| align="center" | 0.076
+| align="center" | 0.128
+| align="center" | 0.131
+| align="center" | 2.5
+|-
+|}
+
+==References==
+{{Reflist|2}}
+
+{{NASA|article=Human Health and Performance Risks of Space Exploration Missions|url=http://humanresearchroadmap.nasa.gov/evidence/reports/EvidenceBook.pdf|comment=NASA SP-2009-3405, pp. 132-134}}
+
+{{Space medicine}}
+
+[[Category:Health sciences]]
+[[Category:Occupational safety and health]]
+[[Category:Space medicine]]

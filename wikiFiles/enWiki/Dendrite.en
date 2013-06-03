@@ -1,0 +1,47 @@
+{{Redirect|Dendritic|the dendritic cell of the immune system|Dendritic cell}}
+{{About|neuronal dendrites in biology}}
+{{no footnotes|date=September 2012}}
+
+{{Neuron map|Dendrite}}
+'''Dendrites''' (from [[Ancient Greek language|Greek]] δένδρον ''déndron'', "tree") are the branched projections of a [[neuron]] that act to [[electrical conduction|conduct]] the [[electrochemistry|electrochemical]] [[stimulation]] received from other neural cells to the cell body, or [[Soma (biology)|soma]], of the neuron from which the dendrites project. Electrical stimulation is transmitted onto dendrites by upstream neurons (usually their axons) via [[synapses]] which are located at various points throughout the dendritic tree. Dendrites play a critical role in integrating these [[synapse|synaptic inputs]] and in determining the extent to which [[action potentials]] are produced by the neuron. Recent research has also found that dendrites can support action potentials and release neurotransmitters, a property that was originally believed to be specific to [[axons]].
+
+The long outgrowths on immune system [[dendritic cell]]s are also called dendrites. These dendrites do not process electrical signals.
+
+Certain classes of dendrites (i.e. [[Purkinje cells]] of cerebellum, cerebral cortex) contain small projections referred to as "appendages" or "[[Dendritic spine|spines]]". Appendages increase receptive properties of dendrites to isolate signal specificity. Increased neural activity at spines increases their size and conduction which is thought to play a role in learning and memory formation. There are approximately 200,000 spines per cell, each of which serves as a postsynaptic process for individual presynaptic axons.
+
+==Electrical properties of dendrites==
+The structure and branching of a neuron's dendrites, as well as the availability and variation in [[voltage-gated ion channel|voltage-gated ion conductances]], strongly influences how it integrates the input from other neurons, particularly those that input only weakly. This integration is both "temporal"—involving the summation of stimuli that arrive in rapid succession—as well as "spatial"—entailing the aggregation of excitatory and inhibitory inputs from separate branches.
+
+Dendrites were once believed to merely convey stimulation passively. In this example, [[voltage]] changes measured at the cell body result from activations of distal synapses propagating to the soma without the aid of [[voltage-gated ion channel]]s. [[Cable theory|Passive cable theory]] describes how voltage changes at a particular location on a dendrite transmit this electrical signal through a system of converging dendrite segments of different diameters, lengths, and electrical properties. Based on passive cable theory one can track how changes in a neuron’s dendritic morphology changes the membrane voltage at the soma, and thus how variation in dendrite architectures affects the overall output characteristics of the neuron.
+
+Although passive cable theory offers insights regarding input propagation along dendrite segments, it is important to remember that dendrite membranes are host to an abundance of [[proteins]] some of which may help amplify or attenuate synaptic input. [[Sodium]], [[calcium]], and [[potassium]] channels are all implicated in contributing to input modulation. It is possible that each of these [[ion]] species has a family of channel types each with its own biophysical characteristics relevant to synaptic input modulation. Such characteristics include the [[Latency (engineering)|latency]] of channel opening, the [[electrical conductance]] of the ion pore, the activation voltage, and the activation duration. In this way, a weak input from a distal synapse can be amplified by sodium and calcium currents en route to the soma so that the effects of distal synapse are no less robust than those of a proximal synapse.
+
+One important feature of dendrites, endowed by their active voltage gated conductances, is their ability to send action potentials back into the dendritic arbor. Known as backpropagating action potentials, these signals depolarize the dendritic arbor and provide a crucial component toward synapse modulation and [[long-term potentiation]]. Furthermore, a train of backpropagating action potentials artificially generated at the soma can induce a calcium action potential (a [[dendritic spike]]) at the dendritic initiation zone in certain types of neurons. Whether or not this mechanism is of physiological importance remains an open question.
+
+==Dendrite development==
+[[Image:Complete neuron cell diagram en.svg|thumb|right|277px]]
+Despite the critical role that dendrites play in the computational tendencies of neurons, very little is known about the process by which dendrites orient themselves [[in vivo]] and are compelled to create the intricate branching pattern unique to each specific neuronal class. One theory on the mechanism of dendritic arbor development is the [[synaptotropic hypothesis]]. A balance between metabolic costs of dendritic elaboration and the need to cover receptive field presumably determine the size and shape of dendrites.  It is likely that a complex array of [[extracellular]] and [[intracellular]] cues modulate dendrite development. Transcription factors, receptor-ligand interactions, various signaling pathways, local translational machinery, cytoskeletal elements, Golgi outposts and endosomes have been identified as contributors to the organization of dendrites of individual neurons and the placement of these dendrites in the neuronal circuitry. Important transcription factors involved in the dendritic morphogenesis includes CUT, Abrupt, Collier, Spineless, ACJ6/drifter, CREST, [[NEUROD1]], [[CREB]], [[NEUROG2]] etc.{{citation needed|date=October 2011}}. Secreted proteins and cell surface receptors includes neurotrophins and tyrosine kinase receptors, BMP7, Wnt/dishevelled, EPHB 1-3, Semaphorin/plexin-neuropilin, slit-robo, netrin-frazzled, reelin. Rac, CDC42 and RhoA serve as cytoskeletal regulators and the motor protein includes KIF5, dynein, LIS1. Important secretory and endocytic pathways controlling the dendritic development includes DAR3 /SAR1, DAR2/Sec23, DAR6/Rab1 etc. All these molecules interplay with each other in controlling dendritic morphogenesis including the acquisition of type specific dendritic arborization, the regulation of dendrite size and the organization of dendrites emanating from different neurons.
+
+==See also==
+{{Portal|Neuroscience}}
+
+*[[Oblique dendrite]]
+*[[Pyramidal neuron]]
+
+==References==
+*{{cite book |authorlink=Eric Kandel |last=Kandel |first=E. R. |last2=Schwartz |first2=J. H. |last3=Jessell |first3=T. M. |title=[[Principles of Neural Science]] |edition=4th |publisher=McGraw-Hill |location=New York |year=2000 |isbn=0-8385-7701-6 }}
+*{{cite book |authorlink=Christof Koch |last=Koch |first=C. |title=Biophysics of Computation |publisher=Oxford University Press |location=Oxford |year=1999 |isbn=0-19-510491-9 }}
+*{{cite book |url=http://www.dendrite.org/book.html |last=Stuart |first=G. |last2=Spruston |first2=N. |last3=Hausser |first3=M. |title=Dendrites |publisher=Oxford University Press |location=Oxford |year=2008 |isbn=0-19-856656-5 }}
+*{{cite journal |author=Yuh-Nung Jan |lastauthoramp=yes |author2=Lily Yeh Jan |year=2010 |title=Branching out: mechanisms of dendritic arborization |journal=Nature Review Neuroscience |volume=11 |issue=5 |pages=316–328 |doi=10.1038/nrn2836 |pmc=3079328 |pmid=20404840}}
+
+==External links==
+{{Commons category|Dendrites (neuron)|Dendrites}}
+* {{OklahomaHistology|3_09}} - "Slide 3 [[Spinal cord]]"
+* [http://ccdb.ucsd.edu/sand/main?stype=lite&keyword=dendritic%20tree&Submit=Go&event=display&start=1 Dendritic Tree - Cell Centered Database]
+*[http://www.detraditie.nl/sdt_sdtreferenceseries/sdt_rsi_2011_dendrites.pdf Stereo images of dendritic trees in ''Kryptopterus'' electroreceptor organs]
+
+{{Nervous tissue}}
+
+[[Category:Neurons]]
+[[Category:Neurophysiology]]
+[[Category:Cellular neuroscience]]

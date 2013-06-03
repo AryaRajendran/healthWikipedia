@@ -1,0 +1,99 @@
+{{Redirect|MeSH|the organic chemical|Methanethiol}}
+{{infobox_biodatabase
+|title = Medical subject headings
+|logo =[[File:Database.png]]
+|description = Medical subject headings.
+|scope = [[controlled vocabulary]]
+|organism =
+|center = [[United States National Library of Medicine]]<br />[[National Center for Biotechnology Information]]
+|laboratory = [[United States National Library of Medicine]]
+|author = F B Rogers
+|pmid = PMID 13982385<ref>{{cite journal | quotes = yes|last=Rogers|first=F B|authorlink=|year=1963|month=Jan|title=Medical subject headings|journal = Bull Med Libr Assoc|volume=51|issue=|pages=114–6|publisher= | issn = 0025-7338| pmid = 13982385| bibcode = | oclc =| id = | url = | pmc = 197951 |language = eng| format = | accessdate = | laysummary = | laysource = | laydate = | quote = }}</ref>
+|released =
+|standard =
+|format =
+|url =
+|download =
+|webservice =
+|sql =
+|sparql =
+|webapp =
+|standalone =
+|license =
+|versioning =
+|frequency =
+|curation =
+|bookmark =
+|version=
+}}
+'''Medical Subject Headings''' ('''MeSH''') is a comprehensive [[controlled vocabulary]] for the purpose of [[index (publishing)|indexing]] journal articles and books in the life sciences; it can also serve as a [[thesaurus]] that facilitates searching. Created and updated by the [[United States National Library of Medicine]] (NLM), it is used by the [[MEDLINE]]/[[PubMed]] article database and by NLM's catalog of book holdings.
+
+MeSH was introduced in 1963. The yearly printed version was discontinued in 2007 and MeSH is now available online only.<ref name="factsheet">{{cite web | title = Medical Subject Headings (MeSH) Fact sheet | publisher = [[National Library of Medicine]] | date = 2005-05-27 | url = http://www.nlm.nih.gov/pubs/factsheets/mesh.html | accessdate = 2007-05-31}}</ref> It can be browsed and downloaded free of charge through [[PubMed]]. Originally in English, MeSH has been translated into numerous other languages and allows retrieval of documents from different languages.
+
+==Structure of MeSH==
+<!-- [[Image:MeSH-example.svg|frame|Hierarchical relationships in MeSH 2005: ''Stomach Neoplasms'' and all of its broader terms]]-->
+The 2009 version of MeSH contains a total of 25,186 ''subject headings'', also known as ''descriptors''.<ref name="factsheet"/> Most of these are accompanied by a short description or definition, links to related descriptors, and a list of synonyms or very similar terms (known as ''entry terms''). Because of these synonym lists, MeSH can also be viewed as a [[thesaurus]].<ref>[http://www.nlm.nih.gov/mesh/introduction.html Introduction to MeSH – 2010]</ref>
+
+===Descriptor hierarchy===
+The ''descriptors'' or ''subject headings'' are arranged in a [[hierarchy]]. A given descriptor may appear at several locations in the hierarchical tree. The tree locations carry systematic labels known as ''tree numbers'', and consequently one descriptor can carry several tree numbers. For example, the descriptor "Digestive System Neoplasms" has the tree numbers C06.301 and C04.588.274; C stands for Diseases, C06 for Digestive System Diseases and C06.301 for Digestive System Neoplasms; C04 for Neoplasms, C04.588 for Neoplasms By Site, and C04.588.274 also for Digestive System Neoplasms. The tree numbers of a given descriptor are subject to change as MeSH is updated. Every descriptor also carries a unique alphanumerical ID that will not change.
+
+===Descriptions===
+Most subject headings come with a short description or definition. See the [http://www.ncbi.nlm.nih.gov/sites/entrez?Db=mesh&Cmd=ShowDetailView&TermToSearch=68003924&ordinalpos=3&itool=EntrezSystem2.PEntrez.Mesh.Mesh_ResultsPanel.Mesh_RVDocSum MeSH description for diabetes type 2] as an example. The explanatory text is written by the MeSH team based on their standard sources if not otherwise stated. References are mostly encyclopaedias and standard textbooks of the subject areas. References for specific statements in the descriptions are not given, instead readers are referred to the [http://www.nlm.nih.gov/mesh/intro_biblio2007.html bibliography].
+
+===Qualifiers===
+In addition to the descriptor hierarchy, MeSH contains a small number of standard ''qualifiers'' (also known as ''subheadings''), which can be added to descriptors to narrow down the topic.<ref>[http://www.nlm.nih.gov/mesh/2009/introduction/topsubscope.html List of qualifiers – MeSH 2009]</ref> For example, "Measles" is a descriptor and "epidemiology" is a qualifier; "Measles/epidemiology" describes the subheading of epidemiological articles about Measles. The "epidemiology" qualifier can be added to all other disease descriptors. Not all descriptor/qualifier combinations are allowed since some of them may be meaningless. In all there are 83 different qualifiers.
+
+===Supplements===
+In addition to the descriptors, MeSH also contains some 139,000 ''Supplementary Concept Records''. These do not belong to the controlled vocabulary as such; instead they enlarge the thesaurus and contain links to the closest fitting descriptor to be used in a MEDLINE search. Many of these records describe chemical substances.
+
+==Use in Medline/PubMed==
+In MEDLINE/PubMed, every journal article is indexed with about 10–15 subject headings, subheadings and supplementary concept records, with some of them designated as ''major'' and marked with an asterisk, indicating the article's major topics. When performing a MEDLINE search via PubMed, entry terms are automatically translated into (i.e. mapped to) the corresponding descriptors with a good degree of reliability; it is recommended to check the 'Details tab' in PubMed to see how a search formulation was translated. By default, a search for a descriptor will include all the descriptors in the hierarchy below the given one.
+
+==Categories==
+:''For the full hierarchy, see [[List of MeSH codes]]''<br>
+The top-level categories in the MeSH descriptor hierarchy are:
+* [[Anatomy]] [A]
+* [[Organism]]s [B]
+* Diseases [C]
+* [[Chemical substance|Chemicals]] and Drugs [D]
+* Analytical, [[medical diagnosis|Diagnostic]] and Therapeutic Techniques and Equipment [E]
+* [[Psychiatry]] and [[Psychology]] [F]
+* [[Biological sciences|Biological Sciences]] [G]
+* [[Physical sciences|Physical Sciences]] [H]
+* [[Anthropology]], Education, [[Sociology]] and Social Phenomena [I]
+* Technology and Food and Beverages [J]
+* [[Humanities]] [K]
+* [[Information Science]] [L]
+* Persons [M]
+* Health Care [N]
+* Publication Characteristics [V]
+* [[Geographic]] Locations [Z]
+
+==See also==
+* [[GoPubMed]], searching Medline with MeSH as "table of content"
+* [[Medical classification]]
+* [[Medical literature retrieval]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.nlm.nih.gov/mesh/ Medical Subject Heading Home] provided by National Library of Medicine, National Institutes of Health (U.S.)
+* [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=mesh MeSH database tutorials]
+* [http://www.nlm.nih.gov/bsd/disted/pubmedtutorial/020_040.html Automatic Term Mapping]
+* Browsing MeSH:
+** [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=mesh Entrez]
+** [http://www.nlm.nih.gov/mesh/MBrowser.html MeSH Browser]
+** [http://www.curehunter.com/public/dictionary.do Visual MeSH Browser] mapping drug-disease relationships in research
+** [http://www.reference.md/ Reference.MD]
+** [http://www.meshine.info/ MeSHine]
+* [http://www.nlm.nih.gov/mesh/2009/introduction/topsubscope.html List of qualifiers – 2009]
+
+{{Medical classification}}
+[[Category:Medical Subject Headings| ]]
+[[Category:Bioinformatics]]
+[[Category:Medical research]]
+[[Category:Medical classification]]
+[[Category:Library cataloging and classification]]
+[[Category:Thesauri]]
+[[Category:Biological databases]]

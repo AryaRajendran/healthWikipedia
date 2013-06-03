@@ -1,0 +1,169 @@
+'''SNOMED CT''' ('''S'''ystematized '''No'''menclature Of '''Med'''icine '''C'''linical '''T'''erms), is a systematically organised computer processable collection of [[medical terms]] providing codes, terms, synonyms and definitions covering diseases, findings, procedures, microorganisms, substances, etc. It allows a consistent way to index, store, retrieve, and aggregate clinical data across specialties and sites of care. It also helps in organizing the content of medical records, reducing the variability in the way data is captured, encoded and used for clinical care of patients and research.<ref>{{cite journal |last1=Ruch |first1=Patrick |last2=Gobeill |first2=Julien |last3=Lovis |first3=Christian |last4=Geissbühler |first4=Antoine |title=Automatic medical encoding with SNOMED categories |journal=BMC Medical Informatics and Decision Making |volume=8 |pages=S6 |year=2008 |pmid=19007443 |pmc=2582793 |doi=10.1186/1472-6947-8-S1-S6}}</ref> 
+The primary purpose of SNOMED CT is to support the effective clinical recording of data with the aim of improving patient care.  It is a structured collection of medical terms that are used internationally for recording clinical information and are coded in order to be computer processable. It covers areas such as diseases, symptoms, operations, treatments, devices and drugs. Its purpose is to consistently index, store, retrieve, and aggregate clinical data across specialties and sites of care. It helps organizing the content of [[electronic medical record|electronic health records systems]], reducing the variability in the way data is captured, encoded and used for clinical care of patients and research. Specific language editions are available which augment the international Edition and can contain language translations as well as additional national terms.
+SNOMED CT is considered by some to be the most comprehensive, multilingual clinical healthcare terminology in the world. It provides for consistent information interchange and is fundamental to an interoperable electronic health record. It can be used to record the clinical details of individuals in electronic patient records and support application functionality such as informed decision making, linkage to clinical care pathways and knowledge resources, shared care plans and as such support long term patient care.
+The availability of free automatic coding tools and services, which can return a ranked list of SNOMED CT descriptors to encode any clinical report, could help healthcare professionals to navigate the terminology.
+
+==History==
+Over four decades, SNOMED has developed from a pathology-specific nomenclature (SNOP) into a logic-based health care terminology.<ref>{{cite journal |last1=Cornet|first1=Ronald |last2=de Keizer |first2=Nicolette |title=Forty years of SNOMED: a literature review |journal=BMC Medical Informatics and Decision Making |volume=8 |pages=S2 |year=2008 |pmid=19007439}}</ref> 
+In January 2002, SNOMED CT was created by the merger, expansion, and restructuring of the [[College of American Pathologists]] (CAP) SNOMED RT (Reference Terminology) and the UK [[National Health Service]] (NHS) Clinical Terms (also known as the [[Read codes]]).<ref>http://www.nlm.nih.gov/research/umls/Snomed/snomed_announcement.html SNOMED CT Announcement</ref><ref name='FAQ'>[http://www.nlm.nih.gov/research/umls/Snomed/snomed_faq.html SNOMED FAQ]</ref>   The historical strength of the SNOMED was its coverage of medical specialties, while the strength of Clinical Terms Version 3 was its terminologies for general practice. SNOMED CT cross maps to such other terminologies as [[ICD-9-CM]], ICD-O3, [[ICD-10]], Laboratory [[LOINC]] and [[OPCS-4]]. It supports [[ANSI]], [[DICOM]], [[HL7]], and [[International Organization for Standardization|ISO]] standards. SNOMED CT is currently used in a joint project with the WHO as the [[Ontology (information science)|ontological]] basis of the upcoming ICD 11.  
+The [[National Library of Medicine]] (NLM), on behalf of the U.S. Department of Health and Human Services, entered into an agreement with College of American Pathologists for a perpetual license for the core SNOMED CT (in Spanish and English) and ongoing updates.  The contract provides to NLM a perpetual [http://www.nlm.nih.gov/research/umls/Snomed/snomed_license.html license] to distribute SNOMED within the NLM’s [http://www.nlm.nih.gov/research/umls/Snomed/snomed_main.html Unified Medical Language System] [[UMLS Metathesaurus]] for no cost use within the U.S. by both U.S. government (federal, state, local, and territorial) and private organizations. The contract also covers updates to SNOMED CT issued by the College of American Pathologists between June 30, 2003 and June 29, 2008. 
+In April 2007, SNOMED CT was acquired by [[IHTSDO]], The International Health Terminology Standards Development Organisation.
+SNOMED CT is currently available in American English, British English, Spanish, Danish, and Swedish with other translations under way or nearly completed in French, and Dutch.
+
+==Structure==
+SNOMED CT "Concepts" are representational units that categorize all the things that characterize health care processes and need to be recorded therein. In 2011, SNOMED CT includes more than 311,000 concepts, which are uniquely identified by a concept ID, i.e. the concept 22298006 refers to ''Myocardial infarction''. All SNOMED CT concepts are organized into acyclic taxonomic (is-a) hierarchies; for example, ''Viral pneumonia'' IS-A ''Infectious pneumonia'' IS-A ''Pneumonia'' IS-A ''Lung disease''.  Concepts may have multiple parents, for example ''Infectious pneumonia'' is also a child of ''Infectious disease''. The taxonomic structure allows data to be recorded and later accessed at different levels of aggregation.  
+SNOMED CT concepts are linked by approximately 1,360,000 links, called ''relationships''.<ref>SNOMED CT Documentation is publicly available at http://www.snomed.org/doc</ref>   
+
+Concepts are further described by various clinical terms or phrases, called Descriptions, which are divided into ''Fully Specified Names'' (FSNs), ''Preferred Terms'' (PTs), and ''Synonyms''.  Each Concept has exactly one FSN, which is unique across all of SNOMED CT. It has, in addition, exactly one PT, which has been decided by a group of clinicians to be the most common way of expressing the meaning of the concept. It may have zero to many Synonyms. Synonyms are additional terms and phrases used to refer to this concept. They do not have to be unique or unambiguous.
+
+===The formal model underlying  SNOMED CT===
+
+SNOMED CT can be characterized as a multilingual thesaurus with an [[Ontology (information science)|ontological foundation]]. Thesaurus-like features are concept–term relations such as the synonymous descriptions "Acute coryza", "Acute nasal catarrh", "Acute rhinitis", "Common cold" (as well as Spanish "resfrío común" and "rinitis infecciosa") for the concept 82272006.  
+
+Under [[Ontology (information science)|ontological]] scrutiny SNOMED-CT is a class hierarchy (with extensive overlap of classes in contrast to typical statistical classifications like ICD). 
+This means that the SNOMED-CT concept 82272006 defines the class of all the individual disease instances that match the criteria for "common cold" (e.g., one patient may have "head cold" noted in their record, and another may have "Acute coryza"; both can be found as instances of "common cold").  
+The superclass (Is-A) Relation relates classes in terms of inclusion of their members. That is, all individual "cold-processes" are also included in all superclasses of the class Common Cold, such as Viral upper respiratory tract infection (Figure).
+[[File:SNOMED primitive concept.jpg|thumb|''Common cold'' as a primitive concept in SNOMED CT]]
+
+SNOMED CT's relational statements are basically triplets of the form Concept<sub>1</sub> - Relation<sub>x</sub> - Concept<sub>2</sub>, with Relation<sub>x</sub> being from a small number of relation types (called linkage concepts), e.g. ''finding site'', ''due to'', etc. The interpretation of these triplets is (implicitly) based on the semantics of a simple [Description logic] (DL). E.g., the triplet ''Common Cold'' -  '''causative agent''' – ''Virus'', corresponds to the first-order expression
+
+  forall x:  instance-of (x, ''Common cold'') ->  exists y: instance-of (y, ''Virus'') and '''causative-agent''' (y, x) 
+
+or the more intuitive DL expression
+
+  ''Common cold'' subClassOf '''causative-agent''' some ''Virus''
+
+In the ''Common cold'' example the concept description is "primitive", which means that necessary criteria are given that must be met for each instance, without being sufficient for classifying a disorder as an instance of ''Common Cold'' . In contrast, the example ''Viral upper respiratory tract infection'' depicts a fully described concept, which is represented in description logic as follows: 
+
+[[File:SNOMED defined concept.jpg|thumb|''Viral upper respiratory tract infection'' as a defined concept in SNOMED CT]]
+
+  ''Viral upper respiratory tract infection'' equivalentTo
+  	''Upper respiratory infection'' and ''Viral respiratory infection'' and
+  		'''Causative-agent''' some ''Virus'' and 
+  		'''Finding-site''' some ''Upper respiratory tract structure'' and 
+  		'''Pathological-process''' some ''Infectious process''  
+
+This means that each and every individual disorder for which all definitional criteria are met can be classified as an instance of Viral upper respiratory tract infection.
+
+===Description logics===
+As of 2011, SNOMED CT content limits itself to a subset of the [[EL++]] formalism, restricting itself to the following operators:
+*Top, bottom
+*Primitive roles and concepts with asserted parent(s) for each
+*Concept definition and conjunction but NOT disjunction or negation
+*Role hierarchy but not role composition
+*Domain and range constraints
+*Existential but not universal restriction
+*A restricted form of role inclusion axiom (xRy ^ ySz => xRz)
+*The logic will be extended in the near future to include General Concept Inclusion Axioms.
+
+===Pre- and postcoordination===
+
+SNOMED CT provides a compositional syntax<ref>SNOMED Clinical Terms®Transforming Expressions to Normal Forms www.ihtsdo.org/fileadmin/user_upload/Docs_01/Technical_Docs/SNOMED_CT_Expression_Transformations_20080131.pdf</ref> for building new concepts. For example, there might not be an explicit concept for a burn in the palm of the hand. Using the compositional syntax it could be described as
+
+  413350009 | finding with explicit context | :
+  { 246090004 | associated finding | = ( 284196006 | burn of skin | :
+    246112005 | severity | = 24484000 | severe | 
+  , 363698007 | finding site | = 321472003 | structure of dermatoglyphic patterns of palm |)
+  , 408729009 | finding context | = 410515003 | known present | 
+  , 408731000 | temporal context | = 410512000 | current or specified | 
+  , 408732007 | subject relationship context | = 410604004 | subject of record | 
+  }
+
+Such expressions are said to have been 'post-coordinated'.  When used, post coordinated conditions avoids the need to create large numbers of defined Concepts within SNOMED CT.  However, most systems only allow for pre-coordinated conditions. Reliable analysis and comparison of any such post-coordinated expression - with respect to both those concepts already within the SNOMED CT release dataset and any other ''ad hoc'' concepts created or yet to be created by its community of end users - properly requires an appropriate machinery to efficiently process description logics expressions.
+
+===Known deficiencies and mitigation strategies===
+
+Earlier SNOMED versions had faceted structure ordered by semantic axes, requiring that more complex situations required to be coded by a coordination of different codes. This had two major shortcomings. On the one hand, the necessity of post-coordination was  perceived as a user-unfriendly obstacle, which has certainly contributed to the rather low adoption of early SNOMED versions. On the other hand, uniform coding was difficult to obtain. E.g.,''Acute appendicitis'' could be post-coordinated in three different ways<ref>Spackman KA, Campbell KE. Compositional concept representation using SNOMED: towards further convergence of clinical terminologies. Proc AMIA Symp. 1998:740-744</ref> with no means to compute semantic equivalences.  
+SNOMED RT had addressed this problem by introducing description logic formula. With the addition of CTV3 a large number of concepts were redefined using formal expressions.  However, the fusion with CTV3, as a historically grown terminology with many close-to user descriptions, introduced some problems which still affect SNOMED CT. In addition to a confusing taxonomic web of many hierarchical levels with massive multiple inheritance (e.g. there are 36 taxonomic ancestors for ''Acute appendicitis''), many ambiguous, context-dependent concepts have found their way into SNOMED CT. Pre-coordination was sometimes pushed to extremes, so there are, for example, 350 different concepts for burns found on the head. 
+
+A further phenomenon which characterizes parts of SNOMED CT is the so called ''epistemic intrusion''.<ref>Ingenerf J, Linder R. Assessing applicability of [[Ontology (information science)|ontological principles]] to different types of biomedical vocabularies. Methods of Information in Medicine 2009;48(5):459-467. Epub 2009 May 15</ref>
+In principle, the task of terminology (and even an [[Ontology (information science)|ontology]]) should be limited to providing context-free term or class meanings. The contextualization of these representational units should be ideally the task of an information model.<ref>Rector A. (2008) Barriers, approaches and research priorities for integrating biomedical [[Ontology (information science)|ontologies]]. Semantic Health Deliverable 6.1  http://www.semantichealth.org/DELIVERABLES/SemanticHEALTH_D6_1.pdf</ref>
+Human language is misleading here, as we use syntactically similar expression to represent categorically distinct entities, e.g. ''Ectopic pregnancy'' vs. ''Suspected pregnancy''.  The first one refers to a real pregnancy, the second one to a piece of (uncertain) ''information''.  In SNOMED CT most (but not all) of these context-dependent concepts are concentrated in the subhierachy ''Situation with explicit context''. A major reason for why such concepts cannot be dispensed with is that SNOMED CT takes on, in many cases, the functionality of information models, as the latter do not exist in a given implementation. 
+
+With the establishment of [[IHTSDO]] SNOMED CT became more accessible to a wider audience. Criticism of the state of the terminology was sparked by numerous substantive weaknesses as well as on the lack of quality assurance measures.<ref>Schulz S, Suntisrivaraporn B, Baader F, Boeker M. SNOMED reaching its adolescence: ontologists' and logicians' health check. International Journal of Medical Informatics. 2009 Apr;78 Suppl 1:S86-94. Epub 2008 Sep 12.</ref> From the beginning IHTSDO was open regarding such (also academic) criticism. In the last few years considerable progress has been made regarding quality assurance and [http://www.ihtsdo.org/publications/tools-for-terminology-developmentmaintenance/ tooling].
+
+The need for a more principles [[Ontology (information science)|ontological foundation]] was gradually accepted, as well as a better understanding of description logic semantics. Redesign priorities were formulated regarding observables,<ref>SNOMED CT® Style Guide: Observable Entities and Evaluation Procedures (Laboratory) Draft IHTSDO Standard v1.0, 2010-06-30, http://www.ihtsdo.org/fileadmin/user_upload/Docs_01/Publications/Drafts_for_review/SNOMED_CT_Style_Guide_Observables_v1.0.pdf</ref> disorders, findings,<ref>Schulz S, Spackman K, James A, Cocos C, Boeker M. Scalable representations of diseases in biomedical [[Ontology (information science)|ontologies]]. Journal of Biomedical Semantics. 2011 May 17;2 Suppl 2:S6.</ref> substances, organisms etc. Translation guidelines<ref>www.ihtsdo.org/fileadmin/user_upload/Docs_01/About_IHTSDO/Publications/IHTSDO_Translation_Guidelines_v2.00_20100407.pdf</ref> were elaborated  as well as guidelines for content submission requests and a strategy for the inclusion of pre-coordinated content. There are still known deficiencies regarding the "[[Ontology (information science)|ontological commitment]]" of SNOMED CT,<ref>Schulz, S; Cornet, R; Spackman, K Consolidating SNOMED CT’s .  Applied ontology. 2011; 6: 1-11.</ref> e.g., the clarification of which kind of entity is an instance of a given SNOMED CT concept. The same term can be interpreted as a disorder or a patient with a disorder, for example ''Tumour'' might denote a process or a piece of tissue; ''Allergy'' may denote an allergic reaction or just an allergic disposition. A more recent strategy is the use of rigorously typed upper-level [[Ontology (information science)|ontologies]] to disambiguate SNOMED CT content.
+
+The increased take-up of SNOMED CT into applications in daily use across the world to support patient care is leading to a larger engaged community.  This has led to an increase in the resource allocated to authoring SNOMED CT terms as well as to an increase in collaboration to take SNOMED CT into a robust industry used standard. This is leading to an increase in the number of software tools and development of materials that contribute to knowledge base to support implementation. A number of on-line communities that focus on particular aspects of SNOMED CT and its implementation are also developing.
+
+In theory, description logic reasoning can be applied to any new candidate post-coordinated expressions in order to assess whether it is a parent or ancestor of, a child or other descendent of, or semantically equivalent to any existing concept from the existing pre-coordinated concepts. However, partly as the continuing fall-out from the merger with CTV3, SNOMED still contains undiscovered semantically duplicate primitive and defined concepts. Additionally, many concepts remain primitive whilst their semantics can also be legitimately defined in terms of other primitives and roles concurrently in the system. Because of these omissions and actual or possible redundancies of semantic content, real-world performance of algorithms to infer subsumption or semantic equivalence will be unpredictably imperfect.
+
+===SNOMED CT and ICD===
+SNOMED CT is a clinical terminology designed to capture and represent patient data for clinical purposes<ref>Kostick, K. (2012) SNOMED CT Integral Part of Quality HER Documentation. Journal of AHIMA 83.10 (October 2012): 72-75.</ref>.  International Classification of Diseases ([[ICD]]) is a statistical classification system used to assign diagnostic and procedural codes in order to produce coded data for statistical analysis, epidemiology,  reimbursement and resource allocation <ref>http://www.who.int/classifications/icd/en/</ref>.  Both systems use standardized definitions and form a common medical language used within the electronic health record (EHR) systems <ref>Bowman, S. (2005) Coordinating SNOMED-CT and ICD-10: Getting the Most out of Electronic Health Record Systems. Journal of AHIMA 76(7):60-61. www.ahima.org/perspectives</ref>. SNOMED CT enables information input into EHR during the course of patient care, while ICD facilitates information retrieval, or output, for secondary data purposes<ref>Truran, D., Saad, P. Zhang, M., Innes, K. (2010) SNOMED CT and its place in health information management practice. Health Information Management Journal Vol 39 (2):37-39 ISSN 1833-3583 (Print) 1833-3575 (Online)</ref><ref>Bowman, S. (2005) Coordinating SNOMED-CT and ICD-10: Getting the Most out of Electronic Health Record Systems. Journal of AHIMA 76(7):60-61. www.ahima.org/perspectives</ref>.
+
+{| class="wikitable"
+|-
+!  !! SNOMED CT !! ICD
+|-
+| '''Type''' || Terminology System || Classification System
+|-
+| '''Purpose''' || Information Input || Information Output
+|-
+| '''Function''' || Describes and defines clinical information for primary data purposes || Aggregates and categorizes clinical information for secondary data purposes
+|}
+
+==Use==
+SNOMED CT is used in a number of different ways, some of which are:
+* It captures clinical information at the level of detail needed for the provision of healthcare
+* Through sharing data it can reduce the need to repeat health history at each new encounter with a healthcare professional
+* Information can be recorded by different people in different locations and combined into simple information views within the patient record
+* Use of a common terminology decreases the potential for differing interpretation of information
+* Electronic recording in a common way reduces errors and can help to ensure completeness in recording all relevant data
+* Standardised information makes analysis easier, supporting quality, cost effective practice, research and future clinical guideline development
+* A clinical terminology allows a health care provider to identify patients based on specified coded information, and more effectively manage screening, treatment and follow up
+
+===Use cases===
+More specifically, the following sample computer applications use SNOMED CT:
+
+*Electronic Health Record Systems
+*Computerized Provider Order Entry [[CPOE]] such as E-Prescribing or Laboratory Order Entry
+*Catalogues of clinical services; ''e.g.'', for Diagnostic Imaging procedures
+*Knowledge databases used in [[clinical decision support system]]s (CDSS)
+*Remote Intensive Care Unit Monitoring
+*Laboratory Reporting
+*Emergency Room Charting
+*Cancer Reporting
+*Genetic Databases
+
+===Access===
+SNOMED CT is maintained and distributed by the [[IHTSDO]], an international non-profit standards development organization, located in Copenhagen, Denmark. 
+The use of SNOMED CT in production systems requires a [http://www.snomed.org/license license]. There are two models. On the one hand SNOMED CT can be achieved by national membership in the IHTSDO (charged according to the [[GNP]]). On the other hand it can be used via a corporate business license (dependent on the number of end users). LDCs (least developed countries) can use SNOMED CT without charges.
+For scientific research in medical informatics, for demonstrations or evaluation purposes SNOMED CT sources can be freely downloaded and used. The original SNOMED CT sources in tabular form are accessible by registered users of the [[Unified Medical Language System]] (UMLS) who have signed an agreement. Numerous online and offline [http://www.nlm.nih.gov/research/umls/Snomed/snomed_browsers.html browsers] are available .
+Those wishing to obtain a license for its use and to download SNOMED CT should contact their National Release Centre, links to which are provided on the [http://www.ihtsdo.org/members/ IHTSDO] web site .
+
+==See also==
+* [[Clinical Care Classification System]]
+*[[IHTSDO|IHTSDO - International Health Terminology Standards Development Organization]]
+*[[HL7]]
+*[[EN 13606]]
+*[[MEDCIN]]
+*[[Clinical Data Interchange Standards Consortium|CDISC]]
+*[[DOCLE]]
+*[[Omaha System]]
+
+==References==
+<references/>
+<references/>
+
+==External links==
+*[http://www.ihtsdo.org/ IHTSDO Web Site - Home of the owners of SNOMED]
+*[http://www.snomed.org/benefits.pdf SNOMED CT Value Proposition]
+*[http://www.snomed.org/doc SNOMED CT Online Documentation Directory]
+*[http://www.capsts.org CAP SNOMED Terminology Solutions - the original creators of SNOMED CT]
+*[http://semfinder-snomed.ch/ Online SNOMED CT Browser English and German]
+*[http://www.cliniclue.com CliniClue SNOMED CT Browser (Windows) - freeware download]
+*[http://www.nlm.nih.gov/research/umls/Snomed/snomed_faq.html UMLS-SNOMED FAQs]
+*[http://www.connectingforhealth.nhs.uk/terminology/snomed NHS Connecting for Health UK]
+*[http://snob.eggbird.eu SNOB - Desktop SNOMED Browser (Windows/WINE) - freeware download]
+*[http://snomed.dataline.co.uk/ SNOMED CT Browser with SNOFLAKE view at dataline.co.uk]
+*[http://terminology.vetmed.vt.edu/SCT/menu.cfm VMIL terminology browser]
+*[http://bitem.hesge.ch/content/snocat SNOCat: the SNOMED Categorizer/Browser]
+*[http://aehrc.com/snapper/minnow/ Minnow SNOMED CT Browser (Windows/Mac OS X/Linux) - freeware download]
+*[http://ontology.buffalo.edu/medo/SNOMED_Smith.html Problems with SNOMED (Papers by Barry Smith)]
+*[http://www.b2international.com/portal/snow-owl Snow Owl - Freeware multiplatform SNOMED CT browser and authoring tool integrating Protégé.]
+*[http://northern.assist.org.uk/Documents/2007%20-%202008/0704/SnomedCT.pps “What Is SNOMED Clinical Terms"]
+*[http://www.healthdatamanagement.com/html/PortalStory.cfm?type=newprod&DID=7841, ''Health Data Management'', February 14, 2002:  “New Clinical Terminology Available from SNOMED,”]
+
+[[Category:Medical classification]]
+[[Category:Nursing classification]]
+[[Category:Health standards]]

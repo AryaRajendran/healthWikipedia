@@ -1,0 +1,593 @@
+{{Infobox disease
+ | Name           = X-linked congenital stationary night blindness
+ | Image          = Gray881.png
+ | Caption        = Malfunction in transmission from the photoreceptors in the [[outer nuclear layer]] to bipolar cells in the [[inner nuclear layer]] underlies CSNB.
+ | DiseasesDB     = 32689
+ | ICD10          = {{ICD10|H|53|6|h|53}}
+ | ICD9           = {{ICD9|368.61}}
+ | ICDO           =
+ | OMIM           = 310500
+ | OMIM_mult      = {{OMIM2|300071}}
+ | MedlinePlus    = 003039
+ | eMedicineSubj  =
+ | eMedicineTopic =
+ | MeshID         =
+}}
+'''X-linked congenital stationary night blindness''' (CSNB) is a rare [[X-linked]] non-progressive [[retina]]l disorder. It has two forms, complete, also known as type-1 (CSNB1), and incomplete, also known as type-2 (CSNB2), depending on severity. In the complete form (CSNB1), there is no measurable [[rod cell]] response to light, whereas this response is measurable in the incomplete form. Patients with this disorder have difficulty adapting to low light situations due to impaired [[photoreceptor cell|photoreceptor]] [[neurotransmission|transmission]]. These patients also often have reduced visual acuity, [[myopia]], [[pathologic nystagmus|nystagmus]], and [[strabismus]]. CSNB1 is caused by mutations in the gene [[NYX (gene)|NYX]], which encodes a protein involved in retinal [[synapse]] formation or synaptic transmission. CSNB2 is caused by mutations in the gene CACNA1F, which encodes a [[voltage-gated calcium channel]] Ca<sub>V</sub>1.4.
+
+==Symptoms==
+The [[X-linked]] varieties of congenital stationary night blindness (CSNB) can be differentiated from the autosomal forms by the presence of [[myopia]], which is typically absent in the autosomal forms. Patients with CSNB often have impaired night vision, [[myopia]], reduced [[visual acuity]], [[strabismus]], and [[pathologic nystagmus|nystagmus]]. Individuals with the complete form of CSNB (CSNB1) have highly impaired [[rod cell|rod]] sensitivity (reduced ~300x) as well as [[cone cell|cone]] dysfunction. Patients with the incomplete form can present with either myopia or [[hyperopia]].<ref name="Boycott_2998">{{cite journal | author = Boycott K, Pearce W, Musarella M, Weleber R, Maybaum T, Birch D, Miyake Y, Young R, Bech-Hansen N | title = Evidence for genetic heterogeneity in X-linked congenital stationary night blindness | journal = Am J Hum Genet | volume = 62 | issue = 4 | pages = 865–875 | year = 1998 | pmid = 9529339 | doi = 10.1086/301781 | pmc = 1377021}}</ref>
+
+==Cause==
+CSNB was originally believed to be caused by malfunction in neurotransmission from [[rod cell|rods]] to [[bipolar cell]]s in the retina. This is due to [[electroretinogram]] (ERG) measurements on CSNB patients which show a drastic decrease in the size of the [[scotopic]] b-wave in comparison to the a-wave, in CSNB2, or a complete loss of both in CSNB1. The a-wave is believed to represent the response of rods to visual input and remains largely unchanged in CSNB2 patients. The b-wave, however, is believed to result from electrical activity of [[bipolar cell]]s and is decreased or non-existent in both CSNB1 and 2. CSNB1 patients also show mildly altered cone activity. Further study has demonstrated that the defects found in CSNB patients are better explained by more general defects in both the rod and cone ON-signaling pathways.
+
+==Pathophysiology==
+
+===CSNB1===
+The complete form of X-linked congenital stationary night blindness, also known as [[nyctalopia]], is caused by mutations in the [[NYX (gene)|NYX gene]] (Nyctalopin on [[X-chromosome]]), which encodes a small [[leucine-rich repeat]] (LRR) family protein of unknown function.<ref name="Bech-Hansen_2000">{{cite journal | author = Bech-Hansen N, Naylor M, Maybaum T, Sparkes R, Koop B, Birch D, Bergen A, Prinsen C, Polomeno R, Gal A, Drack A, Musarella M, Jacobson S, Young R, Weleber R | title = Mutations in NYX, encoding the leucine-rich proteoglycan nyctalopin, cause X-linked complete congenital stationary night blindness | journal = Nat Genet | volume = 26 | issue = 3 | pages = 319–323 | year = 2000 | pmid = 11062471 | doi = 10.1038/81619}}</ref><ref name="Pusch_2000">{{cite journal | author = Pusch C, Zeitz C, Brandau O, Pesch K, Achatz H, Feil S, Scharfe C, Maurer J, Jacobi F, Pinckers A, Andreasson S, Hardcastle A, Wissinger B, Berger W, Meindl A | title = The complete form of X-linked congenital stationary night blindness is caused by mutations in a gene encoding a leucine-rich repeat protein | journal = Nat Genet | volume = 26 | issue = 3 | pages = 324–327 | year = 2000 | pmid = 11062472 | doi = 10.1038/81627}}</ref> This protein consists of an N-terminal signal peptide and 11 LRRs (LRR1-11) flanked by cysteine-rich LRRs (LRRNT and LRRCT). At the C-terminus of the protein there is a putative [[GPI anchor]] site. Although the function of NYX is yet to be fully understood, it is believed to be located extracellularly. A naturally occurring deletion of 85 bases in NYX in some mice leads to the "nob" (no b-wave) phenotype, which is highly similar to that seen in CSNB1 patients.<ref name="Gregg_2003">{{cite journal | author = Gregg R, Mukhopadhyay S, Candille S, Ball S, Pardue M, McCall M, Peachey N | title = Identification of the gene and the mutation responsible for the mouse nob phenotype | journal = Invest Ophthalmol Vis Sci | volume = 44 | issue = 1 | pages = 378–384 | year = 2003 | pmid = 12506099 | doi = 10.1167/iovs.02-0501}}</ref> NYX is expressed primarily in the rod and cone cells of the retina. There are currently almost 40 known mutations in NYX associated with CSNB1, Table 1., located throughout the protein. As the function of the nyctalopin protein is unknown, these mutations have not been further characterized. However, many of them are predicted to lead to truncated proteins that, presumably, are non-functional.
+
+{| class="wikitable"
+|+ '''Table 1. Mutations in ''NYX'' associated with CSNB1'''
+|- valign="bottom"
+! colspan="2" | Mutation
+! rowspan="2" | Position
+! rowspan="2" | References
+|-
+! Nucleotide
+! Amino acid
+|-
+! c.?-1_?-61del
+! 1_20del
+| Signal sequence
+| <ref name="Pusch_2000"/>
+|-
+! Splicing
+! Intron 1
+|
+| <ref name="Zito_2003">{{cite journal | author = Zito I, Allen L, Patel R, Meindl A, Bradshaw K, Yates J, Bird A, Erskine L, Cheetham M, Webster A, Poopalasundaram S, Moore A, Trump D, Hardcastle A | title = Mutations in the CACNA1F and NYX genes in British CSNBX families | journal = Hum Mutat | volume = 21 | issue = 2 | pages = 169–169 | year = 2003 | pmid = 12552565 | doi = 10.1002/humu.9106}}</ref>
+|-
+! c.?-63_1443-?del
+! 21_481del
+|
+| <ref name="Pusch_2000"/>
+|-
+! c.48_64del
+! L18RfsX108
+| Signal sequence
+| <ref name="Zito_2003"/>
+|-
+! c.85_108del
+! R29_A36del
+| N-terminal LRR
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.G91C
+! C31S
+| LRRNT
+| <ref name="Pusch_2000"/>
+|-
+! c.C105A
+! C35X
+| LRRNT
+| <ref name="Pusch_2000"/>
+|-
+! c.C169A
+! P57T
+| LRRNT
+| <ref name="Zeitz_2005">{{cite journal | author = Zeitz C, Minotti R, Feil S, Mátyás G, Cremers F, Hoyng C, Berger W | title = Novel mutations in CACNA1F and NYX in Dutch families with X-linked congenital stationary night blindness | journal = Mol Vis | volume = 11 | issue = | pages = 179–83 | year = 2005| pmid = 15761389}}</ref>
+|-
+! c.C191A
+! A64E
+| LRR1
+| <ref name="Zeitz_2005"/>
+|-
+! c.G281C
+! R94P
+| LRR2
+| <ref name="Xiao_2006">{{cite journal | author = Xiao X, Jia X, Guo X, Li S, Yang Z, Zhang Q | title = CSNB1 in Chinese families associated with novel mutations in NYX | journal = J Hum Genet | volume = 51 | issue = 7 | pages = 634–640 | year = 2006 | pmid = 16670814 | doi = 10.1007/s10038-006-0406-5}}</ref>
+|-
+! c.301_303del
+! I101del
+| LRR2
+| <ref name="Pusch_2000"/>
+|-
+! c.T302C
+! I101T
+| LRR2
+| <ref name="Xiao_2006"/>
+|-
+! c.340_351del
+! E114_A118del
+| LRR3
+| <ref name="Pusch_2000"/><sup>,</sup> <ref name="Zito_2003"/>
+|-
+! c.G427C
+! A143P
+| LRR4
+| <ref name="Pusch_2000"/>
+|-
+! c.C452T
+! P151L
+| LRR4
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.464_465insAGCGTGCCCGAGCGCCTCCTG
+! S149_V150dup+P151_L155dup
+| LRR4
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.C524G
+! P175R
+| LRR5
+| <ref name="Pusch_2000"/>
+|-
+! c.T551C
+! L184P
+| LRR6
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.556_618delins
+! H186?fsX260
+| LRR6
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.559_560delinsAA
+! A187K
+| LRR6
+| <ref name="Pusch_2000"/>
+|-
+! c.613_621dup
+! 205_207dup
+| LRR7
+| <ref name="Bech-Hansen_2000"/><sup>,</sup> <ref name="Pusch_2000"/>
+|-
+! c.628_629ins
+! R209_S210insCLR
+| LRR7
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.T638A
+! L213Q
+| LRR7
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.A647G
+! N216S
+| LRR7
+| <ref name="Bech-Hansen_2000"/><sup>,</sup> <ref name="Zito_2003"/>
+|-
+! c.T695C
+! L232P
+| LRR8
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.727_738del
+! 243_246del
+| LRR8
+| <ref name="Pusch_2000"/>
+|-
+! c.C792G
+! N264K
+| LRR9
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.T854C
+! L285P
+| LRR10
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.T893C
+! F298S
+| LRR10
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.C895T
+! Q299X
+| LRR10
+| <ref name="Zito_2003"/>
+|-
+! c.T920C
+! L307P
+| LRR11
+| <ref name="Pusch_2000"/>
+|-
+! c.A935G
+! N312S
+| LRR11
+| <ref name="Pusch_2000"/>
+|-
+! c.T1040C
+! L347P
+| LRRCT
+| <ref name="Pusch_2000"/>
+|-
+! c.G1049A
+! W350X
+| LRRCT
+| <ref name="Bech-Hansen_2000"/>
+|-
+! c.G1109T
+! G370V
+| LRRCT
+| <ref name="Pusch_2000"/>
+|-
+! c.1122_1457del
+! S374RfsX383
+| LRRCT
+| <ref name="Pusch_2000"/><sup>,</sup> <ref name="Zito_2003"/>
+|-
+! c.1306del
+! L437WfsX559
+| C-terminus
+| <ref name="Zito_2003"/>
+|-
+| colspan="4" | LRR: [[leucine-rich repeat]], LRRNT and LRRCT: N- and C-terminal cysteine-rich LRRs.
+|}
+
+===CSNB2===
+[[Image:Alphasubunit calcium channel.png|thumb|right|'''Figure 1.''' Schematic structure of Ca<sub>V</sub>1.4 with the domains and subunits labeled.]]
+The incomplete form of X-linked congenital stationary night blindness (CSNB2) is caused by mutations in the CACNA1F gene, which encodes the [[voltage-gated calcium channel]] Ca<sub>V</sub>1.4 expressed heavily in [[retina]].<ref name="Strom_1998">{{cite journal | author = Strom T, Nyakatura G, Apfelstedt-Sylla E, Hellebrand H, Lorenz B, Weber B, Wutz K, Gutwillinger N, Rüther K, Drescher B, Sauer C, Zrenner E, Meitinger T, Rosenthal A, Meindl A | title = An L-type calcium-channel gene mutated in incomplete X-linked congenital stationary night blindness | journal = Nat Genet | volume = 19 | issue = 3 | pages = 260–263 | year = 1998 | pmid = 9662399 | doi = 10.1038/940}}</ref><ref name="Bech-Hansen_1998">{{cite journal | author = Bech-Hansen N, Naylor M, Maybaum T, Pearce W, Koop B, Fishman G, Mets M, Musarella M, Boycott K | title = Loss-of-function mutations in a calcium-channel alpha1-subunit gene in Xp11.23 cause incomplete X-linked congenital stationary night blindness | journal = Nat Genet | volume = 19 | issue = 3 | pages = 264–267 | year = 1998 | pmid = 9662400 | doi = 10.1038/947}}</ref> One of the important properties of this channel is that it inactivates at an extremely low rate. This allows it to produce sustained Ca<sup>2+</sup> entry upon depolarization. As [[Photoreceptor cell|photoreceptor]]s  depolarize in the absence of light, Ca<sub>V</sub>1.4 channels operate to provide sustained neurotransmitter release upon depolarization.<ref name="McRory_2004">{{cite journal | author = McRory J, Hamid J, Doering C, Garcia E, Parker R, Hamming K, Chen L, Hildebrand M, Beedle A, Feldcamp L, Zamponi G, Snutch T | title = The CACNA1F gene encodes an L-type calcium channel with unique biophysical properties and tissue distribution | journal = J Neurosci | volume = 24 | issue = 7 | pages = 1707–1718 | year = 2004 | pmid = 14973233 | doi = 10.1523/JNEUROSCI.4846-03.2004}}</ref> This has been demonstrated in CACNA1F mutant mice that have markedly reduced photoreceptor calcium signals.<ref name="Mansergh_2005">{{cite journal | author = Mansergh F, Orton N, Vessey J, Lalonde M, Stell W, Tremblay F, Barnes S, Rancourt D, Bech-Hansen N | title = Mutation of the calcium channel gene Cacna1f disrupts calcium signaling, synaptic transmission and cellular organization in mouse retina | journal = Hum Mol Genet | volume = 14 | issue = 20 | pages = 3035–3046 | year = 2005 | pmid = 16155113 | doi = 10.1093/hmg/ddi336}}</ref> There are currently 55 mutations in CACNA1F located throughout the channel, Table 2 and Figure 1. While most of these mutations result in truncated and, likely, non-functional channels, it is expected that they prevent the ability of light to hyperpolarize photoreceptors. Of the mutations with known functional consequences, 4 produce channels that are either completely non-functional, and two that result in channels which open at far more hyperpolarized potentials than wild-type. This will result in photoreceptors that continue to release neurotransmitter even after light-induced hyperpolarization.
+
+{| class="wikitable"
+|+ '''Table 2. Mutations in ''CACNA1F'' associated with CSNB2'''
+|-   valign="bottom"
+! colspan="2" | Mutation
+! rowspan="2" | Position
+! rowspan="2" | Effect
+! rowspan="2" | References
+|-
+! Nucleotide
+! Amino Acid
+|-
+! c.C148T
+ ! R50X
+ | N-terminus
+ |
+ | <ref name="Boycott_2001">{{cite journal | author = Boycott K, Maybaum T, Naylor M, Weleber R, Robitaille J, Miyake Y, Bergen A, Pierpont M, Pearce W, Bech-Hansen N | title = A summary of 20 CACNA1F mutations identified in 36 families with incomplete X-linked congenital stationary night blindness, and characterization of splice variants | journal = Hum Genet | volume = 108 | issue = 2 | pages = 91–97 | year = 2001 | pmid = 11281458 | doi = 10.1007/s004390100461}}</ref>
+|-
+! c.151_155delAGAAA
+ ! R51PfsX115
+ | N-terminus
+ |
+ | <ref name="Wutz_2002">{{cite journal | author = Wutz K, Sauer C, Zrenner E, Lorenz B, Alitalo T, Broghammer M, Hergersberg M, de la Chapelle A, Weber B, Wissinger B, Meindl A, Pusch C | title = Thirty distinct CACNA1F mutations in 33 families with incomplete type of XLCSNB and Cacna1f expression profiling in mouse retina | journal = Eur J Hum Genet | volume = 10 | issue = 8 | pages = 449–456 | year = 2002 | pmid = 12111638 | doi = 10.1038/sj.ejhg.5200828}}</ref>
+|-
+! c.T220C
+ ! C74R
+ | N-terminus
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.C244T
+ ! R82X
+ | N-terminus
+ |
+ | <ref name="Boycott_2001"/><sup>,</sup> <ref name="Wutz_2002"/>
+|-
+! c.466_469delinsGTAGGGGTGCT<br>CCACCCCGTAGGGGTGCTCCACC
+ ! S156VdelPinsGVKHOVGVLH
+ | D1S2-3
+ |
+ | <ref name="Boycott_2001"/><sup>,</sup> <ref name="Nakamura_2001">{{cite journal | author = Nakamura M, Ito S, Terasaki H, Miyake Y | title = Novel CACNA1F mutations in Japanese patients with incomplete congenital stationary night blindness | journal = Invest Ophthalmol Vis Sci | volume = 42 | issue = 7 | pages = 1610–6 | year = 2001 | pmid = 11381068}}</ref><sup>,</sup> <ref name="Nakamura_2003">{{cite journal | author = Nakamura M, Ito S, Piao C, Terasaki H, Miyake Y | title = Retinal and optic disc atrophy associated with a CACNA1F mutation in a Japanese family | journal = Arch Ophthalmol | volume = 121 | issue = 7 | pages = 1028–1033 | year = 2003 | pmid = 12860808 | doi = 10.1001/archopht.121.7.1028}}</ref>
+|-
+!
+ ! Splicing
+ | Intron 4
+ |
+ | <ref name="Boycott_2001"/>
+|-
+! c.T685C
+ ! S229P
+ | D1S4-5
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.G781A
+ ! G261R
+ | D1-pore
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.G832T
+ ! E278X
+ | D1-pore
+ |
+ | <ref name="Zito_2003"/><sup>,</sup> <ref name="Allen_2003">{{cite journal | author = Allen L, Zito I, Bradshaw K, Patel R, Bird A, Fitzke F, Yates J, Trump D, Hardcastle A, Moore A | title = Genotype-phenotype correlation in British families with X linked congenital stationary night blindness | journal = Br J Ophthalmol | volume = 87 | issue = 11 | pages = 1413–1420 | year = 2003 | pmid = 14609846 | doi = 10.1136/bjo.87.11.1413 | pmc = 1771890}}</ref>
+|-
+! c.904insG
+ ! R302AfsX314
+ | D1-pore
+ |
+ | <ref name="Nakamura_2001"/>
+|-
+! c.951_953delCTT
+ ! F318del
+ | D1-pore
+ |
+ | <ref name="Boycott_2001"/>
+|-
+! c.G1106A
+ ! G369D
+ | D1S6
+ | Activates ~20mV more negative than wild-type, increases time to peak current and decreases inactivation, increased Ca<sup>2+</sup> permeability.
+ | <ref name="Strom_1998"/><sup>,</sup> <ref name="McRory_2004"/><sup>,</sup> <ref name="Boycott_2001"/><sup>,<sup> <ref name="Wutz_2002"/><sup>,</sup> <ref name="Hoda_2005">{{cite journal | author = Hoda J, Zaghetto F, Koschak A, Striessnig J | title = Congenital stationary night blindness type 2 mutations S229P, G369D, L1068P, and W1440X alter channel gating or functional expression of Ca(v)1.4 L-type Ca2+ channels | journal = J Neurosci | volume = 25 | issue = 1 | pages = 252–259 | year = 2005 | pmid = 15634789 | doi = 10.1523/JNEUROSCI.3054-04.2005}}</ref>
+|-
+! c.1218delC
+ ! W407GfsX443
+ | D1-2
+ |
+ | <ref name="Bech-Hansen_1998"/><sup>,</sup> <ref name="Boycott_2001"/><sup>,</sup> <ref name="Allen_2003"/>
+|-
+! c.C1315T
+ ! Q439X
+ | D1-2
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.G1556A
+ ! R519Q
+ | D1-2
+ | Decreased expression
+ | <ref name="Strom_1998"/><sup>,</sup> <ref name="Hoda_2006">{{cite journal | author = Hoda J, Zaghetto F, Singh A, Koschak A, Striessnig J | title = Effects of congenital stationary night blindness type 2 mutations R508Q and L1364H on Cav1.4 L-type Ca2+ channel function and expression | journal = J Neurochem | volume = 96 | issue = 6 | pages = 1648–1658 | year = 2006 | pmid = 16476079 | doi = 10.1111/j.1471-4159.2006.03678.x}}</ref>
+|-
+! c.C1873T
+ ! R625X
+ | D2S4
+ |
+ | <ref name="Boycott_2001"/><sup>,</sup> <ref name="Wutz_2002"/>
+|-
+! c.G2021A
+ ! G674D
+ | D2S5
+ |
+ | <ref name="McRory_2004"/><sup>,</sup> <ref name="Boycott_2001"/><sup>,</sup> <ref name="Nakamura_2001"/>
+|-
+! c.C2071T
+ ! R691X
+ | D2-pore
+ |
+ | <ref name="Zeitz_2005"/>
+|-
+! c.T2258G
+ ! F753C
+ | D2S6
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.T2267C
+ ! I756T
+ | D2S6
+ | Activates ~35mV more negative than wild-type, inactivates more slowly
+ | <ref name="Hemara-Wahanui_2005">{{cite journal | author = Hemara-Wahanui A, Berjukow S, Hope C, Dearden P, Wu S, Wilson-Wheeler J, Sharp D, Lundon-Treweek P, Clover G, Hoda J, Striessnig J, Marksteiner R, Hering S, Maw M | title = A CACNA1F mutation identified in an X-linked retinal disorder shifts the voltage dependence of Cav1.4 channel activation | journal = Proc Natl Acad Sci USA | volume = 102 | issue = 21 | pages = 7553–7558 | year = 2005 | pmid = 15897456 | doi = 10.1073/pnas.0501907102 | pmc = 1140436}}</ref>
+|-
+!
+ ! Splicing
+ | Intron 19
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.T2579C
+ ! L860P
+ | D2-3
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.C2683T
+ ! R895X
+ | D3S1-2
+ |
+ | <ref name="Zito_2003"/><sup>,</sup> <ref name="Zeitz_2005"/><sup>,</sup> <ref name="Bech-Hansen_1998"/><sup>,</sup> <ref name="Boycott_2001"/>
+|-
+!
+ ! Splicing
+ | Intron 22
+ |
+ | <ref name="Wutz_2002"/><sup>,</sup> <ref name="Nakamura_2001"/>
+|-
+!
+ ! Splicing
+ | Intron 22
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.C2783A
+ ! A928D
+ | D3S2-3
+ |
+ | <ref name="McRory_2004"/><sup>,</sup> <ref name="Boycott_2001"/>
+|-
+! c.C2905T
+ ! R969X
+ | D3S4
+ |
+ | <ref name="Strom_1998"/><sup>,</sup> <ref name="Wutz_2002"/>
+|-
+! c.C2914T
+ ! R972X
+ | D3S4
+ |
+ | <ref name="Allen_2003"/>
+|-
+!
+ ! Splicing
+ | Intron24
+ |
+ | <ref name="Boycott_2001"/>
+|-
+! c.C2932T
+ ! R978X
+ | D3S4
+ |
+ | <ref name="Nakamura_2001"/>
+|-
+! c.3006_3008delCAT
+ ! I1003del
+ | D3S4-5
+ |
+ | <ref name="Boycott_2001"/>
+|-
+! c.G3052A
+ ! G1018R
+ | D3S5
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.3125delG
+ ! G1042AfsX1076
+ | D3-pore
+ |
+ | <ref name="Boycott_2001"/>
+|-
+! c.3166insC
+ ! L1056PfsX1066
+ | D3-pore
+ |
+ | <ref name="Strom_1998"/><sup>,</sup> <ref name="Bech-Hansen_1998"/><sup>,</sup> <ref name="Boycott_2001"/><sup>,</sup> <ref name="Wutz_2002"/>
+|-
+! c.C3178T
+ ! R1060W
+ | D3-pore
+ |
+ | <ref name="Strom_1998"/><sup>,</sup> <ref name="Wutz_2002"/>
+|-
+! c.T3236C
+ ! L1079P
+ | D3-pore
+ | Does not open without BayK, activates ~5mV more negative than wild-type
+ | <ref name="Wutz_2002"/><sup>,</sup> <ref name="Hoda_2005"/>
+|-
+! c.3672delC
+ ! L1225SfsX1266
+ | D4S2
+ |
+ | <ref name="Bech-Hansen_1998"/><sup>,</sup> <ref name="Boycott_2001"/>
+|-
+! c.3691_3702del
+ ! G1231_T1234del
+ | D4S2
+ |
+ | <ref name="Strom_1998"/><sup>,</sup> <ref name="Wutz_2002"/>
+|-
+! c.G3794T
+ ! S1265I
+ | D4S3
+ |
+ | <ref name="Zeitz_2005"/>
+|-
+! c.C3886A
+ ! R1296S
+ | D4S4
+ |
+ | <ref name="Zeitz_2005"/>
+|-
+! c.C3895T
+ ! R1299X
+ | D4S4
+ |
+ | <ref name="Bech-Hansen_1998"/><sup>,</sup> <ref name="Boycott_2001"/><sup>,</sup> <ref name="Wutz_2002"/>
+|-
+!
+ ! Splicing
+ | Intron 32
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.C4075T
+ ! Q1359X
+ | D4-pore
+ |
+ | <ref name="Strom_1998"/><sup>,</sup> <ref name="Wutz_2002"/>
+|-
+! c.T4124A
+ ! L1375H
+ | D4-pore
+ | Decreased expression
+ | <ref name="Strom_1998"/><sup>,</sup> <ref name="Wutz_2002"/><sup>,</sup> <ref name="Hoda_2006"/>
+|-
+!
+ ! Splicing
+ | Intron 35
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.G4353A
+ ! W1451X
+ | C-terminus
+ | Non-functional
+ | <ref name="Bech-Hansen_1998"/><sup>,</sup> <ref name="McRory_2004"/><sup>,</sup> <ref name="Boycott_2001"/><sup>,</sup> <ref name="Hoda_2005"/>
+|-
+! c.T4495C
+ ! C1499R
+ | C-terminus
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.C4499G
+ ! P1500R
+ | C-terminus
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.T4523C
+ ! L1508P
+ | C-terminus
+ |
+ | <ref name="Wutz_2002"/>
+|-
+!
+ ! Splicing
+ | intron 40
+ |
+ | <ref name="Boycott_2001"/>
+|-
+! c.4581delC
+ ! F1528LfsX1535
+ | C-terminus
+ |
+ | <ref name="Jacobi_2003">{{cite journal | author = Jacobi F, Hamel C, Arnaud B, Blin N, Broghammer M, Jacobi P, Apfelstedt-Sylla E, Pusch C | title = A novel CACNA1F mutation in a french family with the incomplete type of X-linked congenital stationary night blindness | journal = Am J Ophthalmol | volume = 135 | issue = 5 | pages = 733–736 | year = 2003 | pmid = 12719097 | doi = 10.1016/S0002-9394(02)02109-8}}</ref>
+|-
+! c.A4804T
+ ! K1602X
+ | C-terminus
+ |
+ | <ref name="Strom_1998"/><sup>,</sup> <ref name="Wutz_2002"/>
+|-
+! c.C5479T
+ ! R1827X
+ | C-terminus
+ |
+ | <ref name="Wutz_2002"/>
+|-
+! c.5663delG
+ ! S1888TfsX1931
+ | C-terminus
+ |
+ | <ref name="Boycott_2001"/>
+|-
+! c.G5789A
+ ! R1930H
+ | C-terminus
+ |
+ | <ref name="Zeitz_2005"/>
+|}
+
+==Genetics==
+Only three rhodopsin mutations have been found associated with congenital stationary night blindness (CSNB).<ref>Pere Garriga, and Joan Manyosa. The eye photoreceptor protein rhodopsin. Structural
+implications for retinal disease. Volume 528, Issues 1-3, 25 September 2002, Pages 17-
+22.
+</ref> Two of these mutations are found in the second transmembrane helix of rhodopsin at Gly-90 and Thr-94. Specifically, these mutations are the Gly90Asp <ref>V.R. Rao, G.B. Cohen and D.D. Oprian Nature 367 (1994), pp. 639–642.</ref> and the Thr94Ile, which has been the most recent one reported.<ref>N. al-Jandal, G.J. Farrar, A.S. Kiang, M.M. Humphries, N. Bannon, J.B. Findlay, P.
+Humphries and P.F. Kenna Hum. Mutat. 13 (1999), pp. 75–81.
+</ref> The third mutation is Ala292Glu, and it is located in the seventh transmembrane helix, in proximity to the site of retinal attachment at Lys-296.<ref>T.P. Dryja, E.L. Berson, V.R. Rao and D.D. Oprian Nat. Genet. 4 (1993), pp. 280–283.</ref> Mutations associated with CSNB affect amino acid residues near the protonated Schiff base (PSB) linkage. They are associated with changes in conformational stability and the protonated status of the PSB nitrogen.<ref>P.A. Sieving, J.E. Richards, F. Naarendorp, E.L. Bingham, K. Scott and M. Alpern Proc. Natl.
+Acad. Sci. USA 92 (1995), pp. 880–884.
+</ref>
+
+==External links==
+*[http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=csnb  GeneReview/NCBI/NIH/UW entry on X-Linked Congenital Stationary Night Blindness]
+
+==Footnotes==
+{{Reflist|2}}
+
+{{Channelopathy}}
+
+{{DEFAULTSORT:X-Linked Congenital Stationary Night Blindness}}
+[[Category:Channelopathy]]
+[[Category:Diseases of the eye and adnexa]]

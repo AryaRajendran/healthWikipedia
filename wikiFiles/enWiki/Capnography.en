@@ -1,0 +1,71 @@
+{{Interventions infobox | normal levels of end tidal = 5%-6%
+  Name        = Capnography |
+  Image       =  |
+  Caption     =  |
+  ICD10       = |
+  ICD9        =   |
+  MeshID      = D019296  |
+  OtherCodes  = |
+}}
+
+'''Capnography''' is the monitoring of the concentration or [[partial pressure]] of [[carbon dioxide]] ({{chem|CO|2}}) in the respiratory gases. Its main development has been as a monitoring tool for use during [[anaesthesia]] and [[intensive care]]. It is usually presented as a graph of expiratory {{chem|CO|2}} plotted against time, or, less commonly, but more usefully, expired volume. The plot may also show the inspired {{chem|CO|2}}, which is of interest when [[rebreathing]] systems are being used.
+
+The capnogram is a direct monitor of the inhaled and exhaled concentration or partial pressure of {{chem|CO|2}}, and an indirect monitor of the {{chem|CO|2}} partial pressure in the arterial [[blood]]. In healthy individuals, the difference between arterial blood and expired gas {{chem|CO|2}} partial pressures is very small. In the presence of most forms of lung disease, and some forms of [[congenital heart disease]] (the cyanotic lesions) the difference between arterial blood and expired gas increases and can exceed 1 kPa.
+
+During anaesthesia, there is interplay between two components: the patient and the anaesthesia administration device (which is usually a breathing circuit and a [[ventilator]]). The critical connection between the two components is either an [[tracheal tube|endotracheal tube]] or a mask, and {{chem|CO|2}} is typically monitored at this junction. Capnography directly reflects the elimination of {{chem|CO|2}} by the [[lungs]] to the anaesthesia device. Indirectly, it reflects the production of {{chem|CO|2}} by tissues and the circulatory transport of {{chem|CO|2}} to the lungs.
+
+When expired {{chem|CO|2}} is related to expired volume rather than time, the area beneath the curve represents the volume of {{chem|CO|2}} in the breath, and thus over the course of a minute, this method can yield the {{chem|CO|2}} minute elimination, an important measure of metabolism. Sudden changes in {{chem|CO|2}} elimination during lung or heart surgery usually imply important changes in cardiorespiratory function.
+
+Capnographs usually work on the principle that {{chem|CO|2}} absorbs [[infra-red radiation]]. A beam of infra-red light is passed across the gas sample to fall on a sensor. The presence of {{chem|CO|2}} in the gas leads to a reduction in the amount of light falling on the sensor, which changes the voltage in a circuit. The analysis is rapid and accurate, but the presence of [[nitrous oxide]] in the gas mix changes the infra-red absorption via the phenomenon of collision broadening.<ref>{{cite journal |author=Raemer DB, Calalang I |title=Accuracy of end-tidal carbon dioxide tension analyzers |journal=J Clin Monit |volume=7 |issue=2 |pages=195–208 |year=1991 |month=April |pmid=1906531 |url=http://www.springerlink.com/content/n471722024015115/fulltext.pdf |format=PDF}}</ref> This must be corrected for. Measuring the {{chem|CO|2}} in human breath by measuring its infra-red absorptive power was established as a reliable technique by [[John Tyndall]] in 1864, though 19th and early 20th century devices were too cumbersome for everyday clinical use.<ref>{{cite journal |author=Jaffe MB |title=Infrared measurement of carbon dioxide in the human breath: "breathe-through" devices from Tyndall to the present day |journal=Anesth. Analg. |volume=107 |issue=3 |pages=890–904 |year=2008 |month=September |pmid=18713902 |doi=10.1213/ane.0b013e31817ee3b3 |url=http://www.anesthesia-analgesia.org/cgi/pmidlookup?view=long&pmid=18713902}}</ref>
+
+==Diagnostic usage==
+Capnography provides information about {{chem|CO|2}} production, [[human lung|pulmonary]] (lung) perfusion, [[Pulmonary alveolus|alveolar]] ventilation, [[respiration (physiology)|respiratory patterns]], and elimination of {{chem|CO|2}} from the anaesthesia breathing circuit and ventilator. The shape of the curve is affected by some forms of lung disease; in general there are obstructive conditions such as [[bronchitis]], [[emphysema]] and [[asthma]], in which the mixing of gases within the lung is affected.
+
+Conditions such as [[pulmonary embolism]] and congenital heart disease, which affect perfusion of the lung, do not, in themselves, affect the shape of the curve, but greatly affect the relationship between expired {{chem|CO|2}} and arterial blood {{chem|CO|2}}. Capnography can also be used to measure carbon dioxide production, a measure of metabolism. Increased {{chem|CO|2}} production is seen during fever and shivering. Reduced production is seen during anaesthesia and [[hypothermia]].
+
+==Use in anaesthesia==
+Capnography has been shown to be more effective than clinical judgement alone in the early detection of adverse respiratory events such as [[hypoventilation]], [[oesophagus|oesophageal]] intubation and circuit disconnection; thus allowing patient [[injury]] to be prevented. During procedures done under sedation, capnography provides more useful information, e.g. on the frequency and regularity of ventilation, than [[pulse oximetry]].
+
+Capnography provides a rapid and reliable method to detect life-threatening conditions (malposition of [[tracheal tube]]s, unsuspected ventilatory failure, circulatory failure and defective breathing circuits) and to circumvent potentially irreversible patient injury.
+
+Capnography and pulse oximetry together could have helped in the prevention of 93% of avoidable anaesthesia mishaps according to an ASA ([[American Society of Anesthesiologists]]) closed claim study.
+
+==Capnography in emergency medical services==
+Capnography is increasingly being used by EMS personnel to aid in their assessment and treatment of patients in the prehospital environment.  These uses include verifying and monitoring the position of an endotrachael tube or a blind insertion airway device.  A properly positioned tube in the trachea guards the patient's airway and enables the paramedic to breathe for the patient. A misplaced tube in the esophagus can lead to gastric distension, endangering a patent airway.
+
+A study in the March 2005 ''Annals of Emergency Medicine,'' comparing field [[Tracheal intubation|intubations]] that used continuous capnography to confirm intubations versus non-use showed zero unrecognized misplaced intubations in the monitoring group versus 23% misplaced tubes in the unmonitored group. The [[American Heart Association]] (AHA) affirmed the importance of using capnography to verify tube placement in their 2005 CPR and ECG Guidelines.
+
+The AHA also notes in their new guidelines that capnography, which indirectly measures cardiac output, can also be used to monitor the effectiveness of CPR and as an early indication of return of spontaneous circulation (ROSC). Studies have shown that when a person doing CPR tires, the patient's end-tidal {{chem|CO|2}} (ETCO2, the level of carbon dioxide released at the end of expiration) falls, and then rises when a fresh rescuer takes over.  Other studies have shown when a patient experiences return of spontaneous circulation, the first indication is often a sudden rise in the ETCO2 as the rush of circulation washes untransported {{chem|CO|2}} from the tissues.  Likewise, a sudden drop in ETCO2 may indicate the patient has lost pulses and CPR may need to be initiated.
+
+Paramedics are also now beginning to monitor the ETCO2 status of nonintubated patients by using a special nasal [[cannula]] that collects the carbon dioxide.  A high ETCO2 reading in a patient with altered mental status or severe difficulty breathing may indicate [[hypoventilation]] and a possible need for the patient to be [[intubated]]. Low ETCO2 readings on patients may indicate [[hyperventilation]].
+
+Capnography, because it provides a breath by breath measurement of a patient's ventilation, can quickly reveal a worsening trend in a patient's condition by providing paramedics with an early warning system into a patient's respiratory status.  Clinical studies are expected into the uses of capnography in [[asthma]], [[congestive heart failure]], [[diabetes]], circulatory shock, [[pulmonary embolus]], [[acidosis]], and other conditions, with potential implications for the prehospital use of capnography.{{Citation needed|date=September 2011}}
+
+==See also==
+* [[Medical equipment]]
+* [[Medical test]]
+* [[Integrated Pulmonary Index]]
+* [[Respiratory monitoring]]
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+{{refbegin}}
+*{{cite journal |author=Silvestri S, Ralls GA, Krauss B, ''et al.'' |title=The effectiveness of out-of-hospital use of continuous end-tidal carbon dioxide monitoring on the rate of unrecognized misplaced intubation within a regional emergency medical services system |journal=Ann Emerg Med |volume=45 |issue=5 |pages=497–503 |year=2005 |month=May |pmid=15855946 |doi=10.1016/j.annemergmed.2004.09.014}}
+*{{cite journal |author=Lightdale JR, Goldmann DA, Feldman HA, Newburg AR, DiNardo JA, Fox VL |title=Microstream capnography improves patient monitoring during moderate sedation: a randomized, controlled trial |journal=Pediatrics |volume=117 |issue=6 |pages=e1170–8 |year=2006 |month=June |pmid=16702250 |doi=10.1542/peds.2005-1709 |url=http://pediatrics.aappublications.org/cgi/content/full/117/6/e1170}}
+*{{cite journal |author=Burton JH, Harrah JD, Germann CA, Dillon DC |title=Does end-tidal carbon dioxide monitoring detect respiratory events prior to current sedation monitoring practices? |journal=Acad Emerg Med |volume=13 |issue=5 |pages=500–4 |year=2006 |month=May |pmid=16569750 |doi=10.1197/j.aem.2005.12.017}}
+{{refend}}
+
+==External links==
+*[http://www.howequipmentworks.com/physics/respi_measurements/co2/capnograph/capnograph.html  Physical principles used in capnography graphically explained]
+* [http://www.capnography.com/Homepage/HomepageM.htm Capnography.com]
+* [http://emscapnography.blogspot.com/ Capnography for Paramedics]
+* [http://www.capnobase.org/ CapnoBase.org: Respiratory signal database that contains clinical and simulated capnogram recordings]
+* [http://ecem.ece.ubc.ca/research.htm#SmartCapnography Research project on capnography]
+{{Respiratory system surgeries and other procedures}}{{Anesthesia}}
+{{Use dmy dates|date=September 2011}}
+
+[[Category:Anesthesia]]
+[[Category:Breath tests]]
+{{Emergency medicine}}

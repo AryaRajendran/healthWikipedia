@@ -1,0 +1,43 @@
+[[Image:1GZX Haemoglobin.png|thumb|[[hemoglobin]]]]
+The '''mean corpuscular hemoglobin concentration''',  a measure of the concentration of [[hemoglobin]] in a given volume of packed [[red blood cells]]. It is reported as part of a standard [[complete blood count]]. 
+
+It is calculated by dividing the hemoglobin by the [[hematocrit]]. [[Reference ranges for blood tests]] are 32 to 36 g/dl,<ref>[http://www.nlm.nih.gov/medlineplus/ency/article/003648.htm http://www.nlm.nih.gov/medlineplus/ency/article/003648.htm]</ref> or between 4.9 <ref name=Beekvelt>Derived from mass concentration, using molar mass of 64,458 g/mol ({{cite journal |author=Van Beekvelt MC, Colier WN, Wevers RA, Van Engelen BG |title=Performance of near-infrared spectroscopy in measuring local O2 consumption and blood flow in skeletal muscle  |journal=J Appl Physiol |volume=90 |issue=2 |pages=511–519 |year=2001 |pmid=11160049}}). 1 g/dL = 0.1551&nbsp;mmol/L</ref> to 5.5<ref name=Beekvelt/> mmol/L. It is thus a mass or molar concentration.
+Still, many instances<ref name=bloodbook>[http://www.bloodbook.com/ranges.html Blood Test Results - Normal Ranges] Bloodbook.Com. Retrieved on Jan 7, 2009</ref><ref name=medicinenet>[http://www.medterms.com/script/main/art.asp?articlekey=9994 MedicineNet > Definition of MCHC] Last Editorial Review: 7/21/1999</ref> measure MCHC in [[percentage]] (%), as if it was a [[Mass fraction (chemistry)|mass fraction]] (m<sub>Hb</sub> / m<sub>RBC</sub>). Numerically, however, the MCHC in g/dl and the mass fraction of hemoglobin in red blood cells in % are identical, assuming a RBC [[density]] of 1g/mL and negligible hemoglobin in plasma.
+
+==Interpretation==
+MCHC is diminished ("hypochromic") in [[microcytic anemia]]s, and normal ("[[normochromic]]") in [[macrocytic anemia]]s (due to larger cell size, though the hemoglobin '''amount''' or MCH is high, the concentration remains normal). MCHC is elevated ("hyperchromic") in [[hereditary spherocytosis]], [[sickle cell disease]] and [[homozygous hemoglobin C disease]].<ref>{{cite book |author=Rifkind, David; Cohen, Alan S. |title=The Pediatric Abacus |publisher=Informa Healthcare |location= |year=2002 |pages=54 |isbn=1-84214-147-3 |oclc= |doi= |accessdate=}}</ref>
+
+This count is used to give a rough guide to what shade of red, RBC will be.  (paler=lower than the standard)
+
+==Complications with cold agglutinin==
+Because of the way [[automated analyser]]s count blood cells, a very high MCHC (greater than about 370 g/L) may indicate the [[blood]] is from someone with a [[cold agglutinin]]. This means that when their blood gets colder than 37°C it starts to clump together. As a result, the analyzer may incorrectly report a low number of very dense red blood cells for blood samples in which agglutination has occurred.
+
+This problem is usually picked up by the laboratory before the result is reported. The blood is warmed until the cells separate from each other, and quickly put through the machine while still warm.This is the most sensitive test for iron deficiency anemia.
+
+There are four steps to perform when an increase MCHC(>370 g/L or 37.0 g/dL) is received from the analyzer:
+
+# Remix the [[EDTA tube]]—if the MCHC corrects, report corrected results
+# Incubation at 37°C—if the MCHC corrects, report corrected results and comment on possible [[cold agglutinin]]
+# Saline replacement: Replace plasma with same amount of [[Saline (medicine)|saline]] to exclude interference e.g. [[Lipemia]] and [[Auto-immune antibodies]]—if the MCHC corrects, report corrected results and comment on Lipemia
+# Check the slide for spherocytosis (e.g. in [[hereditary spherocytosis]], among other causes)
+
+==Worked example==
+{{Red blood cell indices worked example}}
+
+==See also==
+* [[Red blood cell indices]]
+** [[Mean corpuscular volume]]
+** [[Mean corpuscular hemoglobin]]
+
+== References ==
+<!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the <ref(erences/)> tags-->
+<references/>
+
+==External links==
+* [http://www.fpnotebook.com/HEM81.htm FP Notebook]
+* [http://www.diaglab.vet.cornell.edu/clinpath/modules/hemogram/mchc.htm Cornell]
+* [http://www.nlm.nih.gov/medlineplus/ency/article/003648.htm Medline]
+
+{{Myeloid blood tests}}
+
+[[Category:Blood tests]]

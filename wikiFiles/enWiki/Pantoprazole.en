@@ -1,0 +1,133 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 462272670
+| IUPAC_name = (''RS'')-6-(Difluoromethoxy)-2-[(3,4-dimethoxypyridin-2-yl)methylsulfinyl]-1''H''-benzo[''d'']imidazole
+| image = Pantoprazole.svg
+| width = 200px
+| imagename = 1 : 1 mixture (racemate)
+| drug_name = Pantoprazole
+
+<!--Clinical data-->
+| tradename = Protonix
+| Drugs.com = {{drugs.com|monograph|protonix}}
+| MedlinePlus = a601246
+| licence_US = Pantoprazole
+| pregnancy_AU = B3
+| pregnancy_US = B
+| legal_status = Rx-only
+| routes_of_administration = Oral and [[Intravenous therapy|intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 77%
+| metabolism = [[Liver|Hepatic]] ([[CYP3A4]])
+| elimination_half-life = 1 hour
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 102625-70-7
+| ATC_prefix = A02
+| ATC_suffix = BC02
+| PubChem = 4679
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00213
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4517
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = D8TST4O562
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05353
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 7915
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1502
+
+<!--Chemical data-->
+ | C=16 | H=15 | F=2 | N=3 | O=4 | S=1 
+| molecular_weight = 383.371 g/mol
+| smiles = FC(F)Oc3cc1c(nc(n1)S(=O)Cc2nccc(OC)c2OC)cc3
+| InChI = 1/C16H15F2N3O4S/c1-23-13-5-6-19-12(14(13)24-2)8-26(22)16-20-10-4-3-9(25-15(17)18)7-11(10)21-16/h3-7,15H,8H2,1-2H3,(H,20,21)
+| InChIKey = IQPSEEYGBUAQFF-UHFFFAOYAJ
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H15F2N3O4S/c1-23-13-5-6-19-12(14(13)24-2)8-26(22)16-20-10-4-3-9(25-15(17)18)7-11(10)21-16/h3-7,15H,8H2,1-2H3,(H,20,21)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IQPSEEYGBUAQFF-UHFFFAOYSA-N
+}}
+
+'''Pantoprazole''' (sold under various brand names including '''Somac''', '''Tecta''', '''Pantoloc''', '''Controloc''', '''Protium''', '''Protonix''', '''Pantecta''', '''Pantoheal''', '''Pantpas''', '''Ppi-40''', and '''Neoppi''') is a [[proton pump inhibitor]] drug that inhibits [[gastric acid]] secretion.
+
+==Use==
+Pantoprazole is used for short-term treatment of erosion and ulceration of the esophagus caused by [[gastroesophageal reflux disease]]. Initial treatment is generally of eight weeks' duration, after which another eight week course of treatment may be considered if necessary.{{citation needed|date=June 2010}} It can be used as a maintenance therapy for long term use after initial response is obtained. 
+
+This medication may affect the results of certain lab tests, such as drug screenings (pantoprazole can cause a false positive for [[Tetrahydrocannabinol|THC]], the psychoactive component of [[cannabis]]<ref>Protonix package insert 12/07</ref><ref>{{cite web | url = http://www.livestrong.com/article/192876-what-causes-false-positives-in-marijuana-drug-testing/ | title = What causes false positives in marijuana drug testing? | publisher = LiveStrong}}</ref>).
+
+==Adverse effects==
+Antacid preparations such as pantoprazole work by suppressing the acid-mediated breakdown of proteins. This leads to an elevated risk of developing food and drug allergies due to undigested proteins passing into the gastrointestinal tract where sensitisation occurs. It is unclear whether this risk occurs with short-term or only long-term use.<ref name="pmid21121928">{{cite journal |author=Pali-Schöll I, Jensen-Jarolim E |title=Anti-acid medication as a risk factor for food allergy |journal=Allergy |volume=66 |issue=4 |pages=469–77 |year=2011 |month=April |pmid=21121928 |doi=10.1111/j.1398-9995.2010.02511.x |url=}}</ref>
+
+===Common===
+* Gastrointestinal: Abdominal pain (3%), diarrhea (4%), flatulence (4%)
+* Neurologic: Headache (5%)
+
+===Serious===
+* Gastrointestinal: [[Atrophic gastritis]], [[clostridium difficile]] diarrhea
+* Hematologic: [[Thrombocytopenia]] (less than 1%)
+* Immunologic: [[Stevens-Johnson syndrome]], [[toxic epidermal necrolysis]]
+* Musculoskeletal: Muscle disorders, bone fracture, osteoporosis-related, hip fracture, [[rhabdomyolysis]]
+* Renal: [[Interstitial nephritis]] (rare)
+
+==Pharmacology==
+Pantoprazole is metabolized in the liver by the [[cytochrome P450]] system.<ref>{{cite journal | doi = 10.1097/00042737-199610001-00005 | author = Meyer, U A  | title = Metabolic interactions of the proton-pump inhibitors lansoprazole, omeprazole and pantoprazole with other drugs | journal = European journal of gastroenterology & hepatology  | year = 1996 | volume = 8 | issue = Suppl 1 | pages = S21–25}}</ref> Metabolism mainly consists of [[demethylation]] by [[CYP2C19]] followed by [[sulfation]]. Another metabolic pathway is oxidation by [[CYP3A4]]. Pantoprazole metabolites are not thought to have any pharmacological significance. Pantoprazole is relatively free of drug interactions;<ref>{{cite journal | author = Steinijans, V. W.; Huber, R.; Hartmann, M.; Zech, K.; Bliesath, H.; Wurst, W.; Radtke, H. W.  | title = Lack of pantoprazole drug interactions in man: An updated review | journal = International Journal of Clinical Pharmacology and Therapeutics  | year = 1996 | volume = 34 | issue = 6 | pages = 243–262 | pmid = 8793611}}</ref> however, it may alter the absorption of other medications that depend on the amount of acid in the stomach, such as [[ketoconazole]] or [[digoxin]]. Generally inactive at acidic pH of stomach, thus it is usually given with a pro kinetic drug. Pantoprazole binds irreversibly to H+K+ATPase (proton pumps) and suppresses the secretion of acid. As it binds irreversibly to the pumps, new pumps have to be made before acid production can be resumed. The drug's plasma half-life is about 2 hours.<ref name = Sachs2010>{{cite journal |author=Sachs G, Shin JM, Hunt R |title=Novel approaches to inhibition of gastric acid secretion |journal=Curr Gastroenterol Rep |volume=12 |issue=6 |pages=437–47 |year=2010 |month=December |pmid=20924727 |pmc=2974194 |doi=10.1007/s11894-010-0149-5 |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2974194}}</ref>
+
+==Pharmacokinetics==
+
+Absorption
+*Bioavailability: (oral, delayed release tablets), approximately 77% 
+*Effect of food: (oral, delayed-release tablets), AUC an Cmax no effect, Tmax variable, absorption delayed, no net effect 
+*Effect of food: (oral, for-delayed-release suspension), administer 30 minutes before a meal 
+*Tmax, Oral, delayed-release suspension: 2 to 2.5 hr 
+*Tmax, Oral, delayed-release tablets: 2.5 hr 
+*Tmax, Oral, delayed-release tablets: 1.5 to 2 hours (pediatrics) 
+  
+Distribution
+*Protein binding: about 98% to primarily albumin 
+*Vd, extensive metabolizers (IV): approximately 11 L to 23.6 L 
+*Vd, pediatrics (oral): 0.21 to 0.43 L/kg .
+  
+Metabolism
+*Hepatic; cytochrome P450 CYP2C19; minor metabolism from CYP3A4, 2D6, and 2C9 
+  
+Excretion
+*Fecal: (oral or IV, normal metabolizers), 18% 
+*Renal: (oral or IV, normal metabolizers), approximately 71%, none as unchanged 
+*Dialyzable: no (hemodialysis) 
+*Total body clearance: (IV) 7.6 to 14 L/hour .
+*Total body clearance: (oral, pediatrics) 0.18 to 2.08 L/hr/kg 
+  
+Elimination Half Life
+*Oral or IV, 1 hour 
+*Oral or IV, slow metabolizers, 3.5 to 10 hours 
+*Pediatrics, 0.7 to 5.34 hours
+
+== Availability ==
+Pantoprazole was developed by [[Altana]] (owned by [[Nycomed]]) and was licensed in the USA to [[Wyeth]] (which was taken over by [[Pfizer]]) and is currently marketed under the brand name Protonix by [[Wyeth|Wyeth-Ayerst Laboratories]], Pantec by Concept Pharmaceuticals, Somac by [[Pfizer]], API by Vanguard Therapeutics, Astropan by Astron Lifesciences, Fenix by [[Bosnalijek]], Pantecta by [[Novartis]], Pantoloc, Controloc or Somac by Nycomed, Tecta by Nycomed in Canada, Protium in the UK, Inipomp by [[Sanofi-Aventis]] or Eupantol by Nycomed in [[France]], Pantozol by Nycomed in Germany, Pantodac, Perizole by [[Obsurge Biotech]] and Pansped in [[India]], Zurcazol in [[Greece]], Protonex by Abdi İbrahim in [[Turkey]], Pantup in [[Ireland]], Pantomed in [[Belgium]], TopZole in South Africa, Nolpaza and Controloc in [[Romania]] and as UXL-D in India,  Pantid by Opsonin in [[Bangladesh]]. Pantid is the first brand in the world which is providing in double Alu-Alu sachet packaging to prevent its degradation from moisture & light.The generic pantoprazole sodium is available in the U.S. from Kremers Urban, Teva, and Torrent Pharma.  It is available by prescription in delayed-release tablets. It is also available for intravenous use.
+
+On 24 December 2007, [[Teva Pharmaceutical Industries|Teva Pharmaceutical]] released an [[therapeutic equivalence rating|AB-rated]] generic alternative to Protonix.<ref>[http://www.tevapharm.com/pr/2007/pr_708.asp Teva Announces Launch Of Generic Protonix Tablets]</ref> This was followed by generic equivalents from Sun Pharma and Kudco Pharma. Wyeth sued all three for patent infringement and launched its own generic version of Protonix with [[Nycomed]].<ref>{{cite news|url=http://online.wsj.com/article/SB120165361361326959.html|title=Wyeth Plans Generic Protonix; Litigation With Teva to Continue|first=Sarah|last=Rubenstein|work=[[The Wall Street Journal]]|date=29 January 2008|page=D9|accessdate=25 October 2009}}</ref><ref>{{cite web|url=http://www.nycomed.com/en/Menu/Media/News+releases/Protonix_30_01_08.htm|title=Nycomed and Wyeth announce launch of an own generic version of PROTONIX - lawsuit to defend patent continues|accessdate=25 October 2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+On October 18, 2010 the U.S. [[Food and Drug Administration]] (FDA) accepted the filing of an [[ANDA]] for a delayed release generic version of Protonix by Canadian company [[IntelliPharmaCeutics]].<ref>[http://www.intellipharmaceutics.com/releasedetail.cfm?ReleaseID=519521 IntelliPharmaCeutics Press Release]</ref>  The combination of [[domperidone]] 10&nbsp;mg and pantoprazole 40&nbsp;mg is available in India under the brand name Pantazone, Pantop-D, Rantop-D. Also, Indian pharmaceutical company [[Sun Pharmaceutical]] produces pantoprazole under the brand name Pantasan, which is available in [[Russia]] and [[Belarus]]. In Bangladesh Apex Pharma Limited markets pantoprazole under the brand name Pantrol. It is also available under the brand name Prazolin marketed by Rephco Pharmaceuticals Limited. It is also marketed by Chemist Laboratories Ltd. under the brand name Pantochem.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.druglib.com/druginfo/protonix/ Protonix (Pantoprazole Sodium) label]
+
+{{Proton-Pump Inhibitors}}
+
+[[Category:Proton pump inhibitors]]
+[[Category:Benzimidazoles]]
+[[Category:Sulfoxides]]
+[[Category:Wyeth]]
+[[Category:Phenol ethers]]
+[[Category:Organofluorides]]
+[[Category:Pyridines]]

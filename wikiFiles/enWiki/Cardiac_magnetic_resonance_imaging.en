@@ -1,0 +1,111 @@
+{{Interventions infobox |
+  Name        = Cardiac magnetic resonance imaging |
+  Image       = |
+  Caption     = |
+  ICD10       = {{ICD10PCS|B23|B/2/3}}  |
+  ICD9        = {{ICD9proc|88.92}} |
+  OPS301      = {{OPS301|3-803}}, {{OPS301|3-824}} |
+  MeshID      = |
+  OtherCodes  = |
+}}
+'''Cardiovascular magnetic resonance imaging''' (CMR), sometimes known as '''cardiac MRI''', is a medical imaging technology for the non-invasive assessment of the function and structure of the [[cardiovascular system]]. It is derived from and based on the same basic principles as [[magnetic resonance imaging]] (MRI) but with optimization for use in the cardiovascular system.  These optimizations are principally in the use of [[ECG]] gating and rapid imaging techniques or sequences. By combining a variety of such techniques into protocols, key functional and morphological features of the cardiovascular system can be assessed.
+
+[[Image:Myxoma CMR.gif| right | An example of CMR movies in different orientations of a cardiac tumor - in this case, an [[atrial myxoma]].  The full case can be seen [http://www.scmr.org/caseoftheweek/case06-01.cfm here].]]
+
+==History and nomenclature==
+The phenomenon of [[nuclear magnetic resonance]] (NMR) was first described in molecular beams (1938) and bulk matter (1946), work later acknowledged by the award of a joint [[Nobel prize]] in 1952. Further investigation laid out the principles of relaxation times leading to nuclear [[spectroscopy]]. In 1973, the first simple NMR image was published and the first medical imaging in 1977, entering the clinical arena in the early 1980s. In 1984, NMR medical imaging was renamed MRI. Initial attempts to image the heart were confounded by respiratory and cardiac motion, solved by using cardiac ECG gating, faster scan techniques and breath hold imaging. Increasingly sophisticated techniques were developed including cine imaging and techniques to characterise [[heart]] muscle as normal or abnormal (fat infiltration, oedematous, iron loaded, acutely infarcted or fibrosed).
+
+As MRI became more complex and application to cardiovascular imaging became more sophisticated, the Society for Cardiovascular Magnetic Resonance, [http://www.scmr.org] [[SCMR]] was set up (1996) with an academic journal, (JCMR) in 1999, which is going open source in 2008. In a move analogous to the development of ‘[[echocardiography]]’ from cardiac ultrasound, the term ‘Cardiovascular Magnetic Resonance’ (CMR) was proposed and has gained acceptance as the name for the field.
+
+==Physics==
+CMR uses the same basic principles as other [[MRI]] techniques with the addition of ECG gating. Most CMR uses only [[proton|<sup>1</sup>H nuclei]] MR, which are abundant in human tissue. By using magnetic fields and radiofrequency (RF) pulses, the patient's own <sup>1</sup>H nuclei absorb and then emit energy, which can be measured and translated into images, without using ionising radiation.
+
+==Techniques==
+CMR uses several different techniques within a single scan. The combination of these results in a comprehensive assessment of the heart and cardiovascular system. Examples are below:
+
+===Visualising heart muscle scar or fat without using a contrast agent ===
+Typically a sequence called [[spin-echo]] is used. This causes the [[blood]] to appear black. These are high resolution still images which in certain circumstances identify abnormal [[myocardium]] through differences in intrinsic contrast.   
+
+[[Image:Cardiac magnetic resonance Arrhythmogenic right ventricular dysplasia.gif]][[Image:CMR SA TSE noFS.gif|A short axis view of the heart showing a movie (cine)next to a spin-echo sequence. In this case, the scan demonstrates features of [[ARVC]] with fatty infiltration of the left and right ventricles. The full case can be seen [http://www.scmr.org/caseoftheweek/case07-14.cfm here].]]
+
+===Heart function using cine imaging===
+Images of the heart may be acquired in [[Real-time MRI|real-time]] with CMR, but the image quality is limited. Instead most sequences use [[Electrocardiogram|ECG]] gating to acquire images at each stage of the [[cardiac cycle]] over several heart beats. This technique forms the basis of functional assessment by CMR. Blood typically appears bright in these sequences due to the contrast properties of blood and its rapid flow.  The technique can discriminate very well between blood and myocardium.  The current technique typically used for this is called 
+[[Steady-state free precession imaging|balanced steady state free precession]] (SSFP), implemented as TrueFISP, b-FFE or Fiesta, depending on scanner manufacturer. 
+
+[[Image:Four chamber cardiovascular magnetic resonance imaging.gif]]
+
+<small>A 4 chamber view of the heart using SSFP cine imaging.  Compare the image orientation (4 chamber) with the short axis view of the movie above </small>
+
+===Infarct imaging using contrast===
+[[Scar]] is best seen after giving a contrast agent, typically one containing [[gadolinium]] bound to DTPA.  With a special sequence, [[Inversion Recovery]] (IR) normal heart muscle appears dark, whilst areas of infarction appear bright white. 
+
+[[Image:CMR infarct cine.gif]]
+[[Image:CMR infarct.gif]]
+
+<small>CMR in the 4 chamber view comparing the cine (left) with the late gadolinium image using inversion recovery (right).  The subendocardial infarct is clearly seen. Fat around the heart also appears white.</small>
+
+===Perfusion===
+In [[angina]], the heart muscle is starved of [[oxygen]] by a [[coronary artery]] narrowing, especially during stress. This appears as a transient perfusion defect when a dose of contrast is given into a [[vein]]. Knowing whether a perfusion defect is present and where it is helps guide intervention and treatment for coronary artery narrowings.
+
+[[Image:CMR stress perfusion normal.gif]]
+[[Image:CMR stress perfusion inf defect.gif]]
+
+<small>CMR perfusion.  Contrast appears in the right ventricle then left ventricle before blushing into the muscle, which is normal (left) and abnormal (right, an inferior perfusion defect).</small>
+
+==Uses==
+In the investigation of cardiovascular disease the physician has a wide variety of tools available. The key disadvantages of CMR are limited availability, expense, and special skills/technical training needed to perform CMR (vs other types of MRI). The key advantages are image quality, non-invasiveness, accuracy, versatility and no ionising radiation. 
+
+MRA (magnetic resonance angiography) can produce 3D and 4D images of blood vessels and the flow of blood through the vessels. 
+
+A good overview of the clinical indications for CMR can be found [http://www.scmr.org/assets/files/2004pennell_ehjcmr_indications.pdf here] and [http://www.acc.org/qualityandscience/clinical/pdfs/CCT.CMR.pdf here]
+
+A good overview of the quantifiable results available from CMR may be found [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2816803/ here].
+
+==Children and congenital heart disease==
+
+[[Congenital heart defects]] are the most common type of major birth defect.  Accurate diagnosis is essential for the development of appropriate treatment plans.  CMR can provide comprehensive information about the nature of congenital hearts defects in a safe fashion without using x-rays or entering the body.   It is rarely used as the first or sole diagnostic test for congenital heart disease.  Rather, it is typically used in concert with other diagnostic techniques.  In general, the clinical reasons for a CMR examination fall into one or more of the following categories: 1) when [[echocardiography]] (cardiac ultrasound) cannot provide sufficient diagnostic information, 2) as an alternative to diagnostic cardiac catheterization which involve risks including x-ray radiation exposure, 3) to obtain diagnostic information for which CMR offers unique advantages such as blood flow measurement or identification of cardiac masses, and 4) when clinical assessment and other diagnostic tests are inconsistent.  Examples of conditions in which CMR is often used include [[tetralogy of Fallot]], [[transposition of the great arteries]], [[coarctation of the aorta]], single ventricle heart disease, abnormalities of the pulmonary veins, [[atrial septal defect]], connective tissue diseases such as [[Marfan syndrome]], [[vascular rings]], abnormal origins of the coronary arteries, and cardiac tumors.
+
+[[Image:Secundum ASD cine.gif|x120px|]]
+
+<small>Atrial septal defect with dilation of the right ventricle by CMR</small>
+
+[[Image:PAPVR.gif|x170px|]]
+
+<small>Partial Anomalous Pulmonary Venous Drainage by CMR</small>
+
+CMR examinations in children typically last 15 to 60 minutes.  In order to avoid blurry images the child must remain very still during the examination.  Different institutions have different protocols for pediatric CMR, but most children 7 years of age and older can cooperate sufficiently for a good quality examination.  Providing an age-appropriate explanation of the procedure to the child in advance will increase the likelihood of a successful study.  After proper safety screening, parents can be allowed into the MRI scanner room to help their child complete the examination.  Some centers allow children to listen to music or watch movies through a specialized MRI-compatible audiovisual system to reduce anxiety and improve cooperation.  However, the presence of a calm, encouraging, supportive parent generally produces better results in terms of pediatric cooperation than any distraction or entertainment strategy short of sedation.  If the child cannot cooperate sufficiently, sedation with intravenous medications or general anesthesia may be necessary.  In very young babies, it may be possible to perform the examination while they are in a natural sleep.
+
+[[Image:RVpoorfunctiondragcomp.gif|x120px|]]
+
+<small>Enlarged right ventricle with poor function in a patient with repaired tetralogy of Fallot by CMR</small>
+
+==Different cardiac-capable magnet types==
+CMR scanners require modern electronics.  'Open' magnets are not so good for cardiac scanning as they do not cope with the beating heart very well. There are two magnet strengths mainly in use in CMR - 1.5 [[tesla (unit)|tesla]] and 3 tesla. The 3 tesla can potentially double the amount of information acquired in a scan.  It offers particular advantages for [[perfusion]]. The downsides of 3 tesla are cost, energy usage requirements, and potentially artifacts degrading the pictures. 
+
+In some cases it is possible to update or refurbish a 1.5 [[tesla (unit)|tesla]] scanner to produce CMR images of clinical/diagnostic value equal or exceeding that which is available from 3 [[tesla (unit)|tesla]] scanners. 
+
+Current manufacturers of cardiac-capable MRI scanners include Philips, Siemens, Hitachi, Toshiba, GE.
+
+==Training==
+Training is being increasingly protocolised and is now formal with stages of training and accreditation. 
+A resource for anyone thinking about CMR as a career can be found [http://www.scmr.org/navigation/starting.html here]
+
+==External links==
+* [http://www.magnetic-resonance.org An Introduction to Magnetic Resonance - The basic e-learning textbook of EMRF/TRTF]
+* [http://www.scmr.org The Society for Cardiovascular Magnetic Resonance]
+* [http://jcmr-online.com The Journal for Cardiovascular Magnetic Resonance]
+* [http://atlas.scmr.org/cineplayer.html An Atlas of normal cardiac structure and function by CMR]
+* [http://www.radiologyinfo.org/en/info.cfm?pg=cardiacmr&bhcp=1 Having a CMR scan]
+* [http://www.emedicine.com/Radio/topic866.htm Cardiac MRI technical primer]
+* [http://Revisemri.com ReviseMRI.com]
+* [http://www.hull.ac.uk/mri/lectures/gpl_page.html Hull physics lecture series]
+* [http://www.cis.rit.edu/htbooks/mri/ the basics of MRI]
+* [http://www.mritutor.org/mritutor/ MRI tutor]
+* A good description of the experience of receiving a CMR can be found [http://www.radiologyinfo.org/en/info.cfm?pg=cardiacmr&bhcp=1 here]
+* For online case examples, see [http://www.scmr.org/caseoftheweek.html here]
+
+{{Cardiac procedures}}
+{{Medical imaging}}
+
+[[Category:Cardiac imaging]]
+[[Category:Magnetic resonance imaging]]

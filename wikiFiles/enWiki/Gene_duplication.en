@@ -1,0 +1,118 @@
+[[Image:gene-duplication.png|thumb|200px|Schematic of a region of a chromosome before and after a duplication event]]
+
+'''Gene duplication''' (or '''chromosomal duplication''' or '''gene amplification''') is a major mechanism through which new genetic material is generated during [[molecular evolution]]. It can be defined as any duplication of a region of [[DNA]] that contains a [[gene]]; it may occur as an error in [[homologous recombination]], a [[retrotransposon|retrotransposition]] event, or duplication of an entire chromosome.<ref name="Zhang_2003">{{cite journal |author=Zhang J |title=Evolution by gene duplication: an update |journal=Trends in Ecology & Evolution |volume=18 |issue=6 |pages=292–8 |year=2003 |doi=10.1016/S0169-5347(03)00033-8 |url = http://www.sciencedirect.com/science/article/pii/S0169534703000338}}</ref> The second copy of the gene is often free from [[purifying selection|selective pressure]] — that is, [[mutation]]s of it have no deleterious effects to its host organism.  Thus it accumulates mutations faster than a functional single-copy gene, over generations of organisms.
+
+A duplication is the opposite of a [[Deletion (genetics)|deletion]]. Duplications arise from an event termed [[unequal crossing-over]] that occurs during meiosis between misaligned homologous chromosomes.The chance of this happening is a function of the degree of sharing of repetitive elements between two chromosomes. The product of this recombination are a duplication at the site of the exchange and a reciprocal deletion.<ref>http://www.medterms.com/script/main/art.asp?articlekey=3562</ref>
+
+==Gene duplication as an evolutionary event==
+[[File:EvolutionOfDuplicateGenes.png|thumb|right|500px|Evolutionary fate of duplicate genes]]
+Gene duplication is believed to play a major role in [[evolution]]; this stance has been held by members of the scientific community for over 100 years.<ref name="Taylor_Raes_2004">{{cite journal |author=Taylor JS, Raes J |title=Duplication and divergence: the evolution of new genes and old ideas |journal=Annu. Rev. Genet. |volume=38 |pages=615–43 |year=2004 |pmid=15568988 |doi=10.1146/annurev.genet.38.072902.092831 |url = http://www.annualreviews.org/doi/abs/10.1146/annurev.genet.38.072902.092831?journalCode=genet}}</ref> [[Susumu Ohno]] was one of the most famous developers of this theory in his classic book ''Evolution by gene duplication'' (1970).<ref name="Ohno_1970">{{cite book |author=Ohno, S. |year=1970 |title=Evolution by gene duplication|publisher=[[Springer Science+Business Media|Springer-Verlag]]| isbn=0-04-575015-7 |authorlink=Susumu Ohno}}</ref>  Ohno argued that gene duplication is the most important evolutionary force since the emergence of the [[common descent|universal common ancestor]].<ref name="Ohno_1967">{{cite book |author=Ohno, S. |year=1967 |title=Sex Chromosomes and Sex-linked Genes|publisher=[[Berlin: Springer-Verlag|Springer-Verlag]]| isbn=91-554-5776-2 |authorlink=Susumu Ohno}}</ref>
+Major [[Polyploidy|genome duplication]] events can be quite common. It is believed that the entire [[yeast]] [[genome]] underwent duplication about 100 million years ago.<ref name="Kellis_2004">{{cite journal |author=Kellis M, Birren BW, Lander ES |title=Proof and evolutionary analysis of ancient genome duplication in the yeast Saccharomyces cerevisiae |journal=Nature |volume=428 |issue=6983 |pages=617–24 |year=2004 |month=April |pmid=15004568 |doi=10.1038/nature02424 }}</ref>  [[Plant]]s are the most prolific genome duplicators.  For example, [[wheat]] is hexaploid (a kind of [[polyploid]]), meaning that it has six copies of its genome.
+
+The duplication of a gene results in an additional copy that is free from selective pressure. One kind of view is that this allows the new copy of the gene to mutate without deleterious consequence to the organism. This freedom from consequences allows for the mutation of novel genes that could potentially increase the fitness of the organism or code for a new function. An example of this is the apparent mutation of a duplicated digestive gene in a family of [[Notothenioidei|ice fish]] into an antifreeze gene.
+
+Another view is that both copies are equally free to accumulate degenerative mutations, so long as any defects are complemented by the other copy. This leads to a neutral "subfunctionalization" or DDC (duplication-degeneration-complementation) model,<ref name=Force_1999>{{cite journal |author=Force A., Lynch M., Pickett F. B., Amores A., Yan Y. L. and Postlethwait J. | year=1999| title=Preservation of duplicate genes by complementary, degenerative mutations. | journal=Genetics |volume=151 |pages=1531–1545 | pmid=10101175 | issue=4 | pmc=1460548}}</ref><ref name=Stoltzfus_1999>{{cite journal | author=Stoltzfus, A.| year=1999|title=On the possibility of constructive neutral evolution.|journal=J Mol Evol|volume=49 | issue=2| pages=169–181|pmid=    10441669 |doi=10.1007/PL00006540}}</ref> in which the functionality of the original gene is distributed among the two copies.
+
+The two genes that exist after a gene duplication event are called [[Paralog#Orthology and paralogy|paralogs]] and usually code for [[protein]]s with a similar function and/or structure.  By contrast, [[Paralog#Orthology and paralogy|orthologous]] genes are ones which code for proteins with similar functions but exist in different species, and are created from a [[speciation]] event. (See [[Homology (biology)#Homology of sequences in genetics|Homology of sequences in genetics]]).
+
+It is important (but often difficult) to differentiate between paralogs and orthologs in biological research. Experiments on human gene function can often be carried out on other [[species]] if a homolog to a human gene can be found in the genome of that species, but only if the homolog is orthologous. If they are paralogs and resulted from a gene duplication event, their functions are likely to be too different. One or more copies of duplicated genes that constitutes a gene family may be affected by an insertion of [[transposable elements]] that causes significant variation between them in their sequence and finally may become responsible for [[divergent evolution]]. This may also render the chances and the rate of [[gene conversion]] between the homologs of gene duplicates due to less or no similarity in their sequences. 
+
+The paralogous segments can be repeat sequences with more than 90% sequence similarity. In such cases, they are known as [[low copy repeats]] (LCRs) though they are not highly repetitive sequences. They are mostly found in [[Chromosome regions|pericentronomic]], [[subtelomeric]] and [[Chromosome regions|interstitial]] regions of a chromosome. The LCRs, due to their size (>1Kb), similarity, and orientation, are highly susceptible to duplications and deletions. These genomic rearrangements are caused by the mechanism of [[non-allelic homologous recombination]]. The resulting genomic variation leads to gene dosage dependent neurological disorders such as [[Rett syndrome|Rett-like syndrome]] and [[Pelizaeus-Merzbacher disease]].<ref>{{cite journal |author=Lee JA, Lupski JR |title=Genomic rearrangements and gene copy-number alterations as a cause of nervous system disorders |journal=Neuron |volume=52 |issue=1 |pages=103–21 |year=2006 |month=October |pmid=17015230 |doi=10.1016/j.neuron.2006.09.027 }}</ref>
+
+==Gene duplication as amplification==
+
+Gene duplication doesn't necessarily constitute a lasting change in a species' genome.  In fact, such changes often don't last past the initial host organism.  From the perspective of [[molecular genetics]], amplification is one of many ways in which a [[gene]] can be [[Gene expression#Overexpression|overexpressed]].  Genetic amplification can occur artificially, as with the use of the [[polymerase chain reaction]] technique to amplify short strands of [[DNA]] ''[[in vitro]]'' using [[enzymes]], or it can occur naturally, as described above.  If it's a natural duplication, it can still take place in a [[somatic cell]], rather than a [[germline]] cell (which would be necessary for a lasting evolutionary change).
+
+===Genomic microarrays detect Duplications===
+Technologies such as genomic [[microarrays]], also called array comparative [[genomic]] hybridization (array CGH), are used to detect chromosomal abnormalities, such as microduplications, in a high throughput fashion from genomic DNA samples. In particular, DNA [[microarray]] technology can simultaneously monitor the [[gene expression|expression]] levels of thousands of genes across many  treatments or experimental conditions, greatly facilitating the evolutionary studies of [[gene regulation]] after gene duplication or [[speciation]].<ref>{{cite journal |author=Mao R, Pevsner J |title=The use of genomic microarrays to study chromosomal abnormalities in mental retardation |journal=Ment Retard Dev Disabil Res Rev |volume=11 |issue=4 |pages=279–85 |year=2005 |pmid=16240409 |doi=10.1002/mrdd.20082 }}</ref><ref>{{cite journal |author=Gu X, Zhang Z, Huang W |title=Rapid evolution of expression and regulatory divergences after yeast gene duplication |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=102 |issue=3 |pages=707–12 |year=2005 |month=January |pmid=15647348 |pmc=545572 |doi=10.1073/pnas.0409186102 }}</ref>
+
+===Role in cancer===
+Duplications of [[oncogenes]] are a common cause of many types of [[cancer]]. In such cases the genetic duplication occurs in a somatic cell and affects only the genome of the cancer cells themselves, not the entire organism, much less any subsequent offspring.
+
+{|class="wikitable"
+|+Common oncogene amplifications in human cancers
+|-
+! Cancer type !! Associated gene<br> amplifications !! Prevalence of <br>amplification <br>in cancer type<br> (percent)
+|-
+|rowspan=5| [[Breast cancer]] || [[MYC]] || 20<ref name=Vogelstein2002>[http://books.google.se/books?id=pYG09OPbXp0C&pg=PA116 Page 116] in: {{cite book |author=Kinzler, Kenneth W.; Vogelstein, Bert |title=The genetic basis of human cancer |publisher=McGraw-Hill, Medical Pub. Division |location=New York |year=2002 |pages= |isbn=0-07-137050-1 |oclc= |doi= |accessdate=}}</ref>
+|-
+| [[ERBB2]] (EGFR) || 20<ref name=Vogelstein2002/> 
+|-
+| [[CCND1]] ([[Cyclin D1]]) || 15-20<ref name=Vogelstein2002/>
+|-
+| [[FGFR1]] || 12<ref name=Vogelstein2002/>
+|-
+| [[FGFR2]] ||  12<ref name=Vogelstein2002/>
+|-
+|rowspan=2| [[Cervical cancer]] || [[MYC]] || 25-50<ref name=Vogelstein2002/>
+|-
+| [[ERBB2]] || 20<ref name=Vogelstein2002/>
+|-
+|rowspan=3| [[Colorectal cancer]] || [[HRAS]] || 30<ref name=Vogelstein2002/>
+|-
+| [[KRAS]] || 20<ref name=Vogelstein2002/>
+|-
+| [[MYB (gene)|MYB]] || 15-20<ref name=Vogelstein2002/> 
+|-
+|rowspan=3| [[Esophageal cancer]] || [[MYC]] || 40<ref name=Vogelstein2002/>
+|-
+| [[CCND1]] || 25<ref name=Vogelstein2002/>
+|-
+| [[MDM2]] || 13<ref name=Vogelstein2002/>
+|-
+|rowspan=3| [[Gastric cancer]] || [[CCNE (gene)|CCNE]] ([[Cyclin E]]) || 15<ref name=Vogelstein2002/> 
+|-
+| [[KRAS]] || 10<ref name=Vogelstein2002/>
+|-
+| [[C-Met|MET]] || 10<ref name=Vogelstein2002/>
+|-
+|rowspan=2| [[Glioblastoma]] || [[ERBB1]] ([[epidermal growth factor receptor|EGFR]]) || 33-50<ref name=Vogelstein2002/>
+|-
+| [[CDK4]] || 15<ref name=Vogelstein2002/>
+|-
+|rowspan=3| [[Head and neck cancer]] || [[CCND1]] || 50<ref name=Vogelstein2002/>
+|-
+| [[ERBB1]] || 10<ref name=Vogelstein2002/>
+|-
+| [[MYC]] || 7-10<ref name=Vogelstein2002/>
+|-
+| [[Hepatocellular cancer]] || [[CCND1]] || 13<ref name=Vogelstein2002/>
+|-
+| [[Neuroblastoma]] || [[MYCN]] || 20-25<ref name=Vogelstein2002/>
+|-
+|rowspan=3| [[Ovarian cancer]] || [[MYC]] || 20-30<ref name=Vogelstein2002/>
+|-
+| [[ERBB2]] || 15-30<ref name=Vogelstein2002/>
+|-
+| [[AKT2]] || 12<ref name=Vogelstein2002/>
+|-
+|rowspan=2| [[Sarcoma]] || [[MDM2]] || 10-30<ref name=Vogelstein2002/>
+|-
+| [[CDK4]] || 10<ref name=Vogelstein2002/>
+|-
+| [[Small cell lung cancer]] || [[MYC]] || 15-20<ref name=Vogelstein2002/>
+|-
+|}
+
+==See also==
+* [[Pseudogenes]]
+* [[Molecular evolution]]
+* [[Unequal crossing over]]
+* [[Human genome]]
+* [[Comparative genomics]]
+* [[Inparanoid]]
+* [[Tandem exon duplication]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nslij-genetics.org/duplication/ ''A bibliography on gene and genome duplication'']
+* [http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/M/Mutations.html#duplications ''A brief overview of mutation, gene duplication and translocation'']
+
+{{MolecularEvolution}}
+
+{{DEFAULTSORT:Gene Duplication}}
+[[Category:Molecular evolution]]
+[[Category:Molecular genetics]]
+[[Category:Mutation]]

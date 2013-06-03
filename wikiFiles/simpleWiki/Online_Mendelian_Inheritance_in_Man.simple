@@ -1,0 +1,29 @@
+'''Online Mendelian Inheritance in Man''' (OMIM) is a [[database]] that keeps track of all known [[disease]]s with a [[genetic disorder|genetic cause]]. When possible it links the diseases to the relevant [[genes]]. It provides a useful tool for further research.<ref name="Hamosh">{{Cite journal| last1 = Hamosh A.| last2 = Scott A.| last3 = Amberger J.| last4 = Bocchini C.| last5 = McKusick V.| title = Online Mendelian Inheritance in Man (OMIM): a knowledgebase of human genes and genetic disorders| doi = 10.1093/nar/gki033| journal = Nucleic Acids Research| volume = 33| issue = Database issue| pages = D514–D517| year = 2004| pmid = 15608251| pmc =539987}}</ref>  OMIM is one of the databases housed in the U.S. [[National Center for Biotechnology Information]] (NCBI). People search it using the NCBI search menus.<ref name="urlNational Center for Biotechnology Information">{{cite web |url=http://www.ncbi.nlm.nih.gov/ |title=National Center for Biotechnology Information |format= |work= |accessdate=2011-04-20}}</ref>
+
+== Versions ==
+Mendelian Inheritance in Man was started as books in the early 1960s.<ref name="urlOMIM Help">{{cite web |url=http://www.omim.org/help/about |title=OMIM Help |format= |work= |accessdate=2011-04-20}}</ref> The 12th edition is the most recent book.<ref>{{cite book | last = McKusick | first = VA | title = Mendelian inheritance in man: a catalog of human genes and genetic disorders | location = Baltimore, Maryland | publisher = Johns Hopkins University Press | year = 1998 | isbn = 0-8018-5742-2}}</ref> The [[online]] version, OMIM, has been available since 1987.<ref>{{Cite journal| last1 = McKusick V.| last2 = Amberger J.| title = The morbid anatomy of the human genome: chromosomal location of mutations causing disease| journal = Journal of Medical Genetics| volume = 30| issue = 1| pages = 1–26| year = 1993| pmid = 8423603| pmc = 1016229| doi=10.1136/jmg.30.1.1}}</ref> NCBI move it to the World Wide Web in 1995.<ref name="urlOMIM Help" /> By 2004, OMIM contained more than 15,000 records.<ref name="Hamosh"/>
+
+== The MIM code ==
+Every disease and [[gene]] is given a six digit number. The first digit in each number tells how the gene or disease is inheritance (passed from one generation to the next).
+
+If the initial digit is 1, the trait is [[autosomal dominant]]; if 2, [[autosomal recessive]]; if 3, [[X-linked]]. Each trait defined in this dictionary has a MIM number, the number from the 12th edition of MIM. The MIM number is printed in square brackets with or without an asterisk (asterisks indicate that the mode of inheritance is known; a number symbol (#) before an entry number means that the [[phenotype]] can be caused by [[mutation]] in any of two or more genes) as appropriate. For example, [[Pelizaeus-Merzbacher disease]] [MIM #312080] is an X-linked recessive disorder.
+
+'''Range of MIM codes''': '''Method of inheritance'''<ref name="urlOMIM Help">{{cite web |url=http://www.omim.org/help/faq |title=OMIM Help |format= |work= |accessdate=2011-04-18}}</ref>
+* 100000–299999: [[Autosomal]] [[locus (genetics)|loci]] or [[phenotype]]s (created before May 15, 1994)
+* 300000–399999: X-linked loci or phenotypes
+* 400000–499999: [[Y-linked]] loci or phenotypes
+* 500000–599999: [[Mitochondria]]l loci or phenotypes
+* 600000–above : Autosomal loci or phenotypes (created after May 15, 1994)
+
+These codes have been used in the medical literature to provide a unified index to genetic diseases.<ref>{{Cite journal| last1 = Tolmie J. ''et al''| title = The Aicardi-Goutières syndrome (familial, early onset encephalopathy with calcifications of the basal ganglia and chronic cerebrospinal fluid lymphocytosis)| journal = Journal of Medical Genetics| volume = 32| issue = 11| pages = 881–884| year = 1995| pmid = 8592332| pmc = 1051740 | doi=10.1136/jmg.32.11.881}}</ref>
+
+== References ==
+{{Reflist}}
+
+== Other websites ==
+* [http://www.omim.org OMIM home page]
+* [http://www.ncbi.nlm.nih.gov/omim NCBI]
+
+[[Category:Public databases]]
+[[Category:Genetics]]
+[[Category:Humans]]

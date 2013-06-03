@@ -1,0 +1,76 @@
+'''Natural killer T (NKT) cells''' are a heterogeneous group of [[T cells]] that share properties of both T cells and [[Natural killer cell|natural killer (NK) cells]]. Many of these cells recognize the [[Polymorphism (biology)|non-polymorphic]] [[CD1d receptor|CD1d]] [[molecule]], an [[antigen]]-presenting molecule that binds self- and foreign [[lipids]] and [[glycolipids]]. They constitute only approximately 0.1% of all [[:wikt:peripheral|peripheral]] [[blood]] [[T cell]]s.<ref name="Jerud, 1999">{{cite journal | last = Jerud | first = ES | coauthor = Bricard G, Porcelli SA | year = 2006 | title = Natural Killer T cells: Roles in Tumor Immunosurveillance and Tolerance | journal = Transfus. Med. Hemother. | volume = 33 | issue = 1 | pages = 18–36 | doi = 10.1159/000090193}}</ref>
+
+==Nomenclature==
+The term “NK T cells” was first used in mice to define a subset of [[T cells]] that expressed the natural killer (NK) cell-associated marker NK1.1 (CD161). It is now generally accepted that the term “NKT cells” refers to [[CD1d receptor|CD1d]]-restricted [[T cells]], present in mice and humans, some of which coexpress a heavily biased, semi-invariant [[T cell receptor]] (TCR) and NK cell markers.<ref name="Godfrey, 2004">{{cite journal | last = Godfrey | first = DI | coauthor = MacDonald HR, Kronenberg M, Smyth MJ, Van Kaer L | year = 2004 | title = NKT cells: what’s in a name? | journal = Nat. Rev. Immunol. | volume = 4 | pages = 231 | doi = 10.1038/nri1309 | pmid = 15039760 | issue = 3}}</ref>
+Natural killer T (NKT) cells should not be confused with [[Natural Killer cell|natural killer (NK) cells]].
+
+==Molecular characterization==
+NKT cells are a subset of [[T cell]]s that co-express an αβ [[T cell receptor]] (TCR), but also express a variety of molecular markers that are typically associated with NK cells, such as [[NK1.1]]. The best known NKT cells differ from conventional αβ T cells in that their TCRs are far more limited in diversity ('invariant' or 'Type 1' NKT).  They and other CD1d-restricted T cells ('Type 2' NKT) recognize [[lipids]] and [[glycolipids]] presented by [[CD1d receptor|CD1d]] molecules, a member of the [[CD1]] family of antigen presenting molecules, rather than [[peptide]]-[[major histocompatibility complex|MHC complexes]]. As such, NKT cells are important in recognizing glycolipids from organisms such as [[mycobacterium]], which cause [[tuberculosis]]. NKT cells include both NK1.1<sup>+</sup> and NK1.1<sup>-</sup>, as well as CD4<sup>+</sup>, CD4<sup>-</sup>, CD8<sup>+</sup> and CD8<sup>-</sup> cells. Natural Killer T cells can share other features with [[NK cell]]s as well, such as [[CD16]] and [[CD56]] [[Gene expression|expression]] and [[granzyme]] production.<ref name="Van der Vliet, 1999">{{cite journal | last = Van der Vliet | first = HJ | coauthor = Nishi N, Koezuka Y, Peyrat MA, Von Blomberg BM, Van den Eertwegh AJ, Pinedo HM, Giaccone G, Scheper RJ | year = 1999 | title = Effects of alphagalactosylceramide (KRN7000), interleukin-12 and interleukin-7 on phenotype and cytokine profile of human Va24<sup>+</sup> Vb11<sup>+</sup> T cells | journal = Immunology | volume = 98 | pages = 557–563 | doi = 10.1046/j.1365-2567.1999.00920.x | pmid = 10594688 | issue = 4 | pmc = 2326955}}</ref><ref name="Vivier, 2002">{{cite journal | last = Vivier | first = E | coauthor = Anfossi N | year = 2004 | title = Inhibitory NK-cell receptors on T cells. Witness of the past, actors of the future. | journal = Nat Rev Immunol | volume = 4 | pages = 190–198 | doi = 10.1038/nri1306 | pmid = 15039756 | issue = 3}}</ref> Invariant Natural Killer T (iNKT) cells express high levels of and are dependent on the transcriptional regulator [[promyelocytic leukemia zinc finger]] (PLZF) for their development.<ref>{{cite journal |author=Kovalovsky D, Uche OU, ''et al.'' |title=The BTB-zinc finger transcriptional regulator PLZF controls the development of invariant natural killer T cell effector functions. |journal=Nature Immunology |volume=9 |issue=9 |pages=1055–64 |year=2008 |month=Sep |doi=10.1038/ni.1641 |pmid=18660811 |pmc=2662733}}</ref><ref>{{cite journal |author=Savage AK, Constantinides MG, ''et al.'' |title=The transcription factor PLZF directs the effector program of the NKT cell lineage. |journal=Immunity |volume=29 |issue=3 |pages=391–403 |year=2008 |month=Sep |doi=10.1016/j.immuni.2008.07.011 |pmid=18703361 |pmc=2613001}}</ref>
+
+==Classification==
+Classification of natural killer T cells into three groups has been proposed.<ref name="Godfrey, 2004" />
+{| class="wikitable"
+|- 
+! style="background-color:#e8ffff;text" |
+! style="background-color:#e8ffff;text" |Type 1 NKT
+! style="background-color:#e8ffff;text" |Type 2 NKT
+! style="background-color:#e8ffff;text" |NKT-like
+|- 
+! Other names
+! classical NKT <br> invariant NKT (iNKT) <br> Vα14i NKT (mouse)<br> Vα24i NKT (human)
+! non-classical NKT <br> diverse NKT
+! NK1.1<sup>+</sup> T cells <br> CD3<sup>+</sup> CD56<sup>+</sup> T cells
+|-
+! Restriction
+! CD1d
+! CD1d
+! MHC, other?
+|-
+! α-GalCer <br> reactivity
+! +
+! -
+! -
+|-
+! TCR repertoire
+! Vα14-Jα18: <br> Vβ8.2, 7, 2 (mouse) <br> Vα24-Jα18: <br> Vβ11 (human)
+! diverse
+! diverse
+|}
+
+==iNKT cells==
+The best known subset of CD1d-dependent NKT cells expresses an invariant T cell receptor α (TCR-α) chain. These are referred to as type I or invariant NKT cells (iNKT) cells. These cells are conserved between humans and mice and are implicated in many immunological processes.  Absence of microbe exposure in early development led to increased iNKT cells and immune morbidity in a mouse model. <ref>{{cite journal|last=Olszak|first=et al.|title=Microbial Exposure During Early Life Has Persistent Effects on Natural Killer T Cell Function|journal=Science|year=2012|doi=10.1126/science.1219328}}</ref>
+
+==Function==
+Upon activation, NKT cells are able to produce large quantities of [[interferon]]-gamma, [[Interleukin-4|IL-4]], and [[granulocyte]]-[[macrophage]] colony-stimulating factor, as well as multiple other [[cytokines]] and [[chemokines]] (such as [[Interleukin-2|IL-2]], Interleukin-13, Interleukin-17, Interleukin-21 and [[TNF-alpha]]).
+
+==Significance==
+NKT cells seem to be essential for several aspects of [[immunity (medical)|immunity]] because their dysfunction or deficiency has been shown to lead to the development of [[autoimmune diseases]] (such as [[diabetes]] or [[atherosclerosis]]) and [[cancers]]. NKT cells have recently been implicated in the disease progression of human asthma.<ref>Cromie, William J. [http://www.news.harvard.edu/gazette/2006/03.16/01-asthma.html Researchers uncover cause of asthma] Harvard University Gazette, March 16, 2006.</ref>
+
+The clinical potential of NKT cells lies in the rapid release of cytokines (such as IL-2, IFN-gamma, TNF-alpha, and IL-4) that promote or suppress different immune responses.
+
+==See also==
+* [[Cytotoxic T cell]] (Killer T cell)
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nkcells.info/wiki/index.php?title=NKT_cell#References NKT cell Journal Screening]
+* [http://www.nature.com/nri/journal/v3/n3/glossary/nri1027_glossary.html#DF2 Nature glossary on murine NKT cells]
+* [http://www.nature.com/nri/focus/reglymph/index.html Nature Reviews Web Focus on regulatory lymphocytes]
+
+{{Lymphocytes}}
+{{Immune_system}}
+
+[[Category:T cells]]
+[[Category:Human cells]]
+
+[[cs:NK T-lymfocyt]]
+[[de:NKT-Zelle]]
+[[dv:ނެޗުރަލް ކިލަރ ޓީ ސެލް]]
+[[fr:Lymphocyte NKT]]
+[[gl:Célula NKT]]
+[[ja:ナチュラルキラーT細胞]]
+[[pl:Limfocyt NKT]]
+[[pt:Linfócito NKT]]
+[[ru:Цитотоксические Т-лимфоциты]]

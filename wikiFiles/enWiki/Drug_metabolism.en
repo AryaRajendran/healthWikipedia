@@ -1,0 +1,180 @@
+[[File:CYP2C9 1OG2.png|230px|thumb|[[Cytochrome P450 oxidase]]s are important enzymes in [[xenobiotic]] metabolism.]]
+'''Drug metabolism''' also known as '''xenobiotic metabolism''' is the [[biochemical]] modification of [[pharmaceutical drug|pharmaceutical substances]] or [[xenobiotic]]s respectively by living [[organism]]s, usually through specialized [[Enzyme|enzymatic]] systems. Drug metabolism often converts [[lipophilic]] [[chemical compound]]s into more readily [[Excretion|excreted]] [[Polarity (chemistry)|hydrophilic]] products. The rate of metabolism determines the duration and intensity of a drug's pharmacological action.
+
+Xenobiotic metabolism (from the Greek [[xenos (Greek)|xenos]] "stranger"  and biotic "related to living beings") is the set of [[metabolic pathway]]s that modify the chemical structure of [[xenobiotic]]s, which are compounds foreign to an organism's normal biochemistry, such as drugs and poisons. These pathways are a form of [[biotransformation]] present in all major groups of organisms, and are considered to be of ancient origin. These reactions often act to [[detoxification|detoxify]] poisonous compounds; however, in some cases, the intermediates in xenobiotic metabolism can themselves be the cause of toxic effects. 
+
+The reactions in these pathways are of particular interest in [[medicine]] as part of drug metabolism and as a factor contributing to [[multidrug resistance]] in [[infectious disease]]s and [[cancer]] [[chemotherapy]]. The actions of some drugs as substrates or [[enzyme inhibitor|inhibitors]] of enzymes involved in xenobiotic metabolism are a common reason for hazardous [[drug interaction]]s. These pathways are also important in [[environmental science]], with the xenobiotic metabolism of [[microorganism]]s determining whether a pollutant will be broken down during [[bioremediation]], or [[persistent organic pollutant|persist]] in the environment. The enzymes of xenobiotic metabolism, particularly the [[glutathione S-transferase]]s are also important in agriculture, since they may produce resistance to [[pesticide]]s and [[herbicide]]s.
+
+Drug metabolism is divided into three phases. In phase I, enzymes such as [[cytochrome P450 oxidase]]s introduce reactive or polar groups into xenobiotics. These modified compounds are then conjugated    to polar compounds in phase II reactions. These reactions are catalysed by [[transferase]] enzymes such as [[glutathione S-transferase]]s. Finally, in phase III, the conjugated xenobiotics may be further processed, before being recognised by [[Efflux (microbiology)|efflux transporters]] and pumped out of cells.
+
+== Permeability barriers and detoxification ==
+
+That the exact compounds an organism is exposed to will be largely unpredictable, and may differ widely over time, is a major characteristic of xenobiotic toxic stress.<ref name=Jakoby/> The major challenge faced by xenobiotic detoxification systems is that they must be able to remove the almost-limitless number of xenobiotic compounds from the complex mixture of chemicals involved in normal [[metabolism]]. The solution that has evolved to address this problem is an elegant combination of physical barriers and low-specificity [[enzyme|enzymatic]] systems.
+
+All organisms use [[cell membrane]]s as hydrophobic permeability barriers to control access to their internal environment. Polar compounds cannot diffuse across these [[cell membrane]]s, and the uptake of useful molecules is mediated through [[transport protein]]s that specifically select substrates from the extracellular mixture. This selective uptake means that most [[hydrophile|hydrophilic]] molecules cannot enter cells, since they are not recognised by any specific transporters.<ref name="pmid12869659">{{cite journal | author = Mizuno N, Niwa T, Yotsumoto Y, Sugiyama Y | title = Impact of drug transporter studies on drug discovery and development | journal = Pharmacol. Rev. | volume = 55 | issue = 3 | pages = 425–61 | year = 2003 | month = September | pmid = 12869659 | doi = 10.1124/pr.55.3.1 }}</ref> In contrast, the diffusion of [[hydrophobe|hydrophobic]] compounds across these barriers cannot be controlled, and organisms, therefore, cannot exclude [[lipid]]-soluble xenobiotics using membrane barriers.
+
+However, the existence of a permeability barrier means that organisms were able to evolve detoxification systems that exploit the hydrophobicity common to membrane-permeable xenobiotics. These systems therefore solve the specificity problem by possessing such broad substrate specificities that they metabolise almost any non-polar compound.<ref name=Jakoby/> Useful metabolites are excluded since they are polar, and in general contain one or more charged groups. 
+
+The detoxification of the reactive by-products of normal metabolism cannot be achieved by the systems outlined above, because these species are derived from normal cellular constituents and usually share their polar characteristics. However, since these compounds are few in number, specific enzymes can recognize and remove them. Examples of these specific detoxification systems are the [[glyoxalase system]], which removes the reactive [[aldehyde]] methylglyoxal,<ref name="pmid2198020">{{cite journal | author = Thornalley PJ | title = The glyoxalase system: new developments towards functional characterization of a metabolic pathway fundamental to biological life | journal = Biochem. J. | volume = 269 | issue = 1 | pages = 1–11 | year = 1990 | month = July | pmid = 2198020 | pmc = 1131522 | doi =  }}</ref> and the various antioxidant systems that eliminate reactive oxygen species.<ref name="Sies">{{cite journal | author = Sies H | title = Oxidative stress: oxidants and antioxidants | journal = Exp. Physiol. | volume = 82 | issue = 2 | pages = 291–5 | year = 1997 | month = March | pmid = 9129943 | doi = | url = http://ep.physoc.org/cgi/reprint/82/2/291.pdf }}</ref>
+
+== Phases of detoxification ==
+
+[[File:Xenobiotic metabolism.png|thumb|350px|right|Phases I and II of the metabolism of a lipophilic xenobiotic.]]
+The metabolism of xenobiotics is often divided into three phases: modification, conjugation, and excretion. These reactions act in concert to detoxify xenobiotics and remove them from cells.
+
+=== Phase I – modification ===
+
+In phase I, a variety of enzymes acts to introduce reactive and polar groups into their substrates. One of the most common modifications is hydroxylation catalysed by the [[cytochrome P450|cytochrome P-450-dependent mixed-function oxidase system]]. These enzyme complexes act to incorporate an atom of oxygen into nonactivated hydrocarbons, which can result in either the introduction of hydroxyl groups or N-, O- and S-dealkylation of substrates.<ref name="pmid11409933">{{cite journal | author = Guengerich FP | title = Common and uncommon cytochrome P450 reactions related to metabolism and chemical toxicity | journal = Chem. Res. Toxicol. | volume = 14 | issue = 6 | pages = 611–50 | year = 2001 | month = June | pmid = 11409933 | doi = 10.1021/tx0002583 }}</ref> The reaction mechanism of the P-450 oxidases proceeds through the reduction of cytochrome-bound oxygen and the generation of a highly-reactive oxyferryl species, according to the following scheme:<ref name="pmid10698731">{{cite journal | author = Schlichting I, Berendzen J, Chu K, Stock AM, Maves SA, Benson DE, Sweet RM, Ringe D, Petsko GA, Sligar SG | title = The catalytic pathway of cytochrome p450cam at atomic resolution | journal = Science | volume = 287 | issue = 5458 | pages = 1615–22 | year = 2000 | month = March | pmid = 10698731 | doi = 10.1126/science.287.5458.1615 }}</ref>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<math>\mbox{NADPH} + \mbox{H}^+ + \mbox{RH} \rightarrow  \mbox{NADP}^+ + \mbox{H}_2\mbox{O} +\mbox{ROH} \, </math>
+
+Phase I reactions (also termed nonsynthetic reactions) may occur by [[oxidation]], [[Redox|reduction]], [[hydrolysis]], cyclization, decyclization, and addition of oxygen or removal of hydrogen, carried out by mixed function oxidases, often in the liver. These oxidative reactions typically involve a [[Cytochrome P450 oxidase|cytochrome P450]] monooxygenase (often abbreviated CYP), NADPH and oxygen. The classes of pharmaceutical drugs that utilize this method for their metabolism include [[phenothiazine]]s, [[Paracetamol#Metabolism|paracetamol]], and steroids. If the metabolites of phase I reactions are sufficiently polar, they may be readily excreted at this point. However, many phase I products are not eliminated rapidly and undergo a subsequent reaction in which an endogenous substrate combines with the newly incorporated functional group to form a highly polar conjugate.
+
+A common Phase I oxidation involves conversion of a C-H bond to a C-OH. This reaction sometimes converts a pharmacologically inactive compound (a [[prodrug]]) to a pharmacologically active one. By the same token, Phase I can turn a nontoxic molecule into a poisonous one ([[toxification]]). Simple hydrolysis in the stomach is normally an innocuous reaction, however there are exceptions. For example, phase I metabolism converts [[acetonitrile]] to HOCH<sub>2</sub>CN, which rapidly dissociates into [[formaldehyde]] and [[hydrogen cyanide]], both of which are toxic.
+
+Phase I metabolism of drug candidates can be simulated in the laboratory using non-enzyme catalysts.<ref name="pmid19039354">{{cite journal | author = Akagah B, Lormier AT, Fournet A, Figadère B | title = Oxidation of antiparasitic 2-substituted quinolines using metalloporphyrin catalysts: scale-up of a biomimetic reaction for metabolite production of drug candidates | journal = Org. Biomol. Chem. | volume = 6 | issue = 24 | pages = 4494–7 | year = 2008 | month = December | pmid = 19039354 | doi = 10.1039/b815963g }}</ref> This example of a [[biomimetic]] reaction tends to give products that often contains the Phase I metabolites. As an example, the major metabolite of the pharmaceutical [[trimebutine]], desmethyltrimebutine (nor-trimebutine), can be efficiently produced by in vitro oxidation of the commercially available drug.  Hydroxylation of an N-methyl group leads to expulsion of a molecule of [[formaldehyde]], while oxidation of the O-methyl groups takes place to a lesser extent.
+
+==== Oxidation ====
+
+* [[Cytochrome P450 oxidase|Cytochrome P450 monooxygenase system]]
+* [[Flavin-containing monooxygenase system]]
+* [[Alcohol dehydrogenase]] and [[aldehyde dehydrogenase]]
+* [[Monoamine oxidase]]
+* Co-oxidation by [[peroxidase]]s
+
+==== Reduction ====
+
+* [[Cytochrome P450 reductase|NADPH-cytochrome P450 reductase]]
+Cytochrome P450 reductase, also known as NADPH:ferrihemoprotein oxidoreductase, NADPH:hemoprotein oxidoreductase, NADPH:P450 oxidoreductase, P450 reductase, POR, CPR, CYPOR, is a membrane-bound enzyme required for electron transfer to cytochrome P450 in the microsome of the eukaryotic cell from a FAD- and FMN-containing enzyme NADPH:cytochrome P450 reductase
+The general scheme of electron flow in the POR/P450 system is:
+NADPH	
+→
+FAD
+→
+FMN
+→
+P450
+→
+O<sub>2</sub>
+* [[Cytochrome P450 reductase|Reduced (ferrous) cytochrome P450]]
+
+During reduction reactions, a chemical can enter ''futile cycling'', in which it gains a free-radical electron, then promptly loses it to [[oxygen]] (to form a [[superoxide anion]]).
+
+==== Hydrolysis ====
+
+* [[Esterase]]s and [[Amidase]]
+* [[Epoxide hydrolase]]
+
+=== Phase II – conjugation ===
+
+In subsequent phase II reactions, these activated xenobiotic metabolites are conjugated with charged species such as [[glutathione]] (GSH), [[sulfate]], [[glycine]], or [[glucuronic acid]]. Sites on drugs where conjugation reactions occur include [[carboxyl]] (-COOH), [[hydroxyl]] (-OH), [[amino]] (NH<sub>2</sub>), and [[sulfhydryl]] (-SH) groups. Products of conjugation reactions have increased  molecular weight and tend to be less active than their substrates, unlike Phase I reactions which often produce [[active metabolites]]. The addition of large anionic groups (such as GSH) detoxifies reactive [[electrophile]]s and produces more polar metabolites that cannot diffuse across membranes, and may, therefore, be actively transported.
+
+These reactions are catalysed by a large group of broad-specificity transferases, which in combination can metabolise almost any hydrophobic compound that contains nucleophilic or electrophilic groups.<ref name=Jakoby>{{cite journal | author = Jakoby WB, Ziegler DM | title = The enzymes of detoxication | journal = J. Biol. Chem. | volume = 265 | issue = 34 | pages = 20715–8 | year = 1990 | month = December | pmid = 2249981 | doi = | url = http://www.jbc.org/cgi/reprint/265/34/20715 }}</ref> One of the most important classes of this group is that of the [[glutathione S-transferase]]s (GSTs). 
+
+{|class="wikitable"
+! Mechanism !! Involved enzyme<ref name="Liston_2001">{{cite journal | author = Liston HL, Markowitz JS, DeVane CL | title = Drug glucuronidation in clinical psychopharmacology | journal = J Clin Psychopharmacol | volume = 21 | issue = 5 | pages = 500–15 | year = 2001 | month = October | pmid = 11593076 | doi = | url = }}</ref> !! Co-factor<ref name="Liston_2001"/> !! Location<ref name="Liston_2001"/>
+|-
+| [[methylation]] || [[methyltransferase]] || [[S-adenosyl-L-methionine]] || liver, kidney, lung, CNS 
+|-
+| [[sulphation]] || [[sulfotransferase]]s || [[3'-phosphoadenosine-5'-phosphosulfate]] || liver, kidney, intestine
+|-
+| [[acetylation]] ||
+* [[N-acetyltransferase]]s
+* [[bile acid-CoA:amino acid N-acyltransferase]]s
+| [[acetyl coenzyme A]] || liver, lung, spleen, gastric mucosa, [[red blood cell|RBCs]], lymphocytes
+|-
+| [[glucuronidation]] || [[UDP-glucuronosyltransferase]]s || [[UDP-glucuronic acid]] || liver, kidney, intestine, lung, skin, prostate, brain
+|-
+| glutathione conjugation || [[glutathione S-transferase]]s || [[glutathione]] || liver, kidney
+|-
+| glycine conjugation || [[choline acetyltransferase|acetyl Co-enzyme A]]s || [[glycine]] || liver, kidney
+|}
+
+=== Phase III – further modification and excretion ===
+
+After phase II reactions, the xenobiotic conjugates may be further metabolised. A common example is the processing of glutathione conjugates to [[acetylcysteine]] (mercapturic acid) conjugates.<ref name="pmid4892500">{{cite journal | author = Boyland E, Chasseaud LF | title = The role of glutathione and glutathione S-transferases in mercapturic acid biosynthesis | journal = Adv. Enzymol. Relat. Areas Mol. Biol. | volume = 32 | issue = | pages = 173–219 | year = 1969 | pmid = 4892500 | doi = 10.1002/9780470122778.ch5 }}</ref> Here, the [[glutamic acid|γ-glutamate]] and [[glycine]] residues in the glutathione molecule are removed by [[Gamma-glutamyl transpeptidase]] and [[dipeptidase]]s. In the final step, the [[cystine]] residue in the conjugate is [[acetylated]].
+
+[[Conjugates]] and their metabolites can be excreted from cells in phase III of their metabolism, with the anionic groups acting as affinity tags for a variety of membrane transporters of the [[P-glycoprotein|multidrug resistance protein]] (MRP) family.<ref name="pmid12897433">{{cite journal | author = Homolya L, Váradi A, Sarkadi B | title = Multidrug resistance-associated proteins: Export pumps for conjugates with glutathione, glucuronate or sulfate | journal = Biofactors | volume = 17 | issue = 1-4 | pages = 103–14 | year = 2003 | pmid = 12897433 | doi = 10.1002/biof.5520170111 }}</ref> These proteins are members of the family of [[ATP-binding cassette transporter]]s and can catalyse the ATP-dependent transport of a huge variety of hydrophobic anions,<ref name="pmid10581368">{{cite journal | author = König J, Nies AT, Cui Y, Leier I, Keppler D | title = Conjugate export pumps of the multidrug resistance protein (MRP) family: localization, substrate specificity, and MRP2-mediated drug resistance | journal = Biochim. Biophys. Acta | volume = 1461 | issue = 2 | pages = 377–94 | year = 1999 | month = December | pmid = 10581368 | doi = 10.1016/S0005-2736(99)00169-8 }}</ref> and thus act to remove phase II products to the extracellular medium, where they may be further metabolised or excreted.<ref name="pmid7568330">{{cite journal | author = Commandeur JN, Stijntjes GJ, Vermeulen NP | title = Enzymes and transport systems involved in the formation and disposition of glutathione S-conjugates. Role in bioactivation and detoxication mechanisms of xenobiotics | journal = Pharmacol. Rev. | volume = 47 | issue = 2 | pages = 271–330 | year = 1995 | month = June | pmid = 7568330 | doi = }}</ref>
+
+== Endogenous toxins ==
+
+The detoxification of endogenous reactive metabolites such as [[peroxide]]s and reactive [[aldehyde]]s often cannot be achieved by the system described above. This is the result of these species' being derived from normal cellular constituents and usually sharing their polar characteristics. However, since these compounds are few in number, it is possible for enzymatic systems to utilize specific molecular recognition to recognize and remove them. The similarity of these molecules to useful metabolites therefore means that different detoxification enzymes are usually required for the metabolism of each group of endogenous toxins. Examples of these specific detoxification systems are the [[glyoxalase system]], which acts to dispose of the reactive aldehyde [[methylglyoxal]], and the various [[antioxidant]] systems that remove [[reactive oxygen species]].
+
+== Sites ==
+
+Quantitatively, the [[smooth endoplasmic reticulum]] of the [[liver]] cell is the principal organ of drug metabolism, although every [[biological tissue]] has some ability to metabolize drugs.
+Factors responsible for the liver's contribution to drug metabolism include that it is a large organ, that it is the first organ perfused by chemicals absorbed in the [[Gut (zoology)|gut]], and that there are very high concentrations of most drug-metabolizing enzyme systems relative to other organs.
+If a drug is taken into the GI tract, where it enters hepatic circulation through the portal vein, it becomes well-metabolized and is said to show the ''[[first pass effect]]''.
+
+Other sites of drug metabolism include [[epithelial cell]]s of the [[gastrointestinal tract]], [[lung]]s, [[kidney]]s, and the [[skin]].
+These sites are usually responsible for localized toxicity reactions.
+
+== Factors that affect drug metabolism ==
+
+The duration and intensity of pharmacological action of most lipophilic drugs are determined by the rate they are metabolized to inactive products.
+The [[Cytochrome P450 monooxygenase system]] is the most important pathway in this regard.
+In general, anything that ''increases'' the rate of metabolism (''e.g.'', [[Enzyme induction and inhibition|enzyme induction]]) of a pharmacologically active metabolite will ''decrease'' the duration and intensity of the drug action.
+The opposite is also true (''e.g.'', [[Enzyme induction and inhibition|enzyme inhibition]]). However, in cases where an enzyme is responsible for metabolizing a pro-drug into a drug, enzyme induction can speed up this conversion and increase drug levels, potentially causing toxicity.
+
+Various ''physiological'' and ''pathological'' factors can also affect drug metabolism.
+Physiological factors that can influence drug metabolism include age, individual variation (''e.g.'', [[pharmacogenetics]]), [[enterohepatic circulation]], [[nutrition]], [[intestinal flora]], or [[sex difference]]s.
+
+In general, drugs are metabolized more slowly in [[fetal]], [[neonatal]] and [[elderly]] [[human]]s and [[animal]]s than in [[adult]]s.
+
+Genetic variation (polymorphism) accounts for some of the variability in the effect of drugs.
+With N-acetyltransferases (involved in ''Phase II'' reactions), individual variation creates a group of people who acetylate slowly (''slow acetylators'') and those who acetylate quickly, split roughly 50:50 in the population of [[Canada]].
+This variation may have dramatic consequences, as the slow acetylators are more prone to dose-dependent toxicity.
+
+[[Cytochrome P450 monooxygenase system]] enzymes can also vary across individuals, with deficiencies occurring in 1 - 30% of people, depending on their ethnic background.
+
+''Pathological factors'' can also influence drug metabolism, including [[liver]], [[kidney]], or [[heart]] diseases.
+
+''In silico'' modelling and simulation methods allow drug metabolism to be predicted in virtual patient populations prior to performing clinical studies in human subjects.<ref name="pmid17268485">{{cite journal | author = Rostami-Hodjegan A, Tucker GT | title = Simulation and prediction of in vivo drug metabolism in human populations from ''in vitro'' data | journal = Nat Rev Drug Discov | volume = 6 | issue = 2 | pages = 140–8 | year = 2007 | month = February | pmid = 17268485 | doi = 10.1038/nrd2173 }}</ref> This can be used to identify individuals most at risk from adverse reaction.
+
+== History ==
+
+Studies on how people transform the substances that they ingest began in the mid-nineteenth century, with chemists discovering that organic chemicals such as [[benzaldehyde]] could be oxidized and conjugated to amino acids in the human body.<ref name="pmid11353742">{{cite journal | author = Murphy PJ | title = Xenobiotic metabolism: a look from the past to the future | journal = Drug Metab. Dispos. | volume = 29 | issue = 6 | pages = 779–80 | year = 2001 | month = June | pmid = 11353742 | doi = | url = http://dmd.aspetjournals.org/cgi/content/full/29/6/779 }}</ref> During the remainder of the nineteenth century, several other basic detoxification reactions were discovered, such as [[methylation]], [[acetylation]], and [[sulfonic acid|sulfonation]].
+
+In the early twentieth century, work moved on to the investigation of the enzymes and pathways that were responsible for the production of these metabolites. This field became defined as a separate area of study with the publication by [[Richard Tecwyn Williams|Richard Williams]] of the book ''Detoxication mechanisms'' in 1947.<ref name="pmid6347595">{{cite journal | author = Neuberger A, Smith RL | title = Richard Tecwyn Williams: the man, his work, his impact | journal = Drug Metab. Rev. | volume = 14 | issue = 3 | pages = 559–607 | year = 1983 | pmid = 6347595 | doi = 10.3109/03602538308991399 }}</ref> This modern biochemical research resulted in the identification of glutathione ''S''-transferases in 1961,<ref name="pmid16748905">{{cite journal | author = Booth J, Boyland E, Sims P | title = An enzyme from rat liver catalysing conjugations with glutathione | journal = Biochem. J. | volume = 79 | issue = 3 | pages = 516–24 | year = 1961 | month = June | pmid = 16748905 | pmc = 1205680 | doi = }}</ref> followed by the discovery of cytochrome P450s in 1962,<ref name="pmid14482007">{{cite journal | author = Omura T, Sato R | title = A new cytochrome in liver microsomes | journal = J. Biol. Chem. | volume = 237 | issue = | pages = 1375–6 | year = 1962 | month = April | pmid = 14482007 | doi = | url = http://www.jbc.org/cgi/reprint/237/4/PC1375 }}</ref> and the realization of their central role in xenobiotic metabolism in 1963.<ref name="pmid14625342">{{cite journal | author = Estabrook RW | title = A passion for P450s (remembrances of the early history of research on cytochrome P450) | journal = Drug Metab. Dispos. | volume = 31 | issue = 12 | pages = 1461–73 | year = 2003 | month = December | pmid = 14625342 | doi = 10.1124/dmd.31.12.1461 }}</ref><ref name="pmid14087340">{{cite journal | author = Estabrook RW, Cooper DY, Rosenthal O | title = The light reversible carbon monoxide inhibition of steroid C-21 hydroxylase system in adrenal cortex | journal = Biochem Z | volume = 338 | issue = | pages = 741–55 | year = 1963 | pmid = 14087340 | doi = }}</ref>
+
+==See also==
+* [[Antioxidant]]
+* [[Biodegradation]]
+* [[Bioremediation]]
+* [[Microbial biodegradation]]
+
+== References ==
+{{Reflist|2}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite book | author = Parvez H, Reiss C | title = Molecular Responses to Xenobiotics  | publisher = Elsevier | year=2001 | isbn = 0-345-42277-5 }}
+* {{cite book | author = Ioannides C | title = Enzyme Systems That Metabolise Drugs and Other Xenobiotics | publisher=John Wiley and Sons | year = 2001 | isbn = 0-471-89466-4 }}
+* {{cite book | author = Richardson M | title = Environmental Xenobiotics | publisher = Taylor & Francis Ltd | year = 1996 | isbn = 0-7484-0399-X}}
+* {{cite book | author = Ioannides C | title = Cytochromes P450: Metabolic and Toxicological Aspects | publisher = CRC Press Inc | year = 1996 | isbn = 0-8493-9224-1 }}
+* {{cite book | author = Awasthi YC | title = Toxicology of Glutathionine S-transferses | publisher = CRC Press Inc | year = 2006 | isbn = 0-8493-2983-3 }}
+{{refend}}
+
+==External links==
+* Databases
+**[http://www.drugmetabolism.co.uk/Default.aspx Drug metabolism database]
+**[http://www.icgeb.org/~p450srv/ Directory of P450-containing Systems]
+**[http://umbbd.msi.umn.edu/ University of Minnesota Biocatalysis/Biodegradation Database]
+**[http://www.freebase.com/view/en/sporcalc SPORCalc]
+
+* Drug metabolism
+**[http://www.ionsource.com/tutorial/metabolism/drug_metabolism.htm Small Molecule Drug Metabolism]
+**[http://www.cytochrome.net/ Drug metabolism portal]
+
+* Microbial biodegradation
+**[http://www.horizonpress.com/gateway/biodegradation.html Microbial Biodegradation, Bioremediation and Biotransformation]
+
+*History
+**[http://web.archive.org/web/20070713035439/http://www.issx.org/hisintro.html History of Xenobiotic Metabolism]
+
+{{Pharmacology}}
+
+[[Category:Metabolism]]
+[[Category:Hepatology]]
+[[Category:Toxicology]]
+[[Category:Pharmacology]]

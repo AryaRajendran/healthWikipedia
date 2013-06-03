@@ -1,0 +1,74 @@
+'''Organobromine compounds''' are [[organic compound]]s that contain [[carbon]] [[Chemical bond|bonded]] to [[bromine]]. The most pervasive is the naturally produced [[bromomethane]].  One prominent application is the use of [[polybrominated diphenyl ethers]] as [[fire-retardant]]s.  A variety of minor organobromine compounds are found in nature, but none are biosynthesized or required by mammals. Organobromine compounds have fallen under increased scrutiny for their environmental impact.
+
+==General properties==
+Most organobromine compounds, like most [[organohalogens|organohalide compounds]], are relatively [[nonpolar]]. Bromine is more [[electronegative]] than carbon (2.8 vs 2.5). Consequently, the carbon in a carbon–bromine bond is [[electrophilic]], i.e. alkyl bromides are [[alkylating agent]]s. 
+
+Carbon–[[halogen]] bond strengths, or [[bond dissociation energies]] are of 115, 83.7, 72.1, and 57.6 kcal/mol for [[carbon–fluorine bond|bonded to fluorine]], chlorine, bromine, or iodine, respectively.<ref name=blanksby>{{cite journal |author=Blanksby SJ, Ellison GB |title=Bond dissociation energies of organic molecules |journal=Acc. Chem. Res. |volume=36 |issue=4 |pages=255–63 |year=2003 |month=April |pmid=12693923 |doi=10.1021/ar020230d |url=}}</ref>
+
+The reactivity of organobromine compounds resembles but is intermediate between the reactivity of [[organochlorine compound|organochlorine]] and [[organoiodine compound]]s.  For many applications, organobromides represent a compromise of reactivity and cost.  The principal reactions for organobromides include [[dehydrohalogenation|dehydrobromination]], [[Grignard reaction]]s, [[Wurtz reaction|reductive coupling]], and [[nucleophilic substitution]].
+
+==Synthetic methods==
+
+===From bromine===
+Alkenes reliably add bromine without catalysis to give the [[Vicinal (chemistry)|vicinal]] dibromides:
+:RCH=CH<sub>2</sub>  +  Br<sub>2</sub>   →   RCHBrCH<sub>2</sub>Br
+Aromatic compounds undergo bromination simultaneously with evolution of hydrogen bromide. Catalysts such as AlBr3 or FeBr3 are needed for the reaction to happen on aromatic rings. Chlorine-based catalysts (FeCl3, AlCl3) could be used, but yield would drop slightly as dihalogens(BrCl) could form.  The reaction details following the usual patterns of [[electrophilic aromatic substitution]]:
+:RC<sub>6</sub>H<sub>5</sub>  +  Br<sub>2</sub>   →   RC<sub>6</sub>H<sub>4</sub>Br  +  HBr
+A prominent application of this reaction is the production of [[tetrabromobisphenol-A]] from [[bisphenol-A]].
+
+Free-radical substitution with bromine is commonly used to prepare organobromine compounds.  Carbonyl-containing, benzylic, allylic substrates are especially prone to this reactions.  For example, the commercially significant [[bromoacetic acid]] is generated directly from acetic acid and bromine in the presence of [[phosphorus tribromide]] catalyst:
+:CH<sub>3</sub>CO<sub>2</sub>H  +  Br<sub>2</sub>   →   BrCH<sub>2</sub>CO<sub>2</sub>H  +  HBr
+Bromine also converts [[fluoroform]] to  [[bromotrifluoromethane]].
+
+===From hydrogen bromide===
+Hydrogen bromide adds across double bonds to give alkyl bromides, following the [[Markovnikov rule]]:
+:RCH=CH<sub>2</sub>  + HBr   →   RCHBrCH<sub>3</sub>
+Under free radical conditions, the direction of the addition can be reversed.  Free-radical addition is used commercially for the synthesis of 1-bromoalkanes, precursors to tertiary amines and quaternary ammonium salts.  [[2-Phenylethylbromide|2-Phenethyl bromide]] (C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CH<sub>2</sub>Br) is produced via this route from [[styrene]].
+
+Hydrogen bromide can also be used to convert alcohols to alkyl bromides.  This reaction, that must be done under low temperature conditions, is employed in the industrial synthesis of [[allyl bromide]]:
+:HOCH<sub>2</sub>CH=CH<sub>2</sub>  + HBr   →   BrCH<sub>2</sub>CH=CH<sub>2</sub>  +  H<sub>2</sub>O
+[[Methyl bromide]], another fumigant, is generated from methanol and hydrogen bromide.
+
+===From bromide salts===
+Bromide ions, as provided by salts like [[sodium bromide]], function as a nucleophiles in the formation of organobromine compounds by displacement.<ref>James S. Nowick, Guido Lutterbach, “Sodium Bromide” in Encyclopedia of Reagents for Organic Synthesis John Wiley & Sons, 2001. {{DOI|10.1002/047084289X.rs054}}</ref>
+
+==Industrially significant organobromine compounds==
+:[[image:ImpCBr.png|thumb|400px|right|Structure of three industrially significant organobromine compounds. From left: ethylene bromide, bromoacetic acid, and tetrabromobisphenol-A.]]
+
+===Fire-retardants===
+Organobromine compounds are widely used as fire-retardants.<ref name=KO>David Ioffe, Arieh Kampf “Bromine, Organic Compounds” in Kirk-Othmer Encyclopedia of Chemical Technology 2002 by John Wiley & Sons. {{DOI| 10.1002/0471238961.0218151325150606.a01}}.</ref>  The most prominent member is [[tetrabromobisphenol-A]] (4,4'-(1-methylethylidene)bis-(2,6-di-bromophenol, see figure).  It and tetrabromophthalic anhydride are precursors to polymers wherein the backbone features covalent carbon-bromine bonds.  Other fire retardants, such as hexabromocyclododecane and the bromodiphenyl ethers, are additives and are not chemically attached to the material they protect.  The use of organobromine fire-retardants is growing but is also controversial because they are persistent pollutants.
+
+===Fumigants and biocides===
+[[Ethylene bromide]], obtained by addition of bromine to ethylene, was once of commercial significance as a component of [[leaded gasoline]].  It was also a popular fumigant in agriculture, displacing [[1,2-dibromo-3-chloropropane]] ("DBCB").  Both applications are declining owing to environmental and health considerations.  [[Methyl bromide]] is also an effective fumigant, but its production and use are controlled by the [[Montreal Protocol]]. Growing in use are organobromine biocides used in water treatment.  Representative agents include [[bromoform]] and [[DBDMH|dibromodimethylhydantoin]] (“DBDMH”).<ref name=KO/>
+
+===Dyes===
+Many dyes contain carbon-bromine bonds.  The naturally occurring [[Tyrian purple]] (6,6’-dibromoindigo) was a valued dye before the development of the synthetic dye industry in the late 19th century.  Several brominated [[anthroquinone]] derivatives are used commercially.  [[Bromothymol blue]] is a popular indicator in [[analytical chemistry]].
+
+===Pharmaceuticals===
+Commercially available organobromine pharmaceuticals include the vasodilator [[nicergoline]], the sedative [[brotizolam]], the anticancer agent [[pipobroman]], and the antiseptic [[merbromin]].  Otherwise, organobromine compounds are rarely pharmaceutically useful, in contrast to the situation for [[organofluorine chemistry|organofluorine compounds]].  Several drugs are produced as the bromide (or equivalents, hydrobromide) salts, but in such cases bromide serves as an innocuous counterion of no biological significance.<ref name=KO/>
+
+==Organobromine compounds in nature==
+Organobromine compounds are the most common organohalides in nature. Even though the concentration of bromide is only 0.3% of that for chloride in sea water, organobromine compounds are more prevalent in marine organisms than organochlorine derivatives.  Their abundance reflects the easy oxidation of bromide to the equivalent of Br<sup>+</sup>, a potent electrophile.  The enzyme [[bromoperoxidase]] catalyzes this reaction.<ref>Jayme N. Carter-Franklin, Alison Butler “Vanadium Bromoperoxidase-Catalyzed Biosynthesis of Halogenated Marine Natural Products” Journal of the American Chemical Society 2004, volume 126, 15060-15066. {{DOI|10.1021/ja047925p}}</ref>  The oceans are estimated to release 1–2 million tons of bromoform and 56,000 tons of bromomethane annually.<ref>Gordon W. Gribble “The diversity of naturally occurring organobromine compounds” Chemical Society Reviews, 1999, volume 28, pages 335 – 346.{{DOI|10.1039/a900201d}}</ref> Red algae, such as the edible [[Asparagopsis taxiformis]], eaten in Hawaii as "limu kohu", concentrate organobromine and organoiodine compounds in "vesicle cells"; 95% of the essential volatile oil of Asparagopsis, prepared by drying the seaweed in a vacuum and condensing using dry ice, is organohalogen compounds, of which bromoform comprises 80% by weight.<ref>Rhoda A. Marshall, John T.G. Hamilton , M.J. Dring, D.B. Harper. Do vesicle cells of the red alga Asparagopsis (Falkenbergia stage) play a role in bromocarbon production? Chemosphere 52 (2003) 471–475. 
+</ref> [[Bromoform]], produced by several algae, is a known toxin, though the small amounts present in edible algae do not appear to pose human harm.<ref>Agency for Toxic substances and Disease REgistry. Bromoform and Dibromochloromethane. Aug 2005. URL: http://www.atsdr.cdc.gov/phs/phs.asp?id=711&tid=128</ref>  Some of these organobromine compounds are employed in a form of interspecies "chemical warfare." 5-Bromouracil and 3-Bromo-tyrosine have been identified in human white blood cells as products of [[myeloperoxidase]]-induced halogenation on invading pathogens.<ref name="Gribble">{{cite journal | title = Naturally Occurring Organohalogen Compounds | author = Gordon W. Gribble | journal = [[Acc. Chem. Res.]] | volume = 31 | issue = 3 | pages = 141–152 | year = 1998 | url =  | doi =  10.1021/ar9701777}}</ref>
+:[[image:NatCBr.png|thumb|700px|center|Structure of naturally-occurring organobromine compounds.  From left: [[bromoform]], a brominated bisphenol, dibromoindigo ([[Tyrian purple]]), and the antifeedant tambjamine B.]]
+
+In addition to conventional brominated natural products, a variety of organobromine compounds result from the biodegradation of fire-retardants. Metabolites include methoxylated and hydroxylated aryl bromides as well as brominated dioxin derivatives. Such compounds are considered [[persistent organic pollutant]]s and have been found in mammals.
+
+==Safety==
+Alkyl bromine compounds are often alkylating agents and the brominated aromatic derivatives are implicated as hormone disruptors.  Of the commonly produced compounds, ethylene dibromide is of greatest concern as it is both highly toxic and highly carcinogenic.
+
+==See also==
+*[[Organofluorine compound]]s
+*[[Organochlorine compound]]s
+*[[Organoiodine compound]]s
+
+==References==
+<references/>
+
+==References==
+{{reflist}}
+
+{{ChemicalBondsToCarbon}}
+
+{{DEFAULTSORT:Organobromine Compound}}
+[[Category:Organobromides]]

@@ -1,0 +1,120 @@
+{{DISPLAYTITLE:Fluorodeoxyglucose (<sup>18</sup>F)}}
+{{Chembox
+| Verifiedfields = changed
+| verifiedrevid = 459523586
+| Name = Fluorodeoxyglucose (<sup>18</sup>F)
+| ImageFile = Fludeoxyglucose 18-F skeletal.svg
+|  ImageFile_Ref = {{chemboximage|correct|??}}
+|  ImageSize = 
+|  ImageName = Stereo skeletal formula of fluorodeoxyglucose (18F) ((2''S'',6''R'')-6-meth,-2-ol)
+| IUPACName = 2-Deoxy-2-[<sup>18</sup>F]fluoroglucose
+| Section1 = {{Chembox Identifiers
+|  Abbreviations = [<sup>18</sup>F]FDG
+|  CASNo_Ref = {{cascite|changed|??}}
+| CASNo = 105851-17-0
+|   CASNo_Comment = <small>(2''S'',6''R'')-6-meth,-2-ol</small>
+|  PubChem4 = 25173432
+|   PubChem4_Ref = {{Pubchemcite|correct|PubChem}}
+|   PubChem4_Comment = <small>(2''S'')-2-ol</small>
+|  PubChem1 = 11469444
+|   PubChem1_Ref = {{Pubchemcite|correct|PubChem}}
+|   PubChem1_Comment = <small>(6''R'')-6-meth</small>
+|  PubChem2 = 9920539
+|   PubChem2_Ref = {{Pubchemcite|correct|PubChem}}
+|   PubChem2_Comment = <small>(2''R'',6''R'')-6-meth,-2-ol</small>
+|  PubChem3 = 450503
+|   PubChem3_Ref = {{Pubchemcite|correct|PubChem}}
+|   PubChem3_Comment = <small>(2''S'',6''R'')-6-meth,-2-ol</small>
+|  ChemSpiderID2 = 9644274
+|   ChemSpiderID2_Ref = {{chemspidercite|correct|chemspider}}
+|   ChemSpiderID2_Comment = <small>(6''R'')-6-meth</small>
+|  ChemSpiderID1 = 8096174
+|   ChemSpiderID1_Ref = {{chemspidercite|correct|chemspider}}
+|   ChemSpiderID1_Comment = <small>(2''R'',6''R'')-6-meth,-2-ol</small>
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 396785
+|  KEGG = D01843
+|   KEGG_Ref = {{keggcite|changed|kegg}}
+|  ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 49130
+|  ChEMBL = 497613
+|   ChEMBL_Ref = {{ebicite|changed|EBI}}
+|  Beilstein = 2047723
+|  ATCCode_prefix = V09
+|  ATCCode_suffix = IX04
+|  SMILES = OCC1OC(O)[C@H]([18F])[C@@H](O)[C@@H]1O
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H11FO5/c7-3-5(10)4(9)2(1-8)12-6(3)11/h2-6,8-11H,1H2/t2-,3-,4-,5-,6+/m1/s1/i7-1
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZCXUVYAZINUVJD-AHXZWLDOSA-N
+}}
+| Section2 = {{Chembox Properties
+|  Formula = C<sub>6</sub>H<sub>11</sub><sup>18</sup>FO<sub>5</sub>
+|  MolarMass = 181.1495 g mol<sup>-1</sup>
+|  ExactMass = 181.061586129 g mol<sup>-1</sup>
+|  MeltingPtCL = 170
+|  MeltingPtCH = 176
+}}
+| Section3 = {{Chembox Pharmacology
+|  AdminRoutes = Intravenous
+|  Metabolism = 6-[[Phosphorylation]]<br />
+[[Glycolysis]]
+|  HalfLife = 110 min (at 70%)<br />
+16 min (at 20%)
+|  Excretion = 20% Radioactivity renally excreted in 2 hours
+|  PregCat_AU = X
+|  PregCat_US = X
+}}
+}}
+'''Fluorodeoxyglucose (<sup>18</sup>F)''' or '''fludeoxyglucose (<sup>18</sup>F)''' ([[International Nonproprietary Name|INN]]), commonly abbreviated '''<sup>18</sup>F-FDG''' or '''FDG''', is a [[radiopharmaceutical]] used in the [[medical imaging]] modality [[positron emission tomography]] (PET). Chemically, it is '''2-deoxy-2-(<sup>18</sup>F)fluoro-D-glucose''', a [[glucose]] [[analog (chemistry)|analog]], with the [[positron]]-emitting [[radioactive isotope]] [[fluorine-18]] substituted for the normal hydroxyl group at the '''2'''' position in the glucose molecule.
+
+After <sup>18</sup>F-FDG is injected into a patient, a PET scanner can form images of the distribution of FDG around the body. The images can be assessed by a [[nuclear medicine]] physician or [[radiologist]] to provide diagnoses of various medical conditions.
+
+==History==
+In 1968, Dr. Josef Pacak, Zdenek Tocik and Miloslav Cerny at the Department of Organic Chemistry, [[Charles University]], Czechoslovakia were the first to describe the synthesis of FDG.<ref>{{cite journal | author=Pacak J, Tocik Z, Cerny M | title=Synthesis of 2-Deoxy-2-fluoro-D-glucose| journal=Journal of the Chemical Society D: CHEMICAL COMMUNICATION| year=1969 | pages=77-77 | doi = 10.1039/C29690000077}}</ref> Later, in the 1970s, Tatsuo Ido and Al Wolf at the [[Brookhaven National Laboratory]] were the first to describe the synthesis of FDG labeled with <sup>18</sup>F.<ref>{{cite journal | author=Ido T, Wan CN, Casella V, Fowler JS, Wolf AP, Reivich M, and Kuhl DE | title=Labeled 2-deoxy-D-glucose analogs: <sup>18</sup>F-labeled 2-deoxy-2-fluoro-D-glucose, 2-deoxy-2-fluoro-D-mannose and <sup>14</sup>C-2-deoxy-2-fluoro-D-glucose| journal=J Labeled Compounds Radiopharm | year=1978 | volume=24 | pages=174–183}}</ref> The compound was first administered to two normal human volunteers by [[Abass Alavi]] in August, 1976 at the University of Pennsylvania.  Brain images obtained with an ordinary (non-PET) nuclear scanner demonstrated the concentration of <sup>18</sup>F-FDG in that organ (see history reference below).
+
+==Synthesis==
+<sup>18</sup>F-FDG was first synthesized via [[electrochemical fluorination]] with <sup>18</sup>F. Subsequently, a nucleophilic synthesis was devised with the same radioisotope. 
+
+As with all [[radioactive]] <sup>18</sup>F-labeled [[radioligand]]s, the <sup>18</sup>F must be made initially as the [[fluoride]] anion in a [[cyclotron]]. Synthesis of complete FDG [[radioactive tracer]] begins with synthesis of the unattached fluoride [[radiotracer]], since cyclotron bombardment destroys organic molecules of the type usually used for [[ligand (biochemistry)|ligand]]s, and in particular, would destroy glucose.
+
+Cyclotron production of <sup>18</sup>F may be accomplished by bombardment of [[neon-20]] with [[deuterons]], but usually is done by proton bombardment of <sup>18</sup>O-enriched water, causing a (p,n) reaction (sometimes called a "knockout reaction"—a common type of nuclear reaction with high probability) in the <sup>18</sup>O. This produces "carrier-free" dissolved <sup>18</sup>F-fluoride (<sup>18</sup>F<sup>–</sup>) ions in the water. The 109.8 minute half-life of <sup>18</sup>F makes rapid and automated chemistry necessary after this point.
+
+To do this chemistry, the <sup>18</sup>F<sup>–</sup> is separated from the aqueous solvent by trapping it on an [[ion-exchange]] column, and eluted with an [[acetonitrile]] solution of [[2,2,2-cryptand]] and potassium carbonate, which gives [(crypt-222)K]<sup>+</sup>&nbsp;<sup>18</sup>F<sup>&minus;</sup> ('''2''') when dried.
+
+The fluoride anion is not ordinarily very nucleophilic. Anhydrous conditions are required to avoid the competing reaction with hydroxide. The use of the cryptand to sequester the potassium ions avoids [[ion-pairing]] between free potassium and fluoride ions, making the fluoride anion more reactive.
+
+Intermediate '''2''' is reacted with a protected [[mannose]] [[Trifluoromethanesulfonate|triflate]] ('''1'''); the fluoride anion displaces the triflate [[leaving group]] in an [[SN2|S<sub>N</sub>2]] reaction, giving the protected fluorinated deoxyglucose ('''3'''). Base hydrolysis removes the acetyl protecting groups, giving the desired product ('''4''') after removing the cryptand via ion-exchange:<ref>{{cite journal | journal = Semin Nucl Med | year = 2002 | volume = 32 | issue = 1 | pages = 6–12 | title = Initial and subsequent approach for the synthesis of 18FDG | author = Fowler JS, Ido T | pmid = 11839070 | doi = 10.1053/snuc.2002.29270}}</ref><ref>{{cite journal | doi = 10.2349/biij.2.4.e57 | title = Review of 18F-FDG synthesis and quality control | year = 2006 | last1 = Yu | first1 = S | journal = Biomedical Imaging and Intervention Journal | volume = 2}}</ref>
+
+:[[File:Synthesis of 18FDG.png|450px]]
+
+==Mechanism of action, metabolic end-products, and metabolic rate==
+<sup>18</sup>F-FDG, as a glucose analog, is taken up by high-glucose-using cells such as brain, kidney, and cancer cells, where [[phosphorylation]] prevents the glucose from being released again from the cell, once it has been absorbed. The 2' hydroxyl group (—OH) in normal glucose is needed for further [[glycolysis]] (metabolism of glucose by splitting it), but <sup>18</sup>F-FDG is missing this 2' hydroxyl. Thus, in common with its sister molecule [[2-Deoxy-D-glucose|2-deoxy-<small>D</small>-glucose]], FDG cannot be further metabolized in cells. The <sup>18</sup>F-FDG-6-phosphate formed when <sup>18</sup>F-FDG enters the cell thus cannot move out of the cell before radioactive decay. As a result, the distribution of <sup>18</sup>F-FDG is a good reflection of the distribution of glucose uptake and [[phosphorylation]] by cells in the body.
+
+After <sup>18</sup>F-FDG decays radioactively, however, its 2'-fluorine is converted to [[oxygen-18|<sup>18</sup>O]]<sup>–</sup>, and after picking up a [[proton]] H<sup>+</sup> from a [[hydronium ion]] in its aqueous environment, the molecule becomes glucose-6-phosphate labeled with harmless nonradioactive "heavy oxygen" in the hydroxyl at the 2' position. The new presence of a 2' hydroxyl now allows it to be metabolized normally in the same way as ordinary glucose, producing non-radioactive end-products.
+
+Although in theory all <sup>18</sup>F-FDG is metabolized as above with a radioactivity elimination half-life of 110 minutes (the same as that of fluorine-18), clinical studies have shown that the radioactivity of <sup>18</sup>F-FDG partitions into two major fractions. About 75% of the fluorine-18 activity remains in tissues and is eliminated with a half-life of 110 minutes, presumably by decaying in place to O-18 to form <sup>18</sup>O-glucose-6-phosphate, which is non-radioactive (this molecule can soon be metabolized to carbon dioxide and water, after [[nuclear transmutation]] of the fluorine to oxygen ceases to prevent metabolism). Another fraction of <sup>18</sup>F-FDG, representing about 20% of the total fluorine-18 activity of an injection, is eliminated [[renal]]ly by two hours after a dose of <sup>18</sup>F-FDG, with a rapid half-life of about 16 minutes (this portion makes the renal-collecting system and bladder prominent in a normal PET scan). This short biological half-life indicates that this 20% portion of the total fluorine-18 tracer activity is eliminated pharmacokinetically (through the renal system) much more quickly than the isotope itself can decay. The rapidity also suggests that some of this <sup>18</sup>F is no longer attached to glucose, since low concentrations of glucose in the blood are retained by the normal kidney and not passed into the urine. Because of this rapidly excreted urine <sup>18</sup>F, the urine of a patient undergoing a PET scan may therefore be especially radioactive for several hours after administration of the isotope.<ref>{{cite web|url=http://www.drugs.com/mmx/fludeoxyglucose-f-18.html|title=Fludeoxyglucose drug information|accessdate=30 June 2009}}</ref> 
+
+All radioactivity of <sup>18</sup>F-FDG, both the 20% which is rapidly excreted in the first several hours of urine which is made after the exam, and the 80% which remains in the patient, decays with a half-life of 110 minutes (just under 2 hours). Thus, within 24 hours (13 half-lives after the injection), the radioactivity in the patient and in any initially voided urine which may have contaminated bedding or objects after the PET exam, will have decayed to 2<sup>−13</sup> = 1/8192 of the initial radioactivity of the dose. In practice, patients who have been injected with <sup>18</sup>F-FDG are told to avoid the close vicinity of especially radiation-sensitive persons such as infants, children and pregant women, for at least 12 hours (7 half-lives, or decay to 1/128<sup>th</sup> the initial radioactive dose).
+
+==Distribution==
+The labeled <sup>18</sup>F-FDG compound (still having a half-life only 109.8 minutes, or slightly less than 2 hours), is rapidly shipped to points of use by the fastest possible mode. Due to transport regulations for radioactive compounds, this is normally done by specially licensed road transport, but transport may also include dedicated small commercial jet services, to extend the reach of PET scanning to centres hundreds of miles away from the cyclotron and laboratory which produce the radioisotope-labeled compound.
+
+Recently, on-site cyclotrons with integral shielding and portable chemistry stations for making <sup>18</sup>F-FDG have accompanied PET scanners to remote hospitals. This technology holds some promise in the future, for replacing some of the scramble to transport FDG from site of manufacture to site of use.<ref>{{cite web | url = http://www.medicalimagingmag.com/issues/articles/2003-07_05.asp | year = 2003 | publisher = Medical Imaging | author = Lisa Fratt | title = Radiation Testing and PET Minding the Radiopharmaceutical Store}}</ref>
+
+==Applications==
+[[File:PET-MIPS-anim.gif|thumb|Whole-body PET scan using <sup>18</sup>F-FDG]]
+In PET imaging, <sup>18</sup>F-FDG can be used for the assessment of glucose metabolism in the [[heart]], [[lungs]],<ref>Gray's Anatomy for Students, Drake et al., 2005</ref> and the [[brain]]. It is also used for imaging tumors in [[oncology]], where a static <sup>18</sup>F-FDG PET scan is performed and the tumor <sup>18</sup>F-FDG uptake is analyzed in terms of [[Standardized Uptake Value]] (SUV). <sup>18</sup>F-FDG is taken up by cells, phosphorylated by [[hexokinase]] (whose [[mitochondrial]] form is greatly elevated in rapidly growing malignant tumours),<ref>{{cite journal | title=High Aerobic Glycolysis of Rat Hepatoma Cells in Culture: Role of Mitochondrial Hexokinase | author = Ernesto Bustamante; Peter L. Pedersen | volume = 74 | issue = 9 | pages = 3735–9 | journal = Proceedings of the National Academy of Sciences | url=http://www.pnas.org/cgi/reprint/74/9/3735 | doi=10.1073/pnas.74.9.3735 | year=1977 | pmid=198801 | pmc=431708 | bibcode=1977PNAS...74.3735B}}</ref> and retained by tissues with high metabolic activity, such as most types of malignant tumours.  As a result FDG-PET can be used for diagnosis, staging, and monitoring treatment of cancers, particularly in [[Hodgkin's disease]], [[non-Hodgkin's lymphoma]], [[colorectal cancer]], [[breast cancer]], [[melanoma]], and [[lung cancer]]. It has also been approved for use in diagnosing [[Alzheimer's disease]].
+
+In body-scanning applications in searching for tumor or metastatic disease, a dose of <sup>18</sup>F-FDG in solution (typically 5 to 10 [[Curie|millicurie]], 200 to 400 [[Becquerel|MBq]]) is typically injected rapidly into a saline drip running into a vein, in a patient who has been fasting for at least 6 hours, and who has a suitably low blood sugar. (This is a problem for some diabetics; usually PET scanning centers will not administer the isotope to patients with blood glucose levels over about 180&nbsp;mg/dL = 10&nbsp;mmol/L, and such patients must be re-scheduled). The patient must then wait about an hour for the sugar to distribute and be taken up into organs which use glucose – a time during which physical activity must be kept to a minimum, in order to minimize uptake of the radioactive sugar into muscles (this causes unwanted artifacts in the scan, interfering with reading especially when the organs of interest are inside the body vs. inside the skull). Then, the patient is placed in the PET scanner for a series of one or more scans which may take from 20 minutes to as long as an hour (often, only about one quarter of the body length may be imaged at a time).
+
+==References==
+{{reflist|30em}}
+
+{{Radiopharmaceuticals}}
+
+[[Category:Deoxy sugars]]
+[[Category:Monosaccharides]]
+[[Category:Neuroimaging]]
+[[Category:Organofluorides]]
+[[Category:Radiopharmaceuticals]]

@@ -1,0 +1,46 @@
+{{protein
+| Name = complement component 5
+| caption = Schematic representation of three dimensional structure of complement 5a
+| image = C5a-3D.png
+| width = 
+| HGNCid = 1331
+| Symbol = C5
+| AltSymbols = 
+| EntrezGene = 727
+| OMIM = 120900
+| RefSeq = NM_001735
+| UniProt = P01031
+| PDB = 
+| ECnumber = 
+| Chromosome = 9
+| Arm = q
+| Band = 34.1
+| LocusSupplementaryData = 
+}}
+'''C5a''' is a protein fragment released from [[Complement component 5|complement component C5]]. In humans, the polypeptide contains 74 amino acids. NMR spectroscopy proved that the molecule is composed of four helices and loops connecting the helices. On the N terminus a short 1.5 turn helix is also present.<ref>{{cite journal | author= Andreas Klos, Elisabeth Wende, Kathryn J. Wareham, and Peter N. Monk | title= International Union of Pharmacology. LXXXVII. Complement Peptide C5a, C4a, and C3a Receptors | journal= Pharmacological Reviews | year= 2013 | volume= 65 | pages=500-543 | doi= 10.1124/pr.111.005223 | pmid= 23383423 | issue= 1}}</ref> The longest helix -IV- develops three disulfide bonds with helix II and III.  C5a is rapidly metabolised by a serum [[enzyme]], [[carboxypeptidase B]] to a 73 amino acid form, C5a des-Arg.
+
+==Functions==
+{{prose|section|date=June 2012}}
+* C5a is an ''[[anaphylatoxin]]'', causing the release of [[histamine]] from [[mast cells]]; C5a des-Arg is a much less potent anaphylatoxin.
+* Both C5a and C5a des-Arg are effective leukocyte ''chemoattractants'', causing the accumulation of [[white blood cells]], especially neutrophil [[granulocytes]], at sites of complement activation. (See also [[Chemotaxis#Chemotactic ligands]].)
+* C5a activates white blood cells by increasing avidity for white blood cell integrins and upregulating the Lipoxygenase pathway for [[arachidonic acid]] metabolism.
+* C5a is a powerful inflammatory mediator, and seems to be a key factor in the development of pathology of many inflammatory diseases involving the complement system.
+* C5a modulates balance between activating versus inhibitory IgG Fc receptors on leukocytes, thereby enhancing autoimmune response.
+
+==Binding process==
+C5a binds to a [[Receptor (biochemistry)|receptor]] protein on the surface of target cells, C5a1, C5aR or [[CD88]]. This is a member of the [[G-protein-coupled receptor]] superfamily of proteins, predicted to have seven transmembrane helical domains of largely hydrophobic [[amino acid]] residues, forming three intra- and three extra-cellular loops, with an extracellular N-terminus and an intracellular C-terminus. C5a binding to the receptor is a two-stage process: an interaction between basic residues in the helical core of C5a and acidic residues in the extracellular N-terminal domain allows the C-terminus of C5a to bind to residues in the receptor transmembrane domains. The latter interaction leads to receptor activation, and the transduction of the ligand binding signal across the cell [[plasma membrane]] to the cytoplasmic G protein [[Gi alpha subunit|G<sub>i</sub>]] type [[GNAI2]].<ref>[http://mpr.nci.nih.gov/prow/guide/666919736_g.htm PROW and IWHLDA present the GUIDE on: CD88]</ref>
+Sensitivity of C5aR to C5a stimulation is enhanced by Lipopolysaccharides exposure, yet this is not due to C5aR upregulation.<.<ref>{{cite journal | author= Raby AC, Holst B, Davies J, Colmont C, Laumonnier Y, Coles B, Shah S, Hall J, Topley N, Khol J, Morgan BP, Labeta MO| title= TLR activation enhances C5a-induced pro-inflammatory responses by negatively modulating the second C5a receptor, C5L2.| journal= European Journal of Immunology | year= 2011| volume= 41| pages=2741–2752 | doi= 10.1002/eji.201041350 | pmid= 21630250 | issue= 9 | pmc= 21630250}}</ref> C5L2 is another C5a receptor that is thought to regulate the C5a-C5aR effects. It is thought of as a decoy receptor with anti-inflammatory properties.<ref>{{cite journal | author= Scola AM, Johswich K, Morgan BP, Klos A, Monk PN| title=The human complement fragment receptor, C5L2, is a recycling decoy receptor. | journal= Molecular Immunology | year= 2009| volume= 46| pages=1149–1162 | doi= 10.1016/j.molimm.2008.11.001 | pmid= 19100624 | issue= 6| pmc= 2697321 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{MeshName|Complement+C5a}}
+
+{{Complement system}}
+
+[[Category:Complement system]]
+[[Category:Molecular biology]]
+
+
+{{gene-9-stub}}

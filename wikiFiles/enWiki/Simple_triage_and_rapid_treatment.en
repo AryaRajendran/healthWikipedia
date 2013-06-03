@@ -1,0 +1,48 @@
+'''Simple triage and rapid treatment''' ('''START''') is a [[triage]] method used by [[first responder]]s to quickly classify victims during a mass casualty incident (MCI) based on the severity of their injury. The method was developed in 1983 by the staff members of [[Hoag Hospital]] and [[Newport Beach Fire Department]] located in [[California]], and is currently widely used in the [[United States]].<ref name = "remm">START Adult Triage Algorithm. Radiation Emergency Medical Management: REMM (US Department of Health and Human Services). http://www.remm.nlm.gov/startadult.htm</ref>
+
+==Classification==
+First responders using START evaluate victims and assign them to one of the following four categories:
+* Immediate (red)
+* Delayed (yellow)
+* Walking wounded/minor (green)
+* Deceased/expectant (black)<ref name="lerner">Lerner EB, Schwartz RB, Coule PL, et al. "Mass Casualty Triage: An Evaluation of the Data and Development of a Proposed National Guideline." ''Disaster Medicine and Public Health Preparedness'' 2(Suppl. 1) 2008, pp S25-S34.</ref>
+
+The colors correspond to [[triage tag|triage tags]], which are used by some agencies to indicate each victim's status, although physical tags are not necessary if patients can be physically sorted into different areas.<ref name="start-save">Benson M, Koenig KL, Schultz CH. "Disaster Triage: START, then SAVE--A New Method of Dynamic Triage for Victims of a Catastrophic Event." ''Disaster Medicine and Public Health Preparedness'' 11(2) 1996, pp 117-124.</ref>
+
+Responders arriving to the scene of a mass casualty incident may first ask that any victim who is able to walk relocate to a certain area, thereby identifying the ambulatory, or walking wounded, patients. Non-ambulatory patients are then assessed. The only medical intervention used prior to declaring a patient deceased is an attempt to open the airway. Any patient who is not breathing after this attempt is classified as deceased and given a black tag. No further interventions or therapies are attempted on deceased patients until all other patients have been treated.  Patients who are breathing and have any of the following conditions are classified as immediate:
+* respiratory rate greater than 30 per minute.
+* capillary refill greater than two seconds.
+* unresponsive (unable to follow commands)
+All other patients are classified as delayed.<ref name="remm"></ref><ref name="lerner"></ref>
+
+==Treatment and Evacuation==
+After all patients have been evaluated, responders use the START classifications to determine priorities for treatment or evacuation to a hospital.  The most basic way to use the START classifications is to transport victims in a fixed priority manner: immediate victims, followed by delayed victims, followed by the walking wounded.<ref name="lerner"></ref>  More detailed secondary [[triage]] systems such as SAVE may also be used: in this case, the START classifications are used to determine the order in which victims should undergo secondary triage.<ref name="lerner"></ref><ref name="start-save"></ref> 
+
+START is not a system for determining resource allocation. The classification algorithm used in START does not depend on the number of victims or on the number of resources available to treat them, nor does using START alone provide any prioritization of patients within any of the four triage classes. Therefore, significant differences in implementation of treatment and evacuation may exist across different agencies using START.<ref name="navin">Navin M, Sacco W, and Waddell R. ''Operational Comparison of the Simple Triage and Rapid Treatment Method and the Sacco Triage Method in Mass Casualty Exercises''. Journal of Trauma Vol. 69 No. 1 July 2010 pp.215-225. http://journals.lww.com/jtrauma/pages/default.aspx</ref>
+
+==Modifications to START and Similar Triage Systems==
+Numerous agencies have developed modifications to START or new triage systems similar to START.  One early proposed modification substituted the presence of a radial [[pulse]] for capillary refill in classifying patients as immediate.<ref name="start-save"></ref>  The [[Fire Department of New York]] uses a modified version of START with an orange or "urgent" classification intermediate in severity between immediate and delayed.<ref name="fdny">{{cite journal|last=Gonzalez|first=Dario|coauthors=FDNY Office Of Medical Affairs|title=z MD, F.A.C.E.P|year=2011|month=November|volume=17|issue=11|pages=5–18|url=http://www.nysvara.org/news/2011/nov/111122b.pdf|accessdate=21 May 2012}}</ref> 
+
+===Modification for Pediatric Patients===
+START has also been modified to provide better treatment for children. One such modification is known as JumpSTART. The primary modification for use with pediatric patients is to change the "normal" respiratory rate: since children breathe faster than adults, JumpSTART assigns the immediate classification on the basis of respiratory rate only if the child's respiration is under 15 or over 45 per minute.<ref name="lerner"></ref>
+
+===Similar Triage Systems===
+Other triage systems that are variations of or similar to START include Triage Seive, Pediatric Triage Tape, and CareFlite Triage.<ref name="lerner"></ref>  Each of these systems uses four or five triage classes with the red, yellow, green, and black colors.
+
+==Limitations==
+There is no accepted measure to judge the appropriateness of any given system in mass casualty triage.<ref name="lerner"></ref> Like many other triage systems, START suffers from implementation problems such as substantial amounts of overtriage <ref name="frykberg">Frykberg ER. "Triage: Principles and Practice." ''Scandinavian Journal of Surgery'' 94, 2005, pp 272-278</ref> One of the major strengths of START, its simplicity, is also a major limitation.  Since START was developed, consensus has emerged that triage should be more sophisticated, by incorporating resource limitations and capacity in determining how to prioritize patients.<ref name="lerner11">Lerner EB, Cone DC, Weinstein ES. "Mass Casualty Triage: An Evaluation of the Science and Refinement of a National Guideline." ''Disaster Medicine and Public Health Preparedness'' 5, 2011, pp 129-137.</ref><ref name="argon">Argon NT, Ziya S, Winslow JE. "Triage in the Aftermath of Mass-Casualty Incidents." ''Wiley Encyclopedia of Operations Research and Management Science.'' John Wiley & Sons, 2011 doi:10.1002/9780470400531.eorms0925</ref>
+
+==See also==
+* [[First responders]]
+
+==Notes==
+<references/>
+
+==External links==
+* [http://www.start-triage.com/ Official site] (Newport Beach Fire Department)
+* [http://www.asisonline.org/councils/fire/MCI.ppt MCI]
+* [http://www.city.newport-beach.ca.us/FMD/default.htm Newport Beach Fire Department]
+* [http://smartmci.com/products/triage/smart_tag.php Smart Triage Tag]
+* Maryland Institute for Emergency Medical Service Systems [http://www.miemss.org/home/TriageTagTraining/tabid/152/Default.aspx Simple Triage and Rapid Treatment training]
+
+[[Category:Triage]]

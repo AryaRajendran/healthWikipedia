@@ -1,0 +1,180 @@
+{{refimprove|date=September 2011}}
+
+There are many [[modes of mechanical ventilation]].<ref name="pmid7924494">{{cite journal| author=Esteban A, Alía I, Ibañez J, Benito S, Tobin MJ| title=Modes of mechanical ventilation and weaning. A national survey of Spanish hospitals. The Spanish Lung Failure Collaborative Group. | journal=Chest | year= 1994 | volume= 106 | issue= 4 | pages= 1188–93 | pmid=7924494 | doi= | pmc= | url= }}</ref> In [[medicine]], [[mechanical ventilation]] is a method to mechanically assist or replace spontaneous [[respiration (physiology)|breathing]].  
+
+A breath by breath trigger, limit, cycling (TLC) classification of the common modes of ventilation. (V = ventilator; P = patient)<ref name="pmid12548030">{{cite journal| author=Navalesi P, Costa R| title=New modes of mechanical ventilation: proportional assist ventilation, neurally adjusted ventilatory assist, and fractal ventilation. | journal=Curr Opin Crit Care | year= 2003 | volume= 9 | issue= 1 | pages= 51–8 | pmid=12548030 | doi= | pmc= | url= }}</ref>
+{| class="wikitable"
+|-
+! Mode
+! Trigger
+! Limit
+! I<sub>cycle</sub>
+! P<sub>cycle</sub>
+! Servo
+|-
+| CMV (VCa, AC)
+| V or P
+| Flow
+| Volume
+| Time
+| no
+|-
+| PCV or PCIRV
+| V or P
+| Pressure
+| Time
+| Time
+| no
+|-
+| SIMV (volume cycled)
+| V or P
+| Flow
+| Volume
+| -
+| no
+|-
+| SIMV (pressure limited)
+| V or P
+| Flow
+| time
+| -
+| no
+|-
+| SIMV+P<sub>S</sub> (volume cycled)
+| V or P
+| Flow
+| Volume
+| -
+| no
+|-
+| SIMV+P<sub>S</sub> (pressure limited)
+| V or P
+| Pressure
+| Time
+| -
+| no
+|-
+| C<sub>PAP</sub>
+| P
+| Pressure
+| Flow
+| -
+| no
+|-
+| C<sub>PAP</sub>+P<sub>S</sub>
+| P
+| Pressure
+| Flow
+| -
+| no
+|-
+| B<sub>PAP</sub> 1 (C<sub>PAP+PS</sub>)
+| P
+| Pressure
+| Flow
+| -
+| no
+|-
+| B<sub>PAP</sub> 2 (PCV)
+| V or P
+| Pressure
+| Timed
+| -
+| no
+|-
+| B<sub>PAP</sub> 3 (C<sub>PAP</sub>)
+| V
+| Pressure
+| Time
+| -
+| no
+|-
+| B<sub>PAP</sub> 4 (SIMV)
+| V or P
+| Pressure
+| Time (I<sub>V</sub>) Flow (I<sub>P</sub>)
+| -
+| no
+|-
+| B<sub>PAP</sub> 5 (APRV)
+| V or P
+| Pressure
+| Flow (I<sub>P</sub>) Time (I<sub>V</sub>)
+| -
+| no
+|-
+| APRV
+| V or P
+| Pressure
+| Flow (I<sub>P</sub>) Time (I<sub>V</sub>)
+| -
+| no
+|-
+| IMPRV
+| V or P
+| Pressure
+| Time
+| -
+| no
+|-
+| PRVC<ref name="pmid12548030"/> 
+| V or P
+| Pressure
+| Time
+| -
+| Yes (V<sub>T</sub>)
+|-
+| Automode
+| V or P
+| Pressure
+| Flow (I<sub>P</sub>) Time (I<sub>V</sub>)
+| -
+| Yes (V<sub>T</sub>)
+|-
+| Volume Support<ref name="pmid12548030"/> 
+| P
+| Pressure
+| Flow
+| -
+| Yes (V<sub>T</sub>)
+|-
+| Minimum minute ventilation<ref name="pmid12548030"/> 
+| P
+| Pressure
+| Flow
+| -
+| Yes (V<sub>E</sub>)
+|-
+| Mandatory rate ventilation<ref name="pmid12548030"/> 
+| P
+| Pressure
+| Flow (I<sub>P</sub>) Time (I<sub>V</sub>)
+| -
+| Yes (V<sub>f</sub>)
+|-
+| Proportional assist
+| P
+| Pressure/time
+| Flow
+| -
+| Yes (Flow+V<sub>E</sub>)
+|-
+| Mandatory minute ventilation<ref name="pmid12548030"/> 
+| V or P
+| Flow
+| Time
+| -
+| Yes (V<sub>E</sub>)
+|}
+
+==See also==
+*[[Respiratory therapy]]
+
+==References==
+<references/>
+
+{{Mechanical ventilation}}
+
+[[Category:Respiratory therapy]]
+[[Category:Mechanical ventilation]]
+[[Category:Pulmonology]]

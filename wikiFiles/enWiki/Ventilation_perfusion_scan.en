@@ -1,0 +1,72 @@
+{{Interventions infobox |
+  Name        = Ventilation/perfusion scan |
+  Image       = Ventperf.jpg |
+  Caption     = Normal pulmonary ventilation and perfusion (V/Q) scan. The nuclear medicine V/Q scan is useful in the evaluation of pulmonary embolism. |
+  ICD10       = |
+  ICD9unlinked = |
+  MeshID      = |
+  OPS301      = {{OPS301|3-703}}.2 |
+  OtherCodes  = |
+}}
+A '''ventilation/perfusion lung scan''', also called a V/Q lung scan, is a type of [[medical imaging]] using [[scintigraphy]] and [[Nuclear medicine|medical isotopes]] to evaluate the circulation of air and blood within a patient's [[lungs]],<ref>http://www.umm.edu/ency/article/003828.htm</ref> in order to determine the [[ventilation/perfusion ratio]]. The [[Ventilation (physiology)|ventilation]] part of the test looks at the ability of air to reach all parts of the lungs, while the [[perfusion]] part evaluates how well blood circulates within the lungs.
+
+==Uses==
+This test is most commonly done in order to check for the presence of a [[thrombus|blood clot]] or [[shunt (medical)|abnormal blood flow]] inside the lungs (such as a [[pulmonary embolism]] or PE), although [[computed tomography]] with [[radiocontrast]] is now more commonly used for this purpose. The V/Q scan may be used in some circumstances where radiocontrast would be inappropriate, as in [[renal failure]].<ref name="KeyMakris2009">{{cite book|author1=Nigel Key|author2=Michael Makris|author3=Denise O'Shaughnessy|coauthors=David Lillicrap|title=Practical Hemostasis and Thrombosis|url=http://books.google.com/books?id=SAIrjPk_0QsC&pg=PA140|accessdate=14 November 2010|date=3 July 2009|publisher=John Wiley and Sons|isbn=978-1-4051-8460-1|pages=140–}}</ref>
+
+A V/Q lung scan may be performed in the case of serious lung disorders such as [[Chronic obstructive pulmonary disease]] (COPD) or [[pneumonia]] as well as a lung performance quantification tool pre- and post-lung [[Lobectomy (lung)|lobectomy]] surgery.
+
+==Procedure==
+The ventilation and perfusion phases of a V/Q lung scan are performed together and may include a [[chest x-ray]] for comparison or to look for other causes of lung disease. A defect in the perfusion images requires a mismatched ventilation defect to be indicative of pulmonary embolism. 
+
+In the ventilation phase of the test, a gaseous radionuclide such as [[xenon]] or [[technetium]] [[DTPA]] in an aerosol form is inhaled by the patient through a mouthpiece or mask that covers the nose and mouth. Ventilation imaging can also be performed using a Technegas machine which produces [[technetium]] labelled carbon nanoparticles, called Technegas. The perfusion phase of the test involves the intravenous injection of radioactive [[technetium tc-99m albumin aggregated|technetium macro aggregated albumin]] (Tc99m-MAA). A [[gamma camera]] acquires the images for both phases of the study.
+
+It is also possible to perform the scan with positron emission tomography (PET) rather than conventional gamma camera scintigraphy.<ref>{{cite pmid|21908388}}</ref> This has been performed with Gallium-68 labelled carbon nanoparticles (Galligas) using a conventional Techngas machine for ventilation images, and with Gallium-68 labelled MAA (Ga68-MAA) for perfusion images. PET has multiple potential advantages including superior resolution, speed and quantification.
+
+==Significance of results==
+[[File:Pulmonary embolism scintigraphy PLoS.png|thumb|300px|Ventilation-perfusion scintigraphy in a woman taking oral contraceptives and valdecoxib with a pulmonary embolism.
+(A) After inhalation of 20.1 mCi of Xenon-133 gas, scintigraphic images were obtained in the posterior projection, showing uniform ventilation to lungs.
+
+(B) After intravenous injection of 4.1 mCi of Technetium-99m-labeled macroaggregated albumin, scintigraphic images were obtained, shown here in the posterior projection. This and other views showed decreased activity in the following regions: apical segment of right upper lobe, anterior segment of right upper lobe, superior segment of right lower lobe, posterior basal segment of right lower lobe, anteromedial basal segment of left lower lobe, and lateral basal segment of left lower lobe.]]
+{| class="wikitable" class="sortable wikitable"
+|+ '''V/Q Scan Interpretation'''
+|-
+ ! Result
+ ! Interpretation
+ ! Significance
+|-
+ ! Normal
+ | No perfusion deficit
+ | Excludes pulmonary thromboembolism
+|-
+ ! Low probability
+ | Perfusion deficit with matched ventilation deficit
+ | < 20% probability of PE
+|-
+ ! Intermediate probability
+ | Perfusion deficit that corresponds to parenchymal abnormality on chest x-ray
+ | 20% - 80% probability of PE
+|-
+ ! High probability
+ | Multiple segmental perfusion deficits with normal ventilation
+ | > 80% probability of PE
+|}
+
+Decreased uptake of the inhaled radioisotope may indicate an impaired ability to breathe, airway obstruction, or possible pneumonia.
+
+Decreased circulation of the injected MAA indicates a problem with blood flow into or within the lungs. A localized area of decreased uptake, usually in a wedge shaped (or pie shaped) configuration with normal ventilation images (mismatched defect) suggests a [[pulmonary embolism|pulmonary embolus]] or blood clot in the lungs, which leads to reduced perfusion.
+
+==Risks==
+Although this test uses radioactive materials, the total amount of radiation exposure is low. In order to decrease the radiation exposure in pregnant patients, the total radioactive dose may be decreased or the ventilation phase omitted. [[Computed tomography]] with [[radiocontrast]] can alternatively be performed, although this can result in a greater radiation dose to the patient.<ref>http://www.medscape.com/viewarticle/706957</ref> If breastfeeding, patient must be counselled to refrain from this activity for approximately 24 hours.
+
+==See also==
+* [[Ventilation/perfusion ratio]]
+
+==References==
+{{reflist}}
+
+{{Respiratory system procedures}}
+{{Medical imaging}}
+
+{{DEFAULTSORT:Ventilation perfusion scan}}
+[[Category:2d nuclear medical imaging]]
+[[Category:Respiratory system imaging]]

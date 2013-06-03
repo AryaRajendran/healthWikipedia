@@ -1,0 +1,352 @@
+The '''odds ratio'''<ref>{{cite journal | last=Cornfield | first=J | journal=Journal of the National Cancer Institute | title=A Method for Estimating Comparative Rates from Clinical Data. Applications to Cancer of the Lung, Breast, and Cervix | volume=11 | pages=1269&ndash;1275 |year=1951|pmid=14861651 }}</ref><ref>{{cite journal | last=Mosteller | first=Frederick | year=1968 | volume=63 | title=Association and Estimation in Contingency Tables | pages=1&ndash;28 | journal=Journal of the American Statistical Association | doi=10.2307/2283825 | issue=321 | publisher=American Statistical Association | jstor=2283825}}</ref><ref>{{cite journal | last=Edwards | first=A.W.F. | year=1963 | journal=Journal of the Royal Statistical Society, Series A | volume=126 | pages=109&ndash;114 | title=The measure of association in a 2x2 table | doi=10.2307/2982448 | issue=1 | publisher=Blackwell Publishing | jstor=2982448}}</ref> is a measure of [[effect size]], describing the strength of [[association (statistics)|association]] or non-[[independence (probability theory)|independence]] between two binary [[data]] values. It is used as a [[descriptive statistics|descriptive statistic]], and plays an important role in [[logistic regression]].  Unlike other measures of association for paired binary data such as the [[relative risk]], the odds ratio treats the two variables being compared symmetrically, and can be estimated using some types of non-random samples.
+
+== Definition and basic properties ==
+
+===Definition in terms of group-wise odds===
+
+The odds ratio is the ratio of the [[odds]] of an event occurring in one group to the odds of it occurring in another group.  The term is also used to refer to sample-based estimates of this ratio.  These groups might be men and women, an experimental group and a [[control group]], or any other [[dichotomy|dichotomous]] classification.  If the probabilities of the event in each of the groups are ''p''<sub>1</sub> (first group) and ''p''<sub>2</sub> (second group), then the odds ratio is:
+
+:<math>{ p_1/(1-p_1) \over p_2/(1-p_2)}={ p_1/q_1 \over p_2/q_2}=\frac{\;p_1q_2\;}{\;p_2q_1\;},</math>
+
+where ''q''<sub>x</sub>&nbsp;=&nbsp;1&nbsp;&minus;&nbsp;''p''<sub>''x''</sub>. An odds ratio of 1 indicates that the condition or event under study is equally likely to occur in both groups.  An odds ratio greater than 1 indicates that the condition or event is more likely to occur in the first group. And an odds ratio less than 1 indicates that the condition or event is less likely to occur in the first group. The odds ratio must be nonnegative if it is defined.  It is undefined if ''p''<sub>2</sub>''q''<sub>1</sub> equals zero, i.e., if ''p''<sub>2</sub> equals zero or ''p''<sub>1</sub> equals one.
+
+===Definition in terms of joint and conditional probabilities===
+
+The odds ratio can also be defined in terms of the joint [[probability distribution]] of two binary [[random variable]]s.  The joint distribution of binary random variables ''X'' and ''Y'' can be written
+
+<center>
+{| class="wikitable" style="text-align: center; background: #FFFFFF;"
+|-----
+|
+ || ''Y'' = 1 || ''Y'' = 0 
+|-----
+| ''X'' = 1 || <math>p_{11}</math> || <math>p_{10}</math> 
+|-----
+| ''X'' = 0 || <math>p_{01}</math> || <math>p_{00}</math>
+|}</center>
+
+where ''p''<sub>11</sub>, ''p''<sub>10</sub>, ''p''<sub>01</sub> and ''p''<sub>00</sub> are non-negative "cell probabilities" that sum to one.  The odds for ''Y'' within the two subpopulations defined by ''X'' = 1 and ''X'' = 0 are defined in terms of the [[conditional probabilities]] given ''X'':
+
+<center>
+{| class="wikitable" style="text-align: center; background: #FFFFFF;"
+|-----
+|
+ || ''Y'' = 1 || ''Y'' = 0 
+|-----
+| ''X'' = 1 || <math>p_{11}/(p_{11}+p_{10})</math> || <math>p_{10}/(p_{11}+p_{10})</math> 
+|-----
+| ''X'' = 0 || <math>p_{01}/(p_{01}+p_{00})</math> || <math>p_{00}/(p_{01}+p_{00})</math>
+|}</center>
+
+Thus the odds ratio is
+
+:<math>{ \dfrac{p_{11}/(p_{11}+p_{10})}{p_{10}/(p_{11}+p_{10})} \bigg / \dfrac{p_{01}/(p_{01}+p_{00})}{p_{00}/(p_{01}+p_{00})}} = \dfrac{p_{11}p_{00}}{p_{10}p_{01}}.</math>
+
+The simple expression on the right, above, is easy to remember as the product of the probabilities of the "concordant cells" (''X''&nbsp;=&nbsp;''Y'') divided by the product of the probabilities of the "discordant cells" (''X''&nbsp;≠&nbsp;''Y'').  However note that in some applications the labeling of categories as zero and one is arbitrary, so there is nothing special about concordant versus discordant values in these applications.
+
+===Symmetry===
+
+If we had calculated the odds ratio based on the conditional probabilities given ''Y'',
+
+<center>
+{| class="wikitable" style="text-align: center; background: #FFFFFF;"
+|-----
+|
+ || ''Y'' = 1 || ''Y'' = 0 
+|-----
+| ''X'' = 1 || <math>p_{11}/(p_{11}+p_{01})</math> || <math>p_{10}/(p_{10}+p_{00})</math> 
+|-----
+| ''X'' = 0 || <math>p_{01}/(p_{11}+p_{01})</math> || <math>p_{00}/(p_{10}+p_{00})</math>
+|}</center>
+
+we would have gotten the same result
+
+:<math>{ \dfrac{p_{11}/(p_{11}+p_{01})}{p_{01}/(p_{11}+p_{01})} \bigg / \dfrac{p_{10}/(p_{10}+p_{00})}{p_{00}/(p_{10}+p_{00})}} = \dfrac{p_{11}p_{00}}{p_{10}p_{01}}.</math>
+
+Other measures of effect size for binary data such as the [[relative risk]] do not have this symmetry property.
+
+===Relation to statistical independence===
+
+If ''X'' and ''Y'' are independent, their joint probabilities can be expressed in terms of their marginal probabilities ''p''<sub>''x''</sub>&nbsp;=&nbsp; ''P''(''X''&nbsp;=&nbsp;1) and ''p''<sub>''y''</sub>&nbsp;=&nbsp; ''P''(''Y''&nbsp;=&nbsp;1), as follows
+
+<center>
+{| class="wikitable" style="text-align: center; background: #FFFFFF;"
+|-----
+|
+ || ''Y'' = 1 || ''Y'' = 0 
+|-----
+| ''X'' = 1 || <math>p_xp_y</math> || <math>p_x(1-p_y)</math> 
+|-----
+| ''X'' = 0 || <math>(1-p_x)p_y</math> || <math>(1-p_x)(1-p_y)</math>
+|}</center>
+
+In this case, the odds ratio equals one, and conversely the odds ratio can only equal one if the joint probabilities can be factored in this way.  Thus the odds ratio equals one if and only if ''X'' and ''Y'' are [[statistical independence|independent]].
+
+===Recovering the cell probabilities from the odds ratio and marginal probabilities===
+
+The odds ratio is a function of the cell probabilities, and conversely, the cell probabilities can be recovered given knowledge of the odds ratio and the marginal probabilities ''P''(''X''&nbsp;=&nbsp;1)&nbsp;=&nbsp;''p''<sub>11</sub>&nbsp;+&nbsp;''p''<sub>10</sub> and ''P''(''Y''&nbsp;=&nbsp;1)&nbsp;=&nbsp;''p''<sub>11</sub>&nbsp;+&nbsp;''p''<sub>01</sub>.  If the odds ratio ''R'' differs from 1, then
+
+:<math>
+p_{11} = \frac{1 + (p_{1\cdot}+p_{\cdot 1})(R-1) - S}{2(R-1)}
+</math>
+
+where ''p''<sub>1•</sub>&nbsp;=&nbsp;''p''<sub>11</sub>&nbsp;+&nbsp;''p''<sub>10</sub>, &nbsp;''p''<sub>•1</sub>&nbsp;=&nbsp;''p''<sub>11</sub>&nbsp;+&nbsp;''p''<sub>01</sub>, and 
+
+:<math>
+S = \sqrt{(1+(p_{1\cdot}+p_{\cdot 1})(R-1))^2 + 4R(1-R)p_{1\cdot}p_{\cdot 1}}.
+</math>
+
+In the case where ''R''&nbsp;=&nbsp;1, we have independence, so ''p''<sub>11</sub>&nbsp;=&nbsp;''p''<sub>1•</sub>''p''<sub>•1</sub>.
+
+Once we have ''p''<sub>11</sub>, the other three cell probabilities can easily be recovered from the marginal probabilities.
+
+==Example==
+[[Image:odds ratio map.svg|300px|right|thumb|A graph showing how the log odds ratio relates to the underlying probabilities of the outcome ''X'' occurring in two groups, denoted ''A'' and ''B''. The log odds ratio shown here is based on the odds for the event occurring in group ''B'' relative to the odds for the event occurring in group ''A''. Thus, when the probability of ''X'' occurring in group ''B'' is greater than the probability of ''X'' occurring in group ''A'', the odds ratio is greater than 1, and the log odds ratio is greater than 0.]]
+
+Suppose that in a sample of 100 men, 90 drank wine in the previous week, while in a sample of 100 women only 20 drank wine in the same period.  The odds of a man drinking wine are 90 to 10, or 9:1, while the odds of a woman drinking wine are only 20 to 80, or 1:4 = 0.25:1. The odds ratio is thus 9/0.25, or 36, showing that men are much more likely to drink wine than women. The detailed calculation is:
+
+:<math>{ 0.9/0.1 \over 0.2/0.8}=\frac{\;0.9\times 0.8\;}{\;0.1\times 0.2\;} ={0.72 \over 0.02} = 36.</math>
+
+This example also shows how odds ratios are sometimes sensitive in stating relative positions: in this sample men are 90/20 = 4.5 times more likely to have drunk wine than women, but have 36 times the odds. The logarithm of the odds ratio, the difference of the [[logit]]s of the [[probability|probabilities]], tempers this effect, and also makes the measure [[symmetry|symmetric]] with respect to the ordering of groups. For example, using [[natural logarithms]], an odds ratio of 36/1 maps to 3.584, and an odds ratio of 1/36 maps to &minus;3.584.
+
+==Statistical inference==
+[[Image:odds ratio minsig.svg|300px|right|thumb|A graph showing the minimum value of the sample log odds ratio statistic that must be observed to be deemed significant at the 0.05 level, for a given sample size. The three lines correspond to different settings of the marginal probabilities in the 2x2 contingency table (the row and column marginal probabilities are equal in this graph).]]Several approaches to statistical inference for odds ratios have been developed.
+
+One approach to inference uses large sample approximations to the sampling distribution of the log odds ratio (the [[natural logarithm]] of the odds ratio).  If we use the joint probability notation defined above, the population log odds ratio is
+
+:<math>{\log\left(\frac{p_{11}p_{00}}{p_{01}p_{10}}\right) = \log(p_{11}) + \log(p_{00}\big) - \log(p_{10}) - \log(p_{01})}.\,</math>
+
+If we observe data in the form of a [[contingency table]]
+
+<center>
+{| class="wikitable" style="text-align: center; background: #FFFFFF;"
+|-----
+|
+|| ''Y'' = 1 || ''Y'' = 0 
+|-----
+| ''X'' = 1 || <math>n_{11}</math> || <math>n_{10}</math> 
+|-----
+| ''X'' = 0 || <math>n_{01}</math> || <math>n_{00}</math>
+|}</center>
+
+then the probabilities in the joint distribution can be estimated as
+
+<center>
+{| class="wikitable" style="text-align: center; background: #FFFFFF;"
+|-----
+|
+|| ''Y'' = 1 || ''Y'' = 0 
+|-----
+| ''X'' = 1 || <math>\hat{p}_{11}</math> || <math>\hat{p}_{10}</math> 
+|-----
+| ''X'' = 0 || <math>\hat{p}_{01}</math> || <math>\hat{p}_{00}</math>
+|}</center>
+
+where ''p''̂&nbsp;=&nbsp;''n''<sub>''ij''</sub>&nbsp;/&nbsp;''n'', with ''n''&nbsp;=&nbsp;''n''<sub>11</sub>&nbsp;+&nbsp;''n''<sub>10</sub>&nbsp;+&nbsp;''n''<sub>01</sub>&nbsp;+&nbsp;''n''<sub>00</sub> being the sum of all four cell counts.  The sample log odds ratio is 
+
+:<math>{L=\log\left(\dfrac{\hat{p}_{11}\hat{p}_{00}}{\hat{p}_{10}\hat{p}_{01}}\right) = \log\left(\dfrac{n_{11}n_{00}}{n_{10}n_{01}}\right)}</math>.
+
+The distribution of the log odds ratio is approximately [[Normal distribution|normal]] with:
+
+<math>
+    X\ \sim\ \mathcal{N}(\log (OR),\,\sigma^2). \,
+  </math>
+
+The [[standard error (statistics)|standard error]] for the log odds ratio is approximately
+
+:<math>{{\rm SE} = \sqrt{\dfrac{1}{n_{11}} + \dfrac{1}{n_{10}} + \dfrac{1}{n_{01}} + \dfrac{1}{n_{00}}}}</math>.
+
+This is an asymptotic approximation, and will not give a meaningful result if any of the cell counts are very small.  If ''L'' is the sample log odds ratio, an approximate 95% [[confidence interval]] for the population log odds ratio is ''L''&nbsp;±&nbsp;1.96''SE''.<ref>{{cite journal|doi=10.1136/bmj.296.6632.1313|author=Morris and Gardner|year=1988|last2=Gardner|first2=MJ|title=Calculating confidence intervals for relative risks (odds ratios) and standardised ratios and rates|journal=British Medical Journal|volume=296|issue=6632|pages=1313–1316|url=http://www.bmj.com/cgi/reprint/296/6632/1313|pmid=3133061|pmc=2545775}}</ref>  This can be mapped to exp(''L''&nbsp;&minus;&nbsp;1.96SE),&nbsp;exp(''L''&nbsp;+&nbsp;1.96SE) to obtain a 95% confidence interval for the odds ratio.  If we wish to test the hypothesis that the population odds ratio equals one, the two-sided [[p-value]] is 2''P''(''Z''< &minus;|''L''|/SE), where ''P'' denotes a probability, and ''Z'' denotes a [[standard normal random variable]].
+
+An alternative approach to inference for odds ratios looks at the distribution of the data conditionally on the marginal frequencies of ''X'' and ''Y''.  An advantage of this approach is that the sampling distribution of the odds ratio can be expressed exactly.
+
+===Tests for homogeneity===
+
+In applications of the odds ratio the relationship between exposure and outcome may be different for different strata. Such cases may be described by a ''k'' x 2 x 2 table. The [[homogeneity]] of the odds ratios in such a case may be tested with the Breslow Day statistic<ref name=Breslow1980>Breslow N, Day NE (1980) "Classical methods of analysis of grouped data". In: ''Statistical Methods in Cancer Research. The analysis of case-control studies. Vol 1''. Lyon: International Agency for Research on Cancer. pp 122-159</ref> with the Tarone adjustment which is [[asymptotic distribution|distributed asymptotically]] as a chi-squared variable with degrees of freedom equal to ''k'' - 1.<ref>I-Ming Liu (2005) "Breslow–Day Test". ''Encyclopedia of Biostatistics''. John Wiley & Sons, Ltd. {{doi| 10.1002/0470011815.b2a10009}}</ref> The test statistic  is
+
+: <math> BD = \sum{ \frac{ x_{ 1k } - E( x_{ 1k } | OR_{ MH } ) }{ V( x_{ 1k } | OR_{ MH } ) } } </math>
+
+where ''OR''<sub>MH</sub> is the Mantel-Haenszel estimator of common odds ratio. ''E''( ''x''<sub>1k</sub> | ''OR''<sub>MH</sub>) and ''V''( ''x''<sub>1k</sub> | ''OR''<sub>MH</sub> ) are the expected value (mean) and variance of ''x''<sub>1k</sub> under the null hypothesis of homogeneity of odds ratios respectively. The sum is taken over the ''k'' tables. 
+
+Testing of homogeneity in ''k'' x ''n'' x ''m'' tables cannot be done with this statistic: [[Log-linear modeling|log linear regression]] may be used instead.{{citation needed|date=June 2012}}
+
+Other tests that may be useful include the Mantel-Haenszel common odds ratio estimate. This test was originally developed by [[W.G. Cochran|Cochran]]<ref name=Cochran1954>[[W.G. Cochran|Cochran WG]] (1954) "Some methods for strengthening the common ''χ''2 tests". ''[[Biometrics]]'', 10: 417-451</ref> and was modified by [[Nathan Mantel|Mantel]] and Haenszel.<ref name=Mantel1959>Mantel N, Haenszel W (1959) "Statistical aspects of the analysis of data from retrospective studies of disease". ''J Natl Cancer Inst'' 22: 719-774</ref> It is known either as the [[Cochran–Mantel–Haenszel statistics|Cochran–Mantel–Haenszel]] or the Mantel–Haenszel test. The test statistic is
+
+: <math> \chi^2_{ CMH or MH } = \frac{ ( | \sum[ a - \frac{ ( a + b )( a + c ) }{ n } ] | - 0.5 )^2 } { \sum[ \frac{ ( a + b )( a + c ) ( b + d )( c + d )}{ n^3 - n } ] }</math>
+
+where ''a'', ''b'', ''c'' and ''d'' are the values in the 2 x 2 table and ''n'' is the sample size. The subscript ''CMH or MH'' refers to the name of the test - either the Cochran–Mantel–Haenszel or Mantel–Haenszel. The statistic ''χ''<sup>2</sup> is distributed as a chi squared variate with one degree of freedom. The -0.5 is a continuity correction.
+
+The numerator contains the absolute value of the difference between the observed value in one cell (''a'') and the expected value under the null hypothesis - ( ''a'' + ''b'' )( ''a'' + ''c'' ) / ''n'' - so the numerator is the squared sum of deviations between the observed and expected values. The choice of cell is arbitrary as the value of the statistic is the same for all 2 x 2 tables. This test is sometimes used without the continuity correction. In published work it should be made clear if this correction was or was not used.
+
+==Role in logistic regression==
+
+[[Logistic regression]] is one way to generalize the odds ratio beyond two binary variables.  Suppose we have a binary response variable ''Y'' and a binary predictor variable ''X'', and in addition we have other predictor variables ''Z''<sub>1</sub>, ..., ''Z<sub>p</sub>'' that may or may not be binary.  If we use multiple logistic regression to regress ''Y'' on ''X'', ''Z<sub>1</sub>'', ..., ''Z<sub>p</sub>'', then the estimated coefficient <math>\hat{\beta}_x</math> for ''X'' is related to a conditional odds ratio.  Specifically, at the population level
+
+:<math>
+\exp(\beta_x) = \frac{P(Y=1|X=1, Z_1, \ldots, Z_p)/P(Y=0|X=1, Z_1, \ldots, Z_p)}{P(Y=1|X=0, Z_1, \ldots, Z_p)/P(Y=0|X=0, Z_1, \ldots, Z_p)},
+</math>
+
+so <math>\exp(\hat{\beta}_x)</math> is an estimate of this conditional odds ratio. The interpretation of <math>\exp(\hat{\beta}_x)</math> is as an estimate of the odds ratio between ''Y'' and ''X'' when the values of ''Z''<sub>1</sub>, ..., ''Z<sub>p</sub>'' are held fixed.
+
+==Insensitivity to the type of sampling==
+
+If the data form a "population sample", then the cell probabilities ''p''̂<sub>''ij''</sub> are interpreted as the frequencies of each of the four groups in the population as defined by their ''X'' and ''Y'' values.  In many settings it is impractical to obtain a population sample, so a selected sample is used.  For example, we may choose to sample [[unit (statistics)|units]] with ''X''&nbsp;=&nbsp;1 with a given probability ''f'', regardless of their frequency in the population (which would necessitate sampling units with ''X''&nbsp;=&nbsp;0 with probability 1&nbsp;&minus;&nbsp;''f'').  In this situation, our data would follow the following joint probabilities:
+
+<center>
+{| class="wikitable" style="text-align: center; background: #FFFFFF;"
+|-----
+|
+ || ''Y'' = 1 || ''Y'' = 0 
+|-----
+| ''X'' = 1 || <math>fp_{11}/(p_{11}+p_{10})</math> || <math>fp_{10}(p_{11}+p_{10})</math> 
+|-----
+| ''X'' = 0 || <math>(1-f)p_{01}/(p_{01}+p_{00})</math> || <math>(1-f)p_{00}/(p_{01}+p_{00})</math>
+|}</center>
+
+The ''odds ratio'' ''p''<sub>11</sub>''p''<sub>00</sub>&nbsp;/&nbsp;''p''<sub>01</sub>''p''<sub>10</sub> for this distribution does not depend on the value of ''f''.  This shows that the odds ratio (and consequently the log odds ratio) is invariant to non-random sampling based on one of the variables being studied.  Note however that the standard error of the log odds ratio does depend on the value of ''f''.  This fact is exploited in two important situations: 
+
+* Suppose it is inconvenient or impractical to obtain a population sample, but it is practical to obtain a [[accidental sampling|convenience sample]] of units with different ''X'' values, such that within the ''X''&nbsp;=&nbsp;0 and ''X''&nbsp;=&nbsp;1 subsamples the ''Y'' values are representative of the population (i.e. they follow the correct conditional probabilities).
+
+* Suppose the marginal distribution of one variable, say ''X'', is very skewed.  For example, if we are studying the relationship between high alcohol consumption and pancreatic cancer in the general population, the incidence of pancreatic cancer would be very low, so it would require a very large population sample to get a modest number of pancreatic cancer cases.  However we could use data from hospitals to contact most or all of their pancreatic cancer patients, and then randomly sample an equal number of subjects without pancreatic cancer (this is called a "case-control study").
+
+In both these settings, the odds ratio can be calculated from the selected sample, without biasing the results relative to what would have been obtained for a population sample.
+
+==Use in quantitative research==
+
+Due to the widespread use of [[logistic regression]], the odds ratio is widely used in many fields of medical and social science research.  The odds ratio is commonly used in [[survey research]], in [[epidemiology]], and to express the results of some [[clinical trial]]s, such as in [[case-control studies]]. It is often abbreviated "OR" in reports. When data from multiple surveys is combined, it will often be expressed as "pooled OR".
+
+==Relation to relative risk==
+In clinical studies, as well as in some other settings, the parameter of greatest interest is often the [[relative risk]] rather than the odds ratio.  The relative risk is best estimated using a population sample, but if the [[rare disease assumption]] holds, the odds ratio is a good approximation to the relative risk &mdash; the [[odds]] is ''p''&nbsp;/&nbsp;(1&nbsp;&minus;&nbsp;''p''), so when ''p'' moves towards zero, 1&nbsp;&minus;&nbsp;''p'' moves towards 1, meaning that the odds approaches the risk, and the odds ratio approaches the relative risk.<ref name="pmid18580722">{{cite journal |author=Viera AJ |title=Odds ratios and risk ratios: what's the difference and why does it matter? |journal=South. Med. J. |volume=101 |issue=7 |pages=730–4 |year=2008 |month=July |pmid=18580722 |doi=10.1097/SMJ.0b013e31817a7ee4 |url=http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0038-4348&volume=101&issue=7&spage=730 }}</ref> When the rare disease assumption does not hold, the odds ratio can overestimate the relative risk.<ref name="pmid9832001">{{cite journal |author=Zhang J, Yu KF |title=What's the relative risk? A method of correcting the odds ratio in cohort studies of common outcomes |journal=JAMA |volume=280 |issue=19 |pages=1690–1 |year=1998 |month=November |pmid=9832001 |doi= 10.1001/jama.280.19.1690|url=http://jama.ama-assn.org/cgi/pmidlookup?view=long&pmid=9832001}}</ref><ref name="pmid12377421">{{cite journal |author=Robbins AS, Chao SY, Fonseca VP |title=What's the relative risk? A method to directly estimate risk ratios in cohort studies of common outcomes |journal=Ann Epidemiol |volume=12 |issue=7 |pages=452–4 |year=2002 |month=October |pmid=12377421 |doi= 10.1016/S1047-2797(01)00278-2|url=http://linkinghub.elsevier.com/retrieve/pii/S1047279701002782}}</ref><ref>{{cite journal | last=Nurminen | first=Markku | journal=European Journal of Epidemiology | title= To Use or Not to Use the Odds Ratio in Epidemiologic Analyses? | volume=11 | issue=4 | pages=365&ndash;371 | doi=10.1007/BF01721219 | year=1995 | jstor=3582428}}</ref>
+
+If the absolute risk in the control group is available, conversion between the two is calculated by:<ref name="pmid9832001"/>
+
+: <math> RR \approx \frac{OR}{1 - R_C + (R_C \times OR)}</math>
+
+where:
+* ''RR'' = relative risk
+* ''OR'' = odds ratio
+* ''R''<sub>''C''</sub> = absolute risk in the unexposed group, given as a fraction (for example: fill in 10% risk as&nbsp;0.1)
+
+===Confusion and exaggeration===
+Odds ratios have often been confused with relative risk in medical literature. For non-statisticians, the odds ratio is a difficult concept to comprehend, and it gives a more impressive figure for the effect.<ref name="bmj.com">"On the use, misuse and interpretation of odds ratios". Dirk Taeger, Yi Sun, Kurt Straif. 10 August 1998. {{doi| 10.1136/bmj.316.7136.989}} http://www.bmj.com/content/316/7136/989?tab=responses</ref> However, most authors consider that the relative risk is readily understood.<ref name=ACourt>"Against all odds? Improving the understanding of risk reporting". A'Court, Christine; Stevens, Richard; Heneghan, Carl. ''British Journal of General Practice'', Volume 62, Number 596, March 2012, pp. e220-e223(4). {{doi|10.3399/bjgp12X630223}}</ref> In one study, members of a national disease foundation were actually 3.5 times more likely than nonmembers to have heard of a common treatment for that disease - but the odds ratio was 24 and the paper stated that members were ‘more than 20-fold more likely to have heard of’ the treatment.<ref>Nijsten T, Rolstad T, Feldman SR, Stern RS. Members of the national psoriasis foundation: more extensive disease and better informed about treatment options. ''Archives of Dermatology'' 2005;141(1): 19–26, p24 table 3 and text. http://archderm.ama-assn.org/cgi/reprint/141/1/19.pdf</ref> A study of papers published in two journals reported that 26% of the articles that used an odds ratio interpreted it as a risk ratio.<ref>Holcomb WL, Chaiworapongsa T, Luke DA, Burgdorf KD. (2001) [http://journals.lww.com/greenjournal/fulltext/2001/10000/an_odd_measure_of_risk__use_and_misuse_of_the_odds.28.aspx "An Odd Measure of Risk: Use and Misuse of the Odds Ratio"]. ''Obstetrics and Gynecology'', 98(4): 685–688.</ref> 
+
+This may reflect the simple process of uncomprehending authors choosing the most impressive-looking and publishable figure.<ref name=ACourt/> But its use may in some cases be deliberately deceptive.<ref>"The trouble with odds ratios". Thabani Sibanda. 1 May 2003  {{doi| 10.1136/bmj.316.7136.989}} http://www.bmj.com/content/316/7136/989?tab=responses</ref> It has been suggested that the odds ratio should only be presented as a measure of [[effect size]] when the [[risk ratio]] can not be estimated directly.<ref name="bmj.com"/>
+
+==Invertibility and invariance==
+
+The odds ratio has another unique property of being directly mathematically invertible whether analyzing the OR as either disease survival or disease onset incidence - where the OR for survival is direct reciprocal of 1/OR for risk.{{citation needed|date=June 2012}} This is known as the 'invariance of the odds ratio'. In contrast, the relative risk does not possess this mathematical invertible property when studying disease survival vs. onset incidence.{{citation needed|date=June 2012}} This phenomenon of OR invertibility vs. RR non-invertibility is best illustrated with an example:
+
+Suppose in a clinical trial, one has an adverse event risk of 4/100 in drug group, and 2/100 in placebo... yielding a RR=2 and OR=2.04166 for drug-vs-placebo adverse risk. However, if analysis was inverted and adverse events were instead analyzed as event-free survival, then the drug group would have a rate of 96/100, and placebo group would have a rate of 98/100—yielding a drug-vs-placebo a RR=0.9796 for survival, but an OR=0.48979. As one can see, a RR of 0.9796 is clearly not the reciprocal of a RR of 2. In contrast, an OR of 0.48979 is indeed the direct reciprocal of an OR of 2.04166. 
+
+This is again what is called the 'invariance of the odds ratio', and why a RR for survival is not the same as a RR for risk, while the OR has this symmetrical property when analyzing either survival or adverse risk. The danger to clinical interpretation for the OR comes when the adverse event rate is not rare, thereby exaggerating differences when the OR rare-disease assumption is not met. On the other hand, when the disease is rare, using a RR for survival (e.g. the RR=0.9796 from above example) can clinically hide and conceal an important doubling of adverse risk associated with a drug or exposure.{{citation needed|date=June 2012}}
+
+==Alternative estimators of the odds ratio==
+
+The sample odds ratio ''n''<sub>11</sub>''n''<sub>00</sub>&nbsp;/&nbsp;''n''<sub>10</sub>''n''<sub>01</sub> is easy to calculate, and for moderate and large samples performs well as an estimator of the population odds ratio.  When one or more of the cells in the contingency table can have a small value, the sample odds ratio can be [[bias (statistics)|biased]] and exhibit high [[variance]].  A number of alternative estimators of the odds ratio have been proposed to address this issue.  One alternative estimator is the conditional maximum likelihood estimator, which conditions on the row and column margins when forming the likelihood to maximize (as in [[Fisher's exact test]]).<ref>{{cite book | last=Rothman | first=Kenneth J. | coauthors=Greenland, Sander; Lash, Timothy L. | title=Modern Epidemiology | year=2008 | publisher=Lippincott Williams & Wilkins | isbn=0-7817-5564-6}}</ref>  Another alternative estimator is the Mantel-Haenszel estimator.
+
+==Numerical examples==
+
+The following four contingency tables contain observed cell counts, along with the corresponding sample odds ratio (''OR'') and sample log odds ratio (''LOR''):
+
+{| cellpadding="5" cellspacing="0" align="center"
+|- 
+! rowspan=2 |
+! style="background:#efefef;border-left:1px solid black;border-top:1px solid black;" colspan=2 | ''OR''&nbsp;=&nbsp;1, ''LOR''&nbsp;=&nbsp;0
+! style="background:#efefef;border-left:1px solid black;border-top:1px solid black;" colspan=2 | ''OR''&nbsp;=&nbsp;1, ''LOR''&nbsp;=&nbsp;0
+! style="background:#efefef;border-left:1px solid black;border-top:1px solid black;" colspan=2 | ''OR''&nbsp;=&nbsp;4, ''LOR''&nbsp;=&nbsp;1.39
+! style="background:#efefef;border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;" colspan=2 | ''OR''&nbsp;=&nbsp;0.25, ''LOR''&nbsp;=&nbsp;&minus;1.39
+|-
+! style="background:#ffdead;border-left:1px solid black;" | ''Y''&nbsp;=&nbsp;1
+! style="background:#ffdead;" | ''Y''&nbsp;=&nbsp;0
+! style="background:#ffdead;border-left:1px solid black;" | ''Y''&nbsp;=&nbsp;1
+! style="background:#ffdead;" | ''Y''&nbsp;=&nbsp;0
+! style="background:#ffdead;border-left:1px solid black;" | ''Y''&nbsp;=&nbsp;1
+! style="background:#ffdead;" | ''Y''&nbsp;=&nbsp;0
+! style="background:#ffdead;border-left:1px solid black;" | ''Y''&nbsp;=&nbsp;1
+! style="background:#ffdead;border-right:1px solid black;" | ''Y''&nbsp;=&nbsp;0
+|-
+! style="background:#ffdead;border-left:1px solid black;border-top:1px solid black;" | ''X''&nbsp;=&nbsp;1
+! style="border-left:1px solid black;" | 10
+! 10
+! style="border-left:1px solid black;" | 100
+! 100
+! style="border-left:1px solid black;" | 20
+! 10
+! style="border-left:1px solid black;" | 10
+! style="border-right:1px solid black;" |20
+|-
+! style="background:#ffdead;border-bottom:1px solid black;border-left:1px solid black;" | ''X''&nbsp;=&nbsp;0
+! style="border-bottom:1px solid black;border-left:1px solid black;" | 5
+! style="border-bottom:1px solid black;" | 5
+! style="border-left:1px solid black;border-bottom:1px solid black;" | 50
+! style="border-bottom:1px solid black;" | 50
+! style="border-left:1px solid black;border-bottom:1px solid black;" | 10
+! style="border-bottom:1px solid black;" | 20
+! style="border-left:1px solid black;border-bottom:1px solid black;" | 20
+! style="border-right:1px solid black;border-bottom:1px solid black;" | 10
+|}
+
+The following [[joint probability distribution]]s contain the population cell probabilities, along with the corresponding population odds ratio (''OR'') and population log odds ratio (''LOR''):
+
+{| cellpadding="5" cellspacing="0" align="center"
+|- 
+! rowspan=2 |
+! style="background:#efefef;border-left:1px solid black;border-top:1px solid black;" colspan=2 | ''OR''&nbsp;=&nbsp;1, ''LOR''&nbsp;=&nbsp;0
+! style="background:#efefef;border-left:1px solid black;border-top:1px solid black;" colspan=2 | ''OR''&nbsp;=&nbsp;1, ''LOR''&nbsp;=&nbsp;0
+! style="background:#efefef;border-left:1px solid black;border-top:1px solid black;" colspan=2 | ''OR''&nbsp;=&nbsp;16, ''LOR''&nbsp;=&nbsp;2.77
+! style="background:#efefef;border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;" colspan=2 | ''OR''&nbsp;=&nbsp;0.67, ''LOR''&nbsp;=&nbsp;&minus;0.41
+|-
+! style="background:#ffdead;border-left:1px solid black;" | ''Y''&nbsp;=&nbsp;1
+! style="background:#ffdead;" | ''Y''&nbsp;=&nbsp;0
+! style="background:#ffdead;border-left:1px solid black;" | ''Y''&nbsp;=&nbsp;1
+! style="background:#ffdead;" | ''Y''&nbsp;=&nbsp;0
+! style="background:#ffdead;border-left:1px solid black;" | ''Y''&nbsp;=&nbsp;1
+! style="background:#ffdead;" | ''Y''&nbsp;=&nbsp;0
+! style="background:#ffdead;border-left:1px solid black;" | ''Y''&nbsp;=&nbsp;1
+! style="background:#ffdead;border-right:1px solid black;" | ''Y''&nbsp;=&nbsp;0
+|-
+! style="background:#ffdead;border-left:1px solid black;border-top:1px solid black;" | ''X''&nbsp;=&nbsp;1
+! style="border-left:1px solid black;" | 0.2
+! 0.2
+! style="border-left:1px solid black;" | 0.4
+! 0.4
+! style="border-left:1px solid black;" | 0.4
+! 0.1
+! style="border-left:1px solid black;" | 0.1
+! style="border-right:1px solid black;" | 0.3
+|-
+! style="background:#ffdead;border-bottom:1px solid black;border-left:1px solid black;" | ''X''&nbsp;=&nbsp;0
+! style="border-bottom:1px solid black;border-left:1px solid black;" | 0.3
+! style="border-bottom:1px solid black;" | 0.3
+! style="border-left:1px solid black;border-bottom:1px solid black;" | 0.1
+! style="border-bottom:1px solid black;" | 0.1
+! style="border-left:1px solid black;border-bottom:1px solid black;" | 0.1
+! style="border-bottom:1px solid black;" | 0.4
+! style="border-left:1px solid black;border-bottom:1px solid black;" | 0.2
+! style="border-right:1px solid black;border-bottom:1px solid black;" | 0.4
+|}
+
+==Worked example==
+{{ARR RRR worksheet}}
+
+==See also==
+* [[Diagnostic odds ratio]]
+* [[Forest plot]]
+* [[Hazard ratio]]
+
+==References==
+{{reflist|2}}
+
+== External links ==
+* [http://www.hutchon.net/ConfidOR.htm Odds Ratio Calculator &mdash; website]
+* [http://statpages.org/ctab2x2.html Odds Ratio Calculator with various tests &mdash; website]
+* [http://www.OpenEpi.com OpenEpi, a web-based program that calculates the odds ratio, both unmatched and pair-matched]
+
+{{Medical research studies}}
+{{Statistics}}
+
+{{DEFAULTSORT:Odds Ratio}}
+[[Category:Epidemiology]]
+[[Category:Medical statistics]]
+[[Category:Statistical terminology]]
+[[Category:Bayesian statistics]]

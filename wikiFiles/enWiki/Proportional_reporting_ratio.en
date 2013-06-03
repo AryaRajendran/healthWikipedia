@@ -1,0 +1,20 @@
+{{orphan|date=September 2012}}
+
+The '''proportional reporting ratio (PRR)'''<ref>{{cite journal | last=Evans | first=SJ | coauthors=Waller, PC; Davis,S | year=2001 | volume=10 | title=Use of proportional reporting ratios (PRRs) for signal generation from spontaneous adverse drug reaction reports | pages=483&ndash;486 | journal= Pharmacoepidemiol Drug Saf.| doi= | issue=6 | publisher=Wiley | pmid=11828828}}</ref><ref>{{cite journal | last=Matsushita | first=Y | coauthors=Kuroda, Y; Niwa, S; Sonehara, S; Hamada, C; Yoshimura, I | year=2007 | volume=30 | title=Criteria revision and performance comparison of three methods of signal detection applied to the spontaneous reporting database of a pharmaceutical manufacturer | pages=715&ndash;726 | journal= Drug Saf.| doi= | issue=8 | publisher= | pmid=17696584 }}</ref><ref>{{cite journal | last=Hauben | first=M | year=2004 | volume=38 | title=Early postmarketing drug safety surveillance: data mining points to consider | journal=Ann Pharmacother | doi= | issue=10 | publisher= | pmid= 15304626}}</ref><ref>{{cite journal | last=Banks | first=D | coauthors=Woo, EJ; Burwen, DR; Perucci, P; Braun, MM; Ball, R | year=2005 | volume=14 | title=Comparing data mining methods on the VAERS database | journal=Pharmacoepidemiology and Drug Safety | doi= | issue=9 | publisher= | pmid=15954077 | pages=601&ndash;609}}</ref> is a [[statistic]] that is used to summarize the extent to which a particular [[adverse event]], or "side effect" is observed for individuals taking a specific [[drug]], compared to the frequency at which the same adverse event occurs for patients taking some other drug (or who are taking any drug in a specified class of drugs).  The PRR will typically be calculated using a surveillance database in which reports of adverse events from a variety of drugs are recorded.
+  
+A PRR greater than 1 suggests that the adverse event is more commonly observed for individuals taking the drug of interest, relative to the comparison drugs.  This could indicate that the adverse event is caused by the drug of interest, although a PRR exceeding 1 could also reflect sampling variation in the data, reporting errors, biased reporting, or a number of other causes.
+
+The PRR is defined as the ratio between the frequency with which a specific adverse event occurs for the drug of interest (relative to all adverse events reported for the drug) and the frequency with which the same adverse event occurs for all drugs in the comparison group (relative to all adverse events for drugs in the comparison group).  For example, suppose that [[nausea]] was reported 83 times for a given drug of interest, out of 1356 adverse events reported for the drug.  Thus the proportion of adverse events for this drug that are due to nausea is 83/1356 = 0.061.  Suppose that we wish to compare the drug of interest to a class of drugs, for which nausea was reported as an adverse event 1489 times, out of 53789 total adverse events reported for drugs in the class.  Thus, nausea was reported with proportion 1489 / 53789 = 0.028 for the class of drugs.  The PRR in this case is 0.061 / 0.028 = 2.18.  This tells us that nausea occurs more than twice as frequently (among all side effects) for the drug of interest compared to drugs in the comparison group.
+  
+==See also==
+
+* [[Pharmacovigilance]]
+* [[Odds ratio]]
+
+==References==
+{{reflist|2}}
+
+
+
+[[Category:Statistical terminology]]
+[[Category:Medical statistics]]

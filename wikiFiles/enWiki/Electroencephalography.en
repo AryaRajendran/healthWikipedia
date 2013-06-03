@@ -1,0 +1,389 @@
+{{Redirect|EEG}}
+{{Dablink|Not to be confused with [[Electrocardiography|Electrocardiography (ECG)]], [[Electromyography|Electromyography (EMG)]], [[Magnetoencephalography|Magnetoencephalography (MEG)]] or [[Electronystagmography|Electronystagmography (ENG)]].}}
+{{Interventions infobox
+ | Name        = EEG
+ | Image       = EEG_cap.jpg
+ | Caption     = An EEG recording at Dalhousie University
+ | ICD10       =
+ | ICD9        = {{ICD9proc|89.14}}
+ | MeshID      = D004569
+ | OPS301      = {{OPS301|1-207}}
+ | OtherCodes  =
+}}
+[[File:Spike-waves.png|thumb|[[Epilepsy|Epileptic]] spike and wave discharges monitored with EEG]]
+'''Electroencephalography''' ('''EEG''') is the recording of [[electrical]] activity along the [[scalp]]. EEG measures voltage fluctuations resulting from ionic current flows within the [[neurons]] of the [[brain]].<ref name = "Niedermeyer">{{cite book| author = Niedermeyer E. and da Silva F.L. | title = Electroencephalography: Basic Principles, Clinical Applications, and Related Fields | publisher = Lippincot Williams & Wilkins | year = 2004| isbn = 0-7817-5126-8}}</ref> In clinical contexts, EEG refers to the recording of the brain's spontaneous electrical activity over a short period of time, usually 20–40 minutes, as recorded from multiple [[electrodes]] placed on the [[scalp]]. Diagnostic applications generally focus on the [[frequency spectrum|spectral content]] of EEG, that is, the type of [[neural oscillations]] that can be observed in EEG signals. In [[neurology]], the main [[diagnostic]] application of EEG is in the case of [[epilepsy]], as epileptic activity can create clear abnormalities on a standard EEG study.<ref>Atlas of EEG & Seizure Semiology. B. Abou-Khalil; Musilus, K.E.; Elsevier, 2006.</ref> A secondary clinical use of EEG is in the diagnosis of [[coma]], [[encephalopathies]], and [[brain death]]. A third clinical use of EEG is for studies of sleep and sleep disorders where recordings are typically done for one full night, sometimes more.  EEG used to be a first-line method for the diagnosis of [[tumor]]s, [[stroke]] and other focal brain disorders,<ref>{{cite web|title=EEG|url=http://www.nlm.nih.gov/medlineplus/ency/article/003931.htm}}</ref>  but this use has decreased with the advent of anatomical imaging techniques with high (<1&nbsp;mm) spatial resolution such as [[MRI]] and [[computed tomography|CT]]. Despite limited spatial resolution, EEG continues to be a valuable tool for research and diagnosis, especially when millisecond-range temporal resolution (not possible with CT or MRI) is required.
+
+Derivatives of the EEG technique include [[evoked potential]]s (EP), which involves averaging the EEG activity time-locked to the presentation of a stimulus of some sort (visual, [[somatosensory]], or auditory). [[Event-related potentials]] (ERPs) refer to averaged EEG responses that are time-locked to more complex processing of stimuli; this technique is used in [[cognitive science]], [[cognitive psychology]], and [[psychophysiology|psychophysiological]] research.
+
+== History ==
+A timeline of the history of EEG is given by Swartz.<ref>Article must be purchased. {{cite journal | author = Swartz, B.E | year = 1998 | month =  | title = '''Timeline of the history of EEG and associated fields''' | journal = Electroencephalography and clinical Neurophysiology | volume = 106 | issue =  2| pages = 173–176 | id =  | url = http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6SYX-4FV4S6H-1-1&_cdi=4846&_user=10&_orig=browse&_coverDate=02%2F28%2F1998&_sk=998939997&view=c&wchp=dGLbVzz-zSkWb&md5=47fbbe7e51a806779716fba415b96ab7&ie=/sdarticle.pdf |format=PDF| doi = 10.1016/S0013-4694(97)00113-2 | pmid = 9741779 | last2 = Goldensohn | first2 = ES}}</ref>  [[Richard Caton]] (1842–1926), a physician practicing in [[Liverpool]], presented his findings about electrical phenomena of the exposed cerebral hemispheres of rabbits and monkeys in the British Medical Journal in 1875.  In 1890, Polish physiologist [[Adolf Beck (physiologist)|Adolf Beck]] published an investigation of spontaneous electrical activity of the brain of rabbits and dogs that included rhythmic oscillations altered by light.
+[[File:HansBerger Univ Jena.jpeg|thumb|160px|Hans Berger]]
+In 1912, Russian physiologist, [[Vladimir Pravdich-Neminsky|Vladimir Vladimirovich Pravdich-Neminsky]] published the first animal EEG and the [[evoked potential]] of the [[mammal]]ian (dog).<ref>{{cite journal | last1 = Pravdich-Neminsky | first1 = VV. | year = 1913 | title = Ein Versuch der Registrierung der elektrischen Gehirnerscheinungen | url = | journal = Zbl Physiol | volume = 27 | issue = | pages = 951–960 }}</ref>  In 1914, [[Napoleon Cybulski]] and Jelenska-Macieszyna photographed EEG-recordings of experimentally induced seizures.
+
+German physiologist and psychiatrist [[Hans Berger]] (1873–1941) recorded the first human EEG in 1924.<ref>{{cite journal |last1=Haas |pmc=1738204 |first1=L F |title= Hans Berger (1873-1941), Richard Caton (1842-1926) and electroencephalography | journal=Journal of Neurology, Neurosurgery & Psychiatry |year=2003 |volume= 74 |page=9 |issue= 1 |doi = 10.1136/jnnp.74.1.9 |pmid=12486257}}</ref> Expanding on work previously conducted on animals by Richard Caton and others, Berger also invented the electroencephalogram (giving the device its name), an invention described "as one of the most surprising, remarkable, and momentous developments in the history of clinical neurology".<ref>[http://www.bri.ucla.edu/nha/ishn/ab24-2002.htm  Millet, David (2002). "The Origins of EEG".]'' International Society for the History of the Neurosciences'' (ISHN).</ref> His discoveries were first confirmed by British scientists [[Edgar Douglas Adrian]] and B. H. C. Matthews in 1934 and developed by them.
+
+In 1934, Fisher and Lowenback first demonstrated epileptiform spikes. In 1935 Gibbs, Davis and Lennox described interictal spike waves and the 3 cycles/s pattern of clinical [[absence seizure]]s, which began the field of clinical electroencephalography. Subsequently, in 1936 Gibbs and Jasper reported the interictal spike as the focal signature of epilepsy. The same year, the first EEG laboratory opened at Massachusetts General Hospital.
+
+Franklin Offner (1911–1999), professor of biophysics at [[Northwestern University]] developed a prototype of the EEG that incorporated a piezoelectric inkwriter called a Crystograph (the whole device was typically known as the Offner Dynograph).
+
+In 1947, The American EEG Society was founded and the first International EEG congress was held. In 1953 Aserinsky and Kleitman describe REM sleep.
+
+In the 1950s, [[William Grey Walter]] developed an adjunct to EEG called [[EEG topography]], which allowed for the mapping of electrical activity across the surface of the brain.  This enjoyed a brief period of popularity in the 1980s and seemed especially promising for psychiatry.  It was never accepted by neurologists and remains primarily a research tool.
+
+==Source of EEG activity==
+The brain's electrical charge is maintained by billions of [[neuron]]s.  Neurons are electrically charged (or "polarized") by [[membrane transport proteins]] that pump [[ions]] across their membranes.  Neurons are constantly exchanging ions with the extracellular milieu, for example to maintain resting potential and to propagate action potentials.   Ions of similar charge repel each other, and when many ions are pushed out of many neurons at the same time, they can push their neighbours, who push their neighbours, and so on, in a wave.  This process is known as volume conduction.  When the wave of ions reaches the electrodes on the scalp, they can push or pull electrons on the metal on the electrodes.  Since metal conducts the push and pull of electrons easily, the difference in push or pull voltages between any two electrodes can be measured by a [[voltmeter]].  Recording these voltages over time gives us the EEG.<ref>Tatum, W. O., Husain, A. M., Benbadis, S. R. (2008) "Handbook of EEG Interpretation" Demos Medical Publishing.</ref>
+
+The [[electric potential]] generated by single neuron is far too small to be picked up by EEG or MEG.<ref name="Nunez PL, Srinivasan R 1981">{{cite book| author = Nunez PL, Srinivasan R | title = Electric fields of the brain: The neurophysics of EEG |publisher = Oxford University Press | year = 1981 | url = http://books.google.com/books?id=gu5qAAAAMAAJ}}</ref> EEG activity therefore always reflects the summation of the [[neural synchronization|synchronous activity]] of thousands or millions of neurons that have similar spatial orientation.  If the cells do not have similar spatial orientation, their ions do not line up and create waves to be detected.  [[Pyramidal neurons]] of the cortex are thought to produce the most EEG signal because they are well-aligned and fire together.  Because voltage fields fall off with the square of distance, activity from deep sources is more difficult to detect than currents near the skull.<ref>{{cite book |last1=Klein |first1= S. |last2= Thorne |first2= B. M. |date= 3 October 2006 |title=Biological psychology |location= New York, N.Y. |publisher= Worth |isbn=0-7167-9922-7 }}</ref>
+
+Scalp EEG activity shows [[neural oscillations|oscillations]] at a variety of frequencies. Several of these oscillations have characteristic [[frequency range]]s, spatial distributions and are associated with different states of brain functioning (e.g., waking and the various [[sleep|sleep stages]]). These oscillations represent [[neural synchronization|synchronized activity]] over a network of neurons. The neuronal networks underlying some of these oscillations are understood (e.g., the thalamocortical resonance underlying [[sleep spindles]]), while many others are not (e.g., the system that generates the posterior basic rhythm). Research that measures both EEG and neuron spiking finds the relationship between the two is complex with the power of surface EEG in only two bands ([[Gamma wave|gamma]] and [[delta wave|delta]]) relating to neuron spike activity.<ref>{{cite journal | doi = 10.1016/j.neuron.2009.08.016 | last1 = Whittingstall | first1 = K | last2 = Logothetis | first2 = NK. | year = 2009 | title = Frequency-band coupling in surface EEG reflects spiking activity in monkey visual cortex | url = | journal = Neuron | volume = 64 | issue = 2| pages = 281–9 | pmid = 19874794 }}</ref>
+
+==Clinical use==
+A routine clinical EEG recording typically lasts 20–30 minutes (plus preparation time) and usually involves recording from scalp electrodes. Routine EEG is typically used in the following clinical circumstances:
+* to distinguish [[epilepsy|epileptic]] [[seizure]]s from other types of spells, such as [[psychogenic non-epileptic seizures]], [[fainting|syncope (fainting)]], sub-cortical [[movement disorder]]s and [[migraine]] variants.
+* to differentiate "organic" [[encephalopathy]] or [[delirium]] from primary psychiatric syndromes such as [[catatonia]]
+* to serve as an adjunct test of [[brain death]]
+* to prognosticate, in certain instances, in patients with coma
+* to determine whether to wean anti-epileptic medications
+
+At times, a routine EEG is not sufficient, particularly when it is necessary to record a patient while he/she is having a seizure. In this case, the patient may be admitted to the hospital for days or even weeks, while EEG is constantly being recorded (along with time-synchronized video and audio recording). A recording of an actual seizure (i.e., an [[ictal]] recording, rather than an inter-ictal recording of a possibly epileptic patient at some period between seizures) can give significantly better information about whether or not a spell is an epileptic seizure and the focus in the brain from which the seizure activity emanates.
+
+Epilepsy monitoring is typically done:
+* to distinguish [[epilepsy|epileptic]] [[seizure]]s from other types of spells, such as [[psychogenic non-epileptic seizures]], [[syncope (medicine)|syncope (fainting)]], sub-cortical [[movement disorder]]s and [[migraine]] variants.
+* to [[seizure types|characterize seizures]] for the purposes of treatment
+* to localize the region of brain from which a seizure originates for work-up of possible seizure surgery
+
+Additionally, EEG may be used to monitor certain procedures:
+* to monitor the depth of [[anesthesia]]
+* as an indirect indicator of cerebral perfusion in [[carotid endarterectomy]]
+* to monitor amobarbital effect during the [[Wada test]]
+
+EEG can also be used in [[intensive care unit]]s for brain function monitoring:
+* to monitor for non-convulsive seizures/non-convulsive status epilepticus
+* to monitor the effect of sedative/anesthesia in patients in medically induced coma (for treatment of refractory seizures or increased [[intracranial pressure]])
+* to monitor for secondary brain damage in conditions such as [[subarachnoid hemorrhage]] (currently a research method)
+
+If a patient with epilepsy is being considered for [[epilepsy surgery|resective surgery]], it is often necessary to localize the focus (source) of the epileptic brain activity with a resolution greater than what is provided by scalp EEG. This is because the [[cerebrospinal fluid]], skull and scalp ''smear'' the electrical potentials recorded by scalp EEG. In these cases, neurosurgeons typically implant strips and grids of electrodes (or penetrating depth electrodes) under the [[dura mater]], through either a [[craniotomy]] or a [[burr hole]]. The recording of these signals is referred to as [[electrocorticography]] (ECoG), subdural EEG (sdEEG) or intracranial EEG (icEEG)--all terms for the same thing. The signal recorded from ECoG is on a different scale of activity than the brain activity recorded from scalp EEG. Low voltage, high frequency components that cannot be seen easily (or at all) in scalp EEG can be seen clearly in ECoG. Further, smaller electrodes (which cover a smaller parcel of brain surface) allow even lower voltage, faster components of brain activity to be seen. Some clinical sites record from penetrating microelectrodes.<ref name="Niedermeyer"/>
+
+==Research use==
+EEG, and the related study of [[event-related potential|ERPs]] are used extensively in [[neuroscience]], [[cognitive science]], [[cognitive psychology]], [[neurolinguistics]] and [[psychophysiology|psychophysiological]] research. Many EEG techniques used in research are not standardized sufficiently for clinical use.
+
+===Relative advantages===
+[[File:1st-eeg.png|right|thumb|400px|The first human EEG recording obtained by [[Hans Berger]] in 1924. The upper tracing is EEG, and the lower is a 10 [[hertz|Hz]] timing signal.]]
+Several other methods to study brain function exist, including [[functional magnetic resonance imaging|functional magnetic resonance imaging (fMRI)]], [[positron emission tomography]], [[magnetoencephalography]], [[Nuclear magnetic resonance spectroscopy]], [[Electrocorticography]], [[Single-photon emission computed tomography]], [[Near-infrared spectroscopy]] (NIRS), and [[Event-related optical signal]] (EROS). Despite the relatively poor spatial sensitivity of EEG, it possesses multiple advantages over some of these techniques:
+* Hardware costs are significantly lower than those of most other techniques <ref>Vespa, P., Nenov, V., & Nuwer, M. (1999).    Continuous EEG monitoring in the intensive care unit: early findings and clinical efficacy. J Clin Neurophysiol, 16: 1–13.</ref>
+* EEG sensors can be used in more places than fMRI, SPECT, PET, MRS, or MEG, as these techniques require bulky and immobile equipment. For example, MEG requires equipment consisting of [[liquid helium]]-cooled detectors that can be used only in magnetically shielded rooms, altogether costing upwards of several million dollars;<ref name="MEGMainRef">Hamalainen, M., Riitta, H., Ilmoniemi, R., Knuutila, J., & Lounasmaa, O. (1993). Magnetoencephalography—theory, instrumentation, and applications to noninvasive studies of the working human brain. Reviews of Modern Physics, 65(2), 414-497.</ref> and fMRI requires the use of a 1-ton magnet in, again, a shielded room.
+* EEG has very high temporal resolution, on the order of milliseconds rather than seconds. EEG is commonly recorded at sampling rates between 250 and 2000&nbsp;Hz in clinical and research settings, but modern EEG data collection systems are capable of recording at sampling rates above 20,000&nbsp;Hz if desired. MEG and EROS are the only other noninvasive cognitive neuroscience techniques that acquire data at this level of temporal resolution.<ref name="MEGMainRef" />
+* EEG is relatively tolerant of subject movement, unlike most other neuroimaging techniques. There even exist methods for minimizing, and even eliminating movement artefacts in EEG data <ref>O'Regan, S., Faul, S., & Marnane, W. (2010). "Automatic detection of EEG artefacts arising from head movements." Engineering in Medicine and Biology Society (EMBC), 2010 Annual International Conference of the IEEE, Buenos Aires, Argentina, August 31 - September 4, 2010, 6353-6356.</ref>
+* EEG is silent, which allows for better study of the responses to auditory stimuli
+* EEG does not aggravate [[claustrophobia]], unlike fMRI, PET, MRS, SPECT, and sometimes MEG <ref>Murphy, K., & Brunberg, J. (1997). "Adult claustrophobia, anxiety and sedation in MRI." Magnetic Resonance Imaging, 15(1), 51-54.</ref>
+* EEG does not involve exposure to high-intensity (>1 Tesla) magnetic fields, as in some of the other techniques, especially MRI and MRS. These can cause a variety of undesirable issues with the data, and also prohibit use of these techniques with participants that have metal implants in their body, such as metal-containing pacemakers <ref>Schenck, J. (1996). "The role of magnetic susceptibility in magnetic resonance imaging: MRI magnetic compatibility of the first and second kinds." Med. Phys., 23(6), 815-850</ref>
+* EEG does not involve exposure to radioligands, unlike [[positron emission tomography]].<ref name="radioligandPETExample">{{cite journal | author = Yasuno  ''et al.'' | year = 2008 | title = The PET Radioligand [11C]MePPEP Binds Reversibly and with High Specific Signal to Cannabinoid CB1 Receptors in Nonhuman Primate Brain | url = | journal = Neuropsychopharmacology | volume = 33 | issue = | pages = 259–269 }}</ref>
+* ERP studies can be conducted with relatively simple paradigms, compared with IE block-design fMRI studies
+* Extremely uninvasive, unlike [[Electrocorticography]], which actually requires electrodes to be placed on the surface of the brain.
+
+EEG also has some characteristics that compare favorably with behavioral testing:
+* EEG can detect covert processing (i.e., processing that does not require a response) <ref>Mulholland, T. (1973). "Objective EEG methods for studying covert shifts of visual attention." In F. J. McGuigan and J. Schoonover (Eds.), The Psychophysiology of thinking. Academic Press: New York, 109-151.</ref>
+* EEG can be used in subjects who are incapable of making a motor response <ref>Hinterberger, T., Kübler, A., Kaiser, J., Neumann, N., & Birbaumer, N. (2003). A brain-computer interface (BCI) for the locked-in: comparison of different EEG classifications for the thought translation device. Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology, 114(3), 416-25.</ref>
+* Some ERP components can be detected even when the subject is not attending to the stimuli
+* Unlike other means of studying reaction time, ERPs can elucidate stages of processing (rather than just the final end result) <ref>Sereno, S. C., Rayner, K., & Posner, M. I. (1998). Establishing a time-line of word recognition: evidence from eye movements and event-related potentials. Neuroreport, 9(10), 2195-200. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/9694199</ref>
+* EEG is a powerful tool for tracking brain changes during different phases of life. EEG sleep analysis can indicate significant aspects of the timing of brain development, including evaluating adolescent brain maturation.<ref>http://www.sciencedaily.com/releases/2013/03/130319102757.htm</ref>
+
+===Relative disadvantages===
+* Low spatial resolution on the scalp. fMRI, for example, can directly display areas of the brain that are active, while EEG requires intense interpretation just to hypothesize what areas are activated by a particular response.<ref>Srinivasan, R. (1999). Methods to Improve the Spatial Resolution of EEG. International Journal, 1(1), 102-111.</ref>
+* EEG determines neural activity that occurs below the upper layers of the brain (the cortex) poorly.
+* Unlike PET and MRS, cannot identify specific locations in the brain at which various neurotransmitters, drugs, etc. can be found.<ref name="radioligandPETExample" />
+* Often takes a long time to connect a subject to EEG, as it requires precise placement of dozens of electrodes around the head and the use of various gels, saline solutions, and/or pastes to keep them in place. While the length of time differs dependent on the specific EEG device used, as a general rule it takes considerably less time to prepare a subject for MEG, fMRI, MRS, and SPECT.
+* Signal-to-noise ratio is poor, so sophisticated data analysis and relatively large numbers of subjects are needed to extract useful information from EEG <ref>Schlögl, A., Slater, M., & Pfurtscheller, G. (2002). Presence research and EEG Properties of EEG recordings. Proceedings of the 5th Annual International Workshop PRESENCE. Porto, Portugal, October 9–11.</ref>
+
+===Combining EEG with other neuroimaging techniques===
+Simultaneous EEG recordings and fMRI scans have been obtained successfully,<ref>Horovitz, S. G., Skudlarski, P., & Gore, J. C. (2002). Correlations and dissociations between BOLD signal and P300 amplitude in an auditory oddball task: a parametric approach to combining fMRI and ERP. Magnetic Resonance Imaging, 20, 319 -325.</ref><ref>{{cite journal | author = Laufs H., Kleinschmidt A., Beyerle A., Eger E., Salek-haddadi A., Preibisch C., Krakow K. | year = 2003 | title = EEG-correlated fMRI of human alpha activity | url = | journal = NeuroImage | volume = 19 | issue = 4| pages = 1463–1476 | doi = 10.1016/S1053-8119(03)00286-6 | pmid = 12948703 }}</ref> though successful simultaneous recording requires that several technical difficulties be overcome, such as the presence of ballistocardiographic artifact, MRI pulse artifact and the induction of electrical currents in EEG wires that move within the strong magnetic fields of the MRI. While challenging, these have been successfully overcome in a number of studies.<ref>DiFrancesco, M., Holland, S., & Szaflarski, J. (2008). Simultaneous EEG/Functional Magnetic Resonance Imaging at 4 Tesla: Correlates of Brain Activity to Spontaneous Alpha Rhythm During Relaxation. J Clin Neurophysiol., 25(5), 255-264.</ref> 
+
+Similarly, simultaneous recordings with MEG and EEG have also been conducted, which has several advantages over using either technique alone:
+* EEG requires accurate information about certain aspects of the skull that can only be estimated, such as skull radius, and conductivities of various skull locations. MEG does not have this issue, and a simultaneous analysis allows this to be corrected for.
+* MEG and EEG both detect activity below the surface of the cortex very poorly, and like EEG, the level of error increases with the depth below the surface of the cortex one attempts to examine. However, the errors are very different between the techniques, and combining them thus allows for correction of some of this noise.
+* MEG has access to virtually no sources of brain activity below a few centimetres under the cortex. EEG, on the other hand, can receive signals from greater depth, albeit with a high degree of noise. Combining the two makes it easier to determine what in the EEG signal comes from the surface (since MEG is very accurate in examining signals from the surface of the brain), and what comes from deeper in the brain, thus allowing for analysis of deeper brain signals than either EEG or MEG on its own.<ref>Huizenga, H. M., van Zuijen, T. L., Heslenfeld, D. J., & Molenaar, P. C. (2001). Simultaneous MEG and EEG source analysis. Physics in medicine and biology, 46(7), 1737-51. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/11474922</ref>
+
+EEG has also been combined with [[positron emission tomography]]. This provides the advantage of allowing researchers to see what EEG signals are associated with different drug actions in the brain.<ref>{{cite journal | author = Schreckenberger M., Lange-Asschenfeldt C., Lange-Asschenfeld C., Lochmann M., Mann K., Siessmeier T., Buchholz H.-G. ''et al.'' | year = 2004 | title = The thalamus as the generator and modulator of EEG alpha rhythm: a combined PET/EEG study with lorazepam challenge in humans | url = | journal = NeuroImage | volume = 22 | issue = 2| pages = 637–44 | doi = 10.1016/j.neuroimage.2004.01.047 | pmid = 15193592 }}</ref>
+
+==Method==
+[[File:Electroencephalograph Neurovisor-BMM 40 (close view).jpg|thumb|Computer Electroencephalograph ''Neurovisor-BMM 40'']]
+In conventional scalp EEG, the recording is obtained by placing [[electrode]]s on the scalp with a conductive gel or paste, usually after preparing the scalp area by light [[abrasion (medical)|abrasion]] to reduce [[Electrical impedance|impedance]] due to dead skin cells. Many systems typically use electrodes, each of which is attached to an individual wire. Some systems use caps or nets into which electrodes are embedded; this is particularly common when high-density arrays of electrodes are needed.
+
+Electrode locations and names are specified by the [[10-20 system (EEG)|International 10–20 system]]<ref>{{cite journal| author = Towle VL, Bolaños J, Suarez D, Tan K, Grzeszczuk R, Levin DN, Cakmur R, Frank SA, Spire JP. | title = The spatial location of EEG electrodes: locating the best-fitting sphere relative to cortical anatomy | journal = Electroencephalogr Clin Neurophysiol | volume = 86 | pages = 1–6 | year = 1993| doi = 10.1016/0013-4694(93)90061-Y| pmid = 7678386| issue = 1}}</ref> for most clinical and research applications (except when high-density arrays are used). This system ensures that the naming of electrodes is consistent across laboratories. In most clinical applications, 19 recording electrodes (plus ground and system reference) are used.<ref>{{cite journal|pmid=8195424|year=1994|title=Guideline seven: a proposal for standard montages to be used in clinical EEG. American Electroencephalographic Society.|volume=11|issue=1|pages=30–6|journal=Journal of Clinical Neurophysiology|doi=10.1097/00004691-199401000-00008|last1=&Na;}}</ref> A smaller number of electrodes are typically used when recording EEG from [[infant|neonates]]. Additional electrodes can be added to the standard set-up when a clinical or research application demands increased spatial resolution for a particular area of the brain. High-density arrays (typically via cap or net) can contain up to 256 electrodes more-or-less evenly spaced around the scalp.
+
+Each electrode is connected to one input of a [[differential amplifier]] (one amplifier per pair of electrodes); a common system reference electrode is connected to the other input of each differential amplifier. These amplifiers amplify the voltage between the active electrode and the reference (typically 1,000–100,000 times, or 60–100 [[decibel|dB]] of voltage gain). In analog EEG, the signal is then filtered (next paragraph), and the EEG signal is output as the deflection of pens as paper passes underneath. Most EEG systems these days, however, are digital, and the amplified signal is digitized via an [[analog-to-digital converter]], after being passed through an [[anti-aliasing filter]].  Analog-to-digital sampling typically occurs at 256–512&nbsp;Hz in clinical scalp EEG; sampling rates of up to 20&nbsp;kHz are used in some research applications.
+
+During the recording, a series of activation procedures may be used. These procedures may induce normal or abnormal EEG activity that might not otherwise be seen. These procedures include hyperventilation, photic stimulation (with a strobe light), eye closure, mental activity, sleep and sleep deprivation. During (inpatient) epilepsy monitoring, a patient's typical seizure medications may be withdrawn.
+
+The digital EEG signal is stored electronically and can be filtered for display.  Typical settings for the [[high-pass filter]] and a [[low-pass filter]] are 0.5-1 [[hertz|Hz]] and 35–70&nbsp;Hz, respectively. The high-pass filter typically filters out slow artifact, such as [[Galvanic skin response|electrogalvanic]] signals and movement artifact, whereas the low-pass filter filters out high-frequency artifacts, such as [[electromyography|electromyographic]] signals. An additional [[band-stop filter|notch filter]] is typically used to remove artifact caused by electrical power lines (60&nbsp;Hz in the United States and 50&nbsp;Hz in many other countries).<ref name = "Niedermeyer"/>
+As part of an evaluation for epilepsy surgery, it may be necessary to insert electrodes near the surface of the brain, under the surface of the [[dura mater]]. This is accomplished via burr hole or [[craniotomy]]. This is referred to variously as [[electrocorticography|"electrocorticography (ECoG)"]], "intracranial EEG (I-EEG)" or "subdural EEG (SD-EEG)". Depth electrodes may also be placed into brain structures, such as the [[amygdala]] or [[hippocampus]], structures, which are common epileptic foci and may not be "seen" clearly by scalp EEG. The electrocorticographic signal is processed in the same manner as digital scalp EEG (above), with a couple of caveats. ECoG is typically recorded at higher sampling rates than scalp EEG because of the requirements of [[Nyquist–Shannon sampling theorem|Nyquist theorem]]—the subdural signal is composed of a higher predominance of higher frequency components. Also, many of the artifacts that affect scalp EEG do not impact ECoG, and therefore display filtering is often not needed.
+
+A typical adult human EEG signal is about 10 µV to 100 µV in amplitude when measured from the scalp<ref name="aurlien_2004">{{cite journal | author = H. Aurlien, I.O. Gjerde, J. H. Aarseth, B. Karlsen, H. Skeidsvoll, N. E. Gilhus | year = 2004 | month = March | title = '''EEG background activity described by a large computerized database.''' | journal = Clinical Neurophysiology | volume =115   | issue =3 | pages = 665–673 | id =  | url =  | doi = 10.1016/j.clinph.2003.10.019 | pmid = 15036063}}</ref> and is about 10–20 mV when measured from subdural electrodes.
+
+The EEG recording can be analysed using various programs; e.g., using free open-source toolboxes for Matlab, such as, [[EEGLAB]], [http://fieldtrip.fcdonders.nl/ Fieldtrip], [http://www.nbtwiki.net/ NBT], [http://www.fil.ion.ucl.ac.uk/spm/ SPM], or commercial software packages such as [http://brainproducts.com/productdetails.php?id=17 Brainvision Analyzer].
+
+Since an EEG voltage signal represents a difference between the voltages at two electrodes, the display of the EEG for the reading encephalographer may be set up in one of several ways. The representation of the EEG channels is referred to as a ''montage.''
+
+; Bipolar montage : Each channel (i.e., waveform) represents the difference between two adjacent electrodes. The entire montage consists of a series of these channels. For example, the channel "Fp1-F3" represents the difference in voltage between the Fp1 electrode and the F3 electrode. The next channel in the montage, "F3-C3," represents the voltage difference between F3 and C3, and so on through the entire array of electrodes.
+
+; Referential montage: Each channel represents the difference between a certain electrode and a designated reference electrode. There is no standard position for this reference; it is, however, at a different position than the "recording" electrodes.  Midline positions are often used because they do not amplify the signal in one hemisphere vs. the other. Another popular reference is "linked ears," which is a physical or mathematical average of electrodes attached to both earlobes or [[mastoid process|mastoids]].
+
+; Average reference montage : The outputs of all of the amplifiers are summed and averaged, and this averaged signal is used as the common reference for each channel.
+
+; Laplacian montage : Each channel represents the difference between an electrode and a weighted average of the surrounding electrodes.<ref>{{cite journal| author = Nunez P.L. and Pilgreen K.L. | title = The spline-Laplacian in clinical neurophysiology: a method to improve EEG spatial resolution | journal = J Clin Neurophysiol | volume = 8 | pages = 397–413 | year = 1991| pmid = 1761706| issue = 4| doi = 10.1097/00004691-199110000-00005}}</ref>
+
+When analog (paper) EEGs are used, the technologist switches between montages during the recording in order to highlight or better characterize certain features of the EEG. With digital EEG, all signals are typically digitized and stored in a particular (usually referential) montage; since any montage can be constructed mathematically from any other, the EEG can be viewed by the electroencephalographer in any display montage that is desired.
+
+The EEG is read by a [[Clinical neurophysiology|clinical neurophysiologist]] or [[neurologist]] (depending on local custom and law regarding [[Specialty (medicine)|medical specialities]]), optimally one who has specific training in the interpretation of EEGs for clinical purposes. This is done by visual inspection of the waveforms, called graphoelements. The use of computer signal processing of the EEG—so-called quantitative EEG—is somewhat controversial when used for clinical purposes (although there are many research uses).
+
+===Limitations===
+EEG has several limitations. Most important is its poor spatial resolution. EEG is most sensitive to a particular set of post-synaptic potentials: those generated in superficial layers of the cortex, on the crests of [[gyrus|gyri]] directly abutting the skull and radial to the skull. Dendrites, which are deeper in the cortex, inside [[sulcus (neuroanatomy)|sulci]], in midline or deep structures (such as the [[cingulate gyrus]] or [[hippocampus]]), or producing currents that are tangential to the skull, have far less contribution to the EEG signal.
+
+The [[meninges]], [[cerebrospinal fluid]] and skull "smear" the EEG signal, obscuring its intracranial source.
+
+It is mathematically impossible to reconstruct a unique intracranial current source for a given EEG signal,<ref name = "Niedermeyer"/> as some currents produce potentials that cancel each other out. This is referred to as the [[inverse problem]].  However, much work has been done to produce remarkably good estimates of, at least, a localized [[electric dipole]] that represents the recorded currents.{{Citation needed|date=April 2010}}
+
+===EEG vs fMRI, fNIRS and PET===
+EEG has several strong points as a tool for exploring brain activity. EEG's can detect changes over milliseconds, which is excellent considering an [[action potential]] takes approximately 0.5-130 milliseconds to propagate across a single neuron, depending on the type of neuron.<ref>{{cite book | first1=J. |last1=Anderson |title= Cognitive Psychology and Its Implications |edition= 6th |publisher= Worth |location=New York, NY |page= 17 |isbn=0-7167-0110-3 | date=22 October 2004 |format=Hardcover}}</ref> Other methods of looking at brain activity, such as [[Pet scan|PET]] and [[fMRI]] have time resolution between seconds and minutes. EEG measures the brain's electrical activity directly, while other methods record changes in blood flow (e.g., [[Single photon emission computed tomography|SPECT]], [[functional magnetic resonance imaging|fMRI]]) or metabolic activity (e.g., [[Positron emission tomography|PET]], [[functional near-infrared spectroscopy|NIRS]]), which are indirect markers of brain electrical activity. EEG can be used simultaneously with [[functional magnetic resonance imaging|fMRI]] so that high-temporal-resolution data can be recorded at the same time as high-spatial-resolution data, however, since the data derived from each occurs over a different time course, the data sets do not necessarily represent exactly the same brain activity. There are technical difficulties associated with combining these two modalities, including the need to remove the ''MRI gradient artifact'' present during MRI acquisition and the ballistocardiographic artifact (resulting from the pulsatile motion of blood and tissue) from the EEG. Furthermore, currents can be induced in moving EEG electrode wires due to the magnetic field of the MRI.
+EEG can be used simultaneously with [[functional near-infrared spectroscopy|NIRS]] without major technical difficulties. There is no influence of these modalities on each other and a combined measurement can give useful information about electrical activity as well as local hemodynamics.
+
+===EEG vs MEG===
+
+EEG reflects correlated synaptic activity caused by [[post-synaptic potentials]] of cortical [[neurons]]. The ionic currents involved in the generation of fast [[action potentials]] may not contribute greatly to the averaged [[local field potential|field potentials]] representing the EEG .<ref name="Nunez PL, Srinivasan R 1981"/><ref>{{cite journal| author = Creutzfeldt OD, Watanabe S, Lux HD | title = Relations between EEG phenomena and potentials of single cortical cells. I. Evoked responses after thalamic and epicortical stimulation | journal = Electroencephalogr Clin Neurophysiol | volume = 20 | pages = 1–18 | year = 1966| doi = 10.1016/0013-4694(66)90136-2| pmid = 4161317| issue = 1}}</ref> More specifically, the scalp electrical potentials that produce EEG are generally thought to be caused by the extracellular ionic currents caused by [[dendrite|dendritic]] electrical activity, whereas the fields producing [[magnetoencephalography|magnetoencephalographic]] signals<ref>{{cite journal | author = Hamalainen M, Hari R, Ilmoniemi RJ, Knuutila J, Lounasmaa OV | title = Magnetoencphalography - Theory, instrumentation, and applications to noninvasive studies of the working human brain | journal = Reviews of Modern Physics | volume = 65 | pages = 413–497 | year = 1993 | doi = 10.1103/RevModPhys.65.413 | bibcode=1993RvMP...65..413H | issue = 2}}</ref> are associated with intracellular ionic currents .<ref>{{cite book| author = Buzsaki G | title = Rhythms of the brain |publisher = Oxford University Press | year = 2006| isbn = 0-19-530106-4}}</ref> 
+
+EEG can be recorded at the same time as [[Magnetoencephalography|MEG]] so that data from these complementary high-time-resolution techniques can be combined.
+
+==Normal activity==
+[[File:eeg raw.svg|thumb|One second of EEG signal|400px|right]]
+The EEG is typically described in terms of (1) [[neural oscillation|rhythmic activity]] and (2) transients. The rhythmic activity is divided into bands by frequency. To some degree, these frequency bands are a matter of nomenclature (i.e., any rhythmic activity between 6–12&nbsp;Hz can be described as "alpha"), but these designations arose because rhythmic activity within a certain frequency range was noted to have a certain distribution over the scalp or a certain biological significance. Frequency bands are usually extracted using spectral methods (for instance Welch) as implemented for instance in freely available EEG software such as [[EEGLAB]] or the [http://www.nbtwiki.net/ the neurophysiological biomarker toolbox].
+
+Most of the cerebral signal observed in the scalp EEG falls in the range of 1–20&nbsp;Hz (activity below or above this range is likely to be artifactual, under standard clinical recording techniques).
+
+===Comparison table of EEG rhythmic activity frequency bands===
+{{jargon|date=January 2013}}
+
+{|class="wikitable"
+|+ Comparison of EEG bands
+|-
+! Band !! Frequency (Hz) !! Location !! Normally !! Pathologically
+|-
+! [[Delta wave|Delta]]
+| up to 4 || frontally in adults, posteriorly in children; high-amplitude waves||
+* adult [[NREM|slow-wave sleep]]
+* in babies
+* Has been found during some continuous-attention tasks<ref name=Kirmizi-Alsan2006>{{cite doi|10.1016/j.brainres.2006.03.010 }}</ref>
+||
+* subcortical lesions
+* diffuse lesions
+* metabolic encephalopathy hydrocephalus
+* deep midline lesions
+|-
+! [[Theta wave|Theta]]
+|4 – 8 || Found in locations not related to task at hand ||
+* young children
+* drowsiness or arousal in older children and adults
+* idling
+* Associated with inhibition of elicited responses (has been found to spike in situations where a person is actively trying to repress a response or action).<ref name=Kirmizi-Alsan2006/>
+||
+* focal subcortical lesions
+* metabolic encephalopathy
+* deep midline disorders
+* some instances of hydrocephalus
+|-
+![[alpha waves|Alpha]]
+| 8 – 13 || posterior regions of head, both sides, higher in amplitude on non-dominant side. Central sites (c3-c4) at rest ||
+* relaxed/reflecting
+* closing the eyes
+* Also associated with inhibition control, seemingly with the purpose of timing inhibitory activity in different locations across the brain.
+||
+* coma
+|-
+! [[Beta wave|Beta]]
+| >13 – 30 || both sides, symmetrical distribution, most evident frontally; low-amplitude waves ||
+* alert/wo
+* active, busy, or anxious thinking, active concentration
+||
+* [[benzodiazepines]]
+|-
+! [[Gamma wave|Gamma]]
+| 30 – 100+ || Somatosensory cortex ||
+* Displays during cross-modal sensory processing (perception that combines two different senses, such as sound and sight)<ref name=KisleyCornwell2006>{{cite doi|10.1016/j.clinph.2006.08.003}}</ref><ref name=KanayamaSatoOhira2007>{{cite doi|10.1111/j.1469-8986.2007.00511.x}}</ref>
+* Also is shown during short-term memory matching of recognized objects, sounds, or tactile sensations
+||
+* A decrease in gamma-band activity may be associated with cognitive decline, especially when related to the theta band; however, this has not been proven for use as a clinical diagnostic measurement 
+|-
+! [[Mu wave|Mu]]
+|8 – 13 || Sensorimotor cortex ||
+* Shows rest-state motor neurons.<ref>{{cite journal | last1 = Gastaut | first1 = H. | year = 1952 | title = Etude electrocorticographique de al reactivite des rhytmes rolandiques | url = | journal = Rev. Neurol | volume = 87 | issue = 2| pages = 176–182 | pmid = 13014777 }}</ref>
+||
+* Mu suppression could indicate that motor [[mirror neurons]] are working. Deficits in Mu suppression, and thus in mirror neurons, might play a role in [[autism]].<ref name="Oberman LM 2005">{{cite journal | doi = 10.1016/j.cogbrainres.2005.01.014 | last1 = Oberman | first1 = LM | last2 = Hubbard | first2 = EM | last3 = McCleery | first3 = JP | last4 = Altschuler | first4 = EL | last5 = Ramachandran | first5 = VS | last6 = Pineda | first6 = JA | year = 2005 | title = EEG Evidence for mirror neuron dysfunction in autism spectrum disorders | url = | journal = Cognitive Brain Research | volume = 24 | issue = 2| pages = 190–198 | pmid = 15993757 }}</ref>
+|}
+
+While these are the universally recognized frequency ranges that researchers tend to follow, many scholars use their own specific range boundaries depending on the frequencies they choose to focus on. Additionally, some researchers define the bands using decimal values rather than rounding to whole numbers (for example, one researcher may define the lower Beta band cut-off as 12.1, while another may use the value 13), while still others sometimes divide the bands into subbands for the purposes of data analysis.
+
+===Wave patterns===
+[[File:eeg delta.svg|thumb|[[delta wave]]s.|400px|right]]
+* [[Delta wave|Delta]] is the frequency range up to 4&nbsp;Hz. It tends to be the highest in amplitude and the slowest waves. It is seen normally in adults in [[NREM|slow wave sleep]]. It is also seen normally in babies. It may occur focally with subcortical lesions and in general distribution with diffuse lesions, metabolic encephalopathy hydrocephalus or deep midline lesions. It is usually most prominent frontally in adults (e.g. FIRDA - Frontal Intermittent Rhythmic Delta) and posteriorly in children (e.g. OIRDA - Occipital Intermittent Rhythmic Delta).
+
+[[File:eeg theta.svg|thumb|[[theta waves]].|400px|right]]
+* [[Theta wave|Theta]] is the frequency range from 4&nbsp;Hz to 7&nbsp;Hz. Theta is seen normally in young children. It may be seen in drowsiness or arousal in older children and adults; it can also be seen in [[meditation]].<ref>{{cite journal | doi = 10.1037/0033-2909.132.2.180 | last1 = Cahn | first1 = B.R. | last2 = Polich | first2 = J. | year = 2006 | title = Meditation states and traits: EEG, ERP, and neuroimaging studies | url = | journal = Psychological Bulletin | volume = 132 | issue = 2| pages = 180–211 | pmid = 16536641 }}</ref> Excess theta for age represents abnormal activity. It can be seen as a focal disturbance in focal subcortical lesions; it can be seen in generalized distribution in diffuse disorder or metabolic encephalopathy or deep midline disorders or some instances of hydrocephalus. On the contrary this range has been associated with reports of relaxed, meditative, and creative states.
+
+[[File:eeg alpha.svg|thumb|[[alpha wave]]s.|400px|right]]
+* [[alpha waves|Alpha]] is the frequency range from 8 [[Hertz|Hz]] to 12&nbsp;Hz. [[Hans Berger]] named the first rhythmic EEG activity he saw as the "alpha wave". This was the "posterior basic rhythm" (also called the "posterior dominant rhythm" or the "posterior alpha rhythm"), seen in the posterior regions of the head on both sides, higher in amplitude on the dominant side. It emerges with closing of the eyes and with relaxation, and attenuates with eye opening or mental exertion. The posterior basic rhythm is actually slower than 8&nbsp;Hz in young children (therefore technically in the theta range). [[File:eeg SMR.svg|thumb|[[sensorimotor rhythm]] aka [[mu rhythm]].|400px|right]]In addition to the posterior basic rhythm, there are other normal alpha rhythms such as the [[mu rhythm]] (alpha activity in the contralateral [[sensory cortex|sensory]] and [[motor cortex|motor]] cortical areas that emerges when the hands and arms are idle; and the "third rhythm" (alpha activity in the temporal or frontal lobes).<ref>{{cite journal | doi = 10.1016/S0167-8760(97)00754-X | last1 = Niedermeyer | first1 = E | year = 1997 | title = Alpha rhythms as physiological and abnormal phenomena | url = | journal = Int J Psychophysiol | volume = 26 | issue = 1–3| pages = 31–49 | pmid = 9202993 }}</ref><ref>{{cite journal | doi = 10.1097/00004691-200107000-00005 | last1 = Feshchenko | first1 = VA | last2 = Reinsel | first2 = RA | last3 = Veselis | first3 = RA | year = 2001 | title = Multiplicity of the alpha rhythm in normal humans | url = | journal = J Clin Neurophysiol | volume = 18 | issue = 4| pages = 331–44 | pmid = 11673699 }}</ref> Alpha can be abnormal; for example, an EEG that has diffuse alpha occurring in coma and is not responsive to external stimuli is referred to as "alpha coma".
+
+[[File:eeg beta.svg|thumb|[[beta wave]]s.|400px|right]]
+* [[Beta wave|Beta]] is the frequency range from 12&nbsp;Hz to about 30&nbsp;Hz. It is seen usually on both sides in symmetrical distribution and is most evident frontally. Beta activity is closely linked to motor behavior and is generally attenuated during active movements.<ref>{{cite journal| author = Pfurtscheller G, Lopes da Silva FH | title = Event-related EEG/MEG synchronization and desynchronization: basic principles | journal = Clin Neurophysiol | volume = 110 | pages = 1842–1857 | year = 1999| doi = 10.1016/S1388-2457(99)00141-8| pmid = 10576479| issue = 11}}</ref> Low amplitude beta with multiple and varying frequencies is often associated with active, busy or anxious thinking and active concentration. Rhythmic beta with a dominant set of frequencies is associated with various pathologies and drug effects, especially [[benzodiazepines]]. It may be absent or reduced in areas of cortical damage. It is the dominant rhythm in patients who are alert or anxious or who have their eyes open.
+
+[[File:eeg gamma.svg|thumb|[[gamma wave]]s.|400px|right]]
+* [[Gamma wave|Gamma]] is the frequency range approximately 30–100&nbsp;Hz. Gamma rhythms are thought to represent binding of different populations of neurons together into a network for the purpose of carrying out a certain cognitive or motor function.<ref name="Niedermeyer"/>
+
+* [[Mu wave|Mu]] ranges 8–13&nbsp;Hz., and partly overlaps with other frequencies. It reflects the synchronous firing of motor neurons in rest state. Mu suppression is thought to reflect motor mirror neuron systems, because when an action is observed, the pattern extinguishes, possibly because of the normal neuronal system and the mirror neuron system "go out of sync", and interfere with each other.<ref name="Oberman LM 2005"/>
+
+"Ultra-slow" or "near-DC" ([[Direct current]]) activity is recorded using DC amplifiers in some research contexts. It is not typically recorded in a clinical context because the signal at these frequencies is susceptible to a number of artifacts.
+
+Some features of the EEG are transient rather than rhythmic. Spikes and sharp waves may represent seizure activity or [[interictal]] activity in individuals with epilepsy or a predisposition toward epilepsy. Other transient features are normal: vertex waves and sleep spindles are seen in normal sleep.
+
+Note that there are types of activity that are statistically uncommon, but not associated with dysfunction or disease. These are often referred to as "normal variants." The mu rhythm is an example of a normal variant.
+
+The normal Electroencephalography (EEG) varies by age. The neonatal EEG is quite different from the adult EEG. The EEG in childhood generally has slower frequency oscillations than the adult EEG.
+
+The normal EEG also varies depending on state. The EEG is used along with other measurements ([[electrooculography|EOG]], [[electromyography|EMG]]) to define [[sleep|sleep stages]] in [[polysomnography]]. Stage I sleep (equivalent to drowsiness in some systems) appears on the EEG as drop-out of the posterior basic rhythm. There can be an increase in theta frequencies. Santamaria and Chiappa cataloged a number of the variety of patterns associated with drowsiness. Stage II sleep is characterized by sleep spindles—transient runs of rhythmic activity in the 12–14&nbsp;Hz range (sometimes referred to as the "sigma" band) that have a frontal-central maximum. Most of the activity in Stage II is in the 3–6&nbsp;Hz range. Stage III and IV sleep are defined by the presence of delta frequencies and are often referred to collectively as "slow-wave sleep." Stages I-IV comprise non-REM (or "NREM") sleep. The EEG in REM (rapid eye movement) sleep appears somewhat similar to the awake EEG.
+
+EEG under general anesthesia depends on the type of anesthetic employed.  With halogenated anesthetics, such as [[halothane]]  or intravenous agents, such as [[propofol]], a rapid (alpha or low beta), nonreactive EEG pattern is seen over most of the scalp, especially anteriorly; in some older terminology this was known as a WAR (widespread anterior rapid) pattern, contrasted with a WAIS (widespread slow) pattern associated with high doses of [[opiate]]s.  Anesthetic effects on EEG signals are beginning to be understood at the level of drug actions on different kinds of synapses and the circuits that allow synchronized neuronal activity (see: http://www.stanford.edu/group/maciverlab/).
+
+==Artifacts==
+
+===Biological artifacts===
+Electrical signals detected along the scalp by an EEG, but that originate from non-cerebral origin are called [[Artifact (observational)|artifacts]]. EEG data is almost always contaminated by such artifacts. The amplitude of artifacts can be quite large relative to the size of amplitude of the cortical signals of interest. This is one of the reasons why it takes considerable experience to correctly interpret EEGs clinically. Some of the most common types of biological artifacts include:
+* Eye-induced artifacts (includes eye blinks, eye movements and extra-ocular muscle activity)
+* [[Electrocardiogram|ECG]] (cardiac) artifacts
+* [[Electromyography|EMG]] (muscle activation)-induced artifacts
+* Glossokinetic artifacts
+
+The most prominent eye-induced artifacts are caused by the potential difference between the [[cornea]] and [[retina]], which is quite large compared to cerebral potentials. When the eyes and eyelids are completely still, this corneo-retinal dipole does not affect EEG. However, blinks occur several times per minute, the eyes movements occur several times per second. Eyelid movements, occurring mostly during blinking or vertical eye movements, elicit a large potential seen mostly in the difference between the [[Electrooculography]] (EOG) channels above and below the eyes. An established explanation of this potential regards the eyelids as sliding electrodes that short-circuit the positively charged cornea to the extra-ocular skin.<ref>{{cite journal | last1=Barry | first1=W | last2=Jones | first2=GM | title=INFLUENCE OF EYE LID MOVEMENT UPON ELECTRO-OCULOGRAPHIC RECORDING OF VERTICAL EYE MOVEMENTS | journal=Aerospace medicine | volume=36 | pages=855–858 | year=1965 |pmid=14332336 }}</ref><ref>{{cite journal | doi = 10.1016/j.clinph.2004.11.001 | last1 = Iwasaki | first1 = M. | last2 = Kellinghaus | first2 = C. | last3 = Alexopoulos | first3 = A.V. | last4 = Burgess | first4 = R.C. | last5 = Kumar | first5 = A.N. | last6 = Han | first6 = Y.H. | last7 = Lüders | first7 = H.O. | last8 = Leigh | first8 = R.J. | year = 2005 | title = Effects of eyelid closure, blinks, and eye movements on the electroencephalogram | url = | journal = Clinical Neurophysiology | volume = 116 | issue = 4| pages = 878–885 | pmid = 15792897 }}</ref> 
+Rotation of the eyeballs, and consequently of the corneo-retinal dipole, increases the potential in electrodes towards which the eyes are rotated, and decrease the potentials in the opposing electrodes.<ref>{{cite journal | doi = 10.1007/BF01234127 | last1 = Lins | first1 = O.G. | last2 = Picton | first2 = T.W. | last3 = Berg | first3 = P. | last4 = Scherg | first4 = M. | year = 1993 | title = Ocular artifacts in EEG and event-related potentials I: Scalp topography | url = | journal = Brain Topography | volume = 6 | issue = 1| pages = 51–63 | pmid = 8260327 }}</ref>
+Eye movements called [[saccades]] also generate transient [[electromyography|electromyographic]] potentials, known as saccadic spike potentials (SPs).<ref name="Keren, A.S. 2010">{{cite journal | doi = 10.1016/j.neuroimage.2009.10.057 | last1 = Keren | first1 = A.S. | last2 = Yuval-Greenberg | first2 = S. | last3 = Deouell | first3 = L.Y. | year = 2010 | title = Saccadic spike potentials in gamma-band EEG: Characterization, detection and suppression | url = | journal = Neuroimage | volume = 49 | issue = 3| pages = 2248–2263 | pmid = 19874901 }}</ref> The spectrum of these SPs overlaps the gamma-band (see [[Gamma wave]]), and seriously confounds analysis of induced gamma-band responses,<ref>{{cite journal | doi = 10.1016/j.neuron.2008.03.027 | last1 = Yuval-Greenberg | first1 = S. | last2 = Tomer | first2 = O. | last3 = Keren | first3 = A.S. | last4 = Nelken | first4 = I. | last5 = Deouell | first5 = L.Y. | year = 2008 | title = Transient Induced Gamma-Band Response in EEG as a Manifestation of Miniature Saccades | url = | journal = Neuron | volume = 58 | issue = 3| pages = 429–441 | pmid = 18466752 }}</ref> requiring tailored artifact correction approaches.<ref name="Keren, A.S. 2010"/> Purposeful or reflexive eye blinking also generates [[electromyography|electromyographic]] potentials, but more importantly there is reflexive movement of the eyeball during blinking that gives a characteristic artifactual appearance of the EEG (see [[Bell's phenomenon]]).
+
+Eyelid fluttering artifacts of a characteristic type were previously called Kappa rhythm (or Kappa waves). It is usually seen in the prefrontal leads, that is, just over the eyes. Sometimes they are seen with mental activity. They are usually in the Theta (4–7&nbsp;Hz) or Alpha (8–13&nbsp;Hz) range. They were named because they were believed to originate from the brain. Later study revealed they were generated by rapid fluttering of the eyelids, sometimes so minute that it was difficult to see. They are in fact noise in the EEG reading, and should not technically be called a rhythm or wave. Therefore, current usage in electroencephalography refers to the phenomenon as an eyelid fluttering artifact, rather than a Kappa rhythm (or wave).<ref name="recom_clin_neurophys_1983">{{cite book | last = Epstein | first = Charles M. | title = Introduction to EEG and evoked potentials | publisher = J. B. Lippincot Co. | year = 1983 | isbn = 0-397-50598-1 }}</ref>
+ 
+Some of these artifacts can be useful in various applications. The EOG signals, for instance, can be used to detect<ref name="Keren, A.S. 2010"/> and [[Eye tracking|track eye-movements]], which are very important in [[polysomnography]], and is also in conventional EEG for assessing possible changes in alertness, drowsiness or sleep.
+
+EKG artifacts are quite common and can be mistaken for spike activity. Because of this, modern EEG acquisition commonly includes a one-channel EKG from the extremities. This also allows the EEG to identify [[cardiac arrhythmia]]s that are an important [[differential diagnosis]] to [[Fainting|syncope]] or other episodic/attack disorders.
+
+Glossokinetic artifacts are caused by the potential difference between the base and the tip of the tongue. Minor tongue movements can contaminate the EEG, especially in [[Parkinson's disease|parkinsonian]] and [[tremor]] disorders.
+
+===Environmental artifacts===
+In addition to artifacts generated by the body, many artifacts originate from outside the body. Movement by the patient, or even just settling of the electrodes, may cause ''electrode pops'', spikes originating from a momentary change in the [[Electrical impedance|impedance]] of a given electrode. Poor [[Ground (electricity)|grounding]] of the EEG electrodes can cause significant 50 or 60&nbsp;Hz artifact, depending on the local power system's [[Utility frequency|frequency]]. A third source of possible interference can be the presence of an [[Intravenous therapy|IV drip]]; such devices can cause rhythmic, fast, low-voltage bursts, which may be confused for spikes.
+
+===Artifact correction===
+Recently, [[independent component analysis]] techniques have been used to correct or remove EEG contaminates.<ref name="Keren, A.S. 2010"/><ref>{{cite journal |doi= 10.1017/S0048577200980259 |last1= Jung |first1= TP |last2= Makeig |first2= S |last3= Humphries |first3= C |last4= Lee |first4= TW |last5= McKeown |first5= MJ |last6= Iragui |first6= V |last7= Sejnowski |first7= TJ |title= Removing electroencephalographic artifacts by blind source separation |journal= Psychophysiology |volume= 37 |issue= 2 |pages= 163–178 |year= 2000 | pmid = 10731767 }}</ref><ref>{{cite journal | doi = 10.1016/S1388-2457(00)00386-2 | last1 = Jung | first1 = T.P. | last2 = Makeig | first2 = S. | last3 = Westerfield | first3 = M. | last4 = Townsend | first4 = J. | last5 = Courchesne | first5 = E. | last6 = Sejnowski | first6 = T.J. | year = 2000b | title = Removal of eye activity artifacts from visual event-related potentials in normal and clinical subjects | url = | journal = Clinical Neurophysiology | volume = 111 | issue = 10| pages = 1745–1758 | pmid = 11018488 }}</ref><ref>{{cite journal | last1=Joyce | first1=Carrie A. | last2=Gorodnitsky | first2=Irina F. | last3=Kutas | first3=Marta | title=Automatic removal of eye movement and blink artifacts from EEG data using blind component separation | doi=10.1111/j.1469-8986.2003.00141.x | journal=Psychophysiology | year=2004 | volume=41 | issue=2 |pages= 313–325 |pmid = 15032997}}</ref><ref>{{cite journal |last1=Shackman |first1=AJ |last2=McMenamin |first2=BW |last3=Maxwell |first3=JS |last4=Greischar |first4=LL |last5=Davidson |first5=RJ |title=Identifying robust and sensitive frequency bands for interrogating neural oscillations |journal=NeuroImage |volume=51 |issue=4 |pages=1319–1333 |year=2010 | pmid = 20304076 |pmc=2871966 |doi=10.1016/j.neuroimage.2010.03.037 }}</ref> These techniques attempt to "unmix" the EEG signals into some number of underlying components. There are many source separation algorithms, often assuming various behaviors or natures of EEG. Regardless, the principle behind any particular method usually allow "remixing" only those components that would result in "clean" EEG by nullifying (zeroing) the weight of unwanted components. Fully automated artifact rejection methods, which use ICA, have also been developed.<ref>{{cite journal | doi = 10.1016/j.jneumeth.2010.07.015 | last1 = Nolan | first1 = H. | last2 = Whelan | first2 = R. | last3 = Reilly | first3 = R.B. | year = 2010| title = ''FASTER'': Fully Automated Statistical Thresholding for EEG artifact Rejection | url = | journal = Journal of Neuroscience Methods | volume = 192 | issue = 1| pages = 152–162 | pmid = 20654646 }}</ref>
+
+==Abnormal activity==
+Abnormal activity can broadly be separated into [[epileptiform]] and non-epileptiform activity. It can also be separated into focal or diffuse.
+
+Focal epileptiform discharges represent fast, synchronous potentials in a large number of neurons in a somewhat discrete area of the brain. These can occur as interictal activity, between seizures, and represent an area of cortical irritability that may be predisposed to producing epileptic seizures. Interictal discharges are not wholly reliable for determining whether a patient has epilepsy nor where his/her seizure might originate. (See [[focal epilepsy]].)
+
+Generalized epileptiform discharges often have an anterior maximum, but these are seen synchronously throughout the entire brain. They are strongly suggestive of a generalized epilepsy.
+
+Focal non-epileptiform abnormal activity may occur over areas of the brain where there is focal damage of the cortex or [[white matter]]. It often consists of an increase in slow frequency rhythms and/or a loss of normal higher frequency rhythms. It may also appear as focal or unilateral decrease in amplitude of the EEG signal.
+
+Diffuse non-epileptiform abnormal activity may manifest as diffuse abnormally slow rhythms or bilateral slowing of normal rhythms, such as the PBR.
+
+Intracortical Encephalogram electrodes and sub-dural electrodes can be used in tandem to discriminate and discretize artifact from epileptiform and other severe neurological events. 
+
+More advanced measures of abnormal EEG signals have also recently received attention as possible biomarkers  for different disorders such as [[Alzheimer's disease]].<ref name="Montez2009">{{cite journal |author=Montez T, Poil S-S, Jones BF, Manshanden I, Verbunt JPA, van Dijk BW, Brussaard AB, van Ooyen A, Stam CJ, Scheltens P, Linkenkaer-Hansen K|title= Altered temporal correlations in parietal alpha and prefrontal theta oscillations in early-stage Alzheimer disease|journal=[[PNAS]]|volume=106|issue=5|pages=1614–1619|year=2009|doi= 10.1073/pnas.0811699106|url=http://www.pnas.org/content/106/5/1614.abstract |pmid=19164579 |pmc=2635782|bibcode = 2009PNAS..106.1614M }}</ref>
+
+==Various uses==
+{{Primary sources|section|date=May 2012}}
+The EEG has been used for many purposes besides the conventional uses of clinical diagnosis and conventional cognitive neuroscience. An early use was during World War II by the U.S. Army Air Corps to screen out pilots in danger of having seizures;<ref>{{cite web|last=Keiper|first=Adam|title=The Age of Neuroelectronics|url=http://www.thenewatlantis.com/publications/the-age-of-neuroelectronics|publisher=The New Atlantis}}</ref> long-term EEG recordings in epilepsy patients are still used today for [[seizure prediction]]. [[Neurofeedback]] remains an important extension, and in its most advanced form is also attempted as the basis of [[Brain-computer interface|brain computer interfaces]]. The EEG is also used quite extensively in the field of [[neuromarketing]].
+
+Honda is attempting to develop a system to enable an operator to control its [[Asimo]] robot using EEG, a technology it eventually hopes to incorporate into its automobiles.<ref>[http://search.japantimes.co.jp/cgi-bin/nb20090401a2.html Mind over matter: Brain waves control Asimo] 1 Apr 2009, Japan Times</ref>
+
+EEGs have been used as evidence in trials in the [[India]]n state of [[Maharastra]].<ref>[http://timesofindia.indiatimes.com/Cities/This_brain_test_maps_the_truth/articleshow/3257032.cms This brain test maps the truth] 21 Jul 2008, 0348 hrs IST, Nitasha Natu,TNN</ref><ref>{{cite web|url=http://www.axxonet.com/cms-filesystem-action/publications/beos_in_india.pdf |title=Puranik, D.A., Joseph, S.K., Daundkar, B.B., Garad, M.V. (2009). Brain Signature profiling in India. Its status as an aid in investigation and as corroborative evidence – as seen from judgments. Proceedings of XX All India Forensic Science Conference, 815 – 822, November 15 – 17, Jaipur.}}</ref>
+
+===EEG and Remote Communication===
+The United States Army Research Office budgeted $4&nbsp;million in 2009 to researchers at the University of California, Irvine to develop EEG processing techniques to identify correlates of [[Imagined Speech|imagined speech]] and intended direction to enable soldiers on the battlefield to communicate via computer-mediated reconstruction of team members' EEG signals, in the form of understandable signals such as words.<ref>[http://cnslab.ss.uci.edu/muri/index.html MURI: Synthetic Telepathy]. ''Cnslab.ss.uci.edu''. Retrieved 2011-07-19.</ref>
+
+===Low-cost EEG Devices===
+Inexpensive EEG devices exist for the low-cost research and consumer markets. Recently, a few companies have miniaturized medical grade EEG technology to create versions accessible to the wider public. Some of these companies have even built commercial EEG devices retailing for less than $100 USD. 
+
+* In 2004 [[OpenEEG]] released its ModularEEG as open source hardware.  Compatible open source software includes a game for balancing a ball.
+* In 2007 [[NeuroSky]] released the first affordable consumer based EEG along with the game NeuroBoy.  This was also the first large scale EEG device to use dry sensor technology.<ref>{{cite news|url= http://www.economist.com/science/displaystory.cfm?story_id=8847846 |title=Mind Games |date= 2007-03-23 |publisher=The Economist }}</ref>
+* In 2008 [[OCZ Technology]] developed device for use in video games relying primarily on [[electromyography]].
+[[File:NeuroSky MindWaveDiagram Low.jpg|thumb|right|The parts of a basic NeuroSky headset]]
+* In 2008 the [[Final Fantasy]] developer [[Square Enix]] announced that it was partnering with NeuroSky to create a game, Judecca.<ref name="Mind reading is on the market">{{cite news|url=http://www.latimes.com/business/la-fi-mind-reader-20100808,0,6235181,full.story|title= Mind reading is on the market |date=2010-08-08 |publisher=[[Los Angeles Times]] | first=Shan | last=Li}}</ref><ref>{{cite web|url=http://www.engadget.com/2008/10/09/brains-on-with-neurosky-and-squareenixs-judecca-mind-control-ga/ |title=Brains-on with NeuroSky and Square Enix's Judecca mind-control game |publisher=Engadget |date= |accessdate=2010-12-02}}</ref>
+* In 2009 [[Mattel]] partnered with NeuroSky to release the [[Mindflex]], a game that used an EEG to steer a ball through an obstacle course. By far the best selling consumer based EEG to date.<ref name="Mind reading is on the market"/><ref>{{cite web|url=http://www.physorg.com/news150781868.html |title=New games powered by brain waves |publisher=Physorg.com |date= |accessdate=2010-12-02}}</ref>
+* In 2009 Uncle Milton Industries partnered with NeuroSky to release the [[StarWars]] [[Force Trainer]], a game designed to create the illusion of possessing [[Force (Star Wars)|The Force]].<ref name="Mind reading is on the market"/><ref>{{cite news| url=http://www.usatoday.com/life/lifestyle/2009-01-06-force-trainer-toy_N.htm | work=USA Today | title=Toy trains 'Star Wars' fans to use The Force | first=Mike | last=Snider | date=2009-01-07 |
+accessdate=2010-05-01}}</ref>
+* In 2009 [[Emotiv]] released the EPOC, a 14 channel EEG device.  The EPOC is the first commercial BCI to not use dry sensor technology, requiring users to apply a saline solution to their head.<ref>{{cite web|url=http://emotiv.com/ |title=Emotiv Systems Homepage |publisher=Emotiv.com |date= |accessdate=2009-12-29}}</ref>
+* In 2010, NeuroSky added a blink and electromyography function to the MindSet.<ref>{{cite web|url=http://www.gamasutra.com/view/news/29190/NeuroSky_Upgrades_SDK_Allows_For_Eye_Blink_BrainwavePowered_Games.php |title=News - NeuroSky Upgrades SDK, Allows For Eye Blink, Brainwave-Powered Games |publisher=Gamasutra |date=2010-06-30 |accessdate=2010-12-02}}</ref>
+* In 2011, NeuroSky released the MindWave, an EEG device designed for educational purposes and games.<ref name='educationmindwave'>{{cite web|url= http://venturebeat.com/2010/06/22/neurosky-raises-11-8m-for-brainwave-controlled-games/ |title= NeuroSky MindWave Brings Brain-Computer Interface to Education |last= Fiolet |first=Eliane|work=www.ubergizmo.com|publisher=Ubergizmo}}</ref>  The MindWave won the Guinness Book of World Records award for “Heaviest machine moved using a brain control interface”.<ref name=' Guinness '>{{cite web|url= http://neurogadget.com/2011/04/12/neurosky-mindwave-sets-guinness-world-record-for-%E2%80%9Clargest-object-moved-using-a-brain-computer-interface%E2%80%9D/1820|title= NeuroSky MindWave Sets Guinness World Record for "Largest Object Moved Using a Brain-Computer Interface"|work= NeuroGadget.com|publisher= NeuroGadget }}</ref>
+* In 2012, a Japanese gadget project, [[neurowear]], released Necomimi: a headset with motorized cat ears. The headset is a NeuroSky MindWave unit with two motors on the headband where a cat's ears might be. Slipcovers shaped like cat ears sit over the motors so that as the device registers emotional states the ears move to relate. For example, when relaxed, the ears fall to the sides and perk up when excited again.
+
+==Images==
+<gallery>
+Image:EEG mit 32 Electroden.jpg|Person wearing electrodes for EEG
+Image:Vitasport3 2.jpg|Portable recording device for EEG
+Image:Musical brainwave performance at deconism gallery.jpg|EEG [[electroencephalophone]] used during a music performance in which bathers from around the world were networked together as part of a collective musical performance, using their brainwaves to control sound, lighting, and the bath environment{{citation needed|date=November 2012}}
+</gallery>
+
+== See also ==
+{{columns-list|2|
+* [[10-20 system (EEG)]]
+* [[Binaural beats]]
+* [[Brain-computer interface]]
+* [[Brainwave synchronization]]
+* [[CAET-Canadian association of EEG Technology]]
+* [[Comparison of consumer brain-computer interface devices]]
+* [[Direct brain interfaces]]
+* [[EEG measures during anesthesia]]
+* [[EEG microstates]]
+* [[Electrocorticography]]
+* [[Electromagnetic Weapon]]
+* [[Electroneurogram]]
+* [[Electropalatograph]]
+* [[Emotiv Systems]]
+* [[European data format]]
+* [[Event-related potential]]
+* [[Evoked potential]]
+* [[FieldTrip]]
+* [[God helmet]]
+* [[Hemoencephalography]]
+* [[Imagined Speech]]
+* [[Induced activity]]
+* [[Intracranial EEG]]
+* [[Local field potentials]]
+* [[Magnetoencephalography]]
+* [[Mind machine]]
+* [[Neural oscillations]]
+* [[Neurofeedback]]
+* [[Ongoing brain activity]]
+* [[Spontaneous potential]]
+
+}}
+
+== References ==
+{{Reflist|2}}
+
+==External links==
+{{Wiktionary|electroencephalography|electroencephalogram|electroencephalograph|brainwave}}
+* [http://www.nbtwiki.net/doku.php?id=tutorial:tutorial_dipoles A tutorial on simulating and estimating EEG sources in Matlab]
+* [http://www.nbtwiki.net/doku.php?id=tutorial:power_spectra_wavelet_analysis_and_coherence A tutorial on analysis of ongoing, evoked, and induced neuronal activity: Power spectra, wavelet analysis, and coherence]
+* [http://www.scholarpedia.org/article/Electroencephalogram Scholarpedia EEG]
+* [http://www.mee.tcd.ie/neuraleng/Research.Faster FASTER] A fully automated, unsupervised method for processing of high density EEG data. FASTER has been peer-reviewed, it is free and the software is open source. The FASTER software is available [https://sourceforge.net/projects/faster here.]
+* [http://www.youtube.com/watch?v=IwGIF5aCnqg&feature=digest Video demonstration of placement of electrodes]
+* [http://openeeg.sourceforge.net/doc/ OpenEEG] The [[OpenEEG]] project makes hardware plans and software for do-it-yourself EEG devices in an [[Open Source]] manner. The hardware is aimed toward amateurs who would like to experiment with EEG.
+* [http://www.caet.org] Canadian association of EEG techs (CAET)
+{{Neuro procedures}}
+{{Seizures and epilepsy}}
+{{Emerging technologies}}
+{{EEG}}
+
+[[Category:Electroencephalography|*]]
+[[Category:Electrophysiology]]
+[[Category:Neurophysiology]]
+[[Category:Neurotechnology]]
+[[Category:Electrodiagnosis]]
+[[Category:Brain–computer interfacing]]
+[[Category:Psychiatric assessment]]
+[[Category:Emerging technologies]]

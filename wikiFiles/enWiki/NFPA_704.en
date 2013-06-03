@@ -1,0 +1,105 @@
+{| class="wikitable" align=right width=225px
+|-
+! style="background:#FF9900" | NFPA 704
+|-
+| align=center | {{NFPA 704 | Health = 2 | Flammability = 1 | Reactivity = 2 | Other = <s>W</s>}}
+|-
+| Fire diamond for [[Sodium borohydride]]
+|}
+
+'''"NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response"''' is a standard maintained by the [[United States|U.S.]]-based [[National Fire Protection Association]]. First "tentatively adopted as a guide" in 1960,<ref>[http://www.nfpa.org/Assets/files/AboutTheCodes/704/TCRF-1975-704M.pdf Proposed Amendments on Revisions to the Recommended System for the Identification of The Fire Hazards of Materials / NFPA No. 704M — 1969]</ref> and revised several times since then, it defines the colloquial "'''fire diamond'''" used by emergency personnel to quickly and easily identify the risks posed by hazardous materials. This helps determine what, if any, special equipment should be used, procedures followed, or precautions taken during the initial stages of an emergency response.
+
+==Symbolism==
+
+The four divisions are typically color-coded, with blue indicating level of [[health]] [[hazard]], red  indicating [[flammability]], yellow (chemical) [[reactivity (chemistry)|reactivity]], and white containing special codes for unique hazards. Each of health, flammability and reactivity is rated on a scale from 0 (no hazard) to 4 (severe risk).  See the latest version of NFPA 704 sections 5, 6, 7 and 8 for the specifications of each classification.<ref name="NFPA">[http://www.slideshare.net/luijar38/nfpa-704-2012 NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response, 2012 Edition]</ref>
+
+{| class="wikitable" align=center width=99%
+|-
+! colspan="2" style="color:white; background:#0040ff;" | Health (Blue)
+! colspan="2" style="color:white; background:red;" | Flammability (Red)
+|-
+! valign="center" | 0
+| valign="center" | Poses no health hazard, no precautions necessary and would offer no hazard beyond that of ordinary combustible materials (e.g., [[water]])
+! valign="center" | 0
+| valign="center" | Materials that will not burn under typical fire conditions (e.g., [[carbon dioxide]]), including intrinsically noncombustible materials such as concrete, stone and sand.  (Materials that will not burn in air when exposed to a temperature of 816°C (1500°F) for a period of 5 minutes.)
+|-
+! valign="center" | 1
+| valign="center" | Exposure would cause irritation with only minor residual injury (e.g., [[acetone]])
+! valign="center" | 1
+| valign="center" | Materials that require considerable preheating, under all ambient temperature conditions, before ignition and combustion can occur (e.g., [[mineral oil]]). Includes some finely divided suspended solids that do not require heating before ignition can occur.  (Flash point at or above 93.4°C (200°F)
+|-
+! valign="center" | 2
+| valign="center" | Intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury (e.g., [[diethyl ether]])
+! valign="center" | 2
+| valign="center" | Must be moderately heated or exposed to relatively high ambient temperature before ignition can occur (e.g., [[diesel fuel]]) and some finely divided suspended solids that do not require heating before ignition can occur. Flash point between 38°C (100°F) and 93°C (200°F)
+|-
+! valign="center" | 3
+| valign="center" | Short exposure could cause serious temporary or moderate residual injury (e.g., [[chlorine]])
+! valign="center" | 3
+| valign="center" | Liquids and solids (including finely divided suspended solids) that can be ignited under almost all ambient temperature conditions (e.g., [[gasoline]]). Liquids having a flash point below 23°C (73°F) and having a boiling point at or above 38°C (100°F) or having a flash point between 23°C (73°F) and 38°C (100°F)
+|-
+! width=5% valign="center" | 4
+| width=45% valign="center" | Very short exposure could cause death or major residual injury (e.g., [[hydrogen cyanide]], [[phosphine]], [[carbon monoxide]], [[sarin]])
+! width=5% valign="center" | 4
+| width=45% valign="center" | Will rapidly or completely vaporize at normal atmospheric pressure and temperature, or is readily dispersed in air and will burn readily (e.g., [[acetylene]], [[diethylzinc]]).  Includes [[Pyrophoricity|pyrophoric]] substances. [[Flash point]] below 23°C (73°F)
+|-
+! colspan="2" style="color:black; background:white;" | Special (White)
+! colspan="2" style="color:black; background:#ffe000;" | Instability/Reactivity (Yellow)
+|-
+| valign="center" colspan="2" | ''The white "special notice" area can contain several symbols. The following symbols are defined by the NFPA 704 standard.''
+! valign="center" | 0
+| valign="center" | Normally stable, even under fire exposure conditions, and is not reactive with water (e.g. [[helium]])
+|-
+! valign="center" | OX
+| valign="center" | [[Oxidizer]] (e.g., [[potassium perchlorate]], [[ammonium nitrate]], [[hydrogen peroxide]])
+! valign="center" | 1
+| valign="center" | Normally stable, but can become unstable at elevated temperatures and pressures (e.g. [[propene]])
+|-
+! valign="center" | <s>W</s>
+| valign="center" | Reacts with [[water]] in an unusual or dangerous manner (e.g., [[cesium]], [[sodium]], [[sulfuric acid]])
+! valign="center" | 2
+| valign="center" | Undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water (e.g., [[white phosphorus]], [[potassium]], [[sodium]])
+|-
+! valign="center" | SA
+| valign="center" | Simple [[asphyxiant gas]]. Specifically limited to the following gases: [[nitrogen]], [[helium]], [[neon]], [[argon]], [[krypton]] and [[xenon]].<ref name="NFPA"/>
+! valign="center" | 3
+| valign="center" | Capable of detonation or explosive decomposition but requires a strong initiating source, must be heated under confinement before initiation, reacts explosively with water, or will detonate if severely shocked (e.g. [[ammonium nitrate]], [[chlorine trifluoride]])
+|-
+! valign="center" | 
+| valign="center" | 
+! valign="center" | 4
+| valign="center" | Readily capable of [[detonation]] or [[Explosive material#Chemical explosives|explosive decomposition]] at normal temperatures and pressures (e.g., [[nitroglycerin]], [[chlorine azide]], [[chlorine dioxide]])
+|}
+
+[[Image:Nalgene bottles.jpg|thumb|200px|Two plastic squirt bottles labeled with the NFPA 704 color code for hazardous materials identification.  The ethyl alcohol ([[ethanol]]) bottle has an outdated health hazard of <span style="background-color:#5580ff; padding:0.25ex 0.25em">0</span>.  It is now <span style="background-color:#5580ff; padding:0.25ex 0.25em">2</span>.]]
+
+=== Non-standard symbols ===
+
+These [[hazard symbol]]s are not part of the NFPA 704 standard, but are occasionally used in an unofficial manner.  The use of non-standard symbols or text may be permitted, required or disallowed by the [[Construction#Authority having jurisdiction|authority having jurisdiction]] (e.g., fire department).
+
+* '''COR''': [[Corrosive]]; strong [[acid]] or [[base (chemistry)|base]] (e.g. [[sulfuric acid]], [[potassium hydroxide]])
+** '''ACID''' and '''ALK''' to be more specific
+* '''BIO''' or [[File:Biohazard symbol.svg|20px]]: [[Biological hazard]] (e.g., [[smallpox|smallpox virus]])
+* '''POI''': [[Poison]]ous (e.g. [[Strychnine]])
+* '''RAD''' or [[File:Radiation warning symbol2.svg|20px]]: [[radioactive decay|Radioactive]] (e.g., [[plutonium]], [[uranium]])
+* '''CYL''' or '''CRYO''': [[Cryogenic]] (e.g. [[Liquid Nitrogen]])
+
+== See also ==
+* [[Hazard symbol]]
+* [[HMIS Color Bar]]
+* [[Hazchem]]
+* [[Dangerous goods|Hazmat]]
+
+== References ==
+{{reflist}}
+
+* [http://www.setonresourcecenter.com/safety/hazcom/FR_59_6126%20Hazard_Communicaton.pdf 1910.1200 OSHA Hazard Communication]
+* [http://chemlabs.uoregon.edu/Safety/NFPA.html University of Oregon Chem Labs - NFPA Hazard Identification System]
+
+== External links ==
+* [http://www.nfpa.org/faq.asp?categoryID=928 NFPA 704 frequently asked questions]
+* [http://www.milwaukee.gov/ImageLibrary/User/dnscms/pdf/broc/hazmat12.pdf Pamphlet produced by the City of Milwaukee summarizing NFPA 704 code requirements]
+<!-- * [http://www.newenv.com/resources/nfpa_chemicals/ Listing of NFPA 704 ratings for many chemicals] It seems highly possible that this link contents false information. For further information please see the talk page, subject "Examples". -->
+
+[[Category:Safety]]
+[[Category:Safety codes]]

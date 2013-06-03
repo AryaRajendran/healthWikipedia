@@ -1,0 +1,241 @@
+{{other uses2|Chad}}
+{| class="wikitable" style = "float: right; margin-left:15px; text-align:left"
+!
+!Condition
+!Points
+|-
+| &nbsp;'''C'''&nbsp; 
+| &nbsp;[[Congestive heart failure]]
+| <center>1</center>
+|-
+| &nbsp;'''H''' 
+| &nbsp;[[Hypertension]]: blood pressure consistently above 140/90 mmHg (or treated hypertension on medication)
+| <center>1</center>
+|-
+| &nbsp;'''A''' 
+| &nbsp;Age ≥75 years
+| <center>1</center>
+|-
+| &nbsp;'''D''' 
+| &nbsp;[[Diabetes mellitus]]
+| <center>1</center>
+|-
+| &nbsp;'''S<sub>2</sub>'''  
+| &nbsp;Prior [[Stroke]] or [[Transient ischemic attack|TIA]] or [[Thromboembolism]] 
+| <center>2</center>
+|}
+
+The '''CHADS<sub>2</sub> score''' is a [[clinical prediction rule]] for estimating the risk of [[stroke]] in patients with [[rheumatic fever|non-rheumatic]] [[atrial fibrillation|atrial&nbsp;fibrillation]] (AF), a common and serious [[heart arrhythmia]] associated with thromboembolic stroke.  It is used to determine whether or not treatment is required with [[anticoagulation]] therapy or antiplatelet therapy,<ref name="pmid15477396 ">{{cite journal | title=Selecting patients with atrial fibrillation for anticoagulation: stroke risk stratification in patients taking aspirin | journal=Circulation | year=2004 | volume=110 | issue=16 | pages=2287&ndash;92 | author=Gage BF, van Walraven C, Pearce L, ''et al.'' | pmid=15477396 | doi=10.1161/01.CIR.0000145172.55640.93 | url=http://circ.ahajournals.org/cgi/content/full/110/16/2287}}</ref> since AF can cause stasis of blood in the upper [[heart chamber]]s, leading to the formation of a [[mural thrombus]] that can dislodge into the blood flow, reach the brain, cut off  supply to the brain, and cause a stroke.  A high CHADS<sub>2</sub> score corresponds to a greater risk of stroke, while a low CHADS<sub>2</sub> score corresponds to a lower risk of stroke. The CHADS<sub>2</sub> score is simple and has been validated by many studies.<ref name=Gage2001>{{cite journal |author=Gage BF, Waterman AD, Shannon W, Boechler M, Rich MW, Radford MJ |title=Validation of clinical classification schemes for predicting stroke: results from the National Registry of Atrial Fibrillation |journal=JAMA |volume=285 |issue=22 |pages=2864–70 |year=2001 |url=http://jama.ama-assn.org/cgi/content/full/285/22/2864 |pmid=11401607 |doi=10.1001/jama.285.22.2864}}</ref>
+
+The CHADS<sub>2</sub> scoring table is shown above:<ref>{{cite web|url=http://www.cardiology.org/tools/risk_of_stroke_AF.html |title=Risk of Stroke with AF |accessdate=2007-09-14 |publisher=VA Palo Alto Medical Center and at Stanford University: the Sportsmedicine Program and the Cardiomyopathy Clinic }}</ref>  adding together the points that correspond to the conditions that are present results in the CHADS<sub>2</sub> score, that is used to estimate stroke risk.
+
+In clinical use, the CHADS<sub>2</sub> score has been superseded by the CHA<sub>2</sub>DS<sub>2</sub>-VASc score that gives a better stratification of low-risk patients.
+
+==Stroke risk assessment, and antithrombotic therapy==
+{| class="wikitable" style = "float: right; margin-left:15px; text-align:left"
+|+Annual Stroke Risk<ref name=Gage2001 />
+|-
+! CHADS<sub>2</sub> Score
+! Stroke Risk %
+! 95% [[Confidence interval|CI]]
+|-
+| <center>'''0'''</center>
+| <center>1.9</center>
+| <center>&nbsp;1.2–3.0</center>
+|-
+| <center>'''1'''</center>
+| <center>2.8</center>
+| <center>&nbsp;2.0–3.8</center>
+|-
+| <center>'''2'''</center>
+| <center>4.0</center>
+| <center>&nbsp;3.1–5.1</center>
+|-
+| <center>'''3'''</center>
+| <center>5.9</center>
+| <center>&nbsp;4.6–7.3</center>
+|-
+| <center>'''4'''</center>
+| <center>8.5</center>
+| <center>&nbsp;6.3–11.1</center>
+|-
+| <center>'''5'''</center>
+| <center>12.5</center>
+| <center>&nbsp;8.2–17.5</center>
+|-
+| <center>'''6'''</center>
+| <center>18.2</center>
+| <center>10.5–27.4</center>
+|}
+According to the findings of the initial validation study, the risk of stroke as a percentage per year for the CHADS<sub>2</sub> score is shown in the table.
+
+The CHADS<sub>2</sub> score does not include some common stroke risk factors and its various pros/cons have been carefully discussed.<ref>Karthikeyan G, Eikelboom JW. The CHADS2 score for stroke risk stratification in atrial fibrillation--friend or foe? Thromb Haemost. 2010 Jul 5;104(1):45-8.</ref> Nonetheless, this score is simple and thus it has become widely used.
+
+To complement the CHADS<sub>2</sub> score, by the inclusion of additional 'stroke risk modifier' risk factors, the CHA<sub>2</sub>DS<sub>2</sub>-VASc score has been proposed.<ref>Lip GY, Nieuwlaat R, Pisters R, Lane DA, Crijns HJ. Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the euro heart survey on atrial fibrillation. Chest. 2010 Feb;137(2):263-72.</ref>  These additional non-major stroke risk factors include age 65-74, female gender and vascular disease.  In the CHA<sub>2</sub>DS<sub>2</sub>-VASc score score, 'age 75 and above' also has extra weight, with 2 points.   
+
+The CHA<sub>2</sub>DS<sub>2</sub>-VASc score has been used in the new European Society of Cardiology guidelines for the management of atrial fibrillation.<ref>European Heart Rhythm Association; European Association for Cardio-Thoracic Surgery, Camm AJ, Kirchhof P, Lip GY, Schotten U, Savelieva I, Ernst S, Van Gelder IC, Al-Attar N, Hindricks G, Prendergast B, Heidbuchel H, Alfieri O, Angelini A, Atar D, Colonna P, De Caterina R, De Sutter J, Goette A, Gorenek B, Heldal M, Hohloser SH, Kolh P, Le Heuzey JY, Ponikowski P, Rutten FH. Guidelines  for the management of atrial fibrillation: the Task Force for the Management of Atrial Fibrillation of the European Society of Cardiology (ESC). Eur Heart J. 2010 Oct;31(19):2369-429.</ref><ref name="escardio.org">http://www.escardio.org/guidelines-surveys/esc-guidelines/Pages/atrial-fibrillation.aspx</ref>
+
+The European Society of Cardiology (ESC) guidelines recommend that if the patient has a CHADS<sub>2</sub> score of 2 and above, oral anticoagulation therapy (OAC) such as warfarin (target [[Prothrombin time|INR]] of 2-3) or one of the new OAC drugs (such as dabigatran) should be prescribed.  
+
+If the CHADS<sub>2</sub> score is 0-1, other stroke risk modifiers could be considered: (i) If there are 2 or more risk factors (essentially a CHA<sub>2</sub>DS<sub>2</sub>-VASc score score of 2 or more), OAC is recommended; and (ii) If there is 1 risk factor (essentially a CHA<sub>2</sub>DS<sub>2</sub>-VASc score score=1), antithrombotic therapy with OAC or aspirin (OAC preferred) is recommended, and patient values and preferences should be considered. 
+
+A CHA<sub>2</sub>DS<sub>2</sub>-VASc score score=0 corresponds to a 'truly low risk,’<ref>Olesen JB, Lip GY, Hansen ML, Hansen PR, Tolstrup JS, Lindhardsen J, Selmer C, Ahlehoff O, Olsen AM, Gislason GH, Torp-Pedersen C. Validation of risk stratification schemes for predicting stroke and thromboembolism in patients with atrial fibrillation: nationwide cohort study. BMJ. 2011 Jan 31;342:d124. {{doi|10.1136/bmj.d124}}.</ref><ref>{{cite journal | last1=Van Staa | first1=TP | last2=Setakis | first2=E | last3=Di Tanna | first3=GL | last4=Lane | first4=DA | last5=Lip | first5=GY | title=A comparison of risk stratification schema for stroke in 79884 atrial fibrillation patients in general practice. | journal=J Thromb Haemost. |doi= 10.1111/j.1538-7836.2010.04085.x |pmid= 21029359 | pages=no | author-separator =, | author-name-separator= |  year=2010 |month=October}}</ref> and thus the recommendation is to prescribe either aspirin or no antithrombotic therapy, but 'no antithrombotic therapy' is preferred.<ref>{{cite journal | doi = 10.1016/j.amjmed.2009.12.013 | last1 = Lip | first1 = GY | last2 = Halperin | first2 = JL. | author-separator =, | author-name-separator= | year = 2010 | month = Jun | title = Improving stroke risk stratification in atrial fibrillation | url = | journal = Am J Med. | volume = 123 | issue = 6| pages = 484–8 | pmid = 20569748 }}</ref>
+
+Stroke risk assessment should always include an assessment of bleeding risk.  This can be done using validated bleeding risk scores, such as the HEMORR<sub>2</sub>HAGES or HAS-BLED scores.  The latter is recommended in the ESC and Canadian guidelines.<ref>Cairns JA, Connolly S, McMurtry S, Stephenson M, Talajic M; CCS Atrial Fibrillation Guidelines Committee. Canadian Cardiovascular Society atrial fibrillation guidelines 2010: prevention of stroke and systemic thromboembolism in atrial fibrillation and flutter. Can J Cardiol. 2011 Jan-Feb;27(1):74-90. PMID 21329865.</ref>  If the patient is taking warfarin, then knowledge of INR control is needed to assess the 'labile INR' criterion in HAS-BLED; otherwise for a non-warfarin patient, this scores zero.
+
+==Anticoagulation==
+{| class="wikitable" style = "float: right; margin-left:15px; text-align:center"
+|-
+! Score
+! Risk 
+! Anticoagulation Therapy
+! Considerations
+|-
+| '''0'''
+| Low
+| None or [[Aspirin]]
+| Aspirin daily
+|-
+| '''1'''
+| Moderate
+| Aspirin or Warfarin
+| Aspirin daily or raise [[International normalized ratio|INR]] to 2.0-3.0, depending on patient preference 
+|-
+| '''2 or greater'''
+| Moderate or High 
+| [[Warfarin]]
+| Raise [[International normalized ratio|INR]] to 2.0-3.0, unless contraindicated
+|}
+Treatment strategies recommended based on the CHADS<sub>2</sub> score are shown in the table.<ref name="pmid15477396 " /><ref name=Gage2001 />
+
+How the treatment recommendations based on the CHADS<sub>2</sub> score are modified by considering additional 'stroke risk modifier' risk factors using the [http://www.wikidoc.org/index.php/CHA2DS2-VASc_score CHA2DS2-VASc] score, see [http://www.escardio.org/guidelines-surveys/esc-guidelines/Pages/atrial-fibrillation.aspx ESC guideline] recommendations, which recommend the management as shown in the following table:
+
+==CHA<sub>2</sub>DS<sub>2</sub>-VASc==
+{| class="wikitable" style = "float: right; margin-left:15px; text-align:left"
+!
+!Condition
+!Points
+|-
+| &nbsp;'''C'''&nbsp; 
+| &nbsp;Congestive heart failure (or Left ventricular systolic dysfunction)
+| <center>1</center>
+|-
+| &nbsp;'''H''' 
+| &nbsp;[[Hypertension]]: blood pressure consistently above 140/90 mmHg (or treated hypertension on medication)
+| <center>1</center>
+|-
+| &nbsp;'''A<sub>2</sub>''' 
+| &nbsp;Age ≥75 years
+| <center>2</center>
+|-
+| &nbsp;'''D''' 
+| &nbsp;Diabetes Mellitus
+| <center>1</center>
+|-
+| &nbsp;'''S<sub>2</sub>'''  
+| &nbsp;Prior [[Stroke]] or [[Transient ischemic attack|TIA]] or [[thromboembolism]] 
+| <center>2</center>
+|-
+| &nbsp;'''V''' 
+| &nbsp;Vascular disease (e.g. peripheral artery disease, myocardial infarction, aortic plaque)
+| <center>1</center>
+|-
+| &nbsp;'''A''' 
+| &nbsp;Age 65–74 years
+| <center>1</center>
+|-
+| &nbsp;'''Sc''' 
+| &nbsp;Sex category (i.e. female gender)
+| <center>1</center>
+|}
+The CHA<sub>2</sub>DS<sub>2</sub>-VASc score is a refinement of CHADS<sub>2</sub> score and extends the latter by including additional common stroke risk factors, as discussed below.
+
+The maximum CHADS<sub>2</sub> score is 6, whilst the maximum CHA<sub>2</sub>DS<sub>2</sub>-VASc score is 9.
+
+{{clear}}
+
+===Stroke risk assessment===
+{| class="wikitable" style = "float: right; margin-left:15px; text-align:right"
+|+Annual Stroke Risk<ref name="Camm et al. European Heart Journal. 2010; 31, 2369-2429" >{{cite web |url=http://eurheartjsupp.oxfordjournals.org/content/10/suppl_H/H4/T2.expansion.html |title=Prevention of stroke in patients with atrial fibrillation: current strategies and future directions |publisher=''[[BMJ|British Medical Journal]]'' |accessdate=30 December 2012}}</ref>
+|-
+! CHA<sub>2</sub>DS<sub>2</sub>-VASc Score
+! Stroke Risk %
+! 95% [[Confidence interval|CI]]
+|-
+| <center>'''0'''</center>
+| <center>0</center>
+| <center>-</center>
+|-
+| <center>'''1'''</center>
+| <center>1.3</center>
+| <center>-</center>
+|-
+| <center>'''2'''</center>
+| <center>2.2</center>
+| <center>-</center>
+|-
+| <center>'''3'''</center>
+| <center>3.2</center>
+| <center>-</center>
+|-
+| <center>'''4'''</center>
+| <center>4.0</center>
+| <center>-</center>
+|-
+| <center>'''5'''</center>
+| <center>6.7</center>
+| <center>-</center>
+|-
+| <center>'''6'''</center>
+| <center>9.8</center>
+| <center>-</center>
+|-
+| <center>'''7'''</center>
+| <center>9.6</center>
+| <center>-</center>
+|-
+| <center>'''8'''</center>
+| <center>6.7</center>
+| <center>-</center>
+|-
+| <center>'''9'''</center>
+| <center>15.2</center>
+| <center>-</center>
+|}
+
+{{clear}}
+
+===Anticoagulation===
+{| class="wikitable" style = "float: right; margin-left:15px; text-align:center"
+|-
+! Score
+! Risk 
+! Anticoagulation Therapy
+! Considerations
+|-
+| '''0'''
+| Low
+| No antithrombotic therapy (or [[Aspirin]])
+| No antithrombotic therapy (or Aspirin 75–325&nbsp;mg daily)
+|-
+| '''1'''
+| Moderate
+| Oral anticoagulant (or Aspirin)
+| Oral anticoagulant, either new oral anticoagulant drug e.g. dabigatran or well controlled warfarin at [[International normalized ratio|INR]] 2.0-3.0 (or Aspirin 75–325&nbsp;mg daily, depending on factors such as patient preference)
+|-
+| '''2 or greater'''
+| High 
+| Oral anticoagulant
+| Oral anticoagulant, using either a new oral anticoagulant drug (e.g. [[rivaroxaban]] or [[dabigatran]]) or well controlled [[warfarin]] at [[International normalized ratio|INR]] 2.0-3.0
+
+|}
+Based on the ESC guidelines on Atrial Fibrillation, oral anticoagulation is recommended or preferred for patients with one or more stroke risk factors (i.e. a CHA<sub>2</sub>DS<sub>2</sub>-VASc score of 1 and above).  This is consistent with a recent decision analysis model showing how the 'tipping point' on the decision to anticoagulate has changed with the availability of new 'safer' OAC drugs.<ref name="escardio.org"/><ref>Eckman MH, Singer DE, Rosand J, Greenberg SM. Moving the tipping point: the decision to anticoagulate patients with atrial fibrillation. Circ Cardiovasc Qual Outcomes. 2011 Jan 1;4(1):14-21.</ref>
+
+===Limitations of stroke risk prediction tools===
+Current stroke risk prediction tools including the CHADS2 and CHA2DS2VASc models are helpful in clinical practice. However, these are limited within the context of complex cardiogeriatric syndromes. Expanding such models to consider frailty, cognitive and functional decline, or nonadherence to anticoagulant therapy is warranted. Although avoiding stroke is an important consideration, the potential adverse effects of treatment needs to be balanced within the context of best available evidence, clinical expertise, and the individual patient’s circumstances. Developing metrics that consider the combination of these factors are likely to shed light on the issues of adherence in this population.<ref>Ferguson C, Inglis SC, Newton PJ, Middleton S, Macdonald PS, Davidson PM. Atrial fibrillation and thromboprophylaxis in heart failure: the need for patient-centered approaches to address adherence. Vascular Health & Risk Management. 2013 (9) : 3-11.</ref><ref>http://www.dovepress.com/atrial-fibrillation-and-thromboprophylaxis-in-heart-failure-the-need-f-peer-reviewed-article-VHRM</ref>
+
+==References==
+{{reflist|2}}
+
+{{DEFAULTSORT:Chads Score}}
+[[Category:Stroke]]

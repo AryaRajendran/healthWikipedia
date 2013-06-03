@@ -1,0 +1,112 @@
+{{enzyme
+| Name = Alkaline phosphatase
+| EC_number = 3.1.3.1
+| CAS_number = 9001-78-9
+| IUBMB_EC_number = 3/1/3/1
+| GO_code = 0004035
+| image = 1ALK.png
+| width = 
+| caption = Ribbon diagram (rainbow colored, [[N-terminus]] = blue, [[C-terminus]] = red) of the [[protein dimer|dimer]]ic structure of bacterial alkaline phosphatase.<ref name="pmid2010919">{{PDB|1ALK}}: {{cite journal | author = Kim EE, Wyckoff HW | title = Reaction mechanism of alkaline phosphatase based on crystal structures. Two-metal ion catalysis | journal = J. Mol. Biol. | volume = 218 | issue = 2 | pages = 449–64 | year = 1991 | month = March | pmid = 2010919 | doi = 10.1016/0022-2836(91)90724-K  | url =  }}</ref>
+}}
+{{Pfam box
+| Symbol = Alk_phosphatase
+| Name = Alkaline phosphatase
+| image = PDB 1alk EBI.jpg
+| width =
+| caption = Structure of alkaline phosphatase.<ref name="pmid2010919">{{cite journal |author=Kim EE, Wyckoff HW |title=Reaction mechanism of alkaline phosphatase based on crystal structures. Two-metal ion catalysis |journal=J. Mol. Biol. |volume=218 |issue=2 |pages=449–64 |year=1991 |month=March |pmid=2010919 |doi= 10.1016/0022-2836(91)90724-K|url=}}</ref>
+| Pfam = PF00245
+| InterPro = IPR001952
+| SMART = SM00098
+| PROSITE = PDOC00113
+| SCOP = 1alk
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| PDB = {{PDB2|1aja}}, {{PDB2|1ajb}}, {{PDB2|1ajc}}, {{PDB2|1ajd}}, {{PDB2|1alh}}, {{PDB2|1ali}}, {{PDB2|1alj}}, {{PDB2|1alk}}, {{PDB2|1ani ,1anj}}, {{PDB2|1b8j}}, {{PDB2|1ed8}}, {{PDB2|1ed9}}, {{PDB2|1elx}}, {{PDB2|1ely}}, {{PDB2|1elz}}, {{PDB2|1ew2 ,1ew8}}, {{PDB2|1ew9}}, {{PDB2|1hjk}}, {{PDB2|1hqa}}, {{PDB2|1k7h}}, {{PDB2|1kh4}}, {{PDB2|1kh5}}, {{PDB2|1kh7 ,1kh9}}, {{PDB2|1khj}}, {{PDB2|1khk}}, {{PDB2|1khl}}, {{PDB2|1khn}}, {{PDB2|1shn}}, {{PDB2|1shq}}, {{PDB2|1ura ,1urb}}, {{PDB2|1y6v}}, {{PDB2|1y7a}}, {{PDB2|1zeb}}, {{PDB2|1zed}}, {{PDB2|1zef}}, {{PDB2|2anh}}, {{PDB2|2g9y ,2ga3}}, {{PDB2|2glq}}
+}}
+'''Alkaline phosphatase''' ('''ALP''', '''ALKP''') ({{EC number|3.1.3.1}}) is a [[hydrolase]] [[enzyme]] responsible for removing [[phosphate]] groups from many types of molecules, including [[nucleotides]], [[proteins]], and [[alkaloids]]. The process of removing the phosphate group is called ''[[phosphorylation|dephosphorylation]]''. As the name suggests, alkaline phosphatases are most effective in an [[alkaline]] environment. 
+It is sometimes used synonymously as '''basic phosphatase'''.<ref name="Tamas2002">{{cite journal | author = Tamás L, Huttová J, Mistrk I, Kogan G | year = 2002 | title = Eﬀect of Carboxymethyl Chitin-Glucan on the Activity  of Some Hydrolytic Enzymes in Maize Plants | journal = Chem. Pap.| volume = 56 | issue = 5 | pages = 326–329 | url = http://www.chempap.org/papers/565a326.pdf | doi = | pmid = | pmc = }}</ref>
+
+==Bacterial==
+In [[Gram-negative bacteria]], alkaline phosphatase is located in the [[periplasmic space]], external to the [[cell membrane]]. Since this space is much more subject to environmental variation than the actual interior of the cell, bacterial alkaline phosphatase is comparatively resistant to inactivation, [[Denaturation (biochemistry)|denaturation]], and [[Chemical decomposition|degradation]], and also has a higher rate of activity. Although the purpose of the enzyme is not fully resolved, the simple hypothesis that it is a means for the bacteria to generate free phosphate groups for uptake and use is supported by the fact that alkaline phosphatase is usually produced by the bacteria only during phosphate starvation and not when phosphate is plentiful.<ref name="doi:10.1038/1831529b0">{{cite journal | author = T. HORIUCHI, S. HORIUCHI, D. MIZUNO | title = A Possible Negative Feedback Phenomenon controlling Formation of Alkaline Phosphomonoesterase in Escherichia coli | journal = Nature | volume = 183 | issue = 30 May 1959| pages = 1529–1530 | year = 1959 | month = may | pmid = | doi = 10.1038/1831529b0| url = http://www.nature.com/nature/journal/v183/n4674/abs/1831529b0.html }}</ref> However, other possibilities exist.  For instance, the presence of phosphate groups usually prevents [[organic molecule]]s from passing through the membrane; therefore, dephosphorylating them may be important for bacterial uptake of organic compounds in the wild.<ref name="DOI:10.1126/science.227.4692.1338">{{cite journal | author = James W. Ammerman and Farooq Azam | title = Bacterial 5'-Nucleotidase in Aquatic Ecosystems: A Novel Mechanism of Phosphorus Regeneration | journal = Science | volume = 183 | issue = 4692| pages = 1338–1340 | year = 1985 | month = mar | pmid = | doi = 10.1126/science.227.4692.1338| url = http://www.sciencemag.org/content/227/4692/1338.abstract?sid=2ec095c2-19ab-4baf-9e45-e41b47761034 }}</ref> Some complexities of bacterial [[regulation]] and [[metabolism]] suggest that other, more subtle, purposes for the enzyme may also play a role for the cell. In the [[laboratory]], however, [[mutant]] ''[[Escherichia coli]]'' lacking alkaline phosphatase survive quite well, as do mutants unable to shut off alkaline phosphatase production.<ref>{{cite journal|last=Wanner|first=Barry L.|coauthors=Patrick Latterell|title=Mutants Affected in Alkaline Phosphatase Expression: Evidence for Multiple Positive Regulators of the  Phosphate Regulon in Escherzchza Coli|journal=Genetics|date=August 7, 1980|year=1989|month=October|volume=96|pages=353–366|url=http://www.genetics.org/content/96/2/353.full.pdf|accessdate=19 September 2012}}</ref>
+
+The optimal pH for the activity of the
+''[[Escherichia coli|E. coli]]'' enzyme is 8.0<ref name="pmid13826559">{{cite journal | author = Garen A, Levinthal C | title = A fine-structure genetic and chemical study of the enzyme alkaline phosphatase of E. coli. I. Purification and characterization of alkaline phosphatase | journal = Biochim. Biophys. Acta | volume = 38 | issue = | pages = 470–83 | year = 1960 | month = March | pmid = 13826559 | doi = 10.1016/0006-3002(60)91282-8| url =  }}</ref> while the [[cattle|bovine]] enzyme optimum pH is slightly higher at 8.5.<ref name="pmid3003174">{{cite journal | author = Harada M, Udagawa N, Fukasawa K, Hiraoka BY, Mogi M | title = Inorganic pyrophosphatase activity of purified bovine pulp alkaline phosphatase at physiological pH | journal = J. Dent. Res. | volume = 65 | issue = 2 | pages = 125–7 | year = 1986 | month = February | pmid = 3003174 | doi = 10.1177/00220345860650020601| url = http://jdr.sagepub.com/cgi/pmidlookup?view=long&pmid=3003174 }}</ref>
+
+==Use in research==
+Typical use in the lab for alkaline phosphatases includes removing phosphate monoester to prevent self ligation.<ref name="pmid6246368">{{cite journal | author = Maxam AM, Gilbert W | title = Sequencing end-labeled DNA with base-specific chemical cleavages | journal = Meth. Enzymol. | volume = 65 | issue = 1 | pages = 499–560 | year = 1980 | pmid = 6246368 | doi = 10.1016/S0076-6879(80)65059-9| url =  | series = Methods in Enzymology | isbn = 978-0-12-181965-1 }}</ref>
+
+Common alkaline phosphatases used in research include:
+* Shrimp alkaline phosphatase (SAP), from a species of Arctic [[shrimp]] (''[[Pandalus borealis]]'').  This phosphatase is easily inactivated by heat, a useful feature in some applications.
+* [[Calf-intestinal alkaline phosphatase]] (CIP)
+* [[Placenta]]l alkaline phosphatase (PALP) and its C terminally truncated version that lacks the last 24 amino acids (constituting the domain that targets for GPI membrane anchoring)  - the secreted alkaline phosphatase (SEAP)
+
+Alkaline phosphatase has become a useful tool in [[molecular biology]] laboratories, since [[DNA]] normally possesses phosphate groups on the [[DNA|5']] end. Removing these phosphates prevents the DNA from [[ligation|ligating]] (the 5' end attaching to the [[DNA|3']] end), thereby keeping DNA molecules linear until the next step of the process for which they are being prepared; also, removal of the phosphate groups allows [[radiolabeling]] (replacement by radioactive phosphate groups) in order to measure the presence of the labeled DNA through further steps in the process or experiment. For these purposes, the alkaline phosphatase from shrimp is the most useful, as it is the easiest to inactivate once it has done its job.
+
+Another important use of alkaline phosphatase is as a label for [[enzyme immunoassay]]s.
+
+Undifferentiated [[pluripotent stem cells]] have elevated levels of alkaline phosphatase on their [[cell membrane]], therefore [[alkaline phosphatase staining]] is used to detect these cells and to test pluripotency (i.e. [[embryonic stem cells]] or [[embryonal carcinoma]] cells).<ref>Appendix E: Stem Cell Markers . In ''Stem Cell Information'' [World Wide Web site]. Bethesda, MD: National Institutes of Health, U.S. Department of Health and Human Services, 2009 [cited Monday, January 02, 2012] Available at <http://stemcells.nih.gov/info/scireport/appendixe></ref>
+
+One common use in the dairy industry is as a marker of pasteurisation in cows' milk. This molecule is denatured by elevated temperatures found during pasteurisation, and can be tested for via colour change of a [[para-Nitrophenylphosphate]] substrate in a buffered solution (Aschaffenburg Mullen Test).<ref name="pmid123455_1949">{{cite journal | author = Aschaffenburg R, Mullen JEC  | title = A rapid and simple phosphatase test for milk | journal = Journal of Dairy Research | volume = 16 | issue =  | pages = 58–67 | year = 1949 | month = | pmid = | doi = 10.1017/S0022029900005288| url =  }}</ref> Raw milk would typically produce a yellow colouration within a couple of minutes, whereas properly pasteurised milk should show no change. There are of course exceptions to this in the case of heat-stable alkaline phophatases produced by some bacteria.
+
+===Inhibitors===
+All mammalian alkaline phosphatase isoenzymes except [[placenta]]l (PALP and SEAP) are inhibited by [[homoarginine]], and, in similar manner, all except the intestinal and placental ones are blocked by [[levamisole]]. Heating for ~2 hours at 65°C inactivated most isoenzymes except Placental isoforms (PALP and SEAP).<ref> <span class="plainlinks">[http://www.everydayhealth.com/health-center/alkaline-phosphatase-why-it-is-done.aspx Alkaline Phosphatase Why It Is Done]</span> from Everday Health.com. Retrieved October 15,2012.</ref>
+
+==Human==
+
+===Physiology===
+In humans, alkaline phosphatase is present in all tissues throughout the entire body, but is particularly concentrated in [[liver]], [[bile duct]], [[kidney]], [[bone]], and the [[placenta]]. Humans and most other mammals contain the following alkaline phosphatase isozymes:
+* [[ALPI]] – intestinal
+* [[ALPL]] – tissue non-specific (liver/bone/kidney)
+* [[ALPP]] – placental (Regan isozyme)
+
+===Diagnostic use===
+The normal range is 20 to 140 [[International unit|IU]]/L.<ref name="Ref_">{{cite web |url=http://www.nlm.nih.gov/MEDLINEPLUS/ency/article/003497.htm |title=MedlinePlus Medical Encyclopedia: ALP isoenzyme test |work= |accessdate=}}</ref> High ALP levels can show that the [[bile duct]]s are obstructed.<ref name="Ref_a">[http://www.labtestsonline.org/understanding/analytes/alp/test.html ALP: The Test<!-- Bot generated title -->]</ref> Levels are significantly higher in children and pregnant women. Also, elevated ALP indicates that there could be active bone formation occurring as ALP is a byproduct of [[osteoblast]] activity (such as the case in [[Paget's disease of bone]]). Levels are also elevated in people with untreated [[Coeliac Disease]].<ref>{{cite journal|last=Preussner, Harold T|title=Detecting coeliac disease in your patients|journal=American Family Physician|year=1998|month=March|volume=57|issue=5|pages=1023–1034}}</ref> 
+
+Lowered levels of ALP are less common than elevated levels.  
+
+==== Elevated levels ====
+{{main|Elevated alkaline phosphatase}}
+If it is unclear why alkaline phosphatase is elevated, [[isoenzyme]] studies using [[electrophoresis]] can confirm the source of the ALP. Heat stability also distinguishes bone and liver isoenzymes ("bone burns, liver lasts").  Placental alkaline phosphatase is elevated in [[seminoma]]s<ref name="pmid7093962">{{cite journal | author = Lange PH, Millan JL, Stigbrand T, Vessella RL, Ruoslahti E, Fishman WH | title = Placental alkaline phosphatase as a tumor marker for seminoma | journal = Cancer Res. | volume = 42 | issue = 8 | pages = 3244–7 | year = 1982 | month = August | pmid = 7093962 | doi = | url =  }}</ref> and active form of [[Rickets]].
+
+==== Lowered levels ====
+
+The following conditions or diseases may lead to reduced levels of alkaline phosphatase:
+
+* [[Hypophosphatasia]], an [[autosomal recessive]] disease
+* [[menopause|Postmenopausal]] women receiving [[Hormone replacement therapy (menopause)|estrogen therapy]] because of [[osteoporosis]]
+* Men with recent [[heart surgery]], [[malnutrition]], [[Hypomagnesemia|magnesium deficiency]], [[hypothyroidism]], or severe [[anemia]]
+* Children with [[achondroplasia]] and [[cretinism]]
+* Children after a severe episode of [[enteritis]]
+* [[Pernicious anemia]]
+* [[Aplastic anemia]]
+* [[Chronic myelogenous leukemia]]
+* [[Wilson's disease]]
+
+In addition, the following drugs have been demonstrated to reduce alkaline phosphatase:
+
+* Oral contraceptives<ref name="pmid9877094">{{cite journal | author = Schiele F, Vincent-Viry M, Fournier B, Starck M, Siest G | title = Biological effects of eleven combined oral contraceptives on serum triglycerides, gamma-glutamyltransferase, alkaline phosphatase, bilirubin and other biochemical variables | journal = Clin. Chem. Lab. Med. | volume = 36 | issue = 11 | pages = 871–8 | year = 1998 | month = November | pmid = 9877094 | doi = 10.1515/CCLM.1998.153 | url =  }}</ref>
+
+==== Leukocyte alkaline phosphatase ====
+Leukocyte alkaline phosphatase (LAP) is found within [[white blood cell]]s. White blood cell levels of LAP can help in the diagnosis of certain conditions. 
+* Higher levels are seen in [[polycythemia vera]] (PV), [[essential thrombocytosis]] (ET), [[primary myelofibrosis]] (PM), and the [[leukemoid reaction]].
+* Lower levels are found in [[chronic myelogenous leukemia]]<ref name="HannSmith2006">{{cite book|author1=Ian M. Hann|author2=Owen P. Smith|title=Pediatric hematology|url=http://books.google.com/books?id=iUnYGCqEc5MC&pg=PA763|accessdate=5 November 2010|date=26 September 2006|publisher=Wiley-Blackwell|isbn=978-1-4051-3400-2|pages=763–}}</ref> (CML), [[paroxysmal nocturnal hemoglobinuria]] (PNH) and [[acute myelogenous leukaemia]] (AML).
+
+==See also==
+* [[Acid phosphatase]]
+* [[Liver function tests]]
+
+== References ==
+{{reflist|2}}
+
+==Further reading==
+{{refbegin}}
+*{{cite journal |author=Coleman JE |title=Structure and mechanism of alkaline phosphatase |journal=Annu Rev Biophys Biomol Struct |volume=21 |issue= |pages=441–83 |year=1992 |pmid=1525473 |doi=10.1146/annurev.bb.21.060192.002301 |url=http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.bb.21.060192.002301?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dncbi.nlm.nih.gov}}
+{{refend}}
+
+{{Phosphatases}}
+{{Blood tests}}
+
+{{DEFAULTSORT:Alkaline Phosphatase}}
+[[Category:EC 3.1.3]]
+[[Category:Liver function tests]]

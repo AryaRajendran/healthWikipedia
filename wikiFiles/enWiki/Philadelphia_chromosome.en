@@ -1,0 +1,66 @@
+{{Infobox disease
+ | Name            = Philadelphia chromosome
+ | Image           = Bcrablmet.jpg
+ | Caption         = A metaphase cell positive for the bcr/abl rearrangement using [[Fluorescent in situ hybridization|FISH]]
+ | DiseasesDB      =
+ | ICD10           = {{ICD10|C|92|1|c|81}}
+ | ICD9            = {{ICD9|205.1}}
+ | ICDO            = 9875/3
+ | OMIM            =
+ | MedlinePlus     =
+ | eMedicineSubj   =
+ | eMedicineTopic  =
+ | MeshID          = D010677
+}}
+'''Philadelphia chromosome''' or '''Philadelphia translocation''' is a specific [[chromosome|chromosomal]] abnormality that is associated with [[chronic myelogenous leukemia]] (CML).  It is the result of a reciprocal [[chromosomal translocation|translocation]] between chromosome 9 and 22, and is specifically designated t(9;22)(q34;q11). The presence of this translocation is a highly [[Sensitivity (tests)|sensitive]] test for CML, since 95% of people with CML have this abnormality (the remainder have either a cryptic translocation that is invisible on [[G banding|G-banded]] chromosome preparations, or a variant translocation involving another chromosome or chromosomes as well as the long arm of chromosomes 9 and 22). However, the presence of the Philadelphia (Ph) chromosome is not sufficiently [[Specificity (tests)|specific]] to diagnose CML, since it is also found in [[acute lymphoblastic leukemia]]<ref name="pmid16775234">{{cite journal |author=Talpaz M, Shah NP, Kantarjian H, ''et al.'' |title=Dasatinib in imatinib-resistant Philadelphia chromosome-positive leukemias |journal=N. Engl. J. Med. |volume=354 |issue=24 |pages=2531–41 |year=2006 |month=June |pmid=16775234 |doi=10.1056/NEJMoa055229 |url=http://content.nejm.org/cgi/pmidlookup?view=short&pmid=16775234&promo=ONFLNS19}}</ref> (ALL, 25&ndash;30% in adult and 2&ndash;10% in [[pediatrics|pediatric]] cases) and occasionally in [[acute myelogenous leukemia]] (AML).
+
+==Molecular biology==
+[[Image:Philadelphia Chromosom.svg|right|thumb|300px|Schematic representation of formation of the Philadelphia Chromosome]]
+The exact chromosomal defect in Philadelphia chromosome is a [[Chromosomal translocation|translocation]], in which parts of two chromosomes, 9 and 22, swap places. The result is that a [[fusion gene]] is created by juxtapositioning the [[Abl gene|''Abl1'' gene]] on chromosome 9 (region q34) to a part of the ''[[BCR gene|BCR]]'' ("breakpoint cluster region") gene on [[chromosome 22]] (region q11). This is a reciprocal translocation, creating an elongated chromosome 9 (''der 9''), and a truncated chromosome 22 (''the Philadelphia chromosome).''<ref name="pmid12755554">{{cite pmid|12755554}}</ref><ref name="pmid8656667">{{cite pmid|8656667}}</ref> In agreement with the [[International System for Human Cytogenetic Nomenclature]] (ISCN), this [[chromosomal translocation]] is designated as t(9;22)(q34;q11). ''Abl'' stands for "Abelson", the name of a leukemia virus which carries a similar protein.
+
+The result of the translocation is the [[oncogenic]] BCR-ABL gene fusion, located on the shorter derivative 22 chromosome. This gene encodes the Bcr-abl fusion protein. Depending on the precise location of the fusion the molecular weight of the protein can range from 185 to 210 [[kDa]]. For this reason bcr-abl is sometimes called p210 or p185.  Three clinically important variants are the p190, p210 and p230 isoforms.<ref name="pmid12191565">{{cite pmid|12191565}}</ref>  p190 is generally associated with [[acute lymphoblastic leukemia]] (ALL), while p210 is generally associated with [[chronic myeloid leukemia]] but can also be associated with [[acute lymphoblastic leukemia|ALL]].<ref name="pmid18665825">{{cite pmid|18665825}}</ref>  p230 is usually associated with [[chronic neutrophilic leukemia]].<ref name="pmid18665825" />  Additionally, the p190 isoform can also be expressed as a [[Alternative splicing|splice variant]] of p210.<ref name="pmid9858221>{{cite pmid|9858221}}</ref>
+
+Because the Abl gene expresses a membrane-associated protein, a [[tyrosine kinase]], the BCR-Abl transcript is also translated into a tyrosine kinase. The activity of tyrosine kinases is typically controlled by other molecules, but the mutant tyrosine kinase encoded by the BCR-Abl transcript results in a protein that is "always on" or continuously activated, which results in unregulated cell division (i.e. cancer). Although the BCR region also expresses serine/threonine kinases, the [[tyrosine kinase]] function is very relevant for drug therapy. [[Tyrosine kinase inhibitors]] (such as [[imatinib]] and [[sunitinib]]) are important drugs against a variety of cancers including CML, [[renal cell carcinoma]] (RCC) and [[gastrointestinal stromal tumor]]s (GISTs).
+
+The fused ''BCR-Abl'' protein interacts with the [[interleukin-3 receptor]] beta(c) subunit. The ABL tyrosine kinase activity of ''BCR-Abl'' is elevated relative to wild-type ABL.<ref>{{cite journal|last=Sattler|first=Martin|coauthors=James D. Griffin|title=Mechanisms of transformation by the BCR/ABL oncogene|journal=International Journal of Hematology|year=2001|month=April|volume=73|issue=3|pages=278-91|doi=10.1007/BF02981952|pmid=11345193|accessdate=16 April 2013}}</ref>  Since ABL activates a number of [[cell cycle]]-controlling [[protein]]s and [[enzyme]]s, the result of the ''BCR-Abl'' fusion is to speed up cell division. Moreover, it inhibits [[DNA repair]], causing [[genomic instability]] and potentially causing the feared [[Chronic myelogenous leukemia#Blast crisis|blast crisis]] in CML.
+
+== Nomenclature ==
+Philadelphia chromosome is designated '''Ph (or Ph') chromosome''' and the translocation is termed '''t(9;22)(q34.1;q11.2)'''.
+
+==Therapy==
+===Tyrosine kinase inhibitors===
+[[File:3CS9 Abl1 Nilotinib.png|300px|right|thumb|Crystal structure of Abl kinase domain (blue) in complex with 2nd generation [[tyrosine kinase inhibitor]] (TKI) [[nilotinib]] (red)]]
+{{main|Bcr-Abl tyrosine-kinase inhibitor}}
+In the late 1990s, STI-571 ([[imatinib]], Gleevec/Glivec) was identified by the pharmaceutical company [[Novartis]] (then known as Ciba Geigy) in high-throughput screens for [[Protein kinase inhibitor|tyrosine kinase inhibitors]].  Subsequent clinical trials led by Dr. [[Brian Druker|Brian J. Druker]] at [[Oregon Health & Science University]] in collaboration with Dr. Charles Sawyers and Dr. Moshe Talpaz demonstrated that STI-571 inhibits proliferation of BCR-ABL-expressing hematopoietic cells.  Although it did not eradicate CML cells, it did greatly limit the growth of the tumor clone and decreased the risk of the feared "[[blast crisis]]".{{fact|date=March 2011}} 
+In 2000 [[John Kuriyan]] determined the mechanism by which STI-571 inhibits the Abl kinase domain.<ref>{{cite journal |author=Schindler T, Bornmann W, Pellicena P, Miller WT, Clarkson B, Kuriyan J |title=AStructural mechanism for STI-571 inhibition of abelson tyrosine kinase |journal=Science |volume=289 |issue=5486 |pages=1857–9 |year=2000 |pmid=10988075 |doi=10.1126/science.289.5486.1938 |url=http://www.sciencemag.org/cgi/content/full/289/5486/1938}}</ref> 
+It was marketed in 2001 by Novartis as [[imatinib|imatinib mesylate]] (Gleevec in the US, Glivec in Europe). 
+Other pharmacological inhibitors are being developed, which are more potent and/or are active against the emerging Gleevec/Glivec resistant BCR-abl clones in treated patients. The majority of these resistant clones are point-mutations in the kinase of BCR-abl.  New inhibitors include [[dasatinib]] and [[nilotinib]], which are significantly more potent than imatinib and may overcome resistance.
+
+Treatment of pediatric Ph+ ALL with a combination of standard [[chemotherapy]] and [[Receptor tyrosine kinase|RTK]] inhibitors may result in remission,{{fact|date=March 2011}} but the curative potential is unknown.
+
+===Blood or marrow transplants===
+A potentially curative, but risky, option for pediatric Ph+ ALL or Ph+ CML is bone marrow transplant or [[cord blood]] transplant, but chemotherapy is favored by some for achieving first remission (CR1).  For some, bone marrow transplant from a matched sibling donor or a matched, unrelated donor may be favored when remission is obtained.
+
+[[Cord blood]] transplant is favored by some when a 10/10 bone marrow match is not available, and cord blood transplant may have some advantages, including a reduced incidence of graft-vs-host disease (GVHD), which is a common and significant complication of transplant.  However, transplant with cord blood sometimes requires longer periods of time for engraftment, which may increase the potential for complications due to infection.  Regardless of the type of transplant, transplant-related mortality and relapse are possible, and the rates may change as treatment protocols improve.  For second remission (CR2), if achieved, both chemotherapy and transplant options are possible, and many physicians prefer transplant.{{Citation needed|date=March 2011}}
+
+==History==
+The Philadelphia chromosome was first discovered and described in 1960 by [[Peter Nowell]] from [[University of Pennsylvania School of Medicine]]<ref>{{cite journal |author=Nowell P, Hungerford D |title=A minute chromosome in chronic granulocytic leukemia |journal=[[Science (journal)|Science]] |volume=132 |issue=3438 |pages=1497 |date=November 1960 |doi=10.1126/science.132.3438.1488 |url=http://www.sciencemag.org/content/132/3438/1488.full.pdf |format=PDF}}</ref> and David Hungerford from the [[Fox Chase Cancer Center]]'s<ref>{{cite journal |author=Fox Chase Cancer Center |title=50th Anniversary of the Discovery of the Philadelphia Chromsome |url=http://pubweb.fccc.edu/philadelphiachromosome/}}</ref> Institute for Cancer Research and was therefore named after the city in which both facilities are located.
+
+In 1973, [[Janet Rowley|Janet D. Rowley]] at the [[University of Chicago]] identified the mechanism by which the Philadelphia chromosome arises as a translocation.<ref>{{cite journal |author=Rowley JD |title=Letter: A new consistent chromosomal abnormality in chronic myelogenous leukaemia identified by quinacrine fluorescence and Giemsa staining |journal=Nature |volume=243 |issue=5405 |pages=290–3 |year=1973 |pmid=4126434 |doi= 10.1038/243290a0|url=}}</ref><ref>{{cite web | url=http://www.nytimes.com/2011/02/08/science/08conversation.html | title=The Matriarch of Modern Cancer Genetics | author=[[Claudia Dreifus]] | work=New York Times | date=2011-02-07}}</ref>
+
+== See also ==
+*[[Chronic myelogenous leukemia]]
+
+== References==
+{{reflist|2}}
+
+==External links==
+* {{MeshName|Philadelphia+chromosome}}
+* {{MeshName|bcr-abl+Fusion+Proteins}}
+
+{{Chromosomal abnormalities}}
+{{Myeloid malignancy}}
+
+[[Category:Chromosomal abnormalities]]
+
+{{Link GA|de}}

@@ -1,0 +1,122 @@
+<!-- The PBB_Summary template is automatically maintained by Protein Box Bot.  See Template:PBB_Controls to Stop updates. -->
+{{PBB|geneid=3156}}
+{{enzyme
+| Name
+| IUBMB_EC_number = 1/1/1/34
+| GO_code = 0004420
+| image = 
+| width = 
+| caption = 
+}}
+{{enzyme
+| Name = hydroxymethylglutaryl-CoA reductase
+| EC_number = 1.1.1.88
+| CAS_number = 37250-24-1
+| IUBMB_EC_number = 1/1/1/88
+| GO_code = 0042282
+| image = 
+| width = 
+| caption = 
+}}
+
+'''HMG-CoA reductase''' (or '''3-hydroxy-3-methyl-glutaryl-CoA reductase''' or '''HMGCR''') is the rate-controlling [[enzyme]] ({{EC number|1.1.1.88}}) of the [[mevalonate]] pathway, the [[metabolic pathway]] that produces [[cholesterol]] and other isoprenoids. Normally in mammalian cells this enzyme is suppressed by cholesterol derived from the internalization and degradation of low density lipoprotein (LDL) via the LDL receptor as well as oxidized species of cholesterol. Competitive inhibitors of the reductase induce the expression of LDL receptors in the liver, which in turn increases the catabolism of plasma LDL and lowers the plasma concentration of cholesterol, an important determinant of atherosclerosis.<ref name="entrez">{{cite web | title = Entrez Gene: HMGCR 3-hydroxy-3-methylglutaryl-Coenzyme A reductase| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=3156| accessdate = }}</ref> This enzyme is thus the target of the widely available cholesterol-lowering drugs known collectively as the [[statins]]. HMG-CoA reductase is anchored in the membrane of the [[endoplasmic reticulum]], and was long regarded as having seven transmembrane domains, with the active site located in a long carboxyl terminal domain in the cytosol. More recent evidence shows it to contain eight transmembrane domains.<ref name="pmid1374417">{{cite journal | author = Roitelman J, Olender EH, Bar-Nun S, Dunn WA, Simoni RD | title = Immunological evidence for eight spans in the membrane domain of 3-hydroxy-3-methylglutaryl coenzyme A reductase: implications for enzyme degradation in the endoplasmic reticulum | journal = J. Cell Biol. | volume = 117 | issue = 5 | pages = 959–73 | year = 1992 | month = June | pmid = 1374417 | pmc = 2289486 | doi = 10.1083/jcb.117.5.959| url = }}</ref>
+
+The enzyme commission designation is EC 1.1.1.34 for the NADPH-dependent enzyme, whereas 1.1.1.88 links to an NADH-dependent enzyme.
+
+In humans, the gene for HMG-CoA reductase is located on the long arm of the fifth [[chromosome]] (5q13.3-14).<ref name="pmid3866240">{{cite journal | author = Lindgren V, Luskey KL, Russell DW, Francke U | title = Human genes involved in cholesterol metabolism: chromosomal mapping of the loci for the low density lipoprotein receptor and 3-hydroxy-3-methylglutaryl-coenzyme A reductase with cDNA probes | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 82 | issue = 24 | pages = 8567–71 | year = 1985 | month = December | pmid = 3866240 | pmc = 390958 | doi = 10.1073/pnas.82.24.8567| url = }}</ref> Related enzymes having the same function are also present in other animals, plants and bacteria.
+<!-- Missing image removed: [[Image:HMGRHighRes.png]] -->
+
+== Reaction ==
+HMGCR converts [[HMG-CoA]] to [[mevalonic acid]]:
+{|
+|[[Image:Mevalonate pathway.svg|450px|left|[[Mevalonate pathway]]]]
+|}
+
+==Interactive pathway map==
+{{StatinPathway_WP430|highlight=HMGCR}}
+
+== Inhibitors ==
+=== Drugs ===
+Drugs that inhibit HMG-CoA reductase, known collectively as [[HMG-CoA reductase inhibitor]]s (or "statins"), are used to lower serum [[cholesterol]] as a means of reducing the risk for [[heart disease|cardiovascular disease]].<ref name="pmid9790411">{{cite journal | author = Farmer JA | title = Aggressive lipid therapy in the statin era | journal = Prog. Cardiovasc. Dis. | volume = 41 | issue = 2 | pages = 71–94 | year = 1998 | pmid = 9790411 | doi = 10.1016/S0033-0620(98)80006-6 | url = }}</ref>
+
+These drugs include [[rosuvastatin]] (CRESTOR), [[lovastatin]] (Mevacor), [[atorvastatin]] (Lipitor), [[pravastatin]] (Pravachol), [[fluvastatin]] (Lescol), [[pitavastatin]] (Livalo), and [[simvastatin]] (Zocor).<ref name="pmid14983817">{{cite journal | author = | title = Is there a "best" statin drug? | journal = Johns Hopkins Med. Lett. Health After 50 | volume = 15 | issue = 11 | pages = 4–5 | year = 2004 | month = January | pmid = 14983817 | doi = | url = }}</ref> [[Red yeast rice]] extract, one of the fungal sources from which the statins were discovered, contains several naturally occurring cholesterol-lowering molecules known as monacolins. The most active of these is monacolin K, or [[lovastatin]] (previously sold under the trade name Mevacor, and now available as generic lovastatin).<ref name="pmid18038131">{{cite journal | author = Lin YL, Wang TH, Lee MH, Su NW | title = Biologically active components and nutraceuticals in the ''Monascus''-fermented rice: a review | journal = Appl. Microbiol. Biotechnol. | volume = 77 | issue = 5 | pages = 965–73 | year = 2008 | month = January | pmid = 18038131 | doi = 10.1007/s00253-007-1256-6 | url = }}</ref>
+
+[[Vytorin]] is drug that combines the use [[simvastatin]] and [[ezetimibe]], which slows the formation of cholesterol by every cell in the body, along with ezetimibe reducing absorption of cholesterol, typically by about 53%, from the intestines.<ref name="pmid15503655">{{cite journal | author = Flores NA | title = Ezetimibe + simvastatin (Merck/Schering-Plough) | journal = Curr. Opin. Investig. Drugs | volume = 5 | issue = 9 | pages = 984–92 | year = 2004 | month = September | pmid = 15503655 | doi = | url = }}</ref>
+
+=== Hormones ===
+HMG-CoA reductase is active when blood glucose is high. The basic functions of [[insulin]] and [[glucagon]] are to maintain glucose homeostasis. Thus, in controlling blood sugar levels, they indirectly affect the activity of HMG-CoA reductase, but a decrease in activity of the enzyme is caused by an [[AMP-activated protein kinase]], which responds to an increase in [[Adenosine monophosphate|AMP]] concentration, and also to [[leptin]] (see 4.4, Phosphorylation of reductase).
+
+== Importance ==
+HMG-CoA reductase is a polytopic, transmembrane protein that catalyzes a key step in the mevalonate pathway [http://biocyc.org/META/NEW-IMAGE?type=PATHWAY&object=PWY-922 (MetaCyc mevalonate pathway)], which is involved in the synthesis of sterols, isoprenoids and other lipids. In humans, HMG-CoA reductase is the rate-limiting step in cholesterol synthesis and represents the sole major drug target for contemporary cholesterol-lowering drugs.
+
+The medical significance of HMG-CoA reductase has continued to expand beyond its direct role in cholesterol synthesis following the discovery that statins can offer cardiovascular health benefits independent of cholesterol reduction.<ref name=pmid15853754>{{cite journal | author = Arnaud C, Veillard NR, Mach F | title = Cholesterol-independent effects of statins in inflammation, immunomodulation and atherosclerosis | journal = Curr. Drug Targets Cardiovasc. Haematol. Disord. | volume = 5 | issue = 2 | pages = 127–34 | year = 2005 | month = April | pmid = 15853754 | doi = 10.2174/1568006043586198 | url = }}</ref> Statins have been shown to have anti-inflammatory properties,<ref name=pmid16283973>{{cite journal
+ |last=Sorrentino |first=Sajoscha |last2=Landmesser |first2=Ulf |title=Nonlipid-lowering effects of statins |journal=Curr. Treat. Options Cardiovasc. Med. |volume=7 |issue=6 |pages=459&ndash;466 |year=2005 |month=December |pmid=16283973 |doi=10.1007/s11936-005-0031-1 |url=http://link.springer.com/article/10.1007%2Fs11936-005-0031-1 }}</ref> most likely as a result of their ability to limit production of key downstream [[isoprenoids]] that are required for portions of the inflammatory response. It can be noted that blocking of isoprenoid synthesis by statins has shown promise in treating a mouse model of [[multiple sclerosis]], an inflammatory autoimmune disease.<ref name="pmid12858078">{{cite journal | author = Stüve O, Youssef S, Steinman L, Zamvil SS | title = Statins as potential therapeutic agents in neuroinflammatory disorders | journal = Curr. Opin. Neurol. | volume = 16 | issue = 3 | pages = 393–401 | year = 2003 | month = June | pmid = 12858078 | doi = 10.1097/01.wco.0000073942.19076.d1 | url = | doi_brokendate = 2009-11-26 }}</ref>
+
+HMG-CoA reductase is also an important developmental enzyme. Inhibition of its activity and the concomitant lack of isoprenoids that yields can lead to germ cell migration defects <ref name="pmid14960282">{{cite journal | author = Thorpe JL, Doitsidou M, Ho SY, Raz E, Farber SA | title = Germ cell migration in zebrafish is dependent on HMGCoA reductase activity and prenylation | journal = Dev. Cell | volume = 6 | issue = 2 | pages = 295–302 | year = 2004 | month = February | pmid = 14960282 | doi = 10.1016/S1534-5807(04)00032-2 | url = }}</ref> as well as intracerebral hemorrhage. <ref name="pmid23206891">{{cite journal | author = Eisa-Beygi S, Hatch G, Noble S, Ekker M, Moon TM | title = The 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR) pathway regulates developmental cerebral-vascular stability via prenylation-dependent signalling pathway | journal = Dev. Biol. | volume = 373 | issue = 2 | pages = 258-266 | year = 2013 | month = January| pmid = 23206891 | doi =  10.1016/j.ydbio.2012.11.024 | url = }}</ref>
+
+== Regulation ==
+[[Image:HMGCOA-1DQA.png|thumb|HMG-CoA reductase-[[substrate (biochemistry)|Substrate]] complex (Blue:[[Coenzyme A]], red:HMG, green:[[NADPH|NADP]])]]
+Regulation of HMG-CoA reductase is achieved at several levels: transcription, translation, degradation and phosphorylation.
+NO
+===Transcription of the reductase gene===
+[[Transcription (genetics)|Transcription]] of the reductase [[gene]] is enhanced by the ''[[sterol regulatory element binding protein]]'' (SREBP). This protein binds to the ''[[sterol regulatory element]]'' (SRE), located on the 5' end of the reductase gene. When [[sterol regulatory element binding protein|SREBP]] is inactive, it is bound to the [[Endoplasmic reticulum|ER]] or [[nuclear membrane]]. When [[cholesterol]] levels fall, SREBP is released from the membrane by [[proteolysis]] and migrates to the [[cell nucleus|nucleus]], where it binds to the SRE and transcription is enhanced. If cholesterol levels rise, proteolytic cleavage of SREBP from the membrane ceases and any proteins in the nucleus are quickly degraded.
+
+=== Translation of mRNA ===
+[[Translation (genetics)|Translation]] of [[mRNA]] is inhibited by a [[mevalonate]] derivative, which has been reported to be [[farnesol]],<ref name="pmid8626470">{{cite journal | author = Meigs TE, Roseman DS, Simoni RD | title = Regulation of 3-hydroxy-3-methylglutaryl-coenzyme A reductase degradation by the nonsterol mevalonate metabolite farnesol in vivo | journal = J. Biol. Chem. | volume = 271 | issue = 14 | pages = 7916–22 | year = 1996 | month = April | pmid = 8626470 | doi = 10.1074/jbc.271.14.7916| url = http://www.jbc.org/cgi/content/full/271/14/7916 }}</ref><ref name="pmid9281305">{{cite journal | author = Meigs TE, Simoni RD | title = Farnesol as a regulator of HMG-CoA reductase degradation: characterization and role of farnesyl pyrophosphatase | journal = Arch. Biochem. Biophys. | volume = 345 | issue = 1 | pages = 1–9 | year = 1997 | month = September | pmid = 9281305 | doi = 10.1006/abbi.1997.0200 | url = }}</ref>although this role has been disputed.<ref name="pmid8645011">{{cite journal | author = Keller RK, Zhao Z, Chambers C, Ness GC | title = Farnesol is not the nonsterol regulator mediating degradation of HMG-CoA reductase in rat liver | journal = Arch. Biochem. Biophys. | volume = 328 | issue = 2 | pages = 324–30 | year = 1996 | month = April | pmid = 8645011 | doi = 10.1006/abbi.1996.0180 | url = }}</ref>
+
+=== Degradation of reductase ===
+Rising levels of [[sterol]]s increase the susceptibility of the reductase enzyme to ER-associated degradation ([[ERAD]]) and [[proteolysis]]. Helices 2-6 (total of 8) of the HMG-CoA reductase transmembrane domain sense the higher levels of cholesterol, which leads to the exposure of Lysine 248. This lysine residue can become ubiquinated by the E3 ligase [[AMFR]], serving as a signal for proteolytic degradation.
+
+=== Phosphorylation of reductase ===
+Short-term regulation of HMG-CoA reductase is achieved by inhibition by [[phosphorylation]] (of Serine 872, in humans<ref name="pmid10698924">{{cite journal | author = Istvan ES, Palnitkar M, Buchanan SK, Deisenhofer J | title = Crystal structure of the catalytic portion of human HMG-CoA reductase: insights into regulation of activity and catalysis | journal = EMBO J. | volume = 19 | issue = 5 | pages = 819–30 | year = 2000 | month = March | pmid = 10698924 | pmc = 305622 | doi = 10.1093/emboj/19.5.819 | url = }}</ref>). Decades ago it was believed that a cascade of enzymes controls the activity of HMG-CoA reductase: an HMG-CoA reductase kinase was thought to inactivate the enzyme, and the kinase in turn was held to be activated via phosphorylation by HMG-CoA reductase kinase kinase. An excellent review on regulation of the mevalonate pathway by Nobel Laureates Joseph Goldstein and Michael Brown adds specifics: HMG-CoA reductase is phosphorylated and inactivated by an [[AMP-activated protein kinase]], which also phosphorylates and inactivates [[acetyl-CoA carboxylase]], the rate-limiting enzyme of fatty acid biosynthesis.<ref name="pmid1967820">{{cite journal | author = Goldstein JL, Brown MS | title = Regulation of the mevalonate pathway | journal = Nature | volume = 343 | issue = 6257 | pages = 425–30 | year = 1990 | month = February | pmid = 1967820 | doi = 10.1038/343425a0 | url = }}</ref> Thus, both pathways utilizing acetyl-CoA for lipid synthesis are inactivated when energy charge is low in the cell, and concentrations of [[Adenosine monophosphate|AMP]] rise. There has been a great deal of research on the identity of upstream kinases that phosphorylate and activate the [[AMP-activated protein kinase]].<ref name="pmid12829246">{{cite journal | author = Hardie DG, Scott JW, Pan DA, Hudson ER | title = Management of cellular energy by the AMP-activated protein kinase system | journal = FEBS Lett. | volume = 546 | issue = 1 | pages = 113–20 | year = 2003 | month = July | pmid = 12829246 | doi = 10.1016/S0014-5793(03)00560-X | url = }}</ref>
+
+Fairly recently, LKB1 has been identified as a likely AMP kinase kinase,<ref name="pmid16356723">{{cite journal | author = Witters LA, Kemp BE, Means AR | title = Chutes and Ladders: the search for protein kinases that act on AMPK | journal = Trends Biochem. Sci. | volume = 31 | issue = 1 | pages = 13–6 | year = 2006 | month = January | pmid = 16356723 | doi = 10.1016/j.tibs.2005.11.009 | url = }}</ref> which appears to involve calcium/calmodulin signaling. This pathway likely transduces signals from [[leptin]], [[adiponectin]], and other signaling molecules.<ref name="pmid12829246"/>
+
+== See also ==
+* [[Oxidoreductase]]
+
+== References ==
+{{reflist|2}}
+
+== Further reading ==
+{{refbegin | 2}}
+{{PBB_Further_reading 
+| citations = 
+*{{cite journal | author=Hodge VJ |title=Normal cholesterol synthesis in human cells requires functional peroxisomes |journal=Biochem. Biophys. Res. Commun. |volume=181 |issue= 2 |pages= 537–41 |year= 1992 |pmid= 1755834 |doi=10.1016/0006-291X(91)91222-X | author-separator=, | author2=Gould SJ | author3=Subramani S | display-authors=3 | last4=Moser | first4=Hugo W. | last5=Krisans | first5=Skaidrite K. }}
+*{{cite journal | author=Ramharack R, Tam SP, Deeley RG |title=Characterization of three distinct size classes of human 3-hydroxy-3-methylglutaryl coenzyme A reductase mRNA: expression of the transcripts in hepatic and nonhepatic cells |journal=DNA Cell Biol. |volume=9 |issue= 9 |pages= 677–90 |year= 1991 |pmid= 1979742 |doi=10.1089/dna.1990.9.677 }}
+*{{cite journal | author=Clarke PR, Hardie DG |title=Regulation of HMG-CoA reductase: identification of the site phosphorylated by the AMP-activated protein kinase in vitro and in intact rat liver |journal=EMBO J. |volume=9 |issue= 8 |pages= 2439–46 |year= 1990 |pmid= 2369897 |doi= | pmc=552270 }}
+*{{cite journal | author=Luskey KL, Stevens B |title=Human 3-hydroxy-3-methylglutaryl coenzyme A reductase. Conserved domains responsible for catalytic activity and sterol-regulated degradation |journal=J. Biol. Chem. |volume=260 |issue= 18 |pages= 10271–7 |year= 1985 |pmid= 2991281 |doi= }}
+*{{cite journal | author=Humphries SE |title=The isolation, characterisation, and chromosomal assignment of the gene for human 3-hydroxy-3-methylglutaryl coenzyme A reductase, (HMG-CoA reductase) |journal=Hum. Genet. |volume=71 |issue= 3 |pages= 254–8 |year= 1986 |pmid= 2998972 |doi=10.1007/BF00284585 | author-separator=, | author2=Tata F | author3=Henry I | display-authors=3 | last4=Barichard | first4=F. | last5=Holm | first5=M. | last6=Junien | first6=C. | last7=Williamson | first7=R. }}
+*{{cite journal | author=Beg ZH, Stonik JA, Brewer HB |title=Phosphorylation and modulation of the enzymic activity of native and protease-cleaved purified hepatic 3-hydroxy-3-methylglutaryl-coenzyme A reductase by a calcium/calmodulin-dependent protein kinase |journal=J. Biol. Chem. |volume=262 |issue= 27 |pages= 13228–40 |year= 1987 |pmid= 3308873 |doi= }}
+*{{cite journal | author=Osborne TF, Goldstein JL, Brown MS |title=5' end of HMG CoA reductase gene contains sequences responsible for cholesterol-mediated inhibition of transcription |journal=Cell |volume=42 |issue= 1 |pages= 203–12 |year= 1985 |pmid= 3860301 |doi=10.1016/S0092-8674(85)80116-1 }}
+*{{cite journal | author=Lindgren V, Luskey KL, Russell DW, Francke U |title=Human genes involved in cholesterol metabolism: chromosomal mapping of the loci for the low density lipoprotein receptor and 3-hydroxy-3-methylglutaryl-coenzyme A reductase with cDNA probes |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=82 |issue= 24 |pages= 8567–71 |year= 1986 |pmid= 3866240 |doi=10.1073/pnas.82.24.8567 | pmc=390958 }}
+*{{cite journal | author=Lehoux JG, Kandalaft N, Belisle S, Bellabarba D |title=Characterization of 3-hydroxy-3-methylglutaryl coenzyme A reductase in human adrenal cortex |journal=Endocrinology |volume=117 |issue= 4 |pages= 1462–8 |year= 1985 |pmid= 3896758 |doi=10.1210/endo-117-4-1462 }}
+*{{cite journal | author=Boguslawski W, Sokolowski W |title=HMG-CoA reductase activity in the microsomal fraction from human placenta in early and term pregnancy |journal=Int. J. Biochem. |volume=16 |issue= 9 |pages= 1023–6 |year= 1984 |pmid= 6479432 |doi=10.1016/0020-711X(84)90120-4 }}
+*{{cite journal | author=Harwood HJ, Schneider M, Stacpoole PW |title=Measurement of human leukocyte microsomal HMG-CoA reductase activity |journal=J. Lipid Res. |volume=25 |issue= 9 |pages= 967–78 |year= 1984 |pmid= 6491541 |doi= }}
+*{{cite journal | author=Nguyen LB |title=Deficient ileal 3-hydroxy-3-methylglutaryl coenzyme A reductase activity in sitosterolemia: sitosterol is not a feedback inhibitor of intestinal cholesterol biosynthesis |journal=Metab. Clin. Exp. |volume=43 |issue= 7 |pages= 855–9 |year= 1994 |pmid= 8028508 |doi=10.1016/0026-0495(94)90266-6 | author-separator=, | author2=Salen G | author3=Shefer S | display-authors=3 | last4=Bullock | first4=John | last5=Chen | first5=Thomas | last6=Tint | first6=G.Stephen | last7=Chowdhary | first7=Indu R. | last8=Lerner | first8=Susan }}
+*{{cite journal | author=Bennis F, Favre G, Le Gaillard F, Soula G |title=Importance of mevalonate-derived products in the control of HMG-CoA reductase activity and growth of human lung adenocarcinoma cell line A549 |journal=Int. J. Cancer |volume=55 |issue= 4 |pages= 640–5 |year= 1993 |pmid= 8406993 |doi=10.1002/ijc.2910550421 }}
+*{{cite journal | author=Van Doren M, Broihier HT, Moore LA, Lehmann R |title=HMG-CoA reductase guides migrating primordial germ cells |journal=Nature |volume=396 |issue= 6710 |pages= 466–9 |year= 1998 |pmid= 9853754 |doi= 10.1038/24871 }}
+*{{cite journal | author=Cargill M |title=Characterization of single-nucleotide polymorphisms in coding regions of human genes |journal=Nat. Genet. |volume=22 |issue= 3 |pages= 231–8 |year= 1999 |pmid= 10391209 |doi= 10.1038/10290 | author-separator=, | author2=Altshuler D | author3=Ireland J | display-authors=3 | last4=Ireland | first4=James | last5=Sklar | first5=Pamela  | last6=Ardlie | first6=Kristin | last7=Patil | first7=Nila | last8=Lane | first8=Charles R. | last9=Lim | first9=Esther P. }}
+*{{cite journal | author=Aboushadi N, Engfelt WH, Paton VG, Krisans SK |title=Role of peroxisomes in isoprenoid biosynthesis |journal=J. Histochem. Cytochem. |volume=47 |issue= 9 |pages= 1127–32 |year= 1999 |pmid= 10449533 |doi=10.1177/002215549904700904 }}
+*{{cite journal | author=Honda A |title=3-Hydroxy-3-methylglutaryl-coenzyme A reductase activity is inhibited by cholesterol and up-regulated by sitosterol in sitosterolemic fibroblasts |journal=J. Lab. Clin. Med. |volume=135 |issue= 2 |pages= 174–9 |year= 2000 |pmid= 10695663 |doi= 10.1067/mlc.2000.104459 | author-separator=, | author2=Salen G | author3=Honda M | display-authors=3 | last4=Batta | first4=Ashok K | last5=Tint | first5=G. Stephen | last6=Xu | first6=Guorong | last7=Chen | first7=Thomas S. | last8=Tanaka | first8=Naomi | last9=Shefer | first9=Sarah }}
+*{{cite journal | author=Istvan ES, Palnitkar M, Buchanan SK, Deisenhofer J |title=Crystal structure of the catalytic portion of human HMG-CoA reductase: insights into regulation of activity and catalysis |journal=EMBO J. |volume=19 |issue= 5 |pages= 819–30 |year= 2000 |pmid= 10698924 |doi= 10.1093/emboj/19.5.819 | pmc=305622 }}
+*{{cite journal | author=Istvan ES, Deisenhofer J |title=Structural mechanism for statin inhibition of HMG-CoA reductase |journal=Science |volume=292 |issue= 5519 |pages= 1160–4 |year= 2001 |pmid= 11349148 |doi= 10.1126/science.1059344 }}
+*{{cite journal | author=Rasmussen LM |title=Diverse effects of inhibition of 3-hydroxy-3-methylglutaryl-CoA reductase on the expression of VCAM-1 and E-selectin in endothelial cells |journal=Biochem. J. |volume=360 |issue= Pt 2 |pages= 363–70 |year= 2002 |pmid= 11716764 |doi=10.1042/0264-6021:3600363 | pmc=1222236 | author-separator=, | author2=Hansen PR | author3=Nabipour MT | display-authors=3 | last4=Olesen | first4=Ping | last5=Kristiansen | first5=Mikkel T. | last6=Ledet | first6=Thomas }}
+}}
+{{refend}} == External links ==
+* [http://www.rpi.edu/dept/bcbp/molbiochem/MBWeb/mb2/part1/cholesterol.htm Cholesterol Synthesis] - has some good regulatory details
+* {{Proteopedia|HMG-CoA_Reductase}} - the HMG-CoA Reductase Structure in Interactive 3D
+
+{{PDB Gallery|geneid=3156}}
+{{Alcohol oxidoreductases}}
+{{Mevalonate pathway}}
+
+[[Category:EC 1.1.1]]
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB_Controls
+| update_page = yes 
+| require_manual_inspection = yes 
+| update_protein_box = yes
+| update_summary = no
+| update_citations = yes
+}}

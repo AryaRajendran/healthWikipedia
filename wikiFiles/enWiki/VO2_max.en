@@ -1,0 +1,111 @@
+{{Redirect|VO2|the chemical compound|Vanadium(IV) oxide}}
+{{DISPLAYTITLE:VO<sub>2</sub> max}}
+'''VO<sub>2</sub> max''' (also '''maximal oxygen consumption''', '''maximal oxygen uptake''', '''peak oxygen uptake''' or '''maximal aerobic capacity''') is the maximum capacity of an individual's body to transport and use oxygen during [[incremental exercise]], which reflects the [[physical fitness]] of the individual. The name is derived from V - [[volume]], O<sub>2</sub> - [[oxygen]], max - maximum.
+
+VO<sub>2</sub> max is expressed either as an absolute rate in [[litre]]s of oxygen per minute (L/min) or as a relative rate in millilitres of oxygen per [[kilogram]] of bodyweight per minute (mL/kg/min). The latter expression is often used to compare the performance of endurance sports athletes.
+
+==Measuring VO<sub>2</sub> max==
+[[File:Ergospirometry laboratory.jpg|thumb|VO<sub>2</sub> max measurement through a modern metabolic cart during a graded exercise test on a treadmill]]
+Accurately measuring VO<sub>2</sub> max involves a physical effort sufficient in duration and intensity to fully tax the aerobic energy system. In general clinical and athletic testing, this usually involves a graded exercise test (either on a [[treadmill]] or on a [[cycle ergometer]]) in which exercise intensity is progressively increased while measuring ventilation and oxygen and carbon dioxide concentration of the inhaled and exhaled air. VO<sub>2</sub> max is reached when oxygen consumption remains at steady state despite an increase in workload.
+
+===Fick equation===
+{{Main|Fick principle}}
+VO<sub>2</sub> max is properly defined by the [[Fick principle|Fick equation]]:
+
+:<math>\mathrm{VO_2\; max} = Q(\mathrm{CaO_2} - \mathrm{CvO_2})</math>, when these values are obtained during an exertion at a maximal effort.
+
+::where Q is the [[cardiac output]] of the heart, CaO<sub>2</sub> is the arterial oxygen content, and CvO<sub>2</sub> is the venous oxygen content.
+
+::(CaO<sub>2</sub> – CvO<sub>2</sub>) is also known as the [[arteriovenous oxygen difference]].<ref name=avo2diff-jrank>{{cite web|title=Arteriovenous oxygen difference|url=http://sports.jrank.org/pages/5973/arteriovenous-oxygen-difference.html|work=Sports Medicine, Sports Science and Kinesiology |publisher=Net Industries and its Licensors|accessdate=30 April 2011|year=2011}}</ref>
+
+==Estimation of VO<sub>2</sub> max==
+Tests measuring VO<sub>2</sub> max can be dangerous in individuals who are not considered normal healthy subjects, as any problems with the respiratory and cardiovascular systems will be greatly exacerbated in clinically ill patients. Thus, many protocols for estimating VO<sub>2</sub> max have been developed for those for whom a traditional VO<sub>2</sub> max test would be too risky. These generally are similar to a VO<sub>2</sub> max test, but do not reach the maximum of the respiratory and cardiovascular systems and are called sub-maximal tests.
+
+===Uth–Sørensen–Overgaard–Pedersen estimation===
+Another estimate of VO<sub>2</sub> max, based on maximum and resting heart rates, was created by a group of researchers from Denmark.<ref name="uth">{{cite web|url=http://www.ncbi.nlm.nih.gov/pubmed/14624296|title=Estimation of VO2max from the ratio between HRmax and HRrest--the Heart Rate Ratio Method|last=Uth|first=Niels|coauthors=Henrik Sørensen, Kristian Overgaard, Preben K. Pedersen|month=January | year=2004|publisher=Eur J Appl Physiol. 2004 Jan;91(1):111-5 |accessdate=2009-11-03}}</ref>  It is given by:
+:<math>\mathrm{VO_2\; max} =  {15{  \mbox{HR}_{max} \over \mbox{HR}_{rest} }}</math>
+
+This equation uses maximum heart rate (HR<sub>max</sub>) and resting heart rate (HR<sub>rest</sub>) to estimate VO<sub>2</sub> max in ml/min/kg.
+
+===Cooper test===
+[[Kenneth H. Cooper]] conducted a study for the [[United States Air Force]] in the late 1960s. One of the results of this was the [[Cooper test]] in which the distance covered running in 12 minutes is measured. Based on the measured distance, an estimate of VO<sub>2</sub> max (in ml/min/kg) is:
+
+:<math>\mathrm{VO_2\; max} = {d_{12} - 505 \over 45}</math>
+
+where d<sub>12</sub> is distance (in metres) covered in 12 minutes.
+There are several other reliable tests and VO<sub>2</sub> max [http://revelsports.com/Articles/VO2_Max.asp calculators] to estimate VO<sub>2</sub> max, most notably the [[multi-stage fitness test]] (or ''bleep'' test), based on the research paper by Leger and Lambert, "A Maximal Multi-Stage 20m Shuttle Run Test to predict VO2 Max".
+
+==VO<sub>2</sub> max levels==
+
+“Maximal oxygen uptake (VO<sub>2</sub> max) is widely accepted as the single best measure of cardiovascular fitness and maximal aerobic power. Absolute values of VO<sub>2</sub> max are typically 40-60% higher in men than in women.”<ref>Thomas E. Hyde and Marianne S. Gengenbach, ''Conservative Management of Sports Injuries'' (2nd ed; Sudbury, Mass.: Jones & Bartlett, 2007), 845.</ref> 
+
+The average untrained healthy male will have a VO<sub>2</sub> max of approximately 35-40 ml/kg/min.<ref name="Heywood_1998">{{cite news
+|last = Heywood
+| first = V
+| title = Advance Fitness Assessment & Exercise Prescription, 3rd Ed
+| pages = 48
+| year = 1998
+}}</ref><ref name="Guyton_2011">{{cite news
+|last = Guyton, A. & Hall, J.E.
+| title = Textbook of Medical Physiology, 12th Ed.
+| pages = 1035–1036
+| year = 2011
+}}</ref> The average untrained healthy female will score a VO<sub>2</sub> max of approximately 27-31 ml/kg/min.<ref name="Heywood_1998">{{cite news
+
+}}</ref> These scores can improve with training and decrease with age, though the degree of trainability also varies very widely: conditioning may double VO<sub>2</sub> max in some individuals, and will marginally improve it in others.<ref name="bouchard_fam">{{cite journal
+ | last = Bouchard
+ | first = Claude
+ | coauthors = Ping An, Treva Rice, James S. Skinner, Jack H. Wilmore, Jacques Gagnon, Louis Perusse, Arthus S. Leon, D. C. Rao
+ | title = Familial aggregation of VO(2max) response to exercise training: results from the HERITAGE Family Study
+ | journal = Journal of Applied Physiology
+ | volume = 87
+ | issue = 3
+ | pages = 1003–1008
+ | pmid = 10484570
+ | url = http://jap.physiology.org/cgi/content/abstract/87/3/1003?ijkey=189eebcbc5a461258da582b4aef41ebcf7bec51f&keytype2=tf_ipsecsha
+ | accessdate = 2007-07-17
+ | date =  September 1, 1999 }}</ref><ref name="kolata">{{cite news 
+ | first = Gina
+ | last = Kolata
+ | title = Why Some People Won't Be Fit Despite Exercise 
+ | url = http://query.nytimes.com/gst/fullpage.html?res=9406EEDE113CF931A25751C0A9649C8B63&sec=health
+ | publisher = The New York Times
+ | date = February 12, 2002
+ | accessdate = 2007-07-17 }}</ref>
+
+In sports where endurance is an important component in performance, such as [[cycling]], [[sport rowing|rowing]], [[cross-country skiing]], [[swimming (sport)|swimming]] and [[running]], world class athletes typically have high VO<sub>2</sub> maxima.  Elite male runners can consume up to 85 ml/kg/min, and female elite runners can consume about 77 ml/kg/min.<ref name="Noakes">Noakes, Tim. 2001. ''The Lore of Running.'' (3rd edition) [[Oxford University Press]] ISBN 978-0-88011-438-7</ref> Five time [[Tour de France]] winner [[Miguel Indurain]] is reported to have had a VO<sub>2</sub> max of 88.0 at his peak,<ref>http://www.runningforfitness.org/faq/vo2.php</ref> while cross-country skier [[Bjørn Dæhlie]] measured at 96 ml/kg/min.<ref>[http://www.vg.no/vg/sport/ski/vm97/0226best.html Ski-VM 1997<!-- Bot generated title -->]</ref> Dæhlie's result was achieved out of season, and physiologist Erlend Hem who was responsible for the testing stated that he would not discount the possibility of the skier passing 100 ml/kg/min at his absolute peak. Norwegian cyclist Oskar Svendsen is thought to have recorded the highest VO<sub>2</sub> max of 97.5 ml/kg/min, a "sensational" value in itself, made more remarkable by his young age (18 years old at the time).<ref>[http://www.velonation.com/News/ID/12929/If-all-goes-to-plan-big-future-predicted-for-junior-world-champion-Oskar-Svendsen.aspx If all goes to plan, big future predicted for junior world champion Oskar Svendsen]</ref> To put this into perspective, thoroughbred horses have a VO<sub>2</sub> max of around 180 ml/kg/min. Siberian dogs running in the [[Iditarod Trail Sled Dog Race]] have VO<sub>2</sub> values as high as 240 ml/kg/min.<ref>[http://www.news.cornell.edu/releases/Dec96/winterize.hrs.html Cornell Science News<!-- Bot generated title -->]</ref>
+
+The highest values in absolute terms are often found in rowers, as their much greater bulk makes up for a slightly lower VO<sub>2</sub> max per kg. Elite oarsmen measured in 1984 had VO<sub>2</sub> max values of 6.1 ±0.6 l/min and oarswomen 4.1 ±0.4 l/min.<ref>{{cite journal | url= http://www.ncbi.nlm.nih.gov/pubmed/6390606?dopt=AbstractPlus | journal= Sports Med. | date= 1984 Jul-Aug | volume=1(4) | pages=303-26 | title=Applied physiology of rowing | last=Hagerman | first=FC}}</ref> Rowers are interested in both absolute values of VO<sub>2</sub> max and in lung capacity, and the fact that they are measured in similar units means that the two are often confused. British rower Sir [[Matthew Pinsent]] is variously reported to have had a VO<sub>2</sub> of 7.5l/min<ref>{{cite web | url=http://q-power.co/Intensity3.html | title=Intensity (3 of 6) | publisher=Q-power indoor rowing team | first=James | last=Bailey}}</ref> or 8.5l/min, although the latter may represent confusion with his lung capacity of 8.5 litres.<ref>{{cite web | url=http://news.bbc.co.uk/sport1/hi/health_and_fitness/4291516.stm | title=What happens in a VO2 max test? | publisher=BBC Sport | date=2009}} - see an example [http://concept2.co.uk/forum/viewtopic.php?f=4&t=15486 here], which suggests that although British rower [[Pete Reed]] has recorded a lung capacity of 11.68&nbsp;litres,([http://www.hounslowchronicle.co.uk/west-london-sport/west-london-other-sport/2012/08/09/gold-medallist-can-t-wait-to-get-back-to-chiswick-109642-31588050/ Hounslow Chronicle]) Pinsent still regards his VO<sub>2</sub> record as safe. A large lung capacity appears to be a particular advantage for rowing as it allows a rower to row more strokes at one breath per stroke.</ref> New Zealand sculler [[Rob Waddell]] has one of the highest absolute VO2 max levels ever tested.<ref>{{cite web | url=http://www.bbc.co.uk/blogs/martingough/2009/06/monsters_wanted.html | title=Monsters wanted | first=Martin | last=Gough | date=17 June 2009 | publisher=BBC}}</ref>
+
+==Factors affecting VO<sub>2</sub> max==
+The factors affecting VO<sub>2</sub> are often divided into supply and demand factors.<ref name=bassett1>Bassett D.R Jr. & Howley E.T. (2000) Limiting factors for maximum oxygen uptake and determinants of endurance performance. Med Sci Sports Exerc. 32(1):70-84.</ref> Supply is the transport of oxygen from the lungs to the mitochondria (including lung diffusion, stroke volume, blood volume, and capillary density of the skeletal muscle) while demand is the rate at which the mitochondria can reduce oxygen in the process of [[oxidative phosphorylation]].<ref name=bassett1 /> Of these, the supply factor is often considered to be the limiting one.<ref name=bassett1 /><ref name=bassett2>Bassett D.R Jr. & Howley E.T. (1997) Maximal oxygen uptake: "classical" versus "contemporary" viewpoints. Med Sci Sports Exerc 29(5) 591-603</ref> However, it has also been argued that while trained subjects probably are supply limited, untrained subjects can indeed have a demand limitation.<ref name=Newideas>Wagner, P.D. (2000) New ideas on limitations to VO2max. Exercise and Sport Sciences Reviews. 28(1):10-4.</ref>
+
+[[Tim Noakes]], a professor of exercise and sports science at the [[University of Cape Town]], describes a number of variables that may affect VO<sub>2</sub> max: age, [[gender]], fitness and training, changes in [[altitude]], and action of the ventilatory muscles.<ref name="Noakes">Noakes, Tim. 2003. ''The Lore of Running.'' (4th edition) [[Oxford University Press]] ISBN 0-87322-959-2</ref> Noakes also asserts that VO<sub>2</sub> max is a relatively poor predictor of performance in runners due to variations in [[running economy]] and [[fatigue (medical)|fatigue]] resistance during prolonged exercise.<ref name="Noakes"/>
+
+Cardiac output, pulmonary diffusion capacity, oxygen carrying capacity, and other peripheral limitations like muscle diffusion capacity, mitochondrial enzymes, and capillary density are all examples of VO<sub>2</sub> max determinants. The body works as a system. If one of these factor is sub-par, then the whole system loses its normal capacity to function properly.<ref name="Newideas"/>
+
+In theory, the drug [[Erythropoietin]] (EPO) can boost VO<sub>2</sub> by a significant amount. This makes it attractive to athletes in [[endurance sport]]s like professional cycling. By 1998 it had become widespread in cycling and led to the [[Festina affair]]<ref>[http://jap.physiology.org/content/105/2/581 Does recombinant human Epo increase exercise capacity by means other than augmenting oxygen transport?] C. Lundby, P. Robach, R. Boushel, J. J. Thomsen, P. Rasmussen, M. Koskolou, J. A. L. Calbet. June 5, 2008, Journal of Applied Physiology doi: 10.1152/japplphysiol.90484.2008</ref><ref name=lode1>[http://www.academia.edu/1129538/Some_empirical_notes_on_the_epo_epidemic_in_professional_cycling EPO EPIDEMIC IN CYCLING: Some Empirical Notes on the ‗Epo Epidemic‘ in Professional Cycling], Hein F.M. Lodewijkx and Bram Brouwer, Department of Psychology, Open University, Heerlen, the Netherlands, 2011, 82 (4), 740-754 DOI: http://dx.doi.org/10.5641/027013611X13275192112069</ref> as well as being mentioned ubiquitously in the USADA 2012 report on the US Postal team.<ref>[http://cyclinginvestigation.usada.org/ USADA U.S. Postal Service Pro Cycling Team Investigation], Oct 2012, retr 2012 10 20 from usada.org</ref> [[Greg LeMond]] has suggested establishing a baseline for riders' VO<sub>2</sub> (and other attributes) to detect abnormal performance increases.<ref>[http://www.velonation.com/News/ID/5050/Greg-LeMonds-suggestions-for-a-credible-future-for-cycling.aspx Greg LeMond’s suggestions for a credible future for cycling] Conal Andrews, July 28, 2010, Velo Nation, retr 2012 10 20</ref>
+
+==See also==
+
+*[[Anaerobic exercise]]
+*[[Arteriovenous oxygen difference]]
+*[[Cardiorespiratory fitness]]
+*[[Respirometry]]
+*[[Training effect]]
+*[[Jack Daniels (coach)#VDOT|VDOT]]
+*[[vVO2max|vVO<sub>2</sub>max]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://health.drgily.com/walking-test-peak-aerobic-capacity.php VO<sub>2</sub> max Calculator - the Rockport Walking Test]
+* [http://www.tufts.edu/vet/sports/oxygen.html All About VO2max - Horses]
+* [http://www.coreperformance.com/daily/the-performance-life/so-what-exactly-is-vo2.html So What Exactly is VO2?]
+* [http://www.topendsports.com/testing/vo2norms.htm Values by age, ml/kg/min]
+
+{{DEFAULTSORT:Vo2 Max}}
+[[Category:Exercise physiology]]
+[[Category:Sports terminology]]
+[[Category:Respiratory physiology]]

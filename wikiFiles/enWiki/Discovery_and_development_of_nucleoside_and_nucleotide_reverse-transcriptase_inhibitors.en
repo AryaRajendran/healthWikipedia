@@ -1,0 +1,247 @@
+Discovery and development of [[nucleoside]] and [[nucleotide]] [[reverse-transcriptase inhibitors]] (NRTIs and NtRTIs) began in the 1980s when the [[AIDS]] [[epidemic]] hit Western societies. NRTIs inhibit the [[reverse transcriptase]] (RT), an [[enzyme]] that controls the replication of the genetic material of the human immunodeficiency virus ([[HIV]]). The first NRTI was [[zidovudine]], approved by the U.S. [[Food and Drug Administration]] (FDA) in 1987, which was the first step towards treatment of HIV. Six NRTI agents and one NtRTI have followed. The NRTIs and the NtRTI are analogues of endogenous 2´-deoxy-nucleoside and nucleotide. [[Drug resistance|Drug-resistant]] [[virus]]es are an inevitable consequence of prolonged exposure of HIV-1 to anti-HIV drugs.
+
+== History ==
+In the summer of 1981 the acquired immunodeficiency syndrome (AIDS) was first reported.<ref name=Merson_2006>{{Citation | last1 =  Merson| first1 = M.D.|  last2 =  Michael| first2 = H.| title = HIV–AIDS Pandemic at 25 — The Global Response | journal = The New England Journal of Medicine | volume = 354 | issue = 23 |pages = 2414–2417 | year =  2006| url = http://www.nejm.org/doi/pdf/10.1056/NEJMp068074 | doi=10.1056/NEJMp068074}}</ref> Two years later the [[etiological]] link to AIDS, the human immunodeficiency virus (HIV) was identified.<ref name=Fauci_1999>{{Citation | last1 = Fausi | first1 = A.S.| title = The AIDS epidemic Considerations for the 21st Century | journal =  The New England Journal of Medicine | volume = 351 | issue =  14|pages = 1046–1050 | year = 1999 | url =  http://www.nejm.org/doi/pdf/10.1056/NEJM199909303411406 | doi=10.1056/NEJM199909303411406}}</ref><ref name=Fauci_2003>{{Citation | last1 = Fauci | first1 = A.S. | title = HIV and AIDS: 20 years of science | journal = Nature Medicine | volume = 9 | issue = 7 |pages = 839–843 | year = 2003 | url = http://proquest.umi.com/pqdlink?Ver=1&Exp=11-01-2015&FMT=7&DID=1008978971&RQT=309&cfc=1| doi= 10.1038/nm0703-839 }}</ref> Since the identification of HIV the development of effective antiretroviral drugs and the scientific achievements in HIV research has been enormous.<ref name=Fauci_2003/><ref name="De-Clercq _2009">{{Citation | last1 = De-Clercq | first1 = E.| title = Anti-HIV drugs: 25 compounds approved within 25 years after the discovery of HIV | journal =  International Journal of Antimicrobial Agents | volume = 33 | issue =  4|pages =  307–320| year =  2009| url = http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6T7H-4V6RNJX-1-1T&_cdi=5059&_user=3460687&_pii=S0924857908004846&_origin=search&_coverDate=04%2F30%2F2009&_sk=999669995&view=c&wchp=dGLzVtb-zSkWb&md5=3e306038dfc419e3aab9b1fab6412d43&ie=/sdarticle.pdf| doi=10.1016/j.ijantimicag.2008.10.010 | pmid=19108994}}</ref> Antiretroviral drugs for the treatment of HIV infections belong to six categories: Nucleoside and nucleotide reverse-transcriptase inhibitors, [[Non-nucleoside reverse-transcriptase inhibitors]], [[protease inhibitors]], entry inhibitors, co-receptor inhibitors and integrase inhibitors.<ref name="De-Clercq _2009"/> The reverse transcriptase of HIV-1 has been the main foundation for the development of anti-HIV drugs.<ref name="Boyer _2008">{{Citation | last1 =  Boyer | first1 = P.L. | last2 =  Coffin | first2 = J.M.| last3 =  Delviks_Frankenberry | first3 =  K.A.  | last4 = Hughes  | first4 =  S.H.| last5 =  Jeren | first5 =  A.| last6 =  Nikolenko | first6 =  G.N.|  last7 =   Pathak | first7 =  V.K.|  title = HIV-1 reverse transcriptase connection subdomain mutations reduce template RNA degradation and enhance AZT excision | journal =  Proceedings of the national academy of sciences of the United States of America| volume = 105 | issue = 31 |pages = 10943–10948     | year =  2008| url = http://www.pnas.org/content/105/31/10943.full.pdf+html |  doi= 10.1073/pnas.0804660105|bibcode = 2008PNAS..10510943D }}</ref> The first nucleoside reverse-transcriptase inhibitor with in vitro anti-HIV activity was zidovudine.<ref name=Cihlar_2010>{{Citation | last1 = Cihlar | first1 = T.| last2 = Ray | first2 =A.S. |  title = Nucleoside and nucleotide HIV reverse-transcriptase inhibitors: 25 years after zidovudine | journal = Antiviral Research | volume =  85| issue = 1 |pages = 39–58 | year = 2010 | url =|doi=10.1016/j.antiviral.2009.09.014 |pmid=19887088}}</ref> Since zidovudine was approved in 1987, six nucleosides and one nucleotide reverse-transcriptase inhibitor (NRTI) have been approved by FDA.<ref name=Cihlar_2010/> NRTIs approved by the FDA are zidovudine, [[didanosine]], [[zalcitabine]], [[stavudine]], [[lamivudine]], [[abacavir]] and [[emtricitabine]] and the only nucleotide reverse-transcriptase inhibitor (NtRTI) approved is [[tenofovir]] (see table 4).<ref name="De-Clercq _2009"/><ref name=Cihlar_2010/>
+
+== The HIV-1 reverse transcriptase enzyme ==
+
+=== Function ===
+[[File:Mechanismofactionfornrti.jpg|thumb|right|400px|'''Figure 1''' A: Mechanism of action of nucleoside analogues reverse transriptase inhibitors, for example zidovudine. B: Mechanism of action of the nucleotide analogue reverse-transcriptase inhibitor, tenofovir]]
+Most standard HIV drug thearapies revolve around inhibiting the reverse transcriptase enzyme (RT), an enzyme that is necessary to the HIV-1 virus and other [[retroviruses]] to complete their life cycle.<ref name="Boyer _2008"/> The RT enzyme serves two key functions. First, it controls the replication of the viruses genetic material via its [[polymerase]] activity. It converts the viral single-stranded [[RNA]] into an integration competent double stranded [[DNA]]. Subsequently the generated DNA is translocated into the [[Cell nucleus|nucleus]] of the host [[cell (biology)|cell]] where it is integrated in its [[genome]] by the retroviral integrase. The other role of the RT is its [[ribonuclease H]] activity that degrades RNA only when it is in a [[heteroduplex]] with DNA.<ref name=Herschorn_2008>{{Citation | last1 =  Herschorn|  last2 =Hizi| first1 = A.| title =
+Retroviral reverse transcriptases (other than those of HIV-1 and murine leukemia virus): A comparison of their molecular and biochemical properties
+ | journal = Virus Research | volume = 134  |pages = 203–220 | year =  2008| url = http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6T32-4RYXSHR-1-9&_cdi=4934&_user=3460687&_pii=S0168170207004613&_origin=search&_coverDate=06%2F30%2F2008&_sk=998659998&view=c&wchp=dGLzVzz-zSkWA&md5=3608768b6f39e5560c0c4a5118fdabf4&ie=/sdarticle.pdf |doi=10.1016/j.virusres.2007.12.008
+}}</ref><ref name="Giridhar _2009">{{Citation | last1 =  Giridhar | first1 = R.|  last2 =Prajapati| first1 = D.G.| last3 =  Ramajayam | first3= R.| last4 =  Yadav | first4 = M.R.|   title =
+The search for potent, small molecule NNRTIs: A review
+| journal = Bioorganic & Medicinal Chemistry vol | volume = 17  |pages = 5744–5762 | year =  2009| url =http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6TF8-4WNRJYT-1-31&_cdi=5220&_user=5915660&_orig=search&_coverDate=08%2F15%2F2009&_sk=999829983&view=c&wchp=dGLbVtz-zSkWb&md5=93a1aeea620b65dc46b99a12d4c6790f&ie=/sdarticle.pdf |doi=10.1016/j.bmc.2009.06.060
+}}</ref>
+
+=== Structure ===
+HIV-1 RT is an asymmetric{{Disambiguation needed|date=June 2011}} heterodimer which is 1000 [[amino acid]] long and is composed of two [[Protein subunit|subunit]]s. The larger subunit, p66, is 560 amino acid long and it exhibits all the enzymatic activities of the RT.<ref name="Giridhar _2009"/> The smaller subunit, called p51, is 440 amino acid long and it is considered to stabilizes the heterodimer but also it may take part in the binding of the [[tRNA]] primer.  The p66 subunit has the two active sites: polymerase and ribonuclease H. The polymerase has four subdomains that have been named “fingers“, “thumb“, “connection“ and “palm“ for it has been compared to the right hand.<ref name=Herschorn_2008/><ref name="Giridhar _2009"/><ref name= Anderson_2007>{{Citation | last1 =Anderson | first1 = K.S.|  title = Reverse transcription of the HIV-1 pandemic | journal =  The FASEB Journal | volume = 21 | issue =  14 |pages =  3795–3808 | year =  2007| url = http://www.fasebj.org/cgi/reprint/21/14/3795| doi=  10.1096/fj.07-8697rev | pmid=17639073}}</ref>
+
+== Mechanism of action ==
+Activation of nucleoside and nucleotide reverse-transcriptase inhibitors is primarily dependent on cellular entry by [[passive diffusion]] or [[carrier-mediated transport]]. NRTIs are highly [[hydrophilic]] and have limited membrane permeability and therefore this step is very important.
+NRTIs are analogues of [[endogenous]] 2´-deoxy-nucleoside and nucleotide. They are inactive in their parent forms and require successive [[phosphorylation]].<ref name=Cihlar_2010/>
+
+Nucleosides must be triphosphorylated, while nucleotides, which possess one phosphonated group, must be diphosphorylated.<ref name="Goldschmidt _2004">{{Citation| last1 = Goldschmidt | first1= V.| last2 =  Marquet| first2=R.|  title = Primer unblocking by HIV-1 reverse transcritptase and resistance to nucleoside RT inhibitors| journal = The international journal of biochemistry and cell biology | volume = 36 |pages = 1687–1705| year =  2004| url = http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6TCH-4CBVS67-5-D&_cdi=5171&_user=713833&_pii=S1357272504001025&_origin=search&_coverDate=09%2F30%2F2004&_sk=999639990&view=c&wchp=dGLbVzb-zSkWb&md5=cf0c36b9618e1aa54a19699a2aebaa77&ie=/sdarticle.pdf
+ |doi=10.1016/j.biocel.2004.02.028}}</ref> This stepwise activation process occurs inside the cell and is mediated by a coordinated series of enzymes.<ref name="Kakuda _2010">{{Citation| last1 =  Kakuda| first1= T.N.|  title = Pharmacology of nucleoside and nucleotide Reverse transcriptase inhibitor - induced mitochondrial toxicity | journal = Clinical therapeutics | volume = 22|issue= 6 | pages = 2717–2747 | year =  2010| url = http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6VRS-416JW04-4-1&_cdi=6242&_user=713833&_pii=S0149291800900043&_origin=search&_coverDate=06%2F30%2F2000&_sk=999779993&view=c&wchp=dGLbVzW-zSkWb&md5=c850f9b8fbe216d0a104a997b998fa3a&ie=/sdarticle.pdf |doi= 10.1016/S0149-2918(00)90004-3}}</ref> The first, and often [[rate limiting]], phosphorylation step (for nucleoside analogues) are most commonly catalyzed by deoxynucleoside kinases. Addition of the second phosphate group to nucleoside monophosphate analogues is completed by the nucleoside monophosphate kinases (NMP kinases). A variety of enzymes are able to catalyze the final phosphorylation step for NRTIs, including nucleoside diphosphate kinase (NDP kinase), [[phosphoglycerate kinase]], [[pyruvate kinase]] and [[creatine kinase]], resulting in formation of respective antivirally active [[triphosphate]] analogues.<ref name=Cihlar_2010/>
+In their respective triphosphate forms, NRTIs and the only NtRTI available compete with their corresponding endogenous deoxynucleotide triphosphate (dNTPs) for incorporation into the nascent DNA chain (see figure 1).<ref name=Cihlar_2010/> Unlike dNTPs substrate, NRTIs lack a 3´-hydroxyl group on the [[deoxyribose]] moiety. Once incorporated into the DNA chain, the absence of a 3´-hydroxyl group, which normally forms the 5´- to 3´- [[phosphoester]] bond with the next [[nucleic acid]], blocks further extension of the DNA by RT, and they act as chain terminators.<ref name="Goldschmidt _2004"/><ref name="Herschorn _2010">{{Citation| last1 =  Herschorn| first1= A. |
+last2 =  Hizi| first2= A.|  title = Retroviral reverse transcriptases
+| journal = Cellular and molecular life science
+ | volume = 67 |pages = 2717–2747 | year =  2010| url =
+http://www.springerlink.com/content/l5816755l774w57w/fulltext.pdf|doi=10.1007/s00018-010-0346-2}}</ref>
+
+== Discovery and development ==
+
+===First step towards treatment of HIV- zidovudine ===
+In 1964 zidovudine (AZT) was synthesized by Horwitz at the Michigan Cancer Foundation. The 3´hydroxyl group in the deoxyribose ring of thymidine is replaced by an [[azido]] group which gives us zidovudine.<ref name=Sneader_1996>{{Citation | last1 =  Sneader| first1 = W.| title = Drug prototypes and their exploitation | pages = 448–450 | year =  1996  | publisher = John Wileys & sons  |ISBN=0-471-94847-0 }}</ref> The lack of the 3´hydroxyl group which provides the attachment point for the next nucleotide in the growing DNA chain during the reverse transcription  makes it an obligate chain terminator. Ziduvodine is incorporated in place of thymidine and is an extremely potent inhibitor of HIV [[Self-replication|replication]].<ref name= Smith_1998>{{Citation | last1 =  Smith| first1 = J.| last1 =  William| first1 = Hywel|title = Smith and Williams´ Introduction to the principles of drug design and action,  | pages = 247–250, 486–490 | year =  1998  | publisher = Harwood academic publishers |  edition = 3 |ISBN=90-5702-037-8 }}</ref> This compound had been prepared in 1964 as a potential [[anti-cancer]] agent but was shown to be ineffective.<ref name= Saunders_2000>{{Citation | last1 =  Saunders| first1 = J.| title = Top drugs: Top synthetic routes | pages = 71–75 | year =  2000 }}</ref> In 1974 zidovudine was reported to have activity against retroviruses and was subsequently re-screened as an antiviral when the AIDS epidemic hit Western societies during<br />
+mid 1980‘s.<ref name=Sneader_1996/><ref name=Saunders_2000/> However, ziduvodine is relatively [[toxic]] since it is converted into the<br />
+triphosphate by the cellular enzymes and therefore it is activated in uninfected cells.<ref name=Smith_1998/>
+
+===Further development of nucleoside analogues===
+
+====Dideoxynucleosides ====
+
+{|border="1" cellpadding="5" cellspacing="0" align="right"
+|+'''Table 1''' Comparison of chemical structures:<br />
+Dideoxyadenosine and didanosine
+|- align=“center“ valign „“
+| style="background: #efefef;" |
+! style="background: #efefef;" | Dideoxyadenosine
+! style="background: #efefef;" | Didanosine
+|-
+! style="background: #efefef;" | Chemical
+structure
+|[[File:Dideoxyadenosine meed hring.svg|150px|]]
+|[[File:didanosine med hring.svg|150px|]]
+|}
+
+Dideoxynucleosides are analogues of nucleoside where the sugar ring lacks both 2´ and 3´-hydroxyl groups.<ref name=Anderson_2007/> Three years after the [[Organic synthesis|synthesis]] of zidovudine, Jerome Horwitz and his colleagues in Chicago prepared another dideoxynucleoside now known as zalcitabine (ddC).<ref name=Sneader_2005>{{Citation | last1 = Sneader | first1 = W.| title = Drug discovery a history|ISBN =  0-471-89979-8|pages =  250–268|year = 2005 | url = http://books.google.is/books?id=mYQxRY9umjcC&pg=PA262&dq=discovery+abacavir&hl=is&ei=PPDOTImiDZKK4gapqtTdDA&sa=X&oi=book_result&ct=result&resnum=8&ved=0CEoQ6AEwBw#v=onepage&q=discovery%20abacavir&f=false}}</ref> Zalcitabine is a synthetic [[pyrimidine]] nucleoside analogue, structurally related to [[deoxycytidine]], in which the 3´-hydroxyl group of the [[ribose]] sugar moiety is substituted with hydrogen.<ref name=Georgiev_2009>{{Citation | last1 = Georgiev
+ | first1 = V.S.  |  title = National institute of allergy and infectious diseases, NIH
+ | volume = 2 | ISBN = 978-1-60327-296-4 |pages =  417–426| year = 2009 | url =http://books.google.is/books?id=pymSBkVU-FsC&pg=PA418&dq=discovery+zalcitabine&hl=is&ei=LWHQTLK4LI6P4Aavz72EBw&sa=X&oi=book_result&ct=result&resnum=5&ved=0CDsQ6AEwBDgK#v=onepage&q=discovery%20zalcitabine&f=false| doi=10.1007/978-1-60327-297}}</ref> Zalcitabine was approved by the FDA for the treatment<br />
+of HIV-1 in June 1992.<ref name=Fauci_2003/><ref name= De-Clercq_2009>{{Citation | last1 = De-Clercq | first1 = E.|  title = Anti-HIV drugs: 25 compounds approved within 25 years after the discovery of HIV | journal =  International Journal of Antimicrobial Agents | volume = 33 | issue =  4 |pages =  307–320| year = 2009| url = http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6T7H-4V6RNJX-1-1T&_cdi=5059&_user=5915660&_pii=S0924857908004846&_origin=search&_coverDate=04%2F30%2F2009&_sk=999669995&view=c&wchp=dGLbVlz-zSkzV&md5=2cbdd21fbfc59836a9bec8734eae0402&ie=/sdarticle.pdf| doi=10.1016/j.ijantimicag.2008.10.010 | pmid=19108994}}</ref>
+
+2´,3´-dideoxyinosine or [[didanosine]] is converted into dideoxyadenosine in vivo. Its development has a long history.<ref name= Brunton_2009>{{Citation | last1 = Brunton | first1 = L. | last1 = Lazo | first1 = J. | last1 = Parker | first1 = K.  |  title = Goodman & Gilman's The Pharmacological Basis of Therapeutics, Eleventh Edition |pages =  1280–1292| publisher= McGraw-Hill | year = 2006 | ISBN=0-07-142280-3}}</ref> In 1964 dideoxyadenosine, the corresponding [[adenosine]] analogue of zalcitabine was synthesised. Dideoxyadenosine caused [[kidney]] damage so didanosine was prepared from dideoxyadenosine by enzymatic oxidation (see table 1). It was found to be active against HIV without causing kidney damage.<ref name=Sneader_2005/> Didanosine was approved by the FDA for the treatment
+of HIV-1 in October 1991.<ref name= De-Clercq_2009/>
+Zalcitabine and didanosine are both obligate chain terminators, that have been developed for anti-HIV treatment. Unfortunately, both drugs lack [[Functional selectivity|selectivity]] and therefore cause [[side-effects]].<ref name=Smith_1998/>
+
+
+{|border="1" cellpadding="5" cellspacing="0" align="right"
+|+'''Table 2''' Comparison of chemical structures:<br />
+Zalcitabine and lamivudine
+|- align=“center“ valign „“
+| style="background: #efefef;" |
+! style="background: #efefef;" | Zalcitabine
+! style="background: #efefef;" | Lamivudine
+|-
+! style="background: #efefef;" | Chemical
+structure
+|[[File:Zalcitabinid.jpg|185px|]]
+|[[File:Lamivudinidmitt.svg|192px|]]
+|}
+Further modification of the dideoxy framework led to the development of  2´,3´-didehydro-3´-deoxythymidine (stavudine, d4T). Activity of stavudine was shown to be similar to that of zidovudine, although their phosphorylation patterns differ; the
+[[Affinity (pharmacology)|affinity]] for zidovudine to [[thymidine kinase]] (the enzyme responsible for the first phosphorylation) is similar to that of [[thymidine]], whereas the affinity for stavudine is 700-fold weaker.<ref name=Anderson_2007/>
+
+2',3'‐dideoxy‐3'‐thiacytidine (lamivudine, 3TC) was discovered by  [[Bernard Belleau]]. The history<br />
+
+of lamivudine can be traced back to the mid‐seventies while  Bernard Belleau was investigating sugar [[derivative (chemistry)|derivative]]s. Lamivudine was developed as the [[sulfur]] analogue of zalcitabine (see table 2).<ref name=Sneader_2005/> It was initially synthesized as a [[racemic]] mixture (BCH-189) and analysis showed that both positive and negative [[enantiomers]] of BCH-189 (2',3'‐dideoxy‐3'‐thiacytidine) had in vitro activity against HIV. Lamivudine is the negative enantiomer and is a pyrimidine nucleoside<br />
+analogue. The 3' carbon of the ribose ring of 2'-deoxycytidine has been replaced by a sulfur<br />
+atom because it had greater anti-HIV activity and is less toxic than the positive enantiomer.<ref name=Sneader_2005/><ref name=Ogden_2006>{{Citation | last1 = Ogden
+ | first1 = R.C.  | last2 = Skowron
+ | first2 = G.  |  title = Reverse transcriptase inhibitors in HIV/AIDS therapy
+ |  ISBN = 1-58829-649-0 |pages = 33–63 | year = 2006|publisher= Humana press inc}}</ref><ref name=LaFemina_2009>{{Citation | last1 = LaFemina
+ | first1 = R.L.  |  title = Antiviral research strategies in antiviral drug discovery
+|pages = 51–70 | year = 2009|publisher= AMS press}}</ref>
+
+Next in line was 2',3'‐dideoxy‐5-fluoro-3'‐thiacytidine (Emtricitabine, FTC) which is
+a structural<br />
+[[homology (chemistry)|homologue]] of lamivudine. The structural difference is the 5-fluoro-modification of the<br />
+base moiety of lamivudine. It is similar in many ways to lamivudine and is<br />
+active against both HIV-1 and hepatitis B virus ([[Hepatitis B virus|HBV]]).<ref name=LaFemina_2009/><ref name=Otto_2004/>
+
+====Carbocyclic nucleoside====
+Carbocyclic analogues of dideoxyadenosine were investigated for their anti-HIV activity. Minimal activity was first observed. Many nucleoside analogues were prepared and examined but only one had significant activity and satisfied the requirements for [[clinical trial|clinical]] use. That was 2´,3´-didehydro analogue of dideoxyadenosine. Insertion of a [[cyclopropyl]] group on its 6-amino [[nitrogen]] of the [[adenine]] ring increased [[lipophilicity]] and thus enhanced brain penetration. The resulting compound is known as abacavir (see table 3).<ref name=Sneader_2005/> Abacavir  was approved by the FDA for use in therapy of HIV-1 infections in December 1998.<ref name=Ogden_2006/>
+
+This drug is the only approved antiretroviral that is active as a [[guanosine]] analogue in vivo. First it is monophosphorylated  by adenosine phosphotransferase and then the monophosphate is converted to carbovir 3´-monophosphate. Subsequently it is fully phosphorylated and the carbovir is incorporated by the RT into the DNA chain and acts as a chain terminator. Carbovir is a related guanosine analogue that had poor oral [[bioavailability]] and thus was withdrawn from clinical development.<ref name= Brunton_2009/><br />
+
+{|border="1" cellpadding="5" cellspacing="0" align="center"
+|+'''Table 3''' Comparison of chemical structures: Dideoxyadenosine, didanosine and abacavir
+|- align=“center“ valign „“
+| style="background: #efefef;" |
+! style="background: #efefef;" | Dideoxyadenosine
+! style="background: #efefef;" | Didanosine
+! style="background: #efefef;" | Abacavir
+|-
+! style="background: #efefef;" | Chemical structure
+|[[File:dideoxyadenosine meed hring.svg|150px|]]
+|[[File:didanosine med hring.svg|150px|]]
+|[[File:Abacavrinyjamynd.svg|200px|]]
+|}<br />
+
+====Acyclic nucleotide – the only approved NtRTI====
+Nucleotide analogues require only two phosphorylation steps whereas nucleoside analogues require three steps. Reduction in the phosphorylation requirement may allow more rapid and complete conversion of drugs to their active metabolites. Such considerations have led to the development of phosphonate nucleotide analogues such as tenofovir. Tenofovir disoproxil fumarate (Tenofovir DF) is the [[prodrug]] of  tenofovir. Tenofovir is an acyclic adenosine derivative. The acyclic nature of the compound and its phosphonate moiety are unique structural features among the approved NRTIs.<ref name=LaFemina_2009/> Tenofovir DF is [[hydrolyzed]] enzymatically to tenofovir which exhibits anti-HIV activity.<ref name=Fung_2002>{{Citation | last1 =  Fung| first1 = H.B.|  last2 =  Piacenti| first1 = F.J.|  last3 =  Stone| first1 = E.A. |title = Tenofovir Disoproxil Fumarate: A Nucleotide ReverseTranscriptase Inhibitor for the Treatment of HIV Infection
+ | journal = Clinical Therapeutics | volume = 24 | issue = 10 |pages = 1515–1548  | year =  2002| url = http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6VRS-47GG8JD-4-1&_cdi=6242&_user=3460687&_pii=S0149291802800583&_origin=search&_coverDate=10%2F31%2F2002&_sk=999759989&view=c&wchp=dGLbVlz-zSkzk&md5=e2e01568d83d543fa47da6b19b0f51d2&ie=/sdarticle.pdf|doi=10.1016/S0149-2918(02)80058-3 }}</ref><ref name=Nguyen-Ba_2000>{{Citation | last1 =  Nguyen-Ba| first1 = N.|  last2 =  Rando| first1 = R.F.|title = Development of novel nucleoside analogues for use against drug resistant strains of HIV-1| journal = Drug Discovery Today | volume = 5 | issue = 10 |pages = 465–476  | year =  2000| url = http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6T64-419C4DN-B-5&_cdi=5020&_user=3460687&_pii=S1359644600015580&_origin=search&_coverDate=10%2F01%2F2000&_sk=999949989&view=c&wchp=dGLbVtb-zSkzk&md5=cac114e05d8bb712dd98b0b98dd90ae0&ie=/sdarticle.pdf }}</ref> It was developed by the synthesis and [[broad spectrum]] antiviral activity of 2,3-dihydroxypropyladenine.<ref name=Nguyen-Ba_2000/> Tenofovir DF was the first nucleotide reverse-transcriptase inhibitor approved by the FDA for the treatment of HIV-1 infection in October 2001.<ref name= De-Clercq_2009/><ref name=Fung_2002/>
+
+{| border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:2em"
+
+|+'''Table 4''' A schematic overview of the approved NRTIs and NtRTI and their corresponding endogenous deoxynucleosides and deoxynucleotide.<br />
+<br />
+
+|- align="center" valign „“
+| style="background: #efefef;" |
+! style="background: #efefef; border-right: 2px solid black" | Nucleotide analogue
+! colspan="7" style="background: #efefef;"|Nucleoside analogues
+|-
+! style="background: #efefef;" |
+! style="text-align: center; border-right: 2px solid black;" |[[File:Purine.png|87px]]<br/>Purine analogues <br/>
+! colspan="5" style="text-align: center; border-right: 2px solid black;" |[[File:Pyrimidin.svg|50px|]] <br/>Pyrimidine analogues<br/>
+! colspan="2" style="text-align: center;" |[[File:Purine.png|87px]]<br/>Purine analogues <br/>
+|-
+! style="background: #efefef;" | N<br />
+u<br />
+c<br />
+l<br />
+e<br />
+o<br />
+s<br />
+i<br />
+d<br />
+e
+| style="text-align: center; border-right: 2px solid black;"|[[File:Adenosin.svg|110px]]<br/>Adenosine<br/>
+| colspan="2" style="text-align: center; border-right: 2px solid grey;"|[[File:Desoxythymidin.svg|87px|Chemical structure of thymidine]]<br/>Deoxythymidine<br/>
+| colspan="3" style="text-align: center; border-right: 2px solid black;"|[[File:Desoxycytidin.svg|87px|Chemical structure of deoxycytidine]]<br/>Deoxycytidine<br/>
+| style="text-align: center; border-right: 2px solid grey;"|[[File:Adenosin.svg|110px]]<br/>Adenosine<br/>
+| style="text-align: center;"|[[File:Guanosin.svg|130px]]<br/>Guanosine<br/>
+|-
+! style="background: #efefef;" | D<br />
+r<br />
+u<br />
+g
+| style="text-align: center; border-right: 2px solid black;" |[[File:Tenofovir.svg|140px]]<br/>Tenofovir
+({[(2R)-1-(6-amino-9H- purin-9-yl)propan-2-yl]oxy}methyl) phosphonic acid<br/>
+| style="text-align: center;"|[[File:Zidovudine.svg|87px|Chemical structure of zidovudine]]<br/>Zidovudine
+3´Azido-2´,3´-dideoxythymidine, azidothymidine (AZT)<br/>
+| style="text-align: center; border-right: 2px solid grey;"|[[File:Stavudin.svg|87px|Chemical structure of Stavudin]]<br/>Stavudine
+2´,3´-Didehydro-2´,3´-dideoxythymidine (d4T)<br/>
+| style="text-align: center;"|[[File:Emtricitabine skeletal.svg|97px|Chemical structure of Emticitabine]]<br/>Emtricitabine
+(-)-ß-L-3´-thia-2´,3´-dideoxy-5-fluorocytidine ((-)FTC)<br/>
+| style="text-align: center;"|[[File:Lamivudine.svg|87px|Chemical structure of Lamivudine]]<br/>Lamivudine
+2´,3´-Dideoxy-3´-thiacytidine (3TC)<br/>
+| style="text-align: center; border-right: 2px solid black;"|[[File:Zalcitabine.svg|100px|Chemical structure of Zalcitabine]]<br/>Zalcitabine
+2´,3´-Dideoxycytidine (ddC)<br/>
+| style="text-align: center; border-right: 2px solid grey;"|[[File:Didanosin.svg|110px]]<br/>Didanosine
+2´,3´-Dideoxyinosine (ddI)<br/>
+| style="text-align: center;"|[[File:Abacavir.png|144px]]<br/>Abacavir
+(4-(2-amino-6-(cyclopropylamino)- 9H-purin-9yl) cyclopent-2enyl)methanol(ABC)<br/>
+|}<br />
+{{fontcolor|white|why does the table eat the next section heading if nothing is written here?}}
+
+== Resistance ==
+Currently, appearance of [[drug resistant]] viruses is an inevitable consequence of prolonged exposure of HIV-1 to antiretroviral therapy. Drug resistance is a serious clinical concern in treatment of viral infection, and it is a particularly difficult problem in treatment of HIV.<ref name="Arnold _2005">{{Citation| last1 =  Arnold| first1= E. | last2 =  Dasa| first2= K.|  last3 =  Hughesc| first3 = S.H. | last4 = Lewib| first4 = P.J. | title = Crystallography and the design of anti-AIDS drugs: conformational flexibility and positional adaptability are important in the design of non-nucleoside HIV-1 reverse transcriptase inhibitors| journal = Progress in Biophysics and Molecular Biology | volume = 88 |pages =209–231  | year =  2005| url = http://biomaps.rutgers.edu/DasRTreviewProgBiopMo88_209_2005.pdf|doi=10.1016/j.pbiomolbio.2004.07.001}}</ref> Resistance mutations are known for all approved NRTIs.<ref name="Delviks-Frankenberry _2010">{{Citation| last1 =  Delviks-Frankenberry | first1= K.A. | last2 =  Nikolenko | first2= G.N.|  last3 =  Pathakar | first3 = V.K. | title = The "Connection" Between HIV Drug Resistance and RNase H
+| journal = Viruses | volume = 2 | issue = 7 |pages =1476–1503  | year =  2010| url = http://www.mdpi.com/1999-4915/2/7/1476/pdf |doi=10.3390/v2071476}}</ref>
+
+Two main mechanisms are known that cause NRTI drug resistance:  Interference with the incorporation of NRTIs and excision of incorporated NRTIs.<ref name="Delviks-Frankenberry _2010"/><ref name="Kirby _2010">{{Citation| last1 =  Kirby| first1= K.A. | last2 =  Marchand| first2= B.|  last3 =  Michailidis| first3 = E. | last4 = Sarafianos | first4 = S.G. | last5 =  Singh| first5 = K. | title = Structural Aspects of Drug Resistance and Inhibition of HIV-1 Reverse Transcriptase| journal = Viruses | volume = 2 | issue = 2 |pages =606–638  | year =  2010  | url= http://www.mdpi.com/1999-4915/2/2/606/pdf |doi=10.3390/v2020606 }}</ref> Interference with the incorporated NRTIs involves a [[mutation]] in the p66 subdomain of the RT.<ref name="Kirby _2010"/> The mutation causes a [[steric hindrance]] that can exclude certain drugs, for example lamivudine, from being incorporated during reverse transcription. In case of excision of incorporated NRTIs the resistant enzymes readily accept the inhibitor as a substrate for incorporation into the DNA chain.<ref name="Kirby _2010"/> Subsequently the RT enzyme can remove the incorporated NRTI by reversing the [[polymerization]] step. The excision reaction requires a pyrophosphate donor which RT joins to the NRTI at the 3´primer terminus, excising it from the primer DNA.<ref name="Kirby _2010"/>
+To achieve efficient inhibition of HIV-1 replication in patients, and to delay or prevent appearance of drug resistant viruses, drug combinations are used. [[HAART]], also known as highly active antiretroviral therapy consists of combinations of antiviral drugs which include NRTIs, NtRTI, non-nucleoside reverse-transcriptase inhibitors and protease inhibitors.<ref name="Bowling _1999">{{Citation| last1 =  Bowling| first1= T.L. | last2 =  Gu| first2= Z.|  last3 =  L´Heureux| first3 = L. | last4 = Muys | first4 = J.M. | last5 = Nguyen-Ba  | first5 = N. | last6 = Rando | first6= R.F. | last7= Wainberg  | first7 = M.A. | title = Mechanism of Action and In Vitro Activity of 1',3'-Dioxolanylpurine Nucleoside Analogues against Sensitive and Drug-Resistant Human Immunodeficiency Virus Type 1 Variants | journal = Antimicrobial Agents and Chemotherapy | volume = 43 | issue = 10 |pages = 2376–2382 | year =  1999  | url= http://aac.asm.org/cgi/content/full/43/10/2376 }}</ref>
+
+== Current status ==
+Currently, there are several NRTIs in various stages of clinical and [[preclinical]] development. The main reasons for continuing the search for new NRTIs against HIV-1 are to decrease toxicity, increase efficiency against resistant viruses, and simplify anti-HIV-1 treatment.<ref name=Cihlar_2010/><ref name="Delviks-Frankenberry _2010"/><ref name= Agrawala_2008>{{Citation| last1 =  Agrawala | first1= R.K. | last2 =  Krishnan | first2= P.N.
+|  last3 = Raman | first3 = S.
+| last4 = Ravichandran | first4 = S.
+ | last5 =  Veerasamy | first5 = R.
+ | title = An overview on HIV-1 reverse transcriptase inhibitors| journal = Digest journal of nanomaterials and biostructures| volume = 3| issue = 4 |pages =171–187      | year =  2008  | url= http://www.chalcogen.infim.ro/Ravichandran-HIV1t.pdf}}</ref>
+
+=== Apricitabine (ATC) ===
+[[Apricitabine]] is a deoxycytidine analogue. It is structurally related to lamivudine where the positions of the [[oxygen]] and the sulfur are essentially reversed.<ref name=LaFemina_2009/> Even though apricitabine is a little less potent in vitro compared to some other NRTIs, it maintains its activity against a broad spectrum of HIV-1 variants with NRTI resistance mutations. Apricitabine is in the final stage of clinical development for the treatment of NRTI-experienced patients.<ref name=Cihlar_2010/>
+
+=== Elvucitabine (L-d4FC) ===
+[[Elvucitabine]] is a deoxycytidine analogue with activity against HIV resistant to several other nucleoside analogues, including zidovudine and lamivudine.<ref name=Otto_2004>{{Citation | last1 = Otto | first1 = M.J. | title = New nucleoside reverse transcriptase inhibitors for the treatment of HIV infections | journal = Current Opinion in Pharmacology | volume = 9 | issue = 7 |pages = 839–843 | year = 2003 | url = http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6W7F-4D2FFBK-1-5&_cdi=6625&_user=3460687&_pii=S1471489204001195&_origin=search&_coverDate=10%2F01%2F2004&_sk=999959994&view=c&wchp=dGLbVlW-zSkzV&md5=17a5d272263453f40f9f4f8d660e1ac1&ie=/sdarticle.pdf | doi=10.1016/j.coph.2004.06.001}}</ref> This is partly because of high [[intracellular]] levels of its triphosphate [[metabolite]] reached in cells.<ref name=Cihlar_2010/> Clinical trials of elvucitabine are on hold, because it has shown [[bone marrow suppression]] in some patients, with [[CD4+]] cell numbers dropping as early as two days after initiation of dosing.<ref name=Otto_2004/><ref name= Agrawala_2008/>
+
+=== Amdoxovir (DAPD) ===
+[[Amdoxovir]] is a guanosine analogue NRTI prodrug that has good bioavailability.<ref name=Cihlar_2010/><ref name=Otto_2004/><ref name= Agrawala_2008/> It is deaminated intracellularly by [[adenosine deaminase]] to [[dioxolane]] guanine (DXG). DXG-triphosphate, the active form of the drug, has greater activity than DAPD-triphosphate.<ref name=Otto_2004/> Amdoxovir is currently in phasa II clinical trials.<ref name=Nguyen-Ba_2000/><ref name= Agrawala_2008/>
+
+=== Racivir (RCV) ===
+[[Racivir]] is a racemic mixture of the two β-enantiomers of emtricitabine (FTC), (-)-FTC and (+)-FTC. Racivir has excellent oral bioavailability and has the advantage of needing to be taken only once a day. Racivir can be considered to be used in combination of two NRTIs and has shown promising antiviral activity when used in combination. Racivir is currently in phase II clinical trials.<ref name=Cihlar_2010/><ref name=Otto_2004/><ref name= Agrawala_2008/>
+
+{|border="1" cellpadding="5" cellspacing="0" align="center"
+|+'''Table 5''' Several drug candidates that are undergoing clinical development
+|- align=“center“ valign „“
+! style="background: #efefef;" | Drug candidate
+! style="background: #efefef;" |Apricitabine
+! style="background: #efefef;" |Elvucitabine
+! style="background: #efefef;" |Amdoxovir
+! style="background: #efefef;" |Racivir
+|- align=“center“ valign „“
+! style="background: #efefef;" | Chemical structure
+|[[File:Apricitabine.svg|150px|]]
+|[[File:Elvucitabine.png|125px|]]
+|[[File:Amdoxovir.png|160px|]]
+|[[File:Racivir.png|200px|]]
+|-
+! style="background: #efefef;"  | Phase of development
+| Final stage of clinical development
+| style="text-align: center;"| On hold
+| style="text-align: center;"|phase II
+| style="text-align: center;"|phase II
+|}<br />
+
+There are several more NRTIs in development. Either the sponsors have filed for an [[Investigational New Drug]] (IND) application, the application has been approved by the FDA or the drugs are in different phases of clinical trials. Some of the NRTIs that are in development  exhibit various attractive pharmacological properties that could make them desirable for the treatment of patients in need of new agents.<ref name=Cihlar_2010/><ref name=Otto_2004/><ref name= Agrawala_2008/>
+
+== See also ==
+* [[Antiretroviral drug]]
+* [[Discovery and development of CCR5 receptor antagonists]]
+* [[Discovery and Development of Non-Nucleoside Reverse-Transcriptase Inhibitors]]
+* [[Discovery and Development of HIV Protease Inhibitors]]
+* [[Reverse-transcriptase inhibitor]]
+* [[Protease inhibitor (pharmacology)|Protease inhibitor]]
+* [[Entry inhibitor]]
+* [[Discovery and development of HIV protease inhibitors]]
+* [[Discovery and development of CCR5 receptor antagonists]]
+
+== References ==
+{{reflist}}
+
+{{HIVpharm}}
+{{Drug design}}
+
+[[Category:Nucleoside analog reverse transcriptase inhibitors]]
+[[Category:World Health Organization essential medicines]]
+[[Category:Drug discovery|Nucleoside And Nucleotide Reverse-transcriptase Inhibitors, Discovery And Development Of]]

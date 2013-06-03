@@ -1,0 +1,77 @@
+{{Refimprove|date=July 2011}}
+
+The '''ultraviolet index''' or '''UV Index''' is an international standard [[measurement]] of the strength of the [[ultraviolet]] (UV) [[radiation]] from the [[sun]] at a particular place on a particular day. It is a scale primarily used in daily forecasts aimed at the general public, and is now available as an hourly forecast as well.
+
+Its purpose is to help people to effectively protect themselves from UV light, of which excessive exposure causes [[sunburn]]s, [[human eye|eye]] damage such as [[cataract]]s, skin aging, [[immunosuppression]],<ref>Hanneman KK, Cooper KD, Baron ED (2006). [http://www.ncbi.nlm.nih.gov/pubmed/16311164 Ultraviolet immunosuppression: mechanisms and consequences]. Dermatol Clin. Jan;24(1):19-25.</ref> and [[skin cancer]] (see the section  [[Ultraviolet#Human_health-related_effects_of_UV_radiation|health effects of ultraviolet light]]).  Public-health organizations recommend that people protect themselves (for example, by applying [[sunscreen]] to the skin and wearing a hat) when the UV Index is 3 or higher; see the table below for complete recommendations.
+
+== Description ==
+The UV Index is a linear scale, with higher values representing a greater risk level of sunburn (which is correlated with other health risks) due to UV exposure.  An index of 0 corresponds to zero UV irradiation, as is essentially the case at night. While an index of 10 corresponds roughly to midday, summer sun and a clear sky, indices greater than 11 are quite common in summer at low latitudes, or in areas with above average [[ozone depletion|ozone layer depletion]].  The numbers are related to the amount of UV radiation reaching the surface of the [[earth]], measured in [[Watt|W]]/[[Square metre|m<sup>2</sup>]], but the relationship is not simple (see below for definition) because UV power is spread unevenly over a spectrum of wavelengths; shorter wavelengths are much more damaging. By [[weighting]] their effect<ref>http://www.epa.gov/sunwise/uvicalc.html</ref><ref>http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/gif_files/spectrum.gif</ref> the index aims to create a number that cannot be expressed in physical units, but is a good indication of likely skin damage.
+
+While the UV Index can be calculated from a direct measurement of the UV spectral power at a given place, the value given in weather forecasts is usually a prediction based on a computer model. While this may be in error, as with all predictions, it is usually the same index as that which would be measured.<ref>http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/uv_validate.shtml</ref>
+
+The UV Index announced in [[Weather forecasting|weather forecasts]] is a prediction of how strong the actual UV intensity will be at the sun's highest point in the day, called [[solar noon]]. This generally occurs between 11:30 and 12:30, or 12:30 and 13:30 in areas where [[daylight saving time]] is being observed. The prediction is made by a [[computer model]] that accounts for the effects of [[Solar azimuth angle|sun altitude]], ozone concentration, altitude, the surface [[albedo]], and cloud cover, which increase or decrease the amount of UV radiation that will reach the surface.  The calculations are weighted in favor of the UV [[wavelength]]s to which [[Skin|human skin]] is most sensitive according to the [[McKinlay-Diffey]] Erythema action spectrum.<ref>McKinlay, A. F. and B. L. Diffey (1987) CIE J. 6, 17–22</ref>  Providing the public with an easy-to-understand daily and hourly forecast of UV intensity is the main purpose of the UV index.
+
+Some inexpensive portable devices also measure actual UV Index.
+
+== Definition ==
+The UV Index is a number linearly related to the [[intensity (physics)|intensity]] of UV radiation reaching the surface of the [[earth]] at a given point. It cannot be simply related to the [[irradiance]] (measured in [[Watt|W]]/[[Square metre|m<sup>2</sup>]]) because the UV of concern occupies a spectrum of wavelength from 295 to 325&nbsp;nm and shorter wavelengths have already been absorbed a great deal when they arrive at Earth's surface. Skin damage, however, is related to wavelength, the shorter wavelengths being much more significant. The UV power spectrum (strictly expressed in watts per square metre per nanometre of wavelength) is therefore weighted according to a [[weighting curve]] known as the McKinlay-Diffey erythemal action spectrum, and the result integrated over the whole spectrum. This typically gives a figure of around 250 in midday sun and so is arbitrarily divided by 25 to generate a convenient index value, which becomes essentially a scale of 0 to 11+ (though ozone depletion is now resulting in values above ten as mentioned above).<ref name="UVIndex_calculation">[http://serc.si.edu/labs/photobiology/UVIndex_calculation.aspx]</ref> Because the scale is linear and not logarithmic, as is often the case when measuring things such as sound level or brightness, it is reasonable to assume that one hour of exposure at index ten is approximately equivalent to two hours at index 5, although other factors like the body's ability to repair damage over a given time period could detract from the validity of this assumption.
+
+To illustrate the weighting principle, the incident power density in midday sun is typically 0.6&nbsp;mW/(nm m<sup>2</sup>) at 295&nbsp;nm, 74&nbsp;mW/(nm m<sup>2</sup>) at 305&nbsp;nm and 478&nbsp;mW/(nm m<sup>2</sup>) at 325&nbsp;nm. (Note the huge absorption that has already taken place in the atmosphere at short wavelengths.)
+The weighting factors applied to these figures are 1.0, 0.22, and 0.03 respectively. (Also note the huge increase in damage caused by the shorter wavelength, e.g., 305&nbsp;nm is 22% as damaging as 295&nbsp;nm, and 325&nbsp;nm is 3% as damaging as 295&nbsp;nm.) Integration of these values using all the intermediate weighting values over the spectral range of 305&nbsp;nm to 325&nbsp;nm produces a figure of 264, which is then divided by 25 to give a UV Index of 10.6.<ref name="UVIndex_calculation"/>
+
+== History ==
+In 1992, three [[scientist]]s from [[Department of the Environment (Canada)|Environment Canada]] developed the UV Index, and made [[Canada]] the first country in the world to broadcast forecasts of the predicted daily UV levels for the next day. Several other countries followed suit with their own UV indices, among them the [[United States]] in 1994.  Until recently, the methods of calculating and reporting a UV Index varied from country to country.  Today, a worldwide UV Index, standardized by the [[World Health Organization]] (WHO), has replaced the inconsistent regional methods.  The international UV Index not only specifies a uniform calculation method but also standard colors and graphics for printed media.  In the USA, the WHO index replaced the original US index in 2004. In 2005, the [[United States]]<ref>[http://www.epa.gov/sunwise/uvalert.html] United States UV Alert</ref> and [[Australia]]<ref>[http://www.sunsmart.com.au/article.asp?ContentID=23986] Australian UV Alert</ref> launched the UV Alert. While the two countries have different baseline UV intensity requirements before issuing an alert, the goal is to raise awareness of the dangers of overexposure to the sun on days with intense UV radiation.
+
+== How to use the index ==
+Recommendations for protection when the day's predicted UV Index is at various values are:
+
+{| class="wikitable"
+! UV index !! Description !! Media graphic color !! Recommended protection
+|-
+| align="center" bgcolor="#289500" | 0&ndash;2 || Low danger from the sun's UV rays for the average person || align="center" | [[Green]] || Wear [[sunglasses]] on bright days; use sunscreen if there is snow on the ground, which reflects UV radiation, or if you have particularly fair skin.
+|-
+| align="center" bgcolor="#F7e400" | 3&ndash;5 || Moderate risk of harm from unprotected sun exposure || align="center" | [[Yellow]] || Take precautions, such as covering up, if you will be outside.
+Stay in shade near midday when the sun is strongest.
+|-
+| align="center" bgcolor="#F85900" | 6&ndash;7 || High risk of harm from unprotected sun exposure || align="center" | [[Orange (colour)|Orange]] || Wear sunglasses and use SPF 30+ sunscreen, cover the body with [[sun protective clothing]] and a wide-brim hat, and reduce time in the sun from three hours before to three hours after solar noon (roughly 10:00 to 16:00 during summer in zones that observe [[daylight saving time]]).
+|-
+| align="center" bgcolor="#d8001d" | 8&ndash;10 || Very high risk of harm from unprotected sun exposure || align="center" | [[Red]] || Wear SPF 30+ sunscreen, a shirt, sunglasses, and a hat. Do not stay out in the sun for too long.
+|-
+| align="center" bgcolor="#6B49C8" | 11+ || Extreme risk of harm from unprotected sun exposure || align="center" | [[Violet (color)|Violet]] || Take all precautions, including: wear sunglasses and use SPF 30+ sunscreen, cover the body with a long-sleeve shirt and [[trousers]], wear a very broad hat, and avoid the sun from three hours before until three hours after solar noon (roughly 10:00 to 16:00 in zones that observe [[daylight saving time]]).
+|}
+<ref>[http://epa.gov/sunwise/uvindex.html EPA SunWise: UV Index<!-- Bot generated title -->]</ref>
+
+=== Cautionary notes ===
+Be aware when interpreting the UV index and recommendations that:
+
+# The intensity of UV radiation reaching the surface of the earth varies depending on how high the angle of the sun is in the sky.  The sun reaches its highest angle at [[solar noon]], which rarely corresponds to 12:00 on clocks.  This is because of the differences between [[solar time]] and local time in a given [[time zone]].
+# The recommendations given are for adults with pale to lightly tan skin. Children and particularly fair-skinned people or those who have [[sun sensitivity]] for medical reasons need to take extra precautions.
+# Because of the way the UV Index is calculated, it technically expresses the risk of developing sunburn, which is caused by [[ultraviolet|UVB]] radiation. However [[Ultraviolet|UVA]] radiation also causes damage (skin aging, [[melanoma]]<ref>http://ukpmc.ac.uk/abstract/MED/15968560</ref>). Under some conditions the UVA levels may be higher or lower than the UV levels described by the UV Index.
+# Damage from sun exposure is cumulative over one's lifetime (but see Berking C. 2005<ref>Berking C. The role of ultraviolet irradiation in malignant melanoma Klinik und Poliklinik für Dermatologie und Allergologie der Ludwig-Maximilians-Universität München.</ref>). Cumulative exposure to the sun imparts damage to the [[Epidermis (skin)|epidermis]] (the outer layer) and the [[dermis]], (the deeper layer where the skin's framework exists). Damage to the dermal layer changes the structural components, causing elastin fibers to thicken and become more numerous. [[Collagen]] is damaged and degraded and [[reticulin]] fibers appear throughout the dermis rather than outlining the specific [[dermoepidermal junction]].<ref>[http://web.archive.org/web/20080731140726/http://ohioline.osu.edu/cd-fact/0199.html Ohio State University Fact Sheet]</ref><ref>http://onlinelibrary.wiley.com/doi/10.1562/0031-8655(2003)0770453UDOYA2.0.CO2/full</ref>
+
+== See also ==
+* [[Risks and benefits of sun exposure]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.uvawareness.com/index.php Hourly UV Forecasts from UV Awareness] &mdash; Hourly UV Forecasts for any location in the World
+* [http://www.epa.gov/sunwise/uvindex.html Sunwise by the US Environment Protection Agency] &mdash; background information and UV-index forecasts
+* [http://www.who.int/uv/en/ World Health Organization UV Radiation program]
+* [http://www.temis.nl/uvradiation/world_uvi.html World maps showing UV index - updated daily]
+* [http://www.temis.nl/uvradiation/nrt/uvindex.php Clear sky UV index and ozone at a location]
+* [http://www.maximumedge.com/cgi/weather/index.cgi?forecast=ultraviolet&state=us MaximumWeather] &mdash; UV index for major U.S. cities
+* [http://nadp.nrel.colostate.edu/UVB/da_queryErythemal.jsf USDA Monitoring and Research Program - Erythemal Radiation - Measured Irradiance]
+* [http://www.bom.gov.au/products/uvindex_national.shtml Australia UV National Index Forecast]
+* [http://www.koolasun.co.za/sa-uv-index.html South African UV Index Forecast]
+* [http://serc.si.edu/labs/photobiology/UVIndex_calculation.aspx How the index is calculated] (based on wavelength - no mention of solar elevation)
+* [http://www.fmi.fi/weather/warning_4.html FMI Global UV Index service] global daily maximum maps and hourly forecast graphs for over 170 locations around the world plus observations from Finland
+* [http://www.chmi.cz/meteo/ozon/UV_online.html Czech Meteorological Institute] Online UV Index in the Czech Republic
+* [http://uv.exa.ec/index-en.html National Radiation Monitor - EXA] Online near real time UV index monitoring in Ecuadorian territory
+
+[[Category:Sun tanning]]
+[[Category:Weather]]
+[[Category:Ultraviolet radiation]]
+[[Category:Prevention]]
+[[Category:Scales]]

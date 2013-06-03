@@ -1,0 +1,84 @@
+{{Infobox Anatomy |
+  Name         = Distal convoluted tubule |
+  Latin        = tubulus contortus distalis |
+  GraySubject  = 253 |
+  GrayPage     = 1223 |
+  Image        = Kidney_nephron.png |
+  Caption      = Kidney nephron ("1st proximal convoluted tubule", "2nd distal convoluted tubule") |
+  Image2       = Gray1132.png |
+  Caption2     = Section of cortex of human kidney.  |
+  Precursor    = [[Metanephric blastema]] |
+  System       = |
+  Artery       = |
+  Vein         = |
+  Nerve        = |
+  Lymph        = |
+  MeshName     = Distal+Kidney+Tubule |
+  MeshNumber   = |
+  DorlandsPre  = t_22 |
+  DorlandsSuf  = 12830066  |
+}}
+The '''distal convoluted tubule''' ('''DCT''') is a portion of [[kidney]] [[nephron]] between the [[loop of Henle]] and the [[collecting duct system]]. 
+
+== Physiology ==
+It is partly responsible for the regulation of [[potassium]], [[sodium]], [[calcium]], and [[pH]]. It is the primary site for the kidneys' hormone based regulation of calcium (Ca). 
+
+On its [[Apical membrane|apical]] surface (lumen side), cells of the DCT have a [[thiazide-sensitive Na-Cl cotransporter]] and are [[Semipermeable membrane|permeable]] to Ca, via TRPV5 channel. On the [[basolateral]] surface (blood) there is an ATP dependent Na/K antiport pump, a secondary active Na/Ca transporter-- [[antiport]], and an [[ATP dependent]] Ca transporter. The basolateral ATP dependent Na/K pump produces the gradient for Na to be absorbed from the apical surface via the Na/Cl [[synport]] and for Ca to be reclaimed into the blood by the Na/Ca basolateral antiport.
+
+* It regulates pH by absorbing [[bicarbonate]] and secreting [[proton]]s (H<sup>+</sup>) into the filtrate, or by absorbing [[proton]]s and secreting [[bicarbonate]] into the filtrate. 
+
+* Sodium and potassium levels are controlled by secreting K<sup>+</sup> and absorbing Na<sup>+</sup>. Sodium absorption by the distal tubule is mediated by the [[hormone]] [[aldosterone]]. Aldosterone increases sodium reabsorption. Sodium and chloride (salt) reabsorption is also mediated by a group of kinases called WNK kinases. There are 4 different WNK kinases, {{Gene|WNK1}}, {{Gene|WNK2}}, {{Gene|WNK3}}, and {{Gene|WNK4}}.
+
+* It also participates in [[calcium]] regulation by reabsorbing Ca<sup>2+</sup> in response to parathyroid hormone. <ref>{{LoyolaMedEd|mech/cases/case24/kidney.htm}}</ref> PTH effect is mediated through phosphorylation of regulatory proteins and enhancing the synthesis of all transporters within the distal convoluted tubule.  
+
+* [[Arginine vasopressin receptor 2]] is also expressed in the DCT.
+
+==Clinical significance==
+[[Thiazide]] [[diuretic]]s inhibit Na<sup>+</sup>/Cl<sup>-</sup> reabsorption from the DCT by blocking the [[thiazide-sensitive Na-Cl cotransporter]]. 
+
+By inhibiting the cotransporter, thiazide diuretics increase the gradient potential for Na. This increases the activity of the basolateral Na/Ca antiport and causes the increase in calcium reclamation associated with thiazide diuretics.   
+
+== Histology == <!--Kidney distal tubule cell redirects here-->
+The DCT is lined with simple cuboidal cells that are shorter than those of the [[proximal convoluted tubule]] (PCT).  The lumen appears larger in DCT than the PCT lumen because the PCT has a brush border (microvilli).  DCT can be recognized by its numerous [[mitochondria]], basal infoldings and lateral membrane interdigitations with neighboring cells.  
+
+The point where DCT contacts afferent arteriole of renal corpuscle is called [[macula densa]].  It has tightly packed columnar cells which display reversed polarity and may monitor the osmolarity of blood.  
+
+[[Histology|Histologically]], cells of the DCT can be differentiated from cells of the [[proximal convoluted tubule]]:
+
+{| class="wikitable"
+| '''Characteristic''' || '''PCT''' || '''DCT''' 
+ |- 
+ | [[Apical membrane|Apical]] [[brush border]] || Usually present|| Not present 
+ |- 
+ | [[Eosinophil]]icity || More  || Less 
+ |- 
+ | [[Cytoplasm]] || More || Less 
+ |- 
+ | Readily discernible [[cell nucleus|nuclei]] || Less likely || More likely 
+|}
+
+==Additional images==
+<gallery>
+ Image:Histology-kidney.jpg |1 [[Glomerulus]], 2 [[Proximal convoluted tubule|proximal tubule]], 3 distal tubule
+ Image:Gray1133.png|Transverse section of pyramidal substance of kidney of pig, the bloodvessels of which are injected.
+ Image:Renal corpuscle.svg|Renal corpuscle
+ Image:Kidney nephron molar transport diagram.svg|Diagram outlining movement of ions in nephron.
+</gallery>
+
+==References==
+<references/>
+
+== External links ==
+* {{OklahomaHistology|35_19}} 
+* {{GeorgiaPhysiology|7/7ch03/7ch03p18}}
+* {{GeorgiaPhysiology|7/7ch07/7ch07p14}}
+* {{BUHistology|16004loa}}
+* {{BUHistology|16007loa}}
+
+{{kidney}}
+
+[[Category:Kidney anatomy]]
+
+{{genitourinary-stub}}
+
+[[fr:Néphron#Tubule contourné distal]]

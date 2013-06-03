@@ -1,0 +1,214 @@
+{{refimprove|date=May 2012}}
+{{drugbox | verifiedrevid = 460044539
+| IUPAC_name = (+)-(''S'')-methyl 2-(2-chlorophenyl)-2-(6,7-dihydrothieno[3,2-''c'']pyridin-5(4''H'')-yl)acetate
+| image = S-Clopidogrel structure.svg
+| width = 200
+| image2 = Clopidogrel 3D.png
+| width2 = 200
+
+<!--Clinical data-->
+| tradename = Plavix
+| Drugs.com = {{drugs.com|monograph|plavix}}
+| MedlinePlus = a601040
+| pregnancy_AU = B1
+| pregnancy_US = B
+| pregnancy_category = 
+| legal_AU = S4
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = Oral
+| licence_US = Plavix
+
+<!--Pharmacokinetic data-->
+| bioavailability = >50%
+| protein_bound = 94–98%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 7–8 hours (inactive metabolite)
+| excretion = 50% [[renal]]<br />46% [[biliary]]
+
+<!--Identifiers-->
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 113665-84-2
+| ATC_prefix = B01
+| ATC_suffix = AC04
+| PubChem = 60606
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00758
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54632
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = A74586SNO7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07729
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 37941
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1771
+
+<!--Chemical data-->
+| C=16 | H=16 | Cl=1 | N=1 | O=2 | S=1 
+| molecular_weight = 321.82 g/mol
+| smiles = COC(=O)[C@H](c1ccccc1Cl)N2CCc3c(ccs3)C2
+| InChI = 1/C16H16ClNO2S/c1-20-16(19)15(12-4-2-3-5-13(12)17)18-8-6-14-11(10-18)7-9-21-14/h2-5,7,9,15H,6,8,10H2,1H3/t15-/m0/s1
+| InChIKey = GKTWGGQPFAXNFI-HNNXBMFYBE
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H16ClNO2S/c1-20-16(19)15(12-4-2-3-5-13(12)17)18-8-6-14-11(10-18)7-9-21-14/h2-5,7,9,15H,6,8,10H2,1H3/t15-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GKTWGGQPFAXNFI-HNNXBMFYSA-N
+}}
+
+'''Clopidogrel''' ([[International Nonproprietary Name|INN]]) is an oral, [[thienopyridine]] class [[Antiplatelet drug|antiplatelet agent]] used to inhibit blood clots in [[coronary artery disease]], [[peripheral vascular disease]], and [[cerebrovascular disease]]. It is marketed by [[Bristol-Myers Squibb]] and [[Sanofi]] under the [[trade name]] '''Plavix'''. The drug works by irreversibly inhibiting a receptor called [[P2Y12|P2Y<sub>12</sub>]], an [[adenosine diphosphate]] (ADP) chemoreceptor on platelet cell membranes. Adverse effects include [[hemorrhage]], severe [[neutropenia]], and [[thrombotic thrombocytopenic purpura]] (TTP).
+
+== Pharmacology ==
+Clopidogrel is a [[prodrug]], the action of which may be related to an ADP receptor on [[platelet]] cell membranes. The drug specifically and irreversibly inhibits the [[P2Y12|P2Y<sub>12</sub>]] subtype of ADP receptor, which is important in activation of platelets and eventual cross-linking by the protein [[fibrin]].<ref name="Savi">{{cite journal | last=Savi | first=P | coauthors=Zachayus JL; Delesque-Touchard N; ''et al.'' | title=The active metabolite of Clopidogrel disrupts P2Y12 receptor oligomers and partitions them out of lipid rafts | journal=Proceedings of the National Academy of Sciences of the USA | volume=103 | issue=29 | pages=11069–11074 | month=July | year=2006 | pmid=16835302 | doi=10.1073/pnas.0510446103 | pmc=1635153 | url = http://www.pnas.org/content/103/29/11069.full.pdf }}</ref> 
+Platelet inhibition can be demonstrated two hours after a single dose of oral clopidogrel, but the onset of action is slow, so that a loading-dose of 300&nbsp;mg is usually administered.
+
+== Clinical use ==
+
+=== Indications ===
+Clopidogrel is indicated for:<ref name="Rossi">Rossi S, editor. [[Australian Medicines Handbook]] 2006. Adelaide: Australian Medicines Handbook; 2006. ISBN 0-9757919-2-3</ref>
+
+* Prevention of vascular [[ischemic]] events in patients with symptomatic [[atherosclerosis]]
+* Acute coronary syndrome without ST-segment elevation ([[myocardial infarction|NSTEMI]]),
+* ST elevation MI (STEMI)
+
+It is also used, along with [[acetylsalicylic acid]] (ASA, brand name Aspirin), for the prevention of [[thrombosis]] after placement of intracoronary [[stent]]<ref name="Rossi" /> or as an alternative antiplatelet drug for patients who are intolerant to ASA.<ref>Michael D Randall; Karen E Neil (2004). Disease management. 2nd ed. London: Pharmaceutical Press. 159.</ref>
+
+International guidelines granted the highest grade of recommendation for NSTE-ACS, PCI and stent,{{Clarify|date=September 2008}} for clopidogrel in addition to ASA. Consensus-based therapeutic guidelines also recommend the use of clopidogrel rather than ASA for antiplatelet therapy in patients with a history of gastric ulceration, as inhibition of the synthesis of prostaglandins by ASA can exacerbate this condition. A study has shown that in patients with healed ASA-induced ulcers, however, patients receiving ASA plus the [[proton pump inhibitor]] [[esomeprazole]] had a lower incidence of recurrent ulcer bleeding than patients receiving clopidogrel.<ref name="pmid15659723">{{cite journal |author=Chan FK | coauthors = Ching JY; Hung LC; ''et al.'' |title=Clopidogrel versus aspirin and esomeprazole to prevent recurrent ulcer bleeding |journal=N. Engl. J. Med. |volume=352 |issue=3 |pages=238–44 |year=2005 |pmid=15659723 |doi=10.1056/NEJMoa042087 | url = http://www.nejm.org/doi/pdf/10.1056/NEJMoa042087 | format = PDF }}</ref> However, a more recent study suggested that prophylaxis with [[proton pump inhibitor]]s along with clopidogrel following [[acute coronary syndrome]] may increase adverse cardiac outcomes, possibly due to inhibition of [[CYP2C19]], which is required for the conversion of clopidogrel to its active form.<ref name="pmid=21572655">{{cite journal |author=Mistry SD, Trivedi HR, Parmar DM, Dalvi PS, Jiyo C.|title=Impact of proton pump inhibitors on efficacy of clopidogrel: Review of evidence |journal= [[Indian Journal of Pharmacology]] |volume=43 |issue=2 |pages=183–6 |year=2011 |pmid=21572655 |doi=10.4103/0253-7613.77360 |pmc=3081459}}</ref><ref name="pmid=19258584">{{cite journal |author=Ho PM, Maddox TM, Wang L, Fihn SD, Jesse RL, Peterson ED, Rumsfeld JS.|title=Risk of adverse outcomes associated with concomitant use of clopidogrel and proton pump inhibitors following acute coronary syndrome |journal= [[Journal of the American Medical Association]] |volume=301 |issue=9 |pages=937–44 |year=2009 |pmid=19258584 |doi=10.1001/jama.2009.261}}</ref><ref>{{Cite journal | last = Stockl | first = KM | coauthors = Le L; Zakharyan A; ''et al.'' | title = Risk of rehospitalization for patients using clopidogrel with a proton pump inhibitor | journal = Arch Intern Med | volume = 170 | issue = 8 | pages = 704–10 | year = 2010 | month = April | url = http://archinte.jamanetwork.com/pdfaccess.ashx?ResourceID=593382 | format = PDF | issn = 1538-3679 | pmid = 20421557 | doi = 10.1001/archinternmed.2010.34 }}</ref> The [[European Medicines Agency]] has issued a public statement on a possible interaction between clopidogrel and proton pump inhibitors.<ref>{{cite web|last=Wathion|first=Noël|title=Public statement on possible interaction between clopidogrel and proton pump inhibitors|url=http://www.ema.europa.eu/docs/en_GB/document_library/Public_statement/2009/11/WC500014409.pdf |accessdate=31 March 2011}}</ref> However, several cardiologists have voiced concern that the studies on which these warnings are based have many limitations and that it is not certain whether there really is an interaction between clopidogrel and proton pump inhibitors.<ref>{{cite web|last=Hughes|first=Sue|title=EMEA issues warning on possible clopidogrel-PPI interaction, but is there really a problem?|url=http://www.theheart.org/article/980779.do |accessdate=31 March 2011}}</ref>
+
+=== Dosage forms ===
+Clopidogrel is marketed as '''clopidogrel bisulfate''' ('''clopidogrel hydrogen sulfate'''), most commonly under the trade names '''Plavix''', as 75&nbsp;mg and 300&nbsp;mg oral tablets.<ref>Joint Royal Colleges Ambulance liaison committee Clinical Practise Guideines Guidelines</ref>
+
+== Pharmacokinetics and metabolism ==
+[[File:Clopidogrel activation.svg|left|thumb|upright=1.5|Clopidogrel (top left) being activated. The first step is an oxidation mediated (mainly) by [[CYP2C19]], unlike the activation of the related drug [[prasugrel]]. The two structures at the bottom are [[tautomer]]s of each other; and the final step is a hydrolysis. The active metabolite (top right) has [[E-Z notation|''Z''&nbsp;configuration]] at the double bond C3–C16 and possibly [[Chirality (chemistry)#By configuration: R- and S-|''R''&nbsp;configuration]] at the newly asymmetric C4.<ref name="metabolite">
+{{cite journal
+| author = Pereillo JM, Maftouh M, Andrieu A, Uzabiaga MF, Fedeli O, Savi P, Pascal M, Herbert JM, Maffrand JP, Picard C
+| year = 2002
+| title = Structure and stereochemistry of the active metabolite of clopidogrel
+| journal = Drug Metab. Dispos.
+| volume = 30
+| issue = 11
+| pages = 1288–95
+| pmid = 12386137
+| doi =10.1124/dmd.30.11.1288
+| url = http://dmd.aspetjournals.org/cgi/reprint/30/11/1288.pdf
+}}</ref>]]
+
+After repeated 75&nbsp;mg oral doses of clopidogrel (base), plasma concentrations of the parent compound, which has no platelet inhibiting effect, are very low and are generally below the quantification limit (0.258&nbsp;µg/L) beyond two hours after dosing. {{citation needed|date=November 2012}}
+
+Clopidogrel is a [[pro-drug]] activated in the liver by cytochrome P450 enzymes, including [[CYP2C19]]. Due to opening of the thiophene ring, the chemical structure of the active has three sites that are stereochemically relevant, making a total of eight possible isomers. These are: a stereocentre at C4 (attached to the —SH thiol group), a double bond at C3—C16, and the original stereocentre at C7. Only one of the eight structures is an active antiplatelet drug. This has the following configuration: ''Z'' configuration at the C3—C16 double bond, the original ''S'' configuration at C7,<ref name="metabolite" /> and although the stereocentre at C4 can't be directly determined, as the thiol group is too reactive, work with the active metabolite of the related drug [[prasugrel]] suggests that ''R''-configuration of the C4 group is critical for P2Y<sub>12</sub> and platelet-inhibitory activity.{{citation needed|date=December 2011}}
+
+The active metabolite has an elimination half-life of about eight hours and acts by forming a disulfide bridge with the platelet ADP receptor. Patients with a variant allele of CYP2C19 are 1.5 to 3.5 times more likely to die or have complications than patients with the high-functioning allele.<ref>{{cite journal | journal = [[The New England Journal of Medicine]] | volume = 360 | year = 2009 | month = January | pages = 354–62 | doi = 10.1056/NEJMoa0809171 | title = Cytochrome p-450 polymorphisms and response to clopidogrel | author = Mega JL | pmid = 19106084 | last2 = Close | first2 = SL | last3 = Wiviott | first3 = SD | last4 = Shen | first4 = L | last5 = Hockett | first5 = RD | last6 = Brandt | first6 = JT | last7 = Walker | first7 = JR | last8 = Antman | first8 = EM | last9 = MacIas | first9 = W | issue = 4 | url = http://www.nejm.org/doi/pdf/10.1056/NEJMoa0809171 | format = PDF }}</ref><ref>{{cite journal | journal = [[The New England Journal of Medicine]] | volume = 360 | year = 2009 | month = January | pages = 363–75 | doi = 10.1056/NEJMoa0808227 | title = Genetic Determinants of Response to Clopidogrel and Cardiovascular Events | author = Simon T | pmid = 19106083 | last2 = Verstuyft | first2 = C | last3 = Mary-Krause | first3 = M | last4 = Quteineh | first4 = L | last5 = Drouet | first5 = E | last6 = Méneveau | first6 = N | last7 = Steg | first7 = PG | last8 = Ferrières | first8 = J | last9 = Danchin | first9 = N | issue = 4 | url = http://www.nejm.org/doi/pdf/10.1056/NEJMoa0808227 | format = PDF }}</ref><ref>{{cite journal | journal = [[The Lancet]] | volume = 373 | pages = 309–17 | year = 2009 | month = January | doi = 10.1016/S0140-6736(08)61845-0 | title = Cytochrome P450 2C19 polymorphism in young patients treated with clopidogrel after myocardial infarction: a cohort study | author = Collet, J | pmid = 19108880 | last2 = Hulot | first2 = JS | last3 = Pena | first3 = A | last4 = Villard | first4 = E | last5 = Esteve | first5 = JB | last6 = Silvain | first6 = J | last7 = Payot | first7 = L | last8 = Brugier | first8 = D | last9 = Cayla | first9 = G | issue = 9660}}</ref>
+
+Following an oral dose of <sup>14</sup>C-labeled clopidogrel in humans, approximately 50% was excreted in the urine and approximately 46% in the feces in the five days after dosing.
+
+''Effect of food:'' Administration of clopidogrel bisulfate with meals did not significantly modify the bioavailability of clopidogrel as assessed by the pharmacokinetics of the main circulating metabolite.
+
+''Absorption and distribution:'' Clopidogrel is rapidly absorbed after oral administration of repeated doses of 75&nbsp;mg clopidogrel (base), with peak plasma levels (approx. 3&nbsp;mg/L) of the main circulating metabolite occurring approximately one hour after dosing. The pharmacokinetics of the main circulating metabolite are linear (plasma concentrations increased in proportion to dose) in the dose range of 50 to 150&nbsp;mg of clopidogrel. Absorption is at least 50% based on urinary excretion of clopidogrel-related metabolites.
+Clopidogrel and the main circulating metabolite bind reversibly ''in vitro'' to human plasma proteins (98% and 94%, respectively). The binding is nonsaturable ''in vitro'' up to a concentration of 110&nbsp;μg/mL.
+
+''Metabolism and elimination: In vitro'' and ''in vivo'', clopidogrel undergoes rapid hydrolysis into its [[carboxylic acid]] derivative. In plasma and urine, the glucuronide of the carboxylic acid derivative is also observed.
+
+In March 2010, the U.S. [[Food and Drug Administration]] (FDA) added a boxed warning to Plavix alerting that the drug can be less effective in people who cannot metabolize the drug to convert it to its active form.<ref name="FDA Black Box">{{cite press release
+| title = FDA Announces New Boxed Warning on Plavix: Alerts patients, health care professionals to potential for reduced effectiveness
+| date = March 12, 2010
+| url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm204253.htm
+| publisher = [[Food and Drug Administration]] (FDA)
+| accessdate = March 13, 2010
+}}</ref><ref>
+{{cite web
+| url = http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm203888.htm
+| title = FDA Drug Safety Communication: Reduced effectiveness of Plavix (clopidogrel) in patients who are poor metabolizers of the drug
+| publisher = [[Food and Drug Administration]] (FDA)
+| date = March 12, 2010
+| accessdate = March 13, 2010
+}}</ref>
+
+== Pharmacogenetics ==
+CYP2C19 is an important drug-metabolizing enzyme that catalyzes the biotransformation of many clinically useful drugs including antidepressants, barbiturates, proton pump inhibitors, antimalarial and antitumor drugs. Clopidogrel is one of the drugs metabolized by this enzyme.
+
+Several recent landmark studies have proven the importance of 2C19 genotyping in treatment using clopidogrel or Plavix. In March 2010, the FDA put a black box warning on Plavix to make patients and healthcare providers aware that CYP2C19 poor metabolizers, representing up to 14% of patients, are at high risk of treatment failure and that testing is available.<ref name="FDA Black Box" /> Researchers have found that patients with variants in cytochrome P-450 2C19 (CYP2C19) have lower levels of the active metabolite of clopidogrel, less inhibition of platelets, and a 3.58 times greater risk for major adverse cardiovascular events such as death, heart attack, and stroke; the risk was greatest in CYP2C19 poor metabolizers.<ref>{{cite web| url=http://www.pgxnews.org/web/the-news/1-latest-news/47-fda-updates-plavix-label-with-pgx-data | title=FDA updates Plavix label with PGx data | author=PGxNews.Org| publisher=PGxNews.Org| accessdate=2009-06-13| month=June | year=2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+== Adverse effects ==
+Serious [[adverse drug reaction]]s associated with clopidogrel therapy include:
+
+* Severe [[neutropenia]] (low white blood cells) (Incidence: 1/2,000)
+* [[Thrombotic thrombocytopenic purpura]] (TTP) (Incidence: 4/1,000,000 patients treated)<ref>{{cite journal |author=Zakarija A | coauthors = Bandarenko N; Pandey DK; ''et al.'' |title=Clopidogrel-Associated TTP An Update of Pharmacovigilance Efforts Conducted by Independent Researchers, Pharmaceutical Suppliers, and the Food and Drug Administration |journal=Stroke |volume=35 |issue=2 |pages=533–8 |year=2004 |pmid=14707231 |doi=10.1161/01.STR.0000109253.66918.5E | url = http://stroke.ahajournals.org/content/35/2/533.full.pdf }}</ref><ref>[http://products.sanofi.us/plavix/plavix.html Plavix prescribing information]. Bristol-Myers Squibb / Sanofi.</ref>
+* [[Hemorrhage]] - The annual incidence of hemorrhage may be increased by the co-administration of [[aspirin]].<ref>{{cite journal |author=Diener HC | coauthors = Bogousslavsky J; Brass LM; ''et al.'' |title=Aspirin and clopidogrel compared with clopidogrel alone after recent ischaemic stroke or transient ischaemic attack in high-risk patients (MATCH): randomised, double-blind, placebo-controlled trial |journal=[[The Lancet]] |volume=364 |issue=9431 |pages=331–7 |year=2004 |pmid=15276392 |doi=10.1016/S0140-6736(04)16721-4}}</ref>
+** Gastrointestinal hemorrhage (Incidence: 2.0% annually)
+** Cerebral Hemorrhage (Incidence: 0.1 to 0.4% annually)
+** Use of [[non-steroidal anti-inflammatory drug]]s is discouraged in those taking clopidogrel due to increased risk of digestive tract hemorrhage
+**Bleeding in the postoperative period. This is especially a problem for patients after [[heart surgery]] where Clopidogrel is associated with a more than double the take back for bleeding rate, as well as other complicatons. The take back for bleeding occurs when there is [[chest tube]] clogging in the setting of on going bleeding in early postoperative period. Often, if [[chest tube]] clogging can be avoided, and the chest tubes drain, the patient can be given platelets until the platelet defect is corrected and the bleeding ceases. But if the bleeding continues, and the [[chest tubes]] occlude, then the patient will become hemodynamically unstable and may require an emergency take back to the operating room. This impacts outcomes and costs of care.{{citation needed|date=February 2012}}
+* Most studies researching clopidogrel do not compare patients on clopidogrel to patients taking placebo, rather clopidogrel use is compared to aspirin use. Thus attributing side effects directly to clopidogrel is difficult. Other side effects may include:
+** Other gastrointestinal side effects
+*** Upper GI discomfort (27% vs 29% in patients taking aspirin alone)
+*** Gastric or duodenal ulcer, gastritis
+*** Diarrhea (4.5% of patients in the CAPRIE trial)<ref>{{cite journal | author=Harker LA, Boissel JP, Pilgrim AJ, Gent M | title=Comparative safety and tolerability of clopidogrel and aspirin: results from CAPRIE. CAPRIE Steering Committee and Investigators. Clopidogrel versus aspirin in patients at risk of ischaemic events. | journal=Drug Saf. | volume=21 | issue=4 | pages=325–35 | year=1999 | month = October | pmid=10514023 | doi=10.2165/00002018-199921040-00007}}</ref>
+** Rash (6% overall, 0.33% severe)<ref>{{cite journal | author=none listed | title=A randomised, blinded, trial of clopidogrel versus aspirin in patients at risk of ischaemic events (CAPRIE). CAPRIE Steering Committee | journal=[[The Lancet]] | volume=16 | issue=9038 | pages=1329–39 | year=1996 | month = November | pmid=8918275}}</ref>
+** Respiratory (infrequent)
+*** Upper respiratory infections, rhinitis, shortness of breath, cough
+** Cardiovascular
+*** chest pain
+*** edema (generalized swelling)
+** [[Thrombocytopenia]] (reduction of platelets, 0.2% severe cases as compared to 0.1% under aspirin)
+
+== Interactions ==
+Clopidogrel interacts with the following drugs: [[proton pump inhibitor]]s (except possibly [[pantoprazole]]), [[phenytoin]] (Dilantin); [[tamoxifen]] (Nolvadex); [[tolbutamide]] (Orinase); [[torsemide]] (Demadex); [[fluvastatin]] (Lescol); a blood thinner such as [[warfarin]] (Coumadin), [[heparin]], [[ardeparin]] (Normiflo), [[dalteparin]] (Fragmin), [[danaparoid]] (Orgaran), [[enoxaparin]] (Lovenox), or [[tinzaparin]] (Innohep); (Activase), [[anistreplase]] (Eminase), [[dipyridamole]] (Persantine), [[streptokinase]] (Kabikinase, Streptase), [[ticlopidine]] (Ticlid), and [[urokinase]] (Abbokinase).
+
+In November 2009, the FDA announced that clopidogrel should be used with caution in patients on proton pump inhibitors such as [[omeprazole]] and [[esomeprazole]].<ref>DeNoon, Daniel J. [http://www.webmd.com/heart-disease/news/20091117/fda-warns-plavix-patients-drug-interactions "FDA Warns Plavix Patients of Drug Interactions"], [[WebMD]], 2009-11-19. Retrieved 2009-11-23.</ref><ref>
+{{cite web
+| url = http://www.fda.gov/Drugs/DrugSafety/PublicHealthAdvisories/ucm190825.htm
+| archiveurl = http://web.archive.org/web/20091229162205/http://www.fda.gov/Drugs/DrugSafety/PublicHealthAdvisories/ucm190825.htm
+| archivedate = 2009-12-29
+| title = Public Health Advisory: Updated Safety Information about a drug interaction between Clopidogrel Bisulfate (marketed as Plavix) and Omeprazole (marketed as Prilosec and Prilosec OTC)
+| publisher = [[Food and Drug Administration]] (FDA)
+| date = November 17, 2009
+| accessdate = March 13, 2010
+}}</ref>
+
+== Marketing and litigation ==
+[[File:Plavix 2007-04-19.jpg|thumb|right|A box of Plavix]]
+Plavix is marketed worldwide in nearly 110 countries, with sales of US$6.6 billion in 2009.<ref>{{cite web |url=http://www1.imshealth.com/web/content/0,3148,64576068_63872702_70260998_77974518,00.html |title=New products and markets fuel growth in 2005 |publisher=[[IMS Health]] |accessdate=2009-03-02}}{{dead link|date=May 2012}}</ref> It had been the second top-selling drug in the world for a few years as of 2007<ref>{{cite web |url=http://www.imshealth.com/deployedfiles/imshealth/Global/Content/StaticFile/Top_Line_Data/Top10GlobalProducts.pdf |title=Top Ten Global Products - 2007 |accessdate=2009-03-02 |date=2008-02-26 |format=PDF |publisher=[[IMS Health]]}}</ref> and was still growing by over 20% in 2007. U.S. sales were [[US$]]3.8 billion in 2008.<ref>{{cite web|url=http://drugpatentwatch.com/ultimate/preview/tradename/index.php?query=PLAVIX|title=Details for Plavix}}{{verify source|date=May 2012}}</ref>
+
+In 2006, generic clopidogrel was briefly marketed by [[Apotex]], a [[Canada|Canadian]] generic [[pharmaceutical company]] before a court order halted further production until resolution of a patent infringement case brought by [[Bristol-Myers Squibb]].<ref>{{cite press release
+| url = http://www.businesswire.com/news/bms/20081215006516/en/Preliminary-Injunction-Apotex-Upheld-Appeal
+| title = Preliminary Injunction Against Apotex Upheld on Appeal
+| publisher = Bristol-Myers Squibb
+| date = December 8, 2006
+| accessdate=2010-03-14
+}}</ref> The court ruled that Bristol-Myers Squibb's patent was valid and provided protection until November 2011.<ref>{{cite news | url=http://www.reuters.com/article/2007/06/19/us-bristolmyers-plavix-patent-idUSN1931607820070619 |title=U.S. judge upholds Bristol, Sanofi patent on Plavix | publisher=Reuters | date = June 19, 2007 | accessdate=2007-09-05 }}</ref> The FDA extended the patent protection of clopidogrel by six months, giving exclusivity that would expire on May 17, 2012.<ref>{{cite news | url=http://ducknetweb.blogspot.com/2011/01/fda-gives-plavix-6-month-extension.html |title=FDA Gives Plavix a 6 Month Extension-Patent Now Expires on May 17, 2012 | date = January 26, 2011 | accessdate=2012-01-12 }}</ref> The FDA approved generic versions of Plavix on May 17, 2012.<ref>{{cite press release
+| title = FDA approves generic versions of blood thinner Plavix
+| date = May 17, 2012
+| publisher = [[Food and Drug Administration]] (FDA)
+| url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm304489.htm
+}}</ref>
+
+In June 2009, the European Medicines Agency (EMEA) gave authorisation to six generic versions of clopidogrel bisulfate and the drug is now available in several European countries, including the United Kingdom.<ref>Generic Clopidogrel http://www.genericclopidogrel.com/generic-clopidogrel/</ref>
+
+Generic clopidogrel is produced by several pharmaceutical companies in India and elsewhere, and often sold under its [[International Nonproprietary Name|INN]] ''clopidogrel''. Clopidogrel is marketed by [[Cipla]] under the [[trade name]] '''Clopivas''', by [[Sun Pharmaceuticals]] as '''Clopilet''', by Ranbaxy Laboratories as '''Ceruvin''', under the name "Clavix" by Intas Pharmaceuticals and under the name "Deplatt" by Torrent Pharmaceuticals. In India, it is sold as '''Clopivas AP''', by [[Cipla]], Clopigrel A, by [[USV]], Clopitab A, by Lupin by [[Lupin]](mixed with aspirin).{{citation needed|date=May 2012}}
+
+Generic clopidogrel is produced in [[Slovenia]] (European Union) under the trade names '''Zyllt''', '''Kardogrel''' and '''Clopidogrel Krka''' by [[Krka d.d.]], [[Novo Mesto]].<ref>Krka official website http://www.krka.biz/en/pharmaceuticals-and-other-products/prescription-pharmaceuticals/?searchTerm=clopidogrel</ref>
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* [http://www.plavix.com/ Plavix official website] [[Bristol-Myers Squibb]]/[[Sanofi]]
+* [http://products.sanofi.us/plavix/plavix.html Plavix prescribing information] [[Bristol-Myers Squibb]]/[[Sanofi]]
+* [http://www.ptca.org/forumtopics/topic20050423.html Plavix, Aspirin and Stents : Patients' Forum : Angioplasty.Org]
+* [http://news.independent.co.uk/health/article3284878.ece Drug promises end to migraine misery]
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Clopidogrel U.S. National Library of Medicine: Drug Information Portal - Clopidogrel]
+* [http://www.krka.biz/en/pharmaceuticals-and-other-products/prescription-pharmaceuticals/?searchTerm=clopidogrel Krka official website]
+
+{{Antithrombotics}}
+
+[[Category:ADP receptor inhibitors]]
+[[Category:Bristol-Myers Squibb]]
+[[Category:Carboxylate esters]]
+[[Category:Methyl esters]]
+[[Category:Organochlorides]]
+[[Category:Prodrugs]]
+[[Category:Sanofi]]
+[[Category:Thienopyridines]]

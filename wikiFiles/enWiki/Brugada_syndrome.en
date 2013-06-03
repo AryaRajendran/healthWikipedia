@@ -1,0 +1,88 @@
+{{Infobox disease
+ | Name            = Brugada syndrome
+ | Image           = Brugada EKG Schema.jpg
+ | Caption         = (A) Normal electrocardiogram pattern in the precordial leads V<sub>1-3</sub>, (B) changes in Brugada syndrome (type B)
+ | DiseasesDB      = 31999
+ | ICD10           = {{ICD10|I|49|8|i|30}}
+ | ICD9            = {{ICD9|746.89}}
+ | ICDO            = 
+ | OMIM            = 601144
+ | MedlinePlus     = 
+ | eMedicineSubj   = med
+ | eMedicineTopic  = 3736
+ | MeshID          = D053840
+}}
+
+The '''Brugada syndrome''' is a [[genetic disease]] that is characterised by abnormal [[electrocardiogram]] (ECG) findings and an increased risk of [[sudden cardiac death]]. It is named by the Spanish/Belgian cardiologists Pedro Brugada and Josep Brugada. It is the major<ref>{{cite journal|author=Nademanee K|title=Arrhythmogenic marker for the sudden unexplained death syndrome in Thai men|journal=Circulation|year=1997|volume=96|pages=2595&ndash;2600|pmid=9355899|author-separator=,|author2=Veerakul G|author3=Nimmannit S|display-authors=3|last4=Chaowakul|first4=V|last5=Bhuripanyo|first5=K|last6=Likittanasombat|first6=K|last7=Tunsanga|first7=K|last8=Kuasirikul|first8=S|last9=Malasit|first9=P|issue=8}}</ref><ref name="pmid11823453">{{cite journal |author=Vatta M |title=Genetic and biophysical basis of sudden unexplained nocturnal death syndrome (SUNDS), a disease allelic to Brugada syndrome |journal=Hum. Mol. Genet. |volume=11 |issue=3 |pages=337–45 |year=2002 |month=February |pmid=11823453 |doi= 10.1093/hmg/11.3.337|url=http://hmg.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=11823453 |author-separator=, |author2=Dumaine R |author3=Varghese G |display-authors=3 |last4=Richard |first4=TA |last5=Shimizu |first5=W |last6=Aihara |first6=N |last7=Nademanee |first7=K |last8=Brugada |first8=R |last9=Brugada |first9=J}}</ref> cause of [[sudden unexplained death syndrome]] (SUDS), and is the most common cause of sudden death in young men without known underlying cardiac disease in [[Thailand]] and [[Laos]].<ref>{{cite journal |author=Brugada J, Brugada P, Brugada R |title=The syndrome of right bundle branch block ST segment elevation in V1 to V3 and sudden death--the Brugada syndrome |journal=Europace |volume=1 |issue=3 |pages=156–66 |year=1999 |month=July |pmid=11225790 |doi=10.1053/eupc.1999.0033 |url=}}</ref>
+
+Although the ECG findings of Brugada syndrome were first reported<ref>{{cite journal |author=Martini B |title=Ventricular fibrillation without apparent heart disease: description of six cases |journal=Am. Heart J. |volume=118 |issue=6 |pages=1203–9 |year=1989 |month=December |pmid=2589161 |doi= 10.1016/0002-8703(89)90011-2|url= |author-separator=, |author2=Nava A |author3=Thiene G |display-authors=3 |last4=Buja |first4=GF |last5=Canciani |first5=B |last6=Scognamiglio |first6=R |last7=Daliento |first7=L |last8=Dalla Volta |first8=S}}</ref> among survivors of cardiac arrest in 1989, it was only in 1992 that the Brugada brothers<ref>{{cite journal |author=Brugada P, Brugada J |title=Right bundle branch block, persistent ST segment elevation and sudden cardiac death: a distinct clinical and electrocardiographic syndrome. A multicenter report |journal=J. Am. Coll. Cardiol. |volume=20 |issue=6 |pages=1391–6 |year=1992 |month=November |pmid=1309182 |doi= 10.1016/0735-1097(92)90253-J|url=}}</ref> recognized it as a distinct clinical entity, causing sudden [[death]] by causing [[ventricular fibrillation]] (a lethal [[arrhythmia]]) in the [[heart]].
+
+== Genetics and pathophysiology ==
+{| class="wikitable"
+| '''Type''' || '''OMIM''' || '''Mutation''' || '''Notes'''
+ |-
+ | B1 || {{OMIM2|601144}} || [[SCN5A]] || alpha subunit of the [[sodium channel]]. Current through this channel is commonly referred to as I<sub>Na</sub>. Loss of function in this channel leads to an unopposed [[Cardiac transient outward potassium current|I<sub>to</sub> current]] ([[KCND2]])
+ |-
+ | B2 || {{OMIM2|611778}} || [[GPD1L]] || Glycerol-3-phosphate dehydrogenase like peptide
+ |-
+ | B3 || {{OMIM2|114205}} || [[CACNA1C]] || Alpha subunit of cardiac L-type calcium channel.<ref name="pmid 17224476">{{cite journal |author= Antzelevitch C  |title= Loss-of-Function Mutations in the Cardiac Calcium Channel Underlie a New Clinical Entity Characterized by ST-Segment Elevation, Short QT Intervals, and Sudden Cardiac Death |journal=Circulation |volume=115 |issue=4 |pages=442–229 |year=2007 |pmid= 17224476 |doi=10.1161/CIRCULATIONAHA.106.668392 |pmc= 1952683 |author-separator= , |author2= Pollevick GD |author3= Cordeiro JM |display-authors= 3 |last4= Casis |first4= O. |last5= Sanguinetti |first5= M. C. |last6= Aizawa |first6= Y. |last7= Guerchicoff |first7= A. |last8= Pfeiffer |first8= R. |last9= Oliva |first9= A.}}</ref>
+ |-
+ | B4 || {{OMIM2|600003}} || [[CACNB2]] || Beta-2 subunit of the voltage dependent L-type calcium channel.<ref name="pmid 17224476" />
+
+ |-
+ | B5 || {{OMIM2|604433}} || [[KCNE3]] which coassembles with [[KCND3]] || Beta subunit to [[KCND3]]. Modulates the I<sub>to</sub> potassium outward current<ref>{{cite journal|doi=10.1161/CIRCEP.107.748103|title=Functional Effects of KCNE3 Mutation and its Role in the Development of Brugada Syndrome |year=2008|author=Delpon E|journal=Circulation Arrhythmia and Electrophysiology |volume=1 |pages=209–18 |issue=3 |pmid=19122847|pmc=2585750|author-separator=,|author2=Cordeiro JM|author3=Núñez L|display-authors=3|last4=Thomsen|first4=P. E. B.|last5=Guerchicoff|first5=A.|last6=Pollevick|first6=G. D.|last7=Wu|first7=Y.|last8=Kanters|first8=J. K.|last9=Larsen|first9=C. T. }}</ref>
+ |-
+ | B6 || {{OMIM2|600235}} || [[SCN1B]] || Beta-1 subunit of the sodium channel [[SCN5A]]<ref>{{cite journal|author=Watanabe H |title=Sodium channel β1 subunit mutations associated with Brugada syndrome and cardiac conduction disease in humans |journal=J. Clin. Invest. |volume=118 |issue=6 |pages=2260–8 |year=2008 |month=June |pmid=18464934 |pmc=2373423 |doi=10.1172/JCI33891 |url=|author-separator=,|author2=Koopmann TT|author3=Le Scouarnec S|display-authors=3|last4=Yang|first4=Tao|last5=Ingram|first5=Christiana R.|last6=Schott|first6=Jean-Jacques|last7=Demolombe|first7=Sophie|last8=Probst|first8=Vincent|last9=Anselme|first9=Frédéric}}</ref>
+|-
+ |}
+
+Approximately 20% of the cases of Brugada syndrome have been shown to be associated with mutation(s) in the [[gene]] that encodes for the [[sodium]] [[ion channel]] in the [[cell (biology)|cell]] [[cell membrane|membrane]]s of the muscle cells of the heart (the [[myocyte]]s). The gene, named [[SCN5A]], is located on the short arm of the [[Chromosome 3 (human)|third chromosome]] (3p21). Loss-of-function mutations in this gene lead to a loss of the action potential dome of some epicardial areas of the right ventricle. This results in transmural and [[epicardial]] dispersion of [[repolarization]]. The transmural dispersion underlies ST-segment elevation and the development of a vulnerable window across the ventricular wall, whereas the epicardial dispersion of repolarization facilitates the development of phase 2 reentry, which generates a phase 2 reentrant extrasystole that captures the vulnerable window to precipitate ventricular tachycardia and/or fibrillation that often results in sudden cardiac death. At present time however, all the reported patients who died because of the disease and were submitted to detailed autopsy study have shown a structural right ventricular pathology underlying the syndrome.
+
+Over 160 mutations in the SCN5A gene have been discovered to date, each having varying mechanisms and effects on function, thereby explaining the varying degrees of penetration and expression of this disorder.<ref name="Hedley">{{cite journal |author=Hedley PL|title=Brugada syndrome |journal=Human Mutation|volume=30 |issue=9 |pages=1256–66 |year=2009 |pmid=19606473 |doi=10.1002/humu.21066 |author2=Jørgensen P |author3=Schlamowitz S |display-authors=4 |last4=Moolman-Smook |first4=Johanna |last5=Kanters |first5=Jørgen K. |last6=Corfield |first6=Valerie A. |last7=Christiansen |first7=Michael}}</ref>
+
+An example of one of the mechanisms in which a loss of function of the sodium channel occurs is a mutation in the gene that disrupts the sodium channel's ability to bind properly to [[ankyrin]]-G, an important protein mediating interaction between ion channels and cytoskeletal elements. Very recently a mutation in a second gene, [[Glycerol-3-phosphate dehydrogenase]] 1-like gene ({{Gene|GPD1L}}) has been shown to result in Brugada Syndrome in a large multigenerational family (London, 2006). This gene acts as an ion channel modulator in the heart, although the exact mechanism is not yet understood.
+
+Recently Antzelevitch has identified mutations in the [[Voltage-dependent calcium channel|L-type calcium channel]] subunits ({{Gene|CACNA1C}} (A39V and G490R) and {{Gene|CACNB2}} (S481L)) leading to ST elevation and a relatively short QT interval (below 360 msec).<ref name="pmid17556198">{{cite journal |author=Antzelevitch C |title=Genetic basis of Brugada syndrome |journal=Heart rhythm : the official journal of the Heart Rhythm Society |volume=4 |issue=6 |pages=756–7 |year=2007 |pmid=17556198 |doi=10.1016/j.hrthm.2007.03.015 |pmc=1989771}}</ref> For a comprehensive list of all mutations see <ref name="Hedley" />
+
+This condition is inherited in an [[autosomal dominant]] pattern and is more common in males. In addition it has a higher prevalence in most Asian populations.
+
+== Diagnosis ==
+[[Genetic testing]] for Brugada syndrome is clinically available and may help confirm a diagnosis in patients suspected of having Brugada syndrome, as well as differentiate between relatives who are at-risk for the disease and those who are not <ref>http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=brugada Overview of Brugada Syndrome Genetic Testing</ref>
+
+=== Electrocardiography ===
+[[Image:Brugada.jpg|right|thumb|400px|ECG pattern in Brugada syndrome. According to a recent consensus document, type 1 ST segment elevation either spontaneously present or induced with [[Ajmaline]]/[[Flecainide]] test is considered diagnostic. Type 1 and 2 may lead to suspicion but drug challenge is required for diagnosis. The ECGs in the right and left panels are from the same patient before (right panel, type 1) and after (left panel, type 1) endovenous administration of 1 mg/kg of Ajmaline during 10 minutes.]]
+In some cases, the disease can be detected by observing characteristic patterns on an [[electrocardiogram]], which may be present all the time, or might be elicited by the administration of particular drugs (e.g., Class IA ([[ajmaline]]) or class 1C ([[flecainide]]) antiarrhythmic drugs that blocks sodium channels and causing appearance of ECG abnormalities) or resurface spontaneously due to as yet unclarified triggers.
+
+Brugada syndrome has 3 different ECG patterns.<ref>{{cite journal|author=Antzelevitch C|title=Brugada Syndrome. Report of the second consensus conference|journal=Heart Rhythm|year=2005|volume=2|pages=429&ndash;440|pmid=15898165|author-separator=,|author2=Brugada P|author3=Borggrefe M|display-authors=3 |doi=10.1016/j.hrthm.2005.01.005|last4=Brugada|first4=J|last5=Brugada|first5=R |last6=Corrado|first6=D|last7=Gussak|first7=I|last8=Lemarec|first8=H|last9=Nademanee|first9=K|issue=4}}</ref>
+* Type 1 has a coved type ST elevation with at least 2&nbsp;mm (0.2 mV) J-point elevation a gradually descending ST segment followed by a negative T-wave.
+* Type 2 has a saddle back pattern with a least 2&nbsp;mm J-point elevation and at least 1&nbsp;mm ST elevation with a positive or biphasic T-wave. Type 2 pattern can occasionally be seen in healthy subjects.
+* Type 3 has either a coved (type 1 like) or a saddle back (type 2 like) pattern with less than 2&nbsp;mm J-point elevation and less than 1&nbsp;mm ST elevation. Type 3 pattern is not uncommon in healthy subjects.
+The pattern seen on the ECG is persistent ST elevations in the electrocardiographic leadsV<sub>1</sub>-V<sub>3</sub> with a [[right bundle branch block]] (RBBB) appearance with or without the terminal S waves in the lateral leads that are associated with a typical RBBB. A prolongation of the PR interval (a conduction disturbance in the heart) is also frequently seen.The electrocardiogram can fluctuate over time, depending on the autonomic balance and the administration of antiarrhythmic drugs. Adrenergic stimulation decreases the ST segment elevation, while vagal stimulation worsens it. (There is a case report of a patient who died while shaving, presumed due to the vagal stimulation of the carotid sinus massage.) The administration of class Ia, Ic and III drugs increases the ST segment elevation, and also fever. Exercise decreases ST segment elevation in some patients but increases it in others (after exercise when the body temperature has risen). The changes in heart rate induced by atrial pacing are accompanied by changes in the degree of ST segment elevation. When the heart rate decreases, the ST segment elevation increases and when the heart rate increases the ST segment elevation decreases. However, the contrary can also be observed.
+
+== Treatment ==
+The cause of death in Brugada syndrome is [[ventricular fibrillation]]. The episodes of syncope (fainting) and sudden death (aborted or not) are caused by fast polymorphic ventricular tachycardias or ventricular fibrillation. These arrhythmias appear with no warning. While there is no exact treatment modality that reliably and totally prevents ventricular fibrillation from occurring in this syndrome, treatment lies in termination of this lethal [[arrhythmia]] before it causes death. This is done via implantation of an [[implantable cardioverter-defibrillator]] (ICD), which continuously monitors the heart rhythm and will [[defibrillation|defibrillate]] an individual if ventricular fibrillation is noted. Some recently performed studies had evaluated the role of [[quinidine]], a Class Ia antiarrhythmic drug, for decreasing VF episodes occurring in this syndrome. Quinidine was found to decrease number of VF episodes and correcting spontaneous ECG changes, possibly via inhibiting [[Cardiac transient outward potassium current|I<sub>to</sub> channels]].<ref name="pmid15381640">{{cite journal |author=Belhassen B, Glick A, Viskin S |title=Efficacy of quinidine in high-risk patients with Brugada syndrome |journal=Circulation |volume=110 |issue=13 |pages=1731–7 |year=2004 |pmid=15381640 |doi=10.1161/01.CIR.0000143159.30585.90}}</ref>
+Some drugs have been reported to induce the type-1 ECG and/or (fatal) arrhythmias in Brugada syndrome patients. Patients with Brugada syndrome can prevent arrhythmias by avoiding these drugs, or use them only in controlled conditions.<ref>{{cite journal|last=Postema|first=PG|coauthors=Wolpert, C, Amin, AS, Probst, V, Borggrefe, M, Roden, DM, Priori, SG, Tan, HL, Hiraoka, M, Brugada, J, Wilde, AA|title=Drugs and Brugada syndrome patients: review of the literature, recommendations and an up-to-date website (www.brugadadrugs.org)|journal=Heart rhythm : the official journal of the Heart Rhythm Society|date=2009 Sep|volume=6|issue=9|pages=1335–41|pmid=19716089|doi=10.1016/j.hrthm.2009.07.002|pmc=2779019}}</ref>
+Those with risk factors for [[coronary artery disease]] may require an [[Angiography|angiogram]] before ICD implantation.
+
+== See also ==
+* [[Cardiac action potential]]
+* [[Catecholaminergic polymorphic ventricular tachycardia]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* [http://www.brugadadrugs.org BrugadaDrugs.org], maintained by Brugada specialists, contains a list of drugs to avoid in patients with the Brugada syndrome
+* [http://www.genetests.org/profiles/brugada GeneReviews: Brugada syndrome]
+* Behr: http://www.c-r-y.org.uk/long_qt_syndrome.htm
+* [http://www.brugada.org The Ramon Brugada Senior Foundation ]
+* [http://www.sindromedibrugada.it la Sindrome di Brugada]
+
+{{Channelopathy}}
+
+{{DEFAULTSORT:Brugada Syndrome}}
+[[Category:Cardiac dysrhythmia]]
+[[Category:Channelopathy]]
+[[Category:Congenital disorders]]
+[[Category:Syndromes]]
+[[Category:Cardiogenetic disorders]]

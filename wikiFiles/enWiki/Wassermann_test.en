@@ -1,0 +1,35 @@
+The '''Wassermann test''' or '''Wassermann reaction''' ('''WR''')<ref>{{cite doi|10.1017/S0022172400011943}}</ref> is an [[antibody]] test for [[syphilis]], named after the bacteriologist [[August Paul von Wassermann]], based on [[complement-fixation]].
+
+==Method==
+A sample of [[blood]] or [[cerebrospinal fluid]] is taken and introduced to the antigen - [[cardiolipin]] extracted from bovine muscle or heart. Syphilis non-specific antibodies ([[reagin]], see [[Rapid plasma reagin|RPR]]) react with the [[lipid]] - the Wassermann reaction of [[antiphospholipid antibody|antiphospholipid antibodies]] (APAs). The intensity of the reaction (1, 2, 3, or 4) indicates the severity of the condition.
+
+To execute the test we need to prepare two different test tubes; in the first tube:
+# we put the serum of the patient, and we heat it to 56°C for 20 minutes (this to eliminate the complement of our patient)
+# we insert the cardiolipin, our antigen
+# we insert fresh rabbit serum (that contain a determined quantity of complement; in this way we can measure exactly the quantity of complement in the test tube)
+# we insert a detector system, composed of mutton blood cells and anti-blood cells antibodies.
+
+In the "control" test tube we insert only the detector system and the fresh rabbit serum.
+
+In our test tube (that contain the serum of our patient), we can observe two types of reaction: hemolisis or no hemolisis. In the "control" test tube we ever observe hemolisis (if the rabbit serum and the detector system are effective). 
+If we observe hemolisis it means that no reagin was present in our patient's serum, because the complement of the rabbit was not consummed. Thus when we insert the detector system the complement is able to attack the mutton blood cells.
+Instead, if the reagins was present in the patient's sierum, the complement is activated and used by reagins; so when we insert the detector system we observe no hemolisis.
+
+==Uncertainty==
+The reaction is not specific to syphilis and will produce a positive reaction to other diseases, including [[malaria]], [[tuberculosis]], and numerous other diseases. It is possible for an infected individual to produce no reaction and for a successfully treated individual to continue to produce a reaction (known as being "Wassermann fast" or "fixed").
+
+==Development and refinement==
+The antibody test was developed by Wassermann, Julius Citron, and [[Albert Neisser]] at the [[Robert Koch Institute for Infectious Diseases]] in 1906.<ref>{{WhoNamedIt|doctor|2511}}</ref><ref>A Wassermann, A. Neisser and C. Bruck. Eine serodiagnostische Reaktion bei Syphilis. Deutsche medicinische Wochenschrift, Berlin, 1906, 32: 745-746. Announcing the test for syphilis.</ref> The test was a growth from the work of [[Jules Jean Baptiste Vincent Bordet|Bordet]] and [[Octave Gengou|Gengou]] on complementing-fixation reaction, published in 1901, and the positive reaction is sometimes called the Bordet-Gengou-Wassermann reaction or Bordet-Wassermann reaction.
+
+The Wassermann test has been refined - the [[Kahn test]],<ref name="pmid18012919">{{cite journal |author=Gilbert R |title=Standardization of the Wassermann Test : Abstract of Progress Test |journal=Am J Public Health Nations Health |volume=20 |issue=1 |pages=47–8 |year=1930 |month=January |pmid=18012919 |pmc=1555718 |doi= 10.2105/AJPH.20.1.47|url=http://www.ajph.org/cgi/pmidlookup?view=long&pmid=18012919}}</ref> and the [[Kolmer test]]{{Citation needed|date=July 2009}} - and it is rarely used today. Replacement tests such as the [[VDRL]] test and the RPR test, initially based on [[flocculation]] techniques (Hinton), have been shown to produce far fewer false positive results{{Citation needed|date=July 2009}}. Indeed the "biologic false positives" of modern tests usually indicate a serious alternate condition, often an [[autoimmune disease]].
+
+==References==
+{{reflist}}
+* Citron, Dr. Julius, "Immunity" (English translation) 1914 163-164
+
+==External links==
+* {{MeshName|Wassermann+reaction}}
+{{Infectious and inflammatory blood tests}}
+
+{{DEFAULTSORT:Wassermann Test}}
+[[Category:Infectious disease blood tests]]

@@ -1,0 +1,66 @@
+{{Pfam_box
+| Symbol = Defensin_1
+| Name = Mammalian defensin
+| image = PDB_1dfn_EBI.jpg
+| width =
+| caption = Structure of defensin HNP-3.<ref name="pmid2006422">{{cite journal |author=Hill CP, Yee J, Selsted ME, Eisenberg D |title=Crystal structure of defensin HNP-3, an amphiphilic dimer: mechanisms of membrane permeabilization |journal=Science |volume=251 |issue=5000 |pages=1481–5 |year=1991 |month=March |pmid=2006422 |doi= 10.1126/science.2006422|url=}}</ref>
+| Pfam= PF00323
+| InterPro= IPR006081
+| SMART=
+| PROSITE = PDOC00242
+| SCOP = 1dfn
+| TCDB =  1.C.19
+| OPM family= 56
+| OPM protein= 1tv0
+| PDB=
+{{PDB3|1tv0}}A:64-89     {{PDB3|1dfn}}A:66-94     {{PDB3|1zmi}}B:66-94
+{{PDB3|1zmk}}A:66-94     {{PDB3|1zmh}}B:66-94
+}}
+
+'''Alpha defensins''' are a family of mammalian [[defensin]] peptides.
+
+Defensins are 2-6 kDa, cationic, microbicidal peptides active against many Gram-negative and Gram-positive bacteria, fungi, and enveloped viruses,<ref name="PUB00001093">{{cite journal |author=Selsted ME, White SH, Wimley WC |title=Structure, function, and membrane integration of defensins |journal=Curr. Opin. Struct. Biol. |volume=5 |issue=4 |pages=521–527 |year=1995 |pmid=8528769 |doi=10.1016/0959-440X(95)80038-7}}</ref> containing three pairs of intramolecular disulfide bonds. On the basis of their size and pattern of disulfide bonding, mammalian defensins are classified into alpha, beta and theta categories. Alpha-defensins, which have been identified in humans, monkeys and several rodent species, are particularly abundant in neutrophils, certain macrophage populations and Paneth cells of the small intestine.
+
+Defensins are produced constitutively and/or in response to microbial products or proinflammatory cytokines. Some defensins are also called corticostatins (CS) because they inhibit corticotropin-stimulated corticosteroid production. The mechanism(s) by which microorganisms are killed and/or inactivated by defensins is not understood completely. However, it is generally believed that killing is a consequence of disruption of the microbial membrane. The polar topology of defensins, with spatially separated charged and hydrophobic regions, allows them to insert themselves into the phospholipid membranes so that their hydrophobic regions are buried within the lipid membrane interior and their charged (mostly cationic) regions interact with anionic phospholipid head groups and water. Subsequently, some defensins can aggregate to form 'channel-like' pores; other
+s might bind to and cover the microbial membrane in a 'carpet-like' manner. The net outcome is the disruption of membrane integrity and function, which ultimately leads to the lysis of microorganisms. Some defensins are synthesized as propeptides which may be relevant to this process.
+
+== Human defensins ==
+
+Initially human alpha defensin peptides were isolated from the neutrophils and are thus called human neutrophil peptides.<ref name="pmid2997278">{{cite journal | author = Ganz T, Selsted ME, Szklarek D, Harwig SS, Daher K, Bainton DF, Lehrer RI | title = Defensins. Natural peptide antibiotics of human neutrophils | journal = J Clin Invest | volume = 76 | issue = 4 | pages = 1427–35 | year = 1985 | month = Oct | pmid = 2997278 | pmc =  424093| doi =10.1172/JCI112120  }}</ref> Human neutrophil peptides are also known as α-[[defensins]].
+
+Sequences of major human α-defensins:<ref name="pmid16909917">{{cite journal | author = Bowdish D M E, Davidson D J, Hancock R E W | title = Immunomodulatory Properties of Defensins and Cathelicidins | journal = CTMI | volume = 306 | issue =  | pages = 27–66 | year = 2006 | month =  | pmid = 16909917 | pmc =  | doi =  }}</ref>
+
+{| class="wikitable"
+|-
+! Gene !! Aliases !! Peptide !! Sequence
+|-
+| [[Defensin, alpha 1|DEFA1]] || HNP1 || human neutrophil peptide 1 || ACYCRIPACIAGERRYGTCIYQGRLWAFCC 
+|-
+| || HNP2 || human neutrophil peptide 2 || CYCRIPACIAGERRYGTCIYQGRLWAFCC 
+|-
+| [[DEFA3]] || HNP3 || human neutrophil peptide 3 || DCYCRIPACIAGERRYGTCIYQGRLWAFCC 
+|-
+| [[DEFA4]] || HNP4 || human neutrophil peptide 4 || VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV 
+|-
+| [[DEFA5]] || HD5 || human defensin 5 || ATCYCRHGRCATRESLSGVCEISGRLYRLCCR 
+|-
+| [[DEFA6]] || HD6 || human defensin 6 || AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL 
+|}
+
+HNP-1, HNP-2 and HNP-3 are encoded by two genes [[DEFA1]] and DEFA3 localized at chromosome 8, location 8p23.1. DEFA1 and DEFA3 encode identical peptides except the conversion of the first amino acid from alanine in HNP-1 to aspartic acid in HNP-3; HNP-2 is an N-terminally truncated iso-form lacking the first amino acid. Human neutrophil peptides are found in human atherosclerotic arteries, inhibit LDL metabolism and fibrinolysis and promote Lp(a) binding.<ref name="pmid16989837">{{cite journal | author = Nassar H, Lavi E, Akkawi S, Bdeir K, Heyman SN, Raghunath PN, Tomaszewski J, Higazi AA | title = alpha-Defensin: link between inflammation and atherosclerosis | journal = Atherosclerosis | volume = 194 | issue = 2 | pages = 452–7 | year = 2007 | month = Oct | pmid = 16989837 | pmc =  | doi =10.1016/j.atherosclerosis.2006.08.046  }}</ref>
+
+Human neutrophil-derived alpha-defensins (HNPs) are capable of enhancing phagocytosis by mouse macrophages. HNP1-3 have been reported to increase the production of tumor necrosis factor (TNF) and IL-1, while decreasing the production of IL-10 by monocytes. Increased levels of proinflammatory factors (e.g., IL-1, TNF, histamine and prostaglandin D2) and suppressed levels
+of IL-10 at the site of microbial infection are likely to amplify local inflammatory responses. This might be further reinforced by the capacity of some human and rabbit alpha-defensins to inhibit the production of immunosuppressive glucocorticoids by competing for the binding of adrenocorticotropic hormone to its receptor. Moreover, human alpha-defensins can enhance or suppress the activation of the classical pathway of complement in vitro by binding to solid-phase or fluid-phase complement C1q, respectively. The capacity of defensins to enhance phagocytosis, promote neutrophil recruitment, enhance the production of proinflammatory cytokines, suppress anti-inflammatory mediators and regulate complement activation argues that defensins upregulate innate host inflammatory defenses against microbial invasion.
+
+In one small study, a significant increase in alpha-defensin levels was detected in [[T cell]] lysates of [[schizophrenia]] patients; in discordant twin pairs, unaffected twins also had an increase, although not as high as that of their ill siblings.<!--
+
+--><ref name="pmid18349140">{{cite journal |author=Craddock RM, Huang JT, Jackson E, ''et al.'' |title=Increased alpha defensins as a blood marker for schizophrenia susceptibility |journal=[[Mol. Cell Proteomics]] |volume= 7|issue= 7|pages= 1204|year=2008 |month=March |pmid=18349140 |doi=10.1074/mcp.M700459-MCP200 |url=http://www.mcponline.org/cgi/pmidlookup?view=long&pmid=18349140}}</ref>
+
+The [[Virtual Colony Count]] antibacterial assay was originally developed to measure the activity of all six human alpha defensins on the same [[microplate]].<ref name="pmid15616305">{{Cite journal| author=Ericksen B, Wu Z, Lu W, Lehrer RI. |title=Antibacterial Activity and Specificity of the Six Human α-Defensins |journal= Antimicrob Agents Chemother. |volume=49 |issue= 1 |pages= 269–75 |year= 2005 |pmid= 15616305 |pmc= 538877 |doi= 10.1128/AAC.49.1.269-275.2005}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Alpha Defensin}}
+[[Category:Protein domains]]
+[[Category:Peripheral membrane proteins]]

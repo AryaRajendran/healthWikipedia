@@ -1,0 +1,52 @@
+An '''ultrasound research interface''' (URI) is a software tool loaded onto a diagnostic clinical [[ultrasound]] device which provides functionality beyond typical clinical modes of operation. Before an ultrasound image can be displayed to the user, it must undergo a series of transformations, typically referred to as the ultrasound processing chain. As data moves through the processing chain, it may be desirable to acquire it at certain intervals, so it can be processed offline for research purposes. A set of processing parameters sent to the ultrasound device control how the processing chain performs its operations. It may also be desirable to change these processing parameters to achieve different imaging results. A clinical ultrasound user only has access to the ultrasound data in its final processed form, referred to as a [[Medical ultrasonography#Modes_of_sonography|B-Mode]] image. The format of the images are typically in the [[DICOM]] file format. The clinical user also has limited access to the processing parameters that can be modified; for reasons of device usability, and so the device cannot be put into a state that renders itself inoperable. <ref name="Wilson">Wilson T, Zagzebski J, Varghese T, Chen Q, Rao M. The Ultrasonix 500RP: a commercial ultrasound research interface. IEEE Trans Ultrason Ferroelectr Freq Control. 2006 Oct;53(10):1772-82.</ref><ref name="Dickie">Dickie K, Leung C, Zahiri R, Pelissier L. A flexible research interface for collecting clinical ultrasound images. SPIE Multispectral Image Acquisition. 2009 Oct;7494(02);.</ref>
+<ref name="Rohling">Rohling R, Fung W,  Lajevardi P. PUPIL: Programmable Ultrasound Platform and Interface Library. MICCAI. 2003 Nov;(2879);424-431</ref><ref name="Shamdasani">Shamdasani V, Bae U, Sikdar S, Yoo YM, Karadayi K, Managuli R, Kim Y. Research interface on a programmable ultrasound scanner. Ultrasonics. 2008 Jul;48(03);159-168.</ref>
+
+The URI provides a means to step beyond the limits of the clinical usage, and allow researchers to acquire data from certain points in the processing chain, as well as change a larger set of processing parameters.
+
+==Typical B-mode receive processing chain==
+
+A typical digital ultrasound processing chain for B-Mode imaging may look as follows:
+*Multiple analog signals are acquired data from the ultrasound transducer (the transmitter/receiver applied to the patient)
+*Analog signals may pass through one or more analog notch filters and a [[variable-gain amplifier]] (VCA)
+*Multiple [[analog-to-digital converter]]s convert the analog [[radio frequency]] (RF) signal to a digital RF signal sampled at a predetermined rate (typical ranges are from 20MHz to 160MHz) and at a predetermined number of bits (typical ranges are from 10 bits to 16 bits)
+*[[Beamforming]] is applied to individual RF signals by applying time delays and summations as a function of time and transformed into a single RF signal
+*The RF signal is run through one or more digital FIR or IIR filters to extract the most interesting parts of the signal given the clinical operation
+*The filtered RF signal runs through an [[envelope detector]] and is log compressed into a grayscale format
+
+Multiple signals processed in this way are lined up together and interpolated and rasterized into readable image.
+
+==Data access==
+
+A URI may provide data access at many different stages of the processing chain, these include:
+*Pre-beamformed digital RF data from individual channels
+*Beamformed RF data
+*Envelope detected data
+*Interpolated image data
+
+Where many diagnostic ultrasound devices have [[Medical_ultrasonography#Doppler_sonography|Doppler]] imaging modes for measuring blood flow, the URI may also provide access to Doppler related signal data, which can include:
+*Demodulated (I/Q) data
+*[[Fast Fourier transform|FFT]] spectral data
+*Autocorrelated velocity color Doppler data
+
+==Tools==
+
+A URI may include many different tools for enabling the researcher to make better use of the device and the data captured, some of these tools include:
+*Custom [[MATLAB]] programs for reading and processing signal and image data
+*[[Software Development Kit]]s (SDKs) for communicating with the URI, signal processing and other specialized modes of operation available on the URI
+
+==References==
+{{reflist}}
+
+==Further reading==
+*[http://www.analog.com/library/analogDialogue/archives/36-03/ultrasound/index.html  How Ultrasound System Considerations Influence Front-End Component Choice]
+
+==External links==
+*[http://www.ultrasonix.com/products/sonixtouch/research SonixTouch Research ultrasound]
+*[http://www.medical.siemens.com/webapp/wcs/stores/servlet/ProductDisplay~q_catalogId~e_-1~a_catTree~e_100001,12805,12823*1902206816~a_langId~e_-1~a_productId~e_145839~a_productParentId~e_17278~a_relatedCatName~e_Options~a_storeId~e_10001.htm Axius direct ultrasound research interface]
+*[http://www.telemed.lt/main_en.htm Telemed ultrasound scanners with usb pc interface]
+[http://www.ultimedical.com/PRODUCTS/201205/8.html Ultimedical Ultrasound RF data device]
+
+<!-- Categories -->
+[[Category:Ultrasound]]
+[[Category:Medical ultrasound]]
+[[Category:Medical physics]]

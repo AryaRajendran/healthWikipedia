@@ -1,0 +1,69 @@
+{{Taxobox
+| color = lightgrey
+| name = Proteobacteria
+| image =  EscherichiaColi NIAID.jpg
+| image_width = 250px
+| image_caption = ''[[Escherichia coli]]''
+| domain = [[Bacteria]]
+| phylum = '''Proteobacteria'''
+| phylum_authority = Stackebrandt et al., 1988 <ref name="Stackebrandt" />
+}}
+
+The '''Proteobacteria''' are a major group ([[phylum]]) of [[bacteria]]. They include a wide variety of [[pathogen]]s, such as ''[[Escherichia]]'', ''[[Salmonella]]'', ''[[Vibrio]]'', ''[[Helicobacter]]'', and many other notable genera.
+<ref name="Brock">{{cite book | author = Madigan M; Martinko J (editors). | title = Brock Biology of Microorganisms | edition = 11th | publisher = Prentice Hall | year = 2005 | isbn  = 0-13-144329-1 }}</ref>
+Others are free-living, and include many of the bacteria responsible for [[nitrogen fixation]]. 
+
+In 1987, [[Carl Woese]] established this grouping, calling it informally the "purple bacteria and their relatives".<ref name="woese87">{{cite pmid|2439888}}</ref>
+Because of the great diversity of forms found in this group, the Proteobacteria are named after [[Proteus]], a Greek god of the sea, capable of assuming many different shapes, and it is therefore not named after the genus ''[[Proteus (bacterium)|Proteus]]''.<ref name="Stackebrandt">Stackebrandt et al. [http://ijs.sgmjournals.org/cgi/reprint/38/3/321.pdf ''Proteobacteria classis nov., a name for the phylogenetic taxon that includes the "purple bacteria and their relatives".''] Int. J. Syst. Bacteriol., 1988, 38, 321–325.</ref>
+<ref name="Tree_of_Life">{{cite web | title=Proteobacteria | work=Discover Life: Tree of Life | url=http://stri.discoverlife.org/mp/20m?tree=Proteobacteria&res=800 | accessdate=2007-02-09}}</ref>
+
+==Characteristics==
+All proteobacteria are [[Gram-negative]], with an [[Bacterial outer membrane|outer membrane]] mainly composed of [[lipopolysaccharide]]s. Many move about using [[flagellum|flagella]], but some are nonmotile or rely on [[bacterial gliding]]. The last include the [[myxobacteria]], a unique group of bacteria that can aggregate to form multicellular fruiting bodies. There is also a wide variety in the types of [[metabolism]]. Most members are facultatively or obligately [[anaerobic organism|anaerobic]], [[Chemotroph|chemoautotrophs]], and [[heterotrophic]], but there are numerous exceptions. A variety of genera, which are not closely related to each other, convert energy from light through [[photosynthesis]]. These are called [[purple bacteria]], referring to their mostly reddish pigmentation.
+
+==Taxonomy==
+{{cladogram|title=Phylogeny of Proteobacteria
+|caption=Phylogeny of proteobacteria according to ARB living tree, iTOL, Bergey's and others.
+|cladogram={{clade
+  |1=Acidobacteria
+  |2={{clade
+    |1=Deltaproteobacteria
+    |2={{clade
+      |1=Epsilonbacteria
+      |2={{clade
+        |1=Alphaproteobacteria
+        |2={{clade
+          |1=Zetaproteobacteria
+          |2={{clade
+            |1=Gammaproteobacteria
+            |2=Betaproteobacteria
+             }}
+           }}
+         }}
+       }}
+     }}
+   }}
+}}
+The group is defined primarily in terms of [[ribosomal RNA]] (rRNA) sequences. The Proteobacteria are divided into six sections, referred to by the [[Greek letters]] alpha through zeta, again based on rRNA sequences. These are often treated as classes. The alpha, beta, delta, epsilon sections are [[monophyletic]],<ref>{{cite book|author=Noel R. Krieg, Don J. Brenner, James T. Staley|title=Bergey's manual of systematic bacteriology: The proteobacteria|isbn=978-0-387-95040-2|publisher=Springer|year=2005}}</ref><ref>{{cite pmid|16513982}}</ref><ref>{{cite pmid|20817437}}</ref> bar the [[Gammaproteobacteria]] due to the ''[[Acidithiobacillus]]'' genus is [[paraphyletic]] to Betaproteobacteria, according to [[Phylogenomics|multigenome alignment studies]], which if done correctly are more precise than [[16S ribosomal RNA|16S]]<ref>{{cite pmid|20207755}}</ref> (note that ''[[Mariprofundus ferrooxydans]]'' sole member of the non-validly published "Zetaproteobacteria"<ref>{{cite pmid|17668050}}</ref> was previously misclassified on NCBI taxonomy). It should be noted that the genera ''Acidithiobacillus'' and ''Thermithiobacillus'' have been moved to a new Class within the ''Proteobacteria'' as of 2013 - the ''Acidithiobacillia''.<ref>Williams KP, Kelly DP (2013) Proposal for a new Class within the ''Proteobacteria'', the ''Acidithiobacillia'', with the ''Acidithiobacillales'' as the type Order. International Journal of Systematic and Evolutionary Microbiology. Published online, January 2013</ref>
+The divisions of the ''Proteobacteria'' were once regarded as subclasses (e.g. α-subclass of the ''Proteobacteria''), but are now regarded as classes (e.g. the ''Alphaproteobacteria'').<ref name="Lee et al. 2005">Lee at al. Int J Syst Evol Microbiol 55 (2005), 1907–1919.</ref> The naming convention is that each Class is styled in italics with a capital first letter.<ref name="Lee et al. 2005"/>
+* ''[[Alphaproteobacteria]]''
+* ''[[Betaproteobacteria]]
+* ''[[Gammaproteobacteria]]''
+* ''[[Deltaproteobacteria]]''
+* ''[[Epsilonproteobacteria]]''
+* "''[[Zetaproteobacteria]]''" (not validly published)
+* ''[[Acidithiobacillia]]''
+{{clear}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Wikispecies}}
+* [http://www.palaeos.org/Proteobacteria Proteobacteria information from [[Palaeos]]]
+* [http://www.bacterio.cict.fr/p/proteobacteria.html Proteobacteria] – J.P. Euzéby: List of Prokaryotic names with Standing in Nomenclature
+
+{{Bacteria classification}}
+{{Gram-negative bacterial diseases}}
+
+[[Category:Proteobacteria| ]]
+[[Category:Gram-negative bacteria]]

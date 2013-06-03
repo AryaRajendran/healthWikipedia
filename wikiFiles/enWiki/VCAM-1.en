@@ -1,0 +1,46 @@
+{{PBB|geneid=7412}}
+'''Vascular cell adhesion protein 1''' also known as '''vascular cell adhesion molecule 1''' (VCAM-1) or '''cluster of differentiation 106''' (CD106) is a [[protein]] that in humans is encoded by the ''VCAM1'' [[gene]].<ref name="Cybulsky_1991">{{cite journal | author = Cybulsky M, Fries JW, Williams AJ, Sultan P, Eddy RL, Byers MG, Shows TB, Gimbrone MA Jr, Collins T | title = The human VCAM1 gene is assigned to chromosome 1p31-p32 | journal=Cytogenet. Cell Genet. | year = 1991 | volume = 58 | pages = 1852 |doi=10.1159/000133735}}</ref> VCAM-1 functions as a [[cell adhesion molecule]].
+
+==Structure==
+
+The VCAM-1 gene contains six or seven [[immunoglobulin]] domains, and is expressed on both large and small [[blood vessel]]s only after the [[endothelial]] cells are stimulated by [[cytokine]]s. It is [[Alternative splicing|alternatively spliced]] into two known [[RNA]] [[Transcription (genetics)|transcripts]] that encode different isoforms in humans.<ref>{{cite web | title = Entrez Gene: VCAM1 vascular cell adhesion molecule 1| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=7412| accessdate = }}</ref> The gene product is a cell surface [[sialoglycoprotein]], a type I membrane protein that is a member of the [[Immunoglobulin superfamily|Ig superfamily]].
+
+==Function==
+
+The VCAM-1 protein mediates the adhesion of [[lymphocyte]]s, [[monocyte]]s, [[eosinophil]]s, and [[basophil]]s to vascular [[endothelium]]. It also functions in leukocyte-endothelial cell [[signal transduction]], and it may play a role in the development of [[atherosclerosis]] and [[rheumatoid arthritis]]. 
+
+Upregulation of VCAM-1 in endothelial cells by cytokines occurs as a result of increased [[gene transcription]] (e.g., in response to [[Tumor necrosis factor-alpha]] (TNF-α) and [[Interleukin-1]] (IL-1)) and through stabilization of [[Messenger RNA]] (mRNA) (e.g., [[Interleukin-4]] (IL-4)). The promoter region of the VCAM-1 gene contains functional tandem [[NF-κB]] (nuclear factor-kappa B) sites. The sustained expression of VCAM-1 lasts over 24 hours. 
+
+Primarily, the VCAM-1 protein is an endothelial [[ligand]] for [[VLA-4]] (Very Late Antigen-4 or α4β1) of the β1 subfamily of [[integrin]]s, and for integrin α4β7. VCAM-1 expression has also been observed in other cell types (e.g., [[smooth muscle cells]]). It has also been shown to [[Protein-protein_interaction|interact]] with [[ezrin|EZR]]<ref name=pmid12082081>{{cite journal |last=Barreiro |first=Olga |authorlink= |coauthors=Yanez-Mo Maria, Serrador Juan M, Montoya Maria C, Vicente-Manzanares Miguel, Tejedor Reyes, Furthmayr Heinz, Sanchez-Madrid Francisco |year=2002|month=Jun. |title=Dynamic interaction of VCAM-1 and ICAM-1 with moesin and ezrin in a novel endothelial docking structure for adherent leukocytes |journal=J. Cell Biol. |volume=157 |issue=7 |pages=1233–45 |publisher= |location = United States| issn = 0021-9525| pmid = 12082081 |doi = 10.1083/jcb.200112126 | bibcode = | oclc =| id = | url = | language = | format = | accessdate = | laysummary = | laysource = | laydate = | quote = |pmc=2173557 }}</ref> and [[Moesin]].<ref name=pmid12082081/>
+
+==Pharmacology==
+Certain [[melanoma]] cells can use VCAM-1 to adhere to the endothelium, and VCAM-1 may participate in monocyte recruitment to atherosclerotic sites. As a result, VCAM-1 is a potential [[drug]] target.
+
+==References==
+{{reflist}}
+==Further reading==
+{{refbegin | 2}}
+{{PBB_Further_reading 
+| citations = 
+*{{cite journal  | author=Yonekawa K, Harlan JM |title=Targeting leukocyte integrins in human diseases. |journal=J. Leukoc. Biol. |volume=77 |issue= 2 |pages= 129–40 |year= 2005 |pmid= 15548573 |doi= 10.1189/jlb.0804460 }}
+*{{cite journal  | author=Wu TC |title=The role of vascular cell adhesion molecule-1 in tumor immune evasion. |journal=Cancer Res. |volume=67 |issue= 13 |pages= 6003–6 |year= 2007 |pmid= 17616653 |doi= 10.1158/0008-5472.CAN-07-1543 }}
+}}
+{{refend}}
+
+==External links==
+* {{MeshName|VCAM-1}}
+
+{{PDB Gallery|geneid=7412}}
+{{Clusters of differentiation}}
+{{Cell adhesion molecules}}
+
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details. -->
+{{PBB_Controls
+| update_page = yes 
+| require_manual_inspection = no 
+| update_protein_box = yes
+| update_summary = no
+| update_citations = yes
+}}
+
+[[Category:SIGLEC]]

@@ -1,0 +1,50 @@
+'''Ophanin''' is a [[toxin]] found in the venom of the King Cobra (''[[Ophiophagus hannah]]''), which lives throughout [[South East Asia]]. This [[toxin]] belongs to the [[cysteine-rich secretory protein]] (CRISP) family. Ophanin weakly blocks the contraction of [[smooth muscles]] elicited by high potassium-induced [[depolarization]],<ref name=Biophysics>{{cite journal |doi=10.1016/S0003-9861(03)00028-6|title= Wide distribution of cysteine-rich secretory proteins in snake venoms: isolation and cloning of novel [[snake venom]] cysteine-rich secretory proteins |year=2003 |last1=Yamazaki Y|first1=Hyodo F|last2=Morita T|journal= Archives of Biochemistry and Biophysics |volume=412|issue=1 |pages=133–141 |pmid=12646276}}</ref> suggesting that it inhibits voltage-dependent calcium channels.
+
+== Etymology ==
+[[File:Ophiophagus hannah (2).jpg|right|thumb|King Cobra (Ophiophagus hannah)]]
+The toxin was named ''ophanin'' after the snake whose venom it is derived from, the King Cobra (''[[Ophiophagus hannah]]'').<ref name=Biophysics />
+
+== Source ==
+Ophanin is produced in the venom glands of the King Cobra (''O. Hannah''). 
+
+Although the venom has relatively low [[toxicity]], this is compensated by the high amounts of it injected into the prey for each bite.<ref name=ohanin>{{cite journal |title= A novel protein from King Cobra (''Ophiophagus hannah'') venom |year=2005 |last1=Pung YF| journal= National University of Singapore: Singapore |volume= Ph.D. Thesis}}</ref>
+
+== Chemistry ==
+=== Structure ===
+Ophanin was successfully isolated from ''O. Hannah'' venom by [[gel filtration]] and cation-exchange [[chromatography]].<ref name=Biophysics /> Its molecular weight is 25 kDa (from positions 19 – 239), which conforms to the molecular mass predicted from its cDNA sequences.<ref>{{cite web |url=http://www.uniprot.org/uniprot/Q7ZT98|title=Ophanin|year=2010 |accessdate=27 October 2010 |publisher=UniProt Consortium}}</ref>
+
+=== Homology ===
+Ophanin is a cysteine-rich secretory protein and therefore belongs to the CRISP family. 
+These proteins possess 16 strictly conserved cysteines and contain 8 [[disulfide bonds]]. 
+Ten of the 16 cysteine residues are clustered at the [[C-terminal]] end of the protein.  
+Ophanin belongs to the “long” CRISPs subgroup, which consists of the 9 CRISPs with the longest sequences. Snake venom CRISPs belonging to different subgroups act on different biological targets, contributing in this way to the diversity of damaging effects of snake venoms.<ref name=communications>{{cite journal |doi=10.1016/bbrc.2004.12.154|title= Cobra venom contains a pool of cysteine-rich secretory proteins |year=2005 |last1=Osipov AV|first1=Levashov MY|last2=Tsetlin VI|journal= Biochemical and Biophysical Research Communications |volume=428 |pages=177–188}}</ref>
+
+=== Family ===
+The phylogenetic tree constructed from the nucleotide sequences of all known snake venom CRISPs shows that ophanin is more closely related to the [[Viperidae]] branch than the [[Elapidae]] branch even though ''O. Hannah'' belongs to the Elapidae snakes.<ref name=Biophysics />
+
+Ophanin, along with other specific snake toxins like [[triflin]] and [[ablomin]], is also a helothermine-related venom protein (Helveprin) which was originally isolated from the skin of the Mexican beaded lizard.<ref name=najaatra>{{cite journal |doi=10.1016/S0041-0101(03)00234-4 |title=Purification and cloning of cysteine rich proteins from Trimeresurus jerdonii and Naja atra |year=2003 |last1=Jin Y|first1=Lu Q|last2=Zhou X|first2=Zhu S|last3=Li R|first3=Wang W |last4= Xiong Y |journal=Toxicon |volume=42 |pages=539–547 |pmid=14529736}}</ref>
+
+== Target ==
+Ophanin is a weak blocker of the high potassium-induced contraction of smooth muscles. Snake venom CRISP family proteins inhibit depolarization-induced smooth muscle contraction to different extents. Compared to the normal contraction of smooth muscle, ophanin is able to reduce their force of contractility to 84% ± 1%, which is less than most other CRISPs.<ref name=Biophysics />
+ 
+The differences between the inhibitory activity of CRISPs may be explained through sequence comparisons that suggest a site that may be critical for inhibition of channel activity. [[Phe]]189 and [[Glutamic acid|Glu]]186 are the most likely functional residues: strong blockers of smooth muscle contraction ([[ablomin]], [[triflin]], and [[latisemin]]) all have Phe189, and all blockers of smooth muscle contraction except ophanin have Glu186. The significance of this lack of the probable functional residues in ophanin has not yet been addressed. However, it is likely that the picture is more complex and other residues contribute to the inhibitory activity of CRISPs on smooth muscle contraction and some data supports this. For example [[pseudecin]], while also having Phe189, does not affect depolarization-induced contraction.<ref name=Biophysics />
+
+== Mode of action ==
+There is no direct evidence of a particular mode of action of ophanin blocking depolarization-induced contractions of the smooth muscles. However, based on the hypothesis of Yamazaki and colleagues<ref name=europeanjournal>{{cite journal |doi=10.1046/j.1432-1033.2002.02940.x|title=Cloning and characterization of novel snake venom proteins that block smooth muscle contraction |year=2002 |last1=Yamazaki Y|first1=Koike H|last2=Sugiyama Y |first2= Motoyoshi K | last3= Wada T | first3= Hishunima S | last4= Morita T|journal= European Journal of Biochemistry |volume=269|issue=11 |pages=2709–2715 | pmid=12047379}}</ref> in regards to ablomin, another snake venom toxin from the CRISP family that also blocks depolarization-induced smooth muscle contraction, we can postulate a similar mechanism might be in place for ophanin. 
+
+Since ablomin only blocks contraction induced by depolarization, but not by caffeine, the effect of ablomin is likely to be caused by inhibition of voltage-gated ion channels. An activation of smooth muscle cells through caffeine activates [[ryanodine]] receptors of the [[sarcoplasmic reticulum]], whereas an activation through high levels of extracellular potassium depolarizes the membrane (due to the change of the [[reversal potential]] for potassium towards more positive values) and would then activate voltage-gated calcium-ion channels leading to high levels of intracellular calcium ions. The intracellular calcium ion concentration correlates well with contraction force in the rat-tail artery.<ref name=biochem>{{cite journal | doi=10.1042/BJ20020191 |title=Membrane depolarization-induced contraction of rat caudal arterial smooth muscle involves Rho-associated kinase |year=2002 |last1=Mita M|first1=Yanagihara H|last2=Hishinuma S|first2= Saito M| last3= Walsh MP |journal= Biochemical Journal |volume=364 |pages=431–440}}</ref> Thus, contraction following extracellular application of high-potassium solution depends on the influx of the extracellular calcium ions through voltage-gated calcium channels. Therefore ablomin (and by extension ophanin) most likely targets voltage-gated calcium channels on smooth muscle.<ref name=europeanjournal />
+
+== Toxicity ==
+The {{LD50}} of the venom in mice is ~1.2 to 3.5&nbsp;mg/kg via intravenous injection.<ref name=endeavour>{{cite journal | url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=2482807|title=Snake venoms: Toolbox of the neurobiologist |year=1989 |last1=Mebs D |journal= Endeavour |volume=13 |pages=157–161}}</ref> The LD50 of ophanin is not yet known.
+
+==See also==
+*Other snake venom proteins in the CRISP family:
+**[[Piscivorin]] from the Eastern Cottonmouth
+**[[Triflin]] from the Habu snake
+**[[Ablomin]] from the Mamushi snake
+**[[Latisemin]] from the Erabu snake
+
+== References ==
+{{reflist}}
+
+[[Category:Ion channel toxins]]

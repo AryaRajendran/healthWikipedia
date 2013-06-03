@@ -1,0 +1,81 @@
+{{Interventions infobox |
+  Name        = {{PAGENAME}} |
+  Image  
+  OPS301      = {{OPS301|3-900}} |
+  OtherCodes  = |
+}}
+'''Dual-energy X-ray absorptiometry''' ('''DXA''', previously '''DEXA'''<ref>{{cite journal |first1=Mahavir B |last1=Mishra |first2=Shanu |last2=Mishra |first3=Ranu |last3=Mishra |year=2011 |title=Dental Care in the Patients with Bisphosphonates Therapy |journal=International Journal of Dental Clinics |volume=3 |issue=1 |pages=60–4 |url=http://intjdc.org/intjdc/article/view/92}}</ref><ref>{{cite web |publisher= International Atomic Energy Agency |url= https://rpop.iaea.org/RPOP/RPoP/Content/InformationFor/HealthProfessionals/6_OtherClinicalSpecialities/DEXA/index.htm |title= Dual Energy X ray Absorptiometry - Bone Mineral Densitometry |accessdate = 20 April 2012}}</ref>) is a means of measuring [[bone mineral density]] (BMD). Two [[X-ray]] beams with different [[energy level]]s are aimed at the patient's [[bone]]s. When [[soft tissue]] absorption is subtracted out, the [[bone density|BMD]] can be determined from the absorption of each beam by bone. Dual-energy X-ray absorptiometry is the most widely used and most thoroughly studied bone density measurement technology. 
+
+The DXA scan is typically used to diagnose and follow [[osteoporosis]], as contrasted to the nuclear [[bone scan]], which is sensitive to certain metabolic diseases of bones in which bones are attempting to heal from infections, fractures, or tumors.
+
+==Uses==
+DXA scans are used primarily to evaluate bone mineral density. DXA scans can also be used to measure total body composition and fat content with a high degree of accuracy comparable to [[hydrostatic weighing]] with a few important caveats.<ref>{{cite journal |doi=10.1093/gerona/59.8.B796 |title=Dual-Energy X-Ray Absorptiometry-Measured Lean Soft Tissue Mass: Differing Relation to Body Cell Mass Across the Adult Life Span |year=2004 |last1=St-Onge |first1=Marie-Pierre |last2=Wang |first2=Jack |last3=Shen |first3=Wei |last4=Wang |first4=ZiMian |last5=Allison |first5=David B. |last6=Heshka |first6=Stanley |last7=Pierson |first7=Richard N. |last8=Heymsfield |first8=Steven B. |journal=The Journals of Gerontology Series A: Biological Sciences and Medical Sciences |volume=59 |issue=8 |pmid=15345728 |pages=796–800}}</ref> However, it has been suggested that, while very accurately measuring minerals and lean soft tissue (LST), DXA may provide skewed results as a result of its method of indirectly calculating fat mass by subtracting it from the LST and/or body cell mass (BCM) that DXA actually measures.<ref>{{cite journal |doi=10.1186/1743-7075-3-9 |year=2006 |last1=Manninen |first1=Anssih |journal=Nutrition & Metabolism |volume=3 |pmid=16448570 |pages=9 |title=Very-low-carbohydrate diets and preservation of muscle mass |pmc=1373635}}</ref>
+
+==Indications==
+{{main|Bone density#Testing}}
+Women over the age of 65 should get a DXA scan.<ref name="ahrq">{{cite web |url= http://www.uspreventiveservicestaskforce.org/uspstf/uspsoste.htm |title=Screening for Osteoporosis |first= |last= |publisher=[[U.S. Preventive Services Task Force]] |work=uspreventiveservicestaskforce.org |date=January 2011 |accessdate=20 August 2012}}</ref> The date at which men should be tested is uncertain<ref name="ahrq"/> but some sources recommend age 70.<ref name="AAFP">{{Citation |author1 = American Academy of Family Physicians |author1-link = American Academy of Family Physicians |date = |title = Five Things Physicians and Patients Should Question |publisher = [[American Academy of Family Physicians]] |work = Choosing Wisely: an initiative of the [[ABIM Foundation]] |page = |url = http://choosingwisely.org/wp-content/uploads/2012/04/5things_12_factsheet_Amer_Acad_Fam_Phys.pdf |accessdate = August 14 2012}}</ref> At risk women should consider getting a scan when their risk is equal to that of a normal 65 year old woman. 
+
+A person's risk can be measured using the [[World Health Organization]]'s [[FRAX]] calculator, which includes many different clinical risk factors including prior fragility fracture, use of glucocorticoids, heavy smoking, excess alcohol intake, rheumatoid arthritis, history of parental hip fracture, chronic renal and liver disease, chronic respiratory disease, long-term use of phenobarbital or phenytoin, celiac disease, inflammatory bowel disease, and other risks.<ref name="ahrq" />
+
+==Scoring==
+[[File:Morbus Fabry DXA 01.jpg|thumb|DEXA assessment of bone mineral density of the femoral neck (A) and the lumbar spine (B): T scores of - 4.2 and - 4.3 were found at the hip (A) and lumbar spine (B), respectively in a 53 year-old male patient affected with [[Fabry disease]].]]
+The World Health Organization has defined the following categories based on bone density in white women:
+
+{| class="wikitable"
+|-| Osteoporosis|| T-score less than -2.5
+|-
+| Severe (established) osteoporosis|| T-score less than -2.5 and 1+ osteoporotic fractures
+|}
+
+The WHO committee did not have enough data to create definitions for men or other ethnic groups.<ref>http://courses.washington.edu/bonephys/opbmd.html#tz</ref> This test is very reliable.
+ 
+Special considerations are involved in the use of DXA to assess bone mass in children. Specifically, comparing the bone mineral density of children to the reference data of adults (to calculate a T-score) will underestimate the BMD of children, because children have less bone mass than fully developed adults. This would lead to an over-diagnosis of [[osteopenia]] for children. To avoid an overestimation of bone mineral deficits, BMD scores are commonly compared to reference data for the same gender and age (by calculating a [[Z-score]]).
+
+Also, there are other variables in addition to age that are suggested to confound the interpretation of BMD as measured by DXA. One important confounding variable is bone size. DXA has been shown to overestimate the bone mineral density of taller subjects and underestimate the bone mineral density of smaller subjects. This error is due to the way by which DXA calculates BMD. In DXA, bone mineral content (measured as the attenuation of the X-ray by the bones being scanned) is divided by the area (also measured by the machine) of the site being scanned.  
+
+Because DXA calculates BMD using area (aBMD: areal Bone Mineral Density), it is not an accurate measurement of true bone mineral density, which is [[mass]] divided by a [[volume]]. In order to distinguish DXA BMD from [[volumetric]] bone-mineral density, researchers sometimes refer to DXA BMD as an areal bone mineral density (aBMD). The confounding effect of differences in bone size is due to the missing depth value in the calculation of bone mineral density. Despite DXA technology's problems with estimating volume, it is still a fairly accurate measure of bone mineral content. Methods to correct for this shortcoming include the calculation of a volume that is approximated from the projected area measure by DXA. DXA BMD results adjusted in this manner are referred to as the bone mineral apparent density (BMAD) and are a [[ratio]] of the bone mineral content versus a [[cuboidal]] estimation of the volume of bone. Like the results for aBMD, BMAD results do not accurately represent true bone mineral density, since they use approximations of the bone's volume. BMAD is used primarily for research purposes and is not yet used in clinical settings. 
+
+Other imaging technologies such as [[Peripheral quantitative computed tomography|Computed Quantitative Computer Tomography]] (QCT) are capable of measuring the bone's volume, and are, therefore, not susceptible to the confounding effect of bone-size in the way that DXA results are susceptible. 
+
+DXA uses X-rays to assess bone mineral density. However, the [[radiation]] dose is approximately 1/10 that of a standard chest X-ray.<ref>[http://www.radiologyinfo.org/en/info.cfm?pg=dexa&bhcp=1 Radiology Info - DXA]</ref>
+
+The quality of DXA operators varies widely. DXA is not regulated like other radiation-based imaging techniques because of its low dosage. Each state has a different policy as to what certifications are needed to operate a DXA machine. [[California]], for example, requires coursework and a state-run test, whereas [[Maryland]] has no requirements for DXA technicians. Many states require a training course and certificate from the International Society of Clinical Densitometry (ISCD). 
+
+It is important for patients to get repeat BMD measurements done on the same machine each time, or at least a machine from the same manufacturer. Error between machines, or trying to convert measurements from one manufacturer's standard to another can introduce errors large enough to wipe out the sensitivity of the measurements.{{Citation needed|date=September 2009}}
+
+DXA results need to be adjusted if the patient is taking [[strontium]] supplements.<ref>http://www.osteopenia3.com/Strontium-dexa-scan.html</ref><ref>{{cite journal |doi=10.1016/j.jocd.2006.10.004 |title=Effect of Bone Strontium on BMD Measurements |year=2007 |last1=Blake |first1=Glen M. |last2=Fogelman |first2=Ignac |journal=Journal of Clinical Densitometry |volume=10 |pages=34–8 |pmid=17289524 |issue=1}}</ref>
+
+==Current clinical practice in paediatrics==
+
+DXA is, by far, the most widely used technique for bone measurements, since it is considered to be cheap, accessible, easy to use, and able to provide an accurate estimation of bone mineral density in adults.<ref>{{cite journal |doi=10.1016/S0720-048X(97)00093-4 |title=Bone density in children: A review of the available techniques and indications |year=1998 |last1=Gilsanz |first1=Vicente |journal=European Journal of Radiology |volume=26 |issue=2 |pages=177–82 |pmid=9518226}}</ref>
+
+The official position of the [[International Society for Clinical Densitometry]] (ISCD) is that a patient may be tested for BMD if he suffers from a condition that could precipitate bone loss, is going to be prescribed pharmaceuticals known to cause bone loss, or is being treated and needs to be monitored. The ISCD states that there is no clearly understood correlation between BMD and the risk of a child's suffering a fracture; the diagnosis of osteoporosis in children cannot be made using the basis of a densitometry criteria. T-scores are prohibited with children and should not even appear on DXA reports. Thus, the WHO classification of osteoporosis and osteopenia in adults cannot be applied to children, but Z-scores can be used to assist diagnosis.<ref>2007 ISCD Official Positions, last accessed 19/05/2008. http://www.iscd.org/visitors/positions/OfficialPositionsText.cfm</ref>
+
+Some clinics may routinely carry out DXA scans on paediatric patients with conditions such as nutritional [[rickets]], [[Lupus erythematosus|lupus]], and [[Turner Syndrome]].<ref>{{cite journal |doi=10.1007/s00247-006-0153-y |title=Pediatric DXA: Technique and interpretation |year=2006 |last1=Binkovitz |first1=Larry A. |last2=Henwood |first2=Maria J. |journal=Pediatric Radiology |volume=37 |pages=21–31 |pmid=16715219 |issue=1 |pmc=1764599}}</ref> DXA has been demonstrated to measure skeletal maturity<ref>{{cite journal |doi=10.1007/s00198-003-1545-6 |title=Evaluation of the possibility to assess bone age on the basis of DXA derived hand scans—preliminary results |year=2004 |last1=Pludowski |first1=Pawel |last2=Lebiedowski |first2=Michal |last3=Lorenc |first3=Roman S. |journal=Osteoporosis International |volume=15 |issue=4 |pages=317–22 |pmid=14615883}}</ref> and body fat composition<ref>{{cite journal |pmid=11517118 |year=2001 |last1=Sung |first1=RY |last2=Lau |first2=P |last3=Yu |first3=CW |last4=Lam |first4=PK |last5=Nelson |first5=EA |title=Measurement of body fat using leg to leg bioimpedance |volume=85 |issue=3 |pages=263–7 |pmc=1718893 |journal=Archives of disease in childhood |doi=10.1136/adc.85.3.263}}</ref> and has been used to evaluate the effects of pharmaceutical therapy.<ref>{{cite journal |doi=10.1203/01.PDR.0000155943.07244.04 |title=Reduced Bone Density in Children on Long-Term Warfarin |year=2005 |last1=Barnes |first1=Chris |last2=Newall |first2=Fiona |last3=Ignjatovic |first3=Vera |last4=Wong |first4=Patricia |last5=Cameron |first5=Fergus |last6=Jones |first6=Graeme |last7=Monagle |first7=Paul |journal=Pediatric Research |volume=57 |issue=4 |pages=578–81 |pmid=15695604}}</ref> It may also aid paediatricians in diagnosing and monitoring treatment of disorders of bone mass acquisition in childhood.<ref>{{cite journal |doi=10.1136/adc.87.4.341 |title=Reference data for bone density and body composition measured with dual energy x ray absorptiometry in white children and young adults |year=2002 |last1=Van Der Sluis |first1=I M |journal=Archives of Disease in Childhood |volume=87 |issue=4 |pages=341–7; discussion 341–7 |pmid=12244017 |last2=De Ridder |first2=MA |last3=Boot |first3=AM |last4=Krenning |first4=EP |last5=De Muinck Keizer-Schrama |first5=SM |pmc=1763043}}</ref> 
+
+However, it seems that DXA is still in its early days in paediatrics, and there are widely acknowledged limitations and disadvantages with DXA. A view exists<ref name=Picaud>{{cite journal |doi=10.1385/JCD:6:1:17 |title=First All-Solid Pediatric Phantom for Dual X-Ray Absorptiometry Measurements in Infants |year=2003 |last1=Picaud |first1=Jean-Charles |last2=Duboeuf |first2=François |last3=Vey-Marty |first3=Betty |last4=Delmas |first4=Pierre |last5=Claris |first5=Olivier |last6=Salle |first6=Bernard-Louis |last7=Rigo |first7=Jacques |journal=Journal of Clinical Densitometry |volume=6 |pages=17–23 |pmid=12665698 |issue=1}}</ref> that DXA scans for diagnostic purposes should not even be performed outside specialist centers, and, if a scan is done outside one of these centers, it should not be interpreted without consultation with an expert in the field.<ref name=Picaud/> Furthermore, most of the pharmaceuticals given to adults with low bone mass can be given to children only in strictly monitored clinical trials.
+
+Whole-body [[calcium]] measured by DXA has been validated in adults using [[in-vivo]] [[neutron]] activation of total body calcium<ref name=Margulies>{{cite journal |doi=10.1385/JCD:8:3:298 |title=Reproducibility of Pediatric Whole Body Bone and Body Composition Measures by Dual-Energy X-Ray Absorptiometry Using the GE Lunar Prodigy |year=2005 |last1=Margulies |first1=Lauren |last2=Horlick |first2=Mary |last3=Thornton |first3=John C. |last4=Wang |first4=Jack |last5=Ioannidou |first5=Elli |last6=Heymsfield |first6=Steven B. |journal=Journal of Clinical Densitometry |volume=8 |issue=3 |pages=298–304 |pmid=16055960}}</ref><ref name=Horlick>{{cite journal |doi=10.1359/jbmr.2000.15.7.1393 |title=Bone Mineral in Prepubertal Children: Gender and Ethnicity |year=2000 |last1=Horlick |first1=Mary |last2=Thornton |first2=John |last3=Wang |first3=Jack |last4=Levine |first4=Lenore S. |last5=Fedun |first5=Barbara |last6=Pierson |first6=Richard N. |journal=Journal of Bone and Mineral Research |volume=15 |issue=7 |pages=1393–7 |pmid=10893689}}</ref> but this is not suitable for paediatric subjects and studies have been carried out on paediatric-sized animals.<ref name=Margulies/><ref name=Horlick/>
+
+==Radiation exposure==
+The radiation received by the patient during the scan is less than that of an airline flight from California to New York and back.<ref>http://www.radiologyinfo.org/en/safety/index.cfm?pg=sfty_xray#part3</ref>
+
+== References ==
+
+{{refs|30em}}
+
+== External links ==
+{{commonscat|Dual-energy X-ray absorptiometry}}
+* [http://www.osteoporosisadvice.com/testing-bone-density.php Non-invasive testing of bone density explained]
+* [http://www.radiologyinfo.org/content/dexa.htm Information for patients], from [[Radiological Society of North America|RSNA]]
+* [http://courses.washington.edu/bonephys/opbmd.html#tz Bone Densitometry explained]
+
+{{Operations and other procedures on the musculoskeletal system}}
+{{Medical imaging}}
+
+{{DEFAULTSORT:Dual-Energy X-Ray Absorptiometry}}
+[[Category:Radiology]]
+[[Category:Medical imaging]]
+
+[[es:Densitometría osea]]
+[[fr:DEXA]]

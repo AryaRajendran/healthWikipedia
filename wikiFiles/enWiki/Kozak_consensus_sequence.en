@@ -1,0 +1,67 @@
+The '''Kozak consensus sequence''', '''Kozak consensus''' or '''Kozak sequence''', is a sequence which occurs on [[eukaryotic]] [[mRNA]] and has the [[consensus sequence|consensus]] <tt>(gcc)gccRccAUGG</tt>. The Kozak consensus sequence plays a major role in the initiation of the [[Translation (biology)|translation process]].<ref name="Angioletti2004">{{cite journal |author=De Angioletti M, Lacerra G, Sabato V, Carestia C |title=Beta+45 G --> C: a novel silent beta-thalassaemia mutation, the first in the Kozak sequence |journal=Br J Haematol |volume=124 |issue=2 |pages=224–31 |year=2004 |pmid=14687034 |doi=10.1046/j.1365-2141.2003.04754.x}}</ref> The sequence was named after the person who brought it to prominence, [[Marilyn Kozak]].
+
+The sequence is identified by the notation <tt>(gcc)gccRccAUGG</tt>, which summarizes data analysed by Kozak from a wide variety of sources (about 699 in all)<ref name="Kozak1987">{{cite journal |author=Kozak M |title=An analysis of 5'-noncoding sequences from 699 vertebrate messenger RNAs |journal=Nucleic Acids Res. |volume=15 |issue=20 |pages=8125–8148 |year=1987 |month=October |pmid=3313277 |pmc=306349 |doi= 10.1093/nar/15.20.8125|url=http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=3313277}}</ref> as follows:
+
+# a lower case letter denotes the most common [[Nucleic acid sequence|base]] at a position where the [[Nucleic acid sequence|base]] can nevertheless vary;
+# upper case letters indicate highly-conserved bases, ''i.e.'' the 'AUGG' sequence is constant or rarely, if ever, changes, with the exception being the [[IUPAC]] ambiguity code <ref name=NCIUB>[http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html Nomenclature for Incompletely Specified Bases in Nucleic Acid Sequences], NC-IUB, 1984.</ref> 'R' which indicates that a [[purine]] ([[adenine]] or [[guanine]]) is always observed at this position (with [[adenine]] being claimed by Kozak to be more frequent); and
+# the sequence in brackets ((gcc)) is of uncertain significance.
+
+Kozak's paper was limited to a subset of vertebrates (''i.e.'' human, cow, cat, dog, chicken, guinea pig, hamster, mouse, pig, rabbit, sheep, and xenopus).
+
+==Introduction==
+This sequence on an mRNA [[molecule]] is recognized by the [[ribosome]] as the translational start site, from which a [[protein]] is coded by that mRNA molecule. The ribosome requires this sequence, or a possible variation (see below) to initiate [[Translation (biology)|translation]]. The Kozak sequence is not to be confused with the [[ribosomal binding site]] (RBS), that being either the [[5' cap]] of a [[messenger RNA]] or an [[Internal ribosome entry site]] (IRES).
+
+''In vivo'', this site is often not matched exactly on different mRNAs and the amount of protein synthesized from a given mRNA is dependent on the strength of the Kozak sequence.<ref name="Kozak1984">{{cite journal |author=Kozak M |title=Point mutations close to the AUG initiator codon affect the efficiency of translation of rat preproinsulin in vivo |journal=Nature |volume=308 |pages=241–246 |year=1984 |url=http://www.nature.com/nature/journal/v308/n5956/abs/308241a0.html |pmid=6700727 |doi=10.1038/308241a0 |issue=5956}}</ref> Some nucleotides in this sequence are more important than others: the '''AUG''' is most important because it is the actual initiation codon encoding a methionine amino acid at the N-terminus of the protein.  (Rarely, '''CUG''' is used as an initiation codon, encoding a leucine instead of its typical methionine.)  The '''A''' nucleotide of the "AUG" is referred to as number 1. For a 'strong' consensus, the nucleotides at positions +4 (i.e. G in the consensus) and -3 (i.e. either A or G in the consensus) relative to the number 1 nucleotide must both match the consensus (there is no number 0 position). An 'adequate' consensus has only 1 of these sites, while a 'weak' consensus has neither. The cc at -1 and -2 are not as conserved, but contribute to the overall strength.<ref name="Kozak1986">{{cite journal |author=Kozak M |title=Point mutations define a sequence flanking the AUG initiator codon that modulates translation by eukaryotic ribosomes |journal=Cell |volume=44 |issue=2 |pages=283–92 |year=1986 |url=http://www.nature.com/nature/journal/v308/n5956/abs/308241a0.html |pmid=3943125 |doi=10.1016/0092-8674(86)90762-2}}</ref> There is also evidence that a G in the -6 position is important in the initiation of translation.<ref name="Angioletti2004"/>
+
+There are examples in vivo of each of these types of Kozak consensus, and they probably evolved as yet another mechanism of gene regulation. [http://www.genecards.org/cgi-bin/carddisp.pl?gene=LMX1B Lmx1b] is an example of a gene with a weak Kozak consensus sequence.<ref name="Dunston2004">{{cite journal |author=Dunston JA, Hamlington JD, Zaveri J, ''et al.'' |title=The human LMX1B gene: transcription unit, promoter, and pathogenic mutations |journal=Genomics |volume=84 |issue=3 |pages=565–76 |year=2004 |month=September |pmid=15498463 |doi=10.1016/j.ygeno.2004.06.002 |url=}}</ref> For initiation of translation from such a site, other features are required in the mRNA sequence in order for the ribosome to recognize the initiation codon.
+
+[[Image:Human Kozak context. Version 2.png|thumb|550px|center| A [[sequence logo]] showing the most conserved bases around the [[initiation codon]] from 10 000 human [[mRNA]]s.]]
+
+==Mutations==
+Research has shown that a mutation of G&mdash;>C in the -6 position of the β-globin gene (β+45; human) disrupted the haematological and biosynthetic phenotype function. This was the first mutation found in the Kozak sequence. It was found in a family from the Southeast Italy and they suffered from [[thalassaemia intermedia]].<ref name="Angioletti2004"/>
+
+==Variations in the consensus sequence==
+ (gcc)gccRccAUGG
+        AGNNAUGN
+         ANNAUGG
+         ACCAUGG
+      GACACCAUGG
+
+{|class="wikitable"
+|+Kozak-like sequences in various eukaryotes
+!Biota!!Phylum!!Consensus sequences
+|-
+|[[Vertebrate]]||<br />||<tt>gccRcc'''ATG'''G</tt><ref name="Kozak1987"/>
+|-
+|[[Drosophilidae|Fruit fly]] (''Drosophila'' spp.)||[[Arthropoda]]||<tt>&nbsp;&nbsp;cAAa'''ATG'''</tt><ref>{{cite journal |author=Cavener DR |title=Comparison of the consensus sequence flanking translational start sites in Drosophila and vertebrates |journal=Nucleic Acids Res. |volume=15 |issue=4 |pages=1353–61 |year=1987 |month=February |pmid=3822832 |pmc=340553 |doi= 10.1093/nar/15.4.1353|url=http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=3822832}}</ref>
+|-
+|[[Budding yeast]] (''Saccharomyces cerevisiae'')||[[Ascomycota]]||<tt>aAaAaA'''ATG'''TCt</tt><ref>{{cite journal |author=Hamilton R, Watanabe CK, de Boer HA |title=Compilation and comparison of the sequence context around the AUG startcodons in Saccharomyces cerevisiae mRNAs |journal=Nucleic Acids Res. |volume=15 |issue=8 |pages=3581–93 |year=1987 |month=April |pmid=3554144 |pmc=340751 |doi= 10.1093/nar/15.8.3581|url=http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=3554144}}</ref>
+|-
+|[[Slime mold]] (''Dictyostelium discoideum'')||[[Amoebozoa]]||<tt>aaaAAA'''ATG'''Rna</tt><ref name="Yamauchi1991">{{cite journal |author=Yamauchi K |title=The sequence flanking translational initiation site in protozoa |journal=Nucleic Acids Res. |volume=19 |issue=10 |pages=2715–20 |year=1991 |month=May |pmid=2041747 |pmc=328191 |doi= 10.1093/nar/19.10.2715|url=http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=2041747}}</ref>
+|-
+|[[Ciliate]]||[[Ciliophora]]||<tt>nTaAAA'''ATG'''Rct</tt><ref name="Yamauchi1991" />
+|-
+|[[Malarial protozoa]] (''Plasmodium'' spp.)||[[Apicomplexa]]||<tt>taaAAA'''ATG'''Aan</tt><ref name="Yamauchi1991" />
+|-
+|[[Toxoplasma]] (''Toxoplasma gondii'')||[[Apicomplexa]]||<tt>gncAaa'''ATG'''g</tt><ref>{{cite journal|author=Seeber, F.|year=1997|title=Consensus sequence of translational initiation sites from ''Toxoplasma gondii'' genes|journal=Parasitology Research|volume=83|issue=3|pages=309–311|pmid=9089733|doi=10.1007/s004360050254}}</ref>
+|-
+|[[Trypanosomatidae]]||[[Euglenozoa]]||<tt>nnnAnn'''ATG'''nC</tt><ref name="Yamauchi1991" />
+|-
+|[[Terrestrial plants]]||<br />||<tt>&nbsp;&nbsp;AACA'''ATG'''GC</tt><ref>{{cite journal |author=Lütcke HA, Chow KC, Mickel FS, Moss KA, Kern HF, Scheele GA |title=Selection of AUG initiation codons differs in plants and animals |journal=EMBO J. |volume=6 |issue=1 |pages=43–8 |year=1987 |month=January |pmid=3556162 |pmc=553354 |doi= |url=}}</ref>
+|}
+
+==See also==
+*[[Shine-Dalgarno sequence]], the ribosomal binding site of [[prokaryote]]s.
+
+==References==
+{{reflist|2}}
+
+===Further reading===
+{{More footnotes|date=April 2009}}
+*{{cite journal |author=Kozak M |title=Downstream secondary structure facilitates recognition of initiator codons by eukaryotic ribosomes |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=87 |issue=21 |pages=8301–5 |year=1990 |month=November |pmid=2236042 |pmc=54943 |doi= 10.1073/pnas.87.21.8301|url=http://www.pnas.org/cgi/pmidlookup?view=long&pmid=2236042}}
+*{{cite journal |author=Kozak M |title=An analysis of vertebrate mRNA sequences: intimations of translational control |journal=J. Cell Biol. |volume=115 |issue=4 |pages=887–903 |year=1991 |month=November |pmid=1955461 |pmc=2289952 |doi= 10.1083/jcb.115.4.887|url=http://www.jcb.org/cgi/pmidlookup?view=long&pmid=1955461}}
+*{{cite journal |author=Kozak M |title=Pushing the limits of the scanning mechanism for initiation of translation |journal=Gene |volume=299 |issue=1–2 |pages=1–34 |year=2002 |month=October |pmid=12459250 |doi= 10.1016/S0378-1119(02)01056-9|url=http://linkinghub.elsevier.com/retrieve/pii/S0378111902010569}}
+
+{{GeneticTranslation}}
+
+[[Category:Protein biosynthesis]]

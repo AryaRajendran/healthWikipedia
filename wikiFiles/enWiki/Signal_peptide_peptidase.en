@@ -1,0 +1,79 @@
+{{Infobox protein family
+| Symbol = Peptidase_A22B
+| Name = Peptidase_A22B
+| image = 
+| width = 
+| caption = 
+| Pfam = PF04258
+| Pfam_clan = CL0130 
+| InterPro = IPR007369
+| SMART = 
+| PROSITE = 
+| MEROPS = A22
+| SCOP = 
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+{{Infobox protein family
+| Symbol = Peptidase_A24
+| Name = Peptidase_A24
+| image = 
+| width = 
+| caption = 
+| Pfam = PF01478
+| Pfam_clan = CL0130 
+| InterPro = IPR000045
+| SMART = 
+| PROSITE = 
+| MEROPS = A24
+| SCOP = 
+| TCDB = 
+| OPM family = 277
+| OPM protein = 3s0x
+| CAZy = 
+| CDD = 
+}}
+In molecular biology, the '''Signal Peptide Peptidase''' (SPP) is a type of protein that specifically cleaves parts of other proteins. It is an [[intramembrane protease|intramembrane]] [[aspartyl protease]] with the conserved active site [[Sequence motif|motifs]] 'YD' and 'GxGD' in adjacent [[transmembrane domain]]s (TMDs). Its sequences is highly conserved in different vertebrate species. SPP [[bond cleavage|cleave]]s remnant [[signal peptide]]s left behind in membrane by the action of [[signal peptidase]]<ref>{{cite journal |author=Weihofen A, Binns K, Lemberg MK, Ashman K, Martoglio B |title=Identification of signal peptide peptidase, a presenilin-type aspartic protease |journal=Science |volume=296 |issue=5576 |pages=2215–8 |year=2002 |pmid=12077416 |doi=10.1126/science.1070925}}</ref> and also plays key roles in [[immune system|immune]] surveillance and the maturation of certain [[viral protein]]s .<ref name="pmid12966028">{{cite journal | author = Martoglio B, Golde TE | title = Intramembrane-cleaving aspartic proteases and disease: presenilins, signal peptide peptidase and their homologs | journal = Hum. Mol. Genet. | volume = 12 Spec No 2 | issue = | pages = R201-6 | year = 2003 | month = October | pmid = 12966028 | doi = 10.1093/hmg/ddg303 | url = }}</ref>
+
+==Biological function==
+Physiologically SPP processes signal peptides of classical [[MHC class I]] preproteins. A nine amino acid-long cleavage fragment is then presented on [[HLA-E]] receptors and modulates the activity of [[natural killer cells]].<ref>{{cite journal |author=Lemberg MK, Bland FA, Weihofen A, Braud VM, Martoglio B |title=Intramembrane proteolysis of signal peptides: an essential step in the generation of HLA-E epitopes |journal=J. Immunol. |volume=167 |issue=11 |pages=6441–6 |year=2001 |pmid=11714810 |doi=}}</ref>
+
+SPP also plays a pathophysiological role; it cleaves the structural nucleocapsid protein (also known as core protein) of the [[Hepatitis C]] virus and thus influences viral reproduction rate.<ref>{{cite journal |author=Okamoto K, Mori Y, Komoda Y, Okamoto T, Okochi M, Takeda M, Suzuki T, Moriishi K, Matsuura Y |title=Intramembrane processing by signal peptide peptidase regulates the membrane localization of hepatitis C virus core protein and viral propagation |journal=J. Virol. |volume=82 |issue=17 |pages=8349–61 |year=2008 |pmid=18562515 |doi=10.1128/JVI.00306-08 |pmc=2519675}}</ref> 
+
+In mice, a nonamer peptide originating from the SPP protein serves as minor histocompatibility antigen [[HM13]] that plays a role in  [[transplant rejection]]<ref name="pmid5340356">{{cite journal | author = Snell GD, Cudkowicz G, Bunker HP | title = Histocompatibility genes of mice. VII. H-13, a new histocompatibility locus in the fifth linkage group | journal = Transplantation | volume = 5 | issue = 3 | pages = 492–503 | year = 1967 | month = Jun | pmid = 5340356| pmc =  | doi =  10.1097/00007890-196705000-00011}}</ref><ref name="entrez">{{cite web | title = Entrez Gene: H13 histocompatibility (minor) 13| url = http://www.ncbi.nlm.nih.gov/gene/14950| accessdate = }}</ref>  
+
+The homologous proteases [[SPPL2A]] and [[SPPL2B]] promote the intramembrane cleavage of [[Tumor necrosis factor-alpha|TNFα]] in activated [[dendritic cells]] and might play an [[immunomodulator]]y role.<ref>{{cite journal |author=Friedmann E, Hauben E, Maylandt K, ''et al.'' |title=SPPL2a and SPPL2b promote intramembrane proteolysis of TNFα in activated dendritic cells to trigger IL-12 production |journal=Nat. Cell Biol. |volume=8 |issue=8 |pages=843–8 |year=2006 |pmid=16829952 |doi=10.1038/ncb1440}}</ref><ref>{{cite journal |author=Fluhrer R, Grammer G, Israel L, ''et al.'' |title=A gamma-secretase-like intramembrane cleavage of TNFalpha by the GxGD aspartyl protease SPPL2b |journal=Nat. Cell Biol. |volume=8 |issue=8 |pages=894–6 |year=2006 |pmid=16829951 |doi=10.1038/ncb1450}}</ref> For SPPL2c and SPPL3 no substrates are known.
+
+SPPs do not require [[Cofactor (biochemistry)|cofactors]] as demonstrated by [[gene expression|expression]] in [[Zinc dependent phospholipase C|bacteria]] and purification of a proteolytically active form. The C-terminal region defines the functional domain, which is in itself sufficient for [[proteolytic]] activity.<ref name="pmid17517891">{{cite journal | author = Narayanan S, Sato T, Wolfe MS | title = A C-terminal region of signal peptide peptidase defines a functional domain for intramembrane aspartic protease catalysis | journal = J. Biol. Chem. | volume = 282 | issue = 28 | pages = 20172–9 | year = 2007 | month = July | pmid = 17517891 | doi = 10.1074/jbc.M701536200 | url = }}</ref>
+
+==Type IV leader peptidase==
+Another family of signal aspartic endopeptidases was found in bacteria. [[Zinc dependent phospholipase C|Bacteria]] produce a number of protein [[Protein precursor|precursor]]s that undergo [[translation (genetics)|post-translational]] [[methylation]] and [[proteolysis]] prior to [[secretion]] as active proteins. Type IV prepilin leader peptidases are [[enzymes]] that mediate this type of [[post-translational modification]]. Type IV pilin is a protein found on the surface of ''[[Pseudomonas]] aeruginosa'', ''Neisseria gonorrhoeae'' and other Gram-negative pathogens. Pilin [[protein subunit|subunits]] attach the infecting [[organism]] to the surface of host [[epithelial cell]]s. They are synthesised as prepilin subunits, which differ from mature pilin by virtue of containing a 6-8 [[Residue (chemistry)|residue]] leader peptide consisting of charged [[amino acids]]. Mature type IV pilins also contain a [[Methylation|methylated]] N-terminal [[phenylalanine]] [[Residue (chemistry)|residue]].
+
+The bifunctional enzyme prepilin peptidase (PilD) from ''Pseudomonas aeruginosa'' is a key determinant in both type-IV [[pilus]] [[biogenesis]] and [[extracellular]] protein secretion, in its roles as a leader peptidase and [[methyl]] transferase (MTase). It is responsible for endopeptidic [[Bond cleavage|cleavage]] of the unique leader [[peptide]]s that characterise type-IV pilin precursors, as well as [[protein|proteins]] with [[Homology (biology)|homologous]] [[Five prime untranslated region|leader sequence]]s that are essential components of the general secretion pathway found in a variety of Gram-negative [[pathogen]]s. Following removal of the leader peptides, the same enzyme is responsible for the second [[posttranslational modification]] that characterises the type-IV pilins and their homologues, namely N-methylation of the newly exposed N-terminal [[Amino acid#Chemical properties|amino acid]] [[residue (chemistry)|residue]].<ref name="pmid9224881">{{cite journal | author = Lory S, Strom MS | title = Structure-function relationship of type-IV prepilin peptidase of Pseudomonas aeruginosa--a review | journal = Gene | volume = 192 | issue = 1 | pages = 117–21 | year = 1997 | month = June | pmid = 9224881 | doi = 10.1016/S0378-1119(96)00830-X| url = }}</ref> 
+
+==See also==
+*[[Leader peptidase A]]
+*[[Presenilin]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* {{cite journal |author=Paetzel M, Karla A, Strynadka NC, Dalbey RE |title=Signal peptidases |journal=Chem. Rev. |volume=102 |issue=12 |pages=4549–80 |year=2002 |pmid=12475201 |doi=10.1021/cr010166y}}
+
+==External links==
+* The [[MEROPS]] online database for peptidases and their inhibitors: SPP:[http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=A22.003 A22.003], SPPL2a: [http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=A22.007 A22.007], SPPL2b:[http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=A22.004 A22.004], SPPL2c:[http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=A22.006 A22.006], SPPL3:[http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=A22.005 A22.005]
+* {{UMichOPM|families|superfamily|178}} - Calculated spatial position of type 1 signal peptidase in membrane
+* {{MeshName|signal+peptide+peptidase}}
+
+{{Aspartic acid proteases}}
+
+[[Category:Integral membrane proteins]]
+[[Category:Protein targeting]]
+[[Category:Hydrolases]]
+[[Category:Peptidase]]
+
+{{protein-stub}}

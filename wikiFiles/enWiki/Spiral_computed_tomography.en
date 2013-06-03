@@ -1,0 +1,44 @@
+{{Diagnostic infobox |
+  Name        = Spiral computed tomography |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = |
+  MeshID      = D036542 |
+  OPS301      = |
+  OtherCodes  = |
+}}
+'''Spiral computed tomography''' is a [[computed tomography]]<ref>[http://cobweb.ecn.purdue.edu/~malcolm/pct/pct-toc.html Avinash C. Kak and Malcolm Slaney] (2001). [http://www.ec-securehost.com/SIAM/CL33.html Principles of Computerized Tomographic Imaging]. [http://www.siam.org/ Society for Industrial and Applied Mathematics] ISBN 978-0-89871-494-4 / ISBN 0-89871-494-X. </ref> technology involving movement in a helical pattern for the purpose of increasing resolution. Most modern hospitals currently use spiral CT scanners.
+
+CT beam types have included parallel beams, fan-beams, and cone-beams.<ref name="Bovik2009">{{cite book|author=Alan Conrad Bovik|title=The essential guide to image processing|url=http://books.google.com/books?id=6TOUgytafmQC&pg=PA743|accessdate=4 June 2011|year=2009|publisher=Academic Press|isbn=978-0-12-374457-9|pages=743–}}</ref>
+
+==SSCT and MSCT==
+[[Willi Kalender]], who is credited with the invention prefers the term ''Spiral'' scan CT,<ref> [[Willi Kalender|Kalender WA]] (1994). [http://www.semultrasoundctmri.com/article/S0887-2171(05)80091-5/abstract "Technical foundations of spiral CT"] [http://www.semultrasoundctmri.com Semin Ultrasound CT MR] '''15''': (2) 81-89.</ref> arguing that spiral is  [[synonym]]ous with helical: for example as used in 'spiral staircase'.<ref>[[Willi Kalender|Kalender WA]] (1994). [http://radiology.rsna.org/content/193/2/583.full.pdf+html?ijkey=b25555713a8404ca06ce7e473ad9db56e8e56b04&keytype2=tf_ipsecsha "Spiral or helical CT: right or wrong?"] [http://radiology.rsna.org/ Radiology] '''193''': (2) 583.</ref>
+
+Since its invention by Kalender in the 1980s, helical scan CT machines have steadily increased the number of rows of detectors (slices) they deploy. The [[prototype]] 16 multi-slice scanner was introduced in 2001 and in 2004, 64 multislice scanners are on the market. These can produce an image in less than a second and thus can obtain images of the heart and its [[blood]] vessels ([[coronary]] vessels) as if frozen in time.
+
+The earliest devices, developed in 1989, were called "SSCT", for "single-slice spiral computed tomography". In 1998, "MSCT" or "multi-slice spiral computed tomography" was introduced.<ref name="Cierniak2011">{{cite book|author=Robert Cierniak|title=X-Ray Computed Tomography in Biomedical Engineering|url=http://books.google.com/books?id=XeMtD6lCDcsC&pg=PA31|accessdate=4 June 2011|date=12 January 2011|publisher=Springer|isbn=978-0-85729-026-7|pages=31–}}</ref>
+
+==Helical (or spiral) cone beam computed tomography==
+{{See|Cone beam computed tomography}}
+In cone-beam computed tomography (commonly abbreviated ''CBCT''), the x-ray beam is conical.<ref>{{MeshName|Helical+Cone-Beam+CT}}</ref>
+
+'''Helical (or spiral) cone beam computed tomography''' is a type of three dimensional [[computed tomography]] (CT) in which the source (usually of [[x-ray]]s) describes a [[helix|helical]] trajectory relative to the object while a two dimensional array of detectors measures the transmitted radiation on part of a cone of rays emanating from the source.
+
+In practical helical cone beam x-ray CT machines, the source and array of detectors are mounted on a rotating gantry while the patient is moved axially at a uniform rate. Earlier x-ray CT scanners imaged one slice at a time by rotating source and one dimensional array of detectors while the patient remained static. The helical scan method reduces the x-ray dose to the patient required for a given resolution while scanning more quickly. This is however at the cost of greater mathematical complexity in the [[Tomographic_reconstruction|reconstruction of the image]] from the measurements.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.radiologymalaysia.org/Content/2006/Public/Pioneers/WAKalender/index.html Interview with Kalender]
+*[http://cobweb.ecn.purdue.edu/~malcolm/pct/pct-toc.html Principles of Computerized Tomographic Imaging]
+
+{{Medical imaging}}
+{{Respiratory system procedures}}
+{{Use dmy dates|date=June 2011}}
+[[Category:X-ray computed tomography]]
+[[Category:Respiratory system imaging]]
+
+[[de:Computertomographie#Spiral- oder Helix-CT]]
+[[fa:مقطع‌نگاری رایانه‌ای با اشعه مخروطی]]

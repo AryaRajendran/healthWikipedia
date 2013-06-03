@@ -1,0 +1,64 @@
+{{Taxobox
+| image = vibrio_cholerae.jpg
+| image_width = 300px
+| image_caption = [[Transmission electron microscope|TEM]] image
+| domain = [[Bacteria]]
+| phylum = [[Proteobacteria]]
+| classis = [[Gammaproteobacteria]]
+| ordo = Vibrionales
+| familia = [[Vibrionaceae]]
+| genus = ''[[Vibrio]]''
+| species = '''''V. cholerae'''''
+| binomial = ''Vibrio cholerae''
+| binomial_authority = Pacini 1854
+}}
+'''''Vibrio cholerae''''' is a [[Gram-negative]], comma-shaped [[bacterium]]. Some strains of ''V. cholerae'' cause the disease [[cholera]]. ''V. cholerae'' is [[Facultative anaerobic organism|facultatively anaerobic]] and has a [[flagellum]] at one cell pole. ''V. cholerae'' was first isolated as the cause of [[cholera]] by Italian anatomist [[Filippo Pacini]] in 1854, but his discovery was not widely known until [[Robert Koch]], working independently 30 years later, publicized the knowledge and the means of fighting the disease.<ref>{{cite journal |last1=Bentivoglio |first1=M |last2=Pacini |first2=P |title=Filippo Pacini: A determined observer |journal=Brain Research Bulletin |volume=38 |issue=2 |pages=161–5 |year=1995 |pmid=7583342 |doi=10.1016/0361-9230(95)00083-Q}}</ref><ref>{{cite journal |last1=Howard-Jones |first1=N |title=Robert Koch and the cholera vibrio: a centenary |journal=BMJ |volume=288 |issue=6414 |pages=379–81 |doi=10.1136/bmj.288.6414.379 |year=1984 |pmid=6419937 |pmc=1444283}}</ref>
+
+==Pathogenesis==
+''V. cholerae'' [[pathogenicity]] genes code for proteins directly or indirectly involved in the virulence of the bacteria. During infection, ''V. cholerae'' secretes [[cholera toxin]], a [[protein]] that causes profuse, watery [[diarrhea]]. Colonization of the small intestine also requires the toxin coregulated [[pilus]] (TCP), a thin, flexible, filamentous appendage on the surface of bacterial cells.
+
+==Genome==
+''V. cholerae'' has two circular [[chromosomes]], together totalling 4 million [[base pairs]] of [[DNA]] sequence and 3,885 predicted [[genes]].<ref>{{cite journal |last1=Fraser |first1=Claire M. |last2=Heidelberg |first2=John F. |last3=Eisen |first3=Jonathan A. |last4=Nelson |first4=William C. |last5=Clayton |first5=Rebecca A. |last6=Gwinn |first6=Michelle L. |last7=Dodson |first7=Robert J. |last8=Haft |first8=Daniel H. |last9=Hickey |first9=Erin K. |title=DNA sequence of both chromosomes of the cholera pathogen Vibrio cholerae |journal=Nature |volume=406 |issue=6795 |pages=477–83 |year=2000 |pmid=10952301 |doi=10.1038/35020000}}</ref> The genes for cholera toxin are carried by CTXphi (CTXφ), a [[temperateness (virology)|temperate]] [[bacteriophage]] inserted into the ''V. cholerae'' genome. CTXφ can transmit cholera toxin genes from one ''V. cholerae'' strain to another, one form of [[horizontal gene transfer]]. The genes for toxin coregulated pilus are coded by the VPI [[pathogenicity island]] (VPIφ).
+
+===Bacteriophage CTXφ===
+CTXφ (also called CTXphi) is a [[filamentous phage]] that contains the genes for cholera toxin. Infectious CTXφ particles are produced when ''V. cholerae'' infects humans. Phage particles are secreted from bacterial cells without [[lysis]]. When CTXφ infects ''V. cholerae'' cells, it integrates into specific sites on either chromosome. These sites often contain tandem arrays of integrated CTXφ prophage. In addition to the ''ctxA'' and ''ctxB'' genes encoding cholera toxin, CTXφ contains eight genes involved in phage reproduction, packaging, secretion, integration, and regulation. The CTXφ genome is 6.9 kb long.<ref>{{cite journal |last1=McLeod |first1=S. M. |last2=Kimsey |first2=H. H. |last3=Davis |first3=B. M. |last4=Waldor |first4=M. K. |title=CTXφ and ''Vibrio cholerae'': exploring a newly recognized type of phage-host cell relationship |journal=Molecular Microbiology |volume=57 |pages=347–356 |year=2005 |pmid=15978069 |doi=10.1111/j.1365-2958.04676.x}}</ref>
+
+===VPI pathogenicity island===
+The VPI pathogenicity island contains genes involved in the creation of toxin coregulated pilus (TCP). It is a large genetic element (~40 kb) flanked by two repetitive regions (''att''-like sites), resembling a [[transposon]] in structure. The VPI pathogenicity island is composed of two gene clusters: the TCP cluster and the ACF cluster. Among the genes of the VPI pathogenicity island, twenty genes have been identified, where some genes are outside of the clusters like ''tagA'', ''tagB'' and ''aldA''{{Clarify|date=April 2011}}.<ref>{{cite journal |last1=Karaolis |first1=David K. R. |last2=Somara |first2=Sita |last3=Maneval |first3=David R. |last4=Johnson |first4=Judith A. |last5=Kaper |first5=James B. |title=A bacteriophage encoding a pathogenicity island, a type-IV pilus and a phage receptor in cholera bacteria |journal=Nature |volume=399 |issue=6734 |pages=375–9 |year=1999 |pmid=10360577 |doi=10.1038/20715}}</ref> The ''acf'' cluster is composed of 4 genes: ''acfABC'' and ''tagE'', encoding a putative accessory colonization factor activated by toxR. The ''tcp'' cluster is composed of 15 genes: ''tcpABCDEFHIJPQRST'' and regulatory gene ''toxT''.
+
+==Ecology and epidemiology==
+The main reservoirs of ''V. cholerae'' are people and aquatic sources such as brackish water and estuaries, often in association with copepods or other zooplankton, shellfish, and aquatic plants. 
+
+Cholera infections are most commonly acquired from drinking water in which ''V. cholerae'' is found naturally or into which it has been introduced from the feces of an infected person. Other common vehicles include contaminated fish and shellfish, produce, or leftover cooked grains that have not been properly reheated. Transmission from person to person, even to health care workers during epidemics, is rarely documented.
+
+==Diversity and evolution==
+Two [[serotype|serogroups]] of ''V. cholerae'', O1 and O139, cause outbreaks of cholera.  O1 causes the majority of outbreaks, while O139 – first identified in [[Bangladesh]] in 1992 – is confined to South-East Asia. Many other serogroups of ''V. cholerae'', with or without the cholera toxin gene (including the nontoxigenic strains of the O1 and O139 serogroups), can cause a cholera-like illness. Only toxigenic strains of serogroups O1 and O139 have caused widespread epidemics. 
+
+''V. cholerae'' O1 has 2 biotypes, classical and [[El Tor]], and each biotype has 2 distinct serotypes, Inaba and Ogawa. The symptoms of infection are indistinguishable, although more people infected with the El Tor biotype remain asymptomatic or have only a mild illness. In recent years, infections with the classical biotype of ''V. cholerae'' O1 have become rare and are limited to parts of Bangladesh and [[India]].<ref>{{cite journal |last1=Siddique |first1=A.K. |last2=Baqui |first2=A.H. |last3=Eusof |first3=A. |last4=Haider |first4=K. |last5=Hossain |first5=M.A. |last6=Bashir |first6=I. |last7=Zaman |first7=K. |title=Survival of classic cholera in Bangladesh |journal=The Lancet |volume=337 |issue=8750 |pages=1125–1127 |year=1991 |doi=10.1016/0140-6736(91)92789-5}}</ref> Recently, new variant strains have been detected in several parts of Asia and Africa. Observations suggest that these strains cause more severe cholera with higher case fatality rates.
+
+==Gallery==
+<center><gallery widths="275px" heights="225px">
+File:Cholera bacteria SEM.jpg|''Vibrio cholera'' bacteria
+File:Vibrio diagram.png|Diagram of the bacterium, ''V. cholerae''
+</gallery></center>
+
+==See also==
+{{Portal|Molecular and Cellular Biology}}
+*[[Drinking water]]
+{{clear}}
+
+==References==
+'''Notes'''
+{{Reflist}}
+
+==External links==
+* [http://www.nsf.gov/news/speeches/colwell/rc01_anatlesson/tsld024.htm Copepods and cholera in untreated water]
+* [http://cmr.jcvi.org/cgi-bin/CMR/GenomePage.cgi?org=gvc Vibrio cholerae El Tor N16961 Genome Page]
+* [http://www.patho-genes.org Patho-Genes Homepage]
+{{cholera}}
+{{Gram-negative bacterial diseases}}
+
+{{DEFAULTSORT:Vibrio Cholerae}}
+[[Category:Vibrionales]]
+[[Category:Gram-negative bacteria]]
+[[Category:Cholera]]

@@ -1,0 +1,57 @@
+{{merge|positron emission tomography|date=May 2012}}
+{{Unreferenced|date=January 2008}}
+
+{{Diagnostic infobox |
+  Name        = PET-CT |
+  Image       = Viewer medecine nucleaire keosys.JPG |
+  Caption     = A complete body PET / CT Fusion image |
+  ICD10       = |
+  ICD9        = |
+  MeshID      = |
+  OPS301      = {{OPS301|3-75}} |
+  OtherCodes  = |
+}}
+[[Image:Pet-ct-images.jpg|thumb|150px|A - CT image; B - PET image; C - Coregistered PET and CT images. The bright red/yellow masses show hypermetabolic areas of the [[human pelvis|pelvis]] with metastases of a previous, surgically removed [[colon carcinoma]] in a 69-yrs old woman.]]
+[[File:PET-CT Siemens Biograph01.jpg|thumb|Siemens Biograph PET-CT scanner]]
+'''Positron emission tomography - computed tomography''' (better known by its acronym '''PET-CT''' or '''PET/CT''') is a [[medical imaging]] technique using a device which combines in a single [[gantry]] system both a [[Positron Emission Tomography]] (PET) and an [[x-ray]] [[Computed Tomography]], so that images acquired from both devices can be taken sequentially, in the same session from the patient and combined into a single superposed ([[image registration|co-registered]]) image. Thus, [[functional imaging]] obtained by PET, which depicts the spatial distribution of [[metabolism|metabolic]] or [[biochemistry|biochemical]] activity in the body can be more precisely aligned or correlated with anatomic imaging obtained by CT scanning. Two- and three-dimensional [[image reconstruction]] may be rendered as a function of a common [[software]] and control system.
+
+PET-CT has revolutionized many fields of [[medical diagnosis]], by adding precision of anatomic localization to functional imaging, which was previously lacking from pure PET imaging. For example, in [[oncology]], [[surgical planning]], [[radiation therapy]] and [[cancer staging]] have been changing rapidly under the influence of PET-CT availability, to the extent that many diagnostic imaging procedures and centers have been gradually abandoning conventional PET devices and substituting them by PET-CTs. Although the combined/hybrid device is considerably more expensive, it has the advantage of providing both functions as stand-alone examinations, being, in fact, two devices in one.
+
+The only other obstacle to a wider dissemination of PET-CT is the difficulty and cost of producing and transporting the [[radiopharmaceutical]]s used for PET imaging, which are usually extremely short-lived (for instance, the [[half life]] of radioactive [[fluorine]]<sub>18</sub> used to trace [[glucose]] metabolism (using [[fluorodeoxyglucose]], FDG) is two hours only. Its production requires a very expensive [[cyclotron]] as well as a production line for the radiopharmaceuticals.
+
+==Procedure for FDG imaging==
+
+An example of how PET-CT works in the work-up of FDG metabolic mapping follows:
+* Before the exam, the patient fasts for greater than 4-hours;
+* In the day of the exam, the patient rests lying for a minimum of 15 min, in order to quiet down [[muscle|muscular]] activity, which might be interpreted as abnormal metabolism;
+* An [[intravenous]] [[bolus]] injection of a dose of recently produced 2-FDG or 3-FDG is made, usually by a vein in one of the arms. Dosage ranges from 0.1 to 0.2 m[[Ci]] per kg of body weight;
+* After one or two hours, the patient is placed into the PET-CT device, usually lying in a [[supine position]] with his/her arms resting at the sides, or brought together above the head, depending on the main region of interest ([[ROI]])
+* An automatic bed moves head first into the gantry, first obtaining a [[topogram]], also called a scout view or surview, which is a kind of whole body flat [[sagittal]] section, obtained with the X-ray tube fixed into the upper position.
+* The operator uses the PET-CT computer console to identify the patient and examination, delimit the [[Caudal (anatomical term)|caudal]] and [[Anatomical terms of location#Directional terms|rostral]] limits of the body scan onto the scout view, selects the scanning parameters and starts the [[image acquisition]] period, which follows without human intervention;
+* The patient is automatically moved head first into the CT gantry, and the x-ray tomogram is acquired;
+* Now the patient is automatically moved through the PET gantry, which is mounted in parallel with the CT gantry, and the PET slices are acquired;
+* The patient may now leave the device, and the PET-CT software starts reconstructing and aligning the PET and CT images.
+
+A whole body scan, which usually is made from mid-thighs to the top of the head, takes from 5 minutes to 40 minutes depending on the acquisition protocol and technology of the equipment used. FDG imaging protocols acquires slices with a thickness of 2 to 3&nbsp;mm. Hypermetabolic lesions are shown as [[false color]]-coded [[pixel]]s or [[voxel]]s onto the gray-value coded CT images. [[Standardized Uptake Value]]s are calculated by the software for each hypermetabolic region detected in the image. It provides a quantification of size of the lesion, since functional imaging does not provide a precise anatomical estimate of its extent. The CT can be used for that, when the lesion is also visualized in its images (this is not always the case when hypermetabolic lesions are not accompanied by anatomical changes).
+
+FDG doses in quantities sufficient to carry out 4-5 examinations are delivered daily, twice or more times per day, by the provider to the diagnostic imaging center.
+
+For uses in [[stereotactic]] radiation therapy of cancer, special [[fiducial mark]]s are placed in the patient's body before acquiring the PET-CT images. The slices thus acquired may be transferred digitally to a [[linear accelerator]] which is used to perform precise bombardment of the target areas using high energy photons ([[radiosurgery]]).
+
+==See also==
+* [[Positron emission tomography]]
+* [[Nuclear medicine]]
+* [[Single photon emission computed tomography]]
+* [[Neuroimaging]]
+* [[Imaging in cancer]]
+
+==External links==
+* [http://nucleus.iaea.org/HHW/NuclearMedicine/Oncology/index.html Human Health Campus, The official website of the International Atomic Energy Agency dedicated to Professionals in Radiation Medicine. This site is managed by the Division of Human Health, Department of Nuclear Sciences and Applications]
+* [http://www.med.harvard.edu/JPNM/chetan/petct/petct.html How PET CT works] - from Harvard Medical School
+* [http://www.med.harvard.edu/JPNM/chetan/lungca/ PET CT for evaluation of Lung Cancer] - from Harvard Medical School
+
+{{Medical imaging}}
+
+[[Category:3d nuclear medical imaging]]
+[[Category:Neuroimaging]]
+[[Category:Medical physics]]

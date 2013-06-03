@@ -1,0 +1,26 @@
+{{other uses|Tetramer}}
+A '''tetramer''' is a [[protein]] with four subunits (tetrameric). There are [[homotetramer]]s (all [[Protein subunit|subunit]]s are identical) such as [[glutathione S-transferase]] or [[single-strand binding protein]], dimers of hetero-dimers such as [[hemoglobin]] (a [[protein dimer|dimer]] of an alpha/beta [[protein dimer|dimer]]), and [[heterotetramer]]s, where each subunit is different.
+
+==Subunit interactions in tetramers==
+The interactions between subunits forming a tetramer is primarily determined by non covalent interaction.<ref name="pmid19177216">{{cite journal | author = Hellgren M, Kaiser C, de Haij S, Norberg A, Höög JO. | title =A hydrogen-bonding network in mammalian sorbitol dehydrogenase stabilizes the tetrameric state and is essential for the catalytic power. | journal = Cell. Mol. Life Sci. (CMLS) | volume = 64 | issue = 23 | pages = 3129–3138 | year = 2007 | pmid = 17952367 | doi = 10.1007/s00018-007-7318-1| url =  }}</ref> [[Hydrophobic effect]]s, [[hydrogen bond]]s and [[electrostatic interaction]]s are the primary sources for this binding process between subunits. For homotetrameric proteins such as [[Sorbitol dehydrogenase]] (SDH), the structure is believed to have evolved going from a monomeric to a dimeric and finally a tetrameric structure in evolution.  The binding process in SDH and many other tetrameric enzymes can be described by the gain in [[Gibbs free energy|free energy]] which can be determined from the rate of association and dissociation.<ref name="pmid19177216"/>  
+The following image shows the assembly of the four subunits (A,B,C and D) in SDH. 
+[[File:Monomer Dimer Tetramer SDH.jpg]]
+
+==Hydrogen bonds between subunits==
+Hydrogen bonding networks between subunits has been shown to be important for the stability of the tetrameric [[protein quaternary structure|quaternary protein structure]]. For example a study of SDH which used diverse methods such as protein [[sequence alignment]]s, structural comparisons, energy calculations, gel filtration experiments and enzyme kinetics experiments, could reveal an important hydrogen bonding network which stabilizes the tetrameric quaternary structure in [[mammal]]ian SDH.<ref name="pmid19177216"/>
+
+==Tetramers in immunology==
+
+In [[immunology]], MHC tetramers can be used to quantify numbers of antigen-specific [[T cell]]s (especially CD8+ T cells).  MHC tetramers are based on recombinant [[Class I MHC|class I molecules]] that, through the action of bacterial BirA, have been biotinylated.  These molecules are folded with the peptide of interest and β2M and tetramerized by a fluorescently labeled [[streptavidin]]. (Streptavidin binds to four [[biotin]]s per molecule.) This tetramer reagent will specifically label T cells that express T cell receptors that are specific for a given peptide-MHC complex. For example, a Kb/FAPGNYPAL tetramer will specifically bind to Sendai virus specific [[cytotoxic T cell]]  in a C57BL/6 mouse. Antigen specific responses can be measured as CD8+, tetramer+ T cells as a fraction of all CD8+ lymphocytes.
+
+The reason for using a tetramer, as opposed to a single labeled MHC class I molecule is that the tetrahedral tetramers can bind to three [[T cell receptor|TCRs]] at once, allowing specific binding in spite of the low (10-6 molar) affinity of the typical class I-peptide-TCR interaction.
+[[MHC class II]] tetramers can also be made although these are more difficult to work with practically.{{citation needed|date=May 2011}}
+
+== References ==
+{{reflist}}
+
+==External links==
+* [http://www.tcells.org/pMHCtetramers.html T-cell Group - Cardiff University]
+
+[[Category:Immunology]]
+[[Category:Proteins]]

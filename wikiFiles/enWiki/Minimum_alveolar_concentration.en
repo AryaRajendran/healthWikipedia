@@ -1,0 +1,44 @@
+'''Minimum alveolar concentration''' or '''MAC''' is a concept used to compare the strengths, or [[Potency (pharmacology)|potency]], of anaesthetic [[Volatile anaesthetic|vapours]];<ref name="urlPolicy: Ban on Use of Ether | Guidelines and Policies | Laboratory Animal Science Center | Laboratory Animal Care and Use Facility | Office of Research Compliance">{{cite web |url=http://www.bu.edu/research/compliance/lacu/lasc/guidelines-policies/appendix21.shtml |title=Policy: Ban on Use of Ether | Guidelines and Policies | Laboratory Animal Science Center | Laboratory Animal Care and Use Facility | Office of Research Compliance |work= |accessdate=2008-11-10 |archiveurl = http://web.archive.org/web/20080609202527/http://www.bu.edu/research/compliance/lacu/lasc/guidelines-policies/appendix21.shtml <!-- Bot retrieved archive --> |archivedate = 2008-06-09}}</ref> in simple terms, it is defined as the concentration of the vapour in the [[lung]]s that is needed to prevent movement (motor response) in 50% of subjects in response to surgical (pain) stimulus. Thus, it is actually a ''median'' value; the use of ''minimum'' would appear to be descended from the original paper in which the concept appeared, although the term there was '''''minimal'' alveolar concentration'''. A lower MAC value represents a more potent volatile anesthetic.
+
+The concept was introduced in 1965.<ref>{{cite journal |author=Eger EI, Saidman LJ, Brandstater B |title=Minimum alveolar anesthetic concentration: a standard of anesthetic potency |journal=Anesthesiology |volume=26 |issue=6 |pages=756–63 |year=1965 |pmid=5844267 |doi= 10.1097/00000542-196511000-00010|url=}}</ref>
+
+Other uses of MAC include MAC-BAR (1.7-2.0 MAC), which is the concentration required to block [[Autonomic nervous system|autonomic]] reflexes to [[Nociception|nociceptive stimuli]], and MAC-awake (0.3-0.5 MAC), the concentration required to block voluntary reflexes and control perceptive awareness.
+
+==Formal definition==
+
+The MAC is the concentration of the vapour (measured as a percentage at 1 atmosphere, i.e. the [[partial pressure]]) that prevents the reaction to a standard surgical stimulus (traditionally a set depth and width of skin incisions) in 50% of subjects. This measurement is done at steady state (assuming a constant alveolar concentration for 15 minutes), under the assumption that this allows for an equilibration between the gasses in the [[alveoli]], the [[blood]] and the [[brain]]. MAC is accepted as a valid measure of potency of inhalational general anaesthetics because it remains fairly constant for a given species even under varying conditions.
+MACbar,the end-tidal concentration inhibiting autonomic reflexes to pain in 50% of subjects(1.3 MAC of isoflurane)
+
+==Meyer-Overton hypothesis==<!-- This section is linked from [[Nitrogen narcosis]] -->
+{{see also|Theories of general anaesthetic action}}
+The MAC of a volatile substance is inversely proportional to its [[lipid]] solubility (oil:gas coefficient), in most cases. This is the '''Meyer-Overton hypothesis''' put forward in 1899–1901 by [[Hans Horst Meyer]] and Charles Ernest Overton. MAC is inversely related to potency i.e. '''high mac equals low potency.'''
+
+The hypothesis correlates lipid solubility of an anaesthetic agent with potency (1/MAC) and suggests that onset of anaesthesia occurs when sufficient molecules of the anaesthetic agent have dissolved in the cell's lipid membranes, resulting in anaesthesia. Exceptions to the Meyer-Overton hypothesis can result from:
+
+* convulsant property of an agent
+* specific receptor (various agents may exhibit an additional effect through specific receptors)
+* co-administration of Alpha<sub>2</sub> agonists (dexmedetomidine) and/or opioid receptor agonists (morphine/fentanyl) can decrease the MAC<ref>* {{cite journal |author=Daniel M, Weiskopf RB, Noorani M, Eger EI |title=Fentanyl augments the blockade of the sympathetic response to incision (MAC-BAR) produced by desflurane and isoflurane: desflurane and isoflurane MAC-BAR without and with fentanyl |journal=Anesthesiology |volume=88 |issue=1 |pages=43–9 |year=1998 |month=January |pmid=9447854 |doi= 10.1097/00000542-199801000-00009|url=http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0003-3022&volume=88&issue=1&spage=43}}</ref><ref>{{cite journal |author=Katoh T, Kobayashi S, Suzuki A, Iwamoto T, Bito H, Ikeda K |title=The effect of fentanyl on sevoflurane requirements for somatic and sympathetic responses to surgical incision |journal=Anesthesiology |volume=90 |issue=2 |pages=398–405 |year=1999 |month=February |pmid=9952144 |doi= 10.1097/00000542-199902000-00012|url=http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0003-3022&volume=90&issue=2&spage=398}}</ref>
+* Mullin's critical volume hypothesis
+* Positive modulation of [[GABA]] at GABA<sub>A</sub> receptors by barbiturates or benzodiazepines
+
+==Altered MAC==
+Certain physiological and pathological states may alter MAC. MAC is higher in infants and lower in the elderly. Also, MAC increases with hyperthermia, alcoholism and [[thyrotoxicosis]]. Likewise, hypothermia, hypotension (MAP < 40 mmHg),  and pregnancy seem to decrease MAC. Duration of anesthesia, gender, height and weight seem to have little effect on MAC. Opioid analgesics and sedative-hypnotics, often used as adjuvants to anesthesia, decrease MAC. It should also be noted that MAC values are additive. For instance, when applying 0.3 MAC of drug X and 1 MAC of drug Y the total MAC achieved is 1.3 MAC. In this way nitrous oxide is often used as a "carrier" gas to decrease the anesthetic requirement of other drugs.
+
+==Common MAC values==
+*[[Nitrous oxide]] - 104<ref name="MAC">* {{cite journal |author=Nickalls, R. W. D., & Mapleson, W. W. |title=Age-related iso-MAC charts for isoflurane, sevoflurane, and desflurane in man |journal=British Journal of Anaesthesia |volume=91 |issue=2 |pages=170–4 |year=2003 |month=August |pmid=12878613 |url=http://bja.oxfordjournals.org/cgi/content/full/91/2/170?view=long&pmid=12878613 |doi=10.1093/bja/aeg132}}</ref>
+*[[Xenon]] - 72
+*[[Desflurane]] - 6<ref name="MAC"/>
+*[[Ethyl Ether]] - 3.2
+*[[Sevoflurane]] - 2<ref name="MAC" />
+*[[Enflurane]] - 1.7
+*[[Isoflurane]] - 1.2<ref name="MAC" />
+*[[Halothane]] - 0.75<ref name="MAC" />
+*[[Chloroform]] - 0.5
+*[[Methoxyflurane]] - 0.16
+
+==References==
+{{reflist}}
+
+{{Anesthesia}}
+
+[[Category:Anesthesia]]

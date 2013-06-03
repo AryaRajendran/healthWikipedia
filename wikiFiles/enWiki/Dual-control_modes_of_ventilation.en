@@ -1,0 +1,31 @@
+[[File:Pressure regulated volume control graphic.jpg|400px|right|pressure-regulated volume control]]
+'''Dual-control modes of ventilation''' are auto-regulated [[pressure control|pressure-controlled]] [[modes of mechanical ventilation]] with a user-selected [[tidal volume]] target. The ventilator adjusts the pressure limit of the next breath as necessary according to the previous breath's measured exhaled tidal volume. Peak airway pressure varies from breath-to-breath according to changes in the patient's [[airway resistance]] and [[pulmonary compliance|lung compliance]].
+
+The pressure waveform is square, and the flow waveform is decelerating. This mode is a form of [[continuous mandatory ventilation]] as a minimum number of passive breaths will be time-triggered, and patient-initiated breaths are time-cycled and regulated according to operator-set tidal volume.<ref>{{cite web|last=Byrd Jr|first=Ryland P|title=Mechanical Ventilation > Alternative Modes of Mechanical Ventilation > Dual-control, breath-to-breath, pressure-limited, time-cycled ventilation|url=http://emedicine.medscape.com/article/304068-overview#aw2aab6b8|work=Medscape Reference|publisher=Medscape|accessdate=9 June 2012}}</ref> 
+
+The first few breaths are delivered to the patient according to the ventilator manufacturer's particular algorithm for determining the patient's resistance and compliance. These are 'test breaths' that the ventilator can then use to calculate the optimal pressures for the next, regulated breaths. The pressure is constant during the set [[inspiratory time]] as with [[Controlled_mandatory_ventilation#Pressure-controlled_CMV|pressure controlled CMV]]. The ventilator will use the exhaled tidal volume measured at the end of that breath's expiratory phase to calculate the pressure of the next breath. If the exhaled tidal volume is lower than the software threshold, the next breath will be delivered at a higher pressure, and if the exhaled tidal volume is higher than the software threshold, the next breath will be delivered at a lower pressure. 
+
+The theory is to ensure that the lowest inspiratory pressure necessary to achieve the desired tidal volume is used. As a safety feature, the ventilator will not increase the pressure beyond a predetermined high pressure limit. This is usually tied to (but not the same as) the operator-set high pressure alarm setting. If the ventilator delivers a breath at this high pressure limit and is still unable to achieve the operator-desired exhaled tidal volume, an alarm will sound to warn the operator that the volume target cannot be met.
+
+==Advantages==
+
+*Adapts to the patient's resistance and compliance on a breath-by-breath basis
+*Tidal volume varies less than with pressure-controlled CMV (PC-CMV)
+*As inspiratory flow is not limited, as with volume-controlled CMV (VC-CMV) 'assisted' breaths triggered by the patient are more comfortable for those with high inspiratory flow demands (as long as tidal volume is set appropriately, see below)
+
+==Disadvantages==
+
+*Varying mean airway pressure
+*When patient demand is increased (when the patient is short of breath) the ventilator will reduce the inspiratory pressure even though more support is needed, increasing the patient's work of breathing and discomfort
+
+==See also==
+*[[Mechanical ventilation]]
+*[[Modes of mechanical ventilation]]
+*[[Continuous mandatory ventilation]]
+
+==References==
+{{reflist}}
+
+{{Mechanical ventilation}}
+[[Category:Respiratory therapy]]
+[[Category:Mechanical ventilation]]

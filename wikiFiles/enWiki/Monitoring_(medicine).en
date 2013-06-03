@@ -1,0 +1,180 @@
+[[Image:Monitor (medical).jpg|thumb|250px|Display device of a medical monitor as used in [[anesthesia]].]]
+In medicine, '''monitoring''' is the observation of a disease, condition or one or several medical parameters over time.
+
+It can be performed by continuously measuring certain parameters by using a '''medical monitor''' (for example, by continuously measuring [[vital sign]]s by a bedside monitor), and/or by repeatedly performing [[medical test]]s (such as [[blood glucose monitoring]] with a [[glucose meter]] in people with [[diabetes mellitus]]).
+
+Transmitting data from a monitor to a distant monitoring station is known as [[telemetry]] or [[biotelemetry]].
+
+==Classification by target parameter==
+Monitoring can be classified by the target of interest, including:
+*'''[[Cardiac monitoring]]''', which generally refers to continuous [[electrocardiography]] with assessment of the patients condition relative to their cardiac rhythm. A small monitor worn by an ambulatory patient for this purpose is known as a [[Holter monitor]]. Cardiac monitoring can also involve [[cardiac output]] monitoring via an invasive [[Swan-Ganz catheter]].
+*'''[[Hemodynamic]] monitoring''', which monitors the [[blood pressure]] and [[blood flow]] within the circulatory system. Blood pressure can be measured either invasively through an inserted blood pressure [[transducer]] assembly, or noninvasively with an inflatable blood pressure cuff.
+*'''[[Respiratory monitoring]]''', such as:
+**[[Pulse oximetry]] which involves measurement of the saturated percentage of [[oxygen]] in the [[blood]], referred to as SpO2, and measured by an [[infrared]] finger cuff
+**[[Capnography]], which invoolves CO<sub>2</sub> measurements, referred to as [[EtCO2]] or end-tidal [[carbon dioxide]] concentration. The respiratory rate monitored as such is called AWRR or [[airway respiratory rate]])
+**Respiratory rate monitoring through a thoracic transducer belt, an ECG channel or via capnography
+*'''[[Neurological monitoring]]''', such as of [[intracranial pressure]]. Also, there are special patient monitors which incorporate the monitoring of brain waves ([[electroencephalography]], gas anesthetic concentrations, [[bispectral index]] (BIS), etc. They are usually incorporated into anesthesia machines. In [[neurosurgery]] intensive care units, brain EEG monitors have a larger multichannel capability and can monitor other physiological events, as well.
+*'''[[Blood glucose monitoring]]'''
+*'''[[Childbirth#Monitoring|Childbirth monitoring]]'''
+*'''[[Body temperature]] monitoring''' through an [[adhesive pad]] containing a [[thermoelectric]] transducer.
+
+{{anchor|monitor}}
+
+===Vital parameters===
+[[File:Maquet Flow-I anesthesia machine.jpg|thumb|An [[anesthetic machine]] with integrated systems for monitoring of several vital parameters, including [[blood pressure]] and [[heart rate]].]]
+Monitoring of [[vital parameters]] can include several of the ones mentioned above, and most commonly include at least [[blood pressure]] and [[heart rate]], and preferably also [[pulse oximetry]] and [[respiratory rate]]. Multimodal monitors that simultaneously measure and display the relevant vital parameters are commonly integrated into the bedside monitors in [[critical care unit]]s, and the [[anesthetic machine]]s in [[operating room]]s. These allow for continuous monitoring of a patient, with medical staff being continuously informed of the changes in general condition of a patient. Some monitors can even warn of pending fatal [[cardiac]] conditions before visible signs are noticeable to clinical staff, such as [[atrial fibrillation]] or [[premature ventricular contraction]] (PVC).
+
+==Medical monitor==
+A ''medical monitor'' or ''physiological monitor'' is a [[medical device]] used for monitoring. It can consist of one or more [[sensor]]s, processing components, [[display device]]s (which are sometimes in themselves called "monitors"), as well as communication links for displaying or recording the results elsewhere through a monitoring network.
+
+===Components===
+
+====Sensor====
+Sensors of medical monitors include [[biosensor]]s and mechanical sensors.
+
+====Translating component====
+The translating component of medical monitors is responsible for converting the signals from the sensors to a format that can be shown on the display device or transferred to an external display or recording device.
+
+====Display device====
+Physiological data are displayed continuously on a [[Cathode ray tube|CRT]], [[LED]] or [[LCD]] screen as [[data channel]]s along the time axis, They may be accompanied by [[numerical readout]]s of computed parameters on the original data, such as maximum, minimum and average values, pulse and respiratory frequencies, and so on. 
+
+Besides the tracings of physiological parameters along time (X axis), digital medical displays have automated [[numeric readout]]s of the peak and/or average parameters displayed on the screen.
+
+Modern medical display devices commonly use [[digital signal processing]] (DSP), which has the advantages of [[miniaturization]], [[portability]], and multi-parameter displays that can track many different vital signs at once.
+
+Old [[analog signal|analog]] patient displays, in contrast, were based on [[oscilloscope]]s, and had one channel only, usually reserved for electrocardiographic monitoring ([[ECG]]). Therefore, medical monitors tended to be highly specialized. One monitor would track a patient's [[blood pressure]], while another would measure [[pulse oximetry]], another the ECG. Later analog models had a second or third channel displayed in the same screen, usually to monitor [[Respiration (physiology)|respiration]] movements and [[blood pressure]]. These machines were widely used and saved many lives, but they had several restrictions, including sensitivity to [[electrical interference]], base level fluctuations, and absence of numeric readouts and alarms.
+
+====Communication links====
+Several models of multi-parameter monitors are networkable, i.e., they can send their output to a central ICU monitoring station, where a single staff member can observe and respond to several bedside monitors simultaneously. [[Ambulatory telemetry]] can also be achieved by portable, battery-operated models which are carried by the patient and which transmit their data via a [[wireless]] data connection.
+
+Digital monitoring has created the possibility, which is being fully developed, of integrating the physiological data from the patient monitoring networks into the emerging hospital [[electronic health record]] and digital charting systems, using appropriate [[health care standards]] which have been developed for this purpose by organizations such as [[IEEE]] and [[HL7]]. This newer method of charting patient data reduces the likelihood of human documentation error and will eventually reduce overall paper consumption. In addition, [[automated ECG interpretation]] incorporates diagnostic codes automatically into the charts. Medical monitor's [[embedded software]] can take care of the data coding according to these standards and send messages to the medical records application, which decodes them and incorporates the data into the adequate fields.
+
+Long-distance connectivity can avail for [[telemedicine]], which involves provision of [[health care|clinical health care]] at a distance.
+
+====Other components====
+A medical monitor can also have the function to produce an alarm (such as using audible signals) to alert the staff when certain criteria are set, such as when some parameter exceeds of falls the level limits.
+
+=== Mobile appliances ===
+An entirely new scope is opened with mobile carried monitors, even such in sub-skin carriage. This class of monitors delivers information gathered in body-area networking ([[Body Area Network|BAN]]) to e.g. [[smart phones]] and implemented [[autonomous agent]]s.
+
+==Interpretation of monitored parameters==
+Monitoring of clinical parameters is primarily intended to detect changes (or absence of changes) in the clinical status of an individual. For example, the parameter of [[oxygen saturation]] is usually monitored to detect changes in [[respiratory]] capability of an individual.
+
+===Change in status versus test variability===
+When monitoring a clinical parameters, differences between test results (or values of a continuously monitored parameter after a time interval) can reflect either (or both) an actual change in the status of the condition or a [[test-retest variability]] of the test method.
+
+In practice, the possibility that a difference is due to test-retest variability can almost certainly be excluded if the difference is larger than a predefined "critical difference". This "critical difference" (CD) is calculated as:<ref name=Fraser1989>{{cite pmid|2503170 }}</ref>
+
+<math>CD = K \times \sqrt{CV_a^2 + CV_i^2}</math>
+
+, where:<ref name=Fraser1989/>
+*''K'', is a factor dependent on the preferred probability level. Usually, it is set at 2.77, which reflects a 95% [[prediction interval]], in which case there is less than 5% probability that a test result would become higher or lower than the critical difference by test-retest variability in the absence of other factors.
+*''CV<sub>a</sub>'' is the anaytical variation
+*''CV<sub>i</sub>'' is the [[intra-individual variability]]
+
+For example, if a patient has a hemoglobin level of 100 g/L, the anaytical variation (''CV<sub>a</sub>'') is 1.8% and the intra-individual variability ''CV<sub>i</sub>'' is 2.2%, then the critical difference is 8.1 g/L. Thus, for changes of less than 8 g/L since a previous test, the possibility that the change is completely caused by test-retest variability may need to be considered in addition to considering effects of, for example, diseases or treatments.
+
+{|class="wikitable"
+|+ Critical differences for some [[blood test]]s<ref name=Fraser1989/>
+|-
+| [[Sodium]] || 3%
+|-
+| [[Potassium]] || 14%
+|-
+| [[Chloride]] || 4%
+|-
+| [[Urea]] || 30%
+|-
+| [[Creatinine]] || 14%
+|-
+| [[Calcium]] || 5%
+|-
+| [[Albumin]] || 8%
+|-
+| [[Fasting glucose]] || 15%
+|-
+| [[Amylase]] || 30%
+|-
+| [[Carcinoembryonic antigen]] || 69%
+|-
+| [[Glycosylated hemoglobin]] || 21%
+|-
+| [[Hemoglobin]] || 8%
+|-
+| [[Erythrocytes]] || 10%
+|-
+| [[Leukocytes]] || 32%
+|-
+| [[Platelets]] || 25%
+|}
+
+Critical differences for other tests include early morning urinary albumin concentration, with a critical difference of 40%.<ref name=Fraser1989/>
+
+==Techniques in development==
+{{Unreliable sources|date=October 2011}}
+The development of new techniques for monitoring is an advanced and developing field in [[smart medicine]], biomedical-aided [[integrative medicine]],  [[alternative medicine]], [[Personalized medicine|self-tailored]] [[preventive medicine]] and [[predictive medicine]] that emphasizes monitoring of comprehensive medical data of patients, people at risk and healthy people using advanced, smart, minimally [[Invasiveness of surgical procedures|invasive]]  [[Biomedical engineering|biomedical devices]], [[biosensors]], [[lab-on-a-chip]]  (in the future [[nanomedicine]]<ref>{{cite web|url=http://positivefuturist.com/archive/345.html|title=Healthcare 2030: disease-free life with home monitoring nanomedince|publisher=Positivefuturist.com}}</ref><ref>{{cite web|url=http://www.technologyreview.com/business/21047/|title=Nanosensors for Medical Monitoring.|publisher=Technologyreview.com}}</ref> devices like [[nanorobots]]) and advanced [[Artificial intelligence|computerized]] [[medical diagnosis]]  and early warning tools over a short clinical interview and [[medical prescription|drug prescription]].
+
+As [[biomedical research]], [[nanotechnology]] and [[nutrigenomics]] advances, realizing the human body's [[self-healing]] capabilities and the growing awareness of the limitations of [[Health intervention|medical intervention]] by chemical [[drugs]]-only approach of old school medical treatment, new researches that shows the enormous damage medications can cause,<ref>{{cite web|url=http://www.mindfreedom.org/kb/psychiatric-drugs/antipsychotics/neuroleptic-brain-damage|title=Brain Damage Caused by Neuroleptic Psychiatric Drugs|publisher=Mindfreedom.org}}</ref><ref>{{cite web|url=http://www.livestrong.com/article/202044-medications-that-can-cause-nerve-damage/|title=Medications That Can Cause Nerve Damage|publisher=Livestrong.com}}</ref> researchers are working to fulfill the need for a comprehensive further study and personal continuous [[clinical monitoring]] of health conditions while keeping legacy medical intervention as a last resort.
+
+In many medical problems, drugs offer temporary relief of symptoms while the [[Functional medicine|root]] of a medical problem remains unknown without enough data of all our [[biological system]]s<ref name=Hyman>{{cite book |last= Hyman|first= Mark |title=The UltraMind Solution: Fix Your Broken Brain by Healing Your Body First |publisher= Scribner |year= 2008 |month= December |isbn= 978-1-4165-4971-0}}</ref>
+. Our body is equipped with sub-systems for the purpose of  maintaining  balance and self healing functions. Intervention without sufficient data might damage those healing sub systems.<ref name=Hyman/> Monitoring medicine fills the gap to prevent diagnosis errors and can assist in future medical research by analyzing all [[data acquisition|data]] of many patients.
+[[File:CapsuleEndoscope.jpg|thumb|right|160px|[[Given Imaging]] [[Capsule endoscopy]]]]
+
+===Examples and applications===
+
+The development cycle in medicine is extremely long, up to 20 years, because of the need for U.S. [[Food and Drug Administration]] (FDA) approvals, therefore many of monitoring medicine solutions are not available today in conventional medicine.
+
+[[File:PASCAL tonometer.jpg|thumb|The PASCAL Dynamic Contour Tonometer. A monitor for detection of increased [[intraocular pressure]].]]
+;Blood glucose monitoring
+:[[In vivo]] [[blood glucose monitoring]] devices can transmit data to a computer that can assist with daily life suggestions for [[Lifestyle (sociology)|lifestyle]] or [[nutrition]] and with the  [[physician]] can make suggestions for further study in people who are at risk  and help prevent [[diabetes mellitus type 2]] .<ref>{{cite web|url=http://www.biomedcentral.com/1471-2458/10/15|title=Blood glucose testing and primary prevention of diabetes mellitus type 2 - evaluation of the effect of evidence based patient information.|publisher=BMC Public health}}</ref>
+;Stress monitoring
+:Bio sensors may provide warnings when stress levels signs are rising before human can notice it and provide alerts and suggestions.<ref>{{cite web|url=http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1213626|title="Stress monitoring using a distributed wireless intelligent sensor system".|publisher=IEEE}}</ref>
+;Serotonin biosensor
+:Future [[serotonin]] biosensors may assist with [[mood (psychology)|mood]] disorders and [[depression (mood)|depression]].<ref>{{cite web|url=http://www.architalbiol.org/aib/article/view/347|title=Using biosensors to detect the release of serotonin from taste buds during taste stimulation.|publisher=Archives Italiennes de Biologie}}</ref>
+;Continuous blood test based nutrition
+:In the field of  [[evidence-based nutrition]], a [[lab-on-a-chip]] [[implant (medicine)|implant]] that can run 24/7 [[blood test]]s may provide a continuous results and a coumputer can provide nutritaion suggestions or alerts.
+;Psychiatrist-on-a-chip
+:In clinical brain sciences [[drug delivery]] and in vivo [[Bio-MEMS]] based [[biosensor]]s may assist with preventing and early treatment of mental disorders
+;Epilepsy monitoring
+:In [[epilepsy]], next generations of [[long-term video-EEG monitoring]] may predict [[epileptic seizure]] and prevent them with changes of daily life activity like [[sleep]], [[stress (biology)|stress]], [[nutrition]] and [[mood (psychology)|mood]] management.<ref>{{cite journal|pmid=21035403|title=Evaluating the use of prolonged video-EEG monitoring to assess future seizure risk and fitness to drive.|publisher= | doi=10.1016/j.yebeh.2010.09.026|volume=19|issue=4|year=2010|month=December|author=Kamel JT, Christensen B, Odell MS, D'Souza WJ, Cook MJ|journal=Epilepsy Behav|pages=608–11}}</ref>
+;Toxicity monitoring
+:Smart biosensors may detect toxic materials such [[Mercury (element)|mercury]] and [[lead]] and provide alerts.<ref>{{cite web|url=http://www.crcnetbase.com/doi/abs/10.1201/9781420019506.ch19|title=Multiarray Biosensors for Toxicity Monitoring and Bacterial Pathogens|publisher=CRC}}</ref>
+
+== See also ==
+* [[Medical equipment]]
+* [[Medical test]]
+* [[Nanoelectromechanical system]] (NEMS)
+* [[Functional medicine]]
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* ''Monitoring Level of Consciousness During Anesthesia & Sedation '', Scott D. Kelley, M.D., ISBN 978-0-9740696-0-9
+* ''Healthcare Sensor Networks: Challenges Toward Practical Implementation'', Daniel Tze Huei Lai (Editor), Marimuthu Palaniswami (Editor), Rezaul Begg (Editor), ISBN 978-1-4398-2181-7
+* ''Blood Pressure Monitoring in Cardiovascular Medicine and Therapeutics (Contemporary Cardiology)'', William B. White, ISBN 978-0-89603-840-0
+* ''Physiological Monitoring and Instrument Diagnosis in Perinatal and Neonatal Medicine'', Yves W. Brans, William W. Hay Jr, ISBN 978-0-521-41951-2
+* ''Medical Nanotechnology and Nanomedicine (Perspectives in Nanotechnology)'', Harry F. Tibbals, ISBN 978-1-4398-0874-0
+* ''Clean: The Revolutionary Program to Restore the Body's Natural Ability to Heal Itself '', Alejandro Junger, ISBN 978-0-06-173533-2
+
+==External links==
+*[http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4571045 ''Monitoring medicine intake in the networked home: The iCabiNET solution''], [[IEEE Xplore]], Issue Date: Jan. 30 2008-Feb. 1 2008, pp.&nbsp;116 – 117
+*[http://www.cs.umd.edu/hcil/iHealth/personal_device.htm ''Personal Medical Monitoring Devices''], The University of Maryland
+
+{{Intensive care medicine}}
+{{Anesthesia}}
+
+[[Category:Medicine]]
+[[Category:Health care]]
+[[Category:Evidence-based medicine]]
+[[Category:Nanomedicine]]
+[[Category:Technology forecasting]]
+[[Category:Medical equipment]]
+[[Category:Intensive care medicine]]
+[[Category:Anesthesia]]
+[[Category:Cardiology]]
+[[Category:Neurology]]
+[[Category:Respiratory system procedures]]
+[[Category:Surgery]]
+[[Category:Traumatology]]
+[[Category:Health informatics]]

@@ -1,0 +1,135 @@
+{{chembox
+| verifiedrevid = 449013121
+|   Name = Nickel tetracarbonyl
+|   ImageFile1 = Nickel-carbonyl-2D.png
+|   ImageSize1 = 150px
+|   ImageName1 = Nickel carbonyl
+|   ImageFileL2 = Nickel-carbonyl-3D-balls.png
+|   ImageSizeL2 = 75px
+|   ImageNameL2 = Nickel carbonyl
+|   ImageFileR2 = Nickel-carbonyl-3D-vdW.png
+|   ImageSizeR2 = 75px
+|   ImageNameR2 = Nickel carbonyl
+|   IUPACName = Tetracarbonylnickel
+|   OtherNames = Nickel tetracarbonyl<br>Nickel carbonyl
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 21865021
+| InChI = 1/4CO.Ni/c4*1-2;/rC4NiO4/c6-1-5(2-7,3-8)4-9
+| InChIKey = AWDHUGLHGCVIEG-ARWXMKMZAJ
+| SMILES = C(#O)[Ni](C#O)(C#O)C#O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/4CO.Ni/c4*1-2;
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AWDHUGLHGCVIEG-UHFFFAOYSA-N
+| CASNo = 13463-39-3
+|    CASNo_Ref = {{cascite|correct|CAS}}
+|   ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 30372
+|   PubChem = 26039
+|   EINECS = 236-669-2
+|   RTECS = QR6300000
+|   UNNumber = 1259
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = Ni(CO)<sub>4</sub>
+|   MolarMass = 170.73 g/mol
+|   Appearance = colorless or very-pale-yellow liquid <br> [[diamagnetic]]
+|   Odor = musty, like brick dust
+|   Density = 1.319 g/cm<sup>3</sup>
+|   Solubility = .018 g/100 mL (10 °C)
+|   SolubleOther = miscible in most [[organic solvents]] <br> soluble in [[nitric acid]], [[aqua regia]]
+|   MeltingPtC = -17.2
+|   BoilingPtC = 43
+|   Viscosity = 3.05 x 10<sup>-4</sup> Pa s
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = Tetrahedral
+|   Coordination = Tetrahedral
+|   Dipole = zero
+  }}
+| Section4 = {{Chembox Thermochemistry
+|   DeltaHf = &minus;632 kJ/mol
+|   DeltaHc = &minus;1180 kJ/mol
+|   Entropy = 320 J&thinsp;K<sup>&minus;1</sup>&thinsp;mol<sup>&minus;1</sup>
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = [http://www.inchem.org/documents/icsc/icsc/eics0064.htm ICSC 0064]
+|   EUClass = Flammable (''''F''')<br/>[[Carcinogen|Carc. Cat. 3]]<br/>Repr. Cat. 2<br/>Very Toxic ('''T+''')<br/>Dangerous for the environment ('''N''')
+|   EUIndex = 028-001-00-1
+|   RPhrases = {{R61}}, {{R11}}, {{R26}}, {{R40}}, {{R50/53}}
+|   SPhrases = {{S53}}, {{S45}}, {{S60}}, {{S61}}
+|   NFPA-H = 4
+|   NFPA-F = 3
+|   NFPA-R = 3
+|   FlashPt = 4 °C
+|   Autoignition = 60 °C
+|   ExploLimits = 2–34%
+  }}
+| Section8 = {{Chembox Other
+|   OtherFunctn = [[Iron pentacarbonyl]]<br/>[[Dicobalt octacarbonyl]]
+|    Function = [[metal carbonyl]]s
+|   OtherCpds =
+  }}
+}}
+'''Nickel carbonyl''' ([[IUPAC]] name: '''tetracarbonylnickel''') is the [[organonickel| organonickel compound]] with the [[chemical formula|formula]] Ni(CO)<sub>4</sub>. This pale-yellow liquid is the principal [[metal carbonyl|carbonyl]] of nickel.   It is an intermediate in the [[Mond process]] for the purification of [[nickel]] and a reagent in [[organometallic chemistry]]. Nickel carbonyl is one of the most toxic substances encountered in industrial processes.<ref>{{ cite book | title = [[The Merck Index]] | edition = 7th | publisher = [[Merck & Co.|Merck]] }}</ref>
+
+==Structure and bonding==
+In nickel tetracarbonyl, the [[oxidation state]] for nickel is assigned as zero. The formula conforms to [[18-electron rule]].  The molecule is [[tetrahedral]], with four [[carbonyl]] ([[carbon monoxide]]) [[ligands]] attached to nickel. The CO ligands, in which the C and the O are connected by [[triple bond]]s, are [[covalent bond|covalent]]ly bonded to the nickel atom via the [[carbon]] ends. [[Electron diffraction]] studies have been performed on this molecule, and the Ni-C and C-O distances have been calculated to be 1.838(2) and 1.141(2) angstroms respectively.<Ref>{{ cite journal | last1 = Hedberg | first1 = L. | last2 = Iijima | first2 = T. | last3 = Hedberg | first3 = K. | title = Nickel tetracarbonyl, Ni(CO)<sub>4</sub>. I. Molecular Structure by Gaseous Electron Diffraction. II. Refinement of Quadratic Force Field | journal = The Journal of Chemical Physics | year = 1979 | volume = 70 | issue = 7 | pages = 3224–3229 | doi = 10.1063/1.437911 }}</ref>
+
+==Preparation==
+Ni(CO)<sub>4</sub> was first synthesised in 1890 by [[Ludwig Mond]] by the direct reaction of nickel metal with CO.<ref>{{ cite journal | author1 = Mond, L. |author2 = Langer, C.| author3 = Quincke, F.| authorlink1 = Ludwig Mond | title = Action of Carbon Monoxide on Nickel | journal = [[Journal of the Chemical Society, Transactions]] | year = 1890 | volume = 57 | pages = 749–753 | doi = 10.1039/CT8905700749 }}</ref> This pioneering work foreshadowed the existence of many other metal carbonyl compounds, including those of V, Cr, Mn, Fe, and Co.  It was also applied industrially to the purification of nickel by the end of the 19th century.<ref>{{ cite journal | journal = [[Nature (journal)|Nature]] | title = The Extraction of Nickel from its Ores by the Mond Process | year = 1898 | volume = 59 | issue = 1516 | pages = 63–64 | doi = 10.1038/059063a0 }}</ref>
+
+At 323 [[Kelvin|K]] ({{convert|50|°C|°F|0}}), carbon monoxide is passed over impure nickel.  The optimal rate occurs at 130 °C.<ref name=Ullmann>{{ Ullmann | author = Lascelles, K.; Morgan, L. G.; Nicholls, D.; Beyersmann, D. | title = Nickel Compounds | doi = 10.1002/14356007.a17_235.pub2 }}</ref>
+
+Ni(CO)<sub>4</sub> is not readily available commercially. It is conveniently generated in the laboratory by [[carbonylation]] of commercially available [[bis(cyclooctadiene)nickel(0)]].<ref>P. W. Jolly "Nickel Tetracarbonyl" in Comprehensive Organometallic Chemistry I"  Edward W. Abel, [[F. Gordon A. Stone]], [[Geoffrey Wilkinson]], eds., 1982, Pergamon Press, Oxford. ISBN 0.08-025269-9.</ref>
+
+==Reactions==
+[[File:Nickel_kugeln.jpg|thumb|left|Spheres of nickel, made by the Mond process]]
+===Thermal decarbonylation===
+On moderate heating, Ni(CO)<sub>4</sub> decomposes to carbon monoxide and nickel metal. Combined with the easy formation from CO and even impure nickel, this decomposition is the basis for the [[Mond process]] for the purification of nickel.  Thermal decomposition commences near 180 °C and increases at higher temperature<ref name=Ullmann/>
+
+===Reactions with nucleophiles and reducing agents===
+Like other low-valent metal carbonyls, Ni(CO)<sub>4</sub> is susceptible to attack by nucleophiles.  Attack can occur at nickel center, resulting in displacement of CO ligands, or at CO. Thus, donor ligands such as [[triphenylphosphine]] react to give Ni(CO)<sub>3</sub>(PPh<sub>3</sub>) and Ni(CO)<sub>2</sub>(PPh<sub>3</sub>)<sub>2</sub>. [[2,2'-Bipyridine|Bipyridine]] and related ligands behave similarly.<ref>{{ cite book | author1 = Elschenbroich, C. | author2 = Salzer, A. | title = Organometallics: A Concise Introduction | edition = 2nd | year = 1992 | publisher = [[Wiley-VCH]] | location = Weinheim | isbn = 3-527-28165-7 }}</ref> The monosubstitution of nickel tetracarbonyl with other ligands can be used to determine the [[Tolman electronic parameter]], a measure of the electron donating or withdrawing ability of a given ligand.
+
+:[[File:Preparation_of_Ni(CO)3L.png|350px]]
+
+Treatment with [[hydroxide]]s gives clusters such as [Ni<sub>5</sub>(CO)<sub>12</sub>]<sup>2−</sup> and [Ni<sub>6</sub>(CO)<sub>12</sub>]<sup>2−</sup>.  These compounds can also be obtained by reduction of nickel carbonyl.
+
+Thus, treatment of Ni(CO)<sub>4</sub> with carbon nucleophiles (Nu<sup>−</sup>) results in acyl derivatives such as [Ni(CO)<sub>3</sub>C(O)Nu)]<sup>−</sup>.<ref>{{ cite encyclopedia | encyclopedia = Encyclopedia of Reagents for Organic Synthesis | year = 2003 | publisher = John Wiley & Sons | author = Pinhas, A. R. | title = Tetracarbonylnickel | doi = 10.1002/047084289X.rt025m }}</ref>
+
+===Reactions with electrophiles and oxidizing agents===
+Nickel carbonyl can be [[redox|oxidized]]. Chlorine oxidizes nickel carbonyl into [[nickel(II) chloride|NiCl<sub>2</sub>]], releasing CO gas. Other halogens behave analogously.  This reaction provides a convenient method for destroying unwanted portions of the toxic compound.
+
+Reactions of Ni(CO)<sub>4</sub> with alkyl and aryl halides often result in carbonylated organic products. [[Vinyl]]ic halides, such as PhCH=CHBr, are converted to the unsaturated [[esters]] upon treatment with Ni(CO)<sub>4</sub> followed by sodium methoxide.  Such reactions also probably proceed via [[oxidative addition]].  Allylic halides give the pi-allyl nickel compounds, such as (allyl)<sub>2</sub>Ni<sub>2</sub>Cl<sub>2</sub>:<ref>{{ OrgSynth | author = Semmelhack, M. F.; Helquist, P. M. | title = Reaction of Aryl Halides with π-Allylnickel Halides: Methallylbenzene | year = 1972 | volume = 52 | pages = 115 | collvol = 6 | collvolpages = 722 | prep = cv6p0722 }}</ref>
+:2 Ni(CO)<sub>4</sub>  +  2 ClCH<sub>2</sub>CH=CH<sub>2</sub>   →   Ni<sub>2</sub>(μ-Cl)<sub>2</sub>(η<sup>3</sup>-C<sub>3</sub>H<sub>5</sub>)<sub>2</sub>  +  8 CO
+
+==Toxicology and safety considerations==
+The hazards of Ni(CO)<sub>4</sub> are far greater than that implied by its CO content, reflecting the effects of the nickel if released in the body. Nickel carbonyl may be fatal if absorbed through the skin or more likely, inhaled due to its high volatility.  Its [[Median lethal dose|LC<sub>50</sub>]] for a 30-minute exposure has been estimated at 3 [[Parts per million|ppm]], and the concentration that is immediately fatal to humans would be 30 ppm. Some subjects exposed to puffs up to 5 ppm described the odour as musty or sooty, but because the compound is so exceedingly toxic, its smell provides no reliable warning against a potentially fatal exposure.<ref>{{ cite book | url = http://books.nap.edu/openbook.php?record_id=12018&page=159 | title = Acute Exposure Guideline Levels for Selected Airborne Chemicals | volume = 6 | year = 2008 | author = Board on Environmental Studies and Toxicology | publisher = [[National Academies Press]] | pages = 213–259 | chapter = Nickel Carbonyl: Acute Exposure Guideline Levels }}</ref> 
+
+The vapours of Ni(CO)<sub>4</sub> can [[Autoignition_temperature|autoignite]]. The vapor [[Chemical_decomposition| decomposes]] quickly in air, lasting only about a minute.<ref>{{ cite journal | author1 = Stedman, D. H. | author2 = Hikade, D. A. | author3 = Pearson, R. Jr. | author4 = Yalvac, E. D. | title = Nickel Carbonyl: Decomposition in Air and Related Kinetic Studies | journal = [[Science (journal)|Science]] | year = 1980 | volume = 208 | issue = 4447 | pages = 1029–1031 | doi = 10.1126/science.208.4447.1029 | pmid = 17779026 }}</ref>
+
+Nickel carbonyl poisoning is characterized by a two-stage illness. The first consists of [[headaches]] and [[chest pain]] lasting a few hours, usually followed by a short remission. The second phase is a [[chemical pneumonitis]] which starts after typically 16 hours with symptoms of cough, breathlessness and extreme fatigue. These reach greatest severity after four days, possibly resulting in death from cardiorespiratory or [[Acute renal failure|renal failure]]. [[Convalescence]] is often extremely protracted, often complicated by exhaustion, [[Clinical depression|depression]] and [[dyspnea]] on exertion. Permanent respiratory damage is unusual. The [[carcinogenicity]] of Ni(CO)<sub>4</sub> is a matter of debate.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{ cite journal | author = Shi, Z.  | title = Nickel Carbonyl: Toxicity and Human Health | journal = Science of the Total Environment | year = 1991 | volume = 148 | issue = 2–3 | pages = 293–298 | pmid = 8029705 | doi = 10.1016/0048-9697(94)90406-5 }}
+* {{ cite journal | author = Sunderman, F. W. | title = A Pilgrimage into the Archives of Nickel Toxicology | journal = Annals of Clinical and Laboratory Science | year = 1989 | volume = 19 | issue = 1 | pages = 1–16 | pmid = 2644888 }}
+* {{ cite journal | author = Armit, H. W. | title = The Toxicology of Nickel Carbonyl. Part I | journal = Journal of Hygiene | year = 1907 | volume = 7 | issue = 4 | pages = 525–551 | pmid = 20474327 | pmc = 2236193 | doi = 10.1017/S0022172400033507 | url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2236193/pdf/jhyg00296-0050.pdf | format = pdf }}
+* {{ cite journal | author = Armit, H. W. | title = The Toxicology of Nickel Carbonyl. Part II | journal = Journal of Hygiene | year = 1908 | volume = 8 | issue = 5 | pages = 565–610 | pmid = 20474374 | pmc = 2167169 | url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2167169/pdf/jhyg00380-0002.pdf | format = pdf }}
+* {{ cite journal | author = Barceloux, D. G. | last2 = Barceloux | first2 = Donald | title = Nickel | journal = Clinical Toxicology | year = 1999 | volume = 37 | issue = 2 | pages = 239–258 | pmid = 10382559 | doi = 10.1081/CLT-100102423 }}
+
+==External links==
+*[http://www.inchem.org/documents/icsc/icsc/eics0064.htm International Chemical Safety Card 0064]
+*[http://www.npi.gov.au/database/substance-info/profiles/63.html National Pollutant Inventory - Nickel carbonyl fact sheet]
+*[http://www.cdc.gov/niosh/npg/npgd0444.html NIOSH Pocket Guide to Chemical Hazards]
+*[http://monographs.iarc.fr/ENG/Monographs/vol49/volume49.pdf IARC Monograph "Nickel and Nickel compounds"]
+
+{{Nickel compounds}}
+
+[[Category:Organonickel compounds]]
+[[Category:Nickel compounds]]
+[[Category:Carbonyl complexes]]
+[[Category:IARC Group 1 carcinogens]]

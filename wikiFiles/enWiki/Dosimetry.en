@@ -1,0 +1,118 @@
+{{mergefrom|Radiation Exposure Monitoring|date=November 2012}}
+Radiation '''dosimetry''' is the measurement and calculation of the radiation dose in matter and tissue resulting from the exposure to indirect and direct [[ionizing radiation]].  It is a scientific subspecialty in the fields of [[health physics]] and [[medical physics]] that is focused on the calculation of internal ([[Internal dosimetry]]) and external doses from ionizing radiation.
+
+There are a number of different measures of radiation dose, including [[absorbed dose]] (D) measured in [[gray (unit)|grays]] (Gy), [[Equivalent dose]] (H) measured in [[sievert]]s (Sv), [[Effective dose (radiation)|Effective dose]] (H) (also measured in sieverts) and [[Kerma (physics)|Kerma]] (K) measured in grays, along with [[dose area product]]  (DAP) and dose length product (DLP). Each measure is often simply described as ‘dose’, which can lead to confusion. Non-[[SI]] units are still prevalent as well, where dose is often reported in [[rad (unit)|rads]] and dose equivalent in [[Rontgen equivalent man|rems]].  By definition, 1 Gy = 100 rad and 1 Sv = 100 rem.
+
+In the United States, radiation dosimeters measure and display dose in rems rather than sieverts.  One rem = 1 centisievert = 1/100 sievert.
+
+==Measures of Dose==
+The fundamental measure of the biological effect of ionising radiation is the absorbed dose (D), which is defined as the mean energy imparted [by ionising radiation] (dE) per unit mass (dm) of material (D = dE/dm)<ref>International Commission on Radiation Units and Measurements (ICRU).Options for Characterizing Energy Deposition. Journal of the ICRU Vol 11 No 2 (2011) Report 86</ref> The SI unit of absorbed dose is the gray (Gy) defined as one joule per kilogram. Absorbed dose, as a point measurement, is suitable for describing localised (i.e. partial organ) exposures such as tumour dose in radiotherapy. It may be used to estimate stochastic risk provided the amount and type of tissue involved is stated. Localised diagnostic dose levels are typically in the 0-50 mGy range. At a dose of 1 milligray (mGy) of photon radiation, each cell nucleus is crossed by an average of 1 liberated electron track.<ref>Feinendegen LE. The cell dose concept; potential application in radiation protection. 1990 Phys. Med. Biol. 35 597</ref>
+
+===Equivalent Dose===
+The absorbed dose required to produce a certain biological endpoint varies between different types of radiation, such as [[photons]], [[neutrons]] or [[alpha particles]]. This is taken into account by the equivalent dose (H), which is defined as the mean dose to organ T by radiation type R (D<sub>T,R</sub>), multiplied by a weighting factor w<sub>R</sub> designed to takes into account varying [[RBE|biological effectiveness]] (RBE) of the radiation type,<ref>International Commission on Radiation Units and Measurements (ICRU).Options for Characterizing Energy Deposition. Journal of the ICRU Vol 11 No 2 (2011) Report 86</ref> i.e. for the same absorbed dose in Gy, alpha particles are 20 times as biologically potent as X or gamma rays. Note that the earlier measure of ‘dose equivalent’ is not organ averaged. Equivalent dose is primarily designed for estimation of stochastic risks from radiation exposures. Stochastic effects, which include cancer and hereditary effects are probabilistic in nature, theoretically resulting from mutation to a single cell. As dose is averaged over the whole organ; equivalent dose is rarely suitable for evaluation of acute radiation effects or tumour dose in radiotherapy. In the case of estimation of stochastic effects, assuming a [[LNT model|linear dose response]], this averaging out should make no difference as the total energy imparted remains the same. 
+
+{| class="wikitable"
+|+Radiation weighting factors W<sub>R</sub> (formerly termed Q factor)<br/> used to represent [[relative biological effectiveness]]<br/> according to [[ICRP]] report 103<ref name="ICRP103">{{cite journal|title=The 2007 Recommendations of the International Commission on Radiological Protection|journal=Annals of the ICRP|year=2007|volume=37|series=ICRP publication 103|issue=2-4|url=http://www.icrp.org/publication.asp?id=ICRP%20Publication%20103|accessdate=17 May 2012|isbn=978-0-7020-3048-2}}</ref>
+|-
+! Radiation !! Energy !! W<sub>R</sub> (formerly Q)
+|-
+| [[x-ray]]s, [[gamma ray]]s,</br>[[beta ray]]s, [[muon]]s ||&nbsp; || 1
+|-
+| rowspan=3 |[[neutron]]s || < 1 MeV         || 2.5 + 18.2·e<sup>-[ln(E)]²/6</sup>
+|-
+| 1 MeV - 50 MeV  || 5.0 + 17.0·e<sup>-[ln(2·E)]²/6</sup>
+|-
+| > 50 MeV  || 2.5 + 3.25·e<sup>-[ln(0.04·E)]²/6</sup>
+|-
+| [[proton]]s, charged [[pion]]s  || &nbsp;        || 2
+|-
+| [[alpha ray]]s,<br/>[[Nuclear fission product]]s,<br/>heavy [[atomic nucleus|nuclei]] || &nbsp; || 20
+|}
+
+===Effective dose===
+It is difficult to compare the stochastic risk from localised exposures of different parts of the body (e.g. a chest x-ray compared to a CT scan of the head), or to compare exposures of the same body part but with different exposure patterns (e.g. a cardiac CT scan with a cardiac nuclear medicine scan). One way to avoid this problem is to simply average out a localised dose over the whole body. The problem of this approach is that the stochastic risk of cancer induction varies from one tissue to another. The effective dose (E) is designed to account for this variation by the application of specific weighting factors for each tissue (W<sub>T</sub>). Effective dose is defined as the sum of the equivalent dose to each organ (H<sub>T</sub>) multiplied by its respective tissue weighting factor (w<sub>T</sub>). 
+
+Weighting factors are calculated by the International Commission for Radiological Protection (ICRP), based on the risk of cancer induction for each organ and adjusted for associated lethality, quality of life and years of life lost. Organs that are remote from the site of irradiation will only receive a small equivalent dose (mainly due to scattering) and therefore contribute little to the effective dose, even if the weighting factor for that organ is high. Effective dose is used to estimate stochastic risks for typical examinations for a ‘reference’ person. It is not suitable for estimating stochastic risk for individual exposures to individual patients and should never be used to assess acute radiation effects.
+
+{| class="wikitable"
+|+Weighting factors for different organs<ref>UNSCEAR-2008 [http://www.unscear.org/docs/reports/2008/09-86753_Report_2008_Annex_A.pdf Annex A] page 40, table A1, retrieved 2011-7-20</ref>
+|-
+! rowspan=2 |Organs !! colspan=3 |Tissue weighting factors
+|-
+! ICRP30(I36)<br />1979 !! ICRP60(I3)<br />1991 !! ICRP103(I6)<br />2008
+|-
+| [[Gonads]] || 0.25 || 0.20 || 0.08
+|-
+| Red [[Bone Marrow]]  || 0.12 || 0.12 || 0.12
+|-
+| [[Colon (anatomy)|Colon]] || - || 0.12 || 0.12
+|-
+| [[Lung]]  || 0.12 || 0.12 || 0.12 
+|-
+| [[Stomach]] || - || 0.12 || 0.12
+|-
+| [[Breast]]s || 0.15 || 0.05 || 0.12 
+|-
+| [[Bladder]] || - || 0.05 || 0.04
+|-
+| [[Liver]] || - || 0.05 || 0.04
+|-
+| [[Oesophagus]] || - || 0.05 || 0.04
+|-
+| [[Thyroid]] || 0.03 || 0.05 || 0.04
+|-
+| [[Skin]] || - || 0.01 || 0.01
+|-
+| [[Bone]] surface   || 0.03 || 0.01 || 0.01 
+|-
+| [[Salivary glands]] || - || - || 0.01
+|-
+| [[Brain]] || - || - || 0.01
+|-
+| Remainder of body || 0.30 || 0.05 || 0.12
+|}
+
+==Dose versus activity==
+Radiation dose refers to the amount of energy deposited in matter and/or biological effects of radiation, and should not be confused with the unit of radioactive activity ([[becquerel]], Bq).  Exposure to a radioactive source will give a dose which is dependent on the activity, duration of exposure, energy of the radiation emitted, distance from the source and shielding.  The equivalent dose is then dependent upon the weighting factors above.  Dose is a measure of deposited dose, and therefore can never go down&mdash;removal of a radioactive source can only reduce the rate of increase of absorbed dose, never the total absorbed dose.
+
+The worldwide average background dose for a human being is about 3.5 mSv per year [http://www.arpansa.gov.au/pubs/baseline/bg_rad.pdf], mostly from [[cosmic radiation]] and natural [[isotope]]s in the earth.  The largest single source of radiation exposure to the general public is naturally-occurring [[radon]] gas, which comprises approximately 55% of the annual background dose.  It is estimated that radon is responsible for 10% of lung cancers in the United States.
+
+==Measuring dose==
+There are several ways of measuring doses from ionizing radiation. Workers who come in contact with radioactive substances or may be exposed to radiation routinely carry personal dosimeters. In the United States, these dosimeters usually contain materials that can be used in [[thermoluminescent dosimetry]] (TLD) or [[optically stimulated luminescence]] (OSL). Outside the United States, the most widely-used type of personal dosimeter is the [[film badge dosimeter]], which uses photographic [[emulsion]]s that are sensitive to ionizing radiation. The equipment used in radiotherapy ([[linear particle accelerator]] in external beam therapy) is routinely calibrated using [[ionization chamber]]s or the new and more accurate diode technology. [[Internal dosimetry]] is used to evaluate the intake of particles inside human being.
+
+===Dose standards===
+
+Because the human body is approximately 70% water and has an overall density close to 1 g/cm<sup>3</sup>, dose measurement is usually calculated and calibrated as dose to water.
+
+National standards laboratories such as the [[National Physical Laboratory, UK|NPL]] provide calibration factors for ionization chambers and other measurement devices to convert from the instrument's readout to absorbed dose. The standards laboratories operate a Primary Standard, which is normally calibrated by absolute [[calorimetry]], the warming of substances when they absorb energy. A user sends their Secondary Standard to the laboratory, where it is exposed to a known amount of radiation (derived from the Primary Standard) and a factor is issued to convert the instrument's reading to that dose. The user may then use their Secondary Standard to derive calibration factors for other instruments they use, which then become tertiary standards, or field instruments.
+
+The [[National Physical Laboratory, UK|NPL]] in the UK operates a graphite-calorimeter for absolute photon dosimetry.  Graphite is used instead of water as its [[specific heat capacity]] is one-sixth that of water and therefore the temperature rises in graphite are 6 times more than the equivalent in water and measurements are more accurate.  Significant problems exist in insulating the graphite from the laboratory in order to measure the tiny temperature changes.  A lethal dose of radiation to a human is approximately 10–20 Gy.  This is 10-20 joules per kilogram.  A 1&nbsp;cm<sup>3</sup> piece of graphite weighing 2&nbsp;grams would therefore absorb around 20–40 mJ.  With a specific heat capacity of around 700 J·kg<sup>−1</sup>·K<sup>−1</sup>, this equates to a temperature rise of just 20 mK.
+
+==Medical dosimetry==
+{{Main|Treatment planning}}
+
+Medical dosimetry is the calculation of absorbed dose and optimization of dose delivery in [[radiation therapy]]. It is often performed by a professional [[Dosimetrist|medical dosimetrist]] with specialized training in the field. In order to plan the delivery of radiation therapy, the radiation produced by the sources is usually characterized with [[percentage depth dose curve]]s and [[dose profile]]s measured by [[Medical physics|medical physicists]].
+
+==Radiation exposure monitoring==
+Records of legal dosimetry results are usually kept for a set period of time, depending upon the legal requirements of the nation in which they are used. 
+
+[[Radiation Exposure Monitoring|medical radiation exposure monitoring]] is the practice of collecting dose information from radiology equipment and using the data to help identify opportunities to reduce unnecessary dose in medical situations.
+
+==See also==
+* [[Health physics]]
+* [[Dosimeter]]
+* [[Radiation dose reconstruction]]
+
+== References ==
+{{reflist}}
+
+==External links==
+* [http://www.nucleonica.net/wiki/index.php/Help:Dosimetry_%26_Shielding Nucleonica Wiki on Dosimetry & Shielding]
+* [http://www.nucleonica.net/ Nucleonica website]
+* [http://www.nucleonica.net/wiki/index.php/Help:Karlsruhe_Nuclide_Chart The Karlsruhe Nuclide Chart]
+* Tim Stephens and Keith Pantridge, 'Dosimetry, Personal Monitoring Film' (a short article on Dosimetry from the point of view of its relation to photography, in [http://www.intellectbooks.co.uk/journals/view-Journal,id=186/ Philosophy of Photography], volume 2, number 2, 2011, pp.&nbsp;153–158.)
+
+[[Category:Radiobiology]]
+[[Category:Radiation therapy]]
+[[Category:Nuclear physics]]
+[[Category:Medical physics]]

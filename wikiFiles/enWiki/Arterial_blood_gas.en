@@ -1,0 +1,115 @@
+{{Diagnostic infobox |
+  Name        = Arterial blood gas |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = |
+  MeshID      = D001784 |
+  MedlinePlus = 003855 |
+  OtherCodes  = |
+}}
+An '''arterial blood gas''' ('''ABG''') is a [[blood test]] that is performed using [[blood]] from an [[artery]]. It involves puncturing an artery with a thin needle and syringe and drawing a small volume of blood. The most common puncture site is the [[radial artery]] at the [[wrist]],<ref>{{cite web|url=http://www.patient.co.uk/doctor/Arterial-Blood-Gases-Indications-and-Interpretation.htm |title=Arterial Blood Gases - Indications and Interpretation |publisher=patient.co.uk/doctor |date=20 December 2010 |accessdate=10 February 2013}}</ref> but sometimes the [[femoral artery]] in the [[groin]] or other sites are used. The blood can also be drawn from an [[arterial catheter]].  [[Pulse oximetry]] plus transcutaneous carbon dioxide measurement is an alternative method of obtaining similar information as well. An ABG is a test that measures the [[arterial oxygen tension]] (PaO<sub>2</sub>), [[carbon dioxide tension]] (PaCO<sub>2</sub>), and acidity ([[pH]]). In addition, arterial oxyhemoglobin saturation (SaO<sub>2</sub>) can be determined. Such information is vital when caring for patients with critical illness or respiratory disease. As a result, the ABG is one of the most common tests performed on patients in intensive care units (ICUs).
+
+The test is used to determine the [[pH]] of the blood, the [[partial pressure]] of [[carbon dioxide]] and [[oxygen]], and the [[bicarbonate]] level.  Many blood gas analyzers will also report concentrations of [[lactic acid|lactate]], [[hemoglobin]], several [[electrolyte]]s, [[oxyhemoglobin]], [[carboxyhemoglobin]] and [[methemoglobin]]. ABG testing is mainly used in [[pulmonology]] and critical care medicine to determine [[gas exchange]] which reflect gas exchange across the alveolar-capillary membrane.  ABG testing also has a variety of applications in other areas of medicine. Combinations of disorders can be complex and difficult to interpret, so calculators,<ref name="ABG interpreter">{{cite web | author=Baillie K| title=Arterial Blood Gas Interpreter | url=http://www.prognosis.org/arterial_blood_gas_calculator.php | publisher= prognosis.org | accessdate=2007-07-05}} - Online arterial blood gas analysis</ref> [[nomograms]], and rules of thumb<ref>{{cite journal |last=Baillie |first=JK |title=Simple, easily memorised "rules of thumb" for the rapid assessment of physiological compensation for acid-base disorders |journal=Thorax |volume=63 |issue=3 |pages=289–90 |year=2008 |pmid=18308967 |doi=10.1136/thx.2007.091223}}</ref> are commonly used.
+
+==Sampling and analysis==
+Arterial blood for blood gas analysis is usually drawn by a [[respiratory therapist]] and sometimes a [[phlebotomist]], [[nurse]] or doctor.<ref>{{cite journal |author=Aaron SD, Vandemheen KL, Naftel SA, Lewis MJ, Rodger MA |title=Topical tetracaine prior to arterial puncture: a randomized, placebo-controlled clinical trial |journal=Respir Med. |volume=97 |issue=11 |pages=1195–1199 |year=2003 |pmid=14635973 |doi=10.1016/S0954-6111(03)00226-9 }}</ref> Blood is most commonly drawn from the [[radial artery]] because it is easily accessible, can be compressed to control bleeding, and has less risk for occlusion, the selection of which radial artery to draw from is based on the outcome of an [[Allen's test]]. The [[femoral artery]] (or less often, the [[brachial artery]]) is also used, especially during emergency situations or with children. Blood can also be taken from an arterial catheter already placed in one of these arteries.
+
+There are plastic and glass syringes used for blood gas samples.  Most syringes come pre-packaged and contain a small amount of [[heparin]], to prevent [[coagulation]] or need to be heparinised, by drawing up a small amount of liquid heparin and squirting it out again to remove air bubbles. Once the sample is obtained, care is taken to eliminate visible gas bubbles, as these bubbles can dissolve into the sample and cause inaccurate results.  The sealed syringe is taken to a [[blood gas analyzer]].  If a plastic blood gas syringe is used, the sample should be transported and kept at room temperature and analyzed within 30 min.  If prolonged time delays are expected (i.e., greater than 30 min) prior to analysis, the sample should be drawn in a glass syringe and immediately placed on ice  <Reference: CLSI H11-A4>.  Standard blood tests can also be performed on arterial blood, such as measuring [[glucose]], [[lactic acid|lactate]], [[hemoglobins]], dys-haemoglobins, [[bilirubin]] and  [[electrolyte]]s.
+
+===Calculations===
+[[File:BGA.jpg|thumb|Blood gas analyzer]]
+The machine used for analysis aspirates this blood from the syringe and measures the [[pH]] and the [[partial pressure]]s of oxygen and carbon dioxide. The bicarbonate concentration is also calculated. These results are usually available for interpretation within five minutes.
+
+Two methods have been used in medicine in the management of blood gases  of patients in hypothermia: pH-stat method and alpha-stat method. Recent studies suggest that the α-stat method is superior.
+
+* pH-stat: the arterial carbon dioxide tension (paCO2) is maintained at 5.3 kPa (40 mmHg) and the pH is maintained at 7.40 when measured at the actual patient temperature. It is then necessary to add CO2 to the sample to calculate results.
+* α-stat (alpha-stat): the arterial carbon dioxide tension and the pH are maintained at 5.3 kPa (40mmHg) and 7.40 when measured at +37°C. When a patient is cooled down, the pH-value will increase and the pCO2-value and the pO2-value will decrease with lowering of the temperature if measured at the patients temperature.
+
+Both the pH-stat and alpha-stat strategies have theoretical disadvantages. α-stat method is the method of choice for optimal myocardial function. The pH-stat method may result in loss of autoregulation in the brain (coupling of the cerebral blood flow with the metabolic rate in the brain). By increasing the cerebral blood flow beyond the metabolic requirements, the pH-stat method may lead to cerebral microembolisation and intracranial hypertension.<ref>{{cite journal |author=Kofstad J |title=Blood Gases and Hypothermia: Some Theoretical and Practical Considerations |journal=Scand J Clin Lab Invest. (Suppl) |year=1996 |volume=224 |pages=21–26 |pmid=8865418}}</ref>
+
+===Helpful guidelines===
+# A 1mmHg change in PaCO<sub>2</sub> above or below 40 mmHg results in 0.008 unit change in pH in the opposite direction.<ref>Stoelting: Basics of Anesthesia, 5th ed. p 321.</ref>
+# The PaCO<sub>2</sub> will decrease by about 1 mmHg for every 1 mEq/L reduction in [HCO<sub>3</sub><sup>-</sup>] below 24 mEq/L
+# A change in [HCO<sub>3</sub><sup>-</sup>] of 10 mEq/L will result in a change in pH of approximately 0.15 pH units in the same direction.
+
+==Parameters and reference ranges==
+These are typical [[reference ranges]], although various analysers and laboratories may employ different ranges.
+{| class="wikitable"
+! Analyte
+! Range
+! Interpretation
+|-
+| pH
+| 7.34<ref name=southwest>[http://pathcuric1.swmed.edu/PathDemo/nrrt.htm Normal Reference Range Table] from The University of Texas Southwestern Medical Center at Dallas. Used in Interactive Case Study Companion to Pathologic basis of disease.</ref>-7.44<ref name=southwest/>
+| The [[pH]] or H<sup>+</sup> indicates if a patient is acidemic (pH < 7.35; H<sup>+</sup> >45) or alkalemic (pH > 7.45; H<sup>+</sup> < 35).
+|-
+| H<sup>+</sup>
+| 35–45 n[[Mole (unit)|mol]]/[[litre|L]] (n[[Concentration#Molarity|M]])
+| See above.
+|-
+| {{anchor|oxygen}}Arterial [[oxygen partial pressure]] (P<sub>a</sub>O<sub>2</sub>)
+| 11<ref name=mmHg/>-13<ref name=mmHg/> [[kPa]] or 75<ref name=southwest/>-100<ref name=southwest/> mmHg
+| A low PaO<sub>2</sub> indicates that the patient is not oxygenating properly, and is hypoxemic. (Note that a low PaO<sub>2</sub> is not required for the patient to have [[Hypoxia (medical)|hypoxia]].) At a P<sub>a</sub>O<sub>2</sub> of less than 60&nbsp;mm Hg, supplemental oxygen should be administered. At a P<sub>a</sub>O<sub>2</sub> of less than 26 mmHg, the patient is at risk of death and must be oxygenated immediately. {{Citation needed|date=April 2011}}
+|-
+| {{anchor|carbon dioxide}}Arterial [[carbon dioxide partial pressure]] (P<sub>a</sub>CO<sub>2</sub>)
+| 4.7<ref name=mmHg>Derived from mmHg values using 0.133322 kPa/mmHg</ref>-6.0<ref name=mmHg/> kPa or 35<ref name=southwest/>-45<ref name=southwest/> mmHg
+| The carbon dioxide partial pressure (Pa[[carbon dioxide|CO<sub>2</sub>]]) is an indicator of CO<sub>2</sub> production and elimination: for a constant metabolic rate, the Pa[[carbon dioxide|CO<sub>2</sub>]] is determined entirely by its elimination through [[Ventilation (physiology)|ventilation]].<ref name="02_calc">{{cite web | author=Baillie K, Simpson A | title=Altitude oxygen calculator | url=http://www.altitude.org/oxygen_levels.php | publisher= Apex (Altitude Physiology Expeditions) | accessdate=2006-08-10}} - Online interactive oxygen delivery calculator</ref> A high Pa[[carbon dioxide|CO<sub>2</sub>]] ([[respiratory acidosis]], alternatively [[hypercapnia]]) indicates underventilation (or, more rarely, a [[Malignant hyperthermia|hypermetabolic disorder]]), a low Pa[[carbon dioxide|CO<sub>2</sub>]] ([[respiratory alkalosis]], alternatively [[hypocapnia]]) hyper- or overventilation.
+|-
+| HCO<sub>3</sub><sup>−</sup>
+| 22–26&nbsp;mEq/L
+| The [[HCO3-#Biochemical role|HCO<sub>3</sub><sup>−</sup>]] ion indicates whether a [[metabolism|metabolic]] problem is present (such as [[ketoacidosis]]).  A low HCO<sub>3</sub><sup>−</sup> indicates [[metabolic acidosis]], a high HCO<sub>3</sub><sup>−</sup> indicates [[metabolic alkalosis]]. As this value when given with blood gas results is often calculated by the analyzer, correlation should be checked with [[Carbon_dioxide#Human_physiology|total CO<sub>2</sub> levels]] as directly measured (see below).
+|-
+| [[Standard bicarbonate concentration|SBC<sub>e</sub>]]
+| 21 to 27&nbsp;mmol/L
+| the bicarbonate concentration in the blood at a [[carbon dioxide|CO<sub>2</sub>]] of 5.33 kPa, full oxygen saturation and 37 Celsius.<ref>[http://www.nda.ox.ac.uk/wfsa/html/u13/u1312_03.htm Acid Base Balance (page 3)]</ref>
+|-
+| [[Base excess]]
+| −2 to +2&nbsp;mmol/L
+| The base excess is used for the assessment of the metabolic component of acid-base disorders, and indicates whether the patient has metabolic acidosis or metabolic alkalosis. Contrasted with the bicarbonate levels, the base excess is a calculated value intended to completely isolate the non-respiratory portion of the pH change.<ref>[http://www.rcpamanual.edu.au/sections/pathologytest.asp?s=33&i=410 RCPA Manual: Base Excess (arterial blood)]</ref>
+ |-
+ | ''total CO<sub>2</sub> (tCO<sub>2</sub> (P)<sub>c</sub>)
+ | 23<ref name=brookside>[http://www.brooksidepress.org/Products/OperationalMedicine/DATA/operationalmed/Lab/ABG_ArterialBloodGas.htm The Medical Education Division of the Brookside Associates--> ABG (Arterial Blood Gas)] Retrieved on Dec 6, 2009</ref>-30<ref name=brookside/> mmol/L or 100<ref name=co2-molar>Derived from molar values using molar mass of 44.010 g/mol</ref>-132<ref name=co2-molar/> mg/dL 
+ | This is the total amount of CO<sub>2</sub>, and is the sum of HCO<sub>3</sub><sup>−</sup> and PCO<sub>2</sub> by the formula: <br> tCO<sub>2</sub> = <nowiki>[</nowiki>HCO<sub>3</sub><sup>−</sup><nowiki>]</nowiki> + α*PCO<sub>2</sub>, where α=0.226 mM/kPa, HCO<sub>3</sub><sup>−</sup> is expressed in [[Concentration#Molarity|millimolar concentration]] (mM) (mmol/l) and PCO<sub>2</sub> is expressed in kPa  <ref>[http://www.labtestsonline.org/understanding/analytes/co2/test.html CO2: The Test]</ref>
+ |-
+ | ''O<sub>2</sub> Content (C<sub>a</sub>O<sub>2</sub>, C<sub>v</sub>O<sub>2</sub>, C<sub>c</sub>O<sub>2</sub>)
+ | vol% (mL oxygen/dL blood)
+ | This is the sum of oxygen dissolved in plasma and chemically bound to [[hemoglobin]] as determined by the calculation: CaO<sub>2</sub> = (PaO<sub>2</sub> * 0.003) + (SaO<sub>2</sub> * 1.34 * Hgb) where hemoglobin concentration is expressed in g/dL.<ref>[http://www.meddean.luc.edu/lumen/MedEd/MEDICINE/pulmonar/physio/pf10.htm Hemoglobin and Oxygen Transport. Charles L. Webber, Jr., Ph.D.]</ref>
+|}
+
+Contamination of the sample with room air will result in abnormally low carbon dioxide and possibly elevated oxygen levels, and a concurrent elevation in pH.  Delaying analysis (without chilling the sample) may result in inaccurately low oxygen and high carbon dioxide levels as a result of ongoing cellular respiration.
+
+===pH===
+The normal range for pH is 7.35-7.45. As the pH decreases (<7.35), it implies acidosis, while if the pH increases (>7.45) it implies alkalosis. In the context of arterial blood gases, the most common occurrence will be that of respiratory acidosis.  Carbon dioxide is dissolved in the blood as carbonic acid, a weak acid; however, in large concentrations, it can affect the pH drastically. Whenever there is poor pulmonary ventilation, the carbon dioxide levels in the blood are expected to rise. This leads to a rise of carbonic acid, leading to a decrease in pH. The first buffer of pH will be the plasma proteins, since these can accept some H+ ions to try and maintain homeostasis. As carbon dioxide concentrations continue to increase (Pa CO2 > 45 mmHg), a condition known as respiratory acidosis occurs. The body tries to maintain homeostasis by increasing the respiratory rate, a condition known as tachypneoa. This allows much more carbon dioxide to escape the body through the lungs, thus increasing the pH by having less carbonic acid. If a patient is in a critical setting and intubated, one must increase the number of breaths mechanically. 
+
+On the other hand, respiratory alkolosis (Pa CO2 < 35mmHg) occurs when there is too little carbon dioxide in the blood. This may be due to hyperventilation or else excessive breaths given via a mechanical ventilator in a critical care setting. The action to be taken is to calm the patient and try to reduce the number of breaths being taken to normalise the pH. The respiratory pathway tries to compensate for the change in pH in a matter of 2–4 hours. If this is not enough, the metabolic pathway takes place.
+
+The kidney and the liver are two main organs responsible for the metabolic homeostasis of pH. Bicarbonate is a base that helps to accept excess hydrogen ions whenever there is acidaemia. However, this mechanism is slower than the respiratory pathway and may take from a few hours to 3 days to take effect. In acidaemia, the bicarbonate levels rise, so that they can neutralise the excess acid, while the contrary happens when there is alkalaemia. Thus when an arterial blood gas test reveals, for example, an elevated bicarbonate, the problem has been present for a couple of days, and metabolic compensation took place over a blood acedemia problem. 
+
+In general, it is much easier to correct acute pH derangements by adjusting respiration. Metabolic compensations take place at a much later stage. However, in a critical setting, a patient with a normal pH, a high CO2, and a high bicarbonate means that, although there is a high carbon dioxide level, there is metabolic compensation. As a result one must be careful as to not artificially adjust breaths to lower the carbon dioxide. In such case, lowering the carbon dioxide abruptly means that the bicarbonate will be in excess and will cause a metabolic alkalosis. In such a case, carbon dioxide levels should be slowly diminished.
+
+==See also==
+{{Blood test sample values|align=right}}
+*[[Acid-base homeostasis]]
+*[[Anion gap]]
+*[[Mechanical ventilation]]
+*[[Radial artery puncture]]
+</div>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.prognosis.org/arterial_blood_gas_calculator.php Online arterial blood gas interpreter]
+*[http://www.altitude.org/oxygen_levels.php An online model of arterial blood gas changes with respiration]
+*[http://www.adamw.org/med/apps/abg.cgi Interactive ABG quiz]
+*[http://sites.google.com/site/doctorkipp/ Practice interpreting sample arterial blood gas presentations]
+
+{{Cardiopulmonary therapy}}
+{{Respiratory physiology}}
+{{Renal physiology}}
+{{Blood tests}}
+
+[[Category:Respiratory physiology]]
+[[Category:Blood tests]]
+[[Category:Respiratory therapy]]

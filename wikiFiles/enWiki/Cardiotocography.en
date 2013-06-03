@@ -1,0 +1,134 @@
+{{Interventions infobox |
+  Name        = Cardiotocography |
+  Image       = Kardiotokograf.jpeg |
+  Caption     = A cardiotocograph recording fetal heart rate and uterine contractions |
+  ICD10       = |
+  ICD9        = {{ICD9proc|75.32}} |
+  MeshID      = D015148 |
+  OtherCodes  = |
+}}
+In [[medicine]] ([[obstetrics]]), '''cardiotocography''' ('''CTG''') is a technical means of recording (''-graphy'') the [[fetus|fetal]] [[pulse|heartbeat]] (''cardio-'') and the [[uterus|uterine]] [[contraction (childbirth)|contractions]] (''-toco-'') during [[pregnancy]], typically in the third trimester. The machine used to perform the monitoring is called a '''cardiotocograph''', more commonly known as an '''electronic fetal monitor''' ('''EFM'''). 
+
+The invasive fetal monitoring was invented by Doctors Alan Bradfield, [[Orvan Hess]] and [[Edward Hon]].  A refined (antepartal, non-invasive, beat-to-beat) version (cardiotocograph) was later developed for [[Hewlett-Packard|Hewlett Packard]] by Dr. [[Konrad Hammacher]].
+
+== Method ==
+{{Unreferenced section|date=June 2011}}
+[[File:Cardiotocography diagram.jpg|thumb|400px|Schematic explanation of cardiotocography: heart rate (A) is calculated from fetal heart motion determined by ultrasound, and uterine contractions are measured by a ''tocodynamometer'' (B). These numbers are represented on a time scale with the help of a running piece of paper, producing a graphical representation.]]
+Simultaneous recordings are performed by two separate [[transducer]]s, one for the measurement of the [[fetus|fetal]] [[heart rate]] and a second one for the uterine [[contraction (childbirth)|contractions]].  Each of the transducers may be either external or internal. External measurement means taping or strapping the two sensors to the [[abdomen|abdominal]] wall.  Internal measurement requires a certain degree of [[cervix|cervical]] dilatation.
+
+{{anchor|tocodynamometer}}
+
+{| class="wikitable"
+|-
+! 
+! Fetal heart rate
+! Uterine contractions
+|-
+| '''External'''
+| The ''heart'' (cardio) sensor is an [[ultrasonic sensor]], similar to a [[Doppler fetal monitor]], that continuously emits ultrasound and detects motion of the fetal heart by the characteristic of the reflected sound. 
+| The pressure-sensitive ''contraction'' transducer, called a ''tocodynamometer'' (toco) has a flat area that is fixated to the skin by a band around the belly. The pressure required to flatten a section of the wall correlates with the internal pressure, thereby providing an estimate of it.<ref>[http://home.btconnect.com/MalcolmBrown/entries/TOCODYNAMOMETER.html Tocodynamometer]. By Dr. Malcolm C Brown, 2000.</ref>
+|-
+| '''Internal'''
+| Internal measurement of FHR involves attaching a ''scalp electrode'' (or ''spiral electrode'') to the fetal head to adequately measure the electric activity of the fetal heart. This measures the R-R interval on a fetal [[electrocardiogram]]. "STAN", which includes analysis of the [[ST segment]], is available on some equipment.<ref>{{cite journal|pmid=22897758}}</ref>
+| This involves inserting a pressure [[catheter]] into the uterine cavity. Internal measurement is more precise, and might be preferable when a complicated childbirth is expected. Internal measurement is required to calculate [[Montevideo units]].
+|}
+
+A typical CTG reading is printed on paper and/or stored on a computer for later reference.  Use of CTG and a computer network, allows continual remote surveillance: a single [[obstetrical nursing|obstetrical nurse]], [[midwife]], or [[obstetrician]] can watch the CTG traces of multiple patients simultaneously, via a computer station.
+
+== Interpretation ==
+[[File:CTG Output.jpg|thumb|A typical CTG output for a woman not in labour. A: Fetal heartbeat; B: Indicator showing movements felt by mother (caused by pressing a button); C: Fetal movement; D: Uterine contractions|500px]]
+In the US, the [[National Institute of Child Health and Human Development|Eunice Kennedy Shriver National Institute of Child Health and Human Development]] sponsored a workshop to develop a standardized nomenclature for use in interpreting intrapartum fetal heart rate and uterine contraction patterns.  This nomenclature has been adopted by the Association of Women’s Health, Obstetric, and Neonatal Nurses ([[AWHONN]]), the American College of Obstetricians and Gynecologists ([[American Congress of Obstetricians and Gynecologists|ACOG]]), and the Society for Maternal-Fetal Medicine.<ref name=nic>{{cite journal |author=Macones GA, Hankins GD, Spong CY, et al. |title= The 2008 [[National Institute of Child Health and Human Development]] workshop report on electronic fetal monitoring:update on definitions, interpretation, and research guidelines.| journal=Obstet Gynecol (2008) 112:661-666}}</ref>
+
+The [[Royal College of Obstetricians and Gynaecologists]]<ref name="rco">[http://www.rcog.org.uk/womens-health/clinical-guidance/use-electronic-fetal-monitoring  NICE Guideline Intrapartum care: management and delivery of care to women in labour]</ref> and the [[Society of Obstetricians and Gynaecologists of Canada]]<ref name="sog">[http://www.sogc.org/guidelines/documents/gui197CPG0709r.pdf SOGC Fetal health Surveillance: antepartum and intrapartum Consensus Guideline]</ref> have also published consensus statements on standardized nomenclature for fetal heart rate patterns. 
+
+Interpretation of a CTG tracing requires both qualitative and quantitative description of:
+*Uterine activity (contractions)
+*Baseline fetal heart rate (FHR)
+*Baseline FHR variability
+*Presence of accelerations
+*Periodic or episodic decelerations
+*Changes or trends of FHR patterns over time.
+
+===Uterine activity===
+There are several factors used in assessing uterine activity.  
+*Frequency- the amount of time between the start of one contraction to the start of the next contraction.
+*Duration- the amount of time from the start of a contraction to the end of the same contraction.
+*Intensity- a measure of how strong a contraction is.  With external monitoring, this necessitates the use of palpation to determine relative strength.  With an IUPC, this is determined by assessing actual pressures as graphed on the paper.
+*Resting Tone- a measure of how relaxed the uterus is between contractions. With external monitoring, this necessitates the use of palpation to determine relative strength.  With an IUPC, this is determined by assessing actual pressures as graphed on the paper
+*Interval- the amount of time between the end of one contraction to the beginning of the next contraction.
+
+The NICHD nomenclature<ref name=nic/> defines uterine activity by quantifying the number of contractions present in a 10-minute window, averaged over 30 minutes.  Uterine activity may be defined as:
+*'''Normal-''' less than or equal to 5 contractions in 10 minutes, averaged over a 30-minute window
+*'''[[Uterine tachysystole|Tachysystole-]]''' more than 5 contractions in 10 minutes, averaged over a 30-minute window
+
+===Baseline fetal heart rate===
+The NICHD nomenclature<ref name=nic/> defines baseline fetal heart rate as:
+The baseline FHR is determined by approximating the mean FHR rounded to increments of 5 beats per minute (bpm) during a 10-minute window, excluding accelerations and decelerations and periods of marked FHR variability (greater than 25 bpm). There must be at least 2 minutes of identifiable baseline segments (not necessarily contiguous) in any 10-minute window, or the baseline for that period is indeterminate. In such cases, it may be necessary to refer to the previous 10-minute window for determination of the baseline. Abnormal baseline is termed ''bradycardia'' when the baseline FHR is less than 110 bpm; it is termed ''tachycardia'' when the baseline FHR is greater than 160 bpm.
+
+===Baseline FHR variability===
+The NICHD nomenclature<ref name=nic/> defines baseline FHR variability as:
+Baseline FHR variability is determined in a 10-minute window, excluding accelerations and decelerations. Baseline FHR variability is defined as fluctuations in the baseline FHR that are irregular in amplitude and frequency. The fluctuations are visually quantitated as the amplitude of the peak-to-trough in bpm.  Using this definition, the baseline FHR variability is categorized by the quantitated amplitude as:
+*'''Absent-''' undetectable
+*'''Minimal-''' greater than undetectable, but less than or equal to 5 bpm
+*'''Moderate-''' 6-25 bpm
+*'''Marked-''' greater than 25 bpm
+
+===Accelerations===
+The NICHD nomenclature<ref name=nic/> defines an acceleration as a visually apparent abrupt increase in FHR. An abrupt increase is defined as an increase from the onset of acceleration to the peak in less than or equal to 30 seconds.  To be called an acceleration, the peak must be  greater than or equal to 15 bpm, and the acceleration must last greater than or equal to 15 seconds from the onset to return.
+A ''prolonged acceleration'' is greater than or equal to 2 minutes but less than 10 minutes in duration. 
+An acceleration lasting greater than or equal to 10 minutes is defined as a baseline change. 
+Before 32 weeks of gestation, accelerations are defined as having a peak greater than or equal to 10 bpm and a duration of greater than or equal to 10 seconds.
+
+===Periodic or episodic decelerations===
+{{anchor|deceleration}}
+Periodic refers to decelerations that are associated with contractions; episodic refers to those not associated with contractions.  There are four types of decelerations as defined by the NICHD nomenclature.<ref name=nic/>
+*'''Early Deceleration:''' Visually apparent, usually symmetrical, gradual decrease and return of the FHR associated with a uterine contraction.  A gradual FHR decrease is defined as one from the onset to the FHR nadir of greater than or equal to 30 seconds.  The decrease in FHR is calculated from the onset to the nadir of the deceleration.  The nadir of the deceleration occurs at the same time as the peak of the contraction.  In most cases the onset, nadir, and recovery of the deceleration are coincident with the beginning, peak, and ending of the contraction, respectively
+*'''Late Deceleration:''' Visually apparent usually symmetrical gradual decrease and return of the FHR associated with a uterine contraction.  A gradual FHR decrease is defined as from the onset to the FHR nadir of greater than or equal to 30 seconds.  The decrease in FHR is calculated from the onset to the nadir of the deceleration.  The deceleration is delayed in timing, with the nadir of the deceleration occurring after the peak of the contraction.  In most cases, the onset, nadir, and recovery of the deceleration occur after the beginning, peak, and ending of the contraction, respectively.
+*'''Variable Deceleration:''' Visually apparent abrupt decrease in FHR.  An abrupt FHR decrease is defined as from the onset of the deceleration to the beginning of the FHR nadir of less than 30 seconds.  The  decrease in FHR is calculated from the onset to the nadir of the deceleration.  The decrease in FHR is greater than or equal to 15 beats per minute, lasting greater than or equal to 15 seconds, and less than 2 minutes in duration.  When variable decelerations are associated with uterine contractions, their onset, depth, and duration commonly vary with successive uterine contractions.
+*'''Prolonged Deceleration:''' A prolonged deceleration is present when there is a visually apparent decrease in FHR from the baseline that is greater than or equal to 15 bpm, lasting greater than or equal to 2 minutes, but less than 10 minutes. A deceleration that lasts greater than or equal to 10 minutes is a baseline change.
+
+Additionally decelerations can be ''recurrent'' or ''intermittent'' based on their frequency (more or less than 50% of the time) within a 20 min window.<ref name=nic/>
+
+===FHR pattern classification===
+The NICHD workgroup proposed terminology of a three-tiered system to replace the older undefined terms "reassuring" and "nonreassuring".<ref name=nic/>
+
+*'''Category I (Normal)''': Tracings with all these findings present are strongly predictive of normal fetal acid-base status at the time of observation and the fetus can be followed in a standard manner:
+**Baseline rate 110-160 bpm,
+**Moderate variability,
+**Absence of late, or variable decelerations,
+**Early decelerations and accelerations may or may not be present.
+
+*'''Category II (Indeterminate)''': Tracing is not predictive of abnormal fetal acid-base status, but evaluation and continued surveillance and reevaluations are indicated. 
+**Bradycardia not accompanied by absent baseline variability
+**Tachycardia
+**Minimal or Marked baseline variability of FHR
+**Accelerations: Absence of induced accelerations after fetal stimulation
+**Periodic or Episodic decelerations: Longer than 2min but shorter than 10min; Recurrent late decelerations with moderate baseline variability
+**Variable decelerations with other characteristics such as slow return to baseline, overshoots of "shoulders" seen (humps on either side of deceleration)
+
+*'''Category III (Abnormal)''': Tracing is predictive of abnormal fetal acid-base status at the time of observation; this requires prompt evaluation and management:
+**Absence of baseline variability with recurrent late or variable decelerations or bradycardia; or
+**Sinusoidal fetal heart rate.
+
+== Effect on management ==
+A [[Cochrane Collaboration]] review has shown that use of cardiotocography reduces the rate of [[seizure]]s in the newborn, but that the long term implications of this are unknown, and there is no clear benefit in the prevention of [[cerebral palsy]], [[Perinatal mortality|perinatal death]] and other complications of labour. In contrast, labour monitored by CTG is slightly more likely to result in instrumental delivery (forceps or vacuum extraction) or [[Caesarean section|Cesarean section]].<ref name="pmid16856111">{{cite journal |doi=10.1002/14651858.CD006066 |title=Continuous cardiotocography (CTG) as a form of electronic fetal monitoring (EFM) for fetal assessment during labour |journal=Cochrane Database of Systematic Reviews |year=2006 |last1=Alfirevic |first1=Zarko |last2=Devane |first2=Declan |last3=Gyte |first3=Gillian ML |editor1-last=Alfirevic |editor1-first=Zarko}}</ref> The false-positive rate of cardiotocography for cerebral palsy is given as high as 99%, meaning that only 1-2  of one hundred babies with non-reassuring patterns will develop cerebral palsy.<ref>{{cite journal |pmid=16319279 |year=2005 |author1=American College of Obstetricians and Gynecologists |title=ACOG Practice Bulletin. Clinical Management Guidelines for Obstetrician-Gynecologists, Number 70, December 2005 (Replaces Practice Bulletin Number 62, May 2005). Intrapartum fetal heart rate monitoring |volume=106 |issue=6 |pages=1453–60 |journal=Obstetrics and gynecology}}</ref> The introduction of additional methods of intrapartum assessment has given mixed results.<ref name=cog>{{cite journal |first1=Christian M. |last1=Pettker |first2=Charles J. |last2=Lockwood |year=2008 |title=Opinion: New FHR monitoring standards: Something old and something new |url=http://www.modernmedicine.com/modernmedicine/Modern+Medicine+Now/Opinion-New-FHR-monitoring-standards-Something-old/ArticleStandard/Article/detail/571513 |journal=Contemporay OB/GYN}}</ref>
+
+When introduced, this practice was expected to reduce the incidence of fetal demise in [[childbirth|labor]] and make for a reduction in [[cerebral palsy]] (CP). Its use became almost universal for hospital births in the [[United States|U.S.]]  In recent years there has been some controversy as to the utility of the cardiotocograph in low-risk pregnancies, and the related belief that over-reliance on the test has led to increased misdiagnoses of fetal distress and hence increased (and possibly unnecessary) [[caesarean section|cesarean deliveries]].<ref>{{cite journal |doi=10.1136/bmj.322.7300.1436 |title=Electronic fetal monitoring |year=2001 |last1=Goddard |first1=R. |journal=BMJ |volume=322 |issue=7300 |pages=1436–1437 |pmid=11408285 |pmc=1120506}}</ref>
+
+==Manufacturer==
+The popular manufacturers are GE (Corometrics), Philips (HP), Huntleigh (Sonicaid), Analogic, Ultrasound Technologies (Seward/Wakeling), Toitu, Sunray, Edan and Neoventa.
+
+== References ==
+{{reflist|2}}
+
+== See also ==
+*[[Stethoscope#Fetal_stethoscope|Fetal stethoscope]]
+*[[Nonstress test|Nonstress test (NST)]]
+*[[Biophysical profile|Biophysical profile (BPP)]]
+
+{{Cardiac procedures}}
+{{Obstetrical procedures}}
+{{Pregnancy}}
+
+[[Category:Obstetrical procedures]]
+[[Category:Medical tests]]

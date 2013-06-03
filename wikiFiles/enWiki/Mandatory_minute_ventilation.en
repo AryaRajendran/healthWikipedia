@@ -1,0 +1,15 @@
+'''Mandatory minute ventilation''' ('''MMV''') (also called '''minimum minute ventilation''') is a [[Modes of mechanical ventilation|mode of mechanical ventilation]] which requires the operator to determine what the appropriate minute ventilation for the patient should be and the ventilator then monitors the patient's ability to generate this volume.  If the calculation suggests the volume target will not be met, supplemental breaths are delivered at the targeted volume to achieve the desired minute ventilation.
+
+== Application ==
+Mandatory minute ventilation is a [[volume control]] mode of ventilation and a derivative of [[intermittent mandatory ventilation]].<ref name="pmid322535">{{cite journal| author=Hewlett AM, Platt AS, Terry VG| title=Mandatory minute volume. A new concept in weaning from mechanical ventilation. | journal=Anaesthesia | year= 1977 | volume= 32 | issue= 2 | pages= 163–9 | pmid=322535 | doi= | pmc= | url= }} </ref>  Mandatory minute ventilation allows spontaneous breathing with automatic adjustments of mandatory ventilation to the meet the patient’s preset minimum minute volume requirement. If the patient maintains the minute volume settings for VT x f, no mandatory breaths are delivered. If the patient's minute volume is insufficient, mandatory delivery of the preset tidal volume will occur until the minute volume is achieved.  The method for monitoring whether or not the patient is meeting the required minute ventilation (V<sub>E</sub>) is different per ventilator brand and model, but generally there is a window of time being monitored and a smaller window being checked against that larger window.
+
+=== Ventilation of neonatal patients ===
+MMV is an optimal mode for weaning in neonatal and pediatric populations and has been shown to reduce long term complications related to mechanical ventilation.<ref>{{Cite journal | author = [[Scott O. Guthrie]], [[Chris Lynn]], [[Bonnie J. Lafleur]], [[Steven M. Donn]] & [[William F. Walsh]]  | title = A crossover analysis of mandatory minute ventilation compared to synchronized intermittent mandatory ventilation in neonates  | journal = [[Journal of perinatology : official journal of the California Perinatal Association]] | volume = 25 | issue = 10 | pages = 643–646 | year = 2005 | month = October | doi = 10.1038/sj.jp.7211371 | pmid = 16079905}}</ref>
+
+==References==
+<references/>
+
+{{Mechanical ventilation}}
+[[Category:Pulmonology]]
+[[Category:Respiratory therapy]]
+[[Category:Mechanical ventilation]]

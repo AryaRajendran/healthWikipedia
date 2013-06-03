@@ -1,0 +1,134 @@
+{{chembox
+| verifiedrevid = 443860054
+|   Name = Hydrazoic acid
+| ImageFile = Hydrogen-azide-2D-dimensions.png
+<!-- | ImageSize = 200px -->
+|   ImageName = Structure, bonding and dimensions of the hydrogen azide molecule
+|   ImageFile1 = Hydrazoic_acid.svg
+|   ImageName1 = 
+|   ImageFile2 = Hydrogen-azide-3D-vdW.png
+|   ImageName2 = Hydrazoic acid
+<!-- | ImageSize1 = 150px  -->
+|   ImageName1 = Hydrazoic acid
+| IUPACName = Hydrogen azide
+|   OtherNames = 
+| Section1 = {{Chembox Identifiers
+|   ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 29449
+| SMILES = [N-]=[N+]=[N@H]
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 22937
+| InChI = 1/HN3/c1-3-2/h1H
+| InChIKey = JUINSXZKUKVTMD-UHFFFAOYAO
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 186537
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/HN3/c1-3-2/h1H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JUINSXZKUKVTMD-UHFFFAOYSA-N
+| CASNo = 7782-79-8
+|    CASNo_Ref = {{cascite|correct|CAS}}
+|   RTECS = 
+|   PubChem = 24530
+  }}
+| Section2 = {{Chembox Properties
+|   Formula = HN<sub>3</sub>
+|   Appearance = colorless, highly volatile liquid
+|   MolarMass = 43.03 g/mol
+|   Density = 1.09 g/cm<sup>3</sup>
+|   Solubility = highly soluble
+|   SolubleOther = soluble in [[alkali]], [[alcohol]], [[ether]]
+|   MeltingPtC = -80
+|   BoilingPtC = 37
+|   pKa = 4.6 <ref>Pradyot Patnaik. ''Handbook of Inorganic Chemicals''. McGraw-Hill, 2002, ISBN 0-07-049439-8</ref>
+|   Viscosity = 
+  }}
+| Section3 = {{Chembox Structure
+|   MolShape = approximately linear
+|   Dipole =
+  }}
+| Section7 = {{Chembox Hazards
+|   ExternalMSDS = 
+|   EUIndex = Not listed
+|   MainHazards = Highly toxic, explosive, reactive
+|   FlashPt =
+|   RPhrases = {{R3}}, {{R27/28}}
+|   SPhrases = {{S33}}, {{S36/37}}, {{S38}}
+|  NFPA-F = 0
+|  NFPA-H = 4
+|  NFPA-R = 2
+  }}
+| Section8 = {{Chembox Related
+|   OtherAnions = 
+|   OtherCations = [[Sodium azide]]
+|   Function = [[nitrogen]] [[hydride]]s
+|   OtherFunctn = [[Ammonia]]<br/>[[Hydrazine]]
+|   OtherCpds = 
+  }}
+}}
+
+'''Hydrazoic acid''', also known as '''hydrogen azide''' or '''azoimide''',<ref>{{Cite EB1911 |wstitle=Azoimide |volume=3}}</ref> is a colorless, volatile, and explosive liquid at room temperature and pressure. It is a compound of [[nitrogen]] and [[hydrogen]], having chemical formula HN<sub>3</sub>.<ref>{{cite book | title = Dictionary of Inorganic and Organometallic Compounds | publisher = Chapman &amp; Hall }}</ref> It was first isolated in 1890 by [[Theodor Curtius]].<ref>{{Cite journal | last = Curtius | first = Theodor | authorlink = Theodor Curtius | journal = Berichte | year = 1890 | page = 3023 | volume = 23}}</ref>  The acid has few applications, but its conjugate base, the azide ion, is useful in specialized processes.
+
+Hydrazoic acid is soluble in water.  Undiluted hydrazoic acid is dangerously explosive with a [[standard enthalpy of formation]] Δ<sub>f</sub>H<sup>o</sup>  (l, 298K) = +264 kJmol<sup>-1</sup>).<ref name="InorgChem" />  When dilute, the gas and aqueous solutions (<10%) can be safely handled.
+
+==Production==
+The acid is usually formed by acidification of an azide salt like [[sodium azide]]. Normally solutions of sodium azide in water contain trace quantities of hydrazoic acid in equilibrium with the azide salt, but introduction of a stronger acid can convert the primary species in solution to hydrazoic acid.  The pure acid may be subsequently obtained by [[fractional distillation]] as an extremely explosive colorless liquid with an unpleasant smell.
+:NaN<sub>3</sub>  +  HCl  →   HN<sub>3</sub>  +  NaCl
+
+Its aqueous solution can also be prepared by treatment of [[barium azide]] solution with dilute [[sulfuric acid]], filtering the insoluble [[barium sulfate]].<ref>L . F. Audrieth,  C. F. Gibbs Hydrogen Azide in  Aqueous and Ethereal Solution" Inorganic Syntheses 1939, vol. 1,  pp. 71-79.</ref>
+
+It was originally prepared by the reaction of aqueous [[hydrazine]] with [[nitrous acid]].
+
+:N<sub>2</sub>H<sub>5</sub><sup>+</sup> + HNO<sub>2</sub> → HN<sub>3</sub> + H<sup>+</sup> + 2 H<sub>2</sub>O
+
+Other oxidizing agents, such as [[hydrogen peroxide]] or [[nitric acid]], can also be used.<ref>{{Greenwood&Earnshaw2nd|page=432}}</ref>
+
+==Reactions==
+In its properties hydrazoic acid shows some analogy to the halogen acids, since it forms poorly soluble (in water) lead, silver and mercury(I) salts. The metallic salts all crystallize in the anhydrous form and decompose on heating, leaving a residue of the pure metal. It is a weak acid (p''K''<sub>a</sub>&nbsp;= 4.75.<ref name="InorgChem">{{cite book
+| title = Inorganic Chemistry, 3rd Edition
+| chapter = Chapter 15: The group 15 elements
+| author1 = Catherine E. Housecroft
+| author2 = Alan G. Sharpe
+| publisher = Pearson
+| year = 2008
+| isbn = 978-0-13-175553-6
+| page = 449
+}}</ref>) Its heavy metal salts are explosive and readily interact with the [[alkyl iodide]]s. Azides of heavier [[alkali metal]]s (excluding [[lithium]]) or [[alkaline earth metal]]s are not explosive, but decompose in a more controlled way upon heating, releasing spectroscopically-pure {{chem|N|2}} gas.<ref name="wiberg"/> Solutions of hydrazoic acid dissolve many metals (e.g. [[zinc]], [[iron]]) with liberation of hydrogen and formation of salts, which are called [[azide]]s, formerly also called azoimides or hydrazoates).
+
+Dissolution in the strongest acids produces explosive salts containing the {{chem|H|2|N&#x3D;N&#x3D;N|+}} ion, for example:<ref name="wiberg">{{cite book
+| title = Inorganic chemistry
+| chapter = The Nitrogen Group
+| author1 = Egon Wiberg
+| author2 = Nils Wiberg
+| author3 = Arnold Frederick Holleman
+| publisher = Academic Press
+| year = 2001
+| isbn = 0-12-352651-5
+| page = 625
+}}</ref>
+
+:{{chem|HN&#x3D;N&#x3D;N}} + {{chem|HSbCl|6}} → {{chem|[H|2|N&#x3D;N&#x3D;N]|+|[SbCl|6|]|-}}
+The ion {{chem|H|2|N&#x3D;N&#x3D;N|+}} is [[isoelectronic]] to [[diazomethane]].
+
+The decomposition of hydrazoic acid, triggered by shock, friction, spark, etc. goes as follows:
+
+:2{{chem|HN|3}} <nowiki>→</nowiki> {{chem|H|2}} + 3{{chem|N|2}}
+
+==Toxicity==
+Hydrazoic acid is volatile and highly toxic.  It has a pungent smell and its vapor can cause violent [[headache]]s. The compound acts as a non-cumulative poison.
+
+==Applications==
+[[2-Furonitrile]], a pharmaceutical intermediate and potential artificial sweetening agent has been prepared in good yield by treating [[furfural]] with a mixture of hydrazoic acid (HN<sub>3</sub>) and [[perchloric acid]] in the presence of magnesium perchlorate in the [[benzene]] solution at 35 °C.<ref>{{cite journal | author = P. A. Pavlov | title = Synthesis of 5-substituted furannitriles and their reaction with hydrazine | journal = Khimiya Geterotsiklicheskikh Soedinenii | volume = 2 | pages = 181–186 | year = 1986 |last2 = Kul'nevich | first2 = V. G.  }}</ref><ref>{{cite journal | author = B. Bandgar | title = Organic reactions in water. Transformation of aldehydes to nitriles using NBS under mild conditions   | journal = Synthetic Communications | volume = 36 | pages = 1347–1352 | year = 2006 |last2 = Makone | first2 = S. | issue = 10}}</ref>
+
+The [[all gas-phase iodine laser]] (AGIL) mixes gaseous hydrazoic acid with [[chlorine]] to produce excited [[nitrogen chloride]], which is then used to cause [[iodine]] to lase; this avoids the liquid chemistry requirements of [[COIL laser]]s.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.osha.gov/dts/chemicalsampling/data/CH_245950.html OSHA: Hydrazoic Acid]
+
+[[Category:Acids]]
+[[Category:Azides]]
+[[Category:Nitrogen hydrides]]
+[[Category:Explosive chemicals]]

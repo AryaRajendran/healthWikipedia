@@ -1,0 +1,240 @@
+The '''ICD-10 Procedure Coding System''' (ICD-10-PCS) is an [[United States|American]] system of [[medical classification]] used for [[procedural codes]]. The [[Centers for Medicare and Medicaid Services]], the agency responsible for maintaining the inpatient procedure code set in the U.S., contracted with 3M Health Information Systems in 1993 to design and then develop a procedure classification system to replace Volume 3 of [[ICD-9-CM]]. ICD-9-CM contains a procedure classification; [[ICD-10-CM]] does not. ICD-10-PCS is the result. ICD-10-PCS was initially released in 1998. It has been updated annually since that time.<ref>{{cite web|title=ICD-10-PCS Reference Manual|url=http://www.cms.gov/Medicare/Coding/ICD10/Downloads/2013ReferenceManual.zip|work=Centers for Medicare & Medicaid Services|accessdate=28 February 2013}}</ref> 
+
+==Section structure==
+Each code consists of seven alphanumeric characters. The second through seventh characters mean the same thing within each section, but may mean different things in other sections. Each character can be any of 34 possible values the ten digits 0-9 and the 24 letters A-H,J-N and P-Z may be used in each character. The letters O and I excluded to avoid confusion with the numbers 0 and 1.<ref Name="pcs_final_report2010">{{cite web
+  | last =pcs_final_report2010
+  | first =
+  | authorlink =
+  | coauthors = Richard F. Averill, M.S., Robert L. Mullin, M.D., Barbara A. Steinbeck, RHIT, Norbert I. Goldfield, M.D, Thelma M. Grant, RHIA, Rhonda R. Butler, CCS, CCS-P
+  | title = Development of the ICD-10 Procedure Coding System (ICD-10-PCS)
+  | work = Descriptive Report
+  | publisher = [[Centers for Medicare and Medicaid Services]]
+  | date =
+  | url =http://www.cms.hhs.gov/ICD10/Downloads/pcs_final_report2010.pdf
+  | format =PDF
+  | doi =
+  | accessdate = February 25, 2010 }}</ref>  There are no decimals in ICD-10-PCS<ref Name="Aalseth">{{cite book 
+|title= Codebusters Coding Connection: A Documentation Guide for Compliant Coding 
+|last= Aalseth
+|first= Patricia T. 
+|authorlink= 
+|coauthors= 
+|year= 2004
+|publisher= Jones & Bartlett Publishers
+|location= 
+|isbn= 0-7637-2630-3
+|page= 27
+|pages= 
+|url= http://books.google.com/books?id=ZOGemkGhYekC&pg=PA25&dq=ICD-10-cm+decimal&as_brr=3&cd=4#v=onepage&q=ICD-10-cm%20decimal&f=false}}</ref>
+
+Of the 72,081 codes in ICD-10-PCS, 62,022 are in the first section, "Medical and surgical".<ref name="cms.gov">https://www.cms.gov/ICD10/Downloads/pcs_final_report2011.pdf</ref>
+
+{| class="wikitable"
+|-
+! Character 1
+! Character 2
+! Character 3
+! Character 4
+! Character 5
+! Character 6
+! Character 7
+|-
+| {{ICD10PCS|0|0}} [[Medical]] and [[Surgical]]
+| Body System<br>{{ICD10PCS|00|0/0}} 0 [[Central nervous system]]; {{ICD10PCS|01|0/1}} [[Peripheral nervous system]]; {{ICD10PCS|02|0/2}} [[human heart|Heart]] and [[Great vessels]]; {{ICD10PCS|03|0/3}} [[Upper arteries]]; {{ICD10PCS|04|0/4}}4 [[Lower arteries]]; {{ICD10PCS|05|0/5}} [[Upper veins]]; {{ICD10PCS|06|0/6}} [[Lower veins]]; {{ICD10PCS|07|0/7}} [[Lymphatic]] and [[Hemic system]]; {{ICD10PCS|08|0/8}} [[human eye|Eye]]; {{ICD10PCS|09|0/9}} [[Ear]], [[Human nose|Nose]], [[Paranasal sinus|Sinus]]; {{ICD10PCS|0B|0/B}} [[Respiratory System]]; {{ICD10PCS|0C|0/C}} [[Mouth]] and [[Throat]]; {{ICD10PCS|0D|0/D}} [[Gastrointestinal system]]; {{ICD10PCS|0F|0/F}} [[Hepatobiliary System]] and [[Pancreas]]; {{ICD10PCS|0G|0/G}} [[Endocrine system]]; {{ICD10PCS|0H|0/H}} [[Skin]] and [[Breast]]; {{ICD10PCS|0J|0/J}} [[Subcutaneous tissue]]; {{ICD10PCS|0K|0/K}} [[Muscle]]s; {{ICD10PCS|0L|0/L}} [[Tendons]]; {{ICD10PCS|0M|0/M}} [[Bursae]] and [[Ligaments]]; {{ICD10PCS|0N|0/N}} [[Human head|Head]] and [[Facial bones]]; {{ICD10PCS|0P|0/P}} [[Upper bones]]; {{ICD10PCS|0Q|0/Q}} [[Lower bones]]; {{ICD10PCS|0R|0/R}} [[Upper joints]]; {{ICD10PCS|0S|0/S}} [[Lower joints]]; {{ICD10PCS|0T|0/T}} [[Urinary system]]; {{ICD10PCS|0U|0/U}} [[human female reproductive system|female reproductive system]]; {{ICD10PCS|0V|0/V}} [[human male reproductive system|Male reproductive system]]; {{ICD10PCS|0W|0/W}} [[Anatomical regions]], General; {{ICD10PCS|0X|0/X}} [[Anatomical regions]], [[Upper extremities]]; {{ICD10PCS|0Y|0/Y}} [[Anatomical regions]], [[Lower extremities]] 
+| Root Operation<br>see below
+| Body Part
+| Approach<br>0 Open; 3 [[Percutaneous]]; 4 Percutaneous [[Endoscopic]]; 7 Via Natural or Artificial Opening; 8 Via Natural or Artificial Opening Endoscopic; F Via Natural or Artificial Opening Endoscopic with Percutaneous Endoscopic Assistance; X External 
+| Device
+| Qualifier 
+|-
+| {{ICD10PCS|1|1}} [[Obstetrics]]
+| {{ICD10PCS|10|1/0}} [[Pregnancy]]
+| 102 Change; 109 [[Drainage (medical)|Drainage]]; 10A [[Abortion]]; 10D Extraction; 10E [[Childbirth|Delivery]]; 10H Insertion; 10J [[Inspection]]; 10P Removal; 10Q Repair; 10S Reposition; 10T Resection; 10Y [[Organ transplant|Transplantation]]
+| Body Part
+| Approach
+| Device
+| Qualifier
+|-
+| {{ICD10PCS|2|2}} Placement
+|  {{ICD10PCS|2W|2/W}} Anatomical Regions; {{ICD10PCS|2Y|2/Y}} Anatomical Orifices
+|  Root Operation<br>2?0 Change; 2?1 [[Compression bandage|Compression]]; 2?2 [[Dressing (medical)|Dressing]]; 2?3 [[Immobilization (pathology)|Immobilization]]; 2?4 Packing; 2?5 Removal; 2?6 [[Traction (orthopedics)|Traction]]
+|  Body Region/Orifice
+|  Approach
+|  Device
+|  Qualifier
+|-
+| {{ICD10PCS|3|3}} Administration
+|  {{ICD10PCS|30|3/0}} Circulatory; {{ICD10PCS|3C|3/C}}Indwelling Device; {{ICD10PCS|3E|3/E}} Physiological Systems and Anatomical Regions
+|  Root Operation
+|  Body System/Region
+|  Approach
+|  Substance
+|  Qualifier
+|-
+| {{ICD10PCS|4|4}} Measurement and Monitoring
+| {{ICD10PCS|4A|4/A}} Physiological Systems; {{ICD10PCS|4B|4/B}} Physiological Devices
+|  Root Operation
+|  Body System
+|  Approach
+|  Function
+|  Qualifier
+|-
+| {{ICD10PCS|5|5}} [[Extracorporeal]] Assistance and Performance
+|  {{ICD10PCS|5A|5/A}} Physiological Systems
+|  Root Operation
+|  Body System
+|  Duration
+|  Function
+|  Qualifier
+|-
+| {{ICD10PCS|6|6}} Extracorporeal Therapies
+| {{ICD10PCS|6A|6/A}} Physiological Systems
+|  Root Operation<br>{{ICD10PCS|6A0|6/A/0}} [[Atmospheric control]]; {{ICD10PCS|6A1|6/A/1}} [[Decompression sickness|Decompression]]; {{ICD10PCS|6A2|6/A/2}} [[Electromagnetic therapy]]; {{ICD10PCS|6A3|6/A/3}} [[Hyperthermia]]; {{ICD10PCS|6A4|6/A/4}} [[Hypothermia]]; {{ICD10PCS|6A5|6/A/5}} [[Pheresis]]; {{ICD10PCS|6A6|6/A/6}} [[Phototherapy]]; {{ICD10PCS|6A7|6/A/7}} [[Ultrasound therapy]]; {{ICD10PCS|6A8|6/A/8}} [[Ultraviolet light therapy]]; {{ICD10PCS|6A9|6/A/9}} [[Extracorporeal shockwave therapy|Shock wave therapy]]
+|  Body System
+|  Duration
+|  Qualifier
+|  Qualifier
+|-
+| {{ICD10PCS|7|7}} [[Osteopathic]]
+|  {{ICD10PCS|7W|7/W}} 
+|  {{ICD10PCS|7W0|7/W/0}}
+|  Body Region
+|  Approach
+|  Method
+|  Qualifier
+|-
+| {{ICD10PCS|8|8}} Other Procedures
+|  {{ICD10PCS|8C|8/C}} Indwelling Device; {{ICD10PCS|8E|8/E}} Physiological Systems and Anatomical Regions
+|  Root Operation
+|  Body Region
+|  Approach
+|  Method
+|  Qualifier
+|-
+| {{ICD10PCS|9|9}} [[Chiropractic]]
+| {{ICD10PCS|9W|9/W}}
+|  {{ICD10PCS|9WB|9/W/B}}
+|  Body Region
+|  Approach
+|  Method
+|  Qualifier
+|-
+| {{ICD10PCS|B|B}} [[Medical imaging|Imaging]]
+|  Body System<br>0 Central Nervous System; 2 Heart; 3 Upper Arteries; 4 Lower Arteries; 5 Veins; 7 Lymphatic System; 8 Eye; 9 Ear, Nose, Mouth and Throat; B Respiratory System; D Gastrointestinal System; F Hepatobiliary System and Pancreas; G Endocrine System; H Skin, Subcutaneous Tissue and Breast; L Connective Tissue; N Skull and Facial Bones; P Non-Axial Upper Bones; Q Non-Axial Lower Bones; R Axial Skeleton, Except Skull and Facial Bones; T Urinary System; U Female Reproductive System; V Male Reproductive System; W Anatomical Regions; Y Fetus and Obstetrical 
+|  Root Type
+|  Body Part
+|  Contrast<br>0=high osmolar contrast; 1=low osmolar contrast; z=other contrast
+|  Qualifier
+|  Qualifier
+|-
+| {{ICD10PCS|C|C}} [[Nuclear medicine]]
+|  Body System<br>0 Central Nervous System; 2 Heart; 5 Veins; 7 Lymphatic and Hematologic System; 8 Eye; 9 Ear, Nose, Mouth and Throat; B Respiratory System; D Gastrointestinal System; F Hepatobiliary System and Pancreas; G Endocrine System; H Skin, Subcutaneous Tissue and Breast; P Musculoskeletal System; T Urinary System; V Male Reproductive System; W Anatomical Regions 
+|  Root Type
+|  Body Part
+|  Radionuclide
+|  Qualifier
+|  Qualifier
+|-
+| {{ICD10PCS|D|D}} [[Radiation oncology]]
+|  Body System<br>0 Central and Peripheral Nervous System; 7 Lymphatic and Hematologic System; 8 Eye; 9 Ear, Nose, Mouth and Throat; B Respiratory System; D Gastrointestinal System; F Hepatobiliary System and Pancreas; G Endocrine System; H Skin; M Breast; P Musculoskeletal System; T Urinary System; U Female Reproductive System; V Male Reproductive System; W Anatomical Regions 
+|  Root Type
+|  Body Part
+|  Modality Qualifier
+|  Isotope
+|  Qualifier
+|-
+| {{ICD10PCS|F|F}} [[Physical rehabilitation]] and Diagnostic [[Audiology]]
+|  {{ICD10PCS|F0|F/0}} Rehabilitation; {{ICD10PCS|F1|F/1}} Diagnostic Audiology
+|  Root Type
+|  Body System & Region
+|  Type Qualifier
+|  Equipment
+|  Qualifier
+|-
+| {{ICD10PCS|G|G}} [[Mental health]]
+|  {{ICD10PCS|GZ|G/Z}} None
+|  Root Type<br>{{ICD10PCS|GZ1|G/Z/1}} [[Psychological tests]]; {{ICD10PCS|GZ2|G/Z/2}} [[Crisis intervention]]; {{ICD10PCS|GZ3|G/Z/3}} [[Medication management]]; {{ICD10PCS|GZ5|G/Z/5}} [[Individual psychotherapy]]; {{ICD10PCS|GZ6|G/Z/6}} [[Counseling]]; {{ICD10PCS|GZ7|G/Z/7}} [[Family psychotherapy]]; {{ICD10PCS|GZB|G/Z/B}} [[Electroconvulsive therapy]]; {{ICD10PCS|GZC|G/Z/C}} [[Biofeedback]]; {{ICD10PCS|GZF|G/Z/F}} [[Hypnosis]]; {{ICD10PCS|GZG|G/Z/G}} [[Narcosynthesis]]; {{ICD10PCS|GZH|G/Z/H}} [[Group psychotherapy]]; {{ICD10PCS|GZJ|G/Z/J}} [[Light therapy]]
+|  Type Qualifier
+|  Qualifier
+|  Qualifier
+|  Qualifier
+|-
+| {{ICD10PCS|H|H}} [[Substance abuse]] Treatment
+|  {{ICD10PCS|HZ|H/Z}} None
+|  Root Type
+|  Type Qualifier
+|  Qualifier
+|  Qualifier
+|  Qualifier
+|}
+
+===Root operations===
+For medical/surgical, these are the root operation codes: 
+
+00 alteration; 01 [[Bypass surgery|bypass]]; 02 change; 03 control; 04 creation; 05 destruction; 06 detachment; 07 dilation; 08 division; 09 [[Drainage (medical)|drainage]]; 0B [[Biopsy#Excisional biopsy|excision]]; 0C [[thrombectomy|extirpation]]; 0D extraction; 0F fragmentation; 0G fusion; 0H insertion; 0J inspection; 0K map; 0L occlusion; 0M [[reattachment]]; 0N release; 0P removal; 0Q repair; 0R replacement; 0S reposition; 0T resection; 0U supplement ; 0V restriction; 0X transfer; 0Y [[Organ transplant|transplantation]]
+
+They can be grouped into several categories:<ref name="cms.gov"/>
+
+* take out or eliminate all or a portion of a body part: excision ([[sigmoid polypectomy]]), resection ([[total nephrectomy]]), extraction ([[toenail extraction]]), destruction ([[rectal polyp fulguration]]), detachment ([[below knee amputation]]). For [[biopsies]], "extraction" is used when force is required (as with [[endometrial biopsy]]), and "excision" is used when minimal force is involved (as with [[liver biopsy]]). See also [[ectomy]].
+
+* involve putting in or on, putting back, or moving living body part: [[Organ transplant|transplantation]] ([[heart transplant]]), reattachment ([[finger reattachment]]), reposition ([[reposition undescended testicle]]), transfer ([[tendon transfer]])
+
+* take out or eliminate solid matter, fluids, or gases from a body part: [[Drainage (medical)|drainage]] ([[incision and drainage]]), extirpation ([[thrombectomy]]), fragmentation ([[lithotripsy]] of [[gallstones]])
+
+* only involve examination of body parts and regions: inspection ([[diagnostic arthroscopy]]), map ([[cardiac mapping]])
+
+* involve putting in or on, putting back, or moving living body part: [[Bypass surgery|bypass]] ([[gastrojejunal bypass]]), dilation ([[coronary artery dilation]]), occlusion ([[fallopian tube ligation]]), restriction ([[cervical cerclage]])
+
+* always involve devices: insertion ([[pacemaker insertion]]), replacement ([[total hip replacement]]), supplement ([[herniorrhaphy using mesh]]), removal ([[cardiac pacemaker removal]]), change ([[drainage tube change]]), revision ([[hip prosthesis adjustment]])
+
+* involve cutting and separation only: division ([[osteotomy]]), release ([[peritoneal adhesiolysis]])
+
+* involving other repair: control ([[control of postprostatectomy bleeding]]), repair ([[suture of laceration]])
+
+* with other objectives: alteration ([[face lift]]), creation ([[artificial vagina creation]]), fusion ([[spinal fusion]])
+
+===Regions===
+Regions: 0 [[Human head|Head]]; 1 [[Neck|Cervical]], 2 [[Chest|Thoracic]], 3 [[Lumbar]], 4 [[Sacrum]], 5 [[Human pelvis|Pelvis]], 6 [[Lower extremities]], 7 [[Upper extremities]], 8 [[Human rib cage|Rib cage]], 9 [[Abdomen]]
+
+==See also==
+{{Wikisource|ICD-10-PCS (2011)}}
+*[[ICD-10 Clinical Modification]]
+* [[Procedure codes]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.cms.gov/ICD10/11b_2011_ICD10PCS.asp 2011 ICD-10-PCS and GEMs]
+* [http://www.icd10data.com/ICD10PCS/Codes Browser]
+* [http://med-code.info/?country=us&locale=us Search Engine for ICD-10 PCS and ICD-10 WHO 2010]
+
+{{Medical classification}}
+{{Neurosurgical procedures}}
+{{Cardiac surgery}}
+{{Vascular surgery procedures}}
+{{Operations and other procedures of the hemic and lymphatic system}}
+{{Eye surgery}}
+{{Operations and other procedures on the ear}}
+{{Operations and other procedures on the nose, mouth, and pharynx}}
+{{Respiratory system surgeries and other procedures}}
+{{Digestive system surgical procedures}}
+{{Endocrine system operations and other procedures}}
+{{Skin and subcutaneous tissue procedures}}
+{{Breast procedures}}
+{{Muscle/soft tissue procedures}}
+{{Bone/joint procedures}}
+{{Urologic surgical and other procedures}}
+{{Female genital procedures}}
+{{Male genital procedures}}
+{{Obstetrical procedures}}
+{{Medical placement and administration procedures}}
+{{Extracorporeal assistance, performance, and therapy}}
+{{Chiropractic}}
+{{Medical imaging}}
+{{Radiation oncology}}
+{{Physical therapy and rehabilitation}}
+{{Psychologic and psychiatric evaluation and testing}}
+{{Psychotherapy}}
+
+[[Category:Clinical procedure classification]]

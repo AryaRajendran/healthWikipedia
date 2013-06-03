@@ -1,0 +1,95 @@
+[[Image:Pentose Phosphate Pathway.png|thumb|right|400px|The Pentose Phosphate Pathway]]
+The '''pentose phosphate pathway''' (also called the '''phosphogluconate pathway''' and the '''hexose monophosphate shunt''') is a process that generates [[NADPH]] and [[pentose]]s (5-[[carbon]] [[sugar]]s). There are two distinct phases in the pathway. The first is the [[oxidation|oxidative]] phase, in which NADPH is generated, and the second is the non-oxidative [[synthesis]] of 5-carbon sugars. This pathway is an alternative to [[glycolysis]]. While it does involve oxidation of [[glucose]], its primary role is anabolic rather than catabolic. For most organisms, it takes place in the [[cytosol]]; in plants, most steps take place in [[plastid]]s.<ref>{{cite journal |author=Kruger NJ, von Schaewen A |title=The oxidative pentose phosphate pathway: structure and organisation |journal=Curr. Opin. Plant Biol. |volume=6 |issue=3 |pages=236–46 |year=2003 |month=June |pmid=12753973 |doi= 10.1016/S1369-5266(03)00039-6|url=http://linkinghub.elsevier.com/retrieve/pii/S1369526603000396}}</ref>
+
+==Outcome==
+The primary results of the Pathway are:
+
+*The generation of reducing equivalents, in the form of NADPH, used in reductive biosynthesis reactions within cells. (e.g. [[fatty acid synthesis]])
+*Production of ribose-5-phosphate ([[R5P]]), used in the synthesis of nucleotides and nucleic acids.
+*Production of erythrose-4-phosphate ([[erythrose-4-phosphate|E4P]]), used in the synthesis of aromatic amino acids.
+
+Aromatic amino acids, in turn, are precursors for many biosynthetic pathways, notably including the lignin in wood.
+
+Dietary pentose sugars derived from the digestion of nucleic acids may be metabolized through the pentose phosphate pathway, and the carbon skeletons of dietary carbohydrates may be converted into glycolytic/gluconeogenic intermediates.
+
+In mammals, the PPP occurs exclusively in the cytoplasm, and is found to be most active in the liver, mammary gland and adrenal cortex in the human. The PPP is one of the three main ways the body creates molecules with [[reduction (chemistry)|reducing]] power, accounting for approximately 60% of NADPH production in humans.
+
+One of the uses of NADPH in the cell is to prevent [[oxidative stress]]. It reduces [[glutathione]] via [[glutathione reductase]], which converts reactive H<sub>2</sub>O<sub>2</sub> into H<sub>2</sub>O by [[glutathione peroxidase]]. If absent, the H<sub>2</sub>O<sub>2</sub> would be converted to hydroxyl free radicals by [[Fenton's reagent|Fenton chemistry]], which can attack the cell. Erythrocytes, for example, generate a large amount of NADPH through the pentose phosphate pathway to use in the reduction of glutathione. 
+
+[[Hydrogen peroxide]] is also generated for [[phagocytes]] in a process often referred to as a [[respiratory burst]].<ref>{{GeorgiaImmunology|1/cytotox}}</ref>
+
+==Phases==
+===Oxidative phase===
+In this phase, two molecules of [[NADP]]<sup>+</sup> are reduced to [[NADPH]], utilizing the energy from the conversion of [[glucose-6-phosphate]] into [[ribulose 5-phosphate]].
+
+[[Image:Ox Pentose phosphate pathway.svg|thumb|center|500px|Oxidative phase of pentose phosphate pathway. glucose-6-phosphate ('''1'''), 6-phosphoglucono-δ-lactone ('''2'''), 6-phosphogluconate ('''3'''), ribulose 5-phosphate ('''4''').]]
+
+The entire set of reactions can be summarized as follows:
+
+{| class="wikitable"
+| '''Reactants''' || '''Products''' || '''Enzyme''' || '''Description''' 
+ |- 
+ | [[Glucose 6-phosphate]] + NADP+  || → [[6-phosphoglucono-&delta;-lactone]] + '''NADPH''' || [[glucose 6-phosphate dehydrogenase]] || [[Dehydrogenation]]. The hemiacetal hydroxyl group located on carbon 1 of glucose 6-phosphate is converted into a carbonyl group, generating a lactone, and, in the process, [[NADPH]] is generated.  
+ |- 
+ | [[6-phosphoglucono-&delta;-lactone]] + H<sub>2</sub>O  || → [[6-phosphogluconate]] + H<sup>+</sup> || [[6-phosphogluconolactonase]] || [[Hydrolysis]]  
+ |- 
+ | [[6-phosphogluconate]] + NADP<sup>+</sup>  || → [[ribulose 5-phosphate]] + '''NADPH''' + CO<sub>2</sub> || [[6-phosphogluconate dehydrogenase]] ||  Oxidative [[decarboxylation]]. NADP<sup>+</sup> is the electron acceptor, generating another molecule of [[NADPH]], a CO<sub>2</sub>, and [[ribulose 5-phosphate]]. 
+ |- 
+ |}
+
+The overall reaction for this process is:
+:Glucose 6-phosphate + 2 NADP<sup>+</sup> + H<sub>2</sub>O &rarr; ribulose 5-phosphate + 2 NADPH + 2 H<sup>+</sup> + CO<sub>2</sub>
+
+===Non-oxidative phase===
+[[File:Nichtox Pentosephosphatweg.png|thumb|center|600px|The pentose phosphate pathway's nonoxidative phase]]
+
+{| class="wikitable"
+| '''Reactants''' || '''Products''' || '''Enzymes'''
+ |- 
+ | [[ribulose 5-phosphate]]  || → [[ribose 5-phosphate]]  || Ribulose 5-Phosphate Isomerase 
+ |- 
+ | [[ribulose 5-phosphate]]  || → [[xylulose 5-phosphate]] || Ribulose 5-Phosphate 3-Epimerase
+ |- 
+ | [[xylulose 5-phosphate]] + [[ribose 5-phosphate]]  || → [[glyceraldehyde 3-phosphate]] + [[sedoheptulose 7-phosphate]] || [[transketolase]] 
+ |- 
+ | [[sedoheptulose 7-phosphate]] + [[glyceraldehyde 3-phosphate]]  || → [[erythrose 4-phosphate]] + [[fructose 6-phosphate]] || [[transaldolase]]
+ |- 
+ | [[xylulose 5-phosphate]] + [[erythrose 4-phosphate]] ||  → [[glyceraldehyde 3-phosphate]] + [[fructose 6-phosphate]] || [[transketolase]]
+|}
+
+Net reaction:
+3 ribulose-5-phosphate → 1 ribose-5-phosphate + 2 xylulose-5-phosphate → 2 fructose-6-phosphate + glyceraldehyde-3-phosphate
+
+===Regulation===
+
+[[Glucose-6-phosphate dehydrogenase]] is the rate-controlling enzyme of this pathway. It is [[allosteric]]ally stimulated by NADP<sup>+</sup>. The ratio of NADPH:NADP<sup>+</sup> is normally about 100:1 in liver cytosol. This makes the cytosol a highly-reducing environment. An NADPH-utilizing pathway forms NADP<sup>+</sup>, which stimulates [[Glucose-6-phosphate dehydrogenase]] to produce more NADPH.  This step is also inhibited by [[acetyl CoA]].
+
+==See also==
+* [[Glucose-6-phosphate dehydrogenase deficiency|G6PDH deficiency]] - A hereditary disease that disrupts the pentose phosphate pathway
+* [[NADPH]]
+* [[RNA]]
+* [[thiamine deficiency]]
+* [[Frank Dickens (biochemist)|Frank Dickens FRS]]
+
+==Erythrocytes and the pentose phosphate pathway==
+    
+
+    
+Several deficiencies in the level of activity (not function) of glucose-6-phosphate dehydrogenase have been observed to be associated with resistance to the malarial parasite [[Plasmodium falciparum]] among individuals of Mediterranean and African descent. The basis for this resistance may be a weakening of the red cell membrane (the erythrocyte is the host cell for the parasite) such that it cannot sustain the parasitic life cycle long enough for productive growth.<ref>{{cite journal |author=Cappadoro M, Giribaldi G, O'Brien E, ''et al.'' |title=Early phagocytosis of glucose-6-phosphate dehydrogenase (G6PD)-deficient erythrocytes parasitized by Plasmodium falciparum may explain malaria protection in G6PD deficiency |journal=Blood |volume=92 |issue=7 |pages=2527–34 |year=1998 |month=October |pmid=9746794 |url=http://bloodjournal.hematologylibrary.org/cgi/content/full/92/7/2527}}</ref>
+
+==References==
+<references/>
+
+==External links==
+*[http://www2.ufp.pt/~pedros/bq/ppp.htm The chemical logic behind the pentose phosphate pathway]
+*{{MeshName|Pentose+Phosphate+Pathway}}
+*[http://www.genome.jp/dbget-bin/www_bget?path:hsa00030 Pentose phosphate pathway Map - Homo sapiens]
+
+{{Carbohydrate metabolism}}
+{{MetabolismMap}}
+{{Pentose phosphate pathway}}
+{{Pentose phosphate pathway intermediates}}
+
+{{DEFAULTSORT:Pentose Phosphate Pathway}}
+[[Category:Metabolic pathways]]
+[[Category:Phosphorus]]

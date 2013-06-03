@@ -1,0 +1,546 @@
+A '''biosafety level''' is the level of the [[biocontainment]] precautions required to isolate dangerous [[biological agent]]s in an enclosed facility. The levels of containment range from the lowest biosafety level 1 (BSL-1) to the highest at level 4 (BSL-4). In the United States, the [[Centers for Disease Control and Prevention]] (CDC) have specified these levels.<ref name=BMBL>{{cite book | author = Richmond JY, McKinney RW (editors) | title = Biosafety in Microbiological and Biomedical Laboratories | edition = 4th ed. | publisher = | year = 1999 | url= http://www.cdc.gov/od/ohs/biosfty/bmbl4/bmbl4toc.htm | isbn = 0-7881-8513-6 }}</ref> In the [[European Union]], the same biosafety levels are defined in a [[European Union directive|directive]].<ref>Council Directive 90/679/EEC of 26 November 1990 on the protection of workers from risks related to exposure to biological agents at work, OJ No. L 374, p. 1.</ref>
+
+== History ==
+The first prototype Class III (maximum containment) [[biosafety cabinet]] was fashioned in 1943 by Hubert Kaempf Jr., then a U.S. Army soldier, under the direction of Dr. Arnold G. Wedum, Director (1944–69) of Industrial Health and Safety at the [[United States Army Biological Warfare Laboratories]], [[Camp Detrick]], [[Maryland]]. Kaempf was tired of his [[military police|MP]] duties at Detrick and was able to transfer to the sheet metal department working with the contractor, the H.K. Ferguson Co.<ref>Covt, Norman M. (1997), [http://www.detrick.army.mil/cutting_edge/index.cfm “A History of Fort Detrick, Maryland”], 3rd edition. Kaempf retired from Fort Detrick in 1994, having completed more than 50 years service. He was chief of the mechanical branch, Directorate of Engineering and Housing.</ref>
+
+On 18 April 1955, fourteen representatives met at Camp Detrick in Frederick, Maryland. The meeting was to share knowledge and experiences regarding [[biosafety]], chemical, radiological, and industrial safety issues that were common to the operations at the three principal biological warfare (BW) laboratories of the U.S. Army<ref>{{cite web
+|url= http://www.absa.org/abohist1.html
+|title= A History of the American Biological Safety Association
+|accessdate= 2008-08-14
+|author= Manuel S. Barbeito
+|last=
+|first=
+|authorlink=
+|coauthors= Richard H. Kruse
+|date=
+|year=
+|month=
+|work=
+|publisher= American Biological Safety Association
+|pages=
+|language=
+|doi=
+|archiveurl=
+|archivedate=
+|quote=
+}}</ref><ref>{{cite web
+|url= http://www.molecular-plant-biotechnology.info/biosafety/biosafety-history.htm
+|title= Biosafety History,Recombinant DNA Molecules,Hybrid Organisms,NIH Guidelines,Bacillus Subtilis
+|accessdate= 2008-08-14
+|author=
+|last=
+|first=
+|authorlink=
+|coauthors=
+|date=
+|year=
+|month=
+|work=
+|publisher= Molecular-Plant-Biotechnology.info
+|pages=
+|language=
+|doi=
+|archiveurl=
+|archivedate=
+|quote=
+}}</ref> Because of the potential implication of the work conducted at biological warfare laboratories, the conferences was restricted to top level security clearances. Beginning in 1957, these conferences were planned to include non-classified sessions as well as classified sessions to enable broader sharing of biological safety information. It was not until 1964, however, that conferences were held in a government installation not associated with a biological warfare program.<ref name="USDA-ABSA">{{cite web
+| url         = http://riley.nal.usda.gov/nal_display/index.php?info_center=8&tax_level=4&tax_subject=158&topic_id=1982&level3_id=6419&level4_id=10967&level5_id=0&placement_default=0&test
+| title       = American Biological Safety Association Collection : NAL Collections : National Agricultural Library
+| accessdate  = 2009-02-11
+| author      =
+| last        =
+| first       =
+| authorlink  =
+| coauthors   =
+| date        = 2009-02-11
+| year        =
+| month       =
+| format      =
+| work        =
+| publisher   = United States Department of Agriculture: National Agricultural Library
+| location    =
+| pages       =
+| language    =
+| doi         =
+| archiveurl  =
+| archivedate =
+| dateformat  =
+| quote       =
+}}</ref>
+
+Over the next ten years, the biological safety conferences grew to include representatives from all federal agencies that sponsored or conducted research with pathogenic microorganisms. By 1966 it began to include representatives from universities, private laboratories, hospitals, and industrial complexes. Throughout the 1970s, participation in the conferences continued to expand and by 1983 discussions began regarding the creation of a formal organization.<ref name="USDA-ABSA" /> The [[American Biological Safety Association]] (ABSA) was officially established in 1984 and a constitution and bylaws were drafted the same year. As of 2008, ABSA includes some 1,600 members in its professional association.<ref name="USDA-ABSA" />
+
+== Rationale ==
+[[File:Positive-pressure biosafety suit.jpg|left|thumb|CDC technician dons an older-model positive-pressure suit before entering one of the CDC’s earlier maximum containment labs.]]
+Biocontainment can be classified by the relative danger to the surrounding environment as biological safety levels (BSL). {{As of|2006}}, there are four safety levels. These are called ''BSL1'' through ''BSL4'', with one anomalous level ''BSL3-ag'' for agricultural hazards between BSL3 and BSL4. Facilities with these designations are also sometimes given as '''P1''' through '''P4''' (for Pathogen or Protection level), as in the term ''P3 laboratory''. Higher numbers indicate a greater risk to the external environment. ''See [[biological hazard]]''.
+
+At the lowest level of biocontainment, the containment zone may only be a chemical [[fume hood]]. At the highest level the containment involves isolation of the organism by means of building systems, sealed rooms, sealed containers, [[positive pressure personnel suit]]s (sometimes referred to as "space suits") and elaborate procedures for entering the room, and decontamination procedures for leaving the room. In most cases this also includes high levels of security for access to the facility, ensuring that only authorized personnel may be admitted to any area that may have some effect on the quality of the containment zone. This is considered a hot zone.
+
+== Levels ==
+=== Biosafety level 1 ===
+
+This level is suitable for work involving well-characterized agents not known to consistently cause disease in healthy adult humans, and of minimal potential hazard to laboratory personnel and the environment (CDC,1997).<ref name=richmond>[http://www.cdc.gov/OD/ohs/symp5/jyrtext.htm The 1, 2, 3's of Biosafety Levels<!-- Bot generated title -->]</ref>
+
+It includes several kinds of bacteria and viruses including [[infectious canine hepatitis|canine hepatitis]], non-pathogenic ''[[Escherichia coli]]'', as well as some cell cultures and non-infectious bacteria. At this level, precautions against the biohazardous materials in question are minimal and most likely involve gloves and some sort of facial protection. The laboratory is not necessarily separated from the general traffic patterns in the building. Work is generally conducted on open bench tops using standard microbiological practices. Usually, contaminated materials are left in open (but separately indicated) waste receptacles. Decontamination procedures for this level are similar in most respects to modern precautions against everyday microorganisms (i.e., washing one's hands with anti-bacterial soap, washing all exposed surfaces of the lab with disinfectants, etc.). In a lab environment all materials used for cell and/or bacteria cultures are decontaminated via [[autoclave]]. Laboratory personnel have specific training in the procedures conducted in the laboratory and are supervised by a scientist with general training in [[microbiology]] or a related science.
+
+=== Biosafety level 2 ===
+
+This level is similar to Biosafety Level 1 and is suitable for work involving agents of moderate potential hazard to personnel and the environment.<ref name=richmond/> It includes various bacteria and viruses that cause only mild disease to humans, or are difficult to contract via [[aerosol]] in a lab setting, such as ''[[Clostridium difficile|C. difficile]]'', most [[Chlamydiae]], hepatitis [[Hepatitis A|A]], [[Hepatitis B|B]], and [[Hepatitis C|C]], [[orthopoxvirus]]es (other than [[smallpox]]), [[influenza A]], [[Lyme disease]], ''[[Salmonella]]'', [[mumps]], [[measles]], <ref>"Routine diagnostic work with clinical specimens can be done safely at Biosafety Level 2, using Biosafety Level 2 practices and procedures. Research work (including co-cultivation, virus replication studies, or manipulations involving concentrated virus) can be done in a BSL-2 (P2) facility, using BSL-3 practices and procedures. Virus production activities, including virus concentrations, require a BSL-3 (P3) facility and use of BSL-3 practices and procedures", see [http://www.cdc.gov/od/ohs/biosfty/bmbl4/bmbl4s6.htm Recommended Biosafety Levels for Infectious Agents].</ref> [[scrapie]], [[Methicillin-resistant Staphylococcus aureus|MRSA]], and [[Vancomycin-resistant Staphylococcus aureus|VRSA]]. BSL-2 differs from BSL-1 in that:
+
+# laboratory personnel have specific training in handling pathogenic agents and are directed by scientists with advanced training;
+# access to the laboratory is limited when work is being conducted;
+# extreme precautions are taken with contaminated sharp items; and
+# certain procedures in which infectious aerosols or splashes may be created are conducted in [[Class II cabinet|biological safety cabinet]]s or other physical containment equipment.
+
+=== Biosafety level 3 ===
+[[File:Influenza virus research.jpg|thumb|Researcher at US Centers for Disease Control, Bethesda, Maryland, working with influenza virus under biosafety level 3 conditions, with respirator inside a biosafety cabinet ([[biological safety cabinet|BSC]]).]]
+
+This level is applicable to clinical, diagnostic, teaching, research, or production facilities in which work is done with indigenous or exotic agents which may cause serious or potentially lethal disease after inhalation.<ref name=richmond/> It includes various bacteria, parasites and viruses that can cause severe to fatal disease in humans but for which treatments exist, such as ''[[Francisella tularensis]]'', ''[[Leishmania donovani]]'', ''[[Mycobacterium tuberculosis]]'', ''[[Bacillus anthracis]]'', ''[[Chlamydia psittaci]]'', [[West Nile virus]], [[Venezuelan equine encephalitis virus]], [[Eastern equine encephalitis virus]], [[SARS coronavirus]],  ''[[Coxiella burnetii]]'', [[Rift Valley fever virus]], ''[[Rickettsia rickettsii]]'', several species of ''[[Brucella]]'' and [[yellow fever virus]].
+
+Laboratory personnel have specific training in handling pathogenic and potentially lethal agents, and are supervised by competent scientists who are experienced in working with these agents. This is considered a neutral or warm zone.
+
+All procedures involving the manipulation of infectious materials are conducted within biological safety cabinets, specially designed [[fume hood|hoods]], or other physical containment devices, or by personnel wearing appropriate personal protective clothing and equipment. The laboratory has special engineering and design features.
+
+It is recognized, however, that some existing facilities may not have all the facility features recommended for Biosafety Level 3 (i.e., double-door access zone and sealed penetrations). In this circumstance, an acceptable level of safety for the conduct of routine procedures, (e.g., diagnostic procedures involving the propagation of an agent for identification, typing, susceptibility testing, etc.), may be achieved in a biosafety level 2 (P2) facility, providing
+
+# the filtered exhaust air from the laboratory room is discharged to the outdoors,
+# the ventilation to the laboratory is balanced to provide directional airflow into the room,
+# access to the laboratory is restricted when work is in progress, and
+# the recommended Standard Microbiological Practices, Special Practices, and Safety Equipment for Biosafety Level 3 are rigorously followed.
+
+The decision to implement this modification of biosafety level 3 recommendations is made only by the laboratory director.
+
+=== Biosafety level 4 ===
+
+[[Image:Galveston National Laboratory at UTMB.jpg|thumb|The [[Galveston National Laboratory]] BSL-4 (P4) lab on the Campus of the [[University of Texas Medical Branch]]]]
+
+This level is required for work with dangerous and exotic agents that pose a high individual risk of aerosol-transmitted laboratory infections, agents which cause severe to fatal disease in humans for which vaccines or other treatments are ''not'' available, such as [[Bolivian hemorrhagic fever|Bolivian]] and [[Argentine hemorrhagic fever]]s, [[Marburg virus]], [[Ebola virus]], [[Lassa virus]], [[Crimean-Congo hemorrhagic fever]], and various other [[viral hemorrhagic fever|hemorrhagic]] diseases. This level of protection is also used for work with materials considered so dangerous as to require it regardless of vaccination availability such as [[Smallpox]]. When dealing with biological hazards at this level the use of a [[positive pressure personnel suit]], with a segregated air supply, is mandatory. The entrance and exit of a level four biolab will contain multiple showers, a vacuum room, an [[ultraviolet]] light room, and other safety precautions designed to destroy all traces of the biohazard. Multiple airlocks are employed and are electronically secured to prevent both doors opening at the same time. All air and water service going to and coming from a biosafety level 4 (or P4) lab will undergo similar decontamination procedures to eliminate the possibility of an accidental release.
+
+Agents with a close or identical antigenic relationship to biosafety level 4 agents are handled at this level until sufficient data is obtained either to confirm continued work at this level, or to work with them at a lower level.
+
+Members of the laboratory staff have specific and thorough training in handling extremely hazardous infectious agents and they understand the primary and secondary containment functions of the standard and special practices, the containment equipment, and the laboratory design characteristics. They are supervised by qualified scientists who are trained and experienced in working with these agents. Access to the laboratory is strictly controlled by the laboratory director.
+
+The facility is either in a separate building or in a controlled area within a building, which is completely isolated from all other areas of the building. A specific facility operations manual is prepared or adopted. Building protocols for preventing contamination often use negatively pressurized facilities, which, even if compromised, would severely inhibit an outbreak of aerosol pathogens.
+
+Within work areas of the facility, all activities are confined to Class III biological safety cabinets, or Class II biological safety cabinets used with one-piece positive pressure personnel suits ventilated by a life support system.
+
+== List of BSL-4 facilities ==
+{{Disputed-section|date=November 2010}}
+{{Expand section|information completing the table, and citations|date=August 2008}}
+According to the United State Government Accountability Office (GAO) report published on October 4, 2007, a total of 1356 CDC/USDA registered BSL-3 facilities were identified throughout the United States (GAO-08-108T <ref name="gao.gov">http://www.gao.gov/new.items/d08108t.pdf</ref>). This represents a very conservative estimate of the number of facilities in the US in 2007. Approximately 36% of these laboratories are located in academia. Only 15 BSL-4 facilities were identified at the time, including 9 at federal labs.<ref name="gao.gov"/>
+<!--
+DEFAULT SORT: SORT LIST BY LOCATION: COUNTRY, PROVINCE, CITY, INSTITUTE, FACILITY NAME
+DATES SHOULD BE PLACED IN ISO FORMAT: YYYY-MM-DD
+
+NOTABILITY: THE FOLLOWING IS A LIST OF NOTABLE BIOSAFETY FACILITIES, LEVEL 4 ARE ACCEPTED BECAUSE OF THE NATURE OF THEIR WORK. IF THE THE FACILITY IS 3 OR BELOW, IT MUST BE LINKED TO AN ARTICLE ELABORATING ON IT
+-->
+{| class="sortable wikitable" style="vertical-align:top; font-size:95%;"
+! Name
+! Location
+! Level
+! Established
+! Discontinued
+! class="unsortable" | Description
+|-
+| Microbial Containment Complex
+| [[India]], [[Pune]]
+| 4
+| 2012
+|
+|Bio-Safety Level-IV Laboratory established by ICMR with support from Department of Science & Technology
+|-
+| Virology Laboratory of the Queensland Department of Health
+| [[Australia]], [[Queensland]], [[Coopers Plains, Queensland|Coopers Plains]]
+| 4
+|
+|
+|
+|-
+| University of Queensland - Sir Albert Sakzewski Virus Research Centre (SASVRC) Royal Women's Hospital Brisbane P3 (BL3)
+| [[Australia]], [[Queensland]], [[Herston, Queensland|Herston]]
+| 3+4
+|
+|
+|-
+| [[Australian Animal Health Laboratory]]
+| [[Australia]], [[Victoria (Australia)|Victoria]], [[Geelong]]
+| 4
+|
+|
+|
+|-
+|National High Security Laboratory
+|[[Australia]], [[Victoria (Australia)|Victoria]], [[North Melbourne, Victoria|North Melbourne]]
+| 4
+|
+|
+| [http://www.vidrl.org.au/ National High Security Laboratory] Operates under the auspice of the Victoria Infectious Diseases Reference Laboratory.
+|-
+| [[Republican Research and Practical Center for Epidemiology and Microbiology]]
+| [[Belarus]], [[Minsk]]
+| 4
+|
+|
+| [http://belriem.by/en/ Department of Molecular Epidemiology & Innovational Biotechnologies]
+|-
+| [[National Microbiology Laboratory]]
+| [[Canada]], [[Manitoba]], [[Winnipeg]]
+| 4
+|
+|
+| Located at the [[Canadian Science Centre for Human and Animal Health]], it is jointly operated by the [[Public Health Agency of Canada]] and the [[Canadian Food Inspection Agency]].
+|-
+| Wuhan Institute of Virology of the Chinese Academy of Sciences
+| [[China]], [[Hubei]], [[Wuhan]]
+| 4
+|2003
+|
+| [http://www.whiov.ac.cn/ Wuhan Institute of Virology] already hosts a BSL-3 laboratory. A distinct BSL-4 facility is currently being built based on P4 standards, the original technology for confinement developed by France.<ref>[http://www.climaplus.fr/index-IDP-0-actu-2-lg-en.html French subcontractor release and ][http://www.climaplus.fr/index-IDP-23-Sect-6-real-34-lg-en.html programme profile page]</ref><ref>[http://www.bioindustry.cn/english/institute-10 Information on Wuhan Institute of Virology and timeline]</ref> It will be the first at level 4 in China, under the direction of Shi Zhengli.<ref>[http://www.publichealth.pitt.edu/deansblog/2008/01/wuhan-china.html Don Burke's Global Health Blog - Wuhan, China]</ref>
+|-
+| Biological Defense Center
+| [[Czech Republic]], [[Pardubice Region|Pardubice]], [[Těchonín]]
+| 4
+|
+|
+| Located at the Centrum biologické ochrany (Biological Defense Center)<ref>[http://www.army.cz/scripts/detail.php?id=9448 Ministerstvo obrany - Centrum biologické ochrany Těchonín<!-- Bot generated title -->]</ref>
+|-
+| Laboratoire P4 [[Jean Mérieux]]
+| [[France]], [[Rhône-Alpes]], [[Lyon]]
+| 4
+| 1999-03-05
+|
+| [http://www.cervi-lyon.inserm.fr/ Jean Mérieux] laboratory is a co-operation between the [[Pasteur Institute]] and [[INSERM]]. Note that in France, it is P4 for Pathogen or Protection level 4.<ref>[http://www.cervi-lyon.inserm.fr/themes/Presentation/PresentationGB.html English presentation of Jean Mérieux P4 laboratory]</ref>
+|-
+| Centre International de Recherches Médicales de Franceville
+| [[Gabon]]
+| 4
+|
+|
+| This facility is operated by a research organization supported by both Gabonese (mainly) and French governments, and is West Africa's only P4 lab (BSL-4).<ref>[http://www.cirmf.org CIRMF]</ref>
+|-
+| [[Robert Koch Institute]]
+| [[Germany]], [[Berlin]]
+| 4
+|
+|
+| The facility was licenced for construction by City of Berlin on November 30, 2008.
+|-
+| [[Bernhard Nocht Institute for Tropical Medicine]]
+| [[Germany]], [[Hamburg]]
+| 4
+|
+|
+|
+|-
+| [[Friedrich Loeffler Institute]] on the Isle of Riems
+| [[Germany]], Isle of Riems ([[Greifswald]])
+| 4
+| 2010
+|
+| Deals especially with virology
+|-
+| [[Philipps University]] of [[Marburg]]
+| [[Germany]], [[Marburg]]
+| 4
+| 2008
+|
+| The facility is licenced to work with genetically modified organisms
+|-
+| High Security Animal Disease Laboratory (HSADL)
+| [[India]], [[Bhopal]]
+| 4
+| 1998
+|
+| This facility deals especially to zoonotic organisms and emerging infectious disease threats.
+|-
+| [[Centre for Cellular and Molecular Biology]]
+| [[India]], [[Hyderabad, India|Hyderabad]]
+| 4
+| 2009
+| 
+|National Bio-Safety Level-4 Containment Facility for Human Infectious Diseases & Clinical Research Facility in Regenerative Medicine <ref>http://web.mit.edu/ssp/news/event_presentations/kuhn-biosecurity.pdf</ref><ref>http://www.thehindubusinessline.com/todays-paper/tp-economy/article1674123.ece</ref>
+|-
+| [[All India Institute of Medical Sciences]]
+| [[India]], [[New Delhi]]
+| 1–4
+| 1993
+|
+| Conducts studies on major pathogenic organisms. Has contributed in discovering new strains & vaccines.
+|-
+| Azienda Ospedaliera Ospedale Luigi Sacco
+| [[Italy]], [[Lombardy]], [[Milan]]
+| 4
+|
+|
+| A university hospital in Polo Universitario; it contains two special vehicles for transporting infectious persons.
+|-
+| Istituto Nazionale Malattie Infettive
+| [[Italy]], [[Rome]], [[Rome]]
+| 4
+|
+|
+| This facility, (trans.) National Institute of Infectious Diseases, operates within the Lazzaro Spallanzani Hospital.
+|-
+| National Institute for Infectious Diseases
+| [[Japan]], [[Kantō region|Kantō]], [[Tokyo]]
+| 3 (4)
+|
+|
+| Located at National Institute for Infectious Diseases, Department of Virology I; this lab has the potential of operating as a BSL-4, however it is limited to perform work on only BSL-3 agents due to opposition from local residents and communities.
+|-
+| [[Institute of Physical and Chemical Research]]
+| [[Japan]], [[Kantō region|Kantō]], [[Tsukuba, Ibaraki|Tsukuba]]
+| (4)
+|
+|
+| This is a non-operating BSL-4 facility.
+|-
+| [[Netherlands National Institute for Public Health and the Environment]] (RIVM)
+| [[Netherlands]], [[Bilthoven]]
+| 3–4
+| 2009
+|
+| 
+|-
+| Cantacuzino Microbiological Research Institute (INCDMI)
+| [[Romania]], [[Bucharest]]
+| 4
+| 
+|
+| <ref>[http://www.embarc.eu/7-ODracea.pdf]</ref> 
+|-
+| "Dr. Carol Davila" Central Military Hospital 
+| [[Romania]], [[Bucharest]]
+| 3–4 
+|
+|
+| <ref>[http://www.institutiimedicale.ro/spitale/spitalul-militar-central.html]</ref>
+|-
+| [[State Research Center of Virology and Biotechnology VECTOR]]
+| [[Russia]], [[Novosibirsk Oblast]], [[Koltsovo, Novosibirsk Oblast|Koltsovo]]
+| 1–4
+|
+|
+| It is one of two facilities in the world that officially hold [[smallpox]]. The other Russian BSL-4 facilities have been dismantled.
+|-
+| National Institute for Communicable Diseases
+| [[South Africa]], [[Johannesburg]]
+| 4
+|
+|
+| [http://www.nicd.ac.za/ National Institute for Communicable Diseases] of [http://www.nicd.ac.za/?page=special_pathogens_unit&id=25 Special Pathogens Unit] is one of only two BSL-4 facilities in Africa but the only suit laboratory on the continent.
+|-
+| Swedish Institute for Communicable Disease Control
+| [[Sweden]], [[Solna Municipality|Solna]]
+| 4
+|
+|
+| [http://www.smittskyddsinstitutet.se Swedish Institute for Communicable Disease Control] is [[Scandinavia]]'s P4 facility.
+|-
+| Institute of Virology and Immunoprophylaxis (IVI)
+| [[Switzerland]], [[Mittelhäusern]]
+| 4
+| 2007-02-01
+|
+| This facility only deals with animal diseases which do not transmit to humans, and is the only P4 facility where complete isolation suits are not used.
+|-
+| High Containment Laboratory DDPS (SiLab)
+| [[Switzerland]], [[Spiez]]
+| 4
+|
+|
+| Under construction, it will start operations in 2010. This laboratory will comply with BSL-4 standards.
+|-
+| Kwen-yang Laboratory (昆陽實驗室) Center of Disease Control
+| [[Taiwan]]
+| 4
+|
+|
+| Part of the Department of Health, Taiwan.
+|-
+| Preventive Medical Institute of [[ROC Ministry of National Defense]]
+| [[Taiwan]]
+| 4
+|
+|
+|
+|-
+| [[Health Protection Agency]]'s Centre for Infections
+| [[United Kingdom]], [[Colindale]]
+| 4
+|
+|
+| Located in the Viral Zoonosis unit.
+|-
+| [[National Institute for Medical Research]]
+| [[United Kingdom]], [[London]]
+| 4
+|
+|
+| <ref>{{cite news | url = http://www.timesonline.co.uk/tol/news/uk/article2231402.ece | title = Deadly secrets of the pathogen labs |work=The Times | location = London }}</ref>
+|-
+| [[Institute for Animal Health]]
+| [[United Kingdom]], [[Pirbright]]
+| 4
+|
+|
+|
+|-
+| [[Defence Science and Technology Laboratory]]
+| [[United Kingdom]], [[Porton Down]]
+| 4
+|
+|
+|
+|-
+| [[Health Protection Agency]]
+| [[United Kingdom]], [[Porton Down]]
+| 4
+|
+|
+| Special Pathogens Reference Unit.
+|-
+| [[Health Protection Agency]]
+| [[United Kingdom]], [[Porton Down]]
+| 4
+|
+|
+| Botulism.
+|-
+| [[Centers for Disease Control and Prevention]]
+| [[United States]], [[Georgia (U.S. state)|Georgia]], [[Atlanta]]
+| 4
+|
+|
+| Currently operates in two buildings. One of two facilities in the world that officially hold [[smallpox]].
+|-
+| [[Georgia State University]]
+| [[United States]], [[Georgia (U.S. state)|Georgia]], [[Atlanta]]
+| 4
+|
+|
+| Is an older design "[[Biosafety_cabinet#Class_III|glovebox]]" facility.
+|-
+| [[National Bio and Agro-Defense Facility]] (NBAF), [[Kansas State University]]
+| [[United States]], [[Kansas]], [[Manhattan, Kansas|Manhattan]]
+| 2–4
+|
+|
+| Under construction.  Facility to be operated by the [[Department of Homeland Security]], and replace the [[Plum Island Animal Disease Center]] (which is not a BSL-4 facility).  Planned to be operational by 2015, but likely delayed.
+|-
+| [[National Institutes of Health]] (NIH)
+| [[United States]], [[Maryland]], [[Bethesda, Maryland|Bethesda]]
+| 4
+|
+|
+| Located on the NIH Campus, it currently only operates with BSL-3 agents.
+|-
+| Integrated Research Facility
+| [[United States]], [[Maryland]], [[Fort Detrick]]
+| 4
+|
+|
+| Under construction. This facility will be operated by [[National Institute of Allergy and Infectious Diseases]] (NIAID), it is planned to begin operating at 2009 at the earliest.
+|-
+| [[National Biodefense Analysis and Countermeasures Center]] (NBACC)
+| [[United States]], [[Maryland]], [[Fort Detrick]]
+| 4
+|
+|
+| Under construction, it will be operated for the [[Department of Homeland Security]].
+|-
+| [[US Army Medical Research Institute of Infectious Diseases]] (USAMRIID)
+| [[United States]], [[Maryland]], [[Fort Detrick]]
+| 4
+|
+|
+| Old building
+|-
+| [[US Army Medical Research Institute of Infectious Diseases]] (USAMRIID)
+| [[United States]], [[Maryland]], [[Fort Detrick]]
+| 4
+|
+|
+| New building, currently under design construction
+|-
+| [[National Emerging Infectious Diseases Laboratory]] (NEIDL), [[Boston University]]
+| [[United States]], [[Massachusetts]], [[Boston]]
+| 4
+|
+|
+| Under construction by [[Boston University]], building and staff training complete, waiting for regulatory approval.
+|-
+| NIAID Rocky Mountain Laboratories
+| [[United States]], [[Montana]], [[Hamilton, Montana|Hamilton]]
+| 4
+|
+|
+| National Institute of Allergy and Infectious Diseases
+|-
+| [[Kent State University, Kent Campus]]
+| [[United States]], [[Ohio]], [[Kent, Ohio|Kent]]
+| 3–4
+|
+|
+| Operates as a clean lab at level 3 for training purposes. Scheduled for conversion to a hot level 4 lab in response to a bioterrorism event in the USA.
+|-
+| [[Galveston National Laboratory]], National Biocontainment Facility
+| [[United States]], [[Texas]], [[Galveston, Texas|Galveston]]
+| 4
+|
+|
+| Opened in 2008, facility is operated by the [[University of Texas Medical Branch]].<ref>[http://www.utmb.edu/gnl/about/fact.shtml Galveston National Laboratory Fact Sheet]</ref>
+|-
+| Shope Laboratory
+| [[United States]], [[Texas]], [[Galveston, Texas|Galveston]]
+| 4
+|
+|
+| Operated by the [[University of Texas Medical Branch]] (UTMB).
+|-
+| [[Texas Biomedical Research Institute]]
+| [[United States]], [[Texas]], [[San Antonio]]
+| 3+4
+|
+|
+| The only privately owned BSL-4 lab in the US.
+|-
+
+| [[Division of Consolidated Laboratory Services]]
+| [[United States]], [[Virginia]], [[Richmond, Virginia|Richmond]]
+| 4
+|
+|
+| This facility is part of the Department of General Services of the Commonwealth of Virginia. It is so called "surge" BSL-4 capacity.
+|}
+
+== See also ==
+* [[Aeromedical Isolation Team]]
+* [[Biosafety]]
+* [[Biocontainment]]
+* [[Biological hazard]]
+* [[Laboratory Response Network]]
+* [[Safety engineering]]
+* [[Security engineering]]
+* [[Select agent]]
+
+== References ==
+
+{{Reflist|colwidth=40em}}
+
+== External links ==
+
+* The Sunshine Project: [http://www.sunshine-project.org/biodefense Map of US Biodefense Labs]
+* [http://www.interpol.org/Public/BioTerrorism/links/biocontainmentLab.asp Biocontainment laboratories @ the Interpol Bioterrorism Prevention Resource Centre]
+* [http://www2.gsu.edu/~wwwvir/index.html Georgia State University's National B Virus Resource Center (BSL4 Lab)]
+* [http://www.ffb.uni-karlsruhe.de/download/IMK_Ber._Nr._149_Kunkelmann_Brandschutz_in_Genlaboren_Teil_1-240.pdf Karlsruhe Institute of Technology (KIT) - Forschungsstelle für Brandschutztechnik: Research on fire protection and extinguishing systems in microbiological and genetic engineering laboratories.]
+* [http://www.fas.org/programs/bio/biosafetylevels.html Federation of American Scientists: Biosafety Level 3 and 4 Labs]
+* [http://www.TradelineInc.com/BIO2013 The 2013 International Conference on Biocontainment Facilities]
+* [http://www.TradelineInc.com/AmazonBSL3 eBook Reference: Management Principles for Building and Operating Biocontainment Facilities (Kindle Edition)]
+{{Bioterrorism}}
+
+{{DEFAULTSORT:Biosafety Level}}
+[[Category:Safety]]
+[[Category:Biological hazards]]
+
+[[simple:Biological hazard#Biosafety levels]]

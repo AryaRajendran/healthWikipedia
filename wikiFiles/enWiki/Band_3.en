@@ -1,0 +1,162 @@
+{{for|the radio frequency range|Band III}}
+
+{{PBB|geneid=6521}}
+{{protein
+| Name = solute carrier family 4 (anion exchanger), member 1, adapter protein
+| caption =
+| image = Alpha_Intercalated_Cell_Cartoon.svg
+| width = 250px
+| HGNCid = 13813
+| Symbol = SLC4A1AP
+| AltSymbols =
+| EntrezGene = 22950
+| OMIM = 602655
+| RefSeq = NM_018158
+| UniProt = P02730
+| PDB =
+| ECnumber =
+| Chromosome = 2
+| Arm = p
+| Band = 23.3
+| LocusSupplementaryData =
+}}
+'''Anion Exchanger 1''' ('''AE1''') or '''Band 3''' is a [[phylogenetically]] preserved [[Membrane transport protein|transport protein]] responsible for mediating the [[Secondary active transport#Antiport|exchange]] of [[chloride]] (Cl-) for [[bicarbonate]] (HCO3-) across a [[plasma membrane]]. Functionally similar members of the AE clade are [[SLC4A2|AE2]] and [[SLC4A3|AE3]].<ref>{{Cite pmid|19448077}}</ref>
+
+It is ubiquitous throughout the [[vertebrates]]. In [[humans]] it is present in two specific sites:
+* the [[erythrocyte]] (red blood cell) cell membrane and
+* the [[basolateral]] surface of the alpha-[[intercalated cell]] (the acid secreting cell type) in the [[collecting duct]] of the [[kidney]].
+
+The erythrocyte and kidney forms are different [[isoforms]] of the same [[protein]].<ref name="pmid3461480">{{cite journal | author = Schlüter K, Drenckhahn D | title = Co-clustering of denatured hemoglobin with band 3: its role in binding of autoantibodies against band 3 to abnormal and aged erythrocytes | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 83 | issue = 16 | pages = 6137–41 | year = 1986 | month = August | pmid = 3461480 | pmc = 386454 | doi =  10.1073/pnas.83.16.6137|bibcode = 1986PNAS...83.6137S }}</ref>
+
+==Discovery==
+AE1 was discovered following [[SDS-PAGE]] [[gel electrophoresis]] of erythrocyte [[cell membrane]]. The large 'third' band on the electrophoresis gel represented AE1, which was thus initially termed 'Band 3'.
+The chloride-bicarbonate exchanger in the red cell membrane is not a [[Ion pump (biology)|pump]], which would use metabolic energy. Nor is it strictly an [[enzyme]]. It is protein [[counter-transporter]], known as band III.<ref>{{cite journal | author = Hunter M | title = Human erythrocyte anion permeabilities measured under conditions of net charge transfer | journal = J Physiol | volume = 268 | issue = 1 | pages = 35–49 | year = 1977 | pmid = 874904 | pmc = 1283651}}</ref>
+
+==AE1 in Red Cells==
+AE1 is an important structural component of the erythrocyte cell membrane, making up to 25% of the cell membrane surface.  Each red cell contains approximately one million copies of AE1.
+
+===Function===
+Here it performs two functions:
+
+* Electroneutral chloride and bicarbonate exchange across the plasma membrane on a one-for-one basis.This is crucial for CO<sub>2</sub> uptake by the red cell and conversion (by hydration catalysed by [[carbonic anhydrase]]) into a [[proton]] and a [[bicarbonate]] ion. The bicarbonate is then extruded (in exchange for a chloride) from the cell by the band 3 molecule.
+
+* Physical linkage of the plasma membrane to the underlying membrane skeleton (via binding with [[ankyrin]] and [[protein 4.2]]). This appears to be to prevent membrane surface loss, rather than being to do with membrane skeleton assembly.
+
+===Pathology===
+Mutations of erythroid AE1 affecting the extracellular domains of the molecule may cause alterations in the individual's blood group, as band 3 determines the [[Diego antigen system|Diego]] [[Human blood group systems|blood group]].
+
+More importantly erythroid AE1 mutations cause between 15-25% of cases of [[Hereditary spherocytosis]] (a disorder associated with progressive red cell membrane loss), and also cause the hereditary conditions of [[Hereditary stomatocytosis]] <ref>{{cite journal
+ | quotes =
+ | author = LJ Bruce
+ | date =
+ | year = 2005
+ | month = November
+ | title = Monovalent cation leaks in human red cells caused by single [[amino acid]] substitutions in the transport domain of the band 3 chloride-bicarbonate exchanger, AE1
+ | journal = Nature Genetics
+ | volume = 37
+ | issue = 11
+ | pages = 1258–63
+ | doi = 10.1038/ng1656
+ | id =
+ | accessdate =
+ | pmid = 16227998
+ | last2 = Robinson
+ | first2 = HC
+ | last3 = Guizouarn
+ | first3 = H
+ | last4 = Borgese
+ | first4 = F
+ | last5 = Harrison
+ | first5 = P
+ | last6 = King
+ | first6 = MJ
+ | last7 = Goede
+ | first7 = JS
+ | last8 = Coles
+ | first8 = SE
+ | last9 = Gore
+ | first9 = DM
+ }}</ref> and Southeast Asian [[Ovalocytosis]] <ref>{{cite journal
+ | quotes =
+ | author = Jarolim p
+ | date =
+ | year = 1991
+ | month =
+ | title = Deletion in erythrocyte band 3 gene in malaria-resistant Southeast Asian ovalocytosis
+ | journal = PNAS
+ | volume = 88
+ | issue = 24
+ | pages = 11022–11026
+ | doi = 10.1073/pnas.88.24.11022
+ | id =
+ | url = http://www.pnas.org/cgi/content/abstract/88/24/11022
+ | accessdate =
+ | pmid = 1722314
+ | last2 = Palek
+ | first2 = J
+ | last3 = Amato
+ | first3 = D
+ | last4 = Hassan
+ | first4 = K
+ | last5 = Sapak
+ | first5 = P
+ | last6 = Nurse
+ | first6 = GT
+ | last7 = Rubin
+ | first7 = HL
+ | last8 = Zhai
+ | first8 = S
+ | last9 = Sahr
+ | first9 = KE
+ | pmc = 53065
+ | bibcode=1991PNAS...8811022J
+ }}</ref>
+
+==AE1 in Alpha-Intercalated cells==
+A different isoform of AE1, known as kAE1 (which is 65 amino acids shorter than erythroid AE1) is found in the [[basolateral]] surface of the alpha-intercalated cell in the [[cortical collecting duct]] of the kidney.
+
+===Function===
+This is the principal acid secreting cell of the kidney, which generates [[hydrogen]] ions and bicarbonate ions from carbon dioxide and water-a reaction catalysed by [[Carbonic anhydrase]].
+
+The hydrogen ions are pumped into the collecting duct tubule by [[vacuolar H+ATPase]], the apical [[proton pump]],which thus excretes acid into the [[urine]].
+
+kAE1 exchanges bicarbonate for chloride on the basolateral surface, essentially returning bicarbonate to the blood.
+
+===Pathology===
+Mutations of kidney AE1 cause distal (type1) [[renal tubular acidosis]], which is an inability to acidify the urine, even if the blood is too [[acid]].
+These mutations are disease causing as they cause mistargetting of the mutant band 3 proteins so that they are retained within the cell or occasionally addressed to the wrong (i.e. apical) surface.
+
+==Interactions==
+Band 3 has been shown to [[Protein-protein interaction|interact]] with [[Carbonic anhydrase II]]<ref name=pmid11606574>{{cite journal |last=Sterling |first=D |authorlink= |coauthors=Reithmeier R A, Casey J R |year=2001|month=Dec. |title=A transport metabolon. Functional interaction of carbonic anhydrase II and chloride/bicarbonate exchangers |journal=J. Biol. Chem. |volume=276 |issue=51 |pages=47886–94 |publisher= |location = United States| issn = 0021-9258| pmid = 11606574 |doi = 10.1074/jbc.M105959200 | bibcode = | oclc =| id = | url = | language = | accessdate = | laysummary = | laysource = | laydate = | quote = }}</ref><ref name=pmid9774471>{{cite journal |last=Vince |first=J W |authorlink= |coauthors=Reithmeier R A |year=1998|month=October |title=Carbonic anhydrase II binds to the carboxyl terminus of human band 3, the erythrocyte C1-/HCO3- exchanger |journal=J. Biol. Chem. |volume=273 |issue=43 |pages=28430–7 |publisher= |location = UNITED STATES| issn = 0021-9258| pmid = 9774471 | bibcode = | oclc =| id = | url = | language = | accessdate = | laysummary = | laysource = | laydate = | quote = |doi=10.1074/jbc.273.43.28430 }}</ref><ref name=pmid11063570>{{cite journal |last=Vince |first=J W |authorlink= |coauthors=Carlsson U, Reithmeier R A |year=2000|month=November |title=Localization of the Cl-/HCO3- anion exchanger binding site to the amino-terminal region of carbonic anhydrase II |journal=Biochemistry |volume=39 |issue=44 |pages=13344–9 |publisher= |location = UNITED STATES| issn = 0006-2960| pmid = 11063570 | bibcode = | oclc =| id = | url = | language = | accessdate = | laysummary = | laysource = | laydate = | quote = |doi=10.1021/bi0015111 }}</ref><ref name=pmid10820026>{{cite journal |last=Vince |first=J W |authorlink= |coauthors=Reithmeier R A |year=2000|month=May |title=Identification of the carbonic anhydrase II binding site in the Cl(-)/HCO(3)(-) anion exchanger AE1 |journal=Biochemistry |volume=39 |issue=18 |pages=5527–33 |publisher= |location = UNITED STATES| issn = 0006-2960| pmid = 10820026 | bibcode = | oclc =| id = | url = | language = | accessdate = | laysummary = | laysource = | laydate = | quote = |doi=10.1021/bi992564p }}</ref> and [[Carbonic anhydrase 4|CA4]].<ref name=pmid11994299>{{cite journal |last=Sterling |first=Deborah |authorlink= |coauthors=Alvarez Bernardo V, Casey Joseph R |year=2002|month=July |title=The extracellular component of a transport metabolon. Extracellular loop 4 of the human AE1 Cl-/HCO3- exchanger binds carbonic anhydrase IV |journal=J. Biol. Chem. |volume=277 |issue=28 |pages=25239–46 |publisher= |location = United States| issn = 0021-9258| pmid = 11994299 |doi = 10.1074/jbc.M202562200 | bibcode = | oclc =| id = | url = | language = | accessdate = | laysummary = | laysource = | laydate = | quote = }}</ref>
+
+==See also==
+* [[Cluster of differentiation]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.ncbi.nlm.nih.gov/projects/mhc/xslcgi.fcgi?cmd=bgmut/systems_info&system=diego Diego blood group system] at [[BGMUT]] Blood Group Antigen Gene Mutation Database at [[National Center for Biotechnology Information|NCBI]], [[NIH]]
+* {{MeshName|Band+3+Protein}}
+* {{MeshName|Chloride-Bicarbonate+Antiporters}}
+
+==Further reading==
+{{Refbegin | 2}}
+*{{cite journal  | author=Tanner MJ |title=Molecular and cellular biology of the erythrocyte anion exchanger (AE1) |journal=Semin. Hematol. |volume=30 |issue= 1 |pages= 34–57 |year= 1993 |pmid= 8434259 |doi=  }}
+*{{cite journal  | author=Chambers EJ, Askin D, Bloomberg GB, ''et al.'' |title=Studies on the structure of a transmembrane region and a cytoplasmic loop of the human red cell anion exchanger (band 3, AE1) |journal=Biochem. Soc. Trans. |volume=26 |issue= 3 |pages= 516–20 |year= 1998 |pmid= 9765907 |doi=  }}
+*{{cite journal  | author=Inaba M |title=[Band 3: expanding knowledge on its functions] |journal=Seikagaku |volume=73 |issue= 12 |pages= 1431–5 |year= 2002 |pmid= 11831035 |doi=  }}
+*{{cite journal  | author=Tanner MJ |title=Band 3 anion exchanger and its involvement in erythrocyte and kidney disorders |journal=Curr. Opin. Hematol. |volume=9 |issue= 2 |pages= 133–9 |year= 2002 |pmid= 11844997 |doi=10.1097/00062752-200203000-00009  }}
+*{{cite journal  | author=Shayakul C, Alper SL |title=Defects in processing and trafficking of the AE1 Cl-/HCO3- exchanger associated with inherited distal renal tubular acidosis |journal=Clin. Exp. Nephrol. |volume=8 |issue= 1 |pages= 1–11 |year= 2004 |pmid= 15067510 |doi= 10.1007/s10157-003-0271-x }}
+{{Refend}}
+{{PDB Gallery|geneid=6521}}
+
+{{Clusters of differentiation}}
+{{Ion pumps}}
+{{Solute carrier family|bg|bg0}}
+
+[[Category:Blood proteins]]
+[[Category:Blood antigen systems]]
+[[Category:Enzymes]]
+[[Category:Clusters of differentiation]]
+[[Category:Solute carrier family]]
+[[Category:Transfusion medicine]]

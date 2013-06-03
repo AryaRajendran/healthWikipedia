@@ -1,0 +1,46 @@
+{{Merge to|Neural coding|discuss=Talk:Neural coding#Merger possibilities|date=July 2010}}
+'''Population coding''' is a means by which information is coded in a group of neurons. In population coding, each neuron has a distribution of responses over some set of inputs, and the responses of many neurons may be combined to determine some value about the inputs. In one classic example in primary motor cortex, Georgopoulos and colleagues trained monkeys to move a joystick towards a lit target.<ref>[http://homepage.psy.utexas.edu/homepage/class/psy394U/hayhoe/IntroSensoryMotorSystems/week6/Ch38.pdf Intro to Sensory Motor Systems Ch. 38 page 766]</ref><ref>Science. 1986 Sep 26;233(4771):1416-9</ref> They found that a single neuron would fire for multiple target directions. However it would fire fastest for one direction and more slowly depending on how close the target was to the neuron's 'preferred' direction.
+
+Kenneth Johnson originally derived that if each neuron represents movement in its preferred direction, and the vector sum of all neurons is calculated (each neuron has a firing rate and a preferred direction), the sum points in the direction of motion. In this manner, the population of neurons codes the signal for the motion. This particular population code is referred to as population vector coding.  This particular study divided the field of motor physiologists between Evarts' "upper motor neuron" group, which followed the hypothesis that motor cortex neurons contributed to control of single muscles, and the Georgopoulos group studying the representation of movement directions in cortex. 
+
+Typically an encoding function has a peak value such that activity of the neuron is greatest if the perceptual value is close to the peak value, and becomes reduced accordingly for values less close to the peak value.
+
+It follows that the actual perceived value can be reconstructed from the overall pattern of activity in the set of neurons. The Johnson/Georgopoulos vector coding is an example of simple averaging. A more sophisticated mathematical technique for performing such a reconstruction is the method of [[maximum likelihood]] based on a multivariate distribution of the neuronal responses. These models can assume independence, second order correlations
+,<ref>{{Citation
+ | last = Schneidman, E, Berry, MJ, Segev, R, Bialek, W
+ | year = 2006
+ | title = Weak Pairwise Correlations Imply Strongly Correlated Network States in a Neural Population
+ | publisher = Nature 440, 1007-1012
+ | url = http://www.nature.com/nature/journal/v440/n7087/abs/nature04701.html
+ | postscript = <!--none-->
+}}</ref> or even more detailed dependencies such as higher order [[Maximum entropy probability distribution|maximum entropy models]]<ref>{{Citation
+ | last = Amari, SL
+ | year = 2001
+ | title = Information Geometry on Hierarchy of Probability Distributions
+ | publisher = IEEE Transactions on Information Theory 47, 1701-1711
+ | id = {{citeseerx|10.1.1.46.5226}}
+ | postscript = <!--none-->
+}}</ref> or [[Copula (statistics)|copulas]].<ref>{{Citation
+ | last = Onken, A, Grünewälder, S, Munk, MHJ, Obermayer, K
+ | year = 2009
+ | title = Analyzing Short-Term Noise Dependencies of Spike-Counts in Macaque Prefrontal Cortex Using Copulas and the Flashlight Transformation
+ | publisher = PLoS Comput Biol 5(11): e1000577
+ | url = http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000577
+ | postscript = <!--none-->
+}}</ref> 
+
+Contrast this with [[sparse coding]].
+
+==See also==
+*[[Rate coding]]
+*[[Temporal coding]]
+*[[Sparse coding]]
+*[[Independent-spike coding]]
+*[[Neural coding]]
+
+==References==
+* Dayan P & Abbott LF. ''Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems''. Cambridge, Massachusetts: The MIT Press; 2001. ISBN 0-262-04199-5
+* Rieke F, Warland D, de Ruyter van Steveninck R, Bialek W. ''Spikes: Exploring the Neural Code''. Cambridge, Massachusetts: The MIT Press; 1999. ISBN 0-262-68108-0
+<references/>
+
+[[Category:Neural coding]]

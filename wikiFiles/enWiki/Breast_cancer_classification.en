@@ -1,0 +1,424 @@
+'''Breast cancer classification''' divides [[breast cancer]] into categories according to different schemes, each based on different criteria and serving a different purpose. The major categories are the [[histopathology|histolopathological]] type, the [[Breast cancer classification#Grade|grade]] of the tumor, the [[Breast cancer classification#Stage|stage]] of the tumor, and the expression of [[protein]]s and [[gene]]s. As knowledge of cancer cell biology develops these classifications are updated.
+
+The purpose of classification is to select the best treatment. The effectiveness of a specific treatment is demonstrated for a specific breast cancer (usually by randomized, controlled trials). That treatment may not be effective in a different breast cancer. Some breast cancers are aggressive and life-threatening, and must be treated with aggressive treatments that have major adverse effects. Other breast cancers are less aggressive and can be treated with less aggressive treatments, such as lumpectomy. 
+
+Treatment [[algorithms]] rely on breast cancer classification to define specific subgroups that are each treated according to [[Evidence-based medicine|the best evidence available]].  Classification aspects must be carefully tested and validated, such that [[confounding|confounding effects]] are minimized, making them either true '''''[[prognosis|prognostic]] factors''''', which estimate disease outcomes such as disease-free or overall survival '''''in the absence of therapy''''', or true '''''predictive factors''''', which estimate the likelihood of response or lack of response '''''to a specific treatment'''''.<ref name="pmid17993229">{{cite journal|author=Gonzalez-Angulo AM, Morales-Vasquez F, Hortobagyi GN |title=Overview of resistance to systemic therapy in patients with breast cancer |journal=Adv. Exp. Med. Biol. |volume=608 |issue= |pages=1–22 |year=2007 |pmid=17993229 |doi= 10.1007/978-0-387-74039-3_1|url=|series=Advances in Experimental Medicine and Biology|isbn=978-0-387-74037-9}}</ref>
+
+Classification of breast cancer is usually, but not always, primarily based on the [[histological]] appearance of tissue in the tumor.  A variant from this approach, defined on the basis of [[physical exam]] findings, is that [[inflammatory breast cancer]] (IBC), a form of ductal carcinoma or malignant cancer in the ducts, is distinguished from other [[carcinoma]]s by the [[inflammation|inflamed]] appearance of the affected breast, which correlates with increased cancer aggressivity.<ref>{{cite journal |author=Giordano SH, Hortobagyi GN |title=Inflammatory breast cancer: Clinical progress and the main problems that must be addressed |journal=Breast Cancer Res. |volume=5 |issue=6 |pages=284–8 |year=2003 |pmid=14580242 |pmc=314400  |doi=10.1186/bcr608}}</ref>
+
+== Schemes or aspects ==
+
+=== Overview ===
+Breast cancers can be classified by different schemata. Each of these aspects influences treatment response and prognosis. Description of a breast cancer would optimally include all of these classification aspects, as well as other findings, such as signs found on [[physical exam]]. A full classification includes [[Breast cancer classification#Histopathology|histopathological type]], [[Breast cancer classification#Grade|grade]], [[Breast cancer classification#Stage|stage]] [[Breast cancer classification#TNM system|(TNM)]], [[Breast cancer classification#Receptor status|receptor status]], and the presence or absence of genes as determined by [[Breast cancer classification#DNA classification|DNA testing]]:
+
+*  '''Histopathology'''. Although breast cancer has many different [[Histopathology|histologies]], the considerable majority of breast cancers are derived from the epithelium lining the ducts or lobules, and are classified as [[mammary ductal carcinoma]]. ''[[Carcinoma in situ]]'' is proliferation of cancer cells within the epithelial tissue without invasion of the surrounding tissue. In contrast, ''invasive carcinoma'' invades the surrounding tissue.<ref>[http://www.merck.com/mmpe/sec18/ch253/ch253e.html Merck Manual, Professional Edition], Ch. 253, Breast Cancer.</ref> Perineural and/or [[lymphovascular space invasion]] is usually considered as part of the histological description of a breast cancer, and when present may be associated with more aggressive disease.
+
+* '''Grade'''. [[Breast cancer classification#Grade|Grading]] focuses on the appearance of the breast cancer cells compared to the appearance of normal breast tissue.  Normal cells in an organ like the breast become differentiated, meaning that they take on specific shapes and forms that reflect their function as part of that organ. Cancerous cells lose that differentiation. In cancer, the cells that would normally line up in an orderly way to make up the milk ducts become disorganized. Cell division becomes uncontrolled. Cell nuclei become less uniform. Pathologists describe cells as well differentiated (low grade), moderately differentiated (intermediate grade), and poorly differentiated (high grade) as the cells progressively lose the features seen in normal breast cells. Poorly differentiated cancers have a worse prognosis.
+
+*  '''Stage'''. The [[TNM classification]] for [[Cancer staging|staging]] [[Breast cancer classification#Staging|breast cancer]] is based on the size of the cancer where it originally started in the body and the locations to which it has travelled. These cancer characteristics are described as the size of the tumor (T), whether or not the tumor has spread to the [[lymph nodes]] (N) in the armpits, neck, and inside the chest, and whether the tumor has metastasized (M) (i.e. spread to a more distant part of the body). Larger size, nodal spread, and metastasis have a larger stage number and a worse prognosis. The main stages are:
+** Stage 0 which is in situ disease or [[Paget's disease of the nipple]]. Stage 0 is a pre-cancerous or marker condition, either [[ductal carcinoma in situ]] (DCIS) or [[lobular carcinoma in situ]] (LCIS).
+** Stages 1–3 are within the breast or regional lymph nodes.
+** Stage 4 is a [[metastasis|metastatic cancer]]. [[Metastatic breast cancer]] has a less favorable prognosis.
+
+* '''Receptor status'''. Cells have [[receptor (biochemistry)|receptors]] on their surface and in their [[cytoplasm]] and [[Cell nucleus|nucleus]]. Chemical messengers such as [[hormone]]s bind to receptors, and this causes changes in the cell. Breast cancer cells may or may not have many different types of receptors, the three most important in the present classification being: [[estrogen receptor]] (ER), [[progesterone receptor]] (PR), and [[HER2/neu]]. Cells with or without these receptors are called ER positive (ER+), ER negative (ER-), PR positive (PR+), PR negative (PR-), HER2 positive (HER2+), and HER2 negative (HER2-). Cells with none of these receptors are called basal-like or [[triple negative breast cancer|triple negative]].
+
+* '''DNA-based classification'''. Understanding the specific details of a particular breast cancer may include looking at the cancer cell [[DNA]] by several different laboratory approaches. When specific DNA mutations or gene expression profiles are identified in the cancer cells this may guide the selection of treatments, either by targeting these changes, or by predicting from the DNA profile which non-targeted therapies are most effective.
+
+* '''Other classification approaches'''.
+** Computer models such as Adjuvant! can combine the various classification aspects according to validated [[algorithm]]s and present visually appealing graphics that assist in treatment decisions.
+** The USC/Van Nuys prognostic index (VNPI) classifies [[ductal carcinoma in situ]] (DCIS) into dissimilar risk categories that may be treated accordingly.
+** The choice of which treatment to receive can be substantially influenced by [[comorbidity]] assessments.
+** Familial breast cancers may potentially undergo dissimilar treatment (such as [[mastectomy]]).
+== Histopathology ==
+Histopathologic classification is based upon characteristics seen upon [[Optical microscope|light microscopy]] of biopsy specimens. The three most common histopathological types collectively represent approximately three-quarters of breast cancers:
+
+* [[Invasive ductal carcinoma]] - 55% of breast cancers<ref name=USA-2004>Percentage values are from United States statistics 2004. Subtype specific incidences are taken from [http://cebp.aacrjournals.org/content/18/6/1763/T6.expansion.html Table 6] (invasive) and [http://cebp.aacrjournals.org/content/18/6/1763/T3.expansion.html Table 3] (in situ) from {{cite journal |author=Eheman CR, Shaw KM, Ryerson AB, Miller JW, Ajani UA, White MC |title=The changing incidence of in situ and invasive ductal and lobular breast carcinomas: United States, 1999–2004 |journal=Cancer Epidemiol. Biomarkers Prev. |volume=18 |issue=6 |pages=1763–9 |year=2009 |month=June |pmid=19454615 |doi=10.1158/1055-9965.EPI-08-1082 |url=}}. These are divided by total breast cancer incidence (211,300 invasive and 55,700 in situ cases) as reported from Breast Cancer Facts & Figures 2003–2004 [http://www.cancer.org/docroot/stt/content/stt_1x_breast_cancer_facts__figures_2003-2004.asp]</ref>
+* [[Ductal carcinoma in situ]] - 13%<ref name=USA-2004/>
+* [[Invasive lobular carcinoma]] - 5%<ref name=USA-2004/>
+
+The overall [[5-year survival]] rate for both invasive ductal carcinoma and invasive lobular carcinoma was approximately 85% in 2003.<ref>''NOTE: Number really refers to invasive ductal carcinoma, despite title.'' {{cite journal |author=Arpino G, Bardou VJ, Clark GM, Elledge RM |title=Infiltrating lobular carcinoma of the breast: tumor characteristics and clinical outcome |journal=Breast Cancer Res. |volume=6 |issue=3 |pages=R149–56 |year=2004 |pmid=15084238 |pmc=400666 |doi=10.1186/bcr767 |url=}}</ref> Ductal carcinoma in situ, on the other hand, is in itself harmless, although if untreated approximately 60% of these low grade DCIS lesions will become invasive over the course of 40 years in follow-up.<ref>{{cite doi|10.1186/bcr842}} [http://breast-cancer-research.com/content/6/S1/P23]</ref>
+
+=== WHO classification ===
+The 2003 [[World Health Organization]] (WHO) classification of tumors of the breast<ref>{{cite book |author=Peter Devilee; Fattaneh A. Tavassoli |title=World Health Organization: Tumours of the Breast and Female Genital Organs |publisher=Oxford University Press |location=Oxford [Oxfordshire] |year=2003 |isbn=92-832-2412-4 }}</ref> which includes '''benign''' (harmless) tumors and '''malignant'''  (cancerous) tumors,  recommends the following pathological types:
+
+{{col-begin}}
+{{col-break}}
+'''Invasive breast carcinomas'''
+* [[Invasive ductal carcinoma]]
+** Most are "not otherwise specified"
+** The remainder are given subtypes:
+*** Mixed type carcinoma
+*** [[Pleomorphism (cytology)|Pleomorphic]] carcinoma
+*** Carcinoma with [[osteoclast]] giant cells
+*** Carcinoma with [[choriocarcinoma]] features
+*** Carcinoma with melanotic features
+* [[Invasive lobular carcinoma]]
+* Tubular carcinoma
+* Invasive cribriform carcinoma
+* [[Medullary carcinoma]]
+* Mucinous carcinoma and other tumours with abundant [[mucin]]
+** [[Mucinous carcinoma]]
+** [[Cystadenocarcinoma]] and [[columnar]] cell [[mucinous carcinoma]]
+** [[Signet ring cell carcinoma]]
+* [[Neuroendocrine]] tumours
+** Solid [[neuroendocrine tumor|neuroendocrine]] carcinoma ([[carcinoid]] of the breast)
+** Atypical [[carcinoid]] tumor
+** Small cell / [[oat cell carcinoma]]
+** Large cell [[neuroendocrine tumor|neuroendocrine carcinoma]]
+* Invasive papillary carcinoma
+* Invasive micropapillary carcinoma
+* [[Apocrine]] carcinoma
+* [[Metaplasia|Metaplastic]] carcinomas
+** Pure [[epithelial]] [[metaplasia|metaplastic]] carcinomas
+*** [[Squamous cell carcinoma]]
+*** [[Adenocarcinoma]] with [[spindle cell]] [[metaplasia]]
+*** [[Adenosquamous carcinoma]]sukers
+*** [[Mucoepidermoid carcinoma]]
+** Mixed [[epithelial]]/[[mesenchymal]] [[metaplasia|metaplastic]] carcinomas
+* [[Lipid]]-rich carcinoma
+* Secretory carcinoma
+* [[Oncocytic carcinoma]]
+* [[Adenoid cystic carcinoma]]
+* [[Acinic cell carcinoma]]
+* [[Glycogen]]-rich clear cell carcinoma
+* [[Sebaceous carcinoma]]
+* [[Inflammatory breast cancer|Inflammatory carcinoma]]
+* Bilateral breast carcinoma
+
+'''Mesenchymal tumors''' (including [[sarcoma]])
+* [[Hemangioma]]
+* [[Angiomatosis]]
+* [[Hemangiopericytoma]]
+* [[Pseudoangiomatous stromal hyperplasia]]
+* [[Mammary myofibroblastoma|Myofibroblastoma]]
+* [[Fibromatosis]] (aggressive)
+* [[Inflammatory myofibroblastic tumor]]
+* [[Lipoma]]
+** [[Angiolipoma]]
+* [[Granular cell tumour]]
+* [[Neurofibroma]]
+* [[Schwannoma]]
+* [[Angiosarcoma]]
+* [[Liposarcoma]]
+* [[Rhabdomyosarcoma]]
+* [[Osteosarcoma]]
+* [[Leiomyoma]]
+* [[Leiomyosarcoma]]
+
+{{col-break}}
+'''Tumors of the male breast'''
+* [[Gynecomastia]] (benign)
+* [[Carcinoma]]
+** [[In situ]]
+** [[Invasive (cancer)|Invasive]]
+
+'''Malignant lymphoma'''
+* [[Non-Hodgkin lymphoma]]
+
+'''Metastatic tumors''' to the breast from other places in the body
+
+'''Precursor lesions'''
+* Lobular neoplasia
+** [[lobular carcinoma in situ]]
+* Intraductal proliferative lesions
+** Usual ductal [[hyperplasia]]
+** Flat epithelial hyperplasia
+** [[Atypical ductal hyperplasia]]
+** [[Ductal carcinoma in situ]]
+* Microinvasive carcinoma
+* [[Intraductal papilloma|Intraductal papillary neoplasms]]
+** Central [[papilloma]]
+** Peripheral papilloma
+** Atypical papilloma
+** Intraductal papillary carcinoma
+** Intracystic papillary carcinoma
+
+'''Benign epithelial lesions'''
+* [[Adenosis]], including variants
+** [[Sclerosis (medicine)|Sclerosing]] adenosis
+** [[Apocrine]] [[adenosis]]
+** Blunt duct [[adenosis]]
+** Microglandular [[adenosis]]
+** Adenomyoepithelial [[adenosis]]
+* Radial scar / complex [[Sclerosis (medicine)|sclerosing]] lesion
+* [[Adenoma]]s
+** [[Tubular adenoma]]
+** [[Lactating]] adenoma
+** [[Apocrine]] adenoma
+** [[Pleomorphic adenoma]]
+** Ductal adenoma
+
+'''Myoepithelial lesions'''
+* Myoepitheliosis
+* Adenomyoepithelial adenosis
+* [[Adenomyoepithelioma of the breast|Adenomyoepithelioma]]
+* Malignant myoepithelioma
+
+'''Fibroepithelial tumours'''
+* [[Fibroadenoma]]
+* [[Phyllodes tumour]]
+** [[Benign]]
+** [[Borderline (cancer)|Borderline]]
+** [[Malignant]]
+* Periductal stromal [[sarcoma]], low grade
+* Mammary [[hamartoma]]
+
+'''Benign tumors of the nipple'''
+* [[Nipple adenoma]]
+* [[Syringoma]]tous adenoma
+* [[Paget's disease of the breast|Paget's disease]] of the nipple
+'''Malignant tumors of the nipple'''
+* [[Paget's disease of the breast|Paget's disease]] of the nipple
+
+{{col-end}}
+
+== Grade ==
+
+The grading of a cancer in the breast depends on the microscopic similarity of breast cancer cells to normal breast tissue, and classifies the cancer as well differentiated (low grade), moderately differentiated (intermediate grade), and poorly differentiated (high grade), reflecting progressively less normal appearing cells that have a worsening prognosis. Although grading is fundamentally based on how biopsied, cultured cells behave, in practice the grading of a given cancer is derived by assessing the cellular appearance of the tumor. The closer the appearance of the cancer cells to normal cells, the slower their growth and the better the prognosis. If cells are not well differentiated, they will appear immature, will divide more rapidly, and will tend to spread. Well differentiated is given a grade of 1, moderate is grade 2, while poor or undifferentiated is given a higher grade of 3 or 4 (depending upon the scale used).
+
+The Nottingham (also called Elston-Ellis) modification<ref>Elston CW, Ellis IO. Pathologic prognostic factors in breast cancer. I. The value of histological grades in breast cancer. Experience from a large study with long-term follow-up. Histopathology 1991, 19:403-410.</ref> of the  [[Bloom-Richardson grade|Scarff-Bloom-Richardson grading system]],<ref name="BloomRichardson1957">{{cite pmid|13499785}}</ref><ref name="Genestie1998">{{cite pmid|9568179}}</ref>  is recommended,<ref name="NCCN-Breast2011-2" /> which grades breast carcinomas by adding up scores for [[Breast cancer classification#Tubule formation|tubule formation]], [[Breast cancer classification#Nuclear pleomorphism|nuclear pleomorphism]], and [[Breast cancer classification#Mitotic count|mitotic count]], each of which is given 1 to 3 points.  The scores for each of these three criteria and then added together to give an [[Breast cancer classification#Overall grade|overall final score and corresponding grade]] as follows.
+
+The grading criteria are as follows:
+
+=== Tubule formation ===
+This [[parameter]] assesses what percent of the tumor forms normal duct structures. In cancer, there is a breakdown of the mechanisms that cells use to attach to each other and communicate with each other, to form tissues such as ducts, so the tissue structures become less orderly.
+
+Note: The overall appearance of the tumor has to be considered.
+
+*1 point: tubular formation in more than 75% of the tumor
+*2 points: tubular formation in 10 to 75% of the tumor
+*3 points: tubular formation in less than 10% of the tumor
+
+=== Nuclear pleomorphism ===
+This [[parameter]] assesses whether the [[cell nucleus|cell nuclei]] are uniform like those in normal breast duct epithelial cells, or whether they are larger, darker, or irregular ([[pleomorphism (cytology)|pleomorphic]]). In cancer, the mechanisms that control [[gene]]s and [[chromosome]]s in the nucleus break down, and irregular nuclei and pleomorphic changes are signs of abnormal cell reproduction.
+
+Note: The [[cancer]] areas having cells with the greatest [[Atypia|cellular abnormalities]] should be evaluated.
+
+*1 point: nuclei with minimal variation in size and shape
+*2 points: nuclei with moderate variation in size and shape
+*3 points: nuclei with marked variation in size and shape
+
+=== Mitotic count ===
+This [[parameter]] assesses how many [[mitotic]] figures (dividing cells) the pathologist sees in 10 microscope fields. One of the hallmarks of cancer is that cells divide uncontrollably. The more cells that are dividing, the worse the cancer.
+
+Note: Mitotic figures are counted only at the periphery of the tumor, and counting should begin in the most mitotically active areas.
+
+*1 point: 0-9 mitotic counts per 10 fields under X25 objective using the Leitz Ortholux microscope, 0-5 mitotic counts per 10 fields under X40 objective using the Nikon Labophot microscope, or 0-11 mitotic counts per 10 fields under X40 objective using the Leitz Daiplan microscope
+*2 points: 10-19 mitotic counts per 10 fields under X25 objective using the Leitz Ortholux microscope, 6-10 mitotic counts per 10 fields under X40 objective using the Nikon Labophot microscope, or 12-22 mitotic counts per 10 fields under X40 objective using the Leitz Daiplan microscope
+*3 points: Over 19 mitotic counts per 10 fields under X25 objective using the Leitz Ortholux microscope, over 10 mitotic counts per 10 fields under X40 objective using the Nikon Labophot microscope, or over 22 mitotic counts per 10 fields under X40 objective using the Leitz Daiplan microscope
+
+=== Overall grade ===
+The scores for each of these three criteria are added together to give a final overall score and a corresponding grade as follows:
+
+* 3-5 '''Grade 1''' tumor ('''well-differentiated'''). Best [[prognosis]].
+* 6-7 '''Grade 2''' tumor ('''moderately-differentiated'''). Medium prognosis.
+* 8-9 '''Grade 3''' tumor ('''poorly-differentiated'''). Worst prognosis.
+
+Lower grade tumors, with a more favorable prognosis, can be treated less aggressively, and have a better survival rate. Higher grade tumors are treated more aggressively, and their intrinsically worse survival rate may warrant the adverse effects of more aggressive medications.
+
+== Stage ==
+
+[[cancer staging|Staging]]<ref name="whatis20100505">What is Cancer Staging? American Joint Committee on Cancer 2010 May 5.http://www.cancerstaging.org/mission/whatis.html</ref> is the process of determining how much cancer there is in the body and where it is located.  The underlying purpose of staging is to describe the extent or severity of an individual's cancer, and to bring together cancers that have similar [[prognosis]] and treatment.<ref name="whatis20100505" /> Staging of breast cancer is one aspect of breast cancer classification that assists in making appropriate treatment choices, when considered along with other classification aspects such as [[estrogen receptor]] and  [[progesterone receptor]] levels in the cancer tissue, the human epidermal growth factor receptor 2 ([[HER2/neu]]) status, menopausal status, and the person's general health.<ref name="NCI-stage">National Cancer Institute. Stage Information for Breast Cancer.http://www.cancer.gov/cancertopics/pdq/treatment/breast/healthprofessional/page3</ref>
+
+Staging information that is obtained prior to surgery, for example by mammography, x-rays and CT scans, is called clinical staging and staging by surgery is known as pathological staging.
+
+Pathologic staging is more accurate than clinical staging, but clinical staging is the first and sometimes the only staging type. For example, if clinical staging reveals stage IV disease, extensive surgery may not be not helpful, and (appropriately) incomplete pathological staging information will be obtained.
+
+=== TNM system ===
+{{Main|TNM staging system}}
+
+The [[American Joint Committee on Cancer]] (AJCC) and the [[International Union Against Cancer]] (UICC) recommend [[TNM staging system|TNM staging]], which is a two step procedure. Their TNM system, which they now develop jointly, first classifies cancer by several factors, '''T''' for '''t'''umor, '''N''' for '''n'''odes, '''M''' for '''m'''etastasis, and then groups these TNM factors into overall stages.
+
+Although TNM classification is an internationally agreed system, it has gradually evolved through its different editions; the dates of publication and of adoption for use of AJCC editions is summarized in the table in this article; past editions are available from AJCC for web download.<ref name="pastEd">American Joint Committee on Cancer. Past Editions of the AJCC Cancer Staging Manual available at http://www.cancerstaging.org/products/pasteditions.html</ref>
+
+AJCC has provided web accessible poster versions of the current versions of these copyrighted TNM descriptors and groups,<ref name="AJCC7-BR">AJCC Cancer Staging Manual, 7th edition, updated Cancer Staging Posters.http://www.cancerstaging.org/staging/posters/breast8.5x11.pdf</ref> and readers should refer to that up to date, accurate information<ref name="AJCC7-BR" /> or to the [[National Cancer Institute]] (NCI)<ref name="NCI-stage" /> or [[National Comprehensive Cancer Network]]<ref name="NCCN-Breast2011-2" />  sites which reprints these with AJCC permission.
+
+==== Stage migration ====
+Several factors are important when reviewing reports for individual breast cancers or when reading the medical literature, and applying staging data.
+
+{|class="wikitable floatright" style="text-align:center;font-size:90%;width:56%;margin-left:1em"
+! AJCC edition   !! published<ref name="pastEd" />   !! went into effect<ref name="pastEd" />   !! Breast cancer <br>link(s) and page numbers <br>in the original
+|-
+! 7
+| 2009
+| 2010
+| AJCC<ref name="AJCC7-BR" /> or NCI<ref name="NCI-stage" />
+|-
+! 6
+| 2002
+| 2003
+| AJCC;<ref name="AJCC6-BR">AJCC Cancer Staging Manual 6th edition; Chapter 25; Breast Cancer&nbsp;– original pages 223-240 http://www.cancerstaging.org/products/csmanual6ed-4.pdf</ref>  original pages 223-240
+|-
+! 5
+| 1997
+| 1998
+| AJCC;<ref name="AJCC5-BR">AJCC Cancer Staging Manual 5th edition; Chapter 25; Breast Cancer&nbsp;– original pages 171-180 http://www.cancerstaging.org/products/csmanual5ed_4.pdf</ref> original pages 171-180
+|-
+! 4
+| 1992
+| 1993
+| AJCC;<ref name="AJCC4-BR">AJCC Cancer Staging Manual 4th edition; Chapter 25; Breast Cancer&nbsp;– original pages 149-154 http://www.cancerstaging.org/products/csmanual4ed_2.pdf</ref>  original pages 149-154
+|-
+! 3
+| 1988
+| 1989
+| AJCC;<ref name="AJCC3-BR">AJCC Cancer Staging Manual 3rd edition; 1988; Chapter 23; Breast Cancer-original pages 145-150 http://www.cancerstaging.org/products/csmanual3ed_2.pdf</ref>  original pages 145-150
+|-
+! 2
+| 1983
+| 1984
+| AJCC;<ref name="AJCC2-BR">AJCC Cancer Staging Manual 2nd edition; 1983; Chapter 21; Breast Cancer-original pages 127-134 http://www.cancerstaging.org/products/csmanual2ed.pdf</ref>  original pages 127-134
+|-
+! 1
+| 1977
+| 1978
+| AJCC;<ref name="AJCC1-BR">AJCC Cancer Staging Manual 1977; Chapter 12; Breast Cancer-original pages 101-108 http://www.cancerstaging.org/products/csmanual1ed.pdf</ref>  original pages 101-108
+|-
+|}
+
+It is crucial to be aware that the  TNM system criteria have varied over time, sometimes fairly substantially, according to the different editions that [[AJCC]] and [[UICC]] have released.<ref name="pastEd" />  Readers are assisted by the provision in the table of direct links to the breast cancer chapters of these various editions.
+
+As a result, a given stage may have quite a different prognosis depending on which staging edition is used, independent of any changes in diagnostic methods or treatments, an effect that can contribute to [[Cancer staging|
+"stage migration"]].<ref name="pmid4000199">{{Cite doi|10.1056/NEJM198506203122504}}</ref> For example, differences in the 1998 and 2003 categories resulted in many cancers being assigned differently, with apparent improvement in survival rates.<ref name="pmid12947058">{{Cite doi|10.1200/JCO.2003.03.052}}</ref>
+
+As a practical matter, reports often use the staging edition that was in place when the study began, rather than the date of acceptance or publication. However, it is worth checking whether the author updated the staging system during the study, or modified the usual classification rules for specific use in the investigation.
+
+A different effect on staging arises from evolving technologies that are used to assign patients to particular categories, such that increasingly sensitive methods tend to cause individual cancers to be reassigned to higher stages, making it improper to compare that cancer's prognosis to the historical expectations for that stage.
+
+Finally, of course, a further important consideration is the effect of improving treatments over time as well.
+
+==== TNM highlights ====
+For accurate, complete, current details refer to the accessible copyrighted documentation from AJCC,<ref name="AJCC7-BR" /> or to the authorized documentation from NCI<ref name="NCI-stage" /> or [[National Comprehensive Cancer Network|NCCN]];<ref name="NCCN-Breast2011-2" /> for past editions refer to AJCC.<ref name="pastEd" />
+The comments here highlight selected features of the 2010 scheme:
+
+'''T'''umor&nbsp;– The [[tumor]] values (TX, T0, Tis, T1, T2, T3 or T4) depend on the cancer at the primary site of origin in the breast.  TX refers to an inability to assess that site; Tis refers to [[Ductal carcinoma|DCIS]], [[LCIS]], or [[Paget's disease of the breast|Paget's disease]]; T4d refers to [[inflammatory breast cancer]], a clinical circumstance where typical skin changes involve at least a third of the breast.
+
+Lymph '''N'''ode&nbsp;– The [[lymph node]] values (NX, N0, N1, N2 or N3) depend on the number, size and location of breast cancer cell deposits in various regional lymph nodes, such as the armpit ([[axilla|axillary lymph nodes]]), the collar area ([[supraclavicular fossa|supraclavicular lymph nodes]]), and inside the chest (internal mammary lymph nodes.)<ref name="pmid3347753">{{cite journal |author=Scatarige JC, Fishman EK, Zinreich ES, Brem RF, Almaraz R |title=Internal mammary lymphadenopathy in breast carcinoma: CT appraisal of anatomic distribution |journal=Radiology |volume=167 |issue=1 |pages=89–91 |year=1988 |month=April |pmid=3347753 |doi= |url=}}</ref><ref name="pmid2217975">{{cite journal |author=Scatarige JC, Boxen I, Smathers RL |title=Internal mammary lymphadenopathy: imaging of a vital lymphatic pathway in breast cancer |journal=Radiographics |volume=10 |issue=5 |pages=857–70 |year=1990 |month=September |pmid=2217975 |doi= |url=}} available as full text article with multiple images at http://radiographics.rsna.org/content/10/5/857.full.pdf</ref> The armpit is designated as having three levels: level I is the low axilla, and is below or outside the lower edge of the [[pectoralis minor]] muscle; level II is the mid-axilla which is defined by the borders of the pectoralis minor muscle; and level III, or high ([[wikt:apex|apical]]) axilla which is above the pectoralis minor muscle. There is some nuance to the official definitions for N0 disease, which includes N0(i+) which refers to Isolated Tumor Cell clusters (ITC), which are small clusters of cells not greater than 0.2&nbsp;mm, or single tumor cells, or a cluster of fewer than 200 cells in a single histologic cross-section, whether detected by [[H&E stain|routine histology]] or [[immunohistochemistry]] (IHC); N0 also includes N0(mol-), in which regional lymph nodes have no metastases histologically, but have positive molecular findings ([[RT-PCR]]).
+
+'''M'''etastases&nbsp;– Previous editions featured three [[metastatic]] values (MX, M0 and M1) which referred respectively to absence of adequate information, the confirmed absence, or the presence of breast cancer cells in locations other than the breast and regional lymph nodes, such as to bone, brain, lung. The present TNM edition no longer uses the MX option, and allocates tumors to one of three clinical categories: M0 refers to no clinical or radiographic evidence of distant metastases; cM0(i+) refers to molecularly or microscopically detected tumor cells in circulating blood, bone marrow or non-regional nodal tissue, no larger than 0.2&nbsp;mm, and without clinical or radiographic evidence or symptoms or signs of metastases, and which, perhaps counter-intuitively, does not change the stage grouping, as staging for in M0(i+) is done according to the T and N values; and M1, which refers to distant detectable metastases as determined by classic clinical and radiographic means, and/or metastasis that are histologically larger than 0.2&nbsp;mm.
+
+{|class="wikitable floatright" style="text-align:center;font-size:90%;width:37%;margin-left:2em"
+! Breast cancer stage <br> (AJCC 5th edition) !! 5-year overall survival <br>of over 50,000 patients <br>from 1989<ref name="Robbins8EdT24-3" />
+|-
+! Stage 0
+| 92%
+|-
+! Stage I
+| 87%
+|-
+! Stage II
+| 75%
+|-
+! Stage III
+| 46%
+|-
+! Stage IV
+| 13%
+|}
+
+==== Staging and prognosis ====
+The impact of different stages on outcome can be appreciated in the following table, published in a 2007 textbook,<ref name="Robbins8EdT24-3">{{cite book |last1=Kumar |first1=V |last2=Abbas |first2=AK |last3=Fausto |first3=N |last4=Mitchell |first4=R |title=Robbins Basic Pathology. |chapter=19&nbsp;– The Female Genital System and Breast |page=749 |isbn=1416029737 |edition=8th}}</ref> which shows the observed 5-year overall survival of over 50,000 patients from 1989 who were reclassified using the AJCC 5th edition criteria; the data is also available in the AJCC source,<ref name="AJCC5-BR" />  which also gives the relative survival rate in comparison to an age-matched (actually, age- sex- and race-matched) population. This data is historical, does not show the influence of important additional factors such as [[estrogen receptor]] (ER) or [[HER2/neu]] receptor status, and does not reflect the impact of newer treatments.
+
+== Receptor status ==
+The [[receptor (biochemistry)|receptor]] status of [[breast cancer]]s has traditionally been identified by [[immunohistochemistry]] (IHC), which stains the cells based on the presence of [[estrogen]] [[estrogen receptor|receptors]] (ER), [[progesterone receptor|progesterone receptors]] (PR) and [[HER2]]. This remains the most common method of testing for receptor status, but DNA [[DNA microarray|multi-gene expression profiles]] can categorize breast cancers into molecular subtypes that generally correspond to IHC receptor status; one commercial source is the BluePrint test, as discussed in the [[Breast cancer classification#MammaPrint and BluePrint|following section]].
+
+Receptor status is a critical assessment for all breast cancers as it determines the suitability of using [[Targeted therapy|targeted treatments]] such as [[tamoxifen]] and or [[trastuzumab]]. These treatments are now some of the most effective [[adjuvant]] treatments of breast cancer. Estrogen receptor positive (ER+) cancer cells depend on estrogen for their growth, so they can be treated with drugs to reduce either the effect of estrogen (e.g. [[tamoxifen]]) or the actual level of estrogen (e.g. [[aromatase inhibitors]]), and generally have a better [[prognosis]]. Generally, prior to modern treatments, [[HER2|HER+]] had a worse prognosis,<ref name="sotirou">[http://content.nejm.org/cgi/content/full/360/8/790 Molecular origin of cancer: gene-expression signatures in breast cancer], Christos Sotirou and Lajos Pusztai, N Engl J Med 360:790 (2009 Feb 19)</ref> however HER2+ cancer cells respond to drugs such as the monoclonal antibody, [[trastuzumab]], (in combination with conventional chemotherapy) and this has improved the prognosis significantly.<ref>Romond EH, Perez EA, Bryant J, et al. Trastuzumab plus adjuvant chemotherapy for operable HER2+ breast cancer. N Engl J Med. 2005; 353:1673-1684 and supplementary appendix.</ref> Conversely, [[triple negative breast cancer|triple negative cancer]] (i.e. no positive receptors), lacking targeted treatments now has a comparatively poor [[prognosis]].<ref>{{cite journal |author= Dent R, Trudeau M, Pritchard KI, Hanna WM, Kahn HK ''et al'' |date= 2007-08-01 |title= Triple-Negative Breast Cancer: Clinical Features and Patterns of Recurrence |journal= Clinical Cancer Research |pmid= 17671126 |volume= 13 |issue= 15 Pt 1 |pages= 4429–4434 |publisher= American Association for Cancer Research |doi= 10.1158/1078-0432.CCR-06-3045
+}}</ref><ref>{{cite web|url=http://www.cancernetwork.com/display/article/10165/1340727?pageNumber=1 |title=Understanding and Treating Triple-Negative Breast Cancer |publisher=Cancer Network |date= |accessdate=2010-05-08}}</ref>
+
+[[Androgen receptor]] is expressed in 80-90% of ER+ breast cancers and 40% of "triple negative" breast cancers. Activation of androgen receptors appears to suppress breast cancer growth in ER+ cancer while in ER- breast it appears to act as growth promoter. Efforts are underway to utilize this as prognostic marker and treatment.<ref name=Lehman_2011/><ref name=Hu_2011>{{cite pmid| 21325075}}</ref>
+
+=== Molecular subtype ===
+[[receptor (biochemistry)|Receptor]] status was traditionally considered by reviewing each individual receptor (ER, PR, her2) in turn, but newer approaches look at these together, along with the [[tumor]] [[Breast cancer classification#Grade|grade]], to categorize [[breast cancer]] into several conceptual molecular classes<ref name="Prat2011">{{Cite pmid|21147047}}</ref> that have different [[prognosis|prognoses]]<ref name="NCCN-Breast2011-2">National Comprehensive Cancer Network (NCCN) guidelines, Breast Cancer Version 2.2011 http://www.nccn.org/professionals/physician_gls/pdf/breast.pdf</ref> and may have different responses to specific therapies.<ref name="Geyer2009">{{cite pmid|19089743}}</ref>  [[DNA microarrays]] have assisted this approach, as discussed in the [[Breast cancer classification#DNA microarrays|following section]]. Proposed molecular subtypes include:
+
+* Basal-like: ER-, PR- and HER2-; also called [[triple negative breast cancer]] (TNBC)<ref name="Perou2011">{{Cite doi|10.1634/theoncologist.2011-S1-61}}</ref> Most [[BRCA1]] breast cancers are basal-like TNBC.
+* Luminal A: ER+ and low grade
+* Luminal B: ER+ but often high grade
+* Luminal ER-/AR+: (overlapping with apocrine and so called molecular apocrine) - recently identified androgen responsive subtype which may respond to antihormonal treatment with [[bicalutamide]]<ref name=Lehman_2011>{{cite pmid|21633166}}</ref>
+* ERBB2/HER2+: has amplified [[HER2/neu]]<ref name="sotirou"/>
+* Normal breast-like<ref name="NCCN-Breast2011-2" /><ref name="Prat2011" /><ref name="Ross2009">{{Cite pmid|19546609}}</ref>
+* [[Claudin]]-low: a more recently described class; often triple-negative, but distinct in that there is low expression of [[Tight junction protein 1|cell-cell junction proteins]]<ref name="Perou2011" /> including [[E-cadherin]]<ref name="Perou2011" /> and frequently there is infiltration with [[lymphocyte]]s.<ref name="Prat2011" /><ref name="Herschkowitz2011">{{Cite doi|10.1073/pnas.1018862108}}</ref><ref name="Harrell2011">{{Cite pmid|21671017}}</ref>
+
+== DNA classification ==
+
+=== Traditional DNA classification ===
+Traditional [[DNA]] [[Categorization|classification]] was based on the general observation that cells that are [[mitosis|dividing]] more quickly have a worse [[prognosis]], and relied on either the presence of protein [[Ki67]] or the percentage of cancer cell DNA in [[S phase]]. These methods, and scoring systems that used DNA [[ploidy]], are used much less often now, as their [[predictive]] and [[prognostic]] power was less substantial than other classification schemes such as the [[TNM staging system|TNM stage]]. In contrast, modern DNA analyses are increasingly relevant in defining underlying [[cancer]] biology and in helping choose treatments.<ref name="pmid10963602">{{cite journal |author=Perou CM, Sørlie T, Eisen MB, ''et al.'' |title=Molecular portraits of human breast tumours |journal=Nature |volume=406 |issue=6797 |pages=747–52 |year=2000 |month=August |pmid=10963602 |doi=10.1038/35021093 |url=}}</ref><ref name="pmid16518056">{{cite journal |author=Nagasaki K, Miki Y |title=Gene expression profiling of breast cancer |journal=Breast Cancer |volume=13 |issue=1 |pages=2–7 |year=2006 |pmid=16518056 |doi= 10.2325/jbcs.13.2|url=}}</ref><ref name="pmid20130425">{{cite journal |author=Normanno N, De Luca A, Carotenuto P, Lamura L, Oliva I, D'Alessio A |title=Prognostic applications of gene expression signatures in breast cancer |journal=Oncology |volume=77 Suppl 1 |issue= |pages=2–8 |year=2009 |pmid=20130425 |doi=10.1159/000258489 |url=}}</ref><ref name="pmid20576095">{{cite journal |author=Jönsson G, Staaf J, Vallon-Christersson J, ''et al.'' |title=Genomic subtypes of breast cancer identified by array-comparative genomic hybridization display distinct molecular and clinical characteristics |journal=Breast Cancer Res. |volume=12 |issue=3 |pages=R42 |year=2010 |pmid=20576095 |pmc=2917037 |doi=10.1186/bcr2596 }}</ref>
+
+=== HER2/neu ===
+[[HER2/neu]] status can be analyzed by [[fluorescent in-situ hybridization]] (FISH) assays.<ref name="NCCN-Breast2011-2" /> Some commentators prefer this approach, claiming a higher correlation than receptor [[immunohistochemistry]] with response to [[trastuzumab]], a targeted therapy, but guidelines permit either testing method.<ref name="NCCN-Breast2011-2" />
+
+=== DNA microarrays ===
+
+==== Background ====
+[[Image:Bc-classification.png|right|thumb|Molecular classification of breast cancer from mRNA expression profiles]]
+[[DNA microarrays]] have compared normal cells to breast cancer cells and found differences in the expression of hundreds of [[gene]]s.  Although the significance of many of those genetic differences is unknown, independent analyses by different research groups has found that certain groups of genes have a tendency to co-express.  These co-expressing [[Genetic cluster|cluster]]s have included [[hormone]] [[receptor (biochemistry)|receptor-related]] genes, [[HER2]]-related genes, a group of basal-like genes, and [[Cell proliferation|proliferation]] genes. As might therefore be anticipated, there is considerable similarity between the receptor and microarray classifications, but assignment of individual tumors is by no means identical. By way of illustration, some analyses have suggested that approximately 75% of receptor classified [[triple-negative breast cancer]]s (TNBC) basal-like [[tumor]]s have the expected DNA expression profile, and a similar 75% of tumors with a typical basal-like DNA expression profile are receptor TNBC as well. To say this differently to emphasize things, this means that 25% of triple-negative breast cancer (TNBC) basal-like tumors as defined by one or other classification are excluded from the alternative classification's results. Which classification scheme (receptor [[immunohistochemistry|IHC]] or [[DNA microarrays|DNA expression profile]]) more reliably assorts particular cancers to effective therapies is under investigation.
+
+Several commercially marketed [[DNA microarray]] tests analyze [[Genetic cluster|cluster]]s of [[gene]]s and may help decide which possible treatment is most effective for a particular [[cancer]].<ref name="pmid20065178">{{cite journal |author=Sparano JA, Solin LJ |title=Defining the clinical utility of gene expression assays in breast cancer: the intersection of science and art in clinical decision making |journal=J. Clin. Oncol. |volume=28 |issue=10 |pages=1625–7 |year=2010 |month=April |pmid=20065178 |doi=10.1200/JCO.2009.25.2882 |url=}}</ref>  The use of these assays in [[breast cancer]]s is supported by [[Evidence-based medicine#US Preventive Services Task Force|Level II evidence]] or [[Evidence-based medicine#US Preventive Services Task Force|Level III evidence]]. No tests have been verified by [[Evidence-based medicine#US Preventive Services Task Force|Level I evidence]], which is rigorously defined as being derived from a [[prospective cohort study|prospective]], [[randomized controlled trial]] where patients who used the test had a better outcome than those who did not.  Acquiring extensive Level I evidence would be clinically and ethically challenging. However, several validation approaches<ref name="pmid20392785">{{cite journal |author=Mandrekar SJ, Sargent DJ |title=Predictive biomarker validation in practice: lessons from real trials |journal=Clin Trials |volume=7 |issue=5 |pages=567–73 |year=2010 |month=October|pmid=20392785|doi=10.1177/1740774510368574 |url=}}</ref><ref name="pmid20981123">{{cite journal |author=Pharoah PD, Caldas C |title=Genetics: How to validate a breast cancer prognostic signature |journal=Nat Rev Clin Oncol |volume=7 |issue=11 |pages=615–6 |year=2010 |month=November|pmid=20981123|doi=10.1038/nrclinonc.2010.142 |url=}}</ref>  are being actively pursued.
+
+Numerous genetic profiles have been developed.<ref name="Ross2008">{{Cite doi|10.1634/theoncologist.2007-0248}}</ref><ref name="Albain2009">{{Cite pmid|19914534}}</ref> The most prominent are:
+
+* [[Oncotype DX]] is supported by [[Evidence-based medicine#US Preventive Services Task Force|Level II evidence]], and was originally designed for use in [[estrogen]] [[estrogen receptor|receptor]] (ER) positive tumors,<ref name="Fan2006">{{Cite pmid|16899776}}</ref> and has been endorsed by the [[American Society of Clinical Oncology]] (ASCO)<ref name="Ross2008" /><ref name="Harris2007 ">{{Cite doi|10.1200/JCO.2007.14.2364}}</ref> and the [[National Comprehensive Cancer Network|NCCN]].<ref name="NCCN-Breast2011-2" />
+* [[MammaPrint]] is supported by [[Evidence-based medicine#US Preventive Services Task Force|Level III evidence]], can be performed on [[estrogen]] [[estrogen receptor|receptor]] (ER) positive and negative tumors, and has [[Food and Drug Administration|FDA]] approval.
+* Two other tests also have [[Evidence-based medicine#US Preventive Services Task Force|Level III evidence]]: Theros and MapQuant Dx.<ref name="Hareyanon2008">Armen Hareyanon. MapQuant Dx Genomic Grade Test Identifies Breast Cancer Patients. 2008-06-02 http://www.emaxhealth.com/98/22731.html</ref><ref name="Filho2011 ">{{Cite pmid|20138540}}</ref><ref name="FilhoASCO2011">http://www.ipsogen.com/uploads/media/MQ_Feasibility_ASCO2011-Poster.pdf</ref>
+
+These multigene assays, some partially and some completely commercialized, have been scientifically reviewed to compare them with other standard [[Breast cancer classification#Overview|breast cancer classification]] methods such as [[Breast cancer classification#Grade|grade]] and [[Breast cancer classification#Receptor status|receptor status]].<ref name="Ross2009" /><ref name="Albain2009" /> Although these [[DNA microarray|gene-expression profile]]s look at different individual [[gene]]s, they seem to classify a given [[tumor]] into similar [[risk]] groups and thus provide [[Inter-rater reliability|concordant]] predictions of outcome.<ref name="NCCN-Breast2011-2" /><ref name="Fan2006" />
+
+Although there is considerable evidence that these tests can refine the treatment decisions in a meaningful proportion of breast cancers<ref name="Ross2008" /><ref name="Albain2009" /> they are fairly expensive; proposed selection criteria for which particular tumors may benefit by being interrogated by these assays<ref name="NCCN-Breast2011-2" /> remain [[Controversy|controversial]], particularly with [[lymph node]] positive cancers.<ref name="NCCN-Breast2011-2" /> One review characterized these genetic tests collectively as adding "modest [[prognostic]] information for patients with [[HER2]]-positive and triple-negative tumors, but when measures of clinical risk are equivocal (e.g., intermediate expression of ER and intermediate histologic grade), these assays could guide clinical decisions".<ref name="sotirou" />
+
+==== Oncotype DX ====
+{{main|Oncotype DX}}
+Oncotype DX assesses 16 cancer-related [[gene]]s and 5 normal comparator reference genes, and is therefore sometimes known as the 21-gene assay. It was designed for use in [[estrogen]] [[estrogen receptor|receptor]] (ER) positive [[tumor]]s.  The test is run on [[formalin]] fixed, paraffin-embedded tissue. Oncotype results are reported as a Recurrence Score (RS), where a higher RS is associated with a worse [[prognosis]], referring to the likelihood of recurrence without treatment. In addition to that [[prognostic]] role, a higher RS is also associated with a higher probability of response to [[chemotherapy]], which is termed a positive [[predictive]] factor.
+
+A summary of [[clinical trial]]s using Oncotype is included in the [[Oncotype DX|Oncotype DX main article]]. These results suggest that not only does Oncotype stratify estrogen-receptor positive breast cancer into different [[prognostic]] groups, but also suggest that cancers that have a particularly favorable Oncotype DX microarray result tend to derive minimal benefit from [[adjuvant]] [[chemotherapy]] and so it may be appropriate to choose to avoid side effects from that additional treatment. As an additional example, a [[neoadjuvant]] clinical treatment program that included initial chemotherapy followed by surgery and subsequent additional chemotherapy, [[radiotherapy]], and [[Hormonal therapy (oncology)|hormonal therapy]] found a strong correlation of the Oncotype [[Cancer#Classification|classification]] with the likelihood of a [[Response Evaluation Criteria in Solid Tumors|complete response]] (CR) to the presurgical chemotherapy.<ref name="pmid16145055">{{cite journal |author=Gianni L, Zambetti M, Clark K, ''et al.'' |title=Gene expression profiles in paraffin-embedded core biopsy tissue predict response to chemotherapy in women with locally advanced breast cancer |journal=J. Clin. Oncol. |volume=23 |issue=29 |pages=7265–77 |year=2005 |month=October |pmid=16145055 |doi=10.1200/JCO.2005.02.0818 |url=}}</ref>
+
+Since high risk features may already be evident in many high risk cancers, for example hormone-receptor negativity or [[HER-2]] positive disease, the Oncotype test may especially improve the risk assessment that is derived from routine clinical variables in intermediate risk disease.<ref name="pmid20665886">{{cite journal |author=Kelly CM, Krishnamurthy S, Bianchini G, ''et al.'' |title=Utility of oncotype DX risk estimates in clinically intermediate risk hormone receptor-positive, HER2-normal, grade II, lymph node-negative breast cancers |journal=Cancer |volume=116 |issue=22 |pages=5161–7 |year=2010 |month=November |pmid=20665886 |doi=10.1002/cncr.25269 |url=}}</ref> Results from both the US<ref name="Lo2010">{{Cite pmid|20065191}}</ref> and internationally<ref name="Albanell2011">{{Cite pmid|21652577}}</ref> suggest that Oncotype may assist in treatment decisions.<ref>New Mexico OncologyHematology Consultants, Ltd. Copyright held by CancerConsultants Breast Cancer Information Center.  European Study Reports that Oncotype DX Influences Breast Cancer Treatment Decisions. Posted 2010 October 17, accessioned 2010 Dec 19 and 2011 July 03 at http://nmcancercenter.org/european-study-reports-that-oncotype-dx%C2%AE-influences-breast-cancer-treatment-decisions/</ref>
+
+Oncotype DX has been endorsed by the [[American Society of Clinical Oncology]] (ASCO)<ref name="Ross2008" /><ref name="Harris2007 "/> and the [[National Comprehensive Cancer Network|NCCN]].<ref name="NCCN-Breast2011-2" />  The NCCN Panel considers the 21-gene assay as an option when evaluating certain [[tumor]]s<ref name="NCCN-Breast2011-2" /> to assist in estimating likelihood of recurrence and benefit from [[chemotherapy]], emphasizing that the recurrence score should be used along with other breast cancer [[breast cancer classification#Overview|classification]] elements when [[Stratified medicine|stratifying]] [[risk]].<ref name="NCCN-Breast2011-2" />  Oncotype fulfilled all California Technology Assessment Forum (CTAF) criteria in October 2006.<ref name="Tice-CTAF2010" /> The U.S. [[Food and Drug Administration]] (FDA) does not mandate approval of this class of tests if they are performed at a single, company-operated laboratory<ref name="FDA20070214">NCI Cancer Bulletin FDA Update 2007 February 14, Volume 4, Number 7 as retrieved 2010 October 17 at http://www.cancer.gov/aboutnci/ncicancerbulletin/archive/2007/021407/page5</ref>  Genomic Health, which developed Oncotype DX, offers the test under these so-called home brew rules and, accordingly, to that extent the Oncotype DX assay is not specifically FDA approved.<ref name="FDA20070214" />
+
+==== MammaPrint and BluePrint ====
+{{main|MammaPrint}}
+The MammaPrint gene pattern is a commercial-stage 70-[[gene]] panel marketed by Agendia,<ref name="AgendiaCompanyCharacterization">The mission of Agendia. Agendia web site.http://www.agendia.com/pages/mission/86.php</ref> that was developed in patients under age 55 years who had [[lymph node]] negative [[breast cancer]]s [[Breast cancer classification#Stage|(N0)]].<ref name="Tice-CTAF2010">Tice JA. The 70-Gene Signature (MammaPrint) as a Guide for the Management of Early Stage Breast Cancer. California Technology Assessment Forum. 2010 June 2nd. Full text accessioned 2010 Dec 19 at http://www.ctaf.org/content/assessments/detail/?id=1178</ref> The commercial test is marketed for use in breast cancer irrespective of [[estrogen]] [[estrogen receptor|receptor]] (ER) status.<ref name="Tice-CTAF2010" /> MammaPrint traditionally used rapidly frozen tissue<ref name="NCCN-Breast2011-2" /> but a room temperature, molecular [[Fixation (histology)|fixative]] is available for use within 60 minutes of obtaining fresh tissue samples.<ref name="AgendiaOrderingSymphony">Ordering Symphony is a simple process. Agendia web site.http://www.agendia.com/pages/ordering_symphony/38.php</ref> MammaPrint categorizes [[tumor]]s as either high or low [[risk]].
+
+A summary of [[clinical trial]]s using MammaPrint is included in the [[MammaPrint|MammaPrint main article]]. The available evidence for Mammaprint was reviewed by California Technology Assessment Forum (CTAF) in June 2010; the written report indicated that MammaPrint had not yet fulfilled all CTAF criteria.<ref name="Tice-CTAF2010" /> MammaPrint has 5 [[Food and Drug Administration|FDA]] clearances and is the only FDA cleared microarray assay available. To be eligible for the MammaPrint [[DNA microarray|gene expression profile]], a breast cancer should have the following characteristics:  [[Breast cancer classification#Stage|stage]] 1 or 2, tumor size less than 5.0&nbsp;cm, [[estrogen]] [[estrogen receptor|receptor]] positive (ER+) or estrogen receptor negative (ER-). In the US, the tumor should also be [[lymph node]] [[Breast cancer classification#Stage|negative (N0)]], but internationally the test may be performed if the lymph node status is negative or positive with up to 3 nodes.<ref name="AgendiaEligIntern">MammaPrint Patient Eligibility Internationally (Outside of the USA) http://www.agendia.com/pages/patient_eligibility_internationally/317.php</ref>
+
+One method of assessing the molecular subtype of a [[breast cancer]] is by BluePrint,<ref name="AgendiaBluePrint">Introducing BluePrint: A Molecular Subtyping Profile for Breast Cancer. Agendia web site.http://www.agendia.com/pages/blueprint/324.php</ref> a commercial-stage 80-gene panel marketed by Agendia, either as a standalone test, or combined with the [[MammaPrint]] gene profile.
+
+=== Other DNA assays and choice of treatment ===
+The choice of established chemotherapy medications, if chemotherapy is needed, may also be affected by DNA assays that predict relative resistance or sensitivity. [[Topoisomerase II]] (TOP2A) expression predicts whether [[doxorubicin]] is relatively useful.<ref>DNA topoisomerase II alfa expression and the response to primary chemotherapy in breast cancer. MacGrogan G et al. British Journal of Cancer 2003; 89: 666–671. {{doi|10.1038/sj.bjc.6601185}} www.bjcancer.com</ref><ref>Gene Review TOP2A&nbsp;– topoisomerase (DNA) II alpha 170kDa Homo sapiens as retrieved 2010 October 18 http://www.wikigenes.org/e/gene/e/7153.html</ref> Expression of genes that regulate [[tubulin]] may help predict the activity of [[taxane]]s.
+
+Various molecular pathway targets and DNA results are being incorporated in the design of clinical trials of new  medicines.<ref name="Alvarez2010">{{Cite pmid|20530283}}</ref>  Specific genes such as p53, NME1, BRCA and PIK3CA/Akt may be associated with responsiveness of the cancer cells to innovative research pharmaceuticals. [[BRCA1]] and [[BRCA2]] [[Polymorphism (biology)|polymorphic variants]] can increase the risk of breast cancer, and these cancers tend to express a pr ofile of genes, such as p53, in a pattern that has been called "BRCA-ness." Cancers arising from BRCA1 and BRCA2 mutations, as well as other cancers that share a similar "BRCA-ness" profile, including some basal-like receptor triple negative breast cancers, may respond to treatment with [[PARP|PARP inhibitors]]<ref>Tutt A J Clin Onc 2009; 27(suppl 15): abst CRA501</ref> such as [[olaparib]]. Combining these newer medicines with older agents such as [[6-Thioguanine]] (6TG) may overcome the resistance that can arise in BRCA cancers to PARP inhibitors or platinum-based chemotherapy.<ref name="pmid20631063">{{cite journal |author=Issaeva N, Thomas HD, Djureinovic T, ''et al.'' |title=6-thioguanine selectively kills BRCA2 defective tumours and overcomes PARP inhibitor resistance |journal=Cancer Res. |volume=70 |issue=15 |pages=6268–76 |year=2010 |month=August |pmid=20631063 |pmc=2913123 |doi=10.1158/0008-5472.CAN-09-3416 |url=}}Correction published at Correction: 6-Thioguanine Selectively Kills BRCA2-Defective Tumors and Overcomes PARP Inhibitor Resistance
+Cancer Res 2010 October 1;70:7734</ref> [[mTOR]] inhibitors such as [[everolimus]] may show more effect in PIK3CA/Akt e9 mutants than in e20 mutants or wild types.<ref>Baselga J et al. J Clin Oncol 2009; 27: 2630–2637.</ref>
+
+[[DNA methylation]] patterns can [[Epigenetics|epigenetically]] affect gene expression in breast cancer and may contribute to some of the observed differences between genetic subtypes.<ref name="pmid21092249">{{cite journal |author=D'Anello L, Sansone P, Storci G, ''et al.'' |title=Epigenetic control of the basal-like gene expression profile via Interleukin-6 in breast cancer cells |journal=Mol. Cancer |volume=9 |issue= |pages=300 |year=2010 |pmid=21092249 |pmc=3002335 |doi=10.1186/1476-4598-9-300 }}</ref>
+
+Tumors overexpressing the [[Wnt signaling pathway]] co-receptor [[LRP6|low-density lipoprotein receptor-related protein 6]] (LRP6) may represent a distinct subtype of breast cancer and a potential treatment target.<ref name="Liu2010">{{Cite pmid|20194742}}</ref>
+
+Numerous clinical investigations looked at whether testing for [[SNP genotyping|variant genotype]] [[Polymorphism (biology)|polymorphic]] [[alleles]] of several genes could predict whether or not to prescribe [[tamoxifen]]; this was based on possible differences in the rate of conversion of tamoxifen to the active metabolite, endoxifen.  Although some studies had suggested a potential advantage from [[CYP2D6]] testing, data from two large clinical trials found no benefit.<ref>Rae JM, Drury S, Hayes DF et al. Lack of Correlation between Gene Variants in Tamoxifen Metabolizing Enymes with Primary Endpoints in the ATAC Trial. 33rd Annual San Antonio Breast Cancer Symposium (SABCS): abstract S1-7 presented 2010 December 9; accessioned 2010 December 17 at http://www.abstracts2view.com/sabcs10/view.php?nu=SABCS10L_1093&terms=</ref><ref>Leyland-Jones B, Regan MM, Bouzyk M etal. Outcome According to CYP2D6 Genotype among Postmenopausal Women with Endocrine-Responsive Early Invasive Breast Cancer Randomized in the BIG 1-98 Trial. 33rd Annual San Antonio Breast Cancer Symposium (SABCS): abstract S1-8 presented 2010, December 9; accessioned 2010 December 17 at http://www.abstracts2view.com/sabcs10/view.php?nu=SABCS10L_556&terms=</ref> Testing for the [[CYP2C19|CYP2C19*2]] polymorphism gave counterintuitive results.<ref>Ruiter R; Bijl MJ; van Schaik RHN et al. CYP2C19*2 Polymorphism is Associated with Increased Survival in Breast Cancer Patients Using Tamoxifen. Pharmacogenomics. 2010;11(10):1367–1375.</ref> The medical utility of potential [[Biomarker (medicine)|biomarkers]] of tamoxifen responsiveness such as [[HOXB13]],<ref>Jerevall P; Jansson A; Fornander T et al. Predictive Relevance of HOXB13 Protein Expression for Tamoxifen Benefit in Breast Cancer. Breast Cancer Research. 2010;12(206)</ref> [[PAX2]],<ref>{{cite web |url=http://cordis.europa.eu/fetch?CALLER=EN_NEWS&ACTION=D&SESSION=&RCN=30093 |title=Study sheds new light on tamoxifen resistance |publisher=CORDIS : News|date=2008-11-13}}<br/>{{cite journal |author=Hurtado A, Holmes KA, Geistlinger TR, ''et al.'' |title=ERBB2 regulation by Estrogen Receptor-Pax2 determines tamoxifen response |journal=Nature |volume=456 |issue=7222 |pages=663–6 |year=2008|month=December |pmid=19005469 |pmc=2920208 |doi=10.1038/nature07483 }}</ref> and estrogen receptor (ER) alpha and beta [[isoforms]] interaction with [[Nuclear receptor coactivator 3|SRC3]]<ref name="pmid17158759">{{cite journal |author=Mc Ilroy M, Fleming FJ, Buggy Y, Hill AD, Young LS |title=Tamoxifen-induced ER-alpha-SRC-3 interaction in HER2 positive human breast cancer; a possible mechanism for ER isoform specific recurrence |journal=Endocr. Relat. Cancer |volume=13 |issue=4 |pages=1135–45 |year=2006 |month=December |pmid=17158759 |doi=10.1677/erc.1.01222 |url=}}</ref><ref name="pmid19456271">{{cite journal |author=Spears M, Bartlett J |title=The potential role of estrogen receptors and the SRC family as targets for the treatment of breast cancer |journal=Expert Opin. Ther. Targets |volume=13 |issue=6 |pages=665–74 |year=2009 |month=June |pmid=19456271 |doi=10.1517/14728220902911509 |url=}}</ref> have all yet to be fully defined.
+
+== Other classification approaches ==
+
+=== Computer models ===
+Computer models consider several traditional factors concurrently to derive individual survival predictions and calculations of potential treatment benefits. The validated [[algorithm]]s can present visually appealing graphics that assist in treatment decisions. <!-- image requested -->
+
+Adjuvant!<ref>http://www.adjuvantonline.com/use.jsp</ref> is based on US [[cohort study|cohorts]]<ref name="pmid11181660">{{cite journal |author=Ravdin PM, Siminoff LA, Davis GJ, ''et al.'' |title=Computer program to assist in making decisions about adjuvant therapy for women with early breast cancer |journal=J. Clin. Oncol. |volume=19 |issue=4|pages=980–91 |year=2001 |month=February |pmid=11181660|doi=|url=}}</ref> and presents colored bar charts that display information that may assist in decisions regarding [[systemic effect|systemic]] [[adjuvant]] therapies.  Successful validation was seen with Canadian<ref name="pmid15837986">{{cite journal |author=Olivotto IA, Bajdik CD, Ravdin PM, ''et al.''|title=Population-based validation of the prognostic model ADJUVANT! for early breast cancer |journal=J. Clin. Oncol. |volume=23 |issue=12 |pages=2716–25|year=2005 |month=April |pmid=15837986 |doi=10.1200/JCO.2005.06.178 |url=}}</ref> and Dutch<ref name="pmid19801202">{{cite journal |author=Mook S, Schmidt MK, Rutgers EJ, ''et al.'' |title=Calibration and discriminatory accuracy of prognosis calculation for breast cancer with the online Adjuvant! program: a hospital-based retrospective cohort study |journal=Lancet Oncol. |volume=10 |issue=11 |pages=1070–6 |year=2009 |month=November |pmid=19801202|doi=10.1016/S1470-2045(09)70254-2 |url=}}</ref> cohorts. Adjuvant! seemed less applicable to a British cohort<ref name="pmid19724274">{{cite journal|author=Campbell HE, Taylor MA, Harris AL, Gray AM |title=An investigation into the performance of the Adjuvant! Online prognostic programme in early breast cancer for a cohort of patients in the United Kingdom |journal=Br. J. Cancer |volume=101 |issue=7 |pages=1074–84 |year=2009 |month=October |pmid=19724274|pmc=2768087 |doi=10.1038/sj.bjc.6605283 |url=}}</ref> and accordingly PREDICT is being developed in the United Kingdom.<ref name="pmid20053270">{{cite journal |author=Wishart GC, Azzato EM, Greenberg DC, ''et al.'' |title=PREDICT: a new UK prognostic model that predicts survival following surgery for invasive breast cancer |journal=Breast Cancer Res. |volume=12 |issue=1 |pages=R1 |year=2010 |pmid=20053270 |pmc=2880419 |doi=10.1186/bcr2464 |url=}}</ref>
+
+=== Other immunohistochemical tests ===
+Among many [[immunohistochemistry|immunohistochemical]] tests that may further stratify [[prognosis]], [[BCL2]] has shown promise in preliminary studies.<ref name="pmid20664598">{{cite journal |author=Dawson SJ, Makretsov N, Blows FM, ''et al.'' |title=BCL2 in breast cancer: a favourable prognostic marker across molecular subtypes and independent of adjuvant therapy received |journal=Br. J. Cancer |volume=103 |issue=5 |pages=668–75 |year=2010|month=August |pmid=20664598 |pmc=2938244 |doi=10.1038/sj.bjc.6605736 |url=}}</ref>
+
+=== Van Nuys prognostic index ===
+
+The USC/Van Nuys prognostic index (VNPI) is widely used to classify [[ductal carcinoma in situ]] (DCIS) into dissimilar risk categories that may be treated accordingly.{{Expand section|date=August 2011}}
+
+=== Comorbidity assessments ===
+The choice of which treatment to receive can be substantially influenced by [[comorbidity]] assessments.  {{Expand section|date=August 2011}}
+
+=== Familial breast cancers ===
+There is some evidence that breast cancers that arise in familial [[cluster (epidemiology)|cluster]]s, such as
+[[Hereditary breast—ovarian cancer syndrome]], may have a dissimilar prognosis. Also potentially dissimilar treatment.
+{{Expand section|date=August 2011}}
+
+== References ==
+{{reflist|2}}
+
+{{Breast neoplasia}}
+
+[[Category:Breast neoplasia]]

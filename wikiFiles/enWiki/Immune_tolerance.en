@@ -1,0 +1,69 @@
+'''Immune tolerance''' or '''immunological tolerance''' is the process by which the [[immune system]] does not attack an [[antigen]].<ref>{{cite book|last=Pontell|first=Emile B.|title=Immune tolerance research developments|year=2008|publisher=Nova Biomedical|location=New York|isbn=1-60456-209-9}}</ref> It can be either 'natural' or 'self tolerance', in which the body does not mount an immune response to self antigens, or 'induced tolerance', in which tolerance to external antigens can be created by manipulating the immune system.  It occurs in three forms: central tolerance, peripheral tolerance and acquired tolerance.
+
+Genetic defects in these processes lead to [[autoimmunity]], such as in [[autoimmune polyendocrine syndrome type 1#Type 1|Autoimmune polyendocrine syndrome type 1]] (APS-1) and [[immunodysregulation polyendocrinopathy enteropathy X-linked syndrome]] (IPEX).
+
+==Central tolerance==<!-- This section is linked from [[Self tolerance]] -->
+
+[[Central tolerance]] occurs during lymphocyte development and operates in the thymus and bone marrow. Here, T and B lymphocytes that recognize self antigens are deleted before they develop into fully immunocompetent cells, preventing autoimmunity. This process is most active in fetal life, but continues throughout life as immature lymphocytes are generated.
+
+In mammals the process occurs in the [[thymus]] (T cells)<ref>{{cite journal |author=Sprent J, Kishimoto H |title=The thymus and central tolerance |journal=Philos Trans R Soc Lond B Biol Sci |volume=356 |issue=1409 |pages=609–16 |year=2001 |pmid=11375064 |doi=10.1098/rstb.2001.0846 |pmc=1088448}}</ref><ref>{{cite journal |author=Hogquist K, Baldwin T, Jameson S |title=Central tolerance: learning self-control in the thymus |journal=Nat Rev Immunol |volume=5 |issue=10 |pages=772–82 |year=2005 |pmid=16200080 |doi=10.1038/nri1707}}</ref> and [[bone marrow]] (B cells), when maturing [[lymphocytes]] are exposed to self antigens. Self antigens are present in both organs due to endogenous expression within the organ and importation of antigen due to circulation from peripheral sites. In the case of T cell central tolerance, additional sources of antigen are made available in the thymus by the action of the transcription factor [[Autoimmune Regulator|AIRE]].
+
+'''Positive selection''' occurs first when naive T-cells are exposed to antigens in the thymus. T-cells which have receptors with sufficient affinity for self-MHC molecules are selected. Many self protein antigens are processed and presented by thymic antigen presenting cells (APCs)in association with self MHC. Other cells that do not show sufficient affinity to self-antigens will undergo a deletion process known as '''death by neglect''' which involves apoptosis of the cells. The positive selection is a classical example of the importance of some degree of autorreactiveness. This does not occur in B cells.
+
+'''Negative selection''' of T-cells with a very high affinity of self-MHC molecules are induced to anergy, or lineage divergence to form T-regulatory cells. This process also occurs during B cell development.
+
+==Peripheral tolerance==<!-- This section is linked from [[Self tolerance]] -->
+[[Peripheral tolerance]] is immunological tolerance developed after T and B cells mature and enter the periphery.
+The T cells that leave the thymus are relatively but not completely safe.Some will have receptors(TCRs) that can respond to self antigens that:
+# are present in such high concentration that they can bind to "weak" receptors
+# the T cell did not encounter in the thymus (such as, tissue-specific molecules like those in the islets of Langerhans, brain or spinal cord)
+Those self reactive T cells that escape intrathymic negative selection in the thymus can inflict cell injury unless they are deleted or effectively muzzled in the peripheral tissue. Several back mechanism silence such potentially auto reactive T cells are known to exist. They include following:
+                   ♥Anergy
+                   ♠Activation-induced cell death
+                   ♣Peripheral supression cell death
+
+==Acquired tolerance==<!-- This section is linked from [[Induced tolerance]] -->
+{{Refimprove section|date=May 2011}}
+
+Acquired or induced tolerance refers to the immune system's adaptation to external [[antigens]] characterized by a specific non-reactivity of the lymphoid tissues to a given antigen that in other circumstances would likely induce cell-mediated or humoral immunity.  One of the most important natural kinds of acquired tolerance is [[immune tolerance in pregnancy]], where the [[fetus]] and the [[placenta]] must be tolerated by the maternal [[immune system]].
+
+In adults, tolerance may be induced by repeated administration of very large doses of antigen, or of small doses that are below the threshold required for stimulation of an immune response.{{Citation needed|date=September 2011}}  Tolerance is most readily induced by soluble antigens administered either [[intravenous]]ly or [[sublingual]]ly, but especially orally.{{Citation needed|date=September 2011}}  [[Immunosuppression]] also facilitates the induction of tolerance.{{Citation needed|date=September 2011}}
+
+In clinical practice, acquired tolerance(induced tolerance) is important in [[organ transplantation]], when the body must be forced to accept an organ from another individual. The failure of the body to accept an organ is known as [[transplant rejection]]. To prevent rejection, a variety of medicines are used to produce induced tolerance.<ref>{{Citation
+ | title = Textbook bof Pharmaceutical Biotechnology
+ | year =  2011
+ | author = Hurakadle, Kobkate Lalalpure
+ | pages = 22–23
+ | isbn = 81-312-2828-2
+ | sici = 9788131228289
+}}</ref>
+
+One of the most important forms of acquired tolerance is oral tolerance.<ref>{{cite journal |author=[[Lloyd Mayer|Mayer L]], Sperber K, Chan L, Child J, Toy L |year=2001 |title=Oral tolerance to protein antigens |journal=[[Allergy (journal)|Allergy]] |volume=56 |issue=s67 |pages=12–5 |doi=10.1111/j.1398-9995.2001.00904.x |pmid=11297999 }}</ref>  Oral tolerance, the specific suppression of cellular and/or humoral immune reactivity to an antigen by prior administration of the antigen by the oral route, probably evolved to prevent [[hypersensitivity]] reactions to food proteins and bacterial antigens present in the mucosal flora.<ref>{{cite journal |pmid=11032852 |pmc=314352 |doi=10.1172/JCI11348 |author=Wiener HL |title=Oral tolerance, an active immunologic process mediated by multiple mechanisms |date=October 2000 |journal=[[Journal of Clinical Investigation]] |volume=106 |issue=8 |pages=935–7 }}</ref>  It is of immense immunological importance, since it is a continuous natural immunologic event driven by exogenous antigen. Due to their privileged access to the internal milieu, antigens that continuously contact the [[mucosa]] represent a frontier between foreign and self components. Oral tolerance evolved to treat external agents that gain access to the body via a natural route as internal components without danger signals, which then become part of self.  Failure of oral tolerance is attributed to the development and pathogenesis of several immunologically based diseases, including [[inflammatory bowel disease]] ([[Crohn's disease]] and [[ulcerative colitis]]).
+
+==Immune tolerance to allografts==<!-- This section is linked from [immune tolerance to allografts]] -->
+There are many instance in which an [[allograft]] may be accepted without the use of immunosuppressive measure. Obviously, in the case of tissue that lack alloantigen, such as cartilage or heart valve, there is no immunological barrier to transplantation. However there are also instances in which the strong predicted response to an allograft does not occur. There are two general cases in which an allograft may be accepted. One is when cells or tissue are grafted to a so-called privileged site that is sequestered from immune surveillance. The second is when a state of tolerance has been induced biologically, usually by previous exposure to the antigen of the donor in a manner that cause immune tolerance rather than sensitization in the recipient.
+<ref>{{Citation
+ | title = immunology
+ | year =  2003
+ | author = richard a. goldsby, thomas j. kindt, barbara a. osborne, janis kuby
+ | pages = 494
+ | isbn = 978-0-7167-3331-7
+}}</ref>
+
+==See also==
+* [[Central tolerance]]
+* [[CD22]]
+* [[sialic acid acetylesterase]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.immunetolerance.org/ Immune Tolerance Network]
+*[http://www.immunetolerance.elsevier.com/ International Conference on Immune Tolerance]
+*{{MeshName|Immune+tolerance}}
+{{immune system}}
+
+[[Category:Immune system]]
+[[Category:Immunology]]
+[[Category:WikiProject Molecular and Cellular Biology articles]]
