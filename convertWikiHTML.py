@@ -5,7 +5,7 @@ from pijnu import makeParser
 
 def convertFromWikiToHTML(infile):
 
-    print "Converting from Wiki to HTML: ", infile
+    #print "Converting from Wiki to HTML: ", infile
 
     #print "Loading dependences."
     # get the parser
