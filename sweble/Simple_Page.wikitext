@@ -1,37 +1,42 @@
-{{cleanup|reason = expansion and more references needed|date=November 2011}}
-{{distinguish|Arteriolosclerosis}}
-{{Infobox Disease |
-  Name           = Arteriosclerosis|
-  Image          = |the image of the 
-  Caption        = |this is a rare condition of arteriosclerosis. It is called arteriosclerosis extremities.
-  DiseasesDB     = 1039 |
-  ICD10         ={{ICD10|I|70||i|70}}|
-  eMedicineTopic = |
-  MeshID         = D001161 |
-}}
-'''Arteriosclerosis''' refers to a thickening and hardening of [[arteries]].<ref>{{DorlandsDict|one/000008408|arteriosclerosis}}</ref> Arteriosclerosis is a general term describing any hardening (and loss of elasticity) of medium or large arteries (from the Greek ''αρτηρία'', meaning ''artery'', and ''σκληρωτικός'', meaning hardened). It should not be confused with "[[atherosclerosis]]," which is a specific form of arteriosclerosis caused by the build up of fatty plaques in the artery. Arteriosclerosis has also been called "myoconditis," but this term is no longer in general use.
+'''Δ<sub>P</sub>''' ('''Delta P''') is a mathematical term used to illustrate a change (Δ) in pressure (<sub>P</sub>).
 
-==Types==
-* [[Arteriosclerosis obliterans]] is typically seen in medium and large arteries of the lower extremity. Characterized by fibrosis of the intima and calcification of the media. The lumen of the vessel may be obliterated or markedly narrowed. 
-* [[Medial calcific sclerosis]] ([[Monckeberg’s calcific sclerosis]]) is seen mostly in the elderly, commonly in arteries of the extremities. Characterized by calcification of the [[Tunica media]] but without thickening of the intima or narrowing of the vessel lumen. A similar form of an intramural calcification, presenting the picture of an early phase of arteriosclerosis, appears to be induced by a number of drugs that have an antiproliferative mechanism of action.<ref>[http://www.rkliedtke.de/Arterial_Vascular_Effects_us.html Arterial Vascular Effects of Non-steroidal Antiphlogistic Drugs - A Biochemical Model on an Intramural Induction of Arteriosclerosis], Rainer K Liedtke, MD</ref><ref>J. G. Mönckeberg: ''Über die reine Mediaverkalkung der Extremitätenarterien und ihr Verhalten zur Arteriosklerose''. Virchows Archiv Jg. 1903, S. 141–167</ref>
+==Uses==
+*[[Young–Laplace equation]]
 
-==Etiology==
-The origin of the arteriosclerotic lesion could be the  endothelial dissemination. It is estimated that some tissue disorders may be initiation factors, combined with risk factors such as hypertension, promote more frequent occurrence of arteriosclerosis in some groups of individuals.
+===Darcy–Weisbach equation===
+As used in the '''[[Darcy–Weisbach equation]]''' — Given that the [[head loss]] ''h<sub>f</sub>'' expresses the [[pressure]] loss ''&Delta;p'' as the height of a column of fluid,
 
-== Treatment ==
-There is no medical treatment for atherosclerosis shown although more likely the drug being sought by the pharmaceutical industry.
-Drug therapy (antihyperlipidemic, antiplatelet or anticoagulant) serves to decrease its causes or its consequences.
-Surgical treatment is very resolute in ischemic heart disease and in other locations.
-Prophylactic treatment is to avoid the predisposing factors of the disease and complications of this: [[obesity]], [[hypertension]], [[sedentary lifestyle]], [[hyperglycemia]], [[hypercholesterolemia]], [[smoking]], etc..
+:<math>\Delta p = \rho \cdot g \cdot h_f</math>
 
-Researchers in China found that [[Lingzhi mushroom|reishi]] improves blood flow and low oxygen consumption of the heart muscle. Similar results were also found by Japanese scientists, who showed that reishi contains [[ganoderic acid]], which lowers blood pressure and cholesterol and inhibits platelet aggregation, which can lead to heart attack and other circulatory problems.
-Russian scientists have recently taken an interest in Reishi. They found that in addition to the cardiovascular benefits mentioned above, reishi has a significant preventive and therapeutic action against the construction of atheromatous plaques (the "plaque" is a kind of greasy rubber formed by the combination of oxidized cholesterol, calcium and [[White blood cell|WBC]]<!--correct?--> degenerate, is deposited on the walls of the arteries and restricts blood flow by narrowing the passage within arteries resulting in arteriosclerosis).
+where ρ is the density of the fluid, the Darcy–Weisbach equation can also be written in terms of pressure loss:
+
+:<math>\Delta p = f \cdot \frac{L}{D} \cdot \frac{\rho V^2}{2}</math>
+
+===Lung compliance===
+In general, compliance is defined by the change in volume ([[ΔV]]) versus the associated change in pressure (ΔP), or [[ΔV/ΔP]]. During [[mechanical ventilation]], compliance can be influenced by 3 key physiologic factors:
+#[[Lung compliance]]
+#[[Chest wall compliance]]
+#[[Airway resistance]]
+
+Lung compliance is influenced by a variety of primary abnormalities of [[lung parenchyma]], both chronic and acute. [[Airway resistance]] is typically increased by [[bronchospasm]] and airway secretions. Chest wall compliance can be decreased by fixed abnormalities (e.g. [[kyphoscoliosis]], [[morbid obesity]]) or more variable problems driven by patient agitation while intubated.<ref name="pmid21866369">{{cite journal| author=Dellamonica J, Lerolle N, Sargentini C, Beduneau G, Di Marco F, Mercat A et al.| title=PEEP-induced changes in lung volume in acute respiratory distress syndrome. Two methods to estimate alveolar recruitment. | journal=Intensive Care Med | year= 2011 | volume=  37| issue=  10| pages=  1595–604| pmid=21866369 | doi=10.1007/s00134-011-2333-y | pmc= | url= }}</ref>
+
+Calculating Compliance on [[minute volume]] (V<sub>E</sub>: [[ΔV]] is always defined by [[tidal volume]] (V<sub>T</sub>), but ΔP is different for the measurement of dynamic vs. static compliance.
+
+====Dynamic Compliance (C<sub>dyn</sub>)====
+<math>C_{dyn} = \frac{{V_T}}{{PIP-PEEP}}</math>
+
+where PIP = [[peak inspiratory pressure]] (the maximum pressure during inspiration), and PEEP = [[positive end expiratory pressure]]. Alterations in airway resistance, [[lung compliance]] and chest wall compliance influence C<sub>dyn</sub>.
+
+====Static Compliance (C<sub>stat</sub>)====
+:<math>C_{stat} = \frac{{V_T}}{{P_{plat}-PEEP}}</math>
+where P<sub>plat</sub> = plateau pressure. P<sub>plat</sub> is measured at the end of inhalation and prior to exhalation using an inspiratory hold maneuver. During this maneuver, airflow is transiently (~0.5 sec) discontinued, which eliminates the effects of airway resistance. P<sub>plat</sub> is never > PIP and is typically < 3-5 cmH<sub>2</sub>O lower than PIP when airway resistance is normal.
 
 ==References==
 {{reflist}}
 
-{{Vascular diseases}}
+[[Category:Mathematical notation]]
+[[Category:Respiratory therapy]]
+[[Category:Mathematics in medicine]]
 
 
-[[Category:Vascular diseases]]
-[[Category:Medical conditions related to obesity]]
+{{Math-stub}}
